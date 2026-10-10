@@ -1,0 +1,36 @@
+#!/usr/bin/env python3
+# SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+# SPDX-License-Identifier: GPL-3.0-only
+
+"""A stand-in for `oa-tool pack` that writes a zip of the folder."""
+
+from __future__ import annotations
+
+import sys
+import zipfile
+from pathlib import Path
+
+
+def main(argv: list[str]) -> int:
+    if argv[:1] != ["pack"] or "--out" not in argv or "--force" not in argv or len(argv) < 2:
+        print("oa-tool pack FOLDER --out FILE --force", file=sys.stderr)
+        return 2
+    folder = Path(argv[1])
+    out = Path(argv[argv.index("--out") + 1])
+    if not folder.is_dir():
+        print(f"no folder {folder}", file=sys.stderr)
+        return 1
+    out.parent.mkdir(parents=True, exist_ok=True)
+    with zipfile.ZipFile(out, "w") as archive:
+        files = sorted(path for path in folder.rglob("*") if path.is_file())
+        for path in files:
+            info = zipfile.ZipInfo(path.relative_to(folder).as_posix())
+            info.date_time = (1980, 1, 1, 0, 0, 0)
+            info.compress_type = zipfile.ZIP_DEFLATED
+            info.external_attr = 0o644 << 16
+            archive.writestr(info, path.read_bytes())
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv[1:]))

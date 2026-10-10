@@ -1,0 +1,29 @@
+{
+  "downloads": [
+    {
+      "file": "NotoSansCJK-Bold-2.004.ttc",
+      "sha256": "faa5f3656a78b2e2d450d27fe8382c778bc2b6bb5ea29c986664a6a435056ceb",
+      "url": "https://github.com/notofonts/noto-cjk/raw/Sans2.004/Sans/OTC/NotoSansCJK-Bold.ttc"
+    },
+    {
+      "file": "NotoSansCJK-2.004-LICENSE",
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+      "url": "https://github.com/notofonts/noto-cjk/raw/Sans2.004/LICENSE"
+    },
+    {
+      "file": "Unihan-16.0.0.zip",
+      "sha256": "b8f000df69de7828d21326a2ffea462b04bc7560022989f7cc704f10521ef3e0",
+      "url": "https://www.unicode.org/Public/16.0.0/ucd/Unihan.zip"
+    }
+  ],
+  "fonts": {
+    "NotoSansCJKsc-Bold.otf": {
+      "characters": "common-cjk",
+      "count": 15309,
+      "download": "NotoSansCJK-Bold-2.004.ttc",
+      "face": 2,
+      "licence": "NotoSansCJK-OFL.txt",
+      "sha256": "1bff16d425a0bc5048fddb7d33d2a59e08647d4a29380a348ccaabcbd89a29f2"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+# SPDX-License-Identifier: GPL-3.0-only
+
+oalang: 1
+tag: five-fonts
+name: Five fonts
+english-name: Five fonts
+word: Five
+version: "1"
+locales: [en]
+fallbacks: []
+text: {needs: modern-fonts}
+unicode: true
+fonts: [{file: A.otf, role: ideographs}, {file: B.otf, role: ideographs}, {file: C.otf, role: ideographs}, {file: D.otf, role: ideographs}, {file: E.otf, role: ideographs}]
