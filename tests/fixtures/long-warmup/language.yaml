@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+# SPDX-License-Identifier: GPL-3.0-only
+
+oalang: 1
+tag: long-warmup
+name: Long warm-up
+english-name: Long warm-up
+word: Long
+version: "1"
+locales: [en]
+fallbacks: []
+text: {needs: modern-fonts}
+unicode: true
+warmup: warmup.txt
