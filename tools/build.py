@@ -119,7 +119,7 @@ def build_one(folder: Path, tool: Path, fonts: Path, out: Path) -> None:
     if isinstance(revision, bool) or not isinstance(revision, int):
         print(f"{tag} packaging.revision is not an integer", file=sys.stderr)
         raise SystemExit(1)
-    if check.main([str(folder), "--source"]) != 0:
+    if check.main([str(folder), "--source", "--fonts", str(fonts)]) != 0:
         raise SystemExit(1)
     stage = ROOT / "local" / "stage" / tag
     stage_pack(folder, stage, fonts)

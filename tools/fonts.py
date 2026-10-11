@@ -25,6 +25,7 @@ import json
 import pathlib
 import re
 import shutil
+import struct
 import subprocess
 import sys
 import urllib.request
@@ -91,6 +92,108 @@ def cjk_characters(general_standard=()):
         characters |= set(range(first, last + 1))
     characters |= set(general_standard)
     return sorted(characters)
+
+
+CJK_BLOCKS = (
+    (0x1100, 0x11FF),    # Hangul Jamo
+    (0x2E80, 0x2FFF),    # CJK and Kangxi radicals, ideographic description
+    (0x3000, 0x303F),    # CJK symbols and punctuation
+    (0x3040, 0x30FF),    # Hiragana and Katakana
+    (0x3100, 0x318F),    # Bopomofo and Hangul compatibility jamo
+    (0x3190, 0x31FF),    # Kanbun, Bopomofo extended, CJK strokes, Katakana extensions
+    (0x3200, 0x33FF),    # Enclosed CJK letters and months, CJK compatibility
+    (0x3400, 0x4DBF),    # CJK unified ideographs extension A
+    (0x4E00, 0x9FFF),    # CJK unified ideographs
+    (0xA960, 0xA97F),    # Hangul jamo extended A
+    (0xAC00, 0xD7FF),    # Hangul syllables and jamo extended B
+    (0xF900, 0xFAFF),    # CJK compatibility ideographs
+    (0xFE10, 0xFE1F),    # Vertical forms
+    (0xFE30, 0xFE6F),    # CJK compatibility forms and small form variants
+    (0xFF00, 0xFFEF),    # Half- and full-width forms
+    (0x20000, 0x3FFFF),  # The supplementary ideographic planes
+)
+"""The Unicode blocks whose characters only a CJK face draws.
+
+The game's fonts and the engine's own faces draw the Latin letters,
+punctuation and symbols outside them.
+"""
+
+
+def cjk_block(code):
+    """Whether a code point is in one of CJK_BLOCKS."""
+    return any(first <= code <= last for first, last in CJK_BLOCKS)
+
+
+def face_characters(path):
+    """The code points a TrueType or OpenType face maps to a glyph.
+
+    Reads the face's cmap table, its format 4 and format 12 subtables of
+    the Unicode and Windows platforms, without fontTools. A code point
+    mapped to glyph 0 is not held. Raises ValueError for a file that is not
+    one face with a character map read here, such as a collection.
+    """
+    data = pathlib.Path(path).read_bytes()
+
+    def unpack(form, offset):
+        size = struct.calcsize(form)
+        if offset < 0 or offset + size > len(data):
+            raise ValueError(f"{pathlib.Path(path).name} ends inside its tables")
+        return struct.unpack_from(form, data, offset)
+
+    (version,) = unpack(">I", 0)
+    if version not in (0x00010000, 0x4F54544F, 0x74727565):
+        raise ValueError(f"{pathlib.Path(path).name} is not a TrueType or OpenType face")
+    (tables,) = unpack(">H", 4)
+    cmap = None
+    for index in range(tables):
+        tag, _checksum, offset, _length = unpack(">4sIII", 12 + 16 * index)
+        if tag == b"cmap":
+            cmap = offset
+    if cmap is None:
+        raise ValueError(f"{pathlib.Path(path).name} has no character map")
+    _version, subtables = unpack(">HH", cmap)
+    held = set()
+    read = False
+    for index in range(subtables):
+        platform, encoding, offset = unpack(">HHI", cmap + 4 + 8 * index)
+        if not (platform == 0 or (platform == 3 and encoding in (1, 10))):
+            continue
+        start = cmap + offset
+        (form,) = unpack(">H", start)
+        if form == 12:
+            (groups,) = unpack(">I", start + 12)
+            for group in range(groups):
+                first, last, glyph = unpack(">III", start + 16 + 12 * group)
+                if last < first or last > 0x10FFFF:
+                    raise ValueError(f"{pathlib.Path(path).name} has a malformed character map")
+                held.update(range(first if glyph else first + 1, last + 1))
+            read = True
+        elif form == 4:
+            (doubled,) = unpack(">H", start + 6)
+            segments = doubled // 2
+            ends = unpack(f">{segments}H", start + 14)
+            starts = unpack(f">{segments}H", start + 16 + doubled)
+            deltas = unpack(f">{segments}h", start + 16 + 2 * doubled)
+            ranges_at = start + 16 + 3 * doubled
+            ranges = unpack(f">{segments}H", ranges_at)
+            for segment in range(segments):
+                for code in range(starts[segment], ends[segment] + 1):
+                    if code == 0xFFFF:
+                        continue
+                    if ranges[segment] == 0:
+                        glyph = (code + deltas[segment]) & 0xFFFF
+                    else:
+                        address = (ranges_at + 2 * segment + ranges[segment]
+                                   + 2 * (code - starts[segment]))
+                        (glyph,) = unpack(">H", address)
+                        if glyph:
+                            glyph = (glyph + deltas[segment]) & 0xFFFF
+                    if glyph:
+                        held.add(code)
+            read = True
+    if not read:
+        raise ValueError(f"{pathlib.Path(path).name} has no Unicode character map")
+    return held
 
 
 def load_pins(path=None):

@@ -8,7 +8,7 @@ The five languages Total Annihilation 3.1c ships with (English, German, Spanish,
 
 - `zh-Hans/` holds the Simplified Chinese sources: `language.yaml`, the tables, `warmup.txt`, and the briefings under `files/`.
 - `fonts/` holds the CJK font's recipe, its licence and the pinned fontTools requirements. The built font is not stored here.
-- `tools/check.py` checks a pack. `tools/build.py` builds a `.oalang`. `tools/fonts.py` builds the font.
+- `tools/check.py` checks a pack. `tools/coverage.py` lists the engine's interface words a pack does not translate. `tools/build.py` builds a `.oalang`. `tools/fonts.py` builds the font.
 - `dist/` receives the built pack and its build info. `local/` holds downloads, the fontTools environment and the build stage. Neither directory is committed.
 
 ## Make the font
@@ -39,6 +39,16 @@ python3 tools/check.py zh-Hans --game-dir /path/to/game --oa-tool /path/to/oa-to
 ```
 
 The check exits 0 when the pack is clean, 1 when it found failures, and 77 when there is no pack.
+
+The check reads the built face from `local/fonts` (or `--fonts`) when the pack's own `fonts/` folder does not hold it, and fails on any character of the pack's text that only a CJK face draws and the face does not hold. Before the face is built, `--source` checks the characters against the cut's recipe, with the general standard table when `--deps` holds the Unihan archive. It also fails on an `interface.tdf` translation that drops a place (`{name}`, `%s`) or a number of its English.
+
+## Coverage
+
+```sh
+python3 tools/coverage.py zh-Hans --oa-tool /path/to/oa-tool
+```
+
+This asks the engine build for its interface words (`oa-tool interface-words --json`) and prints each one the pack does not translate (`missing:`) and each section of the pack's `interface.tdf` the engine no longer has (`not in the engine:`). `--words FILE` reads a listing saved from that command instead. It exits 0 when the pack covers the build exactly.
 
 ## Build a pack
 

@@ -2,16 +2,26 @@
 # SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
 # SPDX-License-Identifier: GPL-3.0-only
 
-"""A stand-in for `oa-tool pack` that writes a zip of the folder."""
+"""A stand-in for `oa-tool pack`, which writes a zip of the folder, and for
+`oa-tool interface-words --json`, which prints the file OA_TOOL_FIXTURE_WORDS
+names. Without that variable it answers as a build without the command."""
 
 from __future__ import annotations
 
+import os
 import sys
 import zipfile
 from pathlib import Path
 
 
 def main(argv: list[str]) -> int:
+    if argv[:1] == ["interface-words"]:
+        words = os.environ.get("OA_TOOL_FIXTURE_WORDS")
+        if not words or argv[1:] != ["--json"]:
+            print("oa-tool interface-words: unknown command", file=sys.stderr)
+            return 2
+        sys.stdout.buffer.write(Path(words).read_bytes())
+        return 0
     if argv[:1] != ["pack"] or "--out" not in argv or "--force" not in argv or len(argv) < 2:
         print("oa-tool pack FOLDER --out FILE --force", file=sys.stderr)
         return 2

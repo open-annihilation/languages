@@ -10,6 +10,8 @@ import unittest
 import zipfile
 from pathlib import Path
 
+from tests.faces import face as face_bytes
+from tests.faces import write_face
 from tools import fonts
 
 COLLECTION = "faa5f3656a78b2e2d450d27fe8382c778bc2b6bb5ea29c986664a6a435056ceb"
@@ -61,6 +63,31 @@ class FontTests(unittest.TestCase):
             self.assertEqual(len(fonts.general_standard_characters(good)), 8105)
             with self.assertRaises(RuntimeError):
                 fonts.general_standard_characters(short)
+
+    def test_face_characters_read_formats_4_and_12(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            folder = Path(tmp)
+            ranges = [(0x20, 0x7E), (0x4E00, 0x4E10), (0xFF01, 0xFF01)]
+            for form in (4, 12):
+                face = write_face(folder / f"face{form}.otf", ranges, form=form)
+                held = fonts.face_characters(face)
+                self.assertEqual(held, {c for first, last in ranges for c in range(first, last + 1)})
+            wide = write_face(folder / "wide.otf", [(0x20000, 0x20002)])
+            self.assertEqual(fonts.face_characters(wide), {0x20000, 0x20001, 0x20002})
+            collection = folder / "collection.ttc"
+            collection.write_bytes(b"ttcf" + bytes(60))
+            with self.assertRaises(ValueError):
+                fonts.face_characters(collection)
+            short = folder / "short.otf"
+            short.write_bytes(face_bytes([(0x4E00, 0x4E10)])[:40])
+            with self.assertRaises(ValueError):
+                fonts.face_characters(short)
+
+    def test_cjk_blocks(self) -> None:
+        for character in "中，。（「ア한𠀀":
+            self.assertTrue(fonts.cjk_block(ord(character)), character)
+        for character in "A›…—·✕é":
+            self.assertFalse(fonts.cjk_block(ord(character)), character)
 
     def test_download_with_the_wrong_sha256_is_refused(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

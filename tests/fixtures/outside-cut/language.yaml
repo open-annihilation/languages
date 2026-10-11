@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+# SPDX-License-Identifier: GPL-3.0-only
+
+oalang: 1
+tag: outside-cut
+name: Outside the cut
+english-name: Outside the cut
+word: Outside
+version: "1"
+locales: [zh-Hans]
+fallbacks: []
+text: {needs: modern-fonts}
+unicode: true
+fonts: [{file: Fixture.otf, role: ideographs}]
