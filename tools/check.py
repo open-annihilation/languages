@@ -5,8 +5,10 @@
 
     check.py PACK [--game-dir DIR --oa-tool EXE]
                   [--catalogue FILE ...] [--strict] [--source]
+                  [--fonts DIR] [--deps DIR]
     check.py --all [--game-dir DIR --oa-tool EXE]
                     [--catalogue FILE ...] [--strict] [--source]
+                    [--fonts DIR] [--deps DIR]
 
 The pack's manifest must read as the game reads it, and each of its tables
 must parse, carry its licence header and name each section once. Every file
@@ -16,9 +18,21 @@ under files/ must be UTF-8. A pack that fails one of these exits with status
 --all checks every pack in this repository: each folder that holds a
 language.yaml, outside tests, local and dist.
 
---source allows a font that fonts/fonts.json builds to be missing from the
-pack's fonts/ directory, which is how a source tree is checked before the
-font is copied in.
+A font that fonts/fonts.json builds may be in the pack's fonts/ folder or
+among the built faces, --fonts (default local/fonts, where fonts.py writes
+them). --source allows it to be missing from both, which is how a source
+tree is checked before the font is built.
+
+Every character of the pack's text (its tables, its files/ and its warm-up
+text) that only a CJK face draws must be in the pack's fonts, so that none
+draws as a missing-glyph box: each listed face's character map is read. A
+source tree whose face is not built yet is checked against the cut's
+recipe in fonts.py, with the Table of General Standard Chinese Characters
+when --deps (default local/deps) holds the pinned Unihan archive, and
+without it otherwise, which refuses the table's rarer characters.
+
+In interface.tdf, each translation must keep the places of its English
+({name}, %s and the like) and each of its numbers.
 
 With --game-dir and --oa-tool, the player's game data is read through the
 tool's archive listing: the pack's translate.tdf is compared with the game
@@ -37,15 +51,18 @@ skipped with status 77. Status 0 is a clean pack.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import re
 import subprocess
 import sys
 import tempfile
+from collections import Counter
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import fonts as font_cut  # noqa: E402
 import oamod_yaml  # noqa: E402
 
 SKIPPED = 77
@@ -198,23 +215,31 @@ def built_font_names() -> set[str]:
 
 
 def check_fonts(
-    pack: Path, values: dict, report: Report, source: bool = False, built: set[str] | None = None
-) -> None:
+    pack: Path,
+    values: dict,
+    report: Report,
+    source: bool = False,
+    built: set[str] | None = None,
+    faces: Path | None = None,
+) -> list[Path] | None:
     """Each listed font is a file under fonts/ with an otf or ttf name.
 
-    With source, a font fonts/fonts.json builds may be absent: the build
-    copies it in later.
+    A font fonts/fonts.json builds may be in faces, the built faces, instead.
+    With source, it may be absent from both: the build makes it and copies
+    it in later. Returns the faces found, or None when a listed font is
+    missing.
     """
     if "fonts" not in values:
-        return
+        return []
     fonts = values["fonts"]
     if not isinstance(fonts, list):
         report.fail("language.yaml's fonts is not a sequence")
-        return
+        return []
     if len(fonts) > 4:
         report.fail("language.yaml's fonts holds more than 4")
     seen: set[str] = set()
     allowed = built or set()
+    found: list[Path] | None = []
     for item in fonts:
         if not isinstance(item, dict):
             report.fail("language.yaml's fonts is not of its kind")
@@ -229,10 +254,19 @@ def check_fonts(
             report.fail(f"language.yaml's fonts names {name} twice")
         else:
             seen.add(name)
-            if not (pack / "fonts" / name).is_file() and not (source and name in allowed):
-                report.fail(f"fonts/{name} is not a file")
+            face = pack / "fonts" / name
+            if not face.is_file() and name in allowed and faces is not None:
+                face = faces / name
+            if face.is_file():
+                if found is not None:
+                    found.append(face)
+            else:
+                found = None
+                if not (source and name in allowed):
+                    report.fail(f"fonts/{name} is not a file")
         if item.get("role") not in ("ideographs", "letters"):
             report.fail("language.yaml's fonts role must be ideographs or letters")
+    return found
 
 
 def check_warmup(pack: Path, values: dict, report: Report) -> None:
@@ -298,8 +332,136 @@ def check_text_files(pack: Path, report: Report) -> None:
             report.fail(f"{path.relative_to(pack).as_posix()} is not UTF-8")
 
 
-def check_manifest(pack: Path, report: Report, source: bool = False, built: set[str] | None = None) -> dict:
-    """Read the manifest as the game does and return its values."""
+PLACE = re.compile(
+    r"\{[A-Za-z_][A-Za-z0-9_]*\}"
+    r"|%(?:\d+\$)?[-+#0]*\d*(?:\.\d+)?(?:hh|h|ll|l|z)?[diuxXfFeEgGcsp%]"
+)
+"""A place a text is filled in at: {name}, or a printf conversion such as %s."""
+
+NUMBER = re.compile(r"\d+")
+"""A number written in digits."""
+
+MOST_TOLD = 20
+"""The most characters one failure names."""
+
+
+def pattern_problems(english: str, text: str) -> list[str]:
+    """What a translation drops or adds of its English's places and numbers."""
+    problems = []
+    places = Counter(PLACE.findall(english))
+    kept = Counter(PLACE.findall(text))
+    for place in sorted(places - kept):
+        problems.append(f"drops {place}")
+    for place in sorted(kept - places):
+        problems.append(f"adds {place}")
+    numbers = Counter(NUMBER.findall(PLACE.sub(" ", english)))
+    written = Counter(NUMBER.findall(PLACE.sub(" ", text)))
+    for number in sorted(numbers - written, key=int):
+        problems.append(f"drops the number {number}")
+    return problems
+
+
+def check_patterns(tables: dict, report: Report) -> None:
+    """Each interface.tdf translation keeps its English's places and numbers."""
+    for section in tables.get("interface.tdf", []):
+        for key, value in section[1].items():
+            if not value:
+                continue
+            for problem in pattern_problems(section[0], value):
+                report.fail(f"interface.tdf [{section[0]}] {key} {problem}")
+
+
+def unihan_archive(deps: Path | None) -> Path | None:
+    """The pinned Unihan archive in deps, when it is there with its SHA-256."""
+    if deps is None:
+        return None
+    try:
+        _collection, unihan, _licence = font_cut.download_roles(font_cut.load_pins())
+    except (OSError, ValueError, KeyError, RuntimeError):
+        return None
+    path = deps / unihan["file"]
+    if not path.is_file():
+        return None
+    if hashlib.sha256(path.read_bytes()).hexdigest() != unihan["sha256"]:
+        return None
+    return path
+
+
+def cut_characters(found: list[Path] | None, deps: Path | None, report: Report) -> set[int] | None:
+    """The code points the pack's fonts hold.
+
+    found are the pack's faces, each read through its character map. When a
+    listed face is not built yet (found is None), the cut's recipe stands in
+    for it. None means a face could not be read, which has failed already.
+    """
+    if found is None:
+        unihan = unihan_archive(deps)
+        if unihan is None:
+            report.note(
+                "the face is not built and the Unihan archive is not in --deps: characters are "
+                "checked against the cut's code pages only"
+            )
+            return set(font_cut.cjk_characters())
+        report.note("the face is not built: characters are checked against the cut's recipe")
+        return set(font_cut.cjk_characters(font_cut.general_standard_characters(unihan)))
+    held: set[int] = set()
+    for face in found:
+        try:
+            held |= font_cut.face_characters(face)
+        except (OSError, ValueError) as error:
+            report.fail(f"fonts/{face.name} cannot be read: {error}")
+            return None
+    return held
+
+
+def pack_texts(pack: Path, values: dict) -> list[Path]:
+    """The pack's files that hold text it shows: its tables, warm-up and files/."""
+    paths = [pack / name for name in TABLES if (pack / name).is_file()]
+    warmup = values.get("warmup")
+    if isinstance(warmup, str) and file_name(warmup, (".txt",)) and (pack / warmup).is_file():
+        paths.append(pack / warmup)
+    root = pack / "files"
+    if root.is_dir():
+        paths.extend(sorted(item for item in root.rglob("*") if item.is_file()))
+    return paths
+
+
+def check_characters(
+    pack: Path, values: dict, found: list[Path] | None, deps: Path | None, report: Report
+) -> None:
+    """Every character of the pack's text that only a CJK face draws is in its fonts."""
+    held = cut_characters(found, deps, report)
+    if held is None:
+        return
+    for path in pack_texts(pack, values):
+        try:
+            text = path.read_bytes().decode("utf-8")
+        except (OSError, UnicodeDecodeError):
+            continue  # told by the table and file checks
+        lacking: dict[str, int] = {}
+        for number, line in enumerate(text.splitlines(), start=1):
+            for character in line:
+                code = ord(character)
+                if code > 0x7F and font_cut.cjk_block(code) and code not in held:
+                    lacking.setdefault(character, number)
+        if lacking:
+            named = ", ".join(
+                f"{character} (U+{ord(character):04X}, line {line})"
+                for character, line in list(lacking.items())[:MOST_TOLD]
+            )
+            more = f" and {len(lacking) - MOST_TOLD} more" if len(lacking) > MOST_TOLD else ""
+            count = f"{len(lacking)} character" + ("" if len(lacking) == 1 else "s")
+            report.fail(
+                f"{path.relative_to(pack).as_posix()} uses {count} the pack's fonts lack: "
+                f"{named}{more}"
+            )
+
+
+def check_manifest(pack: Path, report: Report) -> dict:
+    """Read the manifest as the game does and return its values.
+
+    Its fonts are checked apart, by check_fonts.
+    """
     path = pack / "language.yaml"
     if not path.is_file():
         report.fail("language.yaml is missing")
@@ -332,7 +494,6 @@ def check_manifest(pack: Path, report: Report, source: bool = False, built: set[
                 report.fail("language.yaml's requires takes engine only")
     for problem in oamod_yaml.package_key_problems(values, requires if isinstance(requires, dict) else None):
         report.fail(f"language.yaml {problem}")
-    check_fonts(pack, values, report, source, built)
     check_warmup(pack, values, report)
     check_packaging(values, report)
     return values
@@ -490,6 +651,10 @@ def main(argv: list[str]) -> int:
     parser.add_argument("--oa-tool", type=Path)
     parser.add_argument("--catalogue", type=Path, action="append", default=[])
     parser.add_argument("--strict", action="store_true")
+    parser.add_argument("--fonts", type=Path, default=ROOT / "local" / "fonts",
+                        help="the built faces (default: local/fonts)")
+    parser.add_argument("--deps", type=Path, default=ROOT / "local" / "deps",
+                        help="the pinned downloads, for the Unihan archive (default: local/deps)")
     options = parser.parse_args(argv)
     if options.all and options.pack is not None:
         parser.error("pass a pack or --all, not both")
@@ -509,9 +674,12 @@ def main(argv: list[str]) -> int:
     failed = False
     for pack in packs:
         report = Report()
-        check_manifest(pack, report, options.source, built)
+        values = check_manifest(pack, report)
+        found = check_fonts(pack, values, report, options.source, built, options.fonts)
         tables = check_tables(pack, report)
         check_text_files(pack, report)
+        check_characters(pack, values, found, options.deps, report)
+        check_patterns(tables, report)
         if options.game_dir is not None and options.oa_tool is not None:
             if options.game_dir.is_dir() and os.access(options.oa_tool, os.X_OK):
                 check_game_data(tables, options.game_dir, options.oa_tool, report)

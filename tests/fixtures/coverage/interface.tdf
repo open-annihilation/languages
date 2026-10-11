@@ -1,0 +1,22 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+
+[Library]
+	{
+	zh-Hans=资源库;
+	}
+
+[{count} min ago]
+	{
+	ZH_HANS={count}分钟前;
+	}
+
+[Install ID]
+	{
+	zh-Hans=;
+	}
+
+[UNITS]
+	{
+	zh-Hans=个单位;
+	}

@@ -1,0 +1,22 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+
+[Needs {size} free]
+	{
+	dropped-place=Neds fre spase;
+	}
+
+[In to 2x normal size at most.]
+	{
+	dropped-place=In to twise normal sise at most.;
+	}
+
+[{done} of {total}]
+	{
+	dropped-place={done}/{total};
+	}
+
+[Downloading %s]
+	{
+	dropped-place=Downloding %s %d;
+	}

@@ -15,6 +15,7 @@ import unittest
 import zipfile
 from pathlib import Path
 
+from tests.faces import pack_characters, ranges_of, write_face
 from tools.build import worktree_dirty
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -40,7 +41,7 @@ class BuildTests(unittest.TestCase):
             folder = Path(tmp)
             fonts = folder / "fonts"
             fonts.mkdir()
-            (fonts / "NotoSansCJKsc-Bold.otf").write_bytes(b"otf")
+            write_face(fonts / "NotoSansCJKsc-Bold.otf", ranges_of(pack_characters(ROOT / "zh-Hans")))
             out = folder / "out"
             first = self.build(out, fonts)
             self.assertEqual(first.returncode, 0, first.stderr + first.stdout)
