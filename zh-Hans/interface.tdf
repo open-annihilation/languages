@@ -6750,3 +6750,46 @@
 	{
 	zh-Hans={a} · {b};
 	}
+
+// Revision 3: the words 0.8's interface word list (oa-tool interface-words)
+// found that revision 2 lacked.
+
+[,]
+	{
+	zh-Hans=，;
+	}
+
+[·]
+	{
+	zh-Hans=·;
+	}
+
+[OPEN ANNIHILATION]
+	{
+	zh-Hans=OPEN ANNIHILATION;
+	}
+
+[The download failed]
+	{
+	zh-Hans=下载失败;
+	}
+
+[Checked against the keys you trust for {name}]
+	{
+	zh-Hans=已用你信任的{name}密钥核对;
+	}
+
+[Checking {address}…]
+	{
+	zh-Hans=正在检查{address}……;
+	}
+
+[From {file}]
+	{
+	zh-Hans=来自{file};
+	}
+
+[Mirror of {name}]
+	{
+	zh-Hans={name}的镜像;
+	}
