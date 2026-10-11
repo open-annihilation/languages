@@ -16,6 +16,7 @@ import zipfile
 from pathlib import Path
 
 from tests.faces import pack_characters, ranges_of, write_face
+from tools import oamod_yaml
 from tools.build import worktree_dirty
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -57,7 +58,8 @@ class BuildTests(unittest.TestCase):
             self.assertIsInstance(info["size"], int)
             self.assertIsInstance(info["sha256"], str)
             self.assertEqual(info["tag"], "zh-Hans")
-            self.assertEqual(info["revision"], 1)
+            manifest = oamod_yaml.loads((ROOT / "zh-Hans" / "language.yaml").read_bytes())
+            self.assertEqual(info["revision"], manifest["packaging"]["revision"])
             self.assertEqual(info["size"], package.stat().st_size)
             self.assertEqual(info["sha256"], hashlib.sha256(package.read_bytes()).hexdigest())
             self.assertEqual(info["dirty"], worktree_dirty(ROOT))

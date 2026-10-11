@@ -4794,11 +4794,6 @@
 	zh-Hans=1个单位;
 	}
 
-[UNITS]
-	{
-	zh-Hans=个单位;
-	}
-
 [LATCHED]
 	{
 	zh-Hans=已锁定;
@@ -4867,11 +4862,6 @@
 [Set by the language]
 	{
 	zh-Hans=由语言设定;
-	}
-
-[On (set by {language})]
-	{
-	zh-Hans=打开（由{language}设定）;
 	}
 
 // Network play's notices in the message log, with {slots} where the values go.
@@ -4946,4 +4936,1817 @@
 [Total Annihilation 3.1c]
 	{
 	zh-Hans=3.1c版横扫千军;
+	}
+
+// The Library, its update question and why a download fails.
+
+[Library]
+	{
+	zh-Hans=资源库;
+	}
+
+[Open Annihilation]
+	{
+	zh-Hans=Open Annihilation;
+	}
+
+[{version} · {list}]
+	{
+	zh-Hans={version} · {list};
+	}
+
+[list from {age}]
+	{
+	zh-Hans=列表更新于{age};
+	}
+
+[no list yet]
+	{
+	zh-Hans=尚无列表;
+	}
+
+[{list} · offline]
+	{
+	zh-Hans={list} · 离线;
+	}
+
+[just now]
+	{
+	zh-Hans=刚刚;
+	}
+
+[{count} min ago]
+	{
+	zh-Hans={count}分钟前;
+	}
+
+[{count} h ago]
+	{
+	zh-Hans={count}小时前;
+	}
+
+[{count} days ago]
+	{
+	zh-Hans={count}天前;
+	}
+
+[Maps]
+	{
+	zh-Hans=地图;
+	}
+
+[Languages]
+	{
+	zh-Hans=语言;
+	}
+
+[Lang]
+	{
+	zh-Hans=语言;
+	}
+
+[Updates]
+	{
+	zh-Hans=更新;
+	}
+
+[Upd]
+	{
+	zh-Hans=更新;
+	}
+
+[Search mods, authors, tags]
+	{
+	zh-Hans=搜索模组、作者、标签;
+	}
+
+[Search maps, authors, tags]
+	{
+	zh-Hans=搜索地图、作者、标签;
+	}
+
+[Search languages]
+	{
+	zh-Hans=搜索语言;
+	}
+
+[Search updates]
+	{
+	zh-Hans=搜索更新;
+	}
+
+[All]
+	{
+	zh-Hans=全部;
+	}
+
+[Tag: {tag} ({count})]
+	{
+	zh-Hans=标签：{tag}（{count}）;
+	}
+
+[{tag} ({count})]
+	{
+	zh-Hans={tag}（{count}）;
+	}
+
+[TAGS]
+	{
+	zh-Hans=标签;
+	}
+
+[{count} update]
+	{
+	zh-Hans={count}个更新;
+	}
+
+[{count} updates]
+	{
+	zh-Hans={count}个更新;
+	}
+
+[UPDATE ALL]
+	{
+	zh-Hans=全部更新;
+	}
+
+[Showing the list from {age}. OA couldn't reach the registries.]
+	{
+	zh-Hans=正在显示{age}的列表。OA无法连接内容源。;
+	}
+
+[Nothing here yet. Turn a registry on in Settings › Downloads.]
+	{
+	zh-Hans=这里还没有内容。请在设置 › 下载中开启一个内容源。;
+	}
+
+[Nothing matches "{query}".]
+	{
+	zh-Hans=没有与“{query}”匹配的内容。;
+	}
+
+[No updates.]
+	{
+	zh-Hans=没有更新。;
+	}
+
+[Nothing to show.]
+	{
+	zh-Hans=没有可显示的内容。;
+	}
+
+[GET]
+	{
+	zh-Hans=获取;
+	}
+
+[INSTALLED]
+	{
+	zh-Hans=已安装;
+	}
+
+[UPDATE]
+	{
+	zh-Hans=更新;
+	}
+
+[{version} · {size}]
+	{
+	zh-Hans={version} · {size};
+	}
+
+[{line} · {registry}]
+	{
+	zh-Hans={line} · {registry};
+	}
+
+[{version} · rev {revision}]
+	{
+	zh-Hans={version} · 修订{revision};
+	}
+
+[rev {revision}]
+	{
+	zh-Hans=修订{revision};
+	}
+
+[{count} map]
+	{
+	zh-Hans={count}张地图;
+	}
+
+[{count} maps]
+	{
+	zh-Hans={count}张地图;
+	}
+
+[{version} · {maps}]
+	{
+	zh-Hans={version} · {maps};
+	}
+
+[{whole}.{tenth}]
+	{
+	zh-Hans={whole}.{tenth};
+	}
+
+[{size} KB]
+	{
+	zh-Hans={size} KB;
+	}
+
+[{size} MB]
+	{
+	zh-Hans={size} MB;
+	}
+
+[{size} GB]
+	{
+	zh-Hans={size} GB;
+	}
+
+[by {author}]
+	{
+	zh-Hans=作者：{author};
+	}
+
+[by {author} · {downloads}]
+	{
+	zh-Hans=作者：{author} · {downloads};
+	}
+
+[Not installed · {size}]
+	{
+	zh-Hans=未安装 · {size};
+	}
+
+[Revision {revision} available · {size} to download]
+	{
+	zh-Hans=修订号{revision}可用 · 需下载{size};
+	}
+
+[Version {version} available · {size} to download]
+	{
+	zh-Hans=版本{version}可用 · 需下载{size};
+	}
+
+[Playing]
+	{
+	zh-Hans=使用中;
+	}
+
+[Not during a game]
+	{
+	zh-Hans=游戏中不可用;
+	}
+
+[Downloads from {registry} are off (Settings › Downloads)]
+	{
+	zh-Hans=来自{registry}的下载已关闭（设置 › 下载）;
+	}
+
+[Needs Open Annihilation {range}]
+	{
+	zh-Hans=需要Open Annihilation {range};
+	}
+
+[Needs the base game {base}]
+	{
+	zh-Hans=需要基础游戏{base};
+	}
+
+[Needs hacks this OA lacks: {hacks}]
+	{
+	zh-Hans=需要此OA缺少的修改项：{hacks};
+	}
+
+[{hacks} · {count} more]
+	{
+	zh-Hans={hacks} · 另有{count}项;
+	}
+
+[Waiting to download]
+	{
+	zh-Hans=等待下载;
+	}
+
+[Downloading · {progress}]
+	{
+	zh-Hans=正在下载 · {progress};
+	}
+
+[Downloading]
+	{
+	zh-Hans=正在下载;
+	}
+
+[Verifying]
+	{
+	zh-Hans=正在校验;
+	}
+
+[Installing]
+	{
+	zh-Hans=正在安装;
+	}
+
+[Failed]
+	{
+	zh-Hans=失败;
+	}
+
+[Waiting · finishes when you leave {name}]
+	{
+	zh-Hans=等待中 · 离开{name}后完成;
+	}
+
+[Size]
+	{
+	zh-Hans=大小;
+	}
+
+[{size} · {download} to download]
+	{
+	zh-Hans={size} · 需下载{download};
+	}
+
+[{download} to download]
+	{
+	zh-Hans=需下载{download};
+	}
+
+[Base]
+	{
+	zh-Hans=基础游戏;
+	}
+
+[TA 3.1c]
+	{
+	zh-Hans=TA 3.1c;
+	}
+
+[Needs]
+	{
+	zh-Hans=需要;
+	}
+
+[Open Annihilation {range}]
+	{
+	zh-Hans=Open Annihilation {range};
+	}
+
+[OA {range}]
+	{
+	zh-Hans=OA {range};
+	}
+
+[{version} or later]
+	{
+	zh-Hans={version}或更高;
+	}
+
+[later than {version}]
+	{
+	zh-Hans=高于{version};
+	}
+
+[{version} or earlier]
+	{
+	zh-Hans={version}或更低;
+	}
+
+[before {version}]
+	{
+	zh-Hans=低于{version};
+	}
+
+[exactly {version}]
+	{
+	zh-Hans=仅限{version};
+	}
+
+[{version}+]
+	{
+	zh-Hans={version}+;
+	}
+
+[after {version}]
+	{
+	zh-Hans=高于{version};
+	}
+
+[up to {version}]
+	{
+	zh-Hans=最高{version};
+	}
+
+[{version} only]
+	{
+	zh-Hans=仅限{version};
+	}
+
+[Hacks]
+	{
+	zh-Hans=修改项;
+	}
+
+[{game} change the game · {view} view only]
+	{
+	zh-Hans={game}项改变游戏 · {view}项仅影响画面;
+	}
+
+[{game} game · {view} view]
+	{
+	zh-Hans={game}项游戏 · {view}项画面;
+	}
+
+[{counts} · {missing}]
+	{
+	zh-Hans={counts} · {missing};
+	}
+
+[{counts} · {count} missing]
+	{
+	zh-Hans={counts} · 缺少{count}项;
+	}
+
+[Rules]
+	{
+	zh-Hans=规则;
+	}
+
+[{from} → {to} same]
+	{
+	zh-Hans={from} → {to} 相同;
+	}
+
+[unchanged]
+	{
+	zh-Hans=未改变;
+	}
+
+[{from} → {to} · changes the game's rules; saved games from {old} won't load under {new}]
+	{
+	zh-Hans={from} → {to} · 改变游戏规则；{old}的存档无法在{new}中载入;
+	}
+
+[changes · {old} saves won't load]
+	{
+	zh-Hans=有改变 · {old}的存档无法载入;
+	}
+
+[unknown · saved games from {old} may not load under {new}]
+	{
+	zh-Hans=未知 · {old}的存档可能无法在{new}中载入;
+	}
+
+[unknown · saves may not load]
+	{
+	zh-Hans=未知 · 存档可能无法载入;
+	}
+
+[revision {revision}]
+	{
+	zh-Hans=修订号{revision};
+	}
+
+[Coverage]
+	{
+	zh-Hans=覆盖率;
+	}
+
+[{percent}%]
+	{
+	zh-Hans={percent}%;
+	}
+
+[From]
+	{
+	zh-Hans=来源;
+	}
+
+[{registry} · Not reviewed by the OA team]
+	{
+	zh-Hans={registry} · 未经OA团队审核;
+	}
+
+[Your own copy]
+	{
+	zh-Hans=你自己的副本;
+	}
+
+[✓]
+	{
+	zh-Hans=✓;
+	}
+
+[RETRY]
+	{
+	zh-Hans=重试;
+	}
+
+[HOMEPAGE]
+	{
+	zh-Hans=主页;
+	}
+
+[Finishes when you leave {name}.]
+	{
+	zh-Hans=离开{name}后完成。;
+	}
+
+[You are playing {playing}. Updating {name} doesn't restart the game.]
+	{
+	zh-Hans=你正在使用{playing}。更新{name}不会重新启动游戏。;
+	}
+
+[SETTINGS…]
+	{
+	zh-Hans=设置……;
+	}
+
+[DETAILS]
+	{
+	zh-Hans=详情;
+	}
+
+[{name} {version}]
+	{
+	zh-Hans={name} {version};
+	}
+
+[Downloading {package} · {progress}]
+	{
+	zh-Hans=正在下载{package} · {progress};
+	}
+
+[Downloading {package}]
+	{
+	zh-Hans=正在下载{package};
+	}
+
+[Waiting to download {package}]
+	{
+	zh-Hans=等待下载{package};
+	}
+
+[Verifying {name}]
+	{
+	zh-Hans=正在校验{name};
+	}
+
+[Checking {name}]
+	{
+	zh-Hans=正在检查{name};
+	}
+
+[Installing {name}]
+	{
+	zh-Hans=正在安装{name};
+	}
+
+[Installed {name}]
+	{
+	zh-Hans=已安装{name};
+	}
+
+[Updated {name} · {new} changes the game's rules · ROLL BACK restores {old}]
+	{
+	zh-Hans=已更新{name} · {new}改变了游戏规则 · 回滚可恢复{old};
+	}
+
+[Updated {name} · {new} may change the game's rules · ROLL BACK restores {old}]
+	{
+	zh-Hans=已更新{name} · {new}可能改变了游戏规则 · 回滚可恢复{old};
+	}
+
+[{problem} · RETRY]
+	{
+	zh-Hans={problem} · 重试;
+	}
+
+[Then {package} · {phase}]
+	{
+	zh-Hans=下一个：{package} · {phase};
+	}
+
+[{line} · {count} more]
+	{
+	zh-Hans={line} · 另有{count}项;
+	}
+
+[waiting]
+	{
+	zh-Hans=等待中;
+	}
+
+[downloading]
+	{
+	zh-Hans=正在下载;
+	}
+
+[verifying]
+	{
+	zh-Hans=正在校验;
+	}
+
+[checking]
+	{
+	zh-Hans=正在检查;
+	}
+
+[installing]
+	{
+	zh-Hans=正在安装;
+	}
+
+[after you leave it]
+	{
+	zh-Hans=离开后进行;
+	}
+
+[failed]
+	{
+	zh-Hans=失败;
+	}
+
+[installed]
+	{
+	zh-Hans=已安装;
+	}
+
+[{name} {percent}%]
+	{
+	zh-Hans={name} {percent}%;
+	}
+
+[{name} · rules changed]
+	{
+	zh-Hans={name} · 规则已改变;
+	}
+
+[{name} · {phase}]
+	{
+	zh-Hans={name} · {phase};
+	}
+
+[‹ {tab}]
+	{
+	zh-Hans=‹ {tab};
+	}
+
+[Update {name}]
+	{
+	zh-Hans=更新{name};
+	}
+
+[Update all]
+	{
+	zh-Hans=全部更新;
+	}
+
+[{name} {version} · revision {from} → {to}]
+	{
+	zh-Hans={name} {version} · 修订号{from} → {to};
+	}
+
+[{name} {from} → {to}]
+	{
+	zh-Hans={name} {from} → {to};
+	}
+
+[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and ROLL BACK brings it back.]
+	{
+	zh-Hans={To}会改变游戏规则。{from}的存档将无法在{to}中载入。{From}会保留，回滚即可恢复。;
+	}
+
+[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and ROLL BACK brings it back.]
+	{
+	zh-Hans=OA无法判断{to}是否会改变游戏规则。如果会，{from}的存档将无法在其中载入。{From}会保留，回滚即可恢复。;
+	}
+
+[It finishes when you leave {name}.]
+	{
+	zh-Hans=离开{name}后完成。;
+	}
+
+[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and ROLL BACK brings it back.]
+	{
+	zh-Hans=1个更新会改变游戏规则：{names}。其当前版本的存档将无法在新版本中载入。当前版本会保留，回滚即可恢复。;
+	}
+
+[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and ROLL BACK brings it back.]
+	{
+	zh-Hans={count}个更新会改变游戏规则：{names}。它们当前版本的存档将无法在新版本中载入。每个当前版本都会保留，回滚即可恢复。;
+	}
+
+[{names} and {count} more]
+	{
+	zh-Hans={names}及另外{count}项;
+	}
+
+[{label}: {value}]
+	{
+	zh-Hans={label}：{value};
+	}
+
+[{from} → {to}]
+	{
+	zh-Hans={from} → {to};
+	}
+
+[unknown]
+	{
+	zh-Hans=未知;
+	}
+
+[Download]
+	{
+	zh-Hans=下载;
+	}
+
+[NOT NOW]
+	{
+	zh-Hans=暂不;
+	}
+
+[Revision {revision} available · {size}]
+	{
+	zh-Hans=修订号{revision}可用 · {size};
+	}
+
+[Version {version} available · {size}]
+	{
+	zh-Hans=版本{version}可用 · {size};
+	}
+
+[Revision {revision} changes the rules · {size}]
+	{
+	zh-Hans=修订号{revision}会改变规则 · {size};
+	}
+
+[Version {version} changes the rules · {size}]
+	{
+	zh-Hans=版本{version}会改变规则 · {size};
+	}
+
+[Revision {revision} may change the rules · {size}]
+	{
+	zh-Hans=修订号{revision}可能改变规则 · {size};
+	}
+
+[Version {version} may change the rules · {size}]
+	{
+	zh-Hans=版本{version}可能改变规则 · {size};
+	}
+
+[Updating · {percent}%]
+	{
+	zh-Hans=正在更新 · {percent}%;
+	}
+
+[Checked for updates {age}]
+	{
+	zh-Hans={age}检查过更新;
+	}
+
+[Not checked for updates yet]
+	{
+	zh-Hans=尚未检查更新;
+	}
+
+[Checking for updates…]
+	{
+	zh-Hans=正在检查更新……;
+	}
+
+[Couldn't check for updates]
+	{
+	zh-Hans=无法检查更新;
+	}
+
+[No registries are on.]
+	{
+	zh-Hans=没有开启的内容源。;
+	}
+
+[the server could not be reached]
+	{
+	zh-Hans=无法连接服务器;
+	}
+
+[the registry refused the download]
+	{
+	zh-Hans=内容源拒绝了下载;
+	}
+
+[the registry no longer offers this release]
+	{
+	zh-Hans=内容源已不再提供此版本;
+	}
+
+[downloads are off for this registry]
+	{
+	zh-Hans=此内容源的下载已关闭;
+	}
+
+[there is not enough free space]
+	{
+	zh-Hans=可用空间不足;
+	}
+
+[the download was not the file the catalogue promised]
+	{
+	zh-Hans=下载的文件与目录所列不符;
+	}
+
+[the server's file is not the size the catalogue promised]
+	{
+	zh-Hans=服务器上的文件大小与目录所列不符;
+	}
+
+[the check expired]
+	{
+	zh-Hans=人机验证已过期;
+	}
+
+[the package was refused]
+	{
+	zh-Hans=内容包被拒绝;
+	}
+
+[the package could not be installed]
+	{
+	zh-Hans=内容包无法安装;
+	}
+
+[the download could not be written]
+	{
+	zh-Hans=无法写入下载的文件;
+	}
+
+[the catalogue has no such package]
+	{
+	zh-Hans=目录中没有此内容包;
+	}
+
+[the download could not be started]
+	{
+	zh-Hans=无法开始下载;
+	}
+
+[downloads are off]
+	{
+	zh-Hans=下载已关闭;
+	}
+
+[that package is already being downloaded]
+	{
+	zh-Hans=该内容包已在下载中;
+	}
+
+// Settings › Downloads, Language and Mods, and the missing-language notice.
+
+[Use English]
+	{
+	zh-Hans=使用英文;
+	}
+
+[Try again]
+	{
+	zh-Hans=重试;
+	}
+
+[Downloads]
+	{
+	zh-Hans=下载;
+	}
+
+[DOWNLOADS]
+	{
+	zh-Hans=下载;
+	}
+
+[CHECK NOW]
+	{
+	zh-Hans=立即检查;
+	}
+
+[GET MORE MODS…]
+	{
+	zh-Hans=获取更多模组……;
+	}
+
+[The file manager could not open it.]
+	{
+	zh-Hans=文件管理器无法打开它。;
+	}
+
+[No file manager is there to open it.]
+	{
+	zh-Hans=没有可用的文件管理器来打开它。;
+	}
+
+[The folder cannot be made.]
+	{
+	zh-Hans=无法创建该文件夹。;
+	}
+
+[AVAILABLE TO DOWNLOAD]
+	{
+	zh-Hans=可下载;
+	}
+
+[downloads off]
+	{
+	zh-Hans=下载已关闭;
+	}
+
+[not reviewed]
+	{
+	zh-Hans=未经审核;
+	}
+
+[community]
+	{
+	zh-Hans=社区;
+	}
+
+[kB]
+	{
+	zh-Hans=kB;
+	}
+
+[MB]
+	{
+	zh-Hans=MB;
+	}
+
+[Downloads, then switches to it.]
+	{
+	zh-Hans=下载后切换到该语言。;
+	}
+
+[. Choose it again to try again.]
+	{
+	zh-Hans=。请再次选择以重试。;
+	}
+
+[MORE IN THE LIBRARY…]
+	{
+	zh-Hans=在资源库中查看更多……;
+	}
+
+[More languages are in the Library.]
+	{
+	zh-Hans=资源库中有更多语言。;
+	}
+
+[fps]
+	{
+	zh-Hans=fps;
+	}
+
+[Interface size]
+	{
+	zh-Hans=界面尺寸;
+	}
+
+[How large Open Annihilation's own screens]
+	{
+	zh-Hans=Open Annihilation自身界面的绘制大小。;
+	}
+
+[are drawn. Auto suits the window's height.]
+	{
+	zh-Hans=“自动”会根据窗口高度选择。;
+	}
+
+[Auto]
+	{
+	zh-Hans=自动;
+	}
+
+[Steam Input]
+	{
+	zh-Hans=Steam Input;
+	}
+
+[UI kit gallery]
+	{
+	zh-Hans=UI套件展示;
+	}
+
+[Every part of OA's own screens, in each of its states, at this size.]
+	{
+	zh-Hans=以当前尺寸展示OA自身界面的每个部件及其各种状态。;
+	}
+
+[Check for content updates]
+	{
+	zh-Hans=检查内容更新;
+	}
+
+[Automatically]
+	{
+	zh-Hans=自动;
+	}
+
+[Only when I open the Library]
+	{
+	zh-Hans=仅在我打开资源库时;
+	}
+
+[Never]
+	{
+	zh-Hans=从不;
+	}
+
+[OA looks for new content and updates in the registries' lists. It never installs anything until you say so.]
+	{
+	zh-Hans=OA会在内容源的列表中查找新内容和更新。未经你同意，不会安装任何内容。;
+	}
+
+[OA looks for new content and updates in the]
+	{
+	zh-Hans=OA会在内容源的列表中查找;
+	}
+
+[registries' lists. It never installs anything]
+	{
+	zh-Hans=新内容和更新。未经你同意，;
+	}
+
+[until you say so.]
+	{
+	zh-Hans=不会安装任何内容。;
+	}
+
+[OA looks for new content and updates in the registries' lists. It never installs]
+	{
+	zh-Hans=OA会在内容源的列表中查找新内容和更新。未经你同意，;
+	}
+
+[anything until you say so.]
+	{
+	zh-Hans=不会安装任何内容。;
+	}
+
+[Install ID]
+	{
+	zh-Hans=安装ID;
+	}
+
+[A random number that lets {name} stop automated downloads. Turned off, you can browse the Library, but downloads are off. Installed content keeps working.]
+	{
+	zh-Hans=一个随机数，让{name}能够阻止自动化下载。关闭后仍可浏览资源库，但无法下载。已安装的内容照常可用。;
+	}
+
+[Made at your first download]
+	{
+	zh-Hans=在你首次下载时生成;
+	}
+
+[RESET]
+	{
+	zh-Hans=重置;
+	}
+
+[Locked during a game.]
+	{
+	zh-Hans=游戏中锁定。;
+	}
+
+[Downloaded files]
+	{
+	zh-Hans=已下载的文件;
+	}
+
+[Nothing kept]
+	{
+	zh-Hans=未保留任何文件;
+	}
+
+[EMPTY]
+	{
+	zh-Hans=清空;
+	}
+
+[Registries]
+	{
+	zh-Hans=内容源;
+	}
+
+[{name} only]
+	{
+	zh-Hans=仅{name};
+	}
+
+[{n} on of {m}]
+	{
+	zh-Hans=已开启{n}/{m};
+	}
+
+[DOWNLOADS · REGISTRIES]
+	{
+	zh-Hans=下载 · 内容源;
+	}
+
+[‹ DOWNLOADS]
+	{
+	zh-Hans=‹ 下载;
+	}
+
+[Built in]
+	{
+	zh-Hans=内置;
+	}
+
+[{n} package]
+	{
+	zh-Hans={n}个内容包;
+	}
+
+[{n} packages]
+	{
+	zh-Hans={n}个内容包;
+	}
+
+[checked {age}]
+	{
+	zh-Hans={age}检查过;
+	}
+
+[not checked yet]
+	{
+	zh-Hans=尚未检查;
+	}
+
+[couldn't reach]
+	{
+	zh-Hans=无法连接;
+	}
+
+[{n} min ago]
+	{
+	zh-Hans={n}分钟前;
+	}
+
+[{n} h ago]
+	{
+	zh-Hans={n}小时前;
+	}
+
+[1 day ago]
+	{
+	zh-Hans=1天前;
+	}
+
+[{n} days ago]
+	{
+	zh-Hans={n}天前;
+	}
+
+[{n} mirror]
+	{
+	zh-Hans={n}个镜像;
+	}
+
+[{n} mirrors]
+	{
+	zh-Hans={n}个镜像;
+	}
+
+[UNDO]
+	{
+	zh-Hans=撤销;
+	}
+
+[Removed when you press OK]
+	{
+	zh-Hans=按“确定”后移除;
+	}
+
+[ADD MIRROR…]
+	{
+	zh-Hans=添加镜像……;
+	}
+
+[Choose from the main menu.]
+	{
+	zh-Hans=请在主菜单中选择。;
+	}
+
+[Content from these registries isn't reviewed by the OA team. OA still checks every package before using it.]
+	{
+	zh-Hans=这些内容源的内容未经OA团队审核。OA仍会在使用前检查每个内容包。;
+	}
+
+[Content from registries other than {names} isn't reviewed by the OA team. OA still checks every package before using it.]
+	{
+	zh-Hans=除{names}以外的内容源的内容未经OA团队审核。OA仍会在使用前检查每个内容包。;
+	}
+
+[ADD REGISTRY…]
+	{
+	zh-Hans=添加内容源……;
+	}
+
+// The map browser, GET MAP, and the questions that install a map pack or a language.
+
+[MORE MAPS…]
+	{
+	zh-Hans=更多地图……;
+	}
+
+[Doesn't fit {game}: {reason}]
+	{
+	zh-Hans=不适用于{game}：{reason};
+	}
+
+[Skirmish · playing {mod}]
+	{
+	zh-Hans=遭遇战 · 正在使用{mod};
+	}
+
+[Skirmish · Total Annihilation 3.1c]
+	{
+	zh-Hans=遭遇战 · 3.1c版横扫千军;
+	}
+
+[Battle room · playing {mod}]
+	{
+	zh-Hans=战斗房间 · 正在使用{mod};
+	}
+
+[Battle room · Total Annihilation 3.1c]
+	{
+	zh-Hans=战斗房间 · 3.1c版横扫千军;
+	}
+
+[Base game]
+	{
+	zh-Hans=基础游戏;
+	}
+
+[Installed packs]
+	{
+	zh-Hans=已安装的地图包;
+	}
+
+[Online]
+	{
+	zh-Hans=在线;
+	}
+
+[PLAYERS]
+	{
+	zh-Hans=玩家数;
+	}
+
+[2]
+	{
+	zh-Hans=2;
+	}
+
+[3]
+	{
+	zh-Hans=3;
+	}
+
+[4]
+	{
+	zh-Hans=4;
+	}
+
+[5–10]
+	{
+	zh-Hans=5–10;
+	}
+
+[SIZE]
+	{
+	zh-Hans=尺寸;
+	}
+
+[S]
+	{
+	zh-Hans=小;
+	}
+
+[M]
+	{
+	zh-Hans=中;
+	}
+
+[L]
+	{
+	zh-Hans=大;
+	}
+
+[Search maps]
+	{
+	zh-Hans=搜索地图;
+	}
+
+[Loading preview]
+	{
+	zh-Hans=正在载入预览;
+	}
+
+[No preview]
+	{
+	zh-Hans=无预览;
+	}
+
+[{players} · {size}]
+	{
+	zh-Hans={players} · {size};
+	}
+
+[Doesn't fit]
+	{
+	zh-Hans=不适用;
+	}
+
+[No map matches these filters]
+	{
+	zh-Hans=没有符合筛选条件的地图;
+	}
+
+[Choose a map]
+	{
+	zh-Hans=选择一张地图;
+	}
+
+[1 player]
+	{
+	zh-Hans=1名玩家;
+	}
+
+[{count} players]
+	{
+	zh-Hans={count}名玩家;
+	}
+
+[Fits {game} ✓]
+	{
+	zh-Hans=适用于{game} ✓;
+	}
+
+[Doesn't fit {game}]
+	{
+	zh-Hans=不适用于{game};
+	}
+
+[Fit with {game} is checked when it's installed]
+	{
+	zh-Hans=安装时检查是否适用于{game};
+	}
+
+[Its catalogue says it does not fit {game}.]
+	{
+	zh-Hans=其目录信息表明它不适用于{game}。;
+	}
+
+[The map list does not hold this map.]
+	{
+	zh-Hans=地图列表中没有这张地图。;
+	}
+
+[The download could not start: {reason}]
+	{
+	zh-Hans=无法开始下载：{reason};
+	}
+
+[The pack was not installed: {reason}]
+	{
+	zh-Hans=地图包未安装：{reason};
+	}
+
+[Cancel]
+	{
+	zh-Hans=取消;
+	}
+
+[Select]
+	{
+	zh-Hans=选择;
+	}
+
+[Download and select]
+	{
+	zh-Hans=下载并选择;
+	}
+
+[Downloading…]
+	{
+	zh-Hans=正在下载……;
+	}
+
+[GET MAP]
+	{
+	zh-Hans=获取地图;
+	}
+
+[{pack} {version} · {size} from {registry}]
+	{
+	zh-Hans={pack} {version} · {size}，来自{registry};
+	}
+
+[Add {registry} to get {pack}]
+	{
+	zh-Hans=添加{registry}以获取{pack};
+	}
+
+[You have release {mine} of {pack}; the host plays release {theirs}.]
+	{
+	zh-Hans=你的{pack}是第{mine}版；主持者使用的是第{theirs}版。;
+	}
+
+[The host's release of {pack} is no longer offered by {registry}.]
+	{
+	zh-Hans={registry}已不再提供主持者所用版本的{pack}。;
+	}
+
+[Downloads from {registry} are off (Settings › Downloads).]
+	{
+	zh-Hans=来自{registry}的下载已关闭（设置 › 下载）。;
+	}
+
+[Downloading {pack} · {done} of {size}]
+	{
+	zh-Hans=正在下载{pack} · {done}/{size};
+	}
+
+[Couldn't get {pack}: {reason}]
+	{
+	zh-Hans=无法获取{pack}：{reason};
+	}
+
+[NOT INSTALLED]
+	{
+	zh-Hans=未安装;
+	}
+
+[{file} is not a package Open Annihilation installs.]
+	{
+	zh-Hans={file}不是Open Annihilation可以安装的包。;
+	}
+
+[Checking {file}...]
+	{
+	zh-Hans=正在检查{file}……;
+	}
+
+[INSTALLING MAP PACK]
+	{
+	zh-Hans=正在安装地图包;
+	}
+
+[INSTALL MAP PACK]
+	{
+	zh-Hans=安装地图包;
+	}
+
+[Install the map pack {name} {version} ({n} maps)?]
+	{
+	zh-Hans=要安装地图包{name} {version}（{n}张地图）吗？;
+	}
+
+[INSTALL]
+	{
+	zh-Hans=安装;
+	}
+
+[UPDATE MAP PACK]
+	{
+	zh-Hans=更新地图包;
+	}
+
+[The version installed is kept, and can be brought back.]
+	{
+	zh-Hans=已安装的版本会保留，之后可以恢复。;
+	}
+
+[The version kept, which cannot be read, is removed.]
+	{
+	zh-Hans=保留的版本无法读取，将被删除。;
+	}
+
+[The version kept ({backup}) is removed.]
+	{
+	zh-Hans=保留的版本（{backup}）将被删除。;
+	}
+
+[REINSTALL MAP PACK]
+	{
+	zh-Hans=重新安装地图包;
+	}
+
+[The version kept stays.]
+	{
+	zh-Hans=保留的版本不受影响。;
+	}
+
+[REPLACE MAP PACK]
+	{
+	zh-Hans=替换地图包;
+	}
+
+[Replace {name} from {old} with the one from {new}?]
+	{
+	zh-Hans=要用来自{new}的版本替换来自{old}的{name}吗？;
+	}
+
+[{title} {installed} is installed. Replace it with {incoming} from {file}?]
+	{
+	zh-Hans=已安装{title} {installed}。要用{file}中的{incoming}替换它吗？;
+	}
+
+[MAP PACK INSTALLED]
+	{
+	zh-Hans=地图包已安装;
+	}
+
+[{title} {version} is installed in your Maps folder:]
+	{
+	zh-Hans={title} {version}已安装到你的Maps文件夹：;
+	}
+
+[MAP PACK UPDATED]
+	{
+	zh-Hans=地图包已更新;
+	}
+
+[{title} is now {new}. {old} is kept, and can be brought back.]
+	{
+	zh-Hans={title}现在是{new}。{old}已保留，之后可以恢复。;
+	}
+
+[{title} is back to {new}. {old} is kept, and can be brought back.]
+	{
+	zh-Hans={title}已回到{new}。{old}已保留，之后可以恢复。;
+	}
+
+[MAP PACK NOT INSTALLED]
+	{
+	zh-Hans=地图包未安装;
+	}
+
+[It holds no oamap.yaml at its top, or in a single folder at its top.]
+	{
+	zh-Hans=其顶层或顶层的唯一文件夹中没有oamap.yaml。;
+	}
+
+[Its oamap.yaml is larger than 256 KiB.]
+	{
+	zh-Hans=其oamap.yaml大于256 KiB。;
+	}
+
+[Its oamap.yaml has errors:]
+	{
+	zh-Hans=其oamap.yaml有错误：;
+	}
+
+[It unpacks to {size}, more than the {limit} a map pack may take.]
+	{
+	zh-Hans=解压后为{size}，超过了地图包可占用的{limit}。;
+	}
+
+[It unpacks to {size} from {packed}, far more than a map pack's files take.]
+	{
+	zh-Hans=从{packed}解压后为{size}，远超地图包文件应有的大小。;
+	}
+
+[It holds more than {limit} folders, more than a map pack may take.]
+	{
+	zh-Hans=其中的文件夹超过{limit}个，超过了地图包允许的数量。;
+	}
+
+[It needs {size} free, and the disk holding your Maps folder has {free}.]
+	{
+	zh-Hans=需要{size}可用空间，而你的Maps文件夹所在磁盘只有{free}。;
+	}
+
+[Your Maps folder has no free folder name for it.]
+	{
+	zh-Hans=你的Maps文件夹中没有可供它使用的文件夹名。;
+	}
+
+[Your Maps folder changed while this map pack was being installed; nothing was changed. Open the file again.]
+	{
+	zh-Hans=安装此地图包时你的Maps文件夹发生了变化；未做任何更改。请重新打开该文件。;
+	}
+
+[Another copy of Open Annihilation is changing your Maps folder. Try again once it has finished.]
+	{
+	zh-Hans=另一个Open Annihilation正在更改你的Maps文件夹。请在其完成后再试。;
+	}
+
+[It is not a kind of package this game installs.]
+	{
+	zh-Hans=这不是本游戏可以安装的包类型。;
+	}
+
+[The pack lists {name}, which it does not hold.]
+	{
+	zh-Hans=该包列出了{name}，但其中并没有它。;
+	}
+
+[The pack holds {name}, which no map uses.]
+	{
+	zh-Hans=该包含有{name}，但没有地图使用它。;
+	}
+
+[The pack holds {name}, which no map uses: it is outside the folders a map pack may hold.]
+	{
+	zh-Hans=该包含有{name}，但没有地图使用它：它不在地图包允许的文件夹中。;
+	}
+
+[The preview {name} is not a PNG.]
+	{
+	zh-Hans=预览图{name}不是PNG。;
+	}
+
+[The preview {name} is larger than 2 MiB.]
+	{
+	zh-Hans=预览图{name}大于2 MiB。;
+	}
+
+[It needs a different Open Annihilation.]
+	{
+	zh-Hans=它需要另一个版本的Open Annihilation。;
+	}
+
+[A map in the pack does not fit the base game.]
+	{
+	zh-Hans=包中有地图不适用于基础游戏。;
+	}
+
+[The folder {name} does not hold this map pack. It is left as it is.]
+	{
+	zh-Hans=文件夹{name}中不是此地图包。该文件夹保持不变。;
+	}
+
+[INSTALLING LANGUAGE]
+	{
+	zh-Hans=正在安装语言;
+	}
+
+[INSTALL LANGUAGE]
+	{
+	zh-Hans=安装语言;
+	}
+
+[Install the language {endonym} ({english})?]
+	{
+	zh-Hans=要安装语言{endonym}（{english}）吗？;
+	}
+
+[UPDATE LANGUAGE]
+	{
+	zh-Hans=更新语言;
+	}
+
+[REINSTALL LANGUAGE]
+	{
+	zh-Hans=重新安装语言;
+	}
+
+[REPLACE LANGUAGE]
+	{
+	zh-Hans=替换语言;
+	}
+
+[The folder {tag} does not hold this language. Replace it with {endonym} ({english}) from {file}? It is kept, and can be brought back.]
+	{
+	zh-Hans=文件夹{tag}中不是此语言。要用{file}中的{endonym}（{english}）替换它吗？原文件夹会保留，之后可以恢复。;
+	}
+
+[LANGUAGE INSTALLED]
+	{
+	zh-Hans=语言已安装;
+	}
+
+[{endonym} ({english}) {version} is installed in your Languages folder:]
+	{
+	zh-Hans={endonym}（{english}）{version}已安装到你的Languages文件夹：;
+	}
+
+[LANGUAGE UPDATED]
+	{
+	zh-Hans=语言已更新;
+	}
+
+[LANGUAGE NOT INSTALLED]
+	{
+	zh-Hans=语言未安装;
+	}
+
+[It holds no language.yaml.]
+	{
+	zh-Hans=其中没有language.yaml。;
+	}
+
+[Its language.yaml has errors.]
+	{
+	zh-Hans=其language.yaml有错误。;
+	}
+
+[It lists a font it does not hold: {name}.]
+	{
+	zh-Hans=它列出了其中没有的字体：{name}。;
+	}
+
+[A font in the pack cannot be opened.]
+	{
+	zh-Hans=包中的一个字体无法打开。;
+	}
+
+[Its font {name} cannot be opened.]
+	{
+	zh-Hans=其字体{name}无法打开。;
+	}
+
+[Its warm-up text cannot be read.]
+	{
+	zh-Hans=无法读取其预热文本。;
+	}
+
+[A table in the pack does not parse.]
+	{
+	zh-Hans=包中的一个表格无法解析。;
+	}
+
+[REPLACE MOD]
+	{
+	zh-Hans=替换模组;
+	}
+
+[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and ROLL BACK brings it back.]
+	{
+	zh-Hans=已安装来自{installed}的{name}。要用来自{new}的{name}替换它吗？来自{installed}的版本会保留，回滚即可恢复。;
+	}
+
+[{folder} is a folder of your own, not {name}. Move or rename it, then RETRY.]
+	{
+	zh-Hans={folder}是你自己的文件夹，不是{name}。请移动或重命名它，然后点击重试。;
+	}
+
+[{n} KB]
+	{
+	zh-Hans={n} KB;
+	}
+
+[{n} MB]
+	{
+	zh-Hans={n} MB;
+	}
+
+[{n} GB]
+	{
+	zh-Hans={n} GB;
+	}
+
+[{n} TB]
+	{
+	zh-Hans={n} TB;
+	}
+
+// The game files screen's sizes and parts, and the touch controls' x5.
+
+[Aa]
+	{
+	zh-Hans=文A;
+	}
+
+[Core Contingency]
+	{
+	zh-Hans=Core Contingency;
+	}
+
+[Battle Tactics]
+	{
+	zh-Hans=Battle Tactics;
+	}
+
+[{source} · {cloud}]
+	{
+	zh-Hans={source} · {cloud};
+	}
+
+[x5]
+	{
+	zh-Hans=x5;
+	}
+
+[3.1c]
+	{
+	zh-Hans=3.1c;
+	}
+
+[{a} · {b}]
+	{
+	zh-Hans={a} · {b};
 	}
