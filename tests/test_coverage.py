@@ -95,13 +95,13 @@ class CoverageTests(unittest.TestCase):
         self.assertIn("unknown command", result.stderr)
 
     def test_words_no_section_can_hold_are_told(self) -> None:
-        words = self.listing(["Library", "{count} min ago", "UNITS", " · in use", "http://…", "a [b]"])
+        words = self.listing(["Library", "{count} min ago", "UNITS", " · in use", "http://…", "a [b]", "x; y"])
         code, output, _ = run([str(PACK), "--words", str(words)])
         self.assertEqual(code, 1, output)
         self.assertIn("cannot be a section:  · in use (it starts or ends with a space)", output)
         self.assertIn("cannot be a section: http://… (it holds '//')", output)
-        self.assertIn("cannot be a section: a [b] (it holds '[')", output)
-        self.assertNotIn("missing:", output)
+        self.assertIn("cannot be a section: a [b] (it holds ']')", output)
+        self.assertIn("missing: x; y", output)
 
     def test_a_listing_that_is_not_a_list_of_texts_is_refused(self) -> None:
         for document in ({"words": "Library"}, [1, 2], {"other": []}):

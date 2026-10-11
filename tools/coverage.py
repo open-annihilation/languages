@@ -22,7 +22,7 @@ the pack's tag (language.yaml's tag, in any case) a value. Each word the
 engine has and the pack does not translate is printed as "missing: WORD",
 and each section the engine no longer has as "not in the engine: WORD". A
 word the game's table reader cannot hold as a section name (one that starts
-or ends with a space, or holds a line break, '[', ']', ';', '//' or '/*') is
+or ends with a space, or holds a line break, ']', '//' or '/*') is
 printed as "cannot be a section: WORD", since no pack can translate it. A
 line break or tab in a word is printed as \\n or \\t. The last line counts
 them all.
@@ -119,7 +119,7 @@ def section_problem(word: str) -> str | None:
     """Why a word cannot be a table's section name, or None when it can be."""
     if word != word.strip(" \t\r\n"):
         return "it starts or ends with a space"
-    for mark in ("\n", "\r", "[", "]", ";", "//", "/*"):
+    for mark in ("\n", "\r", "]", "//", "/*"):
         if mark in word:
             return f"it holds {mark!r}"
     if not word:
