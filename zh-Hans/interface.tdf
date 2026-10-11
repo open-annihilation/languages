@@ -886,12 +886,12 @@
 
 [As far as the view always went: 1/6 of normal]
 	{
-	zh-Hans=缩小到以往的上限：硬件加速为完整时;
+	zh-Hans=缩小到以往的上限：正常大小的1/6;
 	}
 
 [size with Full hardware acceleration, else 1/2.]
 	{
-	zh-Hans=为正常大小的1/6，其他为1/2。;
+	zh-Hans=（硬件加速为完整时），否则为1/2。;
 	}
 
 [Out until the whole map fits the view.]
