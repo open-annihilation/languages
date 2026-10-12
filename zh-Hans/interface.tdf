@@ -6797,9 +6797,14 @@
 	zh-Hans=检查内容更新已设为从不，并且Core Prime的安装ID已关闭。;
 	}
 
-[THE MAIN MENU · 3 OF 3]
+[THE MAIN MENU]
 	{
-	zh-Hans=主菜单 · 第3步，共3步;
+	zh-Hans=主菜单;
+	}
+
+[{step} · {index} OF {count}]
+	{
+	zh-Hans={step} · 第{index}步，共{count}步;
 	}
 
 [Two buttons for everything Open Annihilation adds]
@@ -7147,9 +7152,14 @@
 	zh-Hans=从未刷新;
 	}
 
-[Key]
+[Signing key]
 	{
-	zh-Hans=密钥;
+	zh-Hans=签名密钥;
+	}
+
+[Signing keys]
+	{
+	zh-Hans=签名密钥;
 	}
 
 [built in]
