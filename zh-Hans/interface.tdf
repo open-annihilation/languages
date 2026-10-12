@@ -5080,11 +5080,6 @@
 	zh-Hans=作者：{author};
 	}
 
-[by {author} · {downloads}]
-	{
-	zh-Hans=作者：{author} · {downloads};
-	}
-
 [Not installed · {size}]
 	{
 	zh-Hans=未安装 · {size};
@@ -5498,11 +5493,6 @@
 [{name} · {phase}]
 	{
 	zh-Hans={name} · {phase};
-	}
-
-[‹ {tab}]
-	{
-	zh-Hans=‹ {tab};
 	}
 
 [Update {name}]
@@ -7285,4 +7275,34 @@
 [It is still copied, so it can be fixed in your file manager; the Library's Mods tab plays only mods that work.]
 	{
 	zh-Hans=它仍会被复制，以便在文件管理器中修复；资源库的“模组”页只能运行可用的模组。;
+	}
+
+[Built into the game]
+	{
+	zh-Hans=内置于游戏;
+	}
+
+[Close]
+	{
+	zh-Hans=关闭;
+	}
+
+[In use]
+	{
+	zh-Hans=使用中;
+	}
+
+[No installed map matches.]
+	{
+	zh-Hans=没有已安装的地图与之匹配。;
+	}
+
+[USE NOW]
+	{
+	zh-Hans=立即使用;
+	}
+
+[{shown} of {all}]
+	{
+	zh-Hans={shown}/{all};
 	}
