@@ -439,11 +439,6 @@
 	zh-Hans=操作;
 	}
 
-[Common Tweaks]
-	{
-	zh-Hans=常用调整;
-	}
-
 [Graphics]
 	{
 	zh-Hans=图形;
@@ -502,11 +497,6 @@
 [CONTROLS]
 	{
 	zh-Hans=操作;
-	}
-
-[COMMON TWEAKS]
-	{
-	zh-Hans=常用调整;
 	}
 
 [GRAPHICS]
@@ -1499,11 +1489,6 @@
 	zh-Hans=右触控板移动地图，扳机键和背键互换。;
 	}
 
-[A mod from a mods folder, or one picked.]
-	{
-	zh-Hans=来自模组文件夹或手动选择的模组。;
-	}
-
 [Held, a click is not snapped.]
 	{
 	zh-Hans=按住时，点击不吸附。;
@@ -1729,11 +1714,6 @@
 	zh-Hans=无模组;
 	}
 
-[The game's own rules, as 3.1c plays them.]
-	{
-	zh-Hans=游戏自身的规则，与3.1c相同。;
-	}
-
 [N/A]
 	{
 	zh-Hans=无;
@@ -1754,24 +1734,9 @@
 	zh-Hans=打开模组文件夹;
 	}
 
-[Lists the mods in the game folder's mods folder and]
-	{
-	zh-Hans=列出游戏文件夹的mods文件夹中，以及;
-	}
-
-[in Documents/Open Annihilation/Mods.]
-	{
-	zh-Hans=Documents/Open Annihilation/Mods中的模组。;
-	}
-
 [SWITCH MOD]
 	{
 	zh-Hans=切换模组;
-	}
-
-[This folder has no oamod.yaml, so the game's own rules apply.]
-	{
-	zh-Hans=此文件夹没有oamod.yaml，因此使用游戏自身的规则。;
 	}
 
 [SWITCH]
@@ -1787,11 +1752,6 @@
 [ROLL BACK MOD]
 	{
 	zh-Hans=回滚模组;
-	}
-
-[{from} to {to}]
-	{
-	zh-Hans={from}至{to};
 	}
 
 [Roll back {title} to {to}? {from} is kept in its place, and ROLL BACK again brings it back.]
@@ -1969,24 +1929,9 @@
 	zh-Hans=修订号{incoming}比已安装的旧。;
 	}
 
-[The version installed is kept, and ROLL BACK on Mods in the Open Annihilation settings brings it back.]
-	{
-	zh-Hans=已安装的版本会保留，在Open Annihilation设置的“模组”页点击回滚即可恢复。;
-	}
-
-[Revision {installed} is kept, and ROLL BACK on Mods in the Open Annihilation settings brings it back.]
-	{
-	zh-Hans=修订号{installed}会保留，在Open Annihilation设置的“模组”页点击回滚即可恢复。;
-	}
-
 [{title} {installed} is installed. Replace it with {incoming}, or install {incoming} alongside it?]
 	{
 	zh-Hans=已安装{title} {installed}。要用{incoming}替换它，还是将{incoming}与其并列安装？;
-	}
-
-[Replacing keeps {installed}, and ROLL BACK on Mods in the Open Annihilation settings brings it back.]
-	{
-	zh-Hans=替换后会保留{installed}，在Open Annihilation设置的“模组”页点击回滚即可恢复。;
 	}
 
 [Alongside, {incoming} goes in a folder of its own:]
@@ -2027,21 +1972,6 @@
 [{title} {version} is installed in your Mods folder:]
 	{
 	zh-Hans={title} {version}已安装到你的Mods文件夹：;
-	}
-
-[Choose PLAY NOW to play it, or choose it later on Mods in the Open Annihilation settings.]
-	{
-	zh-Hans=选择“立即游戏”开始游玩，或稍后在Open Annihilation设置的“模组”页中选择它。;
-	}
-
-[Choose it on Mods in the Open Annihilation settings to play it.]
-	{
-	zh-Hans=在Open Annihilation设置的“模组”页中选择它即可游玩。;
-	}
-
-[{title} is now {new}. {old} is kept, and ROLL BACK on Mods in the Open Annihilation settings brings it back.]
-	{
-	zh-Hans={title}现在是{new}。{old}已保留，在Open Annihilation设置的“模组”页点击回滚即可恢复。;
 	}
 
 [{title} is now {new}.]
@@ -2477,11 +2407,6 @@
 [Its mod profile cannot be used:]
 	{
 	zh-Hans=其模组配置无法使用：;
-	}
-
-[It is still copied, so it can be fixed in your file manager; the Mods page plays only mods that work.]
-	{
-	zh-Hans=它仍会被复制，以便在文件管理器中修复；“模组”页只能运行可用的模组。;
 	}
 
 [Remove the old folder?]
@@ -4950,24 +4875,9 @@
 	zh-Hans=Open Annihilation;
 	}
 
-[{version} · {list}]
-	{
-	zh-Hans={version} · {list};
-	}
-
 [list from {age}]
 	{
 	zh-Hans=列表更新于{age};
-	}
-
-[no list yet]
-	{
-	zh-Hans=尚无列表;
-	}
-
-[{list} · offline]
-	{
-	zh-Hans={list} · 离线;
 	}
 
 [just now]
@@ -5670,66 +5580,6 @@
 	zh-Hans=暂不;
 	}
 
-[Revision {revision} available · {size}]
-	{
-	zh-Hans=修订号{revision}可用 · {size};
-	}
-
-[Version {version} available · {size}]
-	{
-	zh-Hans=版本{version}可用 · {size};
-	}
-
-[Revision {revision} changes the rules · {size}]
-	{
-	zh-Hans=修订号{revision}会改变规则 · {size};
-	}
-
-[Version {version} changes the rules · {size}]
-	{
-	zh-Hans=版本{version}会改变规则 · {size};
-	}
-
-[Revision {revision} may change the rules · {size}]
-	{
-	zh-Hans=修订号{revision}可能改变规则 · {size};
-	}
-
-[Version {version} may change the rules · {size}]
-	{
-	zh-Hans=版本{version}可能改变规则 · {size};
-	}
-
-[Updating · {percent}%]
-	{
-	zh-Hans=正在更新 · {percent}%;
-	}
-
-[Checked for updates {age}]
-	{
-	zh-Hans={age}检查过更新;
-	}
-
-[Not checked for updates yet]
-	{
-	zh-Hans=尚未检查更新;
-	}
-
-[Checking for updates…]
-	{
-	zh-Hans=正在检查更新……;
-	}
-
-[Couldn't check for updates]
-	{
-	zh-Hans=无法检查更新;
-	}
-
-[No registries are on.]
-	{
-	zh-Hans=没有开启的内容源。;
-	}
-
 [the server could not be reached]
 	{
 	zh-Hans=无法连接服务器;
@@ -5825,16 +5675,6 @@
 [DOWNLOADS]
 	{
 	zh-Hans=下载;
-	}
-
-[CHECK NOW]
-	{
-	zh-Hans=立即检查;
-	}
-
-[GET MORE MODS…]
-	{
-	zh-Hans=获取更多模组……;
 	}
 
 [The file manager could not open it.]
@@ -6045,11 +5885,6 @@
 [{n} on of {m}]
 	{
 	zh-Hans=已开启{n}/{m};
-	}
-
-[DOWNLOADS · REGISTRIES]
-	{
-	zh-Hans=下载 · 内容源;
 	}
 
 [‹ DOWNLOADS]
@@ -6792,4 +6627,652 @@
 [Mirror of {name}]
 	{
 	zh-Hans={name}的镜像;
+	}
+
+// Revision 4: the words the improvement wave added, against the
+// engine at 7e4c910f (oa-tool interface-words).
+
+[Welcome to Open Annihilation]
+	{
+	zh-Hans=欢迎来到Open Annihilation;
+	}
+
+[Welcome]
+	{
+	zh-Hans=欢迎;
+	}
+
+[WELCOME]
+	{
+	zh-Hans=欢迎;
+	}
+
+[Choose your language.]
+	{
+	zh-Hans=选择你的语言。;
+	}
+
+[Skip setup]
+	{
+	zh-Hans=跳过设置;
+	}
+
+[Start playing]
+	{
+	zh-Hans=开始游戏;
+	}
+
+[Back]
+	{
+	zh-Hans=返回;
+	}
+
+[Next]
+	{
+	zh-Hans=下一步;
+	}
+
+[Previous]
+	{
+	zh-Hans=上一个;
+	}
+
+[Get]
+	{
+	zh-Hans=获取;
+	}
+
+[Cancel download]
+	{
+	zh-Hans=取消下载;
+	}
+
+[Retry]
+	{
+	zh-Hans=重试;
+	}
+
+[Checking…]
+	{
+	zh-Hans=正在检查……;
+	}
+
+[Couldn't download]
+	{
+	zh-Hans=无法下载;
+	}
+
+[Offline]
+	{
+	zh-Hans=离线;
+	}
+
+[Active]
+	{
+	zh-Hans=当前;
+	}
+
+[English]
+	{
+	zh-Hans=英语;
+	}
+
+[of]
+	{
+	zh-Hans=/;
+	}
+
+[Other languages download from Core Prime. The first download makes a random install ID, which the next step explains.]
+	{
+	zh-Hans=其他语言从Core Prime下载。首次下载会生成一个随机安装ID，下一步会说明。;
+	}
+
+[Downloads are off, so language packs stay offline.]
+	{
+	zh-Hans=下载已关闭，因此语言包保持离线。;
+	}
+
+[The catalogue could not be read, so language packs stay offline.]
+	{
+	zh-Hans=无法读取目录，因此语言包保持离线。;
+	}
+
+[ONLINE]
+	{
+	zh-Hans=在线;
+	}
+
+[ONLINE FEATURES]
+	{
+	zh-Hans=在线功能;
+	}
+
+[Downloads, updates and a number only you hold]
+	{
+	zh-Hans=下载、更新，以及一个只有你持有的数字;
+	}
+
+[Get language packs, mods and map packs from Core Prime.]
+	{
+	zh-Hans=从Core Prime获取语言包、模组和地图包。;
+	}
+
+[Lists of what is new are checked as the game starts and when the Library opens.]
+	{
+	zh-Hans=游戏启动时以及打开资源库时，会检查有哪些新内容。;
+	}
+
+[A random install ID, one per registry, is sent only when downloading from that registry.]
+	{
+	zh-Hans=每个内容源各有一个随机安装ID，仅在从该内容源下载时才会发送。;
+	}
+
+[Your install ID]
+	{
+	zh-Hans=你的安装ID;
+	}
+
+[A random 128-bit number, made the first time you download from a registry, not when the game starts. Each registry that asks has its own. Core Prime asks for one. It is sent only when asking that registry for a download. Turning it off forgets it, and downloads from that registry stop. Built-in languages and files you open keep working.]
+	{
+	zh-Hans=一个128位的随机数，在你首次从某个内容源下载时生成，而不是在游戏启动时。每个要求它的内容源各有一个。Core Prime会要求一个。只在向该内容源请求下载时发送。关闭后即忘记它，来自该内容源的下载也会停止。内置语言和你打开的文件仍可使用。;
+	}
+
+[Turn on online features]
+	{
+	zh-Hans=开启在线功能;
+	}
+
+[Not now]
+	{
+	zh-Hans=暂不;
+	}
+
+[Check for content updates stays at Automatically, and Core Prime's install ID stays on.]
+	{
+	zh-Hans=检查内容更新保持为自动，并且Core Prime的安装ID保持打开。;
+	}
+
+[Check for content updates is set to Never, and Core Prime's install ID is turned off.]
+	{
+	zh-Hans=检查内容更新已设为从不，并且Core Prime的安装ID已关闭。;
+	}
+
+[THE MAIN MENU · 3 OF 3]
+	{
+	zh-Hans=主菜单 · 第3步，共3步;
+	}
+
+[Two buttons for everything Open Annihilation adds]
+	{
+	zh-Hans=这两个按钮涵盖Open Annihilation新增的一切;
+	}
+
+[Settings]
+	{
+	zh-Hans=设置;
+	}
+
+[Get, update and switch mods, map packs and languages. The number is how many mods you have.]
+	{
+	zh-Hans=获取、更新并切换模组、地图包和语言。数字是你拥有的模组数量。;
+	}
+
+[Open Annihilation's own settings: controls, graphics, the interface's size, downloads and your files.]
+	{
+	zh-Hans=Open Annihilation自身的设置：操作、图形、界面尺寸、下载和你的文件。;
+	}
+
+[The Library is where you get mods, map packs and languages. Settings is where you change how Open Annihilation looks and plays. Everything else on this menu is the game's own.]
+	{
+	zh-Hans=资源库用来获取模组、地图包和语言。设置用来改变Open Annihilation的外观与玩法。此菜单上的其余项都属于游戏本身。;
+	}
+
+[Engine Limits]
+	{
+	zh-Hans=引擎限制;
+	}
+
+[ENGINE LIMITS]
+	{
+	zh-Hans=引擎限制;
+	}
+
+[Language & Text]
+	{
+	zh-Hans=语言与文字;
+	}
+
+[LANGUAGE & TEXT]
+	{
+	zh-Hans=语言与文字;
+	}
+
+[User Interface]
+	{
+	zh-Hans=用户界面;
+	}
+
+[USER INTERFACE]
+	{
+	zh-Hans=用户界面;
+	}
+
+[System]
+	{
+	zh-Hans=系统;
+	}
+
+[SYSTEM]
+	{
+	zh-Hans=系统;
+	}
+
+[Welcome setup]
+	{
+	zh-Hans=欢迎设置;
+	}
+
+[SHOW AGAIN]
+	{
+	zh-Hans=再看一次;
+	}
+
+[Walk through the language, online features and the OA buttons again.]
+	{
+	zh-Hans=再走一遍语言、在线功能和OA按钮。;
+	}
+
+[File Type Registration]
+	{
+	zh-Hans=文件类型关联;
+	}
+
+[File types]
+	{
+	zh-Hans=文件类型;
+	}
+
+[Mod packages (.oamod)]
+	{
+	zh-Hans=模组包（.oamod）;
+	}
+
+[Map packs (.oamap)]
+	{
+	zh-Hans=地图包（.oamap）;
+	}
+
+[Language packs (.oalang)]
+	{
+	zh-Hans=语言包（.oalang）;
+	}
+
+[Registry files (.oareg)]
+	{
+	zh-Hans=内容源文件（.oareg）;
+	}
+
+[Open these files with the game]
+	{
+	zh-Hans=用游戏打开这些文件;
+	}
+
+[from your file manager.]
+	{
+	zh-Hans=从文件管理器中打开。;
+	}
+
+[The system takes these file types from the app.]
+	{
+	zh-Hans=这些文件类型由系统从应用读取。;
+	}
+
+[Finder's Get Info › Open with]
+	{
+	zh-Hans=Finder的“显示简介”›“打开方式”;
+	}
+
+[chooses another opener.]
+	{
+	zh-Hans=用来选择其他程序。;
+	}
+
+[and]
+	{
+	zh-Hans=和;
+	}
+
+[macOS kept Open Annihilation as the opener of {types}. To choose another, select a {types} file in Finder, then File › Get Info › Open with › Change All.]
+	{
+	zh-Hans=macOS仍将Open Annihilation设为{types}的打开程序。要改用其他程序，请在Finder中选中一个{types}文件，然后选择“文件”›“显示简介”›“打开方式”›“全部更改”。;
+	}
+
+[macOS kept Open Annihilation as the opener of {types}. To choose another, select one of them in Finder, then File › Get Info › Open with › Change All.]
+	{
+	zh-Hans=macOS仍将Open Annihilation设为{types}的打开程序。要改用其他程序，请在Finder中选中其中一个，然后选择“文件”›“显示简介”›“打开方式”›“全部更改”。;
+	}
+
+[This system reads HTTPS registries over HTTP.]
+	{
+	zh-Hans=此系统通过HTTP读取HTTPS内容源。;
+	}
+
+[REGISTRIES IN THE LIBRARY…]
+	{
+	zh-Hans=内容源在资源库中……;
+	}
+
+[Registries are in the Library.]
+	{
+	zh-Hans=内容源在资源库中。;
+	}
+
+[MOD]
+	{
+	zh-Hans=模组;
+	}
+
+[MAPS]
+	{
+	zh-Hans=地图;
+	}
+
+[Base Game]
+	{
+	zh-Hans=基础游戏;
+	}
+
+[Base Game (Disable Mods)]
+	{
+	zh-Hans=基础游戏（停用模组）;
+	}
+
+[No mod: the game as it was made]
+	{
+	zh-Hans=无模组：游戏最初的样子;
+	}
+
+[Total Annihilation 3.1c as it was made, with no mod]
+	{
+	zh-Hans=最初的3.1c版横扫千军，没有模组;
+	}
+
+[SWITCH OFF]
+	{
+	zh-Hans=停用;
+	}
+
+[UNLOAD MOD]
+	{
+	zh-Hans=停用模组;
+	}
+
+[UNINSTALL]
+	{
+	zh-Hans=卸载;
+	}
+
+[{language} · built in]
+	{
+	zh-Hans={language} · 内置;
+	}
+
+[Coverage {percent}%]
+	{
+	zh-Hans=覆盖率{percent}%;
+	}
+
+[From {pack}]
+	{
+	zh-Hans=来自{pack};
+	}
+
+[{count} player]
+	{
+	zh-Hans={count}名玩家;
+	}
+
+[{map} · {players} · {size}]
+	{
+	zh-Hans={map} · {players} · {size};
+	}
+
+[No map packs are installed.]
+	{
+	zh-Hans=尚未安装地图包。;
+	}
+
+[{count} mod]
+	{
+	zh-Hans={count}个模组;
+	}
+
+[{count} mods]
+	{
+	zh-Hans={count}个模组;
+	}
+
+[New]
+	{
+	zh-Hans=新增;
+	}
+
+[{filter} ({count})]
+	{
+	zh-Hans={filter}（{count}）;
+	}
+
+[{tab} ({count})]
+	{
+	zh-Hans={tab}（{count}）;
+	}
+
+[Author]
+	{
+	zh-Hans=作者;
+	}
+
+[Latest]
+	{
+	zh-Hans=最新;
+	}
+
+[{version} (rev {revision})]
+	{
+	zh-Hans={version}（修订{revision}）;
+	}
+
+[Update available · {size} to download]
+	{
+	zh-Hans=有可用更新 · 需下载{size};
+	}
+
+[the old copy]
+	{
+	zh-Hans=旧副本;
+	}
+
+[the new copy]
+	{
+	zh-Hans=新副本;
+	}
+
+[old]
+	{
+	zh-Hans=旧版;
+	}
+
+[new]
+	{
+	zh-Hans=新版;
+	}
+
+[offline]
+	{
+	zh-Hans=离线;
+	}
+
+[Platform]
+	{
+	zh-Hans=平台;
+	}
+
+[Reg]
+	{
+	zh-Hans=内容源;
+	}
+
+[Refresh]
+	{
+	zh-Hans=刷新;
+	}
+
+[Refreshing]
+	{
+	zh-Hans=正在刷新;
+	}
+
+[REFRESH]
+	{
+	zh-Hans=刷新;
+	}
+
+[refreshed {age}]
+	{
+	zh-Hans={age}刷新过;
+	}
+
+[never refreshed]
+	{
+	zh-Hans=从未刷新;
+	}
+
+[Key]
+	{
+	zh-Hans=密钥;
+	}
+
+[built in]
+	{
+	zh-Hans=内置;
+	}
+
+[added by you]
+	{
+	zh-Hans=由你添加;
+	}
+
+[No signing key]
+	{
+	zh-Hans=没有签名密钥;
+	}
+
+[Map packs can't be uninstalled during a game.]
+	{
+	zh-Hans=游戏中无法卸载地图包。;
+	}
+
+[It is in the download queue: CANCEL it before you uninstall it.]
+	{
+	zh-Hans=它正在下载队列中：请先“取消”，然后再卸载。;
+	}
+
+[Uninstall {name}]
+	{
+	zh-Hans=卸载{name};
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed.]
+	{
+	zh-Hans=卸载{name}？其文件夹{folder}将被删除。;
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy ROLL BACK keeps.]
+	{
+	zh-Hans=卸载{name}？其文件夹{folder}将被删除，回滚所保留的副本也会一并删除。;
+	}
+
+[GET installs it again.]
+	{
+	zh-Hans=“获取”会再次安装它。;
+	}
+
+[No registry lists it, so the Library cannot get it again.]
+	{
+	zh-Hans=没有内容源列出它，因此资源库无法再次获取。;
+	}
+
+[You are playing {name}. Switch it off first with SWITCH OFF, then uninstall it.]
+	{
+	zh-Hans=你正在使用{name}。请先点击“停用”关闭它，然后再卸载。;
+	}
+
+[The game is shown in {name}. Choose another language in Settings › Language first, then uninstall it.]
+	{
+	zh-Hans=游戏当前显示为{name}。请先在设置 › 语言中改选其他语言，然后再卸载。;
+	}
+
+[{name} was not uninstalled. {reason}]
+	{
+	zh-Hans={name}未能卸载。{reason};
+	}
+
+[Open Annihilation, or another copy of it, is still changing its folder. Try again in a moment.]
+	{
+	zh-Hans=Open Annihilation或其他副本仍在更改其文件夹。请稍后再试。;
+	}
+
+[Its folder changed since the Library listed it. Try again.]
+	{
+	zh-Hans=自资源库列出它以来，其文件夹已改变。请重试。;
+	}
+
+[Its folder is a link, and OA never removes what a link leads to. OPEN FOLDER shows it.]
+	{
+	zh-Hans=其文件夹是一个链接，OA从不删除链接所指向的内容。“打开文件夹”会显示它。;
+	}
+
+[Its folder is not in your own Open Annihilation folder, and OA removes nothing outside it.]
+	{
+	zh-Hans=其文件夹不在你自己的Open Annihilation文件夹中，OA不会删除该文件夹以外的内容。;
+	}
+
+[Its folder could not be moved; another program may be using it. Close it, then try again.]
+	{
+	zh-Hans=无法移动其文件夹；可能有其他程序正在使用它。请关闭该程序，然后重试。;
+	}
+
+[The version installed is kept, and ROLL BACK in the Library brings it back.]
+	{
+	zh-Hans=已安装的版本会保留，在资源库中点击回滚即可恢复。;
+	}
+
+[Revision {installed} is kept, and ROLL BACK in the Library brings it back.]
+	{
+	zh-Hans=修订号{installed}会保留，在资源库中点击回滚即可恢复。;
+	}
+
+[Replacing keeps {installed}, and ROLL BACK in the Library brings it back.]
+	{
+	zh-Hans=替换后会保留{installed}，在资源库中点击回滚即可恢复。;
+	}
+
+[Choose PLAY NOW to play it, or choose it later with PLAY NOW in the Library.]
+	{
+	zh-Hans=选择“立即游戏”开始游玩，或稍后在资源库中选择“立即游戏”。;
+	}
+
+[Choose it with PLAY NOW in the Library to play it.]
+	{
+	zh-Hans=在资源库中选择“立即游戏”即可游玩。;
+	}
+
+[{title} is now {new}. {old} is kept, and ROLL BACK in the Library brings it back.]
+	{
+	zh-Hans={title}现在是{new}。{old}已保留，在资源库中点击回滚即可恢复。;
+	}
+
+[It is still copied, so it can be fixed in your file manager; the Library's Mods tab plays only mods that work.]
+	{
+	zh-Hans=它仍会被复制，以便在文件管理器中修复；资源库的“模组”页只能运行可用的模组。;
 	}
