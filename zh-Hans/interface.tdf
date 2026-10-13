@@ -9,46 +9,6 @@
 	zh-Hans=无;
 	}
 
-[In Full the graphics card draws the view 1:1;]
-	{
-	zh-Hans=完整模式下显卡按1:1绘制画面；;
-	}
-
-[a level draws it finer for smoother edges.]
-	{
-	zh-Hans=选择等级可绘制得更精细，边缘更平滑。;
-	}
-
-[and scales them down for smoother edges.]
-	{
-	zh-Hans=再缩小以使边缘更平滑。;
-	}
-
-[the most this window allows, scaled down.]
-	{
-	zh-Hans=即此窗口允许的上限，再缩小。;
-	}
-
-[In Full the card draws 2x2 samples a pixel]
-	{
-	zh-Hans=完整模式下显卡每像素绘制2x2个采样;
-	}
-
-[In Full the card draws 4x4 samples a pixel]
-	{
-	zh-Hans=完整模式下显卡每像素绘制4x4个采样;
-	}
-
-[In Full the card draws 8x8 samples a pixel]
-	{
-	zh-Hans=完整模式下显卡每像素绘制8x8个采样;
-	}
-
-[In Full the card draws 16x16 samples a pixel]
-	{
-	zh-Hans=完整模式下显卡每像素绘制16x16个采样;
-	}
-
 [Off]
 	{
 	zh-Hans=关闭;
@@ -874,174 +834,14 @@
 	zh-Hans=滚动滚轮缩放战场。;
 	}
 
-[As far as the view always went: 1/6 of normal]
-	{
-	zh-Hans=缩小到以往的上限：正常大小的1/6;
-	}
-
-[size with Full hardware acceleration, else 1/2.]
-	{
-	zh-Hans=（硬件加速为完整时），否则为1/2。;
-	}
-
-[Out until the whole map fits the view.]
-	{
-	zh-Hans=缩小到整张地图都能装进视图为止。;
-	}
-
-[Graphics' Zoomed out units says how units look.]
-	{
-	zh-Hans=单位的样子由“图形”中的“缩小时的单位”决定。;
-	}
-
-[Out to 1/32 of normal size, or the whole map.]
-	{
-	zh-Hans=最多缩小到正常大小的1/32，或整张地图。;
-	}
-
-[Out to 1/16 of normal size, or the whole map.]
-	{
-	zh-Hans=最多缩小到正常大小的1/16，或整张地图。;
-	}
-
-[Out to 1/8 of normal size, or the whole map.]
-	{
-	zh-Hans=最多缩小到正常大小的1/8，或整张地图。;
-	}
-
-[Out to 1/4 of normal size, or the whole map.]
-	{
-	zh-Hans=最多缩小到正常大小的1/4，或整张地图。;
-	}
-
-[Out to 1/2 of normal size, or the whole map.]
-	{
-	zh-Hans=最多缩小到正常大小的1/2，或整张地图。;
-	}
-
-[Never closer than normal size.]
-	{
-	zh-Hans=放大不超过正常大小。;
-	}
-
-[In to 2x normal size at most.]
-	{
-	zh-Hans=最多放大到正常大小的2倍。;
-	}
-
-[In to 3x normal size at most.]
-	{
-	zh-Hans=最多放大到正常大小的3倍。;
-	}
-
-[In to 4x normal size at most.]
-	{
-	zh-Hans=最多放大到正常大小的4倍。;
-	}
-
-[The wheel, a pinch and a controller stop there.]
-	{
-	zh-Hans=滚轮、双指缩放和手柄都止于此。;
-	}
-
-[The view stays on the map, as the game kept it.]
-	{
-	zh-Hans=视野保持在地图之内，与游戏原本一致。;
-	}
-
-[With more than the map in view, it is centred.]
-	{
-	zh-Hans=视野大于地图时，地图居中显示。;
-	}
-
-[Up to a quarter of the battlefield past the]
-	{
-	zh-Hans=最多四分之一的战场可显示在;
-	}
-
-[map's edges, however the view moves.]
-	{
-	zh-Hans=地图边缘之外，无论视野如何移动。;
-	}
-
-[Up to half the battlefield past the map's edges;]
-	{
-	zh-Hans=最多一半的战场可显示在地图边缘之外；;
-	}
-
-[a zoom keeps the ground under the pointer.]
-	{
-	zh-Hans=缩放时指针下的地面保持不动。;
-	}
-
-[The first press clears the selection,]
-	{
-	zh-Hans=第一次按下清除选择，;
-	}
-
-[the second opens the menu.]
-	{
-	zh-Hans=第二次按下打开菜单。;
-	}
-
 [A number key selects its group on its own.]
 	{
 	zh-Hans=数字键直接选择其编队。;
 	}
 
-[Units each player can have.]
-	{
-	zh-Hans=每名玩家可拥有的单位数。;
-	}
-
-[Applies from the next game.]
-	{
-	zh-Hans=从下一局起生效。;
-	}
-
 [Lower it to save power.]
 	{
 	zh-Hans=调低可省电。;
-	}
-
-[Units drawn at 16x and scaled down.]
-	{
-	zh-Hans=单位以16x绘制后缩小。;
-	}
-
-[Needs a fast CPU.]
-	{
-	zh-Hans=需要高速CPU。;
-	}
-
-[Units drawn at 8x and scaled down.]
-	{
-	zh-Hans=单位以8x绘制后缩小。;
-	}
-
-[Units drawn at higher resolution and scaled down]
-	{
-	zh-Hans=单位以更高分辨率绘制后缩小，;
-	}
-
-[for smoother edges.]
-	{
-	zh-Hans=使边缘更平滑。;
-	}
-
-[Full screen at this size, or a window of it.]
-	{
-	zh-Hans=以此尺寸全屏显示，或使用同尺寸窗口。;
-	}
-
-[Applies from the next start.]
-	{
-	zh-Hans=下次启动时生效。;
-	}
-
-[Applies when you press OK.]
-	{
-	zh-Hans=按“确定”后生效。;
 	}
 
 [Custom]
@@ -1064,66 +864,6 @@
 	zh-Hans=每帧等待显示器刷新：无画面撕裂。;
 	}
 
-[The menus fill the window, every pixel]
-	{
-	zh-Hans=菜单填满窗口，每个像素;
-	}
-
-[as wide as the next.]
-	{
-	zh-Hans=宽度相同。;
-	}
-
-[The largest whole-number scale that fits:]
-	{
-	zh-Hans=能容纳的最大整数倍缩放：;
-	}
-
-[smaller menus, every pixel square.]
-	{
-	zh-Hans=菜单较小，每个像素都是正方形。;
-	}
-
-[The menus fill the window, unfiltered,]
-	{
-	zh-Hans=菜单填满窗口，不过滤，;
-	}
-
-[as the game always drew them.]
-	{
-	zh-Hans=与游戏一贯的绘制方式相同。;
-	}
-
-[Explosions do not light up the ground,]
-	{
-	zh-Hans=爆炸不会照亮地面，;
-	}
-
-[whatever a mod asks for.]
-	{
-	zh-Hans=无论模组如何要求。;
-	}
-
-[Explosions light up the ground at half]
-	{
-	zh-Hans=爆炸以一半的强度照亮地面，;
-	}
-
-[strength, or less where a mod asks.]
-	{
-	zh-Hans=模组要求时则更弱。;
-	}
-
-[Explosions light up the ground as the game]
-	{
-	zh-Hans=爆炸照亮地面，与游戏原本的绘制相同，;
-	}
-
-[drew it, or less where a mod asks.]
-	{
-	zh-Hans=模组要求时则更弱。;
-	}
-
 [Rendered]
 	{
 	zh-Hans=模型;
@@ -1139,66 +879,6 @@
 	zh-Hans=图标;
 	}
 
-[Units are drawn as models at every zoom.]
-	{
-	zh-Hans=任何缩放下单位都以模型绘制。;
-	}
-
-[Far out on a large map, needs a fast CPU.]
-	{
-	zh-Hans=在大地图上缩得很远时需要高速CPU。;
-	}
-
-[Past After zoom, each unit is a dot of its]
-	{
-	zh-Hans=缩小超过设定值后，每个单位显示为;
-	}
-
-[owner's colour, framed while selected.]
-	{
-	zh-Hans=所属玩家颜色的小点，选中时带边框。;
-	}
-
-[Dots farther out than 1/2 of normal size.]
-	{
-	zh-Hans=缩小到正常大小的1/2以外时显示为小点。;
-	}
-
-[Dots farther out than 1/3 of normal size.]
-	{
-	zh-Hans=缩小到正常大小的1/3以外时显示为小点。;
-	}
-
-[Dots farther out than 1/4 of normal size.]
-	{
-	zh-Hans=缩小到正常大小的1/4以外时显示为小点。;
-	}
-
-[Dots farther out than 1/6 of normal size.]
-	{
-	zh-Hans=缩小到正常大小的1/6以外时显示为小点。;
-	}
-
-[Dots farther out than 1/8 of normal size.]
-	{
-	zh-Hans=缩小到正常大小的1/8以外时显示为小点。;
-	}
-
-[Dots farther out than 1/12 of normal size.]
-	{
-	zh-Hans=缩小到正常大小的1/12以外时显示为小点。;
-	}
-
-[Dots farther out than 1/16 of normal size.]
-	{
-	zh-Hans=缩小到正常大小的1/16以外时显示为小点。;
-	}
-
-[Closer in, units are drawn as models.]
-	{
-	zh-Hans=更近时单位以模型绘制。;
-	}
-
 [Hidden in play]
 	{
 	zh-Hans=游戏中隐藏;
@@ -1207,61 +887,6 @@
 [Always shown]
 	{
 	zh-Hans=始终显示;
-	}
-
-[A window hides its title bar and borders]
-	{
-	zh-Hans=进行游戏时，窗口隐藏标题栏和边框，;
-	}
-
-[while a game is played; menus show them.]
-	{
-	zh-Hans=在菜单中则显示。;
-	}
-
-[A window shows its title bar and borders]
-	{
-	zh-Hans=窗口在每个画面都显示标题栏和边框，;
-	}
-
-[on every screen, a game's included.]
-	{
-	zh-Hans=进行游戏时也一样。;
-	}
-
-[The side panel and bars grow with the window,]
-	{
-	zh-Hans=侧边栏和上下栏随窗口放大，;
-	}
-
-[up to twice the original game's size.]
-	{
-	zh-Hans=最大为原版游戏的两倍。;
-	}
-
-[The side panel and bars keep the original]
-	{
-	zh-Hans=侧边栏和上下栏在任何窗口中;
-	}
-
-[game's size on every window.]
-	{
-	zh-Hans=都保持原版游戏的大小。;
-	}
-
-[The display's own pixel density (Retina on a Mac).]
-	{
-	zh-Hans=使用显示器自身的像素密度（Mac上的Retina）。;
-	}
-
-[Modern fonts for in-game text,]
-	{
-	zh-Hans=游戏内文字使用现代字体，;
-	}
-
-[including internationalization.]
-	{
-	zh-Hans=支持多语言文字。;
 	}
 
 [A dark edge round each letter of modern text.]
@@ -1279,129 +904,14 @@
 	zh-Hans=每行游戏文字后加阴影底框。;
 	}
 
-[The game's own text and unit names, where its]
-	{
-	zh-Hans=游戏自身的文字和单位名称，;
-	}
-
-[data has them in the language.]
-	{
-	zh-Hans=在其数据含有该语言时显示。;
-	}
-
-[The size of game text in the modern fonts.]
-	{
-	zh-Hans=现代字体下游戏文字的大小。;
-	}
-
-[Larger sizes are easier to read.]
-	{
-	zh-Hans=字号越大越易读。;
-	}
-
-[The game's own fonts have fixed sizes.]
-	{
-	zh-Hans=游戏自带字体的大小固定。;
-	}
-
-[Automatic: a selection box on a tablet,]
-	{
-	zh-Hans=自动：平板上为框选，;
-	}
-
-[scrolling on a phone.]
-	{
-	zh-Hans=手机上为滚动。;
-	}
-
-[A drag draws a selection box;]
-	{
-	zh-Hans=拖动绘制选择框；;
-	}
-
-[two fingers scroll the map.]
-	{
-	zh-Hans=双指滚动地图。;
-	}
-
-[A drag scrolls the map;]
-	{
-	zh-Hans=拖动滚动地图；;
-	}
-
-[hold, then drag, for a selection box.]
-	{
-	zh-Hans=长按后拖动绘制选择框。;
-	}
-
 [How long a finger or button is held for a hold.]
 	{
 	zh-Hans=手指或按键按住多久算作长按。;
 	}
 
-[A tapped QUEUE, ADD or x5 turns off]
-	{
-	zh-Hans=点按开启的排队、追加或x5;
-	}
-
-[after the next order or selection.]
-	{
-	zh-Hans=在下一次命令或选择后关闭。;
-	}
-
-[A tapped QUEUE, ADD or x5 stays on]
-	{
-	zh-Hans=点按开启的排队、追加或x5;
-	}
-
-[until it is tapped again.]
-	{
-	zh-Hans=保持开启，直到再次点按。;
-	}
-
 [A short vibration as a touch control acts.]
 	{
 	zh-Hans=触控操作生效时短暂振动。;
-	}
-
-[The minimap and the thumb controls on the]
-	{
-	zh-Hans=小地图和拇指控件在右侧，;
-	}
-
-[right, the orders on the left.]
-	{
-	zh-Hans=命令在左侧。;
-	}
-
-[The size of the touch controls; the game's own]
-	{
-	zh-Hans=触控控件的大小；游戏自身的;
-	}
-
-[screens keep theirs.]
-	{
-	zh-Hans=界面保持原有大小。;
-	}
-
-[The right stick moves the pointer and the left]
-	{
-	zh-Hans=右摇杆移动指针，;
-	}
-
-[stick the map.]
-	{
-	zh-Hans=左摇杆移动地图。;
-	}
-
-[The right trackpad points and the left one moves]
-	{
-	zh-Hans=右触控板控制指针，左触控板;
-	}
-
-[the map; a pad without trackpads plays Sticks.]
-	{
-	zh-Hans=移动地图；没有触控板的手柄使用摇杆方案。;
 	}
 
 [Each point of the pad is a point of the view.]
@@ -1427,26 +937,6 @@
 [The pointer keeps moving after a quick flick.]
 	{
 	zh-Hans=快速轻扫后指针继续移动。;
-	}
-
-[Up and down zoom about the pointer; a flick left]
-	{
-	zh-Hans=上下推动以指针为中心缩放；左右轻扫;
-	}
-
-[or right turns the build page while building.]
-	{
-	zh-Hans=在建造时翻动建造页。;
-	}
-
-[The right stick moves the pointer, as in the]
-	{
-	zh-Hans=右摇杆移动指针，;
-	}
-
-[Sticks scheme.]
-	{
-	zh-Hans=与摇杆方案相同。;
 	}
 
 [The right stick does nothing.]
@@ -1479,16 +969,6 @@
 	zh-Hans=控件和环形菜单显示的按键图标。;
 	}
 
-[Mirrors the roles: the left pad points, the right]
-	{
-	zh-Hans=左右功能互换：左触控板控制指针，;
-	}
-
-[pad moves the map, triggers and grips swap.]
-	{
-	zh-Hans=右触控板移动地图，扳机键和背键互换。;
-	}
-
 [Held, a click is not snapped.]
 	{
 	zh-Hans=按住时，点击不吸附。;
@@ -1502,16 +982,6 @@
 [Turns the building being placed.]
 	{
 	zh-Hans=旋转正在放置的建筑。;
-	}
-
-[What patrolling builders do.]
-	{
-	zh-Hans=巡逻中的建造单位的行为。;
-	}
-
-[What guarding builders do.]
-	{
-	zh-Hans=护卫中的建造单位的行为。;
 	}
 
 [Cells a metal extractor snaps to metal.]
@@ -1542,16 +1012,6 @@
 [Behind the resource bar's text.]
 	{
 	zh-Hans=位于资源栏文字后方。;
-	}
-
-[After restoring this {device} from a backup,]
-	{
-	zh-Hans=从备份恢复此{device}后，;
-	}
-
-[add the game files again.]
-	{
-	zh-Hans=请重新添加游戏文件。;
 	}
 
 [per player]
@@ -3304,79 +2764,14 @@
 	zh-Hans={a}或{b};
 	}
 
-[GAME FOLDER]
-	{
-	zh-Hans=游戏文件夹;
-	}
-
-[Total Annihilation is on this computer in more than one place. Choose the one to play.]
-	{
-	zh-Hans=此电脑上有多处横扫千军。请选择要游玩的那一个。;
-	}
-
-[Total Annihilation was found on this computer. Play it, or choose another folder.]
-	{
-	zh-Hans=已在此电脑上找到横扫千军。直接游玩，或选择其他文件夹。;
-	}
-
-[Choose the folder that holds totala1.hpi, or the folder that holds the installer of the Total Annihilation demo (1997).]
-	{
-	zh-Hans=选择含有totala1.hpi的文件夹，或含有横扫千军试玩版（1997）安装程序的文件夹。;
-	}
-
 [Choose your Total Annihilation folder]
 	{
 	zh-Hans=选择你的横扫千军文件夹;
 	}
 
-[Or find the folder yourself:]
-	{
-	zh-Hans=或自行查找文件夹：;
-	}
-
-[Browse…]
-	{
-	zh-Hans=浏览……;
-	}
-
-[Look through this computer's folders, drives and SD cards.]
-	{
-	zh-Hans=浏览此电脑的文件夹、驱动器和SD卡。;
-	}
-
-[Choose the folder its installer is in, usually Downloads.]
-	{
-	zh-Hans=选择其安装程序所在的文件夹，通常是“下载”。;
-	}
-
-[Use the desktop's folder dialog]
-	{
-	zh-Hans=使用桌面系统的文件夹对话框;
-	}
-
-[Choose the folder in the system's own window.]
-	{
-	zh-Hans=在系统自己的窗口中选择文件夹。;
-	}
-
-[QUIT]
-	{
-	zh-Hans=退出;
-	}
-
-[PARENT FOLDER]
-	{
-	zh-Hans=上级文件夹;
-	}
-
 [No folders here.]
 	{
 	zh-Hans=此处没有文件夹。;
-	}
-
-[PLAY THIS FOLDER]
-	{
-	zh-Hans=游玩此文件夹;
 	}
 
 [Settings were not saved.]
@@ -4774,16 +4169,6 @@
 	zh-Hans=启用Unicode多人聊天;
 	}
 
-[Chat in any language with players who have it;]
-	{
-	zh-Hans=与开启此项的玩家可用任何语言聊天；;
-	}
-
-[others see ? for letters they lack.]
-	{
-	zh-Hans=其他玩家会把缺少的字看成?。;
-	}
-
 [Set by the language]
 	{
 	zh-Hans=由语言设定;
@@ -4843,10 +4228,6 @@
 [Switch to {title} now? The game reloads its data for the new mod and returns to the main menu. Your other settings are kept.]
 	{
 	zh-Hans=现在切换到{title}吗？游戏将为新模组重新载入数据并返回主菜单。其他设置保持不变。;
-	}
-[This folder can be played: {folder}]
-	{
-	zh-Hans=此文件夹可以游玩：{folder};
 	}
 [{n} UNITS]
 	{
@@ -5742,16 +5123,6 @@
 	zh-Hans=界面尺寸;
 	}
 
-[How large Open Annihilation's own screens]
-	{
-	zh-Hans=Open Annihilation自身界面的绘制大小。;
-	}
-
-[are drawn. Auto suits the window's height.]
-	{
-	zh-Hans=“自动”会根据窗口高度选择。;
-	}
-
 [Auto]
 	{
 	zh-Hans=自动;
@@ -5795,31 +5166,6 @@
 [OA looks for new content and updates in the registries' lists. It never installs anything until you say so.]
 	{
 	zh-Hans=OA会在内容源的列表中查找新内容和更新。未经你同意，不会安装任何内容。;
-	}
-
-[OA looks for new content and updates in the]
-	{
-	zh-Hans=OA会在内容源的列表中查找;
-	}
-
-[registries' lists. It never installs anything]
-	{
-	zh-Hans=新内容和更新。未经你同意，;
-	}
-
-[until you say so.]
-	{
-	zh-Hans=不会安装任何内容。;
-	}
-
-[OA looks for new content and updates in the registries' lists. It never installs]
-	{
-	zh-Hans=OA会在内容源的列表中查找新内容和更新。未经你同意，;
-	}
-
-[anything until you say so.]
-	{
-	zh-Hans=不会安装任何内容。;
 	}
 
 [Install ID]
@@ -5994,29 +5340,14 @@
 	zh-Hans=遭遇战 · 正在使用{mod};
 	}
 
-[Skirmish · Total Annihilation 3.1c]
-	{
-	zh-Hans=遭遇战 · 3.1c版横扫千军;
-	}
-
 [Battle room · playing {mod}]
 	{
 	zh-Hans=战斗房间 · 正在使用{mod};
 	}
 
-[Battle room · Total Annihilation 3.1c]
-	{
-	zh-Hans=战斗房间 · 3.1c版横扫千军;
-	}
-
 [Base game]
 	{
 	zh-Hans=基础游戏;
-	}
-
-[Installed packs]
-	{
-	zh-Hans=已安装的地图包;
 	}
 
 [Online]
@@ -6907,29 +6238,9 @@
 	zh-Hans=内容源文件（.oareg）;
 	}
 
-[Open these files with the game]
-	{
-	zh-Hans=用游戏打开这些文件;
-	}
-
-[from your file manager.]
-	{
-	zh-Hans=从文件管理器中打开。;
-	}
-
 [The system takes these file types from the app.]
 	{
 	zh-Hans=这些文件类型由系统从应用读取。;
-	}
-
-[Finder's Get Info › Open with]
-	{
-	zh-Hans=Finder的“显示简介”›“打开方式”;
-	}
-
-[chooses another opener.]
-	{
-	zh-Hans=用来选择其他程序。;
 	}
 
 [and]
@@ -6970,26 +6281,6 @@
 [MAPS]
 	{
 	zh-Hans=地图;
-	}
-
-[Base Game]
-	{
-	zh-Hans=基础游戏;
-	}
-
-[Base Game (Disable Mods)]
-	{
-	zh-Hans=基础游戏（停用模组）;
-	}
-
-[No mod: the game as it was made]
-	{
-	zh-Hans=无模组：游戏最初的样子;
-	}
-
-[Total Annihilation 3.1c as it was made, with no mod]
-	{
-	zh-Hans=最初的3.1c版横扫千军，没有模组;
 	}
 
 [SWITCH OFF]
@@ -7306,3 +6597,1317 @@
 	{
 	zh-Hans={shown}/{all};
 	}
+
+// The base-games wave: setup, Game Content, the map browser,
+// expansions and the new Settings rows.
+
+["{title}" was saved with {name}, which is off.]
+	{
+	zh-Hans=“{title}”保存时用了{name}，而它现已关闭。;
+	}
+
+["{title}" was saved with {name}.]
+	{
+	zh-Hans=“{title}”保存时用了{name}。;
+	}
+
+[1 file differs]
+	{
+	zh-Hans=1个文件不一致;
+	}
+
+[1 of {total} files differs]
+	{
+	zh-Hans={total}个中有1个文件不一致;
+	}
+
+[1997]
+	{
+	zh-Hans=1997;
+	}
+
+[A]
+	{
+	zh-Hans=A;
+	}
+
+[A continues. B goes back.]
+	{
+	zh-Hans=A继续。B返回。;
+	}
+
+[A drag draws a selection box; two fingers scroll the map.]
+	{
+	zh-Hans=拖动绘制选择框；双指滚动地图。;
+	}
+
+[A drag scrolls the map; hold, then drag, for a selection box.]
+	{
+	zh-Hans=拖动滚动地图；长按后拖动绘制选择框。;
+	}
+
+[A middle click pans the view towards the pointer until you click or press a key.]
+	{
+	zh-Hans=中键单击会把视野移向指针，直到你点击或按下按键。;
+	}
+
+[A tapped QUEUE, ADD or x5 stays on until it is tapped again.]
+	{
+	zh-Hans=点按开启的排队、追加或x5保持开启，直到再次点按。;
+	}
+
+[A tapped QUEUE, ADD or x5 turns off after the next order or selection.]
+	{
+	zh-Hans=点按开启的排队、追加或x5在下一次命令或选择后关闭。;
+	}
+
+[A window hides its title bar and borders while a game is played; menus show them.]
+	{
+	zh-Hans=进行游戏时，窗口隐藏标题栏和边框，在菜单中则显示。;
+	}
+
+[A window shows its title bar and borders on every screen, a game's included.]
+	{
+	zh-Hans=窗口在每个画面都显示标题栏和边框，进行游戏时也一样。;
+	}
+
+[After restoring this {device} from a backup, add the game files again.]
+	{
+	zh-Hans=从备份恢复此{device}后，请重新添加游戏文件。;
+	}
+
+[All files match]
+	{
+	zh-Hans=所有文件一致;
+	}
+
+[Any]
+	{
+	zh-Hans=任意;
+	}
+
+[Applications]
+	{
+	zh-Hans=应用程序;
+	}
+
+[As far as the view always went: 1/6 of normal size with Full hardware acceleration, else 1/2.]
+	{
+	zh-Hans=缩小到以往的上限：正常大小的1/6（硬件加速为完整时），否则为1/2。;
+	}
+
+[Automatic: a selection box on a tablet, scrolling on a phone.]
+	{
+	zh-Hans=自动：平板上为框选，手机上为滚动。;
+	}
+
+[B]
+	{
+	zh-Hans=B;
+	}
+
+[BASE GAME]
+	{
+	zh-Hans=基础游戏;
+	}
+
+[Battle room · No Mod]
+	{
+	zh-Hans=战斗房间 · 无模组;
+	}
+
+[Bottles]
+	{
+	zh-Hans=Bottles;
+	}
+
+[CHANGE…]
+	{
+	zh-Hans=更改……;
+	}
+
+[COPYING]
+	{
+	zh-Hans=复制;
+	}
+
+[Campaign]
+	{
+	zh-Hans=战役;
+	}
+
+[Cavedog tilesets]
+	{
+	zh-Hans=Cavedog地形;
+	}
+
+[Cavedog units]
+	{
+	zh-Hans=Cavedog单位;
+	}
+
+[Chat in any language with players who have it; others see ? for letters they lack.]
+	{
+	zh-Hans=与开启此项的玩家可用任何语言聊天；其他玩家会把缺少的字看成?。;
+	}
+
+[Check again]
+	{
+	zh-Hans=重新检查;
+	}
+
+[Checking… {percent}%]
+	{
+	zh-Hans=正在检查……{percent}%;
+	}
+
+[Choosing another base game turns on all of its expansions and unloads the mod you are playing ({mod}). The change applies when the Library closes.]
+	{
+	zh-Hans=改选另一个基础游戏会开启它的全部资料片，并卸载你正在玩的模组（{mod}）。关闭资源库后更改才会生效。;
+	}
+
+[Choosing another base game turns on all of its expansions. The change applies when the Library closes.]
+	{
+	zh-Hans=改选另一个基础游戏会开启它的全部资料片。关闭资源库后更改才会生效。;
+	}
+
+[Choosing it asks for the demo installer, then copies it. It takes no expansions.]
+	{
+	zh-Hans=选择后会要求提供试玩版安装程序，然后进行复制。它不附带资料片。;
+	}
+
+[Choosing it asks for the game, then copies it.]
+	{
+	zh-Hans=选择后会要求提供游戏，然后进行复制。;
+	}
+
+[Continue]
+	{
+	zh-Hans=继续;
+	}
+
+[Copied]
+	{
+	zh-Hans=已复制;
+	}
+
+[Copied from {source}]
+	{
+	zh-Hans=复制自{source};
+	}
+
+[Copies go to Documents › Open Annihilation]
+	{
+	zh-Hans=副本放在Documents › Open Annihilation;
+	}
+
+[Copy again from…]
+	{
+	zh-Hans=从……重新复制;
+	}
+
+[Copy the game]
+	{
+	zh-Hans=复制游戏;
+	}
+
+[Copying Total Annihilation]
+	{
+	zh-Hans=正在复制Total Annihilation;
+	}
+
+[DETAILS…]
+	{
+	zh-Hans=详情……;
+	}
+
+[Demo]
+	{
+	zh-Hans=试玩版;
+	}
+
+[Different from the host: a file does not match.]
+	{
+	zh-Hans=与主持者不同：有一个文件不一致。;
+	}
+
+[Different from the host: another base game ({name}).]
+	{
+	zh-Hans=与主持者不同：另一个基础游戏（{name}）。;
+	}
+
+[Different from the host: no {name}.]
+	{
+	zh-Hans=与主持者不同：没有{name}。;
+	}
+
+[Different from the host: {name} is on.]
+	{
+	zh-Hans=与主持者不同：{name}已开启。;
+	}
+
+[Documents]
+	{
+	zh-Hans=文档;
+	}
+
+[Dots farther out than 1/12 of normal size. Closer in, units are drawn as models.]
+	{
+	zh-Hans=缩小到正常大小的1/12以外时显示为小点。更近时单位以模型绘制。;
+	}
+
+[Dots farther out than 1/16 of normal size. Closer in, units are drawn as models.]
+	{
+	zh-Hans=缩小到正常大小的1/16以外时显示为小点。更近时单位以模型绘制。;
+	}
+
+[Dots farther out than 1/2 of normal size. Closer in, units are drawn as models.]
+	{
+	zh-Hans=缩小到正常大小的1/2以外时显示为小点。更近时单位以模型绘制。;
+	}
+
+[Dots farther out than 1/3 of normal size. Closer in, units are drawn as models.]
+	{
+	zh-Hans=缩小到正常大小的1/3以外时显示为小点。更近时单位以模型绘制。;
+	}
+
+[Dots farther out than 1/4 of normal size. Closer in, units are drawn as models.]
+	{
+	zh-Hans=缩小到正常大小的1/4以外时显示为小点。更近时单位以模型绘制。;
+	}
+
+[Dots farther out than 1/6 of normal size. Closer in, units are drawn as models.]
+	{
+	zh-Hans=缩小到正常大小的1/6以外时显示为小点。更近时单位以模型绘制。;
+	}
+
+[Dots farther out than 1/8 of normal size. Closer in, units are drawn as models.]
+	{
+	zh-Hans=缩小到正常大小的1/8以外时显示为小点。更近时单位以模型绘制。;
+	}
+
+[Downloaded]
+	{
+	zh-Hans=已下载;
+	}
+
+[EXPANSION INSTALLED]
+	{
+	zh-Hans=资料片已安装;
+	}
+
+[EXPANSION NOT INSTALLED]
+	{
+	zh-Hans=资料片未安装;
+	}
+
+[EXPANSIONS]
+	{
+	zh-Hans=资料片;
+	}
+
+[EXPANSIONS · {on} OF {count} ON]
+	{
+	zh-Hans=资料片 · 已开启{on}个，共{count}个;
+	}
+
+[Expansions]
+	{
+	zh-Hans=资料片;
+	}
+
+[Explosions do not light up the ground, whatever a mod asks for.]
+	{
+	zh-Hans=爆炸不会照亮地面，无论模组如何要求。;
+	}
+
+[Explosions light up the ground as the game drew it, or less where a mod asks.]
+	{
+	zh-Hans=爆炸照亮地面，与游戏原本的绘制相同，模组要求时则更弱。;
+	}
+
+[Explosions light up the ground at half strength, or less where a mod asks.]
+	{
+	zh-Hans=爆炸以一半的强度照亮地面，模组要求时则更弱。;
+	}
+
+[FOUND]
+	{
+	zh-Hans=已找到;
+	}
+
+[Files that differ:]
+	{
+	zh-Hans=不一致的文件：;
+	}
+
+[Filter]
+	{
+	zh-Hans=筛选;
+	}
+
+[Finder's Get Info › Open with chooses another opener.]
+	{
+	zh-Hans=Finder的“显示简介”›“打开方式”用来选择其他程序。;
+	}
+
+[For the Total Annihilation demo only]
+	{
+	zh-Hans=仅限Total Annihilation试玩版;
+	}
+
+[For {name} only]
+	{
+	zh-Hans=仅限{name};
+	}
+
+[Free]
+	{
+	zh-Hans=自由;
+	}
+
+[From {place}…]
+	{
+	zh-Hans=来自{place}……;
+	}
+
+[Full screen at this size, or a window of it. Applies when you press OK.]
+	{
+	zh-Hans=以此尺寸全屏显示，或使用同尺寸窗口。按“确定”后生效。;
+	}
+
+[GAME CONTENT]
+	{
+	zh-Hans=游戏内容;
+	}
+
+[GAMES]
+	{
+	zh-Hans=游戏;
+	}
+
+[GAMES ON THIS DECK]
+	{
+	zh-Hans=此Deck上的游戏;
+	}
+
+[GOG installer (Windows)]
+	{
+	zh-Hans=GOG安装程序（Windows）;
+	}
+
+[GOG installer (macOS)]
+	{
+	zh-Hans=GOG安装程序（macOS）;
+	}
+
+[GOG installer (older Macs)]
+	{
+	zh-Hans=GOG安装程序（较旧的Mac）;
+	}
+
+[GOG installer for Windows]
+	{
+	zh-Hans=Windows版GOG安装程序;
+	}
+
+[GOG installer for macOS]
+	{
+	zh-Hans=macOS版GOG安装程序;
+	}
+
+[GOG installer for older Macs]
+	{
+	zh-Hans=较旧Mac版GOG安装程序;
+	}
+
+[Game]
+	{
+	zh-Hans=游戏;
+	}
+
+[Game Content]
+	{
+	zh-Hans=游戏内容;
+	}
+
+[Game content]
+	{
+	zh-Hans=游戏内容;
+	}
+
+[Games]
+	{
+	zh-Hans=游戏;
+	}
+
+[Heroic]
+	{
+	zh-Hans=Heroic;
+	}
+
+[Holds {bundles}.]
+	{
+	zh-Hans=包含{bundles}。;
+	}
+
+[Home]
+	{
+	zh-Hans=用户文件夹;
+	}
+
+[How large Open Annihilation's own screens are drawn. Auto suits the window's height.]
+	{
+	zh-Hans=Open Annihilation自身界面的绘制大小。“自动”会根据窗口高度选择。;
+	}
+
+[INSTALLING EXPANSION]
+	{
+	zh-Hans=正在安装资料片;
+	}
+
+[If OA stops, the copy carries on from here next time.]
+	{
+	zh-Hans=如果OA中途停止，下次会从这里继续复制。;
+	}
+
+[In Full the card draws 16x16 samples a pixel and scales them down for smoother edges.]
+	{
+	zh-Hans=完整模式下显卡每像素绘制16x16个采样，再缩小以使边缘更平滑。;
+	}
+
+[In Full the card draws 16x16 samples a pixel the most this window allows, scaled down.]
+	{
+	zh-Hans=完整模式下显卡每像素绘制16x16个采样，即此窗口允许的上限，再缩小。;
+	}
+
+[In Full the card draws 2x2 samples a pixel and scales them down for smoother edges.]
+	{
+	zh-Hans=完整模式下显卡每像素绘制2x2个采样，再缩小以使边缘更平滑。;
+	}
+
+[In Full the card draws 2x2 samples a pixel the most this window allows, scaled down.]
+	{
+	zh-Hans=完整模式下显卡每像素绘制2x2个采样，即此窗口允许的上限，再缩小。;
+	}
+
+[In Full the card draws 4x4 samples a pixel and scales them down for smoother edges.]
+	{
+	zh-Hans=完整模式下显卡每像素绘制4x4个采样，再缩小以使边缘更平滑。;
+	}
+
+[In Full the card draws 4x4 samples a pixel the most this window allows, scaled down.]
+	{
+	zh-Hans=完整模式下显卡每像素绘制4x4个采样，即此窗口允许的上限，再缩小。;
+	}
+
+[In Full the card draws 8x8 samples a pixel and scales them down for smoother edges.]
+	{
+	zh-Hans=完整模式下显卡每像素绘制8x8个采样，再缩小以使边缘更平滑。;
+	}
+
+[In Full the card draws 8x8 samples a pixel the most this window allows, scaled down.]
+	{
+	zh-Hans=完整模式下显卡每像素绘制8x8个采样，即此窗口允许的上限，再缩小。;
+	}
+
+[In Full the graphics card draws the view 1:1; a level draws it finer for smoother edges.]
+	{
+	zh-Hans=完整模式下显卡按1:1绘制画面；选择等级可绘制得更精细，边缘更平滑。;
+	}
+
+[In to 2x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	zh-Hans=最多放大到正常大小的2倍。滚轮、双指缩放和手柄都止于此。;
+	}
+
+[In to 3x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	zh-Hans=最多放大到正常大小的3倍。滚轮、双指缩放和手柄都止于此。;
+	}
+
+[In to 4x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	zh-Hans=最多放大到正常大小的4倍。滚轮、双指缩放和手柄都止于此。;
+	}
+
+[Install the expansion {name}?]
+	{
+	zh-Hans=要安装资料片{name}吗？;
+	}
+
+[It holds no oaexp.yaml at its top, or in a single folder at its top.]
+	{
+	zh-Hans=其顶层或顶层唯一的文件夹中没有oaexp.yaml。;
+	}
+
+[It is not one of the game's expansions.]
+	{
+	zh-Hans=它不是这个游戏的资料片。;
+	}
+
+[Its oaexp.yaml has errors.]
+	{
+	zh-Hans=其oaexp.yaml有错误。;
+	}
+
+[Its oaexp.yaml is larger than 256 KiB.]
+	{
+	zh-Hans=其oaexp.yaml大于256 KiB。;
+	}
+
+[Locate another…]
+	{
+	zh-Hans=另找一个……;
+	}
+
+[Locate the game]
+	{
+	zh-Hans=查找游戏;
+	}
+
+[Lutris]
+	{
+	zh-Hans=Lutris;
+	}
+
+[Middle-click pans]
+	{
+	zh-Hans=中键平移;
+	}
+
+[Mirrors the roles: the left pad points, the right pad moves the map, triggers and grips swap.]
+	{
+	zh-Hans=左右功能互换：左触控板控制指针，右触控板移动地图，扳机键和背键互换。;
+	}
+
+[Modern fonts for in-game text, including internationalization.]
+	{
+	zh-Hans=游戏内文字使用现代字体，支持多语言文字。;
+	}
+
+[NAME]
+	{
+	zh-Hans=名称;
+	}
+
+[NOW]
+	{
+	zh-Hans=现在;
+	}
+
+[Needs {names} · on]
+	{
+	zh-Hans=需要{names} · 已开启;
+	}
+
+[Needs {names}, which are off]
+	{
+	zh-Hans=需要{names}，但它们已关闭;
+	}
+
+[Needs {name} · on]
+	{
+	zh-Hans=需要{name} · 已开启;
+	}
+
+[Needs {name}, which is off]
+	{
+	zh-Hans=需要{name}，但它已关闭;
+	}
+
+[Needs {name}, which is off.]
+	{
+	zh-Hans=需要{name}，但它已关闭。;
+	}
+
+[Never closer than normal size. The wheel, a pinch and a controller stop there.]
+	{
+	zh-Hans=放大不超过正常大小。滚轮、双指缩放和手柄都止于此。;
+	}
+
+[Not added]
+	{
+	zh-Hans=未添加;
+	}
+
+[Nothing is installed and your files are not changed.]
+	{
+	zh-Hans=不会安装任何内容，你的文件也不会更改。;
+	}
+
+[OA copies the game once. The installation is left as it is.]
+	{
+	zh-Hans=OA只复制一次游戏。原有安装保持不变。;
+	}
+
+[OA plays from its own copy in Documents › Open Annihilation. The installation is not used or changed.]
+	{
+	zh-Hans=OA从Documents › Open Annihilation中的自有副本运行。原有安装不会被使用或更改。;
+	}
+
+[Open]
+	{
+	zh-Hans=打开;
+	}
+
+[Open folder]
+	{
+	zh-Hans=打开文件夹;
+	}
+
+[Open these files with the game from your file manager.]
+	{
+	zh-Hans=从文件管理器中用游戏打开这些文件。;
+	}
+
+[Out to 1/16 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	zh-Hans=最多缩小到正常大小的1/16，或整张地图。单位的样子由“图形”中的“缩小时的单位”决定。;
+	}
+
+[Out to 1/2 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	zh-Hans=最多缩小到正常大小的1/2，或整张地图。单位的样子由“图形”中的“缩小时的单位”决定。;
+	}
+
+[Out to 1/32 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	zh-Hans=最多缩小到正常大小的1/32，或整张地图。单位的样子由“图形”中的“缩小时的单位”决定。;
+	}
+
+[Out to 1/4 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	zh-Hans=最多缩小到正常大小的1/4，或整张地图。单位的样子由“图形”中的“缩小时的单位”决定。;
+	}
+
+[Out to 1/8 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	zh-Hans=最多缩小到正常大小的1/8，或整张地图。单位的样子由“图形”中的“缩小时的单位”决定。;
+	}
+
+[Out until the whole map fits the view. Graphics' Zoomed out units says how units look.]
+	{
+	zh-Hans=缩小到整张地图都能装进视图为止。单位的样子由“图形”中的“缩小时的单位”决定。;
+	}
+
+[PLACES]
+	{
+	zh-Hans=位置;
+	}
+
+[Past After zoom, each unit is a dot of its owner's colour, framed while selected.]
+	{
+	zh-Hans=缩小超过设定值后，每个单位显示为所属玩家颜色的小点，选中时带边框。;
+	}
+
+[Pause]
+	{
+	zh-Hans=暂停;
+	}
+
+[Program Files]
+	{
+	zh-Hans=Program Files;
+	}
+
+[Quit]
+	{
+	zh-Hans=退出;
+	}
+
+[SELECTED]
+	{
+	zh-Hans=已选;
+	}
+
+[Select a folder or an installer.]
+	{
+	zh-Hans=请选择一个文件夹或安装程序。;
+	}
+
+[Setup]
+	{
+	zh-Hans=设置;
+	}
+
+[Skirmish · No Mod]
+	{
+	zh-Hans=遭遇战 · 无模组;
+	}
+
+[Steam · Proton]
+	{
+	zh-Hans=Steam · Proton;
+	}
+
+[Sticky]
+	{
+	zh-Hans=贴边;
+	}
+
+[Switching to {name} restarts the game's files, then loads this save.]
+	{
+	zh-Hans=切换到{name}会重新载入游戏文件，然后载入这个存档。;
+	}
+
+[TA demo installer]
+	{
+	zh-Hans=TA试玩版安装程序;
+	}
+
+[THE GAME]
+	{
+	zh-Hans=游戏;
+	}
+
+[THE SAVE]
+	{
+	zh-Hans=存档;
+	}
+
+[TURN OFF]
+	{
+	zh-Hans=关闭;
+	}
+
+[TURN ON {name}]
+	{
+	zh-Hans=开启{name};
+	}
+
+[The display's own pixel density (Retina on a Mac). Applies from the next start.]
+	{
+	zh-Hans=使用显示器自身的像素密度（Mac上的Retina）。下次启动时生效。;
+	}
+
+[The expansion holds {name}, which it does not have.]
+	{
+	zh-Hans=该资料片含有{name}，但它的清单里没有这个文件。;
+	}
+
+[The expansion is missing {name}.]
+	{
+	zh-Hans=该资料片缺少{name}。;
+	}
+
+[The file {name} is not the expansion's file.]
+	{
+	zh-Hans=文件{name}不是该资料片应有的文件。;
+	}
+
+[The first press clears the selection, the second opens the menu.]
+	{
+	zh-Hans=第一次按下清除选择，第二次按下打开菜单。;
+	}
+
+[The following content for your game does not match our expected sizes:]
+	{
+	zh-Hans=你的游戏中以下内容与预期大小不符：;
+	}
+
+[The game OA plays. Mods, maps and languages say which base games they work with.]
+	{
+	zh-Hans=OA所运行的游戏。模组、地图和语言会写明它们适用于哪些基础游戏。;
+	}
+
+[The game cannot start until the content matches.]
+	{
+	zh-Hans=内容一致之前，游戏无法开始。;
+	}
+
+[The game cannot start until the host turns it on, or {player} turns it off.]
+	{
+	zh-Hans=在主持者开启它，或{player}关闭它之前，游戏无法开始。;
+	}
+
+[The game cannot start until {player} turns it on, or the host turns it off.]
+	{
+	zh-Hans=在{player}开启它，或主持者关闭它之前，游戏无法开始。;
+	}
+
+[The game could not be copied.]
+	{
+	zh-Hans=游戏未能复制。;
+	}
+
+[The game still plays with these files, but network games with other players may not start, and recordings may not replay the same. Copy the content again from another source to fix it.]
+	{
+	zh-Hans=游戏仍能用这些文件运行，但与其他玩家的网络游戏可能无法开始，录像回放也可能不一致。请从其他来源重新复制这些内容来修复。;
+	}
+
+[The game's own text and unit names, where its data has them in the language.]
+	{
+	zh-Hans=游戏自身的文字和单位名称，在其数据含有该语言时显示。;
+	}
+
+[The installer of the Total Annihilation demo (1997).]
+	{
+	zh-Hans=Total Annihilation试玩版（1997）的安装程序。;
+	}
+
+[The largest whole-number scale that fits: smaller menus, every pixel square.]
+	{
+	zh-Hans=能容纳的最大整数倍缩放：菜单较小，每个像素都是正方形。;
+	}
+
+[The menus fill the window, every pixel as wide as the next.]
+	{
+	zh-Hans=菜单填满窗口，每个像素宽度相同。;
+	}
+
+[The menus fill the window, unfiltered, as the game always drew them.]
+	{
+	zh-Hans=菜单填满窗口，不过滤，与游戏一贯的绘制方式相同。;
+	}
+
+[The minimap and the thumb controls on the right, the orders on the left.]
+	{
+	zh-Hans=小地图和拇指控件在右侧，命令在左侧。;
+	}
+
+[The mod was unloaded because an expansion it needs is off. The game plays with No Mod.]
+	{
+	zh-Hans=该模组已卸载，因为它需要的一个资料片已关闭。游戏以无模组进行。;
+	}
+
+[The pointer leaves a window's edge, as before.]
+	{
+	zh-Hans=指针会离开窗口边缘，与以往一样。;
+	}
+
+[The pointer rests on the edge so the view scrolls.]
+	{
+	zh-Hans=指针停在边缘上，视野随之滚动。;
+	}
+
+[The right stick moves the pointer and the left stick the map.]
+	{
+	zh-Hans=右摇杆移动指针，左摇杆移动地图。;
+	}
+
+[The right stick moves the pointer, as in the Sticks scheme.]
+	{
+	zh-Hans=右摇杆移动指针，与摇杆方案相同。;
+	}
+
+[The right trackpad points and the left one moves the map; a pad without trackpads plays Sticks.]
+	{
+	zh-Hans=右触控板控制指针，左触控板移动地图；没有触控板的手柄使用摇杆方案。;
+	}
+
+[The side panel and bars grow with the window, up to twice the original game's size.]
+	{
+	zh-Hans=侧边栏和上下栏随窗口放大，最大为原版游戏的两倍。;
+	}
+
+[The side panel and bars keep the original game's size on every window.]
+	{
+	zh-Hans=侧边栏和上下栏在任何窗口中都保持原版游戏的大小。;
+	}
+
+[The size of game text in the modern fonts. Larger sizes are easier to read.]
+	{
+	zh-Hans=现代字体下游戏文字的大小。字号越大越易读。;
+	}
+
+[The size of game text in the modern fonts. The game's own fonts have fixed sizes.]
+	{
+	zh-Hans=现代字体下游戏文字的大小。游戏自带字体的大小固定。;
+	}
+
+[The size of the touch controls; the game's own screens keep theirs.]
+	{
+	zh-Hans=触控控件的大小；游戏自身的界面保持原有大小。;
+	}
+
+[The view stays on the map, as the game kept it. With more than the map in view, it is centred.]
+	{
+	zh-Hans=视野保持在地图之内，与游戏原本一致。视野大于地图时，地图居中显示。;
+	}
+
+[This base game is used when the Library closes.]
+	{
+	zh-Hans=关闭资源库后将使用此基础游戏。;
+	}
+
+[This game has no expansions.]
+	{
+	zh-Hans=此游戏没有资料片。;
+	}
+
+[This map is for the TA demo.]
+	{
+	zh-Hans=此地图适用于TA试玩版。;
+	}
+
+[This map is for {name}.]
+	{
+	zh-Hans=此地图适用于{name}。;
+	}
+
+[This run names its content, so it cannot switch.]
+	{
+	zh-Hans=本次运行指定了内容，因此无法切换。;
+	}
+
+[This save needs other content]
+	{
+	zh-Hans=此存档需要其他内容;
+	}
+
+[To Documents › Open Annihilation › Games and Expansions]
+	{
+	zh-Hans=到Documents › Open Annihilation › Games and Expansions;
+	}
+
+[Total Annihilation demo]
+	{
+	zh-Hans=Total Annihilation试玩版;
+	}
+
+[Total Annihilation demo (1997)]
+	{
+	zh-Hans=Total Annihilation试玩版（1997）;
+	}
+
+[Total Annihilation: Commander Pack. Recognised by its size. The game is read out of it; nothing is installed.]
+	{
+	zh-Hans=Total Annihilation: Commander Pack。按大小识别。游戏从中读取，不会安装任何内容。;
+	}
+
+[Turn it on in the Library.]
+	{
+	zh-Hans=请在资源库中开启它。;
+	}
+
+[Turn off {name}?]
+	{
+	zh-Hans=要关闭{name}吗？;
+	}
+
+[Turn on and load]
+	{
+	zh-Hans=开启并载入;
+	}
+
+[Turning it on applies when the Library closes, and then PLAY NOW works.]
+	{
+	zh-Hans=开启会在关闭资源库后生效，然后就可以“立即游戏”。;
+	}
+
+[Turning it on applies when the Library closes, and then USE NOW works.]
+	{
+	zh-Hans=开启会在关闭资源库后生效，然后就可以“立即使用”。;
+	}
+
+[Turning it on applies when the Library closes.]
+	{
+	zh-Hans=开启会在关闭资源库后生效。;
+	}
+
+[Turning them on applies when the Library closes, and then PLAY NOW works.]
+	{
+	zh-Hans=开启它们会在关闭资源库后生效，然后就可以“立即游戏”。;
+	}
+
+[Turning them on applies when the Library closes, and then USE NOW works.]
+	{
+	zh-Hans=开启它们会在关闭资源库后生效，然后就可以“立即使用”。;
+	}
+
+[Turning them on applies when the Library closes.]
+	{
+	zh-Hans=开启它们会在关闭资源库后生效。;
+	}
+
+[Turning {name} on restarts the game's files, then loads this save. Your other expansions stay as they are.]
+	{
+	zh-Hans=开启{name}会重新载入游戏文件，然后载入这个存档。你的其他资料片保持原样。;
+	}
+
+[USE THIS GAME]
+	{
+	zh-Hans=使用此游戏;
+	}
+
+[Units are drawn as models at every zoom. Far out on a large map, needs a fast CPU.]
+	{
+	zh-Hans=任何缩放下单位都以模型绘制。在大地图上缩得很远时需要高速CPU。;
+	}
+
+[Units drawn at 16x and scaled down. Needs a fast CPU.]
+	{
+	zh-Hans=单位以16x绘制后缩小。需要高速CPU。;
+	}
+
+[Units drawn at 8x and scaled down. Needs a fast CPU.]
+	{
+	zh-Hans=单位以8x绘制后缩小。需要高速CPU。;
+	}
+
+[Units drawn at higher resolution and scaled down for smoother edges.]
+	{
+	zh-Hans=单位以更高分辨率绘制后缩小，使边缘更平滑。;
+	}
+
+[Units each player can have. Applies from the next game.]
+	{
+	zh-Hans=每名玩家可拥有的单位数。从下一局起生效。;
+	}
+
+[Up]
+	{
+	zh-Hans=向上;
+	}
+
+[Up and down zoom about the pointer; a flick left or right turns the build page while building.]
+	{
+	zh-Hans=上下推动以指针为中心缩放；左右轻扫则在建造时翻动建造页。;
+	}
+
+[Up to a quarter of the battlefield past the map's edges, however the view moves.]
+	{
+	zh-Hans=最多四分之一的战场可显示在地图边缘之外，无论视野如何移动。;
+	}
+
+[Up to half the battlefield past the map's edges; a zoom keeps the ground under the pointer.]
+	{
+	zh-Hans=最多一半的战场可显示在地图边缘之外；缩放时指针下的地面保持不动。;
+	}
+
+[Use the system picker…]
+	{
+	zh-Hans=使用系统选择器……;
+	}
+
+[Use this folder]
+	{
+	zh-Hans=使用此文件夹;
+	}
+
+[Use this installer]
+	{
+	zh-Hans=使用此安装程序;
+	}
+
+[VOLUMES]
+	{
+	zh-Hans=磁盘;
+	}
+
+[WHAT IT IS]
+	{
+	zh-Hans=类型;
+	}
+
+[What guarding builders do. Applies from the next game.]
+	{
+	zh-Hans=护卫中的建造单位的行为。从下一局起生效。;
+	}
+
+[What patrolling builders do. Applies from the next game.]
+	{
+	zh-Hans=巡逻中的建造单位的行为。从下一局起生效。;
+	}
+
+[Where is Total Annihilation?]
+	{
+	zh-Hans=Total Annihilation在哪里？;
+	}
+
+[Window edge]
+	{
+	zh-Hans=窗口边缘;
+	}
+
+[X]
+	{
+	zh-Hans=X;
+	}
+
+[Y]
+	{
+	zh-Hans=Y;
+	}
+
+[about {seconds} seconds left]
+	{
+	zh-Hans=大约还剩{seconds}秒;
+	}
+
+[archive]
+	{
+	zh-Hans=压缩包;
+	}
+
+[doesn't fit]
+	{
+	zh-Hans=不适用;
+	}
+
+[file]
+	{
+	zh-Hans=文件;
+	}
+
+[folder]
+	{
+	zh-Hans=文件夹;
+	}
+
+[for the TA demo]
+	{
+	zh-Hans=适用于TA试玩版;
+	}
+
+[for {name}]
+	{
+	zh-Hans=适用于{name};
+	}
+
+[macOS asks once before an app reads Desktop, Documents or Downloads.]
+	{
+	zh-Hans=macOS会在应用读取桌面、文档或“下载”前询问一次。;
+	}
+
+[microSD card]
+	{
+	zh-Hans=microSD卡;
+	}
+
+[needs {name}]
+	{
+	zh-Hans=需要{name};
+	}
+
+[no {name}]
+	{
+	zh-Hans=没有{name};
+	}
+
+[not added]
+	{
+	zh-Hans=未添加;
+	}
+
+[{count} file differs]
+	{
+	zh-Hans={count}个文件不一致;
+	}
+
+[{count} files differ]
+	{
+	zh-Hans={count}个文件不一致;
+	}
+
+[{count} of {total} files differ]
+	{
+	zh-Hans={total}个中有{count}个文件不一致;
+	}
+
+[{done} of {total} · {percent}%]
+	{
+	zh-Hans={done}/{total} · {percent}%;
+	}
+
+[{game} as it was made]
+	{
+	zh-Hans={game}最初的样子;
+	}
+
+[{held} of {total} tracks]
+	{
+	zh-Hans={held}/{total}首曲目;
+	}
+
+[{left} and {right}]
+	{
+	zh-Hans={left}与{right};
+	}
+
+[{left} · {right}]
+	{
+	zh-Hans={left} · {right};
+	}
+
+[{left}, {right}]
+	{
+	zh-Hans={left}、{right};
+	}
+
+[{mod} needs {name}, so it is unloaded and the game plays with No Mod.]
+	{
+	zh-Hans={mod}需要{name}，因此已卸载，游戏以无模组进行。;
+	}
+
+[{mod} was unloaded because {name} is off. The game plays with No Mod.]
+	{
+	zh-Hans=因为{name}已关闭，{mod}已卸载。游戏以无模组进行。;
+	}
+
+[{name} is installed. Turn it on in the Library.]
+	{
+	zh-Hans={name}已安装。请在资源库中开启它。;
+	}
+
+[{name} is not copied, so this save cannot be loaded with it.]
+	{
+	zh-Hans=尚未复制{name}，因此无法用它载入这个存档。;
+	}
+
+[{name} needs {need}.]
+	{
+	zh-Hans={name}需要{need}。;
+	}
+
+[{name} off]
+	{
+	zh-Hans={name}已关闭;
+	}
+
+[{name} turns off too: it needs {need}.]
+	{
+	zh-Hans={name}也会关闭：它需要{need}。;
+	}
+
+[{name} turns off when the Library closes.]
+	{
+	zh-Hans={name}会在关闭资源库后关闭。;
+	}
+
+[{name} turns on when the Library closes.]
+	{
+	zh-Hans={name}会在关闭资源库后开启。;
+	}
+
+[{name} · ADD FROM…]
+	{
+	zh-Hans={name} · 从……添加;
+	}
+
+[{name} ✓]
+	{
+	zh-Hans={name} ✓;
+	}
+
+[{name}'s maps and campaigns leave the lists until you turn it on again. Nothing is deleted.]
+	{
+	zh-Hans=在你再次开启{name}之前，它的地图和战役不会出现在列表中。不会删除任何内容。;
+	}
+
+[{row}: {saved} / {now}]
+	{
+	zh-Hans={row}：{saved} / {now};
+	}
+
+[{save_heading} / {now_heading}]
+	{
+	zh-Hans={save_heading} / {now_heading};
+	}
+
+[{version} · {source}]
+	{
+	zh-Hans={version} · {source};
+	}
+
