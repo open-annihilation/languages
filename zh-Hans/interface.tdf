@@ -6043,9 +6043,9 @@
 	zh-Hans=/;
 	}
 
-[Other languages download from Core Prime. The first download makes a random install ID, which the next step explains.]
+[Other languages download from Core Prime. The first download makes a random install ID, which a later step explains.]
 	{
-	zh-Hans=其他语言从Core Prime下载。首次下载会生成一个随机安装ID，下一步会说明。;
+	zh-Hans=其他语言从Core Prime下载。首次下载会生成一个随机安装ID，后面的步骤会说明。;
 	}
 
 [Downloads are off, so language packs stay offline.]
@@ -6138,9 +6138,9 @@
 	zh-Hans=设置;
 	}
 
-[Get, update and switch mods, map packs and languages. The number is how many mods you have.]
+[Get, update and switch mods, map packs and languages. The number counts every package you have added: mods, map packs, language packs and expansions.]
 	{
-	zh-Hans=获取、更新并切换模组、地图包和语言。数字是你拥有的模组数量。;
+	zh-Hans=获取、更新并切换模组、地图包和语言。数字统计你添加的每个内容包：模组、地图包、语言包和资料片。;
 	}
 
 [Open Annihilation's own settings: controls, graphics, the interface's size, downloads and your files.]
@@ -7241,9 +7241,9 @@
 	zh-Hans=OA只复制一次游戏。原有安装保持不变。;
 	}
 
-[OA plays from its own copy in Documents › Open Annihilation. The installation is not used or changed.]
+[OA plays from its own copy in Documents › Open Annihilation. The installation is not used or changed.]
 	{
-	zh-Hans=OA从Documents › Open Annihilation中的自有副本运行。原有安装不会被使用或更改。;
+	zh-Hans=OA从Documents › Open Annihilation中的副本运行，不会使用或更改原有安装。;
 	}
 
 [Open]
@@ -7329,6 +7329,11 @@
 [Setup]
 	{
 	zh-Hans=设置;
+	}
+
+[Skip]
+	{
+	zh-Hans=跳过;
 	}
 
 [Skirmish · No Mod]
@@ -7711,14 +7716,44 @@
 	zh-Hans=巡逻中的建造单位的行为。从下一局起生效。;
 	}
 
-[Where is Total Annihilation?]
+[Locate Total Annihilation Game Files]
 	{
-	zh-Hans=Total Annihilation在哪里？;
+	zh-Hans=查找Total Annihilation游戏文件;
 	}
 
 [Window edge]
 	{
 	zh-Hans=窗口边缘;
+	}
+
+[Capture]
+	{
+	zh-Hans=捕获;
+	}
+
+[Edge stickiness]
+	{
+	zh-Hans=贴边力度;
+	}
+
+[At 0.0 the edge never holds.]
+	{
+	zh-Hans=设为0.0时，边缘从不留住指针。;
+	}
+
+[How firmly Sticky holds the pointer at the edge.]
+	{
+	zh-Hans=贴边模式在边缘留住指针的力度。;
+	}
+
+[Needs Sticky]
+	{
+	zh-Hans=需要贴边;
+	}
+
+[The pointer stays in the window while you play.]
+	{
+	zh-Hans=游戏时指针不会离开窗口。;
 	}
 
 [X]
