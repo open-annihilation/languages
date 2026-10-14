@@ -7981,3 +7981,41 @@
 	zh-Hans={count}个内容包;
 	}
 
+
+// Revision 8: the notices for a launch file the game does not open,
+// Settings' launch file switch and the Library's locked expansions.
+
+[A launch is already open. Quit Open Annihilation, then open the file again.]
+	{
+	zh-Hans=已有一个启动文件正在使用。请退出Open Annihilation，然后重新打开该文件。;
+	}
+
+[LAUNCH FILE NOT OPENED]
+	{
+	zh-Hans=启动文件未打开;
+	}
+
+[Launch file not opened: finish or leave this game first.]
+	{
+	zh-Hans=启动文件未打开：请先结束或退出本局游戏。;
+	}
+
+[Launch files (.oalaunch)]
+	{
+	zh-Hans=启动文件（.oalaunch）;
+	}
+
+[Open Annihilation opens a launch file's battle room from the main menu. Go back to the main menu, then open the file again.]
+	{
+	zh-Hans=Open Annihilation只能从主菜单打开启动文件的战斗房间。请返回主菜单，然后重新打开该文件。;
+	}
+
+[The command line chose this run's mod, which needs {names}.]
+	{
+	zh-Hans=本次运行的模组由命令行指定，该模组需要{names}。;
+	}
+
+[This launch plays other content than the game plays now. Quit Open Annihilation, then open the file again.]
+	{
+	zh-Hans=此启动文件所用的内容与游戏当前所用的不同。请退出Open Annihilation，然后重新打开该文件。;
+	}
