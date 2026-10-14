@@ -2764,11 +2764,6 @@
 	zh-Hans={a}或{b};
 	}
 
-[Choose your Total Annihilation folder]
-	{
-	zh-Hans=选择你的横扫千军文件夹;
-	}
-
 [No folders here.]
 	{
 	zh-Hans=此处没有文件夹。;
@@ -5188,11 +5183,6 @@
 	zh-Hans=重置;
 	}
 
-[Locked during a game.]
-	{
-	zh-Hans=游戏中锁定。;
-	}
-
 [Downloaded files]
 	{
 	zh-Hans=已下载的文件;
@@ -6043,9 +6033,9 @@
 	zh-Hans=/;
 	}
 
-[Other languages download from Core Prime. The first download makes a random install ID, which the next step explains.]
+[Other languages download from Core Prime. The first download makes a random install ID, which a later step explains.]
 	{
-	zh-Hans=其他语言从Core Prime下载。首次下载会生成一个随机安装ID，下一步会说明。;
+	zh-Hans=其他语言从Core Prime下载。首次下载会生成一个随机安装ID，后面的步骤会说明。;
 	}
 
 [Downloads are off, so language packs stay offline.]
@@ -6138,9 +6128,9 @@
 	zh-Hans=设置;
 	}
 
-[Get, update and switch mods, map packs and languages. The number is how many mods you have.]
+[Get, update and switch mods, map packs and languages. The number counts every package you have added: mods, map packs, language packs and expansions.]
 	{
-	zh-Hans=获取、更新并切换模组、地图包和语言。数字是你拥有的模组数量。;
+	zh-Hans=获取、更新并切换模组、地图包和语言。数字统计你添加的每个内容包：模组、地图包、语言包和资料片。;
 	}
 
 [Open Annihilation's own settings: controls, graphics, the interface's size, downloads and your files.]
@@ -6326,16 +6316,6 @@
 [No map packs are installed.]
 	{
 	zh-Hans=尚未安装地图包。;
-	}
-
-[{count} mod]
-	{
-	zh-Hans={count}个模组;
-	}
-
-[{count} mods]
-	{
-	zh-Hans={count}个模组;
 	}
 
 [New]
@@ -7161,11 +7141,6 @@
 	zh-Hans=另找一个……;
 	}
 
-[Locate the game]
-	{
-	zh-Hans=查找游戏;
-	}
-
 [Lutris]
 	{
 	zh-Hans=Lutris;
@@ -7184,11 +7159,6 @@
 [Modern fonts for in-game text, including internationalization.]
 	{
 	zh-Hans=游戏内文字使用现代字体，支持多语言文字。;
-	}
-
-[NAME]
-	{
-	zh-Hans=名称;
 	}
 
 [NOW]
@@ -7241,9 +7211,9 @@
 	zh-Hans=OA只复制一次游戏。原有安装保持不变。;
 	}
 
-[OA plays from its own copy in Documents › Open Annihilation. The installation is not used or changed.]
+[OA plays from its own copy in Documents › Open Annihilation. The installation is not used or changed.]
 	{
-	zh-Hans=OA从Documents › Open Annihilation中的自有副本运行。原有安装不会被使用或更改。;
+	zh-Hans=OA从Documents › Open Annihilation中的副本运行，不会使用或更改原有安装。;
 	}
 
 [Open]
@@ -7329,6 +7299,11 @@
 [Setup]
 	{
 	zh-Hans=设置;
+	}
+
+[Skip]
+	{
+	zh-Hans=跳过;
 	}
 
 [Skirmish · No Mod]
@@ -7696,11 +7671,6 @@
 	zh-Hans=磁盘;
 	}
 
-[WHAT IT IS]
-	{
-	zh-Hans=类型;
-	}
-
 [What guarding builders do. Applies from the next game.]
 	{
 	zh-Hans=护卫中的建造单位的行为。从下一局起生效。;
@@ -7711,14 +7681,44 @@
 	zh-Hans=巡逻中的建造单位的行为。从下一局起生效。;
 	}
 
-[Where is Total Annihilation?]
+[Locate Total Annihilation Game Files]
 	{
-	zh-Hans=Total Annihilation在哪里？;
+	zh-Hans=查找Total Annihilation游戏文件;
 	}
 
 [Window edge]
 	{
 	zh-Hans=窗口边缘;
+	}
+
+[Capture]
+	{
+	zh-Hans=捕获;
+	}
+
+[Edge stickiness]
+	{
+	zh-Hans=贴边力度;
+	}
+
+[At 0.0 the edge never holds.]
+	{
+	zh-Hans=设为0.0时，边缘从不留住指针。;
+	}
+
+[How firmly Sticky holds the pointer at the edge.]
+	{
+	zh-Hans=贴边模式在边缘留住指针的力度。;
+	}
+
+[Needs Sticky]
+	{
+	zh-Hans=需要贴边;
+	}
+
+[The pointer stays in the window while you play.]
+	{
+	zh-Hans=游戏时指针不会离开窗口。;
 	}
 
 [X]
@@ -7779,11 +7779,6 @@
 [needs {name}]
 	{
 	zh-Hans=需要{name};
-	}
-
-[no {name}]
-	{
-	zh-Hans=没有{name};
 	}
 
 [not added]
@@ -7909,5 +7904,80 @@
 [{version} · {source}]
 	{
 	zh-Hans={version} · {source};
+	}
+
+[A folder that holds totala1.hpi, or a Commander Pack or the 1997 demo installer.]
+	{
+	zh-Hans=含有totala1.hpi的文件夹、Commander Pack，或1997年试玩版的安装程序。;
+	}
+
+[Applying your changes]
+	{
+	zh-Hans=正在应用你的更改;
+	}
+
+[Checking your copy of Total Annihilation]
+	{
+	zh-Hans=正在检查你的Total Annihilation副本;
+	}
+
+[Choose a folder or an installer]
+	{
+	zh-Hans=选择文件夹或安装程序;
+	}
+
+[Choose the Total Annihilation demo installer (1997).]
+	{
+	zh-Hans=选择Total Annihilation试玩版（1997）的安装程序。;
+	}
+
+[Easy]
+	{
+	zh-Hans=简单;
+	}
+
+[Filter names]
+	{
+	zh-Hans=筛选名称;
+	}
+
+[Hard]
+	{
+	zh-Hans=困难;
+	}
+
+[Loading the game's archives]
+	{
+	zh-Hans=正在载入游戏数据包;
+	}
+
+[Medium]
+	{
+	zh-Hans=中等;
+	}
+
+[No names match.]
+	{
+	zh-Hans=没有匹配的名称。;
+	}
+
+[Skirmish players]
+	{
+	zh-Hans=遭遇战玩家数;
+	}
+
+[The skirmish setup shows that many player rows.]
+	{
+	zh-Hans=遭遇战设置中会显示相应数量的玩家行。;
+	}
+
+[{count} package]
+	{
+	zh-Hans={count}个内容包;
+	}
+
+[{count} packages]
+	{
+	zh-Hans={count}个内容包;
 	}
 
