@@ -36,7 +36,7 @@
 
 [Whole steps]
 	{
-	uk=Цілочисельне;
+	uk=Кратне;
 	}
 
 [Unfiltered]
@@ -131,12 +131,12 @@
 
 [While the right pad is touched]
 	{
-	uk=Коли торкаєшся правого трекпада;
+	uk=Дотик до правого трекпада;
 	}
 
 [While the right stick is touched]
 	{
-	uk=Коли торкаєшся правого стіка;
+	uk=Дотик до правого стіка;
 	}
 
 [Always]
@@ -4161,7 +4161,7 @@
 
 [Enable Unicode Multiplayer Chat]
 	{
-	uk=Увімкнути Unicode у мережевому чаті;
+	uk=Unicode у мережевому чаті;
 	}
 
 [Set by the language]
@@ -4218,7 +4218,7 @@
 	}
 [Show Active Only ({active}/{total})]
 	{
-	uk=Лише увімкнені ({active}/{total});
+	uk=Лише активні ({active}/{total});
 	}
 [Switch to {title} now? The game reloads its data for the new mod and returns to the main menu. Your other settings are kept.]
 	{
@@ -5150,7 +5150,7 @@
 
 [Only when I open the Library]
 	{
-	uk=Лише коли я відкриваю Бібліотеку;
+	uk=Лише при відкритті Бібліотеки;
 	}
 
 [Never]
@@ -5175,7 +5175,7 @@
 
 [Made at your first download]
 	{
-	uk=Створюється під час першого завантаження;
+	uk=Зʼявиться з першим завантаженням;
 	}
 
 [RESET]

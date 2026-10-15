@@ -145,6 +145,55 @@
 	Ukrainian=Кампанія CORE;
 	}
 
+// Campaigns' names in the New Campaign and Any Mission lists, which 3.1c's
+// table does not hold: keyed by the campaign file's name, without the space
+// that ends Core Contingency's.
+
+[Arm Campaign - Core Contingency]
+	{
+	Ukrainian=Кампанія ARM — Core Contingency;
+	}
+[Core Campaign - Core Contingency]
+	{
+	Ukrainian=Кампанія CORE — Core Contingency;
+	}
+[Krogoth Encounter]
+	{
+	Ukrainian=Зустріч із Кроготом;
+	}
+[Battle Tactics - Arm Very Short]
+	{
+	Ukrainian=Battle Tactics — ARM, дуже короткі;
+	}
+[Battle Tactics - Arm Short]
+	{
+	Ukrainian=Battle Tactics — ARM, короткі;
+	}
+[Battle Tactics - Arm Medium]
+	{
+	Ukrainian=Battle Tactics — ARM, середні;
+	}
+[Battle Tactics - Arm Long]
+	{
+	Ukrainian=Battle Tactics — ARM, довгі;
+	}
+[Battle Tactics - Core Very Short]
+	{
+	Ukrainian=Battle Tactics — CORE, дуже короткі;
+	}
+[Battle Tactics - Core Short]
+	{
+	Ukrainian=Battle Tactics — CORE, короткі;
+	}
+[Battle Tactics - Core Medium]
+	{
+	Ukrainian=Battle Tactics — CORE, середні;
+	}
+[Battle Tactics - Core Long]
+	{
+	Ukrainian=Battle Tactics — CORE, довгі;
+	}
+
 // Menus
 
 [No Narration]
