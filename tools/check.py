@@ -5,10 +5,10 @@
 
     check.py PACK [--game-dir DIR --oa-tool EXE]
                   [--catalogue FILE ...] [--strict] [--source]
-                  [--fonts DIR] [--deps DIR]
+                  [--fonts DIR] [--deps DIR] [--engine-fonts DIR]
     check.py --all [--game-dir DIR --oa-tool EXE]
                     [--catalogue FILE ...] [--strict] [--source]
-                    [--fonts DIR] [--deps DIR]
+                    [--fonts DIR] [--deps DIR] [--engine-fonts DIR]
 
 The pack's manifest must read as the game reads it, and each of its tables
 must parse, carry its licence header and name each section once. Every file
@@ -30,6 +30,15 @@ source tree whose face is not built yet is checked against the cut's
 recipe in fonts.py, with the Table of General Standard Chinese Characters
 when --deps (default local/deps) holds the pinned Unihan archive, and
 without it otherwise, which refuses the table's rarer characters.
+
+Every other character is drawn where the manifest's text says. A language
+whose text needs the modern fonts (text: {needs: modern-fonts}) draws it
+from the engine's own faces (DejaVu Sans and the others beside the game)
+or the pack's fonts, and each visible character must be in one of them, in
+the faces every weight looks in. The engine's faces are read from the
+record fonts/engine-faces.json, or from an engine build's fonts folder
+with --engine-fonts. A language drawn in the game's fonts keeps to their
+code page, Windows-1252.
 
 In interface.tdf, each translation must keep the places of its English
 ({name}, %s and the like) and each of its numbers.
@@ -426,35 +435,125 @@ def pack_texts(pack: Path, values: dict) -> list[Path]:
     return paths
 
 
+def invisible(code: int) -> bool:
+    """Whether the engine draws a character as nothing (text_font's is_invisible).
+
+    Control characters, zero-width spaces, marks and joiners, the word
+    joiner, the byte-order mark and the variation selectors.
+    """
+    return (
+        code < 0x20
+        or 0x7F <= code < 0xA0
+        or 0x200B <= code <= 0x200F
+        or code == 0x2060
+        or code == 0xFEFF
+        or 0xFE00 <= code <= 0xFE0F
+        or 0xE0100 <= code <= 0xE01EF
+    )
+
+
+def modern_fonts(values: dict) -> bool:
+    """Whether the manifest's text needs the modern fonts; else it is drawn in the game's."""
+    text = values.get("text")
+    return isinstance(text, dict) and text.get("needs") == "modern-fonts"
+
+
+def code_page_holds(character: str) -> bool:
+    """Whether the game's 8-bit code page, Windows-1252, holds a character."""
+    try:
+        character.encode("cp1252")
+    except UnicodeEncodeError:
+        return False
+    return True
+
+
+def lacking_line(pack: Path, path: Path, lacking: dict[str, int], what: str) -> str:
+    """A failure naming the characters a text uses that what lacks."""
+    named = ", ".join(
+        f"{character} (U+{ord(character):04X}, line {line})"
+        for character, line in list(lacking.items())[:MOST_TOLD]
+    )
+    more = f" and {len(lacking) - MOST_TOLD} more" if len(lacking) > MOST_TOLD else ""
+    count = f"{len(lacking)} character" + ("" if len(lacking) == 1 else "s")
+    return f"{path.relative_to(pack).as_posix()} uses {count} {what} lack: {named}{more}"
+
+
+class EngineFaces:
+    """The characters the engine's base faces draw in every weight, read once when needed.
+
+    From the faces in an engine's fonts folder when one is given, and else
+    from the record in fonts/engine-faces.json.
+    """
+
+    def __init__(self, folder: Path | None = None, record: Path | None = None) -> None:
+        self.folder = folder
+        self.record = record
+        self.held: set[int] | None = None
+        self.error: str | None = None
+
+    def characters(self, report: Report) -> set[int] | None:
+        """The code points, or None when they cannot be read, which fails once."""
+        if self.held is None and self.error is None:
+            try:
+                self.held = font_cut.engine_characters(self.folder, self.record)
+            except (OSError, ValueError) as error:
+                where = self.folder if self.folder is not None else (
+                    self.record or font_cut.ENGINE_FACES
+                )
+                self.error = f"the engine's faces cannot be read from {where}: {error}"
+                report.fail(self.error)
+        return self.held
+
+
 def check_characters(
-    pack: Path, values: dict, found: list[Path] | None, deps: Path | None, report: Report
+    pack: Path,
+    values: dict,
+    found: list[Path] | None,
+    deps: Path | None,
+    report: Report,
+    engine: EngineFaces | None = None,
 ) -> None:
-    """Every character of the pack's text that only a CJK face draws is in its fonts."""
+    """Every character of the pack's text has a glyph where the game draws it.
+
+    One that only a CJK face draws must be in the pack's fonts. In a
+    language whose text needs the modern fonts, every other visible
+    character must be in the engine's base faces (engine) or the pack's
+    fonts; in one drawn in the game's fonts, in their code page.
+    """
     held = cut_characters(found, deps, report)
     if held is None:
         return
+    engine = engine or EngineFaces()
+    modern = modern_fonts(values)
     for path in pack_texts(pack, values):
         try:
             text = path.read_bytes().decode("utf-8")
         except (OSError, UnicodeDecodeError):
             continue  # told by the table and file checks
         lacking: dict[str, int] = {}
+        undrawn: dict[str, int] = {}
         for number, line in enumerate(text.splitlines(), start=1):
             for character in line:
                 code = ord(character)
-                if code > 0x7F and font_cut.cjk_block(code) and code not in held:
-                    lacking.setdefault(character, number)
+                if code > 0x7F and font_cut.cjk_block(code):
+                    if code not in held:
+                        lacking.setdefault(character, number)
+                elif code > 0x7F and not invisible(code) and character not in undrawn:
+                    if not modern:
+                        if not code_page_holds(character):
+                            undrawn[character] = number
+                        continue
+                    drawn = engine.characters(report)
+                    if drawn is not None and code not in drawn and code not in held:
+                        undrawn[character] = number
         if lacking:
-            named = ", ".join(
-                f"{character} (U+{ord(character):04X}, line {line})"
-                for character, line in list(lacking.items())[:MOST_TOLD]
+            report.fail(lacking_line(pack, path, lacking, "the pack's fonts"))
+        if undrawn:
+            what = (
+                "the engine's faces and the pack's fonts" if modern
+                else "the game's fonts (Windows-1252)"
             )
-            more = f" and {len(lacking) - MOST_TOLD} more" if len(lacking) > MOST_TOLD else ""
-            count = f"{len(lacking)} character" + ("" if len(lacking) == 1 else "s")
-            report.fail(
-                f"{path.relative_to(pack).as_posix()} uses {count} the pack's fonts lack: "
-                f"{named}{more}"
-            )
+            report.fail(lacking_line(pack, path, undrawn, what))
 
 
 def check_manifest(pack: Path, report: Report) -> dict:
@@ -655,6 +754,9 @@ def main(argv: list[str]) -> int:
                         help="the built faces (default: local/fonts)")
     parser.add_argument("--deps", type=Path, default=ROOT / "local" / "deps",
                         help="the pinned downloads, for the Unihan archive (default: local/deps)")
+    parser.add_argument("--engine-fonts", type=Path,
+                        help="an engine build's fonts folder, read in place of "
+                             "fonts/engine-faces.json")
     options = parser.parse_args(argv)
     if options.all and options.pack is not None:
         parser.error("pass a pack or --all, not both")
@@ -671,6 +773,7 @@ def main(argv: list[str]) -> int:
             return SKIPPED
         packs = [options.pack]
     built = built_font_names()
+    engine = EngineFaces(options.engine_fonts)
     failed = False
     for pack in packs:
         report = Report()
@@ -678,7 +781,7 @@ def main(argv: list[str]) -> int:
         found = check_fonts(pack, values, report, options.source, built, options.fonts)
         tables = check_tables(pack, report)
         check_text_files(pack, report)
-        check_characters(pack, values, found, options.deps, report)
+        check_characters(pack, values, found, options.deps, report, engine)
         check_patterns(tables, report)
         if options.game_dir is not None and options.oa_tool is not None:
             if options.game_dir.is_dir() and os.access(options.oa_tool, os.X_OK):

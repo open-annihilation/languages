@@ -15,6 +15,14 @@ The cut is Noto Sans CJK SC Bold (face 2 of the Bold collection) kept to
 the common CJK characters. fontTools 4.66.1, pinned by hash in
 fonts/requirements.txt, runs in local/fonttools-venv. --self-test checks
 the pins and the character set and downloads nothing.
+
+    fonts.py --record-engine-faces FONTS
+
+records the faces of an engine build's fonts folder (the bundle's
+Contents/Resources/fonts on macOS, the fonts folder beside the game
+elsewhere) in fonts/engine-faces.json: each face's SHA-256 and the code
+points it draws. The pack check reads that record for the characters a
+pack's text draws from the engine's own faces.
 """
 
 from __future__ import annotations
@@ -194,6 +202,126 @@ def face_characters(path):
     if not read:
         raise ValueError(f"{pathlib.Path(path).name} has no Unicode character map")
     return held
+
+
+ENGINE_FACES = ROOT / "fonts" / "engine-faces.json"
+"""The record of the characters the engine's own faces draw."""
+
+ENGINE_FACE_FILES = (
+    "DejaVuSans-Bold.ttf",
+    "DejaVuSans.ttf",
+    "NotoSansCJKsc-Bold-Endonyms.otf",
+    "NotoEmoji.ttf",
+)
+"""The engine's base faces, in the order its font stack opens them.
+
+They are the files of the fonts folder beside the game (face_files in the
+engine's oa/platform/text_font.hpp). The bold weight looks in all four; the
+regular weight skips DejaVu Sans Bold.
+"""
+
+BOLD_ONLY_FACES = ("DejaVuSans-Bold.ttf",)
+"""The base faces only the bold weight looks in."""
+
+
+def code_ranges(codes):
+    """The code points as runs, each "XXXX" or "XXXX-YYYY" in hexadecimal."""
+    runs = []
+    for code in sorted(codes):
+        if runs and runs[-1][1] == code - 1:
+            runs[-1][1] = code
+        else:
+            runs.append([code, code])
+    return [f"{first:04X}" if first == last else f"{first:04X}-{last:04X}" for first, last in runs]
+
+
+def range_codes(runs):
+    """The code points of runs written by code_ranges. Raises ValueError for a malformed run."""
+    codes = set()
+    for run in runs:
+        if not isinstance(run, str) or not re.fullmatch(r"[0-9A-F]{4,6}(-[0-9A-F]{4,6})?", run):
+            raise ValueError(f"{run!r} is not a run of code points")
+        first, _, last = run.partition("-")
+        start = int(first, 16)
+        end = int(last, 16) if last else start
+        if end < start or end > 0x10FFFF:
+            raise ValueError(f"{run!r} is not a run of code points")
+        codes.update(range(start, end + 1))
+    return codes
+
+
+def record_engine_faces(folder):
+    """The record of the engine's base faces in a fonts folder.
+
+    Each face's SHA-256 and the runs of the code points its character map
+    holds. Raises OSError for a missing face and ValueError for one that
+    cannot be read.
+    """
+    faces = {}
+    for name in ENGINE_FACE_FILES:
+        path = pathlib.Path(folder) / name
+        faces[name] = {
+            "characters": code_ranges(face_characters(path)),
+            "sha256": hashlib.sha256(path.read_bytes()).hexdigest(),
+        }
+    return {"faces": faces}
+
+
+def engine_face_problems(data):
+    """What is wrong with a record of the engine's faces; empty when it is well formed."""
+    if not isinstance(data, dict) or not isinstance(data.get("faces"), dict):
+        return ["the record holds no faces"]
+    problems = []
+    faces = data["faces"]
+    if list(faces) != list(ENGINE_FACE_FILES):
+        problems.append("the record does not name the engine's four faces in their order")
+    for name, face in faces.items():
+        if not isinstance(face, dict) or set(face) != {"characters", "sha256"}:
+            problems.append(f"{name} is not a face's record")
+            continue
+        if not isinstance(face["sha256"], str) or not SHA256_RE.fullmatch(face["sha256"]):
+            problems.append(f"the sha256 of {name} is malformed")
+        if not isinstance(face["characters"], list) or not face["characters"]:
+            problems.append(f"{name} records no characters")
+            continue
+        try:
+            range_codes(face["characters"])
+        except ValueError as error:
+            problems.append(f"{name}: {error}")
+    return problems
+
+
+def every_weight_characters(faces):
+    """The code points every weight draws, from {face file: code points}."""
+    held = set()
+    for name, codes in faces.items():
+        if name not in BOLD_ONLY_FACES:
+            held |= codes
+    return held
+
+
+def engine_characters(folder=None, record=None):
+    """The code points the engine's base faces draw in every weight.
+
+    Read from the faces in folder, the engine's fonts folder, when it is
+    given, and else from the record (default fonts/engine-faces.json).
+    Raises OSError or ValueError when they cannot be read.
+    """
+    if folder is not None:
+        return every_weight_characters(
+            {name: face_characters(pathlib.Path(folder) / name) for name in ENGINE_FACE_FILES}
+        )
+    path = record or ENGINE_FACES
+    try:
+        data = json.loads(pathlib.Path(path).read_text(encoding="utf-8"))
+    except json.JSONDecodeError as error:
+        raise ValueError(f"{pathlib.Path(path).name} is not JSON: {error}") from error
+    problems = engine_face_problems(data)
+    if problems:
+        raise ValueError("; ".join(problems))
+    return every_weight_characters(
+        {name: range_codes(face["characters"]) for name, face in data["faces"].items()}
+    )
 
 
 def load_pins(path=None):
@@ -420,12 +548,23 @@ def main(argv=None):
                         help="where to write the faces (default: local/fonts)")
     parser.add_argument("--self-test", action="store_true",
                         help="check the pins and the character set, and exit")
+    parser.add_argument("--record-engine-faces", type=pathlib.Path, metavar="FONTS",
+                        help="record the faces of an engine build's fonts folder in "
+                             "fonts/engine-faces.json, and exit")
     parser.add_argument("--cut-face", nargs=3, metavar=("COLLECTION", "UNIHAN", "OUT"), help=argparse.SUPPRESS)
     parser.add_argument("--face", type=int, default=2, help=argparse.SUPPRESS)
     parser.add_argument("--count", type=int, default=15309, help=argparse.SUPPRESS)
     args = parser.parse_args(argv)
     if args.self_test:
         return self_test()
+    if args.record_engine_faces:
+        data = record_engine_faces(args.record_engine_faces)
+        ENGINE_FACES.write_text(json.dumps(data, indent=1) + "\n", encoding="utf-8")
+        held = every_weight_characters(
+            {name: range_codes(face["characters"]) for name, face in data["faces"].items()}
+        )
+        print(f"{ENGINE_FACES.relative_to(ROOT).as_posix()}: {len(held)} characters in every weight")
+        return 0
     if args.cut_face:
         cut_cjk_face(args.cut_face[0], args.cut_face[1], args.face, args.cut_face[2], args.count)
         return 0

@@ -137,6 +137,73 @@ class CheckTests(unittest.TestCase):
         self.assertEqual(code, 1, output)
         self.assertIn("names [Same] twice", output)
 
+    def test_cyrillic_is_drawn_by_the_recorded_engine_faces(self) -> None:
+        code, output = run([str(FIXTURES / "cyrillic")])
+        self.assertEqual(code, 0, output)
+        self.assertNotIn("lack", output)
+
+    def engine_fonts(self, codes: set[int], bold: set[int] = frozenset()) -> Path:
+        """An engine fonts folder whose faces hold codes in every weight and bold in bold only."""
+        folder = Path(self.folder.name) / "engine-fonts"
+        write_face(folder / "DejaVuSans-Bold.ttf", ranges_of(set(codes) | set(bold)))
+        write_face(folder / "DejaVuSans.ttf", ranges_of(set(codes)))
+        write_face(folder / "NotoSansCJKsc-Bold-Endonyms.otf", ranges_of({ord("中")}))
+        write_face(folder / "NotoEmoji.ttf", ranges_of({0x1F600}))
+        return folder
+
+    def fixture_characters(self) -> set[int]:
+        text = (FIXTURES / "cyrillic" / "interface.tdf").read_text(encoding="utf-8")
+        return {ord(character) for character in text}
+
+    def test_a_character_the_engine_faces_lack_fails(self) -> None:
+        folder = self.engine_fonts(self.fixture_characters() - {ord("ї")})
+        code, output = run([str(FIXTURES / "cyrillic"), "--engine-fonts", str(folder)])
+        self.assertEqual(code, 1, output)
+        self.assertIn(
+            "interface.tdf uses 1 character the engine's faces and the pack's fonts lack: "
+            "ї (U+0457, line 11)", output)
+
+    def test_a_character_only_bold_draws_fails(self) -> None:
+        folder = self.engine_fonts(self.fixture_characters() - {ord("ґ")}, {ord("ґ")})
+        code, output = run([str(FIXTURES / "cyrillic"), "--engine-fonts", str(folder)])
+        self.assertEqual(code, 1, output)
+        self.assertIn("ґ (U+0491, line 11)", output)
+
+    def test_engine_fonts_that_hold_every_character_are_clean(self) -> None:
+        folder = self.engine_fonts(self.fixture_characters())
+        code, output = run([str(FIXTURES / "cyrillic"), "--engine-fonts", str(folder)])
+        self.assertEqual(code, 0, output)
+
+    def test_a_letters_face_draws_what_the_engine_lacks(self) -> None:
+        pack = Path(self.folder.name) / "cyrillic"
+        shutil.copytree(FIXTURES / "cyrillic", pack)
+        manifest = pack / "language.yaml"
+        manifest.write_text(
+            manifest.read_text(encoding="utf-8")
+            + "fonts: [{file: Letters.otf, role: letters}]\n", encoding="utf-8")
+        write_face(pack / "fonts" / "Letters.otf", ranges_of({ord("ї")}))
+        folder = self.engine_fonts(self.fixture_characters() - {ord("ї")})
+        code, output = run([str(pack), "--engine-fonts", str(folder)])
+        self.assertEqual(code, 0, output)
+
+    def test_engine_fonts_that_cannot_be_read_fail(self) -> None:
+        code, output = run([str(FIXTURES / "cyrillic"), "--engine-fonts", str(self.empty)])
+        self.assertEqual(code, 1, output)
+        self.assertIn("the engine's faces cannot be read from", output)
+
+    def test_cyrillic_in_the_game_fonts_fails(self) -> None:
+        pack = Path(self.folder.name) / "cyrillic"
+        shutil.copytree(FIXTURES / "cyrillic", pack)
+        manifest = pack / "language.yaml"
+        manifest.write_text(
+            manifest.read_text(encoding="utf-8").replace("modern-fonts", "game-fonts"),
+            encoding="utf-8")
+        code, output = run([str(pack)])
+        self.assertEqual(code, 1, output)
+        self.assertIn("interface.tdf uses 21 characters the game's fonts (Windows-1252) lack: "
+                      "М (U+041C, line 6)", output)
+        self.assertNotIn("«", output)  # Windows-1252 holds the guillemets and the dash
+
     def test_missing_pack_is_skipped(self) -> None:
         code, output = run([str(FIXTURES / "not-a-pack")])
         self.assertEqual(code, 77, output)

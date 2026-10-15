@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+# SPDX-License-Identifier: GPL-3.0-only
+
+oalang: 1
+tag: cyrillic
+name: Кирилиця
+english-name: Cyrillic
+word: Cyrillic
+version: "1"
+locales: [uk]
+fallbacks: []
+text: {needs: modern-fonts}
+unicode: true

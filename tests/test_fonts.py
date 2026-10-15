@@ -1,10 +1,11 @@
 # SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
 # SPDX-License-Identifier: GPL-3.0-only
 
-"""The font pins, the character set and a download whose SHA-256 does not match."""
+"""The font pins, the character set, the engine faces' record and a download whose SHA-256 does not match."""
 
 from __future__ import annotations
 
+import json
 import tempfile
 import unittest
 import zipfile
@@ -18,6 +19,10 @@ COLLECTION = "faa5f3656a78b2e2d450d27fe8382c778bc2b6bb5ea29c986664a6a435056ceb"
 LICENCE = "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
 UNIHAN = "b8f000df69de7828d21326a2ffea462b04bc7560022989f7cc704f10521ef3e0"
 CUT = "1bff16d425a0bc5048fddb7d33d2a59e08647d4a29380a348ccaabcbd89a29f2"
+UKRAINIAN = (
+    "АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯабвгґдеєжзиіїйклмнопрстуфхцчшщьюя"
+    "ʼ’«»—–…№"
+)
 
 
 def unihan_zip(path: Path, count: int) -> None:
@@ -88,6 +93,55 @@ class FontTests(unittest.TestCase):
             self.assertTrue(fonts.cjk_block(ord(character)), character)
         for character in "A›…—·✕é":
             self.assertFalse(fonts.cjk_block(ord(character)), character)
+
+    def test_engine_faces_record_is_well_formed(self) -> None:
+        data = json.loads(fonts.ENGINE_FACES.read_text(encoding="utf-8"))
+        self.assertEqual(fonts.engine_face_problems(data), [])
+        self.assertEqual(list(data["faces"]), list(fonts.ENGINE_FACE_FILES))
+        held = fonts.engine_characters()
+        for character in UKRAINIAN:
+            self.assertIn(ord(character), held, character)
+
+    def test_engine_faces_are_recorded_and_read_back(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            folder = Path(tmp) / "fonts"
+            write_face(folder / "DejaVuSans-Bold.ttf", [(0x20, 0x7E), (0x0400, 0x045F)])
+            write_face(folder / "DejaVuSans.ttf", [(0x20, 0x7E), (0x0400, 0x044F)], form=4)
+            write_face(folder / "NotoSansCJKsc-Bold-Endonyms.otf", [(0x4E2D, 0x4E2D)])
+            write_face(folder / "NotoEmoji.ttf", [(0x1F600, 0x1F601)])
+            data = fonts.record_engine_faces(folder)
+            self.assertEqual(fonts.engine_face_problems(data), [])
+            self.assertEqual(data["faces"]["DejaVuSans.ttf"]["characters"], ["0020-007E", "0400-044F"])
+            record = Path(tmp) / "engine-faces.json"
+            record.write_text(json.dumps(data), encoding="utf-8")
+            expected = {*range(0x20, 0x7F), *range(0x0400, 0x0450), 0x4E2D, 0x1F600, 0x1F601}
+            # U+0450-U+045F are in the bold face alone, so not in every weight.
+            self.assertEqual(fonts.engine_characters(record=record), expected)
+            self.assertEqual(fonts.engine_characters(folder), expected)
+            (folder / "NotoEmoji.ttf").unlink()
+            with self.assertRaises(OSError):
+                fonts.record_engine_faces(folder)
+
+    def test_engine_face_problems(self) -> None:
+        self.assertEqual(fonts.engine_face_problems([]), ["the record holds no faces"])
+        faces = {name: {"characters": ["0020-007E"], "sha256": "0" * 64}
+                 for name in fonts.ENGINE_FACE_FILES}
+        self.assertEqual(fonts.engine_face_problems({"faces": faces}), [])
+        faces["NotoEmoji.ttf"] = {"characters": ["007E-0020"], "sha256": "0" * 64}
+        self.assertEqual(fonts.engine_face_problems({"faces": faces}),
+                         ["NotoEmoji.ttf: '007E-0020' is not a run of code points"])
+        del faces["NotoEmoji.ttf"]
+        self.assertIn("the record does not name the engine's four faces in their order",
+                      fonts.engine_face_problems({"faces": faces}))
+
+    def test_code_ranges(self) -> None:
+        codes = {0x41, 0x42, 0x43, 0x4E2D, 0x1F600}
+        runs = fonts.code_ranges(codes)
+        self.assertEqual(runs, ["0041-0043", "4E2D", "1F600"])
+        self.assertEqual(fonts.range_codes(runs), codes)
+        for bad in ("41", "0041-", "zz00", 65):
+            with self.assertRaises(ValueError):
+                fonts.range_codes([bad])
 
     def test_download_with_the_wrong_sha256_is_refused(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
