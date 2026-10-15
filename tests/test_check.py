@@ -137,6 +137,13 @@ class CheckTests(unittest.TestCase):
         self.assertEqual(code, 1, output)
         self.assertIn("names [Same] twice", output)
 
+    def test_uk_source_is_clean(self) -> None:
+        # Ukrainian brings no font: the engine's own faces draw its Cyrillic.
+        code, output = run([str(ROOT / "uk"), "--source", "--fonts", str(self.empty),
+                            "--deps", str(self.empty)])
+        self.assertEqual(code, 0, output)
+        self.assertTrue(output.rstrip().endswith("clean"), output)
+
     def test_cyrillic_is_drawn_by_the_recorded_engine_faces(self) -> None:
         code, output = run([str(FIXTURES / "cyrillic")])
         self.assertEqual(code, 0, output)

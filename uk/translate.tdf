@@ -1,0 +1,4115 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Ukrainian for 3.1c's translate.tdf texts, keyed by 3.1c's English
+// exactly (case and spaces included), in 3.1c's own order.
+
+// Ingame and Panel Messages
+
+[KILLS]
+	{
+	Ukrainian=ЗНИЩЕНО;
+	}
+[Kills]
+	{
+	Ukrainian=Знищено;
+	}
+[Kill]
+	{
+	Ukrainian=Знищено;
+	}
+[kill]
+	{
+	Ukrainian=знищено;
+	}
+[LOSSES]
+	{
+	Ukrainian=ВТРАТИ;
+	}
+[Losses]
+	{
+	Ukrainian=Втрати;
+	}
+[kills]
+	{
+	Ukrainian=знищено;
+	}
+[Veteran]
+	{
+	Ukrainian=Ветеран;
+	}
+[Newbie]
+	{
+	Ukrainian=Новачок;
+	}
+[PAUSED]
+	{
+	Ukrainian=ПАУЗА;
+	}
+
+// Loading screen
+
+[Map]
+	{
+	Ukrainian=Мапа;
+	}
+[Map:]
+	{
+	Ukrainian=Мапа:;
+	}
+[Terrain]
+	{
+	Ukrainian=Рельєф;
+	}
+[Textures]
+	{
+	Ukrainian=Текстури;
+	}
+[Units]
+	{
+	Ukrainian=Підрозділи;
+	}
+[Features]
+	{
+	Ukrainian=Обʼєкти;
+	}
+[FEATURES]
+	{
+	Ukrainian=ОБʼЄКТИ;
+	}
+[MoveInfo]
+	{
+	Ukrainian=Дані руху;
+	}
+[Explosions]
+	{
+	Ukrainian=Вибухи;
+	}
+[Synchronization complete]
+	{
+	Ukrainian=Синхронізацію завершено;
+	}
+[player ready]
+	{
+	Ukrainian=готовий до гри;
+	}
+[players ready]
+	{
+	Ukrainian=готових до гри;
+	}
+[Waiting for other players]
+	{
+	Ukrainian=Очікування інших гравців;
+	}
+[Synchronizing]
+	{
+	Ukrainian=Синхронізація;
+	}
+[Waiting for the Creator]
+	{
+	Ukrainian=Очікування хоста;
+	}
+[3D Data]
+	{
+	Ukrainian=3D-дані;
+	}
+[Animation]
+	{
+	Ukrainian=Анімація;
+	}
+[Animations]
+	{
+	Ukrainian=Анімації;
+	}
+
+// Sides
+
+[Arm]
+	{
+	Ukrainian=ARM;
+	}
+[Core]
+	{
+	Ukrainian=CORE;
+	}
+[Arm Campaign]
+	{
+	Ukrainian=Кампанія ARM;
+	}
+[arm campaign]
+	{
+	Ukrainian=Кампанія ARM;
+	}
+[Core Campaign]
+	{
+	Ukrainian=Кампанія CORE;
+	}
+
+// Menus
+
+[No Narration]
+	{
+	Ukrainian=Без голосу;
+	}
+[Narration]
+	{
+	Ukrainian=Озвучення;
+	}
+[Start]
+	{
+	Ukrainian=Почати;
+	}
+[Select]
+	{
+	Ukrainian=Обрати;
+	}
+[Previous Menu]
+	{
+	Ukrainian=Назад;
+	}
+[Next]
+	{
+	Ukrainian=Далі;
+	}
+[Previous]
+	{
+	Ukrainian=Назад;
+	}
+[SOUND]
+	{
+	Ukrainian=ЗВУК;
+	}
+[INTERFACE]
+	{
+	Ukrainian=ІНТЕРФЕЙС;
+	}
+[VISUALS]
+	{
+	Ukrainian=ГРАФІКА;
+	}
+[MUSIC]
+	{
+	Ukrainian=МУЗИКА;
+	}
+[Set Difficulty]
+	{
+	Ukrainian=Складність;
+	}
+[Skirmish]
+	{
+	Ukrainian=Сутичка;
+	}
+[Skirmish (%d players)]
+	{
+	Ukrainian=Сутичка (гравців: %d);
+	}
+[New Campaign]
+	{
+	Ukrainian=Кампанія;
+	}
+[NEW CAMPAIGN]
+	{
+	Ukrainian=НОВА КАМПАНІЯ;
+	}
+[Start Campaign]
+	{
+	Ukrainian=Почати;
+	}
+[Select Campaign]
+	{
+	Ukrainian=Кампанія;
+	}
+[SELECT CAMPAIGN:]
+	{
+	Ukrainian=ВИБІР КАМПАНІЇ:;
+	}
+[Select Any Mission]
+	{
+	Ukrainian=Обрати будь-яку місію;
+	}
+[Select Mission]
+	{
+	Ukrainian=Обрати;
+	}
+[Start Mission]
+	{
+	Ukrainian=Почати;
+	}
+[Undo Changes]
+	{
+	Ukrainian=Повернути;
+	}
+[Restore Defaults]
+	{
+	Ukrainian=Типові;
+	}
+[Restore Default]
+	{
+	Ukrainian=Скинути;
+	}
+[Exit to Menu]
+	{
+	Ukrainian=Вийти в меню;
+	}
+[Exit Game]
+	{
+	Ukrainian=Вийти з гри;
+	}
+[Please Select Map]
+	{
+	Ukrainian=Оберіть мапу;
+	}
+[Load Map]
+	{
+	Ukrainian=Завантажити мапу;
+	}
+[Select Side]
+	{
+	Ukrainian=Сторона;
+	}
+
+// Generic gameplay stuff
+
+[Player]
+	{
+	Ukrainian=Гравець;
+	}
+[Players]
+	{
+	Ukrainian=Гравці;
+	}
+[Players:]
+	{
+	Ukrainian=Гравці:;
+	}
+[Allies]
+	{
+	Ukrainian=Союзники;
+	}
+[ALLIES]
+	{
+	Ukrainian=СОЮЗНИКИ;
+	}
+[Ally]
+	{
+	Ukrainian=Союзник;
+	}
+[Side]
+	{
+	Ukrainian=Сторона;
+	}
+[Metal]
+	{
+	Ukrainian=Метал;
+	}
+[METAL]
+	{
+	Ukrainian=МЕТАЛ;
+	}
+[Energy]
+	{
+	Ukrainian=Енергія;
+	}
+[ENERGY]
+	{
+	Ukrainian=ЕНЕРГІЯ;
+	}
+[Color]
+	{
+	Ukrainian=Колір;
+	}
+[Yes]
+	{
+	Ukrainian=Так;
+	}
+[No]
+	{
+	Ukrainian=Ні;
+	}
+[OK]
+	{
+	Ukrainian=OK;
+	}
+[Ok]
+	{
+	Ukrainian=OK;
+	}
+[Cancel]
+	{
+	Ukrainian=Скасувати;
+	}
+[CANCEL]
+	{
+	Ukrainian=СКАСУВАТИ;
+	}
+
+// Victory/Defeat Screen
+
+[Energy Produced]
+	{
+	Ukrainian=Вироблено енергії;
+	}
+[Metal Produced]
+	{
+	Ukrainian=Вироблено металу;
+	}
+[Energy Wasted]
+	{
+	Ukrainian=Змарновано енергії;
+	}
+[Metal Wasted]
+	{
+	Ukrainian=Змарновано металу;
+	}
+
+// Options menu
+
+[Options Menu]
+	{
+	Ukrainian=Параметри;
+	}
+[GAME OPTIONS]
+	{
+	Ukrainian=МЕНЮ ГРИ;
+	}
+[Resume]
+	{
+	Ukrainian=До гри;
+	}
+[Save Game]
+	{
+	Ukrainian=Зберегти;
+	}
+[Load Game]
+	{
+	Ukrainian=Відкрити;
+	}
+[Preferences]
+	{
+	Ukrainian=Налаштування;
+	}
+[End Mission]
+	{
+	Ukrainian=Завершити місію;
+	}
+[Help]
+	{
+	Ukrainian=Довідка;
+	}
+[Briefing]
+	{
+	Ukrainian=Брифінг;
+	}
+[Mission Objective]
+	{
+	Ukrainian=Мета місії;
+	}
+
+// Player settings
+
+[UNUSED]
+	{
+	Ukrainian=НЕ ЗАДІЯНО;
+	}
+[unused]
+	{
+	Ukrainian=не задіяно;
+	}
+[AI]
+	{
+	Ukrainian=ШІ;
+	}
+[BLOCKED]
+	{
+	Ukrainian=ЗАБЛОКОВАНО;
+	}
+[No Limit]
+	{
+	Ukrainian=Без ліміту;
+	}
+
+// CD controls
+
+[CD Player]
+	{
+	Ukrainian=CD-програвач;
+	}
+[No Music]
+	{
+	Ukrainian=Без музики;
+	}
+[Repeat Track]
+	{
+	Ukrainian=Повтор треку;
+	}
+[Repeat Track #]
+	{
+	Ukrainian=Повтор треку №;
+	}
+[Repeat]
+	{
+	Ukrainian=Повтор;
+	}
+[Random Tracks]
+	{
+	Ukrainian=Випадкові треки;
+	}
+[Specify Tracks]
+	{
+	Ukrainian=Обрати треки;
+	}
+[Play All Tracks]
+	{
+	Ukrainian=Грати всі треки;
+	}
+[Play All]
+	{
+	Ukrainian=Грати всі;
+	}
+[Track]
+	{
+	Ukrainian=Трек;
+	}
+[Custom]
+	{
+	Ukrainian=Власний;
+	}
+[No Action]
+	{
+	Ukrainian=Затишшя;
+	}
+[Battle]
+	{
+	Ukrainian=Бій;
+	}
+[Defeat]
+	{
+	Ukrainian=Поразка;
+	}
+[Unused]
+	{
+	Ukrainian=Не задіяно;
+	}
+[NO DISC]
+	{
+	Ukrainian=НЕМАЄ ДИСКА;
+	}
+
+// Speeds
+
+[Normal]
+	{
+	Ukrainian=Нормально;
+	}
+[Slow]
+	{
+	Ukrainian=Повільно;
+	}
+[Slower]
+	{
+	Ukrainian=Повільніше;
+	}
+[Fast]
+	{
+	Ukrainian=Швидко;
+	}
+[Faster]
+	{
+	Ukrainian=Швидше;
+	}
+[Game Speed]
+	{
+	Ukrainian=Швидкість гри;
+	}
+[Mouse Speed]
+	{
+	Ukrainian=Швидкість миші;
+	}
+[Screen Scroll]
+	{
+	Ukrainian=Прокрутка;
+	}
+[Screen Text Delay]
+	{
+	Ukrainian=Показ тексту;
+	}
+[Interface]
+	{
+	Ukrainian=Інтерфейс;
+	}
+[Unit Chat]
+	{
+	Ukrainian=Репліки;
+	}
+[Text Lines]
+	{
+	Ukrainian=Рядки тексту;
+	}
+[Game]
+	{
+	Ukrainian=Гра;
+	}
+[Mouse]
+	{
+	Ukrainian=Миша;
+	}
+[Screen]
+	{
+	Ukrainian=Екран;
+	}
+[Text Delay (secs)]
+	{
+	Ukrainian=Час тексту (с);
+	}
+[Button Interface]
+	{
+	Ukrainian=Кнопка миші;
+	}
+[Control]
+	{
+	Ukrainian=Керування;
+	}
+
+// Gamespeed
+
+[Quick]
+	{
+	Ukrainian=Жваво;
+	}
+[Sluggish]
+	{
+	Ukrainian=Мляво;
+	}
+[Rapid Fire]
+	{
+	Ukrainian=Блискавично;
+	}
+
+// Chat settings
+
+[No Chat]
+	{
+	Ukrainian=Без реплік;
+	}
+[Only important info]
+	{
+	Ukrainian=Лише важлива інформація;
+	}
+[Medium chat]
+	{
+	Ukrainian=Помірні репліки;
+	}
+[Detailed chat]
+	{
+	Ukrainian=Докладні репліки;
+	}
+[High chat level]
+	{
+	Ukrainian=Багато реплік;
+	}
+[All info chatted]
+	{
+	Ukrainian=Усі повідомлення;
+	}
+[ENEMIES]
+	{
+	Ukrainian=ВОРОГИ;
+	}
+[Enemies]
+	{
+	Ukrainian=Вороги;
+	}
+[All]
+	{
+	Ukrainian=Усі;
+	}
+[ALL]
+	{
+	Ukrainian=УСІ;
+	}
+[TALK TO:]
+	{
+	Ukrainian=КОМУ:;
+	}
+[Unit Sounds]
+	{
+	Ukrainian=Звуки військ;
+	}
+[UNIT SOUNDS]
+	{
+	Ukrainian=ЗВУКИ ПІДРОЗДІЛІВ;
+	}
+
+// Sound settings
+
+[On]
+	{
+	Ukrainian=Увімк.;
+	}
+[Off]
+	{
+	Ukrainian=Вимк.;
+	}
+[Mono]
+	{
+	Ukrainian=Моно;
+	}
+[Stereo]
+	{
+	Ukrainian=Стерео;
+	}
+[3d]
+	{
+	Ukrainian=3D;
+	}
+[Sound Effects Volume]
+	{
+	Ukrainian=Гучність ефектів;
+	}
+[Music Volume]
+	{
+	Ukrainian=Музика;
+	}
+[Sound Volume]
+	{
+	Ukrainian=Гучність звуку;
+	}
+[Sound Mode]
+	{
+	Ukrainian=Режим звуку;
+	}
+[No Chatting]
+	{
+	Ukrainian=Без реплік;
+	}
+[TEST]
+	{
+	Ukrainian=ТЕСТ;
+	}
+[Sound Test]
+	{
+	Ukrainian=Тест звуку;
+	}
+[SOUND TEST]
+	{
+	Ukrainian=ТЕСТ ЗВУКУ;
+	}
+[Building Sounds]
+	{
+	Ukrainian=Звуки будівництва;
+	}
+[Building]
+	{
+	Ukrainian=Будова;
+	}
+[Unit Speech]
+	{
+	Ukrainian=Голоси підрозділів;
+	}
+[Unit Chat Level]
+	{
+	Ukrainian=Рівень реплік;
+	}
+[Unit Text Acks]
+	{
+	Ukrainian=Відповіді;
+	}
+[Chat Level Info]
+	{
+	Ukrainian=Про рівні реплік;
+	}
+[Unit Acknowledgement]
+	{
+	Ukrainian=Відповіді підрозділів;
+	}
+// Not in 3.1c's table: the Unit Speech and Unit Chat Level buttons'
+// stages, whole. A button's whole caption is translated before each of its
+// stages, and [Full] alone is a game the game list shows full.
+[Off|Medium|Full]
+	{
+	Ukrainian=Вимк.|Середній|Повний;
+	}
+
+// Difficulty settings
+
+[Difficulty]
+	{
+	Ukrainian=Складність;
+	}
+[Difficulty:]
+	{
+	Ukrainian=Складність:;
+	}
+[Easy]
+	{
+	Ukrainian=Легкий;
+	}
+[Medium]
+	{
+	Ukrainian=Середній;
+	}
+[Hard]
+	{
+	Ukrainian=Важкий;
+	}
+[Mapped]
+	{
+	Ukrainian=Відкрита;
+	}
+[Unmapped]
+	{
+	Ukrainian=Прихована;
+	}
+
+// Starting resource levels
+
+[Low]
+	{
+	Ukrainian=Низький;
+	}
+[High]
+	{
+	Ukrainian=Високий;
+	}
+
+// Interface menu
+
+[Left]
+	{
+	Ukrainian=Ліва;
+	}
+[Right]
+	{
+	Ukrainian=Права;
+	}
+[Left Click]
+	{
+	Ukrainian=Ліва;
+	}
+[Right Click]
+	{
+	Ukrainian=Права;
+	}
+
+// Visuals menu
+
+[Shading]
+	{
+	Ukrainian=Затінення;
+	}
+[Antialias]
+	{
+	Ukrainian=Згладжування;
+	}
+[Anti-aliasing]
+	{
+	Ukrainian=Згладжування;
+	}
+[Map Mode]
+	{
+	Ukrainian=Режим мапи;
+	}
+[Gamma]
+	{
+	Ukrainian=Гамма;
+	}
+[Gamma Correction]
+	{
+	Ukrainian=Корекція гамми;
+	}
+[Line Of Sight]
+	{
+	Ukrainian=Поле зору;
+	}
+[Object rendering]
+	{
+	Ukrainian=Рендеринг обʼєктів;
+	}
+[Screen Size]
+	{
+	Ukrainian=Розмір екрана;
+	}
+[Size]
+	{
+	Ukrainian=Розмір;
+	}
+[Shadows]
+	{
+	Ukrainian=Тіні;
+	}
+[Building Shadows]
+	{
+	Ukrainian=Тіні будівель;
+	}
+[Vehicle Shadows]
+	{
+	Ukrainian=Тіні техніки;
+	}
+[True]
+	{
+	Ukrainian=Справжнє;
+	}
+[Set]
+	{
+	Ukrainian=Задати;
+	}
+
+// Video mode menu
+
+[Select Videomode]
+	{
+	Ukrainian=Обрати відеорежим;
+	}
+[Select Mode]
+	{
+	Ukrainian=Обрати режим;
+	}
+
+// Save / Load game menus
+
+[Name Of Game to Load]
+	{
+	Ukrainian=Назва гри для завантаження;
+	}
+[Name Of Game to Save]
+	{
+	Ukrainian=Назва гри для збереження;
+	}
+[Reset List]
+	{
+	Ukrainian=Скинути;
+	}
+[Delete Game]
+	{
+	Ukrainian=Видалити;
+	}
+[Delete List]
+	{
+	Ukrainian=Видалити;
+	}
+[Cancel Save]
+	{
+	Ukrainian=Скасувати;
+	}
+[Game type:]
+	{
+	Ukrainian=Тип гри:;
+	}
+[Mission/Map:]
+	{
+	Ukrainian=Місія/мапа:;
+	}
+[Time elapsed:]
+	{
+	Ukrainian=Минуло часу:;
+	}
+[Side:]
+	{
+	Ukrainian=Сторона:;
+	}
+[Campaign:]
+	{
+	Ukrainian=Кампанія:;
+	}
+[There are no saved games to choose from]
+	{
+	Ukrainian=Немає збережених ігор для вибору;
+	}
+[Mission:]
+	{
+	Ukrainian=Місія:;
+	}
+[Time saved:]
+	{
+	Ukrainian=Час збереження:;
+	}
+
+// Multiplayer connection messages
+
+[The creator has left the game]
+	{
+	Ukrainian=Хост покинув гру;
+	}
+[Reject Now]
+	{
+	Ukrainian=Вигнати;
+	}
+[will be rejected in %d seconds]
+	{
+	Ukrainian=буде вигнано через %d с;
+	}
+[You do not have a compatible version for this game.]
+	{
+	Ukrainian=У вас немає сумісної версії цієї гри.;
+	}
+[is not responding]
+	{
+	Ukrainian=не відповідає;
+	}
+[Timed out while connecting to DirectPlay lobby!]
+	{
+	Ukrainian=Минув час очікування підключення до лобі DirectPlay!;
+	}
+[Please insert the Installation CD (Disc 1) and select%s"%s" again.]
+	{
+	Ukrainian=Вставте інсталяційний компакт-диск (диск 1) і ще раз оберіть%s«%s».;
+	}
+[Please insert the Campaign CD (Disc 2) and try again]
+	{
+	Ukrainian=Вставте компакт-диск кампанії (диск 2) і спробуйте ще раз;
+	}
+[Please insert the Multiplayer CD (Disc 1) and try again]
+	{
+	Ukrainian=Вставте компакт-диск мережевої гри (диск 1) і спробуйте ще раз;
+	}
+[Fault while trying to excecute button action.]
+	{
+	Ukrainian=Помилка під час виконання дії кнопки.;
+	}
+[The "%s" service failed or took %stoo long. Please see the readmee%sfile for more information.]
+	{
+	Ukrainian=Служба «%s» дала збій або%sвідповідала надто довго. Докладніше читайте%sу файлі readme.;
+	}
+[Unable to connect to DirectPlay lobby.]
+	{
+	Ukrainian=Не вдалося підключитися до лобі DirectPlay.;
+	}
+[Unable to browse to URL: %s]
+	{
+	Ukrainian=Не вдалося відкрити адресу: %s;
+	}
+[Unable to invoke DLL: %s]
+	{
+	Ukrainian=Не вдалося викликати DLL: %s;
+	}
+[Unable to execute command: %s]
+	{
+	Ukrainian=Не вдалося виконати команду: %s;
+	}
+[Could not match weapon type "%s" for synchronization!]
+	{
+	Ukrainian=Не вдалося зіставити тип зброї «%s» для синхронізації!;
+	}
+[Updating...]
+	{
+	Ukrainian=Оновлення...;
+	}
+[You must enter a game name]
+	{
+	Ukrainian=Потрібно ввести назву гри;
+	}
+[You must enter your name]
+	{
+	Ukrainian=Потрібно ввести своє імʼя;
+	}
+[You were rejected from the game]
+	{
+	Ukrainian=Вас вигнали з гри;
+	}
+[The %s service failed or took%stoo long. Please see the readme%sfile for more information.]
+	{
+	Ukrainian=Служба %s дала збій або%sвідповідала надто довго. Докладніше читайте%sу файлі readme.;
+	}
+[Direct Connections]
+	{
+	Ukrainian=Прямі зʼєднання;
+	}
+[Internet Access]
+	{
+	Ukrainian=Доступ до інтернету;
+	}
+[There are no multiplayer games to choose from]
+	{
+	Ukrainian=Немає мережевих ігор для вибору;
+	}
+[Player has left the game]
+	{
+	Ukrainian=Гравець покинув гру;
+	}
+[Player is joining the game]
+	{
+	Ukrainian=Гравець приєднується до гри;
+	}
+[Player has disconnected]
+	{
+	Ukrainian=Гравець відʼєднався;
+	}
+[Player %s has disconnected]
+	{
+	Ukrainian=Гравець %s відʼєднався;
+	}
+[You did not have the correct password]
+	{
+	Ukrainian=Ви ввели неправильний пароль;
+	}
+[10 seconds]
+	{
+	Ukrainian=10 секунд;
+	}
+[Please Select Provider]
+	{
+	Ukrainian=Тип зʼєднання;
+	}
+[Select Provider]
+	{
+	Ukrainian=Обрати;
+	}
+
+// Multiplayer interface
+
+[Allied Victory]
+	{
+	Ukrainian=Союзники;
+	}
+[Chosen Units]
+	{
+	Ukrainian=Виділені;
+	}
+[More Info]
+	{
+	Ukrainian=Докладніше;
+	}
+[Enter Game Name]
+	{
+	Ukrainian=Введіть назву гри;
+	}
+[Enter Your Name]
+	{
+	Ukrainian=Введіть своє імʼя;
+	}
+[Create New Game]
+	{
+	Ukrainian=Створити нову гру;
+	}
+[Password To Join]
+	{
+	Ukrainian=Пароль для входу;
+	}
+[Closed]
+	{
+	Ukrainian=Закрита;
+	}
+[The game is closed]
+	{
+	Ukrainian=Гру закрито;
+	}
+[The game is full]
+	{
+	Ukrainian=Гра заповнена;
+	}
+[In Game]
+	{
+	Ukrainian=У грі;
+	}
+[Lounge]
+	{
+	Ukrainian=Кімната бою;
+	}
+[Playing]
+	{
+	Ukrainian=Іде гра;
+	}
+[Full]
+	{
+	Ukrainian=Заповнена;
+	}
+[Reject Player:]
+	{
+	Ukrainian=Вигнати гравця:;
+	}
+[Reject Player]
+	{
+	Ukrainian=Вигнати гравця;
+	}
+[Reject Player?]
+	{
+	Ukrainian=Вигнати гравця?;
+	}
+[Reject %s?]
+	{
+	Ukrainian=Вигнати %s?;
+	}
+[Reject]
+	{
+	Ukrainian=Вигнати;
+	}
+[Not Selected]
+	{
+	Ukrainian=Не обрано;
+	}
+[NOT SELECTED]
+	{
+	Ukrainian=НЕ ОБРАНО;
+	}
+[Join]
+	{
+	Ukrainian=Приєднатися;
+	}
+[New]
+	{
+	Ukrainian=Нова;
+	}
+[Name of Game]
+	{
+	Ukrainian=Назва гри;
+	}
+[Plyrs]
+	{
+	Ukrainian=Гравці;
+	}
+[Status]
+	{
+	Ukrainian=Стан;
+	}
+[Watch]
+	{
+	Ukrainian=Спостерігати;
+	}
+[Update]
+	{
+	Ukrainian=Оновити;
+	}
+[LOS]
+	{
+	Ukrainian=Поле зору;
+	}
+[Cmdr]
+	{
+	Ukrainian=Ком.;
+	}
+[Ping]
+	{
+	Ukrainian=Пінг;
+	}
+[Name]
+	{
+	Ukrainian=Імʼя;
+	}
+[Your Name]
+	{
+	Ukrainian=Ваше імʼя;
+	}
+[Game Password]
+	{
+	Ukrainian=Пароль гри;
+	}
+
+// Lounge options
+
+[Messages]
+	{
+	Ukrainian=Повідомлення;
+	}
+[Mem.]
+	{
+	Ukrainian=Пам.;
+	}
+[Ready?]
+	{
+	Ukrainian=Готові?;
+	}
+[Start Game]
+	{
+	Ukrainian=Почати;
+	}
+[Select Map]
+	{
+	Ukrainian=Обрати;
+	}
+[Resolution]
+	{
+	Ukrainian=Роздільна здатність;
+	}
+[Cmndr Ends Game]
+	{
+	Ukrainian=Кінець гри;
+	}
+[LOS Mode]
+	{
+	Ukrainian=Поле зору;
+	}
+[Cheat Codes]
+	{
+	Ukrainian=Чит-коди;
+	}
+[Cheat Codes:]
+	{
+	Ukrainian=Чит-коди:;
+	}
+[Disallowed]
+	{
+	Ukrainian=Вимкнено;
+	}
+[Allowed]
+	{
+	Ukrainian=Дозволено;
+	}
+[Watching]
+	{
+	Ukrainian=Глядачі;
+	}
+[Watching:]
+	{
+	Ukrainian=Глядачі:;
+	}
+[Watching OK]
+	{
+	Ukrainian=Глядачі;
+	}
+[No Watching]
+	{
+	Ukrainian=Глядачі: ні;
+	}
+[Game Open]
+	{
+	Ukrainian=Гра відкрита;
+	}
+[Game Closed]
+	{
+	Ukrainian=Гра закрита;
+	}
+[Game Status]
+	{
+	Ukrainian=Стан гри;
+	}
+[Watching Allowed]
+	{
+	Ukrainian=Глядачі: так;
+	}
+[Map Name]
+	{
+	Ukrainian=Назва мапи;
+	}
+[Max Units]
+	{
+	Ukrainian=Ліміт;
+	}
+[Max Units:]
+	{
+	Ukrainian=Макс. підрозділів:;
+	}
+[Game Is Open]
+	{
+	Ukrainian=Гра відкрита;
+	}
+[Build Restrictions]
+	{
+	Ukrainian=Обмеження;
+	}
+
+// Skirmish menu
+
+[Start Skirmish]
+	{
+	Ukrainian=Почати сутичку;
+	}
+[Location]
+	{
+	Ukrainian=Позиція;
+	}
+[Dead Commander]
+	{
+	Ukrainian=Командир;
+	}
+[Commander]
+	{
+	Ukrainian=Командир;
+	}
+
+// Restrictions menu
+
+[Max Per Player]
+	{
+	Ukrainian=Макс. на гравця;
+	}
+[Unit Build Restrictions]
+	{
+	Ukrainian=Обмеження будівництва підрозділів;
+	}
+[Load List]
+	{
+	Ukrainian=Відкрити;
+	}
+[Save List]
+	{
+	Ukrainian=Зберегти;
+	}
+[Name of list to save]
+	{
+	Ukrainian=Назва списку для збереження;
+	}
+[Show Picture]
+	{
+	Ukrainian=Показати зображення;
+	}
+
+// Gameplay options
+
+[Fixed]
+	{
+	Ukrainian=Фіксована;
+	}
+[Random]
+	{
+	Ukrainian=Випадкова;
+	}
+[Specific]
+	{
+	Ukrainian=На вибір;
+	}
+[Fixed Locations]
+	{
+	Ukrainian=Фіксовані;
+	}
+[Random Locations]
+	{
+	Ukrainian=Випадкові;
+	}
+[Game Ends]
+	{
+	Ukrainian=Кінець гри;
+	}
+[Game ends]
+	{
+	Ukrainian=Кінець гри;
+	}
+[Deathmatch]
+	{
+	Ukrainian=Дезматч;
+	}
+[Continues]
+	{
+	Ukrainian=Триває;
+	}
+[Game Continues]
+	{
+	Ukrainian=Гра триває;
+	}
+[Mapping Mode]
+	{
+	Ukrainian=Видимість мапи;
+	}
+[Mapping Mode:]
+	{
+	Ukrainian=Видимість мапи:;
+	}
+[Blank Map]
+	{
+	Ukrainian=Прихована;
+	}
+[Full Map]
+	{
+	Ukrainian=Уся мапа;
+	}
+[LOS Off]
+	{
+	Ukrainian=Вимкнено;
+	}
+[Permanent]
+	{
+	Ukrainian=Постійне;
+	}
+[True LOS]
+	{
+	Ukrainian=Справжнє;
+	}
+[Circular]
+	{
+	Ukrainian=Кругове;
+	}
+[Starting Locations:]
+	{
+	Ukrainian=Стартові позиції:;
+	}
+[Start Location]
+	{
+	Ukrainian=Стартова позиція;
+	}
+[Commander Death]
+	{
+	Ukrainian=Загибель Командира;
+	}
+[Commander Death:]
+	{
+	Ukrainian=Командир:;
+	}
+[Mapping]
+	{
+	Ukrainian=Мапа;
+	}
+[Line of Sight]
+	{
+	Ukrainian=Поле зору;
+	}
+[Line of Sight:]
+	{
+	Ukrainian=Поле зору:;
+	}
+[Computer Opponent]
+	{
+	Ukrainian=Компʼютер;
+	}
+[Computer]
+	{
+	Ukrainian=Компʼютер;
+	}
+[AI Opponent]
+	{
+	Ukrainian=Суперник ШІ;
+	}
+[Opponent]
+	{
+	Ukrainian=Суперник;
+	}
+[Exit the Battle]
+	{
+	Ukrainian=Вийти з бою;
+	}
+[Page 1]
+	{
+	Ukrainian=Стор. 1;
+	}
+[Page 2]
+	{
+	Ukrainian=Стор. 2;
+	}
+[Page 3]
+	{
+	Ukrainian=Стор. 3;
+	}
+
+// Briefing messages
+
+[BACK TO START]
+	{
+	Ukrainian=НА ПОЧАТОК;
+	}
+[MORE...]
+	{
+	Ukrainian=ДАЛІ...;
+	}
+
+// Game over screen
+
+[Victory or Failure]
+	{
+	Ukrainian=Перемога чи поразка;
+	}
+[Main Menu]
+	{
+	Ukrainian=До меню;
+	}
+[Game Statistics]
+	{
+	Ukrainian=Статистика гри;
+	}
+[Statistics]
+	{
+	Ukrainian=Статистика;
+	}
+[Next Mission]
+	{
+	Ukrainian=Наступна місія;
+	}
+[Adjust Difficulty]
+	{
+	Ukrainian=Складність;
+	}
+[Adjust skirmish difficulty.]
+	{
+	Ukrainian=Змінити складність сутички.;
+	}
+[You]
+	{
+	Ukrainian=Ви;
+	}
+[AI Player]
+	{
+	Ukrainian=Гравець ШІ;
+	}
+[Score]
+	{
+	Ukrainian=Рахунок;
+	}
+[Victory]
+	{
+	Ukrainian=Перемога;
+	}
+[Failure]
+	{
+	Ukrainian=Поразка;
+	}
+
+// Game commands
+
+[Total Units]
+	{
+	Ukrainian=Підрозділи;
+	}
+[Stop Building]
+	{
+	Ukrainian=Зупинити;
+	}
+[Options]
+	{
+	Ukrainian=Параметри;
+	}
+[Share]
+	{
+	Ukrainian=Передати;
+	}
+
+// Share options
+
+[TRANSFER RESOURCES]
+	{
+	Ukrainian=РЕСУРСИ;
+	}
+[Selected Units]
+	{
+	Ukrainian=Виділені підрозділи;
+	}
+[Select Player]
+	{
+	Ukrainian=Вибір гравця;
+	}
+[Map Info]
+	{
+	Ukrainian=Про мапу;
+	}
+
+// Unit status messages
+
+[five]
+	{
+	Ukrainian=пʼять;
+	}
+[four]
+	{
+	Ukrainian=чотири;
+	}
+[three]
+	{
+	Ukrainian=три;
+	}
+[two]
+	{
+	Ukrainian=два;
+	}
+[one]
+	{
+	Ukrainian=один;
+	}
+[zero]
+	{
+	Ukrainian=нуль;
+	}
+[Building complete]
+	{
+	Ukrainian=Будівництво завершено;
+	}
+[Capture failed]
+	{
+	Ukrainian=Не вдалося захопити;
+	}
+[Construction failed: target area was blocked]
+	{
+	Ukrainian=Не вдалося збудувати: цільова ділянка зайнята;
+	}
+[Construction stopped]
+	{
+	Ukrainian=Будівництво зупинено;
+	}
+[Construction terminated]
+	{
+	Ukrainian=Будівництво припинено;
+	}
+[Target area was blocked]
+	{
+	Ukrainian=Цільова ділянка зайнята;
+	}
+[Construction terminated by hostile action]
+	{
+	Ukrainian=Будівництво припинено через дії ворога;
+	}
+[How can I fix units when they keep blowing up?]
+	{
+	Ukrainian=Як мені ремонтувати підрозділи, якщо вони раз у раз вибухають?;
+	}
+[I can't get there]
+	{
+	Ukrainian=Не можу туди дістатися;
+	}
+[I can't reach the construction site]
+	{
+	Ukrainian=Не можу дістатися до місця будівництва;
+	}
+[Landing aborted]
+	{
+	Ukrainian=Посадку перервано;
+	}
+[Landing aborted: all pads are occupied]
+	{
+	Ukrainian=Посадку перервано: усі майданчики зайняті;
+	}
+[Landing aborted: no pads available]
+	{
+	Ukrainian=Посадку перервано: немає вільних майданчиків;
+	}
+[Landing failed]
+	{
+	Ukrainian=Посадка не вдалася;
+	}
+[Loading unit]
+	{
+	Ukrainian=Навантаження підрозділу;
+	}
+[Preparing for transport]
+	{
+	Ukrainian=Підготовка до перевезення;
+	}
+[Reclamate failed]
+	{
+	Ukrainian=Утилізація не вдалася;
+	}
+[Reclamating]
+	{
+	Ukrainian=Утилізація;
+	}
+[Reclamation failed]
+	{
+	Ukrainian=Утилізація не вдалася;
+	}
+[Repair aborted.]
+	{
+	Ukrainian=Ремонт перервано.;
+	}
+[Repair mission failed]
+	{
+	Ukrainian=Ремонтне завдання провалено;
+	}
+[Repairs unsuccessful.]
+	{
+	Ukrainian=Ремонт не вдався.;
+	}
+[Self destruct terminated]
+	{
+	Ukrainian=Самознищення скасовано;
+	}
+[Starting construction]
+	{
+	Ukrainian=Початок будівництва;
+	}
+[That unit cannot be captured]
+	{
+	Ukrainian=Цей підрозділ не можна захопити;
+	}
+[That unit cannot be reclamated]
+	{
+	Ukrainian=Цей підрозділ не можна утилізувати;
+	}
+[That unit cannot be reclaimed]
+	{
+	Ukrainian=Цей підрозділ не можна утилізувати;
+	}
+[That unit is a cloud of vapor and cannot be captured]
+	{
+	Ukrainian=Цей підрозділ — лише хмара пари, його не можна захопити;
+	}
+[That unit is a cloud of vapor and cannot be reclamated]
+	{
+	Ukrainian=Цей підрозділ — лише хмара пари, його не можна утилізувати;
+	}
+[Transport mission failed]
+	{
+	Ukrainian=Транспортне завдання провалено;
+	}
+[End Transport]
+	{
+	Ukrainian=Кінець перевезення;
+	}
+[Unable to create any more units]
+	{
+	Ukrainian=Неможливо створити більше підрозділів;
+	}
+[Unable to unload unit]
+	{
+	Ukrainian=Неможливо вивантажити підрозділ;
+	}
+[Unit is too heavy to transport]
+	{
+	Ukrainian=Підрозділ надто важкий для перевезення;
+	}
+[Unit is too large to transport]
+	{
+	Ukrainian=Підрозділ надто великий для перевезення;
+	}
+[Unit repaired]
+	{
+	Ukrainian=Підрозділ відремонтовано;
+	}
+[Unloading]
+	{
+	Ukrainian=Вивантаження;
+	}
+[Unloading process is proceeding non-optimally]
+	{
+	Ukrainian=Вивантаження відбувається неоптимально;
+	}
+[Waiting for construction area to clear]
+	{
+	Ukrainian=Очікування звільнення будівельної ділянки;
+	}
+[Waiting for target area to clear]
+	{
+	Ukrainian=Очікування звільнення цільової ділянки;
+	}
+[Waiting for construction pad to clear]
+	{
+	Ukrainian=Очікування звільнення будівельного майданчика;
+	}
+
+// Miscellaneous
+
+[Warning!\n\nUnable to register %1 for DirectPlay.]
+	{
+	Ukrainian=Увага!\n\nНе вдалося зареєструвати %1 для DirectPlay.;
+	}
+[Unidentified object]
+	{
+	Ukrainian=Неопізнаний обʼєкт;
+	}
+[Game Time]
+	{
+	Ukrainian=Час гри;
+	}
+[Human]
+	{
+	Ukrainian=Людина;
+	}
+[Human Player]
+	{
+	Ukrainian=Людина;
+	}
+[Open]
+	{
+	Ukrainian=Вільно;
+	}
+[Error]
+	{
+	Ukrainian=Помилка;
+	}
+[There are too many players enabled for this map]
+	{
+	Ukrainian=Для цієї мапи увімкнено забагато гравців;
+	}
+[There must be at least one human player and one AI opponent]
+	{
+	Ukrainian=Має бути щонайменше один гравець-людина й один компʼютерний суперник;
+	}
+[There must be at least one player and one computer opponent]
+	{
+	Ukrainian=Має бути щонайменше один гравець і один компʼютерний суперник;
+	}
+[You have lost connection with the game]
+	{
+	Ukrainian=Ви втратили звʼязок із грою;
+	}
+[Lost connection with game]
+	{
+	Ukrainian=Звʼязок із грою втрачено;
+	}
+[You need a unit you don't have for this game]
+	{
+	Ukrainian=Для цієї гри потрібен підрозділ, якого у вас немає;
+	}
+[You need a newer version of the game to enter]
+	{
+	Ukrainian=Щоб приєднатися, потрібна новіша версія гри;
+	}
+[No watching is allowed for this game]
+	{
+	Ukrainian=Спостерігати за цією грою не дозволено;
+	}
+[Out of memory! Your hard disk may be full.]
+	{
+	Ukrainian=Бракує памʼяті! Можливо, жорсткий диск заповнено.;
+	}
+
+// Unit speech
+
+[Under Attack]
+	{
+	Ukrainian=Під обстрілом;
+	}
+[Arrived]
+	{
+	Ukrainian=На місці;
+	}
+[Cannot Comply]
+	{
+	Ukrainian=Не можу виконати;
+	}
+[Nanolathe Complete]
+	{
+	Ukrainian=Нанобудування завершено;
+	}
+[Cloaked]
+	{
+	Ukrainian=Замаскований;
+	}
+[Visible]
+	{
+	Ukrainian=Видимий;
+	}
+
+// Mission states
+
+[Acknowledged]
+	{
+	Ukrainian=Прийнято;
+	}
+[Activate]
+	{
+	Ukrainian=Увімкнути;
+	}
+[Airstrike]
+	{
+	Ukrainian=Авіаудар;
+	}
+[Annihilating]
+	{
+	Ukrainian=Знищення;
+	}
+[Attacking]
+	{
+	Ukrainian=Атака;
+	}
+[Being transported]
+	{
+	Ukrainian=Перевозиться;
+	}
+[Capturing]
+	{
+	Ukrainian=Захоплення;
+	}
+[Cloaking]
+	{
+	Ukrainian=Маскування;
+	}
+[Deactivate]
+	{
+	Ukrainian=Вимкнути;
+	}
+[Decloaking]
+	{
+	Ukrainian=Зняття маскування;
+	}
+[Defending]
+	{
+	Ukrainian=Оборона;
+	}
+[Diving]
+	{
+	Ukrainian=Занурення;
+	}
+[Engaging target]
+	{
+	Ukrainian=Атака цілі;
+	}
+[Evading]
+	{
+	Ukrainian=Ухилення;
+	}
+[Following]
+	{
+	Ukrainian=Рух слідом;
+	}
+[Guarding]
+	{
+	Ukrainian=Охорона;
+	}
+[Landing]
+	{
+	Ukrainian=Посадка;
+	}
+[Loading]
+	{
+	Ukrainian=Завантаження;
+	}
+[Moving]
+	{
+	Ukrainian=Рух;
+	}
+[Nanolathing]
+	{
+	Ukrainian=Нанобудування;
+	}
+[Paralyzed]
+	{
+	Ukrainian=Паралізований;
+	}
+[Parking]
+	{
+	Ukrainian=Стоянка;
+	}
+[Patrolling]
+	{
+	Ukrainian=Патрулювання;
+	}
+[Patrolling for damaged units]
+	{
+	Ukrainian=Пошук пошкоджених підрозділів;
+	}
+[Ready]
+	{
+	Ukrainian=Готовий;
+	}
+[Ready with orders]
+	{
+	Ukrainian=Готовий до наказів;
+	}
+[Reclaiming]
+	{
+	Ukrainian=Утилізація;
+	}
+[Repairing]
+	{
+	Ukrainian=Ремонт;
+	}
+[Repair patrol]
+	{
+	Ukrainian=Ремонтний патруль;
+	}
+[Seeking to attack]
+	{
+	Ukrainian=Вихід на атаку;
+	}
+[Seeking to defend]
+	{
+	Ukrainian=Вихід на оборону;
+	}
+[Seeking to land]
+	{
+	Ukrainian=Пошук місця посадки;
+	}
+[Seeking to guard]
+	{
+	Ukrainian=Вихід на охорону;
+	}
+[SELF DESTRUCT ENGAGED]
+	{
+	Ukrainian=САМОЗНИЩЕННЯ АКТИВОВАНО;
+	}
+[Standby]
+	{
+	Ukrainian=Напоготові;
+	}
+[Stopping]
+	{
+	Ukrainian=Зупинка;
+	}
+[Suppressing fire]
+	{
+	Ukrainian=Стримування вогню;
+	}
+[Surfacing]
+	{
+	Ukrainian=Спливання;
+	}
+[Teleporting]
+	{
+	Ukrainian=Телепортація;
+	}
+[Under construction]
+	{
+	Ukrainian=Будується;
+	}
+[Under repair]
+	{
+	Ukrainian=Ремонтується;
+	}
+[Unit is available]
+	{
+	Ukrainian=Підрозділ доступний;
+	}
+[Waiting]
+	{
+	Ukrainian=Очікування;
+	}
+[Waiting for attack]
+	{
+	Ukrainian=Очікування атаки;
+	}
+
+// Feature descriptions
+
+[Description]
+	{
+	Ukrainian=Опис;
+	}
+[Plant]
+	{
+	Ukrainian=Рослина;
+	}
+[Burnt Plant]
+	{
+	Ukrainian=Обгоріла рослина;
+	}
+[Fortification Wall]
+	{
+	Ukrainian=Фортифікаційна стіна;
+	}
+[Hole]
+	{
+	Ukrainian=Яма;
+	}
+[Crater]
+	{
+	Ukrainian=Кратер;
+	}
+[Foliage]
+	{
+	Ukrainian=Зарості;
+	}
+[Rock]
+	{
+	Ukrainian=Камінь;
+	}
+[rock]
+	{
+	Ukrainian=Камінь;
+	}
+[Rubble]
+	{
+	Ukrainian=Щебінь;
+	}
+[Thermal Vent]
+	{
+	Ukrainian=Термальне джерело;
+	}
+[Ventilation Engine]
+	{
+	Ukrainian=Вентиляційна установка;
+	}
+[Wreckage]
+	{
+	Ukrainian=Уламки;
+	}
+[Burnt Foliage]
+	{
+	Ukrainian=Обгорілі зарості;
+	}
+[Burnt Tree]
+	{
+	Ukrainian=Обгоріле дерево;
+	}
+[Tree]
+	{
+	Ukrainian=Дерево;
+	}
+[Ice Chunks]
+	{
+	Ukrainian=Крижані брили;
+	}
+[Damaged Terrain]
+	{
+	Ukrainian=Пошкоджена місцевість;
+	}
+[Damaged Surface]
+	{
+	Ukrainian=Пошкоджена поверхня;
+	}
+[DragonsTeeth]
+	{
+	Ukrainian=Драконові зуби;
+	}
+[Dragons Teeth - NS]
+	{
+	Ukrainian=Драконові зуби - МС;
+	}
+[DragonsTeeth - NS]
+	{
+	Ukrainian=Драконові зуби - МС;
+	}
+[Metal Deposit]
+	{
+	Ukrainian=Родовище металу;
+	}
+[Node]
+	{
+	Ukrainian=Вузол;
+	}
+[Spire]
+	{
+	Ukrainian=Шпиль;
+	}
+[Glyph]
+	{
+	Ukrainian=Гліф;
+	}
+[Ruin]
+	{
+	Ukrainian=Руїна;
+	}
+[Seismic Monitor]
+	{
+	Ukrainian=Сейсмічний датчик;
+	}
+[Pipe]
+	{
+	Ukrainian=Труба;
+	}
+[Communications Uplink]
+	{
+	Ukrainian=Станція звʼязку;
+	}
+[Comm Uplink]
+	{
+	Ukrainian=Станція звʼязку;
+	}
+[Communication Tower]
+	{
+	Ukrainian=Вежа звʼязку;
+	}
+[Regulator Complex]
+	{
+	Ukrainian=Регуляторний комплекс;
+	}
+[Thermal Regulator]
+	{
+	Ukrainian=Терморегулятор;
+	}
+[Transmitter]
+	{
+	Ukrainian=Передавач;
+	}
+[Pressure Release Valve]
+	{
+	Ukrainian=Клапан скидання тиску;
+	}
+[Pressure Valve]
+	{
+	Ukrainian=Клапан тиску;
+	}
+
+// Multiplayer online interface messages
+
+[Invalid TCP/IP Address]
+	{
+	Ukrainian=Неправильна адреса TCP/IP;
+	}
+[Enter TCP address (leave blank to search)]
+	{
+	Ukrainian=Адреса TCP (порожня — пошук);
+	}
+[Phone Numbers]
+	{
+	Ukrainian=Телефони;
+	}
+[Number]
+	{
+	Ukrainian=Номер;
+	}
+[Modem]
+	{
+	Ukrainian=Модем;
+	}
+[Port]
+	{
+	Ukrainian=Порт;
+	}
+[Answer]
+	{
+	Ukrainian=Відповісти;
+	}
+[Dial]
+	{
+	Ukrainian=Набрати;
+	}
+[Host]
+	{
+	Ukrainian=Хост;
+	}
+[Play]
+	{
+	Ukrainian=Грати;
+	}
+[Unit Download]
+	{
+	Ukrainian=Завантаження підрозділів;
+	}
+
+// In game pop-up messages
+
+[Game Name]
+	{
+	Ukrainian=Назва гри;
+	}
+[Map game will play on]
+	{
+	Ukrainian=Мапа для цієї гри;
+	}
+[Does dead commander end game?]
+	{
+	Ukrainian=Чи закінчується гра із загибеллю Командира?;
+	}
+[Average latency (big is bad)]
+	{
+	Ukrainian=Середня затримка (що більша, то гірше);
+	}
+[Type of Line of Sight]
+	{
+	Ukrainian=Тип поля зору;
+	}
+[Tells if you start with map]
+	{
+	Ukrainian=Чи відкрита мапа на початку гри;
+	}
+[Starting Metal:]
+	{
+	Ukrainian=Запас металу:;
+	}
+[Starting Energy:]
+	{
+	Ukrainian=Запас енергії:;
+	}
+[Starting metal amount]
+	{
+	Ukrainian=Початковий запас металу;
+	}
+[Starting energy amount]
+	{
+	Ukrainian=Початковий запас енергії;
+	}
+[Click to edit energy value.]
+	{
+	Ukrainian=Клацніть, щоб змінити кількість енергії.;
+	}
+[Click to set energy value.]
+	{
+	Ukrainian=Клацніть, щоб задати кількість енергії.;
+	}
+[Click to edit metal value.]
+	{
+	Ukrainian=Клацніть, щоб змінити кількість металу.;
+	}
+[Click to set metal value.]
+	{
+	Ukrainian=Клацніть, щоб задати кількість металу.;
+	}
+[Left click to increase metal. Right click to decrease metal.]
+	{
+	Ukrainian=Ліве клацання збільшує кількість металу, праве — зменшує.;
+	}
+[Left click to increase energy. Right click to decrease energy.]
+	{
+	Ukrainian=Ліве клацання збільшує кількість енергії, праве — зменшує.;
+	}
+[Click to select an allegiance symbol.]
+	{
+	Ukrainian=Клацніть, щоб обрати символ союзу.;
+	}
+[Players in game / Max players]
+	{
+	Ukrainian=Гравців у грі / макс. гравців;
+	}
+[Tells if game is in play]
+	{
+	Ukrainian=Чи вже триває гра;
+	}
+[Game ends when commander is destroyed.]
+	{
+	Ukrainian=Гра закінчується, коли Командира знищено.;
+	}
+[Game continues after Commander is destroyed.]
+	{
+	Ukrainian=Гра триває й після знищення Командира.;
+	}
+[Commanders are placed at pre-determined locations.]
+	{
+	Ukrainian=Командири стартують у заздалегідь визначених місцях.;
+	}
+[Commanders are randomly placed on the battle field.]
+	{
+	Ukrainian=Командири стартують у випадкових місцях на полі бою.;
+	}
+[Terrain is blacked out until explored.]
+	{
+	Ukrainian=Місцевість затемнена, доки її не розвідано.;
+	}
+[Terrain is visible.]
+	{
+	Ukrainian=Місцевість видима.;
+	}
+[Terrain elevations affect a unit's view.]
+	{
+	Ukrainian=Рельєф місцевості впливає на поле зору підрозділів.;
+	}
+[Terrain elevations do not affect a unit's view.]
+	{
+	Ukrainian=Рельєф місцевості не впливає на поле зору підрозділів.;
+	}
+[All mapped terrain is visible.]
+	{
+	Ukrainian=Уся розвідана місцевість лишається видимою.;
+	}
+[Exit Mission]
+	{
+	Ukrainian=Вийти з місії;
+	}
+[Exit Skirmish]
+	{
+	Ukrainian=Вийти із сутички;
+	}
+[Exit Battle]
+	{
+	Ukrainian=Вийти з бою;
+	}
+[Restart Mission]
+	{
+	Ukrainian=Перезапустити місію;
+	}
+[Restart Skirmish]
+	{
+	Ukrainian=Перезапустити сутичку;
+	}
+[Restart]
+	{
+	Ukrainian=Заново;
+	}
+[Close Windows CD Player?]
+	{
+	Ukrainian=Закрити CD-програвач Windows?;
+	}
+[CD Music]
+	{
+	Ukrainian=CD-музика;
+	}
+[Surrender this battle and return to main menu?]
+	{
+	Ukrainian=Здатися в цьому бою й повернутися до головного меню?;
+	}
+[Surrender this battle and exit to Windows?]
+	{
+	Ukrainian=Здатися в цьому бою й вийти у Windows?;
+	}
+
+// Title Screen
+
+[SINGLE]
+	{
+	Ukrainian=СОЛО;
+	}
+[Single]
+	{
+	Ukrainian=Одиночна;
+	}
+[MULTI]
+	{
+	Ukrainian=МЕРЕЖА;
+	}
+[INTRO]
+	{
+	Ukrainian=ВСТУП;
+	}
+[EXIT]
+	{
+	Ukrainian=ВИХІД;
+	}
+[Exit]
+	{
+	Ukrainian=Вихід;
+	}
+
+// In-Game Help Screen
+
+[Keyboard Commands]
+	{
+	Ukrainian=Гарячі клавіші;
+	}
+[SPACEBAR]
+	{
+	Ukrainian=ПРОБІЛ;
+	}
+[Activate the game status bar]
+	{
+	Ukrainian=Увімкнути рядок стану гри;
+	}
+[Bring up the multiplayer scorecard]
+	{
+	Ukrainian=Показати таблицю рахунку;
+	}
+[Select all factories]
+	{
+	Ukrainian=Виділити всі заводи;
+	}
+[Multiplayer options]
+	{
+	Ukrainian=Параметри мережевої гри;
+	}
+[Cancels the current command]
+	{
+	Ukrainian=Скасовує поточну команду;
+	}
+[Assign the currently selected units to a squad]
+	{
+	Ukrainian=Обʼєднати виділені підрозділи в загін;
+	}
+[Select squad]
+	{
+	Ukrainian=Виділити загін;
+	}
+[Toggles fire orders]
+	{
+	Ukrainian=Перемикає накази щодо вогню;
+	}
+[Toggles selected unit's cloaking capabilities]
+	{
+	Ukrainian=Перемикає маскування підрозділу;
+	}
+[Toggles move orders]
+	{
+	Ukrainian=Перемикає накази щодо руху;
+	}
+[Select the Build menu for the current unit]
+	{
+	Ukrainian=Відкрити меню будівництва підрозділу;
+	}
+[Select the Orders menu for the current unit]
+	{
+	Ukrainian=Відкрити меню наказів підрозділу;
+	}
+[Select the menu for the current unit]
+	{
+	Ukrainian=Відкрити меню поточного підрозділу;
+	}
+[, (comma)]
+	{
+	Ukrainian=, (кома);
+	}
+[Select the previous menu for that unit]
+	{
+	Ukrainian=Попереднє меню цього підрозділу;
+	}
+[. (period)]
+	{
+	Ukrainian=. (крапка);
+	}
+[Select the next menu for that unit]
+	{
+	Ukrainian=Наступне меню цього підрозділу;
+	}
+[~ (tilde)]
+	{
+	Ukrainian=~ (тильда);
+	}
+[Toggle damage bars on the units]
+	{
+	Ukrainian=Перемикає смуги пошкоджень;
+	}
+[Pause the game]
+	{
+	Ukrainian=Поставити гру на паузу;
+	}
+[Display information on selected unit]
+	{
+	Ukrainian=Відомості про виділений підрозділ;
+	}
+[Display the Options menu]
+	{
+	Ukrainian=Показати меню параметрів;
+	}
+[Selects the unit that last reported]
+	{
+	Ukrainian=Виділяє підрозділ, що доповідав;
+	}
+[Screen capture]
+	{
+	Ukrainian=Знімок екрана;
+	}
+[Clear all chat messages]
+	{
+	Ukrainian=Очистити всі повідомлення чату;
+	}
+[Select all units]
+	{
+	Ukrainian=Виділити всі підрозділи;
+	}
+[Select all construction units except the Commander]
+	{
+	Ukrainian=Виділити будівельників, крім Командира;
+	}
+[Select the Commander]
+	{
+	Ukrainian=Виділити Командира;
+	}
+[Destruct selected unit(s)]
+	{
+	Ukrainian=Самознищення виділених підрозділів;
+	}
+[Select all units currently on the screen]
+	{
+	Ukrainian=Виділити всі підрозділи на екрані;
+	}
+[Select all aircraft]
+	{
+	Ukrainian=Виділити всі літаки;
+	}
+[Select all units of same type]
+	{
+	Ukrainian=Виділити всі підрозділи того самого типу;
+	}
+[Applies a map bookmark at cursor location]
+	{
+	Ukrainian=Ставить закладку мапи під курсором;
+	}
+[Centers the screen on a map bookmark]
+	{
+	Ukrainian=Центрує екран на закладці мапи;
+	}
+[Give an attack order]
+	{
+	Ukrainian=Віддати наказ атакувати;
+	}
+[Give a guard order]
+	{
+	Ukrainian=Віддати наказ охороняти;
+	}
+[Give a move order]
+	{
+	Ukrainian=Віддати наказ рухатися;
+	}
+[Give a patrol order]
+	{
+	Ukrainian=Віддати наказ патрулювати;
+	}
+[Give a stop order (cancel previous orders)]
+	{
+	Ukrainian=Зупинитися (скасувати попередні накази);
+	}
+[Use the Disintegrator Gun]
+	{
+	Ukrainian=Застосувати дезінтегратор (D-гармату);
+	}
+[Give a capture order]
+	{
+	Ukrainian=Віддати наказ захопити;
+	}
+[Give a repair order]
+	{
+	Ukrainian=Віддати наказ ремонтувати;
+	}
+[Give a reclaim order]
+	{
+	Ukrainian=Віддати наказ утилізувати;
+	}
+[Share resources with another player]
+	{
+	Ukrainian=Поділитися ресурсами з іншим гравцем;
+	}
+[Scroll to the next unit off screen]
+	{
+	Ukrainian=Наступний підрозділ поза екраном;
+	}
+[Track the selected unit]
+	{
+	Ukrainian=Стежити за виділеним підрозділом;
+	}
+[Reduce the game speed]
+	{
+	Ukrainian=Зменшити швидкість гри;
+	}
+[Increase the game speed]
+	{
+	Ukrainian=Збільшити швидкість гри;
+	}
+[Hold down to queue up multiple commands]
+	{
+	Ukrainian=Утримуйте, щоб додати кілька команд;
+	}
+[ENTER]
+	{
+	Ukrainian=ENTER;
+	}
+[Activate the message bar]
+	{
+	Ukrainian=Відкрити рядок повідомлень;
+	}
+[Turn Rate]
+	{
+	Ukrainian=Поворотність;
+	}
+
+// Multiplayer map names and descriptions
+
+[painted desert]
+	{
+	Ukrainian=Розмальована пустеля;
+	}
+[18 x 18  battle in the many mesas area.]
+	{
+	Ukrainian=18 x 18  Бій серед численних плато.;
+	}
+[caldera's rim]
+	{
+	Ukrainian=Край кальдери;
+	}
+[29 x 29  sunken volcanic crater in center of map]
+	{
+	Ukrainian=29 x 29  Просілий вулканічний кратер у центрі мапи;
+	}
+[coast to coast]
+	{
+	Ukrainian=Від берега до берега;
+	}
+[7 x 4  water between two coasts. weak tides.]
+	{
+	Ukrainian=7 x 4  Вода між двома берегами. Слабкі припливи.;
+	}
+[dark side]
+	{
+	Ukrainian=Темний бік;
+	}
+[6 x 5  lunar map with plenty of metal]
+	{
+	Ukrainian=6 x 5  Місячна мапа, багата на метал;
+	}
+[etorrep glacier]
+	{
+	Ukrainian=Льодовик Еторреп;
+	}
+[5 x 8  strong winds coming from ocean.]
+	{
+	Ukrainian=5 x 8  Сильні вітри з океану.;
+	}
+[fox holes]
+	{
+	Ukrainian=Окопи;
+	}
+[7 x 7  strong winds. more metal on high ground.]
+	{
+	Ukrainian=7 x 7  Сильні вітри. Більше металу на висотах.;
+	}
+[full moon]
+	{
+	Ukrainian=Повня;
+	}
+[8 x 8  fighting on the naryb highlands. no wind.]
+	{
+	Ukrainian=8 x 8  Бої на нагірʼї Нариб. Безвітря.;
+	}
+[gods of war]
+	{
+	Ukrainian=Боги війни;
+	}
+[9 x 8  asymmetric water map.]
+	{
+	Ukrainian=9 x 8  Асиметрична водна мапа.;
+	}
+[great divide]
+	{
+	Ukrainian=Великий вододіл;
+	}
+[5 x 8  fight through a mountain pass.]
+	{
+	Ukrainian=5 x 8  Пробийтеся крізь гірський перевал.;
+	}
+[hundred isles]
+	{
+	Ukrainian=Сто островів;
+	}
+[12 x 12  fighting on over a hundred small islands]
+	{
+	Ukrainian=12 x 12  Бої на понад ста маленьких островах;
+	}
+[kill the middle]
+	{
+	Ukrainian=Знищити центр;
+	}
+[13 x 13  powerful player in middle of map on island.]
+	{
+	Ukrainian=13 x 13  Сильний гравець на острові в центрі мапи.;
+	}
+[king of the hill]
+	{
+	Ukrainian=Цар гори;
+	}
+[16 x 16  fight for a metal rich mountain. strong wind.]
+	{
+	Ukrainian=16 x 16  Бій за багату на метал гору. Сильний вітер.;
+	}
+[lava & two hills]
+	{
+	Ukrainian=Лава і два пагорби;
+	}
+[9 x 8  two giant hills & a river of lava between them]
+	{
+	Ukrainian=9 x 8  Два величезні пагорби й лавова ріка між ними;
+	}
+[lava highground]
+	{
+	Ukrainian=Лавові висоти;
+	}
+[8 x 8  fight over narrow ramps.]
+	{
+	Ukrainian=8 x 8  Бої на вузьких підйомах.;
+	}
+[lava mania]
+	{
+	Ukrainian=Лавоманія;
+	}
+[8 x 8  strong winds.]
+	{
+	Ukrainian=8 x 8  Сильні вітри.;
+	}
+[lava run]
+	{
+	Ukrainian=Лавовий потік;
+	}
+[13 x 4  lava strip down center. high winds.]
+	{
+	Ukrainian=13 x 4  Смуга лави посередині. Сильний вітер.;
+	}
+[greenhaven]
+	{
+	Ukrainian=Зелена гавань;
+	}
+[16 x 16  large map with many hills to hide behind.]
+	{
+	Ukrainian=16 x 16  Велика мапа з безліччю пагорбів, за якими можна сховатися.;
+	}
+[metal heck]
+	{
+	Ukrainian=Металеве пекло;
+	}
+[8 x 8  fight in the metal cross region.]
+	{
+	Ukrainian=8 x 8  Бій у районі металевого хреста.;
+	}
+[red hot lava]
+	{
+	Ukrainian=Розпечена лава;
+	}
+[11 x 9  many hills and lava pools. plenty of metal]
+	{
+	Ukrainian=11 x 9  Багато пагорбів і лавових озер. Удосталь металу;
+	}
+[red planet]
+	{
+	Ukrainian=Червона планета;
+	}
+[9 x 9   many small hills and pools]
+	{
+	Ukrainian=9 x 9   Багато невеликих пагорбів і озерець;
+	}
+[red triangle]
+	{
+	Ukrainian=Червоний трикутник;
+	}
+[16 x 16  powerful tides and strong winds.]
+	{
+	Ukrainian=16 x 16  Потужні припливи й сильні вітри.;
+	}
+[ring atoll]
+	{
+	Ukrainian=Кільцевий атол;
+	}
+[21 x 21  powerful tides. ground units can use shallow water.]
+	{
+	Ukrainian=21 x 21  Потужні припливи. Наземні підрозділи можуть пересуватися мілководдям.;
+	}
+[rock alley]
+	{
+	Ukrainian=Камʼяна алея;
+	}
+[9 x 21  fight in mountian valley.]
+	{
+	Ukrainian=9 x 21  Бій у гірській долині.;
+	}
+[sherwood]
+	{
+	Ukrainian=Шервуд;
+	}
+[6 x 6  fighting around 3 large hills]
+	{
+	Ukrainian=6 x 6  Бої навколо 3 великих пагорбів;
+	}
+[shore to shore]
+	{
+	Ukrainian=З берега на берег;
+	}
+[29 x 4  two coasts with large ocean between them.]
+	{
+	Ukrainian=29 x 4  Два узбережжя, між якими великий океан.;
+	}
+[the desert triad]
+	{
+	Ukrainian=Пустельна тріада;
+	}
+[6 x 6  fighting on 3 mesas.]
+	{
+	Ukrainian=6 x 6  Бої на 3 плато.;
+	}
+[two continents]
+	{
+	Ukrainian=Два континенти;
+	}
+[22 x 25  metal in the middle of the map.]
+	{
+	Ukrainian=22 x 25  Метал у центрі мапи.;
+	}
+[yerrot mountains]
+	{
+	Ukrainian=Гори Єррот;
+	}
+[27 x 23  mountain range with lots of metal.]
+	{
+	Ukrainian=27 x 23  Гірський хребет із багатими покладами металу.;
+	}
+[pincushion]
+	{
+	Ukrainian=Подушка для голок;
+	}
+[13 x 13  a fight amongst lava spires]
+	{
+	Ukrainian=13 x 13  Бій серед лавових шпилів;
+	}
+[over crude water]
+	{
+	Ukrainian=Над нафтовими водами;
+	}
+[25 x 25  a maze of metal bridges.]
+	{
+	Ukrainian=25 x 25  Лабіринт металевих мостів.;
+	}
+[seven islands]
+	{
+	Ukrainian=Сім островів;
+	}
+[40 x 40  huge sea battle on core prime]
+	{
+	Ukrainian=40 x 40  Величезна морська битва на CORE Прайм;
+	}
+[ashap plateau]
+	{
+	Ukrainian=Плато Ашап;
+	}
+[9 x 9  metal on rough lower level]
+	{
+	Ukrainian=9 x 9  Метал на нерівному нижньому ярусі;
+	}
+[the cold place]
+	{
+	Ukrainian=Холодний край;
+	}
+[15 x 11  fighting on a flat tundra with very strong winds.]
+	{
+	Ukrainian=15 x 11  Бої на рівній тундрі під дуже сильним вітром.;
+	}
+[evad river confluence]
+	{
+	Ukrainian=Злиття річки Евад;
+	}
+[11 x 10 map.  intermittent winds]
+	{
+	Ukrainian=11 x 10 Мапа з періодичним вітром;
+	}
+[lava alley]
+	{
+	Ukrainian=Лавова алея;
+	}
+[18 x 18  fighting in narrow valleys.]
+	{
+	Ukrainian=18 x 18  Бої у вузьких долинах.;
+	}
+[the pass]
+	{
+	Ukrainian=Перевал;
+	}
+[7 x 4  fight to control a winding mountian pass.]
+	{
+	Ukrainian=7 x 4  Бій за контроль над звивистим гірським перевалом.;
+	}
+[anteer strait]
+	{
+	Ukrainian=Протока Антір;
+	}
+[18 x 18  fight in an iceburg filled ocean. strong tides.]
+	{
+	Ukrainian=18 x 18  Бій в океані, повному айсбергів. Сильні припливи.;
+	}
+[metal isles]
+	{
+	Ukrainian=Металеві острови;
+	}
+[23 X 21  4 Symmetrical Metal Islands, good for sea battles]
+	{
+	Ukrainian=23 X 21  4 симетричні металеві острови, зручні для морських боїв;
+	}
+
+// Expansion Pack map names and descriptions
+
+[acid foursome]
+	{
+	Ukrainian=Кислотна четвірка;
+	}
+[13 X 13  Open plains and small lakes.]
+	{
+	Ukrainian=13 X 13  Відкриті рівнини й невеликі озера.;
+	}
+[acid pools]
+	{
+	Ukrainian=Кислотні озера;
+	}
+[32 X 23  Masses of land with narrow passages.]
+	{
+	Ukrainian=32 X 23  Масиви суходолу з вузькими проходами.;
+	}
+[acid trip]
+	{
+	Ukrainian=Кислотна подорож;
+	}
+[15 X 39  Watch out for the acid or you'll melt away.]
+	{
+	Ukrainian=15 X 39  Стережіться кислоти, бо розчинитеся.;
+	}
+[assault on suburbia]
+	{
+	Ukrainian=Штурм передмістя;
+	}
+[16 X 16 Crush 'em.]
+	{
+	Ukrainian=16 X 16 Розчавіть їх.;
+	}
+[biggie biggs]
+	{
+	Ukrainian=Біггі Біггз;
+	}
+[36 X 16  Dance from island to island crushing your opponents.]
+	{
+	Ukrainian=36 X 16  Танцюйте від острова до острова, розчавлюючи суперників.;
+	}
+[block wars]
+	{
+	Ukrainian=Війни кварталів;
+	}
+[20 X 20  Battling through the Core Prime suburbs.]
+	{
+	Ukrainian=20 X 20  Бої в передмістях CORE Прайм.;
+	}
+[brain coral]
+	{
+	Ukrainian=Мозковий корал;
+	}
+[20 X 20  Hydrous map with brain coral spiral.]
+	{
+	Ukrainian=20 X 20  Водна мапа зі спіраллю мозкових коралів.;
+	}
+[25 X 24  Keep your Kbots on the trails.]
+	{
+	Ukrainian=25 X 24  Тримайте своїх кботів на стежках.;
+	}
+[checker ponds]
+	{
+	Ukrainian=Ставки в клітинку;
+	}
+[13 X 13  Be wary of the many corrosive puddles.]
+	{
+	Ukrainian=13 X 13  Остерігайтеся численних їдких калюж.;
+	}
+[cluster freak]
+	{
+	Ukrainian=Купа-мала;
+	}
+[10 X 10  High winds with lots of metal in the middle.]
+	{
+	Ukrainian=10 X 10  Сильні вітри й багато металу в центрі.;
+	}
+[comet catcher]
+	{
+	Ukrainian=Ловець комет;
+	}
+[12 X 15  Low gravity livens up this desolate landscape.]
+	{
+	Ukrainian=12 X 15  Низька гравітація пожвавлює цей пустельний краєвид.;
+	}
+[core prime industrial area]
+	{
+	Ukrainian=Промзона CORE Прайм;
+	}
+[21 X 21  Abandoned Core industrial area.]
+	{
+	Ukrainian=21 X 21  Покинута промислова зона CORE.;
+	}
+[crater islands]
+	{
+	Ukrainian=Кратерні острови;
+	}
+[10 X 8  Fight your way across these shallow waters.]
+	{
+	Ukrainian=10 X 8  Пробийтеся з боями через ці мілководдя.;
+	}
+[crystal cracked]
+	{
+	Ukrainian=Розколотий кристал;
+	}
+[20 X 20 Two land masses split by an inland filled sea.]
+	{
+	Ukrainian=20 X 20 Два масиви суходолу, розділені внутрішнім морем.;
+	}
+[crystal isles]
+	{
+	Ukrainian=Кристалічні острови;
+	}
+[20 X 20 Crystal World ocean, dotted with reefs and islands.]
+	{
+	Ukrainian=20 X 20 Океан Кристалічного світу, усіяний рифами й островами.;
+	}
+[crystal maze]
+	{
+	Ukrainian=Кристалічний лабіринт;
+	}
+[10 X 10 Free-for-all in a maze of mountains.]
+	{
+	Ukrainian=10 X 10 Кожен сам за себе в лабіринті гір.;
+	}
+[crystal treasure island]
+	{
+	Ukrainian=Кристалічний острів скарбів;
+	}
+[12 X 13  Crystal map with metal-rich islands in the center.]
+	{
+	Ukrainian=12 X 13  Кристалічна мапа з багатими на метал островами в центрі.;
+	}
+[dire straits]
+	{
+	Ukrainian=Лихі протоки;
+	}
+[15 X 17 Natural fortification to hide between.]
+	{
+	Ukrainian=15 X 17 Природні укріплення, серед яких можна сховатися.;
+	}
+[east indeez]
+	{
+	Ukrainian=Ост-Індія;
+	}
+[28 X 19 Lots of islands, lots of water!]
+	{
+	Ukrainian=28 X 19 Багато островів, багато води!;
+	}
+[eastside westside]
+	{
+	Ukrainian=Схід і Захід;
+	}
+[19 X 19  Find a park or reclaim large structures for metal.]
+	{
+	Ukrainian=19 X 19  Знайдіть парк або утилізуйте великі споруди заради металу.;
+	}
+[14 X 14, Battle for the Evad River Delta]
+	{
+	Ukrainian=14 X 14, Битва за дельту річки Евад;
+	}
+[expanded confluence]
+	{
+	Ukrainian=Розширене злиття;
+	}
+[22 X 22 More room to rumble on this old favorite.]
+	{
+	Ukrainian=22 X 22 Більше простору для бійки на старій улюбленій мапі.;
+	}
+[flooded glaciers]
+	{
+	Ukrainian=Затоплені льодовики;
+	}
+[12 X 10 Icy ocean battle.]
+	{
+	Ukrainian=12 X 10 Бій у крижаному океані.;
+	}
+[gasbag forests]
+	{
+	Ukrainian=Ліси газових міхурів;
+	}
+[19 X 19  Large fields of gasplants block your path.]
+	{
+	Ukrainian=19 X 19  Великі поля газових рослин перегороджують шлях.;
+	}
+[gasplant plain]
+	{
+	Ukrainian=Рівнина газових рослин;
+	}
+[10 X 8  Large plain for close encounters. Lots of geothermal.]
+	{
+	Ukrainian=10 X 8  Велика рівнина для ближнього бою. Багато геотермальних джерел.;
+	}
+[higher ground]
+	{
+	Ukrainian=Панівна висота;
+	}
+[8 X 16  You take the high road and I'll take the low road.]
+	{
+	Ukrainian=8 X 16  Ви йдіть верхньою дорогою, а я піду нижньою.;
+	}
+[ice house]
+	{
+	Ukrainian=Крижаний дім;
+	}
+[16 X 16  Large ice mountains hinder big guns.]
+	{
+	Ukrainian=16 X 16  Великі крижані гори заважають важким гарматам.;
+	}
+[ice scream]
+	{
+	Ukrainian=Крижаний крик;
+	}
+[15 X 39  Screaming won't be all you do on this forbidding world.]
+	{
+	Ukrainian=15 X 39  У цьому суворому світі вам доведеться не лише кричати.;
+	}
+[icy bergs]
+	{
+	Ukrainian=Айсберги;
+	}
+[28 X 28  Landless. Lots of sunken ships.]
+	{
+	Ukrainian=28 X 28  Суходолу немає. Багато затонулих кораблів.;
+	}
+[john's pass]
+	{
+	Ukrainian=Перевал Джона;
+	}
+[10 X 15  Follow the river up the middle, if you dare!]
+	{
+	Ukrainian=10 X 15  Пройдіть уздовж річки через центр, якщо наважитеся!;
+	}
+[lake shore]
+	{
+	Ukrainian=Берег озера;
+	}
+[13 X 7  Large lake with islands in the middle.]
+	{
+	Ukrainian=13 X 7  Велике озеро з островами посередині.;
+	}
+[luschaven]
+	{
+	Ukrainian=Гавань Луш;
+	}
+[17 X 16 Battle for control of dry land.]
+	{
+	Ukrainian=17 X 16 Битва за контроль над суходолом.;
+	}
+[lusch puppy]
+	{
+	Ukrainian=Малий Луш;
+	}
+[11 X 7  Small map divided by grand mountains.]
+	{
+	Ukrainian=11 X 7  Невелика мапа, розділена величними горами.;
+	}
+[moon quartet]
+	{
+	Ukrainian=Місячний квартет;
+	}
+[20 X 20 Great map for team play.  Light side vs. dark side.]
+	{
+	Ukrainian=20 X 20 Чудова мапа для командної гри.  Світла сторона проти темної.;
+	}
+[mounds of mars]
+	{
+	Ukrainian=Пагорби Марса;
+	}
+[8 X 17  For more than two players, play teams, North vs. South.]
+	{
+	Ukrainian=8 X 17  Якщо гравців більше двох, грайте командами: Північ проти Півдня.;
+	}
+[ooooweeee]
+	{
+	Ukrainian=Уууу-ііііі;
+	}
+[19 X 19  Nine islands of love and understanding.  Let's hug.]
+	{
+	Ukrainian=19 X 19  Девʼять островів любові та взаєморозуміння.  Обіймімося.;
+	}
+[pillopeens]
+	{
+	Ukrainian=Пілопіни;
+	}
+[17 X 27 Island-hopping map.]
+	{
+	Ukrainian=17 X 27 Мапа для стрибків островами.;
+	}
+[plains and passes]
+	{
+	Ukrainian=Рівнини й перевали;
+	}
+[20 X 20  Large map with lots of metal.]
+	{
+	Ukrainian=20 X 20  Велика мапа з багатими покладами металу.;
+	}
+[polar range]
+	{
+	Ukrainian=Полярний хребет;
+	}
+[20 X 20  Large polar ice cap map. A bleak and forbidding world.]
+	{
+	Ukrainian=20 X 20  Велика мапа полярної крижаної шапки. Похмурий і суворий світ.;
+	}
+[polyp fields]
+	{
+	Ukrainian=Поля поліпів;
+	}
+[27 X 22  Large geometric polyps litter this battlefield.]
+	{
+	Ukrainian=27 X 22  Поле бою всіяне великими геометричними поліпами.;
+	}
+[red river]
+	{
+	Ukrainian=Червона річка;
+	}
+[21 X 30  Large river separates two land masses.]
+	{
+	Ukrainian=21 X 30  Велика річка розділяє два масиви суходолу.;
+	}
+[red river north]
+	{
+	Ukrainian=Північ Червоної річки;
+	}
+[21 X 14  Smaller segment of Red River.]
+	{
+	Ukrainian=21 X 14  Менша ділянка Червоної річки.;
+	}
+[ror shock]
+	{
+	Ukrainian=Рор-шок;
+	}
+[26 X 26 Ocean Battles are a must for this fine map.  Big surprise in center!]
+	{
+	Ukrainian=26 X 26 На цій чудовій мапі не обійтися без морських боїв.  У центрі — великий сюрприз!;
+	}
+[sail away]
+	{
+	Ukrainian=Під вітрилами;
+	}
+[12 X 20 High winds sweep these islands.]
+	{
+	Ukrainian=12 X 20 Ці острови продувають сильні вітри.;
+	}
+[sector 410b]
+	{
+	Ukrainian=Сектор 410B;
+	}
+[25 X 22  Large mountains with narrow passes.]
+	{
+	Ukrainian=25 X 22  Високі гори з вузькими перевалами.;
+	}
+[show down]
+	{
+	Ukrainian=Розвʼязка;
+	}
+[11 X 5  Meet in the middle.]
+	{
+	Ukrainian=11 X 5  Зійдіться посередині.;
+	}
+[slate gordon]
+	{
+	Ukrainian=Сланцевий Гордон;
+	}
+[23 X 15 Great map for east/west rivalries.  Earthquakes.]
+	{
+	Ukrainian=23 X 15 Чудова мапа для протистояння Сходу й Заходу.  Землетруси.;
+	}
+[slated fate]
+	{
+	Ukrainian=Сланцева доля;
+	}
+[7 x 12 Search for metal in crevices.]
+	{
+	Ukrainian=7 x 12 Шукайте метал у розщілинах.;
+	}
+[steel jungle]
+	{
+	Ukrainian=Сталеві джунглі;
+	}
+[20 x 10  Wake up and smell the coffee with the Morning War Show.]
+	{
+	Ukrainian=20 x 10  Прокидайтеся й відчуйте аромат кави з «Ранковим воєнним шоу».;
+	}
+[surface meltdown]
+	{
+	Ukrainian=Розплавлена поверхня;
+	}
+[15 X 17  Bumps, bumps, and more bumps.]
+	{
+	Ukrainian=15 X 17  Горби, горби й ще раз горби.;
+	}
+[temblorian mist]
+	{
+	Ukrainian=Темблорський туман;
+	}
+[12 X 15  Make your way around the edges or fly across the center.]
+	{
+	Ukrainian=12 X 15  Пробирайтеся краями або летіть через центр.;
+	}
+[the barrier reef]
+	{
+	Ukrainian=Барʼєрний риф;
+	}
+[19 X 19  Body of water separates two land masses.  Great underwater starts!]
+	{
+	Ukrainian=19 X 19  Водойма розділяє два масиви суходолу.  Чудові підводні стартові позиції!;
+	}
+[the bayou]
+	{
+	Ukrainian=Болотна протока;
+	}
+[20 X 20  Strong currents rush through this Bayou.]
+	{
+	Ukrainian=20 X 20  Цією болотною протокою мчать сильні течії.;
+	}
+[town & country]
+	{
+	Ukrainian=Місто й село;
+	}
+[17 X 17  Urban vs. rural.]
+	{
+	Ukrainian=17 X 17  Місто проти села.;
+	}
+[trout farm]
+	{
+	Ukrainian=Форелева ферма;
+	}
+[15 X 15  Watch out for the sinkhole in the middle.]
+	{
+	Ukrainian=15 X 15  Стережіться провалля посередині.;
+	}
+
+// Download Maps
+
+[cloudious prime]
+	{
+	Ukrainian=Клаудіус Прайм;
+	}
+[20 X 20  Island in the clouds with giant canyon.  Absurd wind.]
+	{
+	Ukrainian=20 X 20  Острів у хмарах із велетенським каньйоном.  Шалений вітер.;
+	}
+
+// Battle Tactics Maps
+
+[aqua verdigris]
+	{
+	Ukrainian=Мідна зелень;
+	}
+[12 x 12  Fighting around rings of Dragon's Teeth.]
+	{
+	Ukrainian=12 x 12  Бої навколо кілець із Драконових зубів.;
+	}
+[brilliant cut lake]
+	{
+	Ukrainian=Діамантове озеро;
+	}
+[15 X 15  Fighting around a large lake.]
+	{
+	Ukrainian=15 X 15  Бої навколо великого озера.;
+	}
+[canal crossing]
+	{
+	Ukrainian=Переправа через канали;
+	}
+[16 X 17  Four land masses separated by canals.]
+	{
+	Ukrainian=16 X 17  Чотири масиви суходолу, розділені каналами.;
+	}
+[metal gridlock]
+	{
+	Ukrainian=Металевий затор;
+	}
+[20 X 20  Five squares interlock to create defensive forts.]
+	{
+	Ukrainian=20 X 20  Пʼять зчеплених квадратів утворюють оборонні форти.;
+	}
+[wretched ridges]
+	{
+	Ukrainian=Прокляті хребти;
+	}
+[12 X 12  High ridges protect defensive areas.  Light forest.]
+	{
+	Ukrainian=12 X 12  Високі хребти захищають оборонні райони.  Рідколісся.;
+	}
+[coremageddon]
+	{
+	Ukrainian=CORE-магеддон;
+	}
+[13 X 20  Set up ambushes in this Core Prime maze.]
+	{
+	Ukrainian=13 X 20  Влаштовуйте засідки в цьому лабіринті на CORE Прайм.;
+	}
+
+// Possible Error Messages
+
+[The requested campaign file, %s, does not exist.]
+	{
+	Ukrainian=Запитаного файлу кампанії %s не існує.;
+	}
+[Error -- Unnamed Mission]
+	{
+	Ukrainian=Помилка — місія без назви;
+	}
+[The requested mission file, %s, does not exist.]
+	{
+	Ukrainian=Запитаного файлу місії %s не існує.;
+	}
+[No GlobalHeader block in mission file!]
+	{
+	Ukrainian=У файлі місії немає блоку GlobalHeader!;
+	}
+[No description available]
+	{
+	Ukrainian=Опису немає;
+	}
+[No suitable schema type in mission file!]
+	{
+	Ukrainian=У файлі місії немає відповідного типу схеми!;
+	}
+[Very bad news!  No MSG!]
+	{
+	Ukrainian=Дуже погані новини!  Немає MSG!;
+	}
+[Hey, hoser!  The default meteor shower data was bogus!]
+	{
+	Ukrainian=Агов, телепню!  Типові дані метеоритного дощу хибні!;
+	}
+[Could not open movie file, please check filename in INI.]
+	{
+	Ukrainian=Не вдалося відкрити файл відео. Перевірте назву файлу в INI.;
+	}
+[Could not setup Direct Draw to play movie.]
+	{
+	Ukrainian=Не вдалося налаштувати Direct Draw для відтворення відео.;
+	}
+[Unsupported pixel format.]
+	{
+	Ukrainian=Непідтримуваний формат пікселів.;
+	}
+[Smacker Error]
+	{
+	Ukrainian=Помилка Smacker;
+	}
+[Summary]
+	{
+	Ukrainian=Підсумки;
+	}
+[getbuilt]
+	{
+	Ukrainian=будується;
+	}
+[TransportDrop]
+	{
+	Ukrainian=Висадка з транспорту;
+	}
+[QueryTransport]
+	{
+	Ukrainian=Запит транспорту;
+	}
+[EndTransport]
+	{
+	Ukrainian=Кінець перевезення;
+	}
+[QueryLandingPad]
+	{
+	Ukrainian=Запит посадкового майданчика;
+	}
+[Invalid logo setting]
+	{
+	Ukrainian=Недійсне налаштування логотипа;
+	}
+[Unable to start the thread!]
+	{
+	Ukrainian=Не вдалося запустити потік!;
+	}
+[Please insert the Total Annihilation CD and try again]
+	{
+	Ukrainian=Вставте компакт-диск Total Annihilation і спробуйте ще раз;
+	}
+[Please insert the Play CD and try again]
+	{
+	Ukrainian=Вставте ігровий компакт-диск і спробуйте ще раз;
+	}
+[The Play CD was not found]
+	{
+	Ukrainian=Ігровий компакт-диск не знайдено;
+	}
+[Please insert the Play CD]
+	{
+	Ukrainian=Вставте ігровий компакт-диск;
+	}
+[Click to continue.]
+	{
+	Ukrainian=Клацніть, щоб продовжити.;
+	}
+[Done]
+	{
+	Ukrainian=Готово;
+	}
+[Record "%s" missing from feature files]
+	{
+	Ukrainian=У файлах обʼєктів немає запису «%s»;
+	}
+[An error occurred trying to use this service]
+	{
+	Ukrainian=Під час спроби скористатися цією службою сталася помилка;
+	}
+[expecting int]
+	{
+	Ukrainian=очікується ціле число;
+	}
+[parse error reading AI profile %s\n%s\nlast string =]
+	{
+	Ukrainian=помилка розбору профілю ШІ %s\n%s\nостанній рядок =;
+	}
+[None]
+	{
+	Ukrainian=Немає;
+	}
+[Incompatible units found.  They will be ignored.  Please download the latest version of the game.]
+	{
+	Ukrainian=Знайдено несумісні підрозділи.  Їх буде проігноровано.  Завантажте найновішу версію гри.;
+	}
+[Can't load MOVEINFO.TDF]
+	{
+	Ukrainian=Не вдалося завантажити MOVEINFO.TDF;
+	}
+[Can't load GAMEDATA.TDF]
+	{
+	Ukrainian=Не вдалося завантажити GAMEDATA.TDF;
+	}
+[Connecting  (ESC to abort)]
+	{
+	Ukrainian=Зʼєднання  (ESC — перервати);
+	}
+[Lock]
+	{
+	Ukrainian=Заблокувати;
+	}
+[Blk]
+	{
+	Ukrainian=Чорн.;
+	}
+[Gray]
+	{
+	Ukrainian=Сірий;
+	}
+[Connecting... press ESC to abort]
+	{
+	Ukrainian=Зʼєднання... Натисніть ESC, щоб перервати;
+	}
+[Unable to find any modems]
+	{
+	Ukrainian=Не вдалося знайти жодного модема;
+	}
+[allied with]
+	{
+	Ukrainian=укладає союз із;
+	}
+[broke alliance with]
+	{
+	Ukrainian=розриває союз із;
+	}
+[There are not enough game CDs present to play]
+	{
+	Ukrainian=Для гри бракує ігрових компакт-дисків;
+	}
+[You must select a map before starting]
+	{
+	Ukrainian=Перед початком оберіть мапу;
+	}
+[\nYou must select a map before starting\n\n]
+	{
+	Ukrainian=\nПеред початком оберіть мапу\n\n;
+	}
+[n/a]
+	{
+	Ukrainian=н/д;
+	}
+[N/A]
+	{
+	Ukrainian=Н/Д;
+	}
+[View Map]
+	{
+	Ukrainian=Огляд мапи;
+	}
+[Could not find the multiplayer map!!]
+	{
+	Ukrainian=Не вдалося знайти мапу для мережевої гри!!;
+	}
+[does not have this map]
+	{
+	Ukrainian=не має цієї мапи;
+	}
+[There are no saved lists to choose from]
+	{
+	Ukrainian=Немає збережених списків для вибору;
+	}
+[has left the scene]
+	{
+	Ukrainian=покидає сцену;
+	}
+[has been shown the door]
+	{
+	Ukrainian=виставлено за двері;
+	}
+[has gone to a better place]
+	{
+	Ukrainian=відходить у кращий світ;
+	}
+[has bowed out]
+	{
+	Ukrainian=відкланюється;
+	}
+[has terminated]
+	{
+	Ukrainian=припиняє існування;
+	}
+[has been eradicated]
+	{
+	Ukrainian=викорінено;
+	}
+[has been liquidated]
+	{
+	Ukrainian=ліквідовано;
+	}
+[has been obliterated]
+	{
+	Ukrainian=стерто на порох;
+	}
+[forces have been obliterated]
+	{
+	Ukrainian=— сили стерто на порох;
+	}
+[vermin have been exterminated]
+	{
+	Ukrainian=— наволоч винищено;
+	}
+[forces have gone to a better place]
+	{
+	Ukrainian=— сили відходять у кращий світ;
+	}
+[dropping a player due to TIMEOUT_SECS]
+	{
+	Ukrainian=відʼєднання гравця через TIMEOUT_SECS;
+	}
+[%s is joining the game...]
+	{
+	Ukrainian=%s приєднується до гри...;
+	}
+[player dropped by DPSYS_]
+	{
+	Ukrainian=гравця відʼєднано через DPSYS_;
+	}
+[player '%s' set to startpos %d\n]
+	{
+	Ukrainian=гравцеві «%s» призначено стартову позицію %d\n;
+	}
+[You're out!  Continue Watching?]
+	{
+	Ukrainian=Ви вибули!  Дивитися далі?;
+	}
+[Weapon]
+	{
+	Ukrainian=Зброя;
+	}
+[Please insert a Total Annihilation CD and try again]
+	{
+	Ukrainian=Вставте один із компакт-дисків Total Annihilation і спробуйте ще раз;
+	}
+[Wind Speed]
+	{
+	Ukrainian=Швидкість вітру;
+	}
+[Gravity]
+	{
+	Ukrainian=Гравітація;
+	}
+[Tidal Strength]
+	{
+	Ukrainian=Сила припливів;
+	}
+[There are no skirmish maps to choose from]
+	{
+	Ukrainian=Немає мап для сутички;
+	}
+[There are no multiplayer maps to choose from]
+	{
+	Ukrainian=Немає мап для мережевої гри;
+	}
+[The terrain for the selected map does not exist.]
+	{
+	Ukrainian=Рельєфу обраної мапи не існує.;
+	}
+[All players may not be in the same allied group.]
+	{
+	Ukrainian=Не можна обʼєднувати всіх гравців в одну союзну групу.;
+	}
+[Error:  Sound system initialization failed.]
+	{
+	Ukrainian=Помилка:  не вдалося ініціалізувати звукову систему.;
+	}
+[%s has taken the lead with %d kills]
+	{
+	Ukrainian=%s виходить у лідери. Знищено: %d;
+	}
+[has taken the lead with %d kills]
+	{
+	Ukrainian=виходить у лідери. Знищено: %d;
+	}
+[has taken the lead with]
+	{
+	Ukrainian=виходить у лідери з рахунком;
+	}
+[Player number %d invalid for unit %s]
+	{
+	Ukrainian=Номер гравця %d недійсний для підрозділу %s;
+	}
+[Cost]
+	{
+	Ukrainian=Вартість;
+	}
+[Build Time]
+	{
+	Ukrainian=Час буд.;
+	}
+[Max Velocity]
+	{
+	Ukrainian=Макс. швидкість;
+	}
+[Acceleration]
+	{
+	Ukrainian=Прискорення;
+	}
+[Weapons]
+	{
+	Ukrainian=Озброєння;
+	}
+[Speed]
+	{
+	Ukrainian=Швидкість;
+	}
+[Game Speed Normal]
+	{
+	Ukrainian=Звичайна швидкість гри;
+	}
+[Invalid savegame file]
+	{
+	Ukrainian=Недійсний файл збереження;
+	}
+[Unable to start the loading thread!]
+	{
+	Ukrainian=Не вдалося запустити потік завантаження!;
+	}
+[DirectPlay registration failed.]
+	{
+	Ukrainian=Не вдалося зареєструвати DirectPlay.;
+	}
+[Demo Version]
+	{
+	Ukrainian=Демоверсія;
+	}
+[Settings]
+	{
+	Ukrainian=Налашт.;
+	}
+
+// Added for v2.0
+
+[Can't add another player when game is closed.]
+	{
+	Ukrainian=Не можна додати ще одного гравця, коли гру закрито.;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-create the game session.\n]
+	{
+	Ukrainian=Direct Play не вдалося додати нового гравця.\n\nРадимо повернутися на попередній екран і створити ігровий сеанс заново.\n;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-join the game session.\n]
+	{
+	Ukrainian=Direct Play не вдалося додати нового гравця.\n\nРадимо повернутися на попередній екран і знову приєднатися до ігрового сеансу.\n;
+	}
+[Square]
+	{
+	Ukrainian=Квадрат;
+	}
+[Circle]
+	{
+	Ukrainian=Коло;
+	}
+[Triangle]
+	{
+	Ukrainian=Трикутник;
+	}
+[Star]
+	{
+	Ukrainian=Зірка;
+	}
+[Moon]
+	{
+	Ukrainian=Місяць;
+	}
+[has joined the]
+	{
+	Ukrainian=приєднується до групи;
+	}
+[has left the]
+	{
+	Ukrainian=покидає групу;
+	}
+[anemone]
+	{
+	Ukrainian=Актинія;
+	}
+[coral]
+	{
+	Ukrainian=Корал;
+	}
+[seaweed]
+	{
+	Ukrainian=Водорості;
+	}
+[kelp]
+	{
+	Ukrainian=Ламінарія;
+	}
+[You are placed in watch mode because you are hosting AI players which are still alive.  If you exit, they will be terminated.]
+	{
+	Ukrainian=Вас переведено в режим спостереження, бо ви є хостом компʼютерних гравців, які ще в грі.  Якщо ви вийдете, їх буде вимкнено.;
+	}
+[Unable to initialize scores reporting.]
+	{
+	Ukrainian=Не вдалося ініціалізувати надсилання результатів.;
+	}
+[No sound driver is available for use.\n]
+	{
+	Ukrainian=Немає доступного звукового драйвера.\n;
+	}
+[Debug:  You must be in full-screen mode to play a movie.]
+	{
+	Ukrainian=Налагодження:  для відтворення відео потрібен повноекранний режим.;
+	}
+[Old TED format no longer supported!]
+	{
+	Ukrainian=Старий формат TED більше не підтримується!;
+	}
+[Can not start game with all players on the same team.]
+	{
+	Ukrainian=Не можна почати гру, коли всі гравці в одній команді.;
+	}
+
+// Features
+
+[Transit Node]
+	{
+	Ukrainian=Транспортний вузол;
+	}
+[Microwave Relay]
+	{
+	Ukrainian=Мікрохвильовий ретранслятор;
+	}
+[Climatic Optimizer]
+	{
+	Ukrainian=Кліматичний оптимізатор;
+	}
+[Truck]
+	{
+	Ukrainian=Вантажівка;
+	}
+[Manhole]
+	{
+	Ukrainian=Каналізаційний люк;
+	}
+[Public Art]
+	{
+	Ukrainian=Арт-обʼєкт;
+	}
+[Car]
+	{
+	Ukrainian=Автомобіль;
+	}
+[Willy Gates Bldg]
+	{
+	Ukrainian=Будівля Віллі Гейтса;
+	}
+[Barrier]
+	{
+	Ukrainian=Барʼєр;
+	}
+[barrier]
+	{
+	Ukrainian=Барʼєр;
+	}
+[Oolok Tree]
+	{
+	Ukrainian=Дерево улок;
+	}
+[Gasbag]
+	{
+	Ukrainian=Газовий міхур;
+	}
+[Bridge]
+	{
+	Ukrainian=Міст;
+	}
+[Ruined Bridge]
+	{
+	Ukrainian=Зруйнований міст;
+	}
+[Factory]
+	{
+	Ukrainian=Завод;
+	}
+[Cheese Factory]
+	{
+	Ukrainian=Сироварня;
+	}
+[Public Hygiene Pod]
+	{
+	Ukrainian=Гігієнічна капсула;
+	}
+[Monorail Track]
+	{
+	Ukrainian=Колія монорейки;
+	}
+[Streetlight]
+	{
+	Ukrainian=Вуличний ліхтар;
+	}
+
+// Chat messages
+
+[OK.  Will share metal if above %d]
+	{
+	Ukrainian=OK.  Передаватиму метал, якщо запас перевищить %d;
+	}
+[OK.  Will share energy if above %d]
+	{
+	Ukrainian=OK.  Передаватиму енергію, якщо запас перевищить %d;
+	}
+
+// Not in 3.1c's table: GUI captions and messages that 3.1c's own translate.tdf does not key
+
+[Begin Mission]
+	{
+	Ukrainian=Почати місію;
+	}
+[Choose where you would like your scores reported to:]
+	{
+	Ukrainian=Оберіть, куди надсилати ваші результати:;
+	}
+[CREDITS]
+	{
+	Ukrainian=ТИТРИ;
+	}
+[has modified his executable.  Game integrity breached.]
+	{
+	Ukrainian=має змінений виконуваний файл.  Цілісність гри порушено.;
+	}
+[has not responded for %d seconds]
+	{
+	Ukrainian=не відповідає вже %d с;
+	}
+[Have a nice day]
+	{
+	Ukrainian=Гарного дня;
+	}
+[Mission Brief]
+	{
+	Ukrainian=Брифінг місії;
+	}
+[Name Of List To Save]
+	{
+	Ukrainian=Назва списку для збереження;
+	}
+[Pevious Menu]
+	{
+	Ukrainian=Назад;
+	}
+[Select Player:]
+	{
+	Ukrainian=Оберіть гравця:;
+	}
+[Synching]
+	{
+	Ukrainian=Синхроніз.;
+	}
+[Watching Allowe]
+	{
+	Ukrainian=Глядачі: так;
+	}
+
+// Not in 3.1c's table: Map names and descriptions
+
+[luschinfloggen]
+	{
+	Ukrainian=Лушінфлогген;
+	}
+[8 X 10  Find your way through the shallows into the enemy base.]
+	{
+	Ukrainian=8 X 10  Знайдіть шлях через мілини до ворожої бази.;
+	}
+
+// Not in 3.1c's table: Planet names, as the maps give them
+
+[Green planet]
+	{
+	Ukrainian=Зелена планета;
+	}
+[Lava]
+	{
+	Ukrainian=Лава;
+	}
+[Red Planet]
+	{
+	Ukrainian=Червона планета;
+	}
+[Lush]
+	{
+	Ukrainian=Буйна зелень;
+	}
+[Ice]
+	{
+	Ukrainian=Крига;
+	}
+[Archipelago]
+	{
+	Ukrainian=Архіпелаг;
+	}
+[Slate]
+	{
+	Ukrainian=Сланець;
+	}
+[Lunar]
+	{
+	Ukrainian=Місяць;
+	}
+[Water World]
+	{
+	Ukrainian=Водний світ;
+	}
+[Acid]
+	{
+	Ukrainian=Кислота;
+	}
+[Crystal]
+	{
+	Ukrainian=Кристали;
+	}
+[Wet Desert]
+	{
+	Ukrainian=Волога пустеля;
+	}
+[Desert]
+	{
+	Ukrainian=Пустеля;
+	}
+[Urban]
+	{
+	Ukrainian=Місто;
+	}

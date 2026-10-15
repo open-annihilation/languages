@@ -82,6 +82,23 @@ class BuildTests(unittest.TestCase):
             self.assertIn("fonts/NotoSansCJK-OFL.txt", names)
             self.assertFalse(any(name.startswith("zh-Hans/") for name in names))
 
+    def test_uk_builds_without_a_font(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            folder = Path(tmp)
+            fonts = folder / "empty"
+            fonts.mkdir()
+            out = folder / "out"
+            result = self.build(out, fonts, "uk")
+            self.assertEqual(result.returncode, 0, result.stderr + result.stdout)
+            info = json.loads((out / "uk.oalang.json").read_text(encoding="utf-8"))
+            self.assertEqual(info["tag"], "uk")
+            with zipfile.ZipFile(out / "uk.oalang") as archive:
+                names = archive.namelist()
+            self.assertIn("language.yaml", names)
+            self.assertIn("warmup.txt", names)
+            self.assertIn("files/camps/briefs-Ukrainian/ArmCampaign1.txt", names)
+            self.assertFalse(any(name.startswith("fonts/") for name in names))
+
     def test_missing_font_stops(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             folder = Path(tmp)

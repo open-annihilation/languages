@@ -1,0 +1,20 @@
+# SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+# SPDX-License-Identifier: GPL-3.0-only
+
+# Ukrainian, built by tools/build.py (README.md). Its text is drawn in the
+# modern fonts, whose sans faces travel with the game and hold Cyrillic, so
+# the pack brings no font of its own.
+oalang: 1
+tag: uk
+name: Українська
+english-name: Ukrainian
+word: Ukrainian
+version: "1"
+locales: [uk, uk-UA]
+fallbacks: []
+text: {needs: modern-fonts}
+unicode: true
+warmup: warmup.txt
+packaging: {revision: 1, date: 2026-10-15, packager: open-annihilation/languages tools/build.py}
+homepage: https://github.com/open-annihilation/languages
+requires: {engine: ">= 0.8.0"}

@@ -1,0 +1,8037 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Open Annihilation's own words in Ukrainian, keyed by the engine's
+// English.
+
+[none]
+	{
+	uk=немає;
+	}
+
+[Off]
+	{
+	uk=Вимк.;
+	}
+
+[Basic]
+	{
+	uk=Базовий;
+	}
+
+[Full]
+	{
+	uk=Повний;
+	}
+
+[Reduced]
+	{
+	uk=Слабкий;
+	}
+
+[Sharp]
+	{
+	uk=Чітке;
+	}
+
+[Whole steps]
+	{
+	uk=Цілочисельне;
+	}
+
+[Unfiltered]
+	{
+	uk=Без фільтра;
+	}
+
+[Automatic]
+	{
+	uk=Авто;
+	}
+
+[Box]
+	{
+	uk=Рамка;
+	}
+
+[Scroll]
+	{
+	uk=Прокрутка;
+	}
+
+[Stay on]
+	{
+	uk=Постійно;
+	}
+
+[One action]
+	{
+	uk=Одна дія;
+	}
+
+[Standard]
+	{
+	uk=Звичайний;
+	}
+
+[Large]
+	{
+	uk=Великий;
+	}
+
+[Larger]
+	{
+	uk=Більший;
+	}
+
+[Trackpads]
+	{
+	uk=Трекпади;
+	}
+
+[Sticks]
+	{
+	uk=Стіки;
+	}
+
+[Relative]
+	{
+	uk=Відносний;
+	}
+
+[Absolute]
+	{
+	uk=Абсолютний;
+	}
+
+[Low]
+	{
+	uk=Низьке;
+	}
+
+[High]
+	{
+	uk=Високе;
+	}
+
+[Zoom]
+	{
+	uk=Масштаб;
+	}
+
+[Pointer]
+	{
+	uk=Вказівник;
+	}
+
+[Nothing]
+	{
+	uk=Нічого;
+	}
+
+[While the right pad is touched]
+	{
+	uk=Коли торкаєшся правого трекпада;
+	}
+
+[While the right stick is touched]
+	{
+	uk=Коли торкаєшся правого стіка;
+	}
+
+[Always]
+	{
+	uk=Завжди;
+	}
+
+[Light]
+	{
+	uk=Слабко;
+	}
+
+[Strong]
+	{
+	uk=Сильно;
+	}
+
+[The processor draws and scales the view.]
+	{
+	uk=Процесор малює й масштабує зображення.;
+	}
+
+[Off: the processor draws and scales the view.]
+	{
+	uk=Вимкнено: процесор малює й масштабує зображення.;
+	}
+
+[Set it to Off and back, or restore defaults.]
+	{
+	uk=Перемкни на «Вимк.» і назад або віднови типові.;
+	}
+
+[A failed graphics driver is skipped.]
+	{
+	uk=Пропущено графічний драйвер, що дав збій.;
+	}
+
+[Not in use: it needs at least 2 GB of memory.]
+	{
+	uk=Не діє: потрібно щонайменше 2 ГБ памʼяті.;
+	}
+
+[Full in use: the graphics card draws the view.]
+	{
+	uk=Діє «Повний»: зображення малює відеокарта.;
+	}
+
+[Basic lets the graphics card scale it evenly.]
+	{
+	uk=З «Базовим» відеокарта масштабує рівномірно.;
+	}
+
+[For this run only. The setting is kept.]
+	{
+	uk=Лише на цей запуск. Налаштування збережено.;
+	}
+
+[Not in use: the environment names a driver.]
+	{
+	uk=Не діє: драйвер задано в змінній середовища.;
+	}
+
+[Not in use: there is too little memory.]
+	{
+	uk=Не діє: замало памʼяті.;
+	}
+
+[Off for this game: in a shared game, Basic]
+	{
+	uk=Вимкнено на цю гру: у мережевій грі «Базовий»;
+	}
+
+[takes effect from the next game.]
+	{
+	uk=діятиме з наступної гри.;
+	}
+
+[Not in use: an error stopped it for this run.]
+	{
+	uk=Не діє: помилка зупинила його на цей запуск.;
+	}
+
+[Not in use: the graphics driver failed.]
+	{
+	uk=Не діє: збій графічного драйвера.;
+	}
+
+[Not in use: the game stopped while using it.]
+	{
+	uk=Не діє: гра зупинилася під час його роботи.;
+	}
+
+[Not in use: no usable graphics card was found.]
+	{
+	uk=Не діє: не знайдено придатної відеокарти.;
+	}
+
+[Not in use: the graphics card lacks a feature.]
+	{
+	uk=Не діє: відеокарті бракує потрібної функції.;
+	}
+
+[Not in use: the game cannot save its files.]
+	{
+	uk=Не діє: гра не може зберігати свої файли.;
+	}
+
+[Takes effect from the next start.]
+	{
+	uk=Діятиме з наступного запуску.;
+	}
+
+[The processor draws and scales the view until then.]
+	{
+	uk=А доти процесор малює й масштабує зображення.;
+	}
+
+[Basic in use: the game cannot save its files.]
+	{
+	uk=Діє «Базовий»: гра не може зберігати свої файли.;
+	}
+
+[Basic in use: there is too little memory for Full.]
+	{
+	uk=Діє «Базовий»: для «Повного» замало памʼяті.;
+	}
+
+[Basic in use: Full stopped for this run.]
+	{
+	uk=Діє «Базовий»: «Повний» зупинено на цей запуск.;
+	}
+
+[Basic in use: Full failed before on this driver.]
+	{
+	uk=Діє «Базовий»: «Повний» уже давав збій із цим драйвером.;
+	}
+
+[Basic in use: the card lacks a feature Full needs.]
+	{
+	uk=Діє «Базовий»: відеокарті бракує функції для «Повного».;
+	}
+
+[Basic for this game: in a shared game, Full]
+	{
+	uk=«Базовий» на цю гру: у мережевій грі «Повний»;
+	}
+
+[Basic in use, on another driver: one failed.]
+	{
+	uk=Діє «Базовий» з іншим драйвером: один дав збій.;
+	}
+
+[Basic in use; no smoothing when zoomed out here.]
+	{
+	uk=Діє «Базовий», тут без згладжування при віддаленні.;
+	}
+
+[Basic in use.]
+	{
+	uk=Діє «Базовий».;
+	}
+
+[Off for this game: in a shared game, Full]
+	{
+	uk=Вимкнено на цю гру: у мережевій грі «Повний»;
+	}
+
+[Off for this game: in a replay, Basic]
+	{
+	uk=Вимкнено на цю гру: у записі «Базовий»;
+	}
+
+[Off for this game: in a replay, Full]
+	{
+	uk=Вимкнено на цю гру: у записі «Повний»;
+	}
+
+[Basic for this game: in a replay, Full]
+	{
+	uk=«Базовий» на цю гру: у записі «Повний»;
+	}
+
+[Smoothed at every zoom.]
+	{
+	uk=Згладжено на всіх масштабах.;
+	}
+
+[Smoothed at every zoom; 2x2 samples a pixel.]
+	{
+	uk=Згладжено на всіх масштабах. Вибірок на піксель: 2x2.;
+	}
+
+[Smoothed at every zoom; 4x4 samples a pixel.]
+	{
+	uk=Згладжено на всіх масштабах. Вибірок на піксель: 4x4.;
+	}
+
+[Smoothed at every zoom; 8x8 samples a pixel.]
+	{
+	uk=Згладжено на всіх масштабах. Вибірок на піксель: 8x8.;
+	}
+
+[Smoothed at every zoom; 16x16 samples a pixel.]
+	{
+	uk=Згладжено на всіх масштабах. Вибірок на піксель: 16x16.;
+	}
+
+[It scales the menus and the interface evenly.]
+	{
+	uk=Рівномірно масштабує меню та інтерфейс.;
+	}
+
+[It scales the interface and zoomed-in view evenly.]
+	{
+	uk=Рівномірно масштабує інтерфейс і наближене зображення.;
+	}
+
+[It scales evenly and smooths the zoomed-out view.]
+	{
+	uk=Масштабує рівномірно й згладжує віддалене зображення.;
+	}
+
+[It smooths the zoomed-out view.]
+	{
+	uk=Згладжує віддалене зображення.;
+	}
+
+[Here the view is drawn as when it is off.]
+	{
+	uk=Тут зображення малюється, як і без прискорення.;
+	}
+
+[SAVES]
+	{
+	uk=ЗБЕРЕЖЕННЯ;
+	}
+
+[SCREENSHOTS]
+	{
+	uk=ЗНІМКИ ЕКРАНА;
+	}
+
+[MODS]
+	{
+	uk=МОДИ;
+	}
+
+[System default]
+	{
+	uk=Як у системі;
+	}
+
+[Mods]
+	{
+	uk=Моди;
+	}
+
+[Controls]
+	{
+	uk=Керування;
+	}
+
+[Graphics]
+	{
+	uk=Графіка;
+	}
+
+[Language]
+	{
+	uk=Мова;
+	}
+
+[Touch]
+	{
+	uk=Сенсорне керування;
+	}
+
+[Controller]
+	{
+	uk=Контролер;
+	}
+
+[Developer]
+	{
+	uk=Для розробників;
+	}
+
+[Game files]
+	{
+	uk=Ігрові файли;
+	}
+
+[Keys]
+	{
+	uk=Клавіші;
+	}
+
+[Patrolling]
+	{
+	uk=Патруль;
+	}
+
+[Guarding]
+	{
+	uk=Охорона;
+	}
+
+[Build tools]
+	{
+	uk=Будівництво;
+	}
+
+[Snap & chat]
+	{
+	uk=Привʼязка і чат;
+	}
+
+[CONTROLS]
+	{
+	uk=КЕРУВАННЯ;
+	}
+
+[GRAPHICS]
+	{
+	uk=ГРАФІКА;
+	}
+
+[LANGUAGE]
+	{
+	uk=МОВА;
+	}
+
+[TOUCH]
+	{
+	uk=СЕНСОРНЕ КЕРУВАННЯ;
+	}
+
+[CONTROLLER]
+	{
+	uk=КОНТРОЛЕР;
+	}
+
+[DEVELOPER]
+	{
+	uk=ДЛЯ РОЗРОБНИКІВ;
+	}
+
+[GAME FILES]
+	{
+	uk=ІГРОВІ ФАЙЛИ;
+	}
+
+[MOD KEYS]
+	{
+	uk=КЛАВІШІ МОДУ;
+	}
+
+[PATROLLING BUILDERS]
+	{
+	uk=БУДІВЕЛЬНИКИ В ПАТРУЛІ;
+	}
+
+[GUARDING BUILDERS]
+	{
+	uk=БУДІВЕЛЬНИКИ НА ОХОРОНІ;
+	}
+
+[BUILD TOOLS]
+	{
+	uk=БУДІВНИЦТВО;
+	}
+
+[SNAP & CHAT]
+	{
+	uk=ПРИВʼЯЗКА І ЧАТ;
+	}
+
+[Pathfinding cycles]
+	{
+	uk=Цикли пошуку шляху;
+	}
+
+[Mouse wheel zoom]
+	{
+	uk=Масштаб коліщатком;
+	}
+
+[Maximum zoom out]
+	{
+	uk=Макс. віддалення;
+	}
+
+[Maximum zoom in]
+	{
+	uk=Макс. наближення;
+	}
+
+[View past the map's edge]
+	{
+	uk=Огляд за краєм мапи;
+	}
+
+[Whole map]
+	{
+	uk=Уся мапа;
+	}
+
+[Escape opens the game menu]
+	{
+	uk=Escape відкриває меню гри;
+	}
+
+[Select groups without Alt]
+	{
+	uk=Виділяти групи без Alt;
+	}
+
+[Unit limit]
+	{
+	uk=Ліміт підрозділів;
+	}
+
+[Maximum frame rate]
+	{
+	uk=Макс. частота кадрів;
+	}
+
+[Enhanced anti-aliasing]
+	{
+	uk=Посилене згладжування;
+	}
+
+[Screen size]
+	{
+	uk=Розмір екрана;
+	}
+
+[Enable Developer Mode]
+	{
+	uk=Увімкнути режим розробника;
+	}
+
+[Show performance statistics]
+	{
+	uk=Статистика продуктивності;
+	}
+
+[Hardware acceleration]
+	{
+	uk=Апаратне прискорення;
+	}
+
+[Vertical sync]
+	{
+	uk=Вертикальна синхронізація;
+	}
+
+[Menu scaling]
+	{
+	uk=Масштабування меню;
+	}
+
+[Native pixel density]
+	{
+	uk=Рідна щільність пікселів;
+	}
+
+[Explosion flash]
+	{
+	uk=Спалахи вибухів;
+	}
+
+[Zoomed out units]
+	{
+	uk=Підрозділи здалеку;
+	}
+
+[After zoom]
+	{
+	uk=Від масштабу;
+	}
+
+[Window frame]
+	{
+	uk=Рамка вікна;
+	}
+
+[HUD scaling]
+	{
+	uk=Масштабування HUD;
+	}
+
+[Use modern fonts for game text]
+	{
+	uk=Сучасні шрифти для тексту гри;
+	}
+
+[Font outline]
+	{
+	uk=Контур шрифту;
+	}
+
+[Font shadow]
+	{
+	uk=Тінь шрифту;
+	}
+
+[Game text background]
+	{
+	uk=Тло тексту гри;
+	}
+
+[Text size]
+	{
+	uk=Розмір тексту;
+	}
+
+[One-finger drag]
+	{
+	uk=Перетягування одним пальцем;
+	}
+
+[Hold delay]
+	{
+	uk=Затримка утримання;
+	}
+
+[QUEUE and ADD]
+	{
+	uk=ЧЕРГА і ДОДАТИ;
+	}
+
+[Haptics]
+	{
+	uk=Вібровідгук;
+	}
+
+[Left-handed layout]
+	{
+	uk=Розкладка для лівші;
+	}
+
+[Control size]
+	{
+	uk=Розмір кнопок;
+	}
+
+[Scheme]
+	{
+	uk=Схема;
+	}
+
+[Right trackpad]
+	{
+	uk=Правий трекпад;
+	}
+
+[Pointer speed]
+	{
+	uk=Швидкість вказівника;
+	}
+
+[Pointer acceleration]
+	{
+	uk=Прискорення вказівника;
+	}
+
+[Trackpad glide]
+	{
+	uk=Інерція трекпада;
+	}
+
+[Right stick]
+	{
+	uk=Правий стік;
+	}
+
+[Magnetism (stick pointer)]
+	{
+	uk=Притягування (вказівник стіка);
+	}
+
+[Gyro pointer]
+	{
+	uk=Гіроскопічний вказівник;
+	}
+
+[Gyro speed]
+	{
+	uk=Швидкість гіроскопа;
+	}
+
+[Button prompts]
+	{
+	uk=Підказки кнопок;
+	}
+
+[Left-handed]
+	{
+	uk=Для лівші;
+	}
+
+[Mod]
+	{
+	uk=Мод;
+	}
+
+[Snap override key]
+	{
+	uk=Клавіша скасування привʼязки;
+	}
+
+[Autoclick key]
+	{
+	uk=Клавіша автоклацання;
+	}
+
+[Rotate build key]
+	{
+	uk=Клавіша повороту будівлі;
+	}
+
+[Hold position]
+	{
+	uk=Тримати позицію;
+	}
+
+[Maneuver]
+	{
+	uk=Маневрувати;
+	}
+
+[Roam]
+	{
+	uk=Вільний рух;
+	}
+
+[Mex snap radius]
+	{
+	uk=Радіус привʼязки видобувачів;
+	}
+
+[Wreck snap radius]
+	{
+	uk=Радіус привʼязки до уламків;
+	}
+
+[Optimize DT rows]
+	{
+	uk=Оптимізувати ряди стін;
+	}
+
+[Full rings]
+	{
+	uk=Повні кільця;
+	}
+
+[Accessible chat]
+	{
+	uk=Розбірливий чат;
+	}
+
+[Resource bar background]
+	{
+	uk=Тло панелі ресурсів;
+	}
+
+[Installed]
+	{
+	uk=Встановлено;
+	}
+
+[Include in device backups]
+	{
+	uk=Додавати в резервні копії;
+	}
+
+[Where the files are]
+	{
+	uk=Розташування файлів;
+	}
+
+[Your files]
+	{
+	uk=Твої файли;
+	}
+
+[More cycles find routes faster but use more CPU.]
+	{
+	uk=Більше циклів швидше знаходять шлях, але навантажують процесор.;
+	}
+
+[Scroll to zoom the battlefield in and out.]
+	{
+	uk=Коліщатко наближає й віддаляє поле бою.;
+	}
+
+[A number key selects its group on its own.]
+	{
+	uk=Цифрова клавіша сама виділяє свою групу.;
+	}
+
+[Lower it to save power.]
+	{
+	uk=Зменш, щоб заощадити електроенергію.;
+	}
+
+[Custom]
+	{
+	uk=Власний;
+	}
+
+[Your changes to the profile's hacks apply while on.]
+	{
+	uk=Коли увімкнено, діють твої зміни хаків профілю.;
+	}
+
+[Frame and tick times over the battlefield.]
+	{
+	uk=Час кадру й такту над полем бою.;
+	}
+
+[Each frame waits for the display: no tearing.]
+	{
+	uk=Кожен кадр чекає на дисплей: без розривів.;
+	}
+
+[Rendered]
+	{
+	uk=Моделі;
+	}
+
+[Dots]
+	{
+	uk=Точки;
+	}
+
+[Icons]
+	{
+	uk=Значки;
+	}
+
+[Hidden in play]
+	{
+	uk=Прихована в грі;
+	}
+
+[Always shown]
+	{
+	uk=Завжди видима;
+	}
+
+[A dark edge round each letter of modern text.]
+	{
+	uk=Темний контур довкола літер сучасного шрифту.;
+	}
+
+[A dark shadow under modern text.]
+	{
+	uk=Темна тінь під сучасним шрифтом.;
+	}
+
+[A shaded box behind each line of game text.]
+	{
+	uk=Затемнене тло за кожним рядком тексту гри.;
+	}
+
+[How long a finger or button is held for a hold.]
+	{
+	uk=Скільки тримати палець чи кнопку для утримання.;
+	}
+
+[A short vibration as a touch control acts.]
+	{
+	uk=Коротка вібрація, коли спрацьовує сенсорна кнопка.;
+	}
+
+[Each point of the pad is a point of the view.]
+	{
+	uk=Кожна точка трекпада відповідає точці екрана.;
+	}
+
+[The pointer moves as the thumb slides.]
+	{
+	uk=Вказівник рухається слідом за пальцем.;
+	}
+
+[How far the pointer moves for a slide.]
+	{
+	uk=Як далеко зміщується вказівник за один рух.;
+	}
+
+[A quick slide moves the pointer further.]
+	{
+	uk=Швидкий рух зміщує вказівник далі.;
+	}
+
+[The pointer keeps moving after a quick flick.]
+	{
+	uk=Після швидкого змаху вказівник рухається далі.;
+	}
+
+[The right stick does nothing.]
+	{
+	uk=Правий стік нічого не робить.;
+	}
+
+[The stick pointer settles on a lone unit near it.]
+	{
+	uk=Вказівник стіка притягується до окремого підрозділу поруч.;
+	}
+
+[Turning the controller fine-tunes the pointer.]
+	{
+	uk=Поворот контролера точно наводить вказівник.;
+	}
+
+[How far the pointer moves as the controller turns.]
+	{
+	uk=Як далеко зміщується вказівник при повороті контролера.;
+	}
+
+[Small ticks and bumps felt through the controller.]
+	{
+	uk=Легкі клацання й поштовхи в контролері.;
+	}
+
+[The button pictures the controls and rings show.]
+	{
+	uk=Значки кнопок на елементах керування й кільцях.;
+	}
+
+[Held, a click is not snapped.]
+	{
+	uk=Поки затиснута, клацання не привʼязується.;
+	}
+
+[Held, a build click lays a line or a ring.]
+	{
+	uk=Поки затиснута, клацання будує лінію чи кільце.;
+	}
+
+[Turns the building being placed.]
+	{
+	uk=Повертає будівлю, яку розміщуєш.;
+	}
+
+[Cells a metal extractor snaps to metal.]
+	{
+	uk=Відстань привʼязки видобувача до металу, у клітинках.;
+	}
+
+[Cells a reclaim click snaps to a wreck.]
+	{
+	uk=Відстань привʼязки утилізації до уламків, у клітинках.;
+	}
+
+[Lines of 2x2 walls build as a double row.]
+	{
+	uk=Лінії стін 2x2 будуються подвійним рядом.;
+	}
+
+[Rings include their corners.]
+	{
+	uk=Кільця охоплюють і кути.;
+	}
+
+[A dark backdrop under each chat line.]
+	{
+	uk=Темне тло під кожним рядком чату.;
+	}
+
+[Behind the resource bar's text.]
+	{
+	uk=За текстом панелі ресурсів.;
+	}
+
+[per player]
+	{
+	uk=на гравця;
+	}
+
+[Desktop]
+	{
+	uk=Робочий стіл;
+	}
+
+[Reclaim only]
+	{
+	uk=Лише утилізація;
+	}
+
+[Both]
+	{
+	uk=Обидва;
+	}
+
+[Assist only]
+	{
+	uk=Лише допомога;
+	}
+
+[Stay]
+	{
+	uk=Стояти;
+	}
+
+[Normal]
+	{
+	uk=Звичайно;
+	}
+
+[Scatter]
+	{
+	uk=Розсіятися;
+	}
+
+[None]
+	{
+	uk=Немає;
+	}
+
+[Text]
+	{
+	uk=Текст;
+	}
+
+[Solid]
+	{
+	uk=Суцільне;
+	}
+
+[cells]
+	{
+	uk=кл.;
+	}
+
+[ms]
+	{
+	uk=мс;
+	}
+
+[device]
+	{
+	uk=пристрої;
+	}
+
+[Locked during a game]
+	{
+	uk=Заблоковано під час гри;
+	}
+
+[Set by the host]
+	{
+	uk=Задано хостом;
+	}
+
+[Set on the command line]
+	{
+	uk=Задано в командному рядку;
+	}
+
+[Not available here]
+	{
+	uk=Тут недоступно;
+	}
+
+[Set by the mod]
+	{
+	uk=Задано модом;
+	}
+
+[Needs modern fonts]
+	{
+	uk=Потрібні сучасні шрифти;
+	}
+
+[Needs Dots]
+	{
+	uk=Потрібні «Точки»;
+	}
+
+[Always on here]
+	{
+	uk=Тут завжди увімкнено;
+	}
+
+[MANAGE…]
+	{
+	uk=КЕРУВАТИ…;
+	}
+
+[RESTORE PROFILE VALUES]
+	{
+	uk=ВІДНОВИТИ З ПРОФІЛЮ;
+	}
+
+[Applies at next match]
+	{
+	uk=Діятиме з наступної гри;
+	}
+
+[Off: it plays as 3.1c.]
+	{
+	uk=Вимкнено: гра йде як у 3.1c.;
+	}
+
+[Not implemented by this engine.]
+	{
+	uk=Не реалізовано в цьому рушії.;
+	}
+
+[Items]
+	{
+	uk=Елементи;
+	}
+
+[Steam Input is on: the trackpads and back grips reach the game as Steam's mouse and keys. Turn Steam Input off for Open Annihilation in Steam's controller settings to use them here.]
+	{
+	uk=Steam Input увімкнено: трекпади й задні кнопки надходять у гру як миша й клавіші Steam. Щоб користуватися ними тут, вимкни Steam Input для Open Annihilation у налаштуваннях контролера Steam.;
+	}
+
+[Steam Deck: starts at the screen's {rate} fps.]
+	{
+	uk=Steam Deck: спершу частота екрана, {rate} к/с.;
+	}
+
+[SETTINGS]
+	{
+	uk=НАЛАШТУВАННЯ;
+	}
+
+[No Mod]
+	{
+	uk=Без моду;
+	}
+
+[N/A]
+	{
+	uk=Н/Д;
+	}
+
+[No oamod.yaml present]
+	{
+	uk=Немає oamod.yaml;
+	}
+
+[PLAYING]
+	{
+	uk=У ГРІ;
+	}
+
+[OPEN MODS FOLDER]
+	{
+	uk=ВІДКРИТИ ПАПКУ МОДІВ;
+	}
+
+[SWITCH MOD]
+	{
+	uk=ЗМІНИТИ МОД;
+	}
+
+[SWITCH]
+	{
+	uk=ЗМІНИТИ;
+	}
+
+[ROLL BACK]
+	{
+	uk=ВІДКОТИТИ;
+	}
+
+[ROLL BACK MOD]
+	{
+	uk=ВІДКОТИТИ МОД;
+	}
+
+[Roll back {title} to {to}? {from} is kept in its place, and ROLL BACK again brings it back.]
+	{
+	uk=Відкотити {title} до {to}? {from} буде збережено, і ще одне натискання ВІДКОТИТИ поверне цю версію.;
+	}
+
+[The game reloads its data for the mod and returns to the main menu.]
+	{
+	uk=Гра перезавантажить дані для моду й повернеться до головного меню.;
+	}
+
+[CANCEL]
+	{
+	uk=СКАСУВАТИ;
+	}
+
+[Locked during a game. Choose the mod from the main menu.]
+	{
+	uk=Заблоковано під час гри. Обери мод у головному меню.;
+	}
+
+[Saved games, screenshots, films and mods.]
+	{
+	uk=Збережені ігри, знімки екрана, фільми й моди.;
+	}
+
+[The command line chose this run's mod.]
+	{
+	uk=Мод для цього запуску задано в командному рядку.;
+	}
+
+[Shared game - still running]
+	{
+	uk=Мережева гра — ще триває;
+	}
+
+[RESTORE DEFAULTS]
+	{
+	uk=ВІДНОВИТИ ТИПОВІ;
+	}
+
+[OK]
+	{
+	uk=OK;
+	}
+
+[OFF]
+	{
+	uk=ВИМК.;
+	}
+
+[ON]
+	{
+	uk=УВІМК.;
+	}
+
+[OPEN FOLDER]
+	{
+	uk=ПАПКА;
+	}
+
+[REPLACE]
+	{
+	uk=ЗАМІНИТИ;
+	}
+
+[INSTALL ALONGSIDE]
+	{
+	uk=ВСТАНОВИТИ ПОРЯД;
+	}
+
+[REINSTALL]
+	{
+	uk=ПЕРЕВСТАНОВИТИ;
+	}
+
+[PLAY NOW]
+	{
+	uk=ГРАТИ ЗАРАЗ;
+	}
+
+[INSTALLING MOD]
+	{
+	uk=ВСТАНОВЛЕННЯ МОДУ;
+	}
+
+[UPDATE MOD]
+	{
+	uk=ОНОВИТИ МОД;
+	}
+
+[ANOTHER VERSION]
+	{
+	uk=ІНША ВЕРСІЯ;
+	}
+
+[ALREADY INSTALLED]
+	{
+	uk=УЖЕ ВСТАНОВЛЕНО;
+	}
+
+[FOLDER IN USE]
+	{
+	uk=ПАПКА ЗАЙНЯТА;
+	}
+
+[MOD INSTALLED]
+	{
+	uk=МОД ВСТАНОВЛЕНО;
+	}
+
+[MOD UPDATED]
+	{
+	uk=МОД ОНОВЛЕНО;
+	}
+
+[MOD NOT INSTALLED]
+	{
+	uk=МОД НЕ ВСТАНОВЛЕНО;
+	}
+
+[MOD NOT ROLLED BACK]
+	{
+	uk=МОД НЕ ВІДКОЧЕНО;
+	}
+
+[The folder kept for ROLL BACK, which holds no mod that can be read, is removed.]
+	{
+	uk=Збережену для відкату папку видалено: у ній немає моду, який можна прочитати.;
+	}
+
+[The folder kept for ROLL BACK ({backup}) is removed.]
+	{
+	uk=Збережену для відкату папку ({backup}) видалено.;
+	}
+
+[{version} of an unknown revision]
+	{
+	uk={version}, ревізія невідома;
+	}
+
+[{version} revision {n}]
+	{
+	uk={version}, ревізія {n};
+	}
+
+[Putting the files in place...]
+	{
+	uk=Розміщення файлів...;
+	}
+
+[Unpacking {title} {version}...]
+	{
+	uk=Розпакування {title} {version}...;
+	}
+
+[{done} of {total}]
+	{
+	uk={done} з {total};
+	}
+
+[{title} {version}, an unknown revision, is installed. Replace it with revision {incoming} from {file}?]
+	{
+	uk=Встановлено {title} {version} невідомої ревізії. Замінити на ревізію {incoming} з {file}?;
+	}
+
+[{title} {version}, revision {installed}, is installed. Replace it with revision {incoming} from {file}?]
+	{
+	uk=Встановлено {title} {version}, ревізія {installed}. Замінити на ревізію {incoming} з {file}?;
+	}
+
+[Revision {incoming} is older than the one installed.]
+	{
+	uk=Ревізія {incoming} старіша за встановлену.;
+	}
+
+[{title} {installed} is installed. Replace it with {incoming}, or install {incoming} alongside it?]
+	{
+	uk=Встановлено {title} {installed}. Замінити на {incoming} чи встановити {incoming} поряд?;
+	}
+
+[Alongside, {incoming} goes in a folder of its own:]
+	{
+	uk=У разі встановлення поряд {incoming} отримає окрему папку:;
+	}
+
+[{title} {version}, revision {revision}, is already installed. Install its files again from {file}?]
+	{
+	uk=Уже встановлено {title} {version}, ревізія {revision}. Знову встановити його файли з {file}?;
+	}
+
+[Files added to its folder, or changed, since it was installed are replaced or removed.]
+	{
+	uk=Файли, додані до його папки чи змінені після встановлення, буде замінено або видалено.;
+	}
+
+[The version kept, {backup}, stays.]
+	{
+	uk=Збережена версія, {backup}, залишається.;
+	}
+
+[The folder kept for ROLL BACK stays.]
+	{
+	uk=Папка, збережена для відкату, залишається.;
+	}
+
+[Your Mods folder already has a folder named {folder} that does not hold {title}. It is left as it is.]
+	{
+	uk=У твоїй папці Mods уже є папка {folder}, у якій немає {title}. Її залишено як є.;
+	}
+
+[Install {title} {version} alongside it, in a folder of its own?]
+	{
+	uk=Встановити {title} {version} поряд, в окрему папку?;
+	}
+
+[{title} {version} is installed in your Mods folder:]
+	{
+	uk={title} {version} встановлено у твою папку Mods:;
+	}
+
+[{title} is now {new}.]
+	{
+	uk={title} тепер має версію {new}.;
+	}
+
+[The files of {title} {version} were installed again.]
+	{
+	uk=Файли {title} {version} встановлено знову.;
+	}
+
+[{title} is back to {new}. {old} is kept, and ROLL BACK brings it back.]
+	{
+	uk={title} повернуто до версії {new}. {old} збережено, і ВІДКОТИТИ поверне цю версію.;
+	}
+
+[{title} is back to {new}.]
+	{
+	uk={title} повернуто до версії {new}.;
+	}
+
+[{old} could not be kept as the earlier version; it is in:]
+	{
+	uk=Не вдалося зберегти {old} як попередню версію. Вона в папці:;
+	}
+
+[It cannot be read.]
+	{
+	uk=Файл неможливо прочитати.;
+	}
+
+[It is not a zip archive.]
+	{
+	uk=Це не zip-архів.;
+	}
+
+[It is damaged.]
+	{
+	uk=Файл пошкоджено.;
+	}
+
+[It is damaged: {name} does not unpack as recorded.]
+	{
+	uk=Файл пошкоджено: {name} розпаковується не так, як записано.;
+	}
+
+[It holds no oamod.yaml at its top, or in a single folder at its top.]
+	{
+	uk=В архіві немає oamod.yaml ні в корені, ні в єдиній папці в корені.;
+	}
+
+[Its oamod.yaml is larger than 256 KiB.]
+	{
+	uk=Файл oamod.yaml в архіві більший за 256 КіБ.;
+	}
+
+[Its oamod.yaml has errors:]
+	{
+	uk=Файл oamod.yaml в архіві містить помилки:;
+	}
+
+[It holds a file it cannot unpack safely: {name}.]
+	{
+	uk=В архіві є файл, який не можна безпечно розпакувати: {name}.;
+	}
+
+[It holds two names that differ only in case: {name}.]
+	{
+	uk=В архіві є два імені, що відрізняються лише регістром: {name}.;
+	}
+
+[It holds a link to another file: {name}.]
+	{
+	uk=В архіві є посилання на інший файл: {name}.;
+	}
+
+[It holds an encrypted file: {name}.]
+	{
+	uk=В архіві є зашифрований файл: {name}.;
+	}
+
+[It holds a file packed in a way it cannot unpack: {name}. Pack it again with standard (deflate) compression.]
+	{
+	uk=В архіві є файл, стиснутий у непідтримуваний спосіб: {name}. Запакуй його знову зі стандартним стисненням (deflate).;
+	}
+
+[It unpacks to {size}, more than the {limit} a mod may take.]
+	{
+	uk=Після розпакування займає {size}, а мод може займати щонайбільше {limit}.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a mod's files take.]
+	{
+	uk=Після розпакування з {packed} займає {size} — набагато більше, ніж файли будь-якого моду.;
+	}
+
+[It holds more than {limit} folders, more than a mod may take.]
+	{
+	uk=Кількість папок у ньому перевищує дозволені для моду {limit}.;
+	}
+
+[It needs {size} free, and the disk holding your Mods folder has {free}.]
+	{
+	uk=Потрібно {size} вільного місця, а на диску з твоєю папкою Mods вільно {free}.;
+	}
+
+[Its id, {id}, cannot name a folder on Windows.]
+	{
+	uk=Його ідентифікатор {id} не може бути назвою папки у Windows.;
+	}
+
+[Your Mods folder has no free folder name for it.]
+	{
+	uk=У твоїй папці Mods немає вільної назви папки для нього.;
+	}
+
+[Its files could not be put in place. Another program, such as a file sync or a virus scanner, may be using its files; try again in a moment.]
+	{
+	uk=Не вдалося розмістити його файли. Можливо, їх використовує інша програма, наприклад синхронізація файлів чи антивірус. Спробуй ще раз за мить.;
+	}
+
+[Your Mods folder changed while this mod was being installed; nothing was changed. Open the file again.]
+	{
+	uk=Поки встановлювався цей мод, твоя папка Mods змінилася. Нічого не змінено. Відкрий файл знову.;
+	}
+
+[Another copy of Open Annihilation is changing your Mods folder. Try again once it has finished.]
+	{
+	uk=Інша копія Open Annihilation змінює твою папку Mods. Спробуй ще раз, коли вона закінчить.;
+	}
+
+[{file} cannot be installed.]
+	{
+	uk=Неможливо встановити {file}.;
+	}
+
+[And {n} more; the log has them all.]
+	{
+	uk=І ще {n}. Повний список — у журналі.;
+	}
+
+[Nothing was changed.]
+	{
+	uk=Нічого не змінено.;
+	}
+
+[{title} could not be rolled back; nothing was changed.]
+	{
+	uk=Не вдалося відкотити {title}. Нічого не змінено.;
+	}
+
+[{title} {to}, the version kept for ROLL BACK, cannot be played.]
+	{
+	uk={title} {to} (версію, збережену для відкату) неможливо запустити.;
+	}
+
+[the folder you chose]
+	{
+	uk=обрана тобою папка;
+	}
+
+[a file]
+	{
+	uk=файл;
+	}
+
+[Game archives]
+	{
+	uk=Архіви гри;
+	}
+
+[3.1c update]
+	{
+	uk=Оновлення 3.1c;
+	}
+
+[Extra units and maps]
+	{
+	uk=Додаткові підрозділи й мапи;
+	}
+
+[Music]
+	{
+	uk=Музика;
+	}
+
+[Movies]
+	{
+	uk=Відеоролики;
+	}
+
+[Left out]
+	{
+	uk=Пропущено;
+	}
+
+[The Total Annihilation demo (1997)]
+	{
+	uk=Демоверсія Total Annihilation (1997);
+	}
+
+[The demo's unpacked data]
+	{
+	uk=Розпаковані дані демоверсії;
+	}
+
+[Not found]
+	{
+	uk=Не знайдено;
+	}
+
+[not found]
+	{
+	uk=не знайдено;
+	}
+
+[1 file]
+	{
+	uk=1 файл;
+	}
+
+[1 track]
+	{
+	uk=1 трек;
+	}
+
+[optional]
+	{
+	uk=необовʼязково;
+	}
+
+[intro and endings · optional]
+	{
+	uk=вступ і кінцівки · необовʼязково;
+	}
+
+[intro and endings]
+	{
+	uk=вступ і кінцівки;
+	}
+
+[its mod profile cannot be used]
+	{
+	uk=його профіль моду неможливо використати;
+	}
+
+[installer recognised by its size; checked when it is unpacked]
+	{
+	uk=інсталятор розпізнано за розміром, перевірка — під час розпакування;
+	}
+
+[no longer used now that the full game is here]
+	{
+	uk=уже не використовується, бо є повна гра;
+	}
+
+[Recommended]
+	{
+	uk=Рекомендовано;
+	}
+
+[Recommended: shared games with players who have it may not match.]
+	{
+	uk=Рекомендовано: без нього мережеві ігри з гравцями, які його мають, можуть не збігатися.;
+	}
+
+[Shared games need the same files on every machine]
+	{
+	uk=Для мережевих ігор у всіх гравців мають бути однакові файли;
+	}
+
+[Windows program or shortcut]
+	{
+	uk=програма чи ярлик Windows;
+	}
+
+[icon, manual or help file]
+	{
+	uk=значок, посібник або файл довідки;
+	}
+
+[uninstaller]
+	{
+	uk=програма видалення;
+	}
+
+[system file]
+	{
+	uk=системний файл;
+	}
+
+[symbolic link, never followed]
+	{
+	uk=символьне посилання, ігнорується;
+	}
+
+[a name the game cannot use]
+	{
+	uk=імʼя, непридатне для гри;
+	}
+
+[differs only in capital letters]
+	{
+	uk=відрізняється лише регістром літер;
+	}
+
+[left out]
+	{
+	uk=пропущено;
+	}
+
+[Windows programs, shortcuts, icons, manuals and help files]
+	{
+	uk=Програми й ярлики Windows, значки, посібники та файли довідки;
+	}
+
+[This folder does not hold a Total Annihilation installation]
+	{
+	uk=У цій папці немає встановленої гри Total Annihilation;
+	}
+
+[It holds no Total Annihilation archives (.hpi, .ufo, .ccx or rev31.gp3 files) and no installer of the Total Annihilation demo (1997).]
+	{
+	uk=У ній немає архівів Total Annihilation (файлів .hpi, .ufo, .ccx чи rev31.gp3) і немає інсталятора демоверсії Total Annihilation (1997).;
+	}
+
+[Choose the folder that holds totala1.hpi.]
+	{
+	uk=Обери папку, у якій є totala1.hpi.;
+	}
+
+[These files cannot be played]
+	{
+	uk=З цими файлами грати не можна;
+	}
+
+[The folder may be missing totala1.hpi.]
+	{
+	uk=Можливо, у папці бракує totala1.hpi.;
+	}
+
+[This is not the demo's installer]
+	{
+	uk=Це не інсталятор демоверсії;
+	}
+
+[This file]
+	{
+	uk=Цей файл;
+	}
+
+[The copy stopped]
+	{
+	uk=Копіювання зупинилося;
+	}
+
+[The folder can no longer be read]
+	{
+	uk=Папку більше неможливо прочитати;
+	}
+
+[The folder has changed]
+	{
+	uk=Папка змінилася;
+	}
+
+[Is this the right folder?]
+	{
+	uk=Це правильна папка?;
+	}
+
+[No game folder yet]
+	{
+	uk=Папки гри ще немає;
+	}
+
+[Found your files]
+	{
+	uk=Твої файли знайдено;
+	}
+
+[Found game archives]
+	{
+	uk=Знайдено архіви гри;
+	}
+
+[Archives are loose in Open Annihilation's folder. Gather them into Total Annihilation?]
+	{
+	uk=Архіви лежать просто в папці Open Annihilation. Зібрати їх у папку Total Annihilation?;
+	}
+
+[The file picker did not open]
+	{
+	uk=Вікно вибору файлів не відкрилося;
+	}
+
+[The system's file picker could not be opened.]
+	{
+	uk=Не вдалося відкрити системне вікно вибору файлів.;
+	}
+
+[The copy could not start]
+	{
+	uk=Не вдалося почати копіювання;
+	}
+
+[Open Annihilation could not write its own folder.]
+	{
+	uk=Не вдалося записати у власну папку Open Annihilation.;
+	}
+
+[Stop copying?]
+	{
+	uk=Зупинити копіювання?;
+	}
+
+[Replace the game files?]
+	{
+	uk=Замінити ігрові файли?;
+	}
+
+[Nothing in this folder is left out.]
+	{
+	uk=У цій папці нічого не пропущено.;
+	}
+
+[This mod cannot be used]
+	{
+	uk=Цей мод неможливо використати;
+	}
+
+[Its mod profile cannot be used:]
+	{
+	uk=Його профіль моду неможливо використати:;
+	}
+
+[Remove the old folder?]
+	{
+	uk=Видалити стару папку?;
+	}
+
+[Remove the demo's data?]
+	{
+	uk=Видалити дані демоверсії?;
+	}
+
+[this part]
+	{
+	uk=цю частину;
+	}
+
+[The game plays without it.]
+	{
+	uk=Без цього гра працюватиме.;
+	}
+
+[Saved games that use its units cannot be loaded without it, and shared games need the same files on every machine.]
+	{
+	uk=Без цієї частини не завантажаться збережені ігри з її підрозділами, а для мережевих ігор у всіх гравців мають бути однакові файли.;
+	}
+
+[It is removed at the next start of Open Annihilation.]
+	{
+	uk=Буде видалено під час наступного запуску Open Annihilation.;
+	}
+
+[Remove all game files?]
+	{
+	uk=Видалити всі ігрові файли?;
+	}
+
+[Add files]
+	{
+	uk=Додати файли;
+	}
+
+[Expansions, extra maps and mods are added beside what is there; nothing already there is replaced.]
+	{
+	uk=Доповнення, додаткові мапи й моди додаються до наявного. Нічого з того, що вже є, не замінюється.;
+	}
+
+[From the next start]
+	{
+	uk=З наступного запуску;
+	}
+
+[The changes are used from the next start of Open Annihilation.]
+	{
+	uk=Зміни діятимуть з наступного запуску Open Annihilation.;
+	}
+
+[The new game files are used from the next start of Open Annihilation. Adding or removing files waits until then.]
+	{
+	uk=Нові ігрові файли діятимуть з наступного запуску Open Annihilation. Додавати чи видаляти файли можна буде лише тоді.;
+	}
+
+[Copying stopped. Nothing was added.]
+	{
+	uk=Копіювання зупинено. Нічого не додано.;
+	}
+
+[Copying went on while Open Annihilation was away]
+	{
+	uk=Копіювання тривало у фоновому режимі;
+	}
+
+[Copying paused while Open Annihilation was away and has started again]
+	{
+	uk=Копіювання у фоні призупинялося, а тепер відновилося;
+	}
+
+[1 file was added]
+	{
+	uk=Додано 1 файл;
+	}
+
+[Mod: {name}]
+	{
+	uk=Мод: {name};
+	}
+
+[{n} files]
+	{
+	uk=Файлів: {n};
+	}
+
+[{n} tracks]
+	{
+	uk=Треків: {n};
+	}
+
+[{tracks} · optional]
+	{
+	uk={tracks} · необовʼязково;
+	}
+
+[{kinds} · 1 file]
+	{
+	uk={kinds} · 1 файл;
+	}
+
+[{kinds} · {n} files]
+	{
+	uk={kinds} · файлів: {n};
+	}
+
+[at least {size}]
+	{
+	uk=щонайменше {size};
+	}
+
+[{problem} The folder may be missing totala1.hpi.]
+	{
+	uk={problem} Можливо, у папці бракує totala1.hpi.;
+	}
+
+[{file} is not the release of the Total Annihilation demo (1997) that Open Annihilation recognises. Installers of the full game are Windows programs, which Open Annihilation never runs: install the game on a computer, then copy its folder.]
+	{
+	uk={file} — не той випуск демоверсії Total Annihilation (1997), який розпізнає Open Annihilation. Інсталятори повної гри — це програми Windows, які Open Annihilation ніколи не запускає: встанови гру на компʼютері, а потім скопіюй її папку.;
+	}
+
+[Not enough space on this {device}]
+	{
+	uk=Недостатньо місця на цьому {device};
+	}
+
+[These files need {need} and this {device} has {free} free. {advice}, or turn off a part above, then tap Check again.]
+	{
+	uk=Цим файлам потрібно {need}, а на цьому {device} вільно {free}. {advice} або вимкни одну з частин вище, а тоді торкнися «Перевірити ще раз».;
+	}
+
+[This {device} ran out of space]
+	{
+	uk=На цьому {device} закінчилося місце;
+	}
+
+[The copy stopped after {size}. What was copied is kept: free some space, then tap Continue.]
+	{
+	uk=Копіювання зупинилося після {size}. Скопійоване збережено: звільни трохи місця й торкнися «Продовжити».;
+	}
+
+[Open Annihilation could not read {file}. Connect it again and tap Continue. What was copied is kept.]
+	{
+	uk=Open Annihilation не вдалося прочитати {file}. Знову підʼєднай носій і торкнися «Продовжити». Скопійоване збережено.;
+	}
+
+[Open Annihilation could not read {file}: {why}. Connect it again and tap Continue. What was copied is kept.]
+	{
+	uk=Open Annihilation не вдалося прочитати {file}: {why}. Знову підʼєднай носій і торкнися «Продовжити». Скопійоване збережено.;
+	}
+
+[{file} is in {cloud} and could not be downloaded. Connect to the internet and tap Continue.]
+	{
+	uk={file} зберігається в {cloud}, і його не вдалося завантажити. Підʼєднайся до інтернету й торкнися «Продовжити».;
+	}
+
+[{file} is in {cloud} and could not be downloaded: {why}. Connect to the internet and tap Continue.]
+	{
+	uk={file} зберігається в {cloud}, і його не вдалося завантажити: {why}. Підʼєднайся до інтернету й торкнися «Продовжити».;
+	}
+
+[Open Annihilation may no longer read {location}. Choose the folder again to go on; what was copied is kept.]
+	{
+	uk=Можливо, Open Annihilation більше не має доступу до джерела: {location}. Щоб продовжити, обери папку знову — скопійоване збережено.;
+	}
+
+[Some files in {location} changed since the copy began. Files that match are kept; the rest are copied again.]
+	{
+	uk=Деякі файли змінилися після початку копіювання (джерело: {location}). Файли, що збігаються, залишаються, а решту буде скопійовано знову.;
+	}
+
+[This folder holds {size}, far more than a Total Annihilation installation (about 1.1 GB with everything).]
+	{
+	uk=У цій папці {size} — значно більше, ніж займає встановлена Total Annihilation (з усім — близько 1.1 ГБ).;
+	}
+
+[There is no Total Annihilation folder on this {device} yet. {steps} Name it Total Annihilation. Wait until the copy has finished, then tap Check again.]
+	{
+	uk=На цьому {device} ще немає папки Total Annihilation. {steps} Назви її Total Annihilation. Дочекайся кінця копіювання й торкнися «Перевірити ще раз».;
+	}
+
+[Found your files in {folder}. Use that folder?]
+	{
+	uk=Твої файли знайдено в {folder}. Використати цю папку?;
+	}
+
+[The system's file picker could not be opened: {error}.]
+	{
+	uk=Не вдалося відкрити системне вікно вибору файлів: {error}.;
+	}
+
+[Open Annihilation could not write its own folder: {error}.]
+	{
+	uk=Open Annihilation не вдалося записати у власну папку: {error}.;
+	}
+
+[{done} of {total} is copied. Keep it, and choosing the same folder later continues from here.]
+	{
+	uk=Скопійовано {done} з {total}. Залиш скопійоване — і якщо пізніше обереш ту саму папку, копіювання продовжиться з цього місця.;
+	}
+
+[This replaces the game files on this {device} ({size}) with the folder you chose. The current folder is kept as Total Annihilation (old) until you remove it. Saved games and settings stay.]
+	{
+	uk=Ігрові файли на цьому {device} ({size}) буде замінено обраною папкою. Поточна папка залишиться як Total Annihilation (old), доки ти її не видалиш. Збереження й налаштування залишаться.;
+	}
+
+[{kinds} ({size})]
+	{
+	uk={kinds} ({size});
+	}
+
+[Total Annihilation (old) is the folder that was there before ({size}). The game does not use it; removing it frees the space.]
+	{
+	uk=Total Annihilation (old) — це папка, що була тут раніше ({size}). Гра її не використовує — якщо її видалити, місце звільниться.;
+	}
+
+[The demo's unpacked data ({size}) is no longer used.]
+	{
+	uk=Розпаковані дані демоверсії ({size}) більше не використовуються.;
+	}
+
+[Remove {name} ({size})?]
+	{
+	uk=Видалити {name} ({size})?;
+	}
+
+[Remove every game file from this {device} ({size})? Saved games and settings stay. The game cannot start until you add the files again.]
+	{
+	uk=Видалити всі ігрові файли на цьому {device} ({size})? Збереження й налаштування залишаться. Гра не запуститься, доки ти знову не додаси файли.;
+	}
+
+[Copying from {location} stopped at {done} of {total}. Choose the same folder to continue; what was copied is kept.]
+	{
+	uk=Копіювання зупинилося на {done} з {total} (джерело: {location}). Щоб продовжити, обери ту саму папку — скопійоване збережено.;
+	}
+
+[Copying from {location} stopped at {done}. Choose the same folder to continue; what was copied is kept.]
+	{
+	uk=Копіювання зупинилося на {done} (джерело: {location}). Щоб продовжити, обери ту саму папку — скопійоване збережено.;
+	}
+
+[The Total Annihilation folder on this {device} cannot be played.]
+	{
+	uk=Папка Total Annihilation на цьому {device} непридатна для гри.;
+	}
+
+[The Total Annihilation folder on this {device} cannot be played: {problem}]
+	{
+	uk=Папка Total Annihilation на цьому {device} непридатна для гри: {problem};
+	}
+
+[{n} files were added]
+	{
+	uk=Додано файлів: {n};
+	}
+
+[1 file was added from {source}]
+	{
+	uk=Додано 1 файл із {source};
+	}
+
+[{n} files were added from {source}]
+	{
+	uk=З {source} додано файлів: {n};
+	}
+
+[{added}; {name} is there already and was kept.]
+	{
+	uk={added}. Файл {name} уже був і залишився без змін.;
+	}
+
+[{n} more]
+	{
+	uk=ще {n};
+	}
+
+[{added}; {names} are there already and were kept.]
+	{
+	uk={added}. Файли {names} уже були й залишилися без змін.;
+	}
+
+[{added}.]
+	{
+	uk={added}.;
+	}
+
+[{added} The new files are used from the next start of Open Annihilation.]
+	{
+	uk={added} Нові файли діятимуть з наступного запуску Open Annihilation.;
+	}
+
+[{changes} Waiting to be removed: {names}.]
+	{
+	uk={changes} Очікують видалення: {names}.;
+	}
+
+[Choose the game folder]
+	{
+	uk=Обери папку гри;
+	}
+
+[CHOOSE FOLDER]
+	{
+	uk=ОБРАТИ ПАПКУ;
+	}
+
+[Copy it yourself]
+	{
+	uk=Скопіювати самостійно;
+	}
+
+[I HAVE COPIED IT]
+	{
+	uk=УЖЕ СКОПІЙОВАНО;
+	}
+
+[Play the 1997 demo]
+	{
+	uk=Грати в демоверсію 1997 року;
+	}
+
+[CHOOSE INSTALLER]
+	{
+	uk=ОБРАТИ ІНСТАЛЯТОР;
+	}
+
+[WHY]
+	{
+	uk=ЧОМУ;
+	}
+
+[SHOW]
+	{
+	uk=ПОКАЗАТИ;
+	}
+
+[REMOVE]
+	{
+	uk=ВИДАЛИТИ;
+	}
+
+[Add your Total Annihilation files]
+	{
+	uk=Додай свої файли Total Annihilation;
+	}
+
+[You need the folder of an installed copy of Total Annihilation, the one that holds totala1.hpi: about 1.1 GB with both expansions and the music. Installers of the full game are Windows programs and cannot be used here; install the game on a computer and bring its folder.]
+	{
+	uk=Потрібна папка встановленої копії Total Annihilation — та, де лежить totala1.hpi: близько 1.1 ГБ з обома доповненнями й музикою. Інсталятори повної гри — це програми для Windows, і тут їх не використати. Встанови гру на компʼютері й перенеси сюди її папку.;
+	}
+
+[OA settings › Game files manages them later.]
+	{
+	uk=Пізніше ними можна керувати в розділі Налаштування OA › Ігрові файли.;
+	}
+
+[OA settings › Game files adds an expansion or removes the files later.]
+	{
+	uk=Додати доповнення чи видалити файли пізніше можна в розділі Налаштування OA › Ігрові файли.;
+	}
+
+[Looking at the file]
+	{
+	uk=Перегляд файлу;
+	}
+
+[Looking at the folder]
+	{
+	uk=Перегляд папки;
+	}
+
+[Reading names and sizes only: nothing is copied or downloaded yet.]
+	{
+	uk=Читаються лише назви й розміри: поки нічого не копіюється й не завантажується.;
+	}
+
+[A game folder inside]
+	{
+	uk=Усередині — папка гри;
+	}
+
+[a folder]
+	{
+	uk=папка;
+	}
+
+[This folder holds no game archives, but folders inside it do. Choose one.]
+	{
+	uk=У цій папці немає архівів гри, але вони є у вкладених папках. Обери одну з них.;
+	}
+
+[USE THAT FOLDER]
+	{
+	uk=ВИКОРИСТАТИ ЦЮ ПАПКУ;
+	}
+
+[CHOOSE ANOTHER FOLDER]
+	{
+	uk=ОБРАТИ ІНШУ ПАПКУ;
+	}
+
+[This is already the game folder.]
+	{
+	uk=Це вже і є папка гри.;
+	}
+
+[CHECK IT]
+	{
+	uk=ПЕРЕВІРИТИ;
+	}
+
+[Ready to copy]
+	{
+	uk=Готово до копіювання;
+	}
+
+[Checked: the game can start from these files.]
+	{
+	uk=Перевірено: гра може запуститися з цих файлів.;
+	}
+
+[Checked fully once copied.]
+	{
+	uk=Повну перевірку буде виконано після копіювання.;
+	}
+
+[CHOOSE ANOTHER FILE]
+	{
+	uk=ОБРАТИ ІНШИЙ ФАЙЛ;
+	}
+
+[CHECK AGAIN]
+	{
+	uk=ПЕРЕВІРИТИ ЩЕ РАЗ;
+	}
+
+[REPLACE GAME FILES]
+	{
+	uk=ЗАМІНИТИ ІГРОВІ ФАЙЛИ;
+	}
+
+[COPY]
+	{
+	uk=КОПІЮВАТИ;
+	}
+
+[Copying]
+	{
+	uk=Копіювання;
+	}
+
+[STOP]
+	{
+	uk=СТОП;
+	}
+
+[Keep Open Annihilation open until the copy ends. If you leave it, the copy goes on for a short while, then pauses and continues when you come back.]
+	{
+	uk=Не закривай Open Annihilation до кінця копіювання. Якщо вийти з програми, копіювання триватиме ще трохи, потім стане на паузу й продовжиться, коли ти повернешся.;
+	}
+
+[Checking]
+	{
+	uk=Перевірка;
+	}
+
+[Checking the copied files with the game's own check…]
+	{
+	uk=Скопійовані файли перевіряються так, як їх перевіряє сама гра…;
+	}
+
+[Ready to play]
+	{
+	uk=Готово до гри;
+	}
+
+[REMOVE OLD FOLDER]
+	{
+	uk=ВИДАЛИТИ СТАРУ ПАПКУ;
+	}
+
+[DONE]
+	{
+	uk=ГОТОВО;
+	}
+
+[PLAY]
+	{
+	uk=ГРАТИ;
+	}
+
+[ADD FILES…]
+	{
+	uk=ДОДАТИ ФАЙЛИ…;
+	}
+
+[REPLACE THE GAME FILES…]
+	{
+	uk=ЗАМІНИТИ ІГРОВІ ФАЙЛИ…;
+	}
+
+[REMOVE ALL GAME FILES…]
+	{
+	uk=ВИДАЛИТИ ВСІ ІГРОВІ ФАЙЛИ…;
+	}
+
+[Pick the folder that holds totala1.hpi: {places}. It is checked, then copied in.]
+	{
+	uk=Обери папку, де лежить totala1.hpi: {places}. Її буде перевірено, а потім скопійовано.;
+	}
+
+[The folder that holds totala1.hpi: {places}.]
+	{
+	uk=Папка, де лежить totala1.hpi: {places}.;
+	}
+
+[{steps} Name it Total Annihilation.]
+	{
+	uk={steps} Назви її Total Annihilation.;
+	}
+
+[{steps}, named Total Annihilation.]
+	{
+	uk={steps}, під назвою Total Annihilation.;
+	}
+
+[Choose the installer of the Total Annihilation demo (1997). The game recognises it, never runs it, and unpacks its {size} of game data.]
+	{
+	uk=Обери інсталятор демоверсії Total Annihilation (1997). Гра розпізнає його, ніколи не запускає й розпаковує з нього {size} ігрових даних.;
+	}
+
+[The demo's installer: recognised, never run, {size} unpacked.]
+	{
+	uk=Інсталятор демоверсії: розпізнається, не запускається, розпаковується {size}.;
+	}
+
+[Copied onto this {device} once from your own copy. Nothing is downloaded.]
+	{
+	uk=Один раз копіюється з твоєї власної копії й зберігається на цьому {device}. Нічого не завантажується.;
+	}
+
+[Open Annihilation plays the game from your own copy, as it does on a computer. It comes with no game data and downloads nothing: the files are copied onto this {device} once and stay here.]
+	{
+	uk=Open Annihilation запускає гру з твоєї власної копії — так само, як на компʼютері. Ігрових даних у комплекті немає, і нічого не завантажується: файли один раз копіюються й залишаються на цьому {device}.;
+	}
+
+[{size} free on this {device}.]
+	{
+	uk=На цьому {device} вільно {size}.;
+	}
+
+[Looking at {location}…]
+	{
+	uk=Перегляд: {location}…;
+	}
+
+[1 file, {size} so far]
+	{
+	uk=Наразі 1 файл, {size};
+	}
+
+[{n} files, {size} so far]
+	{
+	uk=Наразі файлів: {n}, {size};
+	}
+
+[You chose: {location}]
+	{
+	uk=Обрано: {location};
+	}
+
+[This folder holds no game archives, but {folder} does.]
+	{
+	uk=У цій папці немає архівів гри, але вони є в {folder}.;
+	}
+
+[{warning} Turning off {parts} would make them fit.]
+	{
+	uk={warning} Файли вмістяться, якщо вимкнути: {parts}.;
+	}
+
+[From {location}]
+	{
+	uk=Джерело: {location};
+	}
+
+[{size} is in {cloud} only and is downloaded while copying.]
+	{
+	uk={size} зберігається лише в {cloud} і завантажиться під час копіювання.;
+	}
+
+[Copies at least {size}.]
+	{
+	uk=Буде скопійовано щонайменше {size}.;
+	}
+
+[Copies {size}.]
+	{
+	uk=Буде скопійовано {size}.;
+	}
+
+[Downloading {file} from {cloud}…]
+	{
+	uk=Завантаження {file}, що зберігається в {cloud}…;
+	}
+
+[Unpacking the demo's game data ({size})…]
+	{
+	uk=Розпакування ігрових даних демоверсії ({size})…;
+	}
+
+[Uses {size} on this {device} · {free} free.]
+	{
+	uk=Займає {size} на цьому {device} · вільно {free}.;
+	}
+
+[Uses {size} on this {device}.]
+	{
+	uk=Займає {size} на цьому {device}.;
+	}
+
+[These files are not in this {device}'s backups. Keep your original copy.]
+	{
+	uk=Ці файли на цьому {device} не входять до резервних копій. Збережи свою оригінальну копію.;
+	}
+
+[{file} could not be opened, so the game plays without it: it may be damaged. Copy it again from the original.]
+	{
+	uk=Не вдалося відкрити {file}, тож гра працює без цього файлу: можливо, його пошкоджено. Скопіюй його знову з оригіналу.;
+	}
+
+[The folder that was there before is kept as Total Annihilation (old), {size}.]
+	{
+	uk=Попередню папку збережено як Total Annihilation (old), {size}.;
+	}
+
+[{size} on this {device} · {free} free]
+	{
+	uk={size} на цьому {device} · вільно {free};
+	}
+
+[{size} on this {device}]
+	{
+	uk={size} на цьому {device};
+	}
+
+[working out the time left]
+	{
+	uk=оцінка часу, що залишився;
+	}
+
+[a few seconds left]
+	{
+	uk=ще кілька секунд;
+	}
+
+[about a minute left]
+	{
+	uk=ще близько хвилини;
+	}
+
+[about an hour left]
+	{
+	uk=ще близько години;
+	}
+
+[The Total Annihilation demo (1997).]
+	{
+	uk=Демоверсія Total Annihilation (1997).;
+	}
+
+[extra units and maps]
+	{
+	uk=додаткові підрозділи й мапи;
+	}
+
+[music]
+	{
+	uk=музика;
+	}
+
+[movies]
+	{
+	uk=відеоролики;
+	}
+
+[mods]
+	{
+	uk=моди;
+	}
+
+[1 mod]
+	{
+	uk=1 мод;
+	}
+
+[No game files]
+	{
+	uk=Немає ігрових файлів;
+	}
+
+[{a}, {b}]
+	{
+	uk={a}, {b};
+	}
+
+[{n} byte]
+	{
+	uk={n} Б;
+	}
+
+[{n} bytes]
+	{
+	uk={n} Б;
+	}
+
+[about {n} minutes left]
+	{
+	uk=ще близько {n} хв;
+	}
+
+[about {n} hours left]
+	{
+	uk=ще близько {n} год;
+	}
+
+[{game} with {expansions}, {others}.]
+	{
+	uk={game}, {expansions}, а також {others}.;
+	}
+
+[{game} with {list}.]
+	{
+	uk={game}, а також {list}.;
+	}
+
+[{game}.]
+	{
+	uk={game}.;
+	}
+
+[{n} mods]
+	{
+	uk=модів: {n};
+	}
+
+[ADD THE MISSING FILES]
+	{
+	uk=ДОДАТИ ВІДСУТНІ ФАЙЛИ;
+	}
+
+[BACK]
+	{
+	uk=НАЗАД;
+	}
+
+[CANCEL THE REPLACEMENT]
+	{
+	uk=СКАСУВАТИ ЗАМІНУ;
+	}
+
+[CHANGE WHAT IS COPIED]
+	{
+	uk=ЗМІНИТИ, ЩО КОПІЮВАТИ;
+	}
+
+[CHOOSE A FOLDER]
+	{
+	uk=ОБРАТИ ПАПКУ;
+	}
+
+[CHOOSE ARCHIVES]
+	{
+	uk=ОБРАТИ АРХІВИ;
+	}
+
+[CHOOSE THE DEMO'S INSTALLER]
+	{
+	uk=ОБРАТИ ІНСТАЛЯТОР ДЕМОВЕРСІЇ;
+	}
+
+[CHOOSE THE FOLDER AGAIN]
+	{
+	uk=ОБРАТИ ПАПКУ ЗНОВУ;
+	}
+
+[CONTINUE]
+	{
+	uk=ПРОДОВЖИТИ;
+	}
+
+[COPY ANYWAY]
+	{
+	uk=УСЕ ОДНО КОПІЮВАТИ;
+	}
+
+[DISCARD]
+	{
+	uk=ВІДКИНУТИ;
+	}
+
+[DISCARD WHAT WAS COPIED]
+	{
+	uk=ВІДКИНУТИ СКОПІЙОВАНЕ;
+	}
+
+[GATHER THEM]
+	{
+	uk=ЗІБРАТИ ЇХ;
+	}
+
+[KEEP]
+	{
+	uk=ЗАЛИШИТИ;
+	}
+
+[KEEP COPYING]
+	{
+	uk=ПРОДОВЖИТИ КОПІЮВАННЯ;
+	}
+
+[KEEP WHAT WAS COPIED]
+	{
+	uk=ЗАЛИШИТИ СКОПІЙОВАНЕ;
+	}
+
+[REMOVE ALL]
+	{
+	uk=ВИДАЛИТИ ВСЕ;
+	}
+
+[START AGAIN]
+	{
+	uk=ПОЧАТИ ЗНОВУ;
+	}
+
+[TRY AGAIN]
+	{
+	uk=СПРОБУВАТИ ЩЕ РАЗ;
+	}
+
+[USE IT]
+	{
+	uk=ВИКОРИСТАТИ;
+	}
+
+[Copy your Total Annihilation folder into Open Annihilation's own folder with your file manager.]
+	{
+	uk=Скопіюй свою папку Total Annihilation у власну папку Open Annihilation за допомогою файлового менеджера.;
+	}
+
+[Into Open Annihilation's own folder]
+	{
+	uk=У власну папку Open Annihilation;
+	}
+
+[on this device or anywhere the system's file picker reaches]
+	{
+	uk=на цьому пристрої або будь-де, куди сягає системне вікно вибору файлів;
+	}
+
+[anywhere the file picker reaches]
+	{
+	uk=будь-де, куди сягає вікно вибору файлів;
+	}
+
+[Free up space on this device]
+	{
+	uk=Звільни місце на цьому пристрої;
+	}
+
+[In your file manager: Open Annihilation's own folder › Total Annihilation]
+	{
+	uk=У файловому менеджері: власна папка Open Annihilation › Total Annihilation;
+	}
+
+[the cloud]
+	{
+	uk=хмарі;
+	}
+
+[{a} and {b}]
+	{
+	uk={a} і {b};
+	}
+
+[{a} or {b}]
+	{
+	uk={a} або {b};
+	}
+
+[No folders here.]
+	{
+	uk=Тут немає папок.;
+	}
+
+[Settings were not saved.]
+	{
+	uk=Налаштування не збережено.;
+	}
+
+[That folder cannot be found.]
+	{
+	uk=Цю папку не знайдено.;
+	}
+
+[That folder's oamod.yaml cannot be read.]
+	{
+	uk=Не вдається прочитати oamod.yaml цієї папки.;
+	}
+
+[That folder cannot be played; the log says why.]
+	{
+	uk=Ця папка непридатна для гри — причину вказано в журналі.;
+	}
+
+[Its oamod.yaml cannot be played; the log says why.]
+	{
+	uk=Файл oamod.yaml цієї папки непридатний для гри — причину вказано в журналі.;
+	}
+
+[The graphics card could not be used, so the processor draws the game. You can try it again under Graphics in the OA settings.]
+	{
+	uk=Не вдалося використати відеокарту, тому гру малює процесор. Ти можеш спробувати знову в налаштуваннях OA, у розділі «Графіка».;
+	}
+
+[A graphics driver failed, so the game now uses another one. You can try it again under Graphics in the OA settings.]
+	{
+	uk=Графічний драйвер дав збій, тож гра тепер використовує інший. Ти можеш спробувати його знову в налаштуваннях OA, у розділі «Графіка».;
+	}
+
+[The graphics card could not draw the battlefield, so it only scales it now. You can try Full again under Graphics in the OA settings.]
+	{
+	uk=Відеокарта не змогла намалювати поле бою, тож тепер вона його лише масштабує. Ти можеш знову спробувати режим «Повний» у налаштуваннях OA, у розділі «Графіка».;
+	}
+
+[This game includes no skirmish maps, so skirmish is not available.]
+	{
+	uk=У цій грі немає мап для сутички, тому сутичка недоступна.;
+	}
+
+[This game includes no multiplayer maps, so multiplayer is not available.]
+	{
+	uk=У цій грі немає мап для мережевої гри, тому мережева гра недоступна.;
+	}
+
+[Campaign complete. This game includes no further missions.]
+	{
+	uk=Кампанію завершено. Більше місій у цій грі немає.;
+	}
+
+[{used} · {free} free on this {device}]
+	{
+	uk={used} · вільно {free} на цьому {device};
+	}
+
+[{used} on this {device}]
+	{
+	uk={used} на цьому {device};
+	}
+
+[SAVED GAMES MOVED]
+	{
+	uk=ЗБЕРЕЖЕННЯ ПЕРЕМІЩЕНО;
+	}
+
+[GAME FOLDER FOUND]
+	{
+	uk=ПАПКУ ГРИ ЗНАЙДЕНО;
+	}
+
+[MOD FILES MISSING]
+	{
+	uk=БРАКУЄ ФАЙЛІВ МОДУ;
+	}
+
+[OPEN MOD FOLDER]
+	{
+	uk=ВІДКРИТИ ПАПКУ МОДУ;
+	}
+
+[New saved games go in:]
+	{
+	uk=Нові збереження буде записано в:;
+	}
+
+[Screenshots, films and mods now go in the same Open Annihilation folder.]
+	{
+	uk=Знімки екрана, фільми й моди тепер теж потрапляють у ту саму папку Open Annihilation.;
+	}
+
+[Open Annihilation remembers it for later starts; start it with --choose-game-dir to choose another folder.]
+	{
+	uk=Open Annihilation запамʼятає її для наступних запусків. Щоб обрати іншу папку, запусти Open Annihilation з --choose-game-dir.;
+	}
+
+[None of this mod's units were found.]
+	{
+	uk=Не знайдено жодного підрозділу цього моду.;
+	}
+
+[Its games can't start until the mod's files are added to its folder:]
+	{
+	uk=Ігри з цим модом не запустяться, доки файли моду не буде додано до його папки:;
+	}
+
+[Its games still start. Add the missing files to its folder to show them:]
+	{
+	uk=Ігри з цим модом усе одно запускаються. Додай відсутні файли до його папки, щоб вони зʼявилися:;
+	}
+
+[Income Multipliers]
+	{
+	uk=Множники доходу;
+	}
+
+[Difficulty Names]
+	{
+	uk=Назви рівнів складності;
+	}
+
+[Commander Runs Factories]
+	{
+	uk=Командир керує заводами;
+	}
+
+[Factory Tick Filter]
+	{
+	uk=Фільтр такту заводів;
+	}
+
+[Commander Builder Limit]
+	{
+	uk=Ліміт будівельників для Командира;
+	}
+
+[Commander Keeps Orders When Hit]
+	{
+	uk=Командир зберігає накази під вогнем;
+	}
+
+[Attack Wave Size]
+	{
+	uk=Розмір хвилі атаки;
+	}
+
+[Patrol Group Size]
+	{
+	uk=Розмір патрульної групи;
+	}
+
+[Patrol Edge Fallback]
+	{
+	uk=Патрулювання до краю мапи;
+	}
+
+[Squad Assignment]
+	{
+	uk=Розподіл по загонах;
+	}
+
+[Ignore Submerged Targets]
+	{
+	uk=Ігнорувати занурені цілі;
+	}
+
+[Selective Weapon Use]
+	{
+	uk=Вибіркове застосування зброї;
+	}
+
+[Fire While Building]
+	{
+	uk=Вогонь під час будівництва;
+	}
+
+[Repair Finish Check]
+	{
+	uk=Перевірка завершення ремонту;
+	}
+
+[Reclaim Cursor on Any Unit]
+	{
+	uk=Курсор утилізації над будь-яким підрозділом;
+	}
+
+[Resurrectors Reclaim Wrecks]
+	{
+	uk=Воскресителі утилізують уламки;
+	}
+
+[Build Site Kickout]
+	{
+	uk=Звільнення місця будівництва;
+	}
+
+[Builder Patrol and Guard Options]
+	{
+	uk=Патруль і охорона будівельників;
+	}
+
+[No Repair Retreat]
+	{
+	uk=Без відходу на ремонт;
+	}
+
+[Guard Respects Hold Position]
+	{
+	uk=Охорона з урахуванням «Тримати позицію»;
+	}
+
+[Gunships Hover to Strafe]
+	{
+	uk=Штурмовики зависають для обстрілу;
+	}
+
+[Retarget Out of Range]
+	{
+	uk=Зміна цілі поза дальністю;
+	}
+
+[High-Arc Ballistics]
+	{
+	uk=Навісна балістика;
+	}
+
+[Timed Shell Detonation]
+	{
+	uk=Детонація снарядів за таймером;
+	}
+
+[Vertical Launch Before Turret]
+	{
+	uk=Пріоритет вертикального пуску;
+	}
+
+[Repair Rate]
+	{
+	uk=Швидкість ремонту;
+	}
+
+[Self-Repair by Heal Time]
+	{
+	uk=Саморемонт за часом відновлення;
+	}
+
+[Veterancy Model]
+	{
+	uk=Модель ветеранства;
+	}
+
+[Deterministic Wind]
+	{
+	uk=Детермінований вітер;
+	}
+
+[Statistics Exclude Shared Income]
+	{
+	uk=Статистика без спільного доходу;
+	}
+
+[Allied Line of Sight]
+	{
+	uk=Поле зору союзників;
+	}
+
+[Ignore Allied Jammers]
+	{
+	uk=Ігнорувати глушники союзників;
+	}
+
+[Team Start Positions]
+	{
+	uk=Стартові позиції команд;
+	}
+
+[Map Scripted Units]
+	{
+	uk=Підрозділи зі сценарію мапи;
+	}
+
+[Start with One Human]
+	{
+	uk=Старт з одним гравцем-людиною;
+	}
+
+[Several Local AI Players]
+	{
+	uk=Кілька локальних компʼютерних гравців;
+	}
+
+[AI Player Names]
+	{
+	uk=Імена компʼютерних гравців;
+	}
+
+[Commander Warp]
+	{
+	uk=Телепортація Командира;
+	}
+
+[Prebuilt Base]
+	{
+	uk=Готова база;
+	}
+
+[Team Number Alliances]
+	{
+	uk=Союзи за номером команди;
+	}
+
+[Keep Allied Victory]
+	{
+	uk=Зберігати союзну перемогу;
+	}
+
+[Alliance Menu Everywhere]
+	{
+	uk=Меню союзів усюди;
+	}
+
+[Structure Gift Rate Limit]
+	{
+	uk=Обмеження частоти передачі споруд;
+	}
+
+[Take Waits for Commander Deaths]
+	{
+	uk=Перейняття чекає загибелі Командира;
+	}
+
+[Take and Give Commands]
+	{
+	uk=Команди передачі й перейняття;
+	}
+
+[Unit Slot Reuse Delay]
+	{
+	uk=Затримка повторного використання слота;
+	}
+
+[Ignore Unit 0 Deaths]
+	{
+	uk=Ігнорувати загибель підрозділу 0;
+	}
+
+[Skip Empty Yard Maps]
+	{
+	uk=Пропуск порожніх схем ділянки;
+	}
+
+[Water State Rules]
+	{
+	uk=Правила стану у воді;
+	}
+
+[Placement by Builder]
+	{
+	uk=Розміщення за будівельником;
+	}
+
+[Mobile Unit Yard Maps]
+	{
+	uk=Схеми ділянки мобільних підрозділів;
+	}
+
+[Build Rotation]
+	{
+	uk=Поворот будівель;
+	}
+
+[Cloak After Build]
+	{
+	uk=Маскування після будівництва;
+	}
+
+[AI and Control Cheats]
+	{
+	uk=Чити AI і Control;
+	}
+
+[LOS Type Cheat]
+	{
+	uk=Чит типу поля зору;
+	}
+
+[ATM Amount]
+	{
+	uk=Сума ATM;
+	}
+
+[Key Remaps]
+	{
+	uk=Перепризначення клавіш;
+	}
+
+[Game Speed Range]
+	{
+	uk=Діапазон швидкості гри;
+	}
+
+[Chat Extension Channel]
+	{
+	uk=Канал розширень чату;
+	}
+
+[Version Check]
+	{
+	uk=Перевірка версії;
+	}
+
+[Vote to Remove Players]
+	{
+	uk=Голосування за виключення гравців;
+	}
+
+[Lag Guard]
+	{
+	uk=Захист від затримок;
+	}
+
+[Commander Start Sync]
+	{
+	uk=Синхронізація старту Командира;
+	}
+
+[Keep Remote Player Colours]
+	{
+	uk=Зберігати кольори віддалених гравців;
+	}
+
+[Clear Session Description]
+	{
+	uk=Очищення опису сесії;
+	}
+
+[Host Stays as Watcher]
+	{
+	uk=Хост лишається глядачем;
+	}
+
+[Recorder Session Commands]
+	{
+	uk=Сесійні команди запису;
+	}
+
+[Game Recorder]
+	{
+	uk=Запис ігор;
+	}
+
+[Ten-Player Replay]
+	{
+	uk=Повтор для десяти гравців;
+	}
+
+[Megamap]
+	{
+	uk=Мегамапа;
+	}
+
+[Whiteboard]
+	{
+	uk=Маркерна дошка;
+	}
+
+[Resource Panel]
+	{
+	uk=Панель ресурсів;
+	}
+
+[Camera Sharing]
+	{
+	uk=Спільна камера;
+	}
+
+[Allied Unit Display]
+	{
+	uk=Показ союзних підрозділів;
+	}
+
+[Selection Shortcuts]
+	{
+	uk=Гарячі клавіші виділення;
+	}
+
+[Build Tools]
+	{
+	uk=Інструменти будівництва;
+	}
+
+[Click Snap]
+	{
+	uk=Привʼязка кліку;
+	}
+
+[Build Preview]
+	{
+	uk=Попередній перегляд будівлі;
+	}
+
+[Options Dialog]
+	{
+	uk=Вікно параметрів;
+	}
+
+[Share Dialog and Lobby Buttons]
+	{
+	uk=Вікно обміну й кнопки кімнати бою;
+	}
+
+[Text Rendering]
+	{
+	uk=Відображення тексту;
+	}
+
+[Veterancy Label]
+	{
+	uk=Мітка ветеранства;
+	}
+
+[Map Features Always Drawn]
+	{
+	uk=Обʼєкти мапи видно завжди;
+	}
+
+[Unit Voice Fixes]
+	{
+	uk=Виправлення голосів підрозділів;
+	}
+
+[Effects Tweaks]
+	{
+	uk=Корекція ефектів;
+	}
+
+[Explosion Flash]
+	{
+	uk=Спалах вибуху;
+	}
+
+[Interface Fixes]
+	{
+	uk=Виправлення інтерфейсу;
+	}
+
+[End-of-Game Statistics]
+	{
+	uk=Статистика кінця гри;
+	}
+
+[Audio]
+	{
+	uk=Звук;
+	}
+
+[Display Modes]
+	{
+	uk=Режими екрана;
+	}
+
+[External Exports]
+	{
+	uk=Зовнішній експорт;
+	}
+
+[AI]
+	{
+	uk=ШІ;
+	}
+
+[Aircraft]
+	{
+	uk=Авіація;
+	}
+
+[Console]
+	{
+	uk=Консоль;
+	}
+
+[Economy]
+	{
+	uk=Економіка;
+	}
+
+[Vision and Radar]
+	{
+	uk=Огляд і радари;
+	}
+
+[Network]
+	{
+	uk=Мережа;
+	}
+
+[Orders]
+	{
+	uk=Накази;
+	}
+
+[Recorder]
+	{
+	uk=Запис;
+	}
+
+[Repair]
+	{
+	uk=Ремонт;
+	}
+
+[Game Setup]
+	{
+	uk=Підготовка гри;
+	}
+
+[Sharing]
+	{
+	uk=Обмін;
+	}
+
+[Teams]
+	{
+	uk=Команди;
+	}
+
+[Interface]
+	{
+	uk=Інтерфейс;
+	}
+
+[Units]
+	{
+	uk=Підрозділи;
+	}
+
+[Veterancy]
+	{
+	uk=Ветеранство;
+	}
+
+[Weapons]
+	{
+	uk=Зброя;
+	}
+
+[MOVE]
+	{
+	uk=РУХ;
+	}
+
+[ATTACK]
+	{
+	uk=АТАКА;
+	}
+
+[PATROL]
+	{
+	uk=ПАТРУЛЬ;
+	}
+
+[DEFEND]
+	{
+	uk=ОХОРОНА;
+	}
+
+[BLAST]
+	{
+	uk=D-ГАРМАТА;
+	}
+
+[RECLAIM]
+	{
+	uk=УТИЛІЗАЦІЯ;
+	}
+
+[REPAIR]
+	{
+	uk=РЕМОНТ;
+	}
+
+[CAPTURE]
+	{
+	uk=ЗАХОПЛЕННЯ;
+	}
+
+[LOAD]
+	{
+	uk=НАВАНТАЖИТИ;
+	}
+
+[UNLOAD]
+	{
+	uk=ВИВАНТАЖИТИ;
+	}
+
+[GUARD]
+	{
+	uk=ОХОРОНА;
+	}
+
+[D-GUN]
+	{
+	uk=D-ГАРМАТА;
+	}
+
+[INFO]
+	{
+	uk=ІНФО;
+	}
+
+[TYPE]
+	{
+	uk=ТИП;
+	}
+
+[MOVE: the selection moves to the held point.]
+	{
+	uk=РУХ: виділені підрозділи рухаються до місця натискання.;
+	}
+
+[PATROL: the selection patrols to the held point.]
+	{
+	uk=ПАТРУЛЬ: виділені підрозділи патрулюють до місця натискання.;
+	}
+
+[ATTACK: the selection attacks the unit or ground at the held point.]
+	{
+	uk=АТАКА: виділені підрозділи атакують підрозділ або землю в місці натискання.;
+	}
+
+[D-GUN: the commander fires the D-gun at the held point.]
+	{
+	uk=D-ГАРМАТА: Командир стріляє з D-гармати в місце натискання.;
+	}
+
+[LOAD: the transport loads the unit at the held point.]
+	{
+	uk=НАВАНТАЖИТИ: транспорт навантажує підрозділ у місці натискання.;
+	}
+
+[CAPTURE: the selection captures the unit at the held point.]
+	{
+	uk=ЗАХОПЛЕННЯ: виділені підрозділи захоплюють підрозділ у місці натискання.;
+	}
+
+[STOP: the selection stops at once.]
+	{
+	uk=СТОП: виділені підрозділи негайно зупиняються.;
+	}
+
+[INFO: shows the information of the unit at the held point.]
+	{
+	uk=ІНФО: показує дані про підрозділ у місці натискання.;
+	}
+
+[TYPE: selects every unit of the held unit's type.]
+	{
+	uk=ТИП: виділяє всі підрозділи того ж типу, що й підрозділ у місці натискання.;
+	}
+
+[RECLAIM: the selection reclaims the wreck or unit at the held point.]
+	{
+	uk=УТИЛІЗАЦІЯ: виділені підрозділи утилізують уламки або підрозділ у місці натискання.;
+	}
+
+[REPAIR: the selection repairs or helps build the unit at the held point.]
+	{
+	uk=РЕМОНТ: виділені підрозділи ремонтують підрозділ у місці натискання або допомагають його будувати.;
+	}
+
+[UNLOAD: the transport unloads at the held point.]
+	{
+	uk=ВИВАНТАЖИТИ: транспорт вивантажує підрозділи в місці натискання.;
+	}
+
+[GUARD: the selection guards the unit at the held point.]
+	{
+	uk=ОХОРОНА: виділені підрозділи охороняють підрозділ у місці натискання.;
+	}
+
+[Fire orders: tap to step through Hold fire, Return fire and Fire at will.]
+	{
+	uk=Накази вогню: кожен дотик перемикає «Не стріляти», «Відповідати на вогонь» і «Вогонь за бажанням».;
+	}
+
+[Move orders: tap to step through Hold position, Maneuver and Roam.]
+	{
+	uk=Накази руху: кожен дотик перемикає «Тримати позицію», «Маневрувати» і «Вільний рух».;
+	}
+
+[On/Off: tap to switch the selected units on or off.]
+	{
+	uk=Увімк./Вимк.: торкнися, щоб увімкнути чи вимкнути виділені підрозділи.;
+	}
+
+[CLOAK]
+	{
+	uk=МАСКУВАННЯ;
+	}
+
+[Cloak: tap to turn cloaking on or off; a cloaked unit uses energy.]
+	{
+	uk=Маскування: торкнися, щоб увімкнути чи вимкнути маскування. Замаскований підрозділ витрачає енергію.;
+	}
+
+[ORDERS]
+	{
+	uk=НАКАЗИ;
+	}
+
+[ORDERS: shows the orders page.]
+	{
+	uk=НАКАЗИ: показує сторінку наказів.;
+	}
+
+[BUILD]
+	{
+	uk=БУДУВАННЯ;
+	}
+
+[BUILD: shows the build pages.]
+	{
+	uk=БУДУВАННЯ: показує сторінки будівництва.;
+	}
+
+[PREV]
+	{
+	uk=НАЗАД;
+	}
+
+[PREV: shows the build page before this one.]
+	{
+	uk=НАЗАД: показує попередню сторінку будівництва.;
+	}
+
+[NEXT PAGE]
+	{
+	uk=ДАЛІ;
+	}
+
+[NEXT: shows the build page after this one.]
+	{
+	uk=ДАЛІ: показує наступну сторінку будівництва.;
+	}
+
+[MOVE: tap to arm it, then tap where the selection goes.]
+	{
+	uk=РУХ: торкнися, щоб обрати наказ, потім торкнися місця призначення.;
+	}
+
+[ATTACK: tap to arm it, then tap the unit or ground to fire at.]
+	{
+	uk=АТАКА: торкнися, щоб обрати наказ, потім торкнися цілі — підрозділу чи землі.;
+	}
+
+[PATROL: tap to arm it, then tap the points to patrol between.]
+	{
+	uk=ПАТРУЛЬ: торкнися, щоб обрати наказ, потім торкнися точок маршруту патрулювання.;
+	}
+
+[GUARD: tap to arm it, then tap the unit to guard.]
+	{
+	uk=ОХОРОНА: торкнися, щоб обрати наказ, потім торкнися підрозділу, який треба охороняти.;
+	}
+
+[D-GUN: tap to arm it, then tap where the commander fires it.]
+	{
+	uk=D-ГАРМАТА: торкнися, щоб обрати наказ, потім торкнися місця, куди стрілятиме Командир.;
+	}
+
+[RECLAIM: tap to arm it, then tap the wreck or unit to reclaim.]
+	{
+	uk=УТИЛІЗАЦІЯ: торкнися, щоб обрати наказ, потім торкнися уламків чи підрозділу, які треба утилізувати.;
+	}
+
+[REPAIR: tap to arm it, then tap the unit to repair or help build.]
+	{
+	uk=РЕМОНТ: торкнися, щоб обрати наказ, потім торкнися підрозділу, який треба відремонтувати чи допомогти збудувати.;
+	}
+
+[CAPTURE: tap to arm it, then tap the unit to capture.]
+	{
+	uk=ЗАХОПЛЕННЯ: торкнися, щоб обрати наказ, потім торкнися підрозділу, який треба захопити.;
+	}
+
+[UNLOAD: tap to arm it, then tap where the transport unloads.]
+	{
+	uk=ВИВАНТАЖИТИ: торкнися, щоб обрати наказ, потім торкнися місця, де транспорт вивантажить підрозділи.;
+	}
+
+[LOAD: tap to arm it, then tap the unit to load.]
+	{
+	uk=НАВАНТАЖИТИ: торкнися, щоб обрати наказ, потім торкнися підрозділу, який треба навантажити.;
+	}
+
+[ALL]
+	{
+	uk=УСІ;
+	}
+
+[BUILDERS]
+	{
+	uk=БУДІВЕЛЬНИКИ;
+	}
+
+[FACTORIES]
+	{
+	uk=ЗАВОДИ;
+	}
+
+[AIRCRAFT]
+	{
+	uk=АВІАЦІЯ;
+	}
+
+[ON SCREEN]
+	{
+	uk=НА ЕКРАНІ;
+	}
+
+[COMMANDER]
+	{
+	uk=КОМАНДИР;
+	}
+
+[SAME TYPE]
+	{
+	uk=ТОГО Ж ТИПУ;
+	}
+
+[CENTRE]
+	{
+	uk=ЦЕНТРУВАТИ;
+	}
+
+[FOLLOW]
+	{
+	uk=СТЕЖИТИ;
+	}
+
+[NEXT UNIT]
+	{
+	uk=НАСТУПНИЙ;
+	}
+
+[NEXT REPORT]
+	{
+	uk=НАСТУПНИЙ ЗВІТ;
+	}
+
+[SLOWER]
+	{
+	uk=ПОВІЛЬНІШЕ;
+	}
+
+[FASTER]
+	{
+	uk=ШВИДШЕ;
+	}
+
+[GAME MENU]
+	{
+	uk=МЕНЮ ГРИ;
+	}
+
+[CHAT]
+	{
+	uk=ЧАТ;
+	}
+
+[SELECT]
+	{
+	uk=ВИДІЛИТИ;
+	}
+
+[ASSIST]
+	{
+	uk=ДОПОМОГТИ;
+	}
+
+[PLACE]
+	{
+	uk=РОЗМІСТИТИ;
+	}
+
+[FIRE ORDERS]
+	{
+	uk=НАКАЗИ ВОГНЮ;
+	}
+
+[MOVE ORDERS]
+	{
+	uk=НАКАЗИ РУХУ;
+	}
+
+[ON/OFF]
+	{
+	uk=УВІМК./ВИМК.;
+	}
+
+[SELF-DESTRUCT]
+	{
+	uk=САМОЗНИЩЕННЯ;
+	}
+
+[QUEUE: Shift for orders, building and placement. Tap to latch, hold for one.]
+	{
+	uk=ЧЕРГА: Shift для наказів, будівництва й розміщення. Торкнися, щоб закріпити, або утримуй для однієї дії.;
+	}
+
+[ADD: Shift for selecting, so taps, boxes and groups add to the selection. Tap to latch, hold for one.]
+	{
+	uk=ДОДАТИ: Shift для виділення — дотики, рамки й групи додаються до виділеного. Торкнися, щоб закріпити, або утримуй для однієї дії.;
+	}
+
+[x5: Shift for the build buttons, five at a time. Tap to latch, hold for one.]
+	{
+	uk=x5: Shift для кнопок будівництва — по пʼять за раз. Торкнися, щоб закріпити, або утримуй для однієї дії.;
+	}
+
+[CLEAR: takes back the armed order or the building being placed, else clears the selection.]
+	{
+	uk=СКИНУТИ: скасовує обраний наказ чи розміщення будівлі, а якщо їх немає — знімає виділення.;
+	}
+
+[SELECT: selects all units, builders, factories, aircraft, the units on screen, the commander or the same type.]
+	{
+	uk=ВИДІЛИТИ: виділяє всі підрозділи, будівельників, заводи, авіацію, підрозділи на екрані, Командира чи підрозділи того ж типу.;
+	}
+
+[STORE: stores the selection as the lowest free group.]
+	{
+	uk=ЗАПАМʼЯТАТИ: зберігає виділення у вільну групу з найменшим номером.;
+	}
+
+[Group: tap to select it, tap again to centre on it, hold to store the selection in it.]
+	{
+	uk=Група: торкнися, щоб виділити її, ще раз — щоб центрувати вид на ній, утримуй, щоб запамʼятати в ній виділення.;
+	}
+
+[PAUSE: pauses or resumes the game.]
+	{
+	uk=ПАУЗА: ставить гру на паузу або відновлює її.;
+	}
+
+[SPEED: makes the game slower or faster.]
+	{
+	uk=ШВИДКІСТЬ: сповільнює або прискорює гру.;
+	}
+
+[CHAT: writes a message to the other players.]
+	{
+	uk=ЧАТ: напиши повідомлення іншим гравцям.;
+	}
+
+[CENTRE: centres the view on the selected unit.]
+	{
+	uk=ЦЕНТРУВАТИ: центрує вид на виділеному підрозділі.;
+	}
+
+[FOLLOW: the view follows the selected unit; tap again for the next one.]
+	{
+	uk=СТЕЖИТИ: вид стежить за виділеним підрозділом. Торкнися ще раз, щоб перейти до наступного.;
+	}
+
+[NEXT: centres the view on the next unit not yet visited.]
+	{
+	uk=НАСТУПНИЙ: центрує вид на наступному ще не переглянутому підрозділі.;
+	}
+
+[INFO: shows the selected unit's information.]
+	{
+	uk=ІНФО: показує дані виділеного підрозділу.;
+	}
+
+[MENU: opens the game menu.]
+	{
+	uk=МЕНЮ: відкриває меню гри.;
+	}
+
+[BUILD: opens the builder's build pages, or the orders page for other units.]
+	{
+	uk=БУДУВАННЯ: відкриває сторінки будівництва будівельника, а для інших підрозділів — сторінку наказів.;
+	}
+
+[Zoom out: shows more of the battlefield.]
+	{
+	uk=Віддалити: показує більшу частину поля бою.;
+	}
+
+[Zoom in: shows the battlefield closer.]
+	{
+	uk=Наблизити: показує поле бою ближче.;
+	}
+
+[Order: tap to arm it, then tap where it goes; tap again to take it back.]
+	{
+	uk=Наказ: торкнися, щоб обрати, потім торкнися цілі. Щоб скасувати наказ, торкнися його ще раз.;
+	}
+
+[MORE: the other orders, fire and move orders, on and off, cloak and self-destruct.]
+	{
+	uk=БІЛЬШЕ: інші накази, накази вогню й руху, увімкнення й вимкнення, маскування та самознищення.;
+	}
+
+[BUILD: shows the builder's build pages.]
+	{
+	uk=БУДУВАННЯ: показує сторінки будівництва будівельника.;
+	}
+
+[Closes the build drawer.]
+	{
+	uk=Закриває панель будівництва.;
+	}
+
+[Shows the previous page.]
+	{
+	uk=Показує попередню сторінку.;
+	}
+
+[Shows the next page.]
+	{
+	uk=Показує наступну сторінку.;
+	}
+
+[CANCEL: stops placing the building.]
+	{
+	uk=СКАСУВАТИ: припиняє розміщення будівлі.;
+	}
+
+[Takes back the armed order.]
+	{
+	uk=Скасовує обраний наказ.;
+	}
+
+[Chooses this item.]
+	{
+	uk=Обирає цей пункт.;
+	}
+
+[SELF-DESTRUCT: hold to start or stop the selection's self-destruct countdown.]
+	{
+	uk=САМОЗНИЩЕННЯ: утримуй, щоб запустити або зупинити відлік самознищення виділених підрозділів.;
+	}
+
+[Gives this order at the held point.]
+	{
+	uk=Віддає цей наказ у місці натискання.;
+	}
+
+[QUEUE: the next order picked is queued after the selection's orders.]
+	{
+	uk=ЧЕРГА: наступний обраний наказ стане в чергу після наказів виділених підрозділів.;
+	}
+
+[Closes the open menu.]
+	{
+	uk=Закриває відкрите меню.;
+	}
+
+[FORCE: Ctrl for orders and selecting while held, so a click forces fire on the ground or a friend.]
+	{
+	uk=ПРИМУС: поки утримуєш, це Ctrl для наказів і виділення, тож клік змушує стріляти по землі чи своїх.;
+	}
+
+[Build ring: presses its build button or toggle, or turns the build page.]
+	{
+	uk=Кільце будівництва: натискає свою кнопку будівництва чи перемикач або гортає сторінку будівництва.;
+	}
+
+[Group: select it, again to centre on it, hold to store the selection in it.]
+	{
+	uk=Група: виділи її, ще раз — щоб центрувати вид на ній, утримуй, щоб запамʼятати в ній виділення.;
+	}
+
+[FORCE]
+	{
+	uk=ПРИМУС;
+	}
+
+[QUEUE]
+	{
+	uk=ЧЕРГА;
+	}
+
+[ADD]
+	{
+	uk=ДОДАТИ;
+	}
+
+[CLEAR]
+	{
+	uk=СКИНУТИ;
+	}
+
+[STORE]
+	{
+	uk=ЗАПАМʼЯТАТИ;
+	}
+
+[PAUSE]
+	{
+	uk=ПАУЗА;
+	}
+
+[SPEED]
+	{
+	uk=ШВИДКІСТЬ;
+	}
+
+[MENU]
+	{
+	uk=МЕНЮ;
+	}
+
+[MORE]
+	{
+	uk=БІЛЬШЕ;
+	}
+
+[CLOSE]
+	{
+	uk=ЗАКРИТИ;
+	}
+
+[SELF-DESTRUCT · HOLD]
+	{
+	uk=САМОЗНИЩЕННЯ · УТРИМУЙ;
+	}
+
+[DRAG TO MOVE · DOUBLE-TAP OR HOLD TO PLACE]
+	{
+	uk=ТЯГНИ, ЩОБ ЗСУНУТИ · ТОРКНИСЬ ДВІЧІ АБО УТРИМУЙ, ЩОБ ПОСТАВИТИ;
+	}
+
+[RELEASE]
+	{
+	uk=ВІДПУСТИ;
+	}
+
+[GIVE]
+	{
+	uk=ВИКОНАТИ;
+	}
+
+[ARM ORDER]
+	{
+	uk=ОБРАТИ НАКАЗ;
+	}
+
+[Cross]
+	{
+	uk=Хрестик;
+	}
+
+[Circle]
+	{
+	uk=Коло;
+	}
+
+[Square]
+	{
+	uk=Квадрат;
+	}
+
+[Triangle]
+	{
+	uk=Трикутник;
+	}
+
+[Minus]
+	{
+	uk=Мінус;
+	}
+
+[View]
+	{
+	uk=Перегляд;
+	}
+
+[Plus]
+	{
+	uk=Плюс;
+	}
+
+[Menu]
+	{
+	uk=Меню;
+	}
+
+[D-pad up]
+	{
+	uk=Хрестовина вгору;
+	}
+
+[D-pad right]
+	{
+	uk=Хрестовина вправо;
+	}
+
+[D-pad down]
+	{
+	uk=Хрестовина вниз;
+	}
+
+[D-pad left]
+	{
+	uk=Хрестовина вліво;
+	}
+
+[left trackpad]
+	{
+	uk=лівий трекпад;
+	}
+
+[right trackpad]
+	{
+	uk=правий трекпад;
+	}
+
+[left stick touch]
+	{
+	uk=дотик до лівого стіка;
+	}
+
+[right stick touch]
+	{
+	uk=дотик до правого стіка;
+	}
+
+[1 UNIT]
+	{
+	uk=1 ПІДРОЗДІЛ;
+	}
+
+[LATCHED]
+	{
+	uk=ЗАФІКСОВАНО;
+	}
+
+[Hold to self-destruct]
+	{
+	uk=Утримуй для самознищення;
+	}
+
+[DOUBLE TAP OR HOLD TO BUILD · QUEUE ON]
+	{
+	uk=ТОРКНИСЬ ДВІЧІ АБО УТРИМУЙ, ЩОБ БУДУВАТИ · ЧЕРГА УВІМК.;
+	}
+
+[DOUBLE TAP OR HOLD TO BUILD]
+	{
+	uk=ТОРКНИСЬ ДВІЧІ АБО УТРИМУЙ, ЩОБ БУДУВАТИ;
+	}
+
+[TAP POINTS · QUEUE KEEPS ADDING]
+	{
+	uk=ТОРКАЙСЯ ТОЧОК · ЧЕРГА ПОПОВНЮЄТЬСЯ;
+	}
+
+[TAP A TARGET · ✕ TAKES IT BACK]
+	{
+	uk=ТОРКНИСЬ ЦІЛІ · ✕ СКАСОВУЄ;
+	}
+
+[TAP: {action}]
+	{
+	uk=ДОТИК: {action};
+	}
+
+[ENEMY: {action}]
+	{
+	uk=ВОРОГ: {action};
+	}
+
+[Place {name}]
+	{
+	uk=Розміщення: {name};
+	}
+
+[{order} armed]
+	{
+	uk={order} напоготові;
+	}
+
+[Enable Unicode Multiplayer Chat]
+	{
+	uk=Увімкнути Unicode у мережевому чаті;
+	}
+
+[Set by the language]
+	{
+	uk=Задано мовою;
+	}
+
+// Network play's notices in the message log, with {slots} where the values go.
+[Autopause: only the host can unpause]
+	{
+	uk=Автопауза: зняти паузу може лише хост;
+	}
+[{player} tried to unpause.]
+	{
+	uk={player} намагається зняти паузу.;
+	}
+[{player} has cheats enabled]
+	{
+	uk=У гравця {player} увімкнено чити;
+	}
+[{player} reports VerCheck issues with {count} other players]
+	{
+	uk={player} повідомляє про проблеми VerCheck з іншими гравцями: {count};
+	}
+[Vote: reject {player} ({yes} yes/{no} no/{voters}, {seconds}s)]
+	{
+	uk=Голосування: вилучити {player} ({yes} так/{no} ні/{voters}, {seconds} с);
+	}
+[Timeout: reject {player} ({yes} yes/{no} no/{voters}, {seconds}s)]
+	{
+	uk=Тайм-аут: вилучити {player} ({yes} так/{no} ні/{voters}, {seconds} с);
+	}
+[{player} rejected]
+	{
+	uk=Гравця {player} вилучено;
+	}
+[{player} stays in the game]
+	{
+	uk={player} залишається в грі;
+	}
+[Vote Yes or Vote No in the console answers the vote]
+	{
+	uk=Щоб проголосувати, введи в консолі Vote Yes або Vote No;
+	}
+
+// Whole sentences the engine fills in, with {slots} where the values go.
+[Item {n}]
+	{
+	uk=Пункт {n};
+	}
+[{on} of {total} on]
+	{
+	uk={on} з {total} увімк.;
+	}
+[Show Active Only ({active}/{total})]
+	{
+	uk=Лише увімкнені ({active}/{total});
+	}
+[Switch to {title} now? The game reloads its data for the new mod and returns to the main menu. Your other settings are kept.]
+	{
+	uk=Перейти на {title} зараз? Гра перезавантажить дані для нового моду й повернеться до головного меню. Інші твої налаштування збережуться.;
+	}
+[{n} UNITS]
+	{
+	uk=ПІДРОЗДІЛІВ: {n};
+	}
+
+// The game's title, as the game-files screen and the folder chooser name it.
+[Total Annihilation]
+	{
+	uk=Total Annihilation;
+	}
+[Total Annihilation 3.1c]
+	{
+	uk=Total Annihilation 3.1c;
+	}
+
+// The Library, its update question and why a download fails.
+
+[Library]
+	{
+	uk=Бібліотека;
+	}
+
+[Open Annihilation]
+	{
+	uk=Open Annihilation;
+	}
+
+[list from {age}]
+	{
+	uk=список отримано {age};
+	}
+
+[just now]
+	{
+	uk=щойно;
+	}
+
+[{count} min ago]
+	{
+	uk={count} хв тому;
+	}
+
+[{count} h ago]
+	{
+	uk={count} год тому;
+	}
+
+[{count} days ago]
+	{
+	uk={count} дн. тому;
+	}
+
+[Maps]
+	{
+	uk=Мапи;
+	}
+
+[Languages]
+	{
+	uk=Мови;
+	}
+
+[Lang]
+	{
+	uk=Мови;
+	}
+
+[Updates]
+	{
+	uk=Оновлення;
+	}
+
+[Upd]
+	{
+	uk=Онов.;
+	}
+
+[Search mods, authors, tags]
+	{
+	uk=Пошук модів, авторів, тегів;
+	}
+
+[Search maps, authors, tags]
+	{
+	uk=Пошук мап, авторів, тегів;
+	}
+
+[Search languages]
+	{
+	uk=Пошук мов;
+	}
+
+[Search updates]
+	{
+	uk=Пошук оновлень;
+	}
+
+[All]
+	{
+	uk=Усі;
+	}
+
+[Tag: {tag} ({count})]
+	{
+	uk=Тег: {tag} ({count});
+	}
+
+[{tag} ({count})]
+	{
+	uk={tag} ({count});
+	}
+
+[TAGS]
+	{
+	uk=ТЕГИ;
+	}
+
+[{count} update]
+	{
+	uk={count} оновлення;
+	}
+
+[{count} updates]
+	{
+	uk=Оновлень: {count};
+	}
+
+[UPDATE ALL]
+	{
+	uk=ОНОВИТИ ВСЕ;
+	}
+
+[Showing the list from {age}. OA couldn't reach the registries.]
+	{
+	uk=Показано список, отриманий {age}. OA не вдалося звʼязатися з реєстрами.;
+	}
+
+[Nothing here yet. Turn a registry on in Settings › Downloads.]
+	{
+	uk=Тут поки нічого немає. Увімкни реєстр у розділі Налаштування › Завантаження.;
+	}
+
+[Nothing matches "{query}".]
+	{
+	uk=Нічого не знайдено за запитом «{query}».;
+	}
+
+[No updates.]
+	{
+	uk=Оновлень немає.;
+	}
+
+[Nothing to show.]
+	{
+	uk=Немає чого показати.;
+	}
+
+[GET]
+	{
+	uk=ОТРИМАТИ;
+	}
+
+[INSTALLED]
+	{
+	uk=ВСТАНОВЛЕНО;
+	}
+
+[UPDATE]
+	{
+	uk=ОНОВИТИ;
+	}
+
+[{version} · {size}]
+	{
+	uk={version} · {size};
+	}
+
+[{line} · {registry}]
+	{
+	uk={line} · {registry};
+	}
+
+[{version} · rev {revision}]
+	{
+	uk={version} · рев. {revision};
+	}
+
+[rev {revision}]
+	{
+	uk=рев. {revision};
+	}
+
+[{count} map]
+	{
+	uk={count} мапа;
+	}
+
+[{count} maps]
+	{
+	uk=Мап: {count};
+	}
+
+[{version} · {maps}]
+	{
+	uk={version} · {maps};
+	}
+
+[{whole}.{tenth}]
+	{
+	uk={whole},{tenth};
+	}
+
+[{size} KB]
+	{
+	uk={size} КБ;
+	}
+
+[{size} MB]
+	{
+	uk={size} МБ;
+	}
+
+[{size} GB]
+	{
+	uk={size} ГБ;
+	}
+
+[by {author}]
+	{
+	uk=автор: {author};
+	}
+
+[Not installed · {size}]
+	{
+	uk=Не встановлено · {size};
+	}
+
+[Revision {revision} available · {size} to download]
+	{
+	uk=Доступна ревізія {revision} · {size} для завантаження;
+	}
+
+[Version {version} available · {size} to download]
+	{
+	uk=Доступна версія {version} · {size} для завантаження;
+	}
+
+[Playing]
+	{
+	uk=У грі;
+	}
+
+[Not during a game]
+	{
+	uk=Не під час гри;
+	}
+
+[Downloads from {registry} are off (Settings › Downloads)]
+	{
+	uk=Завантаження з {registry} вимкнено (Налаштування › Завантаження);
+	}
+
+[Needs Open Annihilation {range}]
+	{
+	uk=Потребує Open Annihilation {range};
+	}
+
+[Needs the base game {base}]
+	{
+	uk=Потребує базової гри {base};
+	}
+
+[Needs hacks this OA lacks: {hacks}]
+	{
+	uk=Потребує хаків, яких немає в цій версії OA: {hacks};
+	}
+
+[{hacks} · {count} more]
+	{
+	uk={hacks} · ще {count};
+	}
+
+[Waiting to download]
+	{
+	uk=Очікує завантаження;
+	}
+
+[Downloading · {progress}]
+	{
+	uk=Завантажується · {progress};
+	}
+
+[Downloading]
+	{
+	uk=Завантажується;
+	}
+
+[Verifying]
+	{
+	uk=Перевіряється;
+	}
+
+[Installing]
+	{
+	uk=Встановлюється;
+	}
+
+[Failed]
+	{
+	uk=Помилка;
+	}
+
+[Waiting · finishes when you leave {name}]
+	{
+	uk=Очікує · завершиться, коли вийдеш із {name};
+	}
+
+[Size]
+	{
+	uk=Розмір;
+	}
+
+[{size} · {download} to download]
+	{
+	uk={size} · {download} для завантаження;
+	}
+
+[{download} to download]
+	{
+	uk={download} для завантаження;
+	}
+
+[Base]
+	{
+	uk=Основа;
+	}
+
+[TA 3.1c]
+	{
+	uk=TA 3.1c;
+	}
+
+[Needs]
+	{
+	uk=Потребує;
+	}
+
+[Open Annihilation {range}]
+	{
+	uk=Open Annihilation {range};
+	}
+
+[OA {range}]
+	{
+	uk=OA {range};
+	}
+
+[{version} or later]
+	{
+	uk={version} або новіша;
+	}
+
+[later than {version}]
+	{
+	uk=новіша за {version};
+	}
+
+[{version} or earlier]
+	{
+	uk={version} або старіша;
+	}
+
+[before {version}]
+	{
+	uk=старіша за {version};
+	}
+
+[exactly {version}]
+	{
+	uk=саме {version};
+	}
+
+[{version}+]
+	{
+	uk={version}+;
+	}
+
+[after {version}]
+	{
+	uk=після {version};
+	}
+
+[up to {version}]
+	{
+	uk=до {version};
+	}
+
+[{version} only]
+	{
+	uk=лише {version};
+	}
+
+[Hacks]
+	{
+	uk=Хаки;
+	}
+
+[{game} change the game · {view} view only]
+	{
+	uk=Змінюють гру: {game} · лише вигляд: {view};
+	}
+
+[{game} game · {view} view]
+	{
+	uk=Гра: {game} · вигляд: {view};
+	}
+
+[{counts} · {missing}]
+	{
+	uk={counts} · {missing};
+	}
+
+[{counts} · {count} missing]
+	{
+	uk={counts} · бракує: {count};
+	}
+
+[Rules]
+	{
+	uk=Правила;
+	}
+
+[{from} → {to} same]
+	{
+	uk={from} → {to} без змін;
+	}
+
+[unchanged]
+	{
+	uk=без змін;
+	}
+
+[{from} → {to} · changes the game's rules; saved games from {old} won't load under {new}]
+	{
+	uk={from} → {to} · змінює правила гри — збереження зі старої версії ({old}) не завантажаться в новій ({new});
+	}
+
+[changes · {old} saves won't load]
+	{
+	uk=змінюються · старі збереження ({old}) не завантажаться;
+	}
+
+[unknown · saved games from {old} may not load under {new}]
+	{
+	uk=невідомо · збереження зі старої версії ({old}) можуть не завантажитися в новій ({new});
+	}
+
+[unknown · saves may not load]
+	{
+	uk=невідомо · збереження можуть не завантажитися;
+	}
+
+[revision {revision}]
+	{
+	uk=ревізія {revision};
+	}
+
+[Coverage]
+	{
+	uk=Покриття;
+	}
+
+[{percent}%]
+	{
+	uk={percent}%;
+	}
+
+[From]
+	{
+	uk=Джерело;
+	}
+
+[{registry} · Not reviewed by the OA team]
+	{
+	uk={registry} · Не перевірено командою OA;
+	}
+
+[Your own copy]
+	{
+	uk=Твоя власна копія;
+	}
+
+[✓]
+	{
+	uk=✓;
+	}
+
+[RETRY]
+	{
+	uk=ПОВТОРИТИ;
+	}
+
+[HOMEPAGE]
+	{
+	uk=САЙТ;
+	}
+
+[Finishes when you leave {name}.]
+	{
+	uk=Завершиться, коли вийдеш із {name}.;
+	}
+
+[You are playing {playing}. Updating {name} doesn't restart the game.]
+	{
+	uk=Зараз запущено {playing}. Оновлення {name} не перезапускає гру.;
+	}
+
+[SETTINGS…]
+	{
+	uk=НАЛАШТУВАННЯ…;
+	}
+
+[DETAILS]
+	{
+	uk=ПОДРОБИЦІ;
+	}
+
+[{name} {version}]
+	{
+	uk={name} {version};
+	}
+
+[Downloading {package} · {progress}]
+	{
+	uk=Завантаження {package} · {progress};
+	}
+
+[Downloading {package}]
+	{
+	uk=Завантаження {package};
+	}
+
+[Waiting to download {package}]
+	{
+	uk={package} очікує завантаження;
+	}
+
+[Verifying {name}]
+	{
+	uk=Перевірка {name};
+	}
+
+[Checking {name}]
+	{
+	uk=Перевірка {name};
+	}
+
+[Installing {name}]
+	{
+	uk=Встановлення {name};
+	}
+
+[Installed {name}]
+	{
+	uk=Встановлено {name};
+	}
+
+[Updated {name} · {new} changes the game's rules · ROLL BACK restores {old}]
+	{
+	uk=Оновлено {name} · {new} змінює правила гри · ВІДКОТИТИ поверне попередню версію ({old});
+	}
+
+[Updated {name} · {new} may change the game's rules · ROLL BACK restores {old}]
+	{
+	uk=Оновлено {name} · {new} може змінити правила гри · ВІДКОТИТИ поверне попередню версію ({old});
+	}
+
+[{problem} · RETRY]
+	{
+	uk={problem} · ПОВТОРИТИ;
+	}
+
+[Then {package} · {phase}]
+	{
+	uk=Далі {package} · {phase};
+	}
+
+[{line} · {count} more]
+	{
+	uk={line} · ще {count};
+	}
+
+[waiting]
+	{
+	uk=очікування;
+	}
+
+[downloading]
+	{
+	uk=завантаження;
+	}
+
+[verifying]
+	{
+	uk=перевірка;
+	}
+
+[checking]
+	{
+	uk=перевірка;
+	}
+
+[installing]
+	{
+	uk=встановлення;
+	}
+
+[after you leave it]
+	{
+	uk=коли вийдеш;
+	}
+
+[failed]
+	{
+	uk=помилка;
+	}
+
+[installed]
+	{
+	uk=встановлено;
+	}
+
+[{name} {percent}%]
+	{
+	uk={name} {percent}%;
+	}
+
+[{name} · rules changed]
+	{
+	uk={name} · правила змінено;
+	}
+
+[{name} · {phase}]
+	{
+	uk={name} · {phase};
+	}
+
+[Update {name}]
+	{
+	uk=Оновити {name};
+	}
+
+[Update all]
+	{
+	uk=Оновити все;
+	}
+
+[{name} {version} · revision {from} → {to}]
+	{
+	uk={name} {version} · ревізія {from} → {to};
+	}
+
+[{name} {from} → {to}]
+	{
+	uk={name} {from} → {to};
+	}
+
+[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and ROLL BACK brings it back.]
+	{
+	uk={To} змінює правила гри. Збереження зі старої версії ({from}) не завантажаться в новій ({to}). {From} залишиться, а ВІДКОТИТИ поверне цю версію.;
+	}
+
+[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and ROLL BACK brings it back.]
+	{
+	uk=OA не може визначити, чи змінює {to} правила гри. Якщо так, збереження зі старої версії ({from}) не завантажаться в новій. {From} залишиться, а ВІДКОТИТИ поверне цю версію.;
+	}
+
+[It finishes when you leave {name}.]
+	{
+	uk=Завершиться, коли вийдеш із {name}.;
+	}
+
+[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and ROLL BACK brings it back.]
+	{
+	uk=1 оновлення змінює правила гри: {names}. Збереження з поточної версії не завантажаться в новій. Поточна версія залишиться, а ВІДКОТИТИ поверне її.;
+	}
+
+[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and ROLL BACK brings it back.]
+	{
+	uk=Оновлень, що змінюють правила гри: {count} — {names}. Збереження з їхніх поточних версій не завантажаться в нових. Кожна поточна версія залишиться, а ВІДКОТИТИ поверне її.;
+	}
+
+[{names} and {count} more]
+	{
+	uk={names} і ще {count};
+	}
+
+[{label}: {value}]
+	{
+	uk={label}: {value};
+	}
+
+[{from} → {to}]
+	{
+	uk={from} → {to};
+	}
+
+[unknown]
+	{
+	uk=невідомо;
+	}
+
+[Download]
+	{
+	uk=Завантажити;
+	}
+
+[NOT NOW]
+	{
+	uk=НЕ ЗАРАЗ;
+	}
+
+[the server could not be reached]
+	{
+	uk=не вдалося звʼязатися із сервером;
+	}
+
+[the registry refused the download]
+	{
+	uk=реєстр відмовив у завантаженні;
+	}
+
+[the registry no longer offers this release]
+	{
+	uk=реєстр більше не пропонує цей випуск;
+	}
+
+[downloads are off for this registry]
+	{
+	uk=завантаження з цього реєстру вимкнено;
+	}
+
+[there is not enough free space]
+	{
+	uk=недостатньо вільного місця;
+	}
+
+[the download was not the file the catalogue promised]
+	{
+	uk=завантажений файл не той, що вказано в каталозі;
+	}
+
+[the server's file is not the size the catalogue promised]
+	{
+	uk=розмір файлу на сервері не збігається з указаним у каталозі;
+	}
+
+[the check expired]
+	{
+	uk=термін перевірки минув;
+	}
+
+[the package was refused]
+	{
+	uk=пакет відхилено;
+	}
+
+[the package could not be installed]
+	{
+	uk=не вдалося встановити пакет;
+	}
+
+[the download could not be written]
+	{
+	uk=не вдалося записати завантажений файл;
+	}
+
+[the catalogue has no such package]
+	{
+	uk=у каталозі немає такого пакета;
+	}
+
+[the download could not be started]
+	{
+	uk=не вдалося почати завантаження;
+	}
+
+[downloads are off]
+	{
+	uk=завантаження вимкнено;
+	}
+
+[that package is already being downloaded]
+	{
+	uk=цей пакет уже завантажується;
+	}
+
+// Settings › Downloads, Language and Mods, and the missing-language notice.
+
+[Use English]
+	{
+	uk=Обрати англійську;
+	}
+
+[Try again]
+	{
+	uk=Спробувати ще раз;
+	}
+
+[Downloads]
+	{
+	uk=Завантаження;
+	}
+
+[DOWNLOADS]
+	{
+	uk=ЗАВАНТАЖЕННЯ;
+	}
+
+[The file manager could not open it.]
+	{
+	uk=Файловому менеджеру не вдалося це відкрити.;
+	}
+
+[No file manager is there to open it.]
+	{
+	uk=Немає файлового менеджера, щоб це відкрити.;
+	}
+
+[The folder cannot be made.]
+	{
+	uk=Не вдається створити папку.;
+	}
+
+[AVAILABLE TO DOWNLOAD]
+	{
+	uk=ДОСТУПНО ДЛЯ ЗАВАНТАЖЕННЯ;
+	}
+
+[downloads off]
+	{
+	uk=завантаження вимкнено;
+	}
+
+[not reviewed]
+	{
+	uk=не перевірено;
+	}
+
+[community]
+	{
+	uk=спільнота;
+	}
+
+[kB]
+	{
+	uk=КБ;
+	}
+
+[MB]
+	{
+	uk=МБ;
+	}
+
+[Downloads, then switches to it.]
+	{
+	uk=Спершу завантажиться, потім увімкнеться.;
+	}
+
+[. Choose it again to try again.]
+	{
+	uk=. Обери її ще раз, щоб повторити спробу.;
+	}
+
+[MORE IN THE LIBRARY…]
+	{
+	uk=БІЛЬШЕ В БІБЛІОТЕЦІ…;
+	}
+
+[More languages are in the Library.]
+	{
+	uk=Більше мов — у Бібліотеці.;
+	}
+
+[fps]
+	{
+	uk=к/с;
+	}
+
+[Interface size]
+	{
+	uk=Розмір інтерфейсу;
+	}
+
+[Auto]
+	{
+	uk=Авто;
+	}
+
+[Steam Input]
+	{
+	uk=Steam Input;
+	}
+
+[UI kit gallery]
+	{
+	uk=Галерея інтерфейсу;
+	}
+
+[Every part of OA's own screens, in each of its states, at this size.]
+	{
+	uk=Усі елементи власних екранів OA в усіх їхніх станах, у цьому розмірі.;
+	}
+
+[Check for content updates]
+	{
+	uk=Перевіряти оновлення вмісту;
+	}
+
+[Automatically]
+	{
+	uk=Автоматично;
+	}
+
+[Only when I open the Library]
+	{
+	uk=Лише коли я відкриваю Бібліотеку;
+	}
+
+[Never]
+	{
+	uk=Ніколи;
+	}
+
+[OA looks for new content and updates in the registries' lists. It never installs anything until you say so.]
+	{
+	uk=OA шукає новий вміст і оновлення у списках реєстрів. Нічого не встановлюється, доки ти не скажеш.;
+	}
+
+[Install ID]
+	{
+	uk=Ідентифікатор встановлення;
+	}
+
+[A random number that lets {name} stop automated downloads. Turned off, you can browse the Library, but downloads are off. Installed content keeps working.]
+	{
+	uk=Випадкове число, з яким {name} може зупиняти автоматизовані завантаження. Якщо його вимкнути, Бібліотеку можна переглядати, але завантаження буде вимкнено. Встановлений вміст і далі працюватиме.;
+	}
+
+[Made at your first download]
+	{
+	uk=Створюється під час першого завантаження;
+	}
+
+[RESET]
+	{
+	uk=СКИНУТИ;
+	}
+
+[Downloaded files]
+	{
+	uk=Завантажені файли;
+	}
+
+[Nothing kept]
+	{
+	uk=Нічого не збережено;
+	}
+
+[EMPTY]
+	{
+	uk=ОЧИСТИТИ;
+	}
+
+[Registries]
+	{
+	uk=Реєстри;
+	}
+
+[{name} only]
+	{
+	uk=Лише {name};
+	}
+
+[{n} on of {m}]
+	{
+	uk={n} з {m} увімк.;
+	}
+
+[‹ DOWNLOADS]
+	{
+	uk=‹ ЗАВАНТАЖЕННЯ;
+	}
+
+[Built in]
+	{
+	uk=Вбудовано;
+	}
+
+[{n} package]
+	{
+	uk={n} пакет;
+	}
+
+[{n} packages]
+	{
+	uk=Пакетів: {n};
+	}
+
+[checked {age}]
+	{
+	uk=перевірено {age};
+	}
+
+[not checked yet]
+	{
+	uk=ще не перевірено;
+	}
+
+[couldn't reach]
+	{
+	uk=недоступний;
+	}
+
+[{n} min ago]
+	{
+	uk={n} хв тому;
+	}
+
+[{n} h ago]
+	{
+	uk={n} год тому;
+	}
+
+[1 day ago]
+	{
+	uk=1 день тому;
+	}
+
+[{n} days ago]
+	{
+	uk={n} дн. тому;
+	}
+
+[{n} mirror]
+	{
+	uk={n} дзеркало;
+	}
+
+[{n} mirrors]
+	{
+	uk=дзеркал: {n};
+	}
+
+[UNDO]
+	{
+	uk=ПОВЕРНУТИ;
+	}
+
+[Removed when you press OK]
+	{
+	uk=Буде видалено, коли натиснеш OK;
+	}
+
+[ADD MIRROR…]
+	{
+	uk=ДОДАТИ ДЗЕРКАЛО…;
+	}
+
+[Choose from the main menu.]
+	{
+	uk=Доступно лише в головному меню.;
+	}
+
+[Content from these registries isn't reviewed by the OA team. OA still checks every package before using it.]
+	{
+	uk=Команда OA не перевіряє вміст цих реєстрів. Утім, OA перевіряє кожен пакет перед використанням.;
+	}
+
+[Content from registries other than {names} isn't reviewed by the OA team. OA still checks every package before using it.]
+	{
+	uk=Команда OA не перевіряє вміст реєстрів, крім {names}. Утім, OA перевіряє кожен пакет перед використанням.;
+	}
+
+[ADD REGISTRY…]
+	{
+	uk=ДОДАТИ РЕЄСТР…;
+	}
+
+// The map browser, GET MAP, and the questions that install a map pack or a language.
+
+[MORE MAPS…]
+	{
+	uk=БІЛЬШЕ МАП…;
+	}
+
+[Doesn't fit {game}: {reason}]
+	{
+	uk=Не підходить для {game}: {reason};
+	}
+
+[Skirmish · playing {mod}]
+	{
+	uk=Сутичка · мод {mod};
+	}
+
+[Battle room · playing {mod}]
+	{
+	uk=Кімната бою · мод {mod};
+	}
+
+[Base game]
+	{
+	uk=Базова гра;
+	}
+
+[Online]
+	{
+	uk=Онлайн;
+	}
+
+[PLAYERS]
+	{
+	uk=ГРАВЦІ;
+	}
+
+[2]
+	{
+	uk=2;
+	}
+
+[3]
+	{
+	uk=3;
+	}
+
+[4]
+	{
+	uk=4;
+	}
+
+[5–10]
+	{
+	uk=5–10;
+	}
+
+[SIZE]
+	{
+	uk=РОЗМІР;
+	}
+
+[S]
+	{
+	uk=Мал.;
+	}
+
+[M]
+	{
+	uk=Сер.;
+	}
+
+[L]
+	{
+	uk=Вел.;
+	}
+
+[Search maps]
+	{
+	uk=Пошук мап;
+	}
+
+[Loading preview]
+	{
+	uk=Завантаження мініатюри;
+	}
+
+[No preview]
+	{
+	uk=Немає мініатюри;
+	}
+
+[{players} · {size}]
+	{
+	uk={players} · {size};
+	}
+
+[Doesn't fit]
+	{
+	uk=Не підходить;
+	}
+
+[No map matches these filters]
+	{
+	uk=Немає мап, що відповідають фільтрам;
+	}
+
+[Choose a map]
+	{
+	uk=Обери мапу;
+	}
+
+[1 player]
+	{
+	uk=1 гравець;
+	}
+
+[{count} players]
+	{
+	uk=Гравців: {count};
+	}
+
+[Fits {game} ✓]
+	{
+	uk=Підходить для {game} ✓;
+	}
+
+[Doesn't fit {game}]
+	{
+	uk=Не підходить для {game};
+	}
+
+[Fit with {game} is checked when it's installed]
+	{
+	uk=Сумісність із {game} перевіряється під час встановлення;
+	}
+
+[Its catalogue says it does not fit {game}.]
+	{
+	uk=За даними каталогу, не підходить для {game}.;
+	}
+
+[The map list does not hold this map.]
+	{
+	uk=Цієї мапи немає в списку мап.;
+	}
+
+[The download could not start: {reason}]
+	{
+	uk=Не вдалося почати завантаження: {reason};
+	}
+
+[The pack was not installed: {reason}]
+	{
+	uk=Набір не встановлено: {reason};
+	}
+
+[Cancel]
+	{
+	uk=Скасувати;
+	}
+
+[Select]
+	{
+	uk=Обрати;
+	}
+
+[Download and select]
+	{
+	uk=Завантажити й обрати;
+	}
+
+[Downloading…]
+	{
+	uk=Завантаження…;
+	}
+
+[GET MAP]
+	{
+	uk=ОТРИМАТИ МАПУ;
+	}
+
+[{pack} {version} · {size} from {registry}]
+	{
+	uk={pack} {version} · {size} з {registry};
+	}
+
+[Add {registry} to get {pack}]
+	{
+	uk=Додай {registry}, щоб отримати {pack};
+	}
+
+[You have release {mine} of {pack}; the host plays release {theirs}.]
+	{
+	uk=У тебе випуск {mine} набору {pack}, а в хоста — випуск {theirs}.;
+	}
+
+[The host's release of {pack} is no longer offered by {registry}.]
+	{
+	uk={registry} більше не пропонує випуск {pack}, який використовує хост.;
+	}
+
+[Downloads from {registry} are off (Settings › Downloads).]
+	{
+	uk=Завантаження з {registry} вимкнено (Налаштування › Завантаження).;
+	}
+
+[Downloading {pack} · {done} of {size}]
+	{
+	uk=Завантаження {pack} · {done} з {size};
+	}
+
+[Couldn't get {pack}: {reason}]
+	{
+	uk=Не вдалося отримати {pack}: {reason};
+	}
+
+[NOT INSTALLED]
+	{
+	uk=НЕ ВСТАНОВЛЕНО;
+	}
+
+[{file} is not a package Open Annihilation installs.]
+	{
+	uk={file} — це не пакет, який встановлює Open Annihilation.;
+	}
+
+[Checking {file}...]
+	{
+	uk=Перевірка {file}...;
+	}
+
+[INSTALLING MAP PACK]
+	{
+	uk=ВСТАНОВЛЕННЯ НАБОРУ МАП;
+	}
+
+[INSTALL MAP PACK]
+	{
+	uk=ВСТАНОВИТИ НАБІР МАП;
+	}
+
+[Install the map pack {name} {version} ({n} maps)?]
+	{
+	uk=Встановити набір мап {name} {version} (мап: {n})?;
+	}
+
+[INSTALL]
+	{
+	uk=ВСТАНОВИТИ;
+	}
+
+[UPDATE MAP PACK]
+	{
+	uk=ОНОВИТИ НАБІР МАП;
+	}
+
+[The version installed is kept, and can be brought back.]
+	{
+	uk=Встановлена версія збережеться, її можна буде повернути.;
+	}
+
+[The version kept, which cannot be read, is removed.]
+	{
+	uk=Збережену версію, яку не вдається прочитати, буде видалено.;
+	}
+
+[The version kept ({backup}) is removed.]
+	{
+	uk=Збережену версію ({backup}) буде видалено.;
+	}
+
+[REINSTALL MAP PACK]
+	{
+	uk=ПЕРЕВСТАНОВИТИ НАБІР МАП;
+	}
+
+[The version kept stays.]
+	{
+	uk=Збережена версія залишиться.;
+	}
+
+[REPLACE MAP PACK]
+	{
+	uk=ЗАМІНИТИ НАБІР МАП;
+	}
+
+[Replace {name} from {old} with the one from {new}?]
+	{
+	uk=Замінити {name} з {old} на версію з {new}?;
+	}
+
+[{title} {installed} is installed. Replace it with {incoming} from {file}?]
+	{
+	uk=Встановлено {title} {installed}. Замінити на {incoming} з {file}?;
+	}
+
+[MAP PACK INSTALLED]
+	{
+	uk=НАБІР МАП ВСТАНОВЛЕНО;
+	}
+
+[{title} {version} is installed in your Maps folder:]
+	{
+	uk={title} {version} встановлено у твою папку Maps:;
+	}
+
+[MAP PACK UPDATED]
+	{
+	uk=НАБІР МАП ОНОВЛЕНО;
+	}
+
+[{title} is now {new}. {old} is kept, and can be brought back.]
+	{
+	uk={title} тепер у версії {new}. Версію {old} збережено, її можна повернути.;
+	}
+
+[{title} is back to {new}. {old} is kept, and can be brought back.]
+	{
+	uk={title} повернуто до версії {new}. Версію {old} збережено, її можна повернути.;
+	}
+
+[MAP PACK NOT INSTALLED]
+	{
+	uk=НАБІР МАП НЕ ВСТАНОВЛЕНО;
+	}
+
+[It holds no oamap.yaml at its top, or in a single folder at its top.]
+	{
+	uk=У ньому немає oamap.yaml ні в корені, ні в єдиній папці в корені.;
+	}
+
+[Its oamap.yaml is larger than 256 KiB.]
+	{
+	uk=Його oamap.yaml більший за 256 КіБ.;
+	}
+
+[Its oamap.yaml has errors:]
+	{
+	uk=Його oamap.yaml містить помилки:;
+	}
+
+[It unpacks to {size}, more than the {limit} a map pack may take.]
+	{
+	uk=Після розпакування він займає {size}, а набір мап може займати щонайбільше {limit}.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a map pack's files take.]
+	{
+	uk=Після розпакування з {packed} він займає {size} — набагато більше, ніж потрібно файлам набору мап.;
+	}
+
+[It holds more than {limit} folders, more than a map pack may take.]
+	{
+	uk=Кількість папок у ньому перевищує {limit} — це більше, ніж дозволено набору мап.;
+	}
+
+[It needs {size} free, and the disk holding your Maps folder has {free}.]
+	{
+	uk=Потрібно {size} вільного місця, а на диску з твоєю папкою Maps вільно {free}.;
+	}
+
+[Your Maps folder has no free folder name for it.]
+	{
+	uk=У твоїй папці Maps немає вільної назви папки для нього.;
+	}
+
+[Your Maps folder changed while this map pack was being installed; nothing was changed. Open the file again.]
+	{
+	uk=Твоя папка Maps змінилася під час встановлення цього набору мап. Нічого не змінено. Відкрий файл ще раз.;
+	}
+
+[Another copy of Open Annihilation is changing your Maps folder. Try again once it has finished.]
+	{
+	uk=Інша копія Open Annihilation змінює твою папку Maps. Спробуй ще раз, коли вона закінчить.;
+	}
+
+[It is not a kind of package this game installs.]
+	{
+	uk=Ця гра не встановлює пакети такого типу.;
+	}
+
+[The pack lists {name}, which it does not hold.]
+	{
+	uk=У наборі вказано {name}, але цього файлу в ньому немає.;
+	}
+
+[The pack holds {name}, which no map uses.]
+	{
+	uk=Набір містить {name}, але жодна мапа цей файл не використовує.;
+	}
+
+[The pack holds {name}, which no map uses: it is outside the folders a map pack may hold.]
+	{
+	uk=Набір містить {name}, але жодна мапа цей файл не використовує: він лежить поза папками, дозволеними для набору мап.;
+	}
+
+[The preview {name} is not a PNG.]
+	{
+	uk=Мініатюра {name} не у форматі PNG.;
+	}
+
+[The preview {name} is larger than 2 MiB.]
+	{
+	uk=Мініатюра {name} більша за 2 МіБ.;
+	}
+
+[It needs a different Open Annihilation.]
+	{
+	uk=Йому потрібна інша версія Open Annihilation.;
+	}
+
+[A map in the pack does not fit the base game.]
+	{
+	uk=Одна з мап набору не підходить для базової гри.;
+	}
+
+[The folder {name} does not hold this map pack. It is left as it is.]
+	{
+	uk=Папка {name} не містить цього набору мап. Її залишено як є.;
+	}
+
+[INSTALLING LANGUAGE]
+	{
+	uk=ВСТАНОВЛЕННЯ МОВИ;
+	}
+
+[INSTALL LANGUAGE]
+	{
+	uk=ВСТАНОВИТИ МОВУ;
+	}
+
+[Install the language {endonym} ({english})?]
+	{
+	uk=Встановити мову {endonym} ({english})?;
+	}
+
+[UPDATE LANGUAGE]
+	{
+	uk=ОНОВИТИ МОВУ;
+	}
+
+[REINSTALL LANGUAGE]
+	{
+	uk=ПЕРЕВСТАНОВИТИ МОВУ;
+	}
+
+[REPLACE LANGUAGE]
+	{
+	uk=ЗАМІНИТИ МОВУ;
+	}
+
+[The folder {tag} does not hold this language. Replace it with {endonym} ({english}) from {file}? It is kept, and can be brought back.]
+	{
+	uk=Папка {tag} не містить цієї мови. Замінити її на {endonym} ({english}) з {file}? Папку буде збережено, її можна повернути.;
+	}
+
+[LANGUAGE INSTALLED]
+	{
+	uk=МОВУ ВСТАНОВЛЕНО;
+	}
+
+[{endonym} ({english}) {version} is installed in your Languages folder:]
+	{
+	uk={endonym} ({english}) {version} встановлено у твою папку Languages:;
+	}
+
+[LANGUAGE UPDATED]
+	{
+	uk=МОВУ ОНОВЛЕНО;
+	}
+
+[LANGUAGE NOT INSTALLED]
+	{
+	uk=МОВУ НЕ ВСТАНОВЛЕНО;
+	}
+
+[It holds no language.yaml.]
+	{
+	uk=У ньому немає language.yaml.;
+	}
+
+[Its language.yaml has errors.]
+	{
+	uk=Його language.yaml містить помилки.;
+	}
+
+[It lists a font it does not hold: {name}.]
+	{
+	uk=У ньому вказано шрифт, якого немає в пакеті: {name}.;
+	}
+
+[A font in the pack cannot be opened.]
+	{
+	uk=Не вдається відкрити один зі шрифтів пакета.;
+	}
+
+[Its font {name} cannot be opened.]
+	{
+	uk=Не вдається відкрити його шрифт {name}.;
+	}
+
+[Its warm-up text cannot be read.]
+	{
+	uk=Не вдається прочитати його текст розігріву.;
+	}
+
+[A table in the pack does not parse.]
+	{
+	uk=Не вдається розібрати одну з таблиць пакета.;
+	}
+
+[REPLACE MOD]
+	{
+	uk=ЗАМІНИТИ МОД;
+	}
+
+[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and ROLL BACK brings it back.]
+	{
+	uk=Встановлено {name} з {installed}. Замінити на {name} з {new}? Версія з {installed} залишиться, а ВІДКОТИТИ поверне її.;
+	}
+
+[{folder} is a folder of your own, not {name}. Move or rename it, then RETRY.]
+	{
+	uk={folder} — це твоя власна папка, а не {name}. Перемісти або перейменуй її, а тоді натисни ПОВТОРИТИ.;
+	}
+
+[{n} KB]
+	{
+	uk={n} КБ;
+	}
+
+[{n} MB]
+	{
+	uk={n} МБ;
+	}
+
+[{n} GB]
+	{
+	uk={n} ГБ;
+	}
+
+[{n} TB]
+	{
+	uk={n} ТБ;
+	}
+
+// The game files screen's sizes and parts, and the touch controls' x5.
+
+[Aa]
+	{
+	uk=Аа;
+	}
+
+[Core Contingency]
+	{
+	uk=Core Contingency;
+	}
+
+[Battle Tactics]
+	{
+	uk=Battle Tactics;
+	}
+
+[{source} · {cloud}]
+	{
+	uk={source} · {cloud};
+	}
+
+[x5]
+	{
+	uk=x5;
+	}
+
+[3.1c]
+	{
+	uk=3.1c;
+	}
+
+[{a} · {b}]
+	{
+	uk={a} · {b};
+	}
+
+// More of 0.8's interface words, as oa-tool interface-words lists them.
+
+[,]
+	{
+	uk=,;
+	}
+
+[·]
+	{
+	uk=·;
+	}
+
+[OPEN ANNIHILATION]
+	{
+	uk=OPEN ANNIHILATION;
+	}
+
+[The download failed]
+	{
+	uk=Не вдалося завантажити;
+	}
+
+[Checked against the keys you trust for {name}]
+	{
+	uk=Звіряється з ключами, яким ти довіряєш для {name};
+	}
+
+[Checking {address}…]
+	{
+	uk=Перевірка {address}…;
+	}
+
+[From {file}]
+	{
+	uk=З {file};
+	}
+
+[Mirror of {name}]
+	{
+	uk=Дзеркало {name};
+	}
+
+// The Library's and Settings' later words.
+
+[Welcome to Open Annihilation]
+	{
+	uk=Вітаємо в Open Annihilation;
+	}
+
+[Welcome]
+	{
+	uk=Вітаємо;
+	}
+
+[WELCOME]
+	{
+	uk=ВІТАЄМО;
+	}
+
+[Choose your language.]
+	{
+	uk=Обери свою мову.;
+	}
+
+[Skip setup]
+	{
+	uk=Пропустити налаштування;
+	}
+
+[Start playing]
+	{
+	uk=Почати гру;
+	}
+
+[Back]
+	{
+	uk=Назад;
+	}
+
+[Next]
+	{
+	uk=Далі;
+	}
+
+[Previous]
+	{
+	uk=Попередня;
+	}
+
+[Get]
+	{
+	uk=Отримати;
+	}
+
+[Cancel download]
+	{
+	uk=Скасувати завантаження;
+	}
+
+[Retry]
+	{
+	uk=Повторити;
+	}
+
+[Checking…]
+	{
+	uk=Перевірка…;
+	}
+
+[Couldn't download]
+	{
+	uk=Не вдалося завантажити;
+	}
+
+[Offline]
+	{
+	uk=Офлайн;
+	}
+
+[Active]
+	{
+	uk=Активне;
+	}
+
+[English]
+	{
+	uk=Англійська;
+	}
+
+[of]
+	{
+	uk=з;
+	}
+
+[Other languages download from Core Prime. The first download makes a random install ID, which a later step explains.]
+	{
+	uk=Інші мови завантажуються з Core Prime. Перше завантаження створює випадковий ідентифікатор встановлення — про нього йдеться на одному з наступних кроків.;
+	}
+
+[Downloads are off, so language packs stay offline.]
+	{
+	uk=Завантаження вимкнено, тож мовні пакети з мережі недоступні.;
+	}
+
+[The catalogue could not be read, so language packs stay offline.]
+	{
+	uk=Не вдалося прочитати каталог, тож мовні пакети з мережі недоступні.;
+	}
+
+[ONLINE]
+	{
+	uk=ОНЛАЙН;
+	}
+
+[ONLINE FEATURES]
+	{
+	uk=ОНЛАЙН-ФУНКЦІЇ;
+	}
+
+[Downloads, updates and a number only you hold]
+	{
+	uk=Завантаження, оновлення та число, яке є лише в тебе;
+	}
+
+[Get language packs, mods and map packs from Core Prime.]
+	{
+	uk=Отримуй мовні пакети, моди й набори мап із Core Prime.;
+	}
+
+[Lists of what is new are checked as the game starts and when the Library opens.]
+	{
+	uk=Списки новинок перевіряються під час запуску гри та під час відкриття Бібліотеки.;
+	}
+
+[A random install ID, one per registry, is sent only when downloading from that registry.]
+	{
+	uk=Випадковий ідентифікатор встановлення, окремий для кожного реєстру, надсилається лише під час завантаження з цього реєстру.;
+	}
+
+[Your install ID]
+	{
+	uk=Твій ідентифікатор встановлення;
+	}
+
+[A random 128-bit number, made the first time you download from a registry, not when the game starts. Each registry that asks has its own. Core Prime asks for one. It is sent only when asking that registry for a download. Turning it off forgets it, and downloads from that registry stop. Built-in languages and files you open keep working.]
+	{
+	uk=Випадкове 128-бітне число, яке створюється під час першого завантаження з реєстру, а не під час запуску гри. Кожен реєстр, що його просить, має власне. Core Prime його просить. Воно надсилається лише разом із запитом на завантаження з цього реєстру. Якщо його вимкнути, воно забувається, і завантаження з цього реєстру припиняються. Вбудовані мови та файли, які ти відкриваєш, працюють і далі.;
+	}
+
+[Turn on online features]
+	{
+	uk=Увімкнути онлайн-функції;
+	}
+
+[Not now]
+	{
+	uk=Не зараз;
+	}
+
+[Check for content updates stays at Automatically, and Core Prime's install ID stays on.]
+	{
+	uk=«Перевіряти оновлення вмісту» лишається на значенні «Автоматично», а ідентифікатор встановлення Core Prime лишається увімкненим.;
+	}
+
+[Check for content updates is set to Never, and Core Prime's install ID is turned off.]
+	{
+	uk=«Перевіряти оновлення вмісту» має значення «Ніколи», а ідентифікатор встановлення Core Prime вимкнено.;
+	}
+
+[THE MAIN MENU]
+	{
+	uk=ГОЛОВНЕ МЕНЮ;
+	}
+
+[{step} · {index} OF {count}]
+	{
+	uk={step} · {index} З {count};
+	}
+
+[Two buttons for everything Open Annihilation adds]
+	{
+	uk=Дві кнопки для всього, що додає Open Annihilation;
+	}
+
+[Settings]
+	{
+	uk=Налаштування;
+	}
+
+[Get, update and switch mods, map packs and languages. The number counts every package you have added: mods, map packs, language packs and expansions.]
+	{
+	uk=Отримуй, оновлюй і перемикай моди, набори мап і мови. Число показує всі додані тобою пакети: моди, набори мап, мовні пакети й доповнення.;
+	}
+
+[Open Annihilation's own settings: controls, graphics, the interface's size, downloads and your files.]
+	{
+	uk=Власні налаштування Open Annihilation: керування, графіка, розмір інтерфейсу, завантаження і твої файли.;
+	}
+
+[The Library is where you get mods, map packs and languages. Settings is where you change how Open Annihilation looks and plays. Everything else on this menu is the game's own.]
+	{
+	uk=У Бібліотеці ти отримуєш моди, набори мап і мови. У Налаштуваннях змінюєш вигляд і поведінку Open Annihilation. Решта пунктів цього меню належить самій грі.;
+	}
+
+[Engine Limits]
+	{
+	uk=Обмеження рушія;
+	}
+
+[ENGINE LIMITS]
+	{
+	uk=ОБМЕЖЕННЯ РУШІЯ;
+	}
+
+[Language & Text]
+	{
+	uk=Мова й текст;
+	}
+
+[LANGUAGE & TEXT]
+	{
+	uk=МОВА Й ТЕКСТ;
+	}
+
+[User Interface]
+	{
+	uk=Інтерфейс;
+	}
+
+[USER INTERFACE]
+	{
+	uk=ІНТЕРФЕЙС;
+	}
+
+[System]
+	{
+	uk=Система;
+	}
+
+[SYSTEM]
+	{
+	uk=СИСТЕМА;
+	}
+
+[Welcome setup]
+	{
+	uk=Початкове налаштування;
+	}
+
+[SHOW AGAIN]
+	{
+	uk=ПОКАЗАТИ ЗНОВУ;
+	}
+
+[Walk through the language, online features and the OA buttons again.]
+	{
+	uk=Ще раз пройти кроки: мова, онлайн-функції та кнопки OA.;
+	}
+
+[File Type Registration]
+	{
+	uk=Привʼязка типів файлів;
+	}
+
+[File types]
+	{
+	uk=Типи файлів;
+	}
+
+[Mod packages (.oamod)]
+	{
+	uk=Пакети модів (.oamod);
+	}
+
+[Map packs (.oamap)]
+	{
+	uk=Набори мап (.oamap);
+	}
+
+[Language packs (.oalang)]
+	{
+	uk=Мовні пакети (.oalang);
+	}
+
+[Registry files (.oareg)]
+	{
+	uk=Файли реєстрів (.oareg);
+	}
+
+[The system takes these file types from the app.]
+	{
+	uk=Ці типи файлів система бере з опису самої програми.;
+	}
+
+[and]
+	{
+	uk=та;
+	}
+
+[macOS kept Open Annihilation as the opener of {types}. To choose another, select a {types} file in Finder, then File › Get Info › Open with › Change All.]
+	{
+	uk=macOS залишила Open Annihilation програмою для відкриття файлів {types}. Щоб обрати іншу, виділи файл {types} у Finder, а тоді «Файл» › «Отримати інформацію» › «Відкрити за допомогою» › «Змінити все».;
+	}
+
+[macOS kept Open Annihilation as the opener of {types}. To choose another, select one of them in Finder, then File › Get Info › Open with › Change All.]
+	{
+	uk=macOS залишила Open Annihilation програмою для відкриття файлів {types}. Щоб обрати іншу, виділи один із таких файлів у Finder, а тоді «Файл» › «Отримати інформацію» › «Відкрити за допомогою» › «Змінити все».;
+	}
+
+[This system reads HTTPS registries over HTTP.]
+	{
+	uk=Ця система читає HTTPS-реєстри через HTTP.;
+	}
+
+[REGISTRIES IN THE LIBRARY…]
+	{
+	uk=РЕЄСТРИ В БІБЛІОТЕЦІ…;
+	}
+
+[Registries are in the Library.]
+	{
+	uk=Реєстри тепер у Бібліотеці.;
+	}
+
+[MOD]
+	{
+	uk=МОД;
+	}
+
+[MAPS]
+	{
+	uk=МАПИ;
+	}
+
+[SWITCH OFF]
+	{
+	uk=ВИМКНУТИ;
+	}
+
+[UNLOAD MOD]
+	{
+	uk=ВИМКНУТИ МОД;
+	}
+
+[UNINSTALL]
+	{
+	uk=ВИДАЛИТИ;
+	}
+
+[{language} · built in]
+	{
+	uk={language} · вбудована;
+	}
+
+[Coverage {percent}%]
+	{
+	uk=Перекладено {percent}%;
+	}
+
+[From {pack}]
+	{
+	uk=З набору {pack};
+	}
+
+[{count} player]
+	{
+	uk=Гравців: {count};
+	}
+
+[{map} · {players} · {size}]
+	{
+	uk={map} · {players} · {size};
+	}
+
+[No map packs are installed.]
+	{
+	uk=Набори мап не встановлено.;
+	}
+
+[New]
+	{
+	uk=Нові;
+	}
+
+[{filter} ({count})]
+	{
+	uk={filter} ({count});
+	}
+
+[{tab} ({count})]
+	{
+	uk={tab} ({count});
+	}
+
+[Author]
+	{
+	uk=Автор;
+	}
+
+[Latest]
+	{
+	uk=Найновіша;
+	}
+
+[{version} (rev {revision})]
+	{
+	uk={version} (рев. {revision});
+	}
+
+[Update available · {size} to download]
+	{
+	uk=Є оновлення · {size} для завантаження;
+	}
+
+[the old copy]
+	{
+	uk=стара копія;
+	}
+
+[the new copy]
+	{
+	uk=нова копія;
+	}
+
+[old]
+	{
+	uk=стара;
+	}
+
+[new]
+	{
+	uk=нова;
+	}
+
+[offline]
+	{
+	uk=офлайн;
+	}
+
+[Platform]
+	{
+	uk=Платформа;
+	}
+
+[Reg]
+	{
+	uk=Реєстри;
+	}
+
+[Refresh]
+	{
+	uk=Оновити список;
+	}
+
+[Refreshing]
+	{
+	uk=Оновлення списку;
+	}
+
+[REFRESH]
+	{
+	uk=ОНОВИТИ;
+	}
+
+[refreshed {age}]
+	{
+	uk=оновлено {age};
+	}
+
+[never refreshed]
+	{
+	uk=ще не оновлювався;
+	}
+
+[Signing key]
+	{
+	uk=Ключ підпису;
+	}
+
+[Signing keys]
+	{
+	uk=Ключі підпису;
+	}
+
+[built in]
+	{
+	uk=вбудований;
+	}
+
+[added by you]
+	{
+	uk=доданий тобою;
+	}
+
+[No signing key]
+	{
+	uk=Немає ключа підпису;
+	}
+
+[Map packs can't be uninstalled during a game.]
+	{
+	uk=Під час гри не можна видаляти набори мап.;
+	}
+
+[It is in the download queue: CANCEL it before you uninstall it.]
+	{
+	uk=Пакет стоїть у черзі завантаження: спершу натисни СКАСУВАТИ, а потім видаляй.;
+	}
+
+[Uninstall {name}]
+	{
+	uk=Видалити {name};
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed.]
+	{
+	uk=Видалити {name}? Буде видалено папку {folder}.;
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy ROLL BACK keeps.]
+	{
+	uk=Видалити {name}? Буде видалено папку {folder}, а з нею й копію, яку зберігає ВІДКОТИТИ.;
+	}
+
+[GET installs it again.]
+	{
+	uk=Кнопка ОТРИМАТИ встановить його знову.;
+	}
+
+[No registry lists it, so the Library cannot get it again.]
+	{
+	uk=Його немає в жодному реєстрі, тож Бібліотека не зможе отримати його знову.;
+	}
+
+[You are playing {name}. Switch it off first with SWITCH OFF, then uninstall it.]
+	{
+	uk=Ти граєш із модом {name}. Спершу вимкни його кнопкою ВИМКНУТИ, а потім видаляй.;
+	}
+
+[The game is shown in {name}. Choose another language in Settings › Language first, then uninstall it.]
+	{
+	uk=Мова гри зараз — {name}. Спершу обери іншу мову в Налаштування › Мова, а потім видаляй.;
+	}
+
+[{name} was not uninstalled. {reason}]
+	{
+	uk={name} не видалено. {reason};
+	}
+
+[Open Annihilation, or another copy of it, is still changing its folder. Try again in a moment.]
+	{
+	uk=Open Annihilation або інша копія програми ще змінює цю папку. Спробуй ще раз за мить.;
+	}
+
+[Its folder changed since the Library listed it. Try again.]
+	{
+	uk=Папка змінилася відтоді, як Бібліотека склала список. Спробуй ще раз.;
+	}
+
+[Its folder is a link, and OA never removes what a link leads to. OPEN FOLDER shows it.]
+	{
+	uk=Папка є посиланням, а OA ніколи не видаляє те, на що веде посилання. Кнопка ПАПКА покаже її.;
+	}
+
+[Its folder is not in your own Open Annihilation folder, and OA removes nothing outside it.]
+	{
+	uk=Папка лежить поза твоєю папкою Open Annihilation, а OA нічого не видаляє поза нею.;
+	}
+
+[Its folder could not be moved; another program may be using it. Close it, then try again.]
+	{
+	uk=Не вдалося перемістити папку — можливо, її використовує інша програма. Закрий ту програму й спробуй ще раз.;
+	}
+
+[The version installed is kept, and ROLL BACK in the Library brings it back.]
+	{
+	uk=Встановлена версія зберігається, і кнопка ВІДКОТИТИ в Бібліотеці поверне її.;
+	}
+
+[Revision {installed} is kept, and ROLL BACK in the Library brings it back.]
+	{
+	uk=Ревізія {installed} зберігається, і кнопка ВІДКОТИТИ в Бібліотеці поверне її.;
+	}
+
+[Replacing keeps {installed}, and ROLL BACK in the Library brings it back.]
+	{
+	uk=Під час заміни {installed} зберігається, і кнопка ВІДКОТИТИ в Бібліотеці поверне попередню версію.;
+	}
+
+[Choose PLAY NOW to play it, or choose it later with PLAY NOW in the Library.]
+	{
+	uk=Натисни ГРАТИ ЗАРАЗ, щоб почати гру, або обери його пізніше кнопкою ГРАТИ ЗАРАЗ у Бібліотеці.;
+	}
+
+[Choose it with PLAY NOW in the Library to play it.]
+	{
+	uk=Щоб грати, обери його кнопкою ГРАТИ ЗАРАЗ у Бібліотеці.;
+	}
+
+[{title} is now {new}. {old} is kept, and ROLL BACK in the Library brings it back.]
+	{
+	uk=Тепер {title} — {new}. {old} зберігається, і кнопка ВІДКОТИТИ в Бібліотеці поверне попередню версію.;
+	}
+
+[It is still copied, so it can be fixed in your file manager; the Library's Mods tab plays only mods that work.]
+	{
+	uk=Його все одно скопійовано, щоб його можна було виправити у файловому менеджері. Вкладка «Моди» в Бібліотеці запускає лише справні моди.;
+	}
+
+[Built into the game]
+	{
+	uk=Вбудована в гру;
+	}
+
+[Close]
+	{
+	uk=Закрити;
+	}
+
+[In use]
+	{
+	uk=Обрано;
+	}
+
+[No installed map matches.]
+	{
+	uk=Жодна встановлена мапа не підходить.;
+	}
+
+[USE NOW]
+	{
+	uk=ОБРАТИ;
+	}
+
+[{shown} of {all}]
+	{
+	uk={shown} з {all};
+	}
+
+// Setup, Game Content, the map browser, expansions and more Settings
+// rows.
+
+["{title}" was saved with {name}, which is off.]
+	{
+	uk=Гру «{title}» збережено з {name}, а зараз його вимкнено.;
+	}
+
+["{title}" was saved with {name}.]
+	{
+	uk=Гру «{title}» збережено з {name}.;
+	}
+
+[1 file differs]
+	{
+	uk=Відрізняється 1 файл;
+	}
+
+[1 of {total} files differs]
+	{
+	uk=Відрізняється 1 файл із {total};
+	}
+
+[1997]
+	{
+	uk=1997;
+	}
+
+[A]
+	{
+	uk=A;
+	}
+
+[A continues. B goes back.]
+	{
+	uk=A — далі. B — назад.;
+	}
+
+[A drag draws a selection box; two fingers scroll the map.]
+	{
+	uk=Перетягування малює рамку виділення, а два пальці прокручують мапу.;
+	}
+
+[A drag scrolls the map; hold, then drag, for a selection box.]
+	{
+	uk=Перетягування прокручує мапу. Для рамки виділення утримуй палець, а потім тягни.;
+	}
+
+[A middle click pans the view towards the pointer until you click or press a key.]
+	{
+	uk=Клік середньою кнопкою рухає камеру в бік вказівника, доки ти не клацнеш або не натиснеш клавішу.;
+	}
+
+[A tapped QUEUE, ADD or x5 stays on until it is tapped again.]
+	{
+	uk=Натиснуті ЧЕРГА, ДОДАТИ чи x5 лишаються увімкненими, доки їх не натиснути знову.;
+	}
+
+[A tapped QUEUE, ADD or x5 turns off after the next order or selection.]
+	{
+	uk=Натиснуті ЧЕРГА, ДОДАТИ чи x5 вимикаються після наступного наказу або виділення.;
+	}
+
+[A window hides its title bar and borders while a game is played; menus show them.]
+	{
+	uk=Під час гри вікно ховає заголовок і рамку, а в меню вони видимі.;
+	}
+
+[A window shows its title bar and borders on every screen, a game's included.]
+	{
+	uk=Вікно показує заголовок і рамку на всіх екранах, зокрема й під час гри.;
+	}
+
+[After restoring this {device} from a backup, add the game files again.]
+	{
+	uk=Якщо ти відновиш дані на цьому {device} з резервної копії, знову додай ігрові файли.;
+	}
+
+[All files match]
+	{
+	uk=Усі файли збігаються;
+	}
+
+[Any]
+	{
+	uk=Усі;
+	}
+
+[Applications]
+	{
+	uk=Програми;
+	}
+
+[As far as the view always went: 1/6 of normal size with Full hardware acceleration, else 1/2.]
+	{
+	uk=Як завжди було в грі: 1/6 звичайного розміру у режимі апаратного прискорення «Повний», інакше 1/2.;
+	}
+
+[Automatic: a selection box on a tablet, scrolling on a phone.]
+	{
+	uk=Автоматично: рамка виділення на планшеті, прокрутка на телефоні.;
+	}
+
+[B]
+	{
+	uk=B;
+	}
+
+[BASE GAME]
+	{
+	uk=БАЗОВА ГРА;
+	}
+
+[Battle room · No Mod]
+	{
+	uk=Кімната бою · Без моду;
+	}
+
+[Bottles]
+	{
+	uk=Bottles;
+	}
+
+[CHANGE…]
+	{
+	uk=ЗМІНИТИ…;
+	}
+
+[COPYING]
+	{
+	uk=КОПІЮВАННЯ;
+	}
+
+[Campaign]
+	{
+	uk=Кампанія;
+	}
+
+[Cavedog tilesets]
+	{
+	uk=Набори тайлів Cavedog;
+	}
+
+[Cavedog units]
+	{
+	uk=Підрозділи Cavedog;
+	}
+
+[Chat in any language with players who have it; others see ? for letters they lack.]
+	{
+	uk=Спілкуйся в чаті будь-якою мовою з гравцями, у яких це ввімкнено. Інші бачитимуть ? замість літер, яких у них немає.;
+	}
+
+[Check again]
+	{
+	uk=Перевірити ще раз;
+	}
+
+[Checking… {percent}%]
+	{
+	uk=Перевірка… {percent}%;
+	}
+
+[Choosing another base game turns on all of its expansions and unloads the mod you are playing ({mod}). The change applies when the Library closes.]
+	{
+	uk=Вибір іншої базової гри вмикає всі її доповнення й вимикає мод, з яким ти граєш ({mod}). Зміна набуде чинності після закриття Бібліотеки.;
+	}
+
+[Choosing another base game turns on all of its expansions. The change applies when the Library closes.]
+	{
+	uk=Вибір іншої базової гри вмикає всі її доповнення. Зміна набуде чинності після закриття Бібліотеки.;
+	}
+
+[Choosing it asks for the demo installer, then copies it. It takes no expansions.]
+	{
+	uk=Після вибору треба буде вказати інсталятор демоверсії, і її буде скопійовано. Доповнення з нею не працюють.;
+	}
+
+[Choosing it asks for the game, then copies it.]
+	{
+	uk=Після вибору треба буде вказати гру, і її буде скопійовано.;
+	}
+
+[Continue]
+	{
+	uk=Продовжити;
+	}
+
+[Copied]
+	{
+	uk=Скопійовано;
+	}
+
+[Copied from {source}]
+	{
+	uk=Скопійовано з {source};
+	}
+
+[Copies go to Documents › Open Annihilation]
+	{
+	uk=Копії зберігаються в папці Документи › Open Annihilation;
+	}
+
+[Copy again from…]
+	{
+	uk=Скопіювати знову з…;
+	}
+
+[Copy the game]
+	{
+	uk=Скопіювати гру;
+	}
+
+[Copying Total Annihilation]
+	{
+	uk=Копіювання Total Annihilation;
+	}
+
+[DETAILS…]
+	{
+	uk=ПОДРОБИЦІ…;
+	}
+
+[Demo]
+	{
+	uk=Демоверсія;
+	}
+
+[Different from the host: a file does not match.]
+	{
+	uk=Відмінність від хоста: один файл не збігається.;
+	}
+
+[Different from the host: another base game ({name}).]
+	{
+	uk=Відмінність від хоста: інша базова гра ({name}).;
+	}
+
+[Different from the host: no {name}.]
+	{
+	uk=Відмінність від хоста: немає {name}.;
+	}
+
+[Different from the host: {name} is on.]
+	{
+	uk=Відмінність від хоста: {name} увімкнено.;
+	}
+
+[Documents]
+	{
+	uk=Документи;
+	}
+
+[Dots farther out than 1/12 of normal size. Closer in, units are drawn as models.]
+	{
+	uk=Точки, коли масштаб менший за 1/12 звичайного. Ближче підрозділи малюються моделями.;
+	}
+
+[Dots farther out than 1/16 of normal size. Closer in, units are drawn as models.]
+	{
+	uk=Точки, коли масштаб менший за 1/16 звичайного. Ближче підрозділи малюються моделями.;
+	}
+
+[Dots farther out than 1/2 of normal size. Closer in, units are drawn as models.]
+	{
+	uk=Точки, коли масштаб менший за 1/2 звичайного. Ближче підрозділи малюються моделями.;
+	}
+
+[Dots farther out than 1/3 of normal size. Closer in, units are drawn as models.]
+	{
+	uk=Точки, коли масштаб менший за 1/3 звичайного. Ближче підрозділи малюються моделями.;
+	}
+
+[Dots farther out than 1/4 of normal size. Closer in, units are drawn as models.]
+	{
+	uk=Точки, коли масштаб менший за 1/4 звичайного. Ближче підрозділи малюються моделями.;
+	}
+
+[Dots farther out than 1/6 of normal size. Closer in, units are drawn as models.]
+	{
+	uk=Точки, коли масштаб менший за 1/6 звичайного. Ближче підрозділи малюються моделями.;
+	}
+
+[Dots farther out than 1/8 of normal size. Closer in, units are drawn as models.]
+	{
+	uk=Точки, коли масштаб менший за 1/8 звичайного. Ближче підрозділи малюються моделями.;
+	}
+
+[Downloaded]
+	{
+	uk=Завантажено;
+	}
+
+[EXPANSION INSTALLED]
+	{
+	uk=ДОПОВНЕННЯ ВСТАНОВЛЕНО;
+	}
+
+[EXPANSION NOT INSTALLED]
+	{
+	uk=ДОПОВНЕННЯ НЕ ВСТАНОВЛЕНО;
+	}
+
+[EXPANSIONS]
+	{
+	uk=ДОПОВНЕННЯ;
+	}
+
+[EXPANSIONS · {on} OF {count} ON]
+	{
+	uk=ДОПОВНЕННЯ · УВІМКНЕНО {on} З {count};
+	}
+
+[Expansions]
+	{
+	uk=Доповнення;
+	}
+
+[Explosions do not light up the ground, whatever a mod asks for.]
+	{
+	uk=Вибухи не освітлюють землю, хоч би чого вимагав мод.;
+	}
+
+[Explosions light up the ground as the game drew it, or less where a mod asks.]
+	{
+	uk=Вибухи освітлюють землю, як у самій грі, або слабше, якщо цього просить мод.;
+	}
+
+[Explosions light up the ground at half strength, or less where a mod asks.]
+	{
+	uk=Вибухи освітлюють землю на половину сили або ще слабше, якщо цього просить мод.;
+	}
+
+[FOUND]
+	{
+	uk=ЗНАЙДЕНО;
+	}
+
+[Files that differ:]
+	{
+	uk=Відмінні файли:;
+	}
+
+[Filter]
+	{
+	uk=Фільтр;
+	}
+
+[Finder's Get Info › Open with chooses another opener.]
+	{
+	uk=Іншу програму для відкриття можна обрати у Finder: «Отримати інформацію» › «Відкрити за допомогою».;
+	}
+
+[For the Total Annihilation demo only]
+	{
+	uk=Лише для демоверсії Total Annihilation;
+	}
+
+[For {name} only]
+	{
+	uk=Лише для {name};
+	}
+
+[Free]
+	{
+	uk=Вільно;
+	}
+
+[From {place}…]
+	{
+	uk=З {place}…;
+	}
+
+[Full screen at this size, or a window of it. Applies when you press OK.]
+	{
+	uk=Повноекранний режим із цим розміром або вікно такого розміру. Діє після натискання OK.;
+	}
+
+[GAME CONTENT]
+	{
+	uk=ВМІСТ ГРИ;
+	}
+
+[GAMES]
+	{
+	uk=ІГРИ;
+	}
+
+[GAMES ON THIS DECK]
+	{
+	uk=ІГРИ НА ЦЬОМУ DECK;
+	}
+
+[GOG installer (Windows)]
+	{
+	uk=Інсталятор GOG (Windows);
+	}
+
+[GOG installer (macOS)]
+	{
+	uk=Інсталятор GOG (macOS);
+	}
+
+[GOG installer (older Macs)]
+	{
+	uk=Інсталятор GOG (старіші Mac);
+	}
+
+[GOG installer for Windows]
+	{
+	uk=Інсталятор GOG для Windows;
+	}
+
+[GOG installer for macOS]
+	{
+	uk=Інсталятор GOG для macOS;
+	}
+
+[GOG installer for older Macs]
+	{
+	uk=Інсталятор GOG для старіших Mac;
+	}
+
+[Game]
+	{
+	uk=Гра;
+	}
+
+[Game Content]
+	{
+	uk=Вміст гри;
+	}
+
+[Game content]
+	{
+	uk=Вміст гри;
+	}
+
+[Games]
+	{
+	uk=Ігри;
+	}
+
+[Heroic]
+	{
+	uk=Heroic;
+	}
+
+[Holds {bundles}.]
+	{
+	uk=Містить: {bundles}.;
+	}
+
+[Home]
+	{
+	uk=Домашня папка;
+	}
+
+[How large Open Annihilation's own screens are drawn. Auto suits the window's height.]
+	{
+	uk=Розмір власних екранів Open Annihilation. «Авто» добирає його під висоту вікна.;
+	}
+
+[INSTALLING EXPANSION]
+	{
+	uk=ВСТАНОВЛЕННЯ ДОПОВНЕННЯ;
+	}
+
+[If OA stops, the copy carries on from here next time.]
+	{
+	uk=Якщо OA зупиниться, наступного разу копіювання продовжиться з цього місця.;
+	}
+
+[In Full the card draws 16x16 samples a pixel and scales them down for smoother edges.]
+	{
+	uk=У режимі «Повний» відеокарта малює 16x16 вибірок на піксель і зменшує їх для гладших країв.;
+	}
+
+[In Full the card draws 16x16 samples a pixel the most this window allows, scaled down.]
+	{
+	uk=У режимі «Повний» відеокарта малює 16x16 вибірок на піксель — максимум для цього вікна — і зменшує їх.;
+	}
+
+[In Full the card draws 2x2 samples a pixel and scales them down for smoother edges.]
+	{
+	uk=У режимі «Повний» відеокарта малює 2x2 вибірки на піксель і зменшує їх для гладших країв.;
+	}
+
+[In Full the card draws 2x2 samples a pixel the most this window allows, scaled down.]
+	{
+	uk=У режимі «Повний» відеокарта малює 2x2 вибірки на піксель — максимум для цього вікна — і зменшує їх.;
+	}
+
+[In Full the card draws 4x4 samples a pixel and scales them down for smoother edges.]
+	{
+	uk=У режимі «Повний» відеокарта малює 4x4 вибірки на піксель і зменшує їх для гладших країв.;
+	}
+
+[In Full the card draws 4x4 samples a pixel the most this window allows, scaled down.]
+	{
+	uk=У режимі «Повний» відеокарта малює 4x4 вибірки на піксель — максимум для цього вікна — і зменшує їх.;
+	}
+
+[In Full the card draws 8x8 samples a pixel and scales them down for smoother edges.]
+	{
+	uk=У режимі «Повний» відеокарта малює 8x8 вибірок на піксель і зменшує їх для гладших країв.;
+	}
+
+[In Full the card draws 8x8 samples a pixel the most this window allows, scaled down.]
+	{
+	uk=У режимі «Повний» відеокарта малює 8x8 вибірок на піксель — максимум для цього вікна — і зменшує їх.;
+	}
+
+[In Full the graphics card draws the view 1:1; a level draws it finer for smoother edges.]
+	{
+	uk=У режимі «Повний» відеокарта малює зображення 1:1, а вищий рівень малює його детальніше для гладших країв.;
+	}
+
+[In to 2x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	uk=Наближення щонайбільше до 2x звичайного розміру. Коліщатко, жест двома пальцями й контролер далі не наближають.;
+	}
+
+[In to 3x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	uk=Наближення щонайбільше до 3x звичайного розміру. Коліщатко, жест двома пальцями й контролер далі не наближають.;
+	}
+
+[In to 4x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	uk=Наближення щонайбільше до 4x звичайного розміру. Коліщатко, жест двома пальцями й контролер далі не наближають.;
+	}
+
+[Install the expansion {name}?]
+	{
+	uk=Встановити доповнення {name}?;
+	}
+
+[It holds no oaexp.yaml at its top, or in a single folder at its top.]
+	{
+	uk=У ньому немає oaexp.yaml ні на верхньому рівні, ні в єдиній папці верхнього рівня.;
+	}
+
+[It is not one of the game's expansions.]
+	{
+	uk=Це не доповнення до цієї гри.;
+	}
+
+[Its oaexp.yaml has errors.]
+	{
+	uk=У файлі oaexp.yaml є помилки.;
+	}
+
+[Its oaexp.yaml is larger than 256 KiB.]
+	{
+	uk=Файл oaexp.yaml більший за 256 КіБ.;
+	}
+
+[Locate another…]
+	{
+	uk=Вказати інше місце…;
+	}
+
+[Lutris]
+	{
+	uk=Lutris;
+	}
+
+[Middle-click pans]
+	{
+	uk=Прокрутка середньою кнопкою;
+	}
+
+[Mirrors the roles: the left pad points, the right pad moves the map, triggers and grips swap.]
+	{
+	uk=Ролі навпаки: лівий трекпад керує вказівником, правий рухає мапу, тригери й задні кнопки міняються місцями.;
+	}
+
+[Modern fonts for in-game text, including internationalization.]
+	{
+	uk=Сучасні шрифти для тексту в грі, з підтримкою різних мов.;
+	}
+
+[NOW]
+	{
+	uk=ЗАРАЗ;
+	}
+
+[Needs {names} · on]
+	{
+	uk=Потребує {names} · увімкнено;
+	}
+
+[Needs {names}, which are off]
+	{
+	uk=Потребує {names}, але їх вимкнено;
+	}
+
+[Needs {name} · on]
+	{
+	uk=Потребує {name} · увімкнено;
+	}
+
+[Needs {name}, which is off]
+	{
+	uk=Потребує {name}, але його вимкнено;
+	}
+
+[Needs {name}, which is off.]
+	{
+	uk=Потребує {name}, але його вимкнено.;
+	}
+
+[Never closer than normal size. The wheel, a pinch and a controller stop there.]
+	{
+	uk=Не ближче за звичайний розмір. Коліщатко, жест двома пальцями й контролер далі не наближають.;
+	}
+
+[Not added]
+	{
+	uk=Не додано;
+	}
+
+[Nothing is installed and your files are not changed.]
+	{
+	uk=Нічого не встановлюється, і твої файли не змінюються.;
+	}
+
+[OA copies the game once. The installation is left as it is.]
+	{
+	uk=OA копіює гру один раз. Встановлена гра лишається без змін.;
+	}
+
+[OA plays from its own copy in Documents › Open Annihilation. The installation is not used or changed.]
+	{
+	uk=OA запускає гру з власної копії в папці Документи › Open Annihilation. Встановлена гра не використовується й не змінюється.;
+	}
+
+[Open]
+	{
+	uk=Відкрити;
+	}
+
+[Open folder]
+	{
+	uk=Відкрити папку;
+	}
+
+[Open these files with the game from your file manager.]
+	{
+	uk=Відкривай ці файли грою просто з файлового менеджера.;
+	}
+
+[Out to 1/16 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	uk=Віддалення до 1/16 звичайного розміру або до всієї мапи. Вигляд підрозділів задає параметр «Підрозділи здалеку» в розділі «Графіка».;
+	}
+
+[Out to 1/2 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	uk=Віддалення до 1/2 звичайного розміру або до всієї мапи. Вигляд підрозділів задає параметр «Підрозділи здалеку» в розділі «Графіка».;
+	}
+
+[Out to 1/32 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	uk=Віддалення до 1/32 звичайного розміру або до всієї мапи. Вигляд підрозділів задає параметр «Підрозділи здалеку» в розділі «Графіка».;
+	}
+
+[Out to 1/4 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	uk=Віддалення до 1/4 звичайного розміру або до всієї мапи. Вигляд підрозділів задає параметр «Підрозділи здалеку» в розділі «Графіка».;
+	}
+
+[Out to 1/8 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	uk=Віддалення до 1/8 звичайного розміру або до всієї мапи. Вигляд підрозділів задає параметр «Підрозділи здалеку» в розділі «Графіка».;
+	}
+
+[Out until the whole map fits the view. Graphics' Zoomed out units says how units look.]
+	{
+	uk=Віддалення, доки вся мапа не вміститься на екрані. Вигляд підрозділів задає параметр «Підрозділи здалеку» в розділі «Графіка».;
+	}
+
+[PLACES]
+	{
+	uk=МІСЦЯ;
+	}
+
+[Past After zoom, each unit is a dot of its owner's colour, framed while selected.]
+	{
+	uk=Далі за межею «Від масштабу» кожен підрозділ стає точкою кольору власника, з рамкою, якщо його виділено.;
+	}
+
+[Pause]
+	{
+	uk=Пауза;
+	}
+
+[Program Files]
+	{
+	uk=Program Files;
+	}
+
+[Quit]
+	{
+	uk=Вийти;
+	}
+
+[SELECTED]
+	{
+	uk=ОБРАНО;
+	}
+
+[Select a folder or an installer.]
+	{
+	uk=Обери папку або інсталятор.;
+	}
+
+[Setup]
+	{
+	uk=Підготовка;
+	}
+
+[Skip]
+	{
+	uk=Пропустити;
+	}
+
+[Skirmish · No Mod]
+	{
+	uk=Сутичка · Без моду;
+	}
+
+[Steam · Proton]
+	{
+	uk=Steam · Proton;
+	}
+
+[Sticky]
+	{
+	uk=Прилипання;
+	}
+
+[Switching to {name} restarts the game's files, then loads this save.]
+	{
+	uk=Перехід на {name} перезавантажить файли гри, а тоді завантажить це збереження.;
+	}
+
+[TA demo installer]
+	{
+	uk=Інсталятор демоверсії TA;
+	}
+
+[THE GAME]
+	{
+	uk=ГРА;
+	}
+
+[THE SAVE]
+	{
+	uk=ЗБЕРЕЖЕННЯ;
+	}
+
+[TURN OFF]
+	{
+	uk=ВИМКНУТИ;
+	}
+
+[TURN ON {name}]
+	{
+	uk=УВІМКНУТИ {name};
+	}
+
+[The display's own pixel density (Retina on a Mac). Applies from the next start.]
+	{
+	uk=Власна щільність пікселів дисплея (Retina на Mac). Діє з наступного запуску.;
+	}
+
+[The expansion holds {name}, which it does not have.]
+	{
+	uk=Доповнення містить файл {name}, якого в ньому не має бути.;
+	}
+
+[The expansion is missing {name}.]
+	{
+	uk=У доповненні бракує {name}.;
+	}
+
+[The file {name} is not the expansion's file.]
+	{
+	uk=Файл {name} не відповідає доповненню.;
+	}
+
+[The first press clears the selection, the second opens the menu.]
+	{
+	uk=Перше натискання знімає виділення, друге відкриває меню.;
+	}
+
+[The following content for your game does not match our expected sizes:]
+	{
+	uk=Розміри такого вмісту твоєї гри не збігаються з очікуваними:;
+	}
+
+[The game OA plays. Mods, maps and languages say which base games they work with.]
+	{
+	uk=Гра, яку запускає OA. Моди, мапи й мови вказують, з якими базовими іграми вони працюють.;
+	}
+
+[The game cannot start until the content matches.]
+	{
+	uk=Гра не почнеться, доки вміст не збігатиметься.;
+	}
+
+[The game cannot start until the host turns it on, or {player} turns it off.]
+	{
+	uk=Гра не почнеться, доки хост його не увімкне або {player} його не вимкне.;
+	}
+
+[The game cannot start until {player} turns it on, or the host turns it off.]
+	{
+	uk=Гра не почнеться, доки {player} його не увімкне або хост його не вимкне.;
+	}
+
+[The game could not be copied.]
+	{
+	uk=Не вдалося скопіювати гру.;
+	}
+
+[The game still plays with these files, but network games with other players may not start, and recordings may not replay the same. Copy the content again from another source to fix it.]
+	{
+	uk=Гра працює й із цими файлами, але мережеві ігри з іншими гравцями можуть не початися, а записи можуть відтворюватися інакше. Щоб це виправити, скопіюй вміст ще раз з іншого джерела.;
+	}
+
+[The game's own text and unit names, where its data has them in the language.]
+	{
+	uk=Власні тексти гри й назви підрозділів, якщо в її даних вони є цією мовою.;
+	}
+
+[The installer of the Total Annihilation demo (1997).]
+	{
+	uk=Інсталятор демоверсії Total Annihilation (1997).;
+	}
+
+[The largest whole-number scale that fits: smaller menus, every pixel square.]
+	{
+	uk=Найбільший цілий масштаб, що вміщується: менші меню, кожен піксель квадратний.;
+	}
+
+[The menus fill the window, every pixel as wide as the next.]
+	{
+	uk=Меню заповнюють вікно, усі пікселі однакової ширини.;
+	}
+
+[The menus fill the window, unfiltered, as the game always drew them.]
+	{
+	uk=Меню заповнюють вікно без фільтрації, як гра завжди їх малювала.;
+	}
+
+[The minimap and the thumb controls on the right, the orders on the left.]
+	{
+	uk=Мінімапа й керування великим пальцем праворуч, накази ліворуч.;
+	}
+
+[The mod was unloaded because an expansion it needs is off. The game plays with No Mod.]
+	{
+	uk=Мод вимкнено, бо потрібне йому доповнення вимкнене. Гра йде без моду.;
+	}
+
+[The pointer leaves a window's edge, as before.]
+	{
+	uk=Вказівник вільно виходить за край вікна, як раніше.;
+	}
+
+[The pointer rests on the edge so the view scrolls.]
+	{
+	uk=Вказівник затримується на краю, і камера прокручується.;
+	}
+
+[The right stick moves the pointer and the left stick the map.]
+	{
+	uk=Правий стік рухає вказівник, а лівий — мапу.;
+	}
+
+[The right stick moves the pointer, as in the Sticks scheme.]
+	{
+	uk=Правий стік рухає вказівник, як у схемі «Стіки».;
+	}
+
+[The right trackpad points and the left one moves the map; a pad without trackpads plays Sticks.]
+	{
+	uk=Правий трекпад керує вказівником, а лівий рухає мапу. Геймпад без трекпадів працює за схемою «Стіки».;
+	}
+
+[The side panel and bars grow with the window, up to twice the original game's size.]
+	{
+	uk=Бічна панель і смуги збільшуються разом із вікном, до подвійного розміру оригінальної гри.;
+	}
+
+[The side panel and bars keep the original game's size on every window.]
+	{
+	uk=Бічна панель і смуги мають розмір оригінальної гри за будь-якого вікна.;
+	}
+
+[The size of game text in the modern fonts. Larger sizes are easier to read.]
+	{
+	uk=Розмір тексту гри в сучасних шрифтах. Більший текст легше читати.;
+	}
+
+[The size of game text in the modern fonts. The game's own fonts have fixed sizes.]
+	{
+	uk=Розмір тексту гри в сучасних шрифтах. Власні шрифти гри мають фіксований розмір.;
+	}
+
+[The size of the touch controls; the game's own screens keep theirs.]
+	{
+	uk=Розмір сенсорних елементів керування. Власні екрани гри зберігають свій розмір.;
+	}
+
+[The view stays on the map, as the game kept it. With more than the map in view, it is centred.]
+	{
+	uk=Камера не виходить за межі мапи, як у самій грі. Якщо мапа менша за екран, її розміщено по центру.;
+	}
+
+[This base game is used when the Library closes.]
+	{
+	uk=Цю базову гру буде використано після закриття Бібліотеки.;
+	}
+
+[This game has no expansions.]
+	{
+	uk=Ця гра не має доповнень.;
+	}
+
+[This map is for the TA demo.]
+	{
+	uk=Ця мапа для демоверсії TA.;
+	}
+
+[This map is for {name}.]
+	{
+	uk=Ця мапа для {name}.;
+	}
+
+[This run names its content, so it cannot switch.]
+	{
+	uk=Цей запуск сам задає вміст, тож перемкнути його не можна.;
+	}
+
+[This save needs other content]
+	{
+	uk=Це збереження потребує іншого вмісту;
+	}
+
+[To Documents › Open Annihilation › Games and Expansions]
+	{
+	uk=До папки Документи › Open Annihilation › Games and Expansions;
+	}
+
+[Total Annihilation demo]
+	{
+	uk=Демоверсія Total Annihilation;
+	}
+
+[Total Annihilation demo (1997)]
+	{
+	uk=Демоверсія Total Annihilation (1997);
+	}
+
+[Total Annihilation: Commander Pack. Recognised by its size. The game is read out of it; nothing is installed.]
+	{
+	uk=Total Annihilation: Commander Pack. Розпізнано за розміром. Гру буде прочитано з нього, нічого не встановлюється.;
+	}
+
+[Turn it on in the Library.]
+	{
+	uk=Увімкни його в Бібліотеці.;
+	}
+
+[Turn off {name}?]
+	{
+	uk=Вимкнути {name}?;
+	}
+
+[Turn on and load]
+	{
+	uk=Увімкнути й завантажити;
+	}
+
+[Turning it on applies when the Library closes, and then PLAY NOW works.]
+	{
+	uk=Увімкнення спрацює після закриття Бібліотеки, і тоді запрацює ГРАТИ ЗАРАЗ.;
+	}
+
+[Turning it on applies when the Library closes, and then USE NOW works.]
+	{
+	uk=Увімкнення спрацює після закриття Бібліотеки, і тоді запрацює кнопка ОБРАТИ.;
+	}
+
+[Turning it on applies when the Library closes.]
+	{
+	uk=Увімкнення спрацює після закриття Бібліотеки.;
+	}
+
+[Turning them on applies when the Library closes, and then PLAY NOW works.]
+	{
+	uk=Їх буде увімкнено після закриття Бібліотеки, і тоді запрацює ГРАТИ ЗАРАЗ.;
+	}
+
+[Turning them on applies when the Library closes, and then USE NOW works.]
+	{
+	uk=Їх буде увімкнено після закриття Бібліотеки, і тоді запрацює кнопка ОБРАТИ.;
+	}
+
+[Turning them on applies when the Library closes.]
+	{
+	uk=Їх буде увімкнено після закриття Бібліотеки.;
+	}
+
+[Turning {name} on restarts the game's files, then loads this save. Your other expansions stay as they are.]
+	{
+	uk=Увімкнення {name} перезавантажить файли гри, а тоді завантажить це збереження. Інші доповнення лишаться як є.;
+	}
+
+[USE THIS GAME]
+	{
+	uk=ОБРАТИ ЦЮ ГРУ;
+	}
+
+[Units are drawn as models at every zoom. Far out on a large map, needs a fast CPU.]
+	{
+	uk=Підрозділи малюються моделями за будь-якого масштабу. Якщо сильно віддалити велику мапу, потрібен швидкий процесор.;
+	}
+
+[Units drawn at 16x and scaled down. Needs a fast CPU.]
+	{
+	uk=Підрозділи малюються з роздільністю 16x і зменшуються. Потрібен швидкий процесор.;
+	}
+
+[Units drawn at 8x and scaled down. Needs a fast CPU.]
+	{
+	uk=Підрозділи малюються з роздільністю 8x і зменшуються. Потрібен швидкий процесор.;
+	}
+
+[Units drawn at higher resolution and scaled down for smoother edges.]
+	{
+	uk=Підрозділи малюються з вищою роздільністю й зменшуються для гладших країв.;
+	}
+
+[Units each player can have. Applies from the next game.]
+	{
+	uk=Скільки підрозділів може мати кожен гравець. Діє з наступної гри.;
+	}
+
+[Up]
+	{
+	uk=Вгору;
+	}
+
+[Up and down zoom about the pointer; a flick left or right turns the build page while building.]
+	{
+	uk=Вгору й униз — масштаб довкола вказівника. Рух ліворуч чи праворуч гортає сторінку будівництва під час будування.;
+	}
+
+[Up to a quarter of the battlefield past the map's edges, however the view moves.]
+	{
+	uk=До чверті поля бою за краями мапи, хоч би як рухалася камера.;
+	}
+
+[Up to half the battlefield past the map's edges; a zoom keeps the ground under the pointer.]
+	{
+	uk=До половини поля бою за краями мапи. Під час масштабування земля під вказівником лишається на місці.;
+	}
+
+[Use the system picker…]
+	{
+	uk=Системне вікно вибору…;
+	}
+
+[Use this folder]
+	{
+	uk=Обрати цю папку;
+	}
+
+[Use this installer]
+	{
+	uk=Обрати цей інсталятор;
+	}
+
+[VOLUMES]
+	{
+	uk=ДИСКИ;
+	}
+
+[What guarding builders do. Applies from the next game.]
+	{
+	uk=Що роблять будівельники на охороні. Діє з наступної гри.;
+	}
+
+[What patrolling builders do. Applies from the next game.]
+	{
+	uk=Що роблять будівельники на патрулюванні. Діє з наступної гри.;
+	}
+
+[Locate Total Annihilation Game Files]
+	{
+	uk=Пошук ігрових файлів Total Annihilation;
+	}
+
+[Window edge]
+	{
+	uk=Край вікна;
+	}
+
+[Capture]
+	{
+	uk=Захоплення;
+	}
+
+[Edge stickiness]
+	{
+	uk=Сила прилипання;
+	}
+
+[At 0.0 the edge never holds.]
+	{
+	uk=На 0.0 край зовсім не затримує вказівник.;
+	}
+
+[How firmly Sticky holds the pointer at the edge.]
+	{
+	uk=Наскільки міцно «Прилипання» тримає вказівник на краю.;
+	}
+
+[Needs Sticky]
+	{
+	uk=Потрібне «Прилипання»;
+	}
+
+[The pointer stays in the window while you play.]
+	{
+	uk=Під час гри вказівник не залишає вікна.;
+	}
+
+[X]
+	{
+	uk=X;
+	}
+
+[Y]
+	{
+	uk=Y;
+	}
+
+[about {seconds} seconds left]
+	{
+	uk=лишилося близько {seconds} с;
+	}
+
+[archive]
+	{
+	uk=архів;
+	}
+
+[doesn't fit]
+	{
+	uk=не підходить;
+	}
+
+[file]
+	{
+	uk=файл;
+	}
+
+[folder]
+	{
+	uk=папка;
+	}
+
+[for the TA demo]
+	{
+	uk=для демоверсії TA;
+	}
+
+[for {name}]
+	{
+	uk=для {name};
+	}
+
+[macOS asks once before an app reads Desktop, Documents or Downloads.]
+	{
+	uk=macOS один раз питає дозволу, перш ніж програма прочитає папки «Робочий стіл», «Документи» чи «Завантаження».;
+	}
+
+[microSD card]
+	{
+	uk=Карта microSD;
+	}
+
+[needs {name}]
+	{
+	uk=потребує {name};
+	}
+
+[not added]
+	{
+	uk=не додано;
+	}
+
+[{count} file differs]
+	{
+	uk=Відмінних файлів: {count};
+	}
+
+[{count} files differ]
+	{
+	uk=Відмінних файлів: {count};
+	}
+
+[{count} of {total} files differ]
+	{
+	uk=Відмінних файлів: {count} з {total};
+	}
+
+[{done} of {total} · {percent}%]
+	{
+	uk={done} з {total} · {percent}%;
+	}
+
+[{game} as it was made]
+	{
+	uk={game} в оригіналі;
+	}
+
+[{held} of {total} tracks]
+	{
+	uk=Треків: {held} з {total};
+	}
+
+[{left} and {right}]
+	{
+	uk={left} та {right};
+	}
+
+[{left} · {right}]
+	{
+	uk={left} · {right};
+	}
+
+[{left}, {right}]
+	{
+	uk={left}, {right};
+	}
+
+[{mod} needs {name}, so it is unloaded and the game plays with No Mod.]
+	{
+	uk={mod} потребує {name}, тож його буде вимкнено, і гра йтиме без моду.;
+	}
+
+[{mod} was unloaded because {name} is off. The game plays with No Mod.]
+	{
+	uk={mod} вимкнено, бо не увімкнено {name}. Гра йде без моду.;
+	}
+
+[{name} is installed. Turn it on in the Library.]
+	{
+	uk={name} встановлено. Увімкни його в Бібліотеці.;
+	}
+
+[{name} is not copied, so this save cannot be loaded with it.]
+	{
+	uk={name} не скопійовано, тож завантажити з ним це збереження не можна.;
+	}
+
+[{name} needs {need}.]
+	{
+	uk={name} потребує {need}.;
+	}
+
+[{name} off]
+	{
+	uk={name} вимкнено;
+	}
+
+[{name} turns off too: it needs {need}.]
+	{
+	uk={name} теж вимкнеться, бо потребує {need}.;
+	}
+
+[{name} turns off when the Library closes.]
+	{
+	uk={name} вимкнеться після закриття Бібліотеки.;
+	}
+
+[{name} turns on when the Library closes.]
+	{
+	uk={name} увімкнеться після закриття Бібліотеки.;
+	}
+
+[{name} · ADD FROM…]
+	{
+	uk={name} · ДОДАТИ З…;
+	}
+
+[{name} ✓]
+	{
+	uk={name} ✓;
+	}
+
+[{name}'s maps and campaigns leave the lists until you turn it on again. Nothing is deleted.]
+	{
+	uk=Мапи й кампанії {name} зникнуть зі списків, доки ти знову його не увімкнеш. Нічого не видаляється.;
+	}
+
+[{row}: {saved} / {now}]
+	{
+	uk={row}: {saved} / {now};
+	}
+
+[{save_heading} / {now_heading}]
+	{
+	uk={save_heading} / {now_heading};
+	}
+
+[{version} · {source}]
+	{
+	uk={version} · {source};
+	}
+
+[A folder that holds totala1.hpi, or a Commander Pack or the 1997 demo installer.]
+	{
+	uk=Папка з totala1.hpi, Commander Pack або інсталятор демоверсії 1997 року.;
+	}
+
+[Applying your changes]
+	{
+	uk=Застосування змін;
+	}
+
+[Checking your copy of Total Annihilation]
+	{
+	uk=Перевірка твоєї копії Total Annihilation;
+	}
+
+[Choose a folder or an installer]
+	{
+	uk=Обери папку або інсталятор;
+	}
+
+[Choose the Total Annihilation demo installer (1997).]
+	{
+	uk=Обери інсталятор демоверсії Total Annihilation (1997).;
+	}
+
+[Easy]
+	{
+	uk=Легкий;
+	}
+
+[Filter names]
+	{
+	uk=Фільтр назв;
+	}
+
+[Hard]
+	{
+	uk=Складний;
+	}
+
+[Loading the game's archives]
+	{
+	uk=Завантаження архівів гри;
+	}
+
+[Medium]
+	{
+	uk=Середній;
+	}
+
+[No names match.]
+	{
+	uk=Жодна назва не підходить.;
+	}
+
+[Skirmish players]
+	{
+	uk=Гравців у сутичці;
+	}
+
+[The skirmish setup shows that many player rows.]
+	{
+	uk=Стільки рядків гравців показує екран підготовки сутички.;
+	}
+
+[{count} package]
+	{
+	uk=Пакетів: {count};
+	}
+
+[{count} packages]
+	{
+	uk=Пакетів: {count};
+	}
+
+
+// The notices for a launch file the game does not open, Settings'
+// launch file switch and the Library's locked expansions.
+
+[A launch is already open. Quit Open Annihilation, then open the file again.]
+	{
+	uk=Інший файл запуску вже відкрито. Вийди з Open Annihilation і відкрий файл знову.;
+	}
+
+[LAUNCH FILE NOT OPENED]
+	{
+	uk=ФАЙЛ ЗАПУСКУ НЕ ВІДКРИТО;
+	}
+
+[Launch file not opened: finish or leave this game first.]
+	{
+	uk=Файл запуску не відкрито: спершу заверши цю гру або вийди з неї.;
+	}
+
+[Launch files (.oalaunch)]
+	{
+	uk=Файли запуску (.oalaunch);
+	}
+
+[Open Annihilation opens a launch file's battle room from the main menu. Go back to the main menu, then open the file again.]
+	{
+	uk=Open Annihilation відкриває кімнату бою з файлу запуску лише з головного меню. Повернися в головне меню й відкрий файл знову.;
+	}
+
+[The command line chose this run's mod, which needs {names}.]
+	{
+	uk=Мод для цього запуску задано в командному рядку, і він потребує {names}.;
+	}
+
+[This launch plays other content than the game plays now. Quit Open Annihilation, then open the file again.]
+	{
+	uk=Цей файл запуску використовує інший вміст, ніж гра зараз. Вийди з Open Annihilation і відкрий файл знову.;
+	}
+
+// The registries' checks the game cannot do, and the Library's
+// Available.
+
+[Available]
+	{
+	uk=Доступно;
+	}
+
+[the server asked for a check the game cannot do]
+	{
+	uk=сервер запросив перевірку, яку гра не може пройти;
+	}
+
+[{registry} asked for a check the game cannot do. Try again later.]
+	{
+	uk=Реєстр {registry} запросив перевірку, яку гра не може пройти. Спробуй пізніше.;
+	}

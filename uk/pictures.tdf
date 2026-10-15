@@ -1,0 +1,70 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+
+// Captions drawn over the player's own pictures while Ukrainian is shown
+// (src/present/include/oa/present/picture_captions.hpp). A picture left
+// out here, or a section with no keys, keeps its art.
+
+// The order buttons. A caption is drawn at the largest size that fits its
+// button, so the longer words are cut short to stay legible.
+[commongui.gaf]
+{
+    [ARMATTACK] { text=АТАКА; }
+    [CORATTACK] { text=АТАКА; }
+    [ARMMOVE] { text=РУХ; }
+    [CORMOVE] { text=РУХ; }
+    [ARMSTOP] { text=СТОП; }
+    [CORSTOP] { text=СТОП; }
+    [ARMPATROL] { text=ПАТРУЛЬ; }
+    [CORPATROL] { text=ПАТРУЛЬ; }
+    [ARMDEFEND] { text=ОХОРОНА; }
+    [CORDEFEND] { text=ОХОРОНА; }
+    [ARMRECLAIM] { text=УТИЛІЗ.; }
+    [CORRECLAIM] { text=УТИЛІЗ.; }
+    [ARMREPAIR] { text=РЕМОНТ; }
+    [CORREPAIR] { text=РЕМОНТ; }
+    [ARMCAPTURE] { text=ЗАХОПЛ.; }
+    [CORCAPTURE] { text=ЗАХОПЛ.; }
+    [ARMLOAD] { text=НАВАНТ.; }
+    [CORLOAD] { text=НАВАНТ.; }
+    [ARMUNLOAD] { text=ВИВАНТ.; }
+    [CORUNLOAD] { text=ВИВАНТ.; }
+    [ARMORDERS] { text=НАКАЗИ; }
+    [CORORDERS] { text=НАКАЗИ; }
+    [ARMBUILD] { text=БУДОВА; }
+    [CORBUILD] { text=БУДОВА; }
+    [ARMBLAST] { text=D-ГАРМ.; }
+    [CORBLAST] { text=D-ГАРМ.; }
+
+    // The toggles: one caption per state, then the button's name; their
+    // lights stay at the right.
+    [ARMFIREORD] { text=НЕ СТРІЛЯТИ|У ВІДПОВІДЬ|ВІЛЬНИЙ ВОГОНЬ|НАКАЗИ ВОГНЮ; area=3,2,95,16; align=left; }
+    [CORFIREORD] { text=НЕ СТРІЛЯТИ|У ВІДПОВІДЬ|ВІЛЬНИЙ ВОГОНЬ|НАКАЗИ ВОГНЮ; area=3,2,95,16; align=left; }
+    [ARMMOVEORD] { text=НА ПОЗИЦІЇ|МАНЕВР|ВІЛЬНИЙ РУХ|НАКАЗИ РУХУ; area=3,2,95,16; align=left; }
+    [CORMOVEORD] { text=НА ПОЗИЦІЇ|МАНЕВР|ВІЛЬНИЙ РУХ|НАКАЗИ РУХУ; area=3,2,95,16; align=left; }
+    [ARMONOFF] { text=ВИМКНЕНО|УВІМКНЕНО|ЖИВЛЕННЯ; area=3,2,95,16; align=left; }
+    [CORONOFF] { text=ВИМКНЕНО|УВІМКНЕНО|ЖИВЛЕННЯ; area=3,2,95,16; align=left; }
+    [ARMCLOAK] { text=ВИДИМИЙ|ЗАМАСКОВАНИЙ|МАСКУВАННЯ; area=3,2,95,16; align=left; }
+    [CORCLOAK] { text=ВИДИМИЙ|ЗАМАСКОВАНИЙ|МАСКУВАННЯ; area=3,2,95,16; align=left; }
+    [ARMACTIVATE] { text=АКТИВУВАТИ|ДЕАКТИВУВАТИ; area=3,2,95,16; align=left; }
+    [CORACTIVATE] { text=АКТИВУВАТИ|ДЕАКТИВУВАТИ; area=3,2,95,16; align=left; }
+}
+
+// The top bar's METAL and ENERGY.
+[armint.gaf/PANELTOP] { text=МЕТАЛ|ЕНЕРГІЯ; area=36,4,48,17|285,4,56,17; }
+[corint.gaf/PANELTOP] { text=МЕТАЛ|ЕНЕРГІЯ; area=34,8,48,13|285,8,52,13; }
+
+// The titles over the battlefield.
+[igtitles.gaf]
+{
+    [igpaused] { text=ПАУЗА; }
+    [igvictory] { text=ПЕРЕМОГА!; }
+    [igdefeat] { text=ПОРАЗКА; }
+}
+
+// The load dialog's title.
+[loadgame.gaf/LoadGame] { text=ЗАВАНТАЖЕННЯ; }
+
+// The save and load dialogs' titles, painted into their backgrounds.
+[dsavegame2.pcx] { text=ЗБЕРЕЖЕННЯ ГРИ; area=64,31,168,27; }
+[dloadgame2.pcx] { text=ЗАВАНТАЖЕННЯ ГРИ; area=61,32,166,27; }

@@ -9,3 +9,9 @@ The collection, its licence and the Unihan archive are pinned in `fonts.json`, w
 The cut uses fontTools 4.66.1, pinned by hash in `requirements.txt`, installed into `local/fonttools-venv`. Nothing else in this repository needs it.
 
 Make the font with `python3 tools/fonts.py`. When the downloads are already on disk, pass that folder with `--deps`. The face is written to `local/fonts`, or to `--out`. The font file is built when a pack is built and is not part of this repository.
+
+## The engine's own faces
+
+Ukrainian (`uk`) ships no font. Its text needs the modern fonts, and the sans faces that travel with the game, DejaVu Sans Bold and DejaVu Sans 2.37, hold Cyrillic, Ukrainian's і, ї, є, ґ and the apostrophe ʼ among it.
+
+`engine-faces.json` records the engine's four base faces, in the order its font stack opens them (DejaVu Sans Bold, DejaVu Sans, the endonym face and Noto Emoji): each one's SHA-256 and the code points its character map holds, as runs. `tools/check.py` reads it to tell that every character of a pack's text has a glyph: the bold weight looks in all four faces, the regular weight in all but DejaVu Sans Bold, so a character must be in one of the other three, or in the pack's own fonts. The record was made from Open Annihilation 0.8.0's fonts folder with `python3 tools/fonts.py --record-engine-faces FONTS`; make it again when the engine's faces change.
