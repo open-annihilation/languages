@@ -2394,6 +2394,10 @@
 	{
 	Korean=이 전투에서 항복하고 Windows로 나가시겠습니까?;
 	}
+[Surrender this battle and exit to the system?]
+	{
+	Korean=이 전투에서 항복하고 게임을 종료하시겠습니까?;
+	}
 
 // Title Screen
 

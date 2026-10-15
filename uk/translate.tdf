@@ -2443,6 +2443,10 @@
 	{
 	Ukrainian=Здатися в цьому бою й вийти у Windows?;
 	}
+[Surrender this battle and exit to the system?]
+	{
+	Ukrainian=Здатися в цьому бою й вийти з гри?;
+	}
 
 // Title Screen
 

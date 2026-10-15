@@ -2394,6 +2394,10 @@
 	{
 	Chinese=放弃本场战斗并退出游戏？;
 	}
+[Surrender this battle and exit to the system?]
+	{
+	Chinese=放弃本场战斗并退出游戏？;
+	}
 
 // Title Screen
 
