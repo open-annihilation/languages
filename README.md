@@ -1,6 +1,6 @@
 # Open Annihilation language packs
 
-The sources of Open Annihilation's downloadable language packs (`.oalang`): Simplified Chinese and Ukrainian. Each pack is built and checked here, and published with the content library's publish script. That script also makes a GitHub release for each pack and revision, so a translation can ship without an engine release.
+The sources of Open Annihilation's downloadable language packs (`.oalang`): Simplified Chinese, Ukrainian and Korean. Each pack is built and checked here, and published with the content library's publish script. That script also makes a GitHub release for each pack and revision, so a translation can ship without an engine release.
 
 The five languages Total Annihilation 3.1c ships with (English, German, Spanish, French and Italian) need no pack: Open Annihilation reads them from the game's own data.
 
@@ -8,6 +8,7 @@ The five languages Total Annihilation 3.1c ships with (English, German, Spanish,
 
 - `zh-Hans/` holds the Simplified Chinese sources: `language.yaml`, the tables, `warmup.txt`, and the briefings under `files/`.
 - `uk/` holds the Ukrainian sources, laid out the same way. Its text is drawn in the modern fonts, and the sans faces that travel with the game hold Cyrillic, so the pack brings no font of its own.
+- `ko/` holds the Korean sources, laid out the same way. Its text is drawn in the modern fonts, its Hangul from the pack's own face, cut from the same collection as the Chinese one.
 - `fonts/` holds the CJK fonts' recipes, their licence and the pinned fontTools requirements, and `engine-faces.json`, the record of the characters the engine's own faces draw. The built fonts are not stored here.
 - `tools/check.py` checks a pack. `tools/coverage.py` lists the engine's interface words a pack does not translate. `tools/build.py` builds a `.oalang`. `tools/fonts.py` builds the fonts.
 - `dist/` receives the built pack and its build info. `local/` holds downloads, the fontTools environment and the build stage. Neither directory is committed.
@@ -71,7 +72,7 @@ This asks the engine build for its interface words (`oa-tool interface-words --j
 python3 tools/build.py zh-Hans --oa-tool /path/to/oa-tool
 ```
 
-This checks the source, stages it with the font and the font licence, if it names one, checks the staged folder, and runs `oa-tool pack`. The pack is `dist/zh-Hans.oalang`. Beside it, `dist/zh-Hans.oalang.json` records the tag, revision, commit, whether the worktree was dirty, and the file's size and SHA-256. A second build of the same commit produces the same bytes. `OA_TOOL` names the tool when `--oa-tool` is omitted. Pass no tag to build every pack. A pack that names a CJK font needs it built first (`python3 tools/fonts.py`); Ukrainian needs none:
+This checks the source, stages it with the font and the font licence, if it names one, checks the staged folder, and runs `oa-tool pack`. The pack is `dist/zh-Hans.oalang`. Beside it, `dist/zh-Hans.oalang.json` records the tag, revision, commit, whether the worktree was dirty, and the file's size and SHA-256. A second build of the same commit produces the same bytes. `OA_TOOL` names the tool when `--oa-tool` is omitted. Pass no tag to build every pack. A pack that names a CJK font, Simplified Chinese or Korean, needs it built first (`python3 tools/fonts.py`); Ukrainian needs none:
 
 ```sh
 python3 tools/build.py uk --oa-tool /path/to/oa-tool
@@ -79,7 +80,7 @@ python3 tools/build.py uk --oa-tool /path/to/oa-tool
 
 ## A new revision
 
-Fix the translation, then bump `packaging.revision` and `packaging.date` in the pack's `language.yaml`. Commit and push to `main`. From that clean commit, build the pack. The maintainer publishes it with the content library's publish script, which reads the build info and makes the GitHub release for that pack and revision (for example `zh-Hans-r1` or `uk-r1`).
+Fix the translation, then bump `packaging.revision` and `packaging.date` in the pack's `language.yaml`. Commit and push to `main`. From that clean commit, build the pack. The maintainer publishes it with the content library's publish script, which reads the build info and makes the GitHub release for that pack and revision (for example `zh-Hans-r1`, `uk-r1` or `ko-r1`).
 
 ## Licences
 

@@ -18,6 +18,7 @@ from tools import check
 ROOT = Path(__file__).resolve().parents[1]
 FIXTURES = ROOT / "tests" / "fixtures"
 FACE = "NotoSansCJKsc-Bold.otf"
+KOREAN_FACE = "NotoSansCJKkr-Bold.otf"
 
 
 def run(args: list[str]) -> tuple[int, str]:
@@ -143,6 +144,30 @@ class CheckTests(unittest.TestCase):
                             "--deps", str(self.empty)])
         self.assertEqual(code, 0, output)
         self.assertTrue(output.rstrip().endswith("clean"), output)
+
+    def test_ko_source_is_clean(self) -> None:
+        # With no face built, the Korean text is kept to the Hangul cut's
+        # recipe, which needs no download.
+        code, output = run([str(ROOT / "ko"), "--source", "--fonts", str(self.empty),
+                            "--deps", str(self.empty)])
+        self.assertEqual(code, 0, output)
+        self.assertIn("the Korean face is not built: characters are checked against its recipe", output)
+        self.assertNotIn("Unihan", output)
+        self.assertTrue(output.rstrip().endswith("clean"), output)
+
+    def test_ko_with_its_face_built_is_clean(self) -> None:
+        faces = Path(self.folder.name) / "faces"
+        write_face(faces / KOREAN_FACE, ranges_of(pack_characters(ROOT / "ko")))
+        code, output = run([str(ROOT / "ko"), "--fonts", str(faces)])
+        self.assertEqual(code, 0, output)
+        self.assertTrue(output.rstrip().endswith("clean"), output)
+
+    def test_a_syllable_the_korean_face_lacks_fails(self) -> None:
+        faces = Path(self.folder.name) / "faces"
+        write_face(faces / KOREAN_FACE, ranges_of(pack_characters(ROOT / "ko") - {ord("한")}))
+        code, output = run([str(ROOT / "ko"), "--fonts", str(faces)])
+        self.assertEqual(code, 1, output)
+        self.assertIn("character the pack's fonts lack: 한 (U+D55C, line", output)
 
     def test_hanja_outside_the_hangul_recipe_fails(self) -> None:
         code, output = run([str(FIXTURES / "hanja"), "--source", "--fonts", str(self.empty),

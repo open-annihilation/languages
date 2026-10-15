@@ -1,0 +1,21 @@
+# SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+# SPDX-License-Identifier: GPL-3.0-only
+
+# Korean, built by tools/build.py (README.md). Its Hangul is drawn from the
+# pack's own face, Noto Sans CJK KR Bold cut to Hangul (fonts/README.md);
+# the sans faces that travel with the game draw the rest.
+oalang: 1
+tag: ko
+name: 한국어
+english-name: Korean
+word: Korean
+version: "1"
+locales: [ko, ko-KR]
+fallbacks: []
+text: {needs: modern-fonts}
+unicode: true
+fonts: [{file: NotoSansCJKkr-Bold.otf, role: ideographs}]
+warmup: warmup.txt
+packaging: {revision: 1, date: 2026-10-15, packager: open-annihilation/languages tools/build.py}
+homepage: https://github.com/open-annihilation/languages
+requires: {engine: ">= 0.8.0"}

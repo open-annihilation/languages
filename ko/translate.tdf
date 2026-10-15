@@ -1,0 +1,4115 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Korean for 3.1c's translate.tdf texts, keyed by 3.1c's English
+// exactly (case and spaces included), in 3.1c's own order.
+
+// Ingame and Panel Messages
+
+[KILLS]
+	{
+	Korean=처치;
+	}
+[Kills]
+	{
+	Korean=처치;
+	}
+[Kill]
+	{
+	Korean=처치;
+	}
+[kill]
+	{
+	Korean=처치;
+	}
+[LOSSES]
+	{
+	Korean=손실;
+	}
+[Losses]
+	{
+	Korean=손실;
+	}
+[kills]
+	{
+	Korean=처치;
+	}
+[Veteran]
+	{
+	Korean=베테랑;
+	}
+[Newbie]
+	{
+	Korean=신병;
+	}
+[PAUSED]
+	{
+	Korean=일시 정지;
+	}
+
+// Loading screen
+
+[Map]
+	{
+	Korean=맵;
+	}
+[Map:]
+	{
+	Korean=맵:;
+	}
+[Terrain]
+	{
+	Korean=지형;
+	}
+[Textures]
+	{
+	Korean=텍스처;
+	}
+[Units]
+	{
+	Korean=유닛;
+	}
+[Features]
+	{
+	Korean=지형지물;
+	}
+[FEATURES]
+	{
+	Korean=지형지물;
+	}
+[MoveInfo]
+	{
+	Korean=이동 정보;
+	}
+[Explosions]
+	{
+	Korean=폭발 효과;
+	}
+[Synchronization complete]
+	{
+	Korean=동기화 완료;
+	}
+[player ready]
+	{
+	Korean=명 준비 완료;
+	}
+[players ready]
+	{
+	Korean=명 준비 완료;
+	}
+[Waiting for other players]
+	{
+	Korean=다른 플레이어를 기다리는 중;
+	}
+[Synchronizing]
+	{
+	Korean=동기화 중;
+	}
+[Waiting for the Creator]
+	{
+	Korean=호스트를 기다리는 중;
+	}
+[3D Data]
+	{
+	Korean=3D 데이터;
+	}
+[Animation]
+	{
+	Korean=애니메이션;
+	}
+[Animations]
+	{
+	Korean=애니메이션;
+	}
+
+// Sides
+
+[Arm]
+	{
+	Korean=ARM;
+	}
+[Core]
+	{
+	Korean=CORE;
+	}
+[Arm Campaign]
+	{
+	Korean=ARM 캠페인;
+	}
+[arm campaign]
+	{
+	Korean=ARM 캠페인;
+	}
+[Core Campaign]
+	{
+	Korean=CORE 캠페인;
+	}
+
+// Menus
+
+[No Narration]
+	{
+	Korean=내레이션 없음;
+	}
+[Narration]
+	{
+	Korean=내레이션;
+	}
+[Start]
+	{
+	Korean=시작;
+	}
+[Select]
+	{
+	Korean=선택;
+	}
+[Previous Menu]
+	{
+	Korean=이전 메뉴;
+	}
+[Next]
+	{
+	Korean=다음;
+	}
+[Previous]
+	{
+	Korean=이전;
+	}
+[SOUND]
+	{
+	Korean=사운드;
+	}
+[INTERFACE]
+	{
+	Korean=인터페이스;
+	}
+[VISUALS]
+	{
+	Korean=그래픽;
+	}
+[MUSIC]
+	{
+	Korean=음악;
+	}
+[Set Difficulty]
+	{
+	Korean=난이도 설정;
+	}
+[Skirmish]
+	{
+	Korean=스커미시;
+	}
+[Skirmish (%d players)]
+	{
+	Korean=스커미시(%d명);
+	}
+[New Campaign]
+	{
+	Korean=새 캠페인;
+	}
+[NEW CAMPAIGN]
+	{
+	Korean=새 캠페인;
+	}
+[Start Campaign]
+	{
+	Korean=캠페인 시작;
+	}
+[Select Campaign]
+	{
+	Korean=캠페인 선택;
+	}
+[SELECT CAMPAIGN:]
+	{
+	Korean=캠페인 선택:;
+	}
+[Select Any Mission]
+	{
+	Korean=미션 자유 선택;
+	}
+[Select Mission]
+	{
+	Korean=미션 선택;
+	}
+[Start Mission]
+	{
+	Korean=미션 시작;
+	}
+[Undo Changes]
+	{
+	Korean=변경 취소;
+	}
+[Restore Defaults]
+	{
+	Korean=기본값 복원;
+	}
+[Restore Default]
+	{
+	Korean=기본값 복원;
+	}
+[Exit to Menu]
+	{
+	Korean=메뉴로 나가기;
+	}
+[Exit Game]
+	{
+	Korean=게임 종료;
+	}
+[Please Select Map]
+	{
+	Korean=맵을 선택하세요;
+	}
+[Load Map]
+	{
+	Korean=맵 불러오기;
+	}
+[Select Side]
+	{
+	Korean=진영 선택;
+	}
+
+// Generic gameplay stuff
+
+[Player]
+	{
+	Korean=플레이어;
+	}
+[Players]
+	{
+	Korean=플레이어;
+	}
+[Players:]
+	{
+	Korean=플레이어:;
+	}
+[Allies]
+	{
+	Korean=동맹;
+	}
+[ALLIES]
+	{
+	Korean=동맹;
+	}
+[Ally]
+	{
+	Korean=동맹;
+	}
+[Side]
+	{
+	Korean=진영;
+	}
+[Metal]
+	{
+	Korean=금속;
+	}
+[METAL]
+	{
+	Korean=금속;
+	}
+[Energy]
+	{
+	Korean=에너지;
+	}
+[ENERGY]
+	{
+	Korean=에너지;
+	}
+[Color]
+	{
+	Korean=색상;
+	}
+[Yes]
+	{
+	Korean=예;
+	}
+[No]
+	{
+	Korean=아니요;
+	}
+[OK]
+	{
+	Korean=확인;
+	}
+[Ok]
+	{
+	Korean=확인;
+	}
+[Cancel]
+	{
+	Korean=취소;
+	}
+[CANCEL]
+	{
+	Korean=취소;
+	}
+
+// Victory/Defeat Screen
+
+[Energy Produced]
+	{
+	Korean=에너지 생산량;
+	}
+[Metal Produced]
+	{
+	Korean=금속 생산량;
+	}
+[Energy Wasted]
+	{
+	Korean=에너지 낭비량;
+	}
+[Metal Wasted]
+	{
+	Korean=금속 낭비량;
+	}
+
+// Options menu
+
+[Options Menu]
+	{
+	Korean=옵션 메뉴;
+	}
+[GAME OPTIONS]
+	{
+	Korean=게임 옵션;
+	}
+[Resume]
+	{
+	Korean=게임 재개;
+	}
+[Save Game]
+	{
+	Korean=게임 저장;
+	}
+[Load Game]
+	{
+	Korean=불러오기;
+	}
+[Preferences]
+	{
+	Korean=환경 설정;
+	}
+[End Mission]
+	{
+	Korean=미션 종료;
+	}
+[Help]
+	{
+	Korean=도움말;
+	}
+[Briefing]
+	{
+	Korean=브리핑;
+	}
+[Mission Objective]
+	{
+	Korean=미션 목표;
+	}
+
+// Player settings
+
+[UNUSED]
+	{
+	Korean=사용 안 함;
+	}
+[unused]
+	{
+	Korean=사용 안 함;
+	}
+[AI]
+	{
+	Korean=AI;
+	}
+[BLOCKED]
+	{
+	Korean=차단됨;
+	}
+[No Limit]
+	{
+	Korean=제한 없음;
+	}
+
+// CD controls
+
+[CD Player]
+	{
+	Korean=CD 플레이어;
+	}
+[No Music]
+	{
+	Korean=음악 없음;
+	}
+[Repeat Track]
+	{
+	Korean=트랙 반복;
+	}
+[Repeat Track #]
+	{
+	Korean=트랙 반복 #;
+	}
+[Repeat]
+	{
+	Korean=반복;
+	}
+[Random Tracks]
+	{
+	Korean=무작위 재생;
+	}
+[Specify Tracks]
+	{
+	Korean=트랙 지정;
+	}
+[Play All Tracks]
+	{
+	Korean=모든 트랙 재생;
+	}
+[Play All]
+	{
+	Korean=모두 재생;
+	}
+[Track]
+	{
+	Korean=트랙;
+	}
+[Custom]
+	{
+	Korean=사용자 지정;
+	}
+[No Action]
+	{
+	Korean=비전투;
+	}
+[Battle]
+	{
+	Korean=전투;
+	}
+[Defeat]
+	{
+	Korean=패배;
+	}
+[Unused]
+	{
+	Korean=사용 안 함;
+	}
+[NO DISC]
+	{
+	Korean=디스크 없음;
+	}
+
+// Speeds
+
+[Normal]
+	{
+	Korean=보통;
+	}
+[Slow]
+	{
+	Korean=느림;
+	}
+[Slower]
+	{
+	Korean=더 느림;
+	}
+[Fast]
+	{
+	Korean=빠름;
+	}
+[Faster]
+	{
+	Korean=더 빠름;
+	}
+[Game Speed]
+	{
+	Korean=게임 속도;
+	}
+[Mouse Speed]
+	{
+	Korean=마우스 속도;
+	}
+[Screen Scroll]
+	{
+	Korean=화면 스크롤;
+	}
+[Screen Text Delay]
+	{
+	Korean=텍스트 표시 시간;
+	}
+[Interface]
+	{
+	Korean=인터페이스;
+	}
+[Unit Chat]
+	{
+	Korean=유닛 보고;
+	}
+[Text Lines]
+	{
+	Korean=텍스트 줄 수;
+	}
+[Game]
+	{
+	Korean=게임;
+	}
+[Mouse]
+	{
+	Korean=마우스;
+	}
+[Screen]
+	{
+	Korean=화면;
+	}
+[Text Delay (secs)]
+	{
+	Korean=텍스트 표시 시간(초);
+	}
+[Button Interface]
+	{
+	Korean=버튼 방식;
+	}
+[Control]
+	{
+	Korean=조작;
+	}
+
+// Gamespeed
+
+[Quick]
+	{
+	Korean=신속함;
+	}
+[Sluggish]
+	{
+	Korean=느릿함;
+	}
+[Rapid Fire]
+	{
+	Korean=초고속;
+	}
+
+// Chat settings
+
+[No Chat]
+	{
+	Korean=보고 없음;
+	}
+[Only important info]
+	{
+	Korean=중요 정보만;
+	}
+[Medium chat]
+	{
+	Korean=일반 보고;
+	}
+[Detailed chat]
+	{
+	Korean=상세 보고;
+	}
+[High chat level]
+	{
+	Korean=매우 상세한 보고;
+	}
+[All info chatted]
+	{
+	Korean=모든 정보 보고;
+	}
+[ENEMIES]
+	{
+	Korean=적;
+	}
+[Enemies]
+	{
+	Korean=적;
+	}
+[All]
+	{
+	Korean=전체;
+	}
+[ALL]
+	{
+	Korean=전체;
+	}
+[TALK TO:]
+	{
+	Korean=채팅 대상:;
+	}
+[Unit Sounds]
+	{
+	Korean=유닛 효과음;
+	}
+[UNIT SOUNDS]
+	{
+	Korean=유닛 효과음;
+	}
+
+// Sound settings
+
+[On]
+	{
+	Korean=켜짐;
+	}
+[Off]
+	{
+	Korean=꺼짐;
+	}
+[Mono]
+	{
+	Korean=모노;
+	}
+[Stereo]
+	{
+	Korean=스테레오;
+	}
+[3d]
+	{
+	Korean=3D;
+	}
+[Sound Effects Volume]
+	{
+	Korean=효과음 볼륨;
+	}
+[Music Volume]
+	{
+	Korean=음악 볼륨;
+	}
+[Sound Volume]
+	{
+	Korean=사운드 볼륨;
+	}
+[Sound Mode]
+	{
+	Korean=사운드 모드;
+	}
+[No Chatting]
+	{
+	Korean=보고 없음;
+	}
+[TEST]
+	{
+	Korean=테스트;
+	}
+[Sound Test]
+	{
+	Korean=사운드 테스트;
+	}
+[SOUND TEST]
+	{
+	Korean=사운드 테스트;
+	}
+[Building Sounds]
+	{
+	Korean=건설 효과음;
+	}
+[Building]
+	{
+	Korean=건설;
+	}
+[Unit Speech]
+	{
+	Korean=유닛 음성;
+	}
+[Unit Chat Level]
+	{
+	Korean=유닛 보고 수준;
+	}
+[Unit Text Acks]
+	{
+	Korean=유닛 텍스트 응답;
+	}
+[Chat Level Info]
+	{
+	Korean=보고 수준 안내;
+	}
+[Unit Acknowledgement]
+	{
+	Korean=유닛 응답;
+	}
+// Not in 3.1c's table: the Unit Speech and Unit Chat Level buttons'
+// stages, whole. A button's whole caption is translated before each of its
+// stages, and [Full] alone is a game the game list shows full.
+[Off|Medium|Full]
+	{
+	Korean=꺼짐|보통|전체;
+	}
+
+// Difficulty settings
+
+[Difficulty]
+	{
+	Korean=난이도;
+	}
+[Difficulty:]
+	{
+	Korean=난이도:;
+	}
+[Easy]
+	{
+	Korean=쉬움;
+	}
+[Medium]
+	{
+	Korean=보통;
+	}
+[Hard]
+	{
+	Korean=어려움;
+	}
+[Mapped]
+	{
+	Korean=공개;
+	}
+[Unmapped]
+	{
+	Korean=비공개;
+	}
+
+// Starting resource levels
+
+[Low]
+	{
+	Korean=낮음;
+	}
+[High]
+	{
+	Korean=높음;
+	}
+
+// Interface menu
+
+[Left]
+	{
+	Korean=왼쪽;
+	}
+[Right]
+	{
+	Korean=오른쪽;
+	}
+[Left Click]
+	{
+	Korean=왼쪽 클릭;
+	}
+[Right Click]
+	{
+	Korean=오른쪽 클릭;
+	}
+
+// Visuals menu
+
+[Shading]
+	{
+	Korean=음영;
+	}
+[Antialias]
+	{
+	Korean=안티에일리어싱;
+	}
+[Anti-aliasing]
+	{
+	Korean=안티에일리어싱;
+	}
+[Map Mode]
+	{
+	Korean=맵 모드;
+	}
+[Gamma]
+	{
+	Korean=감마;
+	}
+[Gamma Correction]
+	{
+	Korean=감마 보정;
+	}
+[Line Of Sight]
+	{
+	Korean=시야;
+	}
+[Object rendering]
+	{
+	Korean=물체 렌더링;
+	}
+[Screen Size]
+	{
+	Korean=화면 크기;
+	}
+[Size]
+	{
+	Korean=크기;
+	}
+[Shadows]
+	{
+	Korean=그림자;
+	}
+[Building Shadows]
+	{
+	Korean=건물 그림자;
+	}
+[Vehicle Shadows]
+	{
+	Korean=차량 그림자;
+	}
+[True]
+	{
+	Korean=실제;
+	}
+[Set]
+	{
+	Korean=설정;
+	}
+
+// Video mode menu
+
+[Select Videomode]
+	{
+	Korean=화면 모드 선택;
+	}
+[Select Mode]
+	{
+	Korean=모드 선택;
+	}
+
+// Save / Load game menus
+
+[Name Of Game to Load]
+	{
+	Korean=불러올 게임 이름;
+	}
+[Name Of Game to Save]
+	{
+	Korean=저장할 게임 이름;
+	}
+[Reset List]
+	{
+	Korean=목록 초기화;
+	}
+[Delete Game]
+	{
+	Korean=게임 삭제;
+	}
+[Delete List]
+	{
+	Korean=목록 삭제;
+	}
+[Cancel Save]
+	{
+	Korean=저장 취소;
+	}
+[Game type:]
+	{
+	Korean=게임 유형:;
+	}
+[Mission/Map:]
+	{
+	Korean=미션/맵:;
+	}
+[Time elapsed:]
+	{
+	Korean=경과 시간:;
+	}
+[Side:]
+	{
+	Korean=진영:;
+	}
+[Campaign:]
+	{
+	Korean=캠페인:;
+	}
+[There are no saved games to choose from]
+	{
+	Korean=선택할 수 있는 저장된 게임이 없습니다;
+	}
+[Mission:]
+	{
+	Korean=미션:;
+	}
+[Time saved:]
+	{
+	Korean=저장 시각:;
+	}
+
+// Multiplayer connection messages
+
+[The creator has left the game]
+	{
+	Korean=호스트가 게임을 떠났습니다;
+	}
+[Reject Now]
+	{
+	Korean=즉시 추방;
+	}
+[will be rejected in %d seconds]
+	{
+	Korean=%d초 후 추방됨;
+	}
+[You do not have a compatible version for this game.]
+	{
+	Korean=이 게임과 호환되는 버전이 없습니다.;
+	}
+[is not responding]
+	{
+	Korean=응답하지 않음;
+	}
+[Timed out while connecting to DirectPlay lobby!]
+	{
+	Korean=DirectPlay 로비 연결 시간이 초과되었습니다!;
+	}
+[Please insert the Installation CD (Disc 1) and select%s"%s" again.]
+	{
+	Korean=설치 CD(디스크 1)를 넣은 후%s“%s” 항목을 다시 선택하세요.;
+	}
+[Please insert the Campaign CD (Disc 2) and try again]
+	{
+	Korean=캠페인 CD(디스크 2)를 넣고 다시 시도하세요;
+	}
+[Please insert the Multiplayer CD (Disc 1) and try again]
+	{
+	Korean=멀티플레이어 CD(디스크 1)를 넣고 다시 시도하세요;
+	}
+[Fault while trying to excecute button action.]
+	{
+	Korean=버튼 동작을 실행하는 중 오류가 발생했습니다.;
+	}
+[The "%s" service failed or took %stoo long. Please see the readmee%sfile for more information.]
+	{
+	Korean=“%s” 서비스가 실패했거나%s시간이 너무 오래 걸렸습니다. 자세한 내용은%sreadme 파일을 참조하세요.;
+	}
+[Unable to connect to DirectPlay lobby.]
+	{
+	Korean=DirectPlay 로비에 연결할 수 없습니다.;
+	}
+[Unable to browse to URL: %s]
+	{
+	Korean=URL을 열 수 없습니다: %s;
+	}
+[Unable to invoke DLL: %s]
+	{
+	Korean=DLL을 호출할 수 없습니다: %s;
+	}
+[Unable to execute command: %s]
+	{
+	Korean=명령을 실행할 수 없습니다: %s;
+	}
+[Could not match weapon type "%s" for synchronization!]
+	{
+	Korean=동기화용 무기 유형 “%s”에 일치하는 항목이 없습니다!;
+	}
+[Updating...]
+	{
+	Korean=업데이트 중...;
+	}
+[You must enter a game name]
+	{
+	Korean=게임 이름을 입력해야 합니다;
+	}
+[You must enter your name]
+	{
+	Korean=이름을 입력해야 합니다;
+	}
+[You were rejected from the game]
+	{
+	Korean=게임에서 추방되었습니다;
+	}
+[The %s service failed or took%stoo long. Please see the readme%sfile for more information.]
+	{
+	Korean=%s 서비스가 실패했거나%s시간이 너무 오래 걸렸습니다. 자세한 내용은%sreadme 파일을 참조하세요.;
+	}
+[Direct Connections]
+	{
+	Korean=직접 연결;
+	}
+[Internet Access]
+	{
+	Korean=인터넷 접속;
+	}
+[There are no multiplayer games to choose from]
+	{
+	Korean=선택할 수 있는 멀티플레이어 게임이 없습니다;
+	}
+[Player has left the game]
+	{
+	Korean=플레이어가 게임을 떠났습니다;
+	}
+[Player is joining the game]
+	{
+	Korean=플레이어가 게임에 참가하는 중입니다;
+	}
+[Player has disconnected]
+	{
+	Korean=플레이어의 연결이 끊어졌습니다;
+	}
+[Player %s has disconnected]
+	{
+	Korean=플레이어 %s의 연결이 끊어졌습니다;
+	}
+[You did not have the correct password]
+	{
+	Korean=비밀번호가 올바르지 않습니다;
+	}
+[10 seconds]
+	{
+	Korean=10초;
+	}
+[Please Select Provider]
+	{
+	Korean=연결 방식을 선택하세요;
+	}
+[Select Provider]
+	{
+	Korean=연결 방식 선택;
+	}
+
+// Multiplayer interface
+
+[Allied Victory]
+	{
+	Korean=동맹 승리;
+	}
+[Chosen Units]
+	{
+	Korean=선택한 유닛;
+	}
+[More Info]
+	{
+	Korean=추가 정보;
+	}
+[Enter Game Name]
+	{
+	Korean=게임 이름 입력;
+	}
+[Enter Your Name]
+	{
+	Korean=이름 입력;
+	}
+[Create New Game]
+	{
+	Korean=새 게임 만들기;
+	}
+[Password To Join]
+	{
+	Korean=참가 비밀번호;
+	}
+[Closed]
+	{
+	Korean=닫힘;
+	}
+[The game is closed]
+	{
+	Korean=게임이 닫혔습니다;
+	}
+[The game is full]
+	{
+	Korean=게임 인원이 가득 찼습니다;
+	}
+[In Game]
+	{
+	Korean=게임 중;
+	}
+[Lounge]
+	{
+	Korean=로비;
+	}
+[Playing]
+	{
+	Korean=진행 중;
+	}
+[Full]
+	{
+	Korean=가득 참;
+	}
+[Reject Player:]
+	{
+	Korean=플레이어 추방:;
+	}
+[Reject Player]
+	{
+	Korean=플레이어 추방;
+	}
+[Reject Player?]
+	{
+	Korean=플레이어를 추방하시겠습니까?;
+	}
+[Reject %s?]
+	{
+	Korean=%s 님을 추방하시겠습니까?;
+	}
+[Reject]
+	{
+	Korean=추방;
+	}
+[Not Selected]
+	{
+	Korean=선택 안 됨;
+	}
+[NOT SELECTED]
+	{
+	Korean=선택 안 됨;
+	}
+[Join]
+	{
+	Korean=참가;
+	}
+[New]
+	{
+	Korean=새 게임;
+	}
+[Name of Game]
+	{
+	Korean=게임 이름;
+	}
+[Plyrs]
+	{
+	Korean=인원;
+	}
+[Status]
+	{
+	Korean=상태;
+	}
+[Watch]
+	{
+	Korean=관전;
+	}
+[Update]
+	{
+	Korean=갱신;
+	}
+[LOS]
+	{
+	Korean=시야;
+	}
+[Cmdr]
+	{
+	Korean=커맨더;
+	}
+[Ping]
+	{
+	Korean=핑;
+	}
+[Name]
+	{
+	Korean=이름;
+	}
+[Your Name]
+	{
+	Korean=내 이름;
+	}
+[Game Password]
+	{
+	Korean=게임 비밀번호;
+	}
+
+// Lounge options
+
+[Messages]
+	{
+	Korean=메시지;
+	}
+[Mem.]
+	{
+	Korean=메모리;
+	}
+[Ready?]
+	{
+	Korean=준비?;
+	}
+[Start Game]
+	{
+	Korean=게임 시작;
+	}
+[Select Map]
+	{
+	Korean=맵 선택;
+	}
+[Resolution]
+	{
+	Korean=해상도;
+	}
+[Cmndr Ends Game]
+	{
+	Korean=커맨더 사망 시 종료;
+	}
+[LOS Mode]
+	{
+	Korean=시야 모드;
+	}
+[Cheat Codes]
+	{
+	Korean=치트 코드;
+	}
+[Cheat Codes:]
+	{
+	Korean=치트 코드:;
+	}
+[Disallowed]
+	{
+	Korean=금지;
+	}
+[Allowed]
+	{
+	Korean=허용;
+	}
+[Watching]
+	{
+	Korean=관전;
+	}
+[Watching:]
+	{
+	Korean=관전:;
+	}
+[Watching OK]
+	{
+	Korean=관전 허용;
+	}
+[No Watching]
+	{
+	Korean=관전 금지;
+	}
+[Game Open]
+	{
+	Korean=게임 열림;
+	}
+[Game Closed]
+	{
+	Korean=게임 닫힘;
+	}
+[Game Status]
+	{
+	Korean=게임 상태;
+	}
+[Watching Allowed]
+	{
+	Korean=관전 허용;
+	}
+[Map Name]
+	{
+	Korean=맵 이름;
+	}
+[Max Units]
+	{
+	Korean=최대 유닛;
+	}
+[Max Units:]
+	{
+	Korean=최대 유닛:;
+	}
+[Game Is Open]
+	{
+	Korean=게임 열림;
+	}
+[Build Restrictions]
+	{
+	Korean=건설 제한;
+	}
+
+// Skirmish menu
+
+[Start Skirmish]
+	{
+	Korean=스커미시 시작;
+	}
+[Location]
+	{
+	Korean=위치;
+	}
+[Dead Commander]
+	{
+	Korean=커맨더 사망;
+	}
+[Commander]
+	{
+	Korean=커맨더;
+	}
+
+// Restrictions menu
+
+[Max Per Player]
+	{
+	Korean=플레이어당 최대;
+	}
+[Unit Build Restrictions]
+	{
+	Korean=유닛 건설 제한;
+	}
+[Load List]
+	{
+	Korean=목록 불러오기;
+	}
+[Save List]
+	{
+	Korean=목록 저장;
+	}
+[Name of list to save]
+	{
+	Korean=저장할 목록 이름;
+	}
+[Show Picture]
+	{
+	Korean=그림 보기;
+	}
+
+// Gameplay options
+
+[Fixed]
+	{
+	Korean=고정;
+	}
+[Random]
+	{
+	Korean=무작위;
+	}
+[Specific]
+	{
+	Korean=지정;
+	}
+[Fixed Locations]
+	{
+	Korean=고정 위치;
+	}
+[Random Locations]
+	{
+	Korean=무작위 위치;
+	}
+[Game Ends]
+	{
+	Korean=게임 종료;
+	}
+[Game ends]
+	{
+	Korean=게임 종료;
+	}
+[Deathmatch]
+	{
+	Korean=데스매치;
+	}
+[Continues]
+	{
+	Korean=계속;
+	}
+[Game Continues]
+	{
+	Korean=게임 계속;
+	}
+[Mapping Mode]
+	{
+	Korean=맵 공개 모드;
+	}
+[Mapping Mode:]
+	{
+	Korean=맵 공개 모드:;
+	}
+[Blank Map]
+	{
+	Korean=맵 가림;
+	}
+[Full Map]
+	{
+	Korean=맵 공개;
+	}
+[LOS Off]
+	{
+	Korean=시야 꺼짐;
+	}
+[Permanent]
+	{
+	Korean=영구;
+	}
+[True LOS]
+	{
+	Korean=실제 시야;
+	}
+[Circular]
+	{
+	Korean=원형;
+	}
+[Starting Locations:]
+	{
+	Korean=시작 위치:;
+	}
+[Start Location]
+	{
+	Korean=시작 위치;
+	}
+[Commander Death]
+	{
+	Korean=커맨더 사망;
+	}
+[Commander Death:]
+	{
+	Korean=커맨더 사망:;
+	}
+[Mapping]
+	{
+	Korean=맵 공개;
+	}
+[Line of Sight]
+	{
+	Korean=시야;
+	}
+[Line of Sight:]
+	{
+	Korean=시야:;
+	}
+[Computer Opponent]
+	{
+	Korean=컴퓨터 상대;
+	}
+[Computer]
+	{
+	Korean=컴퓨터;
+	}
+[AI Opponent]
+	{
+	Korean=AI 상대;
+	}
+[Opponent]
+	{
+	Korean=상대;
+	}
+[Exit the Battle]
+	{
+	Korean=전투 이탈;
+	}
+[Page 1]
+	{
+	Korean=1페이지;
+	}
+[Page 2]
+	{
+	Korean=2페이지;
+	}
+[Page 3]
+	{
+	Korean=3페이지;
+	}
+
+// Briefing messages
+
+[BACK TO START]
+	{
+	Korean=처음으로;
+	}
+[MORE...]
+	{
+	Korean=더 보기...;
+	}
+
+// Game over screen
+
+[Victory or Failure]
+	{
+	Korean=승리 또는 실패;
+	}
+[Main Menu]
+	{
+	Korean=메인 메뉴;
+	}
+[Game Statistics]
+	{
+	Korean=게임 통계;
+	}
+[Statistics]
+	{
+	Korean=통계;
+	}
+[Next Mission]
+	{
+	Korean=다음 미션;
+	}
+[Adjust Difficulty]
+	{
+	Korean=난이도 조정;
+	}
+[Adjust skirmish difficulty.]
+	{
+	Korean=스커미시 난이도를 조정합니다.;
+	}
+[You]
+	{
+	Korean=나;
+	}
+[AI Player]
+	{
+	Korean=AI 플레이어;
+	}
+[Score]
+	{
+	Korean=점수;
+	}
+[Victory]
+	{
+	Korean=승리;
+	}
+[Failure]
+	{
+	Korean=실패;
+	}
+
+// Game commands
+
+[Total Units]
+	{
+	Korean=총 유닛 수;
+	}
+[Stop Building]
+	{
+	Korean=건설 중지;
+	}
+[Options]
+	{
+	Korean=옵션;
+	}
+[Share]
+	{
+	Korean=공유;
+	}
+
+// Share options
+
+[TRANSFER RESOURCES]
+	{
+	Korean=자원 전송;
+	}
+[Selected Units]
+	{
+	Korean=선택한 유닛;
+	}
+[Select Player]
+	{
+	Korean=플레이어 선택;
+	}
+[Map Info]
+	{
+	Korean=맵 정보;
+	}
+
+// Unit status messages
+
+[five]
+	{
+	Korean=다섯;
+	}
+[four]
+	{
+	Korean=넷;
+	}
+[three]
+	{
+	Korean=셋;
+	}
+[two]
+	{
+	Korean=둘;
+	}
+[one]
+	{
+	Korean=하나;
+	}
+[zero]
+	{
+	Korean=영;
+	}
+[Building complete]
+	{
+	Korean=건설 완료;
+	}
+[Capture failed]
+	{
+	Korean=포획 실패;
+	}
+[Construction failed: target area was blocked]
+	{
+	Korean=건설 실패: 목표 지점이 막혀 있습니다;
+	}
+[Construction stopped]
+	{
+	Korean=건설 중지됨;
+	}
+[Construction terminated]
+	{
+	Korean=건설 중단됨;
+	}
+[Target area was blocked]
+	{
+	Korean=목표 지점이 막혀 있습니다;
+	}
+[Construction terminated by hostile action]
+	{
+	Korean=적의 공격으로 건설 중단됨;
+	}
+[How can I fix units when they keep blowing up?]
+	{
+	Korean=자꾸 터지는 유닛을 어떻게 수리하란 말입니까?;
+	}
+[I can't get there]
+	{
+	Korean=그곳으로 갈 수 없습니다;
+	}
+[I can't reach the construction site]
+	{
+	Korean=건설 현장에 도달할 수 없습니다;
+	}
+[Landing aborted]
+	{
+	Korean=착륙 중단;
+	}
+[Landing aborted: all pads are occupied]
+	{
+	Korean=착륙 중단: 모든 수리대가 사용 중입니다;
+	}
+[Landing aborted: no pads available]
+	{
+	Korean=착륙 중단: 사용 가능한 수리대가 없습니다;
+	}
+[Landing failed]
+	{
+	Korean=착륙 실패;
+	}
+[Loading unit]
+	{
+	Korean=유닛 탑재 중;
+	}
+[Preparing for transport]
+	{
+	Korean=수송 준비 중;
+	}
+[Reclamate failed]
+	{
+	Korean=회수 실패;
+	}
+[Reclamating]
+	{
+	Korean=회수 중;
+	}
+[Reclamation failed]
+	{
+	Korean=회수 실패;
+	}
+[Repair aborted.]
+	{
+	Korean=수리를 중단했습니다.;
+	}
+[Repair mission failed]
+	{
+	Korean=수리 임무 실패;
+	}
+[Repairs unsuccessful.]
+	{
+	Korean=수리하지 못했습니다.;
+	}
+[Self destruct terminated]
+	{
+	Korean=자폭 취소됨;
+	}
+[Starting construction]
+	{
+	Korean=건설 시작;
+	}
+[That unit cannot be captured]
+	{
+	Korean=해당 유닛은 포획할 수 없습니다;
+	}
+[That unit cannot be reclamated]
+	{
+	Korean=해당 유닛은 회수할 수 없습니다;
+	}
+[That unit cannot be reclaimed]
+	{
+	Korean=해당 유닛은 회수할 수 없습니다;
+	}
+[That unit is a cloud of vapor and cannot be captured]
+	{
+	Korean=해당 유닛은 이미 증기 구름이 되어 포획할 수 없습니다;
+	}
+[That unit is a cloud of vapor and cannot be reclamated]
+	{
+	Korean=해당 유닛은 이미 증기 구름이 되어 회수할 수 없습니다;
+	}
+[Transport mission failed]
+	{
+	Korean=수송 임무 실패;
+	}
+[End Transport]
+	{
+	Korean=수송 종료;
+	}
+[Unable to create any more units]
+	{
+	Korean=유닛을 더 만들 수 없습니다;
+	}
+[Unable to unload unit]
+	{
+	Korean=유닛을 하역할 수 없습니다;
+	}
+[Unit is too heavy to transport]
+	{
+	Korean=유닛이 너무 무거워 수송할 수 없습니다;
+	}
+[Unit is too large to transport]
+	{
+	Korean=유닛이 너무 커서 수송할 수 없습니다;
+	}
+[Unit repaired]
+	{
+	Korean=유닛 수리 완료;
+	}
+[Unloading]
+	{
+	Korean=하역 중;
+	}
+[Unloading process is proceeding non-optimally]
+	{
+	Korean=하역 작업이 최적으로 진행되지 않고 있습니다;
+	}
+[Waiting for construction area to clear]
+	{
+	Korean=건설 구역이 빌 때까지 대기 중;
+	}
+[Waiting for target area to clear]
+	{
+	Korean=목표 구역이 빌 때까지 대기 중;
+	}
+[Waiting for construction pad to clear]
+	{
+	Korean=건설 패드가 빌 때까지 대기 중;
+	}
+
+// Miscellaneous
+
+[Warning!\n\nUnable to register %1 for DirectPlay.]
+	{
+	Korean=경고!\n\n%1: DirectPlay에 등록할 수 없습니다.;
+	}
+[Unidentified object]
+	{
+	Korean=미확인 물체;
+	}
+[Game Time]
+	{
+	Korean=게임 시간;
+	}
+[Human]
+	{
+	Korean=사람;
+	}
+[Human Player]
+	{
+	Korean=사람 플레이어;
+	}
+[Open]
+	{
+	Korean=열림;
+	}
+[Error]
+	{
+	Korean=오류;
+	}
+[There are too many players enabled for this map]
+	{
+	Korean=이 맵에 비해 활성화된 플레이어가 너무 많습니다;
+	}
+[There must be at least one human player and one AI opponent]
+	{
+	Korean=최소한 사람 플레이어 한 명과 AI 상대 한 명이 있어야 합니다;
+	}
+[There must be at least one player and one computer opponent]
+	{
+	Korean=최소한 플레이어 한 명과 컴퓨터 상대 한 명이 있어야 합니다;
+	}
+[You have lost connection with the game]
+	{
+	Korean=게임과의 연결이 끊어졌습니다;
+	}
+[Lost connection with game]
+	{
+	Korean=게임 연결 끊김;
+	}
+[You need a unit you don't have for this game]
+	{
+	Korean=이 게임에 필요한 유닛이 없습니다;
+	}
+[You need a newer version of the game to enter]
+	{
+	Korean=참가하려면 더 높은 버전의 게임이 필요합니다;
+	}
+[No watching is allowed for this game]
+	{
+	Korean=이 게임은 관전할 수 없습니다;
+	}
+[Out of memory! Your hard disk may be full.]
+	{
+	Korean=메모리 부족! 하드 디스크가 가득 찼을 수 있습니다.;
+	}
+
+// Unit speech
+
+[Under Attack]
+	{
+	Korean=공격받는 중;
+	}
+[Arrived]
+	{
+	Korean=목적지 도착;
+	}
+[Cannot Comply]
+	{
+	Korean=명령 수행 불가;
+	}
+[Nanolathe Complete]
+	{
+	Korean=나노 건설 완료;
+	}
+[Cloaked]
+	{
+	Korean=은폐됨;
+	}
+[Visible]
+	{
+	Korean=노출됨;
+	}
+
+// Mission states
+
+[Acknowledged]
+	{
+	Korean=명령 확인;
+	}
+[Activate]
+	{
+	Korean=활성화;
+	}
+[Airstrike]
+	{
+	Korean=공습;
+	}
+[Annihilating]
+	{
+	Korean=섬멸 중;
+	}
+[Attacking]
+	{
+	Korean=공격 중;
+	}
+[Being transported]
+	{
+	Korean=수송되는 중;
+	}
+[Capturing]
+	{
+	Korean=포획 중;
+	}
+[Cloaking]
+	{
+	Korean=은폐 중;
+	}
+[Deactivate]
+	{
+	Korean=비활성화;
+	}
+[Decloaking]
+	{
+	Korean=은폐 해제 중;
+	}
+[Defending]
+	{
+	Korean=방어 중;
+	}
+[Diving]
+	{
+	Korean=잠수 중;
+	}
+[Engaging target]
+	{
+	Korean=목표와 교전 중;
+	}
+[Evading]
+	{
+	Korean=회피 중;
+	}
+[Following]
+	{
+	Korean=따라가는 중;
+	}
+[Guarding]
+	{
+	Korean=호위 중;
+	}
+[Landing]
+	{
+	Korean=착륙 중;
+	}
+[Loading]
+	{
+	Korean=탑재 중;
+	}
+[Moving]
+	{
+	Korean=이동 중;
+	}
+[Nanolathing]
+	{
+	Korean=나노 건설 중;
+	}
+[Paralyzed]
+	{
+	Korean=마비됨;
+	}
+[Parking]
+	{
+	Korean=주차 중;
+	}
+[Patrolling]
+	{
+	Korean=순찰 중;
+	}
+[Patrolling for damaged units]
+	{
+	Korean=손상된 유닛을 찾아 순찰 중;
+	}
+[Ready]
+	{
+	Korean=준비 완료;
+	}
+[Ready with orders]
+	{
+	Korean=명령 수행 준비 완료;
+	}
+[Reclaiming]
+	{
+	Korean=회수 중;
+	}
+[Repairing]
+	{
+	Korean=수리 중;
+	}
+[Repair patrol]
+	{
+	Korean=수리 순찰;
+	}
+[Seeking to attack]
+	{
+	Korean=공격하러 가는 중;
+	}
+[Seeking to defend]
+	{
+	Korean=방어하러 가는 중;
+	}
+[Seeking to land]
+	{
+	Korean=착륙할 곳을 찾는 중;
+	}
+[Seeking to guard]
+	{
+	Korean=호위하러 가는 중;
+	}
+[SELF DESTRUCT ENGAGED]
+	{
+	Korean=자폭 개시;
+	}
+[Standby]
+	{
+	Korean=대기;
+	}
+[Stopping]
+	{
+	Korean=정지 중;
+	}
+[Suppressing fire]
+	{
+	Korean=제압 사격 중;
+	}
+[Surfacing]
+	{
+	Korean=떠오르는 중;
+	}
+[Teleporting]
+	{
+	Korean=순간 이동 중;
+	}
+[Under construction]
+	{
+	Korean=건설 중;
+	}
+[Under repair]
+	{
+	Korean=수리받는 중;
+	}
+[Unit is available]
+	{
+	Korean=유닛 사용 가능;
+	}
+[Waiting]
+	{
+	Korean=대기 중;
+	}
+[Waiting for attack]
+	{
+	Korean=공격 대기 중;
+	}
+
+// Feature descriptions
+
+[Description]
+	{
+	Korean=설명;
+	}
+[Plant]
+	{
+	Korean=식물;
+	}
+[Burnt Plant]
+	{
+	Korean=불탄 식물;
+	}
+[Fortification Wall]
+	{
+	Korean=방벽;
+	}
+[Hole]
+	{
+	Korean=구멍;
+	}
+[Crater]
+	{
+	Korean=크레이터;
+	}
+[Foliage]
+	{
+	Korean=수풀;
+	}
+[Rock]
+	{
+	Korean=바위;
+	}
+[rock]
+	{
+	Korean=바위;
+	}
+[Rubble]
+	{
+	Korean=돌무더기;
+	}
+[Thermal Vent]
+	{
+	Korean=지열 분출구;
+	}
+[Ventilation Engine]
+	{
+	Korean=환기 장치;
+	}
+[Wreckage]
+	{
+	Korean=잔해;
+	}
+[Burnt Foliage]
+	{
+	Korean=불탄 수풀;
+	}
+[Burnt Tree]
+	{
+	Korean=불탄 나무;
+	}
+[Tree]
+	{
+	Korean=나무;
+	}
+[Ice Chunks]
+	{
+	Korean=얼음 덩어리;
+	}
+[Damaged Terrain]
+	{
+	Korean=손상된 지형;
+	}
+[Damaged Surface]
+	{
+	Korean=손상된 지표;
+	}
+[DragonsTeeth]
+	{
+	Korean=용치;
+	}
+[Dragons Teeth - NS]
+	{
+	Korean=용치 - NS;
+	}
+[DragonsTeeth - NS]
+	{
+	Korean=용치 - NS;
+	}
+[Metal Deposit]
+	{
+	Korean=금속 매장지;
+	}
+[Node]
+	{
+	Korean=노드;
+	}
+[Spire]
+	{
+	Korean=첨탑;
+	}
+[Glyph]
+	{
+	Korean=문양;
+	}
+[Ruin]
+	{
+	Korean=폐허;
+	}
+[Seismic Monitor]
+	{
+	Korean=지진 감시기;
+	}
+[Pipe]
+	{
+	Korean=파이프;
+	}
+[Communications Uplink]
+	{
+	Korean=통신 업링크;
+	}
+[Comm Uplink]
+	{
+	Korean=통신 업링크;
+	}
+[Communication Tower]
+	{
+	Korean=통신탑;
+	}
+[Regulator Complex]
+	{
+	Korean=조절기 단지;
+	}
+[Thermal Regulator]
+	{
+	Korean=열 조절기;
+	}
+[Transmitter]
+	{
+	Korean=송신기;
+	}
+[Pressure Release Valve]
+	{
+	Korean=압력 방출 밸브;
+	}
+[Pressure Valve]
+	{
+	Korean=압력 밸브;
+	}
+
+// Multiplayer online interface messages
+
+[Invalid TCP/IP Address]
+	{
+	Korean=잘못된 TCP/IP 주소;
+	}
+[Enter TCP address (leave blank to search)]
+	{
+	Korean=TCP 주소 입력 (비워 두면 검색);
+	}
+[Phone Numbers]
+	{
+	Korean=전화번호;
+	}
+[Number]
+	{
+	Korean=번호;
+	}
+[Modem]
+	{
+	Korean=모뎀;
+	}
+[Port]
+	{
+	Korean=포트;
+	}
+[Answer]
+	{
+	Korean=수신;
+	}
+[Dial]
+	{
+	Korean=발신;
+	}
+[Host]
+	{
+	Korean=호스트;
+	}
+[Play]
+	{
+	Korean=플레이;
+	}
+[Unit Download]
+	{
+	Korean=유닛 다운로드;
+	}
+
+// In game pop-up messages
+
+[Game Name]
+	{
+	Korean=게임 이름;
+	}
+[Map game will play on]
+	{
+	Korean=이 게임에서 사용할 맵;
+	}
+[Does dead commander end game?]
+	{
+	Korean=커맨더 사망 시 게임 종료 여부;
+	}
+[Average latency (big is bad)]
+	{
+	Korean=평균 지연 시간 (클수록 나쁨);
+	}
+[Type of Line of Sight]
+	{
+	Korean=시야 유형;
+	}
+[Tells if you start with map]
+	{
+	Korean=시작 시 맵 공개 여부;
+	}
+[Starting Metal:]
+	{
+	Korean=시작 금속:;
+	}
+[Starting Energy:]
+	{
+	Korean=시작 에너지:;
+	}
+[Starting metal amount]
+	{
+	Korean=시작 금속량;
+	}
+[Starting energy amount]
+	{
+	Korean=시작 에너지량;
+	}
+[Click to edit energy value.]
+	{
+	Korean=클릭하여 에너지 값을 변경합니다.;
+	}
+[Click to set energy value.]
+	{
+	Korean=클릭하여 에너지 값을 설정합니다.;
+	}
+[Click to edit metal value.]
+	{
+	Korean=클릭하여 금속 값을 변경합니다.;
+	}
+[Click to set metal value.]
+	{
+	Korean=클릭하여 금속 값을 설정합니다.;
+	}
+[Left click to increase metal. Right click to decrease metal.]
+	{
+	Korean=왼쪽 클릭으로 금속을 늘리고 오른쪽 클릭으로 줄입니다.;
+	}
+[Left click to increase energy. Right click to decrease energy.]
+	{
+	Korean=왼쪽 클릭으로 에너지를 늘리고 오른쪽 클릭으로 줄입니다.;
+	}
+[Click to select an allegiance symbol.]
+	{
+	Korean=클릭하여 동맹 기호를 선택합니다.;
+	}
+[Players in game / Max players]
+	{
+	Korean=참가 중인 플레이어 / 최대 플레이어;
+	}
+[Tells if game is in play]
+	{
+	Korean=게임 진행 여부;
+	}
+[Game ends when commander is destroyed.]
+	{
+	Korean=커맨더가 파괴되면 게임이 끝납니다.;
+	}
+[Game continues after Commander is destroyed.]
+	{
+	Korean=커맨더가 파괴되어도 게임이 계속됩니다.;
+	}
+[Commanders are placed at pre-determined locations.]
+	{
+	Korean=커맨더가 미리 정해진 위치에서 시작합니다.;
+	}
+[Commanders are randomly placed on the battle field.]
+	{
+	Korean=커맨더가 전장의 무작위 위치에서 시작합니다.;
+	}
+[Terrain is blacked out until explored.]
+	{
+	Korean=탐사하기 전까지 지형이 검게 가려집니다.;
+	}
+[Terrain is visible.]
+	{
+	Korean=지형이 보입니다.;
+	}
+[Terrain elevations affect a unit's view.]
+	{
+	Korean=지형의 높낮이가 유닛의 시야에 영향을 줍니다.;
+	}
+[Terrain elevations do not affect a unit's view.]
+	{
+	Korean=지형의 높낮이가 유닛의 시야에 영향을 주지 않습니다.;
+	}
+[All mapped terrain is visible.]
+	{
+	Korean=탐사한 지형은 모두 계속 보입니다.;
+	}
+[Exit Mission]
+	{
+	Korean=미션 나가기;
+	}
+[Exit Skirmish]
+	{
+	Korean=스커미시 나가기;
+	}
+[Exit Battle]
+	{
+	Korean=전투 나가기;
+	}
+[Restart Mission]
+	{
+	Korean=미션 재시작;
+	}
+[Restart Skirmish]
+	{
+	Korean=스커미시 재시작;
+	}
+[Restart]
+	{
+	Korean=재시작;
+	}
+[Close Windows CD Player?]
+	{
+	Korean=Windows CD 플레이어를 닫으시겠습니까?;
+	}
+[CD Music]
+	{
+	Korean=CD 음악;
+	}
+[Surrender this battle and return to main menu?]
+	{
+	Korean=이 전투에서 항복하고 메인 메뉴로 돌아가시겠습니까?;
+	}
+[Surrender this battle and exit to Windows?]
+	{
+	Korean=이 전투에서 항복하고 Windows로 나가시겠습니까?;
+	}
+
+// Title Screen
+
+[SINGLE]
+	{
+	Korean=싱글 플레이어;
+	}
+[Single]
+	{
+	Korean=싱글 플레이어;
+	}
+[MULTI]
+	{
+	Korean=멀티플레이어;
+	}
+[INTRO]
+	{
+	Korean=인트로;
+	}
+[EXIT]
+	{
+	Korean=종료;
+	}
+[Exit]
+	{
+	Korean=종료;
+	}
+
+// In-Game Help Screen
+
+[Keyboard Commands]
+	{
+	Korean=키보드 명령;
+	}
+[SPACEBAR]
+	{
+	Korean=SPACEBAR;
+	}
+[Activate the game status bar]
+	{
+	Korean=게임 상태 표시줄 켜기;
+	}
+[Bring up the multiplayer scorecard]
+	{
+	Korean=멀티플레이어 점수표 표시;
+	}
+[Select all factories]
+	{
+	Korean=모든 공장 선택;
+	}
+[Multiplayer options]
+	{
+	Korean=멀티플레이어 옵션;
+	}
+[Cancels the current command]
+	{
+	Korean=현재 명령 취소;
+	}
+[Assign the currently selected units to a squad]
+	{
+	Korean=선택한 유닛을 부대로 지정;
+	}
+[Select squad]
+	{
+	Korean=부대 선택;
+	}
+[Toggles fire orders]
+	{
+	Korean=사격 명령 전환;
+	}
+[Toggles selected unit's cloaking capabilities]
+	{
+	Korean=선택한 유닛의 은폐 기능 전환;
+	}
+[Toggles move orders]
+	{
+	Korean=이동 명령 전환;
+	}
+[Select the Build menu for the current unit]
+	{
+	Korean=현재 유닛의 건설 메뉴 열기;
+	}
+[Select the Orders menu for the current unit]
+	{
+	Korean=현재 유닛의 명령 메뉴 열기;
+	}
+[Select the menu for the current unit]
+	{
+	Korean=현재 유닛의 메뉴 열기;
+	}
+[, (comma)]
+	{
+	Korean=, (쉼표);
+	}
+[Select the previous menu for that unit]
+	{
+	Korean=해당 유닛의 이전 메뉴로 이동;
+	}
+[. (period)]
+	{
+	Korean=. (마침표);
+	}
+[Select the next menu for that unit]
+	{
+	Korean=해당 유닛의 다음 메뉴로 이동;
+	}
+[~ (tilde)]
+	{
+	Korean=~ (물결표);
+	}
+[Toggle damage bars on the units]
+	{
+	Korean=유닛 체력 막대 표시 전환;
+	}
+[Pause the game]
+	{
+	Korean=게임 일시 정지;
+	}
+[Display information on selected unit]
+	{
+	Korean=선택한 유닛의 정보 표시;
+	}
+[Display the Options menu]
+	{
+	Korean=옵션 메뉴 표시;
+	}
+[Selects the unit that last reported]
+	{
+	Korean=마지막으로 보고한 유닛 선택;
+	}
+[Screen capture]
+	{
+	Korean=화면 캡처;
+	}
+[Clear all chat messages]
+	{
+	Korean=모든 채팅 메시지 지우기;
+	}
+[Select all units]
+	{
+	Korean=모든 유닛 선택;
+	}
+[Select all construction units except the Commander]
+	{
+	Korean=커맨더를 제외한 모든 건설 유닛 선택;
+	}
+[Select the Commander]
+	{
+	Korean=커맨더 선택;
+	}
+[Destruct selected unit(s)]
+	{
+	Korean=선택한 유닛 자폭;
+	}
+[Select all units currently on the screen]
+	{
+	Korean=화면에 보이는 모든 유닛 선택;
+	}
+[Select all aircraft]
+	{
+	Korean=모든 항공기 선택;
+	}
+[Select all units of same type]
+	{
+	Korean=같은 종류의 유닛 모두 선택;
+	}
+[Applies a map bookmark at cursor location]
+	{
+	Korean=커서 위치에 맵 책갈피 지정;
+	}
+[Centers the screen on a map bookmark]
+	{
+	Korean=맵 책갈피 위치로 화면 이동;
+	}
+[Give an attack order]
+	{
+	Korean=공격 명령 내리기;
+	}
+[Give a guard order]
+	{
+	Korean=호위 명령 내리기;
+	}
+[Give a move order]
+	{
+	Korean=이동 명령 내리기;
+	}
+[Give a patrol order]
+	{
+	Korean=순찰 명령 내리기;
+	}
+[Give a stop order (cancel previous orders)]
+	{
+	Korean=정지 명령 내리기 (이전 명령 취소);
+	}
+[Use the Disintegrator Gun]
+	{
+	Korean=디스인티그레이터 건(D건) 사용;
+	}
+[Give a capture order]
+	{
+	Korean=포획 명령 내리기;
+	}
+[Give a repair order]
+	{
+	Korean=수리 명령 내리기;
+	}
+[Give a reclaim order]
+	{
+	Korean=회수 명령 내리기;
+	}
+[Share resources with another player]
+	{
+	Korean=다른 플레이어와 자원 공유;
+	}
+[Scroll to the next unit off screen]
+	{
+	Korean=화면 밖의 다음 유닛으로 이동;
+	}
+[Track the selected unit]
+	{
+	Korean=선택한 유닛 추적;
+	}
+[Reduce the game speed]
+	{
+	Korean=게임 속도 낮추기;
+	}
+[Increase the game speed]
+	{
+	Korean=게임 속도 높이기;
+	}
+[Hold down to queue up multiple commands]
+	{
+	Korean=누른 채로 여러 명령을 대기열에 추가;
+	}
+[ENTER]
+	{
+	Korean=ENTER;
+	}
+[Activate the message bar]
+	{
+	Korean=메시지 입력줄 열기;
+	}
+[Turn Rate]
+	{
+	Korean=선회 속도;
+	}
+
+// Multiplayer map names and descriptions
+
+[painted desert]
+	{
+	Korean=채색 사막;
+	}
+[18 x 18  battle in the many mesas area.]
+	{
+	Korean=18 x 18  메사가 많은 지역에서 벌어지는 전투.;
+	}
+[caldera's rim]
+	{
+	Korean=칼데라 가장자리;
+	}
+[29 x 29  sunken volcanic crater in center of map]
+	{
+	Korean=29 x 29  맵 중앙의 함몰된 화산 분화구;
+	}
+[coast to coast]
+	{
+	Korean=해안에서 해안으로;
+	}
+[7 x 4  water between two coasts. weak tides.]
+	{
+	Korean=7 x 4  두 해안 사이의 바다. 약한 조류.;
+	}
+[dark side]
+	{
+	Korean=어두운 면;
+	}
+[6 x 5  lunar map with plenty of metal]
+	{
+	Korean=6 x 5  금속이 풍부한 달 표면 맵;
+	}
+[etorrep glacier]
+	{
+	Korean=에토렙 빙하;
+	}
+[5 x 8  strong winds coming from ocean.]
+	{
+	Korean=5 x 8  바다에서 불어오는 강풍.;
+	}
+[fox holes]
+	{
+	Korean=참호;
+	}
+[7 x 7  strong winds. more metal on high ground.]
+	{
+	Korean=7 x 7  강풍. 고지대에 금속이 더 많음.;
+	}
+[full moon]
+	{
+	Korean=보름달;
+	}
+[8 x 8  fighting on the naryb highlands. no wind.]
+	{
+	Korean=8 x 8  나리브 고지대에서 벌어지는 전투. 바람 없음.;
+	}
+[gods of war]
+	{
+	Korean=전쟁의 신들;
+	}
+[9 x 8  asymmetric water map.]
+	{
+	Korean=9 x 8  비대칭 해상 맵.;
+	}
+[great divide]
+	{
+	Korean=대분수령;
+	}
+[5 x 8  fight through a mountain pass.]
+	{
+	Korean=5 x 8  고갯길을 뚫고 나아가는 전투.;
+	}
+[hundred isles]
+	{
+	Korean=백 개의 섬;
+	}
+[12 x 12  fighting on over a hundred small islands]
+	{
+	Korean=12 x 12  백 개가 넘는 작은 섬에서 벌어지는 전투;
+	}
+[kill the middle]
+	{
+	Korean=중앙을 쳐라;
+	}
+[13 x 13  powerful player in middle of map on island.]
+	{
+	Korean=13 x 13  맵 중앙의 섬에 자리 잡은 강력한 플레이어.;
+	}
+[king of the hill]
+	{
+	Korean=언덕의 왕;
+	}
+[16 x 16  fight for a metal rich mountain. strong wind.]
+	{
+	Korean=16 x 16  금속이 풍부한 산을 두고 벌이는 쟁탈전. 강풍.;
+	}
+[lava & two hills]
+	{
+	Korean=용암과 두 언덕;
+	}
+[9 x 8  two giant hills & a river of lava between them]
+	{
+	Korean=9 x 8  거대한 두 언덕과 그 사이를 흐르는 용암 강;
+	}
+[lava highground]
+	{
+	Korean=용암 고지;
+	}
+[8 x 8  fight over narrow ramps.]
+	{
+	Korean=8 x 8  좁은 경사로를 두고 벌이는 전투.;
+	}
+[lava mania]
+	{
+	Korean=용암 광란;
+	}
+[8 x 8  strong winds.]
+	{
+	Korean=8 x 8  강풍.;
+	}
+[lava run]
+	{
+	Korean=용암 줄기;
+	}
+[13 x 4  lava strip down center. high winds.]
+	{
+	Korean=13 x 4  중앙을 가로지르는 용암 띠. 강풍.;
+	}
+[greenhaven]
+	{
+	Korean=그린헤이븐;
+	}
+[16 x 16  large map with many hills to hide behind.]
+	{
+	Korean=16 x 16  숨을 수 있는 언덕이 많은 대형 맵.;
+	}
+[metal heck]
+	{
+	Korean=금속 지옥;
+	}
+[8 x 8  fight in the metal cross region.]
+	{
+	Korean=8 x 8  금속 십자 지대에서 벌어지는 전투.;
+	}
+[red hot lava]
+	{
+	Korean=시뻘건 용암;
+	}
+[11 x 9  many hills and lava pools. plenty of metal]
+	{
+	Korean=11 x 9  수많은 언덕과 용암 웅덩이. 풍부한 금속;
+	}
+[red planet]
+	{
+	Korean=붉은 행성;
+	}
+[9 x 9   many small hills and pools]
+	{
+	Korean=9 x 9   수많은 작은 언덕과 웅덩이;
+	}
+[red triangle]
+	{
+	Korean=붉은 삼각형;
+	}
+[16 x 16  powerful tides and strong winds.]
+	{
+	Korean=16 x 16  강한 조류와 강풍.;
+	}
+[ring atoll]
+	{
+	Korean=환초;
+	}
+[21 x 21  powerful tides. ground units can use shallow water.]
+	{
+	Korean=21 x 21  강한 조류. 지상 유닛이 얕은 물을 건널 수 있음.;
+	}
+[rock alley]
+	{
+	Korean=바위 골목;
+	}
+[9 x 21  fight in mountian valley.]
+	{
+	Korean=9 x 21  산골짜기에서 벌어지는 전투.;
+	}
+[sherwood]
+	{
+	Korean=셔우드;
+	}
+[6 x 6  fighting around 3 large hills]
+	{
+	Korean=6 x 6  큰 언덕 3개를 둘러싼 전투;
+	}
+[shore to shore]
+	{
+	Korean=해변에서 해변으로;
+	}
+[29 x 4  two coasts with large ocean between them.]
+	{
+	Korean=29 x 4  넓은 바다를 사이에 둔 두 해안.;
+	}
+[the desert triad]
+	{
+	Korean=사막의 세 메사;
+	}
+[6 x 6  fighting on 3 mesas.]
+	{
+	Korean=6 x 6  메사 3개 위에서 벌어지는 전투.;
+	}
+[two continents]
+	{
+	Korean=두 대륙;
+	}
+[22 x 25  metal in the middle of the map.]
+	{
+	Korean=22 x 25  맵 중앙에 금속이 있음.;
+	}
+[yerrot mountains]
+	{
+	Korean=예롯 산맥;
+	}
+[27 x 23  mountain range with lots of metal.]
+	{
+	Korean=27 x 23  금속이 풍부한 산맥.;
+	}
+[pincushion]
+	{
+	Korean=바늘꽂이;
+	}
+[13 x 13  a fight amongst lava spires]
+	{
+	Korean=13 x 13  용암 첨탑 사이에서 벌어지는 전투;
+	}
+[over crude water]
+	{
+	Korean=원유 바다 위;
+	}
+[25 x 25  a maze of metal bridges.]
+	{
+	Korean=25 x 25  금속 다리로 이루어진 미로.;
+	}
+[seven islands]
+	{
+	Korean=일곱 개의 섬;
+	}
+[40 x 40  huge sea battle on core prime]
+	{
+	Korean=40 x 40  CORE 프라임에서 벌어지는 대규모 해전;
+	}
+[ashap plateau]
+	{
+	Korean=아샵 고원;
+	}
+[9 x 9  metal on rough lower level]
+	{
+	Korean=9 x 9  험한 저지대에 금속이 있음;
+	}
+[the cold place]
+	{
+	Korean=추운 땅;
+	}
+[15 x 11  fighting on a flat tundra with very strong winds.]
+	{
+	Korean=15 x 11  매우 강한 바람이 부는 평탄한 툰드라에서 벌어지는 전투.;
+	}
+[evad river confluence]
+	{
+	Korean=에바드 강 합류점;
+	}
+[11 x 10 map.  intermittent winds]
+	{
+	Korean=11 x 10 맵.  간헐적인 바람;
+	}
+[lava alley]
+	{
+	Korean=용암 골목;
+	}
+[18 x 18  fighting in narrow valleys.]
+	{
+	Korean=18 x 18  좁은 골짜기에서 벌어지는 전투.;
+	}
+[the pass]
+	{
+	Korean=고갯길;
+	}
+[7 x 4  fight to control a winding mountian pass.]
+	{
+	Korean=7 x 4  구불구불한 고갯길을 차지하기 위한 전투.;
+	}
+[anteer strait]
+	{
+	Korean=안티어 해협;
+	}
+[18 x 18  fight in an iceburg filled ocean. strong tides.]
+	{
+	Korean=18 x 18  빙산이 가득한 바다에서 벌어지는 전투. 강한 조류.;
+	}
+[metal isles]
+	{
+	Korean=금속 군도;
+	}
+[23 X 21  4 Symmetrical Metal Islands, good for sea battles]
+	{
+	Korean=23 X 21  대칭을 이룬 금속 섬 4개, 해전에 적합;
+	}
+
+// Expansion Pack map names and descriptions
+
+[acid foursome]
+	{
+	Korean=산성 4인전;
+	}
+[13 X 13  Open plains and small lakes.]
+	{
+	Korean=13 X 13  탁 트인 평원과 작은 호수들.;
+	}
+[acid pools]
+	{
+	Korean=산성 웅덩이;
+	}
+[32 X 23  Masses of land with narrow passages.]
+	{
+	Korean=32 X 23  좁은 통로로 이어진 땅덩어리들.;
+	}
+[acid trip]
+	{
+	Korean=산성 여행;
+	}
+[15 X 39  Watch out for the acid or you'll melt away.]
+	{
+	Korean=15 X 39  산성액을 조심하세요. 안 그러면 녹아 버립니다.;
+	}
+[assault on suburbia]
+	{
+	Korean=교외 습격;
+	}
+[16 X 16 Crush 'em.]
+	{
+	Korean=16 X 16 박살 내세요.;
+	}
+[biggie biggs]
+	{
+	Korean=비기 빅스;
+	}
+[36 X 16  Dance from island to island crushing your opponents.]
+	{
+	Korean=36 X 16  섬에서 섬으로 춤추듯 옮겨 다니며 적을 짓밟으세요.;
+	}
+[block wars]
+	{
+	Korean=블록 전쟁;
+	}
+[20 X 20  Battling through the Core Prime suburbs.]
+	{
+	Korean=20 X 20  CORE 프라임 교외를 누비며 벌이는 전투.;
+	}
+[brain coral]
+	{
+	Korean=뇌산호;
+	}
+[20 X 20  Hydrous map with brain coral spiral.]
+	{
+	Korean=20 X 20  뇌산호 모양의 나선이 펼쳐진 바다 맵.;
+	}
+[25 X 24  Keep your Kbots on the trails.]
+	{
+	Korean=25 X 24  K봇이 오솔길을 벗어나지 않게 하세요.;
+	}
+[checker ponds]
+	{
+	Korean=바둑판 연못;
+	}
+[13 X 13  Be wary of the many corrosive puddles.]
+	{
+	Korean=13 X 13  곳곳에 널린 부식성 웅덩이를 조심하세요.;
+	}
+[cluster freak]
+	{
+	Korean=아수라장;
+	}
+[10 X 10  High winds with lots of metal in the middle.]
+	{
+	Korean=10 X 10  강한 바람이 불고 중앙에 금속이 풍부합니다.;
+	}
+[comet catcher]
+	{
+	Korean=혜성 사냥꾼;
+	}
+[12 X 15  Low gravity livens up this desolate landscape.]
+	{
+	Korean=12 X 15  낮은 중력이 황량한 풍경에 활기를 불어넣습니다.;
+	}
+[core prime industrial area]
+	{
+	Korean=CORE 프라임 공업 지대;
+	}
+[21 X 21  Abandoned Core industrial area.]
+	{
+	Korean=21 X 21  버려진 CORE 공업 지대.;
+	}
+[crater islands]
+	{
+	Korean=크레이터 제도;
+	}
+[10 X 8  Fight your way across these shallow waters.]
+	{
+	Korean=10 X 8  얕은 바다를 헤치며 싸워 나가세요.;
+	}
+[crystal cracked]
+	{
+	Korean=갈라진 크리스털;
+	}
+[20 X 20 Two land masses split by an inland filled sea.]
+	{
+	Korean=20 X 20 내해를 사이에 두고 갈라진 두 땅덩어리.;
+	}
+[crystal isles]
+	{
+	Korean=크리스털 제도;
+	}
+[20 X 20 Crystal World ocean, dotted with reefs and islands.]
+	{
+	Korean=20 X 20 암초와 섬이 점점이 흩어진 크리스털 세계의 바다.;
+	}
+[crystal maze]
+	{
+	Korean=크리스털 미로;
+	}
+[10 X 10 Free-for-all in a maze of mountains.]
+	{
+	Korean=10 X 10 산들이 이룬 미로에서 벌이는 난전.;
+	}
+[crystal treasure island]
+	{
+	Korean=크리스털 보물섬;
+	}
+[12 X 13  Crystal map with metal-rich islands in the center.]
+	{
+	Korean=12 X 13  중앙에 금속이 풍부한 섬들이 있는 크리스털 맵.;
+	}
+[dire straits]
+	{
+	Korean=험난한 해협;
+	}
+[15 X 17 Natural fortification to hide between.]
+	{
+	Korean=15 X 17 사이사이에 몸을 숨길 수 있는 천연 요새.;
+	}
+[east indeez]
+	{
+	Korean=동인도 제도;
+	}
+[28 X 19 Lots of islands, lots of water!]
+	{
+	Korean=28 X 19 섬도 많고, 물도 많습니다!;
+	}
+[eastside westside]
+	{
+	Korean=동구와 서구;
+	}
+[19 X 19  Find a park or reclaim large structures for metal.]
+	{
+	Korean=19 X 19  공원을 찾거나 대형 건물을 회수해 금속을 얻으세요.;
+	}
+[14 X 14, Battle for the Evad River Delta]
+	{
+	Korean=14 X 14, 에바드강 삼각주 쟁탈전;
+	}
+[expanded confluence]
+	{
+	Korean=확장된 합류점;
+	}
+[22 X 22 More room to rumble on this old favorite.]
+	{
+	Korean=22 X 22 오랜 인기 맵을 넓혀 마음껏 싸울 공간이 늘었습니다.;
+	}
+[flooded glaciers]
+	{
+	Korean=물에 잠긴 빙하;
+	}
+[12 X 10 Icy ocean battle.]
+	{
+	Korean=12 X 10 얼어붙은 바다에서 벌이는 전투.;
+	}
+[gasbag forests]
+	{
+	Korean=가스주머니 숲;
+	}
+[19 X 19  Large fields of gasplants block your path.]
+	{
+	Korean=19 X 19  거대한 가스 식물 군락이 길을 가로막습니다.;
+	}
+[gasplant plain]
+	{
+	Korean=가스 식물 평원;
+	}
+[10 X 8  Large plain for close encounters. Lots of geothermal.]
+	{
+	Korean=10 X 8  근접전에 알맞은 넓은 평원. 지열 지대 다수.;
+	}
+[higher ground]
+	{
+	Korean=고지대;
+	}
+[8 X 16  You take the high road and I'll take the low road.]
+	{
+	Korean=8 X 16  너는 윗길로, 나는 아랫길로.;
+	}
+[ice house]
+	{
+	Korean=얼음집;
+	}
+[16 X 16  Large ice mountains hinder big guns.]
+	{
+	Korean=16 X 16  거대한 얼음산이 대형 포의 사격을 가로막습니다.;
+	}
+[ice scream]
+	{
+	Korean=아이스 스크림;
+	}
+[15 X 39  Screaming won't be all you do on this forbidding world.]
+	{
+	Korean=15 X 39  이 혹독한 세계에서 비명만 지르다 끝나지는 않을 겁니다.;
+	}
+[icy bergs]
+	{
+	Korean=빙산;
+	}
+[28 X 28  Landless. Lots of sunken ships.]
+	{
+	Korean=28 X 28  육지 없음. 침몰선 다수.;
+	}
+[john's pass]
+	{
+	Korean=존의 협로;
+	}
+[10 X 15  Follow the river up the middle, if you dare!]
+	{
+	Korean=10 X 15  용기가 있다면 중앙의 강을 따라 올라가 보세요!;
+	}
+[lake shore]
+	{
+	Korean=호숫가;
+	}
+[13 X 7  Large lake with islands in the middle.]
+	{
+	Korean=13 X 7  가운데에 섬들이 떠 있는 큰 호수.;
+	}
+[luschaven]
+	{
+	Korean=러시 항;
+	}
+[17 X 16 Battle for control of dry land.]
+	{
+	Korean=17 X 16 육지를 차지하기 위한 전투.;
+	}
+[lusch puppy]
+	{
+	Korean=러시 퍼피;
+	}
+[11 X 7  Small map divided by grand mountains.]
+	{
+	Korean=11 X 7  웅장한 산맥으로 나뉜 작은 맵.;
+	}
+[moon quartet]
+	{
+	Korean=달의 사중주;
+	}
+[20 X 20 Great map for team play.  Light side vs. dark side.]
+	{
+	Korean=20 X 20 팀전에 좋은 맵.  밝은 면 대 어두운 면.;
+	}
+[mounds of mars]
+	{
+	Korean=화성의 언덕;
+	}
+[8 X 17  For more than two players, play teams, North vs. South.]
+	{
+	Korean=8 X 17  플레이어가 셋 이상이면 북쪽 대 남쪽으로 팀을 나눠 플레이하세요.;
+	}
+[ooooweeee]
+	{
+	Korean=우와아아아;
+	}
+[19 X 19  Nine islands of love and understanding.  Let's hug.]
+	{
+	Korean=19 X 19  사랑과 이해의 아홉 섬.  서로 안아 줍시다.;
+	}
+[pillopeens]
+	{
+	Korean=필로핀스;
+	}
+[17 X 27 Island-hopping map.]
+	{
+	Korean=17 X 27 섬과 섬을 건너다니는 맵.;
+	}
+[plains and passes]
+	{
+	Korean=평원과 고갯길;
+	}
+[20 X 20  Large map with lots of metal.]
+	{
+	Korean=20 X 20  금속이 풍부한 대형 맵.;
+	}
+[polar range]
+	{
+	Korean=극지 산맥;
+	}
+[20 X 20  Large polar ice cap map. A bleak and forbidding world.]
+	{
+	Korean=20 X 20  거대한 극지 빙원 맵. 황량하고 혹독한 세계.;
+	}
+[polyp fields]
+	{
+	Korean=폴립 벌판;
+	}
+[27 X 22  Large geometric polyps litter this battlefield.]
+	{
+	Korean=27 X 22  거대한 기하학적 폴립이 전장 곳곳에 널려 있습니다.;
+	}
+[red river]
+	{
+	Korean=붉은 강;
+	}
+[21 X 30  Large river separates two land masses.]
+	{
+	Korean=21 X 30  큰 강이 두 땅덩어리를 가릅니다.;
+	}
+[red river north]
+	{
+	Korean=붉은 강 북부;
+	}
+[21 X 14  Smaller segment of Red River.]
+	{
+	Korean=21 X 14  붉은 강의 일부를 떼어 낸 작은 맵.;
+	}
+[ror shock]
+	{
+	Korean=로르 쇼크;
+	}
+[26 X 26 Ocean Battles are a must for this fine map.  Big surprise in center!]
+	{
+	Korean=26 X 26 이 멋진 맵에서는 해전이 필수입니다.  중앙에 깜짝 놀랄 무언가가 있습니다!;
+	}
+[sail away]
+	{
+	Korean=돛을 올려라;
+	}
+[12 X 20 High winds sweep these islands.]
+	{
+	Korean=12 X 20 강한 바람이 섬들을 휩쓸고 지나갑니다.;
+	}
+[sector 410b]
+	{
+	Korean=섹터 410b;
+	}
+[25 X 22  Large mountains with narrow passes.]
+	{
+	Korean=25 X 22  좁은 고갯길이 난 거대한 산맥.;
+	}
+[show down]
+	{
+	Korean=결전;
+	}
+[11 X 5  Meet in the middle.]
+	{
+	Korean=11 X 5  중앙에서 맞붙으세요.;
+	}
+[slate gordon]
+	{
+	Korean=슬레이트 고든;
+	}
+[23 X 15 Great map for east/west rivalries.  Earthquakes.]
+	{
+	Korean=23 X 15 동서 대결에 딱 좋은 맵.  지진이 일어납니다.;
+	}
+[slated fate]
+	{
+	Korean=예정된 운명;
+	}
+[7 x 12 Search for metal in crevices.]
+	{
+	Korean=7 x 12 바위틈에서 금속을 찾으세요.;
+	}
+[steel jungle]
+	{
+	Korean=강철 정글;
+	}
+[20 x 10  Wake up and smell the coffee with the Morning War Show.]
+	{
+	Korean=20 x 10  아침 전쟁 쇼와 함께 커피 향으로 눈을 뜨세요.;
+	}
+[surface meltdown]
+	{
+	Korean=녹아내리는 대지;
+	}
+[15 X 17  Bumps, bumps, and more bumps.]
+	{
+	Korean=15 X 17  둔덕, 둔덕, 그리고 또 둔덕.;
+	}
+[temblorian mist]
+	{
+	Korean=템블러의 안개;
+	}
+[12 X 15  Make your way around the edges or fly across the center.]
+	{
+	Korean=12 X 15  가장자리를 돌아가거나 중앙을 날아서 건너세요.;
+	}
+[the barrier reef]
+	{
+	Korean=산호초 장벽;
+	}
+[19 X 19  Body of water separates two land masses.  Great underwater starts!]
+	{
+	Korean=19 X 19  물길이 두 땅덩어리를 가릅니다.  수중 시작 위치가 훌륭합니다!;
+	}
+[the bayou]
+	{
+	Korean=늪지대;
+	}
+[20 X 20  Strong currents rush through this Bayou.]
+	{
+	Korean=20 X 20  이 늪지대에는 거센 물살이 흐릅니다.;
+	}
+[town & country]
+	{
+	Korean=도시와 시골;
+	}
+[17 X 17  Urban vs. rural.]
+	{
+	Korean=17 X 17  도시 대 시골.;
+	}
+[trout farm]
+	{
+	Korean=송어 양식장;
+	}
+[15 X 15  Watch out for the sinkhole in the middle.]
+	{
+	Korean=15 X 15  중앙의 싱크홀을 조심하세요.;
+	}
+
+// Download Maps
+
+[cloudious prime]
+	{
+	Korean=클라우디어스 프라임;
+	}
+[20 X 20  Island in the clouds with giant canyon.  Absurd wind.]
+	{
+	Korean=20 X 20  거대한 협곡이 있는 구름 위의 섬.  터무니없이 강한 바람.;
+	}
+
+// Battle Tactics Maps
+
+[aqua verdigris]
+	{
+	Korean=물빛 녹청;
+	}
+[12 x 12  Fighting around rings of Dragon's Teeth.]
+	{
+	Korean=12 x 12  용치로 이루어진 고리들 주변에서 벌이는 전투.;
+	}
+[brilliant cut lake]
+	{
+	Korean=브릴리언트 컷 호수;
+	}
+[15 X 15  Fighting around a large lake.]
+	{
+	Korean=15 X 15  큰 호수 주변에서 벌이는 전투.;
+	}
+[canal crossing]
+	{
+	Korean=운하 도하;
+	}
+[16 X 17  Four land masses separated by canals.]
+	{
+	Korean=16 X 17  운하로 나뉜 네 개의 땅덩어리.;
+	}
+[metal gridlock]
+	{
+	Korean=금속 교착 상태;
+	}
+[20 X 20  Five squares interlock to create defensive forts.]
+	{
+	Korean=20 X 20  맞물린 다섯 개의 사각형이 방어 요새를 이룹니다.;
+	}
+[wretched ridges]
+	{
+	Korean=험악한 능선;
+	}
+[12 X 12  High ridges protect defensive areas.  Light forest.]
+	{
+	Korean=12 X 12  높은 능선이 방어 지역을 지켜 줍니다.  숲은 듬성듬성합니다.;
+	}
+[coremageddon]
+	{
+	Korean=CORE마겟돈;
+	}
+[13 X 20  Set up ambushes in this Core Prime maze.]
+	{
+	Korean=13 X 20  이 CORE 프라임 미로에서 매복을 펼치세요.;
+	}
+
+// Possible Error Messages
+
+[The requested campaign file, %s, does not exist.]
+	{
+	Korean=요청한 캠페인 파일이 없습니다: %s;
+	}
+[Error -- Unnamed Mission]
+	{
+	Korean=오류 -- 이름 없는 미션;
+	}
+[The requested mission file, %s, does not exist.]
+	{
+	Korean=요청한 미션 파일이 없습니다: %s;
+	}
+[No GlobalHeader block in mission file!]
+	{
+	Korean=미션 파일에 GlobalHeader 블록이 없습니다!;
+	}
+[No description available]
+	{
+	Korean=설명 없음;
+	}
+[No suitable schema type in mission file!]
+	{
+	Korean=미션 파일에 알맞은 스키마 유형이 없습니다!;
+	}
+[Very bad news!  No MSG!]
+	{
+	Korean=아주 나쁜 소식입니다!  MSG가 없습니다!;
+	}
+[Hey, hoser!  The default meteor shower data was bogus!]
+	{
+	Korean=이봐, 얼간이!  기본 유성우 데이터가 엉터리잖아!;
+	}
+[Could not open movie file, please check filename in INI.]
+	{
+	Korean=동영상 파일을 열 수 없습니다. INI의 파일 이름을 확인하세요.;
+	}
+[Could not setup Direct Draw to play movie.]
+	{
+	Korean=동영상 재생을 위한 Direct Draw를 설정할 수 없습니다.;
+	}
+[Unsupported pixel format.]
+	{
+	Korean=지원하지 않는 픽셀 형식입니다.;
+	}
+[Smacker Error]
+	{
+	Korean=Smacker 오류;
+	}
+[Summary]
+	{
+	Korean=요약;
+	}
+[getbuilt]
+	{
+	Korean=건설되는 중;
+	}
+[TransportDrop]
+	{
+	Korean=수송 하역;
+	}
+[QueryTransport]
+	{
+	Korean=수송 요청;
+	}
+[EndTransport]
+	{
+	Korean=수송 종료;
+	}
+[QueryLandingPad]
+	{
+	Korean=착륙장 요청;
+	}
+[Invalid logo setting]
+	{
+	Korean=잘못된 로고 설정;
+	}
+[Unable to start the thread!]
+	{
+	Korean=스레드를 시작할 수 없습니다!;
+	}
+[Please insert the Total Annihilation CD and try again]
+	{
+	Korean=Total Annihilation CD를 넣고 다시 시도하세요;
+	}
+[Please insert the Play CD and try again]
+	{
+	Korean=게임 CD를 넣고 다시 시도하세요;
+	}
+[The Play CD was not found]
+	{
+	Korean=게임 CD를 찾을 수 없습니다;
+	}
+[Please insert the Play CD]
+	{
+	Korean=게임 CD를 넣으세요;
+	}
+[Click to continue.]
+	{
+	Korean=계속하려면 클릭하세요.;
+	}
+[Done]
+	{
+	Korean=완료;
+	}
+[Record "%s" missing from feature files]
+	{
+	Korean=지형지물 파일에 “%s” 레코드가 없습니다;
+	}
+[An error occurred trying to use this service]
+	{
+	Korean=이 서비스를 사용하는 중 오류가 발생했습니다;
+	}
+[expecting int]
+	{
+	Korean=정수가 필요함;
+	}
+[parse error reading AI profile %s\n%s\nlast string =]
+	{
+	Korean=AI 프로필 %s 읽기 중 구문 분석 오류\n%s\n마지막 문자열 =;
+	}
+[None]
+	{
+	Korean=없음;
+	}
+[Incompatible units found.  They will be ignored.  Please download the latest version of the game.]
+	{
+	Korean=호환되지 않는 유닛이 있습니다.  해당 유닛은 무시됩니다.  게임 최신 버전을 다운로드하세요.;
+	}
+[Can't load MOVEINFO.TDF]
+	{
+	Korean=MOVEINFO.TDF를 불러올 수 없습니다;
+	}
+[Can't load GAMEDATA.TDF]
+	{
+	Korean=GAMEDATA.TDF를 불러올 수 없습니다;
+	}
+[Connecting  (ESC to abort)]
+	{
+	Korean=연결 중  (ESC로 중단);
+	}
+[Lock]
+	{
+	Korean=잠금;
+	}
+[Blk]
+	{
+	Korean=검정;
+	}
+[Gray]
+	{
+	Korean=회색;
+	}
+[Connecting... press ESC to abort]
+	{
+	Korean=연결 중... 중단하려면 ESC 키를 누르세요;
+	}
+[Unable to find any modems]
+	{
+	Korean=모뎀을 찾을 수 없습니다;
+	}
+[allied with]
+	{
+	Korean=동맹 체결:;
+	}
+[broke alliance with]
+	{
+	Korean=동맹 파기:;
+	}
+[There are not enough game CDs present to play]
+	{
+	Korean=플레이에 필요한 게임 CD가 부족합니다;
+	}
+[You must select a map before starting]
+	{
+	Korean=시작하기 전에 맵을 선택해야 합니다;
+	}
+[\nYou must select a map before starting\n\n]
+	{
+	Korean=\n시작하기 전에 맵을 선택해야 합니다\n\n;
+	}
+[n/a]
+	{
+	Korean=없음;
+	}
+[N/A]
+	{
+	Korean=없음;
+	}
+[View Map]
+	{
+	Korean=맵 보기;
+	}
+[Could not find the multiplayer map!!]
+	{
+	Korean=멀티플레이어 맵을 찾을 수 없습니다!!;
+	}
+[does not have this map]
+	{
+	Korean=이 맵이 없습니다;
+	}
+[There are no saved lists to choose from]
+	{
+	Korean=선택할 수 있는 저장된 목록이 없습니다;
+	}
+[has left the scene]
+	{
+	Korean=님이 자리를 떴습니다;
+	}
+[has been shown the door]
+	{
+	Korean=님이 문밖으로 쫓겨났습니다;
+	}
+[has gone to a better place]
+	{
+	Korean=님이 더 좋은 곳으로 떠났습니다;
+	}
+[has bowed out]
+	{
+	Korean=님이 인사하고 물러났습니다;
+	}
+[has terminated]
+	{
+	Korean=님이 작동을 멈췄습니다;
+	}
+[has been eradicated]
+	{
+	Korean=님이 뿌리째 뽑혔습니다;
+	}
+[has been liquidated]
+	{
+	Korean=님이 숙청되었습니다;
+	}
+[has been obliterated]
+	{
+	Korean=님이 흔적도 없이 사라졌습니다;
+	}
+[forces have been obliterated]
+	{
+	Korean=부대가 전멸했습니다;
+	}
+[vermin have been exterminated]
+	{
+	Korean=버러지들이 박멸되었습니다;
+	}
+[forces have gone to a better place]
+	{
+	Korean=부대가 더 좋은 곳으로 떠났습니다;
+	}
+[dropping a player due to TIMEOUT_SECS]
+	{
+	Korean=TIMEOUT_SECS 초과로 플레이어 연결을 끊는 중;
+	}
+[%s is joining the game...]
+	{
+	Korean=%s 님이 게임에 참가하는 중...;
+	}
+[player dropped by DPSYS_]
+	{
+	Korean=플레이어 연결 끊김: DPSYS_;
+	}
+[player '%s' set to startpos %d\n]
+	{
+	Korean=플레이어 ‘%s’의 시작 위치를 %d번으로 설정\n;
+	}
+[You're out!  Continue Watching?]
+	{
+	Korean=탈락했습니다!  계속 관전하시겠습니까?;
+	}
+[Weapon]
+	{
+	Korean=무기;
+	}
+[Please insert a Total Annihilation CD and try again]
+	{
+	Korean=Total Annihilation CD 중 하나를 넣고 다시 시도하세요;
+	}
+[Wind Speed]
+	{
+	Korean=풍속;
+	}
+[Gravity]
+	{
+	Korean=중력;
+	}
+[Tidal Strength]
+	{
+	Korean=조력;
+	}
+[There are no skirmish maps to choose from]
+	{
+	Korean=선택할 수 있는 스커미시 맵이 없습니다;
+	}
+[There are no multiplayer maps to choose from]
+	{
+	Korean=선택할 수 있는 멀티플레이어 맵이 없습니다;
+	}
+[The terrain for the selected map does not exist.]
+	{
+	Korean=선택한 맵의 지형이 없습니다.;
+	}
+[All players may not be in the same allied group.]
+	{
+	Korean=모든 플레이어가 같은 동맹 그룹에 속할 수는 없습니다.;
+	}
+[Error:  Sound system initialization failed.]
+	{
+	Korean=오류:  사운드 시스템을 초기화하지 못했습니다.;
+	}
+[%s has taken the lead with %d kills]
+	{
+	Korean=%s 님이 처치 %d회로 선두에 나섰습니다;
+	}
+[has taken the lead with %d kills]
+	{
+	Korean=님이 처치 %d회로 선두에 나섰습니다;
+	}
+[has taken the lead with]
+	{
+	Korean=님이 선두에 나섰습니다. 기록:;
+	}
+[Player number %d invalid for unit %s]
+	{
+	Korean=유효하지 않은 플레이어 번호 %d (유닛 %s);
+	}
+[Cost]
+	{
+	Korean=비용;
+	}
+[Build Time]
+	{
+	Korean=건설 시간;
+	}
+[Max Velocity]
+	{
+	Korean=최고 속도;
+	}
+[Acceleration]
+	{
+	Korean=가속도;
+	}
+[Weapons]
+	{
+	Korean=무장;
+	}
+[Speed]
+	{
+	Korean=속도;
+	}
+[Game Speed Normal]
+	{
+	Korean=게임 속도: 보통;
+	}
+[Invalid savegame file]
+	{
+	Korean=잘못된 저장 파일;
+	}
+[Unable to start the loading thread!]
+	{
+	Korean=로딩 스레드를 시작할 수 없습니다!;
+	}
+[DirectPlay registration failed.]
+	{
+	Korean=DirectPlay 등록에 실패했습니다.;
+	}
+[Demo Version]
+	{
+	Korean=데모 버전;
+	}
+[Settings]
+	{
+	Korean=설정;
+	}
+
+// Added for v2.0
+
+[Can't add another player when game is closed.]
+	{
+	Korean=닫힌 게임에는 플레이어를 더 추가할 수 없습니다.;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-create the game session.\n]
+	{
+	Korean=Direct Play가 새 플레이어를 추가하지 못했습니다.\n\n이전 화면으로 돌아가 게임 세션을 다시 만드는 것이 좋습니다.\n;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-join the game session.\n]
+	{
+	Korean=Direct Play가 새 플레이어를 추가하지 못했습니다.\n\n이전 화면으로 돌아가 게임 세션에 다시 참가하는 것이 좋습니다.\n;
+	}
+[Square]
+	{
+	Korean=사각형;
+	}
+[Circle]
+	{
+	Korean=원형;
+	}
+[Triangle]
+	{
+	Korean=삼각형;
+	}
+[Star]
+	{
+	Korean=별;
+	}
+[Moon]
+	{
+	Korean=달;
+	}
+[has joined the]
+	{
+	Korean=님이 합류한 그룹:;
+	}
+[has left the]
+	{
+	Korean=님이 떠난 그룹:;
+	}
+[anemone]
+	{
+	Korean=말미잘;
+	}
+[coral]
+	{
+	Korean=산호;
+	}
+[seaweed]
+	{
+	Korean=해초;
+	}
+[kelp]
+	{
+	Korean=다시마;
+	}
+[You are placed in watch mode because you are hosting AI players which are still alive.  If you exit, they will be terminated.]
+	{
+	Korean=호스트 중인 AI 플레이어가 아직 살아 있어 관전 모드로 전환되었습니다.  나가면 이 AI 플레이어들도 종료됩니다.;
+	}
+[Unable to initialize scores reporting.]
+	{
+	Korean=점수 보고를 초기화할 수 없습니다.;
+	}
+[No sound driver is available for use.\n]
+	{
+	Korean=사용할 수 있는 사운드 드라이버가 없습니다.\n;
+	}
+[Debug:  You must be in full-screen mode to play a movie.]
+	{
+	Korean=디버그:  동영상을 재생하려면 전체 화면 모드여야 합니다.;
+	}
+[Old TED format no longer supported!]
+	{
+	Korean=이전 TED 형식은 더 이상 지원하지 않습니다!;
+	}
+[Can not start game with all players on the same team.]
+	{
+	Korean=모든 플레이어가 같은 팀이면 게임을 시작할 수 없습니다.;
+	}
+
+// Features
+
+[Transit Node]
+	{
+	Korean=교통 거점;
+	}
+[Microwave Relay]
+	{
+	Korean=마이크로파 중계기;
+	}
+[Climatic Optimizer]
+	{
+	Korean=기후 최적화 장치;
+	}
+[Truck]
+	{
+	Korean=트럭;
+	}
+[Manhole]
+	{
+	Korean=맨홀;
+	}
+[Public Art]
+	{
+	Korean=공공 미술품;
+	}
+[Car]
+	{
+	Korean=자동차;
+	}
+[Willy Gates Bldg]
+	{
+	Korean=윌리 게이츠 빌딩;
+	}
+[Barrier]
+	{
+	Korean=장벽;
+	}
+[barrier]
+	{
+	Korean=장벽;
+	}
+[Oolok Tree]
+	{
+	Korean=울록 나무;
+	}
+[Gasbag]
+	{
+	Korean=가스주머니;
+	}
+[Bridge]
+	{
+	Korean=다리;
+	}
+[Ruined Bridge]
+	{
+	Korean=무너진 다리;
+	}
+[Factory]
+	{
+	Korean=공장;
+	}
+[Cheese Factory]
+	{
+	Korean=치즈 공장;
+	}
+[Public Hygiene Pod]
+	{
+	Korean=공중위생 포드;
+	}
+[Monorail Track]
+	{
+	Korean=모노레일 선로;
+	}
+[Streetlight]
+	{
+	Korean=가로등;
+	}
+
+// Chat messages
+
+[OK.  Will share metal if above %d]
+	{
+	Korean=알겠습니다.  금속이 %d보다 많으면 공유하겠습니다;
+	}
+[OK.  Will share energy if above %d]
+	{
+	Korean=알겠습니다.  에너지가 %d보다 많으면 공유하겠습니다;
+	}
+
+// Not in 3.1c's table: GUI captions and messages that 3.1c's own translate.tdf does not key
+
+[Begin Mission]
+	{
+	Korean=미션 시작;
+	}
+[Choose where you would like your scores reported to:]
+	{
+	Korean=점수를 보고할 곳을 선택하세요:;
+	}
+[CREDITS]
+	{
+	Korean=제작진;
+	}
+[has modified his executable.  Game integrity breached.]
+	{
+	Korean=님이 실행 파일을 수정했습니다.  게임 무결성이 깨졌습니다.;
+	}
+[has not responded for %d seconds]
+	{
+	Korean=님이 %d초째 응답하지 않습니다;
+	}
+[Have a nice day]
+	{
+	Korean=좋은 하루 보내세요;
+	}
+[Mission Brief]
+	{
+	Korean=미션 브리핑;
+	}
+[Name Of List To Save]
+	{
+	Korean=저장할 목록 이름;
+	}
+[Pevious Menu]
+	{
+	Korean=이전 메뉴;
+	}
+[Select Player:]
+	{
+	Korean=플레이어 선택:;
+	}
+[Synching]
+	{
+	Korean=동기화 중;
+	}
+[Watching Allowe]
+	{
+	Korean=관전 허용;
+	}
+
+// Not in 3.1c's table: Map names and descriptions
+
+[luschinfloggen]
+	{
+	Korean=러시인플로겐;
+	}
+[8 X 10  Find your way through the shallows into the enemy base.]
+	{
+	Korean=8 X 10  얕은 여울을 지나 적 기지로 가는 길을 찾으세요.;
+	}
+
+// Not in 3.1c's table: Planet names, as the maps give them
+
+[Green planet]
+	{
+	Korean=녹색 행성;
+	}
+[Lava]
+	{
+	Korean=용암;
+	}
+[Red Planet]
+	{
+	Korean=붉은 행성;
+	}
+[Lush]
+	{
+	Korean=녹지;
+	}
+[Ice]
+	{
+	Korean=얼음;
+	}
+[Archipelago]
+	{
+	Korean=군도;
+	}
+[Slate]
+	{
+	Korean=슬레이트;
+	}
+[Lunar]
+	{
+	Korean=달 표면;
+	}
+[Water World]
+	{
+	Korean=물의 세계;
+	}
+[Acid]
+	{
+	Korean=산성;
+	}
+[Crystal]
+	{
+	Korean=크리스털;
+	}
+[Wet Desert]
+	{
+	Korean=습한 사막;
+	}
+[Desert]
+	{
+	Korean=사막;
+	}
+[Urban]
+	{
+	Korean=도시;
+	}

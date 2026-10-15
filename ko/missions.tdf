@@ -1,0 +1,706 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Korean mission names, keyed by the mission file the campaign
+// lists. A campaign's "N: " prefix is kept as it is.
+
+[EXP1AC01.ota]
+	{
+	missionname=1: 하이드로스 - 수색 개시!;
+	}
+[EXP1AC02.ota]
+	{
+	missionname=2: 환초 확보;
+	}
+[EXP1AC03.ota]
+	{
+	missionname=3: CORE 격침;
+	}
+[EXP1AC04.ota]
+	{
+	missionname=4: 러시 - 호버크래프트 기술;
+	}
+[EXP1AC05.ota]
+	{
+	missionname=5: 수렁과 늪을 헤치고;
+	}
+[EXP1AC06.ota]
+	{
+	missionname=6: 신호기;
+	}
+[EXP1AC07.ota]
+	{
+	missionname=7: 템블러 - 지진!;
+	}
+[EXP1AC08.ota]
+	{
+	missionname=8: 진퇴양난;
+	}
+[EXP1AC09.ota]
+	{
+	missionname=9: 흔드는 ARM - 떠는 CORE;
+	}
+[EXP1AC10.ota]
+	{
+	missionname=10: 젤리더스 - 냉랭한 환영;
+	}
+[EXP1AC11.ota]
+	{
+	missionname=11: 유빙에 몸을 맡겨라;
+	}
+[EXP1AC12.ota]
+	{
+	missionname=12: 은하의 구원;
+	}
+[AC01.ota]
+	{
+	missionname=1: 영웅의 귀환;
+	}
+[AC02.ota]
+	{
+	missionname=2: CORE K봇 기지를 파괴하라!;
+	}
+[AC03.ota]
+	{
+	missionname=3: 스파이더 기술;
+	}
+[AC04.ota]
+	{
+	missionname=4: CORE의 오염이 번진다...;
+	}
+[AC05.ota]
+	{
+	missionname=5: 탈라시안으로 가는 관문;
+	}
+[AC06.ota]
+	{
+	missionname=6: 탈라시안 교두보;
+	}
+[AC07.ota]
+	{
+	missionname=7: 라랍 항 방어전;
+	}
+[AC08.ota]
+	{
+	missionname=8: 터지버스 IV로 가는 관문;
+	}
+[AC09.ota]
+	{
+	missionname=9: 급수 시설;
+	}
+[AC10.ota]
+	{
+	missionname=10: 브로미드 미로;
+	}
+[AC11.ota]
+	{
+	missionname=11: 바라스럼으로 가는 관문;
+	}
+[AC12.ota]
+	{
+	missionname=12: 바라스럼!;
+	}
+[AC13.ota]
+	{
+	missionname=13: 랜다운 단층;
+	}
+[AC14.ota]
+	{
+	missionname=14: 고조되는 열기;
+	}
+[AC15.ota]
+	{
+	missionname=15: 루그펠트;
+	}
+[AC16.ota]
+	{
+	missionname=16: 버팀벽 위의 비축 기지;
+	}
+[AC17.ota]
+	{
+	missionname=17: 브루반 섬 요새;
+	}
+[AC18.ota]
+	{
+	missionname=18: 복수!;
+	}
+[AC19.ota]
+	{
+	missionname=19: 모티엔 경사로;
+	}
+[AC20.ota]
+	{
+	missionname=20: 덤프;
+	}
+[AC21.ota]
+	{
+	missionname=21: CORE 프라임에 오신 것을 환영합니다;
+	}
+[AC22.ota]
+	{
+	missionname=22: 좌표 6551:447 전투;
+	}
+[AC23.ota]
+	{
+	missionname=23: 397번 수역 횡단;
+	}
+[AC24.ota]
+	{
+	missionname=24: 중앙 의식을 향한 돌파;
+	}
+[AC25.ota]
+	{
+	missionname=25: CORE 프라임의 종말. 마침내 자유다!;
+	}
+[Com Pattern Five.ota]
+	{
+	missionname=통신 패턴 5;
+	}
+[Steel Stronghold.ota]
+	{
+	missionname=강철 요새;
+	}
+[Thermal Exchange Causeway.ota]
+	{
+	missionname=열교환 둑길;
+	}
+[Crossing the Long Lakes.ota]
+	{
+	missionname=긴 호수 횡단;
+	}
+[Capture Hanan Base.ota]
+	{
+	missionname=하난 기지 점령;
+	}
+[Lipar Pass.ota]
+	{
+	missionname=리파르 고개;
+	}
+[Ice Base Assault.ota]
+	{
+	missionname=얼음 기지 강습;
+	}
+[Pursuit.ota]
+	{
+	missionname=추격;
+	}
+[Backs to the Sea.ota]
+	{
+	missionname=배수진;
+	}
+[Spider Ambush.ota]
+	{
+	missionname=스파이더 매복;
+	}
+[Islands of Grace.ota]
+	{
+	missionname=은총 제도;
+	}
+[Wet and Dry.ota]
+	{
+	missionname=물과 뭍;
+	}
+[Meraldi Amphibious Assault.ota]
+	{
+	missionname=메랄디 상륙 강습;
+	}
+[Miniement Landing.ota]
+	{
+	missionname=미니에먼트 상륙;
+	}
+[Intimidator Ridge.ota]
+	{
+	missionname=인티미데이터 능선;
+	}
+[Zipper Attack.ota]
+	{
+	missionname=지퍼 습격;
+	}
+[Can Rush.ota]
+	{
+	missionname=더 캔 러시;
+	}
+[Attack on Barrack.ota]
+	{
+	missionname=버락 공격;
+	}
+[Cutoff in Sector 6895.ota]
+	{
+	missionname=6895 구역 고립;
+	}
+[Encounter on the Coral Sea.ota]
+	{
+	missionname=산호해 조우전;
+	}
+[The Wayneston Ford Engagement.ota]
+	{
+	missionname=웨인스턴 여울 교전;
+	}
+[Ice Base Baryn.ota]
+	{
+	missionname=바린 얼음 기지;
+	}
+[Forest Base 129.ota]
+	{
+	missionname=삼림 기지 129;
+	}
+[Rock Candy Mountains.ota]
+	{
+	missionname=얼음사탕 산맥;
+	}
+[Kudzu Base.ota]
+	{
+	missionname=칡 기지;
+	}
+[Yerrot Foothills.ota]
+	{
+	missionname=예롯 산기슭;
+	}
+[Island Hopping.ota]
+	{
+	missionname=징검다리 작전;
+	}
+[Mist Bombers.ota]
+	{
+	missionname=안개 속 폭격기;
+	}
+[A Shortage of Water.ota]
+	{
+	missionname=물 부족;
+	}
+[Raid on Vetes.ota]
+	{
+	missionname=베테스 습격;
+	}
+[Three Passes.ota]
+	{
+	missionname=세 개의 고개;
+	}
+[Spire Sports.ota]
+	{
+	missionname=첨탑 경기;
+	}
+[Charging the Line.ota]
+	{
+	missionname=전선 돌격;
+	}
+[Dawn Directive.ota]
+	{
+	missionname=새벽 지령;
+	}
+[Waiting.ota]
+	{
+	missionname=기다림;
+	}
+[The Vulcans Forge Hotspot.ota]
+	{
+	missionname=벌컨의 대장간 격전지;
+	}
+[Crawling Destruction.ota]
+	{
+	missionname=기어오는 파멸;
+	}
+[Battle of Ansapp Sea.ota]
+	{
+	missionname=앤샙해 전투;
+	}
+[Between Two Lakes.ota]
+	{
+	missionname=두 호수 사이;
+	}
+[Hunting Nhanons.ota]
+	{
+	missionname=나논스 사냥;
+	}
+[Sub Hunting.ota]
+	{
+	missionname=잠수함 사냥;
+	}
+[Ambush on Novespin IV.ota]
+	{
+	missionname=노베스핀 IV 매복전;
+	}
+[Force the Strait.ota]
+	{
+	missionname=해협 돌파;
+	}
+[Destroy the FMD.ota]
+	{
+	missionname=FMD 파괴;
+	}
+[Kaki Island Assault.ota]
+	{
+	missionname=카키 섬 강습;
+	}
+[Fighting Under Fire.ota]
+	{
+	missionname=포화 속의 전투;
+	}
+[The Ravenstein Run.ota]
+	{
+	missionname=레이븐스타인 질주;
+	}
+[Reducing the Yrdac Islands.ota]
+	{
+	missionname=이르닥 제도 함락;
+	}
+[Black Box.ota]
+	{
+	missionname=블랙박스;
+	}
+[Firebase Prasad.ota]
+	{
+	missionname=프라사드 화력 기지;
+	}
+[Invasion of Destral II.ota]
+	{
+	missionname=데스트랄 II 침공;
+	}
+[Guardian Hill.ota]
+	{
+	missionname=가디언 언덕;
+	}
+[Metal Maze.ota]
+	{
+	missionname=금속 미로;
+	}
+[Titanium Fist Bay.ota]
+	{
+	missionname=티타늄 피스트 만;
+	}
+[Crossing Kerrap Shallows.ota]
+	{
+	missionname=케랍 여울 도하;
+	}
+[Peaceful Pools.ota]
+	{
+	missionname=평화로운 연못;
+	}
+[Solidspire Base.ota]
+	{
+	missionname=솔리드스파이어 기지;
+	}
+[Fortitude Race.ota]
+	{
+	missionname=포티튜드 경주;
+	}
+[Brawler Buildup.ota]
+	{
+	missionname=브롤러 증강;
+	}
+[Silent Slayers.ota]
+	{
+	missionname=침묵의 학살자;
+	}
+[Crossing Arnen Inlet.ota]
+	{
+	missionname=아르넨 만 횡단;
+	}
+[Cloaked in the Spires.ota]
+	{
+	missionname=첨탑 속의 은폐;
+	}
+[Zedtopt Hotsprings.ota]
+	{
+	missionname=제드톱트 온천;
+	}
+[Intimidator Rising.ota]
+	{
+	missionname=인티미데이터의 등장;
+	}
+[Guditha Pass.ota]
+	{
+	missionname=구디사 고개;
+	}
+[Sink the Battleship.ota]
+	{
+	missionname=전함 격침;
+	}
+[Coordinated Assault.ota]
+	{
+	missionname=합동 강습;
+	}
+[Dogfight over Grantham Deep.ota]
+	{
+	missionname=그랜섬 심연 상공의 공중전;
+	}
+[Mesa Run.ota]
+	{
+	missionname=메사 급습;
+	}
+[Krocark Firebase Complex.ota]
+	{
+	missionname=크로카크 화력 기지 단지;
+	}
+[Jungle Journey.ota]
+	{
+	missionname=정글 여정;
+	}
+[Capturing Terseknos.ota]
+	{
+	missionname=터세크노스 점령;
+	}
+[Bertha Cleansing.ota]
+	{
+	missionname=빅 버사 일소;
+	}
+[Surprise at Labrodorite.ota]
+	{
+	missionname=래브라도라이트 기습;
+	}
+[Skirmish on the Sand.ota]
+	{
+	missionname=모래 위의 교전;
+	}
+[New Moon.ota]
+	{
+	missionname=새로운 달;
+	}
+[Kbot Mop Up.ota]
+	{
+	missionname=K봇 잔당 소탕;
+	}
+[River Base Alpha.ota]
+	{
+	missionname=강변 기지 알파;
+	}
+[Crossing Two Rivers.ota]
+	{
+	missionname=두 강 도하;
+	}
+[Caranat Conquest.ota]
+	{
+	missionname=카라나트 정복;
+	}
+[Less Refreshing Sea.ota]
+	{
+	missionname=덜 상쾌한 바다;
+	}
+[Hot Day and Hull Down.ota]
+	{
+	missionname=무더운 날의 차체 엄폐;
+	}
+[Seed Crystal.ota]
+	{
+	missionname=씨앗 결정;
+	}
+[Cleanup on Kral.ota]
+	{
+	missionname=크랄 소탕전;
+	}
+[Air Assault.ota]
+	{
+	missionname=공중 강습;
+	}
+[Lightning Recon.ota]
+	{
+	missionname=전격 정찰;
+	}
+[A Gentle Time.ota]
+	{
+	missionname=평온한 시절;
+	}
+[Disintegrator Alley.ota]
+	{
+	missionname=디스인티그레이터 골목;
+	}
+[Two Ore Coast.ota]
+	{
+	missionname=두 광맥 해안;
+	}
+[Thrashing a Rear Guard.ota]
+	{
+	missionname=후위대 격파;
+	}
+[Emerald Seamount.ota]
+	{
+	missionname=에메랄드 해산;
+	}
+[Taking Island 445.ota]
+	{
+	missionname=445번 섬 점령;
+	}
+[The Retorb Floodplain.ota]
+	{
+	missionname=레토브 범람원;
+	}
+[Firebase.ota]
+	{
+	missionname=화력 기지;
+	}
+[Battle of Chimo Island.ota]
+	{
+	missionname=치모 섬 전투;
+	}
+[Laser Plain.ota]
+	{
+	missionname=레이저 평원;
+	}
+[Rotrey Stream.ota]
+	{
+	missionname=로트리 개울;
+	}
+[Rainforest Construction.ota]
+	{
+	missionname=열대 우림 건설;
+	}
+[Yollets Rain Forest.ota]
+	{
+	missionname=욜레츠 열대 우림;
+	}
+[The Phase Array Radar.ota]
+	{
+	missionname=위상 배열 레이더;
+	}
+[EXP1CC01.ota]
+	{
+	missionname=1: ARM, 하이드로스 상륙;
+	}
+[EXP1CC02.ota]
+	{
+	missionname=2: 물밑 공작;
+	}
+[EXP1CC03.ota]
+	{
+	missionname=3: 손쉬운 먹잇감;
+	}
+[EXP1CC04.ota]
+	{
+	missionname=4: 러시 - 낙원에 오신 것을 환영합니다;
+	}
+[EXP1CC05.ota]
+	{
+	missionname=5: 난타전과 강행군;
+	}
+[EXP1CC06.ota]
+	{
+	missionname=6: 외계 벌레;
+	}
+[EXP1CC07.ota]
+	{
+	missionname=7: 흔들리고, 요동치고, 죽는다;
+	}
+[EXP1CC08.ota]
+	{
+	missionname=8: 커맨더 대혼란;
+	}
+[EXP1CC09.ota]
+	{
+	missionname=9: 구름 요새 강습;
+	}
+[EXP1CC10.ota]
+	{
+	missionname=10: 냉각;
+	}
+[EXP1CC11.ota]
+	{
+	missionname=11: 혹한의 초토화;
+	}
+[EXP1CC12.ota]
+	{
+	missionname=12: 떠날 시간;
+	}
+[CC01.ota]
+	{
+	missionname=1: 재가동된 커맨더...;
+	}
+[CC02.ota]
+	{
+	missionname=2: 해충;
+	}
+[CC03.ota]
+	{
+	missionname=3: 매복!;
+	}
+[CC04.ota]
+	{
+	missionname=4: 참을 만큼 참았다;
+	}
+[CC05.ota]
+	{
+	missionname=5: 바라스럼!;
+	}
+[CC06.ota]
+	{
+	missionname=6: 정화의 시작;
+	}
+[CC07.ota]
+	{
+	missionname=7: 올가미를 조여라;
+	}
+[CC08.ota]
+	{
+	missionname=8: 아퀴어스 마이너로 가는 관문;
+	}
+[CC09.ota]
+	{
+	missionname=9: 아퀴어스 마이너 숙청;
+	}
+[CC10.ota]
+	{
+	missionname=10: 죽음의 해협;
+	}
+[CC11.ota]
+	{
+	missionname=11: 파르체 섬;
+	}
+[CC12.ota]
+	{
+	missionname=12: 길잡이가 된 배신자;
+	}
+[CC13.ota]
+	{
+	missionname=13: 루그펠트;
+	}
+[CC14.ota]
+	{
+	missionname=14: 루그펠트 소탕;
+	}
+[CC15.ota]
+	{
+	missionname=15: 잔티페의 심연;
+	}
+[CC16.ota]
+	{
+	missionname=16: 루그펠트를 떠나며;
+	}
+[CC17.ota]
+	{
+	missionname=17: 잃어버린 섬;
+	}
+[CC18.ota]
+	{
+	missionname=18: 슬롤람 필라고;
+	}
+[CC19.ota]
+	{
+	missionname=19: 베브린 함대;
+	}
+[CC20.ota]
+	{
+	missionname=20: 이거스로 가는 관문;
+	}
+[CC21.ota]
+	{
+	missionname=21: 이거스...엠피리언의 수호자;
+	}
+[CC22.ota]
+	{
+	missionname=22: 엠피리언의 성대한 환영;
+	}
+[CC23.ota]
+	{
+	missionname=23: 요새 함락;
+	}
+[CC24.ota]
+	{
+	missionname=24: 포위와 포격;
+	}
+[CC25.ota]
+	{
+	missionname=25: 엠피리언 최후의 항전;
+	}
+[Krogoth Encounter.ota]
+	{
+	missionname=1: 크로고스와의 조우!;
+	}

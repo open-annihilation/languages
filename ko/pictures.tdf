@@ -1,0 +1,70 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+
+// Captions drawn over the player's own pictures while Korean is shown
+// (src/present/include/oa/present/picture_captions.hpp). A picture left
+// out here, or a section with no keys, keeps its art.
+
+// The order buttons, each with its hotkey letter.
+[commongui.gaf]
+{
+    [ARMATTACK] { text=공격(A); }
+    [CORATTACK] { text=공격(A); }
+    [ARMMOVE] { text=이동(M); }
+    [CORMOVE] { text=이동(M); }
+    [ARMSTOP] { text=정지(S); }
+    [CORSTOP] { text=정지(S); }
+    [ARMPATROL] { text=순찰(P); }
+    [CORPATROL] { text=순찰(P); }
+    [ARMDEFEND] { text=호위(G); }
+    [CORDEFEND] { text=호위(G); }
+    [ARMRECLAIM] { text=회수(E); }
+    [CORRECLAIM] { text=회수(E); }
+    [ARMREPAIR] { text=수리(R); }
+    [CORREPAIR] { text=수리(R); }
+    [ARMCAPTURE] { text=포획(C); }
+    [CORCAPTURE] { text=포획(C); }
+    [ARMLOAD] { text=탑재(L); }
+    [CORLOAD] { text=탑재(L); }
+    [ARMUNLOAD] { text=하역(U); }
+    [CORUNLOAD] { text=하역(U); }
+    [ARMORDERS] { text=명령; }
+    [CORORDERS] { text=명령; }
+    [ARMBUILD] { text=건설; }
+    [CORBUILD] { text=건설; }
+    // Two characters, kept to the others' size.
+    [ARMBLAST] { text=D건; area=3,6,48,17; }
+    [CORBLAST] { text=D건; area=3,6,48,17; }
+
+    // The toggles: one caption per state, then the button's name; their
+    // lights stay at the right.
+    [ARMFIREORD] { text=사격 금지|응사|자유 사격|사격 명령; area=3,2,95,16; align=left; }
+    [CORFIREORD] { text=사격 금지|응사|자유 사격|사격 명령; area=3,2,95,16; align=left; }
+    [ARMMOVEORD] { text=위치 고수|기동|자유 이동|이동 명령; area=3,2,95,16; align=left; }
+    [CORMOVEORD] { text=위치 고수|기동|자유 이동|이동 명령; area=3,2,95,16; align=left; }
+    [ARMONOFF] { text=꺼짐|켜짐|전원; area=3,2,95,16; align=left; }
+    [CORONOFF] { text=꺼짐|켜짐|전원; area=3,2,95,16; align=left; }
+    [ARMCLOAK] { text=노출|은폐됨|은폐; area=3,2,95,16; align=left; }
+    [CORCLOAK] { text=노출|은폐됨|은폐; area=3,2,95,16; align=left; }
+    [ARMACTIVATE] { text=활성화|비활성화; area=3,2,95,16; align=left; }
+    [CORACTIVATE] { text=활성화|비활성화; area=3,2,95,16; align=left; }
+}
+
+// The top bar's METAL and ENERGY.
+[armint.gaf/PANELTOP] { text=금속|에너지; area=36,4,48,17|285,4,56,17; }
+[corint.gaf/PANELTOP] { text=금속|에너지; area=34,8,48,13|285,8,52,13; }
+
+// The titles over the battlefield.
+[igtitles.gaf]
+{
+    [igpaused] { text=일시 정지; }
+    [igvictory] { text=승리!; }
+    [igdefeat] { text=패배; }
+}
+
+// The load dialog's title.
+[loadgame.gaf/LoadGame] { text=게임 불러오기; }
+
+// The save and load dialogs' titles, painted into their backgrounds.
+[dsavegame2.pcx] { text=게임 저장; area=64,31,168,27; }
+[dloadgame2.pcx] { text=게임 불러오기; area=61,32,166,27; }
