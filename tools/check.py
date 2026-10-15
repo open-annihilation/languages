@@ -27,9 +27,10 @@ Every character of the pack's text (its tables, its files/ and its warm-up
 text) that only a CJK face draws must be in the pack's fonts, so that none
 draws as a missing-glyph box: each listed face's character map is read. A
 source tree whose face is not built yet is checked against the cut's
-recipe in fonts.py, with the Table of General Standard Chinese Characters
-when --deps (default local/deps) holds the pinned Unihan archive, and
-without it otherwise, which refuses the table's rarer characters.
+recipe in fonts.py: the Chinese face's with the Table of General Standard
+Chinese Characters when --deps (default local/deps) holds the pinned
+Unihan archive, and without it otherwise, which refuses the table's rarer
+characters; the Korean face's, Hangul, with no download.
 
 Every other character is drawn where the manifest's text says. A language
 whose text needs the modern fonts (text: {needs: modern-fonts}) draws it
@@ -208,19 +209,39 @@ def pack_folders(root: Path | None = None) -> list[Path]:
     return sorted(found, key=lambda item: item.as_posix())
 
 
-def built_font_names() -> set[str]:
-    """The font file names fonts/fonts.json builds."""
+def built_font_recipes() -> dict[str, str]:
+    """The font file names fonts/fonts.json builds, each with the recipe it is cut to."""
     path = ROOT / "fonts" / "fonts.json"
     if not path.is_file():
-        return set()
+        return {}
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
     except (OSError, UnicodeDecodeError, json.JSONDecodeError):
-        return set()
+        return {}
     fonts = data.get("fonts") if isinstance(data, dict) else None
     if not isinstance(fonts, dict):
-        return set()
-    return {name for name in fonts if isinstance(name, str)}
+        return {}
+    return {
+        name: spec.get("characters") if isinstance(spec, dict) else None
+        for name, spec in fonts.items() if isinstance(name, str)
+    }
+
+
+def built_font_names() -> set[str]:
+    """The font file names fonts/fonts.json builds."""
+    return set(built_font_recipes())
+
+
+def pack_recipes(values: dict) -> set[str]:
+    """The recipes of the fonts a manifest lists that fonts/fonts.json builds."""
+    recipes = built_font_recipes()
+    fonts = values.get("fonts")
+    found = set()
+    for item in fonts if isinstance(fonts, list) else []:
+        name = item.get("file") if isinstance(item, dict) else None
+        if recipes.get(name) in font_cut.RECIPES:
+            found.add(recipes[name])
+    return found
 
 
 def check_fonts(
@@ -396,23 +417,37 @@ def unihan_archive(deps: Path | None) -> Path | None:
     return path
 
 
-def cut_characters(found: list[Path] | None, deps: Path | None, report: Report) -> set[int] | None:
+def cut_characters(
+    found: list[Path] | None,
+    deps: Path | None,
+    report: Report,
+    recipes: set[str] | None = None,
+) -> set[int] | None:
     """The code points the pack's fonts hold.
 
     found are the pack's faces, each read through its character map. When a
-    listed face is not built yet (found is None), the cut's recipe stands in
-    for it. None means a face could not be read, which has failed already.
+    listed face is not built yet (found is None), the recipes of the pack's
+    built fonts stand in for them (recipes, default the Chinese face's,
+    common-cjk). None means a face could not be read, which has failed
+    already.
     """
     if found is None:
+        recipes = recipes or {"common-cjk"}
+        held: set[int] = set()
+        if "hangul" in recipes:
+            report.note("the Korean face is not built: characters are checked against its recipe")
+            held |= set(font_cut.hangul_characters())
+        if "common-cjk" not in recipes:
+            return held
         unihan = unihan_archive(deps)
         if unihan is None:
             report.note(
                 "the face is not built and the Unihan archive is not in --deps: characters are "
                 "checked against the cut's code pages only"
             )
-            return set(font_cut.cjk_characters())
+            return held | set(font_cut.cjk_characters())
         report.note("the face is not built: characters are checked against the cut's recipe")
-        return set(font_cut.cjk_characters(font_cut.general_standard_characters(unihan)))
+        return held | set(font_cut.cjk_characters(font_cut.general_standard_characters(unihan)))
     held: set[int] = set()
     for face in found:
         try:
@@ -520,7 +555,7 @@ def check_characters(
     character must be in the engine's base faces (engine) or the pack's
     fonts; in one drawn in the game's fonts, in their code page.
     """
-    held = cut_characters(found, deps, report)
+    held = cut_characters(found, deps, report, pack_recipes(values))
     if held is None:
         return
     engine = engine or EngineFaces()

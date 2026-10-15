@@ -19,6 +19,7 @@ COLLECTION = "faa5f3656a78b2e2d450d27fe8382c778bc2b6bb5ea29c986664a6a435056ceb"
 LICENCE = "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
 UNIHAN = "b8f000df69de7828d21326a2ffea462b04bc7560022989f7cc704f10521ef3e0"
 CUT = "1bff16d425a0bc5048fddb7d33d2a59e08647d4a29380a348ccaabcbd89a29f2"
+KOREAN_CUT = "0f035ef4a3ce2cb1aee6c921fc550281ba4ee5fec43cf6febc2c3c3110de168f"
 UKRAINIAN = (
     "АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯабвгґдеєжзиіїйклмнопрстуфхцчшщьюя"
     "ʼ’«»—–…№"
@@ -51,12 +52,32 @@ class FontTests(unittest.TestCase):
         self.assertEqual(face["count"], 15309)
         self.assertEqual(face["sha256"], CUT)
         self.assertEqual(face["licence"], "NotoSansCJK-OFL.txt")
+        korean = data["fonts"]["NotoSansCJKkr-Bold.otf"]
+        self.assertEqual(korean["download"], "NotoSansCJK-Bold-2.004.ttc")
+        self.assertEqual(korean["face"], 1)
+        self.assertEqual(korean["characters"], "hangul")
+        self.assertEqual(korean["count"], 12298)
+        self.assertEqual(korean["sha256"], KOREAN_CUT)
+        self.assertEqual(korean["licence"], "NotoSansCJK-OFL.txt")
+        self.assertEqual(fonts.download_roles(data)[0]["file"], "NotoSansCJK-Bold-2.004.ttc")
         self.assertEqual(fonts.self_test(), 0)
 
     def test_cjk_characters_hold_14066(self) -> None:
         characters = fonts.cjk_characters()
         self.assertEqual(len(characters), 14066)
         self.assertIn(ord("中"), characters)
+
+    def test_hangul_characters_hold_every_syllable_and_no_hanja(self) -> None:
+        characters = fonts.hangul_characters()
+        self.assertEqual(len(characters), fonts.HANGUL_COUNT)
+        self.assertTrue(set(range(0xAC00, 0xD7A4)) <= set(characters))
+        for character in "한국어똠ㅋㆍ「」，·":
+            self.assertIn(ord(character), characters, character)
+        self.assertFalse(any(0x4E00 <= code <= 0x9FFF for code in characters))
+        self.assertEqual(fonts.recipe_characters("hangul"), characters)
+        self.assertEqual(fonts.recipe_characters("common-cjk"), fonts.cjk_characters())
+        with self.assertRaises(ValueError):
+            fonts.recipe_characters("every-cjk")
 
     def test_general_standard_table_must_hold_8105(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

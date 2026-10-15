@@ -8,13 +8,13 @@ The five languages Total Annihilation 3.1c ships with (English, German, Spanish,
 
 - `zh-Hans/` holds the Simplified Chinese sources: `language.yaml`, the tables, `warmup.txt`, and the briefings under `files/`.
 - `uk/` holds the Ukrainian sources, laid out the same way. Its text is drawn in the modern fonts, and the sans faces that travel with the game hold Cyrillic, so the pack brings no font of its own.
-- `fonts/` holds the CJK font's recipe, its licence and the pinned fontTools requirements, and `engine-faces.json`, the record of the characters the engine's own faces draw. The built font is not stored here.
-- `tools/check.py` checks a pack. `tools/coverage.py` lists the engine's interface words a pack does not translate. `tools/build.py` builds a `.oalang`. `tools/fonts.py` builds the font.
+- `fonts/` holds the CJK fonts' recipes, their licence and the pinned fontTools requirements, and `engine-faces.json`, the record of the characters the engine's own faces draw. The built fonts are not stored here.
+- `tools/check.py` checks a pack. `tools/coverage.py` lists the engine's interface words a pack does not translate. `tools/build.py` builds a `.oalang`. `tools/fonts.py` builds the fonts.
 - `dist/` receives the built pack and its build info. `local/` holds downloads, the fontTools environment and the build stage. Neither directory is committed.
 
-## Make the font
+## Make the fonts
 
-Only Simplified Chinese ships a font.
+Simplified Chinese and Korean each ship a font, cut from the same Noto Sans CJK collection.
 
 ```sh
 python3 tools/fonts.py
@@ -26,7 +26,7 @@ Downloads that are not already in `local/deps` are fetched and checked against t
 python3 tools/fonts.py --deps /path/to/deps
 ```
 
-The cut face is written to `local/fonts/NotoSansCJKsc-Bold.otf`. `python3 tools/fonts.py --self-test` checks the pins and the character set and downloads nothing. See `fonts/README.md` for the cut and the licence.
+The cut faces are written to `local/fonts/NotoSansCJKsc-Bold.otf` and `local/fonts/NotoSansCJKkr-Bold.otf`. `python3 tools/fonts.py --self-test` checks the pins and the character sets and downloads nothing. See `fonts/README.md` for the cut and the licence.
 
 ## Check a pack
 
@@ -43,7 +43,7 @@ python3 tools/check.py zh-Hans --game-dir /path/to/game --oa-tool /path/to/oa-to
 
 The check exits 0 when the pack is clean, 1 when it found failures, and 77 when there is no pack.
 
-The check reads the built face from `local/fonts` (or `--fonts`) when the pack's own `fonts/` folder does not hold it, and fails on any character of the pack's text that only a CJK face draws and the face does not hold. Before the face is built, `--source` checks the characters against the cut's recipe, with the general standard table when `--deps` holds the Unihan archive. It also fails on an `interface.tdf` translation that drops a place (`{name}`, `%s`) or a number of its English.
+The check reads the built face from `local/fonts` (or `--fonts`) when the pack's own `fonts/` folder does not hold it, and fails on any character of the pack's text that only a CJK face draws and the face does not hold. Before the face is built, `--source` checks the characters against the cut's recipe: the Chinese face's with the general standard table when `--deps` holds the Unihan archive, and the Korean face's, Hangul, with no download. It also fails on an `interface.tdf` translation that drops a place (`{name}`, `%s`) or a number of its English.
 
 Every other character must have a glyph where the game draws it. In a pack whose text needs the modern fonts (`text: {needs: modern-fonts}`), each visible character must be in the engine's own faces or the pack's fonts, in a face every weight looks in. The engine's faces are read from `fonts/engine-faces.json`, or from an engine build's fonts folder with `--engine-fonts`:
 
@@ -71,7 +71,7 @@ This asks the engine build for its interface words (`oa-tool interface-words --j
 python3 tools/build.py zh-Hans --oa-tool /path/to/oa-tool
 ```
 
-This checks the source, stages it with the font and the font licence, if it names one, checks the staged folder, and runs `oa-tool pack`. The pack is `dist/zh-Hans.oalang`. Beside it, `dist/zh-Hans.oalang.json` records the tag, revision, commit, whether the worktree was dirty, and the file's size and SHA-256. A second build of the same commit produces the same bytes. `OA_TOOL` names the tool when `--oa-tool` is omitted. Pass no tag to build every pack. A pack that names the CJK font needs it built first (`python3 tools/fonts.py`); Ukrainian needs none:
+This checks the source, stages it with the font and the font licence, if it names one, checks the staged folder, and runs `oa-tool pack`. The pack is `dist/zh-Hans.oalang`. Beside it, `dist/zh-Hans.oalang.json` records the tag, revision, commit, whether the worktree was dirty, and the file's size and SHA-256. A second build of the same commit produces the same bytes. `OA_TOOL` names the tool when `--oa-tool` is omitted. Pass no tag to build every pack. A pack that names a CJK font needs it built first (`python3 tools/fonts.py`); Ukrainian needs none:
 
 ```sh
 python3 tools/build.py uk --oa-tool /path/to/oa-tool
@@ -83,7 +83,7 @@ Fix the translation, then bump `packaging.revision` and `packaging.date` in the 
 
 ## Licences
 
-The tables, briefings and tools are GPL-3.0-only, the same terms as the engine (`LICENSE`, `COPYRIGHT`). The CJK font is under the SIL Open Font License 1.1 (`fonts/NotoSansCJK-OFL.txt`). The Ukrainian pack carries no font.
+The tables, briefings and tools are GPL-3.0-only, the same terms as the engine (`LICENSE`, `COPYRIGHT`). The CJK fonts are under the SIL Open Font License 1.1 (`fonts/NotoSansCJK-OFL.txt`). The Ukrainian pack carries no font.
 
 ## Tests
 

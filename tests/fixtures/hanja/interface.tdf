@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+
+[Korean]
+	{
+	hanja=한국어;
+	}
+[Korea]
+	{
+	hanja=韓國;
+	}

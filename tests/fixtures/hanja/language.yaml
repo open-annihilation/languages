@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+# SPDX-License-Identifier: GPL-3.0-only
+
+# A Korean pack whose text holds hanja, which the Hangul cut leaves out.
+oalang: 1
+tag: hanja
+word: Korean
+text: {needs: modern-fonts}
+fonts: [{file: NotoSansCJKkr-Bold.otf, role: ideographs}]

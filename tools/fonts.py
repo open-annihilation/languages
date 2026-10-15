@@ -2,7 +2,7 @@
 # SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
 # SPDX-License-Identifier: GPL-3.0-only
 
-"""Build the CJK font a language pack ships, from the pins in fonts/fonts.json.
+"""Build the CJK fonts the language packs ship, from the pins in fonts/fonts.json.
 
     fonts.py [--deps DIR] [--out DIR]
 
@@ -11,8 +11,9 @@ is already there is used when its SHA-256 matches, and fetched otherwise.
 --out is where the cut faces are written (default local/fonts). Each face
 is one line: its path, its size in bytes and its SHA-256.
 
-The cut is Noto Sans CJK SC Bold (face 2 of the Bold collection) kept to
-the common CJK characters. fontTools 4.66.1, pinned by hash in
+Two faces are cut from the Bold collection: Noto Sans CJK SC Bold (face 2)
+kept to the common CJK characters, and Noto Sans CJK KR Bold (face 1) kept
+to Hangul. fontTools 4.66.1, pinned by hash in
 fonts/requirements.txt, runs in local/fonttools-venv. --self-test checks
 the pins and the character set and downloads nothing.
 
@@ -100,6 +101,52 @@ def cjk_characters(general_standard=()):
         characters |= set(range(first, last + 1))
     characters |= set(general_standard)
     return sorted(characters)
+
+
+HANGUL_SYLLABLES = (0xAC00, 0xD7A3)
+"""The 11,172 precomposed Hangul syllables of modern Korean."""
+
+HANGUL_COUNT = 12349
+"""The characters hangul_characters() lists."""
+
+
+def hangul_characters():
+    """The characters the cut-down Korean face keeps, as a sorted list of code points.
+
+    Every precomposed Hangul syllable, the blocks of Hangul compatibility
+    jamo, CJK punctuation and half- and full-width forms, and the two-byte
+    characters of KS X 1001's symbol rows (lead bytes 0xA1-0xAC), as
+    Python's codecs map them. KS X 1001's hanja are left out.
+    """
+    characters = set(range(HANGUL_SYLLABLES[0], HANGUL_SYLLABLES[1] + 1))
+    for lead in range(0xA1, 0xAD):
+        for trail in range(0xA1, 0xFF):
+            try:
+                text = bytes((lead, trail)).decode("euc_kr")
+            except UnicodeDecodeError:
+                continue
+            if len(text) == 1:
+                characters.add(ord(text))
+    for first, last in ((0x3000, 0x303F), (0x3130, 0x318F), (0xFF00, 0xFFEF)):
+        characters |= set(range(first, last + 1))
+    return sorted(characters)
+
+
+RECIPES = ("common-cjk", "hangul")
+"""The character sets a face in fonts.json may be cut to.
+
+common-cjk is cjk_characters() with the general standard table, hangul is
+hangul_characters().
+"""
+
+
+def recipe_characters(recipe, general_standard=()):
+    """The code points a recipe keeps; general_standard is used by common-cjk only."""
+    if recipe == "hangul":
+        return hangul_characters()
+    if recipe == "common-cjk":
+        return cjk_characters(general_standard)
+    raise ValueError(f"{recipe!r} is not a recipe")
 
 
 CJK_BLOCKS = (
@@ -376,8 +423,8 @@ def pin_problems(data):
         face = spec.get("face")
         if isinstance(face, bool) or not isinstance(face, int) or face < 0:
             problems.append(f"{name} has no face index")
-        if spec.get("characters") != "common-cjk":
-            problems.append(f"{name} is not cut to common-cjk")
+        if spec.get("characters") not in RECIPES:
+            problems.append(f"{name} is not cut to one of {', '.join(RECIPES)}")
         count = spec.get("count")
         if isinstance(count, bool) or not isinstance(count, int) or count < 1:
             problems.append(f"{name} has no character count")
@@ -423,7 +470,8 @@ def download_roles(data):
     collections = []
     archives = []
     for spec in data["fonts"].values():
-        collections.append(by_name[spec["download"]])
+        if by_name[spec["download"]] not in collections:
+            collections.append(by_name[spec["download"]])
     for item in data["downloads"]:
         if item["file"].endswith(".zip"):
             archives.append(item)
@@ -455,10 +503,12 @@ def fonttools_python():
     return python
 
 
-def cut_cjk_face(collection, unihan, face, out, count):
-    """Write one face of the CJK collection to out, cut to cjk_characters().
+def cut_cjk_face(collection, unihan, face, out, count, recipe="common-cjk"):
+    """Write one face of the CJK collection to out, cut to its recipe's characters.
 
-    Runs in the fontTools environment (--cut-face). Layout tables are
+    The recipe is common-cjk, cjk_characters() with the general standard
+    table read from unihan, or hangul, hangul_characters(), which does not
+    read unihan. Runs in the fontTools environment (--cut-face). Layout tables are
     dropped, since the engine shapes nothing, and the hinting kept; the
     font's modification time is left as it was, so the output depends only
     on its input.
@@ -474,7 +524,8 @@ def cut_cjk_face(collection, unihan, face, out, count):
     options.notdef_outline = True
     options.recalc_timestamp = False
     held = font.getBestCmap()
-    kept = [c for c in cjk_characters(general_standard_characters(unihan)) if c in held]
+    general_standard = general_standard_characters(unihan) if recipe == "common-cjk" else ()
+    kept = [c for c in recipe_characters(recipe, general_standard) if c in held]
     if len(kept) != count:
         raise RuntimeError(f"the face holds {len(kept)} of the characters, not {count}")
     subsetter = subset.Subsetter(options)
@@ -497,13 +548,22 @@ def self_test():
     for sample in ("中", "國", "日本", "한국어", "ア", "，"):
         if any(ord(character) not in characters for character in sample):
             problems.append(f"the CJK character set lacks {sample}")
+    hangul = hangul_characters()
+    if len(hangul) != HANGUL_COUNT:
+        problems.append(f"the Hangul character set holds {len(hangul)} characters, not {HANGUL_COUNT}")
+    for sample in ("한국어", "똠방각하", "ㅋㅎ", "「」", "，"):
+        if any(ord(character) not in hangul for character in sample):
+            problems.append(f"the Hangul character set lacks {sample}")
+    if any(0x4E00 <= code <= 0x9FFF for code in hangul):
+        problems.append("the Hangul character set holds hanja")
     for problem in problems:
         print(f"fonts self-test: {problem}")
     if problems:
         return 1
     print(
-        f"fonts self-test: {len(data['downloads'])} downloads, {len(data['fonts'])} fonts "
-        f"and {len(characters)} CJK characters besides the general standard table, as expected"
+        f"fonts self-test: {len(data['downloads'])} downloads, {len(data['fonts'])} fonts, "
+        f"{len(characters)} CJK characters besides the general standard table "
+        f"and {len(hangul)} Hangul characters, as expected"
     )
     return 0
 
@@ -530,6 +590,7 @@ def build(deps, out, shown):
             str(python), str(pathlib.Path(__file__).resolve()),
             "--cut-face", str(collection_path), str(unihan_path), str(destination),
             "--face", str(spec["face"]), "--count", str(spec["count"]),
+            "--characters", spec["characters"],
         ]
         subprocess.run(command, check=True)
         payload = destination.read_bytes()
@@ -554,6 +615,7 @@ def main(argv=None):
     parser.add_argument("--cut-face", nargs=3, metavar=("COLLECTION", "UNIHAN", "OUT"), help=argparse.SUPPRESS)
     parser.add_argument("--face", type=int, default=2, help=argparse.SUPPRESS)
     parser.add_argument("--count", type=int, default=15309, help=argparse.SUPPRESS)
+    parser.add_argument("--characters", choices=RECIPES, default="common-cjk", help=argparse.SUPPRESS)
     args = parser.parse_args(argv)
     if args.self_test:
         return self_test()
@@ -566,7 +628,8 @@ def main(argv=None):
         print(f"{ENGINE_FACES.relative_to(ROOT).as_posix()}: {len(held)} characters in every weight")
         return 0
     if args.cut_face:
-        cut_cjk_face(args.cut_face[0], args.cut_face[1], args.face, args.cut_face[2], args.count)
+        cut_cjk_face(args.cut_face[0], args.cut_face[1], args.face, args.cut_face[2], args.count,
+                     args.characters)
         return 0
     build(args.deps, args.out, args.out)
     return 0

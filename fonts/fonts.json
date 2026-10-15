@@ -17,6 +17,14 @@
     }
   ],
   "fonts": {
+    "NotoSansCJKkr-Bold.otf": {
+      "characters": "hangul",
+      "count": 12298,
+      "download": "NotoSansCJK-Bold-2.004.ttc",
+      "face": 1,
+      "licence": "NotoSansCJK-OFL.txt",
+      "sha256": "0f035ef4a3ce2cb1aee6c921fc550281ba4ee5fec43cf6febc2c3c3110de168f"
+    },
     "NotoSansCJKsc-Bold.otf": {
       "characters": "common-cjk",
       "count": 15309,

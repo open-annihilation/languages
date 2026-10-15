@@ -144,6 +144,14 @@ class CheckTests(unittest.TestCase):
         self.assertEqual(code, 0, output)
         self.assertTrue(output.rstrip().endswith("clean"), output)
 
+    def test_hanja_outside_the_hangul_recipe_fails(self) -> None:
+        code, output = run([str(FIXTURES / "hanja"), "--source", "--fonts", str(self.empty),
+                            "--deps", str(self.empty)])
+        self.assertEqual(code, 1, output)
+        self.assertIn("interface.tdf uses 2 characters the pack's fonts lack: "
+                      "韓 (U+97D3, line 10), 國 (U+570B, line 10)", output)
+        self.assertNotIn("한", output)
+
     def test_cyrillic_is_drawn_by_the_recorded_engine_faces(self) -> None:
         code, output = run([str(FIXTURES / "cyrillic")])
         self.assertEqual(code, 0, output)
