@@ -8019,3 +8019,76 @@
 	{
 	zh-Hans=此启动文件所用的内容与游戏当前所用的不同。请退出Open Annihilation，然后重新打开该文件。;
 	}
+
+// The registries' checks the game cannot do, and the Library's
+// Available.
+
+[Available]
+	{
+	zh-Hans=可下载;
+	}
+
+[the server asked for a check the game cannot do]
+	{
+	zh-Hans=服务器要求进行一项游戏无法完成的检查;
+	}
+
+[{registry} asked for a check the game cannot do. Try again later.]
+	{
+	zh-Hans={registry}要求进行一项游戏无法完成的检查。请稍后再试。;
+	}
+
+// First run's question when the copy's source has been changed, and
+// the copy's lines for files left out for their size.
+
+[Your Total Annihilation has been changed]
+	{
+	zh-Hans=你的横扫千军已被改动;
+	}
+
+[Some of its files are not the size they are in Total Annihilation 3.1c and its expansions. A mod or another program may have changed them.]
+	{
+	zh-Hans=其中部分文件的大小与3.1c版横扫千军及其资料片中的不同。可能是模组或其他程序改动了它们。;
+	}
+
+[{file}, from {bundle}, is {size} bytes. It should be {expected}.]
+	{
+	zh-Hans={file}（{bundle}）为{size}字节，应为{expected}字节。;
+	}
+
+[Open Annihilation needs a fresh Total Annihilation install, without mods, to set up its copy. Nothing has been copied. Choose another place to copy from.]
+	{
+	zh-Hans=Open Annihilation需要一份全新安装、未装模组的横扫千军来建立自己的副本。尚未复制任何内容。请选择其他位置进行复制。;
+	}
+
+[Choose another place]
+	{
+	zh-Hans=选择其他位置;
+	}
+
+[{file} left out: {size} bytes, not {expected}]
+	{
+	zh-Hans={file}已排除：{size}字节，而非{expected}字节;
+	}
+
+[{count} files left out for their size: {files}]
+	{
+	zh-Hans=因大小不符已排除{count}个文件：{files};
+	}
+
+// Graphics' Smooth motion.
+
+[Smooth motion]
+	{
+	zh-Hans=平滑运动;
+	}
+
+[Units, shots and spinning parts move smoothly between the game's ticks.]
+	{
+	zh-Hans=单位、炮弹和旋转部件在游戏的逻辑帧之间平滑移动。;
+	}
+
+[Units and shots move 30 times a second, as the game drew them; fast spins may flicker.]
+	{
+	zh-Hans=单位和炮弹每秒移动30次，与原版游戏的绘制相同；快速旋转可能会闪烁。;
+	}

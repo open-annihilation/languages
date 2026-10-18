@@ -8035,3 +8035,58 @@
 	{
 	uk=Реєстр {registry} запросив перевірку, яку гра не може пройти. Спробуй пізніше.;
 	}
+
+// First run's question when the copy's source has been changed, and
+// the copy's lines for files left out for their size.
+
+[Your Total Annihilation has been changed]
+	{
+	uk=Твою копію Total Annihilation змінено;
+	}
+
+[Some of its files are not the size they are in Total Annihilation 3.1c and its expansions. A mod or another program may have changed them.]
+	{
+	uk=Деякі її файли мають інший розмір, ніж у Total Annihilation 3.1c і доповненнях до неї. Їх міг змінити мод або інша програма.;
+	}
+
+[{file}, from {bundle}, is {size} bytes. It should be {expected}.]
+	{
+	uk={file} ({bundle}): {size} Б, а має бути {expected} Б.;
+	}
+
+[Open Annihilation needs a fresh Total Annihilation install, without mods, to set up its copy. Nothing has been copied. Choose another place to copy from.]
+	{
+	uk=Щоб підготувати власну копію, Open Annihilation потрібна щойно встановлена Total Annihilation без модів. Нічого не скопійовано. Обери інше місце, звідки копіювати.;
+	}
+
+[Choose another place]
+	{
+	uk=Обрати інше місце;
+	}
+
+[{file} left out: {size} bytes, not {expected}]
+	{
+	uk={file} пропущено: {size} Б замість {expected} Б;
+	}
+
+[{count} files left out for their size: {files}]
+	{
+	uk=Пропущено файлів через розмір: {count} ({files});
+	}
+
+// Graphics' Smooth motion.
+
+[Smooth motion]
+	{
+	uk=Плавний рух;
+	}
+
+[Units, shots and spinning parts move smoothly between the game's ticks.]
+	{
+	uk=Підрозділи, снаряди й деталі, що обертаються, рухаються плавно між тактами гри.;
+	}
+
+[Units and shots move 30 times a second, as the game drew them; fast spins may flicker.]
+	{
+	uk=Підрозділи й снаряди рухаються 30 разів на секунду, як їх малювала гра. Швидке обертання може мерехтіти.;
+	}
