@@ -48,6 +48,11 @@ class ValueTests(unittest.TestCase):
     def test_another_script_is_caught(self) -> None:
         self.assertTrue(any("cannot hold" in p for p in self.problems("Off", "Выкл 关")))
 
+    def test_russian_and_ukrainian_keep_their_own_letters(self) -> None:
+        self.assertTrue(any("cannot hold" in p for p in self.problems("Units", "Підрозділи", "ru")))
+        self.assertTrue(any("cannot hold" in p for p in self.problems("Units", "Юниты", "uk") if "ы" in p))
+        self.assertEqual(self.problems("Units", "Юниты", "ru"), [])
+
     def test_japanese_keeps_its_own_punctuation(self) -> None:
         self.assertEqual(self.problems("Settings were not saved.", "設定を保存できませんでした。", "ja"), [])
         self.assertTrue(any("cannot hold" in p for p in self.problems("Off", "オフ 끔", "ja")))

@@ -58,11 +58,14 @@ COMMON = (
     (0x20A0, 0x20CF), (0x2100, 0x214F), (0x2190, 0x21FF), (0x2200, 0x22FF),
     (0x2500, 0x25FF), (0x2600, 0x27BF),
 )
-# Each script a pack may write, by the tag's language subtag, and the letters
-# a briefing must hold at least one of.
+# Each script a pack may write, by the tag's language subtag, the letters a
+# briefing must hold at least one of, and the letters of a neighbouring
+# language written in the same script that this one never uses.
 SCRIPTS = {
-    "ru": {"allow": ((0x0400, 0x052F),), "letters": ((0x0400, 0x04FF),)},
-    "uk": {"allow": ((0x0400, 0x052F),), "letters": ((0x0400, 0x04FF),)},
+    "ru": {"allow": ((0x0400, 0x052F),), "letters": ((0x0400, 0x04FF),),
+           "forbid": "ІіЇїЄєҐґ"},
+    "uk": {"allow": ((0x0400, 0x052F),), "letters": ((0x0400, 0x04FF),),
+           "forbid": "ЫыЭэЪъЁё"},
     "ja": {"allow": ((0x3000, 0x30FF), (0x31F0, 0x31FF), (0x3400, 0x4DBF), (0x4E00, 0x9FFF),
                      (0xF900, 0xFAFF), (0xFF00, 0xFFEF)),
            "letters": ((0x3040, 0x30FF), (0x4E00, 0x9FFF))},
@@ -318,7 +321,8 @@ def foreign(text: str, pack: Pack) -> list[str]:
                 found.append(character)
             continue
         allowed = COMMON + (pack.script["allow"] if pack.script else ())
-        if not within(code, allowed):
+        if not within(code, allowed) or (
+                pack.script and character in pack.script.get("forbid", "")):
             found.append(character)
     return found
 
