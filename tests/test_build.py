@@ -116,6 +116,23 @@ class BuildTests(unittest.TestCase):
             self.assertIn("files/camps/briefs-Korean/ArmCampaign1.txt", names)
             self.assertNotIn("fonts/NotoSansCJKsc-Bold.otf", names)
 
+    def test_ja_builds_with_its_face(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            folder = Path(tmp)
+            fonts = folder / "fonts"
+            write_face(fonts / "NotoSansCJKjp-Bold.otf", ranges_of(pack_characters(ROOT / "ja")))
+            out = folder / "out"
+            result = self.build(out, fonts, "ja")
+            self.assertEqual(result.returncode, 0, result.stderr + result.stdout)
+            info = json.loads((out / "ja.oalang.json").read_text(encoding="utf-8"))
+            self.assertEqual(info["tag"], "ja")
+            with zipfile.ZipFile(out / "ja.oalang") as archive:
+                names = archive.namelist()
+            self.assertIn("fonts/NotoSansCJKjp-Bold.otf", names)
+            self.assertIn("fonts/NotoSansCJK-OFL.txt", names)
+            self.assertIn("files/camps/briefs-Japanese/ArmCampaign1.txt", names)
+            self.assertNotIn("fonts/NotoSansCJKsc-Bold.otf", names)
+
     def test_missing_font_stops(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             folder = Path(tmp)

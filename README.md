@@ -1,6 +1,6 @@
 # Open Annihilation language packs
 
-The sources of Open Annihilation's downloadable language packs (`.oalang`): Simplified Chinese, Ukrainian and Korean. Each pack is built and checked here, and published with the content library's publish script. That script also makes a GitHub release for each pack and revision, so a translation can ship without an engine release.
+The sources of Open Annihilation's downloadable language packs (`.oalang`): Simplified Chinese, Ukrainian, Korean and Japanese. Each pack is built and checked here, and published with the content library's publish script. That script also makes a GitHub release for each pack and revision, so a translation can ship without an engine release.
 
 The five languages Total Annihilation 3.1c ships with (English, German, Spanish, French and Italian) need no pack: Open Annihilation reads them from the game's own data.
 
@@ -9,6 +9,7 @@ The five languages Total Annihilation 3.1c ships with (English, German, Spanish,
 - `zh-Hans/` holds the Simplified Chinese sources: `language.yaml`, the tables, `warmup.txt`, and the briefings under `files/`.
 - `uk/` holds the Ukrainian sources, laid out the same way. Its text is drawn in the modern fonts, and the sans faces that travel with the game hold Cyrillic, so the pack brings no font of its own.
 - `ko/` holds the Korean sources, laid out the same way. Its text is drawn in the modern fonts, its Hangul from the pack's own face, cut from the same collection as the Chinese one.
+- `ja/` holds the Japanese sources, laid out the same way. Its text is drawn in the modern fonts, its kana and kanji from the pack's own face, cut from the same collection in its Japanese forms.
 - `fonts/` holds the CJK fonts' recipes, their licence and the pinned fontTools requirements, and `engine-faces.json`, the record of the characters the engine's own faces draw. The built fonts are not stored here.
 - `tools/check.py` checks a pack. `tools/coverage.py` lists the engine's interface words a pack does not translate. `tools/build.py` builds a `.oalang`. `tools/fonts.py` builds the fonts. `tools/translate.py` prepares, checks and merges a new pack's translation from an existing pack. `tools/screens.py` takes pictures of a built pack's screens with an engine build.
 - `docs/` holds the guides: [adding a language](docs/new-language.md), [updating the packs for an engine release](docs/updating-a-pack.md), and each pack's glossary under `docs/glossaries/`.
@@ -85,7 +86,7 @@ python3 tools/build.py uk --oa-tool /path/to/oa-tool
 
 ## A new revision
 
-Fix the translation, then bump `packaging.revision` and `packaging.date` in the pack's `language.yaml`. Commit and push to `main`. From that clean commit, build the pack. The maintainer publishes it with the content library's publish script, which reads the build info and makes the GitHub release for that pack and revision (for example `zh-Hans-r1`, `uk-r1` or `ko-r1`).
+Fix the translation, then bump `packaging.revision` and `packaging.date` in the pack's `language.yaml`. Commit and push to `main`. From that clean commit, build the pack. The maintainer publishes it with the content library's publish script, which reads the build info and makes the GitHub release for that pack and revision (for example `zh-Hans-r1`, `uk-r1`, `ko-r1` or `ja-r1`).
 
 ## Licences
 

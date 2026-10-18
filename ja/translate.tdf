@@ -1,0 +1,4168 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Japanese for 3.1c's translate.tdf texts, keyed by 3.1c's English
+// exactly (case and spaces included), in 3.1c's own order.
+
+// Ingame and Panel Messages
+
+[KILLS]
+	{
+	Japanese=撃破;
+	}
+[Kills]
+	{
+	Japanese=撃破;
+	}
+[Kill]
+	{
+	Japanese=撃破;
+	}
+[kill]
+	{
+	Japanese=撃破;
+	}
+[LOSSES]
+	{
+	Japanese=損失;
+	}
+[Losses]
+	{
+	Japanese=損失;
+	}
+[kills]
+	{
+	Japanese=撃破;
+	}
+[Veteran]
+	{
+	Japanese=ベテラン;
+	}
+[Newbie]
+	{
+	Japanese=新兵;
+	}
+[PAUSED]
+	{
+	Japanese=一時停止;
+	}
+
+// Loading screen
+
+[Map]
+	{
+	Japanese=マップ;
+	}
+[Map:]
+	{
+	Japanese=マップ：;
+	}
+[Terrain]
+	{
+	Japanese=地形;
+	}
+[Textures]
+	{
+	Japanese=テクスチャ;
+	}
+[Units]
+	{
+	Japanese=ユニット;
+	}
+[Features]
+	{
+	Japanese=地形物;
+	}
+[FEATURES]
+	{
+	Japanese=地形物;
+	}
+[MoveInfo]
+	{
+	Japanese=移動情報;
+	}
+[Explosions]
+	{
+	Japanese=爆発;
+	}
+[Synchronization complete]
+	{
+	Japanese=同期完了;
+	}
+[player ready]
+	{
+	Japanese=人が準備完了;
+	}
+[players ready]
+	{
+	Japanese=人が準備完了;
+	}
+[Waiting for other players]
+	{
+	Japanese=ほかのプレイヤーを待っています;
+	}
+[Synchronizing]
+	{
+	Japanese=同期中;
+	}
+[Waiting for the Creator]
+	{
+	Japanese=ホストを待っています;
+	}
+[3D Data]
+	{
+	Japanese=3Dデータ;
+	}
+[Animation]
+	{
+	Japanese=アニメーション;
+	}
+[Animations]
+	{
+	Japanese=アニメーション;
+	}
+
+// Sides
+
+[Arm]
+	{
+	Japanese=ARM;
+	}
+[Core]
+	{
+	Japanese=CORE;
+	}
+[Arm Campaign]
+	{
+	Japanese=ARMキャンペーン;
+	}
+[arm campaign]
+	{
+	Japanese=ARMキャンペーン;
+	}
+[Core Campaign]
+	{
+	Japanese=COREキャンペーン;
+	}
+
+// Campaigns' names in the New Campaign and Any Mission lists, which 3.1c's
+// table does not hold: keyed by the campaign file's name, without the space
+// that ends Core Contingency's.
+
+[Arm Campaign - Core Contingency]
+	{
+	Japanese=ARMキャンペーン - Core Contingency;
+	}
+[Core Campaign - Core Contingency]
+	{
+	Japanese=COREキャンペーン - Core Contingency;
+	}
+[Krogoth Encounter]
+	{
+	Japanese=クロゴスとの遭遇;
+	}
+[Battle Tactics - Arm Very Short]
+	{
+	Japanese=Battle Tactics - ARM 超短編;
+	}
+[Battle Tactics - Arm Short]
+	{
+	Japanese=Battle Tactics - ARM 短編;
+	}
+[Battle Tactics - Arm Medium]
+	{
+	Japanese=Battle Tactics - ARM 中編;
+	}
+[Battle Tactics - Arm Long]
+	{
+	Japanese=Battle Tactics - ARM 長編;
+	}
+[Battle Tactics - Core Very Short]
+	{
+	Japanese=Battle Tactics - CORE 超短編;
+	}
+[Battle Tactics - Core Short]
+	{
+	Japanese=Battle Tactics - CORE 短編;
+	}
+[Battle Tactics - Core Medium]
+	{
+	Japanese=Battle Tactics - CORE 中編;
+	}
+[Battle Tactics - Core Long]
+	{
+	Japanese=Battle Tactics - CORE 長編;
+	}
+
+// Menus
+
+[No Narration]
+	{
+	Japanese=音声なし;
+	}
+[Narration]
+	{
+	Japanese=音声あり;
+	}
+[Start]
+	{
+	Japanese=開始;
+	}
+[Select]
+	{
+	Japanese=選択;
+	}
+[Previous Menu]
+	{
+	Japanese=前のメニュー;
+	}
+[Next]
+	{
+	Japanese=次へ;
+	}
+[Previous]
+	{
+	Japanese=前へ;
+	}
+[SOUND]
+	{
+	Japanese=サウンド;
+	}
+[INTERFACE]
+	{
+	Japanese=インターフェース;
+	}
+[VISUALS]
+	{
+	Japanese=グラフィック;
+	}
+[MUSIC]
+	{
+	Japanese=音楽;
+	}
+[Set Difficulty]
+	{
+	Japanese=難易度設定;
+	}
+[Skirmish]
+	{
+	Japanese=スカーミッシュ;
+	}
+[Skirmish (%d players)]
+	{
+	Japanese=スカーミッシュ（%d人）;
+	}
+[New Campaign]
+	{
+	Japanese=新規キャンペーン;
+	}
+[NEW CAMPAIGN]
+	{
+	Japanese=新規キャンペーン;
+	}
+[Start Campaign]
+	{
+	Japanese=キャンペーン開始;
+	}
+[Select Campaign]
+	{
+	Japanese=キャンペーン選択;
+	}
+[SELECT CAMPAIGN:]
+	{
+	Japanese=キャンペーン選択：;
+	}
+[Select Any Mission]
+	{
+	Japanese=ミッション自由選択;
+	}
+[Select Mission]
+	{
+	Japanese=ミッション選択;
+	}
+[Start Mission]
+	{
+	Japanese=ミッション開始;
+	}
+[Undo Changes]
+	{
+	Japanese=変更を取り消す;
+	}
+[Restore Defaults]
+	{
+	Japanese=初期設定に戻す;
+	}
+[Restore Default]
+	{
+	Japanese=初期設定に戻す;
+	}
+[Exit to Menu]
+	{
+	Japanese=メニューに戻る;
+	}
+[Exit Game]
+	{
+	Japanese=ゲーム終了;
+	}
+[Please Select Map]
+	{
+	Japanese=マップを選んでください;
+	}
+[Load Map]
+	{
+	Japanese=マップをロード;
+	}
+[Select Side]
+	{
+	Japanese=陣営選択;
+	}
+
+// Generic gameplay stuff
+
+[Player]
+	{
+	Japanese=プレイヤー;
+	}
+[Players]
+	{
+	Japanese=プレイヤー;
+	}
+[Players:]
+	{
+	Japanese=プレイヤー：;
+	}
+[Allies]
+	{
+	Japanese=同盟;
+	}
+[ALLIES]
+	{
+	Japanese=同盟;
+	}
+[Ally]
+	{
+	Japanese=同盟;
+	}
+[Side]
+	{
+	Japanese=陣営;
+	}
+[Metal]
+	{
+	Japanese=金属;
+	}
+[METAL]
+	{
+	Japanese=金属;
+	}
+[Energy]
+	{
+	Japanese=エネルギー;
+	}
+[ENERGY]
+	{
+	Japanese=エネルギー;
+	}
+[Color]
+	{
+	Japanese=色;
+	}
+[Yes]
+	{
+	Japanese=はい;
+	}
+[No]
+	{
+	Japanese=いいえ;
+	}
+[OK]
+	{
+	Japanese=OK;
+	}
+[Ok]
+	{
+	Japanese=OK;
+	}
+[Cancel]
+	{
+	Japanese=キャンセル;
+	}
+[CANCEL]
+	{
+	Japanese=キャンセル;
+	}
+
+// Victory/Defeat Screen
+
+[Energy Produced]
+	{
+	Japanese=エネルギー生産量;
+	}
+[Metal Produced]
+	{
+	Japanese=金属生産量;
+	}
+[Energy Wasted]
+	{
+	Japanese=エネルギー浪費量;
+	}
+[Metal Wasted]
+	{
+	Japanese=金属浪費量;
+	}
+
+// Options menu
+
+[Options Menu]
+	{
+	Japanese=オプションメニュー;
+	}
+[GAME OPTIONS]
+	{
+	Japanese=ゲームオプション;
+	}
+[Resume]
+	{
+	Japanese=ゲームに戻る;
+	}
+[Save Game]
+	{
+	Japanese=セーブ;
+	}
+[Load Game]
+	{
+	Japanese=ロード;
+	}
+[Preferences]
+	{
+	Japanese=環境設定;
+	}
+[End Mission]
+	{
+	Japanese=ミッション終了;
+	}
+[Help]
+	{
+	Japanese=ヘルプ;
+	}
+[Briefing]
+	{
+	Japanese=ブリーフィング;
+	}
+[Mission Objective]
+	{
+	Japanese=ミッション目標;
+	}
+
+// Player settings
+
+[UNUSED]
+	{
+	Japanese=未使用;
+	}
+[unused]
+	{
+	Japanese=未使用;
+	}
+[AI]
+	{
+	Japanese=AI;
+	}
+[BLOCKED]
+	{
+	Japanese=閉鎖;
+	}
+[No Limit]
+	{
+	Japanese=制限なし;
+	}
+
+// CD controls
+
+[CD Player]
+	{
+	Japanese=CDプレイヤー;
+	}
+[No Music]
+	{
+	Japanese=音楽なし;
+	}
+[Repeat Track]
+	{
+	Japanese=曲をリピート;
+	}
+[Repeat Track #]
+	{
+	Japanese=リピートする曲 #;
+	}
+[Repeat]
+	{
+	Japanese=リピート;
+	}
+[Random Tracks]
+	{
+	Japanese=ランダム再生;
+	}
+[Specify Tracks]
+	{
+	Japanese=曲を指定;
+	}
+[Play All Tracks]
+	{
+	Japanese=全曲再生;
+	}
+[Play All]
+	{
+	Japanese=全曲再生;
+	}
+[Track]
+	{
+	Japanese=曲;
+	}
+[Custom]
+	{
+	Japanese=カスタム;
+	}
+[No Action]
+	{
+	Japanese=非戦闘;
+	}
+[Battle]
+	{
+	Japanese=戦闘;
+	}
+[Defeat]
+	{
+	Japanese=敗北;
+	}
+[Unused]
+	{
+	Japanese=未使用;
+	}
+[NO DISC]
+	{
+	Japanese=ディスクなし;
+	}
+
+// Speeds
+
+[Normal]
+	{
+	Japanese=標準;
+	}
+[Slow]
+	{
+	Japanese=遅い;
+	}
+[Slower]
+	{
+	Japanese=より遅い;
+	}
+[Fast]
+	{
+	Japanese=速い;
+	}
+[Faster]
+	{
+	Japanese=より速い;
+	}
+[Game Speed]
+	{
+	Japanese=ゲーム速度;
+	}
+[Mouse Speed]
+	{
+	Japanese=マウス速度;
+	}
+[Screen Scroll]
+	{
+	Japanese=画面スクロール;
+	}
+[Screen Text Delay]
+	{
+	Japanese=テキスト表示時間;
+	}
+[Interface]
+	{
+	Japanese=操作方式;
+	}
+[Unit Chat]
+	{
+	Japanese=ユニットの報告;
+	}
+[Text Lines]
+	{
+	Japanese=テキスト行数;
+	}
+[Game]
+	{
+	Japanese=ゲーム;
+	}
+[Mouse]
+	{
+	Japanese=マウス;
+	}
+[Screen]
+	{
+	Japanese=画面;
+	}
+[Text Delay (secs)]
+	{
+	Japanese=テキスト表示時間（秒）;
+	}
+[Button Interface]
+	{
+	Japanese=ボタン操作;
+	}
+[Control]
+	{
+	Japanese=操作;
+	}
+
+// Gamespeed
+
+[Quick]
+	{
+	Japanese=速め;
+	}
+[Sluggish]
+	{
+	Japanese=遅め;
+	}
+[Rapid Fire]
+	{
+	Japanese=超高速;
+	}
+
+// Chat settings
+
+[No Chat]
+	{
+	Japanese=報告なし;
+	}
+[Only important info]
+	{
+	Japanese=重要な情報のみ;
+	}
+[Medium chat]
+	{
+	Japanese=通常の報告;
+	}
+[Detailed chat]
+	{
+	Japanese=詳細な報告;
+	}
+[High chat level]
+	{
+	Japanese=より詳細な報告;
+	}
+[All info chatted]
+	{
+	Japanese=すべての情報を報告;
+	}
+[ENEMIES]
+	{
+	Japanese=敵;
+	}
+[Enemies]
+	{
+	Japanese=敵;
+	}
+[All]
+	{
+	Japanese=全員;
+	}
+[ALL]
+	{
+	Japanese=全員;
+	}
+[TALK TO:]
+	{
+	Japanese=送信先：;
+	}
+[Unit Sounds]
+	{
+	Japanese=ユニット効果音;
+	}
+[UNIT SOUNDS]
+	{
+	Japanese=ユニット効果音;
+	}
+
+// Sound settings
+
+[On]
+	{
+	Japanese=オン;
+	}
+[Off]
+	{
+	Japanese=オフ;
+	}
+[Mono]
+	{
+	Japanese=モノラル;
+	}
+[Stereo]
+	{
+	Japanese=ステレオ;
+	}
+[3d]
+	{
+	Japanese=3D;
+	}
+[Sound Effects Volume]
+	{
+	Japanese=効果音の音量;
+	}
+[Music Volume]
+	{
+	Japanese=音楽の音量;
+	}
+[Sound Volume]
+	{
+	Japanese=音量;
+	}
+[Sound Mode]
+	{
+	Japanese=サウンドモード;
+	}
+[No Chatting]
+	{
+	Japanese=報告なし;
+	}
+[TEST]
+	{
+	Japanese=テスト;
+	}
+[Sound Test]
+	{
+	Japanese=サウンドテスト;
+	}
+[SOUND TEST]
+	{
+	Japanese=サウンドテスト;
+	}
+[Building Sounds]
+	{
+	Japanese=建設音;
+	}
+[Building]
+	{
+	Japanese=建設;
+	}
+[Unit Speech]
+	{
+	Japanese=ユニット音声;
+	}
+[Unit Chat Level]
+	{
+	Japanese=ユニット報告レベル;
+	}
+[Unit Text Acks]
+	{
+	Japanese=ユニットの文字応答;
+	}
+[Chat Level Info]
+	{
+	Japanese=報告レベルの説明;
+	}
+[Unit Acknowledgement]
+	{
+	Japanese=ユニットの応答;
+	}
+// Not in 3.1c's table: the Unit Speech and Unit Chat Level buttons'
+// stages, whole. A button's whole caption is translated before each of its
+// stages, and [Full] alone is a game the game list shows full.
+[Off|Medium|Full]
+	{
+	Japanese=オフ|中|フル;
+	}
+
+// Difficulty settings
+
+[Difficulty]
+	{
+	Japanese=難易度;
+	}
+[Difficulty:]
+	{
+	Japanese=難易度：;
+	}
+[Easy]
+	{
+	Japanese=イージー;
+	}
+[Medium]
+	{
+	Japanese=ノーマル;
+	}
+[Hard]
+	{
+	Japanese=ハード;
+	}
+[Mapped]
+	{
+	Japanese=探索済み;
+	}
+[Unmapped]
+	{
+	Japanese=未探索;
+	}
+
+// Starting resource levels
+
+[Low]
+	{
+	Japanese=低;
+	}
+[High]
+	{
+	Japanese=高;
+	}
+
+// Interface menu
+
+[Left]
+	{
+	Japanese=左;
+	}
+[Right]
+	{
+	Japanese=右;
+	}
+[Left Click]
+	{
+	Japanese=左クリック;
+	}
+[Right Click]
+	{
+	Japanese=右クリック;
+	}
+
+// Visuals menu
+
+[Shading]
+	{
+	Japanese=陰影;
+	}
+[Antialias]
+	{
+	Japanese=アンチエイリアス;
+	}
+[Anti-aliasing]
+	{
+	Japanese=アンチエイリアス;
+	}
+[Map Mode]
+	{
+	Japanese=マップモード;
+	}
+[Gamma]
+	{
+	Japanese=ガンマ;
+	}
+[Gamma Correction]
+	{
+	Japanese=ガンマ補正;
+	}
+[Line Of Sight]
+	{
+	Japanese=視界;
+	}
+[Object rendering]
+	{
+	Japanese=オブジェクト描画;
+	}
+[Screen Size]
+	{
+	Japanese=画面サイズ;
+	}
+[Size]
+	{
+	Japanese=サイズ;
+	}
+[Shadows]
+	{
+	Japanese=影;
+	}
+[Building Shadows]
+	{
+	Japanese=建物の影;
+	}
+[Vehicle Shadows]
+	{
+	Japanese=車両の影;
+	}
+[True]
+	{
+	Japanese=リアル;
+	}
+[Set]
+	{
+	Japanese=設定;
+	}
+
+// Video mode menu
+
+[Select Videomode]
+	{
+	Japanese=画面モード選択;
+	}
+[Select Mode]
+	{
+	Japanese=モード選択;
+	}
+
+// Save / Load game menus
+
+[Name Of Game to Load]
+	{
+	Japanese=ロードするゲームの名前;
+	}
+[Name Of Game to Save]
+	{
+	Japanese=セーブするゲームの名前;
+	}
+[Reset List]
+	{
+	Japanese=リストをリセット;
+	}
+[Delete Game]
+	{
+	Japanese=ゲームを削除;
+	}
+[Delete List]
+	{
+	Japanese=リストを削除;
+	}
+[Cancel Save]
+	{
+	Japanese=セーブ中止;
+	}
+[Game type:]
+	{
+	Japanese=ゲームの種類：;
+	}
+[Mission/Map:]
+	{
+	Japanese=ミッション/マップ：;
+	}
+[Time elapsed:]
+	{
+	Japanese=経過時間：;
+	}
+[Side:]
+	{
+	Japanese=陣営：;
+	}
+[Campaign:]
+	{
+	Japanese=キャンペーン：;
+	}
+[There are no saved games to choose from]
+	{
+	Japanese=セーブデータがありません;
+	}
+[Mission:]
+	{
+	Japanese=ミッション：;
+	}
+[Time saved:]
+	{
+	Japanese=セーブ日時：;
+	}
+
+// Multiplayer connection messages
+
+[The creator has left the game]
+	{
+	Japanese=ホストがゲームから退出しました;
+	}
+[Reject Now]
+	{
+	Japanese=今すぐ除外;
+	}
+[will be rejected in %d seconds]
+	{
+	Japanese=は%d秒後に除外されます;
+	}
+[You do not have a compatible version for this game.]
+	{
+	Japanese=このゲームと互換性のあるバージョンがありません。;
+	}
+[is not responding]
+	{
+	Japanese=が応答していません;
+	}
+[Timed out while connecting to DirectPlay lobby!]
+	{
+	Japanese=DirectPlayロビーへの接続がタイムアウトしました！;
+	}
+[Please insert the Installation CD (Disc 1) and select%s"%s" again.]
+	{
+	Japanese=インストールCD（ディスク1）を入れて、%s「%s」をもう一度選んでください。;
+	}
+[Please insert the Campaign CD (Disc 2) and try again]
+	{
+	Japanese=キャンペーンCD（ディスク2）を入れて、もう一度試してください;
+	}
+[Please insert the Multiplayer CD (Disc 1) and try again]
+	{
+	Japanese=マルチプレイCD（ディスク1）を入れて、もう一度試してください;
+	}
+[Fault while trying to excecute button action.]
+	{
+	Japanese=ボタンの操作の実行中にエラーが発生しました。;
+	}
+[The "%s" service failed or took %stoo long. Please see the readmee%sfile for more information.]
+	{
+	Japanese=「%s」サービスでエラーが発生したか、%s時間がかかりすぎました。詳しくは%sreadmeファイルを参照してください。;
+	}
+[Unable to connect to DirectPlay lobby.]
+	{
+	Japanese=DirectPlayロビーに接続できません。;
+	}
+[Unable to browse to URL: %s]
+	{
+	Japanese=URLを開けません：%s;
+	}
+[Unable to invoke DLL: %s]
+	{
+	Japanese=DLLを呼び出せません：%s;
+	}
+[Unable to execute command: %s]
+	{
+	Japanese=コマンドを実行できません：%s;
+	}
+[Could not match weapon type "%s" for synchronization!]
+	{
+	Japanese=同期用の武器タイプ「%s」が一致しません！;
+	}
+[Updating...]
+	{
+	Japanese=更新中...;
+	}
+[You must enter a game name]
+	{
+	Japanese=ゲーム名を入力してください;
+	}
+[You must enter your name]
+	{
+	Japanese=名前を入力してください;
+	}
+[You were rejected from the game]
+	{
+	Japanese=ゲームから除外されました;
+	}
+[The %s service failed or took%stoo long. Please see the readme%sfile for more information.]
+	{
+	Japanese=%sサービスでエラーが発生したか、%s時間がかかりすぎました。詳しくは%sreadmeファイルを参照してください。;
+	}
+[Direct Connections]
+	{
+	Japanese=直接接続;
+	}
+[Internet Access]
+	{
+	Japanese=インターネット接続;
+	}
+[There are no multiplayer games to choose from]
+	{
+	Japanese=マルチプレイゲームがありません;
+	}
+[Player has left the game]
+	{
+	Japanese=プレイヤーがゲームから退出しました;
+	}
+[Player is joining the game]
+	{
+	Japanese=プレイヤーがゲームに参加しています;
+	}
+[Player has disconnected]
+	{
+	Japanese=プレイヤーの接続が切れました;
+	}
+[Player %s has disconnected]
+	{
+	Japanese=プレイヤー%sの接続が切れました;
+	}
+[You did not have the correct password]
+	{
+	Japanese=パスワードが正しくありません;
+	}
+[10 seconds]
+	{
+	Japanese=10秒;
+	}
+[Please Select Provider]
+	{
+	Japanese=接続方法を選んでください;
+	}
+[Select Provider]
+	{
+	Japanese=接続方法を選択;
+	}
+
+// Multiplayer interface
+
+[Allied Victory]
+	{
+	Japanese=同盟勝利;
+	}
+[Chosen Units]
+	{
+	Japanese=選択したユニット;
+	}
+[More Info]
+	{
+	Japanese=詳細情報;
+	}
+[Enter Game Name]
+	{
+	Japanese=ゲーム名を入力;
+	}
+[Enter Your Name]
+	{
+	Japanese=名前を入力;
+	}
+[Create New Game]
+	{
+	Japanese=新しいゲームを作成;
+	}
+[Password To Join]
+	{
+	Japanese=参加パスワード;
+	}
+[Closed]
+	{
+	Japanese=締切;
+	}
+[The game is closed]
+	{
+	Japanese=ゲームは締め切られています;
+	}
+[The game is full]
+	{
+	Japanese=ゲームは満員です;
+	}
+[In Game]
+	{
+	Japanese=ゲーム中;
+	}
+[Lounge]
+	{
+	Japanese=ラウンジ;
+	}
+[Playing]
+	{
+	Japanese=プレイ中;
+	}
+[Full]
+	{
+	Japanese=満員;
+	}
+[Reject Player:]
+	{
+	Japanese=プレイヤーを除外：;
+	}
+[Reject Player]
+	{
+	Japanese=プレイヤーを除外;
+	}
+[Reject Player?]
+	{
+	Japanese=プレイヤーを除外しますか？;
+	}
+[Reject %s?]
+	{
+	Japanese=%sを除外しますか？;
+	}
+[Reject]
+	{
+	Japanese=除外;
+	}
+[Not Selected]
+	{
+	Japanese=未選択;
+	}
+[NOT SELECTED]
+	{
+	Japanese=未選択;
+	}
+[Join]
+	{
+	Japanese=参加;
+	}
+[New]
+	{
+	Japanese=新規;
+	}
+[Name of Game]
+	{
+	Japanese=ゲーム名;
+	}
+[Plyrs]
+	{
+	Japanese=人数;
+	}
+[Status]
+	{
+	Japanese=状態;
+	}
+[Watch]
+	{
+	Japanese=観戦;
+	}
+[Update]
+	{
+	Japanese=更新;
+	}
+[LOS]
+	{
+	Japanese=視界;
+	}
+[Cmdr]
+	{
+	Japanese=司令;
+	}
+[Ping]
+	{
+	Japanese=Ping;
+	}
+[Name]
+	{
+	Japanese=名前;
+	}
+[Your Name]
+	{
+	Japanese=名前;
+	}
+[Game Password]
+	{
+	Japanese=ゲームのパスワード;
+	}
+
+// Lounge options
+
+[Messages]
+	{
+	Japanese=メッセージ;
+	}
+[Mem.]
+	{
+	Japanese=メモリ;
+	}
+[Ready?]
+	{
+	Japanese=準備OK？;
+	}
+[Start Game]
+	{
+	Japanese=ゲーム開始;
+	}
+[Select Map]
+	{
+	Japanese=マップ選択;
+	}
+[Resolution]
+	{
+	Japanese=解像度;
+	}
+[Cmndr Ends Game]
+	{
+	Japanese=コマンダー撃破で終了;
+	}
+[LOS Mode]
+	{
+	Japanese=視界モード;
+	}
+[Cheat Codes]
+	{
+	Japanese=チートコード;
+	}
+[Cheat Codes:]
+	{
+	Japanese=チートコード：;
+	}
+[Disallowed]
+	{
+	Japanese=禁止;
+	}
+[Allowed]
+	{
+	Japanese=許可;
+	}
+[Watching]
+	{
+	Japanese=観戦;
+	}
+[Watching:]
+	{
+	Japanese=観戦：;
+	}
+[Watching OK]
+	{
+	Japanese=観戦可;
+	}
+[No Watching]
+	{
+	Japanese=観戦不可;
+	}
+[Game Open]
+	{
+	Japanese=参加受付中;
+	}
+[Game Closed]
+	{
+	Japanese=締切;
+	}
+[Game Status]
+	{
+	Japanese=ゲームの状態;
+	}
+[Watching Allowed]
+	{
+	Japanese=観戦可;
+	}
+[Map Name]
+	{
+	Japanese=マップ名;
+	}
+[Max Units]
+	{
+	Japanese=最大ユニット数;
+	}
+[Max Units:]
+	{
+	Japanese=最大ユニット数：;
+	}
+[Game Is Open]
+	{
+	Japanese=参加受付中;
+	}
+[Build Restrictions]
+	{
+	Japanese=建設制限;
+	}
+
+// Skirmish menu
+
+[Start Skirmish]
+	{
+	Japanese=スカーミッシュ開始;
+	}
+[Location]
+	{
+	Japanese=位置;
+	}
+[Dead Commander]
+	{
+	Japanese=コマンダー撃破;
+	}
+[Commander]
+	{
+	Japanese=コマンダー;
+	}
+
+// Restrictions menu
+
+[Max Per Player]
+	{
+	Japanese=プレイヤーごとの上限;
+	}
+[Unit Build Restrictions]
+	{
+	Japanese=ユニットの建設制限;
+	}
+[Load List]
+	{
+	Japanese=リストをロード;
+	}
+[Save List]
+	{
+	Japanese=リストをセーブ;
+	}
+[Name of list to save]
+	{
+	Japanese=セーブするリストの名前;
+	}
+[Show Picture]
+	{
+	Japanese=画像を表示;
+	}
+
+// Gameplay options
+
+[Fixed]
+	{
+	Japanese=固定;
+	}
+[Random]
+	{
+	Japanese=ランダム;
+	}
+[Specific]
+	{
+	Japanese=指定;
+	}
+[Fixed Locations]
+	{
+	Japanese=固定位置;
+	}
+[Random Locations]
+	{
+	Japanese=ランダム位置;
+	}
+[Game Ends]
+	{
+	Japanese=ゲーム終了;
+	}
+[Game ends]
+	{
+	Japanese=ゲーム終了;
+	}
+[Deathmatch]
+	{
+	Japanese=デスマッチ;
+	}
+[Continues]
+	{
+	Japanese=続行;
+	}
+[Game Continues]
+	{
+	Japanese=ゲーム続行;
+	}
+[Mapping Mode]
+	{
+	Japanese=マップ表示;
+	}
+[Mapping Mode:]
+	{
+	Japanese=マップ表示：;
+	}
+[Blank Map]
+	{
+	Japanese=未探索マップ;
+	}
+[Full Map]
+	{
+	Japanese=全体マップ;
+	}
+[LOS Off]
+	{
+	Japanese=視界オフ;
+	}
+[Permanent]
+	{
+	Japanese=永続;
+	}
+[True LOS]
+	{
+	Japanese=リアル視界;
+	}
+[Circular]
+	{
+	Japanese=円形;
+	}
+[Starting Locations:]
+	{
+	Japanese=開始位置：;
+	}
+[Start Location]
+	{
+	Japanese=開始位置;
+	}
+[Commander Death]
+	{
+	Japanese=コマンダー撃破時;
+	}
+[Commander Death:]
+	{
+	Japanese=コマンダー撃破時：;
+	}
+[Mapping]
+	{
+	Japanese=マップ表示;
+	}
+[Line of Sight]
+	{
+	Japanese=視界;
+	}
+[Line of Sight:]
+	{
+	Japanese=視界：;
+	}
+[Computer Opponent]
+	{
+	Japanese=コンピューター対戦相手;
+	}
+[Computer]
+	{
+	Japanese=コンピューター;
+	}
+[AI Opponent]
+	{
+	Japanese=AI対戦相手;
+	}
+[Opponent]
+	{
+	Japanese=対戦相手;
+	}
+[Exit the Battle]
+	{
+	Japanese=戦闘から退出;
+	}
+[Page 1]
+	{
+	Japanese=1ページ;
+	}
+[Page 2]
+	{
+	Japanese=2ページ;
+	}
+[Page 3]
+	{
+	Japanese=3ページ;
+	}
+
+// Briefing messages
+
+[BACK TO START]
+	{
+	Japanese=最初に戻る;
+	}
+[MORE...]
+	{
+	Japanese=次へ...;
+	}
+
+// Game over screen
+
+[Victory or Failure]
+	{
+	Japanese=勝利か敗北か;
+	}
+[Main Menu]
+	{
+	Japanese=メインメニュー;
+	}
+[Game Statistics]
+	{
+	Japanese=ゲーム統計;
+	}
+[Statistics]
+	{
+	Japanese=統計;
+	}
+[Next Mission]
+	{
+	Japanese=次のミッション;
+	}
+[Adjust Difficulty]
+	{
+	Japanese=難易度を調整;
+	}
+[Adjust skirmish difficulty.]
+	{
+	Japanese=スカーミッシュの難易度を調整します。;
+	}
+[You]
+	{
+	Japanese=自分;
+	}
+[AI Player]
+	{
+	Japanese=AIプレイヤー;
+	}
+[Score]
+	{
+	Japanese=スコア;
+	}
+[Victory]
+	{
+	Japanese=勝利;
+	}
+[Failure]
+	{
+	Japanese=敗北;
+	}
+
+// Game commands
+
+[Total Units]
+	{
+	Japanese=総ユニット数;
+	}
+[Stop Building]
+	{
+	Japanese=建設中止;
+	}
+[Options]
+	{
+	Japanese=オプション;
+	}
+[Share]
+	{
+	Japanese=共有;
+	}
+
+// Share options
+
+[TRANSFER RESOURCES]
+	{
+	Japanese=資源を譲渡;
+	}
+[Selected Units]
+	{
+	Japanese=選択中のユニット;
+	}
+[Select Player]
+	{
+	Japanese=プレイヤーを選択;
+	}
+[Map Info]
+	{
+	Japanese=マップ情報;
+	}
+
+// Unit status messages
+
+[five]
+	{
+	Japanese=5;
+	}
+[four]
+	{
+	Japanese=4;
+	}
+[three]
+	{
+	Japanese=3;
+	}
+[two]
+	{
+	Japanese=2;
+	}
+[one]
+	{
+	Japanese=1;
+	}
+[zero]
+	{
+	Japanese=0;
+	}
+[Building complete]
+	{
+	Japanese=建設完了;
+	}
+[Capture failed]
+	{
+	Japanese=捕獲失敗;
+	}
+[Construction failed: target area was blocked]
+	{
+	Japanese=建設失敗：目標地点がふさがっている;
+	}
+[Construction stopped]
+	{
+	Japanese=建設中断;
+	}
+[Construction terminated]
+	{
+	Japanese=建設中止;
+	}
+[Target area was blocked]
+	{
+	Japanese=目標地点がふさがっている;
+	}
+[Construction terminated by hostile action]
+	{
+	Japanese=敵の攻撃により建設中止;
+	}
+[How can I fix units when they keep blowing up?]
+	{
+	Japanese=爆発してばかりで、どうやって直せというんだ？;
+	}
+[I can't get there]
+	{
+	Japanese=そこへは行けない;
+	}
+[I can't reach the construction site]
+	{
+	Japanese=建設地点に到達できない;
+	}
+[Landing aborted]
+	{
+	Japanese=着陸中止;
+	}
+[Landing aborted: all pads are occupied]
+	{
+	Japanese=着陸中止：パッドがすべて使用中;
+	}
+[Landing aborted: no pads available]
+	{
+	Japanese=着陸中止：使えるパッドがない;
+	}
+[Landing failed]
+	{
+	Japanese=着陸失敗;
+	}
+[Loading unit]
+	{
+	Japanese=ユニットを搭載中;
+	}
+[Preparing for transport]
+	{
+	Japanese=輸送準備中;
+	}
+[Reclamate failed]
+	{
+	Japanese=回収失敗;
+	}
+[Reclamating]
+	{
+	Japanese=回収中;
+	}
+[Reclamation failed]
+	{
+	Japanese=回収失敗;
+	}
+[Repair aborted.]
+	{
+	Japanese=修理中止。;
+	}
+[Repair mission failed]
+	{
+	Japanese=修理任務失敗;
+	}
+[Repairs unsuccessful.]
+	{
+	Japanese=修理できなかった。;
+	}
+[Self destruct terminated]
+	{
+	Japanese=自爆を中止;
+	}
+[Starting construction]
+	{
+	Japanese=建設開始;
+	}
+[That unit cannot be captured]
+	{
+	Japanese=そのユニットは捕獲できない;
+	}
+[That unit cannot be reclamated]
+	{
+	Japanese=そのユニットは回収できない;
+	}
+[That unit cannot be reclaimed]
+	{
+	Japanese=そのユニットは回収できない;
+	}
+[That unit is a cloud of vapor and cannot be captured]
+	{
+	Japanese=そのユニットは蒸発したため捕獲できない;
+	}
+[That unit is a cloud of vapor and cannot be reclamated]
+	{
+	Japanese=そのユニットは蒸発したため回収できない;
+	}
+[Transport mission failed]
+	{
+	Japanese=輸送任務失敗;
+	}
+[End Transport]
+	{
+	Japanese=輸送終了;
+	}
+[Unable to create any more units]
+	{
+	Japanese=これ以上ユニットを作れない;
+	}
+[Unable to unload unit]
+	{
+	Japanese=ユニットを降ろせない;
+	}
+[Unit is too heavy to transport]
+	{
+	Japanese=ユニットが重すぎて輸送できない;
+	}
+[Unit is too large to transport]
+	{
+	Japanese=ユニットが大きすぎて輸送できない;
+	}
+[Unit repaired]
+	{
+	Japanese=ユニット修理完了;
+	}
+[Unloading]
+	{
+	Japanese=降車中;
+	}
+[Unloading process is proceeding non-optimally]
+	{
+	Japanese=降車作業が順調に進んでいない;
+	}
+[Waiting for construction area to clear]
+	{
+	Japanese=建設区域が空くのを待機中;
+	}
+[Waiting for target area to clear]
+	{
+	Japanese=目標地点が空くのを待機中;
+	}
+[Waiting for construction pad to clear]
+	{
+	Japanese=建設パッドが空くのを待機中;
+	}
+
+// Miscellaneous
+
+[Warning!\n\nUnable to register %1 for DirectPlay.]
+	{
+	Japanese=警告！\n\nDirectPlayに%1を登録できません。;
+	}
+[Unidentified object]
+	{
+	Japanese=正体不明の物体;
+	}
+[Game Time]
+	{
+	Japanese=ゲーム時間;
+	}
+[Human]
+	{
+	Japanese=人間;
+	}
+[Human Player]
+	{
+	Japanese=人間のプレイヤー;
+	}
+[Open]
+	{
+	Japanese=空き;
+	}
+[Error]
+	{
+	Japanese=エラー;
+	}
+[There are too many players enabled for this map]
+	{
+	Japanese=このマップには有効なプレイヤーが多すぎます;
+	}
+[There must be at least one human player and one AI opponent]
+	{
+	Japanese=人間のプレイヤーとAIの対戦相手が少なくとも1人ずつ必要です;
+	}
+[There must be at least one player and one computer opponent]
+	{
+	Japanese=プレイヤーとコンピューターの対戦相手が少なくとも1人ずつ必要です;
+	}
+[You have lost connection with the game]
+	{
+	Japanese=ゲームとの接続が切れました;
+	}
+[Lost connection with game]
+	{
+	Japanese=ゲームとの接続切断;
+	}
+[You need a unit you don't have for this game]
+	{
+	Japanese=このゲームには、持っていないユニットが必要です;
+	}
+[You need a newer version of the game to enter]
+	{
+	Japanese=参加するには新しいバージョンのゲームが必要です;
+	}
+[No watching is allowed for this game]
+	{
+	Japanese=このゲームは観戦できません;
+	}
+[Out of memory! Your hard disk may be full.]
+	{
+	Japanese=メモリ不足です！ハードディスクがいっぱいになっている可能性があります。;
+	}
+
+// Unit speech
+
+[Under Attack]
+	{
+	Japanese=攻撃を受けている;
+	}
+[Arrived]
+	{
+	Japanese=到着;
+	}
+[Cannot Comply]
+	{
+	Japanese=実行不可能;
+	}
+[Nanolathe Complete]
+	{
+	Japanese=ナノ旋盤による建造完了;
+	}
+[Cloaked]
+	{
+	Japanese=クローク中;
+	}
+[Visible]
+	{
+	Japanese=可視;
+	}
+
+// Mission states
+
+[Acknowledged]
+	{
+	Japanese=了解;
+	}
+[Activate]
+	{
+	Japanese=起動;
+	}
+[Airstrike]
+	{
+	Japanese=空爆;
+	}
+[Annihilating]
+	{
+	Japanese=殲滅中;
+	}
+[Attacking]
+	{
+	Japanese=攻撃中;
+	}
+[Being transported]
+	{
+	Japanese=輸送中;
+	}
+[Capturing]
+	{
+	Japanese=捕獲中;
+	}
+[Cloaking]
+	{
+	Japanese=クローク中;
+	}
+[Deactivate]
+	{
+	Japanese=停止;
+	}
+[Decloaking]
+	{
+	Japanese=クローク解除中;
+	}
+[Defending]
+	{
+	Japanese=防衛中;
+	}
+[Diving]
+	{
+	Japanese=潜航中;
+	}
+[Engaging target]
+	{
+	Japanese=目標と交戦中;
+	}
+[Evading]
+	{
+	Japanese=回避中;
+	}
+[Following]
+	{
+	Japanese=追従中;
+	}
+[Guarding]
+	{
+	Japanese=護衛中;
+	}
+[Landing]
+	{
+	Japanese=着陸中;
+	}
+[Loading]
+	{
+	Japanese=搭載中;
+	}
+[Moving]
+	{
+	Japanese=移動中;
+	}
+[Nanolathing]
+	{
+	Japanese=ナノ旋盤で建造中;
+	}
+[Paralyzed]
+	{
+	Japanese=麻痺;
+	}
+[Parking]
+	{
+	Japanese=駐機中;
+	}
+[Patrolling]
+	{
+	Japanese=巡回中;
+	}
+[Patrolling for damaged units]
+	{
+	Japanese=損傷ユニットを探して巡回中;
+	}
+[Ready]
+	{
+	Japanese=準備完了;
+	}
+[Ready with orders]
+	{
+	Japanese=命令待機中;
+	}
+[Reclaiming]
+	{
+	Japanese=回収中;
+	}
+[Repairing]
+	{
+	Japanese=修理中;
+	}
+[Repair patrol]
+	{
+	Japanese=修理巡回;
+	}
+[Seeking to attack]
+	{
+	Japanese=攻撃目標を捜索中;
+	}
+[Seeking to defend]
+	{
+	Japanese=防衛目標を捜索中;
+	}
+[Seeking to land]
+	{
+	Japanese=着陸地点を捜索中;
+	}
+[Seeking to guard]
+	{
+	Japanese=護衛目標を捜索中;
+	}
+[SELF DESTRUCT ENGAGED]
+	{
+	Japanese=自爆シーケンス起動;
+	}
+[Standby]
+	{
+	Japanese=待機;
+	}
+[Stopping]
+	{
+	Japanese=停止中;
+	}
+[Suppressing fire]
+	{
+	Japanese=制圧射撃;
+	}
+[Surfacing]
+	{
+	Japanese=浮上中;
+	}
+[Teleporting]
+	{
+	Japanese=テレポート中;
+	}
+[Under construction]
+	{
+	Japanese=建設中;
+	}
+[Under repair]
+	{
+	Japanese=修理を受けている;
+	}
+[Unit is available]
+	{
+	Japanese=ユニット使用可能;
+	}
+[Waiting]
+	{
+	Japanese=待機中;
+	}
+[Waiting for attack]
+	{
+	Japanese=攻撃待機中;
+	}
+
+// Feature descriptions
+
+[Description]
+	{
+	Japanese=説明;
+	}
+[Plant]
+	{
+	Japanese=植物;
+	}
+[Burnt Plant]
+	{
+	Japanese=焼けた植物;
+	}
+[Fortification Wall]
+	{
+	Japanese=防壁;
+	}
+[Hole]
+	{
+	Japanese=穴;
+	}
+[Crater]
+	{
+	Japanese=クレーター;
+	}
+[Foliage]
+	{
+	Japanese=草木;
+	}
+[Rock]
+	{
+	Japanese=岩;
+	}
+[rock]
+	{
+	Japanese=岩;
+	}
+[Rubble]
+	{
+	Japanese=瓦礫;
+	}
+[Thermal Vent]
+	{
+	Japanese=熱噴出孔;
+	}
+[Ventilation Engine]
+	{
+	Japanese=換気装置;
+	}
+[Wreckage]
+	{
+	Japanese=残骸;
+	}
+[Burnt Foliage]
+	{
+	Japanese=焼けた草木;
+	}
+[Burnt Tree]
+	{
+	Japanese=焼けた木;
+	}
+[Tree]
+	{
+	Japanese=木;
+	}
+[Ice Chunks]
+	{
+	Japanese=氷塊;
+	}
+[Damaged Terrain]
+	{
+	Japanese=損傷した地形;
+	}
+[Damaged Surface]
+	{
+	Japanese=損傷した地表;
+	}
+[DragonsTeeth]
+	{
+	Japanese=竜の歯;
+	}
+[Dragons Teeth - NS]
+	{
+	Japanese=竜の歯 - NS;
+	}
+[DragonsTeeth - NS]
+	{
+	Japanese=竜の歯 - NS;
+	}
+[Metal Deposit]
+	{
+	Japanese=金属鉱床;
+	}
+[Node]
+	{
+	Japanese=ノード;
+	}
+[Spire]
+	{
+	Japanese=尖塔;
+	}
+[Glyph]
+	{
+	Japanese=紋章;
+	}
+[Ruin]
+	{
+	Japanese=遺跡;
+	}
+[Seismic Monitor]
+	{
+	Japanese=地震計;
+	}
+[Pipe]
+	{
+	Japanese=パイプ;
+	}
+[Communications Uplink]
+	{
+	Japanese=通信アップリンク;
+	}
+[Comm Uplink]
+	{
+	Japanese=通信アップリンク;
+	}
+[Communication Tower]
+	{
+	Japanese=通信塔;
+	}
+[Regulator Complex]
+	{
+	Japanese=調整施設群;
+	}
+[Thermal Regulator]
+	{
+	Japanese=熱調整装置;
+	}
+[Transmitter]
+	{
+	Japanese=送信機;
+	}
+[Pressure Release Valve]
+	{
+	Japanese=圧力逃がし弁;
+	}
+[Pressure Valve]
+	{
+	Japanese=圧力弁;
+	}
+
+// Multiplayer online interface messages
+
+[Invalid TCP/IP Address]
+	{
+	Japanese=無効なTCP/IPアドレス;
+	}
+[Enter TCP address (leave blank to search)]
+	{
+	Japanese=TCPアドレスを入力（空欄なら検索）;
+	}
+[Phone Numbers]
+	{
+	Japanese=電話番号;
+	}
+[Number]
+	{
+	Japanese=番号;
+	}
+[Modem]
+	{
+	Japanese=モデム;
+	}
+[Port]
+	{
+	Japanese=ポート;
+	}
+[Answer]
+	{
+	Japanese=着信;
+	}
+[Dial]
+	{
+	Japanese=発信;
+	}
+[Host]
+	{
+	Japanese=ホスト;
+	}
+[Play]
+	{
+	Japanese=プレイ;
+	}
+[Unit Download]
+	{
+	Japanese=ユニットのダウンロード;
+	}
+
+// In game pop-up messages
+
+[Game Name]
+	{
+	Japanese=ゲーム名;
+	}
+[Map game will play on]
+	{
+	Japanese=このゲームで使うマップ;
+	}
+[Does dead commander end game?]
+	{
+	Japanese=コマンダーの撃破でゲームを終了するか;
+	}
+[Average latency (big is bad)]
+	{
+	Japanese=平均遅延（大きいほど悪い）;
+	}
+[Type of Line of Sight]
+	{
+	Japanese=視界の種類;
+	}
+[Tells if you start with map]
+	{
+	Japanese=開始時にマップがあるかどうか;
+	}
+[Starting Metal:]
+	{
+	Japanese=初期金属：;
+	}
+[Starting Energy:]
+	{
+	Japanese=初期エネルギー：;
+	}
+[Starting metal amount]
+	{
+	Japanese=初期金属量;
+	}
+[Starting energy amount]
+	{
+	Japanese=初期エネルギー量;
+	}
+[Click to edit energy value.]
+	{
+	Japanese=クリックしてエネルギー値を編集します。;
+	}
+[Click to set energy value.]
+	{
+	Japanese=クリックしてエネルギー値を設定します。;
+	}
+[Click to edit metal value.]
+	{
+	Japanese=クリックして金属値を編集します。;
+	}
+[Click to set metal value.]
+	{
+	Japanese=クリックして金属値を設定します。;
+	}
+[Left click to increase metal. Right click to decrease metal.]
+	{
+	Japanese=左クリックで金属を増やし、右クリックで減らします。;
+	}
+[Left click to increase energy. Right click to decrease energy.]
+	{
+	Japanese=左クリックでエネルギーを増やし、右クリックで減らします。;
+	}
+[Click to select an allegiance symbol.]
+	{
+	Japanese=クリックして同盟のマークを選びます。;
+	}
+[Players in game / Max players]
+	{
+	Japanese=ゲーム内のプレイヤー数／最大人数;
+	}
+[Tells if game is in play]
+	{
+	Japanese=ゲームが進行中かどうか;
+	}
+[Game ends when commander is destroyed.]
+	{
+	Japanese=コマンダーが撃破されるとゲーム終了。;
+	}
+[Game continues after Commander is destroyed.]
+	{
+	Japanese=コマンダーが撃破されてもゲームは続行。;
+	}
+[Commanders are placed at pre-determined locations.]
+	{
+	Japanese=コマンダーはあらかじめ決められた位置に配置されます。;
+	}
+[Commanders are randomly placed on the battle field.]
+	{
+	Japanese=コマンダーは戦場にランダムに配置されます。;
+	}
+[Terrain is blacked out until explored.]
+	{
+	Japanese=地形は探索するまで暗くて見えません。;
+	}
+[Terrain is visible.]
+	{
+	Japanese=地形が見えます。;
+	}
+[Terrain elevations affect a unit's view.]
+	{
+	Japanese=地形の高低がユニットの視界に影響します。;
+	}
+[Terrain elevations do not affect a unit's view.]
+	{
+	Japanese=地形の高低はユニットの視界に影響しません。;
+	}
+[All mapped terrain is visible.]
+	{
+	Japanese=探索済みの地形はすべて見えます。;
+	}
+[Exit Mission]
+	{
+	Japanese=ミッションから退出;
+	}
+[Exit Skirmish]
+	{
+	Japanese=スカーミッシュから退出;
+	}
+[Exit Battle]
+	{
+	Japanese=戦闘から退出;
+	}
+[Restart Mission]
+	{
+	Japanese=ミッションをやり直す;
+	}
+[Restart Skirmish]
+	{
+	Japanese=スカーミッシュをやり直す;
+	}
+[Restart]
+	{
+	Japanese=やり直す;
+	}
+[Close Windows CD Player?]
+	{
+	Japanese=Windows CDプレイヤーを閉じますか？;
+	}
+[CD Music]
+	{
+	Japanese=CD音楽;
+	}
+[Surrender this battle and return to main menu?]
+	{
+	Japanese=この戦闘を放棄してメインメニューに戻りますか？;
+	}
+[Surrender this battle and exit to Windows?]
+	{
+	Japanese=この戦闘を放棄してWindowsに戻りますか？;
+	}
+[Surrender this battle and exit to the system?]
+	{
+	Japanese=この戦闘を放棄してシステムに戻りますか？;
+	}
+
+// Title Screen
+
+[SINGLE]
+	{
+	Japanese=シングル;
+	}
+[Single]
+	{
+	Japanese=シングル;
+	}
+[MULTI]
+	{
+	Japanese=マルチ;
+	}
+[INTRO]
+	{
+	Japanese=イントロ;
+	}
+[EXIT]
+	{
+	Japanese=終了;
+	}
+[Exit]
+	{
+	Japanese=終了;
+	}
+
+// In-Game Help Screen
+
+[Keyboard Commands]
+	{
+	Japanese=キーボードコマンド;
+	}
+[SPACEBAR]
+	{
+	Japanese=スペースキー;
+	}
+[Activate the game status bar]
+	{
+	Japanese=ゲームのステータスバーを表示;
+	}
+[Bring up the multiplayer scorecard]
+	{
+	Japanese=マルチプレイのスコア表を表示;
+	}
+[Select all factories]
+	{
+	Japanese=すべての工場を選択;
+	}
+[Multiplayer options]
+	{
+	Japanese=マルチプレイのオプション;
+	}
+[Cancels the current command]
+	{
+	Japanese=現在の命令を取り消す;
+	}
+[Assign the currently selected units to a squad]
+	{
+	Japanese=選択中のユニットを部隊に登録;
+	}
+[Select squad]
+	{
+	Japanese=部隊を選択;
+	}
+[Toggles fire orders]
+	{
+	Japanese=射撃命令を切り替え;
+	}
+[Toggles selected unit's cloaking capabilities]
+	{
+	Japanese=選択中のユニットのクロークを切り替え;
+	}
+[Toggles move orders]
+	{
+	Japanese=移動命令を切り替え;
+	}
+[Select the Build menu for the current unit]
+	{
+	Japanese=現在のユニットの建設メニューを選択;
+	}
+[Select the Orders menu for the current unit]
+	{
+	Japanese=現在のユニットの命令メニューを選択;
+	}
+[Select the menu for the current unit]
+	{
+	Japanese=現在のユニットのメニューを選択;
+	}
+[, (comma)]
+	{
+	Japanese=,（コンマ）;
+	}
+[Select the previous menu for that unit]
+	{
+	Japanese=そのユニットの前のメニューを選択;
+	}
+[. (period)]
+	{
+	Japanese=.（ピリオド）;
+	}
+[Select the next menu for that unit]
+	{
+	Japanese=そのユニットの次のメニューを選択;
+	}
+[~ (tilde)]
+	{
+	Japanese=~（チルダ）;
+	}
+[Toggle damage bars on the units]
+	{
+	Japanese=ユニットの損傷バーの表示を切り替え;
+	}
+[Pause the game]
+	{
+	Japanese=ゲームを一時停止;
+	}
+[Display information on selected unit]
+	{
+	Japanese=選択中のユニットの情報を表示;
+	}
+[Display the Options menu]
+	{
+	Japanese=オプションメニューを表示;
+	}
+[Selects the unit that last reported]
+	{
+	Japanese=最後に報告したユニットを選択;
+	}
+[Screen capture]
+	{
+	Japanese=スクリーンショット;
+	}
+[Clear all chat messages]
+	{
+	Japanese=すべてのチャットメッセージを消去;
+	}
+[Select all units]
+	{
+	Japanese=すべてのユニットを選択;
+	}
+[Select all construction units except the Commander]
+	{
+	Japanese=コマンダー以外のすべての建設ユニットを選択;
+	}
+[Select the Commander]
+	{
+	Japanese=コマンダーを選択;
+	}
+[Destruct selected unit(s)]
+	{
+	Japanese=選択中のユニットを自爆させる;
+	}
+[Select all units currently on the screen]
+	{
+	Japanese=画面内のすべてのユニットを選択;
+	}
+[Select all aircraft]
+	{
+	Japanese=すべての航空機を選択;
+	}
+[Select all units of same type]
+	{
+	Japanese=同じ種類のユニットをすべて選択;
+	}
+[Applies a map bookmark at cursor location]
+	{
+	Japanese=カーソル位置にマップのブックマークを設定;
+	}
+[Centers the screen on a map bookmark]
+	{
+	Japanese=マップのブックマークに画面を移動;
+	}
+[Give an attack order]
+	{
+	Japanese=攻撃命令を出す;
+	}
+[Give a guard order]
+	{
+	Japanese=護衛命令を出す;
+	}
+[Give a move order]
+	{
+	Japanese=移動命令を出す;
+	}
+[Give a patrol order]
+	{
+	Japanese=巡回命令を出す;
+	}
+[Give a stop order (cancel previous orders)]
+	{
+	Japanese=停止命令を出す（以前の命令を取り消す）;
+	}
+[Use the Disintegrator Gun]
+	{
+	Japanese=ディスインテグレーター・ガンを使う;
+	}
+[Give a capture order]
+	{
+	Japanese=捕獲命令を出す;
+	}
+[Give a repair order]
+	{
+	Japanese=修理命令を出す;
+	}
+[Give a reclaim order]
+	{
+	Japanese=回収命令を出す;
+	}
+[Share resources with another player]
+	{
+	Japanese=ほかのプレイヤーと資源を共有;
+	}
+[Scroll to the next unit off screen]
+	{
+	Japanese=画面外の次のユニットへスクロール;
+	}
+[Track the selected unit]
+	{
+	Japanese=選択中のユニットを追跡;
+	}
+[Reduce the game speed]
+	{
+	Japanese=ゲーム速度を下げる;
+	}
+[Increase the game speed]
+	{
+	Japanese=ゲーム速度を上げる;
+	}
+[Hold down to queue up multiple commands]
+	{
+	Japanese=押したままで複数の命令を予約;
+	}
+[ENTER]
+	{
+	Japanese=ENTER;
+	}
+[Activate the message bar]
+	{
+	Japanese=メッセージバーを表示;
+	}
+[Turn Rate]
+	{
+	Japanese=旋回速度;
+	}
+
+// Multiplayer map names and descriptions
+
+[painted desert]
+	{
+	Japanese=彩色砂漠;
+	}
+[18 x 18  battle in the many mesas area.]
+	{
+	Japanese=18 x 18  メサが連なる地域での戦い。;
+	}
+[caldera's rim]
+	{
+	Japanese=カルデラの縁;
+	}
+[29 x 29  sunken volcanic crater in center of map]
+	{
+	Japanese=29 x 29  マップ中央に沈んだ火山の火口がある;
+	}
+[coast to coast]
+	{
+	Japanese=海岸から海岸へ;
+	}
+[7 x 4  water between two coasts. weak tides.]
+	{
+	Japanese=7 x 4  2つの海岸の間に水域。潮流は弱い。;
+	}
+[dark side]
+	{
+	Japanese=月の裏側;
+	}
+[6 x 5  lunar map with plenty of metal]
+	{
+	Japanese=6 x 5  金属が豊富な月面マップ;
+	}
+[etorrep glacier]
+	{
+	Japanese=エトレップ氷河;
+	}
+[5 x 8  strong winds coming from ocean.]
+	{
+	Japanese=5 x 8  海から強風が吹きつける。;
+	}
+[fox holes]
+	{
+	Japanese=散兵壕;
+	}
+[7 x 7  strong winds. more metal on high ground.]
+	{
+	Japanese=7 x 7  強風。高地ほど金属が多い。;
+	}
+[full moon]
+	{
+	Japanese=満月;
+	}
+[8 x 8  fighting on the naryb highlands. no wind.]
+	{
+	Japanese=8 x 8  ナリブ高地での戦い。無風。;
+	}
+[gods of war]
+	{
+	Japanese=軍神;
+	}
+[9 x 8  asymmetric water map.]
+	{
+	Japanese=9 x 8  非対称の水上マップ。;
+	}
+[great divide]
+	{
+	Japanese=大分水嶺;
+	}
+[5 x 8  fight through a mountain pass.]
+	{
+	Japanese=5 x 8  山道を突破する戦い。;
+	}
+[hundred isles]
+	{
+	Japanese=百の島;
+	}
+[12 x 12  fighting on over a hundred small islands]
+	{
+	Japanese=12 x 12  100を超える小島での戦い;
+	}
+[kill the middle]
+	{
+	Japanese=中央を叩け;
+	}
+[13 x 13  powerful player in middle of map on island.]
+	{
+	Japanese=13 x 13  マップ中央の島に強力なプレイヤーがいる。;
+	}
+[king of the hill]
+	{
+	Japanese=山の王者;
+	}
+[16 x 16  fight for a metal rich mountain. strong wind.]
+	{
+	Japanese=16 x 16  金属が豊富な山を奪い合う。強風。;
+	}
+[lava & two hills]
+	{
+	Japanese=溶岩と二つの丘;
+	}
+[9 x 8  two giant hills & a river of lava between them]
+	{
+	Japanese=9 x 8  2つの巨大な丘と、その間を流れる溶岩の川;
+	}
+[lava highground]
+	{
+	Japanese=溶岩の高地;
+	}
+[8 x 8  fight over narrow ramps.]
+	{
+	Japanese=8 x 8  狭い斜路をめぐる戦い。;
+	}
+[lava mania]
+	{
+	Japanese=溶岩マニア;
+	}
+[8 x 8  strong winds.]
+	{
+	Japanese=8 x 8  強風。;
+	}
+[lava run]
+	{
+	Japanese=溶岩の奔流;
+	}
+[13 x 4  lava strip down center. high winds.]
+	{
+	Japanese=13 x 4  中央に溶岩の帯。強風。;
+	}
+[greenhaven]
+	{
+	Japanese=グリーンヘイブン;
+	}
+[16 x 16  large map with many hills to hide behind.]
+	{
+	Japanese=16 x 16  身を隠せる丘が多い大きなマップ。;
+	}
+[metal heck]
+	{
+	Japanese=金属地獄;
+	}
+[8 x 8  fight in the metal cross region.]
+	{
+	Japanese=8 x 8  金属の十字地帯での戦い。;
+	}
+[red hot lava]
+	{
+	Japanese=灼熱の溶岩;
+	}
+[11 x 9  many hills and lava pools. plenty of metal]
+	{
+	Japanese=11 x 9  多くの丘と溶岩の池。金属が豊富;
+	}
+[red planet]
+	{
+	Japanese=赤い惑星;
+	}
+[9 x 9   many small hills and pools]
+	{
+	Japanese=9 x 9   小さな丘と池が多い;
+	}
+[red triangle]
+	{
+	Japanese=赤い三角地帯;
+	}
+[16 x 16  powerful tides and strong winds.]
+	{
+	Japanese=16 x 16  強い潮流と強風。;
+	}
+[ring atoll]
+	{
+	Japanese=環礁;
+	}
+[21 x 21  powerful tides. ground units can use shallow water.]
+	{
+	Japanese=21 x 21  強い潮流。地上ユニットは浅瀬を通れる。;
+	}
+[rock alley]
+	{
+	Japanese=岩の小道;
+	}
+[9 x 21  fight in mountian valley.]
+	{
+	Japanese=9 x 21  山あいの谷での戦い。;
+	}
+[sherwood]
+	{
+	Japanese=シャーウッド;
+	}
+[6 x 6  fighting around 3 large hills]
+	{
+	Japanese=6 x 6  3つの大きな丘をめぐる戦い;
+	}
+[shore to shore]
+	{
+	Japanese=岸から岸へ;
+	}
+[29 x 4  two coasts with large ocean between them.]
+	{
+	Japanese=29 x 4  大海を挟んだ2つの海岸。;
+	}
+[the desert triad]
+	{
+	Japanese=砂漠の三台地;
+	}
+[6 x 6  fighting on 3 mesas.]
+	{
+	Japanese=6 x 6  3つのメサでの戦い。;
+	}
+[two continents]
+	{
+	Japanese=二つの大陸;
+	}
+[22 x 25  metal in the middle of the map.]
+	{
+	Japanese=22 x 25  マップ中央に金属。;
+	}
+[yerrot mountains]
+	{
+	Japanese=イェロット山脈;
+	}
+[27 x 23  mountain range with lots of metal.]
+	{
+	Japanese=27 x 23  金属が豊富な山脈。;
+	}
+[pincushion]
+	{
+	Japanese=針山;
+	}
+[13 x 13  a fight amongst lava spires]
+	{
+	Japanese=13 x 13  溶岩の尖塔に囲まれた戦い;
+	}
+[over crude water]
+	{
+	Japanese=原油の海の上;
+	}
+[25 x 25  a maze of metal bridges.]
+	{
+	Japanese=25 x 25  金属の橋が入り組む迷路。;
+	}
+[seven islands]
+	{
+	Japanese=七つの島;
+	}
+[40 x 40  huge sea battle on core prime]
+	{
+	Japanese=40 x 40  COREプライムでの大海戦;
+	}
+[ashap plateau]
+	{
+	Japanese=アシャップ高原;
+	}
+[9 x 9  metal on rough lower level]
+	{
+	Japanese=9 x 9  起伏の多い低地に金属;
+	}
+[the cold place]
+	{
+	Japanese=寒冷の地;
+	}
+[15 x 11  fighting on a flat tundra with very strong winds.]
+	{
+	Japanese=15 x 11  非常に強い風が吹く平坦なツンドラでの戦い。;
+	}
+[evad river confluence]
+	{
+	Japanese=エヴァド川の合流点;
+	}
+[11 x 10 map.  intermittent winds]
+	{
+	Japanese=11 x 10  風が断続的に吹く;
+	}
+[lava alley]
+	{
+	Japanese=溶岩の小道;
+	}
+[18 x 18  fighting in narrow valleys.]
+	{
+	Japanese=18 x 18  狭い谷での戦い。;
+	}
+[the pass]
+	{
+	Japanese=峠;
+	}
+[7 x 4  fight to control a winding mountian pass.]
+	{
+	Japanese=7 x 4  曲がりくねった峠をめぐる戦い。;
+	}
+[anteer strait]
+	{
+	Japanese=アンティア海峡;
+	}
+[18 x 18  fight in an iceburg filled ocean. strong tides.]
+	{
+	Japanese=18 x 18  氷山が浮かぶ海での戦い。潮流が強い。;
+	}
+[metal isles]
+	{
+	Japanese=金属の島々;
+	}
+[23 X 21  4 Symmetrical Metal Islands, good for sea battles]
+	{
+	Japanese=23 X 21  対称に並ぶ4つの金属の島。海戦向き;
+	}
+
+// Expansion Pack map names and descriptions
+
+[acid foursome]
+	{
+	Japanese=酸の四人組;
+	}
+[13 X 13  Open plains and small lakes.]
+	{
+	Japanese=13 X 13  開けた平原と小さな湖。;
+	}
+[acid pools]
+	{
+	Japanese=酸の池;
+	}
+[32 X 23  Masses of land with narrow passages.]
+	{
+	Japanese=32 X 23  狭い通路でつながる陸地の塊。;
+	}
+[acid trip]
+	{
+	Japanese=アシッドトリップ;
+	}
+[15 X 39  Watch out for the acid or you'll melt away.]
+	{
+	Japanese=15 X 39  酸に注意。さもないと溶けてしまうぞ。;
+	}
+[assault on suburbia]
+	{
+	Japanese=郊外への攻撃;
+	}
+[16 X 16 Crush 'em.]
+	{
+	Japanese=16 X 16 叩きつぶせ。;
+	}
+[biggie biggs]
+	{
+	Japanese=ビギー・ビッグス;
+	}
+[36 X 16  Dance from island to island crushing your opponents.]
+	{
+	Japanese=36 X 16  島から島へと渡り歩き、敵を叩きつぶせ。;
+	}
+[block wars]
+	{
+	Japanese=街区戦争;
+	}
+[20 X 20  Battling through the Core Prime suburbs.]
+	{
+	Japanese=20 X 20  COREプライムの郊外を突き進む戦い。;
+	}
+[brain coral]
+	{
+	Japanese=脳サンゴ;
+	}
+[20 X 20  Hydrous map with brain coral spiral.]
+	{
+	Japanese=20 X 20  脳サンゴの渦巻きがある水上マップ。;
+	}
+[25 X 24  Keep your Kbots on the trails.]
+	{
+	Japanese=25 X 24  Kボットは小道から外すな。;
+	}
+[checker ponds]
+	{
+	Japanese=市松模様の池;
+	}
+[13 X 13  Be wary of the many corrosive puddles.]
+	{
+	Japanese=13 X 13  あちこちにある腐食性の水たまりに注意。;
+	}
+[cluster freak]
+	{
+	Japanese=クラスター・フリーク;
+	}
+[10 X 10  High winds with lots of metal in the middle.]
+	{
+	Japanese=10 X 10  強風。中央に金属が多い。;
+	}
+[comet catcher]
+	{
+	Japanese=彗星キャッチャー;
+	}
+[12 X 15  Low gravity livens up this desolate landscape.]
+	{
+	Japanese=12 X 15  低重力が荒涼とした地形に活気を与える。;
+	}
+[core prime industrial area]
+	{
+	Japanese=COREプライム工業地帯;
+	}
+[21 X 21  Abandoned Core industrial area.]
+	{
+	Japanese=21 X 21  放棄されたCOREの工業地帯。;
+	}
+[crater islands]
+	{
+	Japanese=クレーター諸島;
+	}
+[10 X 8  Fight your way across these shallow waters.]
+	{
+	Japanese=10 X 8  この浅瀬を戦いながら渡れ。;
+	}
+[crystal cracked]
+	{
+	Japanese=ひび割れた水晶;
+	}
+[20 X 20 Two land masses split by an inland filled sea.]
+	{
+	Japanese=20 X 20 内海で隔てられた2つの陸地。;
+	}
+[crystal isles]
+	{
+	Japanese=水晶諸島;
+	}
+[20 X 20 Crystal World ocean, dotted with reefs and islands.]
+	{
+	Japanese=20 X 20 岩礁と島が点在する水晶世界の海。;
+	}
+[crystal maze]
+	{
+	Japanese=水晶の迷路;
+	}
+[10 X 10 Free-for-all in a maze of mountains.]
+	{
+	Japanese=10 X 10 山々の迷路での乱戦。;
+	}
+[crystal treasure island]
+	{
+	Japanese=水晶の宝島;
+	}
+[12 X 13  Crystal map with metal-rich islands in the center.]
+	{
+	Japanese=12 X 13  中央に金属が豊富な島々がある水晶マップ。;
+	}
+[dire straits]
+	{
+	Japanese=窮地の海峡;
+	}
+[15 X 17 Natural fortification to hide between.]
+	{
+	Japanese=15 X 17 身を隠せる天然の防壁。;
+	}
+[east indeez]
+	{
+	Japanese=イースト・インディーズ;
+	}
+[28 X 19 Lots of islands, lots of water!]
+	{
+	Japanese=28 X 19 島がたくさん、水もたっぷり！;
+	}
+[eastside westside]
+	{
+	Japanese=イーストサイド・ウエストサイド;
+	}
+[19 X 19  Find a park or reclaim large structures for metal.]
+	{
+	Japanese=19 X 19  公園を探すか、大きな建物を回収して金属を得よう。;
+	}
+[14 X 14, Battle for the Evad River Delta]
+	{
+	Japanese=14 X 14, エヴァド川デルタをめぐる戦い;
+	}
+[expanded confluence]
+	{
+	Japanese=拡張版合流点;
+	}
+[22 X 22 More room to rumble on this old favorite.]
+	{
+	Japanese=22 X 22 おなじみのマップで、さらに広く暴れられる。;
+	}
+[flooded glaciers]
+	{
+	Japanese=水没した氷河;
+	}
+[12 X 10 Icy ocean battle.]
+	{
+	Japanese=12 X 10 凍てつく海での戦い。;
+	}
+[gasbag forests]
+	{
+	Japanese=ガス袋の森;
+	}
+[19 X 19  Large fields of gasplants block your path.]
+	{
+	Japanese=19 X 19  ガス植物の大群落が行く手をふさぐ。;
+	}
+[gasplant plain]
+	{
+	Japanese=ガス植物の平原;
+	}
+[10 X 8  Large plain for close encounters. Lots of geothermal.]
+	{
+	Japanese=10 X 8  接近戦向きの広い平原。地熱が多い。;
+	}
+[higher ground]
+	{
+	Japanese=高地;
+	}
+[8 X 16  You take the high road and I'll take the low road.]
+	{
+	Japanese=8 X 16  高い道を行くか、低い道を行くか。;
+	}
+[ice house]
+	{
+	Japanese=氷の家;
+	}
+[16 X 16  Large ice mountains hinder big guns.]
+	{
+	Japanese=16 X 16  巨大な氷山が大砲を阻む。;
+	}
+[ice scream]
+	{
+	Japanese=アイス・スクリーム;
+	}
+[15 X 39  Screaming won't be all you do on this forbidding world.]
+	{
+	Japanese=15 X 39  この過酷な世界では、悲鳴を上げるだけでは済まない。;
+	}
+[icy bergs]
+	{
+	Japanese=氷山;
+	}
+[28 X 28  Landless. Lots of sunken ships.]
+	{
+	Japanese=28 X 28  陸地なし。沈没船が多い。;
+	}
+[john's pass]
+	{
+	Japanese=ジョンの峠;
+	}
+[10 X 15  Follow the river up the middle, if you dare!]
+	{
+	Japanese=10 X 15  勇気があるなら、中央の川をさかのぼれ！;
+	}
+[lake shore]
+	{
+	Japanese=湖岸;
+	}
+[13 X 7  Large lake with islands in the middle.]
+	{
+	Japanese=13 X 7  中央に島がある大きな湖。;
+	}
+[luschaven]
+	{
+	Japanese=ラッシュヘイヴン;
+	}
+[17 X 16 Battle for control of dry land.]
+	{
+	Japanese=17 X 16 乾いた陸地の支配をめぐる戦い。;
+	}
+[lusch puppy]
+	{
+	Japanese=ラッシュ・パピー;
+	}
+[11 X 7  Small map divided by grand mountains.]
+	{
+	Japanese=11 X 7  雄大な山脈で分断された小さなマップ。;
+	}
+[moon quartet]
+	{
+	Japanese=月の四重奏;
+	}
+[20 X 20 Great map for team play.  Light side vs. dark side.]
+	{
+	Japanese=20 X 20 チーム戦に最適なマップ。光の側と闇の側の対決。;
+	}
+[mounds of mars]
+	{
+	Japanese=火星の丘;
+	}
+[8 X 17  For more than two players, play teams, North vs. South.]
+	{
+	Japanese=8 X 17  3人以上ならチーム戦で、北対南。;
+	}
+[ooooweeee]
+	{
+	Japanese=ウーウィー;
+	}
+[19 X 19  Nine islands of love and understanding.  Let's hug.]
+	{
+	Japanese=19 X 19  愛と理解の9つの島。さあ抱き合おう。;
+	}
+[pillopeens]
+	{
+	Japanese=ピロピーンズ;
+	}
+[17 X 27 Island-hopping map.]
+	{
+	Japanese=17 X 27 島から島へと渡るマップ。;
+	}
+[plains and passes]
+	{
+	Japanese=平原と峠;
+	}
+[20 X 20  Large map with lots of metal.]
+	{
+	Japanese=20 X 20  金属が豊富な大きなマップ。;
+	}
+[polar range]
+	{
+	Japanese=極地山脈;
+	}
+[20 X 20  Large polar ice cap map. A bleak and forbidding world.]
+	{
+	Japanese=20 X 20  広大な極地の氷冠マップ。荒涼とした過酷な世界。;
+	}
+[polyp fields]
+	{
+	Japanese=ポリプの原野;
+	}
+[27 X 22  Large geometric polyps litter this battlefield.]
+	{
+	Japanese=27 X 22  巨大な幾何学的ポリプが戦場に散らばる。;
+	}
+[red river]
+	{
+	Japanese=赤い川;
+	}
+[21 X 30  Large river separates two land masses.]
+	{
+	Japanese=21 X 30  大河が2つの陸地を隔てる。;
+	}
+[red river north]
+	{
+	Japanese=赤い川・北部;
+	}
+[21 X 14  Smaller segment of Red River.]
+	{
+	Japanese=21 X 14  「赤い川」の一部を切り出した小さなマップ。;
+	}
+[ror shock]
+	{
+	Japanese=ロールシャッハ;
+	}
+[26 X 26 Ocean Battles are a must for this fine map.  Big surprise in center!]
+	{
+	Japanese=26 X 26 このマップでは海戦が欠かせない。中央には驚きが待つ！;
+	}
+[sail away]
+	{
+	Japanese=船出;
+	}
+[12 X 20 High winds sweep these islands.]
+	{
+	Japanese=12 X 20 強風が島々を吹き抜ける。;
+	}
+[sector 410b]
+	{
+	Japanese=410b区域;
+	}
+[25 X 22  Large mountains with narrow passes.]
+	{
+	Japanese=25 X 22  狭い峠のある大きな山々。;
+	}
+[show down]
+	{
+	Japanese=決戦;
+	}
+[11 X 5  Meet in the middle.]
+	{
+	Japanese=11 X 5  中央で激突。;
+	}
+[slate gordon]
+	{
+	Japanese=スレート・ゴードン;
+	}
+[23 X 15 Great map for east/west rivalries.  Earthquakes.]
+	{
+	Japanese=23 X 15 東西対決に最適なマップ。地震あり。;
+	}
+[slated fate]
+	{
+	Japanese=定められた運命;
+	}
+[7 x 12 Search for metal in crevices.]
+	{
+	Japanese=7 x 12 岩の割れ目で金属を探せ。;
+	}
+[steel jungle]
+	{
+	Japanese=鋼鉄のジャングル;
+	}
+[20 x 10  Wake up and smell the coffee with the Morning War Show.]
+	{
+	Japanese=20 x 10  朝の戦争ショーで目を覚まし、コーヒーの香りをかごう。;
+	}
+[surface meltdown]
+	{
+	Japanese=地表融解;
+	}
+[15 X 17  Bumps, bumps, and more bumps.]
+	{
+	Japanese=15 X 17  でこぼこ、でこぼこ、さらにでこぼこ。;
+	}
+[temblorian mist]
+	{
+	Japanese=テンブラーの霧;
+	}
+[12 X 15  Make your way around the edges or fly across the center.]
+	{
+	Japanese=12 X 15  外周を回り込むか、中央を飛び越えよう。;
+	}
+[the barrier reef]
+	{
+	Japanese=堡礁;
+	}
+[19 X 19  Body of water separates two land masses.  Great underwater starts!]
+	{
+	Japanese=19 X 19  水域が2つの陸地を隔てる。水中からの開始に最適！;
+	}
+[the bayou]
+	{
+	Japanese=湿地帯;
+	}
+[20 X 20  Strong currents rush through this Bayou.]
+	{
+	Japanese=20 X 20  この湿地帯には強い流れが走る。;
+	}
+[town & country]
+	{
+	Japanese=町と田舎;
+	}
+[17 X 17  Urban vs. rural.]
+	{
+	Japanese=17 X 17  都市対田舎。;
+	}
+[trout farm]
+	{
+	Japanese=マス養殖場;
+	}
+[15 X 15  Watch out for the sinkhole in the middle.]
+	{
+	Japanese=15 X 15  中央の陥没穴に注意。;
+	}
+
+// Download Maps
+
+[cloudious prime]
+	{
+	Japanese=クラウディアス・プライム;
+	}
+[20 X 20  Island in the clouds with giant canyon.  Absurd wind.]
+	{
+	Japanese=20 X 20  巨大な峡谷のある雲上の島。風がとんでもなく強い。;
+	}
+
+// Battle Tactics Maps
+
+[aqua verdigris]
+	{
+	Japanese=アクア・ヴェルディグリ;
+	}
+[12 x 12  Fighting around rings of Dragon's Teeth.]
+	{
+	Japanese=12 x 12  竜の歯の環をめぐる戦い。;
+	}
+[brilliant cut lake]
+	{
+	Japanese=ブリリアントカットの湖;
+	}
+[15 X 15  Fighting around a large lake.]
+	{
+	Japanese=15 X 15  大きな湖をめぐる戦い。;
+	}
+[canal crossing]
+	{
+	Japanese=運河の渡し;
+	}
+[16 X 17  Four land masses separated by canals.]
+	{
+	Japanese=16 X 17  運河で隔てられた4つの陸地。;
+	}
+[metal gridlock]
+	{
+	Japanese=金属の膠着;
+	}
+[20 X 20  Five squares interlock to create defensive forts.]
+	{
+	Japanese=20 X 20  5つの正方形が組み合わさって防御の砦になる。;
+	}
+[wretched ridges]
+	{
+	Japanese=悲惨な尾根;
+	}
+[12 X 12  High ridges protect defensive areas.  Light forest.]
+	{
+	Japanese=12 X 12  高い尾根が防御地帯を守る。森はまばら。;
+	}
+[coremageddon]
+	{
+	Japanese=COREマゲドン;
+	}
+[13 X 20  Set up ambushes in this Core Prime maze.]
+	{
+	Japanese=13 X 20  COREプライムの迷路で待ち伏せを仕掛けろ。;
+	}
+
+// Possible Error Messages
+
+[The requested campaign file, %s, does not exist.]
+	{
+	Japanese=指定されたキャンペーンファイル%sが存在しません。;
+	}
+[Error -- Unnamed Mission]
+	{
+	Japanese=エラー -- 名前のないミッション;
+	}
+[The requested mission file, %s, does not exist.]
+	{
+	Japanese=指定されたミッションファイル%sが存在しません。;
+	}
+[No GlobalHeader block in mission file!]
+	{
+	Japanese=ミッションファイルにGlobalHeaderブロックがありません！;
+	}
+[No description available]
+	{
+	Japanese=説明はありません;
+	}
+[No suitable schema type in mission file!]
+	{
+	Japanese=ミッションファイルに適切なスキーマの種類がありません！;
+	}
+[Very bad news!  No MSG!]
+	{
+	Japanese=非常にまずい！MSGがない！;
+	}
+[Hey, hoser!  The default meteor shower data was bogus!]
+	{
+	Japanese=おい、まぬけ！デフォルトの流星雨データがでたらめだぞ！;
+	}
+[Could not open movie file, please check filename in INI.]
+	{
+	Japanese=ムービーファイルを開けませんでした。INIのファイル名を確認してください。;
+	}
+[Could not setup Direct Draw to play movie.]
+	{
+	Japanese=ムービー再生用のDirect Drawを設定できませんでした。;
+	}
+[Unsupported pixel format.]
+	{
+	Japanese=対応していないピクセル形式です。;
+	}
+[Smacker Error]
+	{
+	Japanese=Smackerエラー;
+	}
+[Summary]
+	{
+	Japanese=概要;
+	}
+[getbuilt]
+	{
+	Japanese=建造中;
+	}
+[TransportDrop]
+	{
+	Japanese=輸送投下;
+	}
+[QueryTransport]
+	{
+	Japanese=輸送要請;
+	}
+[EndTransport]
+	{
+	Japanese=輸送終了;
+	}
+[QueryLandingPad]
+	{
+	Japanese=着陸パッド要請;
+	}
+[Invalid logo setting]
+	{
+	Japanese=無効なロゴ設定;
+	}
+[Unable to start the thread!]
+	{
+	Japanese=スレッドを開始できません！;
+	}
+[Please insert the Total Annihilation CD and try again]
+	{
+	Japanese=Total AnnihilationのCDを入れて、もう一度試してください;
+	}
+[Please insert the Play CD and try again]
+	{
+	Japanese=プレイCDを入れて、もう一度試してください;
+	}
+[The Play CD was not found]
+	{
+	Japanese=プレイCDが見つかりません;
+	}
+[Please insert the Play CD]
+	{
+	Japanese=プレイCDを入れてください;
+	}
+[Click to continue.]
+	{
+	Japanese=クリックして続行します。;
+	}
+[Done]
+	{
+	Japanese=完了;
+	}
+[Record "%s" missing from feature files]
+	{
+	Japanese=地形物ファイルにレコード「%s」がありません;
+	}
+[An error occurred trying to use this service]
+	{
+	Japanese=このサービスの使用中にエラーが発生しました;
+	}
+[expecting int]
+	{
+	Japanese=整数が必要です;
+	}
+[parse error reading AI profile %s\n%s\nlast string =]
+	{
+	Japanese=AIプロファイル%sの読み込み中に解析エラー\n%s\n最後の文字列 =;
+	}
+[None]
+	{
+	Japanese=なし;
+	}
+[Incompatible units found.  They will be ignored.  Please download the latest version of the game.]
+	{
+	Japanese=互換性のないユニットが見つかりました。これらは無視されます。最新版のゲームをダウンロードしてください。;
+	}
+[Can't load MOVEINFO.TDF]
+	{
+	Japanese=MOVEINFO.TDFを読み込めません;
+	}
+[Can't load GAMEDATA.TDF]
+	{
+	Japanese=GAMEDATA.TDFを読み込めません;
+	}
+[Connecting  (ESC to abort)]
+	{
+	Japanese=接続中（ESCで中止）;
+	}
+[Lock]
+	{
+	Japanese=ロック;
+	}
+[Blk]
+	{
+	Japanese=黒;
+	}
+[Gray]
+	{
+	Japanese=灰;
+	}
+[Connecting... press ESC to abort]
+	{
+	Japanese=接続中... ESCで中止;
+	}
+[Unable to find any modems]
+	{
+	Japanese=モデムが見つかりません;
+	}
+[allied with]
+	{
+	Japanese=が同盟を結んだ相手：;
+	}
+[broke alliance with]
+	{
+	Japanese=が同盟を解消した相手：;
+	}
+[There are not enough game CDs present to play]
+	{
+	Japanese=プレイに必要な数のゲームCDがありません;
+	}
+[You must select a map before starting]
+	{
+	Japanese=開始する前にマップを選んでください;
+	}
+[\nYou must select a map before starting\n\n]
+	{
+	Japanese=\n開始する前にマップを選んでください\n\n;
+	}
+[n/a]
+	{
+	Japanese=なし;
+	}
+[N/A]
+	{
+	Japanese=なし;
+	}
+[View Map]
+	{
+	Japanese=マップを見る;
+	}
+[Could not find the multiplayer map!!]
+	{
+	Japanese=マルチプレイ用のマップが見つかりません！！;
+	}
+[does not have this map]
+	{
+	Japanese=はこのマップを持っていない;
+	}
+[There are no saved lists to choose from]
+	{
+	Japanese=セーブ済みのリストがありません;
+	}
+[has left the scene]
+	{
+	Japanese=が戦場を去った;
+	}
+[has been shown the door]
+	{
+	Japanese=がつまみ出された;
+	}
+[has gone to a better place]
+	{
+	Japanese=が天に召された;
+	}
+[has bowed out]
+	{
+	Japanese=が退場した;
+	}
+[has terminated]
+	{
+	Japanese=が消滅した;
+	}
+[has been eradicated]
+	{
+	Japanese=が根絶された;
+	}
+[has been liquidated]
+	{
+	Japanese=が粛清された;
+	}
+[has been obliterated]
+	{
+	Japanese=が抹殺された;
+	}
+[forces have been obliterated]
+	{
+	Japanese=の部隊が抹殺された;
+	}
+[vermin have been exterminated]
+	{
+	Japanese=の害虫どもが駆除された;
+	}
+[forces have gone to a better place]
+	{
+	Japanese=の部隊が天に召された;
+	}
+[dropping a player due to TIMEOUT_SECS]
+	{
+	Japanese=TIMEOUT_SECSによりプレイヤーを切断;
+	}
+[%s is joining the game...]
+	{
+	Japanese=%sがゲームに参加しています...;
+	}
+[player dropped by DPSYS_]
+	{
+	Japanese=DPSYS_によりプレイヤーを切断;
+	}
+[player '%s' set to startpos %d\n]
+	{
+	Japanese=プレイヤー「%s」の開始位置を%dに設定\n;
+	}
+[You're out!  Continue Watching?]
+	{
+	Japanese=敗退しました！観戦を続けますか？;
+	}
+[Weapon]
+	{
+	Japanese=武器;
+	}
+[Please insert a Total Annihilation CD and try again]
+	{
+	Japanese=Total AnnihilationのCDを入れて、もう一度試してください;
+	}
+[Wind Speed]
+	{
+	Japanese=風速;
+	}
+[Gravity]
+	{
+	Japanese=重力;
+	}
+[Tidal Strength]
+	{
+	Japanese=潮流の強さ;
+	}
+[There are no skirmish maps to choose from]
+	{
+	Japanese=スカーミッシュ用のマップがありません;
+	}
+[There are no multiplayer maps to choose from]
+	{
+	Japanese=マルチプレイ用のマップがありません;
+	}
+[The terrain for the selected map does not exist.]
+	{
+	Japanese=選択したマップの地形が存在しません。;
+	}
+[All players may not be in the same allied group.]
+	{
+	Japanese=全プレイヤーを同じ同盟グループにすることはできません。;
+	}
+[Error:  Sound system initialization failed.]
+	{
+	Japanese=エラー：サウンドシステムを初期化できませんでした。;
+	}
+[%s has taken the lead with %d kills]
+	{
+	Japanese=%sが%d撃破でトップに立った;
+	}
+[has taken the lead with %d kills]
+	{
+	Japanese=が%d撃破でトップに立った;
+	}
+[has taken the lead with]
+	{
+	Japanese=がトップに立った：;
+	}
+[Player number %d invalid for unit %s]
+	{
+	Japanese=プレイヤー番号%dはユニット%sに対して無効です;
+	}
+[Cost]
+	{
+	Japanese=コスト;
+	}
+[Build Time]
+	{
+	Japanese=建設時間;
+	}
+[Max Velocity]
+	{
+	Japanese=最高速度;
+	}
+[Acceleration]
+	{
+	Japanese=加速度;
+	}
+[Weapons]
+	{
+	Japanese=武器;
+	}
+[Speed]
+	{
+	Japanese=速度;
+	}
+[Game Speed Normal]
+	{
+	Japanese=ゲーム速度：標準;
+	}
+[Invalid savegame file]
+	{
+	Japanese=無効なセーブファイル;
+	}
+[Unable to start the loading thread!]
+	{
+	Japanese=読み込みスレッドを開始できません！;
+	}
+[DirectPlay registration failed.]
+	{
+	Japanese=DirectPlayの登録に失敗しました。;
+	}
+[Demo Version]
+	{
+	Japanese=体験版;
+	}
+[Settings]
+	{
+	Japanese=設定;
+	}
+
+// Added for v2.0
+
+[Can't add another player when game is closed.]
+	{
+	Japanese=ゲームが締め切られているため、プレイヤーを追加できません。;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-create the game session.\n]
+	{
+	Japanese=Direct Playが新しいプレイヤーを追加できませんでした。\n\n前の画面に戻ってゲームセッションを作り直すことをおすすめします。\n;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-join the game session.\n]
+	{
+	Japanese=Direct Playが新しいプレイヤーを追加できませんでした。\n\n前の画面に戻ってゲームセッションに参加し直すことをおすすめします。\n;
+	}
+[Square]
+	{
+	Japanese=四角;
+	}
+[Circle]
+	{
+	Japanese=円;
+	}
+[Triangle]
+	{
+	Japanese=三角;
+	}
+[Star]
+	{
+	Japanese=星;
+	}
+[Moon]
+	{
+	Japanese=月;
+	}
+[has joined the]
+	{
+	Japanese=が次の同盟に加入：;
+	}
+[has left the]
+	{
+	Japanese=が次の同盟から離脱：;
+	}
+[anemone]
+	{
+	Japanese=イソギンチャク;
+	}
+[coral]
+	{
+	Japanese=サンゴ;
+	}
+[seaweed]
+	{
+	Japanese=海藻;
+	}
+[kelp]
+	{
+	Japanese=ケルプ;
+	}
+[You are placed in watch mode because you are hosting AI players which are still alive.  If you exit, they will be terminated.]
+	{
+	Japanese=ホストしているAIプレイヤーがまだ生き残っているため、観戦モードになりました。退出すると、AIプレイヤーは消滅します。;
+	}
+[Unable to initialize scores reporting.]
+	{
+	Japanese=スコア報告を初期化できません。;
+	}
+[No sound driver is available for use.\n]
+	{
+	Japanese=使用できるサウンドドライバーがありません。\n;
+	}
+[Debug:  You must be in full-screen mode to play a movie.]
+	{
+	Japanese=デバッグ：ムービーを再生するにはフルスクリーンモードにする必要があります。;
+	}
+[Old TED format no longer supported!]
+	{
+	Japanese=古いTED形式はサポートされていません！;
+	}
+[Can not start game with all players on the same team.]
+	{
+	Japanese=全プレイヤーが同じチームではゲームを開始できません。;
+	}
+
+// Features
+
+[Transit Node]
+	{
+	Japanese=交通ノード;
+	}
+[Microwave Relay]
+	{
+	Japanese=マイクロ波中継器;
+	}
+[Climatic Optimizer]
+	{
+	Japanese=気候最適化装置;
+	}
+[Truck]
+	{
+	Japanese=トラック;
+	}
+[Manhole]
+	{
+	Japanese=マンホール;
+	}
+[Public Art]
+	{
+	Japanese=パブリックアート;
+	}
+[Car]
+	{
+	Japanese=自動車;
+	}
+[Willy Gates Bldg]
+	{
+	Japanese=ウィリー・ゲイツ・ビル;
+	}
+[Barrier]
+	{
+	Japanese=障壁;
+	}
+[barrier]
+	{
+	Japanese=障壁;
+	}
+[Oolok Tree]
+	{
+	Japanese=ウーロックの木;
+	}
+[Gasbag]
+	{
+	Japanese=ガス袋;
+	}
+[Bridge]
+	{
+	Japanese=橋;
+	}
+[Ruined Bridge]
+	{
+	Japanese=崩れた橋;
+	}
+[Factory]
+	{
+	Japanese=工場;
+	}
+[Cheese Factory]
+	{
+	Japanese=チーズ工場;
+	}
+[Public Hygiene Pod]
+	{
+	Japanese=公衆衛生ポッド;
+	}
+[Monorail Track]
+	{
+	Japanese=モノレールの軌道;
+	}
+[Streetlight]
+	{
+	Japanese=街灯;
+	}
+
+// Chat messages
+
+[OK.  Will share metal if above %d]
+	{
+	Japanese=了解。%dを超えた分の金属を共有する;
+	}
+[OK.  Will share energy if above %d]
+	{
+	Japanese=了解。%dを超えた分のエネルギーを共有する;
+	}
+
+// Not in 3.1c's table: GUI captions and messages that 3.1c's own translate.tdf does not key
+
+[Begin Mission]
+	{
+	Japanese=ミッション開始;
+	}
+[Choose where you would like your scores reported to:]
+	{
+	Japanese=スコアの報告先を選んでください：;
+	}
+[CREDITS]
+	{
+	Japanese=クレジット;
+	}
+[has modified his executable.  Game integrity breached.]
+	{
+	Japanese=が実行ファイルを改変した。ゲームの公正性が損なわれた。;
+	}
+[has not responded for %d seconds]
+	{
+	Japanese=が%d秒間応答していない;
+	}
+[Have a nice day]
+	{
+	Japanese=よい一日を;
+	}
+[Mission Brief]
+	{
+	Japanese=ミッション概要;
+	}
+[Name Of List To Save]
+	{
+	Japanese=セーブするリストの名前;
+	}
+[Pevious Menu]
+	{
+	Japanese=前のメニュー;
+	}
+[Select Player:]
+	{
+	Japanese=プレイヤーを選択：;
+	}
+[Synching]
+	{
+	Japanese=同期中;
+	}
+[Watching Allowe]
+	{
+	Japanese=観戦可;
+	}
+
+// Not in 3.1c's table: Map names and descriptions
+
+[luschinfloggen]
+	{
+	Japanese=ラッシンフロッゲン;
+	}
+[8 X 10  Find your way through the shallows into the enemy base.]
+	{
+	Japanese=8 X 10  浅瀬を抜けて敵の基地へ攻め込め。;
+	}
+
+// Not in 3.1c's table: Planet names, as the maps give them
+
+[Green planet]
+	{
+	Japanese=緑の惑星;
+	}
+[Lava]
+	{
+	Japanese=溶岩;
+	}
+[Red Planet]
+	{
+	Japanese=赤い惑星;
+	}
+[Lush]
+	{
+	Japanese=緑豊か;
+	}
+[Ice]
+	{
+	Japanese=氷;
+	}
+[Archipelago]
+	{
+	Japanese=群島;
+	}
+[Slate]
+	{
+	Japanese=スレート;
+	}
+[Lunar]
+	{
+	Japanese=月面;
+	}
+[Water World]
+	{
+	Japanese=水の世界;
+	}
+[Acid]
+	{
+	Japanese=酸;
+	}
+[Crystal]
+	{
+	Japanese=水晶;
+	}
+[Wet Desert]
+	{
+	Japanese=湿った砂漠;
+	}
+[Desert]
+	{
+	Japanese=砂漠;
+	}
+[Urban]
+	{
+	Japanese=都市;
+	}

@@ -1,0 +1,70 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+
+// Captions drawn over the player's own pictures while Japanese is shown
+// (src/present/include/oa/present/picture_captions.hpp). A picture left
+// out here, or a section with no keys, keeps its art.
+
+// The order buttons, each with its hotkey letter.
+[commongui.gaf]
+{
+    [ARMATTACK] { text=攻撃(A); }
+    [CORATTACK] { text=攻撃(A); }
+    [ARMMOVE] { text=移動(M); }
+    [CORMOVE] { text=移動(M); }
+    [ARMSTOP] { text=停止(S); }
+    [CORSTOP] { text=停止(S); }
+    [ARMPATROL] { text=巡回(P); }
+    [CORPATROL] { text=巡回(P); }
+    [ARMDEFEND] { text=護衛(G); }
+    [CORDEFEND] { text=護衛(G); }
+    [ARMRECLAIM] { text=回収(E); }
+    [CORRECLAIM] { text=回収(E); }
+    [ARMREPAIR] { text=修理(R); }
+    [CORREPAIR] { text=修理(R); }
+    [ARMCAPTURE] { text=捕獲(C); }
+    [CORCAPTURE] { text=捕獲(C); }
+    [ARMLOAD] { text=搭載(L); }
+    [CORLOAD] { text=搭載(L); }
+    [ARMUNLOAD] { text=降車(U); }
+    [CORUNLOAD] { text=降車(U); }
+    [ARMORDERS] { text=命令; }
+    [CORORDERS] { text=命令; }
+    [ARMBUILD] { text=建設; }
+    [CORBUILD] { text=建設; }
+    // A short caption, kept to the others' size.
+    [ARMBLAST] { text=Dガン; area=3,6,48,14; }
+    [CORBLAST] { text=Dガン; area=3,6,48,14; }
+
+    // The toggles: one caption per state, then the button's name; their
+    // lights stay at the right.
+    [ARMFIREORD] { text=射撃中止|反撃|自由射撃|射撃命令; area=3,2,95,16; align=left; }
+    [CORFIREORD] { text=射撃中止|反撃|自由射撃|射撃命令; area=3,2,95,16; align=left; }
+    [ARMMOVEORD] { text=現在地を固守|機動|自由移動|移動命令; area=3,2,95,16; align=left; }
+    [CORMOVEORD] { text=現在地を固守|機動|自由移動|移動命令; area=3,2,95,16; align=left; }
+    [ARMONOFF] { text=オフ|オン|電源; area=3,2,95,16; align=left; }
+    [CORONOFF] { text=オフ|オン|電源; area=3,2,95,16; align=left; }
+    [ARMCLOAK] { text=可視|クローク中|クローク; area=3,2,95,16; align=left; }
+    [CORCLOAK] { text=可視|クローク中|クローク; area=3,2,95,16; align=left; }
+    [ARMACTIVATE] { text=起動|停止; area=3,2,95,16; align=left; }
+    [CORACTIVATE] { text=起動|停止; area=3,2,95,16; align=left; }
+}
+
+// The top bar's METAL and ENERGY.
+[armint.gaf/PANELTOP] { text=金属|エネルギー; area=36,4,48,17|285,4,56,17; }
+[corint.gaf/PANELTOP] { text=金属|エネルギー; area=34,8,48,13|285,8,52,13; }
+
+// The titles over the battlefield.
+[igtitles.gaf]
+{
+    [igpaused] { text=一時停止; }
+    [igvictory] { text=勝利！; }
+    [igdefeat] { text=敗北; }
+}
+
+// The load dialog's title.
+[loadgame.gaf/LoadGame] { text=ゲームのロード; }
+
+// The save and load dialogs' titles, painted into their backgrounds.
+[dsavegame2.pcx] { text=ゲームのセーブ; area=64,31,168,27; }
+[dloadgame2.pcx] { text=ゲームのロード; area=61,32,166,27; }

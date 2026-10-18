@@ -47,6 +47,7 @@ The game draws text two ways, and the pack's manifest says which it needs.
 | `zh-Hans` | modern fonts | `NotoSansCJKsc-Bold.otf` |
 | `uk` | modern fonts | none |
 | `ko` | modern fonts | `NotoSansCJKkr-Bold.otf` |
+| `ja` | modern fonts | `NotoSansCJKjp-Bold.otf` |
 
 ## 2. Write the manifest
 

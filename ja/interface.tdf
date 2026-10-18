@@ -1,0 +1,8092 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Open Annihilation's own words in Japanese, keyed by the engine's
+// English.
+
+[none]
+	{
+	ja=なし;
+	}
+
+[Off]
+	{
+	ja=オフ;
+	}
+
+[Basic]
+	{
+	ja=基本;
+	}
+
+[Full]
+	{
+	ja=フル;
+	}
+
+[Reduced]
+	{
+	ja=弱め;
+	}
+
+[Sharp]
+	{
+	ja=シャープ;
+	}
+
+[Whole steps]
+	{
+	ja=整数倍;
+	}
+
+[Unfiltered]
+	{
+	ja=フィルターなし;
+	}
+
+[Automatic]
+	{
+	ja=自動;
+	}
+
+[Box]
+	{
+	ja=範囲選択;
+	}
+
+[Scroll]
+	{
+	ja=スクロール;
+	}
+
+[Stay on]
+	{
+	ja=オンのまま;
+	}
+
+[One action]
+	{
+	ja=1回のみ;
+	}
+
+[Standard]
+	{
+	ja=標準;
+	}
+
+[Large]
+	{
+	ja=大;
+	}
+
+[Larger]
+	{
+	ja=特大;
+	}
+
+[Trackpads]
+	{
+	ja=トラックパッド;
+	}
+
+[Sticks]
+	{
+	ja=スティック;
+	}
+
+[Relative]
+	{
+	ja=相対;
+	}
+
+[Absolute]
+	{
+	ja=絶対;
+	}
+
+[Low]
+	{
+	ja=低;
+	}
+
+[High]
+	{
+	ja=高;
+	}
+
+[Zoom]
+	{
+	ja=ズーム;
+	}
+
+[Pointer]
+	{
+	ja=ポインター;
+	}
+
+[Nothing]
+	{
+	ja=なし;
+	}
+
+[While the right pad is touched]
+	{
+	ja=右パッドに触れている間;
+	}
+
+[While the right stick is touched]
+	{
+	ja=右スティックに触れている間;
+	}
+
+[Always]
+	{
+	ja=常に;
+	}
+
+[Light]
+	{
+	ja=弱;
+	}
+
+[Strong]
+	{
+	ja=強;
+	}
+
+[The processor draws and scales the view.]
+	{
+	ja=プロセッサーが画面を描画し、拡大縮小します。;
+	}
+
+[Off: the processor draws and scales the view.]
+	{
+	ja=オフ：プロセッサーが画面を描画し、拡大縮小します。;
+	}
+
+[Set it to Off and back, or restore defaults.]
+	{
+	ja=一度オフにしてから戻すか、初期設定に戻してください。;
+	}
+
+[A failed graphics driver is skipped.]
+	{
+	ja=エラーを起こしたグラフィックドライバーはスキップされます。;
+	}
+
+[Not in use: it needs at least 2 GB of memory.]
+	{
+	ja=未使用：2 GB以上のメモリが必要です。;
+	}
+
+[Full in use: the graphics card draws the view.]
+	{
+	ja=フルを使用中：グラフィックカードが画面を描画します。;
+	}
+
+[Basic lets the graphics card scale it evenly.]
+	{
+	ja=基本では、グラフィックカードが画面を均等に拡大縮小します。;
+	}
+
+[For this run only. The setting is kept.]
+	{
+	ja=今回の起動のみです。設定は保持されます。;
+	}
+
+[Not in use: the environment names a driver.]
+	{
+	ja=未使用：環境変数でドライバーが指定されています。;
+	}
+
+[Not in use: there is too little memory.]
+	{
+	ja=未使用：メモリが不足しています。;
+	}
+
+[Off for this game: in a shared game, Basic]
+	{
+	ja=このゲームではオフ：共有ゲームでは、基本は;
+	}
+
+[takes effect from the next game.]
+	{
+	ja=次のゲームから有効になります。;
+	}
+
+[Not in use: an error stopped it for this run.]
+	{
+	ja=未使用：エラーのため、今回の起動では停止しました。;
+	}
+
+[Not in use: the graphics driver failed.]
+	{
+	ja=未使用：グラフィックドライバーでエラーが発生しました。;
+	}
+
+[Not in use: the game stopped while using it.]
+	{
+	ja=未使用：使用中にゲームが停止しました。;
+	}
+
+[Not in use: no usable graphics card was found.]
+	{
+	ja=未使用：使用できるグラフィックカードが見つかりません。;
+	}
+
+[Not in use: the graphics card lacks a feature.]
+	{
+	ja=未使用：グラフィックカードに必要な機能がありません。;
+	}
+
+[Not in use: the game cannot save its files.]
+	{
+	ja=未使用：ゲームがファイルを保存できません。;
+	}
+
+[Takes effect from the next start.]
+	{
+	ja=次回の起動から有効になります。;
+	}
+
+[The processor draws and scales the view until then.]
+	{
+	ja=それまではプロセッサーが画面を描画し、拡大縮小します。;
+	}
+
+[Basic in use: the game cannot save its files.]
+	{
+	ja=基本を使用中：ゲームがファイルを保存できません。;
+	}
+
+[Basic in use: there is too little memory for Full.]
+	{
+	ja=基本を使用中：フルにはメモリが足りません。;
+	}
+
+[Basic in use: Full stopped for this run.]
+	{
+	ja=基本を使用中：今回の起動ではフルが停止しました。;
+	}
+
+[Basic in use: Full failed before on this driver.]
+	{
+	ja=基本を使用中：このドライバーでは以前フルが失敗しました。;
+	}
+
+[Basic in use: the card lacks a feature Full needs.]
+	{
+	ja=基本を使用中：カードにフルに必要な機能がありません。;
+	}
+
+[Basic for this game: in a shared game, Full]
+	{
+	ja=このゲームでは基本：共有ゲームでは、フルは;
+	}
+
+[Basic in use, on another driver: one failed.]
+	{
+	ja=基本を別のドライバーで使用中：一方が失敗しました。;
+	}
+
+[Basic in use; no smoothing when zoomed out here.]
+	{
+	ja=基本を使用中。ここではズームアウト時にスムージングしません。;
+	}
+
+[Basic in use.]
+	{
+	ja=基本を使用中です。;
+	}
+
+[Off for this game: in a shared game, Full]
+	{
+	ja=このゲームではオフ：共有ゲームでは、フルは;
+	}
+
+[Off for this game: in a replay, Basic]
+	{
+	ja=このゲームではオフ：リプレイでは、基本は;
+	}
+
+[Off for this game: in a replay, Full]
+	{
+	ja=このゲームではオフ：リプレイでは、フルは;
+	}
+
+[Basic for this game: in a replay, Full]
+	{
+	ja=このゲームでは基本：リプレイでは、フルは;
+	}
+
+[Smoothed at every zoom.]
+	{
+	ja=すべてのズームでスムージングします。;
+	}
+
+[Smoothed at every zoom; 2x2 samples a pixel.]
+	{
+	ja=すべてのズームでスムージングします。1ピクセルにつき2x2サンプルです。;
+	}
+
+[Smoothed at every zoom; 4x4 samples a pixel.]
+	{
+	ja=すべてのズームでスムージングします。1ピクセルにつき4x4サンプルです。;
+	}
+
+[Smoothed at every zoom; 8x8 samples a pixel.]
+	{
+	ja=すべてのズームでスムージングします。1ピクセルにつき8x8サンプルです。;
+	}
+
+[Smoothed at every zoom; 16x16 samples a pixel.]
+	{
+	ja=すべてのズームでスムージングします。1ピクセルにつき16x16サンプルです。;
+	}
+
+[It scales the menus and the interface evenly.]
+	{
+	ja=メニューとインターフェースを均等に拡大縮小します。;
+	}
+
+[It scales the interface and zoomed-in view evenly.]
+	{
+	ja=インターフェースとズームイン時の画面を均等に拡大縮小します。;
+	}
+
+[It scales evenly and smooths the zoomed-out view.]
+	{
+	ja=均等に拡大縮小し、ズームアウト時の画面をスムージングします。;
+	}
+
+[It smooths the zoomed-out view.]
+	{
+	ja=ズームアウト時の画面をスムージングします。;
+	}
+
+[Here the view is drawn as when it is off.]
+	{
+	ja=ここでは、オフのときと同じように画面を描画します。;
+	}
+
+[SAVES]
+	{
+	ja=セーブ;
+	}
+
+[SCREENSHOTS]
+	{
+	ja=スクリーンショット;
+	}
+
+[MODS]
+	{
+	ja=MOD;
+	}
+
+[System default]
+	{
+	ja=システムの設定;
+	}
+
+[Mods]
+	{
+	ja=MOD;
+	}
+
+[Controls]
+	{
+	ja=操作;
+	}
+
+[Graphics]
+	{
+	ja=グラフィック;
+	}
+
+[Language]
+	{
+	ja=言語;
+	}
+
+[Touch]
+	{
+	ja=タッチ;
+	}
+
+[Controller]
+	{
+	ja=コントローラー;
+	}
+
+[Developer]
+	{
+	ja=開発者;
+	}
+
+[Game files]
+	{
+	ja=ゲームファイル;
+	}
+
+[Keys]
+	{
+	ja=キー;
+	}
+
+[Patrolling]
+	{
+	ja=巡回中;
+	}
+
+[Guarding]
+	{
+	ja=護衛中;
+	}
+
+[Build tools]
+	{
+	ja=建設ツール;
+	}
+
+[Snap & chat]
+	{
+	ja=スナップとチャット;
+	}
+
+[CONTROLS]
+	{
+	ja=操作;
+	}
+
+[GRAPHICS]
+	{
+	ja=グラフィック;
+	}
+
+[LANGUAGE]
+	{
+	ja=言語;
+	}
+
+[TOUCH]
+	{
+	ja=タッチ;
+	}
+
+[CONTROLLER]
+	{
+	ja=コントローラー;
+	}
+
+[DEVELOPER]
+	{
+	ja=開発者;
+	}
+
+[GAME FILES]
+	{
+	ja=ゲームファイル;
+	}
+
+[MOD KEYS]
+	{
+	ja=MODのキー;
+	}
+
+[PATROLLING BUILDERS]
+	{
+	ja=巡回中の建設ユニット;
+	}
+
+[GUARDING BUILDERS]
+	{
+	ja=護衛中の建設ユニット;
+	}
+
+[BUILD TOOLS]
+	{
+	ja=建設ツール;
+	}
+
+[SNAP & CHAT]
+	{
+	ja=スナップとチャット;
+	}
+
+[Pathfinding cycles]
+	{
+	ja=経路探索サイクル;
+	}
+
+[Mouse wheel zoom]
+	{
+	ja=マウスホイールでズーム;
+	}
+
+[Maximum zoom out]
+	{
+	ja=最大ズームアウト;
+	}
+
+[Maximum zoom in]
+	{
+	ja=最大ズームイン;
+	}
+
+[View past the map's edge]
+	{
+	ja=マップ端の外まで表示;
+	}
+
+[Whole map]
+	{
+	ja=マップ全体;
+	}
+
+[Escape opens the game menu]
+	{
+	ja=Escでゲームメニューを開く;
+	}
+
+[Select groups without Alt]
+	{
+	ja=Altなしでグループ選択;
+	}
+
+[Unit limit]
+	{
+	ja=ユニット上限;
+	}
+
+[Maximum frame rate]
+	{
+	ja=最大フレームレート;
+	}
+
+[Enhanced anti-aliasing]
+	{
+	ja=拡張アンチエイリアス;
+	}
+
+[Screen size]
+	{
+	ja=画面サイズ;
+	}
+
+[Enable Developer Mode]
+	{
+	ja=開発者モードを有効にする;
+	}
+
+[Show performance statistics]
+	{
+	ja=パフォーマンス統計を表示;
+	}
+
+[Hardware acceleration]
+	{
+	ja=ハードウェアアクセラレーション;
+	}
+
+[Vertical sync]
+	{
+	ja=垂直同期;
+	}
+
+[Menu scaling]
+	{
+	ja=メニューの拡大縮小;
+	}
+
+[Native pixel density]
+	{
+	ja=ネイティブのピクセル密度;
+	}
+
+[Explosion flash]
+	{
+	ja=爆発の閃光;
+	}
+
+[Zoomed out units]
+	{
+	ja=ズームアウト時のユニット;
+	}
+
+[After zoom]
+	{
+	ja=切り替え倍率;
+	}
+
+[Window frame]
+	{
+	ja=ウィンドウ枠;
+	}
+
+[HUD scaling]
+	{
+	ja=HUDの拡大縮小;
+	}
+
+[Use modern fonts for game text]
+	{
+	ja=ゲームテキストにモダンフォントを使用;
+	}
+
+[Font outline]
+	{
+	ja=フォントの縁取り;
+	}
+
+[Font shadow]
+	{
+	ja=フォントの影;
+	}
+
+[Game text background]
+	{
+	ja=ゲームテキストの背景;
+	}
+
+[Text size]
+	{
+	ja=文字サイズ;
+	}
+
+[One-finger drag]
+	{
+	ja=1本指ドラッグ;
+	}
+
+[Hold delay]
+	{
+	ja=長押しの時間;
+	}
+
+[QUEUE and ADD]
+	{
+	ja=予約と追加;
+	}
+
+[Haptics]
+	{
+	ja=振動;
+	}
+
+[Left-handed layout]
+	{
+	ja=左手用レイアウト;
+	}
+
+[Control size]
+	{
+	ja=操作ボタンのサイズ;
+	}
+
+[Scheme]
+	{
+	ja=操作方式;
+	}
+
+[Right trackpad]
+	{
+	ja=右トラックパッド;
+	}
+
+[Pointer speed]
+	{
+	ja=ポインターの速度;
+	}
+
+[Pointer acceleration]
+	{
+	ja=ポインターの加速;
+	}
+
+[Trackpad glide]
+	{
+	ja=トラックパッドの慣性;
+	}
+
+[Right stick]
+	{
+	ja=右スティック;
+	}
+
+[Magnetism (stick pointer)]
+	{
+	ja=吸着（スティックのポインター）;
+	}
+
+[Gyro pointer]
+	{
+	ja=ジャイロポインター;
+	}
+
+[Gyro speed]
+	{
+	ja=ジャイロの速度;
+	}
+
+[Button prompts]
+	{
+	ja=ボタン表示;
+	}
+
+[Left-handed]
+	{
+	ja=左手用;
+	}
+
+[Mod]
+	{
+	ja=MOD;
+	}
+
+[Snap override key]
+	{
+	ja=スナップ解除キー;
+	}
+
+[Autoclick key]
+	{
+	ja=オートクリックキー;
+	}
+
+[Rotate build key]
+	{
+	ja=建物回転キー;
+	}
+
+[Hold position]
+	{
+	ja=現在地を固守;
+	}
+
+[Maneuver]
+	{
+	ja=機動;
+	}
+
+[Roam]
+	{
+	ja=自由移動;
+	}
+
+[Mex snap radius]
+	{
+	ja=金属抽出機のスナップ半径;
+	}
+
+[Wreck snap radius]
+	{
+	ja=残骸のスナップ半径;
+	}
+
+[Optimize DT rows]
+	{
+	ja=竜の歯の列を最適化;
+	}
+
+[Full rings]
+	{
+	ja=隅まで囲む;
+	}
+
+[Accessible chat]
+	{
+	ja=読みやすいチャット;
+	}
+
+[Resource bar background]
+	{
+	ja=資源バーの背景;
+	}
+
+[Installed]
+	{
+	ja=インストール済み;
+	}
+
+[Include in device backups]
+	{
+	ja=デバイスのバックアップに含める;
+	}
+
+[Where the files are]
+	{
+	ja=ファイルの場所;
+	}
+
+[Your files]
+	{
+	ja=ユーザーファイル;
+	}
+
+[More cycles find routes faster but use more CPU.]
+	{
+	ja=サイクルを増やすと経路が早く見つかりますが、CPUの負荷が増えます。;
+	}
+
+[Scroll to zoom the battlefield in and out.]
+	{
+	ja=スクロールで戦場をズームイン・ズームアウトします。;
+	}
+
+[A number key selects its group on its own.]
+	{
+	ja=数字キーだけでそのグループを選択します。;
+	}
+
+[Lower it to save power.]
+	{
+	ja=下げると電力を節約できます。;
+	}
+
+[Custom]
+	{
+	ja=カスタム;
+	}
+
+[Your changes to the profile's hacks apply while on.]
+	{
+	ja=オンの間は、プロファイルのハックへの変更が適用されます。;
+	}
+
+[Frame and tick times over the battlefield.]
+	{
+	ja=戦場の上にフレーム時間とティック時間を表示します。;
+	}
+
+[Each frame waits for the display: no tearing.]
+	{
+	ja=各フレームがディスプレイの更新を待つため、テアリングが起きません。;
+	}
+
+[Rendered]
+	{
+	ja=モデル;
+	}
+
+[Dots]
+	{
+	ja=点;
+	}
+
+[Icons]
+	{
+	ja=アイコン;
+	}
+
+[Hidden in play]
+	{
+	ja=プレイ中は非表示;
+	}
+
+[Always shown]
+	{
+	ja=常に表示;
+	}
+
+[A dark edge round each letter of modern text.]
+	{
+	ja=モダンフォントの各文字を暗い色で縁取ります。;
+	}
+
+[A dark shadow under modern text.]
+	{
+	ja=モダンフォントの下に暗い影を付けます。;
+	}
+
+[A shaded box behind each line of game text.]
+	{
+	ja=ゲームテキストの各行の後ろに影付きの枠を表示します。;
+	}
+
+[How long a finger or button is held for a hold.]
+	{
+	ja=長押しと判定するまで、指やボタンを押し続ける時間です。;
+	}
+
+[A short vibration as a touch control acts.]
+	{
+	ja=タッチ操作が働くときに短く振動します。;
+	}
+
+[Each point of the pad is a point of the view.]
+	{
+	ja=パッド上の各点が画面上の各点に対応します。;
+	}
+
+[The pointer moves as the thumb slides.]
+	{
+	ja=親指をスライドさせるとポインターが動きます。;
+	}
+
+[How far the pointer moves for a slide.]
+	{
+	ja=スライドしたときにポインターが動く距離です。;
+	}
+
+[A quick slide moves the pointer further.]
+	{
+	ja=素早くスライドすると、ポインターが遠くまで動きます。;
+	}
+
+[The pointer keeps moving after a quick flick.]
+	{
+	ja=素早くはじくと、その後もポインターが動き続けます。;
+	}
+
+[The right stick does nothing.]
+	{
+	ja=右スティックには何も割り当てません。;
+	}
+
+[The stick pointer settles on a lone unit near it.]
+	{
+	ja=スティックのポインターが、近くにある単独のユニットに吸い付きます。;
+	}
+
+[Turning the controller fine-tunes the pointer.]
+	{
+	ja=コントローラーを傾けるとポインターを微調整できます。;
+	}
+
+[How far the pointer moves as the controller turns.]
+	{
+	ja=コントローラーを傾けたときにポインターが動く距離です。;
+	}
+
+[Small ticks and bumps felt through the controller.]
+	{
+	ja=コントローラーから伝わる細かな振動です。;
+	}
+
+[The button pictures the controls and rings show.]
+	{
+	ja=操作ボタンとリングに表示するボタンの絵柄です。;
+	}
+
+[Held, a click is not snapped.]
+	{
+	ja=押している間、クリックはスナップしません。;
+	}
+
+[Held, a build click lays a line or a ring.]
+	{
+	ja=押している間、建設のクリックで建物を列状または環状に並べます。;
+	}
+
+[Turns the building being placed.]
+	{
+	ja=配置中の建物を回転します。;
+	}
+
+[Cells a metal extractor snaps to metal.]
+	{
+	ja=金属抽出機が金属にスナップするマス数です。;
+	}
+
+[Cells a reclaim click snaps to a wreck.]
+	{
+	ja=回収のクリックが残骸にスナップするマス数です。;
+	}
+
+[Lines of 2x2 walls build as a double row.]
+	{
+	ja=2x2の壁を列状に建てると2列になります。;
+	}
+
+[Rings include their corners.]
+	{
+	ja=囲みに四隅も含めます。;
+	}
+
+[A dark backdrop under each chat line.]
+	{
+	ja=チャットの各行の下に暗い背景を表示します。;
+	}
+
+[Behind the resource bar's text.]
+	{
+	ja=資源バーの文字の後ろに表示します。;
+	}
+
+[per player]
+	{
+	ja=プレイヤーごと;
+	}
+
+[Desktop]
+	{
+	ja=デスクトップ;
+	}
+
+[Reclaim only]
+	{
+	ja=回収のみ;
+	}
+
+[Both]
+	{
+	ja=両方;
+	}
+
+[Assist only]
+	{
+	ja=支援のみ;
+	}
+
+[Stay]
+	{
+	ja=待機;
+	}
+
+[Normal]
+	{
+	ja=標準;
+	}
+
+[Scatter]
+	{
+	ja=散開;
+	}
+
+[None]
+	{
+	ja=なし;
+	}
+
+[Text]
+	{
+	ja=テキスト;
+	}
+
+[Solid]
+	{
+	ja=塗りつぶし;
+	}
+
+[cells]
+	{
+	ja=マス;
+	}
+
+[ms]
+	{
+	ja=ミリ秒;
+	}
+
+[device]
+	{
+	ja=デバイス;
+	}
+
+[Locked during a game]
+	{
+	ja=ゲーム中は変更不可;
+	}
+
+[Set by the host]
+	{
+	ja=ホストが設定;
+	}
+
+[Set on the command line]
+	{
+	ja=コマンドラインで設定;
+	}
+
+[Not available here]
+	{
+	ja=ここでは使用不可;
+	}
+
+[Set by the mod]
+	{
+	ja=MODが設定;
+	}
+
+[Needs modern fonts]
+	{
+	ja=モダンフォントが必要;
+	}
+
+[Needs Dots]
+	{
+	ja=「点」が必要;
+	}
+
+[Always on here]
+	{
+	ja=ここでは常にオン;
+	}
+
+[MANAGE…]
+	{
+	ja=管理…;
+	}
+
+[RESTORE PROFILE VALUES]
+	{
+	ja=プロファイルの値に戻す;
+	}
+
+[Applies at next match]
+	{
+	ja=次の対戦から適用;
+	}
+
+[Off: it plays as 3.1c.]
+	{
+	ja=オフ：3.1cと同じように動作します。;
+	}
+
+[Not implemented by this engine.]
+	{
+	ja=このエンジンには実装されていません。;
+	}
+
+[Items]
+	{
+	ja=項目;
+	}
+
+[Steam Input is on: the trackpads and back grips reach the game as Steam's mouse and keys. Turn Steam Input off for Open Annihilation in Steam's controller settings to use them here.]
+	{
+	ja=Steam Inputがオンです：トラックパッドと背面グリップは、Steamのマウスとキーとしてゲームに届きます。ここで使うには、Steamのコントローラー設定でOpen AnnihilationのSteam Inputをオフにしてください。;
+	}
+
+[Steam Deck: starts at the screen's {rate} fps.]
+	{
+	ja=Steam Deck：画面の{rate} fpsで開始します。;
+	}
+
+[SETTINGS]
+	{
+	ja=設定;
+	}
+
+[No Mod]
+	{
+	ja=MODなし;
+	}
+
+[N/A]
+	{
+	ja=該当なし;
+	}
+
+[No oamod.yaml present]
+	{
+	ja=oamod.yamlがありません;
+	}
+
+[PLAYING]
+	{
+	ja=プレイ中;
+	}
+
+[OPEN MODS FOLDER]
+	{
+	ja=MODフォルダーを開く;
+	}
+
+[SWITCH MOD]
+	{
+	ja=MODを切り替え;
+	}
+
+[SWITCH]
+	{
+	ja=切り替え;
+	}
+
+[ROLL BACK]
+	{
+	ja=ロールバック;
+	}
+
+[ROLL BACK MOD]
+	{
+	ja=MODをロールバック;
+	}
+
+[Roll back {title} to {to}? {from} is kept in its place, and ROLL BACK again brings it back.]
+	{
+	ja={title}を{to}にロールバックしますか？{from}は代わりに保管され、もう一度ロールバックすると元に戻ります。;
+	}
+
+[The game reloads its data for the mod and returns to the main menu.]
+	{
+	ja=ゲームはMODのデータを読み込み直し、メインメニューに戻ります。;
+	}
+
+[CANCEL]
+	{
+	ja=キャンセル;
+	}
+
+[Locked during a game. Choose the mod from the main menu.]
+	{
+	ja=ゲーム中は変更できません。MODはメインメニューで選択してください。;
+	}
+
+[Saved games, screenshots, films and mods.]
+	{
+	ja=セーブデータ、スクリーンショット、録画、MOD。;
+	}
+
+[The command line chose this run's mod.]
+	{
+	ja=今回の起動のMODはコマンドラインで指定されています。;
+	}
+
+[Shared game - still running]
+	{
+	ja=共有ゲーム - 進行中;
+	}
+
+[RESTORE DEFAULTS]
+	{
+	ja=初期設定に戻す;
+	}
+
+[OK]
+	{
+	ja=OK;
+	}
+
+[OFF]
+	{
+	ja=オフ;
+	}
+
+[ON]
+	{
+	ja=オン;
+	}
+
+[OPEN FOLDER]
+	{
+	ja=フォルダーを開く;
+	}
+
+[REPLACE]
+	{
+	ja=置き換え;
+	}
+
+[INSTALL ALONGSIDE]
+	{
+	ja=並べてインストール;
+	}
+
+[REINSTALL]
+	{
+	ja=再インストール;
+	}
+
+[PLAY NOW]
+	{
+	ja=今すぐプレイ;
+	}
+
+[INSTALLING MOD]
+	{
+	ja=MODをインストール中;
+	}
+
+[UPDATE MOD]
+	{
+	ja=MODの更新;
+	}
+
+[ANOTHER VERSION]
+	{
+	ja=別のバージョン;
+	}
+
+[ALREADY INSTALLED]
+	{
+	ja=インストール済み;
+	}
+
+[FOLDER IN USE]
+	{
+	ja=フォルダーは使用中;
+	}
+
+[MOD INSTALLED]
+	{
+	ja=MODインストール完了;
+	}
+
+[MOD UPDATED]
+	{
+	ja=MOD更新完了;
+	}
+
+[MOD NOT INSTALLED]
+	{
+	ja=MODのインストール中止;
+	}
+
+[MOD NOT ROLLED BACK]
+	{
+	ja=MODのロールバック中止;
+	}
+
+[The folder kept for ROLL BACK, which holds no mod that can be read, is removed.]
+	{
+	ja=ロールバック用に保管していたフォルダーには読み取れるMODがないため、削除されます。;
+	}
+
+[The folder kept for ROLL BACK ({backup}) is removed.]
+	{
+	ja=ロールバック用に保管していたフォルダー（{backup}）は削除されます。;
+	}
+
+[{version} of an unknown revision]
+	{
+	ja={version}（リビジョン不明）;
+	}
+
+[{version} revision {n}]
+	{
+	ja={version} リビジョン{n};
+	}
+
+[Putting the files in place...]
+	{
+	ja=ファイルを配置しています...;
+	}
+
+[Unpacking {title} {version}...]
+	{
+	ja={title} {version}を展開しています...;
+	}
+
+[{done} of {total}]
+	{
+	ja={done}/{total};
+	}
+
+[{title} {version}, an unknown revision, is installed. Replace it with revision {incoming} from {file}?]
+	{
+	ja={title} {version}（リビジョン不明）がインストールされています。{file}のリビジョン{incoming}で置き換えますか？;
+	}
+
+[{title} {version}, revision {installed}, is installed. Replace it with revision {incoming} from {file}?]
+	{
+	ja={title} {version}（リビジョン{installed}）がインストールされています。{file}のリビジョン{incoming}で置き換えますか？;
+	}
+
+[Revision {incoming} is older than the one installed.]
+	{
+	ja=リビジョン{incoming}は、インストール済みのものより古いリビジョンです。;
+	}
+
+[{title} {installed} is installed. Replace it with {incoming}, or install {incoming} alongside it?]
+	{
+	ja={title} {installed}がインストールされています。{incoming}で置き換えますか？それとも{incoming}を並べてインストールしますか？;
+	}
+
+[Alongside, {incoming} goes in a folder of its own:]
+	{
+	ja=並べてインストールすると、{incoming}は専用のフォルダーに入ります：;
+	}
+
+[{title} {version}, revision {revision}, is already installed. Install its files again from {file}?]
+	{
+	ja={title} {version}（リビジョン{revision}）はインストール済みです。{file}からファイルを再インストールしますか？;
+	}
+
+[Files added to its folder, or changed, since it was installed are replaced or removed.]
+	{
+	ja=インストール後にフォルダーへ追加・変更されたファイルは、置き換えられるか削除されます。;
+	}
+
+[The version kept, {backup}, stays.]
+	{
+	ja=保管されているバージョン（{backup}）はそのまま残ります。;
+	}
+
+[The folder kept for ROLL BACK stays.]
+	{
+	ja=ロールバック用に保管していたフォルダーはそのまま残ります。;
+	}
+
+[Your Mods folder already has a folder named {folder} that does not hold {title}. It is left as it is.]
+	{
+	ja=Modsフォルダーには、{title}を含まない{folder}という名前のフォルダーがすでにあります。そのフォルダーには手を加えません。;
+	}
+
+[Install {title} {version} alongside it, in a folder of its own?]
+	{
+	ja={title} {version}を専用のフォルダーに並べてインストールしますか？;
+	}
+
+[{title} {version} is installed in your Mods folder:]
+	{
+	ja={title} {version}をModsフォルダーにインストールしました：;
+	}
+
+[{title} is now {new}.]
+	{
+	ja={title}は{new}になりました。;
+	}
+
+[The files of {title} {version} were installed again.]
+	{
+	ja={title} {version}のファイルを再インストールしました。;
+	}
+
+[{title} is back to {new}. {old} is kept, and ROLL BACK brings it back.]
+	{
+	ja={title}は{new}に戻りました。{old}は保管され、ロールバックで元に戻せます。;
+	}
+
+[{title} is back to {new}.]
+	{
+	ja={title}は{new}に戻りました。;
+	}
+
+[{old} could not be kept as the earlier version; it is in:]
+	{
+	ja={old}を以前のバージョンとして保管できませんでした。保存場所：;
+	}
+
+[It cannot be read.]
+	{
+	ja=読み取れません。;
+	}
+
+[It is not a zip archive.]
+	{
+	ja=zipアーカイブではありません。;
+	}
+
+[It is damaged.]
+	{
+	ja=破損しています。;
+	}
+
+[It is damaged: {name} does not unpack as recorded.]
+	{
+	ja=破損しています：{name}が記録どおりに展開できません。;
+	}
+
+[It holds no oamod.yaml at its top, or in a single folder at its top.]
+	{
+	ja=最上位にも、最上位の単一フォルダー内にもoamod.yamlがありません。;
+	}
+
+[Its oamod.yaml is larger than 256 KiB.]
+	{
+	ja=oamod.yamlが256 KiBを超えています。;
+	}
+
+[Its oamod.yaml has errors:]
+	{
+	ja=oamod.yamlにエラーがあります：;
+	}
+
+[It holds a file it cannot unpack safely: {name}.]
+	{
+	ja=安全に展開できないファイルが含まれています：{name}。;
+	}
+
+[It holds two names that differ only in case: {name}.]
+	{
+	ja=大文字と小文字だけが異なる2つの名前が含まれています：{name}。;
+	}
+
+[It holds a link to another file: {name}.]
+	{
+	ja=別のファイルへのリンクが含まれています：{name}。;
+	}
+
+[It holds an encrypted file: {name}.]
+	{
+	ja=暗号化されたファイルが含まれています：{name}。;
+	}
+
+[It holds a file packed in a way it cannot unpack: {name}. Pack it again with standard (deflate) compression.]
+	{
+	ja=展開できない方式で圧縮されたファイルが含まれています：{name}。標準（deflate）圧縮で圧縮し直してください。;
+	}
+
+[It unpacks to {size}, more than the {limit} a mod may take.]
+	{
+	ja=展開すると{size}になり、MODに許される{limit}を超えます。;
+	}
+
+[It unpacks to {size} from {packed}, far more than a mod's files take.]
+	{
+	ja={packed}から展開すると{size}になり、MODのファイルとしては大きすぎます。;
+	}
+
+[It holds more than {limit} folders, more than a mod may take.]
+	{
+	ja=フォルダーが{limit}個を超えており、MODに許される数を超えています。;
+	}
+
+[It needs {size} free, and the disk holding your Mods folder has {free}.]
+	{
+	ja=空き容量が{size}必要ですが、Modsフォルダーのあるディスクの空きは{free}です。;
+	}
+
+[Its id, {id}, cannot name a folder on Windows.]
+	{
+	ja=ID「{id}」はWindowsのフォルダー名に使えません。;
+	}
+
+[Your Mods folder has no free folder name for it.]
+	{
+	ja=Modsフォルダーに、これに使えるフォルダー名がありません。;
+	}
+
+[Its files could not be put in place. Another program, such as a file sync or a virus scanner, may be using its files; try again in a moment.]
+	{
+	ja=ファイルを配置できませんでした。ファイル同期やウイルススキャンなど、ほかのプログラムがファイルを使用している可能性があります。少し待ってからもう一度試してください。;
+	}
+
+[Your Mods folder changed while this mod was being installed; nothing was changed. Open the file again.]
+	{
+	ja=このMODのインストール中にModsフォルダーが変更されたため、何も変更していません。もう一度ファイルを開いてください。;
+	}
+
+[Another copy of Open Annihilation is changing your Mods folder. Try again once it has finished.]
+	{
+	ja=別のOpen AnnihilationがModsフォルダーを変更しています。完了してからもう一度試してください。;
+	}
+
+[{file} cannot be installed.]
+	{
+	ja={file}をインストールできません。;
+	}
+
+[And {n} more; the log has them all.]
+	{
+	ja=ほかに{n}件あります。すべてはログに記録されています。;
+	}
+
+[Nothing was changed.]
+	{
+	ja=何も変更していません。;
+	}
+
+[{title} could not be rolled back; nothing was changed.]
+	{
+	ja={title}をロールバックできませんでした。何も変更していません。;
+	}
+
+[{title} {to}, the version kept for ROLL BACK, cannot be played.]
+	{
+	ja=ロールバック用に保管していたバージョン{title} {to}はプレイできません。;
+	}
+
+[the folder you chose]
+	{
+	ja=選択したフォルダー;
+	}
+
+[a file]
+	{
+	ja=ファイル;
+	}
+
+[Game archives]
+	{
+	ja=ゲームアーカイブ;
+	}
+
+[3.1c update]
+	{
+	ja=3.1cアップデート;
+	}
+
+[Extra units and maps]
+	{
+	ja=追加ユニットとマップ;
+	}
+
+[Music]
+	{
+	ja=音楽;
+	}
+
+[Movies]
+	{
+	ja=ムービー;
+	}
+
+[Left out]
+	{
+	ja=除外;
+	}
+
+[The Total Annihilation demo (1997)]
+	{
+	ja=Total Annihilation体験版（1997）;
+	}
+
+[The demo's unpacked data]
+	{
+	ja=体験版の展開済みデータ;
+	}
+
+[Not found]
+	{
+	ja=見つかりません;
+	}
+
+[not found]
+	{
+	ja=見つかりません;
+	}
+
+[1 file]
+	{
+	ja=1ファイル;
+	}
+
+[1 track]
+	{
+	ja=1曲;
+	}
+
+[optional]
+	{
+	ja=任意;
+	}
+
+[intro and endings · optional]
+	{
+	ja=イントロとエンディング · 任意;
+	}
+
+[intro and endings]
+	{
+	ja=イントロとエンディング;
+	}
+
+[its mod profile cannot be used]
+	{
+	ja=MODプロファイルを使用できません;
+	}
+
+[installer recognised by its size; checked when it is unpacked]
+	{
+	ja=インストーラーをサイズで識別、展開時に確認;
+	}
+
+[no longer used now that the full game is here]
+	{
+	ja=製品版があるため使用しません;
+	}
+
+[Recommended]
+	{
+	ja=推奨;
+	}
+
+[Recommended: shared games with players who have it may not match.]
+	{
+	ja=推奨：これを持つプレイヤーとの共有ゲームが一致しない場合があります。;
+	}
+
+[Shared games need the same files on every machine]
+	{
+	ja=共有ゲームにはすべてのマシンで同じファイルが必要です;
+	}
+
+[Windows program or shortcut]
+	{
+	ja=Windowsのプログラムまたはショートカット;
+	}
+
+[icon, manual or help file]
+	{
+	ja=アイコン、マニュアル、ヘルプファイル;
+	}
+
+[uninstaller]
+	{
+	ja=アンインストーラー;
+	}
+
+[system file]
+	{
+	ja=システムファイル;
+	}
+
+[symbolic link, never followed]
+	{
+	ja=シンボリックリンク（たどりません）;
+	}
+
+[a name the game cannot use]
+	{
+	ja=ゲームで使えない名前;
+	}
+
+[differs only in capital letters]
+	{
+	ja=大文字と小文字だけが異なる;
+	}
+
+[left out]
+	{
+	ja=除外;
+	}
+
+[Windows programs, shortcuts, icons, manuals and help files]
+	{
+	ja=Windowsのプログラム、ショートカット、アイコン、マニュアル、ヘルプファイル;
+	}
+
+[This folder does not hold a Total Annihilation installation]
+	{
+	ja=このフォルダーにはTotal Annihilationがインストールされていません;
+	}
+
+[It holds no Total Annihilation archives (.hpi, .ufo, .ccx or rev31.gp3 files) and no installer of the Total Annihilation demo (1997).]
+	{
+	ja=Total Annihilationのアーカイブ（.hpi、.ufo、.ccx、rev31.gp3ファイル）も、Total Annihilation体験版（1997）のインストーラーもありません。;
+	}
+
+[Choose the folder that holds totala1.hpi.]
+	{
+	ja=totala1.hpiがあるフォルダーを選択してください。;
+	}
+
+[These files cannot be played]
+	{
+	ja=これらのファイルではプレイできません;
+	}
+
+[The folder may be missing totala1.hpi.]
+	{
+	ja=フォルダーにtotala1.hpiがない可能性があります。;
+	}
+
+[This is not the demo's installer]
+	{
+	ja=これは体験版のインストーラーではありません;
+	}
+
+[This file]
+	{
+	ja=このファイル;
+	}
+
+[The copy stopped]
+	{
+	ja=コピーが停止しました;
+	}
+
+[The folder can no longer be read]
+	{
+	ja=フォルダーを読み取れなくなりました;
+	}
+
+[The folder has changed]
+	{
+	ja=フォルダーが変更されました;
+	}
+
+[Is this the right folder?]
+	{
+	ja=このフォルダーで正しいですか？;
+	}
+
+[No game folder yet]
+	{
+	ja=ゲームフォルダーがまだありません;
+	}
+
+[Found your files]
+	{
+	ja=ファイルが見つかりました;
+	}
+
+[Found game archives]
+	{
+	ja=ゲームアーカイブが見つかりました;
+	}
+
+[Archives are loose in Open Annihilation's folder. Gather them into Total Annihilation?]
+	{
+	ja=アーカイブがOpen Annihilationのフォルダーに散らばっています。Total Annihilationフォルダーにまとめますか？;
+	}
+
+[The file picker did not open]
+	{
+	ja=ファイル選択画面が開きませんでした;
+	}
+
+[The system's file picker could not be opened.]
+	{
+	ja=システムのファイル選択画面を開けませんでした。;
+	}
+
+[The copy could not start]
+	{
+	ja=コピーを開始できませんでした;
+	}
+
+[Open Annihilation could not write its own folder.]
+	{
+	ja=Open Annihilationが自分のフォルダーに書き込めませんでした。;
+	}
+
+[Stop copying?]
+	{
+	ja=コピーを中止しますか？;
+	}
+
+[Replace the game files?]
+	{
+	ja=ゲームファイルを置き換えますか？;
+	}
+
+[Nothing in this folder is left out.]
+	{
+	ja=このフォルダーに除外されるものはありません。;
+	}
+
+[This mod cannot be used]
+	{
+	ja=このMODは使用できません;
+	}
+
+[Its mod profile cannot be used:]
+	{
+	ja=MODプロファイルを使用できません：;
+	}
+
+[Remove the old folder?]
+	{
+	ja=古いフォルダーを削除しますか？;
+	}
+
+[Remove the demo's data?]
+	{
+	ja=体験版のデータを削除しますか？;
+	}
+
+[this part]
+	{
+	ja=この項目;
+	}
+
+[The game plays without it.]
+	{
+	ja=これがなくてもゲームはプレイできます。;
+	}
+
+[Saved games that use its units cannot be loaded without it, and shared games need the same files on every machine.]
+	{
+	ja=これがないと、そのユニットを使うセーブデータはロードできません。また、共有ゲームにはすべてのマシンで同じファイルが必要です。;
+	}
+
+[It is removed at the next start of Open Annihilation.]
+	{
+	ja=次回のOpen Annihilation起動時に削除されます。;
+	}
+
+[Remove all game files?]
+	{
+	ja=すべてのゲームファイルを削除しますか？;
+	}
+
+[Add files]
+	{
+	ja=ファイルを追加;
+	}
+
+[Expansions, extra maps and mods are added beside what is there; nothing already there is replaced.]
+	{
+	ja=拡張パック、追加マップ、MODは既存のファイルの横に追加されます。既存のものは置き換えません。;
+	}
+
+[From the next start]
+	{
+	ja=次回の起動から;
+	}
+
+[The changes are used from the next start of Open Annihilation.]
+	{
+	ja=変更は次回のOpen Annihilation起動時から使われます。;
+	}
+
+[The new game files are used from the next start of Open Annihilation. Adding or removing files waits until then.]
+	{
+	ja=新しいゲームファイルは次回のOpen Annihilation起動時から使われます。ファイルの追加や削除はそれまでできません。;
+	}
+
+[Copying stopped. Nothing was added.]
+	{
+	ja=コピーを中止しました。何も追加していません。;
+	}
+
+[Copying went on while Open Annihilation was away]
+	{
+	ja=Open Annihilationがバックグラウンドの間もコピーを続けました;
+	}
+
+[Copying paused while Open Annihilation was away and has started again]
+	{
+	ja=Open Annihilationがバックグラウンドの間コピーを一時停止し、再開しました;
+	}
+
+[1 file was added]
+	{
+	ja=1個のファイルを追加しました;
+	}
+
+[Mod: {name}]
+	{
+	ja=MOD：{name};
+	}
+
+[{n} files]
+	{
+	ja={n}ファイル;
+	}
+
+[{n} tracks]
+	{
+	ja={n}曲;
+	}
+
+[{tracks} · optional]
+	{
+	ja={tracks} · 任意;
+	}
+
+[{kinds} · 1 file]
+	{
+	ja={kinds} · 1ファイル;
+	}
+
+[{kinds} · {n} files]
+	{
+	ja={kinds} · {n}ファイル;
+	}
+
+[at least {size}]
+	{
+	ja={size}以上;
+	}
+
+[{problem} The folder may be missing totala1.hpi.]
+	{
+	ja={problem}フォルダーにtotala1.hpiがない可能性があります。;
+	}
+
+[{file} is not the release of the Total Annihilation demo (1997) that Open Annihilation recognises. Installers of the full game are Windows programs, which Open Annihilation never runs: install the game on a computer, then copy its folder.]
+	{
+	ja={file}は、Open Annihilationが認識できるTotal Annihilation体験版（1997）ではありません。製品版のインストーラーはWindowsのプログラムで、Open Annihilationが実行することはありません。パソコンにゲームをインストールしてから、そのフォルダーをコピーしてください。;
+	}
+
+[Not enough space on this {device}]
+	{
+	ja=この{device}の空き容量が足りません;
+	}
+
+[These files need {need} and this {device} has {free} free. {advice}, or turn off a part above, then tap Check again.]
+	{
+	ja=これらのファイルには{need}必要ですが、この{device}の空きは{free}です。{advice}か、上の項目のどれかをオフにしてから、「再確認」をタップしてください。;
+	}
+
+[This {device} ran out of space]
+	{
+	ja=この{device}の空き容量がなくなりました;
+	}
+
+[The copy stopped after {size}. What was copied is kept: free some space, then tap Continue.]
+	{
+	ja={size}をコピーしたところで停止しました。コピー済みの分は残ります。空き容量を確保してから「続行」をタップしてください。;
+	}
+
+[Open Annihilation could not read {file}. Connect it again and tap Continue. What was copied is kept.]
+	{
+	ja=Open Annihilationが{file}を読み取れませんでした。もう一度接続して「続行」をタップしてください。コピー済みの分は残ります。;
+	}
+
+[Open Annihilation could not read {file}: {why}. Connect it again and tap Continue. What was copied is kept.]
+	{
+	ja=Open Annihilationが{file}を読み取れませんでした：{why}。もう一度接続して「続行」をタップしてください。コピー済みの分は残ります。;
+	}
+
+[{file} is in {cloud} and could not be downloaded. Connect to the internet and tap Continue.]
+	{
+	ja={file}は{cloud}にあり、ダウンロードできませんでした。インターネットに接続して「続行」をタップしてください。;
+	}
+
+[{file} is in {cloud} and could not be downloaded: {why}. Connect to the internet and tap Continue.]
+	{
+	ja={file}は{cloud}にあり、ダウンロードできませんでした：{why}。インターネットに接続して「続行」をタップしてください。;
+	}
+
+[Open Annihilation may no longer read {location}. Choose the folder again to go on; what was copied is kept.]
+	{
+	ja=Open Annihilationは{location}を読み取れなくなった可能性があります。続けるにはフォルダーを選び直してください。コピー済みの分は残ります。;
+	}
+
+[Some files in {location} changed since the copy began. Files that match are kept; the rest are copied again.]
+	{
+	ja=コピーの開始後に{location}内の一部のファイルが変更されました。一致するファイルは残し、残りはもう一度コピーします。;
+	}
+
+[This folder holds {size}, far more than a Total Annihilation installation (about 1.1 GB with everything).]
+	{
+	ja=このフォルダーは{size}あり、Total Annihilationのインストール（すべて含めて約1.1 GB）よりはるかに大きいです。;
+	}
+
+[There is no Total Annihilation folder on this {device} yet. {steps} Name it Total Annihilation. Wait until the copy has finished, then tap Check again.]
+	{
+	ja=この{device}にはまだTotal Annihilationフォルダーがありません。{steps}名前はTotal Annihilationにしてください。コピーが終わるまで待ってから「再確認」をタップしてください。;
+	}
+
+[Found your files in {folder}. Use that folder?]
+	{
+	ja={folder}にファイルが見つかりました。このフォルダーを使いますか？;
+	}
+
+[The system's file picker could not be opened: {error}.]
+	{
+	ja=システムのファイル選択画面を開けませんでした：{error}。;
+	}
+
+[Open Annihilation could not write its own folder: {error}.]
+	{
+	ja=Open Annihilationが自分のフォルダーに書き込めませんでした：{error}。;
+	}
+
+[{done} of {total} is copied. Keep it, and choosing the same folder later continues from here.]
+	{
+	ja={total}のうち{done}をコピー済みです。残しておけば、後で同じフォルダーを選んだときにここから続けられます。;
+	}
+
+[This replaces the game files on this {device} ({size}) with the folder you chose. The current folder is kept as Total Annihilation (old) until you remove it. Saved games and settings stay.]
+	{
+	ja=この{device}のゲームファイル（{size}）を、選択したフォルダーで置き換えます。現在のフォルダーは、削除するまでTotal Annihilation (old)として残ります。セーブデータと設定はそのままです。;
+	}
+
+[{kinds} ({size})]
+	{
+	ja={kinds}（{size}）;
+	}
+
+[Total Annihilation (old) is the folder that was there before ({size}). The game does not use it; removing it frees the space.]
+	{
+	ja=Total Annihilation (old)は以前あったフォルダー（{size}）です。ゲームでは使用しません。削除すると空き容量が増えます。;
+	}
+
+[The demo's unpacked data ({size}) is no longer used.]
+	{
+	ja=体験版の展開済みデータ（{size}）はもう使用しません。;
+	}
+
+[Remove {name} ({size})?]
+	{
+	ja={name}（{size}）を削除しますか？;
+	}
+
+[Remove every game file from this {device} ({size})? Saved games and settings stay. The game cannot start until you add the files again.]
+	{
+	ja=この{device}からすべてのゲームファイル（{size}）を削除しますか？セーブデータと設定はそのままです。ファイルを追加し直すまで、ゲームを起動できません。;
+	}
+
+[Copying from {location} stopped at {done} of {total}. Choose the same folder to continue; what was copied is kept.]
+	{
+	ja={location}からのコピーは{total}のうち{done}で停止しました。続けるには同じフォルダーを選んでください。コピー済みの分は残ります。;
+	}
+
+[Copying from {location} stopped at {done}. Choose the same folder to continue; what was copied is kept.]
+	{
+	ja={location}からのコピーは{done}で停止しました。続けるには同じフォルダーを選んでください。コピー済みの分は残ります。;
+	}
+
+[The Total Annihilation folder on this {device} cannot be played.]
+	{
+	ja=この{device}のTotal Annihilationフォルダーではプレイできません。;
+	}
+
+[The Total Annihilation folder on this {device} cannot be played: {problem}]
+	{
+	ja=この{device}のTotal Annihilationフォルダーではプレイできません：{problem};
+	}
+
+[{n} files were added]
+	{
+	ja={n}個のファイルを追加しました;
+	}
+
+[1 file was added from {source}]
+	{
+	ja={source}から1個のファイルを追加しました;
+	}
+
+[{n} files were added from {source}]
+	{
+	ja={source}から{n}個のファイルを追加しました;
+	}
+
+[{added}; {name} is there already and was kept.]
+	{
+	ja={added}。{name}はすでにあるため、そのまま残しました。;
+	}
+
+[{n} more]
+	{
+	ja=ほか{n}件;
+	}
+
+[{added}; {names} are there already and were kept.]
+	{
+	ja={added}。{names}はすでにあるため、そのまま残しました。;
+	}
+
+[{added}.]
+	{
+	ja={added}。;
+	}
+
+[{added} The new files are used from the next start of Open Annihilation.]
+	{
+	ja={added}新しいファイルは次回のOpen Annihilation起動時から使われます。;
+	}
+
+[{changes} Waiting to be removed: {names}.]
+	{
+	ja={changes}削除待ち：{names}。;
+	}
+
+[Choose the game folder]
+	{
+	ja=ゲームフォルダーを選択;
+	}
+
+[CHOOSE FOLDER]
+	{
+	ja=フォルダーを選択;
+	}
+
+[Copy it yourself]
+	{
+	ja=自分でコピー;
+	}
+
+[I HAVE COPIED IT]
+	{
+	ja=コピーしました;
+	}
+
+[Play the 1997 demo]
+	{
+	ja=1997年の体験版をプレイ;
+	}
+
+[CHOOSE INSTALLER]
+	{
+	ja=インストーラーを選択;
+	}
+
+[WHY]
+	{
+	ja=理由;
+	}
+
+[SHOW]
+	{
+	ja=表示;
+	}
+
+[REMOVE]
+	{
+	ja=削除;
+	}
+
+[Add your Total Annihilation files]
+	{
+	ja=Total Annihilationのファイルを追加;
+	}
+
+[You need the folder of an installed copy of Total Annihilation, the one that holds totala1.hpi: about 1.1 GB with both expansions and the music. Installers of the full game are Windows programs and cannot be used here; install the game on a computer and bring its folder.]
+	{
+	ja=インストール済みのTotal Annihilationのフォルダー、つまりtotala1.hpiがあるフォルダーが必要です。両方の拡張パックと音楽を含めて約1.1 GBです。製品版のインストーラーはWindowsのプログラムなので、ここでは使えません。パソコンにゲームをインストールして、そのフォルダーを持ってきてください。;
+	}
+
+[OA settings › Game files manages them later.]
+	{
+	ja=後でOAの設定 › ゲームファイルで管理できます。;
+	}
+
+[OA settings › Game files adds an expansion or removes the files later.]
+	{
+	ja=後でOAの設定 › ゲームファイルで、拡張パックの追加やファイルの削除ができます。;
+	}
+
+[Looking at the file]
+	{
+	ja=ファイルを確認中;
+	}
+
+[Looking at the folder]
+	{
+	ja=フォルダーを確認中;
+	}
+
+[Reading names and sizes only: nothing is copied or downloaded yet.]
+	{
+	ja=名前とサイズだけを読み取っています。まだ何もコピーもダウンロードもしていません。;
+	}
+
+[A game folder inside]
+	{
+	ja=中にゲームフォルダーがあります;
+	}
+
+[a folder]
+	{
+	ja=フォルダー;
+	}
+
+[This folder holds no game archives, but folders inside it do. Choose one.]
+	{
+	ja=このフォルダーにゲームアーカイブはありませんが、中のフォルダーにはあります。1つ選んでください。;
+	}
+
+[USE THAT FOLDER]
+	{
+	ja=このフォルダーを使う;
+	}
+
+[CHOOSE ANOTHER FOLDER]
+	{
+	ja=別のフォルダーを選択;
+	}
+
+[This is already the game folder.]
+	{
+	ja=これはすでにゲームフォルダーです。;
+	}
+
+[CHECK IT]
+	{
+	ja=確認;
+	}
+
+[Ready to copy]
+	{
+	ja=コピーの準備完了;
+	}
+
+[Checked: the game can start from these files.]
+	{
+	ja=確認済み：これらのファイルでゲームを起動できます。;
+	}
+
+[Checked fully once copied.]
+	{
+	ja=コピー後に完全に確認します。;
+	}
+
+[CHOOSE ANOTHER FILE]
+	{
+	ja=別のファイルを選択;
+	}
+
+[CHECK AGAIN]
+	{
+	ja=再確認;
+	}
+
+[REPLACE GAME FILES]
+	{
+	ja=ゲームファイルを置き換え;
+	}
+
+[COPY]
+	{
+	ja=コピー;
+	}
+
+[Copying]
+	{
+	ja=コピー中;
+	}
+
+[STOP]
+	{
+	ja=中止;
+	}
+
+[Keep Open Annihilation open until the copy ends. If you leave it, the copy goes on for a short while, then pauses and continues when you come back.]
+	{
+	ja=コピーが終わるまでOpen Annihilationを開いたままにしてください。ほかのアプリに切り替えると、コピーはしばらく続いた後に一時停止し、戻ると再開します。;
+	}
+
+[Checking]
+	{
+	ja=確認中;
+	}
+
+[Checking the copied files with the game's own check…]
+	{
+	ja=ゲーム自身の確認方法でコピーしたファイルを確認しています…;
+	}
+
+[Ready to play]
+	{
+	ja=プレイの準備完了;
+	}
+
+[REMOVE OLD FOLDER]
+	{
+	ja=古いフォルダーを削除;
+	}
+
+[DONE]
+	{
+	ja=完了;
+	}
+
+[PLAY]
+	{
+	ja=プレイ;
+	}
+
+[ADD FILES…]
+	{
+	ja=ファイルを追加…;
+	}
+
+[REPLACE THE GAME FILES…]
+	{
+	ja=ゲームファイルを置き換え…;
+	}
+
+[REMOVE ALL GAME FILES…]
+	{
+	ja=すべてのゲームファイルを削除…;
+	}
+
+[Pick the folder that holds totala1.hpi: {places}. It is checked, then copied in.]
+	{
+	ja=totala1.hpiがあるフォルダーを選んでください：{places}。確認してからコピーします。;
+	}
+
+[The folder that holds totala1.hpi: {places}.]
+	{
+	ja=totala1.hpiがあるフォルダー：{places}。;
+	}
+
+[{steps} Name it Total Annihilation.]
+	{
+	ja={steps}名前はTotal Annihilationにしてください。;
+	}
+
+[{steps}, named Total Annihilation.]
+	{
+	ja={steps}（名前はTotal Annihilation）。;
+	}
+
+[Choose the installer of the Total Annihilation demo (1997). The game recognises it, never runs it, and unpacks its {size} of game data.]
+	{
+	ja=Total Annihilation体験版（1997）のインストーラーを選んでください。ゲームはこれを認識しますが実行はせず、{size}のゲームデータを展開します。;
+	}
+
+[The demo's installer: recognised, never run, {size} unpacked.]
+	{
+	ja=体験版のインストーラー：認識のみで実行せず、{size}を展開。;
+	}
+
+[Copied onto this {device} once from your own copy. Nothing is downloaded.]
+	{
+	ja=自分のコピーからこの{device}へ一度だけコピーします。何もダウンロードしません。;
+	}
+
+[Open Annihilation plays the game from your own copy, as it does on a computer. It comes with no game data and downloads nothing: the files are copied onto this {device} once and stay here.]
+	{
+	ja=Open Annihilationは、パソコンと同じように自分のゲームのコピーでゲームをプレイします。ゲームデータは同梱しておらず、何もダウンロードしません。ファイルはこの{device}に一度だけコピーされ、ここに保存されます。;
+	}
+
+[{size} free on this {device}.]
+	{
+	ja=この{device}の空き：{size}。;
+	}
+
+[Looking at {location}…]
+	{
+	ja={location}を確認中…;
+	}
+
+[1 file, {size} so far]
+	{
+	ja=1ファイル、現在{size};
+	}
+
+[{n} files, {size} so far]
+	{
+	ja={n}ファイル、現在{size};
+	}
+
+[You chose: {location}]
+	{
+	ja=選択した場所：{location};
+	}
+
+[This folder holds no game archives, but {folder} does.]
+	{
+	ja=このフォルダーにゲームアーカイブはありませんが、{folder}にはあります。;
+	}
+
+[{warning} Turning off {parts} would make them fit.]
+	{
+	ja={warning}{parts}をオフにすれば収まります。;
+	}
+
+[From {location}]
+	{
+	ja={location}から;
+	}
+
+[{size} is in {cloud} only and is downloaded while copying.]
+	{
+	ja={size}は{cloud}にのみあり、コピー中にダウンロードされます。;
+	}
+
+[Copies at least {size}.]
+	{
+	ja={size}以上をコピーします。;
+	}
+
+[Copies {size}.]
+	{
+	ja={size}をコピーします。;
+	}
+
+[Downloading {file} from {cloud}…]
+	{
+	ja={cloud}から{file}をダウンロード中…;
+	}
+
+[Unpacking the demo's game data ({size})…]
+	{
+	ja=体験版のゲームデータ（{size}）を展開中…;
+	}
+
+[Uses {size} on this {device} · {free} free.]
+	{
+	ja=この{device}で{size}を使用 · 空き{free}。;
+	}
+
+[Uses {size} on this {device}.]
+	{
+	ja=この{device}で{size}を使用。;
+	}
+
+[These files are not in this {device}'s backups. Keep your original copy.]
+	{
+	ja=これらのファイルはこの{device}のバックアップに含まれません。元のコピーは保管しておいてください。;
+	}
+
+[{file} could not be opened, so the game plays without it: it may be damaged. Copy it again from the original.]
+	{
+	ja={file}を開けなかったため、これなしでゲームをプレイします。破損している可能性があります。元のコピーからもう一度コピーしてください。;
+	}
+
+[The folder that was there before is kept as Total Annihilation (old), {size}.]
+	{
+	ja=以前あったフォルダーはTotal Annihilation (old)として残しています（{size}）。;
+	}
+
+[{size} on this {device} · {free} free]
+	{
+	ja=この{device}で{size} · 空き{free};
+	}
+
+[{size} on this {device}]
+	{
+	ja=この{device}で{size};
+	}
+
+[working out the time left]
+	{
+	ja=残り時間を計算中;
+	}
+
+[a few seconds left]
+	{
+	ja=残り数秒;
+	}
+
+[about a minute left]
+	{
+	ja=残り約1分;
+	}
+
+[about an hour left]
+	{
+	ja=残り約1時間;
+	}
+
+[The Total Annihilation demo (1997).]
+	{
+	ja=Total Annihilation体験版（1997）。;
+	}
+
+[extra units and maps]
+	{
+	ja=追加ユニットとマップ;
+	}
+
+[music]
+	{
+	ja=音楽;
+	}
+
+[movies]
+	{
+	ja=ムービー;
+	}
+
+[mods]
+	{
+	ja=MOD;
+	}
+
+[1 mod]
+	{
+	ja=1個のMOD;
+	}
+
+[No game files]
+	{
+	ja=ゲームファイルなし;
+	}
+
+[{a}, {b}]
+	{
+	ja={a}、{b};
+	}
+
+[{n} byte]
+	{
+	ja={n}バイト;
+	}
+
+[{n} bytes]
+	{
+	ja={n}バイト;
+	}
+
+[about {n} minutes left]
+	{
+	ja=残り約{n}分;
+	}
+
+[about {n} hours left]
+	{
+	ja=残り約{n}時間;
+	}
+
+[{game} with {expansions}, {others}.]
+	{
+	ja={game}（{expansions}、{others}を含む）。;
+	}
+
+[{game} with {list}.]
+	{
+	ja={game}（{list}を含む）。;
+	}
+
+[{game}.]
+	{
+	ja={game}。;
+	}
+
+[{n} mods]
+	{
+	ja={n}個のMOD;
+	}
+
+[ADD THE MISSING FILES]
+	{
+	ja=不足しているファイルを追加;
+	}
+
+[BACK]
+	{
+	ja=戻る;
+	}
+
+[CANCEL THE REPLACEMENT]
+	{
+	ja=置き換えを取り消す;
+	}
+
+[CHANGE WHAT IS COPIED]
+	{
+	ja=コピーする内容を変更;
+	}
+
+[CHOOSE A FOLDER]
+	{
+	ja=フォルダーを選択;
+	}
+
+[CHOOSE ARCHIVES]
+	{
+	ja=アーカイブを選択;
+	}
+
+[CHOOSE THE DEMO'S INSTALLER]
+	{
+	ja=体験版のインストーラーを選択;
+	}
+
+[CHOOSE THE FOLDER AGAIN]
+	{
+	ja=フォルダーを選び直す;
+	}
+
+[CONTINUE]
+	{
+	ja=続行;
+	}
+
+[COPY ANYWAY]
+	{
+	ja=そのままコピー;
+	}
+
+[DISCARD]
+	{
+	ja=破棄;
+	}
+
+[DISCARD WHAT WAS COPIED]
+	{
+	ja=コピー済みの分を破棄;
+	}
+
+[GATHER THEM]
+	{
+	ja=まとめる;
+	}
+
+[KEEP]
+	{
+	ja=残す;
+	}
+
+[KEEP COPYING]
+	{
+	ja=コピーを続ける;
+	}
+
+[KEEP WHAT WAS COPIED]
+	{
+	ja=コピー済みの分を残す;
+	}
+
+[REMOVE ALL]
+	{
+	ja=すべて削除;
+	}
+
+[START AGAIN]
+	{
+	ja=やり直す;
+	}
+
+[TRY AGAIN]
+	{
+	ja=再試行;
+	}
+
+[USE IT]
+	{
+	ja=使用する;
+	}
+
+[Copy your Total Annihilation folder into Open Annihilation's own folder with your file manager.]
+	{
+	ja=ファイルマネージャーで、Total AnnihilationフォルダーをOpen Annihilation自身のフォルダーにコピーしてください。;
+	}
+
+[Into Open Annihilation's own folder]
+	{
+	ja=Open Annihilation自身のフォルダーへ;
+	}
+
+[on this device or anywhere the system's file picker reaches]
+	{
+	ja=このデバイス上、またはシステムのファイル選択画面で開ける場所;
+	}
+
+[anywhere the file picker reaches]
+	{
+	ja=ファイル選択画面で開ける場所;
+	}
+
+[Free up space on this device]
+	{
+	ja=このデバイスの空き容量を増やす;
+	}
+
+[In your file manager: Open Annihilation's own folder › Total Annihilation]
+	{
+	ja=ファイルマネージャーで：Open Annihilation自身のフォルダー › Total Annihilation;
+	}
+
+[the cloud]
+	{
+	ja=クラウド;
+	}
+
+[{a} and {b}]
+	{
+	ja={a}と{b};
+	}
+
+[{a} or {b}]
+	{
+	ja={a}または{b};
+	}
+
+[No folders here.]
+	{
+	ja=ここにはフォルダーがありません。;
+	}
+
+[Settings were not saved.]
+	{
+	ja=設定を保存できませんでした。;
+	}
+
+[That folder cannot be found.]
+	{
+	ja=そのフォルダーが見つかりません。;
+	}
+
+[That folder's oamod.yaml cannot be read.]
+	{
+	ja=そのフォルダーのoamod.yamlを読み取れません。;
+	}
+
+[That folder cannot be played; the log says why.]
+	{
+	ja=そのフォルダーではプレイできません。理由はログを参照してください。;
+	}
+
+[Its oamod.yaml cannot be played; the log says why.]
+	{
+	ja=このoamod.yamlは使用できません。理由はログを参照してください。;
+	}
+
+[The graphics card could not be used, so the processor draws the game. You can try it again under Graphics in the OA settings.]
+	{
+	ja=グラフィックカードを使用できなかったため、プロセッサーがゲームを描画します。OAの設定の「グラフィック」で再度試せます。;
+	}
+
+[A graphics driver failed, so the game now uses another one. You can try it again under Graphics in the OA settings.]
+	{
+	ja=グラフィックドライバーでエラーが発生したため、別のドライバーを使用しています。OAの設定の「グラフィック」で再度試せます。;
+	}
+
+[The graphics card could not draw the battlefield, so it only scales it now. You can try Full again under Graphics in the OA settings.]
+	{
+	ja=グラフィックカードで戦場を描画できなかったため、現在は拡大縮小のみに使用しています。OAの設定の「グラフィック」でフルを再度試せます。;
+	}
+
+[This game includes no skirmish maps, so skirmish is not available.]
+	{
+	ja=このゲームにはスカーミッシュ用のマップがないため、スカーミッシュはプレイできません。;
+	}
+
+[This game includes no multiplayer maps, so multiplayer is not available.]
+	{
+	ja=このゲームにはマルチプレイ用のマップがないため、マルチプレイはできません。;
+	}
+
+[Campaign complete. This game includes no further missions.]
+	{
+	ja=キャンペーン完了。このゲームにはこれ以上のミッションはありません。;
+	}
+
+[{used} · {free} free on this {device}]
+	{
+	ja={used} · この{device}の空き{free};
+	}
+
+[{used} on this {device}]
+	{
+	ja=この{device}で{used};
+	}
+
+[SAVED GAMES MOVED]
+	{
+	ja=セーブデータを移動しました;
+	}
+
+[GAME FOLDER FOUND]
+	{
+	ja=ゲームフォルダーが見つかりました;
+	}
+
+[MOD FILES MISSING]
+	{
+	ja=MODのファイルが不足しています;
+	}
+
+[OPEN MOD FOLDER]
+	{
+	ja=MODフォルダーを開く;
+	}
+
+[New saved games go in:]
+	{
+	ja=新しいセーブデータの保存先：;
+	}
+
+[Screenshots, films and mods now go in the same Open Annihilation folder.]
+	{
+	ja=スクリーンショット、録画、MODも同じOpen Annihilationフォルダーに保存されるようになりました。;
+	}
+
+[Open Annihilation remembers it for later starts; start it with --choose-game-dir to choose another folder.]
+	{
+	ja=Open Annihilationは次回以降の起動のためにこれを記憶します。別のフォルダーを選ぶには、--choose-game-dirを付けて起動してください。;
+	}
+
+[None of this mod's units were found.]
+	{
+	ja=このMODのユニットが1つも見つかりません。;
+	}
+
+[Its games can't start until the mod's files are added to its folder:]
+	{
+	ja=MODのファイルをフォルダーに追加するまで、ゲームを開始できません：;
+	}
+
+[Its games still start. Add the missing files to its folder to show them:]
+	{
+	ja=ゲームは開始できます。表示するには、不足しているファイルをフォルダーに追加してください：;
+	}
+
+[Income Multipliers]
+	{
+	ja=収入倍率;
+	}
+
+[Difficulty Names]
+	{
+	ja=難易度の名前;
+	}
+
+[Commander Runs Factories]
+	{
+	ja=コマンダーが工場を運用;
+	}
+
+[Factory Tick Filter]
+	{
+	ja=工場ティックフィルター;
+	}
+
+[Commander Builder Limit]
+	{
+	ja=コマンダーの建設ユニット上限;
+	}
+
+[Commander Keeps Orders When Hit]
+	{
+	ja=被弾時もコマンダーが命令を維持;
+	}
+
+[Attack Wave Size]
+	{
+	ja=攻撃部隊の規模;
+	}
+
+[Patrol Group Size]
+	{
+	ja=巡回グループの規模;
+	}
+
+[Patrol Edge Fallback]
+	{
+	ja=巡回のマップ端フォールバック;
+	}
+
+[Squad Assignment]
+	{
+	ja=分隊の割り当て;
+	}
+
+[Ignore Submerged Targets]
+	{
+	ja=水中の目標を無視;
+	}
+
+[Selective Weapon Use]
+	{
+	ja=武器の選択的使用;
+	}
+
+[Fire While Building]
+	{
+	ja=建設中も射撃;
+	}
+
+[Repair Finish Check]
+	{
+	ja=修理完了の確認;
+	}
+
+[Reclaim Cursor on Any Unit]
+	{
+	ja=どのユニットにも回収カーソル;
+	}
+
+[Resurrectors Reclaim Wrecks]
+	{
+	ja=蘇生ユニットが残骸を回収;
+	}
+
+[Build Site Kickout]
+	{
+	ja=建設地点からの退避;
+	}
+
+[Builder Patrol and Guard Options]
+	{
+	ja=建設ユニットの巡回と護衛のオプション;
+	}
+
+[No Repair Retreat]
+	{
+	ja=修理のための後退なし;
+	}
+
+[Guard Respects Hold Position]
+	{
+	ja=護衛が現在地固守に従う;
+	}
+
+[Gunships Hover to Strafe]
+	{
+	ja=ガンシップがホバリングして掃射;
+	}
+
+[Retarget Out of Range]
+	{
+	ja=射程外で目標を変更;
+	}
+
+[High-Arc Ballistics]
+	{
+	ja=高弾道;
+	}
+
+[Timed Shell Detonation]
+	{
+	ja=砲弾の時限起爆;
+	}
+
+[Vertical Launch Before Turret]
+	{
+	ja=砲塔旋回前の垂直発射;
+	}
+
+[Repair Rate]
+	{
+	ja=修理速度;
+	}
+
+[Self-Repair by Heal Time]
+	{
+	ja=回復時間による自己修復;
+	}
+
+[Veterancy Model]
+	{
+	ja=ベテランの仕組み;
+	}
+
+[Deterministic Wind]
+	{
+	ja=決定論的な風;
+	}
+
+[Statistics Exclude Shared Income]
+	{
+	ja=共有収入を統計から除外;
+	}
+
+[Allied Line of Sight]
+	{
+	ja=同盟の視界;
+	}
+
+[Ignore Allied Jammers]
+	{
+	ja=同盟の妨害装置を無視;
+	}
+
+[Team Start Positions]
+	{
+	ja=チームの開始位置;
+	}
+
+[Map Scripted Units]
+	{
+	ja=マップのスクリプトユニット;
+	}
+
+[Start with One Human]
+	{
+	ja=人間1人で開始;
+	}
+
+[Several Local AI Players]
+	{
+	ja=複数のローカルAIプレイヤー;
+	}
+
+[AI Player Names]
+	{
+	ja=AIプレイヤーの名前;
+	}
+
+[Commander Warp]
+	{
+	ja=コマンダーのワープ;
+	}
+
+[Prebuilt Base]
+	{
+	ja=建設済みの基地;
+	}
+
+[Team Number Alliances]
+	{
+	ja=チーム番号による同盟;
+	}
+
+[Keep Allied Victory]
+	{
+	ja=同盟勝利を維持;
+	}
+
+[Alliance Menu Everywhere]
+	{
+	ja=どこでも同盟メニュー;
+	}
+
+[Structure Gift Rate Limit]
+	{
+	ja=建物譲渡の頻度制限;
+	}
+
+[Take Waits for Commander Deaths]
+	{
+	ja=引き継ぎはコマンダーの死亡を待つ;
+	}
+
+[Take and Give Commands]
+	{
+	ja=引き継ぎと譲渡のコマンド;
+	}
+
+[Unit Slot Reuse Delay]
+	{
+	ja=ユニット枠の再利用遅延;
+	}
+
+[Ignore Unit 0 Deaths]
+	{
+	ja=ユニット0の死亡を無視;
+	}
+
+[Skip Empty Yard Maps]
+	{
+	ja=空の占有マップを省略;
+	}
+
+[Water State Rules]
+	{
+	ja=水上状態のルール;
+	}
+
+[Placement by Builder]
+	{
+	ja=建設ユニットによる配置;
+	}
+
+[Mobile Unit Yard Maps]
+	{
+	ja=移動ユニットの占有マップ;
+	}
+
+[Build Rotation]
+	{
+	ja=建物の回転;
+	}
+
+[Cloak After Build]
+	{
+	ja=建設後にクローク;
+	}
+
+[AI and Control Cheats]
+	{
+	ja=AIと操作のチート;
+	}
+
+[LOS Type Cheat]
+	{
+	ja=視界タイプのチート;
+	}
+
+[ATM Amount]
+	{
+	ja=ATMの量;
+	}
+
+[Key Remaps]
+	{
+	ja=キーの割り当て変更;
+	}
+
+[Game Speed Range]
+	{
+	ja=ゲーム速度の範囲;
+	}
+
+[Chat Extension Channel]
+	{
+	ja=チャット拡張チャンネル;
+	}
+
+[Version Check]
+	{
+	ja=バージョン確認;
+	}
+
+[Vote to Remove Players]
+	{
+	ja=投票によるプレイヤー除外;
+	}
+
+[Lag Guard]
+	{
+	ja=ラグ対策;
+	}
+
+[Commander Start Sync]
+	{
+	ja=コマンダー開始同期;
+	}
+
+[Keep Remote Player Colours]
+	{
+	ja=リモートプレイヤーの色を維持;
+	}
+
+[Clear Session Description]
+	{
+	ja=セッション説明の消去;
+	}
+
+[Host Stays as Watcher]
+	{
+	ja=ホストが観戦者として残る;
+	}
+
+[Recorder Session Commands]
+	{
+	ja=レコーダーのセッションコマンド;
+	}
+
+[Game Recorder]
+	{
+	ja=ゲームレコーダー;
+	}
+
+[Ten-Player Replay]
+	{
+	ja=10人リプレイ;
+	}
+
+[Megamap]
+	{
+	ja=メガマップ;
+	}
+
+[Whiteboard]
+	{
+	ja=ホワイトボード;
+	}
+
+[Resource Panel]
+	{
+	ja=資源パネル;
+	}
+
+[Camera Sharing]
+	{
+	ja=カメラ共有;
+	}
+
+[Allied Unit Display]
+	{
+	ja=同盟ユニットの表示;
+	}
+
+[Selection Shortcuts]
+	{
+	ja=選択ショートカット;
+	}
+
+[Build Tools]
+	{
+	ja=建設ツール;
+	}
+
+[Click Snap]
+	{
+	ja=クリックスナップ;
+	}
+
+[Build Preview]
+	{
+	ja=建設プレビュー;
+	}
+
+[Options Dialog]
+	{
+	ja=オプション画面;
+	}
+
+[Share Dialog and Lobby Buttons]
+	{
+	ja=共有画面とロビーのボタン;
+	}
+
+[Text Rendering]
+	{
+	ja=テキスト描画;
+	}
+
+[Veterancy Label]
+	{
+	ja=ベテラン表示;
+	}
+
+[Map Features Always Drawn]
+	{
+	ja=マップの地形物を常に描画;
+	}
+
+[Unit Voice Fixes]
+	{
+	ja=ユニット音声の修正;
+	}
+
+[Effects Tweaks]
+	{
+	ja=エフェクトの調整;
+	}
+
+[Explosion Flash]
+	{
+	ja=爆発の閃光;
+	}
+
+[Interface Fixes]
+	{
+	ja=インターフェースの修正;
+	}
+
+[End-of-Game Statistics]
+	{
+	ja=ゲーム終了時の統計;
+	}
+
+[Audio]
+	{
+	ja=オーディオ;
+	}
+
+[Display Modes]
+	{
+	ja=表示モード;
+	}
+
+[External Exports]
+	{
+	ja=外部エクスポート;
+	}
+
+[AI]
+	{
+	ja=AI;
+	}
+
+[Aircraft]
+	{
+	ja=航空機;
+	}
+
+[Console]
+	{
+	ja=コンソール;
+	}
+
+[Economy]
+	{
+	ja=経済;
+	}
+
+[Vision and Radar]
+	{
+	ja=視界とレーダー;
+	}
+
+[Network]
+	{
+	ja=ネットワーク;
+	}
+
+[Orders]
+	{
+	ja=命令;
+	}
+
+[Recorder]
+	{
+	ja=レコーダー;
+	}
+
+[Repair]
+	{
+	ja=修理;
+	}
+
+[Game Setup]
+	{
+	ja=ゲーム設定;
+	}
+
+[Sharing]
+	{
+	ja=共有;
+	}
+
+[Teams]
+	{
+	ja=チーム;
+	}
+
+[Interface]
+	{
+	ja=インターフェース;
+	}
+
+[Units]
+	{
+	ja=ユニット;
+	}
+
+[Veterancy]
+	{
+	ja=ベテラン;
+	}
+
+[Weapons]
+	{
+	ja=武器;
+	}
+
+[MOVE]
+	{
+	ja=移動;
+	}
+
+[ATTACK]
+	{
+	ja=攻撃;
+	}
+
+[PATROL]
+	{
+	ja=巡回;
+	}
+
+[DEFEND]
+	{
+	ja=護衛;
+	}
+
+[BLAST]
+	{
+	ja=Dガン;
+	}
+
+[RECLAIM]
+	{
+	ja=回収;
+	}
+
+[REPAIR]
+	{
+	ja=修理;
+	}
+
+[CAPTURE]
+	{
+	ja=捕獲;
+	}
+
+[LOAD]
+	{
+	ja=搭載;
+	}
+
+[UNLOAD]
+	{
+	ja=降車;
+	}
+
+[GUARD]
+	{
+	ja=護衛;
+	}
+
+[D-GUN]
+	{
+	ja=Dガン;
+	}
+
+[INFO]
+	{
+	ja=情報;
+	}
+
+[TYPE]
+	{
+	ja=同種;
+	}
+
+[MOVE: the selection moves to the held point.]
+	{
+	ja=移動：選択中のユニットが長押しした地点へ移動します。;
+	}
+
+[PATROL: the selection patrols to the held point.]
+	{
+	ja=巡回：選択中のユニットが長押しした地点まで巡回します。;
+	}
+
+[ATTACK: the selection attacks the unit or ground at the held point.]
+	{
+	ja=攻撃：選択中のユニットが長押しした地点のユニットまたは地面を攻撃します。;
+	}
+
+[D-GUN: the commander fires the D-gun at the held point.]
+	{
+	ja=Dガン：コマンダーが長押しした地点にDガンを撃ちます。;
+	}
+
+[LOAD: the transport loads the unit at the held point.]
+	{
+	ja=搭載：輸送ユニットが長押しした地点のユニットを搭載します。;
+	}
+
+[CAPTURE: the selection captures the unit at the held point.]
+	{
+	ja=捕獲：選択中のユニットが長押しした地点のユニットを捕獲します。;
+	}
+
+[STOP: the selection stops at once.]
+	{
+	ja=停止：選択中のユニットがただちに停止します。;
+	}
+
+[INFO: shows the information of the unit at the held point.]
+	{
+	ja=情報：長押しした地点のユニットの情報を表示します。;
+	}
+
+[TYPE: selects every unit of the held unit's type.]
+	{
+	ja=同種：長押ししたユニットと同じ種類のユニットをすべて選択します。;
+	}
+
+[RECLAIM: the selection reclaims the wreck or unit at the held point.]
+	{
+	ja=回収：選択中のユニットが長押しした地点の残骸またはユニットを回収します。;
+	}
+
+[REPAIR: the selection repairs or helps build the unit at the held point.]
+	{
+	ja=修理：選択中のユニットが長押しした地点のユニットを修理するか、建設を手伝います。;
+	}
+
+[UNLOAD: the transport unloads at the held point.]
+	{
+	ja=降車：輸送ユニットが長押しした地点でユニットを降ろします。;
+	}
+
+[GUARD: the selection guards the unit at the held point.]
+	{
+	ja=護衛：選択中のユニットが長押しした地点のユニットを護衛します。;
+	}
+
+[Fire orders: tap to step through Hold fire, Return fire and Fire at will.]
+	{
+	ja=射撃命令：タップするたびに射撃中止、反撃、自由射撃と切り替わります。;
+	}
+
+[Move orders: tap to step through Hold position, Maneuver and Roam.]
+	{
+	ja=移動命令：タップするたびに現在地を固守、機動、自由移動と切り替わります。;
+	}
+
+[On/Off: tap to switch the selected units on or off.]
+	{
+	ja=オン/オフ：タップで選択中のユニットをオンまたはオフにします。;
+	}
+
+[CLOAK]
+	{
+	ja=クローク;
+	}
+
+[Cloak: tap to turn cloaking on or off; a cloaked unit uses energy.]
+	{
+	ja=クローク：タップでクロークをオンまたはオフにします。クローク中のユニットはエネルギーを消費します。;
+	}
+
+[ORDERS]
+	{
+	ja=命令;
+	}
+
+[ORDERS: shows the orders page.]
+	{
+	ja=命令：命令ページを表示します。;
+	}
+
+[BUILD]
+	{
+	ja=建設;
+	}
+
+[BUILD: shows the build pages.]
+	{
+	ja=建設：建設ページを表示します。;
+	}
+
+[PREV]
+	{
+	ja=前へ;
+	}
+
+[PREV: shows the build page before this one.]
+	{
+	ja=前へ：前の建設ページを表示します。;
+	}
+
+[NEXT PAGE]
+	{
+	ja=次のページ;
+	}
+
+[NEXT: shows the build page after this one.]
+	{
+	ja=次へ：次の建設ページを表示します。;
+	}
+
+[MOVE: tap to arm it, then tap where the selection goes.]
+	{
+	ja=移動：タップで準備し、選択中のユニットの移動先をタップします。;
+	}
+
+[ATTACK: tap to arm it, then tap the unit or ground to fire at.]
+	{
+	ja=攻撃：タップで準備し、攻撃するユニットまたは地面をタップします。;
+	}
+
+[PATROL: tap to arm it, then tap the points to patrol between.]
+	{
+	ja=巡回：タップで準備し、巡回する地点を順にタップします。;
+	}
+
+[GUARD: tap to arm it, then tap the unit to guard.]
+	{
+	ja=護衛：タップで準備し、護衛するユニットをタップします。;
+	}
+
+[D-GUN: tap to arm it, then tap where the commander fires it.]
+	{
+	ja=Dガン：タップで準備し、コマンダーが撃つ地点をタップします。;
+	}
+
+[RECLAIM: tap to arm it, then tap the wreck or unit to reclaim.]
+	{
+	ja=回収：タップで準備し、回収する残骸またはユニットをタップします。;
+	}
+
+[REPAIR: tap to arm it, then tap the unit to repair or help build.]
+	{
+	ja=修理：タップで準備し、修理または建設を手伝うユニットをタップします。;
+	}
+
+[CAPTURE: tap to arm it, then tap the unit to capture.]
+	{
+	ja=捕獲：タップで準備し、捕獲するユニットをタップします。;
+	}
+
+[UNLOAD: tap to arm it, then tap where the transport unloads.]
+	{
+	ja=降車：タップで準備し、輸送ユニットが降ろす地点をタップします。;
+	}
+
+[LOAD: tap to arm it, then tap the unit to load.]
+	{
+	ja=搭載：タップで準備し、搭載するユニットをタップします。;
+	}
+
+[ALL]
+	{
+	ja=すべて;
+	}
+
+[BUILDERS]
+	{
+	ja=建設ユニット;
+	}
+
+[FACTORIES]
+	{
+	ja=工場;
+	}
+
+[AIRCRAFT]
+	{
+	ja=航空機;
+	}
+
+[ON SCREEN]
+	{
+	ja=画面内;
+	}
+
+[COMMANDER]
+	{
+	ja=コマンダー;
+	}
+
+[SAME TYPE]
+	{
+	ja=同じ種類;
+	}
+
+[CENTRE]
+	{
+	ja=中央へ;
+	}
+
+[FOLLOW]
+	{
+	ja=追従;
+	}
+
+[NEXT UNIT]
+	{
+	ja=次のユニット;
+	}
+
+[NEXT REPORT]
+	{
+	ja=次の報告;
+	}
+
+[SLOWER]
+	{
+	ja=遅く;
+	}
+
+[FASTER]
+	{
+	ja=速く;
+	}
+
+[GAME MENU]
+	{
+	ja=ゲームメニュー;
+	}
+
+[CHAT]
+	{
+	ja=チャット;
+	}
+
+[SELECT]
+	{
+	ja=選択;
+	}
+
+[ASSIST]
+	{
+	ja=支援;
+	}
+
+[PLACE]
+	{
+	ja=配置;
+	}
+
+[FIRE ORDERS]
+	{
+	ja=射撃命令;
+	}
+
+[MOVE ORDERS]
+	{
+	ja=移動命令;
+	}
+
+[ON/OFF]
+	{
+	ja=オン/オフ;
+	}
+
+[SELF-DESTRUCT]
+	{
+	ja=自爆;
+	}
+
+[QUEUE: Shift for orders, building and placement. Tap to latch, hold for one.]
+	{
+	ja=予約：命令、建設、配置用のShift。タップで固定、長押しで1回のみ。;
+	}
+
+[ADD: Shift for selecting, so taps, boxes and groups add to the selection. Tap to latch, hold for one.]
+	{
+	ja=追加：選択用のShift。タップ、範囲選択、グループで選んだユニットが選択に加わります。タップで固定、長押しで1回のみ。;
+	}
+
+[x5: Shift for the build buttons, five at a time. Tap to latch, hold for one.]
+	{
+	ja=x5：建設ボタン用のShift。一度に5つずつ建設します。タップで固定、長押しで1回のみ。;
+	}
+
+[CLEAR: takes back the armed order or the building being placed, else clears the selection.]
+	{
+	ja=解除：準備中の命令や配置中の建物を取り消し、なければ選択を解除します。;
+	}
+
+[SELECT: selects all units, builders, factories, aircraft, the units on screen, the commander or the same type.]
+	{
+	ja=選択：全ユニット、建設ユニット、工場、航空機、画面内のユニット、コマンダー、または同じ種類を選択します。;
+	}
+
+[STORE: stores the selection as the lowest free group.]
+	{
+	ja=登録：選択中のユニットを空いている最小番号のグループに登録します。;
+	}
+
+[Group: tap to select it, tap again to centre on it, hold to store the selection in it.]
+	{
+	ja=グループ：タップで選択、もう一度タップで中央に表示、長押しで選択中のユニットを登録します。;
+	}
+
+[PAUSE: pauses or resumes the game.]
+	{
+	ja=一時停止：ゲームを一時停止または再開します。;
+	}
+
+[SPEED: makes the game slower or faster.]
+	{
+	ja=速度：ゲームを遅く、または速くします。;
+	}
+
+[CHAT: writes a message to the other players.]
+	{
+	ja=チャット：ほかのプレイヤーにメッセージを書きます。;
+	}
+
+[CENTRE: centres the view on the selected unit.]
+	{
+	ja=中央へ：選択中のユニットを画面の中央に表示します。;
+	}
+
+[FOLLOW: the view follows the selected unit; tap again for the next one.]
+	{
+	ja=追従：画面が選択中のユニットを追いかけます。もう一度タップで次のユニットへ。;
+	}
+
+[NEXT: centres the view on the next unit not yet visited.]
+	{
+	ja=次へ：まだ見ていない次のユニットを画面の中央に表示します。;
+	}
+
+[INFO: shows the selected unit's information.]
+	{
+	ja=情報：選択中のユニットの情報を表示します。;
+	}
+
+[MENU: opens the game menu.]
+	{
+	ja=メニュー：ゲームメニューを開きます。;
+	}
+
+[BUILD: opens the builder's build pages, or the orders page for other units.]
+	{
+	ja=建設：建設ユニットなら建設ページを、それ以外のユニットなら命令ページを開きます。;
+	}
+
+[Zoom out: shows more of the battlefield.]
+	{
+	ja=ズームアウト：戦場をより広く表示します。;
+	}
+
+[Zoom in: shows the battlefield closer.]
+	{
+	ja=ズームイン：戦場を近くで表示します。;
+	}
+
+[Order: tap to arm it, then tap where it goes; tap again to take it back.]
+	{
+	ja=命令：タップで準備し、目標をタップします。もう一度タップで取り消します。;
+	}
+
+[MORE: the other orders, fire and move orders, on and off, cloak and self-destruct.]
+	{
+	ja=その他：ほかの命令、射撃命令と移動命令、オン/オフ、クローク、自爆。;
+	}
+
+[BUILD: shows the builder's build pages.]
+	{
+	ja=建設：建設ユニットの建設ページを表示します。;
+	}
+
+[Closes the build drawer.]
+	{
+	ja=建設パネルを閉じます。;
+	}
+
+[Shows the previous page.]
+	{
+	ja=前のページを表示します。;
+	}
+
+[Shows the next page.]
+	{
+	ja=次のページを表示します。;
+	}
+
+[CANCEL: stops placing the building.]
+	{
+	ja=キャンセル：建物の配置をやめます。;
+	}
+
+[Takes back the armed order.]
+	{
+	ja=準備中の命令を取り消します。;
+	}
+
+[Chooses this item.]
+	{
+	ja=この項目を選びます。;
+	}
+
+[SELF-DESTRUCT: hold to start or stop the selection's self-destruct countdown.]
+	{
+	ja=自爆：長押しで、選択中のユニットの自爆カウントダウンを開始または停止します。;
+	}
+
+[Gives this order at the held point.]
+	{
+	ja=長押しした地点でこの命令を出します。;
+	}
+
+[QUEUE: the next order picked is queued after the selection's orders.]
+	{
+	ja=予約：次に選んだ命令は、選択中のユニットの既存の命令の後に予約されます。;
+	}
+
+[Closes the open menu.]
+	{
+	ja=開いているメニューを閉じます。;
+	}
+
+[FORCE: Ctrl for orders and selecting while held, so a click forces fire on the ground or a friend.]
+	{
+	ja=強制：押している間、命令と選択のCtrlとして働き、クリックで地面や味方に強制射撃します。;
+	}
+
+[Build ring: presses its build button or toggle, or turns the build page.]
+	{
+	ja=建設リング：建設ボタンや切り替えを押すか、建設ページをめくります。;
+	}
+
+[Group: select it, again to centre on it, hold to store the selection in it.]
+	{
+	ja=グループ：選択、もう一度で中央に表示、長押しで選択中のユニットを登録します。;
+	}
+
+[FORCE]
+	{
+	ja=強制;
+	}
+
+[QUEUE]
+	{
+	ja=予約;
+	}
+
+[ADD]
+	{
+	ja=追加;
+	}
+
+[CLEAR]
+	{
+	ja=解除;
+	}
+
+[STORE]
+	{
+	ja=登録;
+	}
+
+[PAUSE]
+	{
+	ja=一時停止;
+	}
+
+[SPEED]
+	{
+	ja=速度;
+	}
+
+[MENU]
+	{
+	ja=メニュー;
+	}
+
+[MORE]
+	{
+	ja=その他;
+	}
+
+[CLOSE]
+	{
+	ja=閉じる;
+	}
+
+[SELF-DESTRUCT · HOLD]
+	{
+	ja=自爆 · 長押し;
+	}
+
+[DRAG TO MOVE · DOUBLE-TAP OR HOLD TO PLACE]
+	{
+	ja=ドラッグで移動 · ダブルタップか長押しで配置;
+	}
+
+[RELEASE]
+	{
+	ja=離す;
+	}
+
+[GIVE]
+	{
+	ja=実行;
+	}
+
+[ARM ORDER]
+	{
+	ja=命令を準備;
+	}
+
+[Cross]
+	{
+	ja=×ボタン;
+	}
+
+[Circle]
+	{
+	ja=○ボタン;
+	}
+
+[Square]
+	{
+	ja=□ボタン;
+	}
+
+[Triangle]
+	{
+	ja=△ボタン;
+	}
+
+[Minus]
+	{
+	ja=－ボタン;
+	}
+
+[View]
+	{
+	ja=ビューボタン;
+	}
+
+[Plus]
+	{
+	ja=＋ボタン;
+	}
+
+[Menu]
+	{
+	ja=メニューボタン;
+	}
+
+[D-pad up]
+	{
+	ja=十字キー上;
+	}
+
+[D-pad right]
+	{
+	ja=十字キー右;
+	}
+
+[D-pad down]
+	{
+	ja=十字キー下;
+	}
+
+[D-pad left]
+	{
+	ja=十字キー左;
+	}
+
+[left trackpad]
+	{
+	ja=左トラックパッド;
+	}
+
+[right trackpad]
+	{
+	ja=右トラックパッド;
+	}
+
+[left stick touch]
+	{
+	ja=左スティックに触れる;
+	}
+
+[right stick touch]
+	{
+	ja=右スティックに触れる;
+	}
+
+[1 UNIT]
+	{
+	ja=1ユニット;
+	}
+
+[LATCHED]
+	{
+	ja=固定中;
+	}
+
+[Hold to self-destruct]
+	{
+	ja=長押しで自爆;
+	}
+
+[DOUBLE TAP OR HOLD TO BUILD · QUEUE ON]
+	{
+	ja=ダブルタップか長押しで建設 · 予約オン;
+	}
+
+[DOUBLE TAP OR HOLD TO BUILD]
+	{
+	ja=ダブルタップか長押しで建設;
+	}
+
+[TAP POINTS · QUEUE KEEPS ADDING]
+	{
+	ja=地点をタップ · 予約で追加し続けます;
+	}
+
+[TAP A TARGET · ✕ TAKES IT BACK]
+	{
+	ja=目標をタップ · ✕で取り消し;
+	}
+
+[TAP: {action}]
+	{
+	ja=タップ：{action};
+	}
+
+[ENEMY: {action}]
+	{
+	ja=敵：{action};
+	}
+
+[Place {name}]
+	{
+	ja={name}を配置;
+	}
+
+[{order} armed]
+	{
+	ja={order}を準備;
+	}
+
+[Enable Unicode Multiplayer Chat]
+	{
+	ja=Unicodeのマルチプレイチャットを有効にする;
+	}
+
+[Set by the language]
+	{
+	ja=言語が設定;
+	}
+
+// Network play's notices in the message log, with {slots} where the values go.
+[Autopause: only the host can unpause]
+	{
+	ja=自動一時停止：再開できるのはホストだけです;
+	}
+[{player} tried to unpause.]
+	{
+	ja={player}が再開しようとしました。;
+	}
+[{player} has cheats enabled]
+	{
+	ja={player}はチートを有効にしています;
+	}
+[{player} reports VerCheck issues with {count} other players]
+	{
+	ja={player}が他の{count}人のプレイヤーとのバージョン確認の問題を報告しています;
+	}
+[Vote: reject {player} ({yes} yes/{no} no/{voters}, {seconds}s)]
+	{
+	ja=投票：{player}を除外（賛成{yes}/反対{no}/{voters}、{seconds}秒）;
+	}
+[Timeout: reject {player} ({yes} yes/{no} no/{voters}, {seconds}s)]
+	{
+	ja=時間切れ：{player}を除外（賛成{yes}/反対{no}/{voters}、{seconds}秒）;
+	}
+[{player} rejected]
+	{
+	ja={player}は除外されました;
+	}
+[{player} stays in the game]
+	{
+	ja={player}はゲームに残ります;
+	}
+[Vote Yes or Vote No in the console answers the vote]
+	{
+	ja=コンソールでVote YesかVote Noを入力すると投票できます;
+	}
+
+// Whole sentences the engine fills in, with {slots} where the values go.
+[Item {n}]
+	{
+	ja=項目{n};
+	}
+[{on} of {total} on]
+	{
+	ja={total}個中{on}個がオン;
+	}
+[Show Active Only ({active}/{total})]
+	{
+	ja=有効なものだけを表示（{active}/{total}）;
+	}
+[Switch to {title} now? The game reloads its data for the new mod and returns to the main menu. Your other settings are kept.]
+	{
+	ja=今すぐ{title}に切り替えますか？ゲームは新しいMODのデータを読み込み直し、メインメニューに戻ります。ほかの設定はそのままです。;
+	}
+[{n} UNITS]
+	{
+	ja={n}ユニット;
+	}
+
+// The game's title, as the game-files screen and the folder chooser name it.
+[Total Annihilation]
+	{
+	ja=Total Annihilation;
+	}
+[Total Annihilation 3.1c]
+	{
+	ja=Total Annihilation 3.1c;
+	}
+
+// The Library, its update question and why a download fails.
+
+[Library]
+	{
+	ja=ライブラリ;
+	}
+
+[Open Annihilation]
+	{
+	ja=Open Annihilation;
+	}
+
+[list from {age}]
+	{
+	ja={age}のリスト;
+	}
+
+[just now]
+	{
+	ja=たった今;
+	}
+
+[{count} min ago]
+	{
+	ja={count}分前;
+	}
+
+[{count} h ago]
+	{
+	ja={count}時間前;
+	}
+
+[{count} days ago]
+	{
+	ja={count}日前;
+	}
+
+[Maps]
+	{
+	ja=マップ;
+	}
+
+[Languages]
+	{
+	ja=言語;
+	}
+
+[Lang]
+	{
+	ja=言語;
+	}
+
+[Updates]
+	{
+	ja=更新;
+	}
+
+[Upd]
+	{
+	ja=更新;
+	}
+
+[Search mods, authors, tags]
+	{
+	ja=MOD、作者、タグを検索;
+	}
+
+[Search maps, authors, tags]
+	{
+	ja=マップ、作者、タグを検索;
+	}
+
+[Search languages]
+	{
+	ja=言語を検索;
+	}
+
+[Search updates]
+	{
+	ja=更新を検索;
+	}
+
+[All]
+	{
+	ja=すべて;
+	}
+
+[Tag: {tag} ({count})]
+	{
+	ja=タグ：{tag}（{count}）;
+	}
+
+[{tag} ({count})]
+	{
+	ja={tag}（{count}）;
+	}
+
+[TAGS]
+	{
+	ja=タグ;
+	}
+
+[{count} update]
+	{
+	ja={count}件の更新;
+	}
+
+[{count} updates]
+	{
+	ja={count}件の更新;
+	}
+
+[UPDATE ALL]
+	{
+	ja=すべて更新;
+	}
+
+[Showing the list from {age}. OA couldn't reach the registries.]
+	{
+	ja={age}のリストを表示しています。OAはレジストリに接続できませんでした。;
+	}
+
+[Nothing here yet. Turn a registry on in Settings › Downloads.]
+	{
+	ja=まだ何もありません。設定 › ダウンロードでレジストリをオンにしてください。;
+	}
+
+[Nothing matches "{query}".]
+	{
+	ja=「{query}」に一致するものはありません。;
+	}
+
+[No updates.]
+	{
+	ja=更新はありません。;
+	}
+
+[Nothing to show.]
+	{
+	ja=表示するものがありません。;
+	}
+
+[GET]
+	{
+	ja=入手;
+	}
+
+[INSTALLED]
+	{
+	ja=インストール済み;
+	}
+
+[UPDATE]
+	{
+	ja=更新;
+	}
+
+[{version} · {size}]
+	{
+	ja={version} · {size};
+	}
+
+[{line} · {registry}]
+	{
+	ja={line} · {registry};
+	}
+
+[{version} · rev {revision}]
+	{
+	ja={version} · リビジョン{revision};
+	}
+
+[rev {revision}]
+	{
+	ja=リビジョン{revision};
+	}
+
+[{count} map]
+	{
+	ja={count}マップ;
+	}
+
+[{count} maps]
+	{
+	ja={count}マップ;
+	}
+
+[{version} · {maps}]
+	{
+	ja={version} · {maps};
+	}
+
+[{whole}.{tenth}]
+	{
+	ja={whole}.{tenth};
+	}
+
+[{size} KB]
+	{
+	ja={size} KB;
+	}
+
+[{size} MB]
+	{
+	ja={size} MB;
+	}
+
+[{size} GB]
+	{
+	ja={size} GB;
+	}
+
+[by {author}]
+	{
+	ja=作者：{author};
+	}
+
+[Not installed · {size}]
+	{
+	ja=未インストール · {size};
+	}
+
+[Revision {revision} available · {size} to download]
+	{
+	ja=リビジョン{revision}を入手可能 · ダウンロード{size};
+	}
+
+[Version {version} available · {size} to download]
+	{
+	ja=バージョン{version}を入手可能 · ダウンロード{size};
+	}
+
+[Playing]
+	{
+	ja=プレイ中;
+	}
+
+[Not during a game]
+	{
+	ja=ゲーム中は不可;
+	}
+
+[Downloads from {registry} are off (Settings › Downloads)]
+	{
+	ja={registry}からのダウンロードはオフです（設定 › ダウンロード）;
+	}
+
+[Needs Open Annihilation {range}]
+	{
+	ja=Open Annihilation {range}が必要;
+	}
+
+[Needs the base game {base}]
+	{
+	ja=ベースゲーム{base}が必要;
+	}
+
+[Needs hacks this OA lacks: {hacks}]
+	{
+	ja=このOAにないハックが必要：{hacks};
+	}
+
+[{hacks} · {count} more]
+	{
+	ja={hacks} · ほか{count}件;
+	}
+
+[Waiting to download]
+	{
+	ja=ダウンロード待ち;
+	}
+
+[Downloading · {progress}]
+	{
+	ja=ダウンロード中 · {progress};
+	}
+
+[Downloading]
+	{
+	ja=ダウンロード中;
+	}
+
+[Verifying]
+	{
+	ja=検証中;
+	}
+
+[Installing]
+	{
+	ja=インストール中;
+	}
+
+[Failed]
+	{
+	ja=失敗;
+	}
+
+[Waiting · finishes when you leave {name}]
+	{
+	ja=待機中 · {name}を終了すると完了;
+	}
+
+[Size]
+	{
+	ja=サイズ;
+	}
+
+[{size} · {download} to download]
+	{
+	ja={size} · ダウンロード{download};
+	}
+
+[{download} to download]
+	{
+	ja=ダウンロード{download};
+	}
+
+[Base]
+	{
+	ja=ベース;
+	}
+
+[TA 3.1c]
+	{
+	ja=TA 3.1c;
+	}
+
+[Needs]
+	{
+	ja=必要;
+	}
+
+[Open Annihilation {range}]
+	{
+	ja=Open Annihilation {range};
+	}
+
+[OA {range}]
+	{
+	ja=OA {range};
+	}
+
+[{version} or later]
+	{
+	ja={version}以降;
+	}
+
+[later than {version}]
+	{
+	ja={version}より後;
+	}
+
+[{version} or earlier]
+	{
+	ja={version}以前;
+	}
+
+[before {version}]
+	{
+	ja={version}より前;
+	}
+
+[exactly {version}]
+	{
+	ja={version}のみ;
+	}
+
+[{version}+]
+	{
+	ja={version}+;
+	}
+
+[after {version}]
+	{
+	ja={version}より後;
+	}
+
+[up to {version}]
+	{
+	ja={version}まで;
+	}
+
+[{version} only]
+	{
+	ja={version}のみ;
+	}
+
+[Hacks]
+	{
+	ja=ハック;
+	}
+
+[{game} change the game · {view} view only]
+	{
+	ja={game}件がゲームを変更 · {view}件は表示のみ;
+	}
+
+[{game} game · {view} view]
+	{
+	ja=ゲーム{game}件 · 表示{view}件;
+	}
+
+[{counts} · {missing}]
+	{
+	ja={counts} · {missing};
+	}
+
+[{counts} · {count} missing]
+	{
+	ja={counts} · {count}件不足;
+	}
+
+[Rules]
+	{
+	ja=ルール;
+	}
+
+[{from} → {to} same]
+	{
+	ja={from} → {to} 同じ;
+	}
+
+[unchanged]
+	{
+	ja=変更なし;
+	}
+
+[{from} → {to} · changes the game's rules; saved games from {old} won't load under {new}]
+	{
+	ja={from} → {to} · ゲームのルールが変わります。{old}のセーブデータは{new}ではロードできません;
+	}
+
+[changes · {old} saves won't load]
+	{
+	ja=変更あり · {old}のセーブデータはロード不可;
+	}
+
+[unknown · saved games from {old} may not load under {new}]
+	{
+	ja=不明 · {old}のセーブデータは{new}でロードできない場合があります;
+	}
+
+[unknown · saves may not load]
+	{
+	ja=不明 · セーブデータをロードできない場合あり;
+	}
+
+[revision {revision}]
+	{
+	ja=リビジョン{revision};
+	}
+
+[Coverage]
+	{
+	ja=対応率;
+	}
+
+[{percent}%]
+	{
+	ja={percent}%;
+	}
+
+[From]
+	{
+	ja=入手元;
+	}
+
+[{registry} · Not reviewed by the OA team]
+	{
+	ja={registry} · OAチーム未審査;
+	}
+
+[Your own copy]
+	{
+	ja=自分のコピー;
+	}
+
+[✓]
+	{
+	ja=✓;
+	}
+
+[RETRY]
+	{
+	ja=再試行;
+	}
+
+[HOMEPAGE]
+	{
+	ja=ホームページ;
+	}
+
+[Finishes when you leave {name}.]
+	{
+	ja={name}を終了すると完了します。;
+	}
+
+[You are playing {playing}. Updating {name} doesn't restart the game.]
+	{
+	ja={playing}をプレイ中です。{name}を更新してもゲームは再起動しません。;
+	}
+
+[SETTINGS…]
+	{
+	ja=設定…;
+	}
+
+[DETAILS]
+	{
+	ja=詳細;
+	}
+
+[{name} {version}]
+	{
+	ja={name} {version};
+	}
+
+[Downloading {package} · {progress}]
+	{
+	ja={package}をダウンロード中 · {progress};
+	}
+
+[Downloading {package}]
+	{
+	ja={package}をダウンロード中;
+	}
+
+[Waiting to download {package}]
+	{
+	ja={package}のダウンロード待ち;
+	}
+
+[Verifying {name}]
+	{
+	ja={name}を検証中;
+	}
+
+[Checking {name}]
+	{
+	ja={name}を確認中;
+	}
+
+[Installing {name}]
+	{
+	ja={name}をインストール中;
+	}
+
+[Installed {name}]
+	{
+	ja={name}をインストールしました;
+	}
+
+[Updated {name} · {new} changes the game's rules · ROLL BACK restores {old}]
+	{
+	ja={name}を更新 · {new}でゲームのルールが変わります · ロールバックで{old}に戻せます;
+	}
+
+[Updated {name} · {new} may change the game's rules · ROLL BACK restores {old}]
+	{
+	ja={name}を更新 · {new}でゲームのルールが変わる可能性があります · ロールバックで{old}に戻せます;
+	}
+
+[{problem} · RETRY]
+	{
+	ja={problem} · 再試行;
+	}
+
+[Then {package} · {phase}]
+	{
+	ja=次：{package} · {phase};
+	}
+
+[{line} · {count} more]
+	{
+	ja={line} · ほか{count}件;
+	}
+
+[waiting]
+	{
+	ja=待機中;
+	}
+
+[downloading]
+	{
+	ja=ダウンロード中;
+	}
+
+[verifying]
+	{
+	ja=検証中;
+	}
+
+[checking]
+	{
+	ja=確認中;
+	}
+
+[installing]
+	{
+	ja=インストール中;
+	}
+
+[after you leave it]
+	{
+	ja=終了後;
+	}
+
+[failed]
+	{
+	ja=失敗;
+	}
+
+[installed]
+	{
+	ja=インストール済み;
+	}
+
+[{name} {percent}%]
+	{
+	ja={name} {percent}%;
+	}
+
+[{name} · rules changed]
+	{
+	ja={name} · ルール変更あり;
+	}
+
+[{name} · {phase}]
+	{
+	ja={name} · {phase};
+	}
+
+[Update {name}]
+	{
+	ja={name}を更新;
+	}
+
+[Update all]
+	{
+	ja=すべて更新;
+	}
+
+[{name} {version} · revision {from} → {to}]
+	{
+	ja={name} {version} · リビジョン{from} → {to};
+	}
+
+[{name} {from} → {to}]
+	{
+	ja={name} {from} → {to};
+	}
+
+[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and ROLL BACK brings it back.]
+	{
+	ja={To}ではゲームのルールが変わります。{from}のセーブデータは{to}ではロードできません。{From}は保管され、ロールバックで元に戻せます。;
+	}
+
+[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and ROLL BACK brings it back.]
+	{
+	ja={to}でゲームのルールが変わるかどうか、OAには判断できません。変わる場合、{from}のセーブデータはロードできなくなります。{From}は保管され、ロールバックで元に戻せます。;
+	}
+
+[It finishes when you leave {name}.]
+	{
+	ja={name}を終了すると完了します。;
+	}
+
+[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and ROLL BACK brings it back.]
+	{
+	ja=1件の更新でゲームのルールが変わります：{names}。現在のバージョンのセーブデータは、新しいバージョンではロードできません。現在のバージョンは保管され、ロールバックで元に戻せます。;
+	}
+
+[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and ROLL BACK brings it back.]
+	{
+	ja={count}件の更新でゲームのルールが変わります：{names}。現在のバージョンのセーブデータは、新しいバージョンではロードできません。それぞれ保管され、ロールバックで元に戻せます。;
+	}
+
+[{names} and {count} more]
+	{
+	ja={names}ほか{count}件;
+	}
+
+[{label}: {value}]
+	{
+	ja={label}：{value};
+	}
+
+[{from} → {to}]
+	{
+	ja={from} → {to};
+	}
+
+[unknown]
+	{
+	ja=不明;
+	}
+
+[Download]
+	{
+	ja=ダウンロード;
+	}
+
+[NOT NOW]
+	{
+	ja=今はしない;
+	}
+
+[the server could not be reached]
+	{
+	ja=サーバーに接続できませんでした;
+	}
+
+[the registry refused the download]
+	{
+	ja=レジストリがダウンロードを拒否しました;
+	}
+
+[the registry no longer offers this release]
+	{
+	ja=レジストリはこのリリースを提供していません;
+	}
+
+[downloads are off for this registry]
+	{
+	ja=このレジストリのダウンロードはオフです;
+	}
+
+[there is not enough free space]
+	{
+	ja=空き容量が足りません;
+	}
+
+[the download was not the file the catalogue promised]
+	{
+	ja=ダウンロードしたファイルがカタログの内容と一致しません;
+	}
+
+[the server's file is not the size the catalogue promised]
+	{
+	ja=サーバーのファイルのサイズがカタログの内容と一致しません;
+	}
+
+[the check expired]
+	{
+	ja=確認の有効期限が切れました;
+	}
+
+[the package was refused]
+	{
+	ja=パッケージが拒否されました;
+	}
+
+[the package could not be installed]
+	{
+	ja=パッケージをインストールできませんでした;
+	}
+
+[the download could not be written]
+	{
+	ja=ダウンロードしたファイルを書き込めませんでした;
+	}
+
+[the catalogue has no such package]
+	{
+	ja=カタログにそのパッケージはありません;
+	}
+
+[the download could not be started]
+	{
+	ja=ダウンロードを開始できませんでした;
+	}
+
+[downloads are off]
+	{
+	ja=ダウンロードはオフです;
+	}
+
+[that package is already being downloaded]
+	{
+	ja=そのパッケージはすでにダウンロード中です;
+	}
+
+// Settings › Downloads, Language and Mods, and the missing-language notice.
+
+[Use English]
+	{
+	ja=英語を使う;
+	}
+
+[Try again]
+	{
+	ja=再試行;
+	}
+
+[Downloads]
+	{
+	ja=ダウンロード;
+	}
+
+[DOWNLOADS]
+	{
+	ja=ダウンロード;
+	}
+
+[The file manager could not open it.]
+	{
+	ja=ファイルマネージャーで開けませんでした。;
+	}
+
+[No file manager is there to open it.]
+	{
+	ja=開くためのファイルマネージャーがありません。;
+	}
+
+[The folder cannot be made.]
+	{
+	ja=フォルダーを作成できません。;
+	}
+
+[AVAILABLE TO DOWNLOAD]
+	{
+	ja=ダウンロード可能;
+	}
+
+[downloads off]
+	{
+	ja=ダウンロードはオフ;
+	}
+
+[not reviewed]
+	{
+	ja=未審査;
+	}
+
+[community]
+	{
+	ja=コミュニティ;
+	}
+
+[kB]
+	{
+	ja=kB;
+	}
+
+[MB]
+	{
+	ja=MB;
+	}
+
+[Downloads, then switches to it.]
+	{
+	ja=ダウンロードしてから切り替えます。;
+	}
+
+[. Choose it again to try again.]
+	{
+	ja=。もう一度選ぶと再試行します。;
+	}
+
+[MORE IN THE LIBRARY…]
+	{
+	ja=ライブラリでもっと見る…;
+	}
+
+[More languages are in the Library.]
+	{
+	ja=ほかの言語はライブラリにあります。;
+	}
+
+[fps]
+	{
+	ja=fps;
+	}
+
+[Interface size]
+	{
+	ja=インターフェースのサイズ;
+	}
+
+[Auto]
+	{
+	ja=自動;
+	}
+
+[Steam Input]
+	{
+	ja=Steam Input;
+	}
+
+[UI kit gallery]
+	{
+	ja=UIキットギャラリー;
+	}
+
+[Every part of OA's own screens, in each of its states, at this size.]
+	{
+	ja=OA自身の画面のすべての部品を、それぞれの状態ごとにこのサイズで表示します。;
+	}
+
+[Check for content updates]
+	{
+	ja=コンテンツの更新を確認;
+	}
+
+[Automatically]
+	{
+	ja=自動;
+	}
+
+[Only when I open the Library]
+	{
+	ja=ライブラリを開いたときだけ;
+	}
+
+[Never]
+	{
+	ja=しない;
+	}
+
+[OA looks for new content and updates in the registries' lists. It never installs anything until you say so.]
+	{
+	ja=OAはレジストリのリストから新しいコンテンツと更新を探します。指示があるまで何もインストールしません。;
+	}
+
+[Install ID]
+	{
+	ja=インストールID;
+	}
+
+[A random number that lets {name} stop automated downloads. Turned off, you can browse the Library, but downloads are off. Installed content keeps working.]
+	{
+	ja={name}が自動化されたダウンロードを防ぐための乱数です。オフにするとライブラリは閲覧できますが、ダウンロードはできません。インストール済みのコンテンツはそのまま使えます。;
+	}
+
+[Made at your first download]
+	{
+	ja=初回のダウンロード時に作成;
+	}
+
+[RESET]
+	{
+	ja=リセット;
+	}
+
+[Downloaded files]
+	{
+	ja=ダウンロードしたファイル;
+	}
+
+[Nothing kept]
+	{
+	ja=保管なし;
+	}
+
+[EMPTY]
+	{
+	ja=空にする;
+	}
+
+[Registries]
+	{
+	ja=レジストリ;
+	}
+
+[{name} only]
+	{
+	ja={name}のみ;
+	}
+
+[{n} on of {m}]
+	{
+	ja={m}個中{n}個がオン;
+	}
+
+[‹ DOWNLOADS]
+	{
+	ja=‹ ダウンロード;
+	}
+
+[Built in]
+	{
+	ja=内蔵;
+	}
+
+[{n} package]
+	{
+	ja={n}個のパッケージ;
+	}
+
+[{n} packages]
+	{
+	ja={n}個のパッケージ;
+	}
+
+[checked {age}]
+	{
+	ja={age}に確認;
+	}
+
+[not checked yet]
+	{
+	ja=未確認;
+	}
+
+[couldn't reach]
+	{
+	ja=接続できません;
+	}
+
+[{n} min ago]
+	{
+	ja={n}分前;
+	}
+
+[{n} h ago]
+	{
+	ja={n}時間前;
+	}
+
+[1 day ago]
+	{
+	ja=1日前;
+	}
+
+[{n} days ago]
+	{
+	ja={n}日前;
+	}
+
+[{n} mirror]
+	{
+	ja=ミラー{n}個;
+	}
+
+[{n} mirrors]
+	{
+	ja=ミラー{n}個;
+	}
+
+[UNDO]
+	{
+	ja=元に戻す;
+	}
+
+[Removed when you press OK]
+	{
+	ja=OKを押すと削除されます;
+	}
+
+[ADD MIRROR…]
+	{
+	ja=ミラーを追加…;
+	}
+
+[Choose from the main menu.]
+	{
+	ja=メインメニューで選択してください。;
+	}
+
+[Content from these registries isn't reviewed by the OA team. OA still checks every package before using it.]
+	{
+	ja=これらのレジストリのコンテンツはOAチームの審査を受けていません。それでもOAは、使用前にすべてのパッケージを確認します。;
+	}
+
+[Content from registries other than {names} isn't reviewed by the OA team. OA still checks every package before using it.]
+	{
+	ja={names}以外のレジストリのコンテンツはOAチームの審査を受けていません。それでもOAは、使用前にすべてのパッケージを確認します。;
+	}
+
+[ADD REGISTRY…]
+	{
+	ja=レジストリを追加…;
+	}
+
+// The map browser, GET MAP, and the questions that install a map pack or a language.
+
+[MORE MAPS…]
+	{
+	ja=その他のマップ…;
+	}
+
+[Doesn't fit {game}: {reason}]
+	{
+	ja={game}に適合しません：{reason};
+	}
+
+[Skirmish · playing {mod}]
+	{
+	ja=スカーミッシュ · {mod}をプレイ中;
+	}
+
+[Battle room · playing {mod}]
+	{
+	ja=対戦ルーム · {mod}をプレイ中;
+	}
+
+[Base game]
+	{
+	ja=ベースゲーム;
+	}
+
+[Online]
+	{
+	ja=オンライン;
+	}
+
+[PLAYERS]
+	{
+	ja=人数;
+	}
+
+[2]
+	{
+	ja=2;
+	}
+
+[3]
+	{
+	ja=3;
+	}
+
+[4]
+	{
+	ja=4;
+	}
+
+[5–10]
+	{
+	ja=5–10;
+	}
+
+[SIZE]
+	{
+	ja=サイズ;
+	}
+
+[S]
+	{
+	ja=小;
+	}
+
+[M]
+	{
+	ja=中;
+	}
+
+[L]
+	{
+	ja=大;
+	}
+
+[Search maps]
+	{
+	ja=マップを検索;
+	}
+
+[Loading preview]
+	{
+	ja=プレビューを読み込み中;
+	}
+
+[No preview]
+	{
+	ja=プレビューなし;
+	}
+
+[{players} · {size}]
+	{
+	ja={players} · {size};
+	}
+
+[Doesn't fit]
+	{
+	ja=適合しません;
+	}
+
+[No map matches these filters]
+	{
+	ja=条件に一致するマップはありません;
+	}
+
+[Choose a map]
+	{
+	ja=マップを選択;
+	}
+
+[1 player]
+	{
+	ja=1人;
+	}
+
+[{count} players]
+	{
+	ja={count}人;
+	}
+
+[Fits {game} ✓]
+	{
+	ja={game}に適合 ✓;
+	}
+
+[Doesn't fit {game}]
+	{
+	ja={game}に適合しません;
+	}
+
+[Fit with {game} is checked when it's installed]
+	{
+	ja={game}への適合はインストール時に確認されます;
+	}
+
+[Its catalogue says it does not fit {game}.]
+	{
+	ja=カタログによると、{game}には適合しません。;
+	}
+
+[The map list does not hold this map.]
+	{
+	ja=マップリストにこのマップはありません。;
+	}
+
+[The download could not start: {reason}]
+	{
+	ja=ダウンロードを開始できませんでした：{reason};
+	}
+
+[The pack was not installed: {reason}]
+	{
+	ja=パックはインストールされませんでした：{reason};
+	}
+
+[Cancel]
+	{
+	ja=キャンセル;
+	}
+
+[Select]
+	{
+	ja=選択;
+	}
+
+[Download and select]
+	{
+	ja=ダウンロードして選択;
+	}
+
+[Downloading…]
+	{
+	ja=ダウンロード中…;
+	}
+
+[GET MAP]
+	{
+	ja=マップを入手;
+	}
+
+[{pack} {version} · {size} from {registry}]
+	{
+	ja={pack} {version} · {registry}から{size};
+	}
+
+[Add {registry} to get {pack}]
+	{
+	ja={pack}を入手するには{registry}を追加してください;
+	}
+
+[You have release {mine} of {pack}; the host plays release {theirs}.]
+	{
+	ja=手元の{pack}はリリース{mine}ですが、ホストはリリース{theirs}を使っています。;
+	}
+
+[The host's release of {pack} is no longer offered by {registry}.]
+	{
+	ja=ホストが使っている{pack}のリリースは、{registry}ではもう提供されていません。;
+	}
+
+[Downloads from {registry} are off (Settings › Downloads).]
+	{
+	ja={registry}からのダウンロードはオフです（設定 › ダウンロード）。;
+	}
+
+[Downloading {pack} · {done} of {size}]
+	{
+	ja={pack}をダウンロード中 · {size}中{done};
+	}
+
+[Couldn't get {pack}: {reason}]
+	{
+	ja={pack}を入手できませんでした：{reason};
+	}
+
+[NOT INSTALLED]
+	{
+	ja=未インストール;
+	}
+
+[{file} is not a package Open Annihilation installs.]
+	{
+	ja={file}はOpen Annihilationでインストールできるパッケージではありません。;
+	}
+
+[Checking {file}...]
+	{
+	ja={file}を確認しています...;
+	}
+
+[INSTALLING MAP PACK]
+	{
+	ja=マップパックをインストール中;
+	}
+
+[INSTALL MAP PACK]
+	{
+	ja=マップパックのインストール;
+	}
+
+[Install the map pack {name} {version} ({n} maps)?]
+	{
+	ja=マップパック{name} {version}（{n}マップ）をインストールしますか？;
+	}
+
+[INSTALL]
+	{
+	ja=インストール;
+	}
+
+[UPDATE MAP PACK]
+	{
+	ja=マップパックの更新;
+	}
+
+[The version installed is kept, and can be brought back.]
+	{
+	ja=インストール済みのバージョンは保管され、後で元に戻せます。;
+	}
+
+[The version kept, which cannot be read, is removed.]
+	{
+	ja=保管されているバージョンは読み取れないため、削除されます。;
+	}
+
+[The version kept ({backup}) is removed.]
+	{
+	ja=保管されているバージョン（{backup}）は削除されます。;
+	}
+
+[REINSTALL MAP PACK]
+	{
+	ja=マップパックの再インストール;
+	}
+
+[The version kept stays.]
+	{
+	ja=保管されているバージョンはそのまま残ります。;
+	}
+
+[REPLACE MAP PACK]
+	{
+	ja=マップパックの置き換え;
+	}
+
+[Replace {name} from {old} with the one from {new}?]
+	{
+	ja={old}の{name}を{new}のもので置き換えますか？;
+	}
+
+[{title} {installed} is installed. Replace it with {incoming} from {file}?]
+	{
+	ja={title} {installed}がインストールされています。{file}の{incoming}で置き換えますか？;
+	}
+
+[MAP PACK INSTALLED]
+	{
+	ja=マップパックインストール完了;
+	}
+
+[{title} {version} is installed in your Maps folder:]
+	{
+	ja={title} {version}をMapsフォルダーにインストールしました：;
+	}
+
+[MAP PACK UPDATED]
+	{
+	ja=マップパック更新完了;
+	}
+
+[{title} is now {new}. {old} is kept, and can be brought back.]
+	{
+	ja={title}は{new}になりました。{old}は保管され、後で元に戻せます。;
+	}
+
+[{title} is back to {new}. {old} is kept, and can be brought back.]
+	{
+	ja={title}は{new}に戻りました。{old}は保管され、後で元に戻せます。;
+	}
+
+[MAP PACK NOT INSTALLED]
+	{
+	ja=マップパックのインストール中止;
+	}
+
+[It holds no oamap.yaml at its top, or in a single folder at its top.]
+	{
+	ja=最上位にも、最上位の単一フォルダー内にもoamap.yamlがありません。;
+	}
+
+[Its oamap.yaml is larger than 256 KiB.]
+	{
+	ja=oamap.yamlが256 KiBを超えています。;
+	}
+
+[Its oamap.yaml has errors:]
+	{
+	ja=oamap.yamlにエラーがあります：;
+	}
+
+[It unpacks to {size}, more than the {limit} a map pack may take.]
+	{
+	ja=展開すると{size}になり、マップパックに許される{limit}を超えます。;
+	}
+
+[It unpacks to {size} from {packed}, far more than a map pack's files take.]
+	{
+	ja={packed}から展開すると{size}になり、マップパックのファイルとしては大きすぎます。;
+	}
+
+[It holds more than {limit} folders, more than a map pack may take.]
+	{
+	ja=フォルダーが{limit}個を超えており、マップパックに許される数を超えています。;
+	}
+
+[It needs {size} free, and the disk holding your Maps folder has {free}.]
+	{
+	ja=空き容量が{size}必要ですが、Mapsフォルダーのあるディスクの空きは{free}です。;
+	}
+
+[Your Maps folder has no free folder name for it.]
+	{
+	ja=Mapsフォルダーに、これに使えるフォルダー名がありません。;
+	}
+
+[Your Maps folder changed while this map pack was being installed; nothing was changed. Open the file again.]
+	{
+	ja=このマップパックのインストール中にMapsフォルダーが変更されたため、何も変更していません。もう一度ファイルを開いてください。;
+	}
+
+[Another copy of Open Annihilation is changing your Maps folder. Try again once it has finished.]
+	{
+	ja=別のOpen AnnihilationがMapsフォルダーを変更しています。完了してからもう一度試してください。;
+	}
+
+[It is not a kind of package this game installs.]
+	{
+	ja=このゲームがインストールする種類のパッケージではありません。;
+	}
+
+[The pack lists {name}, which it does not hold.]
+	{
+	ja=パックには{name}が記載されていますが、含まれていません。;
+	}
+
+[The pack holds {name}, which no map uses.]
+	{
+	ja=パックに含まれる{name}は、どのマップでも使われていません。;
+	}
+
+[The pack holds {name}, which no map uses: it is outside the folders a map pack may hold.]
+	{
+	ja=パックに含まれる{name}は、どのマップでも使われていません。マップパックに入れられるフォルダーの外にあります。;
+	}
+
+[The preview {name} is not a PNG.]
+	{
+	ja=プレビュー{name}はPNGではありません。;
+	}
+
+[The preview {name} is larger than 2 MiB.]
+	{
+	ja=プレビュー{name}が2 MiBを超えています。;
+	}
+
+[It needs a different Open Annihilation.]
+	{
+	ja=別のバージョンのOpen Annihilationが必要です。;
+	}
+
+[A map in the pack does not fit the base game.]
+	{
+	ja=パック内のマップがベースゲームに適合しません。;
+	}
+
+[The folder {name} does not hold this map pack. It is left as it is.]
+	{
+	ja=フォルダー{name}にはこのマップパックが入っていません。そのフォルダーには手を加えません。;
+	}
+
+[INSTALLING LANGUAGE]
+	{
+	ja=言語をインストール中;
+	}
+
+[INSTALL LANGUAGE]
+	{
+	ja=言語のインストール;
+	}
+
+[Install the language {endonym} ({english})?]
+	{
+	ja=言語{endonym}（{english}）をインストールしますか？;
+	}
+
+[UPDATE LANGUAGE]
+	{
+	ja=言語の更新;
+	}
+
+[REINSTALL LANGUAGE]
+	{
+	ja=言語の再インストール;
+	}
+
+[REPLACE LANGUAGE]
+	{
+	ja=言語の置き換え;
+	}
+
+[The folder {tag} does not hold this language. Replace it with {endonym} ({english}) from {file}? It is kept, and can be brought back.]
+	{
+	ja=フォルダー{tag}にはこの言語が入っていません。{file}の{endonym}（{english}）で置き換えますか？元のフォルダーは保管され、後で元に戻せます。;
+	}
+
+[LANGUAGE INSTALLED]
+	{
+	ja=言語インストール完了;
+	}
+
+[{endonym} ({english}) {version} is installed in your Languages folder:]
+	{
+	ja={endonym}（{english}）{version}をLanguagesフォルダーにインストールしました：;
+	}
+
+[LANGUAGE UPDATED]
+	{
+	ja=言語更新完了;
+	}
+
+[LANGUAGE NOT INSTALLED]
+	{
+	ja=言語のインストール中止;
+	}
+
+[It holds no language.yaml.]
+	{
+	ja=language.yamlがありません。;
+	}
+
+[Its language.yaml has errors.]
+	{
+	ja=language.yamlにエラーがあります。;
+	}
+
+[It lists a font it does not hold: {name}.]
+	{
+	ja=含まれていないフォントが記載されています：{name}。;
+	}
+
+[A font in the pack cannot be opened.]
+	{
+	ja=パック内のフォントを開けません。;
+	}
+
+[Its font {name} cannot be opened.]
+	{
+	ja=フォント{name}を開けません。;
+	}
+
+[Its warm-up text cannot be read.]
+	{
+	ja=ウォームアップ用のテキストを読み取れません。;
+	}
+
+[A table in the pack does not parse.]
+	{
+	ja=パック内の表を解析できません。;
+	}
+
+[REPLACE MOD]
+	{
+	ja=MODの置き換え;
+	}
+
+[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and ROLL BACK brings it back.]
+	{
+	ja={installed}の{name}がインストールされています。{new}の{name}で置き換えますか？{installed}のものは保管され、ロールバックで元に戻せます。;
+	}
+
+[{folder} is a folder of your own, not {name}. Move or rename it, then RETRY.]
+	{
+	ja={folder}は{name}ではなく、ユーザー自身のフォルダーです。移動するか名前を変えてから、再試行してください。;
+	}
+
+[{n} KB]
+	{
+	ja={n} KB;
+	}
+
+[{n} MB]
+	{
+	ja={n} MB;
+	}
+
+[{n} GB]
+	{
+	ja={n} GB;
+	}
+
+[{n} TB]
+	{
+	ja={n} TB;
+	}
+
+// The game files screen's sizes and parts, and the touch controls' x5.
+
+[Aa]
+	{
+	ja=あA;
+	}
+
+[Core Contingency]
+	{
+	ja=Core Contingency;
+	}
+
+[Battle Tactics]
+	{
+	ja=Battle Tactics;
+	}
+
+[{source} · {cloud}]
+	{
+	ja={source} · {cloud};
+	}
+
+[x5]
+	{
+	ja=x5;
+	}
+
+[3.1c]
+	{
+	ja=3.1c;
+	}
+
+[{a} · {b}]
+	{
+	ja={a} · {b};
+	}
+
+// More of 0.8's interface words, as oa-tool interface-words lists them.
+
+[,]
+	{
+	ja=、;
+	}
+
+[·]
+	{
+	ja=·;
+	}
+
+[OPEN ANNIHILATION]
+	{
+	ja=OPEN ANNIHILATION;
+	}
+
+[The download failed]
+	{
+	ja=ダウンロードに失敗しました;
+	}
+
+[Checked against the keys you trust for {name}]
+	{
+	ja={name}の信頼済みの鍵で確認済み;
+	}
+
+[Checking {address}…]
+	{
+	ja={address}を確認中…;
+	}
+
+[From {file}]
+	{
+	ja={file}から;
+	}
+
+[Mirror of {name}]
+	{
+	ja={name}のミラー;
+	}
+
+// The Library's and Settings' later words.
+
+[Welcome to Open Annihilation]
+	{
+	ja=Open Annihilationへようこそ;
+	}
+
+[Welcome]
+	{
+	ja=ようこそ;
+	}
+
+[WELCOME]
+	{
+	ja=ようこそ;
+	}
+
+[Choose your language.]
+	{
+	ja=言語を選んでください。;
+	}
+
+[Skip setup]
+	{
+	ja=設定をスキップ;
+	}
+
+[Start playing]
+	{
+	ja=プレイを始める;
+	}
+
+[Back]
+	{
+	ja=戻る;
+	}
+
+[Next]
+	{
+	ja=次へ;
+	}
+
+[Previous]
+	{
+	ja=前へ;
+	}
+
+[Get]
+	{
+	ja=入手;
+	}
+
+[Cancel download]
+	{
+	ja=ダウンロードをキャンセル;
+	}
+
+[Retry]
+	{
+	ja=再試行;
+	}
+
+[Checking…]
+	{
+	ja=確認中…;
+	}
+
+[Couldn't download]
+	{
+	ja=ダウンロードできませんでした;
+	}
+
+[Offline]
+	{
+	ja=オフライン;
+	}
+
+[Active]
+	{
+	ja=使用中;
+	}
+
+[English]
+	{
+	ja=英語;
+	}
+
+[of]
+	{
+	ja=/;
+	}
+
+[Other languages download from Core Prime. The first download makes a random install ID, which a later step explains.]
+	{
+	ja=ほかの言語はCore Primeからダウンロードします。初回のダウンロード時にランダムなインストールIDが作られます。これについては後の手順で説明します。;
+	}
+
+[Downloads are off, so language packs stay offline.]
+	{
+	ja=ダウンロードがオフのため、言語パックはオフラインのままです。;
+	}
+
+[The catalogue could not be read, so language packs stay offline.]
+	{
+	ja=カタログを読み取れなかったため、言語パックはオフラインのままです。;
+	}
+
+[ONLINE]
+	{
+	ja=オンライン;
+	}
+
+[ONLINE FEATURES]
+	{
+	ja=オンライン機能;
+	}
+
+[Downloads, updates and a number only you hold]
+	{
+	ja=ダウンロード、更新、そして自分だけが持つ番号;
+	}
+
+[Get language packs, mods and map packs from Core Prime.]
+	{
+	ja=Core Primeから言語パック、MOD、マップパックを入手します。;
+	}
+
+[Lists of what is new are checked as the game starts and when the Library opens.]
+	{
+	ja=新着のリストは、ゲームの起動時とライブラリを開いたときに確認します。;
+	}
+
+[A random install ID, one per registry, is sent only when downloading from that registry.]
+	{
+	ja=レジストリごとに1つのランダムなインストールIDが、そのレジストリからダウンロードするときだけ送信されます。;
+	}
+
+[Your install ID]
+	{
+	ja=インストールID;
+	}
+
+[A random 128-bit number, made the first time you download from a registry, not when the game starts. Each registry that asks has its own. Core Prime asks for one. It is sent only when asking that registry for a download. Turning it off forgets it, and downloads from that registry stop. Built-in languages and files you open keep working.]
+	{
+	ja=ランダムな128ビットの番号で、ゲームの起動時ではなく、レジストリから初めてダウンロードするときに作られます。要求するレジストリごとに別の番号があり、Core Primeも1つ要求します。そのレジストリにダウンロードを要求するときだけ送信されます。オフにすると番号は破棄され、そのレジストリからのダウンロードは止まります。内蔵の言語と、自分で開いたファイルは引き続き使えます。;
+	}
+
+[Turn on online features]
+	{
+	ja=オンライン機能をオンにする;
+	}
+
+[Not now]
+	{
+	ja=今はしない;
+	}
+
+[Check for content updates stays at Automatically, and Core Prime's install ID stays on.]
+	{
+	ja=「コンテンツの更新を確認」は「自動」のまま、Core PrimeのインストールIDもオンのままです。;
+	}
+
+[Check for content updates is set to Never, and Core Prime's install ID is turned off.]
+	{
+	ja=「コンテンツの更新を確認」を「しない」に設定し、Core PrimeのインストールIDをオフにしました。;
+	}
+
+[THE MAIN MENU]
+	{
+	ja=メインメニュー;
+	}
+
+[{step} · {index} OF {count}]
+	{
+	ja={step} · {index}/{count};
+	}
+
+[Two buttons for everything Open Annihilation adds]
+	{
+	ja=Open Annihilationが加えるものは2つのボタンにまとまっています;
+	}
+
+[Settings]
+	{
+	ja=設定;
+	}
+
+[Get, update and switch mods, map packs and languages. The number counts every package you have added: mods, map packs, language packs and expansions.]
+	{
+	ja=MOD、マップパック、言語を入手、更新、切り替えます。数字は追加したすべてのパッケージ（MOD、マップパック、言語パック、拡張パック）の数です。;
+	}
+
+[Open Annihilation's own settings: controls, graphics, the interface's size, downloads and your files.]
+	{
+	ja=Open Annihilation自身の設定：操作、グラフィック、インターフェースのサイズ、ダウンロード、ユーザーファイル。;
+	}
+
+[The Library is where you get mods, map packs and languages. Settings is where you change how Open Annihilation looks and plays. Everything else on this menu is the game's own.]
+	{
+	ja=ライブラリではMOD、マップパック、言語を入手できます。設定ではOpen Annihilationの見た目と遊び方を変更できます。このメニューのほかの項目は、すべてゲーム本来のものです。;
+	}
+
+[Engine Limits]
+	{
+	ja=エンジンの上限;
+	}
+
+[ENGINE LIMITS]
+	{
+	ja=エンジンの上限;
+	}
+
+[Language & Text]
+	{
+	ja=言語とテキスト;
+	}
+
+[LANGUAGE & TEXT]
+	{
+	ja=言語とテキスト;
+	}
+
+[User Interface]
+	{
+	ja=ユーザーインターフェース;
+	}
+
+[USER INTERFACE]
+	{
+	ja=ユーザーインターフェース;
+	}
+
+[System]
+	{
+	ja=システム;
+	}
+
+[SYSTEM]
+	{
+	ja=システム;
+	}
+
+[Welcome setup]
+	{
+	ja=初回設定;
+	}
+
+[SHOW AGAIN]
+	{
+	ja=もう一度表示;
+	}
+
+[Walk through the language, online features and the OA buttons again.]
+	{
+	ja=言語、オンライン機能、OAのボタンの説明をもう一度見ます。;
+	}
+
+[File Type Registration]
+	{
+	ja=ファイルの種類の関連付け;
+	}
+
+[File types]
+	{
+	ja=ファイルの種類;
+	}
+
+[Mod packages (.oamod)]
+	{
+	ja=MODパッケージ（.oamod）;
+	}
+
+[Map packs (.oamap)]
+	{
+	ja=マップパック（.oamap）;
+	}
+
+[Language packs (.oalang)]
+	{
+	ja=言語パック（.oalang）;
+	}
+
+[Registry files (.oareg)]
+	{
+	ja=レジストリファイル（.oareg）;
+	}
+
+[The system takes these file types from the app.]
+	{
+	ja=これらのファイルの種類は、システムがアプリから取得します。;
+	}
+
+[and]
+	{
+	ja=と;
+	}
+
+[macOS kept Open Annihilation as the opener of {types}. To choose another, select a {types} file in Finder, then File › Get Info › Open with › Change All.]
+	{
+	ja=macOSは引き続きOpen Annihilationを{types}を開くアプリにしています。別のアプリを選ぶには、Finderで{types}ファイルを選択し、「ファイル」›「情報を見る」›「このアプリケーションで開く」›「すべてを変更」を選んでください。;
+	}
+
+[macOS kept Open Annihilation as the opener of {types}. To choose another, select one of them in Finder, then File › Get Info › Open with › Change All.]
+	{
+	ja=macOSは引き続きOpen Annihilationを{types}を開くアプリにしています。別のアプリを選ぶには、Finderでそのどれかを選択し、「ファイル」›「情報を見る」›「このアプリケーションで開く」›「すべてを変更」を選んでください。;
+	}
+
+[This system reads HTTPS registries over HTTP.]
+	{
+	ja=このシステムはHTTPSのレジストリをHTTPで読み込みます。;
+	}
+
+[REGISTRIES IN THE LIBRARY…]
+	{
+	ja=レジストリはライブラリに…;
+	}
+
+[Registries are in the Library.]
+	{
+	ja=レジストリはライブラリにあります。;
+	}
+
+[MOD]
+	{
+	ja=MOD;
+	}
+
+[MAPS]
+	{
+	ja=マップ;
+	}
+
+[SWITCH OFF]
+	{
+	ja=オフにする;
+	}
+
+[UNLOAD MOD]
+	{
+	ja=MODを解除;
+	}
+
+[UNINSTALL]
+	{
+	ja=アンインストール;
+	}
+
+[{language} · built in]
+	{
+	ja={language} · 内蔵;
+	}
+
+[Coverage {percent}%]
+	{
+	ja=対応率{percent}%;
+	}
+
+[From {pack}]
+	{
+	ja={pack}から;
+	}
+
+[{count} player]
+	{
+	ja={count}人;
+	}
+
+[{map} · {players} · {size}]
+	{
+	ja={map} · {players} · {size};
+	}
+
+[No map packs are installed.]
+	{
+	ja=マップパックはインストールされていません。;
+	}
+
+[New]
+	{
+	ja=新着;
+	}
+
+[{filter} ({count})]
+	{
+	ja={filter}（{count}）;
+	}
+
+[{tab} ({count})]
+	{
+	ja={tab}（{count}）;
+	}
+
+[Author]
+	{
+	ja=作者;
+	}
+
+[Latest]
+	{
+	ja=最新;
+	}
+
+[{version} (rev {revision})]
+	{
+	ja={version}（リビジョン{revision}）;
+	}
+
+[Update available · {size} to download]
+	{
+	ja=更新あり · ダウンロード{size};
+	}
+
+[the old copy]
+	{
+	ja=古いコピー;
+	}
+
+[the new copy]
+	{
+	ja=新しいコピー;
+	}
+
+[old]
+	{
+	ja=旧;
+	}
+
+[new]
+	{
+	ja=新;
+	}
+
+[offline]
+	{
+	ja=オフライン;
+	}
+
+[Platform]
+	{
+	ja=プラットフォーム;
+	}
+
+[Reg]
+	{
+	ja=レジストリ;
+	}
+
+[Refresh]
+	{
+	ja=更新;
+	}
+
+[Refreshing]
+	{
+	ja=更新中;
+	}
+
+[REFRESH]
+	{
+	ja=更新;
+	}
+
+[refreshed {age}]
+	{
+	ja={age}に更新;
+	}
+
+[never refreshed]
+	{
+	ja=未更新;
+	}
+
+[Signing key]
+	{
+	ja=署名鍵;
+	}
+
+[Signing keys]
+	{
+	ja=署名鍵;
+	}
+
+[built in]
+	{
+	ja=内蔵;
+	}
+
+[added by you]
+	{
+	ja=自分で追加;
+	}
+
+[No signing key]
+	{
+	ja=署名鍵なし;
+	}
+
+[Map packs can't be uninstalled during a game.]
+	{
+	ja=ゲーム中はマップパックをアンインストールできません。;
+	}
+
+[It is in the download queue: CANCEL it before you uninstall it.]
+	{
+	ja=ダウンロード待ちです。アンインストールする前に「キャンセル」してください。;
+	}
+
+[Uninstall {name}]
+	{
+	ja={name}をアンインストール;
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed.]
+	{
+	ja={name}をアンインストールしますか？フォルダー{folder}が削除されます。;
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy ROLL BACK keeps.]
+	{
+	ja={name}をアンインストールしますか？フォルダー{folder}が削除され、ロールバック用に保管しているコピーも一緒に削除されます。;
+	}
+
+[GET installs it again.]
+	{
+	ja=「入手」で再インストールできます。;
+	}
+
+[No registry lists it, so the Library cannot get it again.]
+	{
+	ja=どのレジストリにも載っていないため、ライブラリから再入手することはできません。;
+	}
+
+[You are playing {name}. Switch it off first with SWITCH OFF, then uninstall it.]
+	{
+	ja={name}をプレイ中です。先に「オフにする」でオフにしてから、アンインストールしてください。;
+	}
+
+[The game is shown in {name}. Choose another language in Settings › Language first, then uninstall it.]
+	{
+	ja=ゲームは{name}で表示されています。先に設定 › 言語でほかの言語を選んでから、アンインストールしてください。;
+	}
+
+[{name} was not uninstalled. {reason}]
+	{
+	ja={name}をアンインストールできませんでした。{reason};
+	}
+
+[Open Annihilation, or another copy of it, is still changing its folder. Try again in a moment.]
+	{
+	ja=Open Annihilationか、その別のコピーがまだフォルダーを変更しています。少し待ってからもう一度試してください。;
+	}
+
+[Its folder changed since the Library listed it. Try again.]
+	{
+	ja=ライブラリに表示されてから、フォルダーが変更されました。もう一度試してください。;
+	}
+
+[Its folder is a link, and OA never removes what a link leads to. OPEN FOLDER shows it.]
+	{
+	ja=フォルダーがリンクになっています。OAはリンク先のものを削除しません。「フォルダーを開く」で表示できます。;
+	}
+
+[Its folder is not in your own Open Annihilation folder, and OA removes nothing outside it.]
+	{
+	ja=フォルダーがOpen Annihilationのユーザーフォルダーの外にあります。OAはその外にあるものを削除しません。;
+	}
+
+[Its folder could not be moved; another program may be using it. Close it, then try again.]
+	{
+	ja=フォルダーを移動できませんでした。ほかのプログラムが使用している可能性があります。そのプログラムを閉じてから、もう一度試してください。;
+	}
+
+[The version installed is kept, and ROLL BACK in the Library brings it back.]
+	{
+	ja=インストール済みのバージョンは保管され、ライブラリのロールバックで元に戻せます。;
+	}
+
+[Revision {installed} is kept, and ROLL BACK in the Library brings it back.]
+	{
+	ja=リビジョン{installed}は保管され、ライブラリのロールバックで元に戻せます。;
+	}
+
+[Replacing keeps {installed}, and ROLL BACK in the Library brings it back.]
+	{
+	ja=置き換えても{installed}は保管され、ライブラリのロールバックで元に戻せます。;
+	}
+
+[Choose PLAY NOW to play it, or choose it later with PLAY NOW in the Library.]
+	{
+	ja=「今すぐプレイ」でプレイするか、後でライブラリの「今すぐプレイ」で選んでください。;
+	}
+
+[Choose it with PLAY NOW in the Library to play it.]
+	{
+	ja=プレイするには、ライブラリの「今すぐプレイ」で選んでください。;
+	}
+
+[{title} is now {new}. {old} is kept, and ROLL BACK in the Library brings it back.]
+	{
+	ja={title}は{new}になりました。{old}は保管され、ライブラリのロールバックで元に戻せます。;
+	}
+
+[It is still copied, so it can be fixed in your file manager; the Library's Mods tab plays only mods that work.]
+	{
+	ja=ファイルマネージャーで修正できるように、コピーはされます。ライブラリの「MOD」タブでプレイできるのは、動作するMODだけです。;
+	}
+
+[Built into the game]
+	{
+	ja=ゲームに内蔵;
+	}
+
+[Close]
+	{
+	ja=閉じる;
+	}
+
+[In use]
+	{
+	ja=使用中;
+	}
+
+[No installed map matches.]
+	{
+	ja=一致するインストール済みのマップはありません。;
+	}
+
+[USE NOW]
+	{
+	ja=今すぐ使う;
+	}
+
+[{shown} of {all}]
+	{
+	ja={all}件中{shown}件;
+	}
+
+// Setup, Game Content, the map browser, expansions and more Settings
+// rows.
+
+["{title}" was saved with {name}, which is off.]
+	{
+	ja=「{title}」はオフになっている{name}でセーブされています。;
+	}
+
+["{title}" was saved with {name}.]
+	{
+	ja=「{title}」は{name}でセーブされています。;
+	}
+
+[1 file differs]
+	{
+	ja=1ファイルが異なります;
+	}
+
+[1 of {total} files differs]
+	{
+	ja={total}ファイル中1ファイルが異なります;
+	}
+
+[1997]
+	{
+	ja=1997;
+	}
+
+[A]
+	{
+	ja=A;
+	}
+
+[A continues. B goes back.]
+	{
+	ja=Aで続行、Bで戻る。;
+	}
+
+[A drag draws a selection box; two fingers scroll the map.]
+	{
+	ja=ドラッグで範囲選択、2本指でマップをスクロールします。;
+	}
+
+[A drag scrolls the map; hold, then drag, for a selection box.]
+	{
+	ja=ドラッグでマップをスクロール、長押ししてからドラッグで範囲選択します。;
+	}
+
+[A middle click pans the view towards the pointer until you click or press a key.]
+	{
+	ja=中クリックすると、クリックするかキーを押すまで、画面がポインターの方向へ動きます。;
+	}
+
+[A tapped QUEUE, ADD or x5 stays on until it is tapped again.]
+	{
+	ja=タップした予約、追加、x5は、もう一度タップするまでオンのままです。;
+	}
+
+[A tapped QUEUE, ADD or x5 turns off after the next order or selection.]
+	{
+	ja=タップした予約、追加、x5は、次の命令か選択の後にオフになります。;
+	}
+
+[A window hides its title bar and borders while a game is played; menus show them.]
+	{
+	ja=ゲームのプレイ中はウィンドウのタイトルバーと枠を隠し、メニューでは表示します。;
+	}
+
+[A window shows its title bar and borders on every screen, a game's included.]
+	{
+	ja=ゲーム中も含め、すべての画面でウィンドウのタイトルバーと枠を表示します。;
+	}
+
+[After restoring this {device} from a backup, add the game files again.]
+	{
+	ja=この{device}をバックアップから復元した後は、ゲームファイルを追加し直してください。;
+	}
+
+[All files match]
+	{
+	ja=すべてのファイルが一致;
+	}
+
+[Any]
+	{
+	ja=指定なし;
+	}
+
+[Applications]
+	{
+	ja=アプリケーション;
+	}
+
+[As far as the view always went: 1/6 of normal size with Full hardware acceleration, else 1/2.]
+	{
+	ja=従来どおりの範囲：ハードウェアアクセラレーションがフルなら通常の1/6、それ以外は1/2まで。;
+	}
+
+[Automatic: a selection box on a tablet, scrolling on a phone.]
+	{
+	ja=自動：タブレットでは範囲選択、スマートフォンではスクロール。;
+	}
+
+[B]
+	{
+	ja=B;
+	}
+
+[BASE GAME]
+	{
+	ja=ベースゲーム;
+	}
+
+[Battle room · No Mod]
+	{
+	ja=対戦ルーム · MODなし;
+	}
+
+[Bottles]
+	{
+	ja=Bottles;
+	}
+
+[CHANGE…]
+	{
+	ja=変更…;
+	}
+
+[COPYING]
+	{
+	ja=コピー中;
+	}
+
+[Campaign]
+	{
+	ja=キャンペーン;
+	}
+
+[Cavedog tilesets]
+	{
+	ja=Cavedogのタイルセット;
+	}
+
+[Cavedog units]
+	{
+	ja=Cavedogのユニット;
+	}
+
+[Chat in any language with players who have it; others see ? for letters they lack.]
+	{
+	ja=これを有効にしたプレイヤーとは、どの言語でもチャットできます。ほかのプレイヤーには、表示できない文字が?で表示されます。;
+	}
+
+[Check again]
+	{
+	ja=再確認;
+	}
+
+[Checking… {percent}%]
+	{
+	ja=確認中… {percent}%;
+	}
+
+[Choosing another base game turns on all of its expansions and unloads the mod you are playing ({mod}). The change applies when the Library closes.]
+	{
+	ja=別のベースゲームを選ぶと、その拡張パックがすべてオンになり、プレイ中のMOD（{mod}）は解除されます。変更はライブラリを閉じたときに適用されます。;
+	}
+
+[Choosing another base game turns on all of its expansions. The change applies when the Library closes.]
+	{
+	ja=別のベースゲームを選ぶと、その拡張パックがすべてオンになります。変更はライブラリを閉じたときに適用されます。;
+	}
+
+[Choosing it asks for the demo installer, then copies it. It takes no expansions.]
+	{
+	ja=選ぶと体験版のインストーラーを求められ、それをコピーします。拡張パックは使えません。;
+	}
+
+[Choosing it asks for the game, then copies it.]
+	{
+	ja=選ぶとゲームを求められ、それをコピーします。;
+	}
+
+[Continue]
+	{
+	ja=続行;
+	}
+
+[Copied]
+	{
+	ja=コピー済み;
+	}
+
+[Copied from {source}]
+	{
+	ja={source}からコピー;
+	}
+
+[Copies go to Documents › Open Annihilation]
+	{
+	ja=コピー先：Documents › Open Annihilation;
+	}
+
+[Copy again from…]
+	{
+	ja=別の場所から再コピー…;
+	}
+
+[Copy the game]
+	{
+	ja=ゲームをコピー;
+	}
+
+[Copying Total Annihilation]
+	{
+	ja=Total Annihilationをコピー中;
+	}
+
+[DETAILS…]
+	{
+	ja=詳細…;
+	}
+
+[Demo]
+	{
+	ja=体験版;
+	}
+
+[Different from the host: a file does not match.]
+	{
+	ja=ホストと異なります：一致しないファイルがあります。;
+	}
+
+[Different from the host: another base game ({name}).]
+	{
+	ja=ホストと異なります：別のベースゲーム（{name}）です。;
+	}
+
+[Different from the host: no {name}.]
+	{
+	ja=ホストと異なります：{name}がありません。;
+	}
+
+[Different from the host: {name} is on.]
+	{
+	ja=ホストと異なります：{name}がオンです。;
+	}
+
+[Documents]
+	{
+	ja=書類;
+	}
+
+[Dots farther out than 1/12 of normal size. Closer in, units are drawn as models.]
+	{
+	ja=通常の1/12より遠くでは点で表示します。それより近いと、ユニットはモデルで描画されます。;
+	}
+
+[Dots farther out than 1/16 of normal size. Closer in, units are drawn as models.]
+	{
+	ja=通常の1/16より遠くでは点で表示します。それより近いと、ユニットはモデルで描画されます。;
+	}
+
+[Dots farther out than 1/2 of normal size. Closer in, units are drawn as models.]
+	{
+	ja=通常の1/2より遠くでは点で表示します。それより近いと、ユニットはモデルで描画されます。;
+	}
+
+[Dots farther out than 1/3 of normal size. Closer in, units are drawn as models.]
+	{
+	ja=通常の1/3より遠くでは点で表示します。それより近いと、ユニットはモデルで描画されます。;
+	}
+
+[Dots farther out than 1/4 of normal size. Closer in, units are drawn as models.]
+	{
+	ja=通常の1/4より遠くでは点で表示します。それより近いと、ユニットはモデルで描画されます。;
+	}
+
+[Dots farther out than 1/6 of normal size. Closer in, units are drawn as models.]
+	{
+	ja=通常の1/6より遠くでは点で表示します。それより近いと、ユニットはモデルで描画されます。;
+	}
+
+[Dots farther out than 1/8 of normal size. Closer in, units are drawn as models.]
+	{
+	ja=通常の1/8より遠くでは点で表示します。それより近いと、ユニットはモデルで描画されます。;
+	}
+
+[Downloaded]
+	{
+	ja=ダウンロード済み;
+	}
+
+[EXPANSION INSTALLED]
+	{
+	ja=拡張パックインストール完了;
+	}
+
+[EXPANSION NOT INSTALLED]
+	{
+	ja=拡張パックのインストール中止;
+	}
+
+[EXPANSIONS]
+	{
+	ja=拡張パック;
+	}
+
+[EXPANSIONS · {on} OF {count} ON]
+	{
+	ja=拡張パック · {count}個中{on}個がオン;
+	}
+
+[Expansions]
+	{
+	ja=拡張パック;
+	}
+
+[Explosions do not light up the ground, whatever a mod asks for.]
+	{
+	ja=MODの指定に関係なく、爆発は地面を照らしません。;
+	}
+
+[Explosions light up the ground as the game drew it, or less where a mod asks.]
+	{
+	ja=爆発は元のゲームと同じように地面を照らします。MODの指定があればそれより弱くなります。;
+	}
+
+[Explosions light up the ground at half strength, or less where a mod asks.]
+	{
+	ja=爆発は半分の強さで地面を照らします。MODの指定があればそれより弱くなります。;
+	}
+
+[FOUND]
+	{
+	ja=検出;
+	}
+
+[Files that differ:]
+	{
+	ja=異なるファイル：;
+	}
+
+[Filter]
+	{
+	ja=絞り込み;
+	}
+
+[Finder's Get Info › Open with chooses another opener.]
+	{
+	ja=Finderの「情報を見る」›「このアプリケーションで開く」で別のアプリを選べます。;
+	}
+
+[For the Total Annihilation demo only]
+	{
+	ja=Total Annihilation体験版専用;
+	}
+
+[For {name} only]
+	{
+	ja={name}専用;
+	}
+
+[Free]
+	{
+	ja=自由;
+	}
+
+[From {place}…]
+	{
+	ja={place}から…;
+	}
+
+[Full screen at this size, or a window of it. Applies when you press OK.]
+	{
+	ja=このサイズでフルスクリーン、または同じサイズのウィンドウで表示します。OKを押すと適用されます。;
+	}
+
+[GAME CONTENT]
+	{
+	ja=ゲームコンテンツ;
+	}
+
+[GAMES]
+	{
+	ja=ゲーム;
+	}
+
+[GAMES ON THIS DECK]
+	{
+	ja=このDeckのゲーム;
+	}
+
+[GOG installer (Windows)]
+	{
+	ja=GOGインストーラー（Windows）;
+	}
+
+[GOG installer (macOS)]
+	{
+	ja=GOGインストーラー（macOS）;
+	}
+
+[GOG installer (older Macs)]
+	{
+	ja=GOGインストーラー（古いMac）;
+	}
+
+[GOG installer for Windows]
+	{
+	ja=Windows用GOGインストーラー;
+	}
+
+[GOG installer for macOS]
+	{
+	ja=macOS用GOGインストーラー;
+	}
+
+[GOG installer for older Macs]
+	{
+	ja=古いMac用GOGインストーラー;
+	}
+
+[Game]
+	{
+	ja=ゲーム;
+	}
+
+[Game Content]
+	{
+	ja=ゲームコンテンツ;
+	}
+
+[Game content]
+	{
+	ja=ゲームコンテンツ;
+	}
+
+[Games]
+	{
+	ja=ゲーム;
+	}
+
+[Heroic]
+	{
+	ja=Heroic;
+	}
+
+[Holds {bundles}.]
+	{
+	ja={bundles}を含みます。;
+	}
+
+[Home]
+	{
+	ja=ホーム;
+	}
+
+[How large Open Annihilation's own screens are drawn. Auto suits the window's height.]
+	{
+	ja=Open Annihilation自身の画面を描画する大きさです。「自動」はウィンドウの高さに合わせます。;
+	}
+
+[INSTALLING EXPANSION]
+	{
+	ja=拡張パックをインストール中;
+	}
+
+[If OA stops, the copy carries on from here next time.]
+	{
+	ja=OAが停止しても、次回はここからコピーを再開します。;
+	}
+
+[In Full the card draws 16x16 samples a pixel and scales them down for smoother edges.]
+	{
+	ja=フルでは、グラフィックカードが1ピクセルにつき16x16サンプルを描画して縮小し、縁をなめらかにします。;
+	}
+
+[In Full the card draws 16x16 samples a pixel the most this window allows, scaled down.]
+	{
+	ja=フルでは、グラフィックカードがこのウィンドウで可能な最大の1ピクセルにつき16x16サンプルを描画して縮小します。;
+	}
+
+[In Full the card draws 2x2 samples a pixel and scales them down for smoother edges.]
+	{
+	ja=フルでは、グラフィックカードが1ピクセルにつき2x2サンプルを描画して縮小し、縁をなめらかにします。;
+	}
+
+[In Full the card draws 2x2 samples a pixel the most this window allows, scaled down.]
+	{
+	ja=フルでは、グラフィックカードがこのウィンドウで可能な最大の1ピクセルにつき2x2サンプルを描画して縮小します。;
+	}
+
+[In Full the card draws 4x4 samples a pixel and scales them down for smoother edges.]
+	{
+	ja=フルでは、グラフィックカードが1ピクセルにつき4x4サンプルを描画して縮小し、縁をなめらかにします。;
+	}
+
+[In Full the card draws 4x4 samples a pixel the most this window allows, scaled down.]
+	{
+	ja=フルでは、グラフィックカードがこのウィンドウで可能な最大の1ピクセルにつき4x4サンプルを描画して縮小します。;
+	}
+
+[In Full the card draws 8x8 samples a pixel and scales them down for smoother edges.]
+	{
+	ja=フルでは、グラフィックカードが1ピクセルにつき8x8サンプルを描画して縮小し、縁をなめらかにします。;
+	}
+
+[In Full the card draws 8x8 samples a pixel the most this window allows, scaled down.]
+	{
+	ja=フルでは、グラフィックカードがこのウィンドウで可能な最大の1ピクセルにつき8x8サンプルを描画して縮小します。;
+	}
+
+[In Full the graphics card draws the view 1:1; a level draws it finer for smoother edges.]
+	{
+	ja=フルでは、グラフィックカードが画面を1:1で描画します。レベルを上げると細かく描画され、縁がなめらかになります。;
+	}
+
+[In to 2x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	ja=最大で通常の2倍までズームインします。ホイール、ピンチ、コントローラーはそこで止まります。;
+	}
+
+[In to 3x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	ja=最大で通常の3倍までズームインします。ホイール、ピンチ、コントローラーはそこで止まります。;
+	}
+
+[In to 4x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	ja=最大で通常の4倍までズームインします。ホイール、ピンチ、コントローラーはそこで止まります。;
+	}
+
+[Install the expansion {name}?]
+	{
+	ja=拡張パック{name}をインストールしますか？;
+	}
+
+[It holds no oaexp.yaml at its top, or in a single folder at its top.]
+	{
+	ja=最上位にも、最上位の単一フォルダー内にもoaexp.yamlがありません。;
+	}
+
+[It is not one of the game's expansions.]
+	{
+	ja=このゲームの拡張パックではありません。;
+	}
+
+[Its oaexp.yaml has errors.]
+	{
+	ja=oaexp.yamlにエラーがあります。;
+	}
+
+[Its oaexp.yaml is larger than 256 KiB.]
+	{
+	ja=oaexp.yamlが256 KiBを超えています。;
+	}
+
+[Locate another…]
+	{
+	ja=別の場所を探す…;
+	}
+
+[Lutris]
+	{
+	ja=Lutris;
+	}
+
+[Middle-click pans]
+	{
+	ja=中クリックで移動;
+	}
+
+[Mirrors the roles: the left pad points, the right pad moves the map, triggers and grips swap.]
+	{
+	ja=役割を左右反転：左パッドでポインター、右パッドでマップ移動、トリガーとグリップも入れ替わります。;
+	}
+
+[Modern fonts for in-game text, including internationalization.]
+	{
+	ja=ゲーム内のテキストにモダンフォントを使い、多言語の文字を表示します。;
+	}
+
+[NOW]
+	{
+	ja=現在;
+	}
+
+[Needs {names} · on]
+	{
+	ja={names}が必要 · オン;
+	}
+
+[Needs {names}, which are off]
+	{
+	ja={names}が必要ですが、オフです;
+	}
+
+[Needs {name} · on]
+	{
+	ja={name}が必要 · オン;
+	}
+
+[Needs {name}, which is off]
+	{
+	ja={name}が必要ですが、オフです;
+	}
+
+[Needs {name}, which is off.]
+	{
+	ja={name}が必要ですが、オフです。;
+	}
+
+[Never closer than normal size. The wheel, a pinch and a controller stop there.]
+	{
+	ja=通常のサイズより近くにはズームしません。ホイール、ピンチ、コントローラーはそこで止まります。;
+	}
+
+[Not added]
+	{
+	ja=未追加;
+	}
+
+[Nothing is installed and your files are not changed.]
+	{
+	ja=何もインストールせず、ファイルも変更しません。;
+	}
+
+[OA copies the game once. The installation is left as it is.]
+	{
+	ja=OAはゲームを一度だけコピーします。インストール先はそのままです。;
+	}
+
+[OA plays from its own copy in Documents › Open Annihilation. The installation is not used or changed.]
+	{
+	ja=OAはDocuments › Open Annihilationにある自分のコピーでプレイします。インストール先は使用も変更もしません。;
+	}
+
+[Open]
+	{
+	ja=開く;
+	}
+
+[Open folder]
+	{
+	ja=フォルダーを開く;
+	}
+
+[Open these files with the game from your file manager.]
+	{
+	ja=ファイルマネージャーから、これらのファイルをゲームで開きます。;
+	}
+
+[Out to 1/16 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	ja=通常の1/16、またはマップ全体までズームアウトします。ユニットの見え方は「グラフィック」の「ズームアウト時のユニット」で決まります。;
+	}
+
+[Out to 1/2 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	ja=通常の1/2、またはマップ全体までズームアウトします。ユニットの見え方は「グラフィック」の「ズームアウト時のユニット」で決まります。;
+	}
+
+[Out to 1/32 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	ja=通常の1/32、またはマップ全体までズームアウトします。ユニットの見え方は「グラフィック」の「ズームアウト時のユニット」で決まります。;
+	}
+
+[Out to 1/4 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	ja=通常の1/4、またはマップ全体までズームアウトします。ユニットの見え方は「グラフィック」の「ズームアウト時のユニット」で決まります。;
+	}
+
+[Out to 1/8 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	ja=通常の1/8、またはマップ全体までズームアウトします。ユニットの見え方は「グラフィック」の「ズームアウト時のユニット」で決まります。;
+	}
+
+[Out until the whole map fits the view. Graphics' Zoomed out units says how units look.]
+	{
+	ja=マップ全体が画面に収まるまでズームアウトします。ユニットの見え方は「グラフィック」の「ズームアウト時のユニット」で決まります。;
+	}
+
+[PLACES]
+	{
+	ja=場所;
+	}
+
+[Past After zoom, each unit is a dot of its owner's colour, framed while selected.]
+	{
+	ja=「切り替え倍率」を超えると、各ユニットは持ち主の色の点で表示され、選択中は枠が付きます。;
+	}
+
+[Pause]
+	{
+	ja=一時停止;
+	}
+
+[Program Files]
+	{
+	ja=Program Files;
+	}
+
+[Quit]
+	{
+	ja=終了;
+	}
+
+[SELECTED]
+	{
+	ja=選択中;
+	}
+
+[Select a folder or an installer.]
+	{
+	ja=フォルダーかインストーラーを選んでください。;
+	}
+
+[Setup]
+	{
+	ja=セットアップ;
+	}
+
+[Skip]
+	{
+	ja=スキップ;
+	}
+
+[Skirmish · No Mod]
+	{
+	ja=スカーミッシュ · MODなし;
+	}
+
+[Steam · Proton]
+	{
+	ja=Steam · Proton;
+	}
+
+[Sticky]
+	{
+	ja=吸着;
+	}
+
+[Switching to {name} restarts the game's files, then loads this save.]
+	{
+	ja={name}に切り替えるとゲームのファイルを読み込み直してから、このセーブデータをロードします。;
+	}
+
+[TA demo installer]
+	{
+	ja=TA体験版のインストーラー;
+	}
+
+[THE GAME]
+	{
+	ja=ゲーム;
+	}
+
+[THE SAVE]
+	{
+	ja=セーブデータ;
+	}
+
+[TURN OFF]
+	{
+	ja=オフにする;
+	}
+
+[TURN ON {name}]
+	{
+	ja={name}をオンにする;
+	}
+
+[The display's own pixel density (Retina on a Mac). Applies from the next start.]
+	{
+	ja=ディスプレイ本来のピクセル密度（MacではRetina）を使います。次回の起動から有効になります。;
+	}
+
+[The expansion holds {name}, which it does not have.]
+	{
+	ja=拡張パックに、本来含まれないはずの{name}が入っています。;
+	}
+
+[The expansion is missing {name}.]
+	{
+	ja=拡張パックに{name}がありません。;
+	}
+
+[The file {name} is not the expansion's file.]
+	{
+	ja=ファイル{name}は、この拡張パックのファイルではありません。;
+	}
+
+[The first press clears the selection, the second opens the menu.]
+	{
+	ja=1回押すと選択を解除し、2回目でメニューを開きます。;
+	}
+
+[The following content for your game does not match our expected sizes:]
+	{
+	ja=ゲームの以下のコンテンツが、想定されたサイズと一致しません：;
+	}
+
+[The game OA plays. Mods, maps and languages say which base games they work with.]
+	{
+	ja=OAがプレイするゲームです。MOD、マップ、言語には、対応するベースゲームが記載されています。;
+	}
+
+[The game cannot start until the content matches.]
+	{
+	ja=コンテンツが一致するまで、ゲームを開始できません。;
+	}
+
+[The game cannot start until the host turns it on, or {player} turns it off.]
+	{
+	ja=ホストがこれをオンにするか、{player}がオフにするまで、ゲームを開始できません。;
+	}
+
+[The game cannot start until {player} turns it on, or the host turns it off.]
+	{
+	ja={player}がこれをオンにするか、ホストがオフにするまで、ゲームを開始できません。;
+	}
+
+[The game could not be copied.]
+	{
+	ja=ゲームをコピーできませんでした。;
+	}
+
+[The game still plays with these files, but network games with other players may not start, and recordings may not replay the same. Copy the content again from another source to fix it.]
+	{
+	ja=これらのファイルでもゲームはプレイできますが、ほかのプレイヤーとのネットワーク対戦が始まらなかったり、録画が同じように再生されなかったりする場合があります。直すには、別の入手元からコンテンツをもう一度コピーしてください。;
+	}
+
+[The game's own text and unit names, where its data has them in the language.]
+	{
+	ja=ゲーム本来のテキストとユニット名を、データにその言語があれば表示します。;
+	}
+
+[The installer of the Total Annihilation demo (1997).]
+	{
+	ja=Total Annihilation体験版（1997）のインストーラーです。;
+	}
+
+[The largest whole-number scale that fits: smaller menus, every pixel square.]
+	{
+	ja=収まる最大の整数倍で拡大します。メニューは小さめになりますが、すべてのピクセルが正方形になります。;
+	}
+
+[The menus fill the window, every pixel as wide as the next.]
+	{
+	ja=メニューをウィンドウいっぱいに広げ、すべてのピクセルの幅をそろえます。;
+	}
+
+[The menus fill the window, unfiltered, as the game always drew them.]
+	{
+	ja=メニューをウィンドウいっぱいに広げ、元のゲームと同じくフィルターをかけずに描画します。;
+	}
+
+[The minimap and the thumb controls on the right, the orders on the left.]
+	{
+	ja=ミニマップと親指用の操作は右、命令は左に配置します。;
+	}
+
+[The mod was unloaded because an expansion it needs is off. The game plays with No Mod.]
+	{
+	ja=必要な拡張パックがオフのため、MODを解除しました。MODなしでプレイします。;
+	}
+
+[The pointer leaves a window's edge, as before.]
+	{
+	ja=従来どおり、ポインターはウィンドウの端から出られます。;
+	}
+
+[The pointer rests on the edge so the view scrolls.]
+	{
+	ja=ポインターが端に留まり、画面がスクロールします。;
+	}
+
+[The right stick moves the pointer and the left stick the map.]
+	{
+	ja=右スティックでポインター、左スティックでマップを動かします。;
+	}
+
+[The right stick moves the pointer, as in the Sticks scheme.]
+	{
+	ja=「スティック」方式と同じく、右スティックでポインターを動かします。;
+	}
+
+[The right trackpad points and the left one moves the map; a pad without trackpads plays Sticks.]
+	{
+	ja=右トラックパッドでポインター、左トラックパッドでマップを動かします。トラックパッドのないコントローラーでは「スティック」方式になります。;
+	}
+
+[The side panel and bars grow with the window, up to twice the original game's size.]
+	{
+	ja=サイドパネルとバーがウィンドウに合わせて大きくなります（最大で元のゲームの2倍）。;
+	}
+
+[The side panel and bars keep the original game's size on every window.]
+	{
+	ja=サイドパネルとバーは、どのウィンドウでも元のゲームのサイズのままです。;
+	}
+
+[The size of game text in the modern fonts. Larger sizes are easier to read.]
+	{
+	ja=モダンフォントでのゲームテキストのサイズです。大きいほど読みやすくなります。;
+	}
+
+[The size of game text in the modern fonts. The game's own fonts have fixed sizes.]
+	{
+	ja=モダンフォントでのゲームテキストのサイズです。ゲーム本来のフォントはサイズが固定です。;
+	}
+
+[The size of the touch controls; the game's own screens keep theirs.]
+	{
+	ja=タッチ操作ボタンのサイズです。ゲーム本来の画面のサイズは変わりません。;
+	}
+
+[The view stays on the map, as the game kept it. With more than the map in view, it is centred.]
+	{
+	ja=元のゲームと同じく、画面はマップ内に留まります。マップより広く表示されるときは中央に配置します。;
+	}
+
+[This base game is used when the Library closes.]
+	{
+	ja=このベースゲームは、ライブラリを閉じたときに使われます。;
+	}
+
+[This game has no expansions.]
+	{
+	ja=このゲームには拡張パックがありません。;
+	}
+
+[This map is for the TA demo.]
+	{
+	ja=このマップはTA体験版用です。;
+	}
+
+[This map is for {name}.]
+	{
+	ja=このマップは{name}用です。;
+	}
+
+[This run names its content, so it cannot switch.]
+	{
+	ja=今回の起動ではコンテンツが指定されているため、切り替えられません。;
+	}
+
+[This save needs other content]
+	{
+	ja=このセーブデータには別のコンテンツが必要です;
+	}
+
+[To Documents › Open Annihilation › Games and Expansions]
+	{
+	ja=Documents › Open Annihilation › Games and Expansionsへ;
+	}
+
+[Total Annihilation demo]
+	{
+	ja=Total Annihilation体験版;
+	}
+
+[Total Annihilation demo (1997)]
+	{
+	ja=Total Annihilation体験版（1997）;
+	}
+
+[Total Annihilation: Commander Pack. Recognised by its size. The game is read out of it; nothing is installed.]
+	{
+	ja=Total Annihilation: Commander Pack。サイズで識別しました。ゲームはここから読み込まれ、何もインストールされません。;
+	}
+
+[Turn it on in the Library.]
+	{
+	ja=ライブラリでオンにしてください。;
+	}
+
+[Turn off {name}?]
+	{
+	ja={name}をオフにしますか？;
+	}
+
+[Turn on and load]
+	{
+	ja=オンにしてロード;
+	}
+
+[Turning it on applies when the Library closes, and then PLAY NOW works.]
+	{
+	ja=ライブラリを閉じるとオンになり、「今すぐプレイ」が使えるようになります。;
+	}
+
+[Turning it on applies when the Library closes, and then USE NOW works.]
+	{
+	ja=ライブラリを閉じるとオンになり、「今すぐ使う」が使えるようになります。;
+	}
+
+[Turning it on applies when the Library closes.]
+	{
+	ja=ライブラリを閉じるとオンになります。;
+	}
+
+[Turning them on applies when the Library closes, and then PLAY NOW works.]
+	{
+	ja=ライブラリを閉じるとオンになり、「今すぐプレイ」が使えるようになります。;
+	}
+
+[Turning them on applies when the Library closes, and then USE NOW works.]
+	{
+	ja=ライブラリを閉じるとオンになり、「今すぐ使う」が使えるようになります。;
+	}
+
+[Turning them on applies when the Library closes.]
+	{
+	ja=ライブラリを閉じるとオンになります。;
+	}
+
+[Turning {name} on restarts the game's files, then loads this save. Your other expansions stay as they are.]
+	{
+	ja={name}をオンにするとゲームのファイルを読み込み直してから、このセーブデータをロードします。ほかの拡張パックはそのままです。;
+	}
+
+[USE THIS GAME]
+	{
+	ja=このゲームを使う;
+	}
+
+[Units are drawn as models at every zoom. Far out on a large map, needs a fast CPU.]
+	{
+	ja=すべてのズームでユニットをモデルで描画します。大きなマップで遠くまでズームアウトすると、高速なCPUが必要です。;
+	}
+
+[Units drawn at 16x and scaled down. Needs a fast CPU.]
+	{
+	ja=ユニットを16xで描画して縮小します。高速なCPUが必要です。;
+	}
+
+[Units drawn at 8x and scaled down. Needs a fast CPU.]
+	{
+	ja=ユニットを8xで描画して縮小します。高速なCPUが必要です。;
+	}
+
+[Units drawn at higher resolution and scaled down for smoother edges.]
+	{
+	ja=ユニットを高い解像度で描画して縮小し、縁をなめらかにします。;
+	}
+
+[Units each player can have. Applies from the next game.]
+	{
+	ja=各プレイヤーが持てるユニットの数です。次のゲームから適用されます。;
+	}
+
+[Up]
+	{
+	ja=上;
+	}
+
+[Up and down zoom about the pointer; a flick left or right turns the build page while building.]
+	{
+	ja=上下でポインターを中心にズーム。建設中は左右にはじくと建設ページをめくります。;
+	}
+
+[Up to a quarter of the battlefield past the map's edges, however the view moves.]
+	{
+	ja=画面の動かし方に関係なく、戦場の4分の1までマップの端の外を表示します。;
+	}
+
+[Up to half the battlefield past the map's edges; a zoom keeps the ground under the pointer.]
+	{
+	ja=戦場の半分までマップの端の外を表示します。ズームしてもポインターの下の地面は動きません。;
+	}
+
+[Use the system picker…]
+	{
+	ja=システムの選択画面を使う…;
+	}
+
+[Use this folder]
+	{
+	ja=このフォルダーを使う;
+	}
+
+[Use this installer]
+	{
+	ja=このインストーラーを使う;
+	}
+
+[VOLUMES]
+	{
+	ja=ボリューム;
+	}
+
+[What guarding builders do. Applies from the next game.]
+	{
+	ja=護衛中の建設ユニットの動作です。次のゲームから適用されます。;
+	}
+
+[What patrolling builders do. Applies from the next game.]
+	{
+	ja=巡回中の建設ユニットの動作です。次のゲームから適用されます。;
+	}
+
+[Locate Total Annihilation Game Files]
+	{
+	ja=Total Annihilationのゲームファイルを探す;
+	}
+
+[Window edge]
+	{
+	ja=ウィンドウの端;
+	}
+
+[Capture]
+	{
+	ja=固定;
+	}
+
+[Edge stickiness]
+	{
+	ja=端の吸着の強さ;
+	}
+
+[At 0.0 the edge never holds.]
+	{
+	ja=0.0では端に留まりません。;
+	}
+
+[How firmly Sticky holds the pointer at the edge.]
+	{
+	ja=「吸着」で端にポインターを留める強さです。;
+	}
+
+[Needs Sticky]
+	{
+	ja=「吸着」が必要;
+	}
+
+[The pointer stays in the window while you play.]
+	{
+	ja=プレイ中はポインターがウィンドウから出ません。;
+	}
+
+[X]
+	{
+	ja=X;
+	}
+
+[Y]
+	{
+	ja=Y;
+	}
+
+[about {seconds} seconds left]
+	{
+	ja=残り約{seconds}秒;
+	}
+
+[archive]
+	{
+	ja=アーカイブ;
+	}
+
+[doesn't fit]
+	{
+	ja=適合しません;
+	}
+
+[file]
+	{
+	ja=ファイル;
+	}
+
+[folder]
+	{
+	ja=フォルダー;
+	}
+
+[for the TA demo]
+	{
+	ja=TA体験版用;
+	}
+
+[for {name}]
+	{
+	ja={name}用;
+	}
+
+[macOS asks once before an app reads Desktop, Documents or Downloads.]
+	{
+	ja=macOSは、アプリがデスクトップ、書類、ダウンロードを読み込む前に一度だけ確認します。;
+	}
+
+[microSD card]
+	{
+	ja=microSDカード;
+	}
+
+[needs {name}]
+	{
+	ja={name}が必要;
+	}
+
+[not added]
+	{
+	ja=未追加;
+	}
+
+[{count} file differs]
+	{
+	ja={count}ファイルが異なります;
+	}
+
+[{count} files differ]
+	{
+	ja={count}ファイルが異なります;
+	}
+
+[{count} of {total} files differ]
+	{
+	ja={total}ファイル中{count}ファイルが異なります;
+	}
+
+[{done} of {total} · {percent}%]
+	{
+	ja={done}/{total} · {percent}%;
+	}
+
+[{game} as it was made]
+	{
+	ja=オリジナルの{game};
+	}
+
+[{held} of {total} tracks]
+	{
+	ja={total}曲中{held}曲;
+	}
+
+[{left} and {right}]
+	{
+	ja={left}と{right};
+	}
+
+[{left} · {right}]
+	{
+	ja={left} · {right};
+	}
+
+[{left}, {right}]
+	{
+	ja={left}、{right};
+	}
+
+[{mod} needs {name}, so it is unloaded and the game plays with No Mod.]
+	{
+	ja={mod}には{name}が必要なため、MODを解除してMODなしでプレイします。;
+	}
+
+[{mod} was unloaded because {name} is off. The game plays with No Mod.]
+	{
+	ja={name}がオフのため、{mod}を解除しました。MODなしでプレイします。;
+	}
+
+[{name} is installed. Turn it on in the Library.]
+	{
+	ja={name}はインストール済みです。ライブラリでオンにしてください。;
+	}
+
+[{name} is not copied, so this save cannot be loaded with it.]
+	{
+	ja={name}がコピーされていないため、このセーブデータはロードできません。;
+	}
+
+[{name} needs {need}.]
+	{
+	ja={name}には{need}が必要です。;
+	}
+
+[{name} off]
+	{
+	ja={name}はオフ;
+	}
+
+[{name} turns off too: it needs {need}.]
+	{
+	ja={name}もオフになります：{need}が必要です。;
+	}
+
+[{name} turns off when the Library closes.]
+	{
+	ja={name}はライブラリを閉じるとオフになります。;
+	}
+
+[{name} turns on when the Library closes.]
+	{
+	ja={name}はライブラリを閉じるとオンになります。;
+	}
+
+[{name} · ADD FROM…]
+	{
+	ja={name} · 追加元を選択…;
+	}
+
+[{name} ✓]
+	{
+	ja={name} ✓;
+	}
+
+[{name}'s maps and campaigns leave the lists until you turn it on again. Nothing is deleted.]
+	{
+	ja={name}のマップとキャンペーンは、もう一度オンにするまでリストから消えます。何も削除されません。;
+	}
+
+[{row}: {saved} / {now}]
+	{
+	ja={row}：{saved} / {now};
+	}
+
+[{save_heading} / {now_heading}]
+	{
+	ja={save_heading} / {now_heading};
+	}
+
+[{version} · {source}]
+	{
+	ja={version} · {source};
+	}
+
+[A folder that holds totala1.hpi, or a Commander Pack or the 1997 demo installer.]
+	{
+	ja=totala1.hpiがあるフォルダー、Commander Pack、または1997年の体験版のインストーラー。;
+	}
+
+[Applying your changes]
+	{
+	ja=変更を適用中;
+	}
+
+[Checking your copy of Total Annihilation]
+	{
+	ja=Total Annihilationのコピーを確認中;
+	}
+
+[Choose a folder or an installer]
+	{
+	ja=フォルダーかインストーラーを選択;
+	}
+
+[Choose the Total Annihilation demo installer (1997).]
+	{
+	ja=Total Annihilation体験版（1997）のインストーラーを選んでください。;
+	}
+
+[Easy]
+	{
+	ja=イージー;
+	}
+
+[Filter names]
+	{
+	ja=名前で絞り込み;
+	}
+
+[Hard]
+	{
+	ja=ハード;
+	}
+
+[Loading the game's archives]
+	{
+	ja=ゲームのアーカイブを読み込み中;
+	}
+
+[Medium]
+	{
+	ja=ノーマル;
+	}
+
+[No names match.]
+	{
+	ja=一致する名前はありません。;
+	}
+
+[Skirmish players]
+	{
+	ja=スカーミッシュの人数;
+	}
+
+[The skirmish setup shows that many player rows.]
+	{
+	ja=スカーミッシュの設定に、その数のプレイヤー欄が表示されます。;
+	}
+
+[{count} package]
+	{
+	ja={count}個のパッケージ;
+	}
+
+[{count} packages]
+	{
+	ja={count}個のパッケージ;
+	}
+
+
+// The notices for a launch file the game does not open, Settings'
+// launch file switch and the Library's locked expansions.
+
+[A launch is already open. Quit Open Annihilation, then open the file again.]
+	{
+	ja=すでに起動ファイルが開いています。Open Annihilationを終了してから、もう一度ファイルを開いてください。;
+	}
+
+[LAUNCH FILE NOT OPENED]
+	{
+	ja=起動ファイルを開けませんでした;
+	}
+
+[Launch file not opened: finish or leave this game first.]
+	{
+	ja=起動ファイルを開けませんでした：先にこのゲームを終えるか、退出してください。;
+	}
+
+[Launch files (.oalaunch)]
+	{
+	ja=起動ファイル（.oalaunch）;
+	}
+
+[Open Annihilation opens a launch file's battle room from the main menu. Go back to the main menu, then open the file again.]
+	{
+	ja=Open Annihilationは、起動ファイルの対戦ルームをメインメニューから開きます。メインメニューに戻ってから、もう一度ファイルを開いてください。;
+	}
+
+[The command line chose this run's mod, which needs {names}.]
+	{
+	ja=今回の起動のMODはコマンドラインで指定されており、{names}が必要です。;
+	}
+
+[This launch plays other content than the game plays now. Quit Open Annihilation, then open the file again.]
+	{
+	ja=この起動ファイルは、現在のゲームとは別のコンテンツでプレイします。Open Annihilationを終了してから、もう一度ファイルを開いてください。;
+	}
+
+// The registries' checks the game cannot do, and the Library's
+// Available.
+
+[Available]
+	{
+	ja=入手可能;
+	}
+
+[the server asked for a check the game cannot do]
+	{
+	ja=サーバーが、ゲームでは実行できない確認を求めました;
+	}
+
+[{registry} asked for a check the game cannot do. Try again later.]
+	{
+	ja={registry}が、ゲームでは実行できない確認を求めました。しばらくしてからもう一度試してください。;
+	}
+
+// First run's question when the copy's source has been changed, and
+// the copy's lines for files left out for their size.
+
+[Your Total Annihilation has been changed]
+	{
+	ja=Total Annihilationが変更されています;
+	}
+
+[Some of its files are not the size they are in Total Annihilation 3.1c and its expansions. A mod or another program may have changed them.]
+	{
+	ja=一部のファイルのサイズが、Total Annihilation 3.1cとその拡張パックのものと異なります。MODやほかのプログラムが変更した可能性があります。;
+	}
+
+[{file}, from {bundle}, is {size} bytes. It should be {expected}.]
+	{
+	ja={bundle}の{file}は{size}バイトです。本来は{expected}バイトです。;
+	}
+
+[Open Annihilation needs a fresh Total Annihilation install, without mods, to set up its copy. Nothing has been copied. Choose another place to copy from.]
+	{
+	ja=Open Annihilationがコピーを用意するには、MODを入れていない新規インストールのTotal Annihilationが必要です。まだ何もコピーしていません。コピー元として別の場所を選んでください。;
+	}
+
+[Choose another place]
+	{
+	ja=別の場所を選択;
+	}
+
+[{file} left out: {size} bytes, not {expected}]
+	{
+	ja={file}を除外：{expected}バイトではなく{size}バイト;
+	}
+
+[{count} files left out for their size: {files}]
+	{
+	ja=サイズが異なるため{count}個のファイルを除外：{files};
+	}
+
+// Graphics' Smooth motion.
+
+[Smooth motion]
+	{
+	ja=なめらかな動き;
+	}
+
+[Units, shots and spinning parts move smoothly between the game's ticks.]
+	{
+	ja=ユニット、弾、回転する部品が、ゲームのティックの間をなめらかに動きます。;
+	}
+
+[Units and shots move 30 times a second, as the game drew them; fast spins may flicker.]
+	{
+	ja=ユニットと弾は、元のゲームと同じく毎秒30回動きます。速い回転はちらつくことがあります。;
+	}

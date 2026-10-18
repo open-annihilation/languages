@@ -1,0 +1,706 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Japanese mission names, keyed by the mission file the campaign
+// lists. A campaign's "N: " prefix is kept as it is.
+
+[EXP1AC01.ota]
+	{
+	missionname=1: ハイドロス - 探索開始！;
+	}
+[EXP1AC02.ota]
+	{
+	missionname=2: 環礁の確保;
+	}
+[EXP1AC03.ota]
+	{
+	missionname=3: COREを沈めよ;
+	}
+[EXP1AC04.ota]
+	{
+	missionname=4: ラッシュ - ホバークラフト技術;
+	}
+[EXP1AC05.ota]
+	{
+	missionname=5: 沼地を越えて;
+	}
+[EXP1AC06.ota]
+	{
+	missionname=6: ビーコン;
+	}
+[EXP1AC07.ota]
+	{
+	missionname=7: テンブラー - 地震！;
+	}
+[EXP1AC08.ota]
+	{
+	missionname=8: 進退窮まる;
+	}
+[EXP1AC09.ota]
+	{
+	missionname=9: ARMが揺さぶり、COREが震える;
+	}
+[EXP1AC10.ota]
+	{
+	missionname=10: ジェリダス - 冷たい歓迎;
+	}
+[EXP1AC11.ota]
+	{
+	missionname=11: 流氷に身を任せて;
+	}
+[EXP1AC12.ota]
+	{
+	missionname=12: 銀河の救済;
+	}
+[AC01.ota]
+	{
+	missionname=1: 英雄の帰還;
+	}
+[AC02.ota]
+	{
+	missionname=2: COREのKボット基地を破壊せよ！;
+	}
+[AC03.ota]
+	{
+	missionname=3: スパイダー技術;
+	}
+[AC04.ota]
+	{
+	missionname=4: COREの汚染拡大...;
+	}
+[AC05.ota]
+	{
+	missionname=5: タラシアンへのゲート;
+	}
+[AC06.ota]
+	{
+	missionname=6: タラシアンの橋頭堡;
+	}
+[AC07.ota]
+	{
+	missionname=7: ララブ港防衛戦;
+	}
+[AC08.ota]
+	{
+	missionname=8: ターギバースIVへのゲート;
+	}
+[AC09.ota]
+	{
+	missionname=9: 給水プラント;
+	}
+[AC10.ota]
+	{
+	missionname=10: ブロミッド迷路;
+	}
+[AC11.ota]
+	{
+	missionname=11: バラスラムへのゲート;
+	}
+[AC12.ota]
+	{
+	missionname=12: バラスラム！;
+	}
+[AC13.ota]
+	{
+	missionname=13: ランダウン断層;
+	}
+[AC14.ota]
+	{
+	missionname=14: 高まる熱気;
+	}
+[AC15.ota]
+	{
+	missionname=15: ルーグペルト;
+	}
+[AC16.ota]
+	{
+	missionname=16: アバットメントの物資集積所;
+	}
+[AC17.ota]
+	{
+	missionname=17: ブルーバン島の要塞;
+	}
+[AC18.ota]
+	{
+	missionname=18: 復讐！;
+	}
+[AC19.ota]
+	{
+	missionname=19: モティエン斜路;
+	}
+[AC20.ota]
+	{
+	missionname=20: ダンプ;
+	}
+[AC21.ota]
+	{
+	missionname=21: COREプライムへようこそ;
+	}
+[AC22.ota]
+	{
+	missionname=22: 座標6551:447の戦い;
+	}
+[AC23.ota]
+	{
+	missionname=23: 第397水域の横断;
+	}
+[AC24.ota]
+	{
+	missionname=24: 中央意識体への突破;
+	}
+[AC25.ota]
+	{
+	missionname=25: COREプライムの終焉。ついに自由だ！;
+	}
+[Com Pattern Five.ota]
+	{
+	missionname=通信パターン5;
+	}
+[Steel Stronghold.ota]
+	{
+	missionname=鋼鉄の要塞;
+	}
+[Thermal Exchange Causeway.ota]
+	{
+	missionname=熱交換の土手道;
+	}
+[Crossing the Long Lakes.ota]
+	{
+	missionname=長い湖を越えて;
+	}
+[Capture Hanan Base.ota]
+	{
+	missionname=ハナン基地を奪取せよ;
+	}
+[Lipar Pass.ota]
+	{
+	missionname=リパー峠;
+	}
+[Ice Base Assault.ota]
+	{
+	missionname=氷の基地強襲;
+	}
+[Pursuit.ota]
+	{
+	missionname=追撃;
+	}
+[Backs to the Sea.ota]
+	{
+	missionname=背水の陣;
+	}
+[Spider Ambush.ota]
+	{
+	missionname=スパイダーの待ち伏せ;
+	}
+[Islands of Grace.ota]
+	{
+	missionname=恵みの島々;
+	}
+[Wet and Dry.ota]
+	{
+	missionname=水と陸;
+	}
+[Meraldi Amphibious Assault.ota]
+	{
+	missionname=メラルディ上陸強襲;
+	}
+[Miniement Landing.ota]
+	{
+	missionname=ミニエメント上陸;
+	}
+[Intimidator Ridge.ota]
+	{
+	missionname=インティミデーターの尾根;
+	}
+[Zipper Attack.ota]
+	{
+	missionname=ジッパー襲撃;
+	}
+[Can Rush.ota]
+	{
+	missionname=ザ・カンの突撃;
+	}
+[Attack on Barrack.ota]
+	{
+	missionname=バラック攻撃;
+	}
+[Cutoff in Sector 6895.ota]
+	{
+	missionname=第6895区域での孤立;
+	}
+[Encounter on the Coral Sea.ota]
+	{
+	missionname=珊瑚海の遭遇戦;
+	}
+[The Wayneston Ford Engagement.ota]
+	{
+	missionname=ウェインストン浅瀬の交戦;
+	}
+[Ice Base Baryn.ota]
+	{
+	missionname=氷の基地バリン;
+	}
+[Forest Base 129.ota]
+	{
+	missionname=森林基地129;
+	}
+[Rock Candy Mountains.ota]
+	{
+	missionname=ロックキャンディ山脈;
+	}
+[Kudzu Base.ota]
+	{
+	missionname=クズ基地;
+	}
+[Yerrot Foothills.ota]
+	{
+	missionname=イェロット山麓;
+	}
+[Island Hopping.ota]
+	{
+	missionname=島伝い作戦;
+	}
+[Mist Bombers.ota]
+	{
+	missionname=霧の中の爆撃機;
+	}
+[A Shortage of Water.ota]
+	{
+	missionname=水不足;
+	}
+[Raid on Vetes.ota]
+	{
+	missionname=ヴェテス襲撃;
+	}
+[Three Passes.ota]
+	{
+	missionname=3つの峠;
+	}
+[Spire Sports.ota]
+	{
+	missionname=尖塔の競技;
+	}
+[Charging the Line.ota]
+	{
+	missionname=戦線への突撃;
+	}
+[Dawn Directive.ota]
+	{
+	missionname=夜明けの指令;
+	}
+[Waiting.ota]
+	{
+	missionname=待機;
+	}
+[The Vulcans Forge Hotspot.ota]
+	{
+	missionname=バルカン鍛冶場の激戦地;
+	}
+[Crawling Destruction.ota]
+	{
+	missionname=這い寄る破壊;
+	}
+[Battle of Ansapp Sea.ota]
+	{
+	missionname=アンサップ海の戦い;
+	}
+[Between Two Lakes.ota]
+	{
+	missionname=2つの湖の間;
+	}
+[Hunting Nhanons.ota]
+	{
+	missionname=ナノン狩り;
+	}
+[Sub Hunting.ota]
+	{
+	missionname=潜水艦狩り;
+	}
+[Ambush on Novespin IV.ota]
+	{
+	missionname=ノヴェスピンIVの待ち伏せ;
+	}
+[Force the Strait.ota]
+	{
+	missionname=海峡突破;
+	}
+[Destroy the FMD.ota]
+	{
+	missionname=FMDを破壊せよ;
+	}
+[Kaki Island Assault.ota]
+	{
+	missionname=カキ島強襲;
+	}
+[Fighting Under Fire.ota]
+	{
+	missionname=砲火の下の戦い;
+	}
+[The Ravenstein Run.ota]
+	{
+	missionname=レイヴンスタイン急襲;
+	}
+[Reducing the Yrdac Islands.ota]
+	{
+	missionname=イルダック諸島の攻略;
+	}
+[Black Box.ota]
+	{
+	missionname=ブラックボックス;
+	}
+[Firebase Prasad.ota]
+	{
+	missionname=プラサド火力基地;
+	}
+[Invasion of Destral II.ota]
+	{
+	missionname=デストラルII侵攻;
+	}
+[Guardian Hill.ota]
+	{
+	missionname=ガーディアンの丘;
+	}
+[Metal Maze.ota]
+	{
+	missionname=金属の迷路;
+	}
+[Titanium Fist Bay.ota]
+	{
+	missionname=タイタニウム・フィスト湾;
+	}
+[Crossing Kerrap Shallows.ota]
+	{
+	missionname=ケラップ浅瀬の渡河;
+	}
+[Peaceful Pools.ota]
+	{
+	missionname=穏やかな池;
+	}
+[Solidspire Base.ota]
+	{
+	missionname=ソリッドスパイア基地;
+	}
+[Fortitude Race.ota]
+	{
+	missionname=フォーティチュード競争;
+	}
+[Brawler Buildup.ota]
+	{
+	missionname=ブロウラーの増強;
+	}
+[Silent Slayers.ota]
+	{
+	missionname=沈黙の殺し屋;
+	}
+[Crossing Arnen Inlet.ota]
+	{
+	missionname=アーネン入江の横断;
+	}
+[Cloaked in the Spires.ota]
+	{
+	missionname=尖塔に潜むクローク;
+	}
+[Zedtopt Hotsprings.ota]
+	{
+	missionname=ゼドトプト温泉;
+	}
+[Intimidator Rising.ota]
+	{
+	missionname=インティミデーターの台頭;
+	}
+[Guditha Pass.ota]
+	{
+	missionname=グディサ峠;
+	}
+[Sink the Battleship.ota]
+	{
+	missionname=戦艦を沈めよ;
+	}
+[Coordinated Assault.ota]
+	{
+	missionname=連携攻撃;
+	}
+[Dogfight over Grantham Deep.ota]
+	{
+	missionname=グランサム海溝上空の空中戦;
+	}
+[Mesa Run.ota]
+	{
+	missionname=メサ急襲;
+	}
+[Krocark Firebase Complex.ota]
+	{
+	missionname=クロカーク火力基地群;
+	}
+[Jungle Journey.ota]
+	{
+	missionname=ジャングルの旅;
+	}
+[Capturing Terseknos.ota]
+	{
+	missionname=ターセクノス占領;
+	}
+[Bertha Cleansing.ota]
+	{
+	missionname=バーサ掃討;
+	}
+[Surprise at Labrodorite.ota]
+	{
+	missionname=ラブラドライトの奇襲;
+	}
+[Skirmish on the Sand.ota]
+	{
+	missionname=砂上の小競り合い;
+	}
+[New Moon.ota]
+	{
+	missionname=新月;
+	}
+[Kbot Mop Up.ota]
+	{
+	missionname=Kボット掃討;
+	}
+[River Base Alpha.ota]
+	{
+	missionname=川辺の基地アルファ;
+	}
+[Crossing Two Rivers.ota]
+	{
+	missionname=2つの川の渡河;
+	}
+[Caranat Conquest.ota]
+	{
+	missionname=カラナト征服;
+	}
+[Less Refreshing Sea.ota]
+	{
+	missionname=爽快とは言えない海;
+	}
+[Hot Day and Hull Down.ota]
+	{
+	missionname=炎天下の車体遮蔽;
+	}
+[Seed Crystal.ota]
+	{
+	missionname=種結晶;
+	}
+[Cleanup on Kral.ota]
+	{
+	missionname=クラル掃討戦;
+	}
+[Air Assault.ota]
+	{
+	missionname=空中強襲;
+	}
+[Lightning Recon.ota]
+	{
+	missionname=電撃偵察;
+	}
+[A Gentle Time.ota]
+	{
+	missionname=穏やかなひととき;
+	}
+[Disintegrator Alley.ota]
+	{
+	missionname=ディスインテグレーター横丁;
+	}
+[Two Ore Coast.ota]
+	{
+	missionname=2つの鉱脈の海岸;
+	}
+[Thrashing a Rear Guard.ota]
+	{
+	missionname=後衛の撃破;
+	}
+[Emerald Seamount.ota]
+	{
+	missionname=エメラルド海山;
+	}
+[Taking Island 445.ota]
+	{
+	missionname=445島の奪取;
+	}
+[The Retorb Floodplain.ota]
+	{
+	missionname=レトーブ氾濫原;
+	}
+[Firebase.ota]
+	{
+	missionname=火力基地;
+	}
+[Battle of Chimo Island.ota]
+	{
+	missionname=チモ島の戦い;
+	}
+[Laser Plain.ota]
+	{
+	missionname=レーザー平原;
+	}
+[Rotrey Stream.ota]
+	{
+	missionname=ロトレイ川;
+	}
+[Rainforest Construction.ota]
+	{
+	missionname=熱帯雨林の建設;
+	}
+[Yollets Rain Forest.ota]
+	{
+	missionname=ヨレッツ熱帯雨林;
+	}
+[The Phase Array Radar.ota]
+	{
+	missionname=フェーズドアレイ・レーダー;
+	}
+[EXP1CC01.ota]
+	{
+	missionname=1: ARM、ハイドロスに上陸;
+	}
+[EXP1CC02.ota]
+	{
+	missionname=2: 水中工作;
+	}
+[EXP1CC03.ota]
+	{
+	missionname=3: 格好の標的;
+	}
+[EXP1CC04.ota]
+	{
+	missionname=4: ラッシュ - 楽園へようこそ;
+	}
+[EXP1CC05.ota]
+	{
+	missionname=5: 殴り合いと強行軍;
+	}
+[EXP1CC06.ota]
+	{
+	missionname=6: 異星の虫;
+	}
+[EXP1CC07.ota]
+	{
+	missionname=7: 揺れて、震えて、死ね;
+	}
+[EXP1CC08.ota]
+	{
+	missionname=8: 指揮の混乱;
+	}
+[EXP1CC09.ota]
+	{
+	missionname=9: 雲の要塞強襲;
+	}
+[EXP1CC10.ota]
+	{
+	missionname=10: 冷却;
+	}
+[EXP1CC11.ota]
+	{
+	missionname=11: 極寒の破壊;
+	}
+[EXP1CC12.ota]
+	{
+	missionname=12: 去り時;
+	}
+[CC01.ota]
+	{
+	missionname=1: 再起動したコマンダー...;
+	}
+[CC02.ota]
+	{
+	missionname=2: 害虫;
+	}
+[CC03.ota]
+	{
+	missionname=3: 待ち伏せ！;
+	}
+[CC04.ota]
+	{
+	missionname=4: もう我慢ならん;
+	}
+[CC05.ota]
+	{
+	missionname=5: バラスラム！;
+	}
+[CC06.ota]
+	{
+	missionname=6: 浄化の始まり;
+	}
+[CC07.ota]
+	{
+	missionname=7: 絞首縄を締めろ;
+	}
+[CC08.ota]
+	{
+	missionname=8: アクエウス・マイナーへのゲート;
+	}
+[CC09.ota]
+	{
+	missionname=9: アクエウス・マイナーの粛清;
+	}
+[CC10.ota]
+	{
+	missionname=10: 死の試練;
+	}
+[CC11.ota]
+	{
+	missionname=11: パーチ島;
+	}
+[CC12.ota]
+	{
+	missionname=12: 裏切り者の先導;
+	}
+[CC13.ota]
+	{
+	missionname=13: ルーグペルト;
+	}
+[CC14.ota]
+	{
+	missionname=14: ルーグペルト掃討;
+	}
+[CC15.ota]
+	{
+	missionname=15: ザンティッペの深淵;
+	}
+[CC16.ota]
+	{
+	missionname=16: ルーグペルトを去る;
+	}
+[CC17.ota]
+	{
+	missionname=17: 失われた島;
+	}
+[CC18.ota]
+	{
+	missionname=18: スロラム・ピラゴ;
+	}
+[CC19.ota]
+	{
+	missionname=19: ヴェブリーン艦隊;
+	}
+[CC20.ota]
+	{
+	missionname=20: イーガスへのゲート;
+	}
+[CC21.ota]
+	{
+	missionname=21: イーガス...エンピリアンの守護者;
+	}
+[CC22.ota]
+	{
+	missionname=22: エンピリアンの盛大な歓迎;
+	}
+[CC23.ota]
+	{
+	missionname=23: 要塞陥落;
+	}
+[CC24.ota]
+	{
+	missionname=24: 包囲と砲撃;
+	}
+[CC25.ota]
+	{
+	missionname=25: エンピリアン最後の抵抗;
+	}
+[Krogoth Encounter.ota]
+	{
+	missionname=1: クロゴスとの遭遇！;
+	}

@@ -1,0 +1,1953 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Unit names and descriptions in Japanese, one section per unit.
+// name-from and description-from hold the English each field
+// translates; a field whose English no longer matches is not shown.
+
+[ARMAAP]
+	{
+	name=上級航空機工場;
+	description=航空機を生産;
+	name-from=Adv. Aircraft Plant;
+	description-from=Produces Aircraft;
+	}
+[ARMAAS]
+	{
+	name=アーチャー;
+	description=対空艦;
+	name-from=Archer;
+	description-from=Anti-Air Ship;
+	}
+[ARMACA]
+	{
+	name=上級建設航空機;
+	description=技術レベル2;
+	name-from=Adv. Construction Aircraft;
+	description-from=Tech Level 2;
+	}
+[ARMACK]
+	{
+	name=上級建設Kボット;
+	description=技術レベル2;
+	name-from=Adv. Construction Kbot;
+	description-from=Tech Level 2;
+	}
+[ARMACSUB]
+	{
+	name=上級建設潜水艦;
+	description=技術レベル2;
+	name-from=Advanced Construction Sub;
+	description-from=Tech Level 2;
+	}
+[ARMACV]
+	{
+	name=上級建設車両;
+	description=技術レベル2;
+	name-from=Adv. Construction Vehicle;
+	description-from=Tech Level 2;
+	}
+[ARMAH]
+	{
+	name=スワッター;
+	description=対空ホバークラフト;
+	name-from=Swatter;
+	description-from=Anti-Air Hovercraft;
+	}
+[ARMALAB]
+	{
+	name=上級Kボットラボ;
+	description=Kボットを生産;
+	name-from=Adv. Kbot Lab;
+	description-from=Produces Kbots;
+	}
+[ARMAMB]
+	{
+	name=アンブッシャー;
+	description=格納式重砲;
+	name-from=Ambusher;
+	description-from=Pop-up Heavy Cannon;
+	}
+[ARMAMD]
+	{
+	name=プロテクター;
+	description=ミサイル防衛システム;
+	name-from=Protector;
+	description-from=Anti Missile Defense System;
+	}
+[ARMAMPH]
+	{
+	name=ペリカン;
+	description=水陸両用Kボット;
+	name-from=Pelican;
+	description-from=Amphibious Kbot;
+	}
+[ARMANAC]
+	{
+	name=アナコンダ;
+	description=ホバー戦車;
+	name-from=Anaconda;
+	description-from=Hovertank;
+	}
+[ARMANNI]
+	{
+	name=アナイアレイター;
+	description=エネルギー兵器;
+	name-from=Annihilator;
+	description-from=Energy weapon;
+	}
+[ARMAP]
+	{
+	name=航空機工場;
+	description=航空機を生産;
+	name-from=Aircraft Plant;
+	description-from=Produces Aircraft;
+	}
+[ARMARAD]
+	{
+	name=上級レーダー塔;
+	description=長距離レーダー塔;
+	name-from=Advanced Radar Tower;
+	description-from=Long Range Radar Tower;
+	}
+[ARMASER]
+	{
+	name=イレイザー;
+	description=レーダー妨害装置;
+	name-from=Eraser;
+	description-from=Radar Jammer;
+	}
+[ARMASON]
+	{
+	name=上級ソナー基地;
+	description=拡張ソナー;
+	name-from=Advanced Sonar Station;
+	description-from=Extended Sonar;
+	}
+[ARMASP]
+	{
+	name=航空機修理パッド;
+	description=航空機を自動修理;
+	name-from=Air Repair Pad;
+	description-from=Automatically repairs aircraft;
+	}
+[ARMASY]
+	{
+	name=上級造船所;
+	description=艦船を生産;
+	name-from=Adv. Shipyard;
+	description-from=Produces Ships;
+	}
+[ARMATL]
+	{
+	name=上級魚雷発射機;
+	description=上級魚雷発射機;
+	name-from=Advanced Torpedo Launcher;
+	description-from=Advanced Torpedo Launcher;
+	}
+[ARMATLAS]
+	{
+	name=アトラス;
+	description=輸送機;
+	name-from=Atlas;
+	description-from=Air Transport;
+	}
+[ARMAVP]
+	{
+	name=上級車両工場;
+	description=車両を生産;
+	name-from=Adv. Vehicle Plant;
+	description-from=Produces Vehicles;
+	}
+[ARMAWAC]
+	{
+	name=イーグル;
+	description=レーダー機;
+	name-from=Eagle;
+	description-from=Radar Plane;
+	}
+[ARMBATS]
+	{
+	name=ミレニアム;
+	description=戦艦;
+	name-from=Millenium;
+	description-from=Battleship;
+	}
+[ARMBEAC]
+	{
+	name=異星ビーコン;
+	description=異星ビーコン;
+	name-from=Alien Beacon;
+	description-from=Alien Beacon;
+	}
+[ARMBRAWL]
+	{
+	name=ブロウラー;
+	description=ガンシップ;
+	name-from=Brawler;
+	description-from=Gunship;
+	}
+[ARMBRTHA]
+	{
+	name=ビッグ・バーサ;
+	description=長距離プラズマ砲;
+	name-from=Big Bertha;
+	description-from=Long Range Plasma Cannon;
+	}
+[ARMBULL]
+	{
+	name=ブルドッグ;
+	description=重突撃戦車;
+	name-from=Bulldog;
+	description-from=Heavy Assault Tank;
+	}
+[ARMCA]
+	{
+	name=建設航空機;
+	description=技術レベル1;
+	name-from=Construction Aircraft;
+	description-from=Tech Level 1;
+	}
+[ARMCARRY]
+	{
+	name=コロッサス;
+	description=軽空母;
+	name-from=Colossus;
+	description-from=Light Carrier;
+	}
+[ARMCH]
+	{
+	name=建設ホバークラフト;
+	description=技術レベル1;
+	name-from=Construction Hovercraft;
+	description-from=Tech Level 1;
+	}
+[ARMCK]
+	{
+	name=建設Kボット;
+	description=技術レベル1;
+	name-from=Construction KBot;
+	description-from=Tech Level 1;
+	}
+[ARMCKFUS]
+	{
+	name=クローク式核融合炉;
+	description=エネルギーを生産;
+	name-from=Cloakable Fusion Reactor;
+	description-from=Produces Energy;
+	}
+[ARMCOM]
+	{
+	name=コマンダー;
+	description=コマンダー;
+	name-from=Commander;
+	description-from=Commander;
+	}
+[ARMCROC]
+	{
+	name=トリトン;
+	description=水陸両用戦車;
+	name-from=Triton;
+	description-from=Amphibious Tank;
+	}
+[ARMCRUS]
+	{
+	name=コンカラー;
+	description=巡洋艦;
+	name-from=Conqueror;
+	description-from=Cruiser;
+	}
+[ARMCS]
+	{
+	name=建設船;
+	description=技術レベル1;
+	name-from=Construction Ship;
+	description-from=Tech Level 1;
+	}
+[ARMCSA]
+	{
+	name=建設水上機;
+	description=技術レベル1;
+	name-from=Construction Seaplane;
+	description-from=Tech Level 1;
+	}
+[ARMCV]
+	{
+	name=建設車両;
+	description=技術レベル1;
+	name-from=Construction Vehicle;
+	description-from=Tech Level 1;
+	}
+[ARMDECOM]
+	{
+	name=デコイ・コマンダー;
+	description=デコイ・コマンダー;
+	name-from=Decoy Commander;
+	description-from=Decoy Commander;
+	}
+[ARMDEV1]
+	{
+	name=爆縮装置;
+	description=爆縮装置;
+	name-from=Implosion Device;
+	description-from=Implosion Device;
+	}
+[ARMDRAG]
+	{
+	name=竜の歯;
+	description=外周防衛;
+	name-from=Dragon's Teeth;
+	description-from=Perimeter Defense;
+	}
+[ARMEMP]
+	{
+	name=スタナー;
+	description=EMPミサイル発射機;
+	name-from=Stunner;
+	description-from=EMP Missile Launcher;
+	}
+[ARMESTOR]
+	{
+	name=エネルギー貯蔵庫;
+	description=エネルギー貯蔵量を増加;
+	name-from=Energy Storage;
+	description-from=Increases Energy Storage;
+	}
+[ARMFARK]
+	{
+	name=FARK;
+	description=高速支援修理Kボット;
+	name-from=FARK;
+	description-from=Fast Assist-Repair Kbot;
+	}
+[ARMFAST]
+	{
+	name=ジッパー;
+	description=高速攻撃Kボット;
+	name-from=Zipper;
+	description-from=Fast Attack Kbot;
+	}
+[ARMFAV]
+	{
+	name=ジェフィー;
+	description=高速攻撃車両;
+	name-from=Jeffy;
+	description-from=Fast Attack Vehicle;
+	}
+[ARMFDRAG]
+	{
+	name=浮遊式竜の歯;
+	description=浮遊式竜の歯;
+	name-from=Floating Dragon's Teeth;
+	description-from=Floating Dragon's Teeth;
+	}
+[ARMFHLT]
+	{
+	name=スティングレイ;
+	description=浮遊式重レーザー塔;
+	name-from=Stingray;
+	description-from=Floating Heavy Laser Tower;
+	}
+[ARMFIDO]
+	{
+	name=ファイドー;
+	description=突撃Kボット;
+	name-from=Fido;
+	description-from=Assault Kbot;
+	}
+[ARMFIG]
+	{
+	name=フリーダム・ファイター;
+	description=戦闘機;
+	name-from=Freedom Fighter;
+	description-from=Fighter;
+	}
+[ARMFLAK]
+	{
+	name=フラッカー;
+	description=対空砲;
+	name-from=Flakker;
+	description-from=Anti-Air Flak Gun;
+	}
+[ARMFLASH]
+	{
+	name=フラッシュ;
+	description=高速突撃戦車;
+	name-from=Flash;
+	description-from=Fast Assault Tank;
+	}
+[ARMFLEA]
+	{
+	name=フリー;
+	description=高速軽偵察Kボット;
+	name-from=Flea;
+	description-from=Fast Light Scout Kbot;
+	}
+[ARMFMKR]
+	{
+	name=浮遊式金属変換機;
+	description=浮遊式金属変換機;
+	name-from=Floating Metal Maker;
+	description-from=Floating Metal Maker;
+	}
+[ARMFORT]
+	{
+	name=防壁;
+	description=外周防衛;
+	name-from=Fortification Wall;
+	description-from=Perimeter Defense;
+	}
+[ARMFRT]
+	{
+	name=ディフェンダー - NS;
+	description=ミサイル塔 - 海上型;
+	name-from=Defender - NS;
+	description-from=Missile Tower - Naval Series;
+	}
+[ARMFUS]
+	{
+	name=核融合炉;
+	description=エネルギーを生産;
+	name-from=Fusion Reactor;
+	description-from=Produces Energy;
+	}
+[ARMGATE]
+	{
+	name=銀河ゲート;
+	description=宇宙転送装置;
+	name-from=Galactic Gate;
+	description-from=Space Teleporter;
+	}
+[ARMGEO]
+	{
+	name=地熱発電所;
+	description=エネルギーを生産;
+	name-from=Geothermal Powerplant;
+	description-from=Produces Energy;
+	}
+[ARMGUARD]
+	{
+	name=ガーディアン;
+	description=プラズマ砲台;
+	name-from=Guardian;
+	description-from=Plasma Battery;
+	}
+[ARMHAM]
+	{
+	name=ハンマー;
+	description=砲兵Kボット;
+	name-from=Hammer;
+	description-from=Artillery Kbot;
+	}
+[ARMHAWK]
+	{
+	name=ホーク;
+	description=ステルス戦闘機;
+	name-from=Hawk;
+	description-from=Stealth Fighter;
+	}
+[ARMHLT]
+	{
+	name=センチネル;
+	description=重レーザー塔;
+	name-from=Sentinel;
+	description-from=Heavy Laser Tower;
+	}
+[ARMHP]
+	{
+	name=ホバークラフト基地;
+	description=ホバークラフトを生産;
+	name-from=Hovercraft Platform;
+	description-from=Builds Hovercraft;
+	}
+[ARMJAM]
+	{
+	name=ジャマー;
+	description=移動式レーダー妨害装置;
+	name-from=Jammer;
+	description-from=Mobile Radar Jammer;
+	}
+[ARMJETH]
+	{
+	name=ジェスロ;
+	description=対空Kボット;
+	name-from=Jethro;
+	description-from=Anti-Air Kbot;
+	}
+[ARMLAB]
+	{
+	name=Kボットラボ;
+	description=Kボットを生産;
+	name-from=Kbot Lab;
+	description-from=Produces Kbots;
+	}
+[ARMLANCE]
+	{
+	name=ランセット;
+	description=雷撃機;
+	name-from=Lancet;
+	description-from=Torpedo Bomber;
+	}
+[ARMLATNK]
+	{
+	name=パンサー;
+	description=電撃戦車;
+	name-from=Panther;
+	description-from=Lightning Tank;
+	}
+[ARMLLT]
+	{
+	name=L.L.T.;
+	description=軽レーザー塔;
+	name-from=L.L.T.;
+	description-from=Light Laser Tower;
+	}
+[ARMMAKR]
+	{
+	name=金属変換機;
+	description=エネルギーを金属に変換;
+	name-from=Metal Maker;
+	description-from=Converts Energy into Metal;
+	}
+[ARMMANNI]
+	{
+	name=ペネトレーター;
+	description=移動式エネルギー兵器;
+	name-from=Penetrator;
+	description-from=Mobile Energy Weapon;
+	}
+[ARMMARK]
+	{
+	name=マーキー;
+	description=レーダーKボット;
+	name-from=Marky;
+	description-from=Mobile Radar Kbot;
+	}
+[ARMMART]
+	{
+	name=ルガー;
+	description=自走砲;
+	name-from=Luger;
+	description-from=Mobile Artillery;
+	}
+[ARMMAV]
+	{
+	name=マーベリック;
+	description=ガンスリンガーKボット;
+	name-from=Maverick;
+	description-from=Gun-slinging Kbot;
+	}
+[ARMMERL]
+	{
+	name=マール;
+	description=自走ロケット発射機;
+	name-from=Merl;
+	description-from=Mobile Rocket Launcher;
+	}
+[ARMMEX]
+	{
+	name=金属抽出機;
+	description=金属を抽出;
+	name-from=Metal Extractor;
+	description-from=Extracts Metal;
+	}
+[ARMMH]
+	{
+	name=ウォンバット;
+	description=ロケットホバークラフト;
+	name-from=Wombat;
+	description-from=Hovercraft Rocket Launcher;
+	}
+[ARMMINE1]
+	{
+	name=タイニー;
+	description=低威力・中範囲地雷;
+	name-from=Tiny;
+	description-from=Low Damage, Med. Range Mine;
+	}
+[ARMMINE2]
+	{
+	name=広域地雷;
+	description=低威力・広範囲地雷;
+	name-from=Area Mine;
+	description-from=Low Damage, Large Range Mine;
+	}
+[ARMMINE3]
+	{
+	name=集中地雷;
+	description=中威力・狭範囲地雷;
+	name-from=Focused Mine;
+	description-from=Med. Damage, Small Range Mine;
+	}
+[ARMMINE4]
+	{
+	name=HE広域地雷;
+	description=中威力・広範囲地雷;
+	name-from=HE Area Mine;
+	description-from=Med. Damage, Large Range Mine;
+	}
+[ARMMINE5]
+	{
+	name=精密地雷;
+	description=高威力・狭範囲地雷;
+	name-from=Precision Mine;
+	description-from=High Damage, Small Range Mine;
+	}
+[ARMMINE6]
+	{
+	name=核地雷;
+	description=核地雷;
+	name-from=Nuclear Mine;
+	description-from=Nuclear Mine;
+	}
+[ARMMLV]
+	{
+	name=ポッジャー;
+	description=地雷敷設車;
+	name-from=Podger;
+	description-from=Mine Layer Vehicle;
+	}
+[ARMMMKR]
+	{
+	name=モホ金属変換機;
+	description=エネルギーを金属に変換;
+	name-from=Moho Metal Maker;
+	description-from=Converts Energy into Metal;
+	}
+[ARMMOHO]
+	{
+	name=モホ鉱山;
+	description=上級金属抽出機;
+	name-from=Moho Mine;
+	description-from=Advanced Metal Extractor;
+	}
+[ARMMSHIP]
+	{
+	name=レンジャー;
+	description=ミサイル艦;
+	name-from=Ranger;
+	description-from=Missile Ship;
+	}
+[ARMMSTOR]
+	{
+	name=金属貯蔵庫;
+	description=金属貯蔵量を増加;
+	name-from=Metal Storage;
+	description-from=Increases Metal Storage;
+	}
+[ARMPEEP]
+	{
+	name=ピーパー;
+	description=偵察機;
+	name-from=Peeper;
+	description-from=Air Scout;
+	}
+[ARMPLAT]
+	{
+	name=水上機基地;
+	description=水上機を生産;
+	name-from=Seaplane Platform;
+	description-from=Builds Seaplanes;
+	}
+[ARMPNIX]
+	{
+	name=フェニックス;
+	description=爆撃機;
+	name-from=Phoenix;
+	description-from=Bomber;
+	}
+[ARMPT]
+	{
+	name=スキーター;
+	description=偵察艇;
+	name-from=Skeeter;
+	description-from=Scout Ship;
+	}
+[ARMPW]
+	{
+	name=ピーウィー;
+	description=歩兵Kボット;
+	name-from=Peewee;
+	description-from=Infantry Kbot;
+	}
+[ARMRAD]
+	{
+	name=レーダー塔;
+	description=レーダー塔;
+	name-from=Radar Tower;
+	description-from=Radar Tower;
+	}
+[ARMRL]
+	{
+	name=ディフェンダー;
+	description=ミサイル塔;
+	name-from=Defender;
+	description-from=Missile Tower;
+	}
+[ARMROCK]
+	{
+	name=ロッコ;
+	description=ロケットKボット;
+	name-from=Rocko;
+	description-from=Rocket Kbot;
+	}
+[ARMROY]
+	{
+	name=クルセイダー;
+	description=駆逐艦;
+	name-from=Crusader;
+	description-from=Destroyer;
+	}
+[ARMSAM]
+	{
+	name=サムソン;
+	description=自走ミサイル発射機;
+	name-from=Samson;
+	description-from=Mobile Missile Launcher;
+	}
+[ARMSCAB]
+	{
+	name=スカラベ;
+	description=移動式ミサイル防衛;
+	name-from=Scarab;
+	description-from=Mobile Missile Defense;
+	}
+[ARMSCORP]
+	{
+	name=スコーピオン;
+	description=原生生物;
+	name-from=Scorpion;
+	description-from=Indigenous Lifeform;
+	}
+[ARMSCRAM]
+	{
+	name=フィバー;
+	description=ソナー妨害潜水艦;
+	name-from=Fibber;
+	description-from=Sonar Jamming Sub;
+	}
+[ARMSEAP]
+	{
+	name=アルバトロス;
+	description=雷撃水上機;
+	name-from=Albatross;
+	description-from=Torpedo Seaplane;
+	}
+[ARMSEER]
+	{
+	name=シーア;
+	description=移動レーダー;
+	name-from=Seer;
+	description-from=Mobile Radar;
+	}
+[ARMSEHAK]
+	{
+	name=シーホーク;
+	description=空中ソナー;
+	name-from=Seahawk;
+	description-from=Airborne Sonar;
+	}
+[ARMSFIG]
+	{
+	name=トルネード;
+	description=水上戦闘機;
+	name-from=Tornado;
+	description-from=Seaplane Fighter;
+	}
+[ARMSH]
+	{
+	name=スキマー;
+	description=偵察ホバークラフト;
+	name-from=Skimmer;
+	description-from=Scout Hovercraft;
+	}
+[ARMSILO]
+	{
+	name=リタリエイター;
+	description=核ミサイル発射機;
+	name-from=Retaliator;
+	description-from=Nuclear Missile Launcher;
+	}
+[ARMSJAM]
+	{
+	name=エスコート;
+	description=レーダー妨害艦;
+	name-from=Escort;
+	description-from=Radar Jammer Ship;
+	}
+[ARMSNIPE]
+	{
+	name=シューター;
+	description=狙撃Kボット;
+	name-from=Shooter;
+	description-from=Sniper Kbot;
+	}
+[ARMSOLAR]
+	{
+	name=太陽光発電機;
+	description=エネルギーを生産;
+	name-from=Solar Collector;
+	description-from=Produces Energy;
+	}
+[ARMSONAR]
+	{
+	name=ソナー基地;
+	description=水中・水上ユニットを探知;
+	name-from=Sonar Station;
+	description-from=Locates Water Units;
+	}
+[ARMSPID]
+	{
+	name=スパイダー;
+	description=多脚突撃車両;
+	name-from=Spider;
+	description-from=Spider Assault Vehicle;
+	}
+[ARMSPY]
+	{
+	name=インフィルトレーター;
+	description=スパイKボット;
+	name-from=Infiltrator;
+	description-from=SPY Kbot;
+	}
+[ARMSS]
+	{
+	name=シーサーペント;
+	description=原生生物;
+	name-from=Sea Serpent;
+	description-from=Indigenous Lifeform;
+	}
+[ARMSTUMP]
+	{
+	name=スタンピー;
+	description=中型突撃戦車;
+	name-from=Stumpy;
+	description-from=Medium Assault Tank;
+	}
+[ARMSUB]
+	{
+	name=ラーカー;
+	description=潜水艦;
+	name-from=Lurker;
+	description-from=Submarine;
+	}
+[ARMSUBK]
+	{
+	name=ピラニア;
+	description=対潜潜水艦;
+	name-from=Piranha;
+	description-from=Submarine Killer;
+	}
+[ARMSY]
+	{
+	name=造船所;
+	description=艦船を生産;
+	name-from=Shipyard;
+	description-from=Produces Ships;
+	}
+[ARMTARG]
+	{
+	name=照準施設;
+	description=自動レーダー照準;
+	name-from=Targeting Facility;
+	description-from=Automatic Radar Targeting;
+	}
+[ARMTHOVR]
+	{
+	name=ベア;
+	description=輸送ホバークラフト;
+	name-from=Bear;
+	description-from=Transport Hovercraft;
+	}
+[ARMTHUND]
+	{
+	name=サンダー;
+	description=爆撃機;
+	name-from=Thunder;
+	description-from=Bomber;
+	}
+[ARMTIDE]
+	{
+	name=潮力発電機;
+	description=エネルギーを生産;
+	name-from=Tidal Generator;
+	description-from=Produces Energy;
+	}
+[ARMTL]
+	{
+	name=魚雷発射機;
+	description=魚雷発射機;
+	name-from=Torpedo Launcher;
+	description-from=Torpedo Launcher;
+	}
+[ARMTSHIP]
+	{
+	name=ハルク;
+	description=輸送船;
+	name-from=Hulk;
+	description-from=Transport Ship;
+	}
+[ARMUWES]
+	{
+	name=水中エネルギー貯蔵庫;
+	description=エネルギー貯蔵量を増加;
+	name-from=Underwater Energy Storage;
+	description-from=Increases Energy Storage;
+	}
+[ARMUWFUS]
+	{
+	name=水中核融合発電所;
+	description=エネルギーを生産;
+	name-from=Underwater Fusion Plant;
+	description-from=Produces Energy;
+	}
+[ARMUWMEX]
+	{
+	name=水中金属抽出機;
+	description=金属を抽出;
+	name-from=Underwater Metal Extractor;
+	description-from=Extracts Metal;
+	}
+[ARMUWMS]
+	{
+	name=水中金属貯蔵庫;
+	description=金属貯蔵量を増加;
+	name-from=Underwater Metal Storage;
+	description-from=Increases Metal Storage;
+	}
+[ARMVADER]
+	{
+	name=インベーダー;
+	description=自走爆弾;
+	name-from=Invader;
+	description-from=Crawling Bomb;
+	}
+[ARMVP]
+	{
+	name=車両工場;
+	description=車両を生産;
+	name-from=Vehicle Plant;
+	description-from=Produces Vehicles;
+	}
+[ARMVULC]
+	{
+	name=バルカン;
+	description=速射プラズマ砲;
+	name-from=Vulcan;
+	description-from=Rapid Fire Plasma Cannon;
+	}
+[ARMWAR]
+	{
+	name=ウォーリアー;
+	description=中型歩兵Kボット;
+	name-from=Warrior;
+	description-from=Medium Infantry Kbot;
+	}
+[ARMWIN]
+	{
+	name=風力発電機;
+	description=エネルギーを生産;
+	name-from=Wind Generator;
+	description-from=Produces Energy;
+	}
+[ARMYORK]
+	{
+	name=ファランクス;
+	description=自走対空砲;
+	name-from=Phalanx;
+	description-from=Mobile Flak Vehicle;
+	}
+[ARMZEUS]
+	{
+	name=ゼウス;
+	description=突撃Kボット;
+	name-from=Zeus;
+	description-from=Assault Kbot;
+	}
+[CORAAP]
+	{
+	name=上級航空機工場;
+	description=航空機を生産;
+	name-from=Adv. Aircraft Plant;
+	description-from=Produces Aircraft;
+	}
+[CORACA]
+	{
+	name=上級建設航空機;
+	description=技術レベル2;
+	name-from=Adv. Construction Aircraft;
+	description-from=Tech Level 2;
+	}
+[CORACK]
+	{
+	name=上級建設Kボット;
+	description=技術レベル2;
+	name-from=Adv. Construction Kbot;
+	description-from=Tech Level 2;
+	}
+[CORACSUB]
+	{
+	name=上級建設潜水艦;
+	description=技術レベル2;
+	name-from=Advanced Construction Sub;
+	description-from=Tech Level 2;
+	}
+[CORACV]
+	{
+	name=上級建設車両;
+	description=技術レベル2;
+	name-from=Adv. Construction Vehicle;
+	description-from=Tech Level 2;
+	}
+[CORAH]
+	{
+	name=スリンガー;
+	description=対空ホバークラフト;
+	name-from=Slinger;
+	description-from=Anti-Air Hovercraft;
+	}
+[CORAK]
+	{
+	name=A.K.;
+	description=歩兵Kボット;
+	name-from=A.K.;
+	description-from=Infantry Kbot;
+	}
+[CORALAB]
+	{
+	name=上級Kボットラボ;
+	description=Kボットを生産;
+	name-from=Adv. Kbot Lab;
+	description-from=Produces Kbots;
+	}
+[CORAMPH]
+	{
+	name=ギンプ;
+	description=水陸両用Kボット;
+	name-from=Gimp;
+	description-from=Amphibious Kbot;
+	}
+[CORAP]
+	{
+	name=航空機工場;
+	description=航空機を生産;
+	name-from=Aircraft Plant;
+	description-from=Produces Aircraft;
+	}
+[CORAPE]
+	{
+	name=レイピア;
+	description=ガンシップ;
+	name-from=Rapier;
+	description-from=Gunship;
+	}
+[CORARAD]
+	{
+	name=上級レーダー塔;
+	description=長距離レーダー;
+	name-from=Advanced Radar Tower;
+	description-from=Long Range Radar;
+	}
+[CORARCH]
+	{
+	name=シュレッダー;
+	description=対空艦;
+	name-from=Shredder;
+	description-from=Anti-Air Ship;
+	}
+[CORASON]
+	{
+	name=上級ソナー基地;
+	description=水中・水上ユニットを探知;
+	name-from=Advanced Sonar Station;
+	description-from=Locates Water Units;
+	}
+[CORASP]
+	{
+	name=航空機修理パッド;
+	description=航空機を自動修理;
+	name-from=Air Repair Pad;
+	description-from=Automatically repairs aircraft;
+	}
+[CORASY]
+	{
+	name=上級造船所;
+	description=艦船を生産;
+	name-from=Adv. Shipyard;
+	description-from=Produces Ships;
+	}
+[CORATL]
+	{
+	name=上級魚雷発射機;
+	description=上級魚雷発射機;
+	name-from=Advanced Torpedo Launcher;
+	description-from=Advanced Torpedo Launcher;
+	}
+[CORAVP]
+	{
+	name=上級車両工場;
+	description=車両を生産;
+	name-from=Adv. Vehicle Plant;
+	description-from=Produces Vehicles;
+	}
+[CORAWAC]
+	{
+	name=バルチャー;
+	description=レーダー機;
+	name-from=Vulture;
+	description-from=Radar Plane;
+	}
+[CORBATS]
+	{
+	name=ウォーロード;
+	description=戦艦;
+	name-from=Warlord;
+	description-from=Battleship;
+	}
+[CORBEAC]
+	{
+	name=異星ビーコン;
+	description=異星ビーコン;
+	name-from=Alien Beacon;
+	description-from=Alien Beacon;
+	}
+[CORBUILD]
+	{
+	name=給水プラント;
+	description=水を生成;
+	name-from=Hydration Plant;
+	description-from=Creates Water;
+	}
+[CORBUZZ]
+	{
+	name=バズソー;
+	description=速射プラズマ砲;
+	name-from=Buzzsaw;
+	description-from=Rapid Fire Plasma Cannon;
+	}
+[CORCA]
+	{
+	name=建設航空機;
+	description=技術レベル1;
+	name-from=Construction Aircraft;
+	description-from=Tech Level 1;
+	}
+[CORCAN]
+	{
+	name=ザ・カン;
+	description=装甲突撃Kボット;
+	name-from=The Can;
+	description-from=Armored Assault Kbot;
+	}
+[CORCARRY]
+	{
+	name=ハイヴ;
+	description=軽空母;
+	name-from=Hive;
+	description-from=Light Carrier;
+	}
+[CORCH]
+	{
+	name=建設ホバークラフト;
+	description=技術レベル1;
+	name-from=Construction Hovercraft;
+	description-from=Tech Level 1;
+	}
+[CORCK]
+	{
+	name=建設Kボット;
+	description=技術レベル1;
+	name-from=Construction Kbot;
+	description-from=Tech Level 1;
+	}
+[CORCKFUS]
+	{
+	name=クローク式核融合炉;
+	description=エネルギーを生産;
+	name-from=Cloakable Fusion Reactor;
+	description-from=Produces Energy;
+	}
+[CORCOM]
+	{
+	name=コマンダー;
+	description=コマンダー;
+	name-from=Commander;
+	description-from=Commander;
+	}
+[CORCRASH]
+	{
+	name=クラッシャー;
+	description=ミサイルKボット;
+	name-from=Crasher;
+	description-from=Missile Kbot;
+	}
+[CORCRUS]
+	{
+	name=エクスキューショナー;
+	description=巡洋艦;
+	name-from=Executioner;
+	description-from=Cruiser;
+	}
+[CORCS]
+	{
+	name=建設船;
+	description=技術レベル1;
+	name-from=Construction Ship;
+	description-from=Tech Level 1;
+	}
+[CORCSA]
+	{
+	name=建設水上機;
+	description=技術レベル1;
+	name-from=Construction Seaplane;
+	description-from=Tech Level 1;
+	}
+[CORCV]
+	{
+	name=建設車両;
+	description=技術レベル1;
+	name-from=Construction Vehicle;
+	description-from=Tech Level 1;
+	}
+[CORDECOM]
+	{
+	name=デコイ・コマンダー;
+	description=デコイ・コマンダー;
+	name-from=Decoy Commander;
+	description-from=Decoy Commander;
+	}
+[CORDEV1]
+	{
+	name=爆縮装置;
+	description=爆縮装置;
+	name-from=Implosion Device;
+	description-from=Implosion Device;
+	}
+[CORDOOM]
+	{
+	name=ドゥームズデイ・マシン;
+	description=エネルギー兵器;
+	name-from=Doomsday Machine;
+	description-from=Energy Weapon;
+	}
+[CORDRAG]
+	{
+	name=竜の歯;
+	description=外周防衛;
+	name-from=Dragon's Teeth;
+	description-from=Perimeter Defense;
+	}
+[CORESTOR]
+	{
+	name=エネルギー貯蔵庫;
+	description=エネルギー貯蔵量を増加;
+	name-from=Energy Storage;
+	description-from=Increases Energy Storage;
+	}
+[CORETER]
+	{
+	name=デリーター;
+	description=移動式レーダー妨害装置;
+	name-from=Deleter;
+	description-from=Mobile Radar Jammer;
+	}
+[CORFAST]
+	{
+	name=フリーカー;
+	description=高速攻撃Kボット;
+	name-from=Freaker;
+	description-from=Fast Attack Kbot;
+	}
+[CORFAV]
+	{
+	name=ウィーゼル;
+	description=偵察車両;
+	name-from=Weasel;
+	description-from=Scout;
+	}
+[CORFDRAG]
+	{
+	name=浮遊式竜の歯;
+	description=浮遊式竜の歯;
+	name-from=Floating Dragon's Teeth;
+	description-from=Floating Dragon's Teeth;
+	}
+[CORFHLT]
+	{
+	name=サンダーボルト;
+	description=浮遊式重レーザー塔;
+	name-from=Thunderbolt;
+	description-from=Floating Heavy Laser Tower;
+	}
+[CORFINK]
+	{
+	name=フィンク;
+	description=偵察機;
+	name-from=Fink;
+	description-from=Air Scout;
+	}
+[CORFLAK]
+	{
+	name=コブラ;
+	description=対空砲;
+	name-from=Cobra;
+	description-from=Anti-Air Flak Gun;
+	}
+[CORFMD]
+	{
+	name=フォーティチュード・ミサイル防衛;
+	description=ミサイル防衛システム;
+	name-from=Fortitude Missile Defense;
+	description-from=Anti Missile Defense System;
+	}
+[CORFMKR]
+	{
+	name=浮遊式金属変換機;
+	description=浮遊式金属変換機;
+	name-from=Floating Metal Maker;
+	description-from=Floating Metal Maker;
+	}
+[CORFORT]
+	{
+	name=防壁;
+	description=外周防衛;
+	name-from=Fortification Wall;
+	description-from=Perimeter Defense;
+	}
+[CORFRT]
+	{
+	name=スティンガー;
+	description=ミサイル塔 - 海上型;
+	name-from=Stinger;
+	description-from=Missile Tower - Naval Series;
+	}
+[CORFUS]
+	{
+	name=核融合発電所;
+	description=エネルギーを生産;
+	name-from=Fusion Power Plant;
+	description-from=Produces Energy;
+	}
+[CORGANT]
+	{
+	name=クロゴス・ガントリー;
+	description=クロゴスを生産;
+	name-from=Krogoth Gantry;
+	description-from=Builds Krogoth;
+	}
+[CORGATE]
+	{
+	name=銀河ゲート;
+	description=宇宙転送装置;
+	name-from=Galactic Gate;
+	description-from=Space Teleporter;
+	}
+[CORGATOR]
+	{
+	name=インスティゲーター;
+	description=突撃戦車;
+	name-from=Instigator;
+	description-from=Assault Tank;
+	}
+[CORGEO]
+	{
+	name=地熱発電所;
+	description=エネルギーを生産;
+	name-from=Geothermal Powerplant;
+	description-from=Produces Energy;
+	}
+[CORGOL]
+	{
+	name=ゴリアテ;
+	description=超重突撃戦車;
+	name-from=Goliath;
+	description-from=Very Heavy Assault Tank;
+	}
+[CORHLT]
+	{
+	name=ガート・ガン;
+	description=重レーザー塔;
+	name-from=Gaat Gun;
+	description-from=Heavy Laser Tower;
+	}
+[CORHP]
+	{
+	name=ホバークラフト基地;
+	description=ホバークラフトを生産;
+	name-from=Hovercraft Platform;
+	description-from=Builds Hovercraft;
+	}
+[CORHRK]
+	{
+	name=ドミネーター;
+	description=重ロケットKボット;
+	name-from=Dominator;
+	description-from=Heavy Rocket Kbot;
+	}
+[CORHUNT]
+	{
+	name=ハンター;
+	description=空中ソナー;
+	name-from=Hunter;
+	description-from=Airborne Sonar;
+	}
+[CORHURC]
+	{
+	name=ハリケーン;
+	description=戦略爆撃機;
+	name-from=Hurricane;
+	description-from=Strategic Bomber;
+	}
+[CORINT]
+	{
+	name=インティミデーター;
+	description=長距離プラズマ砲;
+	name-from=Intimidator;
+	description-from=Long Range Plasma Cannon;
+	}
+[CORKROG]
+	{
+	name=クロゴス;
+	description=実験型Kボット;
+	name-from=Krogoth;
+	description-from=Experimental Kbot;
+	}
+[CORLAB]
+	{
+	name=Kボットラボ;
+	description=Kボットを生産;
+	name-from=Kbot Lab;
+	description-from=Produces Kbots;
+	}
+[CORLEVLR]
+	{
+	name=レベラー;
+	description=鎮圧戦車;
+	name-from=Leveler;
+	description-from=Riot Tank;
+	}
+[CORLLT]
+	{
+	name=軽レーザー塔;
+	description=軽レーザー塔;
+	name-from=Light Laser Tower;
+	description-from=Light Laser Tower;
+	}
+[CORMABM]
+	{
+	name=ヘッジホッグ;
+	description=移動式ミサイル防衛;
+	name-from=Hedgehog;
+	description-from=Mobile Missile Defense;
+	}
+[CORMAKR]
+	{
+	name=金属変換機;
+	description=金属変換機;
+	name-from=Metal Maker;
+	description-from=Metal Maker;
+	}
+[CORMART]
+	{
+	name=自走砲;
+	description=自走砲;
+	name-from=Mobile Artillery;
+	description-from=Mobile Artillery;
+	}
+[CORMEX]
+	{
+	name=金属抽出機;
+	description=金属を抽出;
+	name-from=Metal Extractor;
+	description-from=Extracts Metal;
+	}
+[CORMH]
+	{
+	name=ニクサー;
+	description=ロケットホバークラフト;
+	name-from=Nixer;
+	description-from=Hovercraft Rocket Launcher;
+	}
+[CORMINE1]
+	{
+	name=M-104;
+	description=低威力・中範囲地雷;
+	name-from=M-104;
+	description-from=Low Damage, Med. Range Mine;
+	}
+[CORMINE2]
+	{
+	name=M-209;
+	description=低威力・広範囲地雷;
+	name-from=M-209;
+	description-from=Low Damage, Large Range Mine;
+	}
+[CORMINE3]
+	{
+	name=M-303;
+	description=中威力・中範囲地雷;
+	name-from=M-303;
+	description-from=Med. Damage, Med. Range Mine;
+	}
+[CORMINE4]
+	{
+	name=M-420;
+	description=高威力・中範囲地雷;
+	name-from=M-420;
+	description-from=High Damage, Med. Range Mine;
+	}
+[CORMINE5]
+	{
+	name=M-515;
+	description=高威力・広範囲地雷;
+	name-from=M-515;
+	description-from=High Damage, Large Range Mine;
+	}
+[CORMINE6]
+	{
+	name=M-610;
+	description=核地雷;
+	name-from=M-610;
+	description-from=Nuclear Mine;
+	}
+[CORMIST]
+	{
+	name=スラッシャー;
+	description=ミサイル発射機;
+	name-from=Slasher;
+	description-from=Missile Launcher;
+	}
+[CORMLV]
+	{
+	name=スポイラー;
+	description=地雷敷設車;
+	name-from=Spoiler;
+	description-from=Mine Layer Vehicle;
+	}
+[CORMMKR]
+	{
+	name=モホ金属変換機;
+	description=金属を生産;
+	name-from=Moho Metal Maker;
+	description-from=Produces Metal;
+	}
+[CORMOHO]
+	{
+	name=モホ鉱山;
+	description=上級金属抽出機;
+	name-from=Moho Mine;
+	description-from=Advanced Metal Extractor;
+	}
+[CORMORT]
+	{
+	name=モーティ;
+	description=迫撃砲Kボット;
+	name-from=Morty;
+	description-from=Mobile Mortar Kbot;
+	}
+[CORMSHIP]
+	{
+	name=ミサイルフリゲート;
+	description=ミサイル艦;
+	name-from=Missile Frigate;
+	description-from=Missile Ship;
+	}
+[CORMSTOR]
+	{
+	name=金属貯蔵庫;
+	description=金属貯蔵量を増加;
+	name-from=Metal Storage;
+	description-from=Increases Metal Storage;
+	}
+[CORNECRO]
+	{
+	name=蘇生Kボット;
+	description=蘇生Kボット;
+	name-from=Resurrection Kbot;
+	description-from=Resurrection Kbot;
+	}
+[CORPLAS]
+	{
+	name=イモレーター;
+	description=プラズマ塔;
+	name-from=Immolator;
+	description-from=Plasma Tower;
+	}
+[CORPLAT]
+	{
+	name=水上機基地;
+	description=水上機を生産;
+	name-from=Seaplane Platform;
+	description-from=Builds Seaplanes;
+	}
+[CORPT]
+	{
+	name=サーチャー;
+	description=偵察艇;
+	name-from=Searcher;
+	description-from=Scout Ship;
+	}
+[CORPUN]
+	{
+	name=パニッシャー;
+	description=プラズマ砲台;
+	name-from=Punisher;
+	description-from=Plasma Battery;
+	}
+[CORPYRO]
+	{
+	name=パイロ;
+	description=突撃Kボット;
+	name-from=Pyro;
+	description-from=Assault Kbot;
+	}
+[CORRAD]
+	{
+	name=レーダー塔;
+	description=レーダー塔;
+	name-from=Radar Tower;
+	description-from=Radar Tower;
+	}
+[CORRAID]
+	{
+	name=レイダー;
+	description=中型突撃戦車;
+	name-from=Raider;
+	description-from=Medium Assault Tank;
+	}
+[CORREAP]
+	{
+	name=リーパー;
+	description=重突撃戦車;
+	name-from=Reaper;
+	description-from=Heavy Assault Tank;
+	}
+[CORRL]
+	{
+	name=パルヴァライザー;
+	description=ミサイル塔;
+	name-from=Pulverizer;
+	description-from=Missile Tower;
+	}
+[CORROACH]
+	{
+	name=ローチ;
+	description=自走爆弾;
+	name-from=Roach;
+	description-from=Crawling Bomb;
+	}
+[CORROY]
+	{
+	name=エンフォーサー;
+	description=駆逐艦;
+	name-from=Enforcer;
+	description-from=Destroyer;
+	}
+[CORSCORP]
+	{
+	name=スコーピオン;
+	description=原生生物;
+	name-from=Scorpion;
+	description-from=Indigenous Lifeform;
+	}
+[CORSEAL]
+	{
+	name=クロック;
+	description=水陸両用戦車;
+	name-from=Crock;
+	description-from=Amphibious Tank;
+	}
+[CORSEAP]
+	{
+	name=タイフーン;
+	description=雷撃水上機;
+	name-from=Typhoon;
+	description-from=Torpedo Seaplane;
+	}
+[CORSENT]
+	{
+	name=カッパーヘッド;
+	description=自走対空砲;
+	name-from=Copperhead;
+	description-from=Mobile Flak Vehicle;
+	}
+[CORSFIG]
+	{
+	name=ブードゥー;
+	description=水上戦闘機;
+	name-from=Voodoo;
+	description-from=Seaplane Fighter;
+	}
+[CORSH]
+	{
+	name=スクラバー;
+	description=偵察ホバークラフト;
+	name-from=Scrubber;
+	description-from=Scout Hovercraft;
+	}
+[CORSHAD]
+	{
+	name=シャドウ;
+	description=爆撃機;
+	name-from=Shadow;
+	description-from=Bomber;
+	}
+[CORSHARK]
+	{
+	name=シャーク;
+	description=対潜潜水艦;
+	name-from=Shark;
+	description-from=Submarine Killer;
+	}
+[CORSILO]
+	{
+	name=サイレンサー;
+	description=核ミサイル発射機;
+	name-from=Silencer;
+	description-from=Nuclear Missile Launcher;
+	}
+[CORSJAM]
+	{
+	name=ファントム;
+	description=レーダー妨害艦;
+	name-from=Phantom;
+	description-from=Radar Jammer Ship;
+	}
+[CORSNAP]
+	{
+	name=スナッパー;
+	description=ホバー戦車;
+	name-from=Snapper;
+	description-from=Hovertank;
+	}
+[CORSOLAR]
+	{
+	name=太陽光発電機;
+	description=エネルギーを生産;
+	name-from=Solar Collector;
+	description-from=Produces Energy;
+	}
+[CORSONAR]
+	{
+	name=ソナー基地;
+	description=ソナー基地;
+	name-from=Sonar Station;
+	description-from=Sonar Station;
+	}
+[CORSPEC]
+	{
+	name=スペクター;
+	description=レーダー妨害装置;
+	name-from=Spectre;
+	description-from=Radar Jammer;
+	}
+[CORSPY]
+	{
+	name=パラサイト;
+	description=スパイKボット;
+	name-from=Parasite;
+	description-from=SPY Kbot;
+	}
+[CORSS]
+	{
+	name=シーサーペント;
+	description=原生生物;
+	name-from=Sea Serpent;
+	description-from=Indigenous Lifeform;
+	}
+[CORSSUB]
+	{
+	name=リヴァイアサン;
+	description=戦闘潜水艦;
+	name-from=Leviathan;
+	description-from=Battle Sub;
+	}
+[CORSTORM]
+	{
+	name=ストーム;
+	description=ロケットKボット;
+	name-from=Storm;
+	description-from=Rocket Kbot;
+	}
+[CORSUB]
+	{
+	name=スネーク;
+	description=潜水艦;
+	name-from=Snake;
+	description-from=Submarine;
+	}
+[CORSUMO]
+	{
+	name=スモウ;
+	description=上級装甲突撃Kボット;
+	name-from=Sumo;
+	description-from=Adv. Armored Assault Kbot;
+	}
+[CORSY]
+	{
+	name=造船所;
+	description=艦船を生産;
+	name-from=Shipyard;
+	description-from=Produces Ships;
+	}
+[CORTARG]
+	{
+	name=照準施設;
+	description=自動レーダー照準;
+	name-from=Targeting Facility;
+	description-from=Automatic Radar Targeting;
+	}
+[CORTHOVR]
+	{
+	name=タートル;
+	description=輸送ホバークラフト;
+	name-from=Turtle;
+	description-from=Transport Hovercraft;
+	}
+[CORTHUD]
+	{
+	name=サッド;
+	description=砲兵Kボット;
+	name-from=Thud;
+	description-from=Artillery Kbot;
+	}
+[CORTIDE]
+	{
+	name=潮力発電機;
+	description=エネルギーを生産;
+	name-from=Tidal Generator;
+	description-from=Produces Energy;
+	}
+[CORTITAN]
+	{
+	name=タイタン;
+	description=雷撃機;
+	name-from=Titan;
+	description-from=Torpedo Bomber;
+	}
+[CORTL]
+	{
+	name=魚雷発射機;
+	description=魚雷発射機;
+	name-from=Torpedo Launcher;
+	description-from=Torpedo Launcher;
+	}
+[CORTOAST]
+	{
+	name=トースター;
+	description=格納式重砲;
+	name-from=Toaster;
+	description-from=Pop-up Heavy Cannon;
+	}
+[CORTRON]
+	{
+	name=ニュートロン;
+	description=中性子ミサイル発射機;
+	name-from=Neutron;
+	description-from=Neutron Missile Launcher;
+	}
+[CORTRUCK]
+	{
+	name=トラック;
+	description=地上輸送車両;
+	name-from=Truck;
+	description-from=Ground Transport;
+	}
+[CORTSHIP]
+	{
+	name=エンヴォイ;
+	description=輸送船;
+	name-from=Envoy;
+	description-from=Transport Ship;
+	}
+[CORUWES]
+	{
+	name=水中エネルギー貯蔵庫;
+	description=エネルギー貯蔵量を増加;
+	name-from=Underwater Energy Storage;
+	description-from=Increases Energy Storage;
+	}
+[CORUWFUS]
+	{
+	name=水中核融合発電所;
+	description=エネルギーを生産;
+	name-from=Underwater Fusion Plant;
+	description-from=Produces Energy;
+	}
+[CORUWMEX]
+	{
+	name=水中金属抽出機;
+	description=金属を抽出;
+	name-from=Underwater Metal Extractor;
+	description-from=Extracts Metal;
+	}
+[CORUWMS]
+	{
+	name=水中金属貯蔵庫;
+	description=金属貯蔵量を増加;
+	name-from=Underwater Metal Storage;
+	description-from=Increases Metal Storage;
+	}
+[CORVALK]
+	{
+	name=ヴァルキリー;
+	description=輸送機;
+	name-from=Valkyrie;
+	description-from=Air Transport;
+	}
+[CORVAMP]
+	{
+	name=ヴァンプ;
+	description=ステルス戦闘機;
+	name-from=Vamp;
+	description-from=Stealth Fighter;
+	}
+[CORVENG]
+	{
+	name=アベンジャー;
+	description=戦闘機;
+	name-from=Avenger;
+	description-from=Fighter;
+	}
+[CORVIPE]
+	{
+	name=ヴァイパー;
+	description=格納式重レーザー;
+	name-from=Viper;
+	description-from=Pop-Up Heavy Laser;
+	}
+[CORVOYR]
+	{
+	name=ヴォワイヤー;
+	description=レーダーKボット;
+	name-from=Voyeur;
+	description-from=Mobile Radar Kbot;
+	}
+[CORVP]
+	{
+	name=車両工場;
+	description=車両を生産;
+	name-from=Vehicle Plant;
+	description-from=Produces Vehicles;
+	}
+[CORVRAD]
+	{
+	name=インフォーマー;
+	description=移動レーダー;
+	name-from=Informer;
+	description-from=Mobile Radar;
+	}
+[CORVROC]
+	{
+	name=ディプロマット;
+	description=自走ロケット発射機;
+	name-from=Diplomat;
+	description-from=Mobile Rocket Launcher;
+	}
+[CORWIN]
+	{
+	name=風力発電機;
+	description=エネルギーを生産;
+	name-from=Wind Generator;
+	description-from=Produces Energy;
+	}
