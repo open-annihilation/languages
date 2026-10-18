@@ -177,6 +177,19 @@ class CheckTests(unittest.TestCase):
                       "韓 (U+97D3, line 10), 國 (U+570B, line 10)", output)
         self.assertNotIn("한", output)
 
+    def test_hanzi_outside_the_japanese_recipe_fails(self) -> None:
+        # With no face built and no Unihan archive, the Japanese text is kept
+        # to JIS X 0208's characters and the kana and punctuation blocks.
+        code, output = run([str(FIXTURES / "hanzi"), "--source", "--fonts", str(self.empty),
+                            "--deps", str(self.empty)])
+        self.assertEqual(code, 1, output)
+        self.assertIn("the Japanese face is not built and the Unihan archive is not in --deps: "
+                      "characters are checked against JIS X 0208 only", output)
+        self.assertIn("interface.tdf uses 2 characters the pack's fonts lack: "
+                      "简 (U+7B80, line 10), 们 (U+4EEC, line 10)", output)
+        self.assertNotIn("日 (U+65E5", output)
+        self.assertNotIn("ー (U+30FC", output)
+
     def test_cyrillic_is_drawn_by_the_recorded_engine_faces(self) -> None:
         code, output = run([str(FIXTURES / "cyrillic")])
         self.assertEqual(code, 0, output)

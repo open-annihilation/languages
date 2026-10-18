@@ -268,8 +268,29 @@ A new face takes, in one commit:
   licence, SHA-256);
 - its character set in `tools/fonts.py`, documented there, and its self-test;
 - `tools/check.py` checking the pack's characters against that set before
-  the face is built, as it does for the Chinese and Korean faces;
-- tests beside the Chinese and Korean ones, and this repository's README.
+  the face is built, as it does for the Chinese, Korean and Japanese faces;
+- tests beside the Chinese, Korean and Japanese ones, `fonts/README.md` and
+  this repository's README.
+
+A set that reads the pinned Unihan archive (the Chinese and Japanese ones)
+also needs one it falls back to without it, from Python's codecs alone:
+`check.py --source` uses it when `--deps` lacks the archive, and so do the
+tests, which download nothing. Every character of the pack must be in that
+fallback too.
+
+The count and the SHA-256 come from cutting the face once by hand. With the
+fontTools environment made (`python3 tools/fonts.py` makes it before it
+cuts), run
+
+```sh
+local/fonttools-venv/bin/python tools/fonts.py --cut-face \
+    local/deps/NotoSansCJK-Bold-2.004.ttc local/deps/Unihan-16.0.0.zip \
+    /tmp/face.otf --face 0 --characters japanese --count 1
+```
+
+with the new face's index and set: it fails naming how many of the set's
+characters the face holds. Run it twice more with that count, check that
+the two files are the same bytes, and pin their SHA-256.
 
 Then `python3 tools/fonts.py` builds it into `local/fonts/`, and the
 manifest names it under `fonts`.

@@ -20,6 +20,7 @@ LICENCE = "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
 UNIHAN = "b8f000df69de7828d21326a2ffea462b04bc7560022989f7cc704f10521ef3e0"
 CUT = "1bff16d425a0bc5048fddb7d33d2a59e08647d4a29380a348ccaabcbd89a29f2"
 KOREAN_CUT = "0f035ef4a3ce2cb1aee6c921fc550281ba4ee5fec43cf6febc2c3c3110de168f"
+JAPANESE_CUT = "4806744e3fc97964d9a563ce39d04b08b20f2a2786bd84db6dfb9e4acde26236"
 UKRAINIAN = (
     "АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯабвгґдеєжзиіїйклмнопрстуфхцчшщьюя"
     "ʼ’«»—–…№"
@@ -30,6 +31,18 @@ def unihan_zip(path: Path, count: int) -> None:
     lines = [f"U+{0x4E00 + index:04X}\tkTGH\t{index}\n" for index in range(count)]
     lines.append("# not a mapping\n")
     lines.append("U+4E00\tkDefinition\tignored\n")
+    with zipfile.ZipFile(path, "w") as archive:
+        archive.writestr("Unihan_OtherMappings.txt", "".join(lines))
+
+
+def japanese_unihan_zip(path: Path, jis: int, joyo: int, jinmeiyo: int) -> None:
+    """An archive whose kJis0 starts at U+4E00, kJoyoKanji overlaps it and kJinmeiyoKanji follows."""
+    lines = [f"U+{0x4E00 + index:04X}\tkJis0\t{index:04d}\n" for index in range(jis)]
+    lines += [f"U+{0x4E00 + index:04X}\tkJoyoKanji\t2010\n" for index in range(joyo)]
+    lines += [f"U+{0x9000 + index:04X}\tkJinmeiyoKanji\t2010\n" for index in range(jinmeiyo)]
+    lines.append("U+20B9F\tkJoyoKanji\t2010\n" if joyo else "")
+    lines.append("# kJis0 not a mapping\n")
+    lines.append("U+4E00\tkJis1\tignored\n")
     with zipfile.ZipFile(path, "w") as archive:
         archive.writestr("Unihan_OtherMappings.txt", "".join(lines))
 
@@ -59,6 +72,13 @@ class FontTests(unittest.TestCase):
         self.assertEqual(korean["count"], 12298)
         self.assertEqual(korean["sha256"], KOREAN_CUT)
         self.assertEqual(korean["licence"], "NotoSansCJK-OFL.txt")
+        japanese = data["fonts"]["NotoSansCJKjp-Bold.otf"]
+        self.assertEqual(japanese["download"], "NotoSansCJK-Bold-2.004.ttc")
+        self.assertEqual(japanese["face"], 0)
+        self.assertEqual(japanese["characters"], "japanese")
+        self.assertEqual(japanese["count"], 7190)
+        self.assertEqual(japanese["sha256"], JAPANESE_CUT)
+        self.assertEqual(japanese["licence"], "NotoSansCJK-OFL.txt")
         self.assertEqual(fonts.download_roles(data)[0]["file"], "NotoSansCJK-Bold-2.004.ttc")
         self.assertEqual(fonts.self_test(), 0)
 
@@ -78,6 +98,34 @@ class FontTests(unittest.TestCase):
         self.assertEqual(fonts.recipe_characters("common-cjk"), fonts.cjk_characters())
         with self.assertRaises(ValueError):
             fonts.recipe_characters("every-cjk")
+
+    def test_japanese_characters_hold_kana_and_the_jis_kanji(self) -> None:
+        characters = fonts.japanese_characters()
+        self.assertEqual(len(characters), fonts.JAPANESE_COUNT)
+        for character in "日本語ひらがなカタカナーヴ・ㇰ「」、。〜！？（）ｱ仝々":
+            self.assertIn(ord(character), characters, character)
+        for character in "简们这한𠮟":
+            self.assertNotIn(ord(character), characters, character)
+        self.assertEqual(fonts.recipe_characters("japanese"), characters)
+        kanji = {0x20B9F, 0x525D}
+        self.assertEqual(set(fonts.japanese_characters(kanji)), set(characters) | kanji)
+
+    def test_japanese_kanji_fields_must_hold_their_counts(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            folder = Path(tmp)
+            good = folder / "good.zip"
+            japanese_unihan_zip(good, 6356, 2139, 863)
+            kanji = fonts.japanese_kanji(good)
+            self.assertEqual(len(kanji), 6356 + 1 + 863)
+            self.assertIn(0x20B9F, kanji)
+            self.assertEqual(fonts.unihan_characters("japanese", good), kanji)
+            self.assertEqual(fonts.unihan_characters("hangul", good), set())
+            with self.assertRaises(ValueError):
+                fonts.unihan_characters("every-cjk", good)
+            short = folder / "short.zip"
+            japanese_unihan_zip(short, 6356, 2139, 862)
+            with self.assertRaises(RuntimeError):
+                fonts.japanese_kanji(short)
 
     def test_general_standard_table_must_hold_8105(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

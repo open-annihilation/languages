@@ -11,11 +11,13 @@ is already there is used when its SHA-256 matches, and fetched otherwise.
 --out is where the cut faces are written (default local/fonts). Each face
 is one line: its path, its size in bytes and its SHA-256.
 
-Two faces are cut from the Bold collection: Noto Sans CJK SC Bold (face 2)
-kept to the common CJK characters, and Noto Sans CJK KR Bold (face 1) kept
-to Hangul. fontTools 4.66.1, pinned by hash in
-fonts/requirements.txt, runs in local/fonttools-venv. --self-test checks
-the pins and the character set and downloads nothing.
+Three faces are cut from the Bold collection: Noto Sans CJK SC Bold (face
+2) kept to the common CJK characters, Noto Sans CJK KR Bold (face 1) kept
+to Hangul, and Noto Sans CJK JP Bold (face 0) kept to Japanese. fontTools
+4.66.1, pinned by hash in fonts/requirements.txt, runs in
+local/fonttools-venv, which is made again when its Python no longer runs
+it. --self-test checks the pins and the character sets and downloads
+nothing.
 
     fonts.py --record-engine-faces FONTS
 
@@ -46,6 +48,13 @@ PINS = ROOT / "fonts" / "fonts.json"
 REQUIREMENTS = ROOT / "fonts" / "requirements.txt"
 UNIHAN_GENERAL_STANDARD_FILE = "Unihan_OtherMappings.txt"
 GENERAL_STANDARD_CHARACTERS = 8105
+UNIHAN_JAPANESE_FILE = "Unihan_OtherMappings.txt"
+JAPANESE_KANJI_FIELDS = {"kJis0": 6356, "kJoyoKanji": 2140, "kJinmeiyoKanji": 863}
+"""The Unihan fields the Japanese face's kanji are read from, each with the
+code points it lists: JIS X 0208's ideographs (its 6,355 kanji and the 仝
+of its symbol row), the 2,136 Jōyō kanji of 2010 and the 4 common forms
+the table allows beside 𠮟, 剝, 塡 and 頰, and the 863 Jinmeiyō kanji.
+"""
 SHA256_RE = re.compile(r"^[0-9a-f]{64}$")
 
 
@@ -69,6 +78,39 @@ def general_standard_characters(unihan):
     return found
 
 
+def japanese_kanji(unihan):
+    """The kanji of JIS X 0208 and the Jōyō and Jinmeiyō kanji, 6,465 in Unihan 16.0.
+
+    They are the code points the Unihan archive's kJis0, kJoyoKanji and
+    kJinmeiyoKanji fields list; each field must list as many as
+    JAPANESE_KANJI_FIELDS says.
+    """
+    found = {field: set() for field in JAPANESE_KANJI_FIELDS}
+    with zipfile.ZipFile(unihan) as archive:
+        for line in archive.read(UNIHAN_JAPANESE_FILE).decode("utf-8").splitlines():
+            fields = line.split("\t")
+            if len(fields) == 3 and fields[1] in found and fields[0].startswith("U+"):
+                found[fields[1]].add(int(fields[0][2:], 16))
+    for field, count in JAPANESE_KANJI_FIELDS.items():
+        if len(found[field]) != count:
+            raise RuntimeError(f"{unihan} lists {len(found[field])} {field} characters, not {count}")
+    return set().union(*found.values())
+
+
+def two_byte_characters(codec, leads, trails):
+    """The characters a two-byte code page maps, as Python's codec decodes them."""
+    found = set()
+    for lead in leads:
+        for trail in trails:
+            try:
+                text = bytes((lead, trail)).decode(codec)
+            except UnicodeDecodeError:
+                continue
+            if len(text) == 1:
+                found.add(ord(text))
+    return found
+
+
 def cjk_characters(general_standard=()):
     """The characters the cut-down CJK font keeps, as a sorted list of code points.
 
@@ -80,23 +122,14 @@ def cjk_characters(general_standard=()):
     full-width forms, and the code points of general_standard, the Table of
     General Standard Chinese Characters (general_standard_characters).
     """
-    def two_byte(codec, leads, trails):
-        found = set()
-        for lead in leads:
-            for trail in trails:
-                try:
-                    text = bytes((lead, trail)).decode(codec)
-                except UnicodeDecodeError:
-                    continue
-                if len(text) == 1:
-                    found.add(ord(text))
-        return found
-
     characters = set()
-    characters |= two_byte("gb2312", range(0xA1, 0xF8), range(0xA1, 0xFF))
-    characters |= two_byte("big5", range(0xA1, 0xC7), [*range(0x40, 0x7F), *range(0xA1, 0xFF)])
-    characters |= two_byte("euc_jp", range(0xA1, 0xF5), range(0xA1, 0xFF))
-    characters |= two_byte("euc_kr", [*range(0xA1, 0xAD), *range(0xB0, 0xC9)], range(0xA1, 0xFF))
+    for codec, leads, trails in (
+        ("gb2312", range(0xA1, 0xF8), range(0xA1, 0xFF)),
+        ("big5", range(0xA1, 0xC7), [*range(0x40, 0x7F), *range(0xA1, 0xFF)]),
+        ("euc_jp", range(0xA1, 0xF5), range(0xA1, 0xFF)),
+        ("euc_kr", [*range(0xA1, 0xAD), *range(0xB0, 0xC9)], range(0xA1, 0xFF)),
+    ):
+        characters |= two_byte_characters(codec, leads, trails)
     for first, last in ((0x3000, 0x30FF), (0x3100, 0x312F), (0x3130, 0x318F), (0xFF00, 0xFFEF)):
         characters |= set(range(first, last + 1))
     characters |= set(general_standard)
@@ -119,33 +152,75 @@ def hangul_characters():
     Python's codecs map them. KS X 1001's hanja are left out.
     """
     characters = set(range(HANGUL_SYLLABLES[0], HANGUL_SYLLABLES[1] + 1))
-    for lead in range(0xA1, 0xAD):
-        for trail in range(0xA1, 0xFF):
-            try:
-                text = bytes((lead, trail)).decode("euc_kr")
-            except UnicodeDecodeError:
-                continue
-            if len(text) == 1:
-                characters.add(ord(text))
+    characters |= two_byte_characters("euc_kr", range(0xA1, 0xAD), range(0xA1, 0xFF))
     for first, last in ((0x3000, 0x303F), (0x3130, 0x318F), (0xFF00, 0xFFEF)):
         characters |= set(range(first, last + 1))
     return sorted(characters)
 
 
-RECIPES = ("common-cjk", "hangul")
+JAPANESE_BLOCKS = (
+    (0x3000, 0x303F),  # CJK symbols and punctuation
+    (0x3040, 0x309F),  # Hiragana
+    (0x30A0, 0x30FF),  # Katakana, the middle dot and the prolonged-sound mark among them
+    (0x31F0, 0x31FF),  # Katakana phonetic extensions
+    (0xFF00, 0xFFEF),  # Half- and full-width forms, half-width katakana among them
+)
+"""The blocks the Japanese face keeps whole."""
+
+JAPANESE_COUNT = 7100
+"""The characters japanese_characters() lists without the Unihan kanji."""
+
+
+def japanese_characters(kanji=()):
+    """The characters the cut-down Japanese face keeps, as a sorted list of code points.
+
+    The two-byte characters of JIS X 0208 (EUC-JP rows 1-84: its symbols,
+    Latin letters, digits, kana, Greek, Cyrillic and box drawing, and its
+    6,355 kanji), as Python's codecs map them, the blocks of
+    JAPANESE_BLOCKS, and the code points of kanji, the kanji of JIS X 0208
+    and the Jōyō and Jinmeiyō kanji (japanese_kanji). Without kanji the
+    set is the code page's alone, which lacks the Jōyō and Jinmeiyō kanji
+    outside JIS X 0208.
+    """
+    characters = two_byte_characters("euc_jp", range(0xA1, 0xF5), range(0xA1, 0xFF))
+    for first, last in JAPANESE_BLOCKS:
+        characters |= set(range(first, last + 1))
+    characters |= set(kanji)
+    return sorted(characters)
+
+
+RECIPES = ("common-cjk", "hangul", "japanese")
 """The character sets a face in fonts.json may be cut to.
 
 common-cjk is cjk_characters() with the general standard table, hangul is
-hangul_characters().
+hangul_characters(), japanese is japanese_characters() with the kanji of
+JIS X 0208 and the Jōyō and Jinmeiyō kanji.
 """
 
 
-def recipe_characters(recipe, general_standard=()):
-    """The code points a recipe keeps; general_standard is used by common-cjk only."""
+def unihan_characters(recipe, unihan):
+    """The code points a recipe reads from the Unihan archive at unihan.
+
+    The general standard table for common-cjk, the Japanese kanji for
+    japanese, and none for hangul, which does not read the archive.
+    """
+    if recipe == "common-cjk":
+        return general_standard_characters(unihan)
+    if recipe == "japanese":
+        return japanese_kanji(unihan)
+    if recipe == "hangul":
+        return set()
+    raise ValueError(f"{recipe!r} is not a recipe")
+
+
+def recipe_characters(recipe, from_unihan=()):
+    """The code points a recipe keeps, with from_unihan, what it reads from the Unihan archive."""
     if recipe == "hangul":
         return hangul_characters()
     if recipe == "common-cjk":
-        return cjk_characters(general_standard)
+        return cjk_characters(from_unihan)
+    if recipe == "japanese":
+        return japanese_characters(from_unihan)
     raise ValueError(f"{recipe!r} is not a recipe")
 
 
@@ -484,13 +559,32 @@ def download_roles(data):
     return collections[0], archives[0], licences[0]
 
 
+def runs_fonttools(python):
+    """Whether python runs and imports fontTools.
+
+    A virtual environment's Python stops running when the Python it was
+    made from is upgraded or removed.
+    """
+    try:
+        result = subprocess.run([str(python), "-I", "-c", "import fontTools"],
+                                capture_output=True, timeout=120)
+    except OSError:
+        return False
+    return result.returncode == 0
+
+
 def fonttools_python():
-    """The Python of the virtual environment that holds the pinned fontTools."""
+    """The Python of the virtual environment that holds the pinned fontTools.
+
+    The environment is made, or made again, when it is missing, was made
+    from other requirements, or its Python no longer runs fontTools.
+    """
     environment = ROOT / "local" / "fonttools-venv"
     names = (pathlib.Path("bin") / "python", pathlib.Path("Scripts") / "python.exe")
     python = next((environment / name for name in names if (environment / name).is_file()), None)
     stamp = environment / "requirements.txt"
-    if python is None or not stamp.is_file() or stamp.read_bytes() != REQUIREMENTS.read_bytes():
+    if (python is None or not stamp.is_file() or stamp.read_bytes() != REQUIREMENTS.read_bytes()
+            or not runs_fonttools(python)):
         print(f"Installing the pinned fontTools into {environment}", flush=True)
         venv.EnvBuilder(with_pip=True, clear=True).create(environment)
         python = next(environment / name for name in names if (environment / name).is_file())
@@ -507,9 +601,10 @@ def cut_cjk_face(collection, unihan, face, out, count, recipe="common-cjk"):
     """Write one face of the CJK collection to out, cut to its recipe's characters.
 
     The recipe is common-cjk, cjk_characters() with the general standard
-    table read from unihan, or hangul, hangul_characters(), which does not
-    read unihan. Runs in the fontTools environment (--cut-face). Layout tables are
-    dropped, since the engine shapes nothing, and the hinting kept; the
+    table read from unihan, japanese, japanese_characters() with the kanji
+    read from unihan, or hangul, hangul_characters(), which does not read
+    unihan. Runs in the fontTools environment (--cut-face). Layout tables
+    are dropped, since the engine shapes nothing, and the hinting kept; the
     font's modification time is left as it was, so the output depends only
     on its input.
     """
@@ -524,8 +619,7 @@ def cut_cjk_face(collection, unihan, face, out, count, recipe="common-cjk"):
     options.notdef_outline = True
     options.recalc_timestamp = False
     held = font.getBestCmap()
-    general_standard = general_standard_characters(unihan) if recipe == "common-cjk" else ()
-    kept = [c for c in recipe_characters(recipe, general_standard) if c in held]
+    kept = [c for c in recipe_characters(recipe, unihan_characters(recipe, unihan)) if c in held]
     if len(kept) != count:
         raise RuntimeError(f"the face holds {len(kept)} of the characters, not {count}")
     subsetter = subset.Subsetter(options)
@@ -556,14 +650,27 @@ def self_test():
             problems.append(f"the Hangul character set lacks {sample}")
     if any(0x4E00 <= code <= 0x9FFF for code in hangul):
         problems.append("the Hangul character set holds hanja")
+    japanese = japanese_characters()
+    if len(japanese) != JAPANESE_COUNT:
+        problems.append(
+            f"the Japanese character set holds {len(japanese)} characters, not {JAPANESE_COUNT}"
+        )
+    for sample in ("日本語", "ひらがな", "カタカナー", "ヴ・ㇰㇷ", "「」、。〜", "！？（）", "ｱｲｳ"):
+        if any(ord(character) not in japanese for character in sample):
+            problems.append(f"the Japanese character set lacks {sample}")
+    if any(0xAC00 <= code <= 0xD7A3 for code in japanese):
+        problems.append("the Japanese character set holds Hangul")
+    if any(ord(character) in japanese for character in "们这说"):
+        problems.append("the Japanese character set holds simplified Chinese characters")
     for problem in problems:
         print(f"fonts self-test: {problem}")
     if problems:
         return 1
     print(
         f"fonts self-test: {len(data['downloads'])} downloads, {len(data['fonts'])} fonts, "
-        f"{len(characters)} CJK characters besides the general standard table "
-        f"and {len(hangul)} Hangul characters, as expected"
+        f"{len(characters)} CJK characters besides the general standard table, "
+        f"{len(hangul)} Hangul characters and {len(japanese)} Japanese characters "
+        f"besides the Unihan kanji, as expected"
     )
     return 0
 
@@ -608,7 +715,7 @@ def main(argv=None):
     parser.add_argument("--out", type=pathlib.Path, default=pathlib.Path("local") / "fonts",
                         help="where to write the faces (default: local/fonts)")
     parser.add_argument("--self-test", action="store_true",
-                        help="check the pins and the character set, and exit")
+                        help="check the pins and the character sets, and exit")
     parser.add_argument("--record-engine-faces", type=pathlib.Path, metavar="FONTS",
                         help="record the faces of an engine build's fonts folder in "
                              "fonts/engine-faces.json, and exit")

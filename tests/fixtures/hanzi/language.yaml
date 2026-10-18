@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+# SPDX-License-Identifier: GPL-3.0-only
+
+# A Japanese pack whose text holds simplified hanzi, which the Japanese cut
+# leaves out.
+oalang: 1
+tag: hanzi
+word: Japanese
+text: {needs: modern-fonts}
+fonts: [{file: NotoSansCJKjp-Bold.otf, role: ideographs}]

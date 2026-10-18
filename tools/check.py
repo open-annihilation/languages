@@ -30,7 +30,9 @@ source tree whose face is not built yet is checked against the cut's
 recipe in fonts.py: the Chinese face's with the Table of General Standard
 Chinese Characters when --deps (default local/deps) holds the pinned
 Unihan archive, and without it otherwise, which refuses the table's rarer
-characters; the Korean face's, Hangul, with no download.
+characters; the Japanese face's with the Jōyō and Jinmeiyō kanji from the
+same archive, and without it otherwise, which keeps the text to JIS X
+0208; the Korean face's, Hangul, with no download.
 
 Every other character is drawn where the manifest's text says. A language
 whose text needs the modern fonts (text: {needs: modern-fonts}) draws it
@@ -437,6 +439,17 @@ def cut_characters(
         if "hangul" in recipes:
             report.note("the Korean face is not built: characters are checked against its recipe")
             held |= set(font_cut.hangul_characters())
+        if "japanese" in recipes:
+            unihan = unihan_archive(deps)
+            if unihan is None:
+                report.note(
+                    "the Japanese face is not built and the Unihan archive is not in --deps: "
+                    "characters are checked against JIS X 0208 only"
+                )
+                held |= set(font_cut.japanese_characters())
+            else:
+                report.note("the Japanese face is not built: characters are checked against its recipe")
+                held |= set(font_cut.japanese_characters(font_cut.japanese_kanji(unihan)))
         if "common-cjk" not in recipes:
             return held
         unihan = unihan_archive(deps)
