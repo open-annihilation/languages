@@ -10,8 +10,13 @@ The five languages Total Annihilation 3.1c ships with (English, German, Spanish,
 - `uk/` holds the Ukrainian sources, laid out the same way. Its text is drawn in the modern fonts, and the sans faces that travel with the game hold Cyrillic, so the pack brings no font of its own.
 - `ko/` holds the Korean sources, laid out the same way. Its text is drawn in the modern fonts, its Hangul from the pack's own face, cut from the same collection as the Chinese one.
 - `fonts/` holds the CJK fonts' recipes, their licence and the pinned fontTools requirements, and `engine-faces.json`, the record of the characters the engine's own faces draw. The built fonts are not stored here.
-- `tools/check.py` checks a pack. `tools/coverage.py` lists the engine's interface words a pack does not translate. `tools/build.py` builds a `.oalang`. `tools/fonts.py` builds the fonts.
+- `tools/check.py` checks a pack. `tools/coverage.py` lists the engine's interface words a pack does not translate. `tools/build.py` builds a `.oalang`. `tools/fonts.py` builds the fonts. `tools/translate.py` prepares, checks and merges a new pack's translation from an existing pack. `tools/screens.py` takes pictures of a built pack's screens with an engine build.
+- `docs/` holds the guides: [adding a language](docs/new-language.md), [updating the packs for an engine release](docs/updating-a-pack.md), and each pack's glossary under `docs/glossaries/`.
 - `dist/` receives the built pack and its build info. `local/` holds downloads, the fontTools environment and the build stage. Neither directory is committed.
+
+## Add a language, or update the packs
+
+[docs/new-language.md](docs/new-language.md) is the whole way from nothing to a published pack: how the text is drawn, the manifest, the translation work and its rules, a font of its own, the checks, the pictures and publishing. [docs/updating-a-pack.md](docs/updating-a-pack.md) brings the packs up to a new engine release.
 
 ## Make the fonts
 
