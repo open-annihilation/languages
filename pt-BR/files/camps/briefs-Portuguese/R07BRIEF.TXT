@@ -1,0 +1,13 @@
+Missão R07: Capturar a Base Hanan
+
+&RPrioridade máxima&
+Nossos ataques à Crosta 12 não vão bem. Foi decidido que precisamos paralisar a economia do CORE.
+
+Capture ou destrua a Base Hanan, localizada em algum ponto ao norte de sua posição.  Você deve sobreviver a todos os contra-ataques por 40 minutos e destruir todas as unidades móveis inimigas.
+
+Sugestões:
+Ataque imediatamente, antes que o inimigo reforce suas defesas.  Capture o maior número possível de construções.
+O CORE tem muitas aeronaves na área.  Construa Defenders e outras defesas antiaéreas.
+
+Táticas de batalha:
+Unidades e fábricas capturadas ficam em Cessar fogo, então mude as ordens permanentes das unidades depois de capturá-las. Todas as unidades construídas por uma fábrica recebem as ordens definidas nela.

@@ -1,0 +1,11 @@
+Missão R23: Base Fluvial Alfa
+
+Acredita-se que o vau na foz do Rio Tiebreemb esteja pouco defendido.  Estabeleça uma base e depois lance um ataque ao norte.  Consolide a presença CORE construindo uma Fábrica de Veículos na margem norte.  Elimine todos os batedores ARM na área.
+
+
+Sugestões:
+Construir um ou dois Coletores Solares ou Geradores Eólicos lhe dará a renda de energia para concluir a Fábrica de Veículos mais depressa.
+
+Táticas de batalha:
+Seu Comandante pode atravessar águas profundas, mas suas outras unidades precisam cruzar o rio pelo vau raso.  A água rasa é azul-clara.
+O botão de construção da Fábrica de Veículos fica no segundo menu de construção do Comandante.  Aperte a seta para a direita para percorrer os menus de construção.  As teclas ponto (.) e vírgula (,) também servem para passar de um menu de construção a outro.

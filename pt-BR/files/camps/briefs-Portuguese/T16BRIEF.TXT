@@ -1,0 +1,8 @@
+Missão T16: Reconhecimento Relâmpago
+
+Relatórios da Inteligência indicam que o ARM estabeleceu uma base perto de nós.  Explore a área e encontre a base deles antes que eles encontrem a nossa.
+
+Sugestões:
+Faça reconhecimento agressivo e destrua todos os batedores ARM que encontrar.
+Táticas de batalha:
+É prático poder voltar instantaneamente à sua base.  Centralize a base na tela e aperte CTRL+F5 (ou F6, F7 ou F8) para marcar o local.  Depois, você pode apertar F5 (etc.) e voltar na hora ao local marcado.

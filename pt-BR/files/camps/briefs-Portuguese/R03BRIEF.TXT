@@ -1,0 +1,13 @@
+Missão R03: Base de Gelo Baryn
+
+O ataque CORE à nossa base quase sobrepujou nossas defesas.
+
+Vamos contra-atacar no extremo leste, o que deve aliviar a pressão sobre suas forças por algumas poucas horas.  Sobreviva ao ataque inimigo, se puder.
+
+Precisaremos de unidades avançadas logo, então expanda a Base de Gelo Baryn e construa um Laboratório de Kbots Avançado.
+
+Sugestões:
+Os geólogos suspeitam que há metal em maior quantidade ao sul.
+
+Táticas de batalha:
+Aperte ENTER para ativar a barra de mensagens e digite '+dither'.  Este código de trapaça facilita ver a extensão da sua linha de visão.  O terreno explorado aparece numa cor mais escura em vez de cinza.  Digite '+dither' de novo para voltar à configuração padrão.

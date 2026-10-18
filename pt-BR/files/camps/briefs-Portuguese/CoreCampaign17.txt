@@ -1,0 +1,8 @@
+MISSÃO 17.1CORE
+
+GRAMPO-INTEL
+Os mares de Nigh Pilago estão infestados de unidades navais ARM.  Comunicações interceptadas sugerem que o ARM desenvolveu um novo porta-aviões, mais poderoso. Além de servir como base móvel de reparo para unidades aéreas, o porta-aviões é capaz de gerar níveis tremendos de energia.  Destrua todos os porta-aviões que encontrar.
+
+&RDestrua os porta-aviões ARM.&
+
+EXECUTE AGORA.

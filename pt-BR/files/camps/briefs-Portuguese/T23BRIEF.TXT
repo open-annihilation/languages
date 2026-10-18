@@ -1,0 +1,11 @@
+Missão T23: Corrida no Platô
+
+A base ARM no Platô Skyreld produz a maior parte do metal usado pelo ARM neste setor.  Podemos fortalecer nosso controle da área acabando com a economia de metal do ARM.
+
+Destrua todos os Conversores de Metal Moho.
+
+Sugestões:
+Continue em movimento para se esquivar dos projéteis dos Guardians e das Berthas.  Espere um projétil da Bertha explodir antes de parar para usar a D-Gun num alvo.
+
+Táticas de batalha:
+Use CTRL+A para selecionar todas as unidades e movê-las em grupo. A tecla D continua servindo para controlar a D-Gun do Comandante.

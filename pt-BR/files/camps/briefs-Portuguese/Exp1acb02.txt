@@ -1,0 +1,14 @@
+MISSÃO 1.0002ARMH
+Conseguimos estabelecer uma base em Hydross. É importante continuar afastando o CORE de nossa área de preparação. O CORE tem um posto avançado ao norte que precisa ser capturado para que esta área fique segura.
+
+&Y*PRIORIDADE CRÍTICA*&
+Reforços ARM continuam chegando ao sistema estelar para ajudar na busca pelo Comandante CORE da contingência. O posto avançado ao norte será uma ameaça à nossa área de preparação aqui em Hydross enquanto o CORE o controlar. Tome esse posto avançado.
+
+INFORMAÇÕES
+&RO porta-aviões Colossus gera energia excedente, amplia a cobertura do seu radar e repara hidroaviões danificados.& Ele será importante para concluir esta missão com sucesso.
+
+Infelizmente, os Serpents são comuns nesta área. Lamentavelmente, precisam ser destruídos para garantir a segurança da área de preparação.
+
+Para concluir esta missão, você deve destruir todas as unidades móveis CORE e os Serpents.
+
+FIM

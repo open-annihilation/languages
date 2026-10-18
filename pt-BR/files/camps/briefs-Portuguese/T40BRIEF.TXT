@@ -1,0 +1,20 @@
+Missão T40: Assalto Coordenado
+
+O ARM deu grande ênfase aos encouraçados em seus ataques navais.  Eles estabeleceram uma base avançada perto de nós.  O litoral está fortemente guardado por unidades antiaéreas.
+
+Todo Encouraçado e Navio de Construção ARM precisa ser destruído.
+&YAtenção:&
+O ARM pode tentar interceptar o ataque usando submarinos.  A rota precisa estar livre antes de enviar os tanques anfíbios.
+
+Sugestões:
+Os porta-aviões leves Hive podem reparar aeronaves danificadas.  Talvez você precise sacrificar seus Rapiers para paralisar a defesa antiaérea e destruir os Guardians, permitindo que seus Crocs cheguem à praia.
+
+Táticas de batalha:
+Há vários métodos para controlar vários grupos de aeronaves:
+
+  1) Forme esquadrões com os diferentes tipos
+     de aeronaves (use CTRL+#, onde # vai de 1 a 9).
+  2) Use CTRL+V para selecionar todas as unidades aéreas.
+  3) Use CTRL+P para selecionar todas as unidades aéreas ofensivas.
+  4) Selecione um tipo de aeronave e use CTRL+Z para
+     selecionar todas as unidades do mesmo tipo.

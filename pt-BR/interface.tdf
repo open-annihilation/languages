@@ -1,0 +1,8092 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Open Annihilation's own words in Portuguese (Brazil), keyed by the engine's
+// English.
+
+[none]
+	{
+	pt-BR=nenhum;
+	}
+
+[Off]
+	{
+	pt-BR=Desligado;
+	}
+
+[Basic]
+	{
+	pt-BR=Básico;
+	}
+
+[Full]
+	{
+	pt-BR=Completo;
+	}
+
+[Reduced]
+	{
+	pt-BR=Reduzido;
+	}
+
+[Sharp]
+	{
+	pt-BR=Nítido;
+	}
+
+[Whole steps]
+	{
+	pt-BR=Passos inteiros;
+	}
+
+[Unfiltered]
+	{
+	pt-BR=Sem filtro;
+	}
+
+[Automatic]
+	{
+	pt-BR=Automático;
+	}
+
+[Box]
+	{
+	pt-BR=Caixa;
+	}
+
+[Scroll]
+	{
+	pt-BR=Rolagem;
+	}
+
+[Stay on]
+	{
+	pt-BR=Manter ativo;
+	}
+
+[One action]
+	{
+	pt-BR=Uma ação;
+	}
+
+[Standard]
+	{
+	pt-BR=Padrão;
+	}
+
+[Large]
+	{
+	pt-BR=Grande;
+	}
+
+[Larger]
+	{
+	pt-BR=Maior;
+	}
+
+[Trackpads]
+	{
+	pt-BR=Trackpads;
+	}
+
+[Sticks]
+	{
+	pt-BR=Analógicos;
+	}
+
+[Relative]
+	{
+	pt-BR=Relativo;
+	}
+
+[Absolute]
+	{
+	pt-BR=Absoluto;
+	}
+
+[Low]
+	{
+	pt-BR=Baixo;
+	}
+
+[High]
+	{
+	pt-BR=Alto;
+	}
+
+[Zoom]
+	{
+	pt-BR=Zoom;
+	}
+
+[Pointer]
+	{
+	pt-BR=Ponteiro;
+	}
+
+[Nothing]
+	{
+	pt-BR=Nada;
+	}
+
+[While the right pad is touched]
+	{
+	pt-BR=Ao tocar no trackpad direito;
+	}
+
+[While the right stick is touched]
+	{
+	pt-BR=Ao tocar no analógico direito;
+	}
+
+[Always]
+	{
+	pt-BR=Sempre;
+	}
+
+[Light]
+	{
+	pt-BR=Leve;
+	}
+
+[Strong]
+	{
+	pt-BR=Forte;
+	}
+
+[The processor draws and scales the view.]
+	{
+	pt-BR=O processador desenha e dimensiona a imagem.;
+	}
+
+[Off: the processor draws and scales the view.]
+	{
+	pt-BR=Desligado: o processador desenha e dimensiona a imagem.;
+	}
+
+[Set it to Off and back, or restore defaults.]
+	{
+	pt-BR=Mude para Desligado e volte, ou restaure os padrões.;
+	}
+
+[A failed graphics driver is skipped.]
+	{
+	pt-BR=Um driver gráfico que falhou é ignorado.;
+	}
+
+[Not in use: it needs at least 2 GB of memory.]
+	{
+	pt-BR=Inativo: requer pelo menos 2 GB de memória.;
+	}
+
+[Full in use: the graphics card draws the view.]
+	{
+	pt-BR=Completo ativo: a placa de vídeo desenha a imagem.;
+	}
+
+[Basic lets the graphics card scale it evenly.]
+	{
+	pt-BR=Básico deixa a placa de vídeo dimensionar a imagem por igual.;
+	}
+
+[For this run only. The setting is kept.]
+	{
+	pt-BR=Só nesta execução. A configuração é mantida.;
+	}
+
+[Not in use: the environment names a driver.]
+	{
+	pt-BR=Inativo: o ambiente define um driver.;
+	}
+
+[Not in use: there is too little memory.]
+	{
+	pt-BR=Inativo: há pouca memória.;
+	}
+
+[Off for this game: in a shared game, Basic]
+	{
+	pt-BR=Desligado nesta partida: numa partida em rede, Básico;
+	}
+
+[takes effect from the next game.]
+	{
+	pt-BR=vale a partir da próxima partida.;
+	}
+
+[Not in use: an error stopped it for this run.]
+	{
+	pt-BR=Inativo: um erro o interrompeu nesta execução.;
+	}
+
+[Not in use: the graphics driver failed.]
+	{
+	pt-BR=Inativo: o driver gráfico falhou.;
+	}
+
+[Not in use: the game stopped while using it.]
+	{
+	pt-BR=Inativo: o jogo parou enquanto o usava.;
+	}
+
+[Not in use: no usable graphics card was found.]
+	{
+	pt-BR=Inativo: nenhuma placa de vídeo utilizável encontrada.;
+	}
+
+[Not in use: the graphics card lacks a feature.]
+	{
+	pt-BR=Inativo: falta um recurso à placa de vídeo.;
+	}
+
+[Not in use: the game cannot save its files.]
+	{
+	pt-BR=Inativo: o jogo não consegue salvar seus arquivos.;
+	}
+
+[Takes effect from the next start.]
+	{
+	pt-BR=Vale a partir da próxima inicialização.;
+	}
+
+[The processor draws and scales the view until then.]
+	{
+	pt-BR=Até lá, o processador desenha e dimensiona a imagem.;
+	}
+
+[Basic in use: the game cannot save its files.]
+	{
+	pt-BR=Básico ativo: o jogo não consegue salvar seus arquivos.;
+	}
+
+[Basic in use: there is too little memory for Full.]
+	{
+	pt-BR=Básico ativo: há pouca memória para o Completo.;
+	}
+
+[Basic in use: Full stopped for this run.]
+	{
+	pt-BR=Básico ativo: o Completo parou nesta execução.;
+	}
+
+[Basic in use: Full failed before on this driver.]
+	{
+	pt-BR=Básico ativo: o Completo já falhou com este driver.;
+	}
+
+[Basic in use: the card lacks a feature Full needs.]
+	{
+	pt-BR=Básico ativo: falta à placa um recurso do Completo.;
+	}
+
+[Basic for this game: in a shared game, Full]
+	{
+	pt-BR=Básico nesta partida: numa partida em rede, Completo;
+	}
+
+[Basic in use, on another driver: one failed.]
+	{
+	pt-BR=Básico ativo, com outro driver: um deles falhou.;
+	}
+
+[Basic in use; no smoothing when zoomed out here.]
+	{
+	pt-BR=Básico ativo, sem suavização ao afastar aqui.;
+	}
+
+[Basic in use.]
+	{
+	pt-BR=Básico ativo.;
+	}
+
+[Off for this game: in a shared game, Full]
+	{
+	pt-BR=Desligado nesta partida: numa partida em rede, Completo;
+	}
+
+[Off for this game: in a replay, Basic]
+	{
+	pt-BR=Desligado nesta partida: num replay, Básico;
+	}
+
+[Off for this game: in a replay, Full]
+	{
+	pt-BR=Desligado nesta partida: num replay, Completo;
+	}
+
+[Basic for this game: in a replay, Full]
+	{
+	pt-BR=Básico nesta partida: num replay, Completo;
+	}
+
+[Smoothed at every zoom.]
+	{
+	pt-BR=Suavizado em qualquer zoom.;
+	}
+
+[Smoothed at every zoom; 2x2 samples a pixel.]
+	{
+	pt-BR=Suavizado em qualquer zoom. 2x2 amostras por pixel.;
+	}
+
+[Smoothed at every zoom; 4x4 samples a pixel.]
+	{
+	pt-BR=Suavizado em qualquer zoom. 4x4 amostras por pixel.;
+	}
+
+[Smoothed at every zoom; 8x8 samples a pixel.]
+	{
+	pt-BR=Suavizado em qualquer zoom. 8x8 amostras por pixel.;
+	}
+
+[Smoothed at every zoom; 16x16 samples a pixel.]
+	{
+	pt-BR=Suavizado em qualquer zoom. 16x16 amostras por pixel.;
+	}
+
+[It scales the menus and the interface evenly.]
+	{
+	pt-BR=Dimensiona por igual os menus e a interface.;
+	}
+
+[It scales the interface and zoomed-in view evenly.]
+	{
+	pt-BR=Dimensiona por igual a interface e a imagem aproximada.;
+	}
+
+[It scales evenly and smooths the zoomed-out view.]
+	{
+	pt-BR=Dimensiona por igual e suaviza a imagem afastada.;
+	}
+
+[It smooths the zoomed-out view.]
+	{
+	pt-BR=Suaviza a imagem afastada.;
+	}
+
+[Here the view is drawn as when it is off.]
+	{
+	pt-BR=Aqui a imagem é desenhada como com a aceleração desligada.;
+	}
+
+[SAVES]
+	{
+	pt-BR=JOGOS SALVOS;
+	}
+
+[SCREENSHOTS]
+	{
+	pt-BR=CAPTURAS DE TELA;
+	}
+
+[MODS]
+	{
+	pt-BR=MODS;
+	}
+
+[System default]
+	{
+	pt-BR=Padrão do sistema;
+	}
+
+[Mods]
+	{
+	pt-BR=Mods;
+	}
+
+[Controls]
+	{
+	pt-BR=Controles;
+	}
+
+[Graphics]
+	{
+	pt-BR=Gráficos;
+	}
+
+[Language]
+	{
+	pt-BR=Idioma;
+	}
+
+[Touch]
+	{
+	pt-BR=Toque;
+	}
+
+[Controller]
+	{
+	pt-BR=Controle;
+	}
+
+[Developer]
+	{
+	pt-BR=Desenvolvedor;
+	}
+
+[Game files]
+	{
+	pt-BR=Arquivos do jogo;
+	}
+
+[Keys]
+	{
+	pt-BR=Teclas;
+	}
+
+[Patrolling]
+	{
+	pt-BR=Patrulhando;
+	}
+
+[Guarding]
+	{
+	pt-BR=Protegendo;
+	}
+
+[Build tools]
+	{
+	pt-BR=Construção;
+	}
+
+[Snap & chat]
+	{
+	pt-BR=Encaixe e chat;
+	}
+
+[CONTROLS]
+	{
+	pt-BR=CONTROLES;
+	}
+
+[GRAPHICS]
+	{
+	pt-BR=GRÁFICOS;
+	}
+
+[LANGUAGE]
+	{
+	pt-BR=IDIOMA;
+	}
+
+[TOUCH]
+	{
+	pt-BR=TOQUE;
+	}
+
+[CONTROLLER]
+	{
+	pt-BR=CONTROLE;
+	}
+
+[DEVELOPER]
+	{
+	pt-BR=DESENVOLVEDOR;
+	}
+
+[GAME FILES]
+	{
+	pt-BR=ARQUIVOS DO JOGO;
+	}
+
+[MOD KEYS]
+	{
+	pt-BR=TECLAS DO MOD;
+	}
+
+[PATROLLING BUILDERS]
+	{
+	pt-BR=CONSTRUTORES EM PATRULHA;
+	}
+
+[GUARDING BUILDERS]
+	{
+	pt-BR=CONSTRUTORES PROTEGENDO;
+	}
+
+[BUILD TOOLS]
+	{
+	pt-BR=CONSTRUÇÃO;
+	}
+
+[SNAP & CHAT]
+	{
+	pt-BR=ENCAIXE E CHAT;
+	}
+
+[Pathfinding cycles]
+	{
+	pt-BR=Ciclos de busca de caminho;
+	}
+
+[Mouse wheel zoom]
+	{
+	pt-BR=Zoom com a roda do mouse;
+	}
+
+[Maximum zoom out]
+	{
+	pt-BR=Afastamento máximo;
+	}
+
+[Maximum zoom in]
+	{
+	pt-BR=Aproximação máxima;
+	}
+
+[View past the map's edge]
+	{
+	pt-BR=Ver além da borda do mapa;
+	}
+
+[Whole map]
+	{
+	pt-BR=Mapa inteiro;
+	}
+
+[Escape opens the game menu]
+	{
+	pt-BR=Escape abre o menu do jogo;
+	}
+
+[Select groups without Alt]
+	{
+	pt-BR=Selecionar grupos sem Alt;
+	}
+
+[Unit limit]
+	{
+	pt-BR=Limite de unidades;
+	}
+
+[Maximum frame rate]
+	{
+	pt-BR=Taxa de quadros máxima;
+	}
+
+[Enhanced anti-aliasing]
+	{
+	pt-BR=Antisserrilhamento aprimorado;
+	}
+
+[Screen size]
+	{
+	pt-BR=Tamanho da tela;
+	}
+
+[Enable Developer Mode]
+	{
+	pt-BR=Ativar o Modo desenvolvedor;
+	}
+
+[Show performance statistics]
+	{
+	pt-BR=Mostrar estatísticas de desempenho;
+	}
+
+[Hardware acceleration]
+	{
+	pt-BR=Aceleração por hardware;
+	}
+
+[Vertical sync]
+	{
+	pt-BR=Sincronização vertical;
+	}
+
+[Menu scaling]
+	{
+	pt-BR=Escala dos menus;
+	}
+
+[Native pixel density]
+	{
+	pt-BR=Densidade de pixels nativa;
+	}
+
+[Explosion flash]
+	{
+	pt-BR=Clarão das explosões;
+	}
+
+[Zoomed out units]
+	{
+	pt-BR=Unidades ao afastar;
+	}
+
+[After zoom]
+	{
+	pt-BR=Limite de zoom;
+	}
+
+[Window frame]
+	{
+	pt-BR=Moldura da janela;
+	}
+
+[HUD scaling]
+	{
+	pt-BR=Escala do HUD;
+	}
+
+[Use modern fonts for game text]
+	{
+	pt-BR=Fontes modernas no texto do jogo;
+	}
+
+[Font outline]
+	{
+	pt-BR=Contorno da fonte;
+	}
+
+[Font shadow]
+	{
+	pt-BR=Sombra da fonte;
+	}
+
+[Game text background]
+	{
+	pt-BR=Fundo do texto do jogo;
+	}
+
+[Text size]
+	{
+	pt-BR=Tamanho do texto;
+	}
+
+[One-finger drag]
+	{
+	pt-BR=Arrastar com um dedo;
+	}
+
+[Hold delay]
+	{
+	pt-BR=Tempo para segurar;
+	}
+
+[QUEUE and ADD]
+	{
+	pt-BR=FILA e ADICIONAR;
+	}
+
+[Haptics]
+	{
+	pt-BR=Vibração;
+	}
+
+[Left-handed layout]
+	{
+	pt-BR=Layout para canhotos;
+	}
+
+[Control size]
+	{
+	pt-BR=Tamanho dos controles;
+	}
+
+[Scheme]
+	{
+	pt-BR=Esquema;
+	}
+
+[Right trackpad]
+	{
+	pt-BR=Trackpad direito;
+	}
+
+[Pointer speed]
+	{
+	pt-BR=Velocidade do ponteiro;
+	}
+
+[Pointer acceleration]
+	{
+	pt-BR=Aceleração do ponteiro;
+	}
+
+[Trackpad glide]
+	{
+	pt-BR=Inércia do trackpad;
+	}
+
+[Right stick]
+	{
+	pt-BR=Analógico direito;
+	}
+
+[Magnetism (stick pointer)]
+	{
+	pt-BR=Magnetismo (ponteiro do analógico);
+	}
+
+[Gyro pointer]
+	{
+	pt-BR=Ponteiro por giroscópio;
+	}
+
+[Gyro speed]
+	{
+	pt-BR=Velocidade do giroscópio;
+	}
+
+[Button prompts]
+	{
+	pt-BR=Ícones dos botões;
+	}
+
+[Left-handed]
+	{
+	pt-BR=Canhoto;
+	}
+
+[Mod]
+	{
+	pt-BR=Mod;
+	}
+
+[Snap override key]
+	{
+	pt-BR=Tecla para anular o encaixe;
+	}
+
+[Autoclick key]
+	{
+	pt-BR=Tecla de clique automático;
+	}
+
+[Rotate build key]
+	{
+	pt-BR=Tecla para girar a construção;
+	}
+
+[Hold position]
+	{
+	pt-BR=Manter posição;
+	}
+
+[Maneuver]
+	{
+	pt-BR=Manobrar;
+	}
+
+[Roam]
+	{
+	pt-BR=Vagar;
+	}
+
+[Mex snap radius]
+	{
+	pt-BR=Raio de encaixe do extrator;
+	}
+
+[Wreck snap radius]
+	{
+	pt-BR=Raio de encaixe em destroços;
+	}
+
+[Optimize DT rows]
+	{
+	pt-BR=Otimizar fileiras de DT;
+	}
+
+[Full rings]
+	{
+	pt-BR=Anéis completos;
+	}
+
+[Accessible chat]
+	{
+	pt-BR=Chat acessível;
+	}
+
+[Resource bar background]
+	{
+	pt-BR=Fundo da barra de recursos;
+	}
+
+[Installed]
+	{
+	pt-BR=Instalado;
+	}
+
+[Include in device backups]
+	{
+	pt-BR=Incluir nos backups do dispositivo;
+	}
+
+[Where the files are]
+	{
+	pt-BR=Local dos arquivos;
+	}
+
+[Your files]
+	{
+	pt-BR=Seus arquivos;
+	}
+
+[More cycles find routes faster but use more CPU.]
+	{
+	pt-BR=Mais ciclos acham rotas mais rápido, mas usam mais CPU.;
+	}
+
+[Scroll to zoom the battlefield in and out.]
+	{
+	pt-BR=Role para aproximar e afastar o campo de batalha.;
+	}
+
+[A number key selects its group on its own.]
+	{
+	pt-BR=Uma tecla numérica seleciona seu grupo sozinha.;
+	}
+
+[Lower it to save power.]
+	{
+	pt-BR=Reduza para economizar energia.;
+	}
+
+[Custom]
+	{
+	pt-BR=Personalizado;
+	}
+
+[Your changes to the profile's hacks apply while on.]
+	{
+	pt-BR=Suas alterações nos ajustes do perfil valem enquanto ligado.;
+	}
+
+[Frame and tick times over the battlefield.]
+	{
+	pt-BR=Tempos de quadro e de tick sobre o campo de batalha.;
+	}
+
+[Each frame waits for the display: no tearing.]
+	{
+	pt-BR=Cada quadro espera a tela: sem rasgos na imagem.;
+	}
+
+[Rendered]
+	{
+	pt-BR=Modelos;
+	}
+
+[Dots]
+	{
+	pt-BR=Pontos;
+	}
+
+[Icons]
+	{
+	pt-BR=Ícones;
+	}
+
+[Hidden in play]
+	{
+	pt-BR=Oculta na partida;
+	}
+
+[Always shown]
+	{
+	pt-BR=Sempre visível;
+	}
+
+[A dark edge round each letter of modern text.]
+	{
+	pt-BR=Uma borda escura em volta de cada letra do texto moderno.;
+	}
+
+[A dark shadow under modern text.]
+	{
+	pt-BR=Uma sombra escura sob o texto moderno.;
+	}
+
+[A shaded box behind each line of game text.]
+	{
+	pt-BR=Uma caixa sombreada atrás de cada linha do texto do jogo.;
+	}
+
+[How long a finger or button is held for a hold.]
+	{
+	pt-BR=Quanto tempo manter o dedo ou o botão para segurar.;
+	}
+
+[A short vibration as a touch control acts.]
+	{
+	pt-BR=Uma vibração curta quando um controle de toque age.;
+	}
+
+[Each point of the pad is a point of the view.]
+	{
+	pt-BR=Cada ponto do trackpad é um ponto da tela.;
+	}
+
+[The pointer moves as the thumb slides.]
+	{
+	pt-BR=O ponteiro se move conforme o polegar desliza.;
+	}
+
+[How far the pointer moves for a slide.]
+	{
+	pt-BR=Quanto o ponteiro anda a cada deslize.;
+	}
+
+[A quick slide moves the pointer further.]
+	{
+	pt-BR=Um deslize rápido leva o ponteiro mais longe.;
+	}
+
+[The pointer keeps moving after a quick flick.]
+	{
+	pt-BR=O ponteiro continua se movendo após um gesto rápido.;
+	}
+
+[The right stick does nothing.]
+	{
+	pt-BR=O analógico direito não faz nada.;
+	}
+
+[The stick pointer settles on a lone unit near it.]
+	{
+	pt-BR=O ponteiro do analógico para numa unidade isolada próxima.;
+	}
+
+[Turning the controller fine-tunes the pointer.]
+	{
+	pt-BR=Girar o controle ajusta o ponteiro com precisão.;
+	}
+
+[How far the pointer moves as the controller turns.]
+	{
+	pt-BR=Quanto o ponteiro anda conforme o controle gira.;
+	}
+
+[Small ticks and bumps felt through the controller.]
+	{
+	pt-BR=Pequenos toques e trancos sentidos no controle.;
+	}
+
+[The button pictures the controls and rings show.]
+	{
+	pt-BR=Os desenhos de botão que os controles e os anéis mostram.;
+	}
+
+[Held, a click is not snapped.]
+	{
+	pt-BR=Com ela pressionada, o clique não encaixa.;
+	}
+
+[Held, a build click lays a line or a ring.]
+	{
+	pt-BR=Com ela pressionada, um clique de construção traça uma linha ou um anel.;
+	}
+
+[Turns the building being placed.]
+	{
+	pt-BR=Gira a construção que está sendo posicionada.;
+	}
+
+[Cells a metal extractor snaps to metal.]
+	{
+	pt-BR=Distância, em células, em que um extrator encaixa no metal.;
+	}
+
+[Cells a reclaim click snaps to a wreck.]
+	{
+	pt-BR=Distância, em células, em que um clique de reciclar encaixa em destroços.;
+	}
+
+[Lines of 2x2 walls build as a double row.]
+	{
+	pt-BR=Linhas de muros 2x2 são construídas em fileira dupla.;
+	}
+
+[Rings include their corners.]
+	{
+	pt-BR=Os anéis incluem os cantos.;
+	}
+
+[A dark backdrop under each chat line.]
+	{
+	pt-BR=Um fundo escuro sob cada linha do chat.;
+	}
+
+[Behind the resource bar's text.]
+	{
+	pt-BR=Atrás do texto da barra de recursos.;
+	}
+
+[per player]
+	{
+	pt-BR=por jogador;
+	}
+
+[Desktop]
+	{
+	pt-BR=Área de trabalho;
+	}
+
+[Reclaim only]
+	{
+	pt-BR=Só reciclar;
+	}
+
+[Both]
+	{
+	pt-BR=Ambos;
+	}
+
+[Assist only]
+	{
+	pt-BR=Só ajudar;
+	}
+
+[Stay]
+	{
+	pt-BR=Ficar;
+	}
+
+[Normal]
+	{
+	pt-BR=Normal;
+	}
+
+[Scatter]
+	{
+	pt-BR=Dispersar;
+	}
+
+[None]
+	{
+	pt-BR=Nenhum;
+	}
+
+[Text]
+	{
+	pt-BR=Texto;
+	}
+
+[Solid]
+	{
+	pt-BR=Sólido;
+	}
+
+[cells]
+	{
+	pt-BR=células;
+	}
+
+[ms]
+	{
+	pt-BR=ms;
+	}
+
+[device]
+	{
+	pt-BR=dispositivo;
+	}
+
+[Locked during a game]
+	{
+	pt-BR=Bloqueado durante a partida;
+	}
+
+[Set by the host]
+	{
+	pt-BR=Definido pelo anfitrião;
+	}
+
+[Set on the command line]
+	{
+	pt-BR=Definido na linha de comando;
+	}
+
+[Not available here]
+	{
+	pt-BR=Indisponível aqui;
+	}
+
+[Set by the mod]
+	{
+	pt-BR=Definido pelo mod;
+	}
+
+[Needs modern fonts]
+	{
+	pt-BR=Requer fontes modernas;
+	}
+
+[Needs Dots]
+	{
+	pt-BR=Requer Pontos;
+	}
+
+[Always on here]
+	{
+	pt-BR=Sempre ligado aqui;
+	}
+
+[MANAGE…]
+	{
+	pt-BR=GERENCIAR…;
+	}
+
+[RESTORE PROFILE VALUES]
+	{
+	pt-BR=RESTAURAR VALORES DO PERFIL;
+	}
+
+[Applies at next match]
+	{
+	pt-BR=Vale na próxima partida;
+	}
+
+[Off: it plays as 3.1c.]
+	{
+	pt-BR=Desligado: joga-se como no 3.1c.;
+	}
+
+[Not implemented by this engine.]
+	{
+	pt-BR=Não implementado por este motor.;
+	}
+
+[Items]
+	{
+	pt-BR=Itens;
+	}
+
+[Steam Input is on: the trackpads and back grips reach the game as Steam's mouse and keys. Turn Steam Input off for Open Annihilation in Steam's controller settings to use them here.]
+	{
+	pt-BR=Steam Input está ligado: os trackpads e os botões traseiros chegam ao jogo como mouse e teclas do Steam. Para usá-los aqui, desligue o Steam Input para o Open Annihilation nas configurações de controle do Steam.;
+	}
+
+[Steam Deck: starts at the screen's {rate} fps.]
+	{
+	pt-BR=Steam Deck: começa nos {rate} fps da tela.;
+	}
+
+[SETTINGS]
+	{
+	pt-BR=CONFIGURAÇÕES;
+	}
+
+[No Mod]
+	{
+	pt-BR=Sem mod;
+	}
+
+[N/A]
+	{
+	pt-BR=N/D;
+	}
+
+[No oamod.yaml present]
+	{
+	pt-BR=Sem oamod.yaml;
+	}
+
+[PLAYING]
+	{
+	pt-BR=JOGANDO;
+	}
+
+[OPEN MODS FOLDER]
+	{
+	pt-BR=ABRIR PASTA DE MODS;
+	}
+
+[SWITCH MOD]
+	{
+	pt-BR=TROCAR DE MOD;
+	}
+
+[SWITCH]
+	{
+	pt-BR=TROCAR;
+	}
+
+[ROLL BACK]
+	{
+	pt-BR=REVERTER;
+	}
+
+[ROLL BACK MOD]
+	{
+	pt-BR=REVERTER MOD;
+	}
+
+[Roll back {title} to {to}? {from} is kept in its place, and ROLL BACK again brings it back.]
+	{
+	pt-BR=Reverter {title} para {to}? {from} fica guardado, e REVERTER de novo o traz de volta.;
+	}
+
+[The game reloads its data for the mod and returns to the main menu.]
+	{
+	pt-BR=O jogo recarrega seus dados para o mod e volta ao menu principal.;
+	}
+
+[CANCEL]
+	{
+	pt-BR=CANCELAR;
+	}
+
+[Locked during a game. Choose the mod from the main menu.]
+	{
+	pt-BR=Bloqueado durante a partida. Escolha o mod no menu principal.;
+	}
+
+[Saved games, screenshots, films and mods.]
+	{
+	pt-BR=Jogos salvos, capturas de tela, gravações e mods.;
+	}
+
+[The command line chose this run's mod.]
+	{
+	pt-BR=A linha de comando escolheu o mod desta execução.;
+	}
+
+[Shared game - still running]
+	{
+	pt-BR=Partida em rede - ainda em andamento;
+	}
+
+[RESTORE DEFAULTS]
+	{
+	pt-BR=RESTAURAR PADRÕES;
+	}
+
+[OK]
+	{
+	pt-BR=OK;
+	}
+
+[OFF]
+	{
+	pt-BR=DESLIGADO;
+	}
+
+[ON]
+	{
+	pt-BR=LIGADO;
+	}
+
+[OPEN FOLDER]
+	{
+	pt-BR=ABRIR PASTA;
+	}
+
+[REPLACE]
+	{
+	pt-BR=SUBSTITUIR;
+	}
+
+[INSTALL ALONGSIDE]
+	{
+	pt-BR=INSTALAR AO LADO;
+	}
+
+[REINSTALL]
+	{
+	pt-BR=REINSTALAR;
+	}
+
+[PLAY NOW]
+	{
+	pt-BR=JOGAR AGORA;
+	}
+
+[INSTALLING MOD]
+	{
+	pt-BR=INSTALANDO MOD;
+	}
+
+[UPDATE MOD]
+	{
+	pt-BR=ATUALIZAR MOD;
+	}
+
+[ANOTHER VERSION]
+	{
+	pt-BR=OUTRA VERSÃO;
+	}
+
+[ALREADY INSTALLED]
+	{
+	pt-BR=JÁ INSTALADO;
+	}
+
+[FOLDER IN USE]
+	{
+	pt-BR=PASTA EM USO;
+	}
+
+[MOD INSTALLED]
+	{
+	pt-BR=MOD INSTALADO;
+	}
+
+[MOD UPDATED]
+	{
+	pt-BR=MOD ATUALIZADO;
+	}
+
+[MOD NOT INSTALLED]
+	{
+	pt-BR=MOD NÃO INSTALADO;
+	}
+
+[MOD NOT ROLLED BACK]
+	{
+	pt-BR=MOD NÃO REVERTIDO;
+	}
+
+[The folder kept for ROLL BACK, which holds no mod that can be read, is removed.]
+	{
+	pt-BR=A pasta guardada para REVERTER, que não contém um mod legível, é removida.;
+	}
+
+[The folder kept for ROLL BACK ({backup}) is removed.]
+	{
+	pt-BR=A pasta guardada para REVERTER ({backup}) é removida.;
+	}
+
+[{version} of an unknown revision]
+	{
+	pt-BR={version} de revisão desconhecida;
+	}
+
+[{version} revision {n}]
+	{
+	pt-BR={version} revisão {n};
+	}
+
+[Putting the files in place...]
+	{
+	pt-BR=Colocando os arquivos no lugar...;
+	}
+
+[Unpacking {title} {version}...]
+	{
+	pt-BR=Descompactando {title} {version}...;
+	}
+
+[{done} of {total}]
+	{
+	pt-BR={done} de {total};
+	}
+
+[{title} {version}, an unknown revision, is installed. Replace it with revision {incoming} from {file}?]
+	{
+	pt-BR={title} {version}, de revisão desconhecida, está instalado. Substituí-lo pela revisão {incoming} de {file}?;
+	}
+
+[{title} {version}, revision {installed}, is installed. Replace it with revision {incoming} from {file}?]
+	{
+	pt-BR={title} {version}, revisão {installed}, está instalado. Substituí-lo pela revisão {incoming} de {file}?;
+	}
+
+[Revision {incoming} is older than the one installed.]
+	{
+	pt-BR=A revisão {incoming} é mais antiga que a instalada.;
+	}
+
+[{title} {installed} is installed. Replace it with {incoming}, or install {incoming} alongside it?]
+	{
+	pt-BR={title} {installed} está instalado. Substituí-lo por {incoming} ou instalar {incoming} ao lado?;
+	}
+
+[Alongside, {incoming} goes in a folder of its own:]
+	{
+	pt-BR=Ao lado, {incoming} vai para uma pasta própria:;
+	}
+
+[{title} {version}, revision {revision}, is already installed. Install its files again from {file}?]
+	{
+	pt-BR={title} {version}, revisão {revision}, já está instalado. Instalar seus arquivos de novo a partir de {file}?;
+	}
+
+[Files added to its folder, or changed, since it was installed are replaced or removed.]
+	{
+	pt-BR=Os arquivos adicionados à pasta, ou alterados, desde a instalação são substituídos ou removidos.;
+	}
+
+[The version kept, {backup}, stays.]
+	{
+	pt-BR=A versão guardada, {backup}, permanece.;
+	}
+
+[The folder kept for ROLL BACK stays.]
+	{
+	pt-BR=A pasta guardada para REVERTER permanece.;
+	}
+
+[Your Mods folder already has a folder named {folder} that does not hold {title}. It is left as it is.]
+	{
+	pt-BR=Sua pasta Mods já tem uma pasta chamada {folder} que não contém {title}. Ela é deixada como está.;
+	}
+
+[Install {title} {version} alongside it, in a folder of its own?]
+	{
+	pt-BR=Instalar {title} {version} ao lado, numa pasta própria?;
+	}
+
+[{title} {version} is installed in your Mods folder:]
+	{
+	pt-BR={title} {version} está instalado na sua pasta Mods:;
+	}
+
+[{title} is now {new}.]
+	{
+	pt-BR={title} agora está na versão {new}.;
+	}
+
+[The files of {title} {version} were installed again.]
+	{
+	pt-BR=Os arquivos de {title} {version} foram reinstalados.;
+	}
+
+[{title} is back to {new}. {old} is kept, and ROLL BACK brings it back.]
+	{
+	pt-BR={title} voltou para {new}. {old} fica guardado, e REVERTER o traz de volta.;
+	}
+
+[{title} is back to {new}.]
+	{
+	pt-BR={title} voltou para {new}.;
+	}
+
+[{old} could not be kept as the earlier version; it is in:]
+	{
+	pt-BR=Não foi possível guardar {old} como a versão anterior. Ela está em:;
+	}
+
+[It cannot be read.]
+	{
+	pt-BR=Não é possível lê-lo.;
+	}
+
+[It is not a zip archive.]
+	{
+	pt-BR=Não é um arquivo zip.;
+	}
+
+[It is damaged.]
+	{
+	pt-BR=Está danificado.;
+	}
+
+[It is damaged: {name} does not unpack as recorded.]
+	{
+	pt-BR=Está danificado: {name} não se descompacta como registrado.;
+	}
+
+[It holds no oamod.yaml at its top, or in a single folder at its top.]
+	{
+	pt-BR=Não contém oamod.yaml na raiz, nem numa única pasta na raiz.;
+	}
+
+[Its oamod.yaml is larger than 256 KiB.]
+	{
+	pt-BR=Seu oamod.yaml tem mais de 256 KiB.;
+	}
+
+[Its oamod.yaml has errors:]
+	{
+	pt-BR=Seu oamod.yaml tem erros:;
+	}
+
+[It holds a file it cannot unpack safely: {name}.]
+	{
+	pt-BR=Contém um arquivo que não pode ser descompactado com segurança: {name}.;
+	}
+
+[It holds two names that differ only in case: {name}.]
+	{
+	pt-BR=Contém dois nomes que diferem só em maiúsculas e minúsculas: {name}.;
+	}
+
+[It holds a link to another file: {name}.]
+	{
+	pt-BR=Contém um link para outro arquivo: {name}.;
+	}
+
+[It holds an encrypted file: {name}.]
+	{
+	pt-BR=Contém um arquivo criptografado: {name}.;
+	}
+
+[It holds a file packed in a way it cannot unpack: {name}. Pack it again with standard (deflate) compression.]
+	{
+	pt-BR=Contém um arquivo compactado de um jeito que não pode ser descompactado: {name}. Compacte-o de novo com compressão padrão (deflate).;
+	}
+
+[It unpacks to {size}, more than the {limit} a mod may take.]
+	{
+	pt-BR=Descompactado, ocupa {size}, mais que os {limit} permitidos a um mod.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a mod's files take.]
+	{
+	pt-BR=Descompactado, passa de {packed} para {size}, muito mais do que os arquivos de um mod ocupam.;
+	}
+
+[It holds more than {limit} folders, more than a mod may take.]
+	{
+	pt-BR=Contém mais de {limit} pastas, mais do que um mod pode ter.;
+	}
+
+[It needs {size} free, and the disk holding your Mods folder has {free}.]
+	{
+	pt-BR=Requer {size} livres, e o disco da sua pasta Mods tem {free}.;
+	}
+
+[Its id, {id}, cannot name a folder on Windows.]
+	{
+	pt-BR=Seu ID, {id}, não pode ser nome de pasta no Windows.;
+	}
+
+[Your Mods folder has no free folder name for it.]
+	{
+	pt-BR=Sua pasta Mods não tem um nome de pasta livre para ele.;
+	}
+
+[Its files could not be put in place. Another program, such as a file sync or a virus scanner, may be using its files; try again in a moment.]
+	{
+	pt-BR=Não foi possível colocar seus arquivos no lugar. Outro programa, como um sincronizador de arquivos ou um antivírus, pode estar usando os arquivos. Tente novamente em instantes.;
+	}
+
+[Your Mods folder changed while this mod was being installed; nothing was changed. Open the file again.]
+	{
+	pt-BR=Sua pasta Mods mudou enquanto este mod era instalado. Nada foi alterado. Abra o arquivo de novo.;
+	}
+
+[Another copy of Open Annihilation is changing your Mods folder. Try again once it has finished.]
+	{
+	pt-BR=Outra cópia do Open Annihilation está alterando sua pasta Mods. Tente novamente quando ela terminar.;
+	}
+
+[{file} cannot be installed.]
+	{
+	pt-BR=Não é possível instalar {file}.;
+	}
+
+[And {n} more; the log has them all.]
+	{
+	pt-BR=E mais {n}. O log tem todos.;
+	}
+
+[Nothing was changed.]
+	{
+	pt-BR=Nada foi alterado.;
+	}
+
+[{title} could not be rolled back; nothing was changed.]
+	{
+	pt-BR=Não foi possível reverter {title}. Nada foi alterado.;
+	}
+
+[{title} {to}, the version kept for ROLL BACK, cannot be played.]
+	{
+	pt-BR={title} {to}, a versão guardada para REVERTER, não pode ser jogada.;
+	}
+
+[the folder you chose]
+	{
+	pt-BR=a pasta escolhida;
+	}
+
+[a file]
+	{
+	pt-BR=um arquivo;
+	}
+
+[Game archives]
+	{
+	pt-BR=Arquivos compactados do jogo;
+	}
+
+[3.1c update]
+	{
+	pt-BR=Atualização 3.1c;
+	}
+
+[Extra units and maps]
+	{
+	pt-BR=Unidades e mapas extras;
+	}
+
+[Music]
+	{
+	pt-BR=Música;
+	}
+
+[Movies]
+	{
+	pt-BR=Vídeos;
+	}
+
+[Left out]
+	{
+	pt-BR=Deixado de fora;
+	}
+
+[The Total Annihilation demo (1997)]
+	{
+	pt-BR=A demo de Total Annihilation (1997);
+	}
+
+[The demo's unpacked data]
+	{
+	pt-BR=Os dados descompactados da demo;
+	}
+
+[Not found]
+	{
+	pt-BR=Não encontrado;
+	}
+
+[not found]
+	{
+	pt-BR=não encontrado;
+	}
+
+[1 file]
+	{
+	pt-BR=1 arquivo;
+	}
+
+[1 track]
+	{
+	pt-BR=1 faixa;
+	}
+
+[optional]
+	{
+	pt-BR=opcional;
+	}
+
+[intro and endings · optional]
+	{
+	pt-BR=introdução e finais · opcional;
+	}
+
+[intro and endings]
+	{
+	pt-BR=introdução e finais;
+	}
+
+[its mod profile cannot be used]
+	{
+	pt-BR=seu perfil de mod não pode ser usado;
+	}
+
+[installer recognised by its size; checked when it is unpacked]
+	{
+	pt-BR=instalador reconhecido pelo tamanho, verificado ao descompactar;
+	}
+
+[no longer used now that the full game is here]
+	{
+	pt-BR=não é mais usado, já que o jogo completo está aqui;
+	}
+
+[Recommended]
+	{
+	pt-BR=Recomendado;
+	}
+
+[Recommended: shared games with players who have it may not match.]
+	{
+	pt-BR=Recomendado: partidas em rede com jogadores que o têm podem não coincidir.;
+	}
+
+[Shared games need the same files on every machine]
+	{
+	pt-BR=Partidas em rede exigem os mesmos arquivos em todas as máquinas;
+	}
+
+[Windows program or shortcut]
+	{
+	pt-BR=programa ou atalho do Windows;
+	}
+
+[icon, manual or help file]
+	{
+	pt-BR=ícone, manual ou arquivo de ajuda;
+	}
+
+[uninstaller]
+	{
+	pt-BR=desinstalador;
+	}
+
+[system file]
+	{
+	pt-BR=arquivo do sistema;
+	}
+
+[symbolic link, never followed]
+	{
+	pt-BR=link simbólico, nunca seguido;
+	}
+
+[a name the game cannot use]
+	{
+	pt-BR=um nome que o jogo não pode usar;
+	}
+
+[differs only in capital letters]
+	{
+	pt-BR=difere só em maiúsculas;
+	}
+
+[left out]
+	{
+	pt-BR=deixado de fora;
+	}
+
+[Windows programs, shortcuts, icons, manuals and help files]
+	{
+	pt-BR=Programas e atalhos do Windows, ícones, manuais e arquivos de ajuda;
+	}
+
+[This folder does not hold a Total Annihilation installation]
+	{
+	pt-BR=Esta pasta não contém uma instalação de Total Annihilation;
+	}
+
+[It holds no Total Annihilation archives (.hpi, .ufo, .ccx or rev31.gp3 files) and no installer of the Total Annihilation demo (1997).]
+	{
+	pt-BR=Ela não contém arquivos compactados de Total Annihilation (arquivos .hpi, .ufo, .ccx ou rev31.gp3) nem um instalador da demo de Total Annihilation (1997).;
+	}
+
+[Choose the folder that holds totala1.hpi.]
+	{
+	pt-BR=Escolha a pasta que contém totala1.hpi.;
+	}
+
+[These files cannot be played]
+	{
+	pt-BR=Não é possível jogar com estes arquivos;
+	}
+
+[The folder may be missing totala1.hpi.]
+	{
+	pt-BR=Talvez falte totala1.hpi na pasta.;
+	}
+
+[This is not the demo's installer]
+	{
+	pt-BR=Este não é o instalador da demo;
+	}
+
+[This file]
+	{
+	pt-BR=Este arquivo;
+	}
+
+[The copy stopped]
+	{
+	pt-BR=A cópia parou;
+	}
+
+[The folder can no longer be read]
+	{
+	pt-BR=A pasta não pode mais ser lida;
+	}
+
+[The folder has changed]
+	{
+	pt-BR=A pasta mudou;
+	}
+
+[Is this the right folder?]
+	{
+	pt-BR=É a pasta certa?;
+	}
+
+[No game folder yet]
+	{
+	pt-BR=Ainda sem pasta do jogo;
+	}
+
+[Found your files]
+	{
+	pt-BR=Seus arquivos foram encontrados;
+	}
+
+[Found game archives]
+	{
+	pt-BR=Arquivos compactados do jogo encontrados;
+	}
+
+[Archives are loose in Open Annihilation's folder. Gather them into Total Annihilation?]
+	{
+	pt-BR=Há arquivos compactados soltos na pasta do Open Annihilation. Reuni-los em Total Annihilation?;
+	}
+
+[The file picker did not open]
+	{
+	pt-BR=O seletor de arquivos não abriu;
+	}
+
+[The system's file picker could not be opened.]
+	{
+	pt-BR=Não foi possível abrir o seletor de arquivos do sistema.;
+	}
+
+[The copy could not start]
+	{
+	pt-BR=Não foi possível iniciar a cópia;
+	}
+
+[Open Annihilation could not write its own folder.]
+	{
+	pt-BR=O Open Annihilation não conseguiu gravar na própria pasta.;
+	}
+
+[Stop copying?]
+	{
+	pt-BR=Parar a cópia?;
+	}
+
+[Replace the game files?]
+	{
+	pt-BR=Substituir os arquivos do jogo?;
+	}
+
+[Nothing in this folder is left out.]
+	{
+	pt-BR=Nada nesta pasta fica de fora.;
+	}
+
+[This mod cannot be used]
+	{
+	pt-BR=Este mod não pode ser usado;
+	}
+
+[Its mod profile cannot be used:]
+	{
+	pt-BR=Seu perfil de mod não pode ser usado:;
+	}
+
+[Remove the old folder?]
+	{
+	pt-BR=Remover a pasta antiga?;
+	}
+
+[Remove the demo's data?]
+	{
+	pt-BR=Remover os dados da demo?;
+	}
+
+[this part]
+	{
+	pt-BR=esta parte;
+	}
+
+[The game plays without it.]
+	{
+	pt-BR=O jogo funciona sem ela.;
+	}
+
+[Saved games that use its units cannot be loaded without it, and shared games need the same files on every machine.]
+	{
+	pt-BR=Jogos salvos que usam suas unidades não podem ser carregados sem ela, e partidas em rede exigem os mesmos arquivos em todas as máquinas.;
+	}
+
+[It is removed at the next start of Open Annihilation.]
+	{
+	pt-BR=A remoção acontece na próxima inicialização do Open Annihilation.;
+	}
+
+[Remove all game files?]
+	{
+	pt-BR=Remover todos os arquivos do jogo?;
+	}
+
+[Add files]
+	{
+	pt-BR=Adicionar arquivos;
+	}
+
+[Expansions, extra maps and mods are added beside what is there; nothing already there is replaced.]
+	{
+	pt-BR=Expansões, mapas extras e mods são adicionados ao que já existe. Nada do que já está lá é substituído.;
+	}
+
+[From the next start]
+	{
+	pt-BR=A partir da próxima inicialização;
+	}
+
+[The changes are used from the next start of Open Annihilation.]
+	{
+	pt-BR=As alterações valem a partir da próxima inicialização do Open Annihilation.;
+	}
+
+[The new game files are used from the next start of Open Annihilation. Adding or removing files waits until then.]
+	{
+	pt-BR=Os novos arquivos do jogo são usados a partir da próxima inicialização do Open Annihilation. Adicionar ou remover arquivos fica para depois disso.;
+	}
+
+[Copying stopped. Nothing was added.]
+	{
+	pt-BR=A cópia parou. Nada foi adicionado.;
+	}
+
+[Copying went on while Open Annihilation was away]
+	{
+	pt-BR=A cópia continuou enquanto o Open Annihilation estava fora;
+	}
+
+[Copying paused while Open Annihilation was away and has started again]
+	{
+	pt-BR=A cópia pausou enquanto o Open Annihilation estava fora e recomeçou;
+	}
+
+[1 file was added]
+	{
+	pt-BR=1 arquivo foi adicionado;
+	}
+
+[Mod: {name}]
+	{
+	pt-BR=Mod: {name};
+	}
+
+[{n} files]
+	{
+	pt-BR={n} arquivos;
+	}
+
+[{n} tracks]
+	{
+	pt-BR={n} faixas;
+	}
+
+[{tracks} · optional]
+	{
+	pt-BR={tracks} · opcional;
+	}
+
+[{kinds} · 1 file]
+	{
+	pt-BR={kinds} · 1 arquivo;
+	}
+
+[{kinds} · {n} files]
+	{
+	pt-BR={kinds} · {n} arquivos;
+	}
+
+[at least {size}]
+	{
+	pt-BR=pelo menos {size};
+	}
+
+[{problem} The folder may be missing totala1.hpi.]
+	{
+	pt-BR={problem} Talvez falte totala1.hpi na pasta.;
+	}
+
+[{file} is not the release of the Total Annihilation demo (1997) that Open Annihilation recognises. Installers of the full game are Windows programs, which Open Annihilation never runs: install the game on a computer, then copy its folder.]
+	{
+	pt-BR={file} não é a edição da demo de Total Annihilation (1997) que o Open Annihilation reconhece. Os instaladores do jogo completo são programas do Windows, que o Open Annihilation nunca executa: instale o jogo num computador e depois copie a pasta dele.;
+	}
+
+[Not enough space on this {device}]
+	{
+	pt-BR=Espaço insuficiente neste {device};
+	}
+
+[These files need {need} and this {device} has {free} free. {advice}, or turn off a part above, then tap Check again.]
+	{
+	pt-BR=Estes arquivos precisam de {need} e este {device} tem {free} livres. {advice}, ou desligue uma parte acima, e toque em Verificar de novo.;
+	}
+
+[This {device} ran out of space]
+	{
+	pt-BR=Acabou o espaço neste {device};
+	}
+
+[The copy stopped after {size}. What was copied is kept: free some space, then tap Continue.]
+	{
+	pt-BR=A cópia parou após {size}. O que foi copiado é mantido: libere espaço e toque em Continuar.;
+	}
+
+[Open Annihilation could not read {file}. Connect it again and tap Continue. What was copied is kept.]
+	{
+	pt-BR=O Open Annihilation não conseguiu ler {file}. Conecte-o de novo e toque em Continuar. O que foi copiado é mantido.;
+	}
+
+[Open Annihilation could not read {file}: {why}. Connect it again and tap Continue. What was copied is kept.]
+	{
+	pt-BR=O Open Annihilation não conseguiu ler {file}: {why}. Conecte-o de novo e toque em Continuar. O que foi copiado é mantido.;
+	}
+
+[{file} is in {cloud} and could not be downloaded. Connect to the internet and tap Continue.]
+	{
+	pt-BR={file} está em {cloud} e não pôde ser baixado. Conecte-se à internet e toque em Continuar.;
+	}
+
+[{file} is in {cloud} and could not be downloaded: {why}. Connect to the internet and tap Continue.]
+	{
+	pt-BR={file} está em {cloud} e não pôde ser baixado: {why}. Conecte-se à internet e toque em Continuar.;
+	}
+
+[Open Annihilation may no longer read {location}. Choose the folder again to go on; what was copied is kept.]
+	{
+	pt-BR=Talvez o Open Annihilation não consiga mais ler {location}. Escolha a pasta de novo para prosseguir. O que foi copiado é mantido.;
+	}
+
+[Some files in {location} changed since the copy began. Files that match are kept; the rest are copied again.]
+	{
+	pt-BR=Alguns arquivos em {location} mudaram desde o início da cópia. Os que coincidem são mantidos, o resto é copiado de novo.;
+	}
+
+[This folder holds {size}, far more than a Total Annihilation installation (about 1.1 GB with everything).]
+	{
+	pt-BR=Esta pasta contém {size}, muito mais que uma instalação de Total Annihilation (cerca de 1.1 GB com tudo).;
+	}
+
+[There is no Total Annihilation folder on this {device} yet. {steps} Name it Total Annihilation. Wait until the copy has finished, then tap Check again.]
+	{
+	pt-BR=Ainda não há uma pasta Total Annihilation neste {device}. {steps} Dê a ela o nome Total Annihilation. Espere a cópia terminar e toque em Verificar de novo.;
+	}
+
+[Found your files in {folder}. Use that folder?]
+	{
+	pt-BR=Seus arquivos foram encontrados em {folder}. Usar essa pasta?;
+	}
+
+[The system's file picker could not be opened: {error}.]
+	{
+	pt-BR=Não foi possível abrir o seletor de arquivos do sistema: {error}.;
+	}
+
+[Open Annihilation could not write its own folder: {error}.]
+	{
+	pt-BR=O Open Annihilation não conseguiu gravar na própria pasta: {error}.;
+	}
+
+[{done} of {total} is copied. Keep it, and choosing the same folder later continues from here.]
+	{
+	pt-BR={done} de {total} já foram copiados. Se você mantiver a cópia, escolher a mesma pasta depois retoma daqui.;
+	}
+
+[This replaces the game files on this {device} ({size}) with the folder you chose. The current folder is kept as Total Annihilation (old) until you remove it. Saved games and settings stay.]
+	{
+	pt-BR=Isto substitui os arquivos do jogo neste {device} ({size}) pela pasta escolhida. A pasta atual é mantida como Total Annihilation (old) até que você a remova. Jogos salvos e configurações permanecem.;
+	}
+
+[{kinds} ({size})]
+	{
+	pt-BR={kinds} ({size});
+	}
+
+[Total Annihilation (old) is the folder that was there before ({size}). The game does not use it; removing it frees the space.]
+	{
+	pt-BR=Total Annihilation (old) é a pasta que estava lá antes ({size}). O jogo não a usa, e removê-la libera o espaço.;
+	}
+
+[The demo's unpacked data ({size}) is no longer used.]
+	{
+	pt-BR=Os dados descompactados da demo ({size}) não são mais usados.;
+	}
+
+[Remove {name} ({size})?]
+	{
+	pt-BR=Remover {name} ({size})?;
+	}
+
+[Remove every game file from this {device} ({size})? Saved games and settings stay. The game cannot start until you add the files again.]
+	{
+	pt-BR=Remover todos os arquivos do jogo deste {device} ({size})? Jogos salvos e configurações permanecem. O jogo não pode iniciar até que você adicione os arquivos de novo.;
+	}
+
+[Copying from {location} stopped at {done} of {total}. Choose the same folder to continue; what was copied is kept.]
+	{
+	pt-BR=A cópia de {location} parou em {done} de {total}. Escolha a mesma pasta para continuar. O que foi copiado é mantido.;
+	}
+
+[Copying from {location} stopped at {done}. Choose the same folder to continue; what was copied is kept.]
+	{
+	pt-BR=A cópia de {location} parou em {done}. Escolha a mesma pasta para continuar. O que foi copiado é mantido.;
+	}
+
+[The Total Annihilation folder on this {device} cannot be played.]
+	{
+	pt-BR=Não é possível jogar com a pasta Total Annihilation deste {device}.;
+	}
+
+[The Total Annihilation folder on this {device} cannot be played: {problem}]
+	{
+	pt-BR=Não é possível jogar com a pasta Total Annihilation deste {device}: {problem};
+	}
+
+[{n} files were added]
+	{
+	pt-BR={n} arquivos foram adicionados;
+	}
+
+[1 file was added from {source}]
+	{
+	pt-BR=1 arquivo foi adicionado de {source};
+	}
+
+[{n} files were added from {source}]
+	{
+	pt-BR={n} arquivos foram adicionados de {source};
+	}
+
+[{added}; {name} is there already and was kept.]
+	{
+	pt-BR={added}. {name} já estava lá e foi mantido.;
+	}
+
+[{n} more]
+	{
+	pt-BR=mais {n};
+	}
+
+[{added}; {names} are there already and were kept.]
+	{
+	pt-BR={added}. {names} já estavam lá e foram mantidos.;
+	}
+
+[{added}.]
+	{
+	pt-BR={added}.;
+	}
+
+[{added} The new files are used from the next start of Open Annihilation.]
+	{
+	pt-BR={added} Os novos arquivos são usados a partir da próxima inicialização do Open Annihilation.;
+	}
+
+[{changes} Waiting to be removed: {names}.]
+	{
+	pt-BR={changes} Aguardando remoção: {names}.;
+	}
+
+[Choose the game folder]
+	{
+	pt-BR=Escolha a pasta do jogo;
+	}
+
+[CHOOSE FOLDER]
+	{
+	pt-BR=ESCOLHER PASTA;
+	}
+
+[Copy it yourself]
+	{
+	pt-BR=Copie você mesmo;
+	}
+
+[I HAVE COPIED IT]
+	{
+	pt-BR=JÁ COPIEI;
+	}
+
+[Play the 1997 demo]
+	{
+	pt-BR=Jogar a demo de 1997;
+	}
+
+[CHOOSE INSTALLER]
+	{
+	pt-BR=ESCOLHER INSTALADOR;
+	}
+
+[WHY]
+	{
+	pt-BR=POR QUÊ;
+	}
+
+[SHOW]
+	{
+	pt-BR=MOSTRAR;
+	}
+
+[REMOVE]
+	{
+	pt-BR=REMOVER;
+	}
+
+[Add your Total Annihilation files]
+	{
+	pt-BR=Adicione seus arquivos de Total Annihilation;
+	}
+
+[You need the folder of an installed copy of Total Annihilation, the one that holds totala1.hpi: about 1.1 GB with both expansions and the music. Installers of the full game are Windows programs and cannot be used here; install the game on a computer and bring its folder.]
+	{
+	pt-BR=É preciso a pasta de uma cópia instalada de Total Annihilation, a que contém totala1.hpi: cerca de 1.1 GB com as duas expansões e a música. Os instaladores do jogo completo são programas do Windows e não podem ser usados aqui. Instale o jogo num computador e traga a pasta dele.;
+	}
+
+[OA settings › Game files manages them later.]
+	{
+	pt-BR=Depois, Configurações do OA › Arquivos do jogo cuida deles.;
+	}
+
+[OA settings › Game files adds an expansion or removes the files later.]
+	{
+	pt-BR=Depois, Configurações do OA › Arquivos do jogo adiciona uma expansão ou remove os arquivos.;
+	}
+
+[Looking at the file]
+	{
+	pt-BR=Examinando o arquivo;
+	}
+
+[Looking at the folder]
+	{
+	pt-BR=Examinando a pasta;
+	}
+
+[Reading names and sizes only: nothing is copied or downloaded yet.]
+	{
+	pt-BR=Lendo apenas nomes e tamanhos: nada é copiado ou baixado ainda.;
+	}
+
+[A game folder inside]
+	{
+	pt-BR=Uma pasta do jogo dentro de;
+	}
+
+[a folder]
+	{
+	pt-BR=uma pasta;
+	}
+
+[This folder holds no game archives, but folders inside it do. Choose one.]
+	{
+	pt-BR=Esta pasta não contém arquivos compactados do jogo, mas pastas dentro dela, sim. Escolha uma.;
+	}
+
+[USE THAT FOLDER]
+	{
+	pt-BR=USAR ESSA PASTA;
+	}
+
+[CHOOSE ANOTHER FOLDER]
+	{
+	pt-BR=ESCOLHER OUTRA PASTA;
+	}
+
+[This is already the game folder.]
+	{
+	pt-BR=Esta já é a pasta do jogo.;
+	}
+
+[CHECK IT]
+	{
+	pt-BR=VERIFICAR;
+	}
+
+[Ready to copy]
+	{
+	pt-BR=Pronto para copiar;
+	}
+
+[Checked: the game can start from these files.]
+	{
+	pt-BR=Verificado: o jogo pode iniciar com estes arquivos.;
+	}
+
+[Checked fully once copied.]
+	{
+	pt-BR=Verificado por completo após a cópia.;
+	}
+
+[CHOOSE ANOTHER FILE]
+	{
+	pt-BR=ESCOLHER OUTRO ARQUIVO;
+	}
+
+[CHECK AGAIN]
+	{
+	pt-BR=VERIFICAR DE NOVO;
+	}
+
+[REPLACE GAME FILES]
+	{
+	pt-BR=SUBSTITUIR ARQUIVOS DO JOGO;
+	}
+
+[COPY]
+	{
+	pt-BR=COPIAR;
+	}
+
+[Copying]
+	{
+	pt-BR=Copiando;
+	}
+
+[STOP]
+	{
+	pt-BR=PARAR;
+	}
+
+[Keep Open Annihilation open until the copy ends. If you leave it, the copy goes on for a short while, then pauses and continues when you come back.]
+	{
+	pt-BR=Mantenha o Open Annihilation aberto até a cópia terminar. Se você sair dele, a cópia continua por pouco tempo, depois pausa e continua quando você voltar.;
+	}
+
+[Checking]
+	{
+	pt-BR=Verificando;
+	}
+
+[Checking the copied files with the game's own check…]
+	{
+	pt-BR=Verificando os arquivos copiados com a verificação do próprio jogo…;
+	}
+
+[Ready to play]
+	{
+	pt-BR=Pronto para jogar;
+	}
+
+[REMOVE OLD FOLDER]
+	{
+	pt-BR=REMOVER PASTA ANTIGA;
+	}
+
+[DONE]
+	{
+	pt-BR=CONCLUÍDO;
+	}
+
+[PLAY]
+	{
+	pt-BR=JOGAR;
+	}
+
+[ADD FILES…]
+	{
+	pt-BR=ADICIONAR ARQUIVOS…;
+	}
+
+[REPLACE THE GAME FILES…]
+	{
+	pt-BR=SUBSTITUIR OS ARQUIVOS DO JOGO…;
+	}
+
+[REMOVE ALL GAME FILES…]
+	{
+	pt-BR=REMOVER TODOS OS ARQUIVOS DO JOGO…;
+	}
+
+[Pick the folder that holds totala1.hpi: {places}. It is checked, then copied in.]
+	{
+	pt-BR=Escolha a pasta que contém totala1.hpi: {places}. Ela é verificada e depois copiada.;
+	}
+
+[The folder that holds totala1.hpi: {places}.]
+	{
+	pt-BR=A pasta que contém totala1.hpi: {places}.;
+	}
+
+[{steps} Name it Total Annihilation.]
+	{
+	pt-BR={steps} Dê a ela o nome Total Annihilation.;
+	}
+
+[{steps}, named Total Annihilation.]
+	{
+	pt-BR={steps}, com o nome Total Annihilation.;
+	}
+
+[Choose the installer of the Total Annihilation demo (1997). The game recognises it, never runs it, and unpacks its {size} of game data.]
+	{
+	pt-BR=Escolha o instalador da demo de Total Annihilation (1997). O jogo o reconhece, nunca o executa e descompacta seus {size} de dados de jogo.;
+	}
+
+[The demo's installer: recognised, never run, {size} unpacked.]
+	{
+	pt-BR=O instalador da demo: reconhecido, nunca executado, {size} descompactados.;
+	}
+
+[Copied onto this {device} once from your own copy. Nothing is downloaded.]
+	{
+	pt-BR=Copiado uma vez para este {device} a partir da sua própria cópia. Nada é baixado.;
+	}
+
+[Open Annihilation plays the game from your own copy, as it does on a computer. It comes with no game data and downloads nothing: the files are copied onto this {device} once and stay here.]
+	{
+	pt-BR=O Open Annihilation roda o jogo a partir da sua própria cópia, como num computador. Ele não vem com dados do jogo e não baixa nada: os arquivos são copiados uma vez para este {device} e ficam aqui.;
+	}
+
+[{size} free on this {device}.]
+	{
+	pt-BR={size} livres neste {device}.;
+	}
+
+[Looking at {location}…]
+	{
+	pt-BR=Examinando {location}…;
+	}
+
+[1 file, {size} so far]
+	{
+	pt-BR=1 arquivo, {size} até agora;
+	}
+
+[{n} files, {size} so far]
+	{
+	pt-BR={n} arquivos, {size} até agora;
+	}
+
+[You chose: {location}]
+	{
+	pt-BR=Escolhido: {location};
+	}
+
+[This folder holds no game archives, but {folder} does.]
+	{
+	pt-BR=Esta pasta não contém arquivos compactados do jogo, mas {folder} contém.;
+	}
+
+[{warning} Turning off {parts} would make them fit.]
+	{
+	pt-BR={warning} Desligar {parts} faria tudo caber.;
+	}
+
+[From {location}]
+	{
+	pt-BR=De {location};
+	}
+
+[{size} is in {cloud} only and is downloaded while copying.]
+	{
+	pt-BR={size} está só em {cloud} e é baixado durante a cópia.;
+	}
+
+[Copies at least {size}.]
+	{
+	pt-BR=Copia pelo menos {size}.;
+	}
+
+[Copies {size}.]
+	{
+	pt-BR=Copia {size}.;
+	}
+
+[Downloading {file} from {cloud}…]
+	{
+	pt-BR=Baixando {file} de {cloud}…;
+	}
+
+[Unpacking the demo's game data ({size})…]
+	{
+	pt-BR=Descompactando os dados de jogo da demo ({size})…;
+	}
+
+[Uses {size} on this {device} · {free} free.]
+	{
+	pt-BR=Usa {size} neste {device} · {free} livres.;
+	}
+
+[Uses {size} on this {device}.]
+	{
+	pt-BR=Usa {size} neste {device}.;
+	}
+
+[These files are not in this {device}'s backups. Keep your original copy.]
+	{
+	pt-BR=Estes arquivos não entram nos backups deste {device}. Guarde sua cópia original.;
+	}
+
+[{file} could not be opened, so the game plays without it: it may be damaged. Copy it again from the original.]
+	{
+	pt-BR=Não foi possível abrir {file}, então o jogo funciona sem ele: talvez esteja danificado. Copie-o de novo do original.;
+	}
+
+[The folder that was there before is kept as Total Annihilation (old), {size}.]
+	{
+	pt-BR=A pasta que estava lá antes é mantida como Total Annihilation (old), {size}.;
+	}
+
+[{size} on this {device} · {free} free]
+	{
+	pt-BR={size} neste {device} · {free} livres;
+	}
+
+[{size} on this {device}]
+	{
+	pt-BR={size} neste {device};
+	}
+
+[working out the time left]
+	{
+	pt-BR=calculando o tempo restante;
+	}
+
+[a few seconds left]
+	{
+	pt-BR=faltam poucos segundos;
+	}
+
+[about a minute left]
+	{
+	pt-BR=falta cerca de um minuto;
+	}
+
+[about an hour left]
+	{
+	pt-BR=falta cerca de uma hora;
+	}
+
+[The Total Annihilation demo (1997).]
+	{
+	pt-BR=A demo de Total Annihilation (1997).;
+	}
+
+[extra units and maps]
+	{
+	pt-BR=unidades e mapas extras;
+	}
+
+[music]
+	{
+	pt-BR=música;
+	}
+
+[movies]
+	{
+	pt-BR=vídeos;
+	}
+
+[mods]
+	{
+	pt-BR=mods;
+	}
+
+[1 mod]
+	{
+	pt-BR=1 mod;
+	}
+
+[No game files]
+	{
+	pt-BR=Sem arquivos do jogo;
+	}
+
+[{a}, {b}]
+	{
+	pt-BR={a}, {b};
+	}
+
+[{n} byte]
+	{
+	pt-BR={n} byte;
+	}
+
+[{n} bytes]
+	{
+	pt-BR={n} bytes;
+	}
+
+[about {n} minutes left]
+	{
+	pt-BR=faltam cerca de {n} minutos;
+	}
+
+[about {n} hours left]
+	{
+	pt-BR=faltam cerca de {n} horas;
+	}
+
+[{game} with {expansions}, {others}.]
+	{
+	pt-BR={game} com {expansions}, {others}.;
+	}
+
+[{game} with {list}.]
+	{
+	pt-BR={game} com {list}.;
+	}
+
+[{game}.]
+	{
+	pt-BR={game}.;
+	}
+
+[{n} mods]
+	{
+	pt-BR={n} mods;
+	}
+
+[ADD THE MISSING FILES]
+	{
+	pt-BR=ADICIONAR OS ARQUIVOS QUE FALTAM;
+	}
+
+[BACK]
+	{
+	pt-BR=VOLTAR;
+	}
+
+[CANCEL THE REPLACEMENT]
+	{
+	pt-BR=CANCELAR A SUBSTITUIÇÃO;
+	}
+
+[CHANGE WHAT IS COPIED]
+	{
+	pt-BR=MUDAR O QUE É COPIADO;
+	}
+
+[CHOOSE A FOLDER]
+	{
+	pt-BR=ESCOLHER UMA PASTA;
+	}
+
+[CHOOSE ARCHIVES]
+	{
+	pt-BR=ESCOLHER ARQUIVOS COMPACTADOS;
+	}
+
+[CHOOSE THE DEMO'S INSTALLER]
+	{
+	pt-BR=ESCOLHER O INSTALADOR DA DEMO;
+	}
+
+[CHOOSE THE FOLDER AGAIN]
+	{
+	pt-BR=ESCOLHER A PASTA DE NOVO;
+	}
+
+[CONTINUE]
+	{
+	pt-BR=CONTINUAR;
+	}
+
+[COPY ANYWAY]
+	{
+	pt-BR=COPIAR MESMO ASSIM;
+	}
+
+[DISCARD]
+	{
+	pt-BR=DESCARTAR;
+	}
+
+[DISCARD WHAT WAS COPIED]
+	{
+	pt-BR=DESCARTAR O QUE FOI COPIADO;
+	}
+
+[GATHER THEM]
+	{
+	pt-BR=REUNIR;
+	}
+
+[KEEP]
+	{
+	pt-BR=MANTER;
+	}
+
+[KEEP COPYING]
+	{
+	pt-BR=CONTINUAR COPIANDO;
+	}
+
+[KEEP WHAT WAS COPIED]
+	{
+	pt-BR=MANTER O QUE FOI COPIADO;
+	}
+
+[REMOVE ALL]
+	{
+	pt-BR=REMOVER TUDO;
+	}
+
+[START AGAIN]
+	{
+	pt-BR=RECOMEÇAR;
+	}
+
+[TRY AGAIN]
+	{
+	pt-BR=TENTAR NOVAMENTE;
+	}
+
+[USE IT]
+	{
+	pt-BR=USAR;
+	}
+
+[Copy your Total Annihilation folder into Open Annihilation's own folder with your file manager.]
+	{
+	pt-BR=Copie sua pasta Total Annihilation para a pasta do próprio Open Annihilation com seu gerenciador de arquivos.;
+	}
+
+[Into Open Annihilation's own folder]
+	{
+	pt-BR=Para a pasta do próprio Open Annihilation;
+	}
+
+[on this device or anywhere the system's file picker reaches]
+	{
+	pt-BR=neste dispositivo ou onde o seletor de arquivos do sistema alcançar;
+	}
+
+[anywhere the file picker reaches]
+	{
+	pt-BR=onde o seletor de arquivos alcançar;
+	}
+
+[Free up space on this device]
+	{
+	pt-BR=Libere espaço neste dispositivo;
+	}
+
+[In your file manager: Open Annihilation's own folder › Total Annihilation]
+	{
+	pt-BR=No seu gerenciador de arquivos: pasta do próprio Open Annihilation › Total Annihilation;
+	}
+
+[the cloud]
+	{
+	pt-BR=a nuvem;
+	}
+
+[{a} and {b}]
+	{
+	pt-BR={a} e {b};
+	}
+
+[{a} or {b}]
+	{
+	pt-BR={a} ou {b};
+	}
+
+[No folders here.]
+	{
+	pt-BR=Nenhuma pasta aqui.;
+	}
+
+[Settings were not saved.]
+	{
+	pt-BR=As configurações não foram salvas.;
+	}
+
+[That folder cannot be found.]
+	{
+	pt-BR=Essa pasta não foi encontrada.;
+	}
+
+[That folder's oamod.yaml cannot be read.]
+	{
+	pt-BR=Não é possível ler o oamod.yaml dessa pasta.;
+	}
+
+[That folder cannot be played; the log says why.]
+	{
+	pt-BR=Não é possível jogar com essa pasta. O log diz por quê.;
+	}
+
+[Its oamod.yaml cannot be played; the log says why.]
+	{
+	pt-BR=Não é possível jogar com o oamod.yaml dele. O log diz por quê.;
+	}
+
+[The graphics card could not be used, so the processor draws the game. You can try it again under Graphics in the OA settings.]
+	{
+	pt-BR=Não foi possível usar a placa de vídeo, então o processador desenha o jogo. Você pode tentar de novo em Gráficos, nas configurações do OA.;
+	}
+
+[A graphics driver failed, so the game now uses another one. You can try it again under Graphics in the OA settings.]
+	{
+	pt-BR=Um driver gráfico falhou, então o jogo agora usa outro. Você pode tentar de novo em Gráficos, nas configurações do OA.;
+	}
+
+[The graphics card could not draw the battlefield, so it only scales it now. You can try Full again under Graphics in the OA settings.]
+	{
+	pt-BR=A placa de vídeo não conseguiu desenhar o campo de batalha, então agora só o dimensiona. Você pode tentar Completo de novo em Gráficos, nas configurações do OA.;
+	}
+
+[This game includes no skirmish maps, so skirmish is not available.]
+	{
+	pt-BR=Este jogo não inclui mapas de escaramuça, então a escaramuça não está disponível.;
+	}
+
+[This game includes no multiplayer maps, so multiplayer is not available.]
+	{
+	pt-BR=Este jogo não inclui mapas multijogador, então o multijogador não está disponível.;
+	}
+
+[Campaign complete. This game includes no further missions.]
+	{
+	pt-BR=Campanha concluída. Este jogo não inclui mais missões.;
+	}
+
+[{used} · {free} free on this {device}]
+	{
+	pt-BR={used} · {free} livres neste {device};
+	}
+
+[{used} on this {device}]
+	{
+	pt-BR={used} neste {device};
+	}
+
+[SAVED GAMES MOVED]
+	{
+	pt-BR=JOGOS SALVOS MOVIDOS;
+	}
+
+[GAME FOLDER FOUND]
+	{
+	pt-BR=PASTA DO JOGO ENCONTRADA;
+	}
+
+[MOD FILES MISSING]
+	{
+	pt-BR=FALTAM ARQUIVOS DO MOD;
+	}
+
+[OPEN MOD FOLDER]
+	{
+	pt-BR=ABRIR PASTA DO MOD;
+	}
+
+[New saved games go in:]
+	{
+	pt-BR=Os novos jogos salvos vão para:;
+	}
+
+[Screenshots, films and mods now go in the same Open Annihilation folder.]
+	{
+	pt-BR=Capturas de tela, gravações e mods agora vão para a mesma pasta do Open Annihilation.;
+	}
+
+[Open Annihilation remembers it for later starts; start it with --choose-game-dir to choose another folder.]
+	{
+	pt-BR=O Open Annihilation se lembra dela nas próximas inicializações. Inicie-o com --choose-game-dir para escolher outra pasta.;
+	}
+
+[None of this mod's units were found.]
+	{
+	pt-BR=Nenhuma unidade deste mod foi encontrada.;
+	}
+
+[Its games can't start until the mod's files are added to its folder:]
+	{
+	pt-BR=As partidas dele não podem começar até que os arquivos do mod sejam adicionados à pasta:;
+	}
+
+[Its games still start. Add the missing files to its folder to show them:]
+	{
+	pt-BR=As partidas dele ainda começam. Adicione os arquivos que faltam à pasta para mostrá-los:;
+	}
+
+[Income Multipliers]
+	{
+	pt-BR=Multiplicadores de renda;
+	}
+
+[Difficulty Names]
+	{
+	pt-BR=Nomes de dificuldade;
+	}
+
+[Commander Runs Factories]
+	{
+	pt-BR=Comandante opera fábricas;
+	}
+
+[Factory Tick Filter]
+	{
+	pt-BR=Filtro de tick das fábricas;
+	}
+
+[Commander Builder Limit]
+	{
+	pt-BR=Limite de construtores do Comandante;
+	}
+
+[Commander Keeps Orders When Hit]
+	{
+	pt-BR=Comandante mantém ordens ao ser atingido;
+	}
+
+[Attack Wave Size]
+	{
+	pt-BR=Tamanho da onda de ataque;
+	}
+
+[Patrol Group Size]
+	{
+	pt-BR=Tamanho do grupo de patrulha;
+	}
+
+[Patrol Edge Fallback]
+	{
+	pt-BR=Alternativa de patrulha na borda;
+	}
+
+[Squad Assignment]
+	{
+	pt-BR=Atribuição de esquadrões;
+	}
+
+[Ignore Submerged Targets]
+	{
+	pt-BR=Ignorar alvos submersos;
+	}
+
+[Selective Weapon Use]
+	{
+	pt-BR=Uso seletivo de armas;
+	}
+
+[Fire While Building]
+	{
+	pt-BR=Atirar enquanto constrói;
+	}
+
+[Repair Finish Check]
+	{
+	pt-BR=Verificação ao fim do reparo;
+	}
+
+[Reclaim Cursor on Any Unit]
+	{
+	pt-BR=Cursor de reciclar em qualquer unidade;
+	}
+
+[Resurrectors Reclaim Wrecks]
+	{
+	pt-BR=Ressuscitadores reciclam destroços;
+	}
+
+[Build Site Kickout]
+	{
+	pt-BR=Desocupação do local de construção;
+	}
+
+[Builder Patrol and Guard Options]
+	{
+	pt-BR=Opções de patrulha e proteção dos construtores;
+	}
+
+[No Repair Retreat]
+	{
+	pt-BR=Sem recuo para reparo;
+	}
+
+[Guard Respects Hold Position]
+	{
+	pt-BR=Proteger respeita Manter posição;
+	}
+
+[Gunships Hover to Strafe]
+	{
+	pt-BR=Aeronaves de ataque pairam para metralhar;
+	}
+
+[Retarget Out of Range]
+	{
+	pt-BR=Trocar de alvo fora de alcance;
+	}
+
+[High-Arc Ballistics]
+	{
+	pt-BR=Balística de arco alto;
+	}
+
+[Timed Shell Detonation]
+	{
+	pt-BR=Detonação temporizada de projéteis;
+	}
+
+[Vertical Launch Before Turret]
+	{
+	pt-BR=Lançamento vertical antes da torre;
+	}
+
+[Repair Rate]
+	{
+	pt-BR=Taxa de reparo;
+	}
+
+[Self-Repair by Heal Time]
+	{
+	pt-BR=Autorreparo por tempo de cura;
+	}
+
+[Veterancy Model]
+	{
+	pt-BR=Modelo de experiência;
+	}
+
+[Deterministic Wind]
+	{
+	pt-BR=Vento determinístico;
+	}
+
+[Statistics Exclude Shared Income]
+	{
+	pt-BR=Estatísticas excluem renda compartilhada;
+	}
+
+[Allied Line of Sight]
+	{
+	pt-BR=Linha de visão aliada;
+	}
+
+[Ignore Allied Jammers]
+	{
+	pt-BR=Ignorar bloqueadores aliados;
+	}
+
+[Team Start Positions]
+	{
+	pt-BR=Posições iniciais das equipes;
+	}
+
+[Map Scripted Units]
+	{
+	pt-BR=Unidades com script do mapa;
+	}
+
+[Start with One Human]
+	{
+	pt-BR=Começar com um humano;
+	}
+
+[Several Local AI Players]
+	{
+	pt-BR=Vários jogadores IA locais;
+	}
+
+[AI Player Names]
+	{
+	pt-BR=Nomes dos jogadores IA;
+	}
+
+[Commander Warp]
+	{
+	pt-BR=Teletransporte do Comandante;
+	}
+
+[Prebuilt Base]
+	{
+	pt-BR=Base pré-construída;
+	}
+
+[Team Number Alliances]
+	{
+	pt-BR=Alianças por número de equipe;
+	}
+
+[Keep Allied Victory]
+	{
+	pt-BR=Manter vitória aliada;
+	}
+
+[Alliance Menu Everywhere]
+	{
+	pt-BR=Menu de alianças em toda parte;
+	}
+
+[Structure Gift Rate Limit]
+	{
+	pt-BR=Limite de ritmo de doação de estruturas;
+	}
+
+[Take Waits for Commander Deaths]
+	{
+	pt-BR=Tomar espera a morte do Comandante;
+	}
+
+[Take and Give Commands]
+	{
+	pt-BR=Comandos de tomar e dar;
+	}
+
+[Unit Slot Reuse Delay]
+	{
+	pt-BR=Espera para reusar vaga de unidade;
+	}
+
+[Ignore Unit 0 Deaths]
+	{
+	pt-BR=Ignorar mortes da unidade 0;
+	}
+
+[Skip Empty Yard Maps]
+	{
+	pt-BR=Pular mapas de ocupação vazios;
+	}
+
+[Water State Rules]
+	{
+	pt-BR=Regras do estado da água;
+	}
+
+[Placement by Builder]
+	{
+	pt-BR=Posicionamento pelo construtor;
+	}
+
+[Mobile Unit Yard Maps]
+	{
+	pt-BR=Mapas de ocupação de unidades móveis;
+	}
+
+[Build Rotation]
+	{
+	pt-BR=Rotação de construção;
+	}
+
+[Cloak After Build]
+	{
+	pt-BR=Camuflar após construir;
+	}
+
+[AI and Control Cheats]
+	{
+	pt-BR=Trapaças de IA e de controle;
+	}
+
+[LOS Type Cheat]
+	{
+	pt-BR=Trapaça do tipo de visão;
+	}
+
+[ATM Amount]
+	{
+	pt-BR=Quantia do ATM;
+	}
+
+[Key Remaps]
+	{
+	pt-BR=Remapeamento de teclas;
+	}
+
+[Game Speed Range]
+	{
+	pt-BR=Faixa de velocidade do jogo;
+	}
+
+[Chat Extension Channel]
+	{
+	pt-BR=Canal de extensão do chat;
+	}
+
+[Version Check]
+	{
+	pt-BR=Verificação de versão;
+	}
+
+[Vote to Remove Players]
+	{
+	pt-BR=Votar para remover jogadores;
+	}
+
+[Lag Guard]
+	{
+	pt-BR=Proteção contra lag;
+	}
+
+[Commander Start Sync]
+	{
+	pt-BR=Sincronia inicial do Comandante;
+	}
+
+[Keep Remote Player Colours]
+	{
+	pt-BR=Manter cores dos jogadores remotos;
+	}
+
+[Clear Session Description]
+	{
+	pt-BR=Limpar descrição da sessão;
+	}
+
+[Host Stays as Watcher]
+	{
+	pt-BR=Anfitrião fica como espectador;
+	}
+
+[Recorder Session Commands]
+	{
+	pt-BR=Comandos de sessão do gravador;
+	}
+
+[Game Recorder]
+	{
+	pt-BR=Gravador de partidas;
+	}
+
+[Ten-Player Replay]
+	{
+	pt-BR=Replay de dez jogadores;
+	}
+
+[Megamap]
+	{
+	pt-BR=Megamapa;
+	}
+
+[Whiteboard]
+	{
+	pt-BR=Quadro branco;
+	}
+
+[Resource Panel]
+	{
+	pt-BR=Painel de recursos;
+	}
+
+[Camera Sharing]
+	{
+	pt-BR=Compartilhamento de câmera;
+	}
+
+[Allied Unit Display]
+	{
+	pt-BR=Exibição de unidades aliadas;
+	}
+
+[Selection Shortcuts]
+	{
+	pt-BR=Atalhos de seleção;
+	}
+
+[Build Tools]
+	{
+	pt-BR=Ferramentas de construção;
+	}
+
+[Click Snap]
+	{
+	pt-BR=Encaixe do clique;
+	}
+
+[Build Preview]
+	{
+	pt-BR=Prévia de construção;
+	}
+
+[Options Dialog]
+	{
+	pt-BR=Diálogo de opções;
+	}
+
+[Share Dialog and Lobby Buttons]
+	{
+	pt-BR=Diálogo de compartilhar e botões do lobby;
+	}
+
+[Text Rendering]
+	{
+	pt-BR=Renderização de texto;
+	}
+
+[Veterancy Label]
+	{
+	pt-BR=Rótulo de experiência;
+	}
+
+[Map Features Always Drawn]
+	{
+	pt-BR=Elementos do mapa sempre desenhados;
+	}
+
+[Unit Voice Fixes]
+	{
+	pt-BR=Correções de vozes das unidades;
+	}
+
+[Effects Tweaks]
+	{
+	pt-BR=Retoques de efeitos;
+	}
+
+[Explosion Flash]
+	{
+	pt-BR=Clarão das explosões;
+	}
+
+[Interface Fixes]
+	{
+	pt-BR=Correções de interface;
+	}
+
+[End-of-Game Statistics]
+	{
+	pt-BR=Estatísticas de fim de partida;
+	}
+
+[Audio]
+	{
+	pt-BR=Áudio;
+	}
+
+[Display Modes]
+	{
+	pt-BR=Modos de exibição;
+	}
+
+[External Exports]
+	{
+	pt-BR=Exportações externas;
+	}
+
+[AI]
+	{
+	pt-BR=IA;
+	}
+
+[Aircraft]
+	{
+	pt-BR=Aeronaves;
+	}
+
+[Console]
+	{
+	pt-BR=Console;
+	}
+
+[Economy]
+	{
+	pt-BR=Economia;
+	}
+
+[Vision and Radar]
+	{
+	pt-BR=Visão e radar;
+	}
+
+[Network]
+	{
+	pt-BR=Rede;
+	}
+
+[Orders]
+	{
+	pt-BR=Ordens;
+	}
+
+[Recorder]
+	{
+	pt-BR=Gravador;
+	}
+
+[Repair]
+	{
+	pt-BR=Reparo;
+	}
+
+[Game Setup]
+	{
+	pt-BR=Configuração da partida;
+	}
+
+[Sharing]
+	{
+	pt-BR=Compartilhamento;
+	}
+
+[Teams]
+	{
+	pt-BR=Equipes;
+	}
+
+[Interface]
+	{
+	pt-BR=Interface;
+	}
+
+[Units]
+	{
+	pt-BR=Unidades;
+	}
+
+[Veterancy]
+	{
+	pt-BR=Experiência;
+	}
+
+[Weapons]
+	{
+	pt-BR=Armas;
+	}
+
+[MOVE]
+	{
+	pt-BR=MOVER;
+	}
+
+[ATTACK]
+	{
+	pt-BR=ATACAR;
+	}
+
+[PATROL]
+	{
+	pt-BR=PATRULHAR;
+	}
+
+[DEFEND]
+	{
+	pt-BR=DEFENDER;
+	}
+
+[BLAST]
+	{
+	pt-BR=D-GUN;
+	}
+
+[RECLAIM]
+	{
+	pt-BR=RECICLAR;
+	}
+
+[REPAIR]
+	{
+	pt-BR=REPARAR;
+	}
+
+[CAPTURE]
+	{
+	pt-BR=CAPTURAR;
+	}
+
+[LOAD]
+	{
+	pt-BR=CARREGAR;
+	}
+
+[UNLOAD]
+	{
+	pt-BR=DESCARREGAR;
+	}
+
+[GUARD]
+	{
+	pt-BR=PROTEGER;
+	}
+
+[D-GUN]
+	{
+	pt-BR=D-GUN;
+	}
+
+[INFO]
+	{
+	pt-BR=INFO;
+	}
+
+[TYPE]
+	{
+	pt-BR=TIPO;
+	}
+
+[MOVE: the selection moves to the held point.]
+	{
+	pt-BR=MOVER: a seleção se move até o ponto pressionado.;
+	}
+
+[PATROL: the selection patrols to the held point.]
+	{
+	pt-BR=PATRULHAR: a seleção patrulha até o ponto pressionado.;
+	}
+
+[ATTACK: the selection attacks the unit or ground at the held point.]
+	{
+	pt-BR=ATACAR: a seleção ataca a unidade ou o chão no ponto pressionado.;
+	}
+
+[D-GUN: the commander fires the D-gun at the held point.]
+	{
+	pt-BR=D-GUN: o Comandante dispara a D-Gun no ponto pressionado.;
+	}
+
+[LOAD: the transport loads the unit at the held point.]
+	{
+	pt-BR=CARREGAR: o transporte carrega a unidade no ponto pressionado.;
+	}
+
+[CAPTURE: the selection captures the unit at the held point.]
+	{
+	pt-BR=CAPTURAR: a seleção captura a unidade no ponto pressionado.;
+	}
+
+[STOP: the selection stops at once.]
+	{
+	pt-BR=PARAR: a seleção para na hora.;
+	}
+
+[INFO: shows the information of the unit at the held point.]
+	{
+	pt-BR=INFO: mostra as informações da unidade no ponto pressionado.;
+	}
+
+[TYPE: selects every unit of the held unit's type.]
+	{
+	pt-BR=TIPO: seleciona todas as unidades do tipo da unidade pressionada.;
+	}
+
+[RECLAIM: the selection reclaims the wreck or unit at the held point.]
+	{
+	pt-BR=RECICLAR: a seleção recicla os destroços ou a unidade no ponto pressionado.;
+	}
+
+[REPAIR: the selection repairs or helps build the unit at the held point.]
+	{
+	pt-BR=REPARAR: a seleção repara ou ajuda a construir a unidade no ponto pressionado.;
+	}
+
+[UNLOAD: the transport unloads at the held point.]
+	{
+	pt-BR=DESCARREGAR: o transporte descarrega no ponto pressionado.;
+	}
+
+[GUARD: the selection guards the unit at the held point.]
+	{
+	pt-BR=PROTEGER: a seleção protege a unidade no ponto pressionado.;
+	}
+
+[Fire orders: tap to step through Hold fire, Return fire and Fire at will.]
+	{
+	pt-BR=Ordens de fogo: toque para alternar entre Cessar fogo, Revidar e Fogo à vontade.;
+	}
+
+[Move orders: tap to step through Hold position, Maneuver and Roam.]
+	{
+	pt-BR=Ordens de movimento: toque para alternar entre Manter posição, Manobrar e Vagar.;
+	}
+
+[On/Off: tap to switch the selected units on or off.]
+	{
+	pt-BR=Ligar/Desligar: toque para ligar ou desligar as unidades selecionadas.;
+	}
+
+[CLOAK]
+	{
+	pt-BR=CAMUFLAR;
+	}
+
+[Cloak: tap to turn cloaking on or off; a cloaked unit uses energy.]
+	{
+	pt-BR=Camuflar: toque para ligar ou desligar a camuflagem. Uma unidade camuflada gasta energia.;
+	}
+
+[ORDERS]
+	{
+	pt-BR=ORDENS;
+	}
+
+[ORDERS: shows the orders page.]
+	{
+	pt-BR=ORDENS: mostra a página de ordens.;
+	}
+
+[BUILD]
+	{
+	pt-BR=CONSTRUIR;
+	}
+
+[BUILD: shows the build pages.]
+	{
+	pt-BR=CONSTRUIR: mostra as páginas de construção.;
+	}
+
+[PREV]
+	{
+	pt-BR=ANT.;
+	}
+
+[PREV: shows the build page before this one.]
+	{
+	pt-BR=ANT.: mostra a página de construção anterior.;
+	}
+
+[NEXT PAGE]
+	{
+	pt-BR=PRÓX.;
+	}
+
+[NEXT: shows the build page after this one.]
+	{
+	pt-BR=PRÓX.: mostra a página de construção seguinte.;
+	}
+
+[MOVE: tap to arm it, then tap where the selection goes.]
+	{
+	pt-BR=MOVER: toque para preparar a ordem, depois toque aonde a seleção deve ir.;
+	}
+
+[ATTACK: tap to arm it, then tap the unit or ground to fire at.]
+	{
+	pt-BR=ATACAR: toque para preparar a ordem, depois toque na unidade ou no chão a atacar.;
+	}
+
+[PATROL: tap to arm it, then tap the points to patrol between.]
+	{
+	pt-BR=PATRULHAR: toque para preparar a ordem, depois toque nos pontos da patrulha.;
+	}
+
+[GUARD: tap to arm it, then tap the unit to guard.]
+	{
+	pt-BR=PROTEGER: toque para preparar a ordem, depois toque na unidade a proteger.;
+	}
+
+[D-GUN: tap to arm it, then tap where the commander fires it.]
+	{
+	pt-BR=D-GUN: toque para preparar a ordem, depois toque onde o Comandante deve disparar.;
+	}
+
+[RECLAIM: tap to arm it, then tap the wreck or unit to reclaim.]
+	{
+	pt-BR=RECICLAR: toque para preparar a ordem, depois toque nos destroços ou na unidade a reciclar.;
+	}
+
+[REPAIR: tap to arm it, then tap the unit to repair or help build.]
+	{
+	pt-BR=REPARAR: toque para preparar a ordem, depois toque na unidade a reparar ou a ajudar a construir.;
+	}
+
+[CAPTURE: tap to arm it, then tap the unit to capture.]
+	{
+	pt-BR=CAPTURAR: toque para preparar a ordem, depois toque na unidade a capturar.;
+	}
+
+[UNLOAD: tap to arm it, then tap where the transport unloads.]
+	{
+	pt-BR=DESCARREGAR: toque para preparar a ordem, depois toque onde o transporte deve descarregar.;
+	}
+
+[LOAD: tap to arm it, then tap the unit to load.]
+	{
+	pt-BR=CARREGAR: toque para preparar a ordem, depois toque na unidade a carregar.;
+	}
+
+[ALL]
+	{
+	pt-BR=TODAS;
+	}
+
+[BUILDERS]
+	{
+	pt-BR=CONSTRUTORES;
+	}
+
+[FACTORIES]
+	{
+	pt-BR=FÁBRICAS;
+	}
+
+[AIRCRAFT]
+	{
+	pt-BR=AERONAVES;
+	}
+
+[ON SCREEN]
+	{
+	pt-BR=NA TELA;
+	}
+
+[COMMANDER]
+	{
+	pt-BR=COMANDANTE;
+	}
+
+[SAME TYPE]
+	{
+	pt-BR=MESMO TIPO;
+	}
+
+[CENTRE]
+	{
+	pt-BR=CENTRALIZAR;
+	}
+
+[FOLLOW]
+	{
+	pt-BR=SEGUIR;
+	}
+
+[NEXT UNIT]
+	{
+	pt-BR=PRÓXIMA;
+	}
+
+[NEXT REPORT]
+	{
+	pt-BR=PRÓXIMO AVISO;
+	}
+
+[SLOWER]
+	{
+	pt-BR=MAIS LENTO;
+	}
+
+[FASTER]
+	{
+	pt-BR=MAIS RÁPIDO;
+	}
+
+[GAME MENU]
+	{
+	pt-BR=MENU DO JOGO;
+	}
+
+[CHAT]
+	{
+	pt-BR=CHAT;
+	}
+
+[SELECT]
+	{
+	pt-BR=SELECIONAR;
+	}
+
+[ASSIST]
+	{
+	pt-BR=AJUDAR;
+	}
+
+[PLACE]
+	{
+	pt-BR=POSICIONAR;
+	}
+
+[FIRE ORDERS]
+	{
+	pt-BR=ORDENS DE FOGO;
+	}
+
+[MOVE ORDERS]
+	{
+	pt-BR=ORDENS DE MOVIMENTO;
+	}
+
+[ON/OFF]
+	{
+	pt-BR=LIGAR/DESLIGAR;
+	}
+
+[SELF-DESTRUCT]
+	{
+	pt-BR=AUTODESTRUIÇÃO;
+	}
+
+[QUEUE: Shift for orders, building and placement. Tap to latch, hold for one.]
+	{
+	pt-BR=FILA: Shift para ordens, construção e posicionamento. Toque para fixar, segure para uma vez só.;
+	}
+
+[ADD: Shift for selecting, so taps, boxes and groups add to the selection. Tap to latch, hold for one.]
+	{
+	pt-BR=ADICIONAR: Shift para selecionar, para que toques, caixas e grupos se somem à seleção. Toque para fixar, segure para uma vez só.;
+	}
+
+[x5: Shift for the build buttons, five at a time. Tap to latch, hold for one.]
+	{
+	pt-BR=x5: Shift para os botões de construção, cinco de cada vez. Toque para fixar, segure para uma vez só.;
+	}
+
+[CLEAR: takes back the armed order or the building being placed, else clears the selection.]
+	{
+	pt-BR=LIMPAR: desfaz a ordem preparada ou a construção sendo posicionada, senão limpa a seleção.;
+	}
+
+[SELECT: selects all units, builders, factories, aircraft, the units on screen, the commander or the same type.]
+	{
+	pt-BR=SELECIONAR: seleciona todas as unidades, os construtores, as fábricas, as aeronaves, as unidades na tela, o Comandante ou o mesmo tipo.;
+	}
+
+[STORE: stores the selection as the lowest free group.]
+	{
+	pt-BR=GUARDAR: guarda a seleção no grupo livre de menor número.;
+	}
+
+[Group: tap to select it, tap again to centre on it, hold to store the selection in it.]
+	{
+	pt-BR=Grupo: toque para selecioná-lo, toque de novo para centralizá-lo, segure para guardar a seleção nele.;
+	}
+
+[PAUSE: pauses or resumes the game.]
+	{
+	pt-BR=PAUSA: pausa ou retoma a partida.;
+	}
+
+[SPEED: makes the game slower or faster.]
+	{
+	pt-BR=VELOCIDADE: deixa a partida mais lenta ou mais rápida.;
+	}
+
+[CHAT: writes a message to the other players.]
+	{
+	pt-BR=CHAT: escreve uma mensagem para os outros jogadores.;
+	}
+
+[CENTRE: centres the view on the selected unit.]
+	{
+	pt-BR=CENTRALIZAR: centraliza a visão na unidade selecionada.;
+	}
+
+[FOLLOW: the view follows the selected unit; tap again for the next one.]
+	{
+	pt-BR=SEGUIR: a visão segue a unidade selecionada. Toque de novo para a próxima.;
+	}
+
+[NEXT: centres the view on the next unit not yet visited.]
+	{
+	pt-BR=PRÓXIMA: centraliza a visão na próxima unidade ainda não visitada.;
+	}
+
+[INFO: shows the selected unit's information.]
+	{
+	pt-BR=INFO: mostra as informações da unidade selecionada.;
+	}
+
+[MENU: opens the game menu.]
+	{
+	pt-BR=MENU: abre o menu do jogo.;
+	}
+
+[BUILD: opens the builder's build pages, or the orders page for other units.]
+	{
+	pt-BR=CONSTRUIR: abre as páginas de construção do construtor, ou a página de ordens das outras unidades.;
+	}
+
+[Zoom out: shows more of the battlefield.]
+	{
+	pt-BR=Afastar: mostra mais do campo de batalha.;
+	}
+
+[Zoom in: shows the battlefield closer.]
+	{
+	pt-BR=Aproximar: mostra o campo de batalha mais de perto.;
+	}
+
+[Order: tap to arm it, then tap where it goes; tap again to take it back.]
+	{
+	pt-BR=Ordem: toque para prepará-la, depois toque no destino. Toque de novo para desfazê-la.;
+	}
+
+[MORE: the other orders, fire and move orders, on and off, cloak and self-destruct.]
+	{
+	pt-BR=MAIS: as outras ordens, ordens de fogo e de movimento, ligar e desligar, camuflar e autodestruição.;
+	}
+
+[BUILD: shows the builder's build pages.]
+	{
+	pt-BR=CONSTRUIR: mostra as páginas de construção do construtor.;
+	}
+
+[Closes the build drawer.]
+	{
+	pt-BR=Fecha a gaveta de construção.;
+	}
+
+[Shows the previous page.]
+	{
+	pt-BR=Mostra a página anterior.;
+	}
+
+[Shows the next page.]
+	{
+	pt-BR=Mostra a próxima página.;
+	}
+
+[CANCEL: stops placing the building.]
+	{
+	pt-BR=CANCELAR: para de posicionar a construção.;
+	}
+
+[Takes back the armed order.]
+	{
+	pt-BR=Desfaz a ordem preparada.;
+	}
+
+[Chooses this item.]
+	{
+	pt-BR=Escolhe este item.;
+	}
+
+[SELF-DESTRUCT: hold to start or stop the selection's self-destruct countdown.]
+	{
+	pt-BR=AUTODESTRUIÇÃO: segure para iniciar ou parar a contagem regressiva de autodestruição da seleção.;
+	}
+
+[Gives this order at the held point.]
+	{
+	pt-BR=Dá esta ordem no ponto pressionado.;
+	}
+
+[QUEUE: the next order picked is queued after the selection's orders.]
+	{
+	pt-BR=FILA: a próxima ordem escolhida entra na fila depois das ordens da seleção.;
+	}
+
+[Closes the open menu.]
+	{
+	pt-BR=Fecha o menu aberto.;
+	}
+
+[FORCE: Ctrl for orders and selecting while held, so a click forces fire on the ground or a friend.]
+	{
+	pt-BR=FORÇAR: Ctrl para ordens e seleção enquanto pressionado, para que um clique force o fogo no chão ou num aliado.;
+	}
+
+[Build ring: presses its build button or toggle, or turns the build page.]
+	{
+	pt-BR=Anel de construção: aperta o botão de construção ou a chave, ou vira a página de construção.;
+	}
+
+[Group: select it, again to centre on it, hold to store the selection in it.]
+	{
+	pt-BR=Grupo: selecione-o, de novo para centralizá-lo, segure para guardar a seleção nele.;
+	}
+
+[FORCE]
+	{
+	pt-BR=FORÇAR;
+	}
+
+[QUEUE]
+	{
+	pt-BR=FILA;
+	}
+
+[ADD]
+	{
+	pt-BR=ADICIONAR;
+	}
+
+[CLEAR]
+	{
+	pt-BR=LIMPAR;
+	}
+
+[STORE]
+	{
+	pt-BR=GUARDAR;
+	}
+
+[PAUSE]
+	{
+	pt-BR=PAUSA;
+	}
+
+[SPEED]
+	{
+	pt-BR=VELOCIDADE;
+	}
+
+[MENU]
+	{
+	pt-BR=MENU;
+	}
+
+[MORE]
+	{
+	pt-BR=MAIS;
+	}
+
+[CLOSE]
+	{
+	pt-BR=FECHAR;
+	}
+
+[SELF-DESTRUCT · HOLD]
+	{
+	pt-BR=AUTODESTRUIÇÃO · SEGURE;
+	}
+
+[DRAG TO MOVE · DOUBLE-TAP OR HOLD TO PLACE]
+	{
+	pt-BR=ARRASTE PARA MOVER · TOQUE DUAS VEZES OU SEGURE PARA POSICIONAR;
+	}
+
+[RELEASE]
+	{
+	pt-BR=SOLTE;
+	}
+
+[GIVE]
+	{
+	pt-BR=EXECUTAR;
+	}
+
+[ARM ORDER]
+	{
+	pt-BR=PREPARAR;
+	}
+
+[Cross]
+	{
+	pt-BR=Xis;
+	}
+
+[Circle]
+	{
+	pt-BR=Círculo;
+	}
+
+[Square]
+	{
+	pt-BR=Quadrado;
+	}
+
+[Triangle]
+	{
+	pt-BR=Triângulo;
+	}
+
+[Minus]
+	{
+	pt-BR=Menos;
+	}
+
+[View]
+	{
+	pt-BR=Exibir;
+	}
+
+[Plus]
+	{
+	pt-BR=Mais;
+	}
+
+[Menu]
+	{
+	pt-BR=Menu;
+	}
+
+[D-pad up]
+	{
+	pt-BR=Direcional para cima;
+	}
+
+[D-pad right]
+	{
+	pt-BR=Direcional para a direita;
+	}
+
+[D-pad down]
+	{
+	pt-BR=Direcional para baixo;
+	}
+
+[D-pad left]
+	{
+	pt-BR=Direcional para a esquerda;
+	}
+
+[left trackpad]
+	{
+	pt-BR=trackpad esquerdo;
+	}
+
+[right trackpad]
+	{
+	pt-BR=trackpad direito;
+	}
+
+[left stick touch]
+	{
+	pt-BR=toque no analógico esquerdo;
+	}
+
+[right stick touch]
+	{
+	pt-BR=toque no analógico direito;
+	}
+
+[1 UNIT]
+	{
+	pt-BR=1 UNIDADE;
+	}
+
+[LATCHED]
+	{
+	pt-BR=FIXADO;
+	}
+
+[Hold to self-destruct]
+	{
+	pt-BR=Segure para autodestruir;
+	}
+
+[DOUBLE TAP OR HOLD TO BUILD · QUEUE ON]
+	{
+	pt-BR=TOQUE DUAS VEZES OU SEGURE PARA CONSTRUIR · FILA LIGADA;
+	}
+
+[DOUBLE TAP OR HOLD TO BUILD]
+	{
+	pt-BR=TOQUE DUAS VEZES OU SEGURE PARA CONSTRUIR;
+	}
+
+[TAP POINTS · QUEUE KEEPS ADDING]
+	{
+	pt-BR=TOQUE OS PONTOS · A FILA CONTINUA ADICIONANDO;
+	}
+
+[TAP A TARGET · ✕ TAKES IT BACK]
+	{
+	pt-BR=TOQUE UM ALVO · ✕ DESFAZ;
+	}
+
+[TAP: {action}]
+	{
+	pt-BR=TOQUE: {action};
+	}
+
+[ENEMY: {action}]
+	{
+	pt-BR=INIMIGO: {action};
+	}
+
+[Place {name}]
+	{
+	pt-BR=Posicionar {name};
+	}
+
+[{order} armed]
+	{
+	pt-BR={order} preparada;
+	}
+
+[Enable Unicode Multiplayer Chat]
+	{
+	pt-BR=Ativar chat multijogador Unicode;
+	}
+
+[Set by the language]
+	{
+	pt-BR=Definido pelo idioma;
+	}
+
+// Network play's notices in the message log, with {slots} where the values go.
+[Autopause: only the host can unpause]
+	{
+	pt-BR=Pausa automática: só o anfitrião pode retomar;
+	}
+[{player} tried to unpause.]
+	{
+	pt-BR={player} tentou retomar.;
+	}
+[{player} has cheats enabled]
+	{
+	pt-BR={player} está com trapaças ativadas;
+	}
+[{player} reports VerCheck issues with {count} other players]
+	{
+	pt-BR={player} relata problemas de VerCheck com {count} outros jogadores;
+	}
+[Vote: reject {player} ({yes} yes/{no} no/{voters}, {seconds}s)]
+	{
+	pt-BR=Votação: rejeitar {player} ({yes} sim/{no} não/{voters}, {seconds}s);
+	}
+[Timeout: reject {player} ({yes} yes/{no} no/{voters}, {seconds}s)]
+	{
+	pt-BR=Tempo esgotado: rejeitar {player} ({yes} sim/{no} não/{voters}, {seconds}s);
+	}
+[{player} rejected]
+	{
+	pt-BR={player} rejeitado;
+	}
+[{player} stays in the game]
+	{
+	pt-BR={player} continua na partida;
+	}
+[Vote Yes or Vote No in the console answers the vote]
+	{
+	pt-BR=Vote Yes ou Vote No no console responde à votação;
+	}
+
+// Whole sentences the engine fills in, with {slots} where the values go.
+[Item {n}]
+	{
+	pt-BR=Item {n};
+	}
+[{on} of {total} on]
+	{
+	pt-BR={on} de {total} ligados;
+	}
+[Show Active Only ({active}/{total})]
+	{
+	pt-BR=Só os ativos ({active}/{total});
+	}
+[Switch to {title} now? The game reloads its data for the new mod and returns to the main menu. Your other settings are kept.]
+	{
+	pt-BR=Trocar para {title} agora? O jogo recarrega seus dados para o novo mod e volta ao menu principal. Suas outras configurações são mantidas.;
+	}
+[{n} UNITS]
+	{
+	pt-BR={n} UNIDADES;
+	}
+
+// The game's title, as the game-files screen and the folder chooser name it.
+[Total Annihilation]
+	{
+	pt-BR=Total Annihilation;
+	}
+[Total Annihilation 3.1c]
+	{
+	pt-BR=Total Annihilation 3.1c;
+	}
+
+// The Library, its update question and why a download fails.
+
+[Library]
+	{
+	pt-BR=Biblioteca;
+	}
+
+[Open Annihilation]
+	{
+	pt-BR=Open Annihilation;
+	}
+
+[list from {age}]
+	{
+	pt-BR=lista de {age};
+	}
+
+[just now]
+	{
+	pt-BR=agora mesmo;
+	}
+
+[{count} min ago]
+	{
+	pt-BR=há {count} min;
+	}
+
+[{count} h ago]
+	{
+	pt-BR=há {count} h;
+	}
+
+[{count} days ago]
+	{
+	pt-BR=há {count} dias;
+	}
+
+[Maps]
+	{
+	pt-BR=Mapas;
+	}
+
+[Languages]
+	{
+	pt-BR=Idiomas;
+	}
+
+[Lang]
+	{
+	pt-BR=Idi.;
+	}
+
+[Updates]
+	{
+	pt-BR=Atualizações;
+	}
+
+[Upd]
+	{
+	pt-BR=Atu.;
+	}
+
+[Search mods, authors, tags]
+	{
+	pt-BR=Buscar mods, autores, tags;
+	}
+
+[Search maps, authors, tags]
+	{
+	pt-BR=Buscar mapas, autores, tags;
+	}
+
+[Search languages]
+	{
+	pt-BR=Buscar idiomas;
+	}
+
+[Search updates]
+	{
+	pt-BR=Buscar atualizações;
+	}
+
+[All]
+	{
+	pt-BR=Todos;
+	}
+
+[Tag: {tag} ({count})]
+	{
+	pt-BR=Tag: {tag} ({count});
+	}
+
+[{tag} ({count})]
+	{
+	pt-BR={tag} ({count});
+	}
+
+[TAGS]
+	{
+	pt-BR=TAGS;
+	}
+
+[{count} update]
+	{
+	pt-BR={count} atualização;
+	}
+
+[{count} updates]
+	{
+	pt-BR={count} atualizações;
+	}
+
+[UPDATE ALL]
+	{
+	pt-BR=ATUALIZAR TUDO;
+	}
+
+[Showing the list from {age}. OA couldn't reach the registries.]
+	{
+	pt-BR=Mostrando a lista de {age}. O OA não conseguiu acessar os repositórios.;
+	}
+
+[Nothing here yet. Turn a registry on in Settings › Downloads.]
+	{
+	pt-BR=Nada aqui ainda. Ative um repositório em Configurações › Downloads.;
+	}
+
+[Nothing matches "{query}".]
+	{
+	pt-BR=Nada corresponde a "{query}".;
+	}
+
+[No updates.]
+	{
+	pt-BR=Nenhuma atualização.;
+	}
+
+[Nothing to show.]
+	{
+	pt-BR=Nada para mostrar.;
+	}
+
+[GET]
+	{
+	pt-BR=OBTER;
+	}
+
+[INSTALLED]
+	{
+	pt-BR=INSTALADO;
+	}
+
+[UPDATE]
+	{
+	pt-BR=ATUALIZAR;
+	}
+
+[{version} · {size}]
+	{
+	pt-BR={version} · {size};
+	}
+
+[{line} · {registry}]
+	{
+	pt-BR={line} · {registry};
+	}
+
+[{version} · rev {revision}]
+	{
+	pt-BR={version} · rev. {revision};
+	}
+
+[rev {revision}]
+	{
+	pt-BR=rev. {revision};
+	}
+
+[{count} map]
+	{
+	pt-BR={count} mapa;
+	}
+
+[{count} maps]
+	{
+	pt-BR={count} mapas;
+	}
+
+[{version} · {maps}]
+	{
+	pt-BR={version} · {maps};
+	}
+
+[{whole}.{tenth}]
+	{
+	pt-BR={whole}.{tenth};
+	}
+
+[{size} KB]
+	{
+	pt-BR={size} KB;
+	}
+
+[{size} MB]
+	{
+	pt-BR={size} MB;
+	}
+
+[{size} GB]
+	{
+	pt-BR={size} GB;
+	}
+
+[by {author}]
+	{
+	pt-BR=por {author};
+	}
+
+[Not installed · {size}]
+	{
+	pt-BR=Não instalado · {size};
+	}
+
+[Revision {revision} available · {size} to download]
+	{
+	pt-BR=Revisão {revision} disponível · {size} para baixar;
+	}
+
+[Version {version} available · {size} to download]
+	{
+	pt-BR=Versão {version} disponível · {size} para baixar;
+	}
+
+[Playing]
+	{
+	pt-BR=Em jogo;
+	}
+
+[Not during a game]
+	{
+	pt-BR=Não durante uma partida;
+	}
+
+[Downloads from {registry} are off (Settings › Downloads)]
+	{
+	pt-BR=Downloads de {registry} desligados (Configurações › Downloads);
+	}
+
+[Needs Open Annihilation {range}]
+	{
+	pt-BR=Requer Open Annihilation {range};
+	}
+
+[Needs the base game {base}]
+	{
+	pt-BR=Requer o jogo base {base};
+	}
+
+[Needs hacks this OA lacks: {hacks}]
+	{
+	pt-BR=Requer ajustes que este OA não tem: {hacks};
+	}
+
+[{hacks} · {count} more]
+	{
+	pt-BR={hacks} · mais {count};
+	}
+
+[Waiting to download]
+	{
+	pt-BR=Aguardando download;
+	}
+
+[Downloading · {progress}]
+	{
+	pt-BR=Baixando · {progress};
+	}
+
+[Downloading]
+	{
+	pt-BR=Baixando;
+	}
+
+[Verifying]
+	{
+	pt-BR=Validando;
+	}
+
+[Installing]
+	{
+	pt-BR=Instalando;
+	}
+
+[Failed]
+	{
+	pt-BR=Falhou;
+	}
+
+[Waiting · finishes when you leave {name}]
+	{
+	pt-BR=Aguardando · termina quando você sair de {name};
+	}
+
+[Size]
+	{
+	pt-BR=Tamanho;
+	}
+
+[{size} · {download} to download]
+	{
+	pt-BR={size} · {download} para baixar;
+	}
+
+[{download} to download]
+	{
+	pt-BR={download} para baixar;
+	}
+
+[Base]
+	{
+	pt-BR=Base;
+	}
+
+[TA 3.1c]
+	{
+	pt-BR=TA 3.1c;
+	}
+
+[Needs]
+	{
+	pt-BR=Requer;
+	}
+
+[Open Annihilation {range}]
+	{
+	pt-BR=Open Annihilation {range};
+	}
+
+[OA {range}]
+	{
+	pt-BR=OA {range};
+	}
+
+[{version} or later]
+	{
+	pt-BR={version} ou posterior;
+	}
+
+[later than {version}]
+	{
+	pt-BR=posterior a {version};
+	}
+
+[{version} or earlier]
+	{
+	pt-BR={version} ou anterior;
+	}
+
+[before {version}]
+	{
+	pt-BR=antes de {version};
+	}
+
+[exactly {version}]
+	{
+	pt-BR=exatamente {version};
+	}
+
+[{version}+]
+	{
+	pt-BR={version}+;
+	}
+
+[after {version}]
+	{
+	pt-BR=depois de {version};
+	}
+
+[up to {version}]
+	{
+	pt-BR=até {version};
+	}
+
+[{version} only]
+	{
+	pt-BR=só {version};
+	}
+
+[Hacks]
+	{
+	pt-BR=Ajustes;
+	}
+
+[{game} change the game · {view} view only]
+	{
+	pt-BR={game} mudam o jogo · {view} só visuais;
+	}
+
+[{game} game · {view} view]
+	{
+	pt-BR={game} de jogo · {view} visuais;
+	}
+
+[{counts} · {missing}]
+	{
+	pt-BR={counts} · {missing};
+	}
+
+[{counts} · {count} missing]
+	{
+	pt-BR={counts} · faltam {count};
+	}
+
+[Rules]
+	{
+	pt-BR=Regras;
+	}
+
+[{from} → {to} same]
+	{
+	pt-BR={from} → {to} iguais;
+	}
+
+[unchanged]
+	{
+	pt-BR=sem mudanças;
+	}
+
+[{from} → {to} · changes the game's rules; saved games from {old} won't load under {new}]
+	{
+	pt-BR={from} → {to} · muda as regras do jogo. Jogos salvos de {old} não carregarão com {new};
+	}
+
+[changes · {old} saves won't load]
+	{
+	pt-BR=muda · jogos salvos de {old} não carregarão;
+	}
+
+[unknown · saved games from {old} may not load under {new}]
+	{
+	pt-BR=desconhecido · jogos salvos de {old} talvez não carreguem com {new};
+	}
+
+[unknown · saves may not load]
+	{
+	pt-BR=desconhecido · jogos salvos talvez não carreguem;
+	}
+
+[revision {revision}]
+	{
+	pt-BR=revisão {revision};
+	}
+
+[Coverage]
+	{
+	pt-BR=Cobertura;
+	}
+
+[{percent}%]
+	{
+	pt-BR={percent}%;
+	}
+
+[From]
+	{
+	pt-BR=De;
+	}
+
+[{registry} · Not reviewed by the OA team]
+	{
+	pt-BR={registry} · Não revisado pela equipe do OA;
+	}
+
+[Your own copy]
+	{
+	pt-BR=Sua própria cópia;
+	}
+
+[✓]
+	{
+	pt-BR=✓;
+	}
+
+[RETRY]
+	{
+	pt-BR=TENTAR NOVAMENTE;
+	}
+
+[HOMEPAGE]
+	{
+	pt-BR=SITE;
+	}
+
+[Finishes when you leave {name}.]
+	{
+	pt-BR=Termina quando você sair de {name}.;
+	}
+
+[You are playing {playing}. Updating {name} doesn't restart the game.]
+	{
+	pt-BR=Você está jogando {playing}. Atualizar {name} não reinicia o jogo.;
+	}
+
+[SETTINGS…]
+	{
+	pt-BR=CONFIGURAÇÕES…;
+	}
+
+[DETAILS]
+	{
+	pt-BR=DETALHES;
+	}
+
+[{name} {version}]
+	{
+	pt-BR={name} {version};
+	}
+
+[Downloading {package} · {progress}]
+	{
+	pt-BR=Baixando {package} · {progress};
+	}
+
+[Downloading {package}]
+	{
+	pt-BR=Baixando {package};
+	}
+
+[Waiting to download {package}]
+	{
+	pt-BR=Aguardando para baixar {package};
+	}
+
+[Verifying {name}]
+	{
+	pt-BR=Validando {name};
+	}
+
+[Checking {name}]
+	{
+	pt-BR=Verificando {name};
+	}
+
+[Installing {name}]
+	{
+	pt-BR=Instalando {name};
+	}
+
+[Installed {name}]
+	{
+	pt-BR={name} instalado;
+	}
+
+[Updated {name} · {new} changes the game's rules · ROLL BACK restores {old}]
+	{
+	pt-BR={name} atualizado · {new} muda as regras do jogo · REVERTER restaura {old};
+	}
+
+[Updated {name} · {new} may change the game's rules · ROLL BACK restores {old}]
+	{
+	pt-BR={name} atualizado · {new} pode mudar as regras do jogo · REVERTER restaura {old};
+	}
+
+[{problem} · RETRY]
+	{
+	pt-BR={problem} · TENTAR NOVAMENTE;
+	}
+
+[Then {package} · {phase}]
+	{
+	pt-BR=Depois, {package} · {phase};
+	}
+
+[{line} · {count} more]
+	{
+	pt-BR={line} · mais {count};
+	}
+
+[waiting]
+	{
+	pt-BR=aguardando;
+	}
+
+[downloading]
+	{
+	pt-BR=baixando;
+	}
+
+[verifying]
+	{
+	pt-BR=validando;
+	}
+
+[checking]
+	{
+	pt-BR=verificando;
+	}
+
+[installing]
+	{
+	pt-BR=instalando;
+	}
+
+[after you leave it]
+	{
+	pt-BR=depois que você sair;
+	}
+
+[failed]
+	{
+	pt-BR=falhou;
+	}
+
+[installed]
+	{
+	pt-BR=instalado;
+	}
+
+[{name} {percent}%]
+	{
+	pt-BR={name} {percent}%;
+	}
+
+[{name} · rules changed]
+	{
+	pt-BR={name} · regras mudaram;
+	}
+
+[{name} · {phase}]
+	{
+	pt-BR={name} · {phase};
+	}
+
+[Update {name}]
+	{
+	pt-BR=Atualizar {name};
+	}
+
+[Update all]
+	{
+	pt-BR=Atualizar tudo;
+	}
+
+[{name} {version} · revision {from} → {to}]
+	{
+	pt-BR={name} {version} · revisão {from} → {to};
+	}
+
+[{name} {from} → {to}]
+	{
+	pt-BR={name} {from} → {to};
+	}
+
+[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and ROLL BACK brings it back.]
+	{
+	pt-BR={To} muda as regras do jogo. Jogos salvos de {from} não carregarão com {to}. {From} fica guardado, e REVERTER o traz de volta.;
+	}
+
+[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and ROLL BACK brings it back.]
+	{
+	pt-BR=O OA não sabe dizer se {to} muda as regras do jogo. Se mudar, jogos salvos de {from} não carregarão com ele. {From} fica guardado, e REVERTER o traz de volta.;
+	}
+
+[It finishes when you leave {name}.]
+	{
+	pt-BR=Termina quando você sair de {name}.;
+	}
+
+[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and ROLL BACK brings it back.]
+	{
+	pt-BR=1 atualização muda as regras do jogo: {names}. Jogos salvos da versão atual não carregarão com a nova. Ela fica guardada, e REVERTER a traz de volta.;
+	}
+
+[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and ROLL BACK brings it back.]
+	{
+	pt-BR={count} atualizações mudam as regras do jogo: {names}. Jogos salvos das versões atuais não carregarão com as novas. Cada uma fica guardada, e REVERTER a traz de volta.;
+	}
+
+[{names} and {count} more]
+	{
+	pt-BR={names} e mais {count};
+	}
+
+[{label}: {value}]
+	{
+	pt-BR={label}: {value};
+	}
+
+[{from} → {to}]
+	{
+	pt-BR={from} → {to};
+	}
+
+[unknown]
+	{
+	pt-BR=desconhecido;
+	}
+
+[Download]
+	{
+	pt-BR=Baixar;
+	}
+
+[NOT NOW]
+	{
+	pt-BR=AGORA NÃO;
+	}
+
+[the server could not be reached]
+	{
+	pt-BR=não foi possível acessar o servidor;
+	}
+
+[the registry refused the download]
+	{
+	pt-BR=o repositório recusou o download;
+	}
+
+[the registry no longer offers this release]
+	{
+	pt-BR=o repositório não oferece mais esta versão;
+	}
+
+[downloads are off for this registry]
+	{
+	pt-BR=os downloads estão desligados para este repositório;
+	}
+
+[there is not enough free space]
+	{
+	pt-BR=não há espaço livre suficiente;
+	}
+
+[the download was not the file the catalogue promised]
+	{
+	pt-BR=o download não era o arquivo que o catálogo prometia;
+	}
+
+[the server's file is not the size the catalogue promised]
+	{
+	pt-BR=o arquivo do servidor não tem o tamanho que o catálogo prometia;
+	}
+
+[the check expired]
+	{
+	pt-BR=a verificação expirou;
+	}
+
+[the package was refused]
+	{
+	pt-BR=o pacote foi recusado;
+	}
+
+[the package could not be installed]
+	{
+	pt-BR=não foi possível instalar o pacote;
+	}
+
+[the download could not be written]
+	{
+	pt-BR=não foi possível gravar o download;
+	}
+
+[the catalogue has no such package]
+	{
+	pt-BR=o catálogo não tem esse pacote;
+	}
+
+[the download could not be started]
+	{
+	pt-BR=não foi possível iniciar o download;
+	}
+
+[downloads are off]
+	{
+	pt-BR=os downloads estão desligados;
+	}
+
+[that package is already being downloaded]
+	{
+	pt-BR=esse pacote já está sendo baixado;
+	}
+
+// Settings › Downloads, Language and Mods, and the missing-language notice.
+
+[Use English]
+	{
+	pt-BR=Usar inglês;
+	}
+
+[Try again]
+	{
+	pt-BR=Tentar novamente;
+	}
+
+[Downloads]
+	{
+	pt-BR=Downloads;
+	}
+
+[DOWNLOADS]
+	{
+	pt-BR=DOWNLOADS;
+	}
+
+[The file manager could not open it.]
+	{
+	pt-BR=O gerenciador de arquivos não conseguiu abri-lo.;
+	}
+
+[No file manager is there to open it.]
+	{
+	pt-BR=Não há gerenciador de arquivos para abri-lo.;
+	}
+
+[The folder cannot be made.]
+	{
+	pt-BR=Não é possível criar a pasta.;
+	}
+
+[AVAILABLE TO DOWNLOAD]
+	{
+	pt-BR=DISPONÍVEIS PARA BAIXAR;
+	}
+
+[downloads off]
+	{
+	pt-BR=downloads desligados;
+	}
+
+[not reviewed]
+	{
+	pt-BR=não revisado;
+	}
+
+[community]
+	{
+	pt-BR=comunidade;
+	}
+
+[kB]
+	{
+	pt-BR=kB;
+	}
+
+[MB]
+	{
+	pt-BR=MB;
+	}
+
+[Downloads, then switches to it.]
+	{
+	pt-BR=Baixa e depois muda para ele.;
+	}
+
+[. Choose it again to try again.]
+	{
+	pt-BR=. Escolha-o de novo para tentar outra vez.;
+	}
+
+[MORE IN THE LIBRARY…]
+	{
+	pt-BR=MAIS NA BIBLIOTECA…;
+	}
+
+[More languages are in the Library.]
+	{
+	pt-BR=Há mais idiomas na Biblioteca.;
+	}
+
+[fps]
+	{
+	pt-BR=fps;
+	}
+
+[Interface size]
+	{
+	pt-BR=Tamanho da interface;
+	}
+
+[Auto]
+	{
+	pt-BR=Auto;
+	}
+
+[Steam Input]
+	{
+	pt-BR=Steam Input;
+	}
+
+[UI kit gallery]
+	{
+	pt-BR=Galeria do kit de interface;
+	}
+
+[Every part of OA's own screens, in each of its states, at this size.]
+	{
+	pt-BR=Cada parte das telas do próprio OA, em cada um de seus estados, neste tamanho.;
+	}
+
+[Check for content updates]
+	{
+	pt-BR=Procurar atualizações de conteúdo;
+	}
+
+[Automatically]
+	{
+	pt-BR=Automaticamente;
+	}
+
+[Only when I open the Library]
+	{
+	pt-BR=Só ao abrir a Biblioteca;
+	}
+
+[Never]
+	{
+	pt-BR=Nunca;
+	}
+
+[OA looks for new content and updates in the registries' lists. It never installs anything until you say so.]
+	{
+	pt-BR=O OA procura conteúdo novo e atualizações nas listas dos repositórios. Ele nunca instala nada até você mandar.;
+	}
+
+[Install ID]
+	{
+	pt-BR=ID de instalação;
+	}
+
+[A random number that lets {name} stop automated downloads. Turned off, you can browse the Library, but downloads are off. Installed content keeps working.]
+	{
+	pt-BR=Um número aleatório que permite a {name} interromper downloads automatizados. Desligado, você pode navegar pela Biblioteca, mas os downloads ficam desligados. O conteúdo instalado continua funcionando.;
+	}
+
+[Made at your first download]
+	{
+	pt-BR=Criado no seu primeiro download;
+	}
+
+[RESET]
+	{
+	pt-BR=REDEFINIR;
+	}
+
+[Downloaded files]
+	{
+	pt-BR=Arquivos baixados;
+	}
+
+[Nothing kept]
+	{
+	pt-BR=Nada guardado;
+	}
+
+[EMPTY]
+	{
+	pt-BR=ESVAZIAR;
+	}
+
+[Registries]
+	{
+	pt-BR=Repositórios;
+	}
+
+[{name} only]
+	{
+	pt-BR=só {name};
+	}
+
+[{n} on of {m}]
+	{
+	pt-BR={n} de {m} ligados;
+	}
+
+[‹ DOWNLOADS]
+	{
+	pt-BR=‹ DOWNLOADS;
+	}
+
+[Built in]
+	{
+	pt-BR=Integrado;
+	}
+
+[{n} package]
+	{
+	pt-BR={n} pacote;
+	}
+
+[{n} packages]
+	{
+	pt-BR={n} pacotes;
+	}
+
+[checked {age}]
+	{
+	pt-BR=verificado {age};
+	}
+
+[not checked yet]
+	{
+	pt-BR=ainda não verificado;
+	}
+
+[couldn't reach]
+	{
+	pt-BR=inacessível;
+	}
+
+[{n} min ago]
+	{
+	pt-BR=há {n} min;
+	}
+
+[{n} h ago]
+	{
+	pt-BR=há {n} h;
+	}
+
+[1 day ago]
+	{
+	pt-BR=há 1 dia;
+	}
+
+[{n} days ago]
+	{
+	pt-BR=há {n} dias;
+	}
+
+[{n} mirror]
+	{
+	pt-BR={n} espelho;
+	}
+
+[{n} mirrors]
+	{
+	pt-BR={n} espelhos;
+	}
+
+[UNDO]
+	{
+	pt-BR=DESFAZER;
+	}
+
+[Removed when you press OK]
+	{
+	pt-BR=Removido ao apertar OK;
+	}
+
+[ADD MIRROR…]
+	{
+	pt-BR=ADICIONAR ESPELHO…;
+	}
+
+[Choose from the main menu.]
+	{
+	pt-BR=Escolha no menu principal.;
+	}
+
+[Content from these registries isn't reviewed by the OA team. OA still checks every package before using it.]
+	{
+	pt-BR=O conteúdo destes repositórios não é revisado pela equipe do OA. O OA ainda verifica cada pacote antes de usá-lo.;
+	}
+
+[Content from registries other than {names} isn't reviewed by the OA team. OA still checks every package before using it.]
+	{
+	pt-BR=O conteúdo de repositórios que não sejam {names} não é revisado pela equipe do OA. O OA ainda verifica cada pacote antes de usá-lo.;
+	}
+
+[ADD REGISTRY…]
+	{
+	pt-BR=ADICIONAR REPOSITÓRIO…;
+	}
+
+// The map browser, GET MAP, and the questions that install a map pack or a language.
+
+[MORE MAPS…]
+	{
+	pt-BR=MAIS MAPAS…;
+	}
+
+[Doesn't fit {game}: {reason}]
+	{
+	pt-BR=Incompatível com {game}: {reason};
+	}
+
+[Skirmish · playing {mod}]
+	{
+	pt-BR=Escaramuça · jogando {mod};
+	}
+
+[Battle room · playing {mod}]
+	{
+	pt-BR=Sala de batalha · jogando {mod};
+	}
+
+[Base game]
+	{
+	pt-BR=Jogo base;
+	}
+
+[Online]
+	{
+	pt-BR=Online;
+	}
+
+[PLAYERS]
+	{
+	pt-BR=JOGADORES;
+	}
+
+[2]
+	{
+	pt-BR=2;
+	}
+
+[3]
+	{
+	pt-BR=3;
+	}
+
+[4]
+	{
+	pt-BR=4;
+	}
+
+[5–10]
+	{
+	pt-BR=5–10;
+	}
+
+[SIZE]
+	{
+	pt-BR=TAMANHO;
+	}
+
+[S]
+	{
+	pt-BR=P;
+	}
+
+[M]
+	{
+	pt-BR=M;
+	}
+
+[L]
+	{
+	pt-BR=G;
+	}
+
+[Search maps]
+	{
+	pt-BR=Buscar mapas;
+	}
+
+[Loading preview]
+	{
+	pt-BR=Carregando prévia;
+	}
+
+[No preview]
+	{
+	pt-BR=Sem prévia;
+	}
+
+[{players} · {size}]
+	{
+	pt-BR={players} · {size};
+	}
+
+[Doesn't fit]
+	{
+	pt-BR=Incompatível;
+	}
+
+[No map matches these filters]
+	{
+	pt-BR=Nenhum mapa corresponde a estes filtros;
+	}
+
+[Choose a map]
+	{
+	pt-BR=Escolha um mapa;
+	}
+
+[1 player]
+	{
+	pt-BR=1 jogador;
+	}
+
+[{count} players]
+	{
+	pt-BR={count} jogadores;
+	}
+
+[Fits {game} ✓]
+	{
+	pt-BR=Compatível com {game} ✓;
+	}
+
+[Doesn't fit {game}]
+	{
+	pt-BR=Incompatível com {game};
+	}
+
+[Fit with {game} is checked when it's installed]
+	{
+	pt-BR=A compatibilidade com {game} é verificada na instalação;
+	}
+
+[Its catalogue says it does not fit {game}.]
+	{
+	pt-BR=O catálogo dele diz que é incompatível com {game}.;
+	}
+
+[The map list does not hold this map.]
+	{
+	pt-BR=A lista de mapas não contém este mapa.;
+	}
+
+[The download could not start: {reason}]
+	{
+	pt-BR=Não foi possível iniciar o download: {reason};
+	}
+
+[The pack was not installed: {reason}]
+	{
+	pt-BR=O pacote não foi instalado: {reason};
+	}
+
+[Cancel]
+	{
+	pt-BR=Cancelar;
+	}
+
+[Select]
+	{
+	pt-BR=Selecionar;
+	}
+
+[Download and select]
+	{
+	pt-BR=Baixar e selecionar;
+	}
+
+[Downloading…]
+	{
+	pt-BR=Baixando…;
+	}
+
+[GET MAP]
+	{
+	pt-BR=OBTER MAPA;
+	}
+
+[{pack} {version} · {size} from {registry}]
+	{
+	pt-BR={pack} {version} · {size} de {registry};
+	}
+
+[Add {registry} to get {pack}]
+	{
+	pt-BR=Adicione {registry} para obter {pack};
+	}
+
+[You have release {mine} of {pack}; the host plays release {theirs}.]
+	{
+	pt-BR=Você tem a versão {mine} de {pack}. O anfitrião joga a versão {theirs}.;
+	}
+
+[The host's release of {pack} is no longer offered by {registry}.]
+	{
+	pt-BR={registry} não oferece mais a versão de {pack} do anfitrião.;
+	}
+
+[Downloads from {registry} are off (Settings › Downloads).]
+	{
+	pt-BR=Os downloads de {registry} estão desligados (Configurações › Downloads).;
+	}
+
+[Downloading {pack} · {done} of {size}]
+	{
+	pt-BR=Baixando {pack} · {done} de {size};
+	}
+
+[Couldn't get {pack}: {reason}]
+	{
+	pt-BR=Não foi possível obter {pack}: {reason};
+	}
+
+[NOT INSTALLED]
+	{
+	pt-BR=NÃO INSTALADO;
+	}
+
+[{file} is not a package Open Annihilation installs.]
+	{
+	pt-BR={file} não é um pacote que o Open Annihilation instala.;
+	}
+
+[Checking {file}...]
+	{
+	pt-BR=Verificando {file}...;
+	}
+
+[INSTALLING MAP PACK]
+	{
+	pt-BR=INSTALANDO PACOTE DE MAPAS;
+	}
+
+[INSTALL MAP PACK]
+	{
+	pt-BR=INSTALAR PACOTE DE MAPAS;
+	}
+
+[Install the map pack {name} {version} ({n} maps)?]
+	{
+	pt-BR=Instalar o pacote de mapas {name} {version} ({n} mapas)?;
+	}
+
+[INSTALL]
+	{
+	pt-BR=INSTALAR;
+	}
+
+[UPDATE MAP PACK]
+	{
+	pt-BR=ATUALIZAR PACOTE DE MAPAS;
+	}
+
+[The version installed is kept, and can be brought back.]
+	{
+	pt-BR=A versão instalada fica guardada e pode ser restaurada.;
+	}
+
+[The version kept, which cannot be read, is removed.]
+	{
+	pt-BR=A versão guardada, que não pode ser lida, é removida.;
+	}
+
+[The version kept ({backup}) is removed.]
+	{
+	pt-BR=A versão guardada ({backup}) é removida.;
+	}
+
+[REINSTALL MAP PACK]
+	{
+	pt-BR=REINSTALAR PACOTE DE MAPAS;
+	}
+
+[The version kept stays.]
+	{
+	pt-BR=A versão guardada permanece.;
+	}
+
+[REPLACE MAP PACK]
+	{
+	pt-BR=SUBSTITUIR PACOTE DE MAPAS;
+	}
+
+[Replace {name} from {old} with the one from {new}?]
+	{
+	pt-BR=Substituir {name} de {old} pelo de {new}?;
+	}
+
+[{title} {installed} is installed. Replace it with {incoming} from {file}?]
+	{
+	pt-BR={title} {installed} está instalado. Substituí-lo por {incoming} de {file}?;
+	}
+
+[MAP PACK INSTALLED]
+	{
+	pt-BR=PACOTE DE MAPAS INSTALADO;
+	}
+
+[{title} {version} is installed in your Maps folder:]
+	{
+	pt-BR={title} {version} está instalado na sua pasta Maps:;
+	}
+
+[MAP PACK UPDATED]
+	{
+	pt-BR=PACOTE DE MAPAS ATUALIZADO;
+	}
+
+[{title} is now {new}. {old} is kept, and can be brought back.]
+	{
+	pt-BR={title} agora está na versão {new}. {old} fica guardado e pode ser restaurado.;
+	}
+
+[{title} is back to {new}. {old} is kept, and can be brought back.]
+	{
+	pt-BR={title} voltou para {new}. {old} fica guardado e pode ser restaurado.;
+	}
+
+[MAP PACK NOT INSTALLED]
+	{
+	pt-BR=PACOTE DE MAPAS NÃO INSTALADO;
+	}
+
+[It holds no oamap.yaml at its top, or in a single folder at its top.]
+	{
+	pt-BR=Não contém oamap.yaml na raiz, nem numa única pasta na raiz.;
+	}
+
+[Its oamap.yaml is larger than 256 KiB.]
+	{
+	pt-BR=Seu oamap.yaml tem mais de 256 KiB.;
+	}
+
+[Its oamap.yaml has errors:]
+	{
+	pt-BR=Seu oamap.yaml tem erros:;
+	}
+
+[It unpacks to {size}, more than the {limit} a map pack may take.]
+	{
+	pt-BR=Descompactado, ocupa {size}, mais que os {limit} permitidos a um pacote de mapas.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a map pack's files take.]
+	{
+	pt-BR=Descompactado, passa de {packed} para {size}, muito mais do que os arquivos de um pacote de mapas ocupam.;
+	}
+
+[It holds more than {limit} folders, more than a map pack may take.]
+	{
+	pt-BR=Contém mais de {limit} pastas, mais do que um pacote de mapas pode ter.;
+	}
+
+[It needs {size} free, and the disk holding your Maps folder has {free}.]
+	{
+	pt-BR=Requer {size} livres, e o disco da sua pasta Maps tem {free}.;
+	}
+
+[Your Maps folder has no free folder name for it.]
+	{
+	pt-BR=Sua pasta Maps não tem um nome de pasta livre para ele.;
+	}
+
+[Your Maps folder changed while this map pack was being installed; nothing was changed. Open the file again.]
+	{
+	pt-BR=Sua pasta Maps mudou enquanto este pacote de mapas era instalado. Nada foi alterado. Abra o arquivo de novo.;
+	}
+
+[Another copy of Open Annihilation is changing your Maps folder. Try again once it has finished.]
+	{
+	pt-BR=Outra cópia do Open Annihilation está alterando sua pasta Maps. Tente novamente quando ela terminar.;
+	}
+
+[It is not a kind of package this game installs.]
+	{
+	pt-BR=Não é um tipo de pacote que este jogo instala.;
+	}
+
+[The pack lists {name}, which it does not hold.]
+	{
+	pt-BR=O pacote lista {name}, que ele não contém.;
+	}
+
+[The pack holds {name}, which no map uses.]
+	{
+	pt-BR=O pacote contém {name}, que nenhum mapa usa.;
+	}
+
+[The pack holds {name}, which no map uses: it is outside the folders a map pack may hold.]
+	{
+	pt-BR=O pacote contém {name}, que nenhum mapa usa: está fora das pastas que um pacote de mapas pode ter.;
+	}
+
+[The preview {name} is not a PNG.]
+	{
+	pt-BR=A prévia {name} não é um PNG.;
+	}
+
+[The preview {name} is larger than 2 MiB.]
+	{
+	pt-BR=A prévia {name} tem mais de 2 MiB.;
+	}
+
+[It needs a different Open Annihilation.]
+	{
+	pt-BR=Requer outro Open Annihilation.;
+	}
+
+[A map in the pack does not fit the base game.]
+	{
+	pt-BR=Um mapa do pacote é incompatível com o jogo base.;
+	}
+
+[The folder {name} does not hold this map pack. It is left as it is.]
+	{
+	pt-BR=A pasta {name} não contém este pacote de mapas. Ela é deixada como está.;
+	}
+
+[INSTALLING LANGUAGE]
+	{
+	pt-BR=INSTALANDO IDIOMA;
+	}
+
+[INSTALL LANGUAGE]
+	{
+	pt-BR=INSTALAR IDIOMA;
+	}
+
+[Install the language {endonym} ({english})?]
+	{
+	pt-BR=Instalar o idioma {endonym} ({english})?;
+	}
+
+[UPDATE LANGUAGE]
+	{
+	pt-BR=ATUALIZAR IDIOMA;
+	}
+
+[REINSTALL LANGUAGE]
+	{
+	pt-BR=REINSTALAR IDIOMA;
+	}
+
+[REPLACE LANGUAGE]
+	{
+	pt-BR=SUBSTITUIR IDIOMA;
+	}
+
+[The folder {tag} does not hold this language. Replace it with {endonym} ({english}) from {file}? It is kept, and can be brought back.]
+	{
+	pt-BR=A pasta {tag} não contém este idioma. Substituí-la por {endonym} ({english}) de {file}? Ela fica guardada e pode ser restaurada.;
+	}
+
+[LANGUAGE INSTALLED]
+	{
+	pt-BR=IDIOMA INSTALADO;
+	}
+
+[{endonym} ({english}) {version} is installed in your Languages folder:]
+	{
+	pt-BR={endonym} ({english}) {version} está instalado na sua pasta Languages:;
+	}
+
+[LANGUAGE UPDATED]
+	{
+	pt-BR=IDIOMA ATUALIZADO;
+	}
+
+[LANGUAGE NOT INSTALLED]
+	{
+	pt-BR=IDIOMA NÃO INSTALADO;
+	}
+
+[It holds no language.yaml.]
+	{
+	pt-BR=Não contém language.yaml.;
+	}
+
+[Its language.yaml has errors.]
+	{
+	pt-BR=Seu language.yaml tem erros.;
+	}
+
+[It lists a font it does not hold: {name}.]
+	{
+	pt-BR=Lista uma fonte que não contém: {name}.;
+	}
+
+[A font in the pack cannot be opened.]
+	{
+	pt-BR=Não é possível abrir uma fonte do pacote.;
+	}
+
+[Its font {name} cannot be opened.]
+	{
+	pt-BR=Não é possível abrir a fonte {name}.;
+	}
+
+[Its warm-up text cannot be read.]
+	{
+	pt-BR=Não é possível ler o texto de pré-carga.;
+	}
+
+[A table in the pack does not parse.]
+	{
+	pt-BR=Uma tabela do pacote não pode ser lida.;
+	}
+
+[REPLACE MOD]
+	{
+	pt-BR=SUBSTITUIR MOD;
+	}
+
+[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and ROLL BACK brings it back.]
+	{
+	pt-BR={name} de {installed} está instalado. Substituí-lo por {name} de {new}? O de {installed} fica guardado, e REVERTER o traz de volta.;
+	}
+
+[{folder} is a folder of your own, not {name}. Move or rename it, then RETRY.]
+	{
+	pt-BR={folder} é uma pasta sua, não {name}. Mova-a ou renomeie-a e depois use TENTAR NOVAMENTE.;
+	}
+
+[{n} KB]
+	{
+	pt-BR={n} KB;
+	}
+
+[{n} MB]
+	{
+	pt-BR={n} MB;
+	}
+
+[{n} GB]
+	{
+	pt-BR={n} GB;
+	}
+
+[{n} TB]
+	{
+	pt-BR={n} TB;
+	}
+
+// The game files screen's sizes and parts, and the touch controls' x5.
+
+[Aa]
+	{
+	pt-BR=Aa;
+	}
+
+[Core Contingency]
+	{
+	pt-BR=Core Contingency;
+	}
+
+[Battle Tactics]
+	{
+	pt-BR=Battle Tactics;
+	}
+
+[{source} · {cloud}]
+	{
+	pt-BR={source} · {cloud};
+	}
+
+[x5]
+	{
+	pt-BR=x5;
+	}
+
+[3.1c]
+	{
+	pt-BR=3.1c;
+	}
+
+[{a} · {b}]
+	{
+	pt-BR={a} · {b};
+	}
+
+// More of 0.8's interface words, as oa-tool interface-words lists them.
+
+[,]
+	{
+	pt-BR=,;
+	}
+
+[·]
+	{
+	pt-BR=·;
+	}
+
+[OPEN ANNIHILATION]
+	{
+	pt-BR=OPEN ANNIHILATION;
+	}
+
+[The download failed]
+	{
+	pt-BR=O download falhou;
+	}
+
+[Checked against the keys you trust for {name}]
+	{
+	pt-BR=Verificado com as chaves em que você confia para {name};
+	}
+
+[Checking {address}…]
+	{
+	pt-BR=Verificando {address}…;
+	}
+
+[From {file}]
+	{
+	pt-BR=De {file};
+	}
+
+[Mirror of {name}]
+	{
+	pt-BR=Espelho de {name};
+	}
+
+// The Library's and Settings' later words.
+
+[Welcome to Open Annihilation]
+	{
+	pt-BR=Boas-vindas ao Open Annihilation;
+	}
+
+[Welcome]
+	{
+	pt-BR=Boas-vindas;
+	}
+
+[WELCOME]
+	{
+	pt-BR=BOAS-VINDAS;
+	}
+
+[Choose your language.]
+	{
+	pt-BR=Escolha seu idioma.;
+	}
+
+[Skip setup]
+	{
+	pt-BR=Pular configuração;
+	}
+
+[Start playing]
+	{
+	pt-BR=Começar a jogar;
+	}
+
+[Back]
+	{
+	pt-BR=Voltar;
+	}
+
+[Next]
+	{
+	pt-BR=Avançar;
+	}
+
+[Previous]
+	{
+	pt-BR=Anterior;
+	}
+
+[Get]
+	{
+	pt-BR=Obter;
+	}
+
+[Cancel download]
+	{
+	pt-BR=Cancelar download;
+	}
+
+[Retry]
+	{
+	pt-BR=Tentar novamente;
+	}
+
+[Checking…]
+	{
+	pt-BR=Verificando…;
+	}
+
+[Couldn't download]
+	{
+	pt-BR=Falha no download;
+	}
+
+[Offline]
+	{
+	pt-BR=Offline;
+	}
+
+[Active]
+	{
+	pt-BR=Ativo;
+	}
+
+[English]
+	{
+	pt-BR=Inglês;
+	}
+
+[of]
+	{
+	pt-BR=de;
+	}
+
+[Other languages download from Core Prime. The first download makes a random install ID, which a later step explains.]
+	{
+	pt-BR=Os outros idiomas são baixados do Core Prime. O primeiro download cria um ID de instalação aleatório, explicado num passo adiante.;
+	}
+
+[Downloads are off, so language packs stay offline.]
+	{
+	pt-BR=Os downloads estão desligados, então os pacotes de idioma ficam offline.;
+	}
+
+[The catalogue could not be read, so language packs stay offline.]
+	{
+	pt-BR=Não foi possível ler o catálogo, então os pacotes de idioma ficam offline.;
+	}
+
+[ONLINE]
+	{
+	pt-BR=ONLINE;
+	}
+
+[ONLINE FEATURES]
+	{
+	pt-BR=RECURSOS ONLINE;
+	}
+
+[Downloads, updates and a number only you hold]
+	{
+	pt-BR=Downloads, atualizações e um número que só você tem;
+	}
+
+[Get language packs, mods and map packs from Core Prime.]
+	{
+	pt-BR=Obtenha pacotes de idioma, mods e pacotes de mapas do Core Prime.;
+	}
+
+[Lists of what is new are checked as the game starts and when the Library opens.]
+	{
+	pt-BR=As listas de novidades são verificadas quando o jogo inicia e quando a Biblioteca abre.;
+	}
+
+[A random install ID, one per registry, is sent only when downloading from that registry.]
+	{
+	pt-BR=Um ID de instalação aleatório, um por repositório, é enviado só ao baixar daquele repositório.;
+	}
+
+[Your install ID]
+	{
+	pt-BR=Seu ID de instalação;
+	}
+
+[A random 128-bit number, made the first time you download from a registry, not when the game starts. Each registry that asks has its own. Core Prime asks for one. It is sent only when asking that registry for a download. Turning it off forgets it, and downloads from that registry stop. Built-in languages and files you open keep working.]
+	{
+	pt-BR=Um número aleatório de 128 bits, criado na primeira vez que você baixa de um repositório, não quando o jogo inicia. Cada repositório que pede tem o seu. O Core Prime pede um. Ele só é enviado ao pedir um download àquele repositório. Desligá-lo faz com que seja esquecido, e os downloads daquele repositório param. Os idiomas integrados e os arquivos que você abre continuam funcionando.;
+	}
+
+[Turn on online features]
+	{
+	pt-BR=Ativar recursos online;
+	}
+
+[Not now]
+	{
+	pt-BR=Agora não;
+	}
+
+[Check for content updates stays at Automatically, and Core Prime's install ID stays on.]
+	{
+	pt-BR=Procurar atualizações de conteúdo continua em Automaticamente, e o ID de instalação do Core Prime continua ligado.;
+	}
+
+[Check for content updates is set to Never, and Core Prime's install ID is turned off.]
+	{
+	pt-BR=Procurar atualizações de conteúdo fica em Nunca, e o ID de instalação do Core Prime é desligado.;
+	}
+
+[THE MAIN MENU]
+	{
+	pt-BR=O MENU PRINCIPAL;
+	}
+
+[{step} · {index} OF {count}]
+	{
+	pt-BR={step} · {index} DE {count};
+	}
+
+[Two buttons for everything Open Annihilation adds]
+	{
+	pt-BR=Dois botões para tudo o que o Open Annihilation acrescenta;
+	}
+
+[Settings]
+	{
+	pt-BR=Configurações;
+	}
+
+[Get, update and switch mods, map packs and languages. The number counts every package you have added: mods, map packs, language packs and expansions.]
+	{
+	pt-BR=Obtenha, atualize e troque mods, pacotes de mapas e idiomas. O número conta todos os pacotes que você adicionou: mods, pacotes de mapas, pacotes de idioma e expansões.;
+	}
+
+[Open Annihilation's own settings: controls, graphics, the interface's size, downloads and your files.]
+	{
+	pt-BR=As configurações do próprio Open Annihilation: controles, gráficos, tamanho da interface, downloads e seus arquivos.;
+	}
+
+[The Library is where you get mods, map packs and languages. Settings is where you change how Open Annihilation looks and plays. Everything else on this menu is the game's own.]
+	{
+	pt-BR=Na Biblioteca você obtém mods, pacotes de mapas e idiomas. Em Configurações você muda a aparência e o jeito de jogar do Open Annihilation. Todo o resto deste menu é do próprio jogo.;
+	}
+
+[Engine Limits]
+	{
+	pt-BR=Limites do motor;
+	}
+
+[ENGINE LIMITS]
+	{
+	pt-BR=LIMITES DO MOTOR;
+	}
+
+[Language & Text]
+	{
+	pt-BR=Idioma e texto;
+	}
+
+[LANGUAGE & TEXT]
+	{
+	pt-BR=IDIOMA E TEXTO;
+	}
+
+[User Interface]
+	{
+	pt-BR=Interface;
+	}
+
+[USER INTERFACE]
+	{
+	pt-BR=INTERFACE;
+	}
+
+[System]
+	{
+	pt-BR=Sistema;
+	}
+
+[SYSTEM]
+	{
+	pt-BR=SISTEMA;
+	}
+
+[Welcome setup]
+	{
+	pt-BR=Configuração inicial;
+	}
+
+[SHOW AGAIN]
+	{
+	pt-BR=MOSTRAR DE NOVO;
+	}
+
+[Walk through the language, online features and the OA buttons again.]
+	{
+	pt-BR=Rever o idioma, os recursos online e os botões do OA.;
+	}
+
+[File Type Registration]
+	{
+	pt-BR=Registro de tipos de arquivo;
+	}
+
+[File types]
+	{
+	pt-BR=Tipos de arquivo;
+	}
+
+[Mod packages (.oamod)]
+	{
+	pt-BR=Pacotes de mod (.oamod);
+	}
+
+[Map packs (.oamap)]
+	{
+	pt-BR=Pacotes de mapas (.oamap);
+	}
+
+[Language packs (.oalang)]
+	{
+	pt-BR=Pacotes de idioma (.oalang);
+	}
+
+[Registry files (.oareg)]
+	{
+	pt-BR=Arquivos de repositório (.oareg);
+	}
+
+[The system takes these file types from the app.]
+	{
+	pt-BR=O sistema obtém estes tipos de arquivo do próprio aplicativo.;
+	}
+
+[and]
+	{
+	pt-BR=e;
+	}
+
+[macOS kept Open Annihilation as the opener of {types}. To choose another, select a {types} file in Finder, then File › Get Info › Open with › Change All.]
+	{
+	pt-BR=O macOS manteve o Open Annihilation como o app que abre {types}. Para escolher outro, selecione um arquivo {types} no Finder e depois Arquivo › Obter Informações › Abrir com › Alterar Tudo.;
+	}
+
+[macOS kept Open Annihilation as the opener of {types}. To choose another, select one of them in Finder, then File › Get Info › Open with › Change All.]
+	{
+	pt-BR=O macOS manteve o Open Annihilation como o app que abre {types}. Para escolher outro, selecione um deles no Finder e depois Arquivo › Obter Informações › Abrir com › Alterar Tudo.;
+	}
+
+[This system reads HTTPS registries over HTTP.]
+	{
+	pt-BR=Este sistema lê repositórios HTTPS por HTTP.;
+	}
+
+[REGISTRIES IN THE LIBRARY…]
+	{
+	pt-BR=REPOSITÓRIOS NA BIBLIOTECA…;
+	}
+
+[Registries are in the Library.]
+	{
+	pt-BR=Os repositórios estão na Biblioteca.;
+	}
+
+[MOD]
+	{
+	pt-BR=MOD;
+	}
+
+[MAPS]
+	{
+	pt-BR=MAPAS;
+	}
+
+[SWITCH OFF]
+	{
+	pt-BR=DESATIVAR;
+	}
+
+[UNLOAD MOD]
+	{
+	pt-BR=DESATIVAR MOD;
+	}
+
+[UNINSTALL]
+	{
+	pt-BR=DESINSTALAR;
+	}
+
+[{language} · built in]
+	{
+	pt-BR={language} · integrado;
+	}
+
+[Coverage {percent}%]
+	{
+	pt-BR=Cobertura {percent}%;
+	}
+
+[From {pack}]
+	{
+	pt-BR=De {pack};
+	}
+
+[{count} player]
+	{
+	pt-BR={count} jogador;
+	}
+
+[{map} · {players} · {size}]
+	{
+	pt-BR={map} · {players} · {size};
+	}
+
+[No map packs are installed.]
+	{
+	pt-BR=Nenhum pacote de mapas instalado.;
+	}
+
+[New]
+	{
+	pt-BR=Novos;
+	}
+
+[{filter} ({count})]
+	{
+	pt-BR={filter} ({count});
+	}
+
+[{tab} ({count})]
+	{
+	pt-BR={tab} ({count});
+	}
+
+[Author]
+	{
+	pt-BR=Autor;
+	}
+
+[Latest]
+	{
+	pt-BR=Mais recente;
+	}
+
+[{version} (rev {revision})]
+	{
+	pt-BR={version} (rev. {revision});
+	}
+
+[Update available · {size} to download]
+	{
+	pt-BR=Atualização disponível · {size} para baixar;
+	}
+
+[the old copy]
+	{
+	pt-BR=a cópia antiga;
+	}
+
+[the new copy]
+	{
+	pt-BR=a cópia nova;
+	}
+
+[old]
+	{
+	pt-BR=antiga;
+	}
+
+[new]
+	{
+	pt-BR=nova;
+	}
+
+[offline]
+	{
+	pt-BR=offline;
+	}
+
+[Platform]
+	{
+	pt-BR=Plataforma;
+	}
+
+[Reg]
+	{
+	pt-BR=Rep.;
+	}
+
+[Refresh]
+	{
+	pt-BR=Atualizar lista;
+	}
+
+[Refreshing]
+	{
+	pt-BR=Atualizando lista;
+	}
+
+[REFRESH]
+	{
+	pt-BR=ATUALIZAR;
+	}
+
+[refreshed {age}]
+	{
+	pt-BR=atualizado {age};
+	}
+
+[never refreshed]
+	{
+	pt-BR=nunca atualizado;
+	}
+
+[Signing key]
+	{
+	pt-BR=Chave de assinatura;
+	}
+
+[Signing keys]
+	{
+	pt-BR=Chaves de assinatura;
+	}
+
+[built in]
+	{
+	pt-BR=integrada;
+	}
+
+[added by you]
+	{
+	pt-BR=adicionada por você;
+	}
+
+[No signing key]
+	{
+	pt-BR=Sem chave de assinatura;
+	}
+
+[Map packs can't be uninstalled during a game.]
+	{
+	pt-BR=Não é possível desinstalar pacotes de mapas durante uma partida.;
+	}
+
+[It is in the download queue: CANCEL it before you uninstall it.]
+	{
+	pt-BR=Ele está na fila de download: use CANCELAR antes de desinstalá-lo.;
+	}
+
+[Uninstall {name}]
+	{
+	pt-BR=Desinstalar {name};
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed.]
+	{
+	pt-BR=Desinstalar {name}? A pasta dele, {folder}, será removida.;
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy ROLL BACK keeps.]
+	{
+	pt-BR=Desinstalar {name}? A pasta dele, {folder}, será removida, e com ela a cópia que REVERTER guarda.;
+	}
+
+[GET installs it again.]
+	{
+	pt-BR=OBTER o instala de novo.;
+	}
+
+[No registry lists it, so the Library cannot get it again.]
+	{
+	pt-BR=Nenhum repositório o lista, então a Biblioteca não pode obtê-lo de novo.;
+	}
+
+[You are playing {name}. Switch it off first with SWITCH OFF, then uninstall it.]
+	{
+	pt-BR=Você está jogando {name}. Desative-o primeiro com DESATIVAR e depois desinstale-o.;
+	}
+
+[The game is shown in {name}. Choose another language in Settings › Language first, then uninstall it.]
+	{
+	pt-BR=O jogo está em {name}. Escolha outro idioma em Configurações › Idioma primeiro e depois desinstale-o.;
+	}
+
+[{name} was not uninstalled. {reason}]
+	{
+	pt-BR={name} não foi desinstalado. {reason};
+	}
+
+[Open Annihilation, or another copy of it, is still changing its folder. Try again in a moment.]
+	{
+	pt-BR=O Open Annihilation, ou outra cópia dele, ainda está alterando a pasta. Tente novamente em instantes.;
+	}
+
+[Its folder changed since the Library listed it. Try again.]
+	{
+	pt-BR=A pasta mudou desde que a Biblioteca a listou. Tente novamente.;
+	}
+
+[Its folder is a link, and OA never removes what a link leads to. OPEN FOLDER shows it.]
+	{
+	pt-BR=A pasta é um link, e o OA nunca remove o destino de um link. ABRIR PASTA a mostra.;
+	}
+
+[Its folder is not in your own Open Annihilation folder, and OA removes nothing outside it.]
+	{
+	pt-BR=A pasta não está na sua própria pasta do Open Annihilation, e o OA não remove nada fora dela.;
+	}
+
+[Its folder could not be moved; another program may be using it. Close it, then try again.]
+	{
+	pt-BR=Não foi possível mover a pasta. Outro programa pode estar usando-a. Feche-o e tente novamente.;
+	}
+
+[The version installed is kept, and ROLL BACK in the Library brings it back.]
+	{
+	pt-BR=A versão instalada fica guardada, e REVERTER na Biblioteca a traz de volta.;
+	}
+
+[Revision {installed} is kept, and ROLL BACK in the Library brings it back.]
+	{
+	pt-BR=A revisão {installed} fica guardada, e REVERTER na Biblioteca a traz de volta.;
+	}
+
+[Replacing keeps {installed}, and ROLL BACK in the Library brings it back.]
+	{
+	pt-BR=A substituição guarda {installed}, e REVERTER na Biblioteca o traz de volta.;
+	}
+
+[Choose PLAY NOW to play it, or choose it later with PLAY NOW in the Library.]
+	{
+	pt-BR=Escolha JOGAR AGORA para jogá-lo, ou escolha-o depois com JOGAR AGORA na Biblioteca.;
+	}
+
+[Choose it with PLAY NOW in the Library to play it.]
+	{
+	pt-BR=Para jogá-lo, escolha-o com JOGAR AGORA na Biblioteca.;
+	}
+
+[{title} is now {new}. {old} is kept, and ROLL BACK in the Library brings it back.]
+	{
+	pt-BR={title} agora está na versão {new}. {old} fica guardado, e REVERTER na Biblioteca o traz de volta.;
+	}
+
+[It is still copied, so it can be fixed in your file manager; the Library's Mods tab plays only mods that work.]
+	{
+	pt-BR=Ele é copiado mesmo assim, para que possa ser consertado no seu gerenciador de arquivos. A aba Mods da Biblioteca só roda mods que funcionam.;
+	}
+
+[Built into the game]
+	{
+	pt-BR=Integrado ao jogo;
+	}
+
+[Close]
+	{
+	pt-BR=Fechar;
+	}
+
+[In use]
+	{
+	pt-BR=Em uso;
+	}
+
+[No installed map matches.]
+	{
+	pt-BR=Nenhum mapa instalado corresponde.;
+	}
+
+[USE NOW]
+	{
+	pt-BR=USAR AGORA;
+	}
+
+[{shown} of {all}]
+	{
+	pt-BR={shown} de {all};
+	}
+
+// Setup, Game Content, the map browser, expansions and more Settings
+// rows.
+
+["{title}" was saved with {name}, which is off.]
+	{
+	pt-BR="{title}" foi salvo com {name}, que está desativado.;
+	}
+
+["{title}" was saved with {name}.]
+	{
+	pt-BR="{title}" foi salvo com {name}.;
+	}
+
+[1 file differs]
+	{
+	pt-BR=1 arquivo difere;
+	}
+
+[1 of {total} files differs]
+	{
+	pt-BR=1 de {total} arquivos difere;
+	}
+
+[1997]
+	{
+	pt-BR=1997;
+	}
+
+[A]
+	{
+	pt-BR=A;
+	}
+
+[A continues. B goes back.]
+	{
+	pt-BR=A continua. B volta.;
+	}
+
+[A drag draws a selection box; two fingers scroll the map.]
+	{
+	pt-BR=Arrastar desenha uma caixa de seleção, e dois dedos rolam o mapa.;
+	}
+
+[A drag scrolls the map; hold, then drag, for a selection box.]
+	{
+	pt-BR=Arrastar rola o mapa. Segure e arraste para uma caixa de seleção.;
+	}
+
+[A middle click pans the view towards the pointer until you click or press a key.]
+	{
+	pt-BR=Um clique do botão do meio move a visão em direção ao ponteiro até você clicar ou apertar uma tecla.;
+	}
+
+[A tapped QUEUE, ADD or x5 stays on until it is tapped again.]
+	{
+	pt-BR=FILA, ADICIONAR ou x5, quando tocados, ficam ligados até serem tocados de novo.;
+	}
+
+[A tapped QUEUE, ADD or x5 turns off after the next order or selection.]
+	{
+	pt-BR=FILA, ADICIONAR ou x5, quando tocados, desligam após a próxima ordem ou seleção.;
+	}
+
+[A window hides its title bar and borders while a game is played; menus show them.]
+	{
+	pt-BR=A janela esconde a barra de título e as bordas durante a partida. Os menus as mostram.;
+	}
+
+[A window shows its title bar and borders on every screen, a game's included.]
+	{
+	pt-BR=A janela mostra a barra de título e as bordas em todas as telas, inclusive na partida.;
+	}
+
+[After restoring this {device} from a backup, add the game files again.]
+	{
+	pt-BR=Depois de restaurar este {device} de um backup, adicione os arquivos do jogo de novo.;
+	}
+
+[All files match]
+	{
+	pt-BR=Todos os arquivos coincidem;
+	}
+
+[Any]
+	{
+	pt-BR=Qualquer;
+	}
+
+[Applications]
+	{
+	pt-BR=Aplicativos;
+	}
+
+[As far as the view always went: 1/6 of normal size with Full hardware acceleration, else 1/2.]
+	{
+	pt-BR=Até onde a visão sempre foi: 1/6 do tamanho normal com a aceleração por hardware em Completo, senão 1/2.;
+	}
+
+[Automatic: a selection box on a tablet, scrolling on a phone.]
+	{
+	pt-BR=Automático: caixa de seleção num tablet, rolagem num celular.;
+	}
+
+[B]
+	{
+	pt-BR=B;
+	}
+
+[BASE GAME]
+	{
+	pt-BR=JOGO BASE;
+	}
+
+[Battle room · No Mod]
+	{
+	pt-BR=Sala de batalha · Sem mod;
+	}
+
+[Bottles]
+	{
+	pt-BR=Bottles;
+	}
+
+[CHANGE…]
+	{
+	pt-BR=ALTERAR…;
+	}
+
+[COPYING]
+	{
+	pt-BR=COPIANDO;
+	}
+
+[Campaign]
+	{
+	pt-BR=Campanha;
+	}
+
+[Cavedog tilesets]
+	{
+	pt-BR=Tilesets da Cavedog;
+	}
+
+[Cavedog units]
+	{
+	pt-BR=Unidades da Cavedog;
+	}
+
+[Chat in any language with players who have it; others see ? for letters they lack.]
+	{
+	pt-BR=Converse em qualquer idioma com jogadores que também o ativaram. Os outros veem ? no lugar das letras que não têm.;
+	}
+
+[Check again]
+	{
+	pt-BR=Verificar de novo;
+	}
+
+[Checking… {percent}%]
+	{
+	pt-BR=Verificando… {percent}%;
+	}
+
+[Choosing another base game turns on all of its expansions and unloads the mod you are playing ({mod}). The change applies when the Library closes.]
+	{
+	pt-BR=Escolher outro jogo base ativa todas as expansões dele e desativa o mod que você está jogando ({mod}). A mudança vale quando a Biblioteca fecha.;
+	}
+
+[Choosing another base game turns on all of its expansions. The change applies when the Library closes.]
+	{
+	pt-BR=Escolher outro jogo base ativa todas as expansões dele. A mudança vale quando a Biblioteca fecha.;
+	}
+
+[Choosing it asks for the demo installer, then copies it. It takes no expansions.]
+	{
+	pt-BR=Ao escolhê-lo, o instalador da demo é pedido e depois copiado. Ele não aceita expansões.;
+	}
+
+[Choosing it asks for the game, then copies it.]
+	{
+	pt-BR=Ao escolhê-lo, o jogo é pedido e depois copiado.;
+	}
+
+[Continue]
+	{
+	pt-BR=Continuar;
+	}
+
+[Copied]
+	{
+	pt-BR=Copiado;
+	}
+
+[Copied from {source}]
+	{
+	pt-BR=Copiado de {source};
+	}
+
+[Copies go to Documents › Open Annihilation]
+	{
+	pt-BR=As cópias vão para Documentos › Open Annihilation;
+	}
+
+[Copy again from…]
+	{
+	pt-BR=Copiar de novo de…;
+	}
+
+[Copy the game]
+	{
+	pt-BR=Copiar o jogo;
+	}
+
+[Copying Total Annihilation]
+	{
+	pt-BR=Copiando Total Annihilation;
+	}
+
+[DETAILS…]
+	{
+	pt-BR=DETALHES…;
+	}
+
+[Demo]
+	{
+	pt-BR=Demo;
+	}
+
+[Different from the host: a file does not match.]
+	{
+	pt-BR=Diferente do anfitrião: um arquivo não coincide.;
+	}
+
+[Different from the host: another base game ({name}).]
+	{
+	pt-BR=Diferente do anfitrião: outro jogo base ({name}).;
+	}
+
+[Different from the host: no {name}.]
+	{
+	pt-BR=Diferente do anfitrião: sem {name}.;
+	}
+
+[Different from the host: {name} is on.]
+	{
+	pt-BR=Diferente do anfitrião: {name} está ativado.;
+	}
+
+[Documents]
+	{
+	pt-BR=Documentos;
+	}
+
+[Dots farther out than 1/12 of normal size. Closer in, units are drawn as models.]
+	{
+	pt-BR=Pontos abaixo de 1/12 do tamanho normal. Mais perto, as unidades são desenhadas como modelos.;
+	}
+
+[Dots farther out than 1/16 of normal size. Closer in, units are drawn as models.]
+	{
+	pt-BR=Pontos abaixo de 1/16 do tamanho normal. Mais perto, as unidades são desenhadas como modelos.;
+	}
+
+[Dots farther out than 1/2 of normal size. Closer in, units are drawn as models.]
+	{
+	pt-BR=Pontos abaixo de 1/2 do tamanho normal. Mais perto, as unidades são desenhadas como modelos.;
+	}
+
+[Dots farther out than 1/3 of normal size. Closer in, units are drawn as models.]
+	{
+	pt-BR=Pontos abaixo de 1/3 do tamanho normal. Mais perto, as unidades são desenhadas como modelos.;
+	}
+
+[Dots farther out than 1/4 of normal size. Closer in, units are drawn as models.]
+	{
+	pt-BR=Pontos abaixo de 1/4 do tamanho normal. Mais perto, as unidades são desenhadas como modelos.;
+	}
+
+[Dots farther out than 1/6 of normal size. Closer in, units are drawn as models.]
+	{
+	pt-BR=Pontos abaixo de 1/6 do tamanho normal. Mais perto, as unidades são desenhadas como modelos.;
+	}
+
+[Dots farther out than 1/8 of normal size. Closer in, units are drawn as models.]
+	{
+	pt-BR=Pontos abaixo de 1/8 do tamanho normal. Mais perto, as unidades são desenhadas como modelos.;
+	}
+
+[Downloaded]
+	{
+	pt-BR=Baixado;
+	}
+
+[EXPANSION INSTALLED]
+	{
+	pt-BR=EXPANSÃO INSTALADA;
+	}
+
+[EXPANSION NOT INSTALLED]
+	{
+	pt-BR=EXPANSÃO NÃO INSTALADA;
+	}
+
+[EXPANSIONS]
+	{
+	pt-BR=EXPANSÕES;
+	}
+
+[EXPANSIONS · {on} OF {count} ON]
+	{
+	pt-BR=EXPANSÕES · {on} DE {count} ATIVAS;
+	}
+
+[Expansions]
+	{
+	pt-BR=Expansões;
+	}
+
+[Explosions do not light up the ground, whatever a mod asks for.]
+	{
+	pt-BR=As explosões não iluminam o chão, seja o que for que um mod peça.;
+	}
+
+[Explosions light up the ground as the game drew it, or less where a mod asks.]
+	{
+	pt-BR=As explosões iluminam o chão como o jogo desenhava, ou menos onde um mod pedir.;
+	}
+
+[Explosions light up the ground at half strength, or less where a mod asks.]
+	{
+	pt-BR=As explosões iluminam o chão com metade da força, ou menos onde um mod pedir.;
+	}
+
+[FOUND]
+	{
+	pt-BR=ENCONTRADOS;
+	}
+
+[Files that differ:]
+	{
+	pt-BR=Arquivos que diferem:;
+	}
+
+[Filter]
+	{
+	pt-BR=Filtrar;
+	}
+
+[Finder's Get Info › Open with chooses another opener.]
+	{
+	pt-BR=Obter Informações › Abrir com, no Finder, escolhe outro app para abrir.;
+	}
+
+[For the Total Annihilation demo only]
+	{
+	pt-BR=Só para a demo de Total Annihilation;
+	}
+
+[For {name} only]
+	{
+	pt-BR=Só para {name};
+	}
+
+[Free]
+	{
+	pt-BR=Livre;
+	}
+
+[From {place}…]
+	{
+	pt-BR=De {place}…;
+	}
+
+[Full screen at this size, or a window of it. Applies when you press OK.]
+	{
+	pt-BR=Tela cheia neste tamanho, ou uma janela desse tamanho. Vale ao apertar OK.;
+	}
+
+[GAME CONTENT]
+	{
+	pt-BR=CONTEÚDO DO JOGO;
+	}
+
+[GAMES]
+	{
+	pt-BR=JOGOS;
+	}
+
+[GAMES ON THIS DECK]
+	{
+	pt-BR=JOGOS NESTE DECK;
+	}
+
+[GOG installer (Windows)]
+	{
+	pt-BR=Instalador da GOG (Windows);
+	}
+
+[GOG installer (macOS)]
+	{
+	pt-BR=Instalador da GOG (macOS);
+	}
+
+[GOG installer (older Macs)]
+	{
+	pt-BR=Instalador da GOG (Macs antigos);
+	}
+
+[GOG installer for Windows]
+	{
+	pt-BR=Instalador da GOG para Windows;
+	}
+
+[GOG installer for macOS]
+	{
+	pt-BR=Instalador da GOG para macOS;
+	}
+
+[GOG installer for older Macs]
+	{
+	pt-BR=Instalador da GOG para Macs antigos;
+	}
+
+[Game]
+	{
+	pt-BR=Jogo;
+	}
+
+[Game Content]
+	{
+	pt-BR=Conteúdo do jogo;
+	}
+
+[Game content]
+	{
+	pt-BR=Conteúdo do jogo;
+	}
+
+[Games]
+	{
+	pt-BR=Jogos;
+	}
+
+[Heroic]
+	{
+	pt-BR=Heroic;
+	}
+
+[Holds {bundles}.]
+	{
+	pt-BR=Contém {bundles}.;
+	}
+
+[Home]
+	{
+	pt-BR=Pasta pessoal;
+	}
+
+[How large Open Annihilation's own screens are drawn. Auto suits the window's height.]
+	{
+	pt-BR=O tamanho em que as telas do próprio Open Annihilation são desenhadas. Auto se ajusta à altura da janela.;
+	}
+
+[INSTALLING EXPANSION]
+	{
+	pt-BR=INSTALANDO EXPANSÃO;
+	}
+
+[If OA stops, the copy carries on from here next time.]
+	{
+	pt-BR=Se o OA parar, a cópia continua daqui na próxima vez.;
+	}
+
+[In Full the card draws 16x16 samples a pixel and scales them down for smoother edges.]
+	{
+	pt-BR=No Completo, a placa desenha 16x16 amostras por pixel e as reduz para bordas mais suaves.;
+	}
+
+[In Full the card draws 16x16 samples a pixel the most this window allows, scaled down.]
+	{
+	pt-BR=No Completo, a placa desenha 16x16 amostras por pixel, o máximo que esta janela permite, e as reduz.;
+	}
+
+[In Full the card draws 2x2 samples a pixel and scales them down for smoother edges.]
+	{
+	pt-BR=No Completo, a placa desenha 2x2 amostras por pixel e as reduz para bordas mais suaves.;
+	}
+
+[In Full the card draws 2x2 samples a pixel the most this window allows, scaled down.]
+	{
+	pt-BR=No Completo, a placa desenha 2x2 amostras por pixel, o máximo que esta janela permite, e as reduz.;
+	}
+
+[In Full the card draws 4x4 samples a pixel and scales them down for smoother edges.]
+	{
+	pt-BR=No Completo, a placa desenha 4x4 amostras por pixel e as reduz para bordas mais suaves.;
+	}
+
+[In Full the card draws 4x4 samples a pixel the most this window allows, scaled down.]
+	{
+	pt-BR=No Completo, a placa desenha 4x4 amostras por pixel, o máximo que esta janela permite, e as reduz.;
+	}
+
+[In Full the card draws 8x8 samples a pixel and scales them down for smoother edges.]
+	{
+	pt-BR=No Completo, a placa desenha 8x8 amostras por pixel e as reduz para bordas mais suaves.;
+	}
+
+[In Full the card draws 8x8 samples a pixel the most this window allows, scaled down.]
+	{
+	pt-BR=No Completo, a placa desenha 8x8 amostras por pixel, o máximo que esta janela permite, e as reduz.;
+	}
+
+[In Full the graphics card draws the view 1:1; a level draws it finer for smoother edges.]
+	{
+	pt-BR=No Completo, a placa de vídeo desenha a imagem em 1:1. Um nível a desenha mais fina para bordas mais suaves.;
+	}
+
+[In to 2x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	pt-BR=Aproxima até no máximo 2x o tamanho normal. A roda, o gesto de pinça e o controle param aí.;
+	}
+
+[In to 3x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	pt-BR=Aproxima até no máximo 3x o tamanho normal. A roda, o gesto de pinça e o controle param aí.;
+	}
+
+[In to 4x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	pt-BR=Aproxima até no máximo 4x o tamanho normal. A roda, o gesto de pinça e o controle param aí.;
+	}
+
+[Install the expansion {name}?]
+	{
+	pt-BR=Instalar a expansão {name}?;
+	}
+
+[It holds no oaexp.yaml at its top, or in a single folder at its top.]
+	{
+	pt-BR=Não contém oaexp.yaml na raiz, nem numa única pasta na raiz.;
+	}
+
+[It is not one of the game's expansions.]
+	{
+	pt-BR=Não é uma das expansões do jogo.;
+	}
+
+[Its oaexp.yaml has errors.]
+	{
+	pt-BR=Seu oaexp.yaml tem erros.;
+	}
+
+[Its oaexp.yaml is larger than 256 KiB.]
+	{
+	pt-BR=Seu oaexp.yaml tem mais de 256 KiB.;
+	}
+
+[Locate another…]
+	{
+	pt-BR=Localizar outro…;
+	}
+
+[Lutris]
+	{
+	pt-BR=Lutris;
+	}
+
+[Middle-click pans]
+	{
+	pt-BR=Clique do meio move a visão;
+	}
+
+[Mirrors the roles: the left pad points, the right pad moves the map, triggers and grips swap.]
+	{
+	pt-BR=Inverte os papéis: o trackpad esquerdo aponta, o direito move o mapa, e gatilhos e botões traseiros trocam de lado.;
+	}
+
+[Modern fonts for in-game text, including internationalization.]
+	{
+	pt-BR=Fontes modernas no texto do jogo, incluindo a internacionalização.;
+	}
+
+[NOW]
+	{
+	pt-BR=AGORA;
+	}
+
+[Needs {names} · on]
+	{
+	pt-BR=Requer {names} · ativados;
+	}
+
+[Needs {names}, which are off]
+	{
+	pt-BR=Requer {names}, que estão desativados;
+	}
+
+[Needs {name} · on]
+	{
+	pt-BR=Requer {name} · ativado;
+	}
+
+[Needs {name}, which is off]
+	{
+	pt-BR=Requer {name}, que está desativado;
+	}
+
+[Needs {name}, which is off.]
+	{
+	pt-BR=Requer {name}, que está desativado.;
+	}
+
+[Never closer than normal size. The wheel, a pinch and a controller stop there.]
+	{
+	pt-BR=Nunca mais perto que o tamanho normal. A roda, o gesto de pinça e o controle param aí.;
+	}
+
+[Not added]
+	{
+	pt-BR=Não adicionado;
+	}
+
+[Nothing is installed and your files are not changed.]
+	{
+	pt-BR=Nada é instalado e seus arquivos não são alterados.;
+	}
+
+[OA copies the game once. The installation is left as it is.]
+	{
+	pt-BR=O OA copia o jogo uma vez. A instalação fica como está.;
+	}
+
+[OA plays from its own copy in Documents › Open Annihilation. The installation is not used or changed.]
+	{
+	pt-BR=O OA roda a partir da própria cópia em Documentos › Open Annihilation. A instalação não é usada nem alterada.;
+	}
+
+[Open]
+	{
+	pt-BR=Abrir;
+	}
+
+[Open folder]
+	{
+	pt-BR=Abrir pasta;
+	}
+
+[Open these files with the game from your file manager.]
+	{
+	pt-BR=Abra estes arquivos com o jogo a partir do seu gerenciador de arquivos.;
+	}
+
+[Out to 1/16 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	pt-BR=Afasta até 1/16 do tamanho normal, ou o mapa inteiro. A opção Unidades ao afastar, em Gráficos, define a aparência das unidades.;
+	}
+
+[Out to 1/2 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	pt-BR=Afasta até 1/2 do tamanho normal, ou o mapa inteiro. A opção Unidades ao afastar, em Gráficos, define a aparência das unidades.;
+	}
+
+[Out to 1/32 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	pt-BR=Afasta até 1/32 do tamanho normal, ou o mapa inteiro. A opção Unidades ao afastar, em Gráficos, define a aparência das unidades.;
+	}
+
+[Out to 1/4 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	pt-BR=Afasta até 1/4 do tamanho normal, ou o mapa inteiro. A opção Unidades ao afastar, em Gráficos, define a aparência das unidades.;
+	}
+
+[Out to 1/8 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	pt-BR=Afasta até 1/8 do tamanho normal, ou o mapa inteiro. A opção Unidades ao afastar, em Gráficos, define a aparência das unidades.;
+	}
+
+[Out until the whole map fits the view. Graphics' Zoomed out units says how units look.]
+	{
+	pt-BR=Afasta até o mapa inteiro caber na tela. A opção Unidades ao afastar, em Gráficos, define a aparência das unidades.;
+	}
+
+[PLACES]
+	{
+	pt-BR=LOCAIS;
+	}
+
+[Past After zoom, each unit is a dot of its owner's colour, framed while selected.]
+	{
+	pt-BR=Além do Limite de zoom, cada unidade é um ponto da cor do dono, com moldura quando selecionada.;
+	}
+
+[Pause]
+	{
+	pt-BR=Pausa;
+	}
+
+[Program Files]
+	{
+	pt-BR=Program Files;
+	}
+
+[Quit]
+	{
+	pt-BR=Sair;
+	}
+
+[SELECTED]
+	{
+	pt-BR=SELECIONADO;
+	}
+
+[Select a folder or an installer.]
+	{
+	pt-BR=Selecione uma pasta ou um instalador.;
+	}
+
+[Setup]
+	{
+	pt-BR=Configuração;
+	}
+
+[Skip]
+	{
+	pt-BR=Pular;
+	}
+
+[Skirmish · No Mod]
+	{
+	pt-BR=Escaramuça · Sem mod;
+	}
+
+[Steam · Proton]
+	{
+	pt-BR=Steam · Proton;
+	}
+
+[Sticky]
+	{
+	pt-BR=Fixo;
+	}
+
+[Switching to {name} restarts the game's files, then loads this save.]
+	{
+	pt-BR=Trocar para {name} reinicia os arquivos do jogo e depois carrega este jogo salvo.;
+	}
+
+[TA demo installer]
+	{
+	pt-BR=Instalador da demo de TA;
+	}
+
+[THE GAME]
+	{
+	pt-BR=O JOGO;
+	}
+
+[THE SAVE]
+	{
+	pt-BR=O JOGO SALVO;
+	}
+
+[TURN OFF]
+	{
+	pt-BR=DESATIVAR;
+	}
+
+[TURN ON {name}]
+	{
+	pt-BR=ATIVAR {name};
+	}
+
+[The display's own pixel density (Retina on a Mac). Applies from the next start.]
+	{
+	pt-BR=A densidade de pixels da própria tela (Retina num Mac). Vale a partir da próxima inicialização.;
+	}
+
+[The expansion holds {name}, which it does not have.]
+	{
+	pt-BR=A expansão contém {name}, que não faz parte dela.;
+	}
+
+[The expansion is missing {name}.]
+	{
+	pt-BR=Falta {name} na expansão.;
+	}
+
+[The file {name} is not the expansion's file.]
+	{
+	pt-BR=O arquivo {name} não é o arquivo da expansão.;
+	}
+
+[The first press clears the selection, the second opens the menu.]
+	{
+	pt-BR=Na primeira vez, limpa a seleção. Na segunda, abre o menu.;
+	}
+
+[The following content for your game does not match our expected sizes:]
+	{
+	pt-BR=O seguinte conteúdo do seu jogo não tem os tamanhos esperados:;
+	}
+
+[The game OA plays. Mods, maps and languages say which base games they work with.]
+	{
+	pt-BR=O jogo que o OA roda. Mods, mapas e idiomas dizem com quais jogos base funcionam.;
+	}
+
+[The game cannot start until the content matches.]
+	{
+	pt-BR=A partida não pode começar até que o conteúdo coincida.;
+	}
+
+[The game cannot start until the host turns it on, or {player} turns it off.]
+	{
+	pt-BR=A partida não pode começar até que o anfitrião o ative, ou {player} o desative.;
+	}
+
+[The game cannot start until {player} turns it on, or the host turns it off.]
+	{
+	pt-BR=A partida não pode começar até que {player} o ative, ou o anfitrião o desative.;
+	}
+
+[The game could not be copied.]
+	{
+	pt-BR=Não foi possível copiar o jogo.;
+	}
+
+[The game still plays with these files, but network games with other players may not start, and recordings may not replay the same. Copy the content again from another source to fix it.]
+	{
+	pt-BR=O jogo ainda funciona com estes arquivos, mas partidas em rede com outros jogadores podem não começar, e gravações podem não se repetir igual. Copie o conteúdo de novo de outra fonte para corrigir.;
+	}
+
+[The game's own text and unit names, where its data has them in the language.]
+	{
+	pt-BR=O texto do próprio jogo e os nomes das unidades, onde os dados dele os têm no idioma.;
+	}
+
+[The installer of the Total Annihilation demo (1997).]
+	{
+	pt-BR=O instalador da demo de Total Annihilation (1997).;
+	}
+
+[The largest whole-number scale that fits: smaller menus, every pixel square.]
+	{
+	pt-BR=A maior escala inteira que cabe: menus menores, todo pixel quadrado.;
+	}
+
+[The menus fill the window, every pixel as wide as the next.]
+	{
+	pt-BR=Os menus preenchem a janela, cada pixel tão largo quanto o vizinho.;
+	}
+
+[The menus fill the window, unfiltered, as the game always drew them.]
+	{
+	pt-BR=Os menus preenchem a janela, sem filtro, como o jogo sempre os desenhou.;
+	}
+
+[The minimap and the thumb controls on the right, the orders on the left.]
+	{
+	pt-BR=O minimapa e os controles de polegar à direita, as ordens à esquerda.;
+	}
+
+[The mod was unloaded because an expansion it needs is off. The game plays with No Mod.]
+	{
+	pt-BR=O mod foi desativado porque uma expansão de que ele precisa está desligada. O jogo roda sem mod.;
+	}
+
+[The pointer leaves a window's edge, as before.]
+	{
+	pt-BR=O ponteiro sai pela borda da janela, como antes.;
+	}
+
+[The pointer rests on the edge so the view scrolls.]
+	{
+	pt-BR=O ponteiro para na borda, e a visão rola.;
+	}
+
+[The right stick moves the pointer and the left stick the map.]
+	{
+	pt-BR=O analógico direito move o ponteiro, e o esquerdo, o mapa.;
+	}
+
+[The right stick moves the pointer, as in the Sticks scheme.]
+	{
+	pt-BR=O analógico direito move o ponteiro, como no esquema Analógicos.;
+	}
+
+[The right trackpad points and the left one moves the map; a pad without trackpads plays Sticks.]
+	{
+	pt-BR=O trackpad direito aponta e o esquerdo move o mapa. Um controle sem trackpads usa Analógicos.;
+	}
+
+[The side panel and bars grow with the window, up to twice the original game's size.]
+	{
+	pt-BR=O painel lateral e as barras crescem com a janela, até o dobro do tamanho do jogo original.;
+	}
+
+[The side panel and bars keep the original game's size on every window.]
+	{
+	pt-BR=O painel lateral e as barras mantêm o tamanho do jogo original em qualquer janela.;
+	}
+
+[The size of game text in the modern fonts. Larger sizes are easier to read.]
+	{
+	pt-BR=O tamanho do texto do jogo nas fontes modernas. Tamanhos maiores são mais fáceis de ler.;
+	}
+
+[The size of game text in the modern fonts. The game's own fonts have fixed sizes.]
+	{
+	pt-BR=O tamanho do texto do jogo nas fontes modernas. As fontes do próprio jogo têm tamanhos fixos.;
+	}
+
+[The size of the touch controls; the game's own screens keep theirs.]
+	{
+	pt-BR=O tamanho dos controles de toque. As telas do próprio jogo mantêm o delas.;
+	}
+
+[The view stays on the map, as the game kept it. With more than the map in view, it is centred.]
+	{
+	pt-BR=A visão fica no mapa, como o jogo a mantinha. Quando cabe mais que o mapa na tela, ele fica centralizado.;
+	}
+
+[This base game is used when the Library closes.]
+	{
+	pt-BR=Este jogo base é usado quando a Biblioteca fecha.;
+	}
+
+[This game has no expansions.]
+	{
+	pt-BR=Este jogo não tem expansões.;
+	}
+
+[This map is for the TA demo.]
+	{
+	pt-BR=Este mapa é para a demo de TA.;
+	}
+
+[This map is for {name}.]
+	{
+	pt-BR=Este mapa é para {name}.;
+	}
+
+[This run names its content, so it cannot switch.]
+	{
+	pt-BR=Esta execução define seu conteúdo, então não pode trocar.;
+	}
+
+[This save needs other content]
+	{
+	pt-BR=Este jogo salvo requer outro conteúdo;
+	}
+
+[To Documents › Open Annihilation › Games and Expansions]
+	{
+	pt-BR=Para Documentos › Open Annihilation › Games e Expansions;
+	}
+
+[Total Annihilation demo]
+	{
+	pt-BR=Demo de Total Annihilation;
+	}
+
+[Total Annihilation demo (1997)]
+	{
+	pt-BR=Demo de Total Annihilation (1997);
+	}
+
+[Total Annihilation: Commander Pack. Recognised by its size. The game is read out of it; nothing is installed.]
+	{
+	pt-BR=Total Annihilation: Commander Pack. Reconhecido pelo tamanho. O jogo é lido dele, nada é instalado.;
+	}
+
+[Turn it on in the Library.]
+	{
+	pt-BR=Ative na Biblioteca.;
+	}
+
+[Turn off {name}?]
+	{
+	pt-BR=Desativar {name}?;
+	}
+
+[Turn on and load]
+	{
+	pt-BR=Ativar e carregar;
+	}
+
+[Turning it on applies when the Library closes, and then PLAY NOW works.]
+	{
+	pt-BR=A ativação vale quando a Biblioteca fecha, e então JOGAR AGORA funciona.;
+	}
+
+[Turning it on applies when the Library closes, and then USE NOW works.]
+	{
+	pt-BR=A ativação vale quando a Biblioteca fecha, e então USAR AGORA funciona.;
+	}
+
+[Turning it on applies when the Library closes.]
+	{
+	pt-BR=A ativação vale quando a Biblioteca fecha.;
+	}
+
+[Turning them on applies when the Library closes, and then PLAY NOW works.]
+	{
+	pt-BR=A ativação vale quando a Biblioteca fecha, e então JOGAR AGORA funciona.;
+	}
+
+[Turning them on applies when the Library closes, and then USE NOW works.]
+	{
+	pt-BR=A ativação vale quando a Biblioteca fecha, e então USAR AGORA funciona.;
+	}
+
+[Turning them on applies when the Library closes.]
+	{
+	pt-BR=A ativação vale quando a Biblioteca fecha.;
+	}
+
+[Turning {name} on restarts the game's files, then loads this save. Your other expansions stay as they are.]
+	{
+	pt-BR=Ativar {name} reinicia os arquivos do jogo e depois carrega este jogo salvo. Suas outras expansões ficam como estão.;
+	}
+
+[USE THIS GAME]
+	{
+	pt-BR=USAR ESTE JOGO;
+	}
+
+[Units are drawn as models at every zoom. Far out on a large map, needs a fast CPU.]
+	{
+	pt-BR=As unidades são desenhadas como modelos em qualquer zoom. Bem afastado num mapa grande, requer uma CPU rápida.;
+	}
+
+[Units drawn at 16x and scaled down. Needs a fast CPU.]
+	{
+	pt-BR=Unidades desenhadas em 16x e reduzidas. Requer uma CPU rápida.;
+	}
+
+[Units drawn at 8x and scaled down. Needs a fast CPU.]
+	{
+	pt-BR=Unidades desenhadas em 8x e reduzidas. Requer uma CPU rápida.;
+	}
+
+[Units drawn at higher resolution and scaled down for smoother edges.]
+	{
+	pt-BR=Unidades desenhadas em resolução maior e reduzidas para bordas mais suaves.;
+	}
+
+[Units each player can have. Applies from the next game.]
+	{
+	pt-BR=Unidades que cada jogador pode ter. Vale a partir da próxima partida.;
+	}
+
+[Up]
+	{
+	pt-BR=Subir;
+	}
+
+[Up and down zoom about the pointer; a flick left or right turns the build page while building.]
+	{
+	pt-BR=Para cima e para baixo aproximam e afastam em torno do ponteiro. Um gesto rápido para a esquerda ou a direita vira a página de construção ao construir.;
+	}
+
+[Up to a quarter of the battlefield past the map's edges, however the view moves.]
+	{
+	pt-BR=Até um quarto do campo de batalha além das bordas do mapa, como quer que a visão se mova.;
+	}
+
+[Up to half the battlefield past the map's edges; a zoom keeps the ground under the pointer.]
+	{
+	pt-BR=Até metade do campo de batalha além das bordas do mapa. O zoom mantém o chão sob o ponteiro.;
+	}
+
+[Use the system picker…]
+	{
+	pt-BR=Usar o seletor do sistema…;
+	}
+
+[Use this folder]
+	{
+	pt-BR=Usar esta pasta;
+	}
+
+[Use this installer]
+	{
+	pt-BR=Usar este instalador;
+	}
+
+[VOLUMES]
+	{
+	pt-BR=VOLUMES;
+	}
+
+[What guarding builders do. Applies from the next game.]
+	{
+	pt-BR=O que os construtores que protegem fazem. Vale a partir da próxima partida.;
+	}
+
+[What patrolling builders do. Applies from the next game.]
+	{
+	pt-BR=O que os construtores em patrulha fazem. Vale a partir da próxima partida.;
+	}
+
+[Locate Total Annihilation Game Files]
+	{
+	pt-BR=Localizar os arquivos do jogo Total Annihilation;
+	}
+
+[Window edge]
+	{
+	pt-BR=Borda da janela;
+	}
+
+[Capture]
+	{
+	pt-BR=Captura;
+	}
+
+[Edge stickiness]
+	{
+	pt-BR=Aderência da borda;
+	}
+
+[At 0.0 the edge never holds.]
+	{
+	pt-BR=Em 0.0, a borda nunca prende.;
+	}
+
+[How firmly Sticky holds the pointer at the edge.]
+	{
+	pt-BR=Com que firmeza Fixo prende o ponteiro na borda.;
+	}
+
+[Needs Sticky]
+	{
+	pt-BR=Requer Fixo;
+	}
+
+[The pointer stays in the window while you play.]
+	{
+	pt-BR=O ponteiro fica na janela enquanto você joga.;
+	}
+
+[X]
+	{
+	pt-BR=X;
+	}
+
+[Y]
+	{
+	pt-BR=Y;
+	}
+
+[about {seconds} seconds left]
+	{
+	pt-BR=faltam cerca de {seconds} segundos;
+	}
+
+[archive]
+	{
+	pt-BR=arquivo compactado;
+	}
+
+[doesn't fit]
+	{
+	pt-BR=incompatível;
+	}
+
+[file]
+	{
+	pt-BR=arquivo;
+	}
+
+[folder]
+	{
+	pt-BR=pasta;
+	}
+
+[for the TA demo]
+	{
+	pt-BR=para a demo de TA;
+	}
+
+[for {name}]
+	{
+	pt-BR=para {name};
+	}
+
+[macOS asks once before an app reads Desktop, Documents or Downloads.]
+	{
+	pt-BR=O macOS pergunta uma vez antes que um app leia Mesa, Documentos ou Downloads.;
+	}
+
+[microSD card]
+	{
+	pt-BR=cartão microSD;
+	}
+
+[needs {name}]
+	{
+	pt-BR=requer {name};
+	}
+
+[not added]
+	{
+	pt-BR=não adicionado;
+	}
+
+[{count} file differs]
+	{
+	pt-BR={count} arquivo difere;
+	}
+
+[{count} files differ]
+	{
+	pt-BR={count} arquivos diferem;
+	}
+
+[{count} of {total} files differ]
+	{
+	pt-BR={count} de {total} arquivos diferem;
+	}
+
+[{done} of {total} · {percent}%]
+	{
+	pt-BR={done} de {total} · {percent}%;
+	}
+
+[{game} as it was made]
+	{
+	pt-BR={game} como foi feito;
+	}
+
+[{held} of {total} tracks]
+	{
+	pt-BR={held} de {total} faixas;
+	}
+
+[{left} and {right}]
+	{
+	pt-BR={left} e {right};
+	}
+
+[{left} · {right}]
+	{
+	pt-BR={left} · {right};
+	}
+
+[{left}, {right}]
+	{
+	pt-BR={left}, {right};
+	}
+
+[{mod} needs {name}, so it is unloaded and the game plays with No Mod.]
+	{
+	pt-BR={mod} requer {name}, então é desativado e o jogo roda sem mod.;
+	}
+
+[{mod} was unloaded because {name} is off. The game plays with No Mod.]
+	{
+	pt-BR={mod} foi desativado porque {name} está desligado. O jogo roda sem mod.;
+	}
+
+[{name} is installed. Turn it on in the Library.]
+	{
+	pt-BR={name} está instalado. Ative na Biblioteca.;
+	}
+
+[{name} is not copied, so this save cannot be loaded with it.]
+	{
+	pt-BR={name} não foi copiado, então não é possível carregar este jogo salvo.;
+	}
+
+[{name} needs {need}.]
+	{
+	pt-BR={name} requer {need}.;
+	}
+
+[{name} off]
+	{
+	pt-BR={name} desligado;
+	}
+
+[{name} turns off too: it needs {need}.]
+	{
+	pt-BR={name} também é desligado: requer {need}.;
+	}
+
+[{name} turns off when the Library closes.]
+	{
+	pt-BR={name} é desligado quando a Biblioteca fecha.;
+	}
+
+[{name} turns on when the Library closes.]
+	{
+	pt-BR={name} é ligado quando a Biblioteca fecha.;
+	}
+
+[{name} · ADD FROM…]
+	{
+	pt-BR={name} · ADICIONAR DE…;
+	}
+
+[{name} ✓]
+	{
+	pt-BR={name} ✓;
+	}
+
+[{name}'s maps and campaigns leave the lists until you turn it on again. Nothing is deleted.]
+	{
+	pt-BR=Os mapas e campanhas de {name} saem das listas até você ligá-lo de novo. Nada é excluído.;
+	}
+
+[{row}: {saved} / {now}]
+	{
+	pt-BR={row}: {saved} / {now};
+	}
+
+[{save_heading} / {now_heading}]
+	{
+	pt-BR={save_heading} / {now_heading};
+	}
+
+[{version} · {source}]
+	{
+	pt-BR={version} · {source};
+	}
+
+[A folder that holds totala1.hpi, or a Commander Pack or the 1997 demo installer.]
+	{
+	pt-BR=Uma pasta que contém totala1.hpi, ou um Commander Pack ou o instalador da demo de 1997.;
+	}
+
+[Applying your changes]
+	{
+	pt-BR=Aplicando suas alterações;
+	}
+
+[Checking your copy of Total Annihilation]
+	{
+	pt-BR=Verificando sua cópia de Total Annihilation;
+	}
+
+[Choose a folder or an installer]
+	{
+	pt-BR=Escolha uma pasta ou um instalador;
+	}
+
+[Choose the Total Annihilation demo installer (1997).]
+	{
+	pt-BR=Escolha o instalador da demo de Total Annihilation (1997).;
+	}
+
+[Easy]
+	{
+	pt-BR=Fácil;
+	}
+
+[Filter names]
+	{
+	pt-BR=Filtrar nomes;
+	}
+
+[Hard]
+	{
+	pt-BR=Difícil;
+	}
+
+[Loading the game's archives]
+	{
+	pt-BR=Carregando os arquivos compactados do jogo;
+	}
+
+[Medium]
+	{
+	pt-BR=Médio;
+	}
+
+[No names match.]
+	{
+	pt-BR=Nenhum nome corresponde.;
+	}
+
+[Skirmish players]
+	{
+	pt-BR=Jogadores na escaramuça;
+	}
+
+[The skirmish setup shows that many player rows.]
+	{
+	pt-BR=A configuração da escaramuça mostra esse número de linhas de jogadores.;
+	}
+
+[{count} package]
+	{
+	pt-BR={count} pacote;
+	}
+
+[{count} packages]
+	{
+	pt-BR={count} pacotes;
+	}
+
+
+// The notices for a launch file the game does not open, Settings'
+// launch file switch and the Library's locked expansions.
+
+[A launch is already open. Quit Open Annihilation, then open the file again.]
+	{
+	pt-BR=Já há um lançamento aberto. Saia do Open Annihilation e abra o arquivo de novo.;
+	}
+
+[LAUNCH FILE NOT OPENED]
+	{
+	pt-BR=ARQUIVO DE LANÇAMENTO NÃO ABERTO;
+	}
+
+[Launch file not opened: finish or leave this game first.]
+	{
+	pt-BR=Arquivo de lançamento não aberto: termine ou saia desta partida primeiro.;
+	}
+
+[Launch files (.oalaunch)]
+	{
+	pt-BR=Arquivos de lançamento (.oalaunch);
+	}
+
+[Open Annihilation opens a launch file's battle room from the main menu. Go back to the main menu, then open the file again.]
+	{
+	pt-BR=O Open Annihilation abre a sala de batalha de um arquivo de lançamento a partir do menu principal. Volte ao menu principal e abra o arquivo de novo.;
+	}
+
+[The command line chose this run's mod, which needs {names}.]
+	{
+	pt-BR=A linha de comando escolheu o mod desta execução, que requer {names}.;
+	}
+
+[This launch plays other content than the game plays now. Quit Open Annihilation, then open the file again.]
+	{
+	pt-BR=Este lançamento usa um conteúdo diferente do que o jogo usa agora. Saia do Open Annihilation e abra o arquivo de novo.;
+	}
+
+// The registries' checks the game cannot do, and the Library's
+// Available.
+
+[Available]
+	{
+	pt-BR=Disponível;
+	}
+
+[the server asked for a check the game cannot do]
+	{
+	pt-BR=o servidor pediu uma verificação que o jogo não sabe fazer;
+	}
+
+[{registry} asked for a check the game cannot do. Try again later.]
+	{
+	pt-BR={registry} pediu uma verificação que o jogo não sabe fazer. Tente novamente mais tarde.;
+	}
+
+// First run's question when the copy's source has been changed, and
+// the copy's lines for files left out for their size.
+
+[Your Total Annihilation has been changed]
+	{
+	pt-BR=Seu Total Annihilation foi modificado;
+	}
+
+[Some of its files are not the size they are in Total Annihilation 3.1c and its expansions. A mod or another program may have changed them.]
+	{
+	pt-BR=Alguns arquivos dele não têm o tamanho que têm no Total Annihilation 3.1c e nas expansões. Um mod ou outro programa pode tê-los alterado.;
+	}
+
+[{file}, from {bundle}, is {size} bytes. It should be {expected}.]
+	{
+	pt-BR={file}, de {bundle}, tem {size} bytes. Deveria ter {expected}.;
+	}
+
+[Open Annihilation needs a fresh Total Annihilation install, without mods, to set up its copy. Nothing has been copied. Choose another place to copy from.]
+	{
+	pt-BR=O Open Annihilation precisa de uma instalação limpa de Total Annihilation, sem mods, para montar sua cópia. Nada foi copiado. Escolha outro local de onde copiar.;
+	}
+
+[Choose another place]
+	{
+	pt-BR=Escolher outro local;
+	}
+
+[{file} left out: {size} bytes, not {expected}]
+	{
+	pt-BR={file} deixado de fora: {size} bytes, não {expected};
+	}
+
+[{count} files left out for their size: {files}]
+	{
+	pt-BR={count} arquivos deixados de fora pelo tamanho: {files};
+	}
+
+// Graphics' Smooth motion.
+
+[Smooth motion]
+	{
+	pt-BR=Movimento suave;
+	}
+
+[Units, shots and spinning parts move smoothly between the game's ticks.]
+	{
+	pt-BR=Unidades, disparos e peças giratórias se movem com suavidade entre os ticks do jogo.;
+	}
+
+[Units and shots move 30 times a second, as the game drew them; fast spins may flicker.]
+	{
+	pt-BR=Unidades e disparos se movem 30 vezes por segundo, como o jogo os desenhava. Giros rápidos podem tremer.;
+	}

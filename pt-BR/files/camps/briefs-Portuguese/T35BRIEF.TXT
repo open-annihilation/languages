@@ -1,0 +1,12 @@
+Missão T35: Conquista de Caranat
+
+INFORMAÇÕES DA INTELIGÊNCIA:
+A captura de um Laboratório de Kbots Avançado ARM enfraqueceria a resistência ARM.  Um laboratório desses foi detectado numa colina na área sudoeste do deserto de Nehagoba.
+
+Suas ordens são capturar esse Laboratório de Kbots Avançado e depois usá-lo para construir um Kbot de Construção Avançado e erguer uma Mina Moho ARM.
+
+Sugestões:
+É extremamente importante construir ou capturar pelo menos dois Coletores Solares para alimentar a D-Gun do Comandante. Você pode reciclar rochas e destroços para obter o metal extra necessário para concluir a Mina Moho.
+
+Táticas de batalha:
+Ao capturar uma fábrica que está construindo uma unidade, clique na borda da construção (e não no centro).  Assim você evita tentar capturar, sem sucesso, uma unidade em construção.

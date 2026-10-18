@@ -1,0 +1,11 @@
+Missão I04: Limpeza em Kral
+
+Despedaçamos o primitivo ARM no extremo sudeste da Baía de Kral.  Embora restem muitas unidades, acreditamos que todas as unidades móveis de construção foram destruídas.
+
+Varra a área e destrua todos os sobreviventes ARM.
+
+Sugestões:
+Não disperse suas forças.  Não gaste todos os seus batedores nos primeiros confrontos.  Eles são muito úteis mais tarde, quando você precisar procurar o inimigo.
+
+Táticas de batalha:
+Se suas unidades estiverem espalhadas, use CTRL+A para selecionar todas as unidades e mande-as para um ponto central.  Do mesmo modo, você pode usar CTRL+S para selecionar todas as unidades visíveis na tela.

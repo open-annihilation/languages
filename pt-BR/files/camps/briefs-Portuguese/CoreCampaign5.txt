@@ -1,0 +1,8 @@
+MISSÃO 5.1CORE
+
+GRAMPO-INTEL:
+Barathrum é um mundo hostil. Seus metais são necessários para o sucesso do CORE.  O estabelecimento de uma base é essencial.  &YPosicionar Extratores de Metal sobre jazidas de metal aumenta a taxa de extração.&
+
+&RDestrua todas as unidades ARM.&
+
+EXECUTE AGORA.

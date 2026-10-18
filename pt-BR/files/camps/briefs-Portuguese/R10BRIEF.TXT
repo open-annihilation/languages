@@ -1,0 +1,10 @@
+Missão R10: Atravessando Dois Rios
+
+O atrasado ARM ergueu uma pequena base numa clareira a noroeste, depois de dois rios.  Na clareira há várias jazidas de minério e uma Usina Geotérmica.
+
+Destrua a Usina Geotérmica inimiga e construa uma Fábrica de Veículos Avançada logo ao norte da saída de vapor.
+Sugestões:
+Unidades inimigas leves podem atacar seu Veículo de Construção. Proteja-o com cuidado.
+
+Táticas de batalha:
+Use Levelers para abrir caminho pela selva.  Selecione um Leveler, digite 'A' (o atalho de Atacar), segure a tecla SHIFT e clique no chão em várias áreas vizinhas.  O Leveler usará fogo de supressão para remover a vegetação.

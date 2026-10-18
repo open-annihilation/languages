@@ -1,0 +1,16 @@
+Missão T36: Caça aos Submarinos
+
+Um de nossos cientistas desenvolveu um robusto pacote de instrumentos que precisa ser ancorado no fundo do oceano.  Comparando ondas sísmicas P com dados de estações de sonar próximas, ele consegue detectar a longa distância a localização aproximada de bases de submarinos inimigas.
+
+Embora tenhamos tentado não chamar a atenção para essa instalação, o CORE ficou desconfiado.  Eles destruíram a maioria de nossos caça-submarinos com um ataque de bombardeiros torpedeiros.  A inteligência relata uma frota de submarinos a caminho para acabar com sua pequena força.
+
+Suas ordens são destruir todos os submarinos inimigos com seus Piranhas e evitar que o detector sísmico ou a Estação de Sonar sejam destruídos.
+
+
+Sugestões:
+Atravesse a rota inimiga para que os torpedos que chegam passem pela sua popa.
+
+Táticas de batalha:
+É de importância vital atirar antes que os submarinos inimigos entrem no alcance visual.  Use a tela de radar para atirar em unidades inimigas fora do seu alcance visual.
+
+Nota:  A menos que seu Piranha atire automaticamente, seu submarino para de se mover quando atira.  Assim que ele lançar um torpedo, ponha-o em movimento de novo imediatamente.

@@ -1,0 +1,17 @@
+Missão T41: Matadores Silenciosos
+
+Em vez de fazer simples missões de reconhecimento, nossa base secreta no Golfo de Tessop agora precisa começar a atacar o inimigo ativamente.  Por isso, você deve encerrar as condições de silêncio máximo e começar a construir mais submarinos.
+
+O ARM está desesperado para levar suprimentos de guerra de um lado a outro do golfo e, se conseguirmos detê-los, este posto avançado secreto vai se tornar um centro de produção regular.
+
+Suas ordens são destruir todos os porta-aviões leves e pelo menos cinco transportes Hulk, preservando seus Estaleiros.  Além disso, seus submarinos são desesperadamente necessários em outro lugar, então não perca mais de vinte durante esta missão.
+Sugestões:
+O curto raio de visão dos seus submarinos dificulta encontrar os alvos.  Talvez você queira espalhar seus submarinos e, quando um alvo for avistado, posicionar submarinos à frente dele para o ataque.  Os submarinos feridos devem ser mandados de volta à base para reparo.
+
+
+
+Táticas de batalha:
+O briefing desta missão é complicado.  Você pode rever suas ordens apertando F2 e clicando em BRIEFING.
+
+Ponha seus Navios de Construção para PROTEGER um Estaleiro.  Eles usarão o nanotorno para ajudar na
+produção do Estaleiro.

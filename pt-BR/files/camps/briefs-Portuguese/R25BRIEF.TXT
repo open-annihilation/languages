@@ -1,0 +1,13 @@
+Missão R25: Base Florestal 129
+
+Logo ao sul de dois afluentes profundos do Rio Yorlat, o inimigo está construindo uma base. Esperando que lancemos um ataque aéreo, o CORE investiu em Cobras.  Trouxemos por ar muitos tanques anfíbios e os desembarcamos ao norte dos rios.
+Suas ordens são destruir todas as fábricas inimigas na região.  Elimine todas as unidades móveis de combate inimigas.
+
+&YVocê tem vinte minutos para concluir esta missão.&
+
+Sugestões:
+O CORE pode ter tido ou não tempo de construir Dentes de Dragão para retardar ataques terrestres.  Se tiverem sido construídos, use fogo concentrado de vários tanques para explodi-los.  Como alternativa, abrir caminho à força por uma floresta pode permitir contornar os Dentes de Dragão.
+Táticas de batalha:
+Divida suas forças em dois ou três grupos e dê a cada um alvos diferentes.  Transforme seus grupos em esquadrões selecionando o grupo e apertando CTRL+# (onde # é um dígito de 1 a 9).  Para selecionar esse esquadrão depois, aperte ALT+#.  Para ver o número do esquadrão de uma unidade, aperte a tecla til (~).
+
+Há um código de trapaça que permite selecionar o esquadrão apertando só # (onde # é um dígito de 1 a 9). Para ativar essa trapaça, aperte ENTER para abrir a barra de mensagens na parte de baixo da tela. Digite '+switchalt' e aperte ENTER para ativar a opção.  A partir daí, basta apertar o número atribuído para selecionar o esquadrão.  Para desativar a opção e voltar à configuração padrão, digite '+switchalt' de novo.

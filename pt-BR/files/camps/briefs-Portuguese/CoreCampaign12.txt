@@ -1,0 +1,8 @@
+MISSÃO 12.4CORE
+
+GRAMPO-INTEL:
+Dados extraídos do Zeus capturado indicam que há um Portal Galáctico numa ilha ao norte. Leve o Zeus até o Portal e depois capture o Portal. Sem o Zeus, o Portal é inútil para nós.
+
+&RLeve o Zeus até o Portal Galáctico. Capture o Portal Galáctico.&
+
+EXECUTE AGORA.

@@ -1,0 +1,14 @@
+Missão R33: Floresta Tropical de Yollets
+
+No coração da Floresta Tropical de Yollets, o inimigo está atacando para controlar as jazidas de minério próximas.
+
+Você deve destruir a força de ataque ARM.
+
+&RNota:& Seu Laboratório de Kbots está danificado e não consegue construir Kbots de Construção.  Você precisa proteger o laboratório para concluir sua missão.
+
+Sugestões:
+Você estará sob ataques quase constantes, então construa o máximo de unidades possível.  Mantenha alguns batedores à frente de sua força principal para enfrentar os ataques ARM onde quer que aconteçam.
+
+
+Táticas de batalha:
+Segurar a tecla SHIFT ao clicar no menu de construção de uma fábrica enfileira cinco unidades de cada vez.

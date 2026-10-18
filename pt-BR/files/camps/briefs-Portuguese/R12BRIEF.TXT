@@ -1,0 +1,15 @@
+Missão R12: Perseguição
+
+O CORE esmagou nossas operações na bacia de basalto conhecida como "Mar do Desespero".
+
+Pegue as unidades que sobreviverem e estabeleça uma base onde puder.  Destrua todos os tanques inimigos.
+Sugestões:
+Muitas de suas unidades estão danificadas.  Se possível, repare as unidades antes de mandá-las para a batalha.
+
+Embora o inimigo tenha tropas nos arredores, espere ataques iniciais pesados vindos do nordeste.
+Táticas de batalha:
+No início desta batalha, suas unidades talvez precisem recuar depressa.  Use CTRL+A para selecionar todas as unidades e dê a elas uma ordem MOVER.
+
+Pôr uma unidade de construção para patrulhar uma área faz com que ela repare automaticamente as unidades feridas que encontrar.
+
+Não há aeronaves disponíveis neste mundo sem ar.

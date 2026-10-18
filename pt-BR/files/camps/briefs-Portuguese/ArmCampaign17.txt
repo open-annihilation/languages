@@ -1,0 +1,12 @@
+MISSÃO 17.003ARMR
+O CORE construiu um silo de mísseis nucleares! Localize o silo e capture-o.
+
+&YPRIORIDADE&
+Mais uma vez o CORE aumentou a aposta.  Emissões de energia indicam que eles concluíram a construção de um grande silo de mísseis nesta área. Acredita-se que o silo contenha mísseis com ogivas nucleares. Precisamos capturar o silo, não só para eliminar a ameaça, mas também para obter a tecnologia que ele representa.
+
+INFORMAÇÕES
+O silo certamente estará bem protegido e pode estar no local conhecido como Ilha de Brooban. Uma força combinada aérea e naval será a mais eficaz.
+
+&REsteja preparado para chuvas de meteoros.&
+
+FIM

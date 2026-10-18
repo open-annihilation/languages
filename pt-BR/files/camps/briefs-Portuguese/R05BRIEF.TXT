@@ -1,0 +1,18 @@
+Missão R05: De Ilha em Ilha
+
+&YEmergência!&
+Nossa base insular está sob ataque de uma flotilha naval CORE, e nossa frota de defesa está ocupada em outro lugar.  A intenção deles é clara: destruir nossa capacidade de travar uma guerra naval.
+Destrua a frota que se aproxima e impeça a destruição de nossos Estaleiros.
+
+Nota:  A área em torno de nossas ilhas está bem explorada. O sonar e o radar devem ajudar a localizar o inimigo.
+
+
+Sugestões:
+Use os Navios de Construção para reciclar o máximo de metal possível.
+
+Ao atacar o inimigo, avance com grupos poderosos, e não com unidades isoladas.
+
+Táticas de batalha:
+Para encontrar suas fábricas rapidamente, aperte CTRL+F para selecioná-las e acompanhe-as com a tecla T.
+
+Para selecionar todas as unidades de combate (exceto o Comandante), aperte CTRL+W (as unidades de guerra).

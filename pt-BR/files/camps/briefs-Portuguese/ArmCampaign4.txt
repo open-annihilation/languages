@@ -1,0 +1,13 @@
+MISSÃO 4.0004ARME
+Localize as instalações de mineração e comunicações CORE. Destrua todas as unidades CORE.
+
+PRIORIDADE 1
+A contaminação CORE de Empyrrean foi longe demais! A destruição da base de mineração e comunicações CORE na fronteira vai interromper as transmissões de dados do CORE e privá-lo de minerais raros.
+
+INFORMAÇÕES
+&R*ATENÇÃO* *ATENÇÃO* *ATENÇÃO*&
+A base CORE está bem protegida. Estabeleça uma base para ter força suficiente para concluir a missão. O inimigo conhece sua intenção e pode enviar equipes de assassinos Pyro contra você. Um Zeus modelo Arm-Zeus foi designado para sua proteção.
+
+&GRepare as unidades sempre que possível.&
+
+FIM

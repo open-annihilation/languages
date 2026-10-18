@@ -1,0 +1,13 @@
+Missão R29: Espera
+
+Vários veículos leves CORE se infiltraram na área. Você tem ordens de construir um Extrator de Metal em qualquer jazida de minério disponível.  Destrua todos os inimigos em seu caminho.
+
+Sugestões:
+Continue explorando para encontrar a jazida de metal.  A mais próxima fica logo ao norte de sua posição inicial.  Você tem um Reator de Fusão, então a energia não deve ser uma preocupação.
+
+Se seu Reator de Fusão for atacado, volte depressa para salvá-lo da destruição.
+
+Táticas de batalha:
+Para construir uma estrutura, selecione seu Comandante e clique no botão CONSTRUIR (logo abaixo do mapa de radar), ativando o menu de construção do Comandante.  Esse menu mostra as unidades que o Comandante é capaz de construir.  (As unidades indisponíveis nesta missão aparecem acinzentadas.)  Clique com o botão esquerdo na imagem de uma unidade e mova o cursor sobre o mapa principal.  Uma caixa verde acompanhará o cursor pelo mapa.  Clicar de novo com o botão esquerdo posiciona a estrutura no terreno.
+
+Você não pode posicionar uma unidade se o contorno dela estiver vermelho.  Provavelmente o local escolhido tem terreno acidentado.  Mova o cursor pelo mapa até o contorno voltar a ficar verde.

@@ -1,0 +1,16 @@
+Missão T44: Planície Laser
+
+O Comandante ARM inimigo costuma investir contra nossas posições com grandes números de unidades pequenas.  Esperamos um ataque de tanques Flash.  É provável que as forças inimigas tentem distrair você com vários ataques pequenos antes dessa investida final.
+
+Repila os ataques inimigos e construa pelo menos um L.L.T. para ajudar a lidar com as unidades menores.
+
+Sugestões:
+Explore o mapa para encontrar jazidas de metal.  Os L.L.T.s precisam de 2608 unidades de energia para serem construídos e de vinte unidades por disparo.  Por isso, convém construir quatro ou cinco Coletores Solares antes da sua primeira arma laser.
+
+
+Táticas de batalha:
+Você pode acelerar seu jogo aprendendo a empilhar comandos com a tecla SHIFT.  Isso permite dar várias ordens a praticamente qualquer unidade.  Quando a unidade conclui o primeiro comando, passa automaticamente para o seguinte.
+
+Por exemplo, você pode mandar seu Comandante construir um Coletor Solar.  Segure a tecla SHIFT e dê outras ordens.  Repare que aparece um retângulo verde indicando o local do Coletor Solar.  Ver esses retângulos impede que você posicione unidades umas sobre as outras ao enfileirar várias ordens de construção.
+
+Usando a tecla SHIFT para enfileirar comandos, você consegue dar muito depressa ordens suficientes para manter uma unidade ocupada, liberando sua atenção para outras coisas.

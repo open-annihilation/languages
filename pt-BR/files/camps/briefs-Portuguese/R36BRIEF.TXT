@@ -1,0 +1,11 @@
+Missão R36: Lagoas Pacíficas
+
+Você chegou a uma área de floresta com duas lagoas tranquilas.  O ARM ainda não construiu nenhuma defesa, mas várias unidades inimigas estão a caminho para atrasar seu avanço.
+
+Destrua todos os Veículos de Construção o mais rápido possível.
+
+Sugestões:
+Há poucas jazidas de metal, então talvez você precise construir Conversores de Metal para aumentar sua renda de metal.
+
+Táticas de batalha:
+Destine três Coletores Solares para cada Conversor de Metal que construir.  Agrupar seus Conversores de Metal num esquadrão permite selecioná-los todos depressa e ligá-los ou desligá-los de uma vez. Talvez você tenha de administrar sua economia de recursos desse jeito.

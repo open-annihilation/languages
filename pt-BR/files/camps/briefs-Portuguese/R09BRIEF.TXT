@@ -1,0 +1,14 @@
+Missão R09: A Várzea de Retorb
+
+&YPrioridade um&
+Nossas necessidades de energia na região são críticas.
+
+Construa uma Usina Geotérmica na Várzea de Retorb. Espere que o ARM o importune e atrase com pequenos ataques.  Você tem nove minutos para concluir esta missão.
+Sugestões:
+Talvez você precise construir algumas defesas antes de começar a Usina Geotérmica. Mantenha seus Slashers de longo alcance no centro da base, com os tanques no perímetro.
+
+
+
+
+Táticas de batalha:
+Use o código de trapaça a seguir para acompanhar o tempo de jogo.  Aperte ENTER para ativar a barra de mensagens na parte de baixo da tela.  Depois, digite '+clock' para mostrar o relógio do jogo no canto inferior esquerdo do mapa principal.

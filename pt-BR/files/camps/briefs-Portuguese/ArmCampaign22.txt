@@ -1,0 +1,10 @@
+MISSÃO 22.002ARMCP
+Destrua o depósito de energia.
+
+&YPRIORIDADE&
+O CORE tem um enorme complexo de energia nas Coordenadas 6551:447. Boa parte da energia de que o CORE depende para defender seu planeta natal está lá. Precisamos &Rdestruir esse depósito de energia&. Espera-se que a destruição desse complexo enfraqueça a Consciência Central do CORE o bastante para que o ARM vença.
+
+INFORMAÇÕES
+O depósito de energia consiste em numerosas estruturas de coleta e armazenamento de energia do outro lado dos canais de esgoto, ao norte. Atravesse os canais e destrua todas elas.
+
+FIM

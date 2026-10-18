@@ -1,0 +1,14 @@
+Missão I13: O Radar de Fase
+
+&RAtenção!&
+A construção do radar de fase está quase concluída.  Ele usa centenas de Torres de Radar interligadas eletronicamente para funcionar como um único radar gigante de imensa sensibilidade.
+
+O ARM descobriu nossos planos e lançou um ataque para destruir nosso campo de radares.
+
+Neutralize o ataque ARM.  Reduza ao mínimo a perda de Torres de Radar.
+
+Sugestões:
+Espalhe suas tropas para impedir que as unidades inimigas mais rápidas as contornem.
+
+Táticas de batalha:
+Talvez você queira formar um esquadrão com uma força central que responda a cada ataque. Para isso, selecione as unidades que deseja agrupar e use CTRL+# (onde # é um dígito de 1 a 9).  Depois, você pode selecionar todas essas unidades na hora apertando ALT+#.

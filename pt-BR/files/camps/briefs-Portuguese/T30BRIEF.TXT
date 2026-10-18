@@ -1,0 +1,14 @@
+Missão T30: Montanhas de Açúcar
+
+Temos três Torres de Radar posicionadas para triangular a localização aproximada da Usina de Fusão inimiga.  O CORE quer encontrar nossas fontes de energia do mesmo jeito.
+
+O Kbot de Construção que construiu as Torres de Radar foi seriamente danificado num tiroteio.  Mesmo assim, ele ainda é capaz de reparar unidades aliadas na área.
+
+Suas ordens são localizar e destruir as três Torres de Radar inimigas. Você também precisa impedir que o inimigo destrua qualquer uma de nossas Torres de Radar.
+
+Sugestões:
+Deixe algumas unidades defendendo cada Torre de Radar e mande o resto explorar.  Sempre que vir uma unidade inimiga sozinha, não deixe de persegui-la e destruí-la antes que ela encontre nossas Torres de Radar.
+Táticas de batalha:
+Fique de olho no radar, pois ele dará o primeiro aviso de um ataque inimigo.
+
+Se vir uma mensagem dizendo que uma de suas unidades está sob ataque, você pode apertar F3 e centralizar a tela nessa unidade.

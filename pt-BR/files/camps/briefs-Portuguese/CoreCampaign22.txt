@@ -1,0 +1,8 @@
+MISSÃO 22.1CORE
+
+GRAMPO-INTEL:
+Você precisa agir depressa - antes que o ARM possa se preparar. Destrua os guardas do Portal. Há um canhão Bertha ativo ao sul.  Você recebeu todas as unidades necessárias para esta missão.
+
+&RCapture o canhão Bertha.&
+
+EXECUTE AGORA.

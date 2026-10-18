@@ -1,0 +1,13 @@
+Missão T21: Ataque de Zippers
+
+O Foco de Harrison é uma região geotermicamente ativa de Empyrrean.  O CORE tem ali uma base grande e mal defendida, pois até agora não tinha sido desafiado na área.
+
+Leve uma força de Zippers para um ataque relâmpago, concentrando-se nas fontes de energia deles.  Destrua todas as Usinas Geotérmicas e Usinas de Fusão a qualquer custo.
+
+Sugestões:
+Não tente destruir a linha defensiva CORE. Apenas passe por ela correndo e continue o ataque às áreas mais vulneráveis deles.  Cuidado.  Há patrulhas itinerantes e fábricas na retaguarda.  Não se distraia dos objetivos da missão.
+
+
+
+Táticas de batalha:
+Com o jogo em andamento, aperte a tecla ENTER e digite '+shootall' na linha de mensagem se quiser que suas unidades ataquem construções automaticamente.  Seus Zippers têm blindagem leve, então não convém deixar muitos deles perto de uma Usina de Fusão quando ela explodir.

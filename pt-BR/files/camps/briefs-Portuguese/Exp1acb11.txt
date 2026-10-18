@@ -1,0 +1,14 @@
+MISSÃO 11.002ARMG
+Repelimos a primeira onda do CORE. Pode esperar que eles se reagrupem e ataquem de novo em breve. Reconstrua sua base o suficiente para lançar um ataque ao bloco de gelo a oeste. Destrua as fábricas de hovercrafts e de aeronaves VTOL de lá e depois siga para o continente ao norte.
+
+&Y*PRIORIDADE CRÍTICA*&
+Espera-se que, se você destruir as fábricas no bloco de gelo a oeste, o ataque final ao continente não tenha unidades CORE na retaguarda. Embora o CORE tenha tido bastante tempo para se preparar para nossa ida ao continente, a praia ao norte provavelmente estará guardada.
+
+INFORMAÇÕES
+&RO CORE desenvolveu um novo Kbot mais letal, o Sumo.& Ele certamente vai aparecer no continente (é pesado demais para os blocos de gelo). Apesar de lento, o Sumo tem um temível canhão laser.
+
+De nossa parte, os técnicos ARM montaram uma bateria de canhões Bertha para você usar. Você precisará, porém, construir os geradores necessários para alimentá-los.
+
+Para concluir a missão, você deve destruir todas as unidades CORE e &Rlevar seu Comandante até a base da geleira& no continente.
+
+FIM

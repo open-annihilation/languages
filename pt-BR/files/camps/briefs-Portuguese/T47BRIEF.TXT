@@ -1,0 +1,16 @@
+Missão T47: Camuflados nos Pináculos
+
+A Crosta 14 é famosa pelos pináculos que se formaram em boa parte das planícies centrais.  O ARM domina com firmeza a área bem em frente à Enseada da Fenda de Lava.
+
+Suas ordens são atravessar a enseada e destruir todas as fábricas inimigas.
+Sugestões:
+&YAntes de atravessar a enseada, mude as ordens do seu Comandante de VISÍVEL para CAMUFLADO!&
+
+Táticas de batalha:
+Para mudar seu Comandante de VISÍVEL para CAMUFLADO, selecione seu Comandante e aperte o botão ORDENS.  Agora você deve ver um botão que diz VISÍVEL.  Se clicar nesse botão, ele muda para CAMUFLADO.  Clique mais uma vez e você volta para VISÍVEL.
+
+Camuflado, o Comandante aparece um tanto translúcido para indicar o status.  Enquanto ele estiver camuflado, as unidades inimigas não conseguem avistá-lo, a menos que entrem no raio de camuflagem.  Para ver o raio de camuflagem, ponha o cursor sobre seu Comandante e segure a tecla SHIFT.  Um pequeno círculo aparece indicando o quanto o inimigo precisa se aproximar para que o Comandante fique visível.
+
+Repare que uma unidade camuflada continua aparecendo no radar, a menos que haja um bloqueador de radar por perto.
+
+A camuflagem exige muita energia - 200 de energia por segundo de jogo se o Comandante estiver parado e 1000 de energia por segundo de jogo se ele estiver em movimento.

@@ -1,0 +1,12 @@
+Missão R19: Base de Fogo Prasad
+
+Isolamos um grupo de unidades ARM, mas foi impossível desalojá-lo.  Uma base de fogo com Berthas foi construída na colina chamada Prasad para proteger essas unidades ARM.  Nosso último ataque destruiu todos os Veículos de Construção no topo da colina, então eles não terão conseguido reparar as unidades danificadas.
+
+Comandante, capture ou destrua a base de fogo do teimoso ARM na colina a noroeste.  Sobreviva a todos os contra-ataques inimigos por uma hora.
+
+Sugestões:
+É vital capturar o Reator de Fusão. Enquanto a Bertha não for capturada ou destruída, mantenha-se em movimento.
+
+
+Táticas de batalha:
+Você vai querer capturar a Bertha e o Reator de Fusão. Selecione todas as unidades com CTRL+A e ponha as ordens delas em Cessar fogo quando encontrar a Bertha. Isso impede que suas unidades destruam a Bertha antes que você possa capturá-la.  Depois da captura, redefina todas as ordens permanentes.

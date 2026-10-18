@@ -1,0 +1,8 @@
+Missão T10: Bombardeiros da Névoa
+
+Leve a ala aérea 1075 até a área vulnerável do inimigo e reduza a capacidade de produção dele a escombros.  Não deixe de destruir todos os Laboratórios de Kbots e Fábricas de Aeronaves.  Se não concluir a missão em dez minutos, não concluirá nunca.
+Sugestões:
+Planeje a direção dos bombardeios para evitar as defesas antiaéreas conhecidas.
+
+Táticas de batalha:
+Digite '+clock' na barra de mensagens para mostrar o tempo de jogo decorrido no canto inferior esquerdo da tela.  Digite esse código de trapaça de novo para esconder o relógio.

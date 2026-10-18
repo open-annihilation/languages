@@ -1,0 +1,13 @@
+Missão T22: Destrua a FMD
+
+Destrua a bateria antimísseis Fortitude do CORE, permitindo que lancemos ataques nucleares na região. Você tem uma forte ala aérea composta de Brawlers, Hawks e Phoenixes.
+
+Você tem exatamente vinte minutos para encontrar e destruir a defesa nuclear CORE.
+
+Sugestões:
+Repare que os pináculos de lava podem atrapalhar os disparos inimigos contra suas forças.
+
+Táticas de batalha:
+Se uma unidade de construção receber ordem de proteger uma fábrica, ela vai ajudar a fábrica a construir unidades mais depressa.
+
+Depois de encontrar o alvo, aperte CTRL+F5 (ou F6, F7 ou F8) para marcar o local.  Mais tarde, ao planejar o bombardeio, aperte F5 (etc.) para centralizar de novo a tela no local do alvo.

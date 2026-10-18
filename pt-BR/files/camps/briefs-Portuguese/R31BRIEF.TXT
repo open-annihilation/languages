@@ -1,0 +1,22 @@
+Missão R31: Riacho Rotrey
+
+Ao longo do Riacho Rotrey, nossos oponentes sem imaginação deixaram várias unidades de construção para fortalecer sua economia na região.
+
+Lançamos um bombardeio que destruiu a maioria de seus Extratores de Metal, embora a um alto custo.
+
+Suas ordens são avançar e acabar com eles antes que se recuperem.
+
+Sugestões:
+Você terá de tomar uma área defensável com algum metal e construir uma base o mais rápido possível.
+
+
+
+Táticas de batalha:
+Você pode ajustar a quantidade de falas das unidades que aparece na tela principal.  Aperte F2 para
+abrir o menu de opções e clique no botão INTERFACE.  Use o botão FALAS
+para alternar entre as opções NENHUM, MÉDIO e COMPLETO.
+
+
+
+Quando uma unidade relata uma mensagem, você pode apertar F3 para centralizar a tela na última unidade que relatou
+informações.

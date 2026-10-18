@@ -1,0 +1,17 @@
+Missão I12: Batalha da Ilha Chimo
+
+O equivocado ARM construiu um Estaleiro perto da Ilha Chimo.  Como esse não parece ser um ponto vital, os motivos estratégicos do Estaleiro recém-construído são desconhecidos.
+
+Em vez de permitir que o inimigo se fortaleça na região, você tem ordens de destruir o Estaleiro ARM e todos os Navios de Construção que ele construir.
+
+Sugestões:
+Os canhões de plasma Guardian podem ser devastadores para sua força.
+
+Tente reduzir ou eliminar os navios de guerra antissubmarino e depois use seus próprios submarinos contra o Estaleiro. Essas unidades antissubmarino são os destróieres Crusader, os cruzadores Conqueror e todos os submarinos.
+
+Táticas de batalha:
+Manter o cursor sobre uma unidade inimiga mostra o nome dela.  Apertar F1 dá mais detalhes sobre a unidade.
+
+Aprenda quais são os pontos fortes e fracos de cada unidade.  Por exemplo, se perceber que o inimigo tem unidades antiaéreas mais fracas, tente lançar um ataque aéreo.
+
+Jogadores avançados criam pontos fracos nas forças dos oponentes e depois os exploram.

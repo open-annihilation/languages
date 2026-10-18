@@ -1,0 +1,10 @@
+Missão R35: Construção na Floresta Tropical
+
+Sem esperar sua chegada, o ARM levou para a área apenas uma leve cortina de unidades.  Aumente nosso suprimento de energia e destrua todas as forças inimigas que encontrar.
+
+Suas ordens são encontrar a saída de vapor em algum ponto ao sul do Rio Espinha da Serpente e construir uma Usina Geotérmica.
+Sugestões:
+Você terá de construir uma fábrica para criar uma unidade de construção que construa a Usina Geotérmica.  Use também a fábrica para construir unidades antiaéreas, pois aeronaves inimigas foram avistadas na área.
+
+Táticas de batalha:
+Selecione todas as aeronaves com CTRL+V (de "VToL").

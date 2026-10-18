@@ -1,0 +1,11 @@
+MISSÃO 21.1CORE
+
+GRAMPO-INTEL:
+Aegus é a lua de Empyrrean. Ela servirá como área de preparação perfeita para o ataque final ao planeta natal do ARM. A baixa gravidade da lua e a falta de atmosfera e de mares fazem desta uma missão para unidades terrestres. O Portal Galáctico ARM é vital para nossa invasão de Empyrrean.
+
+&RCapture o Portal ARM.&
+
+&R*ATENÇÃO*ATENÇÃO*ATENÇÃO*&
+&RO ARM ativou a sequência de implosão do último Portal. Capture o Portal antes que ele imploda.&
+
+EXECUTE AGORA.

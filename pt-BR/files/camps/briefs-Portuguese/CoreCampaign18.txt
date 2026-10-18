@@ -1,0 +1,8 @@
+MISSÃO 18.CORE
+
+GRAMPO-INTEL:
+O ARM controla esta parte de Nigh Pilago. A rede de torres de laser nesta área se tornou um problema. As torres são alimentadas por uma única usina de fusão, localizada num vulcão adormecido ao norte. O ARM acredita ter uma rede de proteção impenetrável. A análise mostra que há um caminho através da rede. Encontre o caminho seguro até a ilha e envie bombardeiros para destruir a Usina de Fusão.
+
+&RDestrua a Usina de Fusão.&
+
+EXECUTE AGORA.

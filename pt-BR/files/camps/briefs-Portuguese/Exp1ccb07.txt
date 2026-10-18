@@ -1,0 +1,11 @@
+MISSÃO 7.1TCORE
+A praga ARM pousou em Temblor. Isso é bom. Eles estão perseguindo você, Comandante. O sinalizador foi levado em segurança para Gelidus. Sua tarefa aqui é segurar o ARM o máximo possível e reduzir seus números. Avance para o sul, destruindo todas as unidades ARM que encontrar.
+
+GRAMPO-INTEL:
+As forças ARM estão relativamente fracas neste momento. Elas vão recuar até a chegada de reforços. Vão tentar atrasar seu avanço espalhando minas terrestres. Limpe as minas terrestres e destrua todas as unidades ARM.
+
+&RTemblor é um planeta instável. Espere terremotos frequentes.&
+
+Para concluir esta missão, você deve destruir todas as unidades ARM e as minas terrestres.
+
+EXECUTE AGORA.

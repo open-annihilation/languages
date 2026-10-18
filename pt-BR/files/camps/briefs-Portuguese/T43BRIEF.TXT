@@ -1,0 +1,13 @@
+Missão T43: Dia Quente, Casco Oculto
+
+A geografia de Neovestral II tem poucas barreiras naturais.  Por isso, batalhas que cobrem centenas de quilômetros são comuns.  O controle do planeta já oscilou de um lado para o outro, mas no momento o ARM leva vantagem:  eles acabam de capturar nosso Portal Galáctico.  Meses de trabalho foram perdidos.
+
+Isso é inaceitável.  Recapture nosso Portal Galáctico.
+
+Sugestões:
+Mande os grupos de ataque de volta à base para reparo.  As unidades com mais experiência de batalha acabam ganhando o status de Veterano, que lhes permite atirar mais rápido e com mais precisão.
+
+
+Táticas de batalha:
+O termo "casco oculto" se refere a um tanque entrincheirado no terreno, com apenas a torre exposta.  Isso pode ser simulado com Dentes de Dragão; os disparos inimigos atingem as fortificações em vez do próprio tanque.  Esta técnica é eficaz com tanques de tiro vertical, como o Diplomat.
+Uma desvantagem da estratégia do "casco oculto" é que os tanques continuam vulneráveis a fogo pesado de foguetes.

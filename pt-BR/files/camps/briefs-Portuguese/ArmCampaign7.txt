@@ -1,0 +1,10 @@
+MISSÃO 7.0002ARMTH
+Defenda o Porto de Larab. Preserve a Mina Moho de lá. Destrua todas as unidades CORE.
+
+&Y*PRIORIDADE ESPECIAL*&
+A fortaleza e o depósito de suprimentos ARM montados no Porto de Larab precisam ser preservados contra todos os ataques CORE. O metal é tão raro em Thalassean que a Mina Moho de Larab deve ser protegida a qualquer custo.  Se a Moho for destruída, você terá fracassado na missão.
+
+INFORMAÇÕES
+Temos motivos para crer que há uma frota CORE escondida dentro de um furacão que avança para Larab. Esteja preparado! &YO inimigo certamente terá a Mina Moho como alvo.&
+
+FIM

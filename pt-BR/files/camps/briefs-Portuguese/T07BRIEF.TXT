@@ -1,0 +1,16 @@
+Missão T07: Ataque à Base de Gelo
+
+A Base de Gelo CORE à beira do Mar Congelado resistiu a todos os ataques.  Uma força poderosa foi reunida para um último ataque.
+
+Você tem dois Kbots de Construção para manter as forças designadas.  Não há tempo para construir uma base.
+
+Abra caminho pelas defesas CORE e destrua a Usina de Fusão deles antes que se passem vinte minutos.
+
+Sugestões:
+Seus Fidos são rápidos, mas têm blindagem leve. Mantenha-os na reserva até que seu primeiro ataque consiga abrir um buraco na linha inimiga.
+
+
+Cuidado para não atacar onde eles querem que você ataque. Não caia numa armadilha CORE.
+
+Táticas de batalha:
+Ponha seus dois Kbots de Construção para patrulhar uma região fácil de localizar no mapa de radar. Unidades danificadas podem ser mandadas de volta para essa região e reparadas automaticamente ao encontrar o Kbot de Construção.

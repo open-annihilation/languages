@@ -1,0 +1,8 @@
+MISSÃO 11.3CORE
+
+GRAMPO-INTEL:
+Há um robô Zeus na ilha ao sul.  Cuidado para que unidades CORE zelosas demais não destruam o Zeus antes que você possa capturá-lo.
+
+&RCapture um robô Zeus.&
+
+EXECUTE AGORA.

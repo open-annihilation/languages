@@ -1,0 +1,10 @@
+MISSÃO 20.001ARMD
+Destrua os zeladores e as unidades CORE ainda em funcionamento e garanta Dump para o ARM.
+
+&YPRIORIDADE&
+Dump - a única lua de Core Prime. . Destrua todas as unidades que encontrar em Dump. Daqui lançaremos nossa invasão do planeta natal do CORE.
+
+INFORMAÇÕES
+Não há atmosfera nem água em Dump. Por isso, as unidades aéreas não podem voar e as unidades navais são inúteis aqui. Esta é uma missão terrestre, Comandante. Além disso, Dump tem sido usado como depósito para os restos danificados e destruídos de eras de esforço de guerra CORE. &GRecicle o metal& que encontrar espalhado para construir unidades ARM e usá-las contra o CORE.
+
+FIM

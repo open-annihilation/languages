@@ -1,0 +1,8 @@
+MISSÃO 25.4CORE
+
+GRAMPO-INTEL:
+A missão final. O ARM foi empurrado para as colinas para uma última resistência. O Comandante ARM estará com suas unidades. Destrua-o também.
+
+&RDestrua o ARM.&
+
+EXECUTE AGORA.

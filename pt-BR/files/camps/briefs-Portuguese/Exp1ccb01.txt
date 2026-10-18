@@ -1,0 +1,13 @@
+MISSÃO 1.1HCORE
+Fomos descobertos! A praga ARM pousou em Hydross.
+
+GRAMPO-INTEL:
+O ARM procura o Comandante e o sinalizador. Eles precisam ser detidos antes de se estabelecerem neste sistema. Precisamos de tempo para encontrar o sinalizador e montar o dispositivo de implosão. Detenha-os aqui.
+
+Há uma forma de vida em Hydross que vai atrapalhar nossos esforços. Destrua-a.
+
+&RDestrua todas as unidades ARM.&
+
+Para concluir esta missão, você deve destruir todas as unidades ARM e todas as formas de vida.
+
+EXECUTE AGORA.

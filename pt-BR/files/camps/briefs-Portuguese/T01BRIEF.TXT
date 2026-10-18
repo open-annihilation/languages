@@ -1,0 +1,15 @@
+Missão T01: Assalto Aéreo
+
+INFORMAÇÕES DA INTELIGÊNCIA:
+Uma força de unidades aéreas ARM se dirige ao seu setor do Litoral de Astrede.
+
+Defenda sua Usina de Fusão contra o ataque que se aproxima.
+
+Sugestões:
+Configure a Fábrica de Aeronaves para que todas as aeronaves que ela criar patrulhem automaticamente sobre sua Usina de Fusão.
+
+Ponha um Kbot de Construção para proteger a Usina de Fusão; ele vai repará-la automaticamente sempre que ela sofrer danos.
+
+
+Táticas de batalha:
+O botão PATRULHAR de uma fábrica põe todas as unidades que ela produz numa rota de patrulha.  Para isso, selecione a fábrica, clique no botão PATRULHAR e depois clique no mapa ou na tela de radar para definir a outra ponta da patrulha.  Segurar a tecla SHIFT no último passo permite definir vários pontos de patrulha.

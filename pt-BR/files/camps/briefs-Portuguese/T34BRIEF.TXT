@@ -1,0 +1,18 @@
+Missão T34: Caixa-Preta
+
+&RAtenção - Prioridade máxima&
+Um míssil espião foi lançado recentemente em território ARM.  Os sistemas de comunicação dele foram destruídos antes que qualquer transmissão pudesse ser feita.  A cápsula do míssil acabou caindo na Cidade de Pikas, depois de percorrer dois terços da circunferência do planeta durante a descida.
+
+Uma melhoria recente em nossas cápsulas de míssil incluiu uma caixa-preta capaz de sobreviver a uma queda da órbita. Nos bancos de memória dessa caixa-preta há imagens tiradas da órbita que revelam as defesas ARM em mais da metade do mundo.
+
+Você tem ordens de atacar a Cidade de Pikas e capturar os restos desse satélite, que acreditamos estarem enterrados numa cratera em algum ponto da região.  Qualquer Veículo de Construção Avançado que chegar a essa cratera poderá recuperar as informações.
+
+Alguns de seus transportes levam Veículos de Construção Avançados.  Não os perca!
+
+Sugestões:
+Use seus navios para destruir as defesas terrestres e permitir que seus transportes desembarquem em segurança.
+Táticas de batalha:
+Para descarregar seus transportes mais depressa, clique no botão DESCARREGAR.  Depois, segurando a tecla SHIFT, clique com o botão esquerdo várias vezes ao longo da costa. Isso enfileira várias ordens de descarregar de uma vez.  Espalhe os pontos de desembarque para não amontoar unidades umas sobre as outras.
+
+
+&RCuidado:& Seu Comandante está no transporte desarmado Valkyrie.  Se este transporte aéreo for destruído, seu Comandante também será.

@@ -1,0 +1,11 @@
+MISSÃO 6.3LCORE
+Interceptações confirmam que o ARM está com o sinalizador! Precisamos tomá-lo deles, ou nosso plano terá fracassado!
+
+GRAMPO-INTEL:
+Há indícios de que o ARM mantém o sinalizador bem guardado. Você precisa romper as defesas deles e capturar o sinalizador. Não destrua o sinalizador: ele precisa estar intacto para nos ser útil.
+
+&RCapture o sinalizador!&
+
+Para concluir esta missão, você deve capturar o sinalizador e destruir todas as unidades ARM e os Scorpions.
+
+EXECUTE AGORA.

@@ -1,0 +1,12 @@
+Missão R16: Atravessando os Baixios de Kerrap
+
+O reacionário ARM usou suas forças navais para nos impedir de atravessar o vau chamado Baixios de Kerrap.
+
+Leve suas forças pelo vau e destrua o inimigo.  Você tem 40 minutos.  Pelo menos um dos seus Veículos de Construção Avançados precisa atravessar.
+Sugestões:
+Destrua a marinha ARM antes de tentar atravessar o vau.  O inimigo tem canhões muito pesados; cuidado ao se arriscar.
+
+Táticas de batalha:
+CTRL+W seleciona todas as suas unidades móveis armadas, exceto o Comandante.
+
+CTRL+P seleciona todas as suas aeronaves de combate.

@@ -1,0 +1,10 @@
+MISSÃO 10.0002ARMT
+Destrua todas as unidades e estruturas CORE.
+
+&YPRIORIDADE &
+As posições CORE entrincheiradas na formação esculpida pelo vento conhecida como Labirinto de Bromid precisam ser destruídas para garantir Tergiverse IV.
+
+INFORMAÇÕES
+Uma equipe de reconhecimento de Zippers ficou isolada a oeste. Resgate a equipe, se puder. As armas e a velocidade deles serão úteis nesta missão. Se conseguir capturar e interrogar uma unidade CORE, o conhecimento dela será seu - algo especialmente útil no Labirinto.
+
+FIM

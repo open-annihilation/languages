@@ -1,0 +1,21 @@
+Missão R37: Crista do Intimidator
+
+O Comandante CORE construiu canhões de plasma numa colina agora conhecida como "Crista do Intimidator".  Essa colina domina o terreno ao redor e resistiu a três de nossos ataques.
+
+Um bombardeio kamikaze destruiu a Usina de Fusão que alimentava os Intimidators.  Por alguns poucos minutos, enquanto o CORE reconstrói, a colina está vulnerável.
+
+Você comanda o quarto ataque à colina. Destrua todos os Intimidators.
+Sugestões:
+Os estrategistas CORE costumam construir canhões de longo alcance e escondê-los atrás de bloqueadores de radar.  Não fique preso num duelo de artilharia; abra caminho à força até a base inimiga.
+
+Os Intimidators têm um alcance mínimo de cerca de meia tela.  Se você conseguir pôr uma unidade dentro dessa distância, ela não será alvo dos Intimidators.
+
+Táticas de batalha:
+CTRL+W seleciona todas as suas unidades de guerra (unidades com armas), exceto o Comandante.
+
+Ao construir uma unidade cara (uma Mina Moho, por exemplo), você pode fazer várias unidades de construção ajudarem, inclusive o Comandante.
+
+Para ajudar outra unidade a construir, selecione uma ou mais unidades com nanotorno e dê a ordem PROTEGER sobre a unidade original.  Ou aperte REPARAR no menu de construção e clique com o botão esquerdo na unidade em construção.
+
+Se você usa a interface de clique direito, selecione as unidades que vão ajudar e clique com o botão direito na unidade em
+construção.

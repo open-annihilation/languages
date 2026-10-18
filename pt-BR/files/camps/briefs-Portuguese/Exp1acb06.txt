@@ -1,0 +1,14 @@
+MISSÃO 6.003ARML
+Reforce suas defesas. Com a base segura, procure e encontre o artefato alienígena que deve estar na área.
+
+&Y*PRIORIDADE CRÍTICA*&
+O artefato alienígena precisa ser encontrado, se existir. Não sabemos que segredos ele pode guardar - mas não pode cair nas mãos do CORE.
+
+INFORMAÇÕES
+Apesar de nossos esforços, o CORE continua forte. As atividades deles ganharam um certo desespero. O sinalizador deve estar perto!
+
+&RO aumento dos encontros com Scorpions nos leva a crer que o sinalizador está muito perto.&
+
+Para concluir esta missão, você deve capturar o sinalizador e destruir todas as unidades CORE e os Scorpions.
+
+FIM

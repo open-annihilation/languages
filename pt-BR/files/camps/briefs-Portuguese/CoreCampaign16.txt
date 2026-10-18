@@ -1,0 +1,10 @@
+MISSÃO 16.4CORE
+
+GRAMPO-INTEL:
+O Portal ARM foi localizado no alto das ruínas a nordeste. A guarnição inclui os tanques experimentais Spider do ARM. Atenção: os Spiders estão armados com um raio paralisante. Destrua os Spiders e capture o Portal.
+
+&YEspere chuvas de meteoros.&
+
+&RCapture o Portal Galáctico ARM.&
+
+EXECUTE AGORA.

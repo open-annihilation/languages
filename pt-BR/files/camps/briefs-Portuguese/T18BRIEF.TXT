@@ -1,0 +1,12 @@
+Missão T18: Emboscada de Spiders
+
+Precisamos da capacidade de longo alcance do canhão de plasma CORE: o Intimidator.  A inteligência militar nos leva a crer que o CORE enviou um Veículo de Construção Avançado para este setor.  Capture-o.
+Sugestões:
+O inimigo está expandindo suas forças depressa, então cuidado para não demorar demais a atacar. Sempre que possível, capture as forças CORE e use-as contra eles.  Aja depressa para não ser atacado por reforços.
+
+É difícil capturar unidades rápidas, então use Spiders para paralisá-las primeiro.
+
+Táticas de batalha:
+Depois de capturada, uma unidade tem as ordens permanentes postas automaticamente em Cessar fogo.  Talvez você queira mudar essas ordens antes de mandar a unidade para a batalha.
+
+Para isso, mude para o menu de ordens e clique em Cessar fogo. Assim você alterna entre os níveis de agressividade disponíveis para aquela unidade.

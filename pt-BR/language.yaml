@@ -1,0 +1,22 @@
+# SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+# SPDX-License-Identifier: GPL-3.0-only
+
+# Portuguese (Brazil), built by tools/build.py (README.md). Its letters are
+# all in Windows-1252, but 3.1c's menu fonts (hattfont12 and hattfont11) lack
+# ã, õ and the capitals Ã, Õ, Ç, Â, Ê, Ô and À, so its text is drawn in the
+# modern fonts, whose sans faces travel with the game; the pack brings no
+# font of its own. A player in Portugal gets it too.
+oalang: 1
+tag: pt-BR
+name: Português (BR)
+english-name: Portuguese (Brazil)
+word: Portuguese
+version: "1"
+locales: [pt-BR, pt, pt-PT]
+fallbacks: []
+text: {needs: modern-fonts}
+unicode: true
+warmup: warmup.txt
+packaging: {revision: 1, date: 2026-10-18, packager: open-annihilation/languages tools/build.py}
+homepage: https://github.com/open-annihilation/languages
+requires: {engine: ">= 0.8.0"}
