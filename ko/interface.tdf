@@ -8035,3 +8035,58 @@
 	{
 	ko={registry}에서 게임이 처리할 수 없는 확인 절차를 요청했습니다. 나중에 다시 시도하세요.;
 	}
+
+// First run's question when the copy's source has been changed, and
+// the copy's lines for files left out for their size.
+
+[Your Total Annihilation has been changed]
+	{
+	ko=Total Annihilation이 변경됨;
+	}
+
+[Some of its files are not the size they are in Total Annihilation 3.1c and its expansions. A mod or another program may have changed them.]
+	{
+	ko=일부 파일의 크기가 Total Annihilation 3.1c 및 확장팩의 파일과 다릅니다. 모드나 다른 프로그램이 파일을 변경했을 수 있습니다.;
+	}
+
+[{file}, from {bundle}, is {size} bytes. It should be {expected}.]
+	{
+	ko={file}({bundle})의 크기는 {size}바이트입니다. {expected}바이트여야 합니다.;
+	}
+
+[Open Annihilation needs a fresh Total Annihilation install, without mods, to set up its copy. Nothing has been copied. Choose another place to copy from.]
+	{
+	ko=Open Annihilation의 복사본을 만들려면 모드를 적용하지 않고 새로 설치한 Total Annihilation이 필요합니다. 아무것도 복사하지 않았습니다. 복사해 올 다른 위치를 선택하세요.;
+	}
+
+[Choose another place]
+	{
+	ko=다른 위치 선택;
+	}
+
+[{file} left out: {size} bytes, not {expected}]
+	{
+	ko={file} 제외됨: {expected}바이트가 아닌 {size}바이트;
+	}
+
+[{count} files left out for their size: {files}]
+	{
+	ko=크기가 달라 제외된 파일 {count}개: {files};
+	}
+
+// Graphics' Smooth motion.
+
+[Smooth motion]
+	{
+	ko=부드러운 움직임;
+	}
+
+[Units, shots and spinning parts move smoothly between the game's ticks.]
+	{
+	ko=유닛, 포탄, 회전하는 부품이 게임의 틱 사이에서 부드럽게 움직입니다.;
+	}
+
+[Units and shots move 30 times a second, as the game drew them; fast spins may flicker.]
+	{
+	ko=유닛과 포탄이 원래 게임처럼 초당 30번 움직입니다. 빠른 회전은 깜박일 수 있습니다.;
+	}
