@@ -1,0 +1,706 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Russian mission names, keyed by the mission file the campaign
+// lists. A campaign's "N: " prefix is kept as it is.
+
+[EXP1AC01.ota]
+	{
+	missionname=1: Гидросс — поиски начинаются!;
+	}
+[EXP1AC02.ota]
+	{
+	missionname=2: Захват атолла;
+	}
+[EXP1AC03.ota]
+	{
+	missionname=3: Топим CORE;
+	}
+[EXP1AC04.ota]
+	{
+	missionname=4: Луш — технология ховеркрафтов;
+	}
+[EXP1AC05.ota]
+	{
+	missionname=5: Через топи и болота;
+	}
+[EXP1AC06.ota]
+	{
+	missionname=6: Маяк;
+	}
+[EXP1AC07.ota]
+	{
+	missionname=7: Темблор — землетрясение!;
+	}
+[EXP1AC08.ota]
+	{
+	missionname=8: Между молотом и наковальней;
+	}
+[EXP1AC09.ota]
+	{
+	missionname=9: ARM трясёт, CORE дрожит;
+	}
+[EXP1AC10.ota]
+	{
+	missionname=10: Гелидус — холодный приём;
+	}
+[EXP1AC11.ota]
+	{
+	missionname=11: Куда льдина вынесет;
+	}
+[EXP1AC12.ota]
+	{
+	missionname=12: Спасение галактики;
+	}
+[AC01.ota]
+	{
+	missionname=1: Возвращение героя;
+	}
+[AC02.ota]
+	{
+	missionname=2: База К-ботов CORE: уничтожить!;
+	}
+[AC03.ota]
+	{
+	missionname=3: Паучья технология;
+	}
+[AC04.ota]
+	{
+	missionname=4: Зараза CORE расползается...;
+	}
+[AC05.ota]
+	{
+	missionname=5: Врата на Таласиан;
+	}
+[AC06.ota]
+	{
+	missionname=6: Плацдарм на Таласиане;
+	}
+[AC07.ota]
+	{
+	missionname=7: Оборона гавани Лараб;
+	}
+[AC08.ota]
+	{
+	missionname=8: Врата на Тергиверс IV;
+	}
+[AC09.ota]
+	{
+	missionname=9: Станция гидратации;
+	}
+[AC10.ota]
+	{
+	missionname=10: Лабиринт Бромид;
+	}
+[AC11.ota]
+	{
+	missionname=11: Врата на Баратрум;
+	}
+[AC12.ota]
+	{
+	missionname=12: Баратрум!;
+	}
+[AC13.ota]
+	{
+	missionname=13: Разлом Лэндауна;
+	}
+[AC14.ota]
+	{
+	missionname=14: Накал растёт;
+	}
+[AC15.ota]
+	{
+	missionname=15: Ругпелт;
+	}
+[AC16.ota]
+	{
+	missionname=16: Склад у Контрфорса;
+	}
+[AC17.ota]
+	{
+	missionname=17: Крепость на острове Брубана;
+	}
+[AC18.ota]
+	{
+	missionname=18: Месть!;
+	}
+[AC19.ota]
+	{
+	missionname=19: Насыпь Мотиен;
+	}
+[AC20.ota]
+	{
+	missionname=20: Свалка;
+	}
+[AC21.ota]
+	{
+	missionname=21: Добро пожаловать на CORE Прайм;
+	}
+[AC22.ota]
+	{
+	missionname=22: Битва за координаты 6551:447;
+	}
+[AC23.ota]
+	{
+	missionname=23: Переправа через водоём 397;
+	}
+[AC24.ota]
+	{
+	missionname=24: Прорыв к Центральному Сознанию;
+	}
+[AC25.ota]
+	{
+	missionname=25: Апокалипсис CORE Прайм. Наконец свободны!;
+	}
+[Com Pattern Five.ota]
+	{
+	missionname=Схема связи пять;
+	}
+[Steel Stronghold.ota]
+	{
+	missionname=Стальная твердыня;
+	}
+[Thermal Exchange Causeway.ota]
+	{
+	missionname=Дамба теплообмена;
+	}
+[Crossing the Long Lakes.ota]
+	{
+	missionname=Переправа через Длинные озёра;
+	}
+[Capture Hanan Base.ota]
+	{
+	missionname=Захватить базу Ханан;
+	}
+[Lipar Pass.ota]
+	{
+	missionname=Перевал Липар;
+	}
+[Ice Base Assault.ota]
+	{
+	missionname=Штурм ледяной базы;
+	}
+[Pursuit.ota]
+	{
+	missionname=Преследование;
+	}
+[Backs to the Sea.ota]
+	{
+	missionname=Спиной к морю;
+	}
+[Spider Ambush.ota]
+	{
+	missionname=Паучья засада;
+	}
+[Islands of Grace.ota]
+	{
+	missionname=Острова Благодати;
+	}
+[Wet and Dry.ota]
+	{
+	missionname=Мокрое и сухое;
+	}
+[Meraldi Amphibious Assault.ota]
+	{
+	missionname=Морской десант на Меральди;
+	}
+[Miniement Landing.ota]
+	{
+	missionname=Высадка на Миниемент;
+	}
+[Intimidator Ridge.ota]
+	{
+	missionname=Хребет Устрашителя;
+	}
+[Zipper Attack.ota]
+	{
+	missionname=Атака Молний;
+	}
+[Can Rush.ota]
+	{
+	missionname=Натиск Жестянок;
+	}
+[Attack on Barrack.ota]
+	{
+	missionname=Атака на Баррак;
+	}
+[Cutoff in Sector 6895.ota]
+	{
+	missionname=Окружение в секторе 6895;
+	}
+[Encounter on the Coral Sea.ota]
+	{
+	missionname=Столкновение в Коралловом море;
+	}
+[The Wayneston Ford Engagement.ota]
+	{
+	missionname=Бой у брода Уэйнстон;
+	}
+[Ice Base Baryn.ota]
+	{
+	missionname=Ледяная база Барин;
+	}
+[Forest Base 129.ota]
+	{
+	missionname=Лесная база 129;
+	}
+[Rock Candy Mountains.ota]
+	{
+	missionname=Леденцовые горы;
+	}
+[Kudzu Base.ota]
+	{
+	missionname=База Кудзу;
+	}
+[Yerrot Foothills.ota]
+	{
+	missionname=Предгорья Йеррот;
+	}
+[Island Hopping.ota]
+	{
+	missionname=С острова на остров;
+	}
+[Mist Bombers.ota]
+	{
+	missionname=Бомбардировщики в тумане;
+	}
+[A Shortage of Water.ota]
+	{
+	missionname=Нехватка воды;
+	}
+[Raid on Vetes.ota]
+	{
+	missionname=Рейд на Ветес;
+	}
+[Three Passes.ota]
+	{
+	missionname=Три перевала;
+	}
+[Spire Sports.ota]
+	{
+	missionname=Игры среди шпилей;
+	}
+[Charging the Line.ota]
+	{
+	missionname=Атака на рубеж;
+	}
+[Dawn Directive.ota]
+	{
+	missionname=Директива «Рассвет»;
+	}
+[Waiting.ota]
+	{
+	missionname=Ожидание;
+	}
+[The Vulcans Forge Hotspot.ota]
+	{
+	missionname=Горячая точка «Кузня Вулкана»;
+	}
+[Crawling Destruction.ota]
+	{
+	missionname=Ползучее разрушение;
+	}
+[Battle of Ansapp Sea.ota]
+	{
+	missionname=Битва в море Ансапп;
+	}
+[Between Two Lakes.ota]
+	{
+	missionname=Между двух озёр;
+	}
+[Hunting Nhanons.ota]
+	{
+	missionname=Охота у реки Нанонс;
+	}
+[Sub Hunting.ota]
+	{
+	missionname=Охота на подлодки;
+	}
+[Ambush on Novespin IV.ota]
+	{
+	missionname=Засада на Новеспине IV;
+	}
+[Force the Strait.ota]
+	{
+	missionname=Прорыв через пролив;
+	}
+[Destroy the FMD.ota]
+	{
+	missionname=Уничтожить ПРО «Стойкость»;
+	}
+[Kaki Island Assault.ota]
+	{
+	missionname=Штурм острова Каки;
+	}
+[Fighting Under Fire.ota]
+	{
+	missionname=Бой под огнём;
+	}
+[The Ravenstein Run.ota]
+	{
+	missionname=Бросок к Равенштайну;
+	}
+[Reducing the Yrdac Islands.ota]
+	{
+	missionname=Зачистка островов Ирдак;
+	}
+[Black Box.ota]
+	{
+	missionname=Чёрный ящик;
+	}
+[Firebase Prasad.ota]
+	{
+	missionname=Огневая база Прасад;
+	}
+[Invasion of Destral II.ota]
+	{
+	missionname=Вторжение на Дестрал II;
+	}
+[Guardian Hill.ota]
+	{
+	missionname=Холм Стража;
+	}
+[Metal Maze.ota]
+	{
+	missionname=Металлический лабиринт;
+	}
+[Titanium Fist Bay.ota]
+	{
+	missionname=Залив Титанового Кулака;
+	}
+[Crossing Kerrap Shallows.ota]
+	{
+	missionname=Переправа через мели Керрап;
+	}
+[Peaceful Pools.ota]
+	{
+	missionname=Тихие пруды;
+	}
+[Solidspire Base.ota]
+	{
+	missionname=База Солидспайр;
+	}
+[Fortitude Race.ota]
+	{
+	missionname=Гонка за «Стойкость»;
+	}
+[Brawler Buildup.ota]
+	{
+	missionname=Сбор Задир;
+	}
+[Silent Slayers.ota]
+	{
+	missionname=Тихие убийцы;
+	}
+[Crossing Arnen Inlet.ota]
+	{
+	missionname=Переправа через залив Арнен;
+	}
+[Cloaked in the Spires.ota]
+	{
+	missionname=Скрытые среди шпилей;
+	}
+[Zedtopt Hotsprings.ota]
+	{
+	missionname=Горячие источники Зедтопт;
+	}
+[Intimidator Rising.ota]
+	{
+	missionname=Восход Устрашителя;
+	}
+[Guditha Pass.ota]
+	{
+	missionname=Перевал Гудита;
+	}
+[Sink the Battleship.ota]
+	{
+	missionname=Потопить линкор;
+	}
+[Coordinated Assault.ota]
+	{
+	missionname=Согласованный штурм;
+	}
+[Dogfight over Grantham Deep.ota]
+	{
+	missionname=Воздушный бой над впадиной Грантем;
+	}
+[Mesa Run.ota]
+	{
+	missionname=Бросок через плато;
+	}
+[Krocark Firebase Complex.ota]
+	{
+	missionname=Комплекс огневых баз Крокарк;
+	}
+[Jungle Journey.ota]
+	{
+	missionname=Путь через джунгли;
+	}
+[Capturing Terseknos.ota]
+	{
+	missionname=Захват Терсекноса;
+	}
+[Bertha Cleansing.ota]
+	{
+	missionname=Зачистка Берт;
+	}
+[Surprise at Labrodorite.ota]
+	{
+	missionname=Сюрприз на Лабродорите;
+	}
+[Skirmish on the Sand.ota]
+	{
+	missionname=Стычка на песке;
+	}
+[New Moon.ota]
+	{
+	missionname=Новолуние;
+	}
+[Kbot Mop Up.ota]
+	{
+	missionname=Зачистка К-ботов;
+	}
+[River Base Alpha.ota]
+	{
+	missionname=Речная база «Альфа»;
+	}
+[Crossing Two Rivers.ota]
+	{
+	missionname=Переправа через две реки;
+	}
+[Caranat Conquest.ota]
+	{
+	missionname=Завоевание Караната;
+	}
+[Less Refreshing Sea.ota]
+	{
+	missionname=Не самое освежающее море;
+	}
+[Hot Day and Hull Down.ota]
+	{
+	missionname=Жаркий день в укрытиях;
+	}
+[Seed Crystal.ota]
+	{
+	missionname=Кристалл-затравка;
+	}
+[Cleanup on Kral.ota]
+	{
+	missionname=Зачистка на Крале;
+	}
+[Air Assault.ota]
+	{
+	missionname=Воздушный штурм;
+	}
+[Lightning Recon.ota]
+	{
+	missionname=Молниеносная разведка;
+	}
+[A Gentle Time.ota]
+	{
+	missionname=Спокойное время;
+	}
+[Disintegrator Alley.ota]
+	{
+	missionname=Аллея дезинтеграторов;
+	}
+[Two Ore Coast.ota]
+	{
+	missionname=Берег двух руд;
+	}
+[Thrashing a Rear Guard.ota]
+	{
+	missionname=Разгром арьергарда;
+	}
+[Emerald Seamount.ota]
+	{
+	missionname=Изумрудная подводная гора;
+	}
+[Taking Island 445.ota]
+	{
+	missionname=Захват острова 445;
+	}
+[The Retorb Floodplain.ota]
+	{
+	missionname=Пойма Реторб;
+	}
+[Firebase.ota]
+	{
+	missionname=Огневая база;
+	}
+[Battle of Chimo Island.ota]
+	{
+	missionname=Битва за остров Чимо;
+	}
+[Laser Plain.ota]
+	{
+	missionname=Лазерная равнина;
+	}
+[Rotrey Stream.ota]
+	{
+	missionname=Ручей Ротри;
+	}
+[Rainforest Construction.ota]
+	{
+	missionname=Стройка в тропическом лесу;
+	}
+[Yollets Rain Forest.ota]
+	{
+	missionname=Тропический лес Йоллетс;
+	}
+[The Phase Array Radar.ota]
+	{
+	missionname=Радар с фазированной решёткой;
+	}
+[EXP1CC01.ota]
+	{
+	missionname=1: ARM прибывает на Гидросс;
+	}
+[EXP1CC02.ota]
+	{
+	missionname=2: Мокрое дело;
+	}
+[EXP1CC03.ota]
+	{
+	missionname=3: Лёгкие мишени;
+	}
+[EXP1CC04.ota]
+	{
+	missionname=4: Луш — добро пожаловать в рай;
+	}
+[EXP1CC05.ota]
+	{
+	missionname=5: Тяжёлый бой, тяжкий путь;
+	}
+[EXP1CC06.ota]
+	{
+	missionname=6: Инопланетные жуки;
+	}
+[EXP1CC07.ota]
+	{
+	missionname=7: Тряска, грохот и смерть;
+	}
+[EXP1CC08.ota]
+	{
+	missionname=8: Командная неразбериха;
+	}
+[EXP1CC09.ota]
+	{
+	missionname=9: Штурм Облачной крепости;
+	}
+[EXP1CC10.ota]
+	{
+	missionname=10: Остывание;
+	}
+[EXP1CC11.ota]
+	{
+	missionname=11: Ледяное опустошение;
+	}
+[EXP1CC12.ota]
+	{
+	missionname=12: Пора уходить;
+	}
+[CC01.ota]
+	{
+	missionname=1: Командир снова активирован...;
+	}
+[CC02.ota]
+	{
+	missionname=2: Нечисть;
+	}
+[CC03.ota]
+	{
+	missionname=3: Засада!;
+	}
+[CC04.ota]
+	{
+	missionname=4: Хватит!;
+	}
+[CC05.ota]
+	{
+	missionname=5: Баратрум!;
+	}
+[CC06.ota]
+	{
+	missionname=6: Зачистка начинается;
+	}
+[CC07.ota]
+	{
+	missionname=7: Затягивая петлю;
+	}
+[CC08.ota]
+	{
+	missionname=8: Врата на Аквеус Минор;
+	}
+[CC09.ota]
+	{
+	missionname=9: Очищение Аквеус Минор;
+	}
+[CC10.ota]
+	{
+	missionname=10: Огненный коридор;
+	}
+[CC11.ota]
+	{
+	missionname=11: Остров Парче;
+	}
+[CC12.ota]
+	{
+	missionname=12: Предатель указывает путь;
+	}
+[CC13.ota]
+	{
+	missionname=13: Ругпелт;
+	}
+[CC14.ota]
+	{
+	missionname=14: Зачистка Ругпелта;
+	}
+[CC15.ota]
+	{
+	missionname=15: Бездна Ксантиппы;
+	}
+[CC16.ota]
+	{
+	missionname=16: Уход с Ругпелта;
+	}
+[CC17.ota]
+	{
+	missionname=17: Затерянный остров;
+	}
+[CC18.ota]
+	{
+	missionname=18: Слолам Пилаго;
+	}
+[CC19.ota]
+	{
+	missionname=19: Вебринский флот;
+	}
+[CC20.ota]
+	{
+	missionname=20: Врата на Эгус;
+	}
+[CC21.ota]
+	{
+	missionname=21: Эгус... страж Эмпирриана;
+	}
+[CC22.ota]
+	{
+	missionname=22: Горячий приём на Эмпирриане;
+	}
+[CC23.ota]
+	{
+	missionname=23: Крепость пала;
+	}
+[CC24.ota]
+	{
+	missionname=24: В окружении под обстрелом;
+	}
+[CC25.ota]
+	{
+	missionname=25: Последний рубеж Эмпирриана;
+	}
+[Krogoth Encounter.ota]
+	{
+	missionname=1: Встреча с Кроготом!;
+	}

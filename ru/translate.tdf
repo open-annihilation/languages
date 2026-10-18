@@ -1,0 +1,4168 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Russian for 3.1c's translate.tdf texts, keyed by 3.1c's English
+// exactly (case and spaces included), in 3.1c's own order.
+
+// Ingame and Panel Messages
+
+[KILLS]
+	{
+	Russian=УНИЧТОЖЕНО;
+	}
+[Kills]
+	{
+	Russian=Уничтожено;
+	}
+[Kill]
+	{
+	Russian=Уничтожено;
+	}
+[kill]
+	{
+	Russian=уничтожено;
+	}
+[LOSSES]
+	{
+	Russian=ПОТЕРИ;
+	}
+[Losses]
+	{
+	Russian=Потери;
+	}
+[kills]
+	{
+	Russian=уничтожено;
+	}
+[Veteran]
+	{
+	Russian=Ветеран;
+	}
+[Newbie]
+	{
+	Russian=Новичок;
+	}
+[PAUSED]
+	{
+	Russian=ПАУЗА;
+	}
+
+// Loading screen
+
+[Map]
+	{
+	Russian=Карта;
+	}
+[Map:]
+	{
+	Russian=Карта:;
+	}
+[Terrain]
+	{
+	Russian=Рельеф;
+	}
+[Textures]
+	{
+	Russian=Текстуры;
+	}
+[Units]
+	{
+	Russian=Юниты;
+	}
+[Features]
+	{
+	Russian=Объекты;
+	}
+[FEATURES]
+	{
+	Russian=ОБЪЕКТЫ;
+	}
+[MoveInfo]
+	{
+	Russian=Данные движения;
+	}
+[Explosions]
+	{
+	Russian=Взрывы;
+	}
+[Synchronization complete]
+	{
+	Russian=Синхронизация завершена;
+	}
+[player ready]
+	{
+	Russian=готов к игре;
+	}
+[players ready]
+	{
+	Russian=готовы к игре;
+	}
+[Waiting for other players]
+	{
+	Russian=Ожидание других игроков;
+	}
+[Synchronizing]
+	{
+	Russian=Синхронизация;
+	}
+[Waiting for the Creator]
+	{
+	Russian=Ожидание хоста;
+	}
+[3D Data]
+	{
+	Russian=3D-данные;
+	}
+[Animation]
+	{
+	Russian=Анимация;
+	}
+[Animations]
+	{
+	Russian=Анимации;
+	}
+
+// Sides
+
+[Arm]
+	{
+	Russian=ARM;
+	}
+[Core]
+	{
+	Russian=CORE;
+	}
+[Arm Campaign]
+	{
+	Russian=Кампания ARM;
+	}
+[arm campaign]
+	{
+	Russian=Кампания ARM;
+	}
+[Core Campaign]
+	{
+	Russian=Кампания CORE;
+	}
+
+// Campaigns' names in the New Campaign and Any Mission lists, which 3.1c's
+// table does not hold: keyed by the campaign file's name, without the space
+// that ends Core Contingency's.
+
+[Arm Campaign - Core Contingency]
+	{
+	Russian=Кампания ARM — Core Contingency;
+	}
+[Core Campaign - Core Contingency]
+	{
+	Russian=Кампания CORE — Core Contingency;
+	}
+[Krogoth Encounter]
+	{
+	Russian=Встреча с Кроготом;
+	}
+[Battle Tactics - Arm Very Short]
+	{
+	Russian=Battle Tactics — ARM, очень короткие;
+	}
+[Battle Tactics - Arm Short]
+	{
+	Russian=Battle Tactics — ARM, короткие;
+	}
+[Battle Tactics - Arm Medium]
+	{
+	Russian=Battle Tactics — ARM, средние;
+	}
+[Battle Tactics - Arm Long]
+	{
+	Russian=Battle Tactics — ARM, длинные;
+	}
+[Battle Tactics - Core Very Short]
+	{
+	Russian=Battle Tactics — CORE, очень короткие;
+	}
+[Battle Tactics - Core Short]
+	{
+	Russian=Battle Tactics — CORE, короткие;
+	}
+[Battle Tactics - Core Medium]
+	{
+	Russian=Battle Tactics — CORE, средние;
+	}
+[Battle Tactics - Core Long]
+	{
+	Russian=Battle Tactics — CORE, длинные;
+	}
+
+// Menus
+
+[No Narration]
+	{
+	Russian=Без голоса;
+	}
+[Narration]
+	{
+	Russian=Озвучка;
+	}
+[Start]
+	{
+	Russian=Начать;
+	}
+[Select]
+	{
+	Russian=Выбрать;
+	}
+[Previous Menu]
+	{
+	Russian=Назад;
+	}
+[Next]
+	{
+	Russian=Далее;
+	}
+[Previous]
+	{
+	Russian=Назад;
+	}
+[SOUND]
+	{
+	Russian=ЗВУК;
+	}
+[INTERFACE]
+	{
+	Russian=ИНТЕРФЕЙС;
+	}
+[VISUALS]
+	{
+	Russian=ГРАФИКА;
+	}
+[MUSIC]
+	{
+	Russian=МУЗЫКА;
+	}
+[Set Difficulty]
+	{
+	Russian=Сложность;
+	}
+[Skirmish]
+	{
+	Russian=Схватка;
+	}
+[Skirmish (%d players)]
+	{
+	Russian=Схватка (игроков: %d);
+	}
+[New Campaign]
+	{
+	Russian=Кампания;
+	}
+[NEW CAMPAIGN]
+	{
+	Russian=НОВАЯ КАМПАНИЯ;
+	}
+[Start Campaign]
+	{
+	Russian=Начать;
+	}
+[Select Campaign]
+	{
+	Russian=Кампания;
+	}
+[SELECT CAMPAIGN:]
+	{
+	Russian=ВЫБОР КАМПАНИИ:;
+	}
+[Select Any Mission]
+	{
+	Russian=Выбрать любую миссию;
+	}
+[Select Mission]
+	{
+	Russian=Выбрать;
+	}
+[Start Mission]
+	{
+	Russian=Начать;
+	}
+[Undo Changes]
+	{
+	Russian=Отменить;
+	}
+[Restore Defaults]
+	{
+	Russian=Сбросить;
+	}
+[Restore Default]
+	{
+	Russian=Сбросить;
+	}
+[Exit to Menu]
+	{
+	Russian=Выйти в меню;
+	}
+[Exit Game]
+	{
+	Russian=Выйти из игры;
+	}
+[Please Select Map]
+	{
+	Russian=Выберите карту;
+	}
+[Load Map]
+	{
+	Russian=Загрузить карту;
+	}
+[Select Side]
+	{
+	Russian=Сторона;
+	}
+
+// Generic gameplay stuff
+
+[Player]
+	{
+	Russian=Игрок;
+	}
+[Players]
+	{
+	Russian=Игроки;
+	}
+[Players:]
+	{
+	Russian=Игроки:;
+	}
+[Allies]
+	{
+	Russian=Союзники;
+	}
+[ALLIES]
+	{
+	Russian=СОЮЗНИКИ;
+	}
+[Ally]
+	{
+	Russian=Союзник;
+	}
+[Side]
+	{
+	Russian=Сторона;
+	}
+[Metal]
+	{
+	Russian=Металл;
+	}
+[METAL]
+	{
+	Russian=МЕТАЛЛ;
+	}
+[Energy]
+	{
+	Russian=Энергия;
+	}
+[ENERGY]
+	{
+	Russian=ЭНЕРГИЯ;
+	}
+[Color]
+	{
+	Russian=Цвет;
+	}
+[Yes]
+	{
+	Russian=Да;
+	}
+[No]
+	{
+	Russian=Нет;
+	}
+[OK]
+	{
+	Russian=OK;
+	}
+[Ok]
+	{
+	Russian=OK;
+	}
+[Cancel]
+	{
+	Russian=Отмена;
+	}
+[CANCEL]
+	{
+	Russian=ОТМЕНА;
+	}
+
+// Victory/Defeat Screen
+
+[Energy Produced]
+	{
+	Russian=Произведено энергии;
+	}
+[Metal Produced]
+	{
+	Russian=Произведено металла;
+	}
+[Energy Wasted]
+	{
+	Russian=Растрачено энергии;
+	}
+[Metal Wasted]
+	{
+	Russian=Растрачено металла;
+	}
+
+// Options menu
+
+[Options Menu]
+	{
+	Russian=Параметры;
+	}
+[GAME OPTIONS]
+	{
+	Russian=МЕНЮ ИГРЫ;
+	}
+[Resume]
+	{
+	Russian=Продолжить;
+	}
+[Save Game]
+	{
+	Russian=Сохранить;
+	}
+[Load Game]
+	{
+	Russian=Загрузить;
+	}
+[Preferences]
+	{
+	Russian=Настройки;
+	}
+[End Mission]
+	{
+	Russian=Завершить миссию;
+	}
+[Help]
+	{
+	Russian=Справка;
+	}
+[Briefing]
+	{
+	Russian=Брифинг;
+	}
+[Mission Objective]
+	{
+	Russian=Цель миссии;
+	}
+
+// Player settings
+
+[UNUSED]
+	{
+	Russian=СВОБОДНО;
+	}
+[unused]
+	{
+	Russian=свободно;
+	}
+[AI]
+	{
+	Russian=ИИ;
+	}
+[BLOCKED]
+	{
+	Russian=ЗАКРЫТО;
+	}
+[No Limit]
+	{
+	Russian=Без лимита;
+	}
+
+// CD controls
+
+[CD Player]
+	{
+	Russian=CD-плеер;
+	}
+[No Music]
+	{
+	Russian=Без музыки;
+	}
+[Repeat Track]
+	{
+	Russian=Повтор трека;
+	}
+[Repeat Track #]
+	{
+	Russian=Повтор трека №;
+	}
+[Repeat]
+	{
+	Russian=Повтор;
+	}
+[Random Tracks]
+	{
+	Russian=Случайные треки;
+	}
+[Specify Tracks]
+	{
+	Russian=Выбрать треки;
+	}
+[Play All Tracks]
+	{
+	Russian=Играть все треки;
+	}
+[Play All]
+	{
+	Russian=Играть все;
+	}
+[Track]
+	{
+	Russian=Трек;
+	}
+[Custom]
+	{
+	Russian=Свой;
+	}
+[No Action]
+	{
+	Russian=Затишье;
+	}
+[Battle]
+	{
+	Russian=Бой;
+	}
+[Defeat]
+	{
+	Russian=Поражение;
+	}
+[Unused]
+	{
+	Russian=Не используется;
+	}
+[NO DISC]
+	{
+	Russian=НЕТ ДИСКА;
+	}
+
+// Speeds
+
+[Normal]
+	{
+	Russian=Обычно;
+	}
+[Slow]
+	{
+	Russian=Медленно;
+	}
+[Slower]
+	{
+	Russian=Медленнее;
+	}
+[Fast]
+	{
+	Russian=Быстро;
+	}
+[Faster]
+	{
+	Russian=Быстрее;
+	}
+[Game Speed]
+	{
+	Russian=Скорость игры;
+	}
+[Mouse Speed]
+	{
+	Russian=Скорость мыши;
+	}
+[Screen Scroll]
+	{
+	Russian=Прокрутка;
+	}
+[Screen Text Delay]
+	{
+	Russian=Показ текста;
+	}
+[Interface]
+	{
+	Russian=Интерфейс;
+	}
+[Unit Chat]
+	{
+	Russian=Реплики;
+	}
+[Text Lines]
+	{
+	Russian=Строки текста;
+	}
+[Game]
+	{
+	Russian=Игра;
+	}
+[Mouse]
+	{
+	Russian=Мышь;
+	}
+[Screen]
+	{
+	Russian=Экран;
+	}
+[Text Delay (secs)]
+	{
+	Russian=Время текста (с);
+	}
+[Button Interface]
+	{
+	Russian=Кнопки мыши;
+	}
+[Control]
+	{
+	Russian=Управление;
+	}
+
+// Gamespeed
+
+[Quick]
+	{
+	Russian=Живо;
+	}
+[Sluggish]
+	{
+	Russian=Вяло;
+	}
+[Rapid Fire]
+	{
+	Russian=Молниеносно;
+	}
+
+// Chat settings
+
+[No Chat]
+	{
+	Russian=Без реплик;
+	}
+[Only important info]
+	{
+	Russian=Только важное;
+	}
+[Medium chat]
+	{
+	Russian=Умеренные реплики;
+	}
+[Detailed chat]
+	{
+	Russian=Подробные реплики;
+	}
+[High chat level]
+	{
+	Russian=Много реплик;
+	}
+[All info chatted]
+	{
+	Russian=Все сообщения;
+	}
+[ENEMIES]
+	{
+	Russian=ВРАГИ;
+	}
+[Enemies]
+	{
+	Russian=Враги;
+	}
+[All]
+	{
+	Russian=Все;
+	}
+[ALL]
+	{
+	Russian=ВСЕ;
+	}
+[TALK TO:]
+	{
+	Russian=КОМУ:;
+	}
+[Unit Sounds]
+	{
+	Russian=Звуки юнитов;
+	}
+[UNIT SOUNDS]
+	{
+	Russian=ЗВУКИ ЮНИТОВ;
+	}
+
+// Sound settings
+
+[On]
+	{
+	Russian=Вкл.;
+	}
+[Off]
+	{
+	Russian=Выкл.;
+	}
+[Mono]
+	{
+	Russian=Моно;
+	}
+[Stereo]
+	{
+	Russian=Стерео;
+	}
+[3d]
+	{
+	Russian=3D;
+	}
+[Sound Effects Volume]
+	{
+	Russian=Громкость эффектов;
+	}
+[Music Volume]
+	{
+	Russian=Музыка;
+	}
+[Sound Volume]
+	{
+	Russian=Громкость звука;
+	}
+[Sound Mode]
+	{
+	Russian=Режим звука;
+	}
+[No Chatting]
+	{
+	Russian=Без реплик;
+	}
+[TEST]
+	{
+	Russian=ТЕСТ;
+	}
+[Sound Test]
+	{
+	Russian=Проверка звука;
+	}
+[SOUND TEST]
+	{
+	Russian=ПРОВЕРКА ЗВУКА;
+	}
+[Building Sounds]
+	{
+	Russian=Звуки строительства;
+	}
+[Building]
+	{
+	Russian=Стройка;
+	}
+[Unit Speech]
+	{
+	Russian=Голоса юнитов;
+	}
+[Unit Chat Level]
+	{
+	Russian=Уровень реплик;
+	}
+[Unit Text Acks]
+	{
+	Russian=Ответы;
+	}
+[Chat Level Info]
+	{
+	Russian=Об уровнях реплик;
+	}
+[Unit Acknowledgement]
+	{
+	Russian=Ответы юнитов;
+	}
+// Not in 3.1c's table: the Unit Speech and Unit Chat Level buttons'
+// stages, whole. A button's whole caption is translated before each of its
+// stages, and [Full] alone is a game the game list shows full.
+[Off|Medium|Full]
+	{
+	Russian=Выкл.|Средний|Полный;
+	}
+
+// Difficulty settings
+
+[Difficulty]
+	{
+	Russian=Сложность;
+	}
+[Difficulty:]
+	{
+	Russian=Сложность:;
+	}
+[Easy]
+	{
+	Russian=Лёгкий;
+	}
+[Medium]
+	{
+	Russian=Средний;
+	}
+[Hard]
+	{
+	Russian=Сложный;
+	}
+[Mapped]
+	{
+	Russian=Открытая;
+	}
+[Unmapped]
+	{
+	Russian=Скрытая;
+	}
+
+// Starting resource levels
+
+[Low]
+	{
+	Russian=Низкий;
+	}
+[High]
+	{
+	Russian=Высокий;
+	}
+
+// Interface menu
+
+[Left]
+	{
+	Russian=Левая;
+	}
+[Right]
+	{
+	Russian=Правая;
+	}
+[Left Click]
+	{
+	Russian=Левая;
+	}
+[Right Click]
+	{
+	Russian=Правая;
+	}
+
+// Visuals menu
+
+[Shading]
+	{
+	Russian=Затенение;
+	}
+[Antialias]
+	{
+	Russian=Сглаживание;
+	}
+[Anti-aliasing]
+	{
+	Russian=Сглаживание;
+	}
+[Map Mode]
+	{
+	Russian=Режим карты;
+	}
+[Gamma]
+	{
+	Russian=Гамма;
+	}
+[Gamma Correction]
+	{
+	Russian=Коррекция гаммы;
+	}
+[Line Of Sight]
+	{
+	Russian=Обзор;
+	}
+[Object rendering]
+	{
+	Russian=Отрисовка объектов;
+	}
+[Screen Size]
+	{
+	Russian=Размер экрана;
+	}
+[Size]
+	{
+	Russian=Размер;
+	}
+[Shadows]
+	{
+	Russian=Тени;
+	}
+[Building Shadows]
+	{
+	Russian=Тени зданий;
+	}
+[Vehicle Shadows]
+	{
+	Russian=Тени техники;
+	}
+[True]
+	{
+	Russian=Истинный;
+	}
+[Set]
+	{
+	Russian=Задать;
+	}
+
+// Video mode menu
+
+[Select Videomode]
+	{
+	Russian=Выбрать видеорежим;
+	}
+[Select Mode]
+	{
+	Russian=Выбрать режим;
+	}
+
+// Save / Load game menus
+
+[Name Of Game to Load]
+	{
+	Russian=Имя игры для загрузки;
+	}
+[Name Of Game to Save]
+	{
+	Russian=Имя игры для сохранения;
+	}
+[Reset List]
+	{
+	Russian=Сбросить;
+	}
+[Delete Game]
+	{
+	Russian=Удалить;
+	}
+[Delete List]
+	{
+	Russian=Удалить;
+	}
+[Cancel Save]
+	{
+	Russian=Отмена;
+	}
+[Game type:]
+	{
+	Russian=Тип игры:;
+	}
+[Mission/Map:]
+	{
+	Russian=Миссия/карта:;
+	}
+[Time elapsed:]
+	{
+	Russian=Прошло времени:;
+	}
+[Side:]
+	{
+	Russian=Сторона:;
+	}
+[Campaign:]
+	{
+	Russian=Кампания:;
+	}
+[There are no saved games to choose from]
+	{
+	Russian=Нет сохранённых игр;
+	}
+[Mission:]
+	{
+	Russian=Миссия:;
+	}
+[Time saved:]
+	{
+	Russian=Время сохранения:;
+	}
+
+// Multiplayer connection messages
+
+[The creator has left the game]
+	{
+	Russian=Хост покинул игру;
+	}
+[Reject Now]
+	{
+	Russian=Выгнать;
+	}
+[will be rejected in %d seconds]
+	{
+	Russian=будет исключён через %d с;
+	}
+[You do not have a compatible version for this game.]
+	{
+	Russian=У вас нет совместимой версии для этой игры.;
+	}
+[is not responding]
+	{
+	Russian=не отвечает;
+	}
+[Timed out while connecting to DirectPlay lobby!]
+	{
+	Russian=Истекло время ожидания подключения к лобби DirectPlay!;
+	}
+[Please insert the Installation CD (Disc 1) and select%s"%s" again.]
+	{
+	Russian=Вставьте установочный компакт-диск (диск 1) и снова выберите%s«%s».;
+	}
+[Please insert the Campaign CD (Disc 2) and try again]
+	{
+	Russian=Вставьте компакт-диск кампании (диск 2) и попробуйте ещё раз;
+	}
+[Please insert the Multiplayer CD (Disc 1) and try again]
+	{
+	Russian=Вставьте компакт-диск сетевой игры (диск 1) и попробуйте ещё раз;
+	}
+[Fault while trying to excecute button action.]
+	{
+	Russian=Ошибка при выполнении действия кнопки.;
+	}
+[The "%s" service failed or took %stoo long. Please see the readmee%sfile for more information.]
+	{
+	Russian=Служба «%s» дала сбой или%sотвечала слишком долго. Подробности см.%sв файле readme.;
+	}
+[Unable to connect to DirectPlay lobby.]
+	{
+	Russian=Не удалось подключиться к лобби DirectPlay.;
+	}
+[Unable to browse to URL: %s]
+	{
+	Russian=Не удалось открыть адрес: %s;
+	}
+[Unable to invoke DLL: %s]
+	{
+	Russian=Не удалось вызвать DLL: %s;
+	}
+[Unable to execute command: %s]
+	{
+	Russian=Не удалось выполнить команду: %s;
+	}
+[Could not match weapon type "%s" for synchronization!]
+	{
+	Russian=Не удалось сопоставить тип оружия «%s» для синхронизации!;
+	}
+[Updating...]
+	{
+	Russian=Обновление...;
+	}
+[You must enter a game name]
+	{
+	Russian=Нужно ввести название игры;
+	}
+[You must enter your name]
+	{
+	Russian=Нужно ввести своё имя;
+	}
+[You were rejected from the game]
+	{
+	Russian=Вас исключили из игры;
+	}
+[The %s service failed or took%stoo long. Please see the readme%sfile for more information.]
+	{
+	Russian=Служба %s дала сбой или%sотвечала слишком долго. Подробности см.%sв файле readme.;
+	}
+[Direct Connections]
+	{
+	Russian=Прямые соединения;
+	}
+[Internet Access]
+	{
+	Russian=Доступ к интернету;
+	}
+[There are no multiplayer games to choose from]
+	{
+	Russian=Нет сетевых игр;
+	}
+[Player has left the game]
+	{
+	Russian=Игрок покинул игру;
+	}
+[Player is joining the game]
+	{
+	Russian=Игрок присоединяется к игре;
+	}
+[Player has disconnected]
+	{
+	Russian=Игрок отключился;
+	}
+[Player %s has disconnected]
+	{
+	Russian=Игрок %s отключился;
+	}
+[You did not have the correct password]
+	{
+	Russian=Вы ввели неверный пароль;
+	}
+[10 seconds]
+	{
+	Russian=10 секунд;
+	}
+[Please Select Provider]
+	{
+	Russian=Тип соединения;
+	}
+[Select Provider]
+	{
+	Russian=Выбрать;
+	}
+
+// Multiplayer interface
+
+[Allied Victory]
+	{
+	Russian=Союзники;
+	}
+[Chosen Units]
+	{
+	Russian=Выделенные;
+	}
+[More Info]
+	{
+	Russian=Подробнее;
+	}
+[Enter Game Name]
+	{
+	Russian=Введите название игры;
+	}
+[Enter Your Name]
+	{
+	Russian=Введите своё имя;
+	}
+[Create New Game]
+	{
+	Russian=Создать игру;
+	}
+[Password To Join]
+	{
+	Russian=Пароль для входа;
+	}
+[Closed]
+	{
+	Russian=Закрыта;
+	}
+[The game is closed]
+	{
+	Russian=Игра закрыта;
+	}
+[The game is full]
+	{
+	Russian=Игра заполнена;
+	}
+[In Game]
+	{
+	Russian=В игре;
+	}
+[Lounge]
+	{
+	Russian=Лобби;
+	}
+[Playing]
+	{
+	Russian=Идёт игра;
+	}
+[Full]
+	{
+	Russian=Заполнена;
+	}
+[Reject Player:]
+	{
+	Russian=Выгнать игрока:;
+	}
+[Reject Player]
+	{
+	Russian=Выгнать игрока;
+	}
+[Reject Player?]
+	{
+	Russian=Выгнать игрока?;
+	}
+[Reject %s?]
+	{
+	Russian=Выгнать %s?;
+	}
+[Reject]
+	{
+	Russian=Выгнать;
+	}
+[Not Selected]
+	{
+	Russian=Не выбрано;
+	}
+[NOT SELECTED]
+	{
+	Russian=НЕ ВЫБРАНО;
+	}
+[Join]
+	{
+	Russian=Войти;
+	}
+[New]
+	{
+	Russian=Новая;
+	}
+[Name of Game]
+	{
+	Russian=Название игры;
+	}
+[Plyrs]
+	{
+	Russian=Игроки;
+	}
+[Status]
+	{
+	Russian=Статус;
+	}
+[Watch]
+	{
+	Russian=Наблюдать;
+	}
+[Update]
+	{
+	Russian=Обновить;
+	}
+[LOS]
+	{
+	Russian=Обзор;
+	}
+[Cmdr]
+	{
+	Russian=Ком.;
+	}
+[Ping]
+	{
+	Russian=Пинг;
+	}
+[Name]
+	{
+	Russian=Имя;
+	}
+[Your Name]
+	{
+	Russian=Ваше имя;
+	}
+[Game Password]
+	{
+	Russian=Пароль игры;
+	}
+
+// Lounge options
+
+[Messages]
+	{
+	Russian=Сообщения;
+	}
+[Mem.]
+	{
+	Russian=Пам.;
+	}
+[Ready?]
+	{
+	Russian=Готовы?;
+	}
+[Start Game]
+	{
+	Russian=Начать;
+	}
+[Select Map]
+	{
+	Russian=Выбрать;
+	}
+[Resolution]
+	{
+	Russian=Разрешение;
+	}
+[Cmndr Ends Game]
+	{
+	Russian=Конец игры;
+	}
+[LOS Mode]
+	{
+	Russian=Обзор;
+	}
+[Cheat Codes]
+	{
+	Russian=Чит-коды;
+	}
+[Cheat Codes:]
+	{
+	Russian=Чит-коды:;
+	}
+[Disallowed]
+	{
+	Russian=Запрещены;
+	}
+[Allowed]
+	{
+	Russian=Разрешены;
+	}
+[Watching]
+	{
+	Russian=Зрители;
+	}
+[Watching:]
+	{
+	Russian=Зрители:;
+	}
+[Watching OK]
+	{
+	Russian=Зрители;
+	}
+[No Watching]
+	{
+	Russian=Зрители: нет;
+	}
+[Game Open]
+	{
+	Russian=Игра открыта;
+	}
+[Game Closed]
+	{
+	Russian=Игра закрыта;
+	}
+[Game Status]
+	{
+	Russian=Статус игры;
+	}
+[Watching Allowed]
+	{
+	Russian=Зрители: да;
+	}
+[Map Name]
+	{
+	Russian=Название карты;
+	}
+[Max Units]
+	{
+	Russian=Лимит;
+	}
+[Max Units:]
+	{
+	Russian=Макс. юнитов:;
+	}
+[Game Is Open]
+	{
+	Russian=Игра открыта;
+	}
+[Build Restrictions]
+	{
+	Russian=Ограничения;
+	}
+
+// Skirmish menu
+
+[Start Skirmish]
+	{
+	Russian=Начать схватку;
+	}
+[Location]
+	{
+	Russian=Позиция;
+	}
+[Dead Commander]
+	{
+	Russian=Командир;
+	}
+[Commander]
+	{
+	Russian=Командир;
+	}
+
+// Restrictions menu
+
+[Max Per Player]
+	{
+	Russian=Макс. на игрока;
+	}
+[Unit Build Restrictions]
+	{
+	Russian=Ограничения строительства юнитов;
+	}
+[Load List]
+	{
+	Russian=Загрузить;
+	}
+[Save List]
+	{
+	Russian=Сохранить;
+	}
+[Name of list to save]
+	{
+	Russian=Имя списка для сохранения;
+	}
+[Show Picture]
+	{
+	Russian=Показать изображение;
+	}
+
+// Gameplay options
+
+[Fixed]
+	{
+	Russian=Заданная;
+	}
+[Random]
+	{
+	Russian=Случайная;
+	}
+[Specific]
+	{
+	Russian=На выбор;
+	}
+[Fixed Locations]
+	{
+	Russian=Заданные;
+	}
+[Random Locations]
+	{
+	Russian=Случайные;
+	}
+[Game Ends]
+	{
+	Russian=Конец игры;
+	}
+[Game ends]
+	{
+	Russian=Конец игры;
+	}
+[Deathmatch]
+	{
+	Russian=Дезматч;
+	}
+[Continues]
+	{
+	Russian=Игра идёт;
+	}
+[Game Continues]
+	{
+	Russian=Игра идёт;
+	}
+[Mapping Mode]
+	{
+	Russian=Видимость карты;
+	}
+[Mapping Mode:]
+	{
+	Russian=Видимость карты:;
+	}
+[Blank Map]
+	{
+	Russian=Скрытая;
+	}
+[Full Map]
+	{
+	Russian=Вся карта;
+	}
+[LOS Off]
+	{
+	Russian=Выключен;
+	}
+[Permanent]
+	{
+	Russian=Постоянный;
+	}
+[True LOS]
+	{
+	Russian=Истинный;
+	}
+[Circular]
+	{
+	Russian=Круговой;
+	}
+[Starting Locations:]
+	{
+	Russian=Стартовые позиции:;
+	}
+[Start Location]
+	{
+	Russian=Стартовая позиция;
+	}
+[Commander Death]
+	{
+	Russian=Гибель Командира;
+	}
+[Commander Death:]
+	{
+	Russian=Командир:;
+	}
+[Mapping]
+	{
+	Russian=Карта;
+	}
+[Line of Sight]
+	{
+	Russian=Обзор;
+	}
+[Line of Sight:]
+	{
+	Russian=Обзор:;
+	}
+[Computer Opponent]
+	{
+	Russian=Компьютер;
+	}
+[Computer]
+	{
+	Russian=Компьютер;
+	}
+[AI Opponent]
+	{
+	Russian=Противник ИИ;
+	}
+[Opponent]
+	{
+	Russian=Противник;
+	}
+[Exit the Battle]
+	{
+	Russian=Выйти из боя;
+	}
+[Page 1]
+	{
+	Russian=Стр. 1;
+	}
+[Page 2]
+	{
+	Russian=Стр. 2;
+	}
+[Page 3]
+	{
+	Russian=Стр. 3;
+	}
+
+// Briefing messages
+
+[BACK TO START]
+	{
+	Russian=В НАЧАЛО;
+	}
+[MORE...]
+	{
+	Russian=ДАЛЕЕ...;
+	}
+
+// Game over screen
+
+[Victory or Failure]
+	{
+	Russian=Победа или поражение;
+	}
+[Main Menu]
+	{
+	Russian=В меню;
+	}
+[Game Statistics]
+	{
+	Russian=Статистика игры;
+	}
+[Statistics]
+	{
+	Russian=Статистика;
+	}
+[Next Mission]
+	{
+	Russian=Следующая миссия;
+	}
+[Adjust Difficulty]
+	{
+	Russian=Сложность;
+	}
+[Adjust skirmish difficulty.]
+	{
+	Russian=Изменить сложность схватки.;
+	}
+[You]
+	{
+	Russian=Вы;
+	}
+[AI Player]
+	{
+	Russian=Игрок ИИ;
+	}
+[Score]
+	{
+	Russian=Счёт;
+	}
+[Victory]
+	{
+	Russian=Победа;
+	}
+[Failure]
+	{
+	Russian=Поражение;
+	}
+
+// Game commands
+
+[Total Units]
+	{
+	Russian=Юниты;
+	}
+[Stop Building]
+	{
+	Russian=Остановить;
+	}
+[Options]
+	{
+	Russian=Параметры;
+	}
+[Share]
+	{
+	Russian=Передать;
+	}
+
+// Share options
+
+[TRANSFER RESOURCES]
+	{
+	Russian=РЕСУРСЫ;
+	}
+[Selected Units]
+	{
+	Russian=Выделенные юниты;
+	}
+[Select Player]
+	{
+	Russian=Выбор игрока;
+	}
+[Map Info]
+	{
+	Russian=О карте;
+	}
+
+// Unit status messages
+
+[five]
+	{
+	Russian=пять;
+	}
+[four]
+	{
+	Russian=четыре;
+	}
+[three]
+	{
+	Russian=три;
+	}
+[two]
+	{
+	Russian=два;
+	}
+[one]
+	{
+	Russian=один;
+	}
+[zero]
+	{
+	Russian=ноль;
+	}
+[Building complete]
+	{
+	Russian=Строительство завершено;
+	}
+[Capture failed]
+	{
+	Russian=Захват не удался;
+	}
+[Construction failed: target area was blocked]
+	{
+	Russian=Строительство не удалось: участок занят;
+	}
+[Construction stopped]
+	{
+	Russian=Строительство остановлено;
+	}
+[Construction terminated]
+	{
+	Russian=Строительство прекращено;
+	}
+[Target area was blocked]
+	{
+	Russian=Участок занят;
+	}
+[Construction terminated by hostile action]
+	{
+	Russian=Строительство прекращено из-за действий противника;
+	}
+[How can I fix units when they keep blowing up?]
+	{
+	Russian=Как мне ремонтировать юниты, если они постоянно взрываются?;
+	}
+[I can't get there]
+	{
+	Russian=Не могу туда добраться;
+	}
+[I can't reach the construction site]
+	{
+	Russian=Не могу добраться до места строительства;
+	}
+[Landing aborted]
+	{
+	Russian=Посадка прервана;
+	}
+[Landing aborted: all pads are occupied]
+	{
+	Russian=Посадка прервана: все площадки заняты;
+	}
+[Landing aborted: no pads available]
+	{
+	Russian=Посадка прервана: нет свободных площадок;
+	}
+[Landing failed]
+	{
+	Russian=Посадка не удалась;
+	}
+[Loading unit]
+	{
+	Russian=Погрузка юнита;
+	}
+[Preparing for transport]
+	{
+	Russian=Подготовка к перевозке;
+	}
+[Reclamate failed]
+	{
+	Russian=Утилизация не удалась;
+	}
+[Reclamating]
+	{
+	Russian=Утилизация;
+	}
+[Reclamation failed]
+	{
+	Russian=Утилизация не удалась;
+	}
+[Repair aborted.]
+	{
+	Russian=Ремонт прерван.;
+	}
+[Repair mission failed]
+	{
+	Russian=Ремонтное задание провалено;
+	}
+[Repairs unsuccessful.]
+	{
+	Russian=Ремонт не удался.;
+	}
+[Self destruct terminated]
+	{
+	Russian=Самоуничтожение отменено;
+	}
+[Starting construction]
+	{
+	Russian=Начало строительства;
+	}
+[That unit cannot be captured]
+	{
+	Russian=Этот юнит нельзя захватить;
+	}
+[That unit cannot be reclamated]
+	{
+	Russian=Этот юнит нельзя утилизировать;
+	}
+[That unit cannot be reclaimed]
+	{
+	Russian=Этот юнит нельзя утилизировать;
+	}
+[That unit is a cloud of vapor and cannot be captured]
+	{
+	Russian=Этот юнит — лишь облако пара, его нельзя захватить;
+	}
+[That unit is a cloud of vapor and cannot be reclamated]
+	{
+	Russian=Этот юнит — лишь облако пара, его нельзя утилизировать;
+	}
+[Transport mission failed]
+	{
+	Russian=Транспортное задание провалено;
+	}
+[End Transport]
+	{
+	Russian=Конец перевозки;
+	}
+[Unable to create any more units]
+	{
+	Russian=Невозможно создать больше юнитов;
+	}
+[Unable to unload unit]
+	{
+	Russian=Невозможно выгрузить юнит;
+	}
+[Unit is too heavy to transport]
+	{
+	Russian=Юнит слишком тяжёл для перевозки;
+	}
+[Unit is too large to transport]
+	{
+	Russian=Юнит слишком велик для перевозки;
+	}
+[Unit repaired]
+	{
+	Russian=Юнит отремонтирован;
+	}
+[Unloading]
+	{
+	Russian=Выгрузка;
+	}
+[Unloading process is proceeding non-optimally]
+	{
+	Russian=Выгрузка идёт неоптимально;
+	}
+[Waiting for construction area to clear]
+	{
+	Russian=Ожидание освобождения строительного участка;
+	}
+[Waiting for target area to clear]
+	{
+	Russian=Ожидание освобождения целевого участка;
+	}
+[Waiting for construction pad to clear]
+	{
+	Russian=Ожидание освобождения строительной площадки;
+	}
+
+// Miscellaneous
+
+[Warning!\n\nUnable to register %1 for DirectPlay.]
+	{
+	Russian=Внимание!\n\nНе удалось зарегистрировать %1 для DirectPlay.;
+	}
+[Unidentified object]
+	{
+	Russian=Неопознанный объект;
+	}
+[Game Time]
+	{
+	Russian=Время игры;
+	}
+[Human]
+	{
+	Russian=Человек;
+	}
+[Human Player]
+	{
+	Russian=Человек;
+	}
+[Open]
+	{
+	Russian=Свободно;
+	}
+[Error]
+	{
+	Russian=Ошибка;
+	}
+[There are too many players enabled for this map]
+	{
+	Russian=Для этой карты включено слишком много игроков;
+	}
+[There must be at least one human player and one AI opponent]
+	{
+	Russian=Нужен хотя бы один игрок-человек и один противник ИИ;
+	}
+[There must be at least one player and one computer opponent]
+	{
+	Russian=Нужен хотя бы один игрок и один компьютерный противник;
+	}
+[You have lost connection with the game]
+	{
+	Russian=Вы потеряли связь с игрой;
+	}
+[Lost connection with game]
+	{
+	Russian=Связь с игрой потеряна;
+	}
+[You need a unit you don't have for this game]
+	{
+	Russian=Для этой игры нужен юнит, которого у вас нет;
+	}
+[You need a newer version of the game to enter]
+	{
+	Russian=Чтобы войти, нужна более новая версия игры;
+	}
+[No watching is allowed for this game]
+	{
+	Russian=Наблюдать за этой игрой нельзя;
+	}
+[Out of memory! Your hard disk may be full.]
+	{
+	Russian=Не хватает памяти! Возможно, жёсткий диск заполнен.;
+	}
+
+// Unit speech
+
+[Under Attack]
+	{
+	Russian=Под обстрелом;
+	}
+[Arrived]
+	{
+	Russian=На месте;
+	}
+[Cannot Comply]
+	{
+	Russian=Не могу выполнить;
+	}
+[Nanolathe Complete]
+	{
+	Russian=Наносборка завершена;
+	}
+[Cloaked]
+	{
+	Russian=Замаскирован;
+	}
+[Visible]
+	{
+	Russian=Видим;
+	}
+
+// Mission states
+
+[Acknowledged]
+	{
+	Russian=Принято;
+	}
+[Activate]
+	{
+	Russian=Включить;
+	}
+[Airstrike]
+	{
+	Russian=Авиаудар;
+	}
+[Annihilating]
+	{
+	Russian=Уничтожение;
+	}
+[Attacking]
+	{
+	Russian=Атака;
+	}
+[Being transported]
+	{
+	Russian=Перевозится;
+	}
+[Capturing]
+	{
+	Russian=Захват;
+	}
+[Cloaking]
+	{
+	Russian=Маскировка;
+	}
+[Deactivate]
+	{
+	Russian=Выключить;
+	}
+[Decloaking]
+	{
+	Russian=Снятие маскировки;
+	}
+[Defending]
+	{
+	Russian=Оборона;
+	}
+[Diving]
+	{
+	Russian=Погружение;
+	}
+[Engaging target]
+	{
+	Russian=Атака цели;
+	}
+[Evading]
+	{
+	Russian=Уклонение;
+	}
+[Following]
+	{
+	Russian=Следование;
+	}
+[Guarding]
+	{
+	Russian=Охрана;
+	}
+[Landing]
+	{
+	Russian=Посадка;
+	}
+[Loading]
+	{
+	Russian=Погрузка;
+	}
+[Moving]
+	{
+	Russian=Движение;
+	}
+[Nanolathing]
+	{
+	Russian=Наносборка;
+	}
+[Paralyzed]
+	{
+	Russian=Парализован;
+	}
+[Parking]
+	{
+	Russian=Стоянка;
+	}
+[Patrolling]
+	{
+	Russian=Патрулирование;
+	}
+[Patrolling for damaged units]
+	{
+	Russian=Поиск повреждённых юнитов;
+	}
+[Ready]
+	{
+	Russian=Готов;
+	}
+[Ready with orders]
+	{
+	Russian=Готов к приказам;
+	}
+[Reclaiming]
+	{
+	Russian=Утилизация;
+	}
+[Repairing]
+	{
+	Russian=Ремонт;
+	}
+[Repair patrol]
+	{
+	Russian=Ремонтный патруль;
+	}
+[Seeking to attack]
+	{
+	Russian=Выход на атаку;
+	}
+[Seeking to defend]
+	{
+	Russian=Выход на оборону;
+	}
+[Seeking to land]
+	{
+	Russian=Поиск места посадки;
+	}
+[Seeking to guard]
+	{
+	Russian=Выход на охрану;
+	}
+[SELF DESTRUCT ENGAGED]
+	{
+	Russian=САМОУНИЧТОЖЕНИЕ АКТИВИРОВАНО;
+	}
+[Standby]
+	{
+	Russian=В готовности;
+	}
+[Stopping]
+	{
+	Russian=Остановка;
+	}
+[Suppressing fire]
+	{
+	Russian=Подавляющий огонь;
+	}
+[Surfacing]
+	{
+	Russian=Всплытие;
+	}
+[Teleporting]
+	{
+	Russian=Телепортация;
+	}
+[Under construction]
+	{
+	Russian=Строится;
+	}
+[Under repair]
+	{
+	Russian=Ремонтируется;
+	}
+[Unit is available]
+	{
+	Russian=Юнит доступен;
+	}
+[Waiting]
+	{
+	Russian=Ожидание;
+	}
+[Waiting for attack]
+	{
+	Russian=Ожидание атаки;
+	}
+
+// Feature descriptions
+
+[Description]
+	{
+	Russian=Описание;
+	}
+[Plant]
+	{
+	Russian=Растение;
+	}
+[Burnt Plant]
+	{
+	Russian=Обгоревшее растение;
+	}
+[Fortification Wall]
+	{
+	Russian=Оборонительная стена;
+	}
+[Hole]
+	{
+	Russian=Яма;
+	}
+[Crater]
+	{
+	Russian=Кратер;
+	}
+[Foliage]
+	{
+	Russian=Заросли;
+	}
+[Rock]
+	{
+	Russian=Камень;
+	}
+[rock]
+	{
+	Russian=Камень;
+	}
+[Rubble]
+	{
+	Russian=Щебень;
+	}
+[Thermal Vent]
+	{
+	Russian=Термальный источник;
+	}
+[Ventilation Engine]
+	{
+	Russian=Вентиляционная установка;
+	}
+[Wreckage]
+	{
+	Russian=Обломки;
+	}
+[Burnt Foliage]
+	{
+	Russian=Обгоревшие заросли;
+	}
+[Burnt Tree]
+	{
+	Russian=Обгоревшее дерево;
+	}
+[Tree]
+	{
+	Russian=Дерево;
+	}
+[Ice Chunks]
+	{
+	Russian=Ледяные глыбы;
+	}
+[Damaged Terrain]
+	{
+	Russian=Повреждённая местность;
+	}
+[Damaged Surface]
+	{
+	Russian=Повреждённая поверхность;
+	}
+[DragonsTeeth]
+	{
+	Russian=Надолбы;
+	}
+[Dragons Teeth - NS]
+	{
+	Russian=Надолбы - МС;
+	}
+[DragonsTeeth - NS]
+	{
+	Russian=Надолбы - МС;
+	}
+[Metal Deposit]
+	{
+	Russian=Месторождение металла;
+	}
+[Node]
+	{
+	Russian=Узел;
+	}
+[Spire]
+	{
+	Russian=Шпиль;
+	}
+[Glyph]
+	{
+	Russian=Глиф;
+	}
+[Ruin]
+	{
+	Russian=Руина;
+	}
+[Seismic Monitor]
+	{
+	Russian=Сейсмический датчик;
+	}
+[Pipe]
+	{
+	Russian=Труба;
+	}
+[Communications Uplink]
+	{
+	Russian=Станция связи;
+	}
+[Comm Uplink]
+	{
+	Russian=Станция связи;
+	}
+[Communication Tower]
+	{
+	Russian=Вышка связи;
+	}
+[Regulator Complex]
+	{
+	Russian=Регуляторный комплекс;
+	}
+[Thermal Regulator]
+	{
+	Russian=Терморегулятор;
+	}
+[Transmitter]
+	{
+	Russian=Передатчик;
+	}
+[Pressure Release Valve]
+	{
+	Russian=Клапан сброса давления;
+	}
+[Pressure Valve]
+	{
+	Russian=Клапан давления;
+	}
+
+// Multiplayer online interface messages
+
+[Invalid TCP/IP Address]
+	{
+	Russian=Неверный адрес TCP/IP;
+	}
+[Enter TCP address (leave blank to search)]
+	{
+	Russian=Адрес TCP (пусто — поиск);
+	}
+[Phone Numbers]
+	{
+	Russian=Телефоны;
+	}
+[Number]
+	{
+	Russian=Номер;
+	}
+[Modem]
+	{
+	Russian=Модем;
+	}
+[Port]
+	{
+	Russian=Порт;
+	}
+[Answer]
+	{
+	Russian=Ответить;
+	}
+[Dial]
+	{
+	Russian=Набрать;
+	}
+[Host]
+	{
+	Russian=Хост;
+	}
+[Play]
+	{
+	Russian=Играть;
+	}
+[Unit Download]
+	{
+	Russian=Загрузка юнитов;
+	}
+
+// In game pop-up messages
+
+[Game Name]
+	{
+	Russian=Название игры;
+	}
+[Map game will play on]
+	{
+	Russian=Карта для этой игры;
+	}
+[Does dead commander end game?]
+	{
+	Russian=Заканчивается ли игра с гибелью Командира?;
+	}
+[Average latency (big is bad)]
+	{
+	Russian=Средняя задержка (чем больше, тем хуже);
+	}
+[Type of Line of Sight]
+	{
+	Russian=Тип обзора;
+	}
+[Tells if you start with map]
+	{
+	Russian=Открыта ли карта в начале игры;
+	}
+[Starting Metal:]
+	{
+	Russian=Запас металла:;
+	}
+[Starting Energy:]
+	{
+	Russian=Запас энергии:;
+	}
+[Starting metal amount]
+	{
+	Russian=Начальный запас металла;
+	}
+[Starting energy amount]
+	{
+	Russian=Начальный запас энергии;
+	}
+[Click to edit energy value.]
+	{
+	Russian=Щёлкните, чтобы изменить количество энергии.;
+	}
+[Click to set energy value.]
+	{
+	Russian=Щёлкните, чтобы задать количество энергии.;
+	}
+[Click to edit metal value.]
+	{
+	Russian=Щёлкните, чтобы изменить количество металла.;
+	}
+[Click to set metal value.]
+	{
+	Russian=Щёлкните, чтобы задать количество металла.;
+	}
+[Left click to increase metal. Right click to decrease metal.]
+	{
+	Russian=Левый щелчок увеличивает количество металла, правый — уменьшает.;
+	}
+[Left click to increase energy. Right click to decrease energy.]
+	{
+	Russian=Левый щелчок увеличивает количество энергии, правый — уменьшает.;
+	}
+[Click to select an allegiance symbol.]
+	{
+	Russian=Щёлкните, чтобы выбрать символ союза.;
+	}
+[Players in game / Max players]
+	{
+	Russian=Игроков в игре / макс. игроков;
+	}
+[Tells if game is in play]
+	{
+	Russian=Идёт ли уже игра;
+	}
+[Game ends when commander is destroyed.]
+	{
+	Russian=Игра заканчивается, когда Командир уничтожен.;
+	}
+[Game continues after Commander is destroyed.]
+	{
+	Russian=Игра продолжается и после уничтожения Командира.;
+	}
+[Commanders are placed at pre-determined locations.]
+	{
+	Russian=Командиры начинают в заранее заданных местах.;
+	}
+[Commanders are randomly placed on the battle field.]
+	{
+	Russian=Командиры начинают в случайных местах поля боя.;
+	}
+[Terrain is blacked out until explored.]
+	{
+	Russian=Местность затемнена, пока не разведана.;
+	}
+[Terrain is visible.]
+	{
+	Russian=Местность видна.;
+	}
+[Terrain elevations affect a unit's view.]
+	{
+	Russian=Рельеф местности влияет на обзор юнитов.;
+	}
+[Terrain elevations do not affect a unit's view.]
+	{
+	Russian=Рельеф местности не влияет на обзор юнитов.;
+	}
+[All mapped terrain is visible.]
+	{
+	Russian=Вся разведанная местность остаётся видимой.;
+	}
+[Exit Mission]
+	{
+	Russian=Выйти из миссии;
+	}
+[Exit Skirmish]
+	{
+	Russian=Выйти из схватки;
+	}
+[Exit Battle]
+	{
+	Russian=Выйти из боя;
+	}
+[Restart Mission]
+	{
+	Russian=Перезапустить миссию;
+	}
+[Restart Skirmish]
+	{
+	Russian=Перезапустить схватку;
+	}
+[Restart]
+	{
+	Russian=Заново;
+	}
+[Close Windows CD Player?]
+	{
+	Russian=Закрыть CD-плеер Windows?;
+	}
+[CD Music]
+	{
+	Russian=CD-музыка;
+	}
+[Surrender this battle and return to main menu?]
+	{
+	Russian=Сдаться в этом бою и вернуться в главное меню?;
+	}
+[Surrender this battle and exit to Windows?]
+	{
+	Russian=Сдаться в этом бою и выйти в Windows?;
+	}
+[Surrender this battle and exit to the system?]
+	{
+	Russian=Сдаться в этом бою и выйти в систему?;
+	}
+
+// Title Screen
+
+[SINGLE]
+	{
+	Russian=ОДИНОЧНАЯ;
+	}
+[Single]
+	{
+	Russian=Одиночная;
+	}
+[MULTI]
+	{
+	Russian=СЕТЕВАЯ;
+	}
+[INTRO]
+	{
+	Russian=ЗАСТАВКА;
+	}
+[EXIT]
+	{
+	Russian=ВЫХОД;
+	}
+[Exit]
+	{
+	Russian=Выход;
+	}
+
+// In-Game Help Screen
+
+[Keyboard Commands]
+	{
+	Russian=Горячие клавиши;
+	}
+[SPACEBAR]
+	{
+	Russian=ПРОБЕЛ;
+	}
+[Activate the game status bar]
+	{
+	Russian=Включить строку состояния игры;
+	}
+[Bring up the multiplayer scorecard]
+	{
+	Russian=Показать таблицу счёта;
+	}
+[Select all factories]
+	{
+	Russian=Выделить все заводы;
+	}
+[Multiplayer options]
+	{
+	Russian=Параметры сетевой игры;
+	}
+[Cancels the current command]
+	{
+	Russian=Отменяет текущую команду;
+	}
+[Assign the currently selected units to a squad]
+	{
+	Russian=Объединить выделенные юниты в группу;
+	}
+[Select squad]
+	{
+	Russian=Выделить группу;
+	}
+[Toggles fire orders]
+	{
+	Russian=Переключает режим огня;
+	}
+[Toggles selected unit's cloaking capabilities]
+	{
+	Russian=Переключает маскировку юнита;
+	}
+[Toggles move orders]
+	{
+	Russian=Переключает режим движения;
+	}
+[Select the Build menu for the current unit]
+	{
+	Russian=Открыть меню строительства юнита;
+	}
+[Select the Orders menu for the current unit]
+	{
+	Russian=Открыть меню приказов юнита;
+	}
+[Select the menu for the current unit]
+	{
+	Russian=Открыть меню текущего юнита;
+	}
+[, (comma)]
+	{
+	Russian=, (запятая);
+	}
+[Select the previous menu for that unit]
+	{
+	Russian=Предыдущее меню этого юнита;
+	}
+[. (period)]
+	{
+	Russian=. (точка);
+	}
+[Select the next menu for that unit]
+	{
+	Russian=Следующее меню этого юнита;
+	}
+[~ (tilde)]
+	{
+	Russian=~ (тильда);
+	}
+[Toggle damage bars on the units]
+	{
+	Russian=Переключает полоски повреждений;
+	}
+[Pause the game]
+	{
+	Russian=Поставить игру на паузу;
+	}
+[Display information on selected unit]
+	{
+	Russian=Сведения о выделенном юните;
+	}
+[Display the Options menu]
+	{
+	Russian=Показать меню параметров;
+	}
+[Selects the unit that last reported]
+	{
+	Russian=Выделяет юнит, который докладывал последним;
+	}
+[Screen capture]
+	{
+	Russian=Снимок экрана;
+	}
+[Clear all chat messages]
+	{
+	Russian=Очистить все сообщения чата;
+	}
+[Select all units]
+	{
+	Russian=Выделить все юниты;
+	}
+[Select all construction units except the Commander]
+	{
+	Russian=Выделить всех строителей, кроме Командира;
+	}
+[Select the Commander]
+	{
+	Russian=Выделить Командира;
+	}
+[Destruct selected unit(s)]
+	{
+	Russian=Самоуничтожение выделенных юнитов;
+	}
+[Select all units currently on the screen]
+	{
+	Russian=Выделить все юниты на экране;
+	}
+[Select all aircraft]
+	{
+	Russian=Выделить всю авиацию;
+	}
+[Select all units of same type]
+	{
+	Russian=Выделить все юниты того же типа;
+	}
+[Applies a map bookmark at cursor location]
+	{
+	Russian=Ставит закладку карты под курсором;
+	}
+[Centers the screen on a map bookmark]
+	{
+	Russian=Центрирует экран на закладке карты;
+	}
+[Give an attack order]
+	{
+	Russian=Отдать приказ атаковать;
+	}
+[Give a guard order]
+	{
+	Russian=Отдать приказ охранять;
+	}
+[Give a move order]
+	{
+	Russian=Отдать приказ двигаться;
+	}
+[Give a patrol order]
+	{
+	Russian=Отдать приказ патрулировать;
+	}
+[Give a stop order (cancel previous orders)]
+	{
+	Russian=Остановиться (отменить прежние приказы);
+	}
+[Use the Disintegrator Gun]
+	{
+	Russian=Применить дезинтегратор (D-пушку);
+	}
+[Give a capture order]
+	{
+	Russian=Отдать приказ захватить;
+	}
+[Give a repair order]
+	{
+	Russian=Отдать приказ ремонтировать;
+	}
+[Give a reclaim order]
+	{
+	Russian=Отдать приказ утилизировать;
+	}
+[Share resources with another player]
+	{
+	Russian=Поделиться ресурсами с другим игроком;
+	}
+[Scroll to the next unit off screen]
+	{
+	Russian=Следующий юнит за пределами экрана;
+	}
+[Track the selected unit]
+	{
+	Russian=Следить за выделенным юнитом;
+	}
+[Reduce the game speed]
+	{
+	Russian=Уменьшить скорость игры;
+	}
+[Increase the game speed]
+	{
+	Russian=Увеличить скорость игры;
+	}
+[Hold down to queue up multiple commands]
+	{
+	Russian=Удерживайте, чтобы добавить несколько команд;
+	}
+[ENTER]
+	{
+	Russian=ENTER;
+	}
+[Activate the message bar]
+	{
+	Russian=Открыть строку сообщений;
+	}
+[Turn Rate]
+	{
+	Russian=Скорость поворота;
+	}
+
+// Multiplayer map names and descriptions
+
+[painted desert]
+	{
+	Russian=Раскрашенная пустыня;
+	}
+[18 x 18  battle in the many mesas area.]
+	{
+	Russian=18 x 18  Бой среди множества плато.;
+	}
+[caldera's rim]
+	{
+	Russian=Край кальдеры;
+	}
+[29 x 29  sunken volcanic crater in center of map]
+	{
+	Russian=29 x 29  Просевший вулканический кратер в центре карты;
+	}
+[coast to coast]
+	{
+	Russian=От берега до берега;
+	}
+[7 x 4  water between two coasts. weak tides.]
+	{
+	Russian=7 x 4  Вода между двумя берегами. Слабые приливы.;
+	}
+[dark side]
+	{
+	Russian=Тёмная сторона;
+	}
+[6 x 5  lunar map with plenty of metal]
+	{
+	Russian=6 x 5  Лунная карта, богатая металлом;
+	}
+[etorrep glacier]
+	{
+	Russian=Ледник Эторреп;
+	}
+[5 x 8  strong winds coming from ocean.]
+	{
+	Russian=5 x 8  Сильные ветры с океана.;
+	}
+[fox holes]
+	{
+	Russian=Окопы;
+	}
+[7 x 7  strong winds. more metal on high ground.]
+	{
+	Russian=7 x 7  Сильные ветры. Больше металла на высотах.;
+	}
+[full moon]
+	{
+	Russian=Полнолуние;
+	}
+[8 x 8  fighting on the naryb highlands. no wind.]
+	{
+	Russian=8 x 8  Бои на нагорье Нариб. Безветрие.;
+	}
+[gods of war]
+	{
+	Russian=Боги войны;
+	}
+[9 x 8  asymmetric water map.]
+	{
+	Russian=9 x 8  Асимметричная водная карта.;
+	}
+[great divide]
+	{
+	Russian=Великий водораздел;
+	}
+[5 x 8  fight through a mountain pass.]
+	{
+	Russian=5 x 8  Пробейтесь через горный перевал.;
+	}
+[hundred isles]
+	{
+	Russian=Сто островов;
+	}
+[12 x 12  fighting on over a hundred small islands]
+	{
+	Russian=12 x 12  Бои на более чем ста маленьких островах;
+	}
+[kill the middle]
+	{
+	Russian=Уничтожить центр;
+	}
+[13 x 13  powerful player in middle of map on island.]
+	{
+	Russian=13 x 13  Сильный игрок на острове в центре карты.;
+	}
+[king of the hill]
+	{
+	Russian=Царь горы;
+	}
+[16 x 16  fight for a metal rich mountain. strong wind.]
+	{
+	Russian=16 x 16  Бой за богатую металлом гору. Сильный ветер.;
+	}
+[lava & two hills]
+	{
+	Russian=Лава и два холма;
+	}
+[9 x 8  two giant hills & a river of lava between them]
+	{
+	Russian=9 x 8  Два огромных холма и лавовая река между ними;
+	}
+[lava highground]
+	{
+	Russian=Лавовые высоты;
+	}
+[8 x 8  fight over narrow ramps.]
+	{
+	Russian=8 x 8  Бои на узких подъёмах.;
+	}
+[lava mania]
+	{
+	Russian=Лавомания;
+	}
+[8 x 8  strong winds.]
+	{
+	Russian=8 x 8  Сильные ветры.;
+	}
+[lava run]
+	{
+	Russian=Лавовый поток;
+	}
+[13 x 4  lava strip down center. high winds.]
+	{
+	Russian=13 x 4  Полоса лавы посередине. Сильный ветер.;
+	}
+[greenhaven]
+	{
+	Russian=Зелёная гавань;
+	}
+[16 x 16  large map with many hills to hide behind.]
+	{
+	Russian=16 x 16  Большая карта с множеством холмов, за которыми можно укрыться.;
+	}
+[metal heck]
+	{
+	Russian=Металлическое пекло;
+	}
+[8 x 8  fight in the metal cross region.]
+	{
+	Russian=8 x 8  Бой в районе металлического креста.;
+	}
+[red hot lava]
+	{
+	Russian=Раскалённая лава;
+	}
+[11 x 9  many hills and lava pools. plenty of metal]
+	{
+	Russian=11 x 9  Много холмов и лавовых озёр. Вдоволь металла;
+	}
+[red planet]
+	{
+	Russian=Красная планета;
+	}
+[9 x 9   many small hills and pools]
+	{
+	Russian=9 x 9   Много небольших холмов и озёр;
+	}
+[red triangle]
+	{
+	Russian=Красный треугольник;
+	}
+[16 x 16  powerful tides and strong winds.]
+	{
+	Russian=16 x 16  Мощные приливы и сильные ветры.;
+	}
+[ring atoll]
+	{
+	Russian=Кольцевой атолл;
+	}
+[21 x 21  powerful tides. ground units can use shallow water.]
+	{
+	Russian=21 x 21  Мощные приливы. Наземные юниты могут передвигаться по мелководью.;
+	}
+[rock alley]
+	{
+	Russian=Каменная аллея;
+	}
+[9 x 21  fight in mountian valley.]
+	{
+	Russian=9 x 21  Бой в горной долине.;
+	}
+[sherwood]
+	{
+	Russian=Шервуд;
+	}
+[6 x 6  fighting around 3 large hills]
+	{
+	Russian=6 x 6  Бои вокруг 3 больших холмов;
+	}
+[shore to shore]
+	{
+	Russian=С берега на берег;
+	}
+[29 x 4  two coasts with large ocean between them.]
+	{
+	Russian=29 x 4  Два побережья и большой океан между ними.;
+	}
+[the desert triad]
+	{
+	Russian=Пустынная триада;
+	}
+[6 x 6  fighting on 3 mesas.]
+	{
+	Russian=6 x 6  Бои на 3 плато.;
+	}
+[two continents]
+	{
+	Russian=Два континента;
+	}
+[22 x 25  metal in the middle of the map.]
+	{
+	Russian=22 x 25  Металл в центре карты.;
+	}
+[yerrot mountains]
+	{
+	Russian=Горы Йеррот;
+	}
+[27 x 23  mountain range with lots of metal.]
+	{
+	Russian=27 x 23  Горный хребет с богатыми залежами металла.;
+	}
+[pincushion]
+	{
+	Russian=Игольница;
+	}
+[13 x 13  a fight amongst lava spires]
+	{
+	Russian=13 x 13  Бой среди лавовых шпилей;
+	}
+[over crude water]
+	{
+	Russian=Над нефтяными водами;
+	}
+[25 x 25  a maze of metal bridges.]
+	{
+	Russian=25 x 25  Лабиринт металлических мостов.;
+	}
+[seven islands]
+	{
+	Russian=Семь островов;
+	}
+[40 x 40  huge sea battle on core prime]
+	{
+	Russian=40 x 40  Огромное морское сражение на CORE Прайм;
+	}
+[ashap plateau]
+	{
+	Russian=Плато Ашап;
+	}
+[9 x 9  metal on rough lower level]
+	{
+	Russian=9 x 9  Металл на неровном нижнем ярусе;
+	}
+[the cold place]
+	{
+	Russian=Холодный край;
+	}
+[15 x 11  fighting on a flat tundra with very strong winds.]
+	{
+	Russian=15 x 11  Бои на ровной тундре при очень сильном ветре.;
+	}
+[evad river confluence]
+	{
+	Russian=Слияние реки Эвад;
+	}
+[11 x 10 map.  intermittent winds]
+	{
+	Russian=11 x 10 Карта с переменным ветром;
+	}
+[lava alley]
+	{
+	Russian=Лавовая аллея;
+	}
+[18 x 18  fighting in narrow valleys.]
+	{
+	Russian=18 x 18  Бои в узких долинах.;
+	}
+[the pass]
+	{
+	Russian=Перевал;
+	}
+[7 x 4  fight to control a winding mountian pass.]
+	{
+	Russian=7 x 4  Бой за контроль над извилистым горным перевалом.;
+	}
+[anteer strait]
+	{
+	Russian=Пролив Антир;
+	}
+[18 x 18  fight in an iceburg filled ocean. strong tides.]
+	{
+	Russian=18 x 18  Бой в океане, полном айсбергов. Сильные приливы.;
+	}
+[metal isles]
+	{
+	Russian=Металлические острова;
+	}
+[23 X 21  4 Symmetrical Metal Islands, good for sea battles]
+	{
+	Russian=23 X 21  4 симметричных металлических острова, удобные для морских боёв;
+	}
+
+// Expansion Pack map names and descriptions
+
+[acid foursome]
+	{
+	Russian=Кислотная четвёрка;
+	}
+[13 X 13  Open plains and small lakes.]
+	{
+	Russian=13 X 13  Открытые равнины и небольшие озёра.;
+	}
+[acid pools]
+	{
+	Russian=Кислотные озёра;
+	}
+[32 X 23  Masses of land with narrow passages.]
+	{
+	Russian=32 X 23  Массивы суши с узкими проходами.;
+	}
+[acid trip]
+	{
+	Russian=Кислотный трип;
+	}
+[15 X 39  Watch out for the acid or you'll melt away.]
+	{
+	Russian=15 X 39  Берегитесь кислоты, иначе растаете.;
+	}
+[assault on suburbia]
+	{
+	Russian=Штурм пригорода;
+	}
+[16 X 16 Crush 'em.]
+	{
+	Russian=16 X 16 Раздавите их.;
+	}
+[biggie biggs]
+	{
+	Russian=Бигги Биггз;
+	}
+[36 X 16  Dance from island to island crushing your opponents.]
+	{
+	Russian=36 X 16  Танцуйте от острова к острову, сокрушая противников.;
+	}
+[block wars]
+	{
+	Russian=Войны кварталов;
+	}
+[20 X 20  Battling through the Core Prime suburbs.]
+	{
+	Russian=20 X 20  Бои в пригородах CORE Прайм.;
+	}
+[brain coral]
+	{
+	Russian=Мозговой коралл;
+	}
+[20 X 20  Hydrous map with brain coral spiral.]
+	{
+	Russian=20 X 20  Водная карта со спиралью мозговых кораллов.;
+	}
+[25 X 24  Keep your Kbots on the trails.]
+	{
+	Russian=25 X 24  Держите своих К-ботов на тропах.;
+	}
+[checker ponds]
+	{
+	Russian=Пруды в клетку;
+	}
+[13 X 13  Be wary of the many corrosive puddles.]
+	{
+	Russian=13 X 13  Остерегайтесь многочисленных едких луж.;
+	}
+[cluster freak]
+	{
+	Russian=Куча-мала;
+	}
+[10 X 10  High winds with lots of metal in the middle.]
+	{
+	Russian=10 X 10  Сильные ветры и много металла в центре.;
+	}
+[comet catcher]
+	{
+	Russian=Ловец комет;
+	}
+[12 X 15  Low gravity livens up this desolate landscape.]
+	{
+	Russian=12 X 15  Низкая гравитация оживляет этот пустынный пейзаж.;
+	}
+[core prime industrial area]
+	{
+	Russian=Промзона CORE Прайм;
+	}
+[21 X 21  Abandoned Core industrial area.]
+	{
+	Russian=21 X 21  Заброшенная промзона CORE.;
+	}
+[crater islands]
+	{
+	Russian=Кратерные острова;
+	}
+[10 X 8  Fight your way across these shallow waters.]
+	{
+	Russian=10 X 8  Пробейтесь с боями через это мелководье.;
+	}
+[crystal cracked]
+	{
+	Russian=Расколотый кристалл;
+	}
+[20 X 20 Two land masses split by an inland filled sea.]
+	{
+	Russian=20 X 20 Два массива суши, разделённые внутренним морем.;
+	}
+[crystal isles]
+	{
+	Russian=Кристальные острова;
+	}
+[20 X 20 Crystal World ocean, dotted with reefs and islands.]
+	{
+	Russian=20 X 20 Океан Кристального мира, усеянный рифами и островами.;
+	}
+[crystal maze]
+	{
+	Russian=Кристальный лабиринт;
+	}
+[10 X 10 Free-for-all in a maze of mountains.]
+	{
+	Russian=10 X 10 Каждый сам за себя в лабиринте гор.;
+	}
+[crystal treasure island]
+	{
+	Russian=Кристальный остров сокровищ;
+	}
+[12 X 13  Crystal map with metal-rich islands in the center.]
+	{
+	Russian=12 X 13  Кристальная карта с богатыми металлом островами в центре.;
+	}
+[dire straits]
+	{
+	Russian=Лихие проливы;
+	}
+[15 X 17 Natural fortification to hide between.]
+	{
+	Russian=15 X 17 Природные укрепления, среди которых можно укрыться.;
+	}
+[east indeez]
+	{
+	Russian=Ост-Индия;
+	}
+[28 X 19 Lots of islands, lots of water!]
+	{
+	Russian=28 X 19 Много островов, много воды!;
+	}
+[eastside westside]
+	{
+	Russian=Восток и Запад;
+	}
+[19 X 19  Find a park or reclaim large structures for metal.]
+	{
+	Russian=19 X 19  Найдите парк или утилизируйте большие здания ради металла.;
+	}
+[14 X 14, Battle for the Evad River Delta]
+	{
+	Russian=14 X 14, Битва за дельту реки Эвад;
+	}
+[expanded confluence]
+	{
+	Russian=Расширенное слияние;
+	}
+[22 X 22 More room to rumble on this old favorite.]
+	{
+	Russian=22 X 22 Больше простора для драки на старой любимой карте.;
+	}
+[flooded glaciers]
+	{
+	Russian=Затопленные ледники;
+	}
+[12 X 10 Icy ocean battle.]
+	{
+	Russian=12 X 10 Бой в ледяном океане.;
+	}
+[gasbag forests]
+	{
+	Russian=Леса газовых пузырей;
+	}
+[19 X 19  Large fields of gasplants block your path.]
+	{
+	Russian=19 X 19  Большие поля газовых растений преграждают путь.;
+	}
+[gasplant plain]
+	{
+	Russian=Равнина газовых растений;
+	}
+[10 X 8  Large plain for close encounters. Lots of geothermal.]
+	{
+	Russian=10 X 8  Большая равнина для ближнего боя. Много геотермальных источников.;
+	}
+[higher ground]
+	{
+	Russian=Господствующая высота;
+	}
+[8 X 16  You take the high road and I'll take the low road.]
+	{
+	Russian=8 X 16  Вы идите верхней дорогой, а я пойду нижней.;
+	}
+[ice house]
+	{
+	Russian=Ледяной дом;
+	}
+[16 X 16  Large ice mountains hinder big guns.]
+	{
+	Russian=16 X 16  Большие ледяные горы мешают тяжёлым орудиям.;
+	}
+[ice scream]
+	{
+	Russian=Ледяной крик;
+	}
+[15 X 39  Screaming won't be all you do on this forbidding world.]
+	{
+	Russian=15 X 39  В этом суровом мире вам придётся не только кричать.;
+	}
+[icy bergs]
+	{
+	Russian=Айсберги;
+	}
+[28 X 28  Landless. Lots of sunken ships.]
+	{
+	Russian=28 X 28  Суши нет. Много затонувших кораблей.;
+	}
+[john's pass]
+	{
+	Russian=Перевал Джона;
+	}
+[10 X 15  Follow the river up the middle, if you dare!]
+	{
+	Russian=10 X 15  Пройдите вдоль реки через центр, если осмелитесь!;
+	}
+[lake shore]
+	{
+	Russian=Берег озера;
+	}
+[13 X 7  Large lake with islands in the middle.]
+	{
+	Russian=13 X 7  Большое озеро с островами посередине.;
+	}
+[luschaven]
+	{
+	Russian=Гавань Луш;
+	}
+[17 X 16 Battle for control of dry land.]
+	{
+	Russian=17 X 16 Битва за контроль над сушей.;
+	}
+[lusch puppy]
+	{
+	Russian=Малыш Луш;
+	}
+[11 X 7  Small map divided by grand mountains.]
+	{
+	Russian=11 X 7  Небольшая карта, разделённая величественными горами.;
+	}
+[moon quartet]
+	{
+	Russian=Лунный квартет;
+	}
+[20 X 20 Great map for team play.  Light side vs. dark side.]
+	{
+	Russian=20 X 20 Отличная карта для командной игры.  Светлая сторона против тёмной.;
+	}
+[mounds of mars]
+	{
+	Russian=Холмы Марса;
+	}
+[8 X 17  For more than two players, play teams, North vs. South.]
+	{
+	Russian=8 X 17  Если игроков больше двух, играйте командами: Север против Юга.;
+	}
+[ooooweeee]
+	{
+	Russian=Уууу-иии;
+	}
+[19 X 19  Nine islands of love and understanding.  Let's hug.]
+	{
+	Russian=19 X 19  Девять островов любви и взаимопонимания.  Давайте обнимемся.;
+	}
+[pillopeens]
+	{
+	Russian=Пиллопины;
+	}
+[17 X 27 Island-hopping map.]
+	{
+	Russian=17 X 27 Карта для прыжков с острова на остров.;
+	}
+[plains and passes]
+	{
+	Russian=Равнины и перевалы;
+	}
+[20 X 20  Large map with lots of metal.]
+	{
+	Russian=20 X 20  Большая карта с богатыми залежами металла.;
+	}
+[polar range]
+	{
+	Russian=Полярный хребет;
+	}
+[20 X 20  Large polar ice cap map. A bleak and forbidding world.]
+	{
+	Russian=20 X 20  Большая карта полярной ледяной шапки. Мрачный и суровый мир.;
+	}
+[polyp fields]
+	{
+	Russian=Поля полипов;
+	}
+[27 X 22  Large geometric polyps litter this battlefield.]
+	{
+	Russian=27 X 22  Поле боя усеяно большими геометрическими полипами.;
+	}
+[red river]
+	{
+	Russian=Красная река;
+	}
+[21 X 30  Large river separates two land masses.]
+	{
+	Russian=21 X 30  Большая река разделяет два массива суши.;
+	}
+[red river north]
+	{
+	Russian=Красная река: север;
+	}
+[21 X 14  Smaller segment of Red River.]
+	{
+	Russian=21 X 14  Меньший участок Красной реки.;
+	}
+[ror shock]
+	{
+	Russian=Рор-шок;
+	}
+[26 X 26 Ocean Battles are a must for this fine map.  Big surprise in center!]
+	{
+	Russian=26 X 26 На этой отличной карте не обойтись без морских боёв.  В центре — большой сюрприз!;
+	}
+[sail away]
+	{
+	Russian=Под парусами;
+	}
+[12 X 20 High winds sweep these islands.]
+	{
+	Russian=12 X 20 Эти острова продувают сильные ветры.;
+	}
+[sector 410b]
+	{
+	Russian=Сектор 410B;
+	}
+[25 X 22  Large mountains with narrow passes.]
+	{
+	Russian=25 X 22  Высокие горы с узкими перевалами.;
+	}
+[show down]
+	{
+	Russian=Развязка;
+	}
+[11 X 5  Meet in the middle.]
+	{
+	Russian=11 X 5  Сойдитесь посередине.;
+	}
+[slate gordon]
+	{
+	Russian=Сланцевый Гордон;
+	}
+[23 X 15 Great map for east/west rivalries.  Earthquakes.]
+	{
+	Russian=23 X 15 Отличная карта для соперничества Востока и Запада.  Землетрясения.;
+	}
+[slated fate]
+	{
+	Russian=Сланцевая судьба;
+	}
+[7 x 12 Search for metal in crevices.]
+	{
+	Russian=7 x 12 Ищите металл в расщелинах.;
+	}
+[steel jungle]
+	{
+	Russian=Стальные джунгли;
+	}
+[20 x 10  Wake up and smell the coffee with the Morning War Show.]
+	{
+	Russian=20 x 10  Просыпайтесь и почувствуйте аромат кофе с «Утренним военным шоу».;
+	}
+[surface meltdown]
+	{
+	Russian=Расплавленная поверхность;
+	}
+[15 X 17  Bumps, bumps, and more bumps.]
+	{
+	Russian=15 X 17  Бугры, бугры и ещё раз бугры.;
+	}
+[temblorian mist]
+	{
+	Russian=Темблорский туман;
+	}
+[12 X 15  Make your way around the edges or fly across the center.]
+	{
+	Russian=12 X 15  Пробирайтесь по краям или летите через центр.;
+	}
+[the barrier reef]
+	{
+	Russian=Барьерный риф;
+	}
+[19 X 19  Body of water separates two land masses.  Great underwater starts!]
+	{
+	Russian=19 X 19  Водоём разделяет два массива суши.  Отличные подводные стартовые позиции!;
+	}
+[the bayou]
+	{
+	Russian=Болотная протока;
+	}
+[20 X 20  Strong currents rush through this Bayou.]
+	{
+	Russian=20 X 20  Сильные течения мчатся по этой болотной протоке.;
+	}
+[town & country]
+	{
+	Russian=Город и деревня;
+	}
+[17 X 17  Urban vs. rural.]
+	{
+	Russian=17 X 17  Город против деревни.;
+	}
+[trout farm]
+	{
+	Russian=Форелевая ферма;
+	}
+[15 X 15  Watch out for the sinkhole in the middle.]
+	{
+	Russian=15 X 15  Берегитесь провала посередине.;
+	}
+
+// Download Maps
+
+[cloudious prime]
+	{
+	Russian=Клаудиус Прайм;
+	}
+[20 X 20  Island in the clouds with giant canyon.  Absurd wind.]
+	{
+	Russian=20 X 20  Остров в облаках с гигантским каньоном.  Безумный ветер.;
+	}
+
+// Battle Tactics Maps
+
+[aqua verdigris]
+	{
+	Russian=Медная зелень;
+	}
+[12 x 12  Fighting around rings of Dragon's Teeth.]
+	{
+	Russian=12 x 12  Бои вокруг колец из надолбов.;
+	}
+[brilliant cut lake]
+	{
+	Russian=Бриллиантовое озеро;
+	}
+[15 X 15  Fighting around a large lake.]
+	{
+	Russian=15 X 15  Бои вокруг большого озера.;
+	}
+[canal crossing]
+	{
+	Russian=Переправа через каналы;
+	}
+[16 X 17  Four land masses separated by canals.]
+	{
+	Russian=16 X 17  Четыре массива суши, разделённые каналами.;
+	}
+[metal gridlock]
+	{
+	Russian=Металлический затор;
+	}
+[20 X 20  Five squares interlock to create defensive forts.]
+	{
+	Russian=20 X 20  Пять сцепленных квадратов образуют оборонительные форты.;
+	}
+[wretched ridges]
+	{
+	Russian=Проклятые хребты;
+	}
+[12 X 12  High ridges protect defensive areas.  Light forest.]
+	{
+	Russian=12 X 12  Высокие хребты защищают оборонительные районы.  Редколесье.;
+	}
+[coremageddon]
+	{
+	Russian=CORE-магеддон;
+	}
+[13 X 20  Set up ambushes in this Core Prime maze.]
+	{
+	Russian=13 X 20  Устраивайте засады в этом лабиринте на CORE Прайм.;
+	}
+
+// Possible Error Messages
+
+[The requested campaign file, %s, does not exist.]
+	{
+	Russian=Запрошенный файл кампании %s не существует.;
+	}
+[Error -- Unnamed Mission]
+	{
+	Russian=Ошибка — миссия без названия;
+	}
+[The requested mission file, %s, does not exist.]
+	{
+	Russian=Запрошенный файл миссии %s не существует.;
+	}
+[No GlobalHeader block in mission file!]
+	{
+	Russian=В файле миссии нет блока GlobalHeader!;
+	}
+[No description available]
+	{
+	Russian=Нет описания;
+	}
+[No suitable schema type in mission file!]
+	{
+	Russian=В файле миссии нет подходящего типа схемы!;
+	}
+[Very bad news!  No MSG!]
+	{
+	Russian=Очень плохие новости!  Нет MSG!;
+	}
+[Hey, hoser!  The default meteor shower data was bogus!]
+	{
+	Russian=Эй, балбес!  Стандартные данные метеоритного дождя неверны!;
+	}
+[Could not open movie file, please check filename in INI.]
+	{
+	Russian=Не удалось открыть видеофайл. Проверьте имя файла в INI.;
+	}
+[Could not setup Direct Draw to play movie.]
+	{
+	Russian=Не удалось настроить Direct Draw для воспроизведения видео.;
+	}
+[Unsupported pixel format.]
+	{
+	Russian=Неподдерживаемый формат пикселей.;
+	}
+[Smacker Error]
+	{
+	Russian=Ошибка Smacker;
+	}
+[Summary]
+	{
+	Russian=Итоги;
+	}
+[getbuilt]
+	{
+	Russian=строится;
+	}
+[TransportDrop]
+	{
+	Russian=Высадка с транспорта;
+	}
+[QueryTransport]
+	{
+	Russian=Запрос транспорта;
+	}
+[EndTransport]
+	{
+	Russian=Конец перевозки;
+	}
+[QueryLandingPad]
+	{
+	Russian=Запрос посадочной площадки;
+	}
+[Invalid logo setting]
+	{
+	Russian=Недопустимая настройка логотипа;
+	}
+[Unable to start the thread!]
+	{
+	Russian=Не удалось запустить поток!;
+	}
+[Please insert the Total Annihilation CD and try again]
+	{
+	Russian=Вставьте компакт-диск Total Annihilation и попробуйте ещё раз;
+	}
+[Please insert the Play CD and try again]
+	{
+	Russian=Вставьте игровой компакт-диск и попробуйте ещё раз;
+	}
+[The Play CD was not found]
+	{
+	Russian=Игровой компакт-диск не найден;
+	}
+[Please insert the Play CD]
+	{
+	Russian=Вставьте игровой компакт-диск;
+	}
+[Click to continue.]
+	{
+	Russian=Щёлкните, чтобы продолжить.;
+	}
+[Done]
+	{
+	Russian=Готово;
+	}
+[Record "%s" missing from feature files]
+	{
+	Russian=В файлах объектов нет записи «%s»;
+	}
+[An error occurred trying to use this service]
+	{
+	Russian=При попытке использовать эту службу произошла ошибка;
+	}
+[expecting int]
+	{
+	Russian=ожидается целое число;
+	}
+[parse error reading AI profile %s\n%s\nlast string =]
+	{
+	Russian=ошибка разбора профиля ИИ %s\n%s\nпоследняя строка =;
+	}
+[None]
+	{
+	Russian=Нет;
+	}
+[Incompatible units found.  They will be ignored.  Please download the latest version of the game.]
+	{
+	Russian=Найдены несовместимые юниты.  Они будут проигнорированы.  Скачайте последнюю версию игры.;
+	}
+[Can't load MOVEINFO.TDF]
+	{
+	Russian=Не удалось загрузить MOVEINFO.TDF;
+	}
+[Can't load GAMEDATA.TDF]
+	{
+	Russian=Не удалось загрузить GAMEDATA.TDF;
+	}
+[Connecting  (ESC to abort)]
+	{
+	Russian=Соединение  (ESC — прервать);
+	}
+[Lock]
+	{
+	Russian=Заблокировать;
+	}
+[Blk]
+	{
+	Russian=Чёрн.;
+	}
+[Gray]
+	{
+	Russian=Серый;
+	}
+[Connecting... press ESC to abort]
+	{
+	Russian=Соединение... Нажмите ESC, чтобы прервать;
+	}
+[Unable to find any modems]
+	{
+	Russian=Не удалось найти ни одного модема;
+	}
+[allied with]
+	{
+	Russian=заключает союз с;
+	}
+[broke alliance with]
+	{
+	Russian=разрывает союз с;
+	}
+[There are not enough game CDs present to play]
+	{
+	Russian=Для игры не хватает игровых компакт-дисков;
+	}
+[You must select a map before starting]
+	{
+	Russian=Перед началом выберите карту;
+	}
+[\nYou must select a map before starting\n\n]
+	{
+	Russian=\nПеред началом выберите карту\n\n;
+	}
+[n/a]
+	{
+	Russian=н/д;
+	}
+[N/A]
+	{
+	Russian=Н/Д;
+	}
+[View Map]
+	{
+	Russian=Обзор карты;
+	}
+[Could not find the multiplayer map!!]
+	{
+	Russian=Не удалось найти карту для сетевой игры!!;
+	}
+[does not have this map]
+	{
+	Russian=не имеет этой карты;
+	}
+[There are no saved lists to choose from]
+	{
+	Russian=Нет сохранённых списков;
+	}
+[has left the scene]
+	{
+	Russian=покидает сцену;
+	}
+[has been shown the door]
+	{
+	Russian=отправляется за дверь;
+	}
+[has gone to a better place]
+	{
+	Russian=отправляется в лучший мир;
+	}
+[has bowed out]
+	{
+	Russian=откланивается;
+	}
+[has terminated]
+	{
+	Russian=прекращает существование;
+	}
+[has been eradicated]
+	{
+	Russian=стирается с лица земли;
+	}
+[has been liquidated]
+	{
+	Russian=идёт в расход;
+	}
+[has been obliterated]
+	{
+	Russian=обращается в прах;
+	}
+[forces have been obliterated]
+	{
+	Russian=— силы обращены в прах;
+	}
+[vermin have been exterminated]
+	{
+	Russian=— нечисть истреблена;
+	}
+[forces have gone to a better place]
+	{
+	Russian=— силы отправляются в лучший мир;
+	}
+[dropping a player due to TIMEOUT_SECS]
+	{
+	Russian=отключение игрока из-за TIMEOUT_SECS;
+	}
+[%s is joining the game...]
+	{
+	Russian=%s присоединяется к игре...;
+	}
+[player dropped by DPSYS_]
+	{
+	Russian=игрок отключён через DPSYS_;
+	}
+[player '%s' set to startpos %d\n]
+	{
+	Russian=игроку «%s» назначена стартовая позиция %d\n;
+	}
+[You're out!  Continue Watching?]
+	{
+	Russian=Вы выбыли!  Продолжить наблюдение?;
+	}
+[Weapon]
+	{
+	Russian=Оружие;
+	}
+[Please insert a Total Annihilation CD and try again]
+	{
+	Russian=Вставьте один из компакт-дисков Total Annihilation и попробуйте ещё раз;
+	}
+[Wind Speed]
+	{
+	Russian=Скорость ветра;
+	}
+[Gravity]
+	{
+	Russian=Гравитация;
+	}
+[Tidal Strength]
+	{
+	Russian=Сила приливов;
+	}
+[There are no skirmish maps to choose from]
+	{
+	Russian=Нет карт для схватки;
+	}
+[There are no multiplayer maps to choose from]
+	{
+	Russian=Нет карт для сетевой игры;
+	}
+[The terrain for the selected map does not exist.]
+	{
+	Russian=Рельеф выбранной карты не существует.;
+	}
+[All players may not be in the same allied group.]
+	{
+	Russian=Нельзя объединять всех игроков в одну союзную группу.;
+	}
+[Error:  Sound system initialization failed.]
+	{
+	Russian=Ошибка:  не удалось инициализировать звуковую систему.;
+	}
+[%s has taken the lead with %d kills]
+	{
+	Russian=%s выходит в лидеры. Уничтожено: %d;
+	}
+[has taken the lead with %d kills]
+	{
+	Russian=выходит в лидеры. Уничтожено: %d;
+	}
+[has taken the lead with]
+	{
+	Russian=выходит в лидеры со счётом;
+	}
+[Player number %d invalid for unit %s]
+	{
+	Russian=Номер игрока %d недопустим для юнита %s;
+	}
+[Cost]
+	{
+	Russian=Стоимость;
+	}
+[Build Time]
+	{
+	Russian=Время стр.;
+	}
+[Max Velocity]
+	{
+	Russian=Макс. скорость;
+	}
+[Acceleration]
+	{
+	Russian=Ускорение;
+	}
+[Weapons]
+	{
+	Russian=Вооружение;
+	}
+[Speed]
+	{
+	Russian=Скорость;
+	}
+[Game Speed Normal]
+	{
+	Russian=Обычная скорость игры;
+	}
+[Invalid savegame file]
+	{
+	Russian=Недопустимый файл сохранения;
+	}
+[Unable to start the loading thread!]
+	{
+	Russian=Не удалось запустить поток загрузки!;
+	}
+[DirectPlay registration failed.]
+	{
+	Russian=Не удалось зарегистрировать DirectPlay.;
+	}
+[Demo Version]
+	{
+	Russian=Демоверсия;
+	}
+[Settings]
+	{
+	Russian=Настройки;
+	}
+
+// Added for v2.0
+
+[Can't add another player when game is closed.]
+	{
+	Russian=Нельзя добавить ещё одного игрока, когда игра закрыта.;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-create the game session.\n]
+	{
+	Russian=Direct Play не удалось добавить нового игрока.\n\nРекомендуется вернуться на предыдущий экран и создать игровой сеанс заново.\n;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-join the game session.\n]
+	{
+	Russian=Direct Play не удалось добавить нового игрока.\n\nРекомендуется вернуться на предыдущий экран и снова присоединиться к игровому сеансу.\n;
+	}
+[Square]
+	{
+	Russian=Квадрат;
+	}
+[Circle]
+	{
+	Russian=Круг;
+	}
+[Triangle]
+	{
+	Russian=Треугольник;
+	}
+[Star]
+	{
+	Russian=Звезда;
+	}
+[Moon]
+	{
+	Russian=Луна;
+	}
+[has joined the]
+	{
+	Russian=присоединяется к группе;
+	}
+[has left the]
+	{
+	Russian=покидает группу;
+	}
+[anemone]
+	{
+	Russian=Актиния;
+	}
+[coral]
+	{
+	Russian=Коралл;
+	}
+[seaweed]
+	{
+	Russian=Водоросли;
+	}
+[kelp]
+	{
+	Russian=Ламинария;
+	}
+[You are placed in watch mode because you are hosting AI players which are still alive.  If you exit, they will be terminated.]
+	{
+	Russian=Вы переведены в режим наблюдения, потому что являетесь хостом компьютерных игроков, которые ещё в игре.  Если вы выйдете, они будут отключены.;
+	}
+[Unable to initialize scores reporting.]
+	{
+	Russian=Не удалось инициализировать отправку результатов.;
+	}
+[No sound driver is available for use.\n]
+	{
+	Russian=Нет доступного звукового драйвера.\n;
+	}
+[Debug:  You must be in full-screen mode to play a movie.]
+	{
+	Russian=Отладка:  для воспроизведения видео нужен полноэкранный режим.;
+	}
+[Old TED format no longer supported!]
+	{
+	Russian=Старый формат TED больше не поддерживается!;
+	}
+[Can not start game with all players on the same team.]
+	{
+	Russian=Нельзя начать игру, когда все игроки в одной команде.;
+	}
+
+// Features
+
+[Transit Node]
+	{
+	Russian=Транспортный узел;
+	}
+[Microwave Relay]
+	{
+	Russian=Микроволновый ретранслятор;
+	}
+[Climatic Optimizer]
+	{
+	Russian=Климатический оптимизатор;
+	}
+[Truck]
+	{
+	Russian=Грузовик;
+	}
+[Manhole]
+	{
+	Russian=Канализационный люк;
+	}
+[Public Art]
+	{
+	Russian=Арт-объект;
+	}
+[Car]
+	{
+	Russian=Автомобиль;
+	}
+[Willy Gates Bldg]
+	{
+	Russian=Здание Вилли Гейтса;
+	}
+[Barrier]
+	{
+	Russian=Барьер;
+	}
+[barrier]
+	{
+	Russian=Барьер;
+	}
+[Oolok Tree]
+	{
+	Russian=Дерево улок;
+	}
+[Gasbag]
+	{
+	Russian=Газовый пузырь;
+	}
+[Bridge]
+	{
+	Russian=Мост;
+	}
+[Ruined Bridge]
+	{
+	Russian=Разрушенный мост;
+	}
+[Factory]
+	{
+	Russian=Завод;
+	}
+[Cheese Factory]
+	{
+	Russian=Сыроварня;
+	}
+[Public Hygiene Pod]
+	{
+	Russian=Гигиеническая капсула;
+	}
+[Monorail Track]
+	{
+	Russian=Монорельсовый путь;
+	}
+[Streetlight]
+	{
+	Russian=Уличный фонарь;
+	}
+
+// Chat messages
+
+[OK.  Will share metal if above %d]
+	{
+	Russian=OK.  Буду передавать металл, если запас больше %d;
+	}
+[OK.  Will share energy if above %d]
+	{
+	Russian=OK.  Буду передавать энергию, если запас больше %d;
+	}
+
+// Not in 3.1c's table: GUI captions and messages that 3.1c's own translate.tdf does not key
+
+[Begin Mission]
+	{
+	Russian=Начать миссию;
+	}
+[Choose where you would like your scores reported to:]
+	{
+	Russian=Выберите, куда отправлять ваши результаты:;
+	}
+[CREDITS]
+	{
+	Russian=АВТОРЫ;
+	}
+[has modified his executable.  Game integrity breached.]
+	{
+	Russian=использует изменённый исполняемый файл.  Целостность игры нарушена.;
+	}
+[has not responded for %d seconds]
+	{
+	Russian=не отвечает уже %d с;
+	}
+[Have a nice day]
+	{
+	Russian=Хорошего дня;
+	}
+[Mission Brief]
+	{
+	Russian=Брифинг миссии;
+	}
+[Name Of List To Save]
+	{
+	Russian=Имя списка для сохранения;
+	}
+[Pevious Menu]
+	{
+	Russian=Назад;
+	}
+[Select Player:]
+	{
+	Russian=Выберите игрока:;
+	}
+[Synching]
+	{
+	Russian=Синхрониз.;
+	}
+[Watching Allowe]
+	{
+	Russian=Зрители: да;
+	}
+
+// Not in 3.1c's table: Map names and descriptions
+
+[luschinfloggen]
+	{
+	Russian=Лушинфлогген;
+	}
+[8 X 10  Find your way through the shallows into the enemy base.]
+	{
+	Russian=8 X 10  Найдите путь через мели к вражеской базе.;
+	}
+
+// Not in 3.1c's table: Planet names, as the maps give them
+
+[Green planet]
+	{
+	Russian=Зелёная планета;
+	}
+[Lava]
+	{
+	Russian=Лава;
+	}
+[Red Planet]
+	{
+	Russian=Красная планета;
+	}
+[Lush]
+	{
+	Russian=Пышная зелень;
+	}
+[Ice]
+	{
+	Russian=Лёд;
+	}
+[Archipelago]
+	{
+	Russian=Архипелаг;
+	}
+[Slate]
+	{
+	Russian=Сланец;
+	}
+[Lunar]
+	{
+	Russian=Луна;
+	}
+[Water World]
+	{
+	Russian=Водный мир;
+	}
+[Acid]
+	{
+	Russian=Кислота;
+	}
+[Crystal]
+	{
+	Russian=Кристаллы;
+	}
+[Wet Desert]
+	{
+	Russian=Влажная пустыня;
+	}
+[Desert]
+	{
+	Russian=Пустыня;
+	}
+[Urban]
+	{
+	Russian=Город;
+	}

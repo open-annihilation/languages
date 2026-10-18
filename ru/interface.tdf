@@ -1,0 +1,8092 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Open Annihilation's own words in Russian, keyed by the engine's
+// English.
+
+[none]
+	{
+	ru=нет;
+	}
+
+[Off]
+	{
+	ru=Выкл.;
+	}
+
+[Basic]
+	{
+	ru=Базовый;
+	}
+
+[Full]
+	{
+	ru=Полный;
+	}
+
+[Reduced]
+	{
+	ru=Слабый;
+	}
+
+[Sharp]
+	{
+	ru=Чёткое;
+	}
+
+[Whole steps]
+	{
+	ru=Кратное;
+	}
+
+[Unfiltered]
+	{
+	ru=Без фильтра;
+	}
+
+[Automatic]
+	{
+	ru=Авто;
+	}
+
+[Box]
+	{
+	ru=Рамка;
+	}
+
+[Scroll]
+	{
+	ru=Прокрутка;
+	}
+
+[Stay on]
+	{
+	ru=Постоянно;
+	}
+
+[One action]
+	{
+	ru=Одно действие;
+	}
+
+[Standard]
+	{
+	ru=Обычный;
+	}
+
+[Large]
+	{
+	ru=Большой;
+	}
+
+[Larger]
+	{
+	ru=Крупнее;
+	}
+
+[Trackpads]
+	{
+	ru=Трекпады;
+	}
+
+[Sticks]
+	{
+	ru=Стики;
+	}
+
+[Relative]
+	{
+	ru=Относительный;
+	}
+
+[Absolute]
+	{
+	ru=Абсолютный;
+	}
+
+[Low]
+	{
+	ru=Низкое;
+	}
+
+[High]
+	{
+	ru=Высокое;
+	}
+
+[Zoom]
+	{
+	ru=Масштаб;
+	}
+
+[Pointer]
+	{
+	ru=Указатель;
+	}
+
+[Nothing]
+	{
+	ru=Ничего;
+	}
+
+[While the right pad is touched]
+	{
+	ru=Касание правого трекпада;
+	}
+
+[While the right stick is touched]
+	{
+	ru=Касание правого стика;
+	}
+
+[Always]
+	{
+	ru=Всегда;
+	}
+
+[Light]
+	{
+	ru=Слабо;
+	}
+
+[Strong]
+	{
+	ru=Сильно;
+	}
+
+[The processor draws and scales the view.]
+	{
+	ru=Процессор рисует и масштабирует изображение.;
+	}
+
+[Off: the processor draws and scales the view.]
+	{
+	ru=Выключено: процессор рисует и масштабирует изображение.;
+	}
+
+[Set it to Off and back, or restore defaults.]
+	{
+	ru=Переключите на «Выкл.» и обратно или сбросьте настройки.;
+	}
+
+[A failed graphics driver is skipped.]
+	{
+	ru=Графический драйвер, давший сбой, пропущен.;
+	}
+
+[Not in use: it needs at least 2 GB of memory.]
+	{
+	ru=Не используется: нужно не менее 2 ГБ памяти.;
+	}
+
+[Full in use: the graphics card draws the view.]
+	{
+	ru=Используется «Полный»: изображение рисует видеокарта.;
+	}
+
+[Basic lets the graphics card scale it evenly.]
+	{
+	ru=С «Базовым» видеокарта масштабирует равномерно.;
+	}
+
+[For this run only. The setting is kept.]
+	{
+	ru=Только на этот запуск. Настройка сохранена.;
+	}
+
+[Not in use: the environment names a driver.]
+	{
+	ru=Не используется: драйвер задан в переменной окружения.;
+	}
+
+[Not in use: there is too little memory.]
+	{
+	ru=Не используется: мало памяти.;
+	}
+
+[Off for this game: in a shared game, Basic]
+	{
+	ru=Выключено на эту игру: в сетевой игре «Базовый»;
+	}
+
+[takes effect from the next game.]
+	{
+	ru=вступит в силу со следующей игры.;
+	}
+
+[Not in use: an error stopped it for this run.]
+	{
+	ru=Не используется: на этот запуск отключено из-за ошибки.;
+	}
+
+[Not in use: the graphics driver failed.]
+	{
+	ru=Не используется: сбой графического драйвера.;
+	}
+
+[Not in use: the game stopped while using it.]
+	{
+	ru=Не используется: игра остановилась во время его работы.;
+	}
+
+[Not in use: no usable graphics card was found.]
+	{
+	ru=Не используется: подходящая видеокарта не найдена.;
+	}
+
+[Not in use: the graphics card lacks a feature.]
+	{
+	ru=Не используется: видеокарте не хватает нужной функции.;
+	}
+
+[Not in use: the game cannot save its files.]
+	{
+	ru=Не используется: игра не может сохранять свои файлы.;
+	}
+
+[Takes effect from the next start.]
+	{
+	ru=Вступит в силу при следующем запуске.;
+	}
+
+[The processor draws and scales the view until then.]
+	{
+	ru=До тех пор изображение рисует и масштабирует процессор.;
+	}
+
+[Basic in use: the game cannot save its files.]
+	{
+	ru=Используется «Базовый»: игра не может сохранять свои файлы.;
+	}
+
+[Basic in use: there is too little memory for Full.]
+	{
+	ru=Используется «Базовый»: для «Полного» мало памяти.;
+	}
+
+[Basic in use: Full stopped for this run.]
+	{
+	ru=Используется «Базовый»: «Полный» остановлен на этот запуск.;
+	}
+
+[Basic in use: Full failed before on this driver.]
+	{
+	ru=Используется «Базовый»: «Полный» уже давал сбой с этим драйвером.;
+	}
+
+[Basic in use: the card lacks a feature Full needs.]
+	{
+	ru=Используется «Базовый»: видеокарте не хватает функции для «Полного».;
+	}
+
+[Basic for this game: in a shared game, Full]
+	{
+	ru=«Базовый» на эту игру: в сетевой игре «Полный»;
+	}
+
+[Basic in use, on another driver: one failed.]
+	{
+	ru=Используется «Базовый» с другим драйвером: один дал сбой.;
+	}
+
+[Basic in use; no smoothing when zoomed out here.]
+	{
+	ru=Используется «Базовый». Здесь нет сглаживания при отдалении.;
+	}
+
+[Basic in use.]
+	{
+	ru=Используется «Базовый».;
+	}
+
+[Off for this game: in a shared game, Full]
+	{
+	ru=Выключено на эту игру: в сетевой игре «Полный»;
+	}
+
+[Off for this game: in a replay, Basic]
+	{
+	ru=Выключено на эту игру: в повторе «Базовый»;
+	}
+
+[Off for this game: in a replay, Full]
+	{
+	ru=Выключено на эту игру: в повторе «Полный»;
+	}
+
+[Basic for this game: in a replay, Full]
+	{
+	ru=«Базовый» на эту игру: в повторе «Полный»;
+	}
+
+[Smoothed at every zoom.]
+	{
+	ru=Сглаживание при любом масштабе.;
+	}
+
+[Smoothed at every zoom; 2x2 samples a pixel.]
+	{
+	ru=Сглаживание при любом масштабе. Выборок на пиксель: 2x2.;
+	}
+
+[Smoothed at every zoom; 4x4 samples a pixel.]
+	{
+	ru=Сглаживание при любом масштабе. Выборок на пиксель: 4x4.;
+	}
+
+[Smoothed at every zoom; 8x8 samples a pixel.]
+	{
+	ru=Сглаживание при любом масштабе. Выборок на пиксель: 8x8.;
+	}
+
+[Smoothed at every zoom; 16x16 samples a pixel.]
+	{
+	ru=Сглаживание при любом масштабе. Выборок на пиксель: 16x16.;
+	}
+
+[It scales the menus and the interface evenly.]
+	{
+	ru=Равномерно масштабирует меню и интерфейс.;
+	}
+
+[It scales the interface and zoomed-in view evenly.]
+	{
+	ru=Равномерно масштабирует интерфейс и приближенное изображение.;
+	}
+
+[It scales evenly and smooths the zoomed-out view.]
+	{
+	ru=Масштабирует равномерно и сглаживает отдалённое изображение.;
+	}
+
+[It smooths the zoomed-out view.]
+	{
+	ru=Сглаживает отдалённое изображение.;
+	}
+
+[Here the view is drawn as when it is off.]
+	{
+	ru=Здесь изображение рисуется так же, как без ускорения.;
+	}
+
+[SAVES]
+	{
+	ru=СОХРАНЕНИЯ;
+	}
+
+[SCREENSHOTS]
+	{
+	ru=СНИМКИ ЭКРАНА;
+	}
+
+[MODS]
+	{
+	ru=МОДЫ;
+	}
+
+[System default]
+	{
+	ru=Как в системе;
+	}
+
+[Mods]
+	{
+	ru=Моды;
+	}
+
+[Controls]
+	{
+	ru=Управление;
+	}
+
+[Graphics]
+	{
+	ru=Графика;
+	}
+
+[Language]
+	{
+	ru=Язык;
+	}
+
+[Touch]
+	{
+	ru=Сенсорное управление;
+	}
+
+[Controller]
+	{
+	ru=Контроллер;
+	}
+
+[Developer]
+	{
+	ru=Разработчик;
+	}
+
+[Game files]
+	{
+	ru=Файлы игры;
+	}
+
+[Keys]
+	{
+	ru=Клавиши;
+	}
+
+[Patrolling]
+	{
+	ru=В патруле;
+	}
+
+[Guarding]
+	{
+	ru=На охране;
+	}
+
+[Build tools]
+	{
+	ru=Строительство;
+	}
+
+[Snap & chat]
+	{
+	ru=Привязка и чат;
+	}
+
+[CONTROLS]
+	{
+	ru=УПРАВЛЕНИЕ;
+	}
+
+[GRAPHICS]
+	{
+	ru=ГРАФИКА;
+	}
+
+[LANGUAGE]
+	{
+	ru=ЯЗЫК;
+	}
+
+[TOUCH]
+	{
+	ru=СЕНСОРНОЕ УПРАВЛЕНИЕ;
+	}
+
+[CONTROLLER]
+	{
+	ru=КОНТРОЛЛЕР;
+	}
+
+[DEVELOPER]
+	{
+	ru=РАЗРАБОТЧИК;
+	}
+
+[GAME FILES]
+	{
+	ru=ФАЙЛЫ ИГРЫ;
+	}
+
+[MOD KEYS]
+	{
+	ru=КЛАВИШИ МОДА;
+	}
+
+[PATROLLING BUILDERS]
+	{
+	ru=СТРОИТЕЛИ В ПАТРУЛЕ;
+	}
+
+[GUARDING BUILDERS]
+	{
+	ru=СТРОИТЕЛИ НА ОХРАНЕ;
+	}
+
+[BUILD TOOLS]
+	{
+	ru=СТРОИТЕЛЬСТВО;
+	}
+
+[SNAP & CHAT]
+	{
+	ru=ПРИВЯЗКА И ЧАТ;
+	}
+
+[Pathfinding cycles]
+	{
+	ru=Циклы поиска пути;
+	}
+
+[Mouse wheel zoom]
+	{
+	ru=Масштаб колесом мыши;
+	}
+
+[Maximum zoom out]
+	{
+	ru=Макс. отдаление;
+	}
+
+[Maximum zoom in]
+	{
+	ru=Макс. приближение;
+	}
+
+[View past the map's edge]
+	{
+	ru=Обзор за краем карты;
+	}
+
+[Whole map]
+	{
+	ru=Вся карта;
+	}
+
+[Escape opens the game menu]
+	{
+	ru=Escape открывает меню игры;
+	}
+
+[Select groups without Alt]
+	{
+	ru=Выделять группы без Alt;
+	}
+
+[Unit limit]
+	{
+	ru=Лимит юнитов;
+	}
+
+[Maximum frame rate]
+	{
+	ru=Макс. частота кадров;
+	}
+
+[Enhanced anti-aliasing]
+	{
+	ru=Улучшенное сглаживание;
+	}
+
+[Screen size]
+	{
+	ru=Размер экрана;
+	}
+
+[Enable Developer Mode]
+	{
+	ru=Включить режим разработчика;
+	}
+
+[Show performance statistics]
+	{
+	ru=Статистика производительности;
+	}
+
+[Hardware acceleration]
+	{
+	ru=Аппаратное ускорение;
+	}
+
+[Vertical sync]
+	{
+	ru=Вертикальная синхронизация;
+	}
+
+[Menu scaling]
+	{
+	ru=Масштабирование меню;
+	}
+
+[Native pixel density]
+	{
+	ru=Родная плотность пикселей;
+	}
+
+[Explosion flash]
+	{
+	ru=Вспышки взрывов;
+	}
+
+[Zoomed out units]
+	{
+	ru=Юниты при отдалении;
+	}
+
+[After zoom]
+	{
+	ru=Порог масштаба;
+	}
+
+[Window frame]
+	{
+	ru=Рамка окна;
+	}
+
+[HUD scaling]
+	{
+	ru=Масштабирование HUD;
+	}
+
+[Use modern fonts for game text]
+	{
+	ru=Современные шрифты в игре;
+	}
+
+[Font outline]
+	{
+	ru=Контур шрифта;
+	}
+
+[Font shadow]
+	{
+	ru=Тень шрифта;
+	}
+
+[Game text background]
+	{
+	ru=Фон текста игры;
+	}
+
+[Text size]
+	{
+	ru=Размер текста;
+	}
+
+[One-finger drag]
+	{
+	ru=Перетаскивание одним пальцем;
+	}
+
+[Hold delay]
+	{
+	ru=Задержка удержания;
+	}
+
+[QUEUE and ADD]
+	{
+	ru=ОЧЕРЕДЬ и ДОБАВИТЬ;
+	}
+
+[Haptics]
+	{
+	ru=Вибрация;
+	}
+
+[Left-handed layout]
+	{
+	ru=Раскладка для левши;
+	}
+
+[Control size]
+	{
+	ru=Размер кнопок;
+	}
+
+[Scheme]
+	{
+	ru=Схема;
+	}
+
+[Right trackpad]
+	{
+	ru=Правый трекпад;
+	}
+
+[Pointer speed]
+	{
+	ru=Скорость указателя;
+	}
+
+[Pointer acceleration]
+	{
+	ru=Ускорение указателя;
+	}
+
+[Trackpad glide]
+	{
+	ru=Инерция трекпада;
+	}
+
+[Right stick]
+	{
+	ru=Правый стик;
+	}
+
+[Magnetism (stick pointer)]
+	{
+	ru=Притяжение (указатель стика);
+	}
+
+[Gyro pointer]
+	{
+	ru=Гироскопический указатель;
+	}
+
+[Gyro speed]
+	{
+	ru=Скорость гироскопа;
+	}
+
+[Button prompts]
+	{
+	ru=Подсказки кнопок;
+	}
+
+[Left-handed]
+	{
+	ru=Для левши;
+	}
+
+[Mod]
+	{
+	ru=Мод;
+	}
+
+[Snap override key]
+	{
+	ru=Клавиша отмены привязки;
+	}
+
+[Autoclick key]
+	{
+	ru=Клавиша автощелчка;
+	}
+
+[Rotate build key]
+	{
+	ru=Клавиша поворота здания;
+	}
+
+[Hold position]
+	{
+	ru=На месте;
+	}
+
+[Maneuver]
+	{
+	ru=Манёвр;
+	}
+
+[Roam]
+	{
+	ru=Свободно;
+	}
+
+[Mex snap radius]
+	{
+	ru=Радиус привязки экстракторов;
+	}
+
+[Wreck snap radius]
+	{
+	ru=Радиус привязки к обломкам;
+	}
+
+[Optimize DT rows]
+	{
+	ru=Оптимизировать ряды надолбов;
+	}
+
+[Full rings]
+	{
+	ru=Полные кольца;
+	}
+
+[Accessible chat]
+	{
+	ru=Удобочитаемый чат;
+	}
+
+[Resource bar background]
+	{
+	ru=Фон панели ресурсов;
+	}
+
+[Installed]
+	{
+	ru=Установлено;
+	}
+
+[Include in device backups]
+	{
+	ru=Включать в резервные копии;
+	}
+
+[Where the files are]
+	{
+	ru=Расположение файлов;
+	}
+
+[Your files]
+	{
+	ru=Ваши файлы;
+	}
+
+[More cycles find routes faster but use more CPU.]
+	{
+	ru=Больше циклов — быстрее поиск пути, но выше нагрузка на процессор.;
+	}
+
+[Scroll to zoom the battlefield in and out.]
+	{
+	ru=Колесо мыши приближает и отдаляет поле боя.;
+	}
+
+[A number key selects its group on its own.]
+	{
+	ru=Клавиша с цифрой сразу выделяет свою группу.;
+	}
+
+[Lower it to save power.]
+	{
+	ru=Уменьшите, чтобы сэкономить энергию.;
+	}
+
+[Custom]
+	{
+	ru=Свой;
+	}
+
+[Your changes to the profile's hacks apply while on.]
+	{
+	ru=Пока включено, действуют ваши изменения в доработках профиля.;
+	}
+
+[Frame and tick times over the battlefield.]
+	{
+	ru=Время кадра и такта над полем боя.;
+	}
+
+[Each frame waits for the display: no tearing.]
+	{
+	ru=Каждый кадр ждёт обновления экрана: без разрывов.;
+	}
+
+[Rendered]
+	{
+	ru=Модели;
+	}
+
+[Dots]
+	{
+	ru=Точки;
+	}
+
+[Icons]
+	{
+	ru=Значки;
+	}
+
+[Hidden in play]
+	{
+	ru=Скрыта в игре;
+	}
+
+[Always shown]
+	{
+	ru=Всегда видна;
+	}
+
+[A dark edge round each letter of modern text.]
+	{
+	ru=Тёмный контур вокруг каждой буквы современного шрифта.;
+	}
+
+[A dark shadow under modern text.]
+	{
+	ru=Тёмная тень под текстом современного шрифта.;
+	}
+
+[A shaded box behind each line of game text.]
+	{
+	ru=Затемнённый фон за каждой строкой текста игры.;
+	}
+
+[How long a finger or button is held for a hold.]
+	{
+	ru=Сколько держать палец или кнопку, чтобы это считалось удержанием.;
+	}
+
+[A short vibration as a touch control acts.]
+	{
+	ru=Короткая вибрация при срабатывании сенсорной кнопки.;
+	}
+
+[Each point of the pad is a point of the view.]
+	{
+	ru=Каждая точка трекпада соответствует точке экрана.;
+	}
+
+[The pointer moves as the thumb slides.]
+	{
+	ru=Указатель движется вслед за пальцем.;
+	}
+
+[How far the pointer moves for a slide.]
+	{
+	ru=Насколько смещается указатель за одно движение.;
+	}
+
+[A quick slide moves the pointer further.]
+	{
+	ru=Быстрое движение смещает указатель дальше.;
+	}
+
+[The pointer keeps moving after a quick flick.]
+	{
+	ru=После быстрого взмаха указатель продолжает двигаться.;
+	}
+
+[The right stick does nothing.]
+	{
+	ru=Правый стик ничего не делает.;
+	}
+
+[The stick pointer settles on a lone unit near it.]
+	{
+	ru=Указатель стика притягивается к одиночному юниту рядом.;
+	}
+
+[Turning the controller fine-tunes the pointer.]
+	{
+	ru=Поворот контроллера точно наводит указатель.;
+	}
+
+[How far the pointer moves as the controller turns.]
+	{
+	ru=Насколько смещается указатель при повороте контроллера.;
+	}
+
+[Small ticks and bumps felt through the controller.]
+	{
+	ru=Лёгкие щелчки и толчки в контроллере.;
+	}
+
+[The button pictures the controls and rings show.]
+	{
+	ru=Значки кнопок на элементах управления и кольцах.;
+	}
+
+[Held, a click is not snapped.]
+	{
+	ru=Пока клавиша зажата, щелчок не привязывается.;
+	}
+
+[Held, a build click lays a line or a ring.]
+	{
+	ru=Пока клавиша зажата, щелчок строительства ставит линию или кольцо.;
+	}
+
+[Turns the building being placed.]
+	{
+	ru=Поворачивает размещаемое здание.;
+	}
+
+[Cells a metal extractor snaps to metal.]
+	{
+	ru=Радиус привязки экстрактора к металлу, в клетках.;
+	}
+
+[Cells a reclaim click snaps to a wreck.]
+	{
+	ru=Радиус привязки утилизации к обломкам, в клетках.;
+	}
+
+[Lines of 2x2 walls build as a double row.]
+	{
+	ru=Линии стен 2x2 строятся двойным рядом.;
+	}
+
+[Rings include their corners.]
+	{
+	ru=Кольца включают и углы.;
+	}
+
+[A dark backdrop under each chat line.]
+	{
+	ru=Тёмный фон под каждой строкой чата.;
+	}
+
+[Behind the resource bar's text.]
+	{
+	ru=За текстом панели ресурсов.;
+	}
+
+[per player]
+	{
+	ru=на игрока;
+	}
+
+[Desktop]
+	{
+	ru=Рабочий стол;
+	}
+
+[Reclaim only]
+	{
+	ru=Только утилизация;
+	}
+
+[Both]
+	{
+	ru=Оба;
+	}
+
+[Assist only]
+	{
+	ru=Только помощь;
+	}
+
+[Stay]
+	{
+	ru=Стоять;
+	}
+
+[Normal]
+	{
+	ru=Обычно;
+	}
+
+[Scatter]
+	{
+	ru=Рассеяться;
+	}
+
+[None]
+	{
+	ru=Нет;
+	}
+
+[Text]
+	{
+	ru=Текст;
+	}
+
+[Solid]
+	{
+	ru=Сплошной;
+	}
+
+[cells]
+	{
+	ru=кл.;
+	}
+
+[ms]
+	{
+	ru=мс;
+	}
+
+[device]
+	{
+	ru=устройстве;
+	}
+
+[Locked during a game]
+	{
+	ru=Заблокировано во время игры;
+	}
+
+[Set by the host]
+	{
+	ru=Задано хостом;
+	}
+
+[Set on the command line]
+	{
+	ru=Задано в командной строке;
+	}
+
+[Not available here]
+	{
+	ru=Здесь недоступно;
+	}
+
+[Set by the mod]
+	{
+	ru=Задано модом;
+	}
+
+[Needs modern fonts]
+	{
+	ru=Нужны современные шрифты;
+	}
+
+[Needs Dots]
+	{
+	ru=Нужен режим «Точки»;
+	}
+
+[Always on here]
+	{
+	ru=Здесь всегда включено;
+	}
+
+[MANAGE…]
+	{
+	ru=УПРАВЛЕНИЕ…;
+	}
+
+[RESTORE PROFILE VALUES]
+	{
+	ru=ВЕРНУТЬ ЗНАЧЕНИЯ ПРОФИЛЯ;
+	}
+
+[Applies at next match]
+	{
+	ru=Со следующей игры;
+	}
+
+[Off: it plays as 3.1c.]
+	{
+	ru=Выключено: игра идёт как в 3.1c.;
+	}
+
+[Not implemented by this engine.]
+	{
+	ru=Не реализовано в этом движке.;
+	}
+
+[Items]
+	{
+	ru=Элементы;
+	}
+
+[Steam Input is on: the trackpads and back grips reach the game as Steam's mouse and keys. Turn Steam Input off for Open Annihilation in Steam's controller settings to use them here.]
+	{
+	ru=Steam Input включён: трекпады и задние кнопки передаются в игру как мышь и клавиши Steam. Чтобы использовать их здесь, отключите Steam Input для Open Annihilation в настройках контроллера Steam.;
+	}
+
+[Steam Deck: starts at the screen's {rate} fps.]
+	{
+	ru=Steam Deck: сначала частота экрана, {rate} fps.;
+	}
+
+[SETTINGS]
+	{
+	ru=НАСТРОЙКИ;
+	}
+
+[No Mod]
+	{
+	ru=Без мода;
+	}
+
+[N/A]
+	{
+	ru=Н/Д;
+	}
+
+[No oamod.yaml present]
+	{
+	ru=Нет oamod.yaml;
+	}
+
+[PLAYING]
+	{
+	ru=В ИГРЕ;
+	}
+
+[OPEN MODS FOLDER]
+	{
+	ru=ОТКРЫТЬ ПАПКУ МОДОВ;
+	}
+
+[SWITCH MOD]
+	{
+	ru=СМЕНИТЬ МОД;
+	}
+
+[SWITCH]
+	{
+	ru=СМЕНИТЬ;
+	}
+
+[ROLL BACK]
+	{
+	ru=ОТКАТИТЬ;
+	}
+
+[ROLL BACK MOD]
+	{
+	ru=ОТКАТИТЬ МОД;
+	}
+
+[Roll back {title} to {to}? {from} is kept in its place, and ROLL BACK again brings it back.]
+	{
+	ru=Откатить {title} до версии {to}? Версия {from} сохранится, и повторное нажатие ОТКАТИТЬ вернёт её.;
+	}
+
+[The game reloads its data for the mod and returns to the main menu.]
+	{
+	ru=Игра перезагрузит данные для мода и вернётся в главное меню.;
+	}
+
+[CANCEL]
+	{
+	ru=ОТМЕНА;
+	}
+
+[Locked during a game. Choose the mod from the main menu.]
+	{
+	ru=Заблокировано во время игры. Выберите мод в главном меню.;
+	}
+
+[Saved games, screenshots, films and mods.]
+	{
+	ru=Сохранённые игры, снимки экрана, записи и моды.;
+	}
+
+[The command line chose this run's mod.]
+	{
+	ru=Мод этого запуска задан в командной строке.;
+	}
+
+[Shared game - still running]
+	{
+	ru=Сетевая игра — ещё идёт;
+	}
+
+[RESTORE DEFAULTS]
+	{
+	ru=ПО УМОЛЧАНИЮ;
+	}
+
+[OK]
+	{
+	ru=OK;
+	}
+
+[OFF]
+	{
+	ru=ВЫКЛ.;
+	}
+
+[ON]
+	{
+	ru=ВКЛ.;
+	}
+
+[OPEN FOLDER]
+	{
+	ru=ПАПКА;
+	}
+
+[REPLACE]
+	{
+	ru=ЗАМЕНИТЬ;
+	}
+
+[INSTALL ALONGSIDE]
+	{
+	ru=УСТАНОВИТЬ РЯДОМ;
+	}
+
+[REINSTALL]
+	{
+	ru=ПЕРЕУСТАНОВИТЬ;
+	}
+
+[PLAY NOW]
+	{
+	ru=ИГРАТЬ СЕЙЧАС;
+	}
+
+[INSTALLING MOD]
+	{
+	ru=УСТАНОВКА МОДА;
+	}
+
+[UPDATE MOD]
+	{
+	ru=ОБНОВИТЬ МОД;
+	}
+
+[ANOTHER VERSION]
+	{
+	ru=ДРУГАЯ ВЕРСИЯ;
+	}
+
+[ALREADY INSTALLED]
+	{
+	ru=УЖЕ УСТАНОВЛЕНО;
+	}
+
+[FOLDER IN USE]
+	{
+	ru=ПАПКА ЗАНЯТА;
+	}
+
+[MOD INSTALLED]
+	{
+	ru=МОД УСТАНОВЛЕН;
+	}
+
+[MOD UPDATED]
+	{
+	ru=МОД ОБНОВЛЁН;
+	}
+
+[MOD NOT INSTALLED]
+	{
+	ru=МОД НЕ УСТАНОВЛЕН;
+	}
+
+[MOD NOT ROLLED BACK]
+	{
+	ru=МОД НЕ ОТКАЧЕН;
+	}
+
+[The folder kept for ROLL BACK, which holds no mod that can be read, is removed.]
+	{
+	ru=Папка, сохранённая для отката, удалена: в ней нет мода, который можно прочитать.;
+	}
+
+[The folder kept for ROLL BACK ({backup}) is removed.]
+	{
+	ru=Папка, сохранённая для отката ({backup}), удалена.;
+	}
+
+[{version} of an unknown revision]
+	{
+	ru={version}, ревизия неизвестна;
+	}
+
+[{version} revision {n}]
+	{
+	ru={version}, ревизия {n};
+	}
+
+[Putting the files in place...]
+	{
+	ru=Размещение файлов...;
+	}
+
+[Unpacking {title} {version}...]
+	{
+	ru=Распаковка {title} {version}...;
+	}
+
+[{done} of {total}]
+	{
+	ru={done} из {total};
+	}
+
+[{title} {version}, an unknown revision, is installed. Replace it with revision {incoming} from {file}?]
+	{
+	ru=Установлен мод {title} {version} неизвестной ревизии. Заменить его ревизией {incoming} из файла {file}?;
+	}
+
+[{title} {version}, revision {installed}, is installed. Replace it with revision {incoming} from {file}?]
+	{
+	ru=Установлен мод {title} {version}, ревизия {installed}. Заменить его ревизией {incoming} из файла {file}?;
+	}
+
+[Revision {incoming} is older than the one installed.]
+	{
+	ru=Ревизия {incoming} более ранняя, чем установленная.;
+	}
+
+[{title} {installed} is installed. Replace it with {incoming}, or install {incoming} alongside it?]
+	{
+	ru=Установлен мод {title} {installed}. Заменить его версией {incoming} или установить {incoming} рядом?;
+	}
+
+[Alongside, {incoming} goes in a folder of its own:]
+	{
+	ru=При установке рядом {incoming} получит отдельную папку:;
+	}
+
+[{title} {version}, revision {revision}, is already installed. Install its files again from {file}?]
+	{
+	ru=Мод {title} {version}, ревизия {revision}, уже установлен. Установить его файлы заново из файла {file}?;
+	}
+
+[Files added to its folder, or changed, since it was installed are replaced or removed.]
+	{
+	ru=Файлы, добавленные в его папку или изменённые после установки, будут заменены или удалены.;
+	}
+
+[The version kept, {backup}, stays.]
+	{
+	ru=Сохранённая версия, {backup}, остаётся.;
+	}
+
+[The folder kept for ROLL BACK stays.]
+	{
+	ru=Папка, сохранённая для отката, остаётся.;
+	}
+
+[Your Mods folder already has a folder named {folder} that does not hold {title}. It is left as it is.]
+	{
+	ru=В вашей папке Mods уже есть папка {folder}, в которой нет мода {title}. Она оставлена как есть.;
+	}
+
+[Install {title} {version} alongside it, in a folder of its own?]
+	{
+	ru=Установить {title} {version} рядом, в отдельную папку?;
+	}
+
+[{title} {version} is installed in your Mods folder:]
+	{
+	ru=Мод {title} {version} установлен в вашу папку Mods:;
+	}
+
+[{title} is now {new}.]
+	{
+	ru=Версия мода {title} теперь {new}.;
+	}
+
+[The files of {title} {version} were installed again.]
+	{
+	ru=Файлы мода {title} {version} установлены заново.;
+	}
+
+[{title} is back to {new}. {old} is kept, and ROLL BACK brings it back.]
+	{
+	ru=Мод {title} возвращён к версии {new}. Версия {old} сохранена, и ОТКАТИТЬ вернёт её.;
+	}
+
+[{title} is back to {new}.]
+	{
+	ru=Мод {title} возвращён к версии {new}.;
+	}
+
+[{old} could not be kept as the earlier version; it is in:]
+	{
+	ru=Не удалось сохранить {old} как предыдущую версию. Она находится в папке:;
+	}
+
+[It cannot be read.]
+	{
+	ru=Файл невозможно прочитать.;
+	}
+
+[It is not a zip archive.]
+	{
+	ru=Это не zip-архив.;
+	}
+
+[It is damaged.]
+	{
+	ru=Файл повреждён.;
+	}
+
+[It is damaged: {name} does not unpack as recorded.]
+	{
+	ru=Файл повреждён: {name} распаковывается не так, как записано.;
+	}
+
+[It holds no oamod.yaml at its top, or in a single folder at its top.]
+	{
+	ru=В архиве нет oamod.yaml ни в корне, ни в единственной папке в корне.;
+	}
+
+[Its oamod.yaml is larger than 256 KiB.]
+	{
+	ru=Файл oamod.yaml в архиве больше 256 КиБ.;
+	}
+
+[Its oamod.yaml has errors:]
+	{
+	ru=Файл oamod.yaml в архиве содержит ошибки:;
+	}
+
+[It holds a file it cannot unpack safely: {name}.]
+	{
+	ru=В архиве есть файл, который нельзя безопасно распаковать: {name}.;
+	}
+
+[It holds two names that differ only in case: {name}.]
+	{
+	ru=В архиве есть два имени, различающиеся только регистром: {name}.;
+	}
+
+[It holds a link to another file: {name}.]
+	{
+	ru=В архиве есть ссылка на другой файл: {name}.;
+	}
+
+[It holds an encrypted file: {name}.]
+	{
+	ru=В архиве есть зашифрованный файл: {name}.;
+	}
+
+[It holds a file packed in a way it cannot unpack: {name}. Pack it again with standard (deflate) compression.]
+	{
+	ru=В архиве есть файл, сжатый неподдерживаемым способом: {name}. Запакуйте его заново со стандартным сжатием (deflate).;
+	}
+
+[It unpacks to {size}, more than the {limit} a mod may take.]
+	{
+	ru=После распаковки он занимает {size}, а мод может занимать не более {limit}.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a mod's files take.]
+	{
+	ru=После распаковки из {packed} он занимает {size} — намного больше, чем занимают файлы мода.;
+	}
+
+[It holds more than {limit} folders, more than a mod may take.]
+	{
+	ru=Папок в нём больше, чем допустимо для мода ({limit}).;
+	}
+
+[It needs {size} free, and the disk holding your Mods folder has {free}.]
+	{
+	ru=Нужно {size} свободного места, а на диске с вашей папкой Mods свободно {free}.;
+	}
+
+[Its id, {id}, cannot name a folder on Windows.]
+	{
+	ru=Его идентификатор, {id}, не может быть именем папки в Windows.;
+	}
+
+[Your Mods folder has no free folder name for it.]
+	{
+	ru=В вашей папке Mods нет свободного имени папки для него.;
+	}
+
+[Its files could not be put in place. Another program, such as a file sync or a virus scanner, may be using its files; try again in a moment.]
+	{
+	ru=Не удалось разместить его файлы. Возможно, их использует другая программа, например синхронизация файлов или антивирус. Попробуйте ещё раз чуть позже.;
+	}
+
+[Your Mods folder changed while this mod was being installed; nothing was changed. Open the file again.]
+	{
+	ru=Пока устанавливался этот мод, ваша папка Mods изменилась. Ничего не изменено. Откройте файл снова.;
+	}
+
+[Another copy of Open Annihilation is changing your Mods folder. Try again once it has finished.]
+	{
+	ru=Другая копия Open Annihilation изменяет вашу папку Mods. Попробуйте ещё раз, когда она закончит.;
+	}
+
+[{file} cannot be installed.]
+	{
+	ru=Невозможно установить {file}.;
+	}
+
+[And {n} more; the log has them all.]
+	{
+	ru=И ещё {n}. Полный список — в журнале.;
+	}
+
+[Nothing was changed.]
+	{
+	ru=Ничего не изменено.;
+	}
+
+[{title} could not be rolled back; nothing was changed.]
+	{
+	ru=Не удалось откатить мод {title}. Ничего не изменено.;
+	}
+
+[{title} {to}, the version kept for ROLL BACK, cannot be played.]
+	{
+	ru=Запустить мод {title} {to} (версию, сохранённую для отката) невозможно.;
+	}
+
+[the folder you chose]
+	{
+	ru=выбранная вами папка;
+	}
+
+[a file]
+	{
+	ru=файл;
+	}
+
+[Game archives]
+	{
+	ru=Архивы игры;
+	}
+
+[3.1c update]
+	{
+	ru=Обновление 3.1c;
+	}
+
+[Extra units and maps]
+	{
+	ru=Дополнительные юниты и карты;
+	}
+
+[Music]
+	{
+	ru=Музыка;
+	}
+
+[Movies]
+	{
+	ru=Видеоролики;
+	}
+
+[Left out]
+	{
+	ru=Пропущено;
+	}
+
+[The Total Annihilation demo (1997)]
+	{
+	ru=Демоверсия Total Annihilation (1997);
+	}
+
+[The demo's unpacked data]
+	{
+	ru=Распакованные данные демоверсии;
+	}
+
+[Not found]
+	{
+	ru=Не найдено;
+	}
+
+[not found]
+	{
+	ru=не найдено;
+	}
+
+[1 file]
+	{
+	ru=1 файл;
+	}
+
+[1 track]
+	{
+	ru=1 трек;
+	}
+
+[optional]
+	{
+	ru=необязательно;
+	}
+
+[intro and endings · optional]
+	{
+	ru=заставка и концовки · необязательно;
+	}
+
+[intro and endings]
+	{
+	ru=заставка и концовки;
+	}
+
+[its mod profile cannot be used]
+	{
+	ru=его профиль мода нельзя использовать;
+	}
+
+[installer recognised by its size; checked when it is unpacked]
+	{
+	ru=установщик распознан по размеру, проверка — при распаковке;
+	}
+
+[no longer used now that the full game is here]
+	{
+	ru=больше не используется: есть полная игра;
+	}
+
+[Recommended]
+	{
+	ru=Рекомендуется;
+	}
+
+[Recommended: shared games with players who have it may not match.]
+	{
+	ru=Рекомендуется: без него сетевые игры с игроками, у которых он есть, могут не совпадать.;
+	}
+
+[Shared games need the same files on every machine]
+	{
+	ru=Для сетевых игр у всех игроков должны быть одинаковые файлы;
+	}
+
+[Windows program or shortcut]
+	{
+	ru=программа или ярлык Windows;
+	}
+
+[icon, manual or help file]
+	{
+	ru=значок, руководство или файл справки;
+	}
+
+[uninstaller]
+	{
+	ru=программа удаления;
+	}
+
+[system file]
+	{
+	ru=системный файл;
+	}
+
+[symbolic link, never followed]
+	{
+	ru=символическая ссылка, игнорируется;
+	}
+
+[a name the game cannot use]
+	{
+	ru=имя, непригодное для игры;
+	}
+
+[differs only in capital letters]
+	{
+	ru=отличается только регистром букв;
+	}
+
+[left out]
+	{
+	ru=пропущено;
+	}
+
+[Windows programs, shortcuts, icons, manuals and help files]
+	{
+	ru=Программы и ярлыки Windows, значки, руководства и файлы справки;
+	}
+
+[This folder does not hold a Total Annihilation installation]
+	{
+	ru=В этой папке нет установленной Total Annihilation;
+	}
+
+[It holds no Total Annihilation archives (.hpi, .ufo, .ccx or rev31.gp3 files) and no installer of the Total Annihilation demo (1997).]
+	{
+	ru=В ней нет архивов Total Annihilation (файлов .hpi, .ufo, .ccx или rev31.gp3) и нет установщика демоверсии Total Annihilation (1997).;
+	}
+
+[Choose the folder that holds totala1.hpi.]
+	{
+	ru=Выберите папку, в которой есть totala1.hpi.;
+	}
+
+[These files cannot be played]
+	{
+	ru=С этими файлами играть нельзя;
+	}
+
+[The folder may be missing totala1.hpi.]
+	{
+	ru=Возможно, в папке нет totala1.hpi.;
+	}
+
+[This is not the demo's installer]
+	{
+	ru=Это не установщик демоверсии;
+	}
+
+[This file]
+	{
+	ru=Этот файл;
+	}
+
+[The copy stopped]
+	{
+	ru=Копирование остановилось;
+	}
+
+[The folder can no longer be read]
+	{
+	ru=Папку больше невозможно прочитать;
+	}
+
+[The folder has changed]
+	{
+	ru=Папка изменилась;
+	}
+
+[Is this the right folder?]
+	{
+	ru=Это нужная папка?;
+	}
+
+[No game folder yet]
+	{
+	ru=Папки игры ещё нет;
+	}
+
+[Found your files]
+	{
+	ru=Ваши файлы найдены;
+	}
+
+[Found game archives]
+	{
+	ru=Найдены архивы игры;
+	}
+
+[Archives are loose in Open Annihilation's folder. Gather them into Total Annihilation?]
+	{
+	ru=Архивы лежат прямо в папке Open Annihilation. Собрать их в папку Total Annihilation?;
+	}
+
+[The file picker did not open]
+	{
+	ru=Окно выбора файлов не открылось;
+	}
+
+[The system's file picker could not be opened.]
+	{
+	ru=Не удалось открыть системное окно выбора файлов.;
+	}
+
+[The copy could not start]
+	{
+	ru=Не удалось начать копирование;
+	}
+
+[Open Annihilation could not write its own folder.]
+	{
+	ru=Open Annihilation не удалось записать данные в свою папку.;
+	}
+
+[Stop copying?]
+	{
+	ru=Остановить копирование?;
+	}
+
+[Replace the game files?]
+	{
+	ru=Заменить файлы игры?;
+	}
+
+[Nothing in this folder is left out.]
+	{
+	ru=В этой папке ничего не пропущено.;
+	}
+
+[This mod cannot be used]
+	{
+	ru=Этот мод нельзя использовать;
+	}
+
+[Its mod profile cannot be used:]
+	{
+	ru=Его профиль мода нельзя использовать:;
+	}
+
+[Remove the old folder?]
+	{
+	ru=Удалить старую папку?;
+	}
+
+[Remove the demo's data?]
+	{
+	ru=Удалить данные демоверсии?;
+	}
+
+[this part]
+	{
+	ru=эта часть;
+	}
+
+[The game plays without it.]
+	{
+	ru=Игра работает и без этого.;
+	}
+
+[Saved games that use its units cannot be loaded without it, and shared games need the same files on every machine.]
+	{
+	ru=Без этой части не загрузятся сохранённые игры с её юнитами, а для сетевых игр у всех игроков должны быть одинаковые файлы.;
+	}
+
+[It is removed at the next start of Open Annihilation.]
+	{
+	ru=Будет удалено при следующем запуске Open Annihilation.;
+	}
+
+[Remove all game files?]
+	{
+	ru=Удалить все файлы игры?;
+	}
+
+[Add files]
+	{
+	ru=Добавить файлы;
+	}
+
+[Expansions, extra maps and mods are added beside what is there; nothing already there is replaced.]
+	{
+	ru=Дополнения, дополнительные карты и моды добавляются к имеющимся. Ничего из того, что уже есть, не заменяется.;
+	}
+
+[From the next start]
+	{
+	ru=Со следующего запуска;
+	}
+
+[The changes are used from the next start of Open Annihilation.]
+	{
+	ru=Изменения вступят в силу при следующем запуске Open Annihilation.;
+	}
+
+[The new game files are used from the next start of Open Annihilation. Adding or removing files waits until then.]
+	{
+	ru=Новые файлы игры будут использоваться со следующего запуска Open Annihilation. Добавлять или удалять файлы можно будет только после него.;
+	}
+
+[Copying stopped. Nothing was added.]
+	{
+	ru=Копирование остановлено. Ничего не добавлено.;
+	}
+
+[Copying went on while Open Annihilation was away]
+	{
+	ru=Копирование продолжалось в фоновом режиме;
+	}
+
+[Copying paused while Open Annihilation was away and has started again]
+	{
+	ru=Копирование в фоне приостанавливалось и теперь возобновилось;
+	}
+
+[1 file was added]
+	{
+	ru=Добавлен 1 файл;
+	}
+
+[Mod: {name}]
+	{
+	ru=Мод: {name};
+	}
+
+[{n} files]
+	{
+	ru=Файлов: {n};
+	}
+
+[{n} tracks]
+	{
+	ru=Треков: {n};
+	}
+
+[{tracks} · optional]
+	{
+	ru={tracks} · необязательно;
+	}
+
+[{kinds} · 1 file]
+	{
+	ru={kinds} · 1 файл;
+	}
+
+[{kinds} · {n} files]
+	{
+	ru={kinds} · файлов: {n};
+	}
+
+[at least {size}]
+	{
+	ru=не менее {size};
+	}
+
+[{problem} The folder may be missing totala1.hpi.]
+	{
+	ru={problem} Возможно, в папке нет totala1.hpi.;
+	}
+
+[{file} is not the release of the Total Annihilation demo (1997) that Open Annihilation recognises. Installers of the full game are Windows programs, which Open Annihilation never runs: install the game on a computer, then copy its folder.]
+	{
+	ru={file} — не тот выпуск демоверсии Total Annihilation (1997), который распознаёт Open Annihilation. Установщики полной игры — это программы Windows, которые Open Annihilation никогда не запускает: установите игру на компьютер, а затем скопируйте её папку.;
+	}
+
+[Not enough space on this {device}]
+	{
+	ru=Недостаточно места на этом {device};
+	}
+
+[These files need {need} and this {device} has {free} free. {advice}, or turn off a part above, then tap Check again.]
+	{
+	ru=Этим файлам нужно {need}, а на этом {device} свободно {free}. {advice} или отключите одну из частей выше, а затем нажмите «Проверить снова».;
+	}
+
+[This {device} ran out of space]
+	{
+	ru=На этом {device} закончилось место;
+	}
+
+[The copy stopped after {size}. What was copied is kept: free some space, then tap Continue.]
+	{
+	ru=Копирование остановилось после {size}. Скопированное сохранено: освободите место и нажмите «Продолжить».;
+	}
+
+[Open Annihilation could not read {file}. Connect it again and tap Continue. What was copied is kept.]
+	{
+	ru=Open Annihilation не удалось прочитать {file}. Подключите носитель снова и нажмите «Продолжить». Скопированное сохранено.;
+	}
+
+[Open Annihilation could not read {file}: {why}. Connect it again and tap Continue. What was copied is kept.]
+	{
+	ru=Open Annihilation не удалось прочитать {file}: {why}. Подключите носитель снова и нажмите «Продолжить». Скопированное сохранено.;
+	}
+
+[{file} is in {cloud} and could not be downloaded. Connect to the internet and tap Continue.]
+	{
+	ru={file} хранится в {cloud}, и его не удалось скачать. Подключитесь к интернету и нажмите «Продолжить».;
+	}
+
+[{file} is in {cloud} and could not be downloaded: {why}. Connect to the internet and tap Continue.]
+	{
+	ru={file} хранится в {cloud}, и его не удалось скачать: {why}. Подключитесь к интернету и нажмите «Продолжить».;
+	}
+
+[Open Annihilation may no longer read {location}. Choose the folder again to go on; what was copied is kept.]
+	{
+	ru=Возможно, у Open Annihilation больше нет доступа к источнику: {location}. Чтобы продолжить, выберите папку снова — скопированное сохранено.;
+	}
+
+[Some files in {location} changed since the copy began. Files that match are kept; the rest are copied again.]
+	{
+	ru=Некоторые файлы изменились после начала копирования (источник: {location}). Совпадающие файлы сохраняются, остальные будут скопированы заново.;
+	}
+
+[This folder holds {size}, far more than a Total Annihilation installation (about 1.1 GB with everything).]
+	{
+	ru=В этой папке {size} — намного больше, чем занимает установленная Total Annihilation (со всем — около 1.1 ГБ).;
+	}
+
+[There is no Total Annihilation folder on this {device} yet. {steps} Name it Total Annihilation. Wait until the copy has finished, then tap Check again.]
+	{
+	ru=На этом {device} ещё нет папки Total Annihilation. {steps} Назовите её Total Annihilation. Дождитесь окончания копирования и нажмите «Проверить снова».;
+	}
+
+[Found your files in {folder}. Use that folder?]
+	{
+	ru=Ваши файлы найдены: {folder}. Использовать эту папку?;
+	}
+
+[The system's file picker could not be opened: {error}.]
+	{
+	ru=Не удалось открыть системное окно выбора файлов: {error}.;
+	}
+
+[Open Annihilation could not write its own folder: {error}.]
+	{
+	ru=Open Annihilation не удалось записать данные в свою папку: {error}.;
+	}
+
+[{done} of {total} is copied. Keep it, and choosing the same folder later continues from here.]
+	{
+	ru=Скопировано {done} из {total}. Оставьте скопированное — и если позже выбрать ту же папку, копирование продолжится с этого места.;
+	}
+
+[This replaces the game files on this {device} ({size}) with the folder you chose. The current folder is kept as Total Annihilation (old) until you remove it. Saved games and settings stay.]
+	{
+	ru=Файлы игры на этом {device} ({size}) будут заменены выбранной папкой. Текущая папка останется как Total Annihilation (old), пока вы её не удалите. Сохранения и настройки останутся.;
+	}
+
+[{kinds} ({size})]
+	{
+	ru={kinds} ({size});
+	}
+
+[Total Annihilation (old) is the folder that was there before ({size}). The game does not use it; removing it frees the space.]
+	{
+	ru=Total Annihilation (old) — это папка, которая была здесь раньше ({size}). Игра её не использует. Если её удалить, место освободится.;
+	}
+
+[The demo's unpacked data ({size}) is no longer used.]
+	{
+	ru=Распакованные данные демоверсии ({size}) больше не используются.;
+	}
+
+[Remove {name} ({size})?]
+	{
+	ru=Удалить: {name} ({size})?;
+	}
+
+[Remove every game file from this {device} ({size})? Saved games and settings stay. The game cannot start until you add the files again.]
+	{
+	ru=Удалить все файлы игры на этом {device} ({size})? Сохранения и настройки останутся. Игра не запустится, пока вы снова не добавите файлы.;
+	}
+
+[Copying from {location} stopped at {done} of {total}. Choose the same folder to continue; what was copied is kept.]
+	{
+	ru=Копирование остановилось на {done} из {total} (источник: {location}). Чтобы продолжить, выберите ту же папку — скопированное сохранено.;
+	}
+
+[Copying from {location} stopped at {done}. Choose the same folder to continue; what was copied is kept.]
+	{
+	ru=Копирование остановилось на {done} (источник: {location}). Чтобы продолжить, выберите ту же папку — скопированное сохранено.;
+	}
+
+[The Total Annihilation folder on this {device} cannot be played.]
+	{
+	ru=Папка Total Annihilation на этом {device} непригодна для игры.;
+	}
+
+[The Total Annihilation folder on this {device} cannot be played: {problem}]
+	{
+	ru=Папка Total Annihilation на этом {device} непригодна для игры: {problem};
+	}
+
+[{n} files were added]
+	{
+	ru=Добавлено файлов: {n};
+	}
+
+[1 file was added from {source}]
+	{
+	ru=Добавлен 1 файл (источник: {source});
+	}
+
+[{n} files were added from {source}]
+	{
+	ru=Добавлено файлов: {n} (источник: {source});
+	}
+
+[{added}; {name} is there already and was kept.]
+	{
+	ru={added}. Файл {name} уже был и оставлен без изменений.;
+	}
+
+[{n} more]
+	{
+	ru=ещё {n};
+	}
+
+[{added}; {names} are there already and were kept.]
+	{
+	ru={added}. Файлы {names} уже были и оставлены без изменений.;
+	}
+
+[{added}.]
+	{
+	ru={added}.;
+	}
+
+[{added} The new files are used from the next start of Open Annihilation.]
+	{
+	ru={added} Новые файлы будут использоваться со следующего запуска Open Annihilation.;
+	}
+
+[{changes} Waiting to be removed: {names}.]
+	{
+	ru={changes} Ожидают удаления: {names}.;
+	}
+
+[Choose the game folder]
+	{
+	ru=Выберите папку игры;
+	}
+
+[CHOOSE FOLDER]
+	{
+	ru=ВЫБРАТЬ ПАПКУ;
+	}
+
+[Copy it yourself]
+	{
+	ru=Скопировать самостоятельно;
+	}
+
+[I HAVE COPIED IT]
+	{
+	ru=УЖЕ СКОПИРОВАНО;
+	}
+
+[Play the 1997 demo]
+	{
+	ru=Играть в демоверсию 1997 года;
+	}
+
+[CHOOSE INSTALLER]
+	{
+	ru=ВЫБРАТЬ УСТАНОВЩИК;
+	}
+
+[WHY]
+	{
+	ru=ПОЧЕМУ;
+	}
+
+[SHOW]
+	{
+	ru=ПОКАЗАТЬ;
+	}
+
+[REMOVE]
+	{
+	ru=УДАЛИТЬ;
+	}
+
+[Add your Total Annihilation files]
+	{
+	ru=Добавьте свои файлы Total Annihilation;
+	}
+
+[You need the folder of an installed copy of Total Annihilation, the one that holds totala1.hpi: about 1.1 GB with both expansions and the music. Installers of the full game are Windows programs and cannot be used here; install the game on a computer and bring its folder.]
+	{
+	ru=Нужна папка установленной копии Total Annihilation — та, в которой есть totala1.hpi: около 1.1 ГБ с обоими дополнениями и музыкой. Установщики полной игры — это программы Windows, здесь их использовать нельзя. Установите игру на компьютер и перенесите сюда её папку.;
+	}
+
+[OA settings › Game files manages them later.]
+	{
+	ru=Позже ими можно управлять в разделе Настройки OA › Файлы игры.;
+	}
+
+[OA settings › Game files adds an expansion or removes the files later.]
+	{
+	ru=Добавить дополнение или удалить файлы позже можно в разделе Настройки OA › Файлы игры.;
+	}
+
+[Looking at the file]
+	{
+	ru=Просмотр файла;
+	}
+
+[Looking at the folder]
+	{
+	ru=Просмотр папки;
+	}
+
+[Reading names and sizes only: nothing is copied or downloaded yet.]
+	{
+	ru=Читаются только имена и размеры: пока ничего не копируется и не скачивается.;
+	}
+
+[A game folder inside]
+	{
+	ru=Внутри — папка игры;
+	}
+
+[a folder]
+	{
+	ru=папка;
+	}
+
+[This folder holds no game archives, but folders inside it do. Choose one.]
+	{
+	ru=В этой папке нет архивов игры, но они есть во вложенных папках. Выберите одну из них.;
+	}
+
+[USE THAT FOLDER]
+	{
+	ru=ИСПОЛЬЗОВАТЬ ЭТУ ПАПКУ;
+	}
+
+[CHOOSE ANOTHER FOLDER]
+	{
+	ru=ВЫБРАТЬ ДРУГУЮ ПАПКУ;
+	}
+
+[This is already the game folder.]
+	{
+	ru=Это и есть папка игры.;
+	}
+
+[CHECK IT]
+	{
+	ru=ПРОВЕРИТЬ;
+	}
+
+[Ready to copy]
+	{
+	ru=Готово к копированию;
+	}
+
+[Checked: the game can start from these files.]
+	{
+	ru=Проверено: игра может запуститься с этими файлами.;
+	}
+
+[Checked fully once copied.]
+	{
+	ru=Полная проверка — после копирования.;
+	}
+
+[CHOOSE ANOTHER FILE]
+	{
+	ru=ВЫБРАТЬ ДРУГОЙ ФАЙЛ;
+	}
+
+[CHECK AGAIN]
+	{
+	ru=ПРОВЕРИТЬ СНОВА;
+	}
+
+[REPLACE GAME FILES]
+	{
+	ru=ЗАМЕНИТЬ ФАЙЛЫ ИГРЫ;
+	}
+
+[COPY]
+	{
+	ru=КОПИРОВАТЬ;
+	}
+
+[Copying]
+	{
+	ru=Копирование;
+	}
+
+[STOP]
+	{
+	ru=СТОП;
+	}
+
+[Keep Open Annihilation open until the copy ends. If you leave it, the copy goes on for a short while, then pauses and continues when you come back.]
+	{
+	ru=Не закрывайте Open Annihilation до конца копирования. Если выйти из программы, копирование продолжится ещё немного, затем встанет на паузу и возобновится, когда вы вернётесь.;
+	}
+
+[Checking]
+	{
+	ru=Проверка;
+	}
+
+[Checking the copied files with the game's own check…]
+	{
+	ru=Скопированные файлы проверяются так, как их проверяет сама игра…;
+	}
+
+[Ready to play]
+	{
+	ru=Готово к игре;
+	}
+
+[REMOVE OLD FOLDER]
+	{
+	ru=УДАЛИТЬ СТАРУЮ ПАПКУ;
+	}
+
+[DONE]
+	{
+	ru=ГОТОВО;
+	}
+
+[PLAY]
+	{
+	ru=ИГРАТЬ;
+	}
+
+[ADD FILES…]
+	{
+	ru=ДОБАВИТЬ ФАЙЛЫ…;
+	}
+
+[REPLACE THE GAME FILES…]
+	{
+	ru=ЗАМЕНИТЬ ФАЙЛЫ ИГРЫ…;
+	}
+
+[REMOVE ALL GAME FILES…]
+	{
+	ru=УДАЛИТЬ ВСЕ ФАЙЛЫ ИГРЫ…;
+	}
+
+[Pick the folder that holds totala1.hpi: {places}. It is checked, then copied in.]
+	{
+	ru=Выберите папку, в которой есть totala1.hpi: {places}. Она будет проверена, а затем скопирована.;
+	}
+
+[The folder that holds totala1.hpi: {places}.]
+	{
+	ru=Папка, в которой есть totala1.hpi: {places}.;
+	}
+
+[{steps} Name it Total Annihilation.]
+	{
+	ru={steps} Назовите её Total Annihilation.;
+	}
+
+[{steps}, named Total Annihilation.]
+	{
+	ru={steps}, с именем Total Annihilation.;
+	}
+
+[Choose the installer of the Total Annihilation demo (1997). The game recognises it, never runs it, and unpacks its {size} of game data.]
+	{
+	ru=Выберите установщик демоверсии Total Annihilation (1997). Игра распознаёт его, никогда не запускает и распаковывает из него {size} игровых данных.;
+	}
+
+[The demo's installer: recognised, never run, {size} unpacked.]
+	{
+	ru=Установщик демоверсии: распознаётся, не запускается, распаковывается {size}.;
+	}
+
+[Copied onto this {device} once from your own copy. Nothing is downloaded.]
+	{
+	ru=Файлы один раз копируются с вашей собственной копии и хранятся на этом {device}. Ничего не скачивается.;
+	}
+
+[Open Annihilation plays the game from your own copy, as it does on a computer. It comes with no game data and downloads nothing: the files are copied onto this {device} once and stay here.]
+	{
+	ru=Open Annihilation запускает игру с вашей собственной копии — так же, как на компьютере. Игровых данных в комплекте нет, и ничего не скачивается: файлы один раз копируются и остаются на этом {device}.;
+	}
+
+[{size} free on this {device}.]
+	{
+	ru=На этом {device} свободно {size}.;
+	}
+
+[Looking at {location}…]
+	{
+	ru=Просмотр: {location}…;
+	}
+
+[1 file, {size} so far]
+	{
+	ru=Пока 1 файл, {size};
+	}
+
+[{n} files, {size} so far]
+	{
+	ru=Пока файлов: {n}, {size};
+	}
+
+[You chose: {location}]
+	{
+	ru=Выбрано: {location};
+	}
+
+[This folder holds no game archives, but {folder} does.]
+	{
+	ru=В этой папке нет архивов игры, но они есть здесь: {folder}.;
+	}
+
+[{warning} Turning off {parts} would make them fit.]
+	{
+	ru={warning} Файлы поместятся, если отключить: {parts}.;
+	}
+
+[From {location}]
+	{
+	ru=Источник: {location};
+	}
+
+[{size} is in {cloud} only and is downloaded while copying.]
+	{
+	ru={size} хранится только в {cloud} и будет скачано при копировании.;
+	}
+
+[Copies at least {size}.]
+	{
+	ru=Будет скопировано не менее {size}.;
+	}
+
+[Copies {size}.]
+	{
+	ru=Будет скопировано {size}.;
+	}
+
+[Downloading {file} from {cloud}…]
+	{
+	ru=Скачивание {file}, который хранится в {cloud}…;
+	}
+
+[Unpacking the demo's game data ({size})…]
+	{
+	ru=Распаковка игровых данных демоверсии ({size})…;
+	}
+
+[Uses {size} on this {device} · {free} free.]
+	{
+	ru=Занимает {size} на этом {device} · свободно {free}.;
+	}
+
+[Uses {size} on this {device}.]
+	{
+	ru=Занимает {size} на этом {device}.;
+	}
+
+[These files are not in this {device}'s backups. Keep your original copy.]
+	{
+	ru=Эти файлы на этом {device} не входят в резервные копии. Сохраните свою оригинальную копию.;
+	}
+
+[{file} could not be opened, so the game plays without it: it may be damaged. Copy it again from the original.]
+	{
+	ru=Не удалось открыть {file}, поэтому игра работает без него: возможно, он повреждён. Скопируйте его снова с оригинала.;
+	}
+
+[The folder that was there before is kept as Total Annihilation (old), {size}.]
+	{
+	ru=Прежняя папка сохранена как Total Annihilation (old), {size}.;
+	}
+
+[{size} on this {device} · {free} free]
+	{
+	ru={size} на этом {device} · свободно {free};
+	}
+
+[{size} on this {device}]
+	{
+	ru={size} на этом {device};
+	}
+
+[working out the time left]
+	{
+	ru=оценка оставшегося времени;
+	}
+
+[a few seconds left]
+	{
+	ru=осталось несколько секунд;
+	}
+
+[about a minute left]
+	{
+	ru=осталось около минуты;
+	}
+
+[about an hour left]
+	{
+	ru=осталось около часа;
+	}
+
+[The Total Annihilation demo (1997).]
+	{
+	ru=Демоверсия Total Annihilation (1997).;
+	}
+
+[extra units and maps]
+	{
+	ru=дополнительные юниты и карты;
+	}
+
+[music]
+	{
+	ru=музыка;
+	}
+
+[movies]
+	{
+	ru=видеоролики;
+	}
+
+[mods]
+	{
+	ru=моды;
+	}
+
+[1 mod]
+	{
+	ru=1 мод;
+	}
+
+[No game files]
+	{
+	ru=Нет файлов игры;
+	}
+
+[{a}, {b}]
+	{
+	ru={a}, {b};
+	}
+
+[{n} byte]
+	{
+	ru={n} Б;
+	}
+
+[{n} bytes]
+	{
+	ru={n} Б;
+	}
+
+[about {n} minutes left]
+	{
+	ru=осталось около {n} мин;
+	}
+
+[about {n} hours left]
+	{
+	ru=осталось около {n} ч;
+	}
+
+[{game} with {expansions}, {others}.]
+	{
+	ru={game}, {expansions}, а также {others}.;
+	}
+
+[{game} with {list}.]
+	{
+	ru={game}, а также {list}.;
+	}
+
+[{game}.]
+	{
+	ru={game}.;
+	}
+
+[{n} mods]
+	{
+	ru=модов: {n};
+	}
+
+[ADD THE MISSING FILES]
+	{
+	ru=ДОБАВИТЬ НЕДОСТАЮЩИЕ ФАЙЛЫ;
+	}
+
+[BACK]
+	{
+	ru=НАЗАД;
+	}
+
+[CANCEL THE REPLACEMENT]
+	{
+	ru=ОТМЕНИТЬ ЗАМЕНУ;
+	}
+
+[CHANGE WHAT IS COPIED]
+	{
+	ru=ВЫБРАТЬ, ЧТО КОПИРОВАТЬ;
+	}
+
+[CHOOSE A FOLDER]
+	{
+	ru=ВЫБРАТЬ ПАПКУ;
+	}
+
+[CHOOSE ARCHIVES]
+	{
+	ru=ВЫБРАТЬ АРХИВЫ;
+	}
+
+[CHOOSE THE DEMO'S INSTALLER]
+	{
+	ru=ВЫБРАТЬ УСТАНОВЩИК ДЕМОВЕРСИИ;
+	}
+
+[CHOOSE THE FOLDER AGAIN]
+	{
+	ru=ВЫБРАТЬ ПАПКУ СНОВА;
+	}
+
+[CONTINUE]
+	{
+	ru=ПРОДОЛЖИТЬ;
+	}
+
+[COPY ANYWAY]
+	{
+	ru=ВСЁ РАВНО КОПИРОВАТЬ;
+	}
+
+[DISCARD]
+	{
+	ru=ОТБРОСИТЬ;
+	}
+
+[DISCARD WHAT WAS COPIED]
+	{
+	ru=ОТБРОСИТЬ СКОПИРОВАННОЕ;
+	}
+
+[GATHER THEM]
+	{
+	ru=СОБРАТЬ ИХ;
+	}
+
+[KEEP]
+	{
+	ru=ОСТАВИТЬ;
+	}
+
+[KEEP COPYING]
+	{
+	ru=ПРОДОЛЖИТЬ КОПИРОВАНИЕ;
+	}
+
+[KEEP WHAT WAS COPIED]
+	{
+	ru=ОСТАВИТЬ СКОПИРОВАННОЕ;
+	}
+
+[REMOVE ALL]
+	{
+	ru=УДАЛИТЬ ВСЁ;
+	}
+
+[START AGAIN]
+	{
+	ru=НАЧАТЬ ЗАНОВО;
+	}
+
+[TRY AGAIN]
+	{
+	ru=ПОВТОРИТЬ;
+	}
+
+[USE IT]
+	{
+	ru=ИСПОЛЬЗОВАТЬ;
+	}
+
+[Copy your Total Annihilation folder into Open Annihilation's own folder with your file manager.]
+	{
+	ru=Скопируйте свою папку Total Annihilation в собственную папку Open Annihilation с помощью файлового менеджера.;
+	}
+
+[Into Open Annihilation's own folder]
+	{
+	ru=В собственную папку Open Annihilation;
+	}
+
+[on this device or anywhere the system's file picker reaches]
+	{
+	ru=на этом устройстве или в любом месте, доступном системному окну выбора файлов;
+	}
+
+[anywhere the file picker reaches]
+	{
+	ru=в любом месте, доступном окну выбора файлов;
+	}
+
+[Free up space on this device]
+	{
+	ru=Освободите место на этом устройстве;
+	}
+
+[In your file manager: Open Annihilation's own folder › Total Annihilation]
+	{
+	ru=В файловом менеджере: собственная папка Open Annihilation › Total Annihilation;
+	}
+
+[the cloud]
+	{
+	ru=облаке;
+	}
+
+[{a} and {b}]
+	{
+	ru={a} и {b};
+	}
+
+[{a} or {b}]
+	{
+	ru={a} или {b};
+	}
+
+[No folders here.]
+	{
+	ru=Здесь нет папок.;
+	}
+
+[Settings were not saved.]
+	{
+	ru=Настройки не сохранены.;
+	}
+
+[That folder cannot be found.]
+	{
+	ru=Эта папка не найдена.;
+	}
+
+[That folder's oamod.yaml cannot be read.]
+	{
+	ru=Не удаётся прочитать oamod.yaml этой папки.;
+	}
+
+[That folder cannot be played; the log says why.]
+	{
+	ru=Эта папка непригодна для игры — причина указана в журнале.;
+	}
+
+[Its oamod.yaml cannot be played; the log says why.]
+	{
+	ru=Файл oamod.yaml этой папки непригоден для игры — причина указана в журнале.;
+	}
+
+[The graphics card could not be used, so the processor draws the game. You can try it again under Graphics in the OA settings.]
+	{
+	ru=Не удалось использовать видеокарту, поэтому игру рисует процессор. Можно попробовать снова в настройках OA, в разделе «Графика».;
+	}
+
+[A graphics driver failed, so the game now uses another one. You can try it again under Graphics in the OA settings.]
+	{
+	ru=Графический драйвер дал сбой, поэтому игра теперь использует другой. Можно попробовать его снова в настройках OA, в разделе «Графика».;
+	}
+
+[The graphics card could not draw the battlefield, so it only scales it now. You can try Full again under Graphics in the OA settings.]
+	{
+	ru=Видеокарта не смогла нарисовать поле боя, поэтому теперь она его только масштабирует. Можно снова попробовать режим «Полный» в настройках OA, в разделе «Графика».;
+	}
+
+[This game includes no skirmish maps, so skirmish is not available.]
+	{
+	ru=В этой игре нет карт для схватки, поэтому схватка недоступна.;
+	}
+
+[This game includes no multiplayer maps, so multiplayer is not available.]
+	{
+	ru=В этой игре нет карт для сетевой игры, поэтому сетевая игра недоступна.;
+	}
+
+[Campaign complete. This game includes no further missions.]
+	{
+	ru=Кампания завершена. Больше миссий в этой игре нет.;
+	}
+
+[{used} · {free} free on this {device}]
+	{
+	ru={used} · свободно {free} на этом {device};
+	}
+
+[{used} on this {device}]
+	{
+	ru={used} на этом {device};
+	}
+
+[SAVED GAMES MOVED]
+	{
+	ru=СОХРАНЕНИЯ ПЕРЕМЕЩЕНЫ;
+	}
+
+[GAME FOLDER FOUND]
+	{
+	ru=ПАПКА ИГРЫ НАЙДЕНА;
+	}
+
+[MOD FILES MISSING]
+	{
+	ru=НЕ ХВАТАЕТ ФАЙЛОВ МОДА;
+	}
+
+[OPEN MOD FOLDER]
+	{
+	ru=ОТКРЫТЬ ПАПКУ МОДА;
+	}
+
+[New saved games go in:]
+	{
+	ru=Новые сохранения будут записываться в:;
+	}
+
+[Screenshots, films and mods now go in the same Open Annihilation folder.]
+	{
+	ru=Снимки экрана, записи и моды теперь тоже попадают в ту же папку Open Annihilation.;
+	}
+
+[Open Annihilation remembers it for later starts; start it with --choose-game-dir to choose another folder.]
+	{
+	ru=Open Annihilation запомнит её для следующих запусков. Чтобы выбрать другую папку, запустите Open Annihilation с --choose-game-dir.;
+	}
+
+[None of this mod's units were found.]
+	{
+	ru=Не найдено ни одного юнита этого мода.;
+	}
+
+[Its games can't start until the mod's files are added to its folder:]
+	{
+	ru=Игры с этим модом не запустятся, пока файлы мода не будут добавлены в его папку:;
+	}
+
+[Its games still start. Add the missing files to its folder to show them:]
+	{
+	ru=Игры с этим модом всё равно запускаются. Добавьте недостающие файлы в его папку, чтобы они появились:;
+	}
+
+[Income Multipliers]
+	{
+	ru=Множители дохода;
+	}
+
+[Difficulty Names]
+	{
+	ru=Названия уровней сложности;
+	}
+
+[Commander Runs Factories]
+	{
+	ru=Командир управляет заводами;
+	}
+
+[Factory Tick Filter]
+	{
+	ru=Фильтр такта заводов;
+	}
+
+[Commander Builder Limit]
+	{
+	ru=Лимит строителей у Командира;
+	}
+
+[Commander Keeps Orders When Hit]
+	{
+	ru=Командир сохраняет приказы под огнём;
+	}
+
+[Attack Wave Size]
+	{
+	ru=Размер волны атаки;
+	}
+
+[Patrol Group Size]
+	{
+	ru=Размер группы патруля;
+	}
+
+[Patrol Edge Fallback]
+	{
+	ru=Патруль до края карты;
+	}
+
+[Squad Assignment]
+	{
+	ru=Распределение по отрядам;
+	}
+
+[Ignore Submerged Targets]
+	{
+	ru=Игнорировать подводные цели;
+	}
+
+[Selective Weapon Use]
+	{
+	ru=Выборочное применение оружия;
+	}
+
+[Fire While Building]
+	{
+	ru=Огонь во время строительства;
+	}
+
+[Repair Finish Check]
+	{
+	ru=Проверка завершения ремонта;
+	}
+
+[Reclaim Cursor on Any Unit]
+	{
+	ru=Курсор утилизации над любым юнитом;
+	}
+
+[Resurrectors Reclaim Wrecks]
+	{
+	ru=Воскресители утилизируют обломки;
+	}
+
+[Build Site Kickout]
+	{
+	ru=Освобождение места строительства;
+	}
+
+[Builder Patrol and Guard Options]
+	{
+	ru=Патруль и охрана строителей;
+	}
+
+[No Repair Retreat]
+	{
+	ru=Без отхода на ремонт;
+	}
+
+[Guard Respects Hold Position]
+	{
+	ru=Охрана учитывает «На месте»;
+	}
+
+[Gunships Hover to Strafe]
+	{
+	ru=Штурмовики зависают для обстрела;
+	}
+
+[Retarget Out of Range]
+	{
+	ru=Смена цели вне дальности;
+	}
+
+[High-Arc Ballistics]
+	{
+	ru=Навесная баллистика;
+	}
+
+[Timed Shell Detonation]
+	{
+	ru=Подрыв снарядов по таймеру;
+	}
+
+[Vertical Launch Before Turret]
+	{
+	ru=Вертикальный пуск до поворота башни;
+	}
+
+[Repair Rate]
+	{
+	ru=Скорость ремонта;
+	}
+
+[Self-Repair by Heal Time]
+	{
+	ru=Саморемонт по времени восстановления;
+	}
+
+[Veterancy Model]
+	{
+	ru=Модель опыта;
+	}
+
+[Deterministic Wind]
+	{
+	ru=Детерминированный ветер;
+	}
+
+[Statistics Exclude Shared Income]
+	{
+	ru=Статистика без общего дохода;
+	}
+
+[Allied Line of Sight]
+	{
+	ru=Обзор союзников;
+	}
+
+[Ignore Allied Jammers]
+	{
+	ru=Игнорировать глушители союзников;
+	}
+
+[Team Start Positions]
+	{
+	ru=Стартовые позиции команд;
+	}
+
+[Map Scripted Units]
+	{
+	ru=Юниты из сценария карты;
+	}
+
+[Start with One Human]
+	{
+	ru=Старт с одним игроком-человеком;
+	}
+
+[Several Local AI Players]
+	{
+	ru=Несколько локальных игроков ИИ;
+	}
+
+[AI Player Names]
+	{
+	ru=Имена игроков ИИ;
+	}
+
+[Commander Warp]
+	{
+	ru=Телепортация Командира;
+	}
+
+[Prebuilt Base]
+	{
+	ru=Готовая база;
+	}
+
+[Team Number Alliances]
+	{
+	ru=Союзы по номеру команды;
+	}
+
+[Keep Allied Victory]
+	{
+	ru=Сохранять союзную победу;
+	}
+
+[Alliance Menu Everywhere]
+	{
+	ru=Меню союзов везде;
+	}
+
+[Structure Gift Rate Limit]
+	{
+	ru=Ограничение частоты передачи зданий;
+	}
+
+[Take Waits for Commander Deaths]
+	{
+	ru=Приём юнитов после гибели Командира;
+	}
+
+[Take and Give Commands]
+	{
+	ru=Команды передачи и приёма юнитов;
+	}
+
+[Unit Slot Reuse Delay]
+	{
+	ru=Задержка повторного использования слота;
+	}
+
+[Ignore Unit 0 Deaths]
+	{
+	ru=Игнорировать гибель юнита 0;
+	}
+
+[Skip Empty Yard Maps]
+	{
+	ru=Пропуск пустых схем площадки;
+	}
+
+[Water State Rules]
+	{
+	ru=Правила состояния в воде;
+	}
+
+[Placement by Builder]
+	{
+	ru=Размещение по строителю;
+	}
+
+[Mobile Unit Yard Maps]
+	{
+	ru=Схемы площадки мобильных юнитов;
+	}
+
+[Build Rotation]
+	{
+	ru=Поворот зданий;
+	}
+
+[Cloak After Build]
+	{
+	ru=Маскировка после постройки;
+	}
+
+[AI and Control Cheats]
+	{
+	ru=Читы AI и Control;
+	}
+
+[LOS Type Cheat]
+	{
+	ru=Чит типа обзора;
+	}
+
+[ATM Amount]
+	{
+	ru=Сумма ATM;
+	}
+
+[Key Remaps]
+	{
+	ru=Переназначение клавиш;
+	}
+
+[Game Speed Range]
+	{
+	ru=Диапазон скорости игры;
+	}
+
+[Chat Extension Channel]
+	{
+	ru=Канал расширений чата;
+	}
+
+[Version Check]
+	{
+	ru=Проверка версии;
+	}
+
+[Vote to Remove Players]
+	{
+	ru=Голосование за исключение игроков;
+	}
+
+[Lag Guard]
+	{
+	ru=Защита от задержек;
+	}
+
+[Commander Start Sync]
+	{
+	ru=Синхронизация старта Командира;
+	}
+
+[Keep Remote Player Colours]
+	{
+	ru=Сохранять цвета удалённых игроков;
+	}
+
+[Clear Session Description]
+	{
+	ru=Очистка описания сессии;
+	}
+
+[Host Stays as Watcher]
+	{
+	ru=Хост остаётся зрителем;
+	}
+
+[Recorder Session Commands]
+	{
+	ru=Сессионные команды записи;
+	}
+
+[Game Recorder]
+	{
+	ru=Запись игр;
+	}
+
+[Ten-Player Replay]
+	{
+	ru=Повтор на десять игроков;
+	}
+
+[Megamap]
+	{
+	ru=Мегакарта;
+	}
+
+[Whiteboard]
+	{
+	ru=Маркерная доска;
+	}
+
+[Resource Panel]
+	{
+	ru=Панель ресурсов;
+	}
+
+[Camera Sharing]
+	{
+	ru=Общая камера;
+	}
+
+[Allied Unit Display]
+	{
+	ru=Показ союзных юнитов;
+	}
+
+[Selection Shortcuts]
+	{
+	ru=Горячие клавиши выделения;
+	}
+
+[Build Tools]
+	{
+	ru=Инструменты строительства;
+	}
+
+[Click Snap]
+	{
+	ru=Привязка щелчка;
+	}
+
+[Build Preview]
+	{
+	ru=Предпросмотр здания;
+	}
+
+[Options Dialog]
+	{
+	ru=Окно параметров;
+	}
+
+[Share Dialog and Lobby Buttons]
+	{
+	ru=Окно передачи и кнопки лобби;
+	}
+
+[Text Rendering]
+	{
+	ru=Отрисовка текста;
+	}
+
+[Veterancy Label]
+	{
+	ru=Метка опыта;
+	}
+
+[Map Features Always Drawn]
+	{
+	ru=Объекты карты видны всегда;
+	}
+
+[Unit Voice Fixes]
+	{
+	ru=Исправления голосов юнитов;
+	}
+
+[Effects Tweaks]
+	{
+	ru=Настройка эффектов;
+	}
+
+[Explosion Flash]
+	{
+	ru=Вспышка взрыва;
+	}
+
+[Interface Fixes]
+	{
+	ru=Исправления интерфейса;
+	}
+
+[End-of-Game Statistics]
+	{
+	ru=Статистика в конце игры;
+	}
+
+[Audio]
+	{
+	ru=Звук;
+	}
+
+[Display Modes]
+	{
+	ru=Режимы экрана;
+	}
+
+[External Exports]
+	{
+	ru=Внешний экспорт;
+	}
+
+[AI]
+	{
+	ru=ИИ;
+	}
+
+[Aircraft]
+	{
+	ru=Авиация;
+	}
+
+[Console]
+	{
+	ru=Консоль;
+	}
+
+[Economy]
+	{
+	ru=Экономика;
+	}
+
+[Vision and Radar]
+	{
+	ru=Обзор и радары;
+	}
+
+[Network]
+	{
+	ru=Сеть;
+	}
+
+[Orders]
+	{
+	ru=Приказы;
+	}
+
+[Recorder]
+	{
+	ru=Запись;
+	}
+
+[Repair]
+	{
+	ru=Ремонт;
+	}
+
+[Game Setup]
+	{
+	ru=Подготовка игры;
+	}
+
+[Sharing]
+	{
+	ru=Передача;
+	}
+
+[Teams]
+	{
+	ru=Команды;
+	}
+
+[Interface]
+	{
+	ru=Интерфейс;
+	}
+
+[Units]
+	{
+	ru=Юниты;
+	}
+
+[Veterancy]
+	{
+	ru=Опыт;
+	}
+
+[Weapons]
+	{
+	ru=Оружие;
+	}
+
+[MOVE]
+	{
+	ru=ДВИЖЕНИЕ;
+	}
+
+[ATTACK]
+	{
+	ru=АТАКА;
+	}
+
+[PATROL]
+	{
+	ru=ПАТРУЛЬ;
+	}
+
+[DEFEND]
+	{
+	ru=ОХРАНА;
+	}
+
+[BLAST]
+	{
+	ru=D-ПУШКА;
+	}
+
+[RECLAIM]
+	{
+	ru=УТИЛИЗАЦИЯ;
+	}
+
+[REPAIR]
+	{
+	ru=РЕМОНТ;
+	}
+
+[CAPTURE]
+	{
+	ru=ЗАХВАТ;
+	}
+
+[LOAD]
+	{
+	ru=ПОГРУЗКА;
+	}
+
+[UNLOAD]
+	{
+	ru=ВЫГРУЗКА;
+	}
+
+[GUARD]
+	{
+	ru=ОХРАНА;
+	}
+
+[D-GUN]
+	{
+	ru=D-ПУШКА;
+	}
+
+[INFO]
+	{
+	ru=ИНФО;
+	}
+
+[TYPE]
+	{
+	ru=ТИП;
+	}
+
+[MOVE: the selection moves to the held point.]
+	{
+	ru=ДВИЖЕНИЕ: выделенные юниты идут к точке удержания.;
+	}
+
+[PATROL: the selection patrols to the held point.]
+	{
+	ru=ПАТРУЛЬ: выделенные юниты патрулируют до точки удержания.;
+	}
+
+[ATTACK: the selection attacks the unit or ground at the held point.]
+	{
+	ru=АТАКА: выделенные юниты атакуют юнит или землю в точке удержания.;
+	}
+
+[D-GUN: the commander fires the D-gun at the held point.]
+	{
+	ru=D-ПУШКА: Командир стреляет из D-пушки в точку удержания.;
+	}
+
+[LOAD: the transport loads the unit at the held point.]
+	{
+	ru=ПОГРУЗКА: транспорт грузит юнит в точке удержания.;
+	}
+
+[CAPTURE: the selection captures the unit at the held point.]
+	{
+	ru=ЗАХВАТ: выделенные юниты захватывают юнит в точке удержания.;
+	}
+
+[STOP: the selection stops at once.]
+	{
+	ru=СТОП: выделенные юниты немедленно останавливаются.;
+	}
+
+[INFO: shows the information of the unit at the held point.]
+	{
+	ru=ИНФО: показывает данные юнита в точке удержания.;
+	}
+
+[TYPE: selects every unit of the held unit's type.]
+	{
+	ru=ТИП: выделяет все юниты того же типа, что и юнит в точке удержания.;
+	}
+
+[RECLAIM: the selection reclaims the wreck or unit at the held point.]
+	{
+	ru=УТИЛИЗАЦИЯ: выделенные юниты утилизируют обломки или юнит в точке удержания.;
+	}
+
+[REPAIR: the selection repairs or helps build the unit at the held point.]
+	{
+	ru=РЕМОНТ: выделенные юниты ремонтируют юнит в точке удержания или помогают его строить.;
+	}
+
+[UNLOAD: the transport unloads at the held point.]
+	{
+	ru=ВЫГРУЗКА: транспорт высаживает юниты в точке удержания.;
+	}
+
+[GUARD: the selection guards the unit at the held point.]
+	{
+	ru=ОХРАНА: выделенные юниты охраняют юнит в точке удержания.;
+	}
+
+[Fire orders: tap to step through Hold fire, Return fire and Fire at will.]
+	{
+	ru=Режим огня: нажатия переключают «Не стрелять», «Ответный огонь» и «Свободный огонь».;
+	}
+
+[Move orders: tap to step through Hold position, Maneuver and Roam.]
+	{
+	ru=Режим движения: нажатия переключают «На месте», «Манёвр» и «Свободно».;
+	}
+
+[On/Off: tap to switch the selected units on or off.]
+	{
+	ru=Вкл./Выкл.: нажмите, чтобы включить или выключить выделенные юниты.;
+	}
+
+[CLOAK]
+	{
+	ru=МАСКИРОВКА;
+	}
+
+[Cloak: tap to turn cloaking on or off; a cloaked unit uses energy.]
+	{
+	ru=Маскировка: нажмите, чтобы включить или выключить маскировку. Замаскированный юнит расходует энергию.;
+	}
+
+[ORDERS]
+	{
+	ru=ПРИКАЗЫ;
+	}
+
+[ORDERS: shows the orders page.]
+	{
+	ru=ПРИКАЗЫ: показывает страницу приказов.;
+	}
+
+[BUILD]
+	{
+	ru=СТРОЙКА;
+	}
+
+[BUILD: shows the build pages.]
+	{
+	ru=СТРОЙКА: показывает страницы строительства.;
+	}
+
+[PREV]
+	{
+	ru=НАЗАД;
+	}
+
+[PREV: shows the build page before this one.]
+	{
+	ru=НАЗАД: показывает предыдущую страницу строительства.;
+	}
+
+[NEXT PAGE]
+	{
+	ru=ДАЛЕЕ;
+	}
+
+[NEXT: shows the build page after this one.]
+	{
+	ru=ДАЛЕЕ: показывает следующую страницу строительства.;
+	}
+
+[MOVE: tap to arm it, then tap where the selection goes.]
+	{
+	ru=ДВИЖЕНИЕ: нажмите, чтобы выбрать приказ, затем нажмите, куда идти.;
+	}
+
+[ATTACK: tap to arm it, then tap the unit or ground to fire at.]
+	{
+	ru=АТАКА: нажмите, чтобы выбрать приказ, затем нажмите на юнит или землю для обстрела.;
+	}
+
+[PATROL: tap to arm it, then tap the points to patrol between.]
+	{
+	ru=ПАТРУЛЬ: нажмите, чтобы выбрать приказ, затем нажмите на точки маршрута патруля.;
+	}
+
+[GUARD: tap to arm it, then tap the unit to guard.]
+	{
+	ru=ОХРАНА: нажмите, чтобы выбрать приказ, затем нажмите на юнит, который нужно охранять.;
+	}
+
+[D-GUN: tap to arm it, then tap where the commander fires it.]
+	{
+	ru=D-ПУШКА: нажмите, чтобы выбрать приказ, затем нажмите, куда стрелять Командиру.;
+	}
+
+[RECLAIM: tap to arm it, then tap the wreck or unit to reclaim.]
+	{
+	ru=УТИЛИЗАЦИЯ: нажмите, чтобы выбрать приказ, затем нажмите на обломки или юнит для утилизации.;
+	}
+
+[REPAIR: tap to arm it, then tap the unit to repair or help build.]
+	{
+	ru=РЕМОНТ: нажмите, чтобы выбрать приказ, затем нажмите на юнит, который нужно отремонтировать или помочь построить.;
+	}
+
+[CAPTURE: tap to arm it, then tap the unit to capture.]
+	{
+	ru=ЗАХВАТ: нажмите, чтобы выбрать приказ, затем нажмите на юнит, который нужно захватить.;
+	}
+
+[UNLOAD: tap to arm it, then tap where the transport unloads.]
+	{
+	ru=ВЫГРУЗКА: нажмите, чтобы выбрать приказ, затем нажмите, где транспорт высадит юниты.;
+	}
+
+[LOAD: tap to arm it, then tap the unit to load.]
+	{
+	ru=ПОГРУЗКА: нажмите, чтобы выбрать приказ, затем нажмите на юнит, который нужно погрузить.;
+	}
+
+[ALL]
+	{
+	ru=ВСЕ;
+	}
+
+[BUILDERS]
+	{
+	ru=СТРОИТЕЛИ;
+	}
+
+[FACTORIES]
+	{
+	ru=ЗАВОДЫ;
+	}
+
+[AIRCRAFT]
+	{
+	ru=АВИАЦИЯ;
+	}
+
+[ON SCREEN]
+	{
+	ru=НА ЭКРАНЕ;
+	}
+
+[COMMANDER]
+	{
+	ru=КОМАНДИР;
+	}
+
+[SAME TYPE]
+	{
+	ru=ТОГО ЖЕ ТИПА;
+	}
+
+[CENTRE]
+	{
+	ru=ЦЕНТРИРОВАТЬ;
+	}
+
+[FOLLOW]
+	{
+	ru=СЛЕДИТЬ;
+	}
+
+[NEXT UNIT]
+	{
+	ru=СЛЕДУЮЩИЙ;
+	}
+
+[NEXT REPORT]
+	{
+	ru=СЛЕД. ДОНЕСЕНИЕ;
+	}
+
+[SLOWER]
+	{
+	ru=МЕДЛЕННЕЕ;
+	}
+
+[FASTER]
+	{
+	ru=БЫСТРЕЕ;
+	}
+
+[GAME MENU]
+	{
+	ru=МЕНЮ ИГРЫ;
+	}
+
+[CHAT]
+	{
+	ru=ЧАТ;
+	}
+
+[SELECT]
+	{
+	ru=ВЫДЕЛИТЬ;
+	}
+
+[ASSIST]
+	{
+	ru=ПОМОЧЬ;
+	}
+
+[PLACE]
+	{
+	ru=РАЗМЕСТИТЬ;
+	}
+
+[FIRE ORDERS]
+	{
+	ru=РЕЖИМ ОГНЯ;
+	}
+
+[MOVE ORDERS]
+	{
+	ru=РЕЖИМ ДВИЖЕНИЯ;
+	}
+
+[ON/OFF]
+	{
+	ru=ВКЛ./ВЫКЛ.;
+	}
+
+[SELF-DESTRUCT]
+	{
+	ru=САМОУНИЧТОЖЕНИЕ;
+	}
+
+[QUEUE: Shift for orders, building and placement. Tap to latch, hold for one.]
+	{
+	ru=ОЧЕРЕДЬ: Shift для приказов, строительства и размещения. Нажмите, чтобы закрепить, или удерживайте для одного действия.;
+	}
+
+[ADD: Shift for selecting, so taps, boxes and groups add to the selection. Tap to latch, hold for one.]
+	{
+	ru=ДОБАВИТЬ: Shift для выделения — нажатия, рамки и группы добавляются к выделенному. Нажмите, чтобы закрепить, или удерживайте для одного действия.;
+	}
+
+[x5: Shift for the build buttons, five at a time. Tap to latch, hold for one.]
+	{
+	ru=x5: Shift для кнопок строительства — по пять за раз. Нажмите, чтобы закрепить, или удерживайте для одного действия.;
+	}
+
+[CLEAR: takes back the armed order or the building being placed, else clears the selection.]
+	{
+	ru=СБРОС: отменяет выбранный приказ или размещение здания, а если их нет — снимает выделение.;
+	}
+
+[SELECT: selects all units, builders, factories, aircraft, the units on screen, the commander or the same type.]
+	{
+	ru=ВЫДЕЛИТЬ: выделяет все юниты, строителей, заводы, авиацию, юниты на экране, Командира или юниты того же типа.;
+	}
+
+[STORE: stores the selection as the lowest free group.]
+	{
+	ru=ЗАПОМНИТЬ: сохраняет выделение в свободную группу с наименьшим номером.;
+	}
+
+[Group: tap to select it, tap again to centre on it, hold to store the selection in it.]
+	{
+	ru=Группа: нажмите, чтобы выделить её, ещё раз — чтобы центрировать вид на ней, удерживайте, чтобы запомнить в ней выделение.;
+	}
+
+[PAUSE: pauses or resumes the game.]
+	{
+	ru=ПАУЗА: ставит игру на паузу или продолжает её.;
+	}
+
+[SPEED: makes the game slower or faster.]
+	{
+	ru=СКОРОСТЬ: замедляет или ускоряет игру.;
+	}
+
+[CHAT: writes a message to the other players.]
+	{
+	ru=ЧАТ: написать сообщение другим игрокам.;
+	}
+
+[CENTRE: centres the view on the selected unit.]
+	{
+	ru=ЦЕНТРИРОВАТЬ: центрирует вид на выделенном юните.;
+	}
+
+[FOLLOW: the view follows the selected unit; tap again for the next one.]
+	{
+	ru=СЛЕДИТЬ: вид следует за выделенным юнитом. Нажмите ещё раз, чтобы перейти к следующему.;
+	}
+
+[NEXT: centres the view on the next unit not yet visited.]
+	{
+	ru=СЛЕДУЮЩИЙ: центрирует вид на следующем ещё не просмотренном юните.;
+	}
+
+[INFO: shows the selected unit's information.]
+	{
+	ru=ИНФО: показывает данные выделенного юнита.;
+	}
+
+[MENU: opens the game menu.]
+	{
+	ru=МЕНЮ: открывает меню игры.;
+	}
+
+[BUILD: opens the builder's build pages, or the orders page for other units.]
+	{
+	ru=СТРОЙКА: открывает страницы строительства строителя, а для других юнитов — страницу приказов.;
+	}
+
+[Zoom out: shows more of the battlefield.]
+	{
+	ru=Отдалить: показывает большую часть поля боя.;
+	}
+
+[Zoom in: shows the battlefield closer.]
+	{
+	ru=Приблизить: показывает поле боя крупнее.;
+	}
+
+[Order: tap to arm it, then tap where it goes; tap again to take it back.]
+	{
+	ru=Приказ: нажмите, чтобы выбрать, затем нажмите на цель. Чтобы отменить приказ, нажмите на него ещё раз.;
+	}
+
+[MORE: the other orders, fire and move orders, on and off, cloak and self-destruct.]
+	{
+	ru=ЕЩЁ: другие приказы, режимы огня и движения, включение и выключение, маскировка и самоуничтожение.;
+	}
+
+[BUILD: shows the builder's build pages.]
+	{
+	ru=СТРОЙКА: показывает страницы строительства строителя.;
+	}
+
+[Closes the build drawer.]
+	{
+	ru=Закрывает панель строительства.;
+	}
+
+[Shows the previous page.]
+	{
+	ru=Показывает предыдущую страницу.;
+	}
+
+[Shows the next page.]
+	{
+	ru=Показывает следующую страницу.;
+	}
+
+[CANCEL: stops placing the building.]
+	{
+	ru=ОТМЕНА: прекращает размещение здания.;
+	}
+
+[Takes back the armed order.]
+	{
+	ru=Отменяет выбранный приказ.;
+	}
+
+[Chooses this item.]
+	{
+	ru=Выбирает этот пункт.;
+	}
+
+[SELF-DESTRUCT: hold to start or stop the selection's self-destruct countdown.]
+	{
+	ru=САМОУНИЧТОЖЕНИЕ: удерживайте, чтобы запустить или остановить отсчёт самоуничтожения выделенных юнитов.;
+	}
+
+[Gives this order at the held point.]
+	{
+	ru=Отдаёт этот приказ в точке удержания.;
+	}
+
+[QUEUE: the next order picked is queued after the selection's orders.]
+	{
+	ru=ОЧЕРЕДЬ: следующий выбранный приказ встанет в очередь после приказов выделенных юнитов.;
+	}
+
+[Closes the open menu.]
+	{
+	ru=Закрывает открытое меню.;
+	}
+
+[FORCE: Ctrl for orders and selecting while held, so a click forces fire on the ground or a friend.]
+	{
+	ru=ПРИНУД.: пока удерживается, это Ctrl для приказов и выделения, и щелчок заставляет стрелять по земле или по своим.;
+	}
+
+[Build ring: presses its build button or toggle, or turns the build page.]
+	{
+	ru=Кольцо строительства: нажимает свою кнопку строительства или переключатель либо листает страницу строительства.;
+	}
+
+[Group: select it, again to centre on it, hold to store the selection in it.]
+	{
+	ru=Группа: выделите её, ещё раз — чтобы центрировать вид на ней, удерживайте, чтобы запомнить в ней выделение.;
+	}
+
+[FORCE]
+	{
+	ru=ПРИНУД.;
+	}
+
+[QUEUE]
+	{
+	ru=ОЧЕРЕДЬ;
+	}
+
+[ADD]
+	{
+	ru=ДОБАВИТЬ;
+	}
+
+[CLEAR]
+	{
+	ru=СБРОС;
+	}
+
+[STORE]
+	{
+	ru=ЗАПОМНИТЬ;
+	}
+
+[PAUSE]
+	{
+	ru=ПАУЗА;
+	}
+
+[SPEED]
+	{
+	ru=СКОРОСТЬ;
+	}
+
+[MENU]
+	{
+	ru=МЕНЮ;
+	}
+
+[MORE]
+	{
+	ru=ЕЩЁ;
+	}
+
+[CLOSE]
+	{
+	ru=ЗАКРЫТЬ;
+	}
+
+[SELF-DESTRUCT · HOLD]
+	{
+	ru=САМОУНИЧТОЖЕНИЕ · УДЕРЖИВАЙТЕ;
+	}
+
+[DRAG TO MOVE · DOUBLE-TAP OR HOLD TO PLACE]
+	{
+	ru=ТЯНИТЕ, ЧТОБЫ СДВИНУТЬ · ДВАЖДЫ НАЖМИТЕ ИЛИ УДЕРЖИВАЙТЕ, ЧТОБЫ ПОСТАВИТЬ;
+	}
+
+[RELEASE]
+	{
+	ru=ОТПУСТИТЕ;
+	}
+
+[GIVE]
+	{
+	ru=ВЫПОЛНИТЬ;
+	}
+
+[ARM ORDER]
+	{
+	ru=ВЫБРАТЬ ПРИКАЗ;
+	}
+
+[Cross]
+	{
+	ru=Крестик;
+	}
+
+[Circle]
+	{
+	ru=Круг;
+	}
+
+[Square]
+	{
+	ru=Квадрат;
+	}
+
+[Triangle]
+	{
+	ru=Треугольник;
+	}
+
+[Minus]
+	{
+	ru=Минус;
+	}
+
+[View]
+	{
+	ru=Просмотр;
+	}
+
+[Plus]
+	{
+	ru=Плюс;
+	}
+
+[Menu]
+	{
+	ru=Меню;
+	}
+
+[D-pad up]
+	{
+	ru=Крестовина вверх;
+	}
+
+[D-pad right]
+	{
+	ru=Крестовина вправо;
+	}
+
+[D-pad down]
+	{
+	ru=Крестовина вниз;
+	}
+
+[D-pad left]
+	{
+	ru=Крестовина влево;
+	}
+
+[left trackpad]
+	{
+	ru=левый трекпад;
+	}
+
+[right trackpad]
+	{
+	ru=правый трекпад;
+	}
+
+[left stick touch]
+	{
+	ru=касание левого стика;
+	}
+
+[right stick touch]
+	{
+	ru=касание правого стика;
+	}
+
+[1 UNIT]
+	{
+	ru=1 ЮНИТ;
+	}
+
+[LATCHED]
+	{
+	ru=ЗАКРЕПЛЕНО;
+	}
+
+[Hold to self-destruct]
+	{
+	ru=Удерживайте для самоуничтожения;
+	}
+
+[DOUBLE TAP OR HOLD TO BUILD · QUEUE ON]
+	{
+	ru=ДВАЖДЫ НАЖМИТЕ ИЛИ УДЕРЖИВАЙТЕ, ЧТОБЫ СТРОИТЬ · ОЧЕРЕДЬ ВКЛ.;
+	}
+
+[DOUBLE TAP OR HOLD TO BUILD]
+	{
+	ru=ДВАЖДЫ НАЖМИТЕ ИЛИ УДЕРЖИВАЙТЕ, ЧТОБЫ СТРОИТЬ;
+	}
+
+[TAP POINTS · QUEUE KEEPS ADDING]
+	{
+	ru=НАЖИМАЙТЕ НА ТОЧКИ · ОЧЕРЕДЬ ПОПОЛНЯЕТСЯ;
+	}
+
+[TAP A TARGET · ✕ TAKES IT BACK]
+	{
+	ru=НАЖМИТЕ НА ЦЕЛЬ · ✕ ОТМЕНЯЕТ;
+	}
+
+[TAP: {action}]
+	{
+	ru=НАЖАТИЕ: {action};
+	}
+
+[ENEMY: {action}]
+	{
+	ru=ВРАГ: {action};
+	}
+
+[Place {name}]
+	{
+	ru=Размещение: {name};
+	}
+
+[{order} armed]
+	{
+	ru={order}: наготове;
+	}
+
+[Enable Unicode Multiplayer Chat]
+	{
+	ru=Юникод в сетевом чате;
+	}
+
+[Set by the language]
+	{
+	ru=Задано языком;
+	}
+
+// Network play's notices in the message log, with {slots} where the values go.
+[Autopause: only the host can unpause]
+	{
+	ru=Автопауза: снять паузу может только хост;
+	}
+[{player} tried to unpause.]
+	{
+	ru={player} пытается снять паузу.;
+	}
+[{player} has cheats enabled]
+	{
+	ru=У игрока {player} включены читы;
+	}
+[{player} reports VerCheck issues with {count} other players]
+	{
+	ru={player} сообщает о проблемах VerCheck с другими игроками: {count};
+	}
+[Vote: reject {player} ({yes} yes/{no} no/{voters}, {seconds}s)]
+	{
+	ru=Голосование: исключить {player} ({yes} за/{no} против/{voters}, {seconds} с);
+	}
+[Timeout: reject {player} ({yes} yes/{no} no/{voters}, {seconds}s)]
+	{
+	ru=Время вышло: исключить {player} ({yes} за/{no} против/{voters}, {seconds} с);
+	}
+[{player} rejected]
+	{
+	ru=Игрок {player} исключён;
+	}
+[{player} stays in the game]
+	{
+	ru={player} остаётся в игре;
+	}
+[Vote Yes or Vote No in the console answers the vote]
+	{
+	ru=Чтобы проголосовать, введите в консоли Vote Yes или Vote No;
+	}
+
+// Whole sentences the engine fills in, with {slots} where the values go.
+[Item {n}]
+	{
+	ru=Пункт {n};
+	}
+[{on} of {total} on]
+	{
+	ru=Включено: {on} из {total};
+	}
+[Show Active Only ({active}/{total})]
+	{
+	ru=Активные ({active}/{total});
+	}
+[Switch to {title} now? The game reloads its data for the new mod and returns to the main menu. Your other settings are kept.]
+	{
+	ru=Переключиться на мод {title} сейчас? Игра перезагрузит данные для нового мода и вернётся в главное меню. Остальные настройки сохранятся.;
+	}
+[{n} UNITS]
+	{
+	ru=ЮНИТОВ: {n};
+	}
+
+// The game's title, as the game-files screen and the folder chooser name it.
+[Total Annihilation]
+	{
+	ru=Total Annihilation;
+	}
+[Total Annihilation 3.1c]
+	{
+	ru=Total Annihilation 3.1c;
+	}
+
+// The Library, its update question and why a download fails.
+
+[Library]
+	{
+	ru=Библиотека;
+	}
+
+[Open Annihilation]
+	{
+	ru=Open Annihilation;
+	}
+
+[list from {age}]
+	{
+	ru=список получен {age};
+	}
+
+[just now]
+	{
+	ru=только что;
+	}
+
+[{count} min ago]
+	{
+	ru={count} мин назад;
+	}
+
+[{count} h ago]
+	{
+	ru={count} ч назад;
+	}
+
+[{count} days ago]
+	{
+	ru={count} дн. назад;
+	}
+
+[Maps]
+	{
+	ru=Карты;
+	}
+
+[Languages]
+	{
+	ru=Языки;
+	}
+
+[Lang]
+	{
+	ru=Языки;
+	}
+
+[Updates]
+	{
+	ru=Обновления;
+	}
+
+[Upd]
+	{
+	ru=Обн.;
+	}
+
+[Search mods, authors, tags]
+	{
+	ru=Поиск модов, авторов, тегов;
+	}
+
+[Search maps, authors, tags]
+	{
+	ru=Поиск карт, авторов, тегов;
+	}
+
+[Search languages]
+	{
+	ru=Поиск языков;
+	}
+
+[Search updates]
+	{
+	ru=Поиск обновлений;
+	}
+
+[All]
+	{
+	ru=Все;
+	}
+
+[Tag: {tag} ({count})]
+	{
+	ru=Тег: {tag} ({count});
+	}
+
+[{tag} ({count})]
+	{
+	ru={tag} ({count});
+	}
+
+[TAGS]
+	{
+	ru=ТЕГИ;
+	}
+
+[{count} update]
+	{
+	ru={count} обновление;
+	}
+
+[{count} updates]
+	{
+	ru=Обновлений: {count};
+	}
+
+[UPDATE ALL]
+	{
+	ru=ОБНОВИТЬ ВСЁ;
+	}
+
+[Showing the list from {age}. OA couldn't reach the registries.]
+	{
+	ru=Показан список, полученный {age}. OA не удалось связаться с реестрами.;
+	}
+
+[Nothing here yet. Turn a registry on in Settings › Downloads.]
+	{
+	ru=Здесь пока ничего нет. Включите реестр в разделе Настройки › Загрузки.;
+	}
+
+[Nothing matches "{query}".]
+	{
+	ru=Ничего не найдено по запросу «{query}».;
+	}
+
+[No updates.]
+	{
+	ru=Обновлений нет.;
+	}
+
+[Nothing to show.]
+	{
+	ru=Нечего показать.;
+	}
+
+[GET]
+	{
+	ru=ПОЛУЧИТЬ;
+	}
+
+[INSTALLED]
+	{
+	ru=УСТАНОВЛЕНО;
+	}
+
+[UPDATE]
+	{
+	ru=ОБНОВИТЬ;
+	}
+
+[{version} · {size}]
+	{
+	ru={version} · {size};
+	}
+
+[{line} · {registry}]
+	{
+	ru={line} · {registry};
+	}
+
+[{version} · rev {revision}]
+	{
+	ru={version} · рев. {revision};
+	}
+
+[rev {revision}]
+	{
+	ru=рев. {revision};
+	}
+
+[{count} map]
+	{
+	ru={count} карта;
+	}
+
+[{count} maps]
+	{
+	ru=Карт: {count};
+	}
+
+[{version} · {maps}]
+	{
+	ru={version} · {maps};
+	}
+
+[{whole}.{tenth}]
+	{
+	ru={whole},{tenth};
+	}
+
+[{size} KB]
+	{
+	ru={size} КБ;
+	}
+
+[{size} MB]
+	{
+	ru={size} МБ;
+	}
+
+[{size} GB]
+	{
+	ru={size} ГБ;
+	}
+
+[by {author}]
+	{
+	ru=автор: {author};
+	}
+
+[Not installed · {size}]
+	{
+	ru=Не установлено · {size};
+	}
+
+[Revision {revision} available · {size} to download]
+	{
+	ru=Доступна ревизия {revision} · к скачиванию {size};
+	}
+
+[Version {version} available · {size} to download]
+	{
+	ru=Доступна версия {version} · к скачиванию {size};
+	}
+
+[Playing]
+	{
+	ru=В игре;
+	}
+
+[Not during a game]
+	{
+	ru=Не во время игры;
+	}
+
+[Downloads from {registry} are off (Settings › Downloads)]
+	{
+	ru=Скачивание из реестра {registry} отключено (Настройки › Загрузки);
+	}
+
+[Needs Open Annihilation {range}]
+	{
+	ru=Требуется Open Annihilation {range};
+	}
+
+[Needs the base game {base}]
+	{
+	ru=Требуется основная игра {base};
+	}
+
+[Needs hacks this OA lacks: {hacks}]
+	{
+	ru=Нужны доработки, которых нет в этой версии OA: {hacks};
+	}
+
+[{hacks} · {count} more]
+	{
+	ru={hacks} · ещё {count};
+	}
+
+[Waiting to download]
+	{
+	ru=Ожидает скачивания;
+	}
+
+[Downloading · {progress}]
+	{
+	ru=Скачивание · {progress};
+	}
+
+[Downloading]
+	{
+	ru=Скачивание;
+	}
+
+[Verifying]
+	{
+	ru=Проверка;
+	}
+
+[Installing]
+	{
+	ru=Установка;
+	}
+
+[Failed]
+	{
+	ru=Ошибка;
+	}
+
+[Waiting · finishes when you leave {name}]
+	{
+	ru=Ожидание · завершится, когда вы выйдете из {name};
+	}
+
+[Size]
+	{
+	ru=Размер;
+	}
+
+[{size} · {download} to download]
+	{
+	ru={size} · к скачиванию {download};
+	}
+
+[{download} to download]
+	{
+	ru=К скачиванию: {download};
+	}
+
+[Base]
+	{
+	ru=Основа;
+	}
+
+[TA 3.1c]
+	{
+	ru=TA 3.1c;
+	}
+
+[Needs]
+	{
+	ru=Требуется;
+	}
+
+[Open Annihilation {range}]
+	{
+	ru=Open Annihilation {range};
+	}
+
+[OA {range}]
+	{
+	ru=OA {range};
+	}
+
+[{version} or later]
+	{
+	ru={version} или новее;
+	}
+
+[later than {version}]
+	{
+	ru=новее {version};
+	}
+
+[{version} or earlier]
+	{
+	ru={version} или более ранняя;
+	}
+
+[before {version}]
+	{
+	ru=до {version};
+	}
+
+[exactly {version}]
+	{
+	ru=строго {version};
+	}
+
+[{version}+]
+	{
+	ru={version}+;
+	}
+
+[after {version}]
+	{
+	ru=после {version};
+	}
+
+[up to {version}]
+	{
+	ru=до {version} включительно;
+	}
+
+[{version} only]
+	{
+	ru=только {version};
+	}
+
+[Hacks]
+	{
+	ru=Доработки;
+	}
+
+[{game} change the game · {view} view only]
+	{
+	ru=Меняют игру: {game} · только вид: {view};
+	}
+
+[{game} game · {view} view]
+	{
+	ru=Игра: {game} · вид: {view};
+	}
+
+[{counts} · {missing}]
+	{
+	ru={counts} · {missing};
+	}
+
+[{counts} · {count} missing]
+	{
+	ru={counts} · не хватает: {count};
+	}
+
+[Rules]
+	{
+	ru=Правила;
+	}
+
+[{from} → {to} same]
+	{
+	ru={from} → {to} без изменений;
+	}
+
+[unchanged]
+	{
+	ru=без изменений;
+	}
+
+[{from} → {to} · changes the game's rules; saved games from {old} won't load under {new}]
+	{
+	ru={from} → {to} · меняет правила игры — сохранения из старой версии ({old}) не загрузятся в новой ({new});
+	}
+
+[changes · {old} saves won't load]
+	{
+	ru=меняются · старые сохранения ({old}) не загрузятся;
+	}
+
+[unknown · saved games from {old} may not load under {new}]
+	{
+	ru=неизвестно · сохранения из старой версии ({old}) могут не загрузиться в новой ({new});
+	}
+
+[unknown · saves may not load]
+	{
+	ru=неизвестно · сохранения могут не загрузиться;
+	}
+
+[revision {revision}]
+	{
+	ru=ревизия {revision};
+	}
+
+[Coverage]
+	{
+	ru=Покрытие;
+	}
+
+[{percent}%]
+	{
+	ru={percent}%;
+	}
+
+[From]
+	{
+	ru=Источник;
+	}
+
+[{registry} · Not reviewed by the OA team]
+	{
+	ru={registry} · Не проверено командой OA;
+	}
+
+[Your own copy]
+	{
+	ru=Ваша собственная копия;
+	}
+
+[✓]
+	{
+	ru=✓;
+	}
+
+[RETRY]
+	{
+	ru=ПОВТОРИТЬ;
+	}
+
+[HOMEPAGE]
+	{
+	ru=САЙТ;
+	}
+
+[Finishes when you leave {name}.]
+	{
+	ru=Завершится, когда вы выйдете из {name}.;
+	}
+
+[You are playing {playing}. Updating {name} doesn't restart the game.]
+	{
+	ru=Сейчас запущено: {playing}. Обновление {name} не перезапускает игру.;
+	}
+
+[SETTINGS…]
+	{
+	ru=НАСТРОЙКИ…;
+	}
+
+[DETAILS]
+	{
+	ru=ПОДРОБНЕЕ;
+	}
+
+[{name} {version}]
+	{
+	ru={name} {version};
+	}
+
+[Downloading {package} · {progress}]
+	{
+	ru=Скачивание: {package} · {progress};
+	}
+
+[Downloading {package}]
+	{
+	ru=Скачивание: {package};
+	}
+
+[Waiting to download {package}]
+	{
+	ru=Ожидает скачивания: {package};
+	}
+
+[Verifying {name}]
+	{
+	ru=Проверка: {name};
+	}
+
+[Checking {name}]
+	{
+	ru=Проверка: {name};
+	}
+
+[Installing {name}]
+	{
+	ru=Установка: {name};
+	}
+
+[Installed {name}]
+	{
+	ru=Установлено: {name};
+	}
+
+[Updated {name} · {new} changes the game's rules · ROLL BACK restores {old}]
+	{
+	ru=Обновлено: {name} · {new} меняет правила игры · ОТКАТИТЬ вернёт прежнюю версию ({old});
+	}
+
+[Updated {name} · {new} may change the game's rules · ROLL BACK restores {old}]
+	{
+	ru=Обновлено: {name} · {new} может изменить правила игры · ОТКАТИТЬ вернёт прежнюю версию ({old});
+	}
+
+[{problem} · RETRY]
+	{
+	ru={problem} · ПОВТОРИТЬ;
+	}
+
+[Then {package} · {phase}]
+	{
+	ru=Далее: {package} · {phase};
+	}
+
+[{line} · {count} more]
+	{
+	ru={line} · ещё {count};
+	}
+
+[waiting]
+	{
+	ru=ожидание;
+	}
+
+[downloading]
+	{
+	ru=скачивание;
+	}
+
+[verifying]
+	{
+	ru=проверка;
+	}
+
+[checking]
+	{
+	ru=проверка;
+	}
+
+[installing]
+	{
+	ru=установка;
+	}
+
+[after you leave it]
+	{
+	ru=после выхода из него;
+	}
+
+[failed]
+	{
+	ru=ошибка;
+	}
+
+[installed]
+	{
+	ru=установлено;
+	}
+
+[{name} {percent}%]
+	{
+	ru={name} {percent}%;
+	}
+
+[{name} · rules changed]
+	{
+	ru={name} · правила изменены;
+	}
+
+[{name} · {phase}]
+	{
+	ru={name} · {phase};
+	}
+
+[Update {name}]
+	{
+	ru=Обновить {name};
+	}
+
+[Update all]
+	{
+	ru=Обновить всё;
+	}
+
+[{name} {version} · revision {from} → {to}]
+	{
+	ru={name} {version} · ревизия {from} → {to};
+	}
+
+[{name} {from} → {to}]
+	{
+	ru={name} {from} → {to};
+	}
+
+[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and ROLL BACK brings it back.]
+	{
+	ru={To} меняет правила игры. Сохранения из старой версии ({from}) не загрузятся в новой ({to}). {From} сохранится, и ОТКАТИТЬ вернёт её.;
+	}
+
+[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and ROLL BACK brings it back.]
+	{
+	ru=OA не может определить, меняет ли {to} правила игры. Если меняет, сохранения из старой версии ({from}) в новой не загрузятся. {From} сохранится, и ОТКАТИТЬ вернёт её.;
+	}
+
+[It finishes when you leave {name}.]
+	{
+	ru=Завершится, когда вы выйдете из {name}.;
+	}
+
+[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and ROLL BACK brings it back.]
+	{
+	ru=1 обновление меняет правила игры: {names}. Сохранения из текущей версии не загрузятся в новой. Текущая версия сохранится, и ОТКАТИТЬ вернёт её.;
+	}
+
+[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and ROLL BACK brings it back.]
+	{
+	ru=Обновлений, меняющих правила игры: {count} — {names}. Сохранения из их текущих версий не загрузятся в новых. Каждая текущая версия сохранится, и ОТКАТИТЬ вернёт её.;
+	}
+
+[{names} and {count} more]
+	{
+	ru={names} и ещё {count};
+	}
+
+[{label}: {value}]
+	{
+	ru={label}: {value};
+	}
+
+[{from} → {to}]
+	{
+	ru={from} → {to};
+	}
+
+[unknown]
+	{
+	ru=неизвестно;
+	}
+
+[Download]
+	{
+	ru=Скачать;
+	}
+
+[NOT NOW]
+	{
+	ru=НЕ СЕЙЧАС;
+	}
+
+[the server could not be reached]
+	{
+	ru=не удалось связаться с сервером;
+	}
+
+[the registry refused the download]
+	{
+	ru=реестр отказал в скачивании;
+	}
+
+[the registry no longer offers this release]
+	{
+	ru=реестр больше не предлагает этот выпуск;
+	}
+
+[downloads are off for this registry]
+	{
+	ru=скачивание из этого реестра отключено;
+	}
+
+[there is not enough free space]
+	{
+	ru=недостаточно свободного места;
+	}
+
+[the download was not the file the catalogue promised]
+	{
+	ru=скачанный файл не тот, что указан в каталоге;
+	}
+
+[the server's file is not the size the catalogue promised]
+	{
+	ru=размер файла на сервере не совпадает с указанным в каталоге;
+	}
+
+[the check expired]
+	{
+	ru=срок проверки истёк;
+	}
+
+[the package was refused]
+	{
+	ru=пакет отклонён;
+	}
+
+[the package could not be installed]
+	{
+	ru=не удалось установить пакет;
+	}
+
+[the download could not be written]
+	{
+	ru=не удалось записать скачанный файл;
+	}
+
+[the catalogue has no such package]
+	{
+	ru=в каталоге нет такого пакета;
+	}
+
+[the download could not be started]
+	{
+	ru=не удалось начать скачивание;
+	}
+
+[downloads are off]
+	{
+	ru=скачивание отключено;
+	}
+
+[that package is already being downloaded]
+	{
+	ru=этот пакет уже скачивается;
+	}
+
+// Settings › Downloads, Language and Mods, and the missing-language notice.
+
+[Use English]
+	{
+	ru=Выбрать английский;
+	}
+
+[Try again]
+	{
+	ru=Повторить;
+	}
+
+[Downloads]
+	{
+	ru=Загрузки;
+	}
+
+[DOWNLOADS]
+	{
+	ru=ЗАГРУЗКИ;
+	}
+
+[The file manager could not open it.]
+	{
+	ru=Файловый менеджер не смог это открыть.;
+	}
+
+[No file manager is there to open it.]
+	{
+	ru=Нет файлового менеджера, чтобы это открыть.;
+	}
+
+[The folder cannot be made.]
+	{
+	ru=Не удаётся создать папку.;
+	}
+
+[AVAILABLE TO DOWNLOAD]
+	{
+	ru=ДОСТУПНО ДЛЯ СКАЧИВАНИЯ;
+	}
+
+[downloads off]
+	{
+	ru=скачивание отключено;
+	}
+
+[not reviewed]
+	{
+	ru=не проверено;
+	}
+
+[community]
+	{
+	ru=сообщество;
+	}
+
+[kB]
+	{
+	ru=КБ;
+	}
+
+[MB]
+	{
+	ru=МБ;
+	}
+
+[Downloads, then switches to it.]
+	{
+	ru=Сначала скачается, затем включится.;
+	}
+
+[. Choose it again to try again.]
+	{
+	ru=. Выберите его ещё раз, чтобы повторить попытку.;
+	}
+
+[MORE IN THE LIBRARY…]
+	{
+	ru=ЕЩЁ В БИБЛИОТЕКЕ…;
+	}
+
+[More languages are in the Library.]
+	{
+	ru=Другие языки — в Библиотеке.;
+	}
+
+[fps]
+	{
+	ru=fps;
+	}
+
+[Interface size]
+	{
+	ru=Размер интерфейса;
+	}
+
+[Auto]
+	{
+	ru=Авто;
+	}
+
+[Steam Input]
+	{
+	ru=Steam Input;
+	}
+
+[UI kit gallery]
+	{
+	ru=Галерея интерфейса;
+	}
+
+[Every part of OA's own screens, in each of its states, at this size.]
+	{
+	ru=Все элементы собственных экранов OA во всех их состояниях, в этом размере.;
+	}
+
+[Check for content updates]
+	{
+	ru=Проверять обновления;
+	}
+
+[Automatically]
+	{
+	ru=Автоматически;
+	}
+
+[Only when I open the Library]
+	{
+	ru=При открытии Библиотеки;
+	}
+
+[Never]
+	{
+	ru=Никогда;
+	}
+
+[OA looks for new content and updates in the registries' lists. It never installs anything until you say so.]
+	{
+	ru=OA ищет новый контент и обновления в списках реестров. Ничего не устанавливается без вашего согласия.;
+	}
+
+[Install ID]
+	{
+	ru=ID установки;
+	}
+
+[A random number that lets {name} stop automated downloads. Turned off, you can browse the Library, but downloads are off. Installed content keeps working.]
+	{
+	ru=Случайное число, позволяющее {name} останавливать автоматизированные скачивания. Если его отключить, Библиотеку можно просматривать, но скачивание будет отключено. Установленный контент продолжит работать.;
+	}
+
+[Made at your first download]
+	{
+	ru=Создаётся при первом скачивании;
+	}
+
+[RESET]
+	{
+	ru=СБРОСИТЬ;
+	}
+
+[Downloaded files]
+	{
+	ru=Скачанные файлы;
+	}
+
+[Nothing kept]
+	{
+	ru=Ничего не сохранено;
+	}
+
+[EMPTY]
+	{
+	ru=ОЧИСТИТЬ;
+	}
+
+[Registries]
+	{
+	ru=Реестры;
+	}
+
+[{name} only]
+	{
+	ru=Только {name};
+	}
+
+[{n} on of {m}]
+	{
+	ru=Включено: {n} из {m};
+	}
+
+[‹ DOWNLOADS]
+	{
+	ru=‹ ЗАГРУЗКИ;
+	}
+
+[Built in]
+	{
+	ru=Встроенный;
+	}
+
+[{n} package]
+	{
+	ru={n} пакет;
+	}
+
+[{n} packages]
+	{
+	ru=Пакетов: {n};
+	}
+
+[checked {age}]
+	{
+	ru=проверено {age};
+	}
+
+[not checked yet]
+	{
+	ru=ещё не проверено;
+	}
+
+[couldn't reach]
+	{
+	ru=недоступен;
+	}
+
+[{n} min ago]
+	{
+	ru={n} мин назад;
+	}
+
+[{n} h ago]
+	{
+	ru={n} ч назад;
+	}
+
+[1 day ago]
+	{
+	ru=1 день назад;
+	}
+
+[{n} days ago]
+	{
+	ru={n} дн. назад;
+	}
+
+[{n} mirror]
+	{
+	ru={n} зеркало;
+	}
+
+[{n} mirrors]
+	{
+	ru=зеркал: {n};
+	}
+
+[UNDO]
+	{
+	ru=ВЕРНУТЬ;
+	}
+
+[Removed when you press OK]
+	{
+	ru=Будет удалено, когда вы нажмёте OK;
+	}
+
+[ADD MIRROR…]
+	{
+	ru=ДОБАВИТЬ ЗЕРКАЛО…;
+	}
+
+[Choose from the main menu.]
+	{
+	ru=Доступно только в главном меню.;
+	}
+
+[Content from these registries isn't reviewed by the OA team. OA still checks every package before using it.]
+	{
+	ru=Команда OA не проверяет контент из этих реестров. Тем не менее OA проверяет каждый пакет перед использованием.;
+	}
+
+[Content from registries other than {names} isn't reviewed by the OA team. OA still checks every package before using it.]
+	{
+	ru=Команда OA не проверяет контент из реестров, кроме {names}. Тем не менее OA проверяет каждый пакет перед использованием.;
+	}
+
+[ADD REGISTRY…]
+	{
+	ru=ДОБАВИТЬ РЕЕСТР…;
+	}
+
+// The map browser, GET MAP, and the questions that install a map pack or a language.
+
+[MORE MAPS…]
+	{
+	ru=ЕЩЁ КАРТЫ…;
+	}
+
+[Doesn't fit {game}: {reason}]
+	{
+	ru=Не подходит для {game}: {reason};
+	}
+
+[Skirmish · playing {mod}]
+	{
+	ru=Схватка · мод {mod};
+	}
+
+[Battle room · playing {mod}]
+	{
+	ru=Лобби · мод {mod};
+	}
+
+[Base game]
+	{
+	ru=Основная игра;
+	}
+
+[Online]
+	{
+	ru=Онлайн;
+	}
+
+[PLAYERS]
+	{
+	ru=ИГРОКИ;
+	}
+
+[2]
+	{
+	ru=2;
+	}
+
+[3]
+	{
+	ru=3;
+	}
+
+[4]
+	{
+	ru=4;
+	}
+
+[5–10]
+	{
+	ru=5–10;
+	}
+
+[SIZE]
+	{
+	ru=РАЗМЕР;
+	}
+
+[S]
+	{
+	ru=Мал.;
+	}
+
+[M]
+	{
+	ru=Сред.;
+	}
+
+[L]
+	{
+	ru=Бол.;
+	}
+
+[Search maps]
+	{
+	ru=Поиск карт;
+	}
+
+[Loading preview]
+	{
+	ru=Загрузка миниатюры;
+	}
+
+[No preview]
+	{
+	ru=Нет миниатюры;
+	}
+
+[{players} · {size}]
+	{
+	ru={players} · {size};
+	}
+
+[Doesn't fit]
+	{
+	ru=Не подходит;
+	}
+
+[No map matches these filters]
+	{
+	ru=Нет карт, подходящих под фильтры;
+	}
+
+[Choose a map]
+	{
+	ru=Выберите карту;
+	}
+
+[1 player]
+	{
+	ru=1 игрок;
+	}
+
+[{count} players]
+	{
+	ru=Игроков: {count};
+	}
+
+[Fits {game} ✓]
+	{
+	ru=Подходит для {game} ✓;
+	}
+
+[Doesn't fit {game}]
+	{
+	ru=Не подходит для {game};
+	}
+
+[Fit with {game} is checked when it's installed]
+	{
+	ru=Совместимость с {game} проверяется при установке;
+	}
+
+[Its catalogue says it does not fit {game}.]
+	{
+	ru=По данным каталога, не подходит для {game}.;
+	}
+
+[The map list does not hold this map.]
+	{
+	ru=Этой карты нет в списке карт.;
+	}
+
+[The download could not start: {reason}]
+	{
+	ru=Не удалось начать скачивание: {reason};
+	}
+
+[The pack was not installed: {reason}]
+	{
+	ru=Набор не установлен: {reason};
+	}
+
+[Cancel]
+	{
+	ru=Отмена;
+	}
+
+[Select]
+	{
+	ru=Выбрать;
+	}
+
+[Download and select]
+	{
+	ru=Скачать и выбрать;
+	}
+
+[Downloading…]
+	{
+	ru=Скачивание…;
+	}
+
+[GET MAP]
+	{
+	ru=ПОЛУЧИТЬ КАРТУ;
+	}
+
+[{pack} {version} · {size} from {registry}]
+	{
+	ru={pack} {version} · {size} из реестра {registry};
+	}
+
+[Add {registry} to get {pack}]
+	{
+	ru=Добавьте реестр {registry}, чтобы получить {pack};
+	}
+
+[You have release {mine} of {pack}; the host plays release {theirs}.]
+	{
+	ru=У вас выпуск {mine} набора {pack}, а у хоста — выпуск {theirs}.;
+	}
+
+[The host's release of {pack} is no longer offered by {registry}.]
+	{
+	ru=Реестр {registry} больше не предлагает выпуск {pack}, который использует хост.;
+	}
+
+[Downloads from {registry} are off (Settings › Downloads).]
+	{
+	ru=Скачивание из реестра {registry} отключено (Настройки › Загрузки).;
+	}
+
+[Downloading {pack} · {done} of {size}]
+	{
+	ru=Скачивание: {pack} · {done} из {size};
+	}
+
+[Couldn't get {pack}: {reason}]
+	{
+	ru=Не удалось получить {pack}: {reason};
+	}
+
+[NOT INSTALLED]
+	{
+	ru=НЕ УСТАНОВЛЕНО;
+	}
+
+[{file} is not a package Open Annihilation installs.]
+	{
+	ru={file} — это не пакет, который устанавливает Open Annihilation.;
+	}
+
+[Checking {file}...]
+	{
+	ru=Проверка: {file}...;
+	}
+
+[INSTALLING MAP PACK]
+	{
+	ru=УСТАНОВКА НАБОРА КАРТ;
+	}
+
+[INSTALL MAP PACK]
+	{
+	ru=УСТАНОВИТЬ НАБОР КАРТ;
+	}
+
+[Install the map pack {name} {version} ({n} maps)?]
+	{
+	ru=Установить набор карт {name} {version} (карт: {n})?;
+	}
+
+[INSTALL]
+	{
+	ru=УСТАНОВИТЬ;
+	}
+
+[UPDATE MAP PACK]
+	{
+	ru=ОБНОВИТЬ НАБОР КАРТ;
+	}
+
+[The version installed is kept, and can be brought back.]
+	{
+	ru=Установленная версия сохранится, её можно будет вернуть.;
+	}
+
+[The version kept, which cannot be read, is removed.]
+	{
+	ru=Сохранённая версия, которую невозможно прочитать, будет удалена.;
+	}
+
+[The version kept ({backup}) is removed.]
+	{
+	ru=Сохранённая версия ({backup}) будет удалена.;
+	}
+
+[REINSTALL MAP PACK]
+	{
+	ru=ПЕРЕУСТАНОВИТЬ НАБОР КАРТ;
+	}
+
+[The version kept stays.]
+	{
+	ru=Сохранённая версия останется.;
+	}
+
+[REPLACE MAP PACK]
+	{
+	ru=ЗАМЕНИТЬ НАБОР КАРТ;
+	}
+
+[Replace {name} from {old} with the one from {new}?]
+	{
+	ru=Заменить {name} из {old} версией из {new}?;
+	}
+
+[{title} {installed} is installed. Replace it with {incoming} from {file}?]
+	{
+	ru=Установлен набор {title} {installed}. Заменить его версией {incoming} из файла {file}?;
+	}
+
+[MAP PACK INSTALLED]
+	{
+	ru=НАБОР КАРТ УСТАНОВЛЕН;
+	}
+
+[{title} {version} is installed in your Maps folder:]
+	{
+	ru=Набор {title} {version} установлен в вашу папку Maps:;
+	}
+
+[MAP PACK UPDATED]
+	{
+	ru=НАБОР КАРТ ОБНОВЛЁН;
+	}
+
+[{title} is now {new}. {old} is kept, and can be brought back.]
+	{
+	ru=Версия набора {title} теперь {new}. Версия {old} сохранена, её можно вернуть.;
+	}
+
+[{title} is back to {new}. {old} is kept, and can be brought back.]
+	{
+	ru=Набор {title} возвращён к версии {new}. Версия {old} сохранена, её можно вернуть.;
+	}
+
+[MAP PACK NOT INSTALLED]
+	{
+	ru=НАБОР КАРТ НЕ УСТАНОВЛЕН;
+	}
+
+[It holds no oamap.yaml at its top, or in a single folder at its top.]
+	{
+	ru=В нём нет oamap.yaml ни в корне, ни в единственной папке в корне.;
+	}
+
+[Its oamap.yaml is larger than 256 KiB.]
+	{
+	ru=Его oamap.yaml больше 256 КиБ.;
+	}
+
+[Its oamap.yaml has errors:]
+	{
+	ru=Его oamap.yaml содержит ошибки:;
+	}
+
+[It unpacks to {size}, more than the {limit} a map pack may take.]
+	{
+	ru=После распаковки он занимает {size}, а набор карт может занимать не более {limit}.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a map pack's files take.]
+	{
+	ru=После распаковки из {packed} он занимает {size} — намного больше, чем нужно файлам набора карт.;
+	}
+
+[It holds more than {limit} folders, more than a map pack may take.]
+	{
+	ru=Папок в нём больше, чем допустимо для набора карт ({limit}).;
+	}
+
+[It needs {size} free, and the disk holding your Maps folder has {free}.]
+	{
+	ru=Нужно {size} свободного места, а на диске с вашей папкой Maps свободно {free}.;
+	}
+
+[Your Maps folder has no free folder name for it.]
+	{
+	ru=В вашей папке Maps нет свободного имени папки для него.;
+	}
+
+[Your Maps folder changed while this map pack was being installed; nothing was changed. Open the file again.]
+	{
+	ru=Ваша папка Maps изменилась во время установки этого набора карт. Ничего не изменено. Откройте файл ещё раз.;
+	}
+
+[Another copy of Open Annihilation is changing your Maps folder. Try again once it has finished.]
+	{
+	ru=Другая копия Open Annihilation изменяет вашу папку Maps. Попробуйте ещё раз, когда она закончит.;
+	}
+
+[It is not a kind of package this game installs.]
+	{
+	ru=Эта игра не устанавливает пакеты такого типа.;
+	}
+
+[The pack lists {name}, which it does not hold.]
+	{
+	ru=В наборе указан файл {name}, но в нём его нет.;
+	}
+
+[The pack holds {name}, which no map uses.]
+	{
+	ru=Набор содержит файл {name}, но ни одна карта его не использует.;
+	}
+
+[The pack holds {name}, which no map uses: it is outside the folders a map pack may hold.]
+	{
+	ru=Набор содержит файл {name}, но ни одна карта его не использует: он лежит вне папок, допустимых для набора карт.;
+	}
+
+[The preview {name} is not a PNG.]
+	{
+	ru=Миниатюра {name} не в формате PNG.;
+	}
+
+[The preview {name} is larger than 2 MiB.]
+	{
+	ru=Миниатюра {name} больше 2 МиБ.;
+	}
+
+[It needs a different Open Annihilation.]
+	{
+	ru=Ему нужна другая версия Open Annihilation.;
+	}
+
+[A map in the pack does not fit the base game.]
+	{
+	ru=Одна из карт набора не подходит для основной игры.;
+	}
+
+[The folder {name} does not hold this map pack. It is left as it is.]
+	{
+	ru=Папка {name} не содержит этот набор карт. Она оставлена как есть.;
+	}
+
+[INSTALLING LANGUAGE]
+	{
+	ru=УСТАНОВКА ЯЗЫКА;
+	}
+
+[INSTALL LANGUAGE]
+	{
+	ru=УСТАНОВИТЬ ЯЗЫК;
+	}
+
+[Install the language {endonym} ({english})?]
+	{
+	ru=Установить язык {endonym} ({english})?;
+	}
+
+[UPDATE LANGUAGE]
+	{
+	ru=ОБНОВИТЬ ЯЗЫК;
+	}
+
+[REINSTALL LANGUAGE]
+	{
+	ru=ПЕРЕУСТАНОВИТЬ ЯЗЫК;
+	}
+
+[REPLACE LANGUAGE]
+	{
+	ru=ЗАМЕНИТЬ ЯЗЫК;
+	}
+
+[The folder {tag} does not hold this language. Replace it with {endonym} ({english}) from {file}? It is kept, and can be brought back.]
+	{
+	ru=Папка {tag} не содержит этот язык. Заменить её языком {endonym} ({english}) из файла {file}? Папка сохранится, её можно будет вернуть.;
+	}
+
+[LANGUAGE INSTALLED]
+	{
+	ru=ЯЗЫК УСТАНОВЛЕН;
+	}
+
+[{endonym} ({english}) {version} is installed in your Languages folder:]
+	{
+	ru=Язык {endonym} ({english}) {version} установлен в вашу папку Languages:;
+	}
+
+[LANGUAGE UPDATED]
+	{
+	ru=ЯЗЫК ОБНОВЛЁН;
+	}
+
+[LANGUAGE NOT INSTALLED]
+	{
+	ru=ЯЗЫК НЕ УСТАНОВЛЕН;
+	}
+
+[It holds no language.yaml.]
+	{
+	ru=В нём нет language.yaml.;
+	}
+
+[Its language.yaml has errors.]
+	{
+	ru=Его language.yaml содержит ошибки.;
+	}
+
+[It lists a font it does not hold: {name}.]
+	{
+	ru=В нём указан шрифт, которого нет в пакете: {name}.;
+	}
+
+[A font in the pack cannot be opened.]
+	{
+	ru=Не удаётся открыть один из шрифтов пакета.;
+	}
+
+[Its font {name} cannot be opened.]
+	{
+	ru=Не удаётся открыть его шрифт {name}.;
+	}
+
+[Its warm-up text cannot be read.]
+	{
+	ru=Не удаётся прочитать его текст предзагрузки.;
+	}
+
+[A table in the pack does not parse.]
+	{
+	ru=Не удаётся разобрать одну из таблиц пакета.;
+	}
+
+[REPLACE MOD]
+	{
+	ru=ЗАМЕНИТЬ МОД;
+	}
+
+[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and ROLL BACK brings it back.]
+	{
+	ru=Установлен мод {name} из {installed}. Заменить его модом {name} из {new}? Версия из {installed} сохранится, и ОТКАТИТЬ вернёт её.;
+	}
+
+[{folder} is a folder of your own, not {name}. Move or rename it, then RETRY.]
+	{
+	ru={folder} — это ваша собственная папка, а не {name}. Переместите или переименуйте её, а затем нажмите ПОВТОРИТЬ.;
+	}
+
+[{n} KB]
+	{
+	ru={n} КБ;
+	}
+
+[{n} MB]
+	{
+	ru={n} МБ;
+	}
+
+[{n} GB]
+	{
+	ru={n} ГБ;
+	}
+
+[{n} TB]
+	{
+	ru={n} ТБ;
+	}
+
+// The game files screen's sizes and parts, and the touch controls' x5.
+
+[Aa]
+	{
+	ru=Аа;
+	}
+
+[Core Contingency]
+	{
+	ru=Core Contingency;
+	}
+
+[Battle Tactics]
+	{
+	ru=Battle Tactics;
+	}
+
+[{source} · {cloud}]
+	{
+	ru={source} · {cloud};
+	}
+
+[x5]
+	{
+	ru=x5;
+	}
+
+[3.1c]
+	{
+	ru=3.1c;
+	}
+
+[{a} · {b}]
+	{
+	ru={a} · {b};
+	}
+
+// More of 0.8's interface words, as oa-tool interface-words lists them.
+
+[,]
+	{
+	ru=,;
+	}
+
+[·]
+	{
+	ru=·;
+	}
+
+[OPEN ANNIHILATION]
+	{
+	ru=OPEN ANNIHILATION;
+	}
+
+[The download failed]
+	{
+	ru=Не удалось скачать;
+	}
+
+[Checked against the keys you trust for {name}]
+	{
+	ru=Сверяется с ключами, которым вы доверяете для {name};
+	}
+
+[Checking {address}…]
+	{
+	ru=Проверка: {address}…;
+	}
+
+[From {file}]
+	{
+	ru=Из файла {file};
+	}
+
+[Mirror of {name}]
+	{
+	ru=Зеркало реестра {name};
+	}
+
+// The Library's and Settings' later words.
+
+[Welcome to Open Annihilation]
+	{
+	ru=Добро пожаловать в Open Annihilation;
+	}
+
+[Welcome]
+	{
+	ru=Добро пожаловать;
+	}
+
+[WELCOME]
+	{
+	ru=ДОБРО ПОЖАЛОВАТЬ;
+	}
+
+[Choose your language.]
+	{
+	ru=Выберите язык.;
+	}
+
+[Skip setup]
+	{
+	ru=Пропустить настройку;
+	}
+
+[Start playing]
+	{
+	ru=Начать игру;
+	}
+
+[Back]
+	{
+	ru=Назад;
+	}
+
+[Next]
+	{
+	ru=Далее;
+	}
+
+[Previous]
+	{
+	ru=Предыдущая;
+	}
+
+[Get]
+	{
+	ru=Получить;
+	}
+
+[Cancel download]
+	{
+	ru=Отменить скачивание;
+	}
+
+[Retry]
+	{
+	ru=Повторить;
+	}
+
+[Checking…]
+	{
+	ru=Проверка…;
+	}
+
+[Couldn't download]
+	{
+	ru=Не удалось скачать;
+	}
+
+[Offline]
+	{
+	ru=Не в сети;
+	}
+
+[Active]
+	{
+	ru=Активен;
+	}
+
+[English]
+	{
+	ru=Английский;
+	}
+
+[of]
+	{
+	ru=из;
+	}
+
+[Other languages download from Core Prime. The first download makes a random install ID, which a later step explains.]
+	{
+	ru=Другие языки скачиваются с Core Prime. Первое скачивание создаёт случайный ID установки — о нём рассказывается на одном из следующих шагов.;
+	}
+
+[Downloads are off, so language packs stay offline.]
+	{
+	ru=Скачивание отключено, поэтому языковые пакеты из сети недоступны.;
+	}
+
+[The catalogue could not be read, so language packs stay offline.]
+	{
+	ru=Не удалось прочитать каталог, поэтому языковые пакеты из сети недоступны.;
+	}
+
+[ONLINE]
+	{
+	ru=ОНЛАЙН;
+	}
+
+[ONLINE FEATURES]
+	{
+	ru=ОНЛАЙН-ФУНКЦИИ;
+	}
+
+[Downloads, updates and a number only you hold]
+	{
+	ru=Скачивание, обновления и число, которое есть только у вас;
+	}
+
+[Get language packs, mods and map packs from Core Prime.]
+	{
+	ru=Получайте языковые пакеты, моды и наборы карт с Core Prime.;
+	}
+
+[Lists of what is new are checked as the game starts and when the Library opens.]
+	{
+	ru=Списки новинок проверяются при запуске игры и при открытии Библиотеки.;
+	}
+
+[A random install ID, one per registry, is sent only when downloading from that registry.]
+	{
+	ru=Случайный ID установки, свой для каждого реестра, отправляется только при скачивании из этого реестра.;
+	}
+
+[Your install ID]
+	{
+	ru=Ваш ID установки;
+	}
+
+[A random 128-bit number, made the first time you download from a registry, not when the game starts. Each registry that asks has its own. Core Prime asks for one. It is sent only when asking that registry for a download. Turning it off forgets it, and downloads from that registry stop. Built-in languages and files you open keep working.]
+	{
+	ru=Случайное 128-битное число, которое создаётся при первом скачивании из реестра, а не при запуске игры. У каждого реестра, который его запрашивает, оно своё. Core Prime его запрашивает. Оно отправляется только вместе с запросом на скачивание из этого реестра. Если его отключить, оно забывается, и скачивание из этого реестра прекращается. Встроенные языки и файлы, которые вы открываете, продолжают работать.;
+	}
+
+[Turn on online features]
+	{
+	ru=Включить онлайн-функции;
+	}
+
+[Not now]
+	{
+	ru=Не сейчас;
+	}
+
+[Check for content updates stays at Automatically, and Core Prime's install ID stays on.]
+	{
+	ru=«Проверять обновления» остаётся в положении «Автоматически», а ID установки Core Prime остаётся включённым.;
+	}
+
+[Check for content updates is set to Never, and Core Prime's install ID is turned off.]
+	{
+	ru=«Проверять обновления» установлено в «Никогда», а ID установки Core Prime отключён.;
+	}
+
+[THE MAIN MENU]
+	{
+	ru=ГЛАВНОЕ МЕНЮ;
+	}
+
+[{step} · {index} OF {count}]
+	{
+	ru={step} · {index} ИЗ {count};
+	}
+
+[Two buttons for everything Open Annihilation adds]
+	{
+	ru=Две кнопки для всего, что добавляет Open Annihilation;
+	}
+
+[Settings]
+	{
+	ru=Настройки;
+	}
+
+[Get, update and switch mods, map packs and languages. The number counts every package you have added: mods, map packs, language packs and expansions.]
+	{
+	ru=Получайте, обновляйте и переключайте моды, наборы карт и языки. Число показывает все добавленные вами пакеты: моды, наборы карт, языковые пакеты и дополнения.;
+	}
+
+[Open Annihilation's own settings: controls, graphics, the interface's size, downloads and your files.]
+	{
+	ru=Собственные настройки Open Annihilation: управление, графика, размер интерфейса, загрузки и ваши файлы.;
+	}
+
+[The Library is where you get mods, map packs and languages. Settings is where you change how Open Annihilation looks and plays. Everything else on this menu is the game's own.]
+	{
+	ru=В Библиотеке вы получаете моды, наборы карт и языки. В Настройках меняете внешний вид и поведение Open Annihilation. Всё остальное в этом меню — часть самой игры.;
+	}
+
+[Engine Limits]
+	{
+	ru=Лимиты движка;
+	}
+
+[ENGINE LIMITS]
+	{
+	ru=ЛИМИТЫ ДВИЖКА;
+	}
+
+[Language & Text]
+	{
+	ru=Язык и текст;
+	}
+
+[LANGUAGE & TEXT]
+	{
+	ru=ЯЗЫК И ТЕКСТ;
+	}
+
+[User Interface]
+	{
+	ru=Интерфейс;
+	}
+
+[USER INTERFACE]
+	{
+	ru=ИНТЕРФЕЙС;
+	}
+
+[System]
+	{
+	ru=Система;
+	}
+
+[SYSTEM]
+	{
+	ru=СИСТЕМА;
+	}
+
+[Welcome setup]
+	{
+	ru=Начальная настройка;
+	}
+
+[SHOW AGAIN]
+	{
+	ru=ПОКАЗАТЬ СНОВА;
+	}
+
+[Walk through the language, online features and the OA buttons again.]
+	{
+	ru=Ещё раз пройти шаги: язык, онлайн-функции и кнопки OA.;
+	}
+
+[File Type Registration]
+	{
+	ru=Регистрация типов файлов;
+	}
+
+[File types]
+	{
+	ru=Типы файлов;
+	}
+
+[Mod packages (.oamod)]
+	{
+	ru=Пакеты модов (.oamod);
+	}
+
+[Map packs (.oamap)]
+	{
+	ru=Наборы карт (.oamap);
+	}
+
+[Language packs (.oalang)]
+	{
+	ru=Языковые пакеты (.oalang);
+	}
+
+[Registry files (.oareg)]
+	{
+	ru=Файлы реестров (.oareg);
+	}
+
+[The system takes these file types from the app.]
+	{
+	ru=Система берёт эти типы файлов из описания приложения.;
+	}
+
+[and]
+	{
+	ru=и;
+	}
+
+[macOS kept Open Annihilation as the opener of {types}. To choose another, select a {types} file in Finder, then File › Get Info › Open with › Change All.]
+	{
+	ru=macOS оставила Open Annihilation программой для открытия файлов {types}. Чтобы выбрать другую, выделите файл {types} в Finder, а затем «Файл» › «Свойства» › «Открывать в приложении» › «Изменить все».;
+	}
+
+[macOS kept Open Annihilation as the opener of {types}. To choose another, select one of them in Finder, then File › Get Info › Open with › Change All.]
+	{
+	ru=macOS оставила Open Annihilation программой для открытия файлов {types}. Чтобы выбрать другую, выделите один из таких файлов в Finder, а затем «Файл» › «Свойства» › «Открывать в приложении» › «Изменить все».;
+	}
+
+[This system reads HTTPS registries over HTTP.]
+	{
+	ru=Эта система читает HTTPS-реестры по HTTP.;
+	}
+
+[REGISTRIES IN THE LIBRARY…]
+	{
+	ru=РЕЕСТРЫ В БИБЛИОТЕКЕ…;
+	}
+
+[Registries are in the Library.]
+	{
+	ru=Реестры теперь в Библиотеке.;
+	}
+
+[MOD]
+	{
+	ru=МОД;
+	}
+
+[MAPS]
+	{
+	ru=КАРТЫ;
+	}
+
+[SWITCH OFF]
+	{
+	ru=ОТКЛЮЧИТЬ;
+	}
+
+[UNLOAD MOD]
+	{
+	ru=ОТКЛЮЧИТЬ МОД;
+	}
+
+[UNINSTALL]
+	{
+	ru=УДАЛИТЬ;
+	}
+
+[{language} · built in]
+	{
+	ru={language} · встроенный;
+	}
+
+[Coverage {percent}%]
+	{
+	ru=Переведено {percent}%;
+	}
+
+[From {pack}]
+	{
+	ru=Из набора {pack};
+	}
+
+[{count} player]
+	{
+	ru=Игроков: {count};
+	}
+
+[{map} · {players} · {size}]
+	{
+	ru={map} · {players} · {size};
+	}
+
+[No map packs are installed.]
+	{
+	ru=Наборы карт не установлены.;
+	}
+
+[New]
+	{
+	ru=Новые;
+	}
+
+[{filter} ({count})]
+	{
+	ru={filter} ({count});
+	}
+
+[{tab} ({count})]
+	{
+	ru={tab} ({count});
+	}
+
+[Author]
+	{
+	ru=Автор;
+	}
+
+[Latest]
+	{
+	ru=Последняя;
+	}
+
+[{version} (rev {revision})]
+	{
+	ru={version} (рев. {revision});
+	}
+
+[Update available · {size} to download]
+	{
+	ru=Доступно обновление · к скачиванию {size};
+	}
+
+[the old copy]
+	{
+	ru=старая копия;
+	}
+
+[the new copy]
+	{
+	ru=новая копия;
+	}
+
+[old]
+	{
+	ru=старая;
+	}
+
+[new]
+	{
+	ru=новая;
+	}
+
+[offline]
+	{
+	ru=не в сети;
+	}
+
+[Platform]
+	{
+	ru=Платформа;
+	}
+
+[Reg]
+	{
+	ru=Реестры;
+	}
+
+[Refresh]
+	{
+	ru=Обновить список;
+	}
+
+[Refreshing]
+	{
+	ru=Обновление списка;
+	}
+
+[REFRESH]
+	{
+	ru=ОБНОВИТЬ;
+	}
+
+[refreshed {age}]
+	{
+	ru=обновлено {age};
+	}
+
+[never refreshed]
+	{
+	ru=ещё не обновлялся;
+	}
+
+[Signing key]
+	{
+	ru=Ключ подписи;
+	}
+
+[Signing keys]
+	{
+	ru=Ключи подписи;
+	}
+
+[built in]
+	{
+	ru=встроенный;
+	}
+
+[added by you]
+	{
+	ru=добавлен вами;
+	}
+
+[No signing key]
+	{
+	ru=Нет ключа подписи;
+	}
+
+[Map packs can't be uninstalled during a game.]
+	{
+	ru=Во время игры нельзя удалять наборы карт.;
+	}
+
+[It is in the download queue: CANCEL it before you uninstall it.]
+	{
+	ru=Пакет стоит в очереди скачивания: сначала нажмите ОТМЕНА, а затем удаляйте.;
+	}
+
+[Uninstall {name}]
+	{
+	ru=Удалить {name};
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed.]
+	{
+	ru=Удалить {name}? Папка {folder} будет удалена.;
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy ROLL BACK keeps.]
+	{
+	ru=Удалить {name}? Папка {folder} будет удалена, а вместе с ней и копия, которую хранит ОТКАТИТЬ.;
+	}
+
+[GET installs it again.]
+	{
+	ru=Кнопка ПОЛУЧИТЬ установит его снова.;
+	}
+
+[No registry lists it, so the Library cannot get it again.]
+	{
+	ru=Его нет ни в одном реестре, поэтому Библиотека не сможет получить его снова.;
+	}
+
+[You are playing {name}. Switch it off first with SWITCH OFF, then uninstall it.]
+	{
+	ru=Сейчас вы играете с модом {name}. Сначала отключите его кнопкой ОТКЛЮЧИТЬ, а затем удаляйте.;
+	}
+
+[The game is shown in {name}. Choose another language in Settings › Language first, then uninstall it.]
+	{
+	ru=Язык игры сейчас — {name}. Сначала выберите другой язык в разделе Настройки › Язык, а затем удаляйте.;
+	}
+
+[{name} was not uninstalled. {reason}]
+	{
+	ru=Не удалось удалить {name}. {reason};
+	}
+
+[Open Annihilation, or another copy of it, is still changing its folder. Try again in a moment.]
+	{
+	ru=Open Annihilation или другая её копия ещё изменяет эту папку. Попробуйте ещё раз чуть позже.;
+	}
+
+[Its folder changed since the Library listed it. Try again.]
+	{
+	ru=Папка изменилась с тех пор, как Библиотека составила список. Попробуйте ещё раз.;
+	}
+
+[Its folder is a link, and OA never removes what a link leads to. OPEN FOLDER shows it.]
+	{
+	ru=Папка является ссылкой, а OA никогда не удаляет то, на что ведёт ссылка. Кнопка ПАПКА покажет её.;
+	}
+
+[Its folder is not in your own Open Annihilation folder, and OA removes nothing outside it.]
+	{
+	ru=Папка находится вне вашей папки Open Annihilation, а OA ничего не удаляет за её пределами.;
+	}
+
+[Its folder could not be moved; another program may be using it. Close it, then try again.]
+	{
+	ru=Не удалось переместить папку — возможно, её использует другая программа. Закройте ту программу и попробуйте ещё раз.;
+	}
+
+[The version installed is kept, and ROLL BACK in the Library brings it back.]
+	{
+	ru=Установленная версия сохраняется, и кнопка ОТКАТИТЬ в Библиотеке вернёт её.;
+	}
+
+[Revision {installed} is kept, and ROLL BACK in the Library brings it back.]
+	{
+	ru=Ревизия {installed} сохраняется, и кнопка ОТКАТИТЬ в Библиотеке вернёт её.;
+	}
+
+[Replacing keeps {installed}, and ROLL BACK in the Library brings it back.]
+	{
+	ru=При замене {installed} сохраняется, и кнопка ОТКАТИТЬ в Библиотеке вернёт прежнюю версию.;
+	}
+
+[Choose PLAY NOW to play it, or choose it later with PLAY NOW in the Library.]
+	{
+	ru=Нажмите ИГРАТЬ СЕЙЧАС, чтобы начать игру, или выберите его позже кнопкой ИГРАТЬ СЕЙЧАС в Библиотеке.;
+	}
+
+[Choose it with PLAY NOW in the Library to play it.]
+	{
+	ru=Чтобы играть, выберите его кнопкой ИГРАТЬ СЕЙЧАС в Библиотеке.;
+	}
+
+[{title} is now {new}. {old} is kept, and ROLL BACK in the Library brings it back.]
+	{
+	ru={title}: теперь версия {new}. {old} сохраняется, и кнопка ОТКАТИТЬ в Библиотеке вернёт прежнюю версию.;
+	}
+
+[It is still copied, so it can be fixed in your file manager; the Library's Mods tab plays only mods that work.]
+	{
+	ru=Он всё равно скопирован, чтобы его можно было исправить в файловом менеджере. Вкладка «Моды» в Библиотеке запускает только исправные моды.;
+	}
+
+[Built into the game]
+	{
+	ru=Встроен в игру;
+	}
+
+[Close]
+	{
+	ru=Закрыть;
+	}
+
+[In use]
+	{
+	ru=Используется;
+	}
+
+[No installed map matches.]
+	{
+	ru=Ни одна установленная карта не подходит.;
+	}
+
+[USE NOW]
+	{
+	ru=ВЫБРАТЬ;
+	}
+
+[{shown} of {all}]
+	{
+	ru={shown} из {all};
+	}
+
+// Setup, Game Content, the map browser, expansions and more Settings
+// rows.
+
+["{title}" was saved with {name}, which is off.]
+	{
+	ru=Игра «{title}» сохранена с {name}, который сейчас отключён.;
+	}
+
+["{title}" was saved with {name}.]
+	{
+	ru=Игра «{title}» сохранена с {name}.;
+	}
+
+[1 file differs]
+	{
+	ru=Отличается 1 файл;
+	}
+
+[1 of {total} files differs]
+	{
+	ru=Отличается 1 файл из {total};
+	}
+
+[1997]
+	{
+	ru=1997;
+	}
+
+[A]
+	{
+	ru=A;
+	}
+
+[A continues. B goes back.]
+	{
+	ru=A — далее. B — назад.;
+	}
+
+[A drag draws a selection box; two fingers scroll the map.]
+	{
+	ru=Перетаскивание рисует рамку выделения, а два пальца прокручивают карту.;
+	}
+
+[A drag scrolls the map; hold, then drag, for a selection box.]
+	{
+	ru=Перетаскивание прокручивает карту. Для рамки выделения удерживайте палец, а затем тяните.;
+	}
+
+[A middle click pans the view towards the pointer until you click or press a key.]
+	{
+	ru=Щелчок средней кнопкой сдвигает камеру к указателю, пока вы не щёлкнете или не нажмёте клавишу.;
+	}
+
+[A tapped QUEUE, ADD or x5 stays on until it is tapped again.]
+	{
+	ru=Нажатые ОЧЕРЕДЬ, ДОБАВИТЬ или x5 остаются включёнными, пока их не нажать снова.;
+	}
+
+[A tapped QUEUE, ADD or x5 turns off after the next order or selection.]
+	{
+	ru=Нажатые ОЧЕРЕДЬ, ДОБАВИТЬ или x5 выключаются после следующего приказа или выделения.;
+	}
+
+[A window hides its title bar and borders while a game is played; menus show them.]
+	{
+	ru=Во время игры окно скрывает заголовок и рамку, а в меню они видны.;
+	}
+
+[A window shows its title bar and borders on every screen, a game's included.]
+	{
+	ru=Окно показывает заголовок и рамку на всех экранах, включая игру.;
+	}
+
+[After restoring this {device} from a backup, add the game files again.]
+	{
+	ru=После восстановления данных на этом {device} из резервной копии снова добавьте файлы игры.;
+	}
+
+[All files match]
+	{
+	ru=Все файлы совпадают;
+	}
+
+[Any]
+	{
+	ru=Все;
+	}
+
+[Applications]
+	{
+	ru=Программы;
+	}
+
+[As far as the view always went: 1/6 of normal size with Full hardware acceleration, else 1/2.]
+	{
+	ru=Как всегда было в игре: 1/6 обычного размера с аппаратным ускорением «Полный», иначе 1/2.;
+	}
+
+[Automatic: a selection box on a tablet, scrolling on a phone.]
+	{
+	ru=Автоматически: рамка выделения на планшете, прокрутка на телефоне.;
+	}
+
+[B]
+	{
+	ru=B;
+	}
+
+[BASE GAME]
+	{
+	ru=ОСНОВНАЯ ИГРА;
+	}
+
+[Battle room · No Mod]
+	{
+	ru=Лобби · Без мода;
+	}
+
+[Bottles]
+	{
+	ru=Bottles;
+	}
+
+[CHANGE…]
+	{
+	ru=ИЗМЕНИТЬ…;
+	}
+
+[COPYING]
+	{
+	ru=КОПИРОВАНИЕ;
+	}
+
+[Campaign]
+	{
+	ru=Кампания;
+	}
+
+[Cavedog tilesets]
+	{
+	ru=Наборы тайлов Cavedog;
+	}
+
+[Cavedog units]
+	{
+	ru=Юниты Cavedog;
+	}
+
+[Chat in any language with players who have it; others see ? for letters they lack.]
+	{
+	ru=Общайтесь в чате на любом языке с игроками, у которых это включено. Остальные увидят ? вместо букв, которых у них нет.;
+	}
+
+[Check again]
+	{
+	ru=Проверить снова;
+	}
+
+[Checking… {percent}%]
+	{
+	ru=Проверка… {percent}%;
+	}
+
+[Choosing another base game turns on all of its expansions and unloads the mod you are playing ({mod}). The change applies when the Library closes.]
+	{
+	ru=Выбор другой основной игры включает все её дополнения и отключает мод, с которым вы играете ({mod}). Изменение вступит в силу после закрытия Библиотеки.;
+	}
+
+[Choosing another base game turns on all of its expansions. The change applies when the Library closes.]
+	{
+	ru=Выбор другой основной игры включает все её дополнения. Изменение вступит в силу после закрытия Библиотеки.;
+	}
+
+[Choosing it asks for the demo installer, then copies it. It takes no expansions.]
+	{
+	ru=После выбора нужно будет указать установщик демоверсии, и она будет скопирована. Дополнения с ней не работают.;
+	}
+
+[Choosing it asks for the game, then copies it.]
+	{
+	ru=После выбора нужно будет указать игру, и она будет скопирована.;
+	}
+
+[Continue]
+	{
+	ru=Продолжить;
+	}
+
+[Copied]
+	{
+	ru=Скопировано;
+	}
+
+[Copied from {source}]
+	{
+	ru=Скопировано (источник: {source});
+	}
+
+[Copies go to Documents › Open Annihilation]
+	{
+	ru=Копии сохраняются в папке Документы › Open Annihilation;
+	}
+
+[Copy again from…]
+	{
+	ru=Скопировать снова из…;
+	}
+
+[Copy the game]
+	{
+	ru=Скопировать игру;
+	}
+
+[Copying Total Annihilation]
+	{
+	ru=Копирование Total Annihilation;
+	}
+
+[DETAILS…]
+	{
+	ru=ПОДРОБНЕЕ…;
+	}
+
+[Demo]
+	{
+	ru=Демоверсия;
+	}
+
+[Different from the host: a file does not match.]
+	{
+	ru=Отличие от хоста: один файл не совпадает.;
+	}
+
+[Different from the host: another base game ({name}).]
+	{
+	ru=Отличие от хоста: другая основная игра ({name}).;
+	}
+
+[Different from the host: no {name}.]
+	{
+	ru=Отличие от хоста: нет {name}.;
+	}
+
+[Different from the host: {name} is on.]
+	{
+	ru=Отличие от хоста: включено {name}.;
+	}
+
+[Documents]
+	{
+	ru=Документы;
+	}
+
+[Dots farther out than 1/12 of normal size. Closer in, units are drawn as models.]
+	{
+	ru=Точки при масштабе мельче 1/12 обычного размера. Ближе юниты рисуются моделями.;
+	}
+
+[Dots farther out than 1/16 of normal size. Closer in, units are drawn as models.]
+	{
+	ru=Точки при масштабе мельче 1/16 обычного размера. Ближе юниты рисуются моделями.;
+	}
+
+[Dots farther out than 1/2 of normal size. Closer in, units are drawn as models.]
+	{
+	ru=Точки при масштабе мельче 1/2 обычного размера. Ближе юниты рисуются моделями.;
+	}
+
+[Dots farther out than 1/3 of normal size. Closer in, units are drawn as models.]
+	{
+	ru=Точки при масштабе мельче 1/3 обычного размера. Ближе юниты рисуются моделями.;
+	}
+
+[Dots farther out than 1/4 of normal size. Closer in, units are drawn as models.]
+	{
+	ru=Точки при масштабе мельче 1/4 обычного размера. Ближе юниты рисуются моделями.;
+	}
+
+[Dots farther out than 1/6 of normal size. Closer in, units are drawn as models.]
+	{
+	ru=Точки при масштабе мельче 1/6 обычного размера. Ближе юниты рисуются моделями.;
+	}
+
+[Dots farther out than 1/8 of normal size. Closer in, units are drawn as models.]
+	{
+	ru=Точки при масштабе мельче 1/8 обычного размера. Ближе юниты рисуются моделями.;
+	}
+
+[Downloaded]
+	{
+	ru=Скачано;
+	}
+
+[EXPANSION INSTALLED]
+	{
+	ru=ДОПОЛНЕНИЕ УСТАНОВЛЕНО;
+	}
+
+[EXPANSION NOT INSTALLED]
+	{
+	ru=ДОПОЛНЕНИЕ НЕ УСТАНОВЛЕНО;
+	}
+
+[EXPANSIONS]
+	{
+	ru=ДОПОЛНЕНИЯ;
+	}
+
+[EXPANSIONS · {on} OF {count} ON]
+	{
+	ru=ДОПОЛНЕНИЯ · ВКЛЮЧЕНО {on} ИЗ {count};
+	}
+
+[Expansions]
+	{
+	ru=Дополнения;
+	}
+
+[Explosions do not light up the ground, whatever a mod asks for.]
+	{
+	ru=Взрывы не освещают землю, что бы ни требовал мод.;
+	}
+
+[Explosions light up the ground as the game drew it, or less where a mod asks.]
+	{
+	ru=Взрывы освещают землю, как в самой игре, или слабее, если этого просит мод.;
+	}
+
+[Explosions light up the ground at half strength, or less where a mod asks.]
+	{
+	ru=Взрывы освещают землю вполсилы или ещё слабее, если этого просит мод.;
+	}
+
+[FOUND]
+	{
+	ru=НАЙДЕНО;
+	}
+
+[Files that differ:]
+	{
+	ru=Отличающиеся файлы:;
+	}
+
+[Filter]
+	{
+	ru=Фильтр;
+	}
+
+[Finder's Get Info › Open with chooses another opener.]
+	{
+	ru=Другую программу для открытия можно выбрать в Finder: «Свойства» › «Открывать в приложении».;
+	}
+
+[For the Total Annihilation demo only]
+	{
+	ru=Только для демоверсии Total Annihilation;
+	}
+
+[For {name} only]
+	{
+	ru=Только для {name};
+	}
+
+[Free]
+	{
+	ru=Свободно;
+	}
+
+[From {place}…]
+	{
+	ru=Источник: {place}…;
+	}
+
+[Full screen at this size, or a window of it. Applies when you press OK.]
+	{
+	ru=Полноэкранный режим с этим размером или окно такого размера. Применяется после нажатия OK.;
+	}
+
+[GAME CONTENT]
+	{
+	ru=КОНТЕНТ ИГРЫ;
+	}
+
+[GAMES]
+	{
+	ru=ИГРЫ;
+	}
+
+[GAMES ON THIS DECK]
+	{
+	ru=ИГРЫ НА ЭТОМ DECK;
+	}
+
+[GOG installer (Windows)]
+	{
+	ru=Установщик GOG (Windows);
+	}
+
+[GOG installer (macOS)]
+	{
+	ru=Установщик GOG (macOS);
+	}
+
+[GOG installer (older Macs)]
+	{
+	ru=Установщик GOG (старые Mac);
+	}
+
+[GOG installer for Windows]
+	{
+	ru=Установщик GOG для Windows;
+	}
+
+[GOG installer for macOS]
+	{
+	ru=Установщик GOG для macOS;
+	}
+
+[GOG installer for older Macs]
+	{
+	ru=Установщик GOG для старых Mac;
+	}
+
+[Game]
+	{
+	ru=Игра;
+	}
+
+[Game Content]
+	{
+	ru=Контент игры;
+	}
+
+[Game content]
+	{
+	ru=Контент игры;
+	}
+
+[Games]
+	{
+	ru=Игры;
+	}
+
+[Heroic]
+	{
+	ru=Heroic;
+	}
+
+[Holds {bundles}.]
+	{
+	ru=Содержит: {bundles}.;
+	}
+
+[Home]
+	{
+	ru=Домашняя папка;
+	}
+
+[How large Open Annihilation's own screens are drawn. Auto suits the window's height.]
+	{
+	ru=Размер собственных экранов Open Annihilation. «Авто» подбирает его под высоту окна.;
+	}
+
+[INSTALLING EXPANSION]
+	{
+	ru=УСТАНОВКА ДОПОЛНЕНИЯ;
+	}
+
+[If OA stops, the copy carries on from here next time.]
+	{
+	ru=Если OA остановится, в следующий раз копирование продолжится с этого места.;
+	}
+
+[In Full the card draws 16x16 samples a pixel and scales them down for smoother edges.]
+	{
+	ru=В режиме «Полный» видеокарта рисует 16x16 выборок на пиксель и уменьшает их для более гладких краёв.;
+	}
+
+[In Full the card draws 16x16 samples a pixel the most this window allows, scaled down.]
+	{
+	ru=В режиме «Полный» видеокарта рисует 16x16 выборок на пиксель — максимум для этого окна — и уменьшает их.;
+	}
+
+[In Full the card draws 2x2 samples a pixel and scales them down for smoother edges.]
+	{
+	ru=В режиме «Полный» видеокарта рисует 2x2 выборки на пиксель и уменьшает их для более гладких краёв.;
+	}
+
+[In Full the card draws 2x2 samples a pixel the most this window allows, scaled down.]
+	{
+	ru=В режиме «Полный» видеокарта рисует 2x2 выборки на пиксель — максимум для этого окна — и уменьшает их.;
+	}
+
+[In Full the card draws 4x4 samples a pixel and scales them down for smoother edges.]
+	{
+	ru=В режиме «Полный» видеокарта рисует 4x4 выборки на пиксель и уменьшает их для более гладких краёв.;
+	}
+
+[In Full the card draws 4x4 samples a pixel the most this window allows, scaled down.]
+	{
+	ru=В режиме «Полный» видеокарта рисует 4x4 выборки на пиксель — максимум для этого окна — и уменьшает их.;
+	}
+
+[In Full the card draws 8x8 samples a pixel and scales them down for smoother edges.]
+	{
+	ru=В режиме «Полный» видеокарта рисует 8x8 выборок на пиксель и уменьшает их для более гладких краёв.;
+	}
+
+[In Full the card draws 8x8 samples a pixel the most this window allows, scaled down.]
+	{
+	ru=В режиме «Полный» видеокарта рисует 8x8 выборок на пиксель — максимум для этого окна — и уменьшает их.;
+	}
+
+[In Full the graphics card draws the view 1:1; a level draws it finer for smoother edges.]
+	{
+	ru=В режиме «Полный» видеокарта рисует изображение 1:1, а более высокий уровень — детальнее, для более гладких краёв.;
+	}
+
+[In to 2x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	ru=Приближение не более чем до 2x от обычного размера. Колесо, жест щипка и контроллер дальше не приближают.;
+	}
+
+[In to 3x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	ru=Приближение не более чем до 3x от обычного размера. Колесо, жест щипка и контроллер дальше не приближают.;
+	}
+
+[In to 4x normal size at most. The wheel, a pinch and a controller stop there.]
+	{
+	ru=Приближение не более чем до 4x от обычного размера. Колесо, жест щипка и контроллер дальше не приближают.;
+	}
+
+[Install the expansion {name}?]
+	{
+	ru=Установить дополнение {name}?;
+	}
+
+[It holds no oaexp.yaml at its top, or in a single folder at its top.]
+	{
+	ru=В нём нет oaexp.yaml ни в корне, ни в единственной папке в корне.;
+	}
+
+[It is not one of the game's expansions.]
+	{
+	ru=Это не одно из дополнений этой игры.;
+	}
+
+[Its oaexp.yaml has errors.]
+	{
+	ru=Его oaexp.yaml содержит ошибки.;
+	}
+
+[Its oaexp.yaml is larger than 256 KiB.]
+	{
+	ru=Его oaexp.yaml больше 256 КиБ.;
+	}
+
+[Locate another…]
+	{
+	ru=Указать другое место…;
+	}
+
+[Lutris]
+	{
+	ru=Lutris;
+	}
+
+[Middle-click pans]
+	{
+	ru=Сдвиг средней кнопкой;
+	}
+
+[Mirrors the roles: the left pad points, the right pad moves the map, triggers and grips swap.]
+	{
+	ru=Роли наоборот: левый трекпад управляет указателем, правый двигает карту, триггеры и задние кнопки меняются местами.;
+	}
+
+[Modern fonts for in-game text, including internationalization.]
+	{
+	ru=Современные шрифты для текста в игре, с поддержкой разных языков.;
+	}
+
+[NOW]
+	{
+	ru=СЕЙЧАС;
+	}
+
+[Needs {names} · on]
+	{
+	ru=Требуются: {names} · включены;
+	}
+
+[Needs {names}, which are off]
+	{
+	ru=Требуются: {names} (отключены);
+	}
+
+[Needs {name} · on]
+	{
+	ru=Требуется {name} · включено;
+	}
+
+[Needs {name}, which is off]
+	{
+	ru=Требуется {name} (отключено);
+	}
+
+[Needs {name}, which is off.]
+	{
+	ru=Требуется {name} (отключено).;
+	}
+
+[Never closer than normal size. The wheel, a pinch and a controller stop there.]
+	{
+	ru=Не ближе обычного размера. Колесо, жест щипка и контроллер дальше не приближают.;
+	}
+
+[Not added]
+	{
+	ru=Не добавлено;
+	}
+
+[Nothing is installed and your files are not changed.]
+	{
+	ru=Ничего не устанавливается, и ваши файлы не меняются.;
+	}
+
+[OA copies the game once. The installation is left as it is.]
+	{
+	ru=OA копирует игру один раз. Установленная игра остаётся без изменений.;
+	}
+
+[OA plays from its own copy in Documents › Open Annihilation. The installation is not used or changed.]
+	{
+	ru=OA запускает игру из собственной копии в папке Документы › Open Annihilation. Установленная игра не используется и не меняется.;
+	}
+
+[Open]
+	{
+	ru=Открыть;
+	}
+
+[Open folder]
+	{
+	ru=Открыть папку;
+	}
+
+[Open these files with the game from your file manager.]
+	{
+	ru=Открывайте эти файлы игрой прямо из файлового менеджера.;
+	}
+
+[Out to 1/16 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	ru=Отдаление до 1/16 обычного размера или до всей карты. Вид юнитов задаёт параметр «Юниты при отдалении» в разделе «Графика».;
+	}
+
+[Out to 1/2 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	ru=Отдаление до 1/2 обычного размера или до всей карты. Вид юнитов задаёт параметр «Юниты при отдалении» в разделе «Графика».;
+	}
+
+[Out to 1/32 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	ru=Отдаление до 1/32 обычного размера или до всей карты. Вид юнитов задаёт параметр «Юниты при отдалении» в разделе «Графика».;
+	}
+
+[Out to 1/4 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	ru=Отдаление до 1/4 обычного размера или до всей карты. Вид юнитов задаёт параметр «Юниты при отдалении» в разделе «Графика».;
+	}
+
+[Out to 1/8 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
+	{
+	ru=Отдаление до 1/8 обычного размера или до всей карты. Вид юнитов задаёт параметр «Юниты при отдалении» в разделе «Графика».;
+	}
+
+[Out until the whole map fits the view. Graphics' Zoomed out units says how units look.]
+	{
+	ru=Отдаление, пока вся карта не поместится на экране. Вид юнитов задаёт параметр «Юниты при отдалении» в разделе «Графика».;
+	}
+
+[PLACES]
+	{
+	ru=МЕСТА;
+	}
+
+[Past After zoom, each unit is a dot of its owner's colour, framed while selected.]
+	{
+	ru=Дальше значения «Порог масштаба» каждый юнит становится точкой цвета владельца, с рамкой, если выделен.;
+	}
+
+[Pause]
+	{
+	ru=Пауза;
+	}
+
+[Program Files]
+	{
+	ru=Program Files;
+	}
+
+[Quit]
+	{
+	ru=Выйти;
+	}
+
+[SELECTED]
+	{
+	ru=ВЫБРАНО;
+	}
+
+[Select a folder or an installer.]
+	{
+	ru=Выберите папку или установщик.;
+	}
+
+[Setup]
+	{
+	ru=Подготовка;
+	}
+
+[Skip]
+	{
+	ru=Пропустить;
+	}
+
+[Skirmish · No Mod]
+	{
+	ru=Схватка · Без мода;
+	}
+
+[Steam · Proton]
+	{
+	ru=Steam · Proton;
+	}
+
+[Sticky]
+	{
+	ru=Прилипание;
+	}
+
+[Switching to {name} restarts the game's files, then loads this save.]
+	{
+	ru=Переключение на {name} перезапустит файлы игры, а затем загрузит это сохранение.;
+	}
+
+[TA demo installer]
+	{
+	ru=Установщик демоверсии TA;
+	}
+
+[THE GAME]
+	{
+	ru=ИГРА;
+	}
+
+[THE SAVE]
+	{
+	ru=СОХРАНЕНИЕ;
+	}
+
+[TURN OFF]
+	{
+	ru=ОТКЛЮЧИТЬ;
+	}
+
+[TURN ON {name}]
+	{
+	ru=ВКЛЮЧИТЬ {name};
+	}
+
+[The display's own pixel density (Retina on a Mac). Applies from the next start.]
+	{
+	ru=Собственная плотность пикселей дисплея (Retina на Mac). Применяется со следующего запуска.;
+	}
+
+[The expansion holds {name}, which it does not have.]
+	{
+	ru=Дополнение содержит файл {name}, которого в нём быть не должно.;
+	}
+
+[The expansion is missing {name}.]
+	{
+	ru=В дополнении не хватает файла {name}.;
+	}
+
+[The file {name} is not the expansion's file.]
+	{
+	ru=Файл {name} не относится к дополнению.;
+	}
+
+[The first press clears the selection, the second opens the menu.]
+	{
+	ru=Первое нажатие снимает выделение, второе открывает меню.;
+	}
+
+[The following content for your game does not match our expected sizes:]
+	{
+	ru=Размеры следующего контента вашей игры не совпадают с ожидаемыми:;
+	}
+
+[The game OA plays. Mods, maps and languages say which base games they work with.]
+	{
+	ru=Игра, которую запускает OA. Моды, карты и языки указывают, с какими основными играми они работают.;
+	}
+
+[The game cannot start until the content matches.]
+	{
+	ru=Игра не начнётся, пока контент не будет совпадать.;
+	}
+
+[The game cannot start until the host turns it on, or {player} turns it off.]
+	{
+	ru=Игра не начнётся, пока хост его не включит или {player} его не отключит.;
+	}
+
+[The game cannot start until {player} turns it on, or the host turns it off.]
+	{
+	ru=Игра не начнётся, пока {player} его не включит или хост его не отключит.;
+	}
+
+[The game could not be copied.]
+	{
+	ru=Не удалось скопировать игру.;
+	}
+
+[The game still plays with these files, but network games with other players may not start, and recordings may not replay the same. Copy the content again from another source to fix it.]
+	{
+	ru=Игра работает и с этими файлами, но сетевые игры с другими игроками могут не начаться, а записи могут воспроизводиться иначе. Чтобы это исправить, скопируйте контент заново из другого источника.;
+	}
+
+[The game's own text and unit names, where its data has them in the language.]
+	{
+	ru=Собственные тексты игры и названия юнитов, если в её данных они есть на этом языке.;
+	}
+
+[The installer of the Total Annihilation demo (1997).]
+	{
+	ru=Установщик демоверсии Total Annihilation (1997).;
+	}
+
+[The largest whole-number scale that fits: smaller menus, every pixel square.]
+	{
+	ru=Наибольший целый масштаб, который помещается: меню меньше, каждый пиксель квадратный.;
+	}
+
+[The menus fill the window, every pixel as wide as the next.]
+	{
+	ru=Меню заполняют окно, все пиксели одинаковой ширины.;
+	}
+
+[The menus fill the window, unfiltered, as the game always drew them.]
+	{
+	ru=Меню заполняют окно без фильтрации, как игра всегда их рисовала.;
+	}
+
+[The minimap and the thumb controls on the right, the orders on the left.]
+	{
+	ru=Мини-карта и управление большим пальцем справа, приказы слева.;
+	}
+
+[The mod was unloaded because an expansion it needs is off. The game plays with No Mod.]
+	{
+	ru=Мод отключён, потому что нужное ему дополнение выключено. Игра идёт «Без мода».;
+	}
+
+[The pointer leaves a window's edge, as before.]
+	{
+	ru=Указатель свободно выходит за край окна, как раньше.;
+	}
+
+[The pointer rests on the edge so the view scrolls.]
+	{
+	ru=Указатель задерживается на краю, и камера прокручивается.;
+	}
+
+[The right stick moves the pointer and the left stick the map.]
+	{
+	ru=Правый стик двигает указатель, а левый — карту.;
+	}
+
+[The right stick moves the pointer, as in the Sticks scheme.]
+	{
+	ru=Правый стик двигает указатель, как в схеме «Стики».;
+	}
+
+[The right trackpad points and the left one moves the map; a pad without trackpads plays Sticks.]
+	{
+	ru=Правый трекпад управляет указателем, а левый двигает карту. Геймпад без трекпадов работает по схеме «Стики».;
+	}
+
+[The side panel and bars grow with the window, up to twice the original game's size.]
+	{
+	ru=Боковая панель и полосы растут вместе с окном, до двойного размера оригинальной игры.;
+	}
+
+[The side panel and bars keep the original game's size on every window.]
+	{
+	ru=Боковая панель и полосы сохраняют размер оригинальной игры при любом окне.;
+	}
+
+[The size of game text in the modern fonts. Larger sizes are easier to read.]
+	{
+	ru=Размер текста игры в современных шрифтах. Крупный текст легче читать.;
+	}
+
+[The size of game text in the modern fonts. The game's own fonts have fixed sizes.]
+	{
+	ru=Размер текста игры в современных шрифтах. Собственные шрифты игры имеют фиксированный размер.;
+	}
+
+[The size of the touch controls; the game's own screens keep theirs.]
+	{
+	ru=Размер сенсорных элементов управления. Собственные экраны игры сохраняют свой.;
+	}
+
+[The view stays on the map, as the game kept it. With more than the map in view, it is centred.]
+	{
+	ru=Камера не выходит за пределы карты, как в самой игре. Если карта меньше экрана, она по центру.;
+	}
+
+[This base game is used when the Library closes.]
+	{
+	ru=Эта основная игра будет использоваться после закрытия Библиотеки.;
+	}
+
+[This game has no expansions.]
+	{
+	ru=У этой игры нет дополнений.;
+	}
+
+[This map is for the TA demo.]
+	{
+	ru=Эта карта для демоверсии TA.;
+	}
+
+[This map is for {name}.]
+	{
+	ru=Эта карта для {name}.;
+	}
+
+[This run names its content, so it cannot switch.]
+	{
+	ru=Этот запуск сам задаёт контент, поэтому переключить его нельзя.;
+	}
+
+[This save needs other content]
+	{
+	ru=Этому сохранению нужен другой контент;
+	}
+
+[To Documents › Open Annihilation › Games and Expansions]
+	{
+	ru=В папку Документы › Open Annihilation › Games and Expansions;
+	}
+
+[Total Annihilation demo]
+	{
+	ru=Демоверсия Total Annihilation;
+	}
+
+[Total Annihilation demo (1997)]
+	{
+	ru=Демоверсия Total Annihilation (1997);
+	}
+
+[Total Annihilation: Commander Pack. Recognised by its size. The game is read out of it; nothing is installed.]
+	{
+	ru=Total Annihilation: Commander Pack. Распознан по размеру. Игра будет прочитана из него, ничего не устанавливается.;
+	}
+
+[Turn it on in the Library.]
+	{
+	ru=Включите его в Библиотеке.;
+	}
+
+[Turn off {name}?]
+	{
+	ru=Отключить {name}?;
+	}
+
+[Turn on and load]
+	{
+	ru=Включить и загрузить;
+	}
+
+[Turning it on applies when the Library closes, and then PLAY NOW works.]
+	{
+	ru=Включение вступит в силу после закрытия Библиотеки, и тогда заработает ИГРАТЬ СЕЙЧАС.;
+	}
+
+[Turning it on applies when the Library closes, and then USE NOW works.]
+	{
+	ru=Включение вступит в силу после закрытия Библиотеки, и тогда заработает кнопка ВЫБРАТЬ.;
+	}
+
+[Turning it on applies when the Library closes.]
+	{
+	ru=Включение вступит в силу после закрытия Библиотеки.;
+	}
+
+[Turning them on applies when the Library closes, and then PLAY NOW works.]
+	{
+	ru=Они будут включены после закрытия Библиотеки, и тогда заработает ИГРАТЬ СЕЙЧАС.;
+	}
+
+[Turning them on applies when the Library closes, and then USE NOW works.]
+	{
+	ru=Они будут включены после закрытия Библиотеки, и тогда заработает кнопка ВЫБРАТЬ.;
+	}
+
+[Turning them on applies when the Library closes.]
+	{
+	ru=Они будут включены после закрытия Библиотеки.;
+	}
+
+[Turning {name} on restarts the game's files, then loads this save. Your other expansions stay as they are.]
+	{
+	ru=Включение {name} перезапустит файлы игры, а затем загрузит это сохранение. Остальные дополнения останутся как есть.;
+	}
+
+[USE THIS GAME]
+	{
+	ru=ВЫБРАТЬ ЭТУ ИГРУ;
+	}
+
+[Units are drawn as models at every zoom. Far out on a large map, needs a fast CPU.]
+	{
+	ru=Юниты рисуются моделями при любом масштабе. При сильном отдалении на большой карте нужен быстрый процессор.;
+	}
+
+[Units drawn at 16x and scaled down. Needs a fast CPU.]
+	{
+	ru=Юниты рисуются с разрешением 16x и уменьшаются. Нужен быстрый процессор.;
+	}
+
+[Units drawn at 8x and scaled down. Needs a fast CPU.]
+	{
+	ru=Юниты рисуются с разрешением 8x и уменьшаются. Нужен быстрый процессор.;
+	}
+
+[Units drawn at higher resolution and scaled down for smoother edges.]
+	{
+	ru=Юниты рисуются с более высоким разрешением и уменьшаются для более гладких краёв.;
+	}
+
+[Units each player can have. Applies from the next game.]
+	{
+	ru=Сколько юнитов может быть у каждого игрока. Применяется со следующей игры.;
+	}
+
+[Up]
+	{
+	ru=Вверх;
+	}
+
+[Up and down zoom about the pointer; a flick left or right turns the build page while building.]
+	{
+	ru=Вверх и вниз — масштаб вокруг указателя. Движение влево или вправо листает страницу строительства во время стройки.;
+	}
+
+[Up to a quarter of the battlefield past the map's edges, however the view moves.]
+	{
+	ru=До четверти поля боя за краями карты, как бы ни двигалась камера.;
+	}
+
+[Up to half the battlefield past the map's edges; a zoom keeps the ground under the pointer.]
+	{
+	ru=До половины поля боя за краями карты. При масштабировании земля под указателем остаётся на месте.;
+	}
+
+[Use the system picker…]
+	{
+	ru=Системное окно выбора…;
+	}
+
+[Use this folder]
+	{
+	ru=Выбрать эту папку;
+	}
+
+[Use this installer]
+	{
+	ru=Выбрать этот установщик;
+	}
+
+[VOLUMES]
+	{
+	ru=ДИСКИ;
+	}
+
+[What guarding builders do. Applies from the next game.]
+	{
+	ru=Что делают строители на охране. Применяется со следующей игры.;
+	}
+
+[What patrolling builders do. Applies from the next game.]
+	{
+	ru=Что делают строители в патруле. Применяется со следующей игры.;
+	}
+
+[Locate Total Annihilation Game Files]
+	{
+	ru=Поиск файлов игры Total Annihilation;
+	}
+
+[Window edge]
+	{
+	ru=Край окна;
+	}
+
+[Capture]
+	{
+	ru=Захват;
+	}
+
+[Edge stickiness]
+	{
+	ru=Сила прилипания;
+	}
+
+[At 0.0 the edge never holds.]
+	{
+	ru=При 0.0 край совсем не удерживает указатель.;
+	}
+
+[How firmly Sticky holds the pointer at the edge.]
+	{
+	ru=Насколько крепко «Прилипание» удерживает указатель на краю.;
+	}
+
+[Needs Sticky]
+	{
+	ru=Нужно «Прилипание»;
+	}
+
+[The pointer stays in the window while you play.]
+	{
+	ru=Во время игры указатель не покидает окно.;
+	}
+
+[X]
+	{
+	ru=X;
+	}
+
+[Y]
+	{
+	ru=Y;
+	}
+
+[about {seconds} seconds left]
+	{
+	ru=осталось около {seconds} с;
+	}
+
+[archive]
+	{
+	ru=архив;
+	}
+
+[doesn't fit]
+	{
+	ru=не подходит;
+	}
+
+[file]
+	{
+	ru=файл;
+	}
+
+[folder]
+	{
+	ru=папка;
+	}
+
+[for the TA demo]
+	{
+	ru=для демоверсии TA;
+	}
+
+[for {name}]
+	{
+	ru=для {name};
+	}
+
+[macOS asks once before an app reads Desktop, Documents or Downloads.]
+	{
+	ru=macOS один раз спрашивает разрешение, прежде чем программа прочитает папки «Рабочий стол», «Документы» или «Загрузки».;
+	}
+
+[microSD card]
+	{
+	ru=Карта microSD;
+	}
+
+[needs {name}]
+	{
+	ru=требуется {name};
+	}
+
+[not added]
+	{
+	ru=не добавлено;
+	}
+
+[{count} file differs]
+	{
+	ru=Отличающихся файлов: {count};
+	}
+
+[{count} files differ]
+	{
+	ru=Отличающихся файлов: {count};
+	}
+
+[{count} of {total} files differ]
+	{
+	ru=Отличающихся файлов: {count} из {total};
+	}
+
+[{done} of {total} · {percent}%]
+	{
+	ru={done} из {total} · {percent}%;
+	}
+
+[{game} as it was made]
+	{
+	ru={game} в оригинале;
+	}
+
+[{held} of {total} tracks]
+	{
+	ru=Треков: {held} из {total};
+	}
+
+[{left} and {right}]
+	{
+	ru={left} и {right};
+	}
+
+[{left} · {right}]
+	{
+	ru={left} · {right};
+	}
+
+[{left}, {right}]
+	{
+	ru={left}, {right};
+	}
+
+[{mod} needs {name}, so it is unloaded and the game plays with No Mod.]
+	{
+	ru={mod} требует {name}, поэтому мод отключён, и игра идёт «Без мода».;
+	}
+
+[{mod} was unloaded because {name} is off. The game plays with No Mod.]
+	{
+	ru=Мод {mod} отключён, потому что отключено дополнение {name}. Игра идёт «Без мода».;
+	}
+
+[{name} is installed. Turn it on in the Library.]
+	{
+	ru=Дополнение {name} установлено. Включите его в Библиотеке.;
+	}
+
+[{name} is not copied, so this save cannot be loaded with it.]
+	{
+	ru=Копии {name} нет, поэтому это сохранение нельзя загрузить.;
+	}
+
+[{name} needs {need}.]
+	{
+	ru={name} требует {need}.;
+	}
+
+[{name} off]
+	{
+	ru={name}: отключено;
+	}
+
+[{name} turns off too: it needs {need}.]
+	{
+	ru={name} тоже отключится: требуется {need}.;
+	}
+
+[{name} turns off when the Library closes.]
+	{
+	ru={name} отключится после закрытия Библиотеки.;
+	}
+
+[{name} turns on when the Library closes.]
+	{
+	ru={name} включится после закрытия Библиотеки.;
+	}
+
+[{name} · ADD FROM…]
+	{
+	ru={name} · ДОБАВИТЬ ИЗ…;
+	}
+
+[{name} ✓]
+	{
+	ru={name} ✓;
+	}
+
+[{name}'s maps and campaigns leave the lists until you turn it on again. Nothing is deleted.]
+	{
+	ru=Карты и кампании {name} пропадут из списков, пока вы снова его не включите. Ничего не удаляется.;
+	}
+
+[{row}: {saved} / {now}]
+	{
+	ru={row}: {saved} / {now};
+	}
+
+[{save_heading} / {now_heading}]
+	{
+	ru={save_heading} / {now_heading};
+	}
+
+[{version} · {source}]
+	{
+	ru={version} · {source};
+	}
+
+[A folder that holds totala1.hpi, or a Commander Pack or the 1997 demo installer.]
+	{
+	ru=Папка с totala1.hpi, Commander Pack или установщик демоверсии 1997 года.;
+	}
+
+[Applying your changes]
+	{
+	ru=Применение изменений;
+	}
+
+[Checking your copy of Total Annihilation]
+	{
+	ru=Проверка вашей копии Total Annihilation;
+	}
+
+[Choose a folder or an installer]
+	{
+	ru=Выберите папку или установщик;
+	}
+
+[Choose the Total Annihilation demo installer (1997).]
+	{
+	ru=Выберите установщик демоверсии Total Annihilation (1997).;
+	}
+
+[Easy]
+	{
+	ru=Лёгкий;
+	}
+
+[Filter names]
+	{
+	ru=Фильтр названий;
+	}
+
+[Hard]
+	{
+	ru=Сложный;
+	}
+
+[Loading the game's archives]
+	{
+	ru=Загрузка архивов игры;
+	}
+
+[Medium]
+	{
+	ru=Средний;
+	}
+
+[No names match.]
+	{
+	ru=Нет подходящих названий.;
+	}
+
+[Skirmish players]
+	{
+	ru=Игроков в схватке;
+	}
+
+[The skirmish setup shows that many player rows.]
+	{
+	ru=Столько строк игроков показывает экран подготовки схватки.;
+	}
+
+[{count} package]
+	{
+	ru=Пакетов: {count};
+	}
+
+[{count} packages]
+	{
+	ru=Пакетов: {count};
+	}
+
+
+// The notices for a launch file the game does not open, Settings'
+// launch file switch and the Library's locked expansions.
+
+[A launch is already open. Quit Open Annihilation, then open the file again.]
+	{
+	ru=Другой файл запуска уже открыт. Выйдите из Open Annihilation и откройте файл снова.;
+	}
+
+[LAUNCH FILE NOT OPENED]
+	{
+	ru=ФАЙЛ ЗАПУСКА НЕ ОТКРЫТ;
+	}
+
+[Launch file not opened: finish or leave this game first.]
+	{
+	ru=Файл запуска не открыт: сначала завершите эту игру или выйдите из неё.;
+	}
+
+[Launch files (.oalaunch)]
+	{
+	ru=Файлы запуска (.oalaunch);
+	}
+
+[Open Annihilation opens a launch file's battle room from the main menu. Go back to the main menu, then open the file again.]
+	{
+	ru=Open Annihilation открывает лобби из файла запуска только из главного меню. Вернитесь в главное меню и откройте файл снова.;
+	}
+
+[The command line chose this run's mod, which needs {names}.]
+	{
+	ru=Мод этого запуска задан в командной строке, и он требует: {names}.;
+	}
+
+[This launch plays other content than the game plays now. Quit Open Annihilation, then open the file again.]
+	{
+	ru=Этот файл запуска использует не тот контент, что запущен сейчас. Выйдите из Open Annihilation и откройте файл снова.;
+	}
+
+// The registries' checks the game cannot do, and the Library's
+// Available.
+
+[Available]
+	{
+	ru=Доступно;
+	}
+
+[the server asked for a check the game cannot do]
+	{
+	ru=сервер запросил проверку, которую игра не может выполнить;
+	}
+
+[{registry} asked for a check the game cannot do. Try again later.]
+	{
+	ru=Реестр {registry} запросил проверку, которую игра не может выполнить. Попробуйте позже.;
+	}
+
+// First run's question when the copy's source has been changed, and
+// the copy's lines for files left out for their size.
+
+[Your Total Annihilation has been changed]
+	{
+	ru=Ваша копия Total Annihilation изменена;
+	}
+
+[Some of its files are not the size they are in Total Annihilation 3.1c and its expansions. A mod or another program may have changed them.]
+	{
+	ru=Размер некоторых её файлов отличается от размера в Total Annihilation 3.1c и её дополнениях. Их мог изменить мод или другая программа.;
+	}
+
+[{file}, from {bundle}, is {size} bytes. It should be {expected}.]
+	{
+	ru={file} ({bundle}): {size} Б, а должно быть {expected} Б.;
+	}
+
+[Open Annihilation needs a fresh Total Annihilation install, without mods, to set up its copy. Nothing has been copied. Choose another place to copy from.]
+	{
+	ru=Чтобы подготовить свою копию, Open Annihilation нужна свежеустановленная Total Annihilation без модов. Ничего не скопировано. Выберите другое место для копирования.;
+	}
+
+[Choose another place]
+	{
+	ru=Выбрать другое место;
+	}
+
+[{file} left out: {size} bytes, not {expected}]
+	{
+	ru={file} пропущен: {size} Б вместо {expected} Б;
+	}
+
+[{count} files left out for their size: {files}]
+	{
+	ru=Пропущено файлов из-за размера: {count} ({files});
+	}
+
+// Graphics' Smooth motion.
+
+[Smooth motion]
+	{
+	ru=Плавное движение;
+	}
+
+[Units, shots and spinning parts move smoothly between the game's ticks.]
+	{
+	ru=Юниты, снаряды и вращающиеся детали движутся плавно между тактами игры.;
+	}
+
+[Units and shots move 30 times a second, as the game drew them; fast spins may flicker.]
+	{
+	ru=Юниты и снаряды движутся 30 раз в секунду, как их рисовала игра. Быстрое вращение может мерцать.;
+	}
