@@ -30,12 +30,25 @@ never committed.
 The game draws text two ways, and the pack's manifest says which it needs.
 
 - **The game's own fonts.** A language whose letters are all in Windows-1252
-  (Portuguese, Dutch, the Scandinavian languages) can be drawn as 3.1c draws
-  English, German, French, Spanish and Italian. The manifest has no `text`
-  key, and every character of the pack must be in Windows-1252:
-  `tools/check.py` fails any other. Look at the pack's pictures (step 9)
-  before choosing this: every accented letter the language uses must show
-  in the game's fonts, not as a gap or a box.
+  can in principle be drawn as 3.1c draws English, German, French, Spanish
+  and Italian: no `text` key, and every character of the pack within
+  Windows-1252 (`tools/check.py` fails any other; `tools/translate.py
+  validate` then refuses the English's own ✓, ✕ and →). Two things stand in
+  the way today. A pack's tables are UTF-8, and this engine reads them as
+  UTF-8 only while `unicode: true` or the modern fonts are on, so a pack in
+  the game's fonts needs `unicode: true` too, or every accented letter
+  shows garbled. And 3.1c's menu fonts (`hattfont11.gaf`, `hattfont12.gaf`)
+  hold a box, not a letter, for ã, õ, Ã, Õ, Ç, Â, Ê, Ô and À, which this
+  engine draws as it finds it; their other fonts hold every letter of the
+  code page. Portuguese needs those letters, so its pack uses the modern
+  fonts, and its menu captions still show the boxes until the engine draws
+  them in the modern fonts instead.
+
+  Decide with a probe before translating: a manifest, a `translate.tdf`
+  with a few of the main menu's and the single-player menu's captions
+  holding every accented letter the language uses, capitals included, and
+  one briefing with the same letters. Build it and take its pictures (step
+  9); every letter must show, not as a gap, a box or two wrong characters.
 - **The modern fonts.** Any other language: `text: {needs: modern-fonts}`
   and `unicode: true`. The sans faces that travel with the engine draw
   Latin, Greek and Cyrillic, so a Russian or Ukrainian pack brings no
@@ -48,6 +61,8 @@ The game draws text two ways, and the pack's manifest says which it needs.
 | `uk` | modern fonts | none |
 | `ko` | modern fonts | `NotoSansCJKkr-Bold.otf` |
 | `ja` | modern fonts | `NotoSansCJKjp-Bold.otf` |
+| `ru` | modern fonts | none |
+| `pt-BR` | modern fonts (3.1c's menu fonts lack some of its letters) | none |
 
 ## 2. Write the manifest
 
@@ -65,7 +80,7 @@ name: Русский
 english-name: Russian
 word: Russian
 version: "1"
-locales: [ru, ru-RU, ru-BY, ru-KZ]
+locales: [ru, ru-RU, ru-BY, ru-KZ, ru-KG]
 fallbacks: []
 text: {needs: modern-fonts}
 unicode: true
@@ -77,6 +92,9 @@ requires: {engine: ">= 0.8.0"}
 
 - `tag` is the BCP 47 tag. `name` is the language's name in itself, as
   Settings › Language lists it. `english-name` is its name in English.
+  First start's language card at 640x480 holds about 14 characters of the
+  name: `Português (Brasil)` (18) fails the text-fit check and
+  `Português (BR)` passes. Check the name with step 9 early.
 - `word` is the English name the game data knows the language by: it keys
   `translate.tdf` (`Russian=…;`) and names the briefings' folder
   (`files/camps/briefs-Russian`).
@@ -200,12 +218,25 @@ Each table has its own conventions:
 - **translate**: 3.1c's own texts: menu and button captions, unit speech,
   help, errors, multiplayer messages, feature descriptions, map names and
   descriptions. Captions sit on fixed-size buttons: keep them short. A map
-  description starts with its size, `5 x 8  ` with two spaces: keep that
-  prefix exactly. Translate descriptive map names; transliterate invented
-  ones.
+  description starts with its size, usually `5 x 8  ` with two spaces: keep
+  the English's own prefix exactly, whatever its spacing (a few read
+  `11 x 10 map.  `). Translate descriptive map names; transliterate
+  invented ones.
 - **units**: names from the glossary exactly; descriptions as short as the
   English, since they share the bottom bar's line.
 - **missions**: the campaign lists' names. Keep a leading `N: ` exactly.
+
+Some interface words are not shown alone but put into other sentences'
+places: `device` and `the cloud` (`Uses {size} on this {device}.`,
+`{size} is in {cloud} only…`), `the folder you chose`, `this part`, and the
+sizes (`{n} KB`). In a language with cases, translate such a word in the
+form every sentence it goes into needs, write that form in the glossary's
+placeholder section, and word those sentences around it. To find where a
+text goes, search the engine's `src/` for its English: each part's
+`interface_words.hpp` lists its words, and the call sites show the
+sentences (the game files' are in `src/ui/game-files/src/`). The same
+search gives context to the first interface chunk's items, which have no
+headings.
 
 A briefing (`en-briefs/<name>` to `out/briefs/<name>`, UTF-8, LF):
 
@@ -248,7 +279,12 @@ Two files are written by hand:
 - **`pictures.tdf`**: the captions drawn over words in the game's pictures
   (the order buttons, the top bar). Copy the template's and translate each
   `text=`. A caption is drawn at the largest size that fits its button, so
-  keep it to a word, abbreviated with a full stop if need be.
+  keep it to a word, abbreviated with a full stop if need be, and compare
+  the order buttons in the battle picture: a caption drawn much smaller
+  than its neighbours wants a shorter word, or an `area` as the Japanese
+  pack's D-gun has. The Ukrainian captions are words alone; the Chinese,
+  Korean and Japanese ones add the key in brackets (`攻撃(A)`), which suits
+  a script whose captions are short.
 - **`warmup.txt`**: `python3 tools/translate.py warmup <tag>` writes the
   characters the pack's text uses most (at most 4,096 bytes; 1,200 by
   default), drawn ahead so the first screen is quick.
@@ -302,12 +338,16 @@ manifest names it under `fonts`.
 python3 tools/check.py ru --source
 python3 tools/coverage.py ru --oa-tool /path/to/oa-tool
 python3 tools/build.py ru --oa-tool /path/to/oa-tool
-python3 -m unittest discover -s tests
+python3 -I -m unittest discover -s tests -t .
 ```
 
 The check must report `check: clean`, the coverage `0 missing, 0 not in
 the engine`, and the tests `OK`. The build writes `dist/<tag>.oalang` and
-its build information.
+its build information. The tests check every pack folder in the tree, so
+they pass only once each pack in it is whole (its tables, briefings and
+`warmup.txt`); a pack still being made elsewhere in the same checkout fails
+them. The build tests stage into `local/stage/<tag>`, so do not run them
+in two checkouts that share `local/` at once.
 
 ## 9. Look at it in the game
 
@@ -316,18 +356,20 @@ run the engine's text-fit check; it opens every Open Annihilation screen at
 640x480 and 1280x720 and names each text that does not fit:
 
 ```sh
-mkdir -p local/fit/user/Languages/ru
-(cd local/fit/user/Languages/ru && unzip -o ../../../../../dist/ru.oalang)
-printf 'open-annihilation-preferences 1\n"open-annihilation.language" "ru"\n' > local/fit/prefs.conf
+mkdir -p local/fit/ru/user/Languages/ru
+(cd local/fit/ru/user/Languages/ru && unzip -o ../../../../../../dist/ru.oalang)
+printf 'open-annihilation-preferences 1\n"open-annihilation.language" "ru"\n' > local/fit/ru/prefs.conf
 SDL_VIDEODRIVER=dummy SDL_AUDIODRIVER=dummy /path/to/open-annihilation \
-    --game-dir /path/to/totala --preferences-file local/fit/prefs.conf \
-    --user-folder local/fit/user --skip-intro --mute \
+    --game-dir /path/to/totala --preferences-file local/fit/ru/prefs.conf \
+    --user-folder local/fit/ru/user --skip-intro --mute \
     --check-text-fit --check-language ru
 ```
 
-It must end with `text-fit check: every screen fits in ru at 640x480 and
-1280x720`. Shorten each text it names, merge or edit, build and run it
-again.
+Keep each language's run in its own folder (`local/fit/<tag>/`), so packs
+checked at the same time do not share a preferences file. It must end with
+`text-fit check: every screen fits in ru at 640x480 and 1280x720`. It names
+at most 40 texts and then how many more there are, so shorten those, merge
+or edit, build and run it again until it passes.
 
 Then look at the game's own screens, which the text-fit check does not
 measure:
@@ -337,11 +379,14 @@ python3 tools/screens.py ru --engine /path/to/open-annihilation \
     --game-dir /path/to/totala --out local/screens/ru
 ```
 
-It takes the main menu, the single-player menu, the campaign menu, the
-first briefing, the skirmish menu, a battle, the in-game menu and the help
-screen, at 640x480. Open every picture: each letter drawn (no boxes or
-gaps), nothing cut off at a button's edge, the briefing reading naturally.
-A pack in the game's own fonts must show every accented letter it uses.
+It takes fifteen pictures at 640x480: the main menu, the single-player
+menu, the campaign menu, the first briefing, the skirmish menu, a battle,
+the in-game menu, the help screen, the four pages of 3.1c's options, the
+load dialog with and without its "no saved games" message, and the map
+chooser. Open every picture: each letter drawn (no boxes or gaps), nothing
+cut off at a button's edge or wrapped inside a word, the briefing reading
+naturally. Map names in the map chooser and the skirmish menu, and the
+`EXAMPLE` campaign, come from the game data and stay in English.
 
 ## 10. Commit
 

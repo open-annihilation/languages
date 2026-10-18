@@ -13,6 +13,9 @@ driven through its automation endpoint (`--fark`). The pictures:
 
     main-menu, single-player, new-campaign, briefing      the campaign's way in
     skirmish, battle, game-menu, help                     a skirmish's way in
+    options-sound, options-interface, options-visuals,    3.1c's options pages,
+    options-music, load-empty, load-game, select-map      its load dialog and
+                                                          its map chooser
 
 A picture that cannot be reached is reported and the rest are still taken.
 """
@@ -210,6 +213,39 @@ def skirmish(game: Game, out: Path) -> None:
     game.shot(out / "help.png")
 
 
+def menus(game: Game, out: Path) -> None:
+    game.wait_screen("main_menu", 120)
+    time.sleep(1)
+    game.click("SINGLE")
+    game.wait_screen("single_player")
+    game.click("Options")
+    game.wait_screen("options")
+    for page, picture in (("SOUND", "options-sound"), ("SPEEDS", "options-interface"),
+                          ("VISUALS", "options-visuals"), ("MUSIC", "options-music")):
+        game.click(page)
+        time.sleep(1)
+        game.shot(out / f"{picture}.png")
+    game.click("CANCEL")
+    game.wait_screen("single_player")
+    game.click("LoadGame")
+    game.wait_screen("load_game")
+    time.sleep(1)
+    # With no saved games the dialog opens over a message saying so.
+    game.shot(out / "load-empty.png")
+    if game.find("OK"):
+        game.click("OK")
+        time.sleep(1)
+    game.shot(out / "load-game.png")
+    game.click("CANCEL")
+    game.wait_screen("single_player")
+    game.click("Skirmish")
+    game.wait_screen("skirmish")
+    game.click("SelectMap")
+    game.wait_change("skirmish")
+    time.sleep(1.5)
+    game.shot(out / "select-map.png")
+
+
 def install(tag: str, user: Path) -> None:
     built = ROOT / "dist" / f"{tag}.oalang"
     if not built.is_file():
@@ -232,7 +268,7 @@ def main(argv: list[str]) -> int:
     out = Path(args.out).resolve()
     out.mkdir(parents=True, exist_ok=True)
     failed = 0
-    for walk in (campaign, skirmish):
+    for walk in (campaign, skirmish, menus):
         run = out / f"run-{walk.__name__}"
         shutil.rmtree(run, ignore_errors=True)
         install(args.tag, run / "user")
