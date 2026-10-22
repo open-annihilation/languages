@@ -8092,3 +8092,1046 @@
 	{
 	zh-Hans=单位和炮弹每秒移动30次，与原版游戏的绘制相同；快速旋转可能会闪烁。;
 	}
+
+// Open Annihilation 0.8.5: the Library's Mutators tab.
+
+[Mutators]
+	{
+	zh-Hans=变异器;
+	}
+
+[Get mutators]
+	{
+	zh-Hans=获取变异器;
+	}
+
+[No mutators here yet. The Library on the main menu gets them.]
+	{
+	zh-Hans=这里还没有变异器。主菜单的资源库可以获取它们。;
+	}
+
+[Search mutators]
+	{
+	zh-Hans=搜索变异器;
+	}
+
+[Search mutators, authors, tags]
+	{
+	zh-Hans=搜索变异器、作者、标签;
+	}
+
+[No mutator matches these filters]
+	{
+	zh-Hans=没有符合这些筛选条件的变异器;
+	}
+
+[Any mod]
+	{
+	zh-Hans=任意模组;
+	}
+
+[{version} · {author}]
+	{
+	zh-Hans={version} · {author};
+	}
+
+[Not installed · {version}]
+	{
+	zh-Hans=未安装 · {version};
+	}
+
+[Not installed: switching it on downloads it]
+	{
+	zh-Hans=未安装：开启后会下载;
+	}
+
+[Changes the game: unranked on Core Prime]
+	{
+	zh-Hans=会改变游戏：在Core Prime上不计分;
+	}
+
+[Checked]
+	{
+	zh-Hans=已检查;
+	}
+
+[Checked with No Mod ✓]
+	{
+	zh-Hans=已用无模组检查 ✓;
+	}
+
+[Checked with {mod} ✓]
+	{
+	zh-Hans=已用{mod}检查 ✓;
+	}
+
+[Checking with No Mod…]
+	{
+	zh-Hans=正在用无模组检查……;
+	}
+
+[Checking with {mod}…]
+	{
+	zh-Hans=正在用{mod}检查……;
+	}
+
+[Not checked with No Mod]
+	{
+	zh-Hans=尚未用无模组检查;
+	}
+
+[Not checked with {mod}]
+	{
+	zh-Hans=尚未用{mod}检查;
+	}
+
+[No effect with No Mod: {name}]
+	{
+	zh-Hans=对无模组没有效果：{name};
+	}
+
+[No effect with this mod]
+	{
+	zh-Hans=对此模组没有效果;
+	}
+
+[No effect with {mod}: {name}]
+	{
+	zh-Hans=对{mod}没有效果：{name};
+	}
+
+[Not compatible with No Mod: {name}]
+	{
+	zh-Hans=与无模组不兼容：{name};
+	}
+
+[Not compatible with this mod]
+	{
+	zh-Hans=与此模组不兼容;
+	}
+
+[Not compatible with this mod: it works with {names}]
+	{
+	zh-Hans=与此模组不兼容：它适用于{names};
+	}
+
+[Not compatible with this mod: {reason}]
+	{
+	zh-Hans=与此模组不兼容：{reason};
+	}
+
+[Not compatible with {mod}: {name}]
+	{
+	zh-Hans=与{mod}不兼容：{name};
+	}
+
+[Stopped with this mod: {reason}]
+	{
+	zh-Hans=在此模组下已停止：{reason};
+	}
+
+[{name} stopped with No Mod]
+	{
+	zh-Hans={name}在无模组下已停止;
+	}
+
+[{name} stopped with {mod}]
+	{
+	zh-Hans={name}在{mod}下已停止;
+	}
+
+[With No Mod: it stopped: {reason}]
+	{
+	zh-Hans=无模组：已停止：{reason};
+	}
+
+[With No Mod: no effect]
+	{
+	zh-Hans=无模组：没有效果;
+	}
+
+[With No Mod: {reason}]
+	{
+	zh-Hans=无模组：{reason};
+	}
+
+[With No Mod: {summary}]
+	{
+	zh-Hans=无模组：{summary};
+	}
+
+[With {mod}: it stopped: {reason}]
+	{
+	zh-Hans={mod}：已停止：{reason};
+	}
+
+[With {mod}: no effect]
+	{
+	zh-Hans={mod}：没有效果;
+	}
+
+[With {mod}: {reason}]
+	{
+	zh-Hans={mod}：{reason};
+	}
+
+[With {mod}: {summary}]
+	{
+	zh-Hans={mod}：{summary};
+	}
+
+[Works with]
+	{
+	zh-Hans=适用于;
+	}
+
+[it works with {names}]
+	{
+	zh-Hans=它适用于{names};
+	}
+
+[Needs {name}]
+	{
+	zh-Hans=需要{name};
+	}
+
+[Needed by {name}]
+	{
+	zh-Hans={name}需要它;
+	}
+
+[Needs {name} {range}, which no registry offers]
+	{
+	zh-Hans=需要{name} {range}，没有任何目录提供;
+	}
+
+[Needs {name}, which no registry offers]
+	{
+	zh-Hans=需要{name}，没有任何目录提供;
+	}
+
+[Cannot run beside {name}]
+	{
+	zh-Hans=不能与{name}同时使用;
+	}
+
+[· from {registry}]
+	{
+	zh-Hans=· 来自{registry};
+	}
+
+[· needs {name}]
+	{
+	zh-Hans=· 需要{name};
+	}
+
+[· not compatible with this mod]
+	{
+	zh-Hans=· 与此模组不兼容;
+	}
+
+[CHECK WITH THIS MOD]
+	{
+	zh-Hans=用此模组检查;
+	}
+
+[Statistics]
+	{
+	zh-Hans=统计;
+	}
+
+[Commanders]
+	{
+	zh-Hans=指挥官;
+	}
+
+[New Units]
+	{
+	zh-Hans=新单位;
+	}
+
+[Disable]
+	{
+	zh-Hans=禁用;
+	}
+
+[Gameplay]
+	{
+	zh-Hans=玩法;
+	}
+
+[Changes]
+	{
+	zh-Hans=改动;
+	}
+
+[Files]
+	{
+	zh-Hans=文件;
+	}
+
+[Build menus]
+	{
+	zh-Hans=建造菜单;
+	}
+
+[Units and weapons]
+	{
+	zh-Hans=单位与武器;
+	}
+
+[Game tables]
+	{
+	zh-Hans=游戏数据表;
+	}
+
+[Features]
+	{
+	zh-Hans=地物;
+	}
+
+[Sides]
+	{
+	zh-Hans=阵营;
+	}
+
+[Options]
+	{
+	zh-Hans=选项;
+	}
+
+[adds {count} feature]
+	{
+	zh-Hans=新增{count}个地物;
+	}
+
+[adds {count} features]
+	{
+	zh-Hans=新增{count}个地物;
+	}
+
+[adds {count} file]
+	{
+	zh-Hans=新增{count}个文件;
+	}
+
+[adds {count} files]
+	{
+	zh-Hans=新增{count}个文件;
+	}
+
+[adds {count} unit]
+	{
+	zh-Hans=新增{count}个单位;
+	}
+
+[adds {count} units]
+	{
+	zh-Hans=新增{count}个单位;
+	}
+
+[adds {count} weapon]
+	{
+	zh-Hans=新增{count}个武器;
+	}
+
+[adds {count} weapons]
+	{
+	zh-Hans=新增{count}个武器;
+	}
+
+[changes other game data]
+	{
+	zh-Hans=改动其他游戏数据;
+	}
+
+[changes the map when a match starts]
+	{
+	zh-Hans=对局开始时改动地图;
+	}
+
+[changes {count} feature]
+	{
+	zh-Hans=改动{count}个地物;
+	}
+
+[changes {count} features]
+	{
+	zh-Hans=改动{count}个地物;
+	}
+
+[changes {count} menu entries]
+	{
+	zh-Hans=改动{count}个建造菜单项;
+	}
+
+[changes {count} menu entry]
+	{
+	zh-Hans=改动{count}个建造菜单项;
+	}
+
+[changes {count} unit]
+	{
+	zh-Hans=改动{count}个单位;
+	}
+
+[changes {count} units]
+	{
+	zh-Hans=改动{count}个单位;
+	}
+
+[changes {count} weapon]
+	{
+	zh-Hans=改动{count}个武器;
+	}
+
+[changes {count} weapons]
+	{
+	zh-Hans=改动{count}个武器;
+	}
+
+[hides {count} file]
+	{
+	zh-Hans=隐藏{count}个文件;
+	}
+
+[hides {count} files]
+	{
+	zh-Hans=隐藏{count}个文件;
+	}
+
+[removes {count} feature]
+	{
+	zh-Hans=移除{count}个地物;
+	}
+
+[removes {count} features]
+	{
+	zh-Hans=移除{count}个地物;
+	}
+
+[removes {count} unit]
+	{
+	zh-Hans=移除{count}个单位;
+	}
+
+[removes {count} units]
+	{
+	zh-Hans=移除{count}个单位;
+	}
+
+[removes {count} weapon]
+	{
+	zh-Hans=移除{count}个武器;
+	}
+
+[removes {count} weapons]
+	{
+	zh-Hans=移除{count}个武器;
+	}
+
+// The mutator picker.
+
+[MUTATORS…]
+	{
+	zh-Hans=变异器……;
+	}
+
+[On]
+	{
+	zh-Hans=开启;
+	}
+
+[off]
+	{
+	zh-Hans=关闭;
+	}
+
+[mutators]
+	{
+	zh-Hans=变异器;
+	}
+
+[{count} on]
+	{
+	zh-Hans={count}个开启;
+	}
+
+[None on]
+	{
+	zh-Hans=全部关闭;
+	}
+
+[OFF · NOT APPLIED]
+	{
+	zh-Hans=关闭 · 未生效;
+	}
+
+[ON · APPLIED TOP TO BOTTOM]
+	{
+	zh-Hans=开启 · 从上到下生效;
+	}
+
+[At most {count} mutators can be on]
+	{
+	zh-Hans=最多只能开启{count}个变异器;
+	}
+
+[Order]
+	{
+	zh-Hans=顺序;
+	}
+
+[▲ UP]
+	{
+	zh-Hans=▲ 上移;
+	}
+
+[▼ DOWN]
+	{
+	zh-Hans=▼ 下移;
+	}
+
+[Add]
+	{
+	zh-Hans=添加;
+	}
+
+[Replace]
+	{
+	zh-Hans=替换;
+	}
+
+[{label}: {values}]
+	{
+	zh-Hans={label}：{values};
+	}
+
+[{left} or {right}]
+	{
+	zh-Hans={left}或{right};
+	}
+
+[{setup} · {mod}]
+	{
+	zh-Hans={setup} · {mod};
+	}
+
+[Skirmish]
+	{
+	zh-Hans=遭遇战;
+	}
+
+[Battle room]
+	{
+	zh-Hans=战斗房间;
+	}
+
+[The host's mutators. Only the host can change them.]
+	{
+	zh-Hans=主持者的变异器。只有主持者可以更改。;
+	}
+
+[The set holds for every mission of this campaign, and is saved with it.]
+	{
+	zh-Hans=这组变异器对本战役的每个任务都有效，并会随战役一起保存。;
+	}
+
+[GET ALL]
+	{
+	zh-Hans=全部获取;
+	}
+
+[GET BOTH]
+	{
+	zh-Hans=两者都获取;
+	}
+
+[GET WITH {count} MORE]
+	{
+	zh-Hans=再连同{count}个获取;
+	}
+
+[GET WITH {name}]
+	{
+	zh-Hans=连同{name}获取;
+	}
+
+[Get {name}?]
+	{
+	zh-Hans=获取{name}？;
+	}
+
+[Getting {name} · {percent}%]
+	{
+	zh-Hans=正在获取{name} · {percent}%;
+	}
+
+[Downloading {name} · {index} of {total}]
+	{
+	zh-Hans=正在下载{name} · 第{index}个，共{total}个;
+	}
+
+[{names} download first, then sit above {name} in every list.]
+	{
+	zh-Hans={names}会先下载，然后在每个列表中排在{name}上面。;
+	}
+
+[{names} downloads first, then sits above {name} in every list.]
+	{
+	zh-Hans={names}会先下载，然后在每个列表中排在{name}上面。;
+	}
+
+[{name} needs {prerequisites}, which you don't have. They download first, and go above {name} in every list.]
+	{
+	zh-Hans={name}需要你没有的{prerequisites}。它们会先下载，并在每个列表中排在{name}上面。;
+	}
+
+[{name} needs {prerequisite}, which you don't have. Both download now, and {short} goes above {name} in every list.]
+	{
+	zh-Hans={name}需要你没有的{prerequisite}。两者现在都会下载，并且{short}会在每个列表中排在{name}上面。;
+	}
+
+[Both stay installed. Turn {dependant} on again and {name} comes back with it.]
+	{
+	zh-Hans=两者都会保留安装。再次开启{dependant}时，{name}会一起回来。;
+	}
+
+[They all stay installed. Turn one on again and {name} comes back with it.]
+	{
+	zh-Hans=它们都会保留安装。再次开启其中一个时，{name}会一起回来。;
+	}
+
+[{names} turn off too: they need {name}.]
+	{
+	zh-Hans={names}也会关闭：它们需要{name}。;
+	}
+
+[{names} turns off too: it needs {name}.]
+	{
+	zh-Hans={names}也会关闭：它需要{name}。;
+	}
+
+[{name} came with {dependant}]
+	{
+	zh-Hans={name}随{dependant}而来;
+	}
+
+[{names} need it: they stay installed, and cannot be switched on until this is back.]
+	{
+	zh-Hans={names}需要它：它们仍会保留安装，在此变异器回来之前无法开启。;
+	}
+
+[{name} needs it: it stays installed, and cannot be switched on until this is back.]
+	{
+	zh-Hans={name}需要它：它仍会保留安装，在此变异器回来之前无法开启。;
+	}
+
+[These mutators need each other: {ids}]
+	{
+	zh-Hans=这些变异器互相需要：{ids};
+	}
+
+// Mutator prompts.
+
+[Forget the last set?]
+	{
+	zh-Hans=忘掉上次的组合？;
+	}
+
+[FORGET IT]
+	{
+	zh-Hans=忘掉;
+	}
+
+[KEEP IT]
+	{
+	zh-Hans=保留;
+	}
+
+[USE THESE]
+	{
+	zh-Hans=使用这些;
+	}
+
+[The last game ended in a crash with {names} on. Forget the set and MUTATORS… opens empty next time; nothing is uninstalled.]
+	{
+	zh-Hans=上一局在开启{names}时崩溃了。忘掉该组合后，下次打开变异器……将是空的；不会卸载任何东西。;
+	}
+
+[Left out of your last set: {names}]
+	{
+	zh-Hans=上次的组合里没有带上：{names};
+	}
+
+[Your last campaign set, ready to use. CANCEL plays without mutators.]
+	{
+	zh-Hans=这是你上次的战役组合，可以直接使用。取消则不带变异器进行游戏。;
+	}
+
+[Your last multiplayer set, ready to use. CANCEL plays without mutators.]
+	{
+	zh-Hans=这是你上次的多人游戏组合，可以直接使用。取消则不带变异器进行游戏。;
+	}
+
+[Your last skirmish set, ready to use. CANCEL plays without mutators.]
+	{
+	zh-Hans=这是你上次的遭遇战组合，可以直接使用。取消则不带变异器进行游戏。;
+	}
+
+[Start without them?]
+	{
+	zh-Hans=不带它们开始？;
+	}
+
+[Start without {name}?]
+	{
+	zh-Hans=不带{name}开始？;
+	}
+
+[START WITHOUT IT]
+	{
+	zh-Hans=不带它开始;
+	}
+
+[START WITHOUT THEM]
+	{
+	zh-Hans=不带它们开始;
+	}
+
+[The game did not start]
+	{
+	zh-Hans=游戏未能开始;
+	}
+
+[The game's log names them, so their authors can be told.]
+	{
+	zh-Hans=游戏日志里写有它们的名字，便于告知作者。;
+	}
+
+[{name} stopped before the game could start. Nothing it changed is kept, and the other mutators are unaffected.]
+	{
+	zh-Hans={name}在游戏开始前停止了。它的改动不会保留，其他变异器不受影响。;
+	}
+
+[{names} stopped before the game could start. Nothing they changed is kept, and the other mutators are unaffected.]
+	{
+	zh-Hans={names}在游戏开始前停止了。它们的改动都不会保留，其他变异器不受影响。;
+	}
+
+[{problem} RETRY tries again.]
+	{
+	zh-Hans={problem}重试会再试一次。;
+	}
+
+[Another copy of Open Annihilation is changing your Mutators folder. Try again once it has finished.]
+	{
+	zh-Hans=另一个Open Annihilation正在更改你的Mutators文件夹。请在其完成后再试。;
+	}
+
+[Your Mutators folder changed while this mutator was being installed; nothing was changed. Open the file again.]
+	{
+	zh-Hans=安装此变异器时你的Mutators文件夹发生了变化；未做任何更改。请重新打开该文件。;
+	}
+
+// Installing a mutator.
+
+[INSTALL MUTATOR]
+	{
+	zh-Hans=安装变异器;
+	}
+
+[INSTALLING MUTATOR]
+	{
+	zh-Hans=正在安装变异器;
+	}
+
+[Install the mutator {name} {version}?]
+	{
+	zh-Hans=要安装变异器{name} {version}吗？;
+	}
+
+[REINSTALL MUTATOR]
+	{
+	zh-Hans=重新安装变异器;
+	}
+
+[REPLACE MUTATOR]
+	{
+	zh-Hans=替换变异器;
+	}
+
+[UPDATE MUTATOR]
+	{
+	zh-Hans=更新变异器;
+	}
+
+[MUTATOR INSTALLED]
+	{
+	zh-Hans=变异器已安装;
+	}
+
+[MUTATOR NOT INSTALLED]
+	{
+	zh-Hans=变异器未安装;
+	}
+
+[MUTATOR UPDATED]
+	{
+	zh-Hans=变异器已更新;
+	}
+
+[{name} is installed. Turn it on with MUTATORS… when you set up a game.]
+	{
+	zh-Hans={name}已安装。设置游戏时，用变异器……开启它。;
+	}
+
+[The folder {name} does not hold this mutator. It is left as it is.]
+	{
+	zh-Hans=文件夹{name}里不是这个变异器。该文件夹保持不变。;
+	}
+
+[Your Mutators folder has no free folder name for it.]
+	{
+	zh-Hans=你的Mutators文件夹中没有可供它使用的文件夹名。;
+	}
+
+[It holds no oamut.yaml at its top, or in a single folder at its top.]
+	{
+	zh-Hans=其顶层或顶层的唯一文件夹中没有oamut.yaml。;
+	}
+
+[Its oamut.yaml is larger than 256 KiB.]
+	{
+	zh-Hans=其oamut.yaml大于256 KiB。;
+	}
+
+[Its oamut.yaml has errors:]
+	{
+	zh-Hans=其oamut.yaml有错误：;
+	}
+
+[It holds more than {limit} folders, more than a mutator may take.]
+	{
+	zh-Hans=其中的文件夹超过{limit}个，超过了变异器允许的数量。;
+	}
+
+[It unpacks to {size}, more than the {limit} a mutator may take.]
+	{
+	zh-Hans=解压后为{size}，超过了变异器可占用的{limit}。;
+	}
+
+[It unpacks to {size} from {packed}, far more than a mutator's files take.]
+	{
+	zh-Hans=解压后为{size}（压缩前为{packed}），远超变异器文件应有的大小。;
+	}
+
+[It needs {size} free, and the disk holding your Mutators folder has {free}.]
+	{
+	zh-Hans=需要{size}可用空间，而你的Mutators文件夹所在磁盘只有{free}。;
+	}
+
+[The package holds {name}, outside the folders a mutator may hold.]
+	{
+	zh-Hans=此包含有{name}，超出了变异器允许包含的文件夹。;
+	}
+
+[Its icon {name} is not a square PNG of at most 256 pixels and 256 KiB.]
+	{
+	zh-Hans=其图标{name}不是边长至多256像素、大小至多256 KiB的正方形PNG。;
+	}
+
+[Its script {name} is larger than 1 MiB.]
+	{
+	zh-Hans=其脚本{name}大于1 MiB。;
+	}
+
+[Its script {name} is missing.]
+	{
+	zh-Hans=缺少其脚本{name}。;
+	}
+
+[{name} is precompiled Lua. A mutator holds Lua source only.]
+	{
+	zh-Hans={name}是预编译的Lua。变异器只能包含Lua源码。;
+	}
+
+// The battle room's mutators.
+
+[GET MUTATORS]
+	{
+	zh-Hans=获取变异器;
+	}
+
+[OA only · unranked]
+	{
+	zh-Hans=仅OA · 不计分;
+	}
+
+[VIEW…]
+	{
+	zh-Hans=查看……;
+	}
+
+[*** This game is Open Annihilation only, and unranked.]
+	{
+	zh-Hans=*** 本局仅限Open Annihilation，且不计分。;
+	}
+
+[*** {host} turned mutators off.]
+	{
+	zh-Hans=*** {host}关闭了变异器。;
+	}
+
+[*** {host} turned on mutators: {list}]
+	{
+	zh-Hans=*** {host}开启了变异器：{list};
+	}
+
+[*** {list}]
+	{
+	zh-Hans=*** {list};
+	}
+
+[*** {player} does not have {name}.]
+	{
+	zh-Hans=*** {player}没有{name}。;
+	}
+
+[*** {player} plays Total Annihilation 3.1c and cannot join a game with mutators.]
+	{
+	zh-Hans=*** {player}使用的是Total Annihilation 3.1c，无法加入带变异器的游戏。;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play with mutators.]
+	{
+	zh-Hans=*** {player}使用的是Total Annihilation 3.1c，该版本无法与变异器一起游戏。;
+	}
+
+[*** You do not have {name}. GET MUTATORS downloads it from {registry}.]
+	{
+	zh-Hans=*** 你没有{name}。获取变异器会从{registry}下载它。;
+	}
+
+[*** You do not have {names}. GET MUTATORS downloads it from {registry}.]
+	{
+	zh-Hans=*** 你没有{names}。获取变异器会从{registry}下载它们。;
+	}
+
+[Different from the host: another release of {name}.]
+	{
+	zh-Hans=与主持者不同：{name}是另一个版本。;
+	}
+
+[Downloads from {registry} are off.]
+	{
+	zh-Hans=来自{registry}的下载已关闭。;
+	}
+
+[Downloading {name} · {percent}%]
+	{
+	zh-Hans=正在下载{name} · {percent}%;
+	}
+
+[Ready once {name} is here]
+	{
+	zh-Hans={name}到位后即可;
+	}
+
+[The game cannot start until {player} gets it, or the host turns it off.]
+	{
+	zh-Hans=要等{player}获取它，或主持者将其关闭，游戏才能开始。;
+	}
+
+[Waiting for {player}: {name}]
+	{
+	zh-Hans=正在等待{player}：{name};
+	}
+
+[{item} ✓]
+	{
+	zh-Hans={item} ✓;
+	}
+
+[{item}: another release here]
+	{
+	zh-Hans={item}：这里是另一个版本;
+	}
+
+[{item}: not installed]
+	{
+	zh-Hans={item}：未安装;
+	}
+
+[{name}: {problem}]
+	{
+	zh-Hans={name}：{problem};
+	}
+
+[{name}: {reason}]
+	{
+	zh-Hans={name}：{reason};
+	}
+
+[{name}: not installed]
+	{
+	zh-Hans={name}：未安装;
+	}
+
+[{name} {range} ✓]
+	{
+	zh-Hans={name} {range} ✓;
+	}
+
+[{name} {range}: not installed]
+	{
+	zh-Hans={name} {range}：未安装;
+	}
+
+[{name}: release {here} here, release {there} on {player}'s machine.]
+	{
+	zh-Hans={name}：版本{here}在这里，版本{there}在{player}的电脑上。;
+	}
+
+[{name}: {player} does not have it.]
+	{
+	zh-Hans={name}：{player}没有它。;
+	}
+
+[{name} is not offered by a registry you use.]
+	{
+	zh-Hans=你使用的目录均不提供{name}。;
+	}
+
+[{player}'s GET MUTATORS button fetches release {release}.]
+	{
+	zh-Hans={player}的获取变异器按钮会下载版本{release}。;
+	}
+
+[{player}'s mutators gave a different result from yours, so the game would play differently on each machine.]
+	{
+	zh-Hans={player}的变异器得出的结果与你的不同，因此游戏在每台电脑上的进行方式会不一样。;
+	}
+
+// Saves, replays and the lines that name the mutators a run plays.
+
+[Mutators:]
+	{
+	zh-Hans=变异器：;
+	}
+
+[The mutators this was made with cannot be read.]
+	{
+	zh-Hans=制作此内容时使用的变异器无法读取。;
+	}
+
+[This needs a mutator you do not have: {detail}]
+	{
+	zh-Hans=这需要一个你没有的变异器：{detail};
+	}
+
+[This was made with mutators, and this run plays none.]
+	{
+	zh-Hans=此内容制作时使用了变异器，而本次运行不使用任何变异器。;
+	}
+
