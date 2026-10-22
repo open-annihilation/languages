@@ -9008,14 +9008,24 @@
 	zh-Hans=*** {player}使用的是Total Annihilation 3.1c，该版本无法使用变异器。;
 	}
 
+[*** You do not have {name}.]
+	{
+	zh-Hans=*** 缺少{name}。;
+	}
+
 [*** You do not have {name}. GET MUTATORS downloads it from {registry}.]
 	{
 	zh-Hans=*** 缺少{name}。点“获取变异器”从{registry}下载。;
 	}
 
-[*** You do not have {names}. GET MUTATORS downloads it from {registry}.]
+[*** You do not have {names}.]
 	{
-	zh-Hans=*** 缺少{names}。点“获取变异器”从{registry}下载。;
+	zh-Hans=*** 缺少{names}。;
+	}
+
+[*** You do not have {names}. GET MUTATORS downloads them from {registry}.]
+	{
+	zh-Hans=*** 缺少{names}。点“获取变异器”从{registry}下载它们。;
 	}
 
 [Different from the host: another release of {name}.]
@@ -9023,14 +9033,9 @@
 	zh-Hans=与主持者不同：{name}是另一个版本。;
 	}
 
-[Downloads from {registry} are off.]
+[Downloads are off.]
 	{
-	zh-Hans=来自{registry}的下载已关闭。;
-	}
-
-[Downloading {name} · {percent}%]
-	{
-	zh-Hans=正在下载{name} · {percent}%;
+	zh-Hans=下载已关闭。;
 	}
 
 [Ready once {name} is here]
@@ -9068,6 +9073,66 @@
 	zh-Hans={name}：{problem};
 	}
 
+[Getting {name}: {percent}%]
+	{
+	zh-Hans=正在获取{name}：{percent}%;
+	}
+
+[cannot check]
+	{
+	zh-Hans=无法验证;
+	}
+
+[check expired]
+	{
+	zh-Hans=验证过期;
+	}
+
+[install failed]
+	{
+	zh-Hans=安装失败;
+	}
+
+[no downloads]
+	{
+	zh-Hans=下载已关;
+	}
+
+[no space]
+	{
+	zh-Hans=空间不足;
+	}
+
+[not offered]
+	{
+	zh-Hans=未提供;
+	}
+
+[not written]
+	{
+	zh-Hans=未能写入;
+	}
+
+[refused]
+	{
+	zh-Hans=已拒绝;
+	}
+
+[unreachable]
+	{
+	zh-Hans=无法连接;
+	}
+
+[wrong file]
+	{
+	zh-Hans=文件不符;
+	}
+
+[wrong size]
+	{
+	zh-Hans=大小不符;
+	}
+
 [{name}: {reason}]
 	{
 	zh-Hans={name}：{reason};
@@ -9098,9 +9163,14 @@
 	zh-Hans={name}：{player}没有它。;
 	}
 
-[{name} is not offered by a registry you use.]
+[{name}: not offered.]
 	{
-	zh-Hans=你使用的内容源均不提供{name}。;
+	zh-Hans={name}：未提供。;
+	}
+
+[{registry}: downloads off.]
+	{
+	zh-Hans={registry}：下载已关闭。;
 	}
 
 [{player}'s GET MUTATORS button fetches release {release}.]
