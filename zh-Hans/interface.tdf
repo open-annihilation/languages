@@ -8147,7 +8147,7 @@
 
 [Changes the game: unranked on Core Prime]
 	{
-	zh-Hans=会改变游戏：在Core Prime上不计分;
+	zh-Hans=会改变游戏：在Core Prime上不计排名;
 	}
 
 [Checked]
@@ -8302,12 +8302,12 @@
 
 [Needs {name} {range}, which no registry offers]
 	{
-	zh-Hans=需要{name} {range}，没有任何目录提供;
+	zh-Hans=需要{name} {range}，但没有内容源提供;
 	}
 
 [Needs {name}, which no registry offers]
 	{
-	zh-Hans=需要{name}，没有任何目录提供;
+	zh-Hans=需要{name}，但没有内容源提供;
 	}
 
 [Cannot run beside {name}]
@@ -8337,7 +8337,7 @@
 
 [Statistics]
 	{
-	zh-Hans=统计;
+	zh-Hans=数值;
 	}
 
 [Commanders]
@@ -8539,7 +8539,7 @@
 
 [On]
 	{
-	zh-Hans=开启;
+	zh-Hans=打开;
 	}
 
 [off]
@@ -8554,12 +8554,12 @@
 
 [{count} on]
 	{
-	zh-Hans={count}个开启;
+	zh-Hans=已开启{count}个;
 	}
 
 [None on]
 	{
-	zh-Hans=全部关闭;
+	zh-Hans=均未开启;
 	}
 
 [OFF · NOT APPLIED]
@@ -8594,7 +8594,7 @@
 
 [Add]
 	{
-	zh-Hans=添加;
+	zh-Hans=追加;
 	}
 
 [Replace]
@@ -8649,7 +8649,7 @@
 
 [GET WITH {count} MORE]
 	{
-	zh-Hans=再连同{count}个获取;
+	zh-Hans=连同另外{count}个获取;
 	}
 
 [GET WITH {name}]
@@ -8694,12 +8694,12 @@
 
 [Both stay installed. Turn {dependant} on again and {name} comes back with it.]
 	{
-	zh-Hans=两者都会保留安装。再次开启{dependant}时，{name}会一起回来。;
+	zh-Hans=两者都不会被卸载。再次开启{dependant}时，{name}也会随之开启。;
 	}
 
 [They all stay installed. Turn one on again and {name} comes back with it.]
 	{
-	zh-Hans=它们都会保留安装。再次开启其中一个时，{name}会一起回来。;
+	zh-Hans=它们都不会被卸载。再次开启其中任意一个时，{name}也会随之开启。;
 	}
 
 [{names} turn off too: they need {name}.]
@@ -8714,34 +8714,34 @@
 
 [{name} came with {dependant}]
 	{
-	zh-Hans={name}随{dependant}而来;
+	zh-Hans={name}随{dependant}开启;
 	}
 
 [{names} need it: they stay installed, and cannot be switched on until this is back.]
 	{
-	zh-Hans={names}需要它：它们仍会保留安装，在此变异器回来之前无法开启。;
+	zh-Hans={names}需要它：它们不会被卸载，但在重新安装此变异器之前无法开启。;
 	}
 
 [{name} needs it: it stays installed, and cannot be switched on until this is back.]
 	{
-	zh-Hans={name}需要它：它仍会保留安装，在此变异器回来之前无法开启。;
+	zh-Hans={name}需要它：它不会被卸载，但在重新安装此变异器之前无法开启。;
 	}
 
 [These mutators need each other: {ids}]
 	{
-	zh-Hans=这些变异器互相需要：{ids};
+	zh-Hans=这些变异器互相依赖：{ids};
 	}
 
 // Mutator prompts.
 
 [Forget the last set?]
 	{
-	zh-Hans=忘掉上次的组合？;
+	zh-Hans=忘记上次的组合？;
 	}
 
 [FORGET IT]
 	{
-	zh-Hans=忘掉;
+	zh-Hans=忘记;
 	}
 
 [KEEP IT]
@@ -8756,12 +8756,12 @@
 
 [The last game ended in a crash with {names} on. Forget the set and MUTATORS… opens empty next time; nothing is uninstalled.]
 	{
-	zh-Hans=上一局在开启{names}时崩溃了。忘掉该组合后，下次打开变异器……将是空的；不会卸载任何东西。;
+	zh-Hans=上一局在开启{names}时崩溃了。忘记该组合后，下次打开“变异器……”时将为空；不会卸载任何内容。;
 	}
 
 [Left out of your last set: {names}]
 	{
-	zh-Hans=上次的组合里没有带上：{names};
+	zh-Hans=上次组合中未开启：{names};
 	}
 
 [Your last campaign set, ready to use. CANCEL plays without mutators.]
@@ -8821,7 +8821,7 @@
 
 [{problem} RETRY tries again.]
 	{
-	zh-Hans={problem}重试会再试一次。;
+	zh-Hans={problem}点击“重试”可再试一次。;
 	}
 
 [Another copy of Open Annihilation is changing your Mutators folder. Try again once it has finished.]
@@ -8883,7 +8883,7 @@
 
 [{name} is installed. Turn it on with MUTATORS… when you set up a game.]
 	{
-	zh-Hans={name}已安装。设置游戏时，用变异器……开启它。;
+	zh-Hans={name}已安装。设置游戏时，可在“变异器……”中开启它。;
 	}
 
 [The folder {name} does not hold this mutator. It is left as it is.]
@@ -8933,7 +8933,7 @@
 
 [The package holds {name}, outside the folders a mutator may hold.]
 	{
-	zh-Hans=此包含有{name}，超出了变异器允许包含的文件夹。;
+	zh-Hans=此包含有{name}，它不在变异器允许的文件夹中。;
 	}
 
 [Its icon {name} is not a square PNG of at most 256 pixels and 256 KiB.]
@@ -8965,7 +8965,7 @@
 
 [OA only · unranked]
 	{
-	zh-Hans=仅OA · 不计分;
+	zh-Hans=仅OA · 不计排名;
 	}
 
 [VIEW…]
@@ -8975,7 +8975,7 @@
 
 [*** This game is Open Annihilation only, and unranked.]
 	{
-	zh-Hans=*** 本局仅限Open Annihilation，且不计分。;
+	zh-Hans=*** 本局仅限Open Annihilation，且不计排名。;
 	}
 
 [*** {host} turned mutators off.]
@@ -9005,17 +9005,17 @@
 
 [*** {player} plays Total Annihilation 3.1c, which cannot play with mutators.]
 	{
-	zh-Hans=*** {player}使用的是Total Annihilation 3.1c，该版本无法与变异器一起游戏。;
+	zh-Hans=*** {player}使用的是Total Annihilation 3.1c，该版本无法使用变异器。;
 	}
 
 [*** You do not have {name}. GET MUTATORS downloads it from {registry}.]
 	{
-	zh-Hans=*** 你没有{name}。获取变异器会从{registry}下载它。;
+	zh-Hans=*** 缺少{name}。点“获取变异器”从{registry}下载。;
 	}
 
 [*** You do not have {names}. GET MUTATORS downloads it from {registry}.]
 	{
-	zh-Hans=*** 你没有{names}。获取变异器会从{registry}下载它们。;
+	zh-Hans=*** 缺少{names}。点“获取变异器”从{registry}下载。;
 	}
 
 [Different from the host: another release of {name}.]
@@ -9035,7 +9035,7 @@
 
 [Ready once {name} is here]
 	{
-	zh-Hans={name}到位后即可;
+	zh-Hans={name}到位后即可就绪;
 	}
 
 [The game cannot start until {player} gets it, or the host turns it off.]
@@ -9055,7 +9055,7 @@
 
 [{item}: another release here]
 	{
-	zh-Hans={item}：这里是另一个版本;
+	zh-Hans={item}：版本不同;
 	}
 
 [{item}: not installed]
@@ -9090,7 +9090,7 @@
 
 [{name}: release {here} here, release {there} on {player}'s machine.]
 	{
-	zh-Hans={name}：版本{here}在这里，版本{there}在{player}的电脑上。;
+	zh-Hans={name}：你的版本是{here}，{player}的版本是{there}。;
 	}
 
 [{name}: {player} does not have it.]
@@ -9100,12 +9100,12 @@
 
 [{name} is not offered by a registry you use.]
 	{
-	zh-Hans=你使用的目录均不提供{name}。;
+	zh-Hans=你使用的内容源均不提供{name}。;
 	}
 
 [{player}'s GET MUTATORS button fetches release {release}.]
 	{
-	zh-Hans={player}的获取变异器按钮会下载版本{release}。;
+	zh-Hans={player}的“获取变异器”按钮会下载版本{release}。;
 	}
 
 [{player}'s mutators gave a different result from yours, so the game would play differently on each machine.]
