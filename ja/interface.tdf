@@ -8090,3 +8090,1151 @@
 	{
 	ja=ユニットと弾は、元のゲームと同じく毎秒30回動きます。速い回転はちらつくことがあります。;
 	}
+
+// Open Annihilation 0.8.5: the Library's Mutators tab.
+
+[Mutators]
+	{
+	ja=ミューテータ;
+	}
+
+[Get mutators]
+	{
+	ja=ミューテータの入手;
+	}
+
+[No mutators here yet. The Library on the main menu gets them.]
+	{
+	ja=まだミューテータがありません。メインメニューのライブラリで入手できます。;
+	}
+
+[Search mutators]
+	{
+	ja=ミューテータを検索;
+	}
+
+[Search mutators, authors, tags]
+	{
+	ja=ミューテータ、作者、タグを検索;
+	}
+
+[No mutator matches these filters]
+	{
+	ja=このフィルターに一致するミューテータはありません;
+	}
+
+[Any mod]
+	{
+	ja=すべてのMOD;
+	}
+
+[{version} · {author}]
+	{
+	ja={version} · {author};
+	}
+
+[Not installed · {version}]
+	{
+	ja=未インストール · {version};
+	}
+
+[Not installed: switching it on downloads it]
+	{
+	ja=未インストール：オンにするとダウンロードされます;
+	}
+
+[Changes the game: unranked on Core Prime]
+	{
+	ja=ゲームを変更：Core Primeのランキング対象外;
+	}
+
+[Checked]
+	{
+	ja=確認;
+	}
+
+[Checked with No Mod ✓]
+	{
+	ja=MODなしで確認済み ✓;
+	}
+
+[Checked with {mod} ✓]
+	{
+	ja={mod}で確認済み ✓;
+	}
+
+[Checking with No Mod…]
+	{
+	ja=MODなしで確認中…;
+	}
+
+[Checking with {mod}…]
+	{
+	ja={mod}で確認中…;
+	}
+
+[Not checked with No Mod]
+	{
+	ja=MODなしでは未確認;
+	}
+
+[Not checked with {mod}]
+	{
+	ja={mod}では未確認;
+	}
+
+[No effect with No Mod: {name}]
+	{
+	ja=MODなしでは効果なし：{name};
+	}
+
+[No effect with this mod]
+	{
+	ja=このMODでは効果なし;
+	}
+
+[No effect with {mod}: {name}]
+	{
+	ja={mod}では効果なし：{name};
+	}
+
+[Not compatible with No Mod: {name}]
+	{
+	ja=MODなしでは非対応：{name};
+	}
+
+[Not compatible with this mod]
+	{
+	ja=このMODには非対応;
+	}
+
+[Not compatible with this mod: it works with {names}]
+	{
+	ja=このMODには非対応：{names}に対応;
+	}
+
+[Not compatible with this mod: {reason}]
+	{
+	ja=このMODには非対応：{reason};
+	}
+
+[Not compatible with {mod}: {name}]
+	{
+	ja={mod}には非対応：{name};
+	}
+
+[Stopped with this mod: {reason}]
+	{
+	ja=このMODで停止：{reason};
+	}
+
+[{name} stopped with No Mod]
+	{
+	ja=MODなしで停止：{name};
+	}
+
+[{name} stopped with {mod}]
+	{
+	ja={mod}で停止：{name};
+	}
+
+[With No Mod: it stopped: {reason}]
+	{
+	ja=MODなし：停止：{reason};
+	}
+
+[With No Mod: no effect]
+	{
+	ja=MODなし：効果なし;
+	}
+
+[With No Mod: {reason}]
+	{
+	ja=MODなし：{reason};
+	}
+
+[With No Mod: {summary}]
+	{
+	ja=MODなし：{summary};
+	}
+
+[With {mod}: it stopped: {reason}]
+	{
+	ja={mod}：停止：{reason};
+	}
+
+[With {mod}: no effect]
+	{
+	ja={mod}：効果なし;
+	}
+
+[With {mod}: {reason}]
+	{
+	ja={mod}：{reason};
+	}
+
+[With {mod}: {summary}]
+	{
+	ja={mod}：{summary};
+	}
+
+[Works with]
+	{
+	ja=対応MOD;
+	}
+
+[it works with {names}]
+	{
+	ja={names}に対応;
+	}
+
+[Needs {name}]
+	{
+	ja={name}が必要;
+	}
+
+[Needed by {name}]
+	{
+	ja={name}に必要;
+	}
+
+[Needs {name} {range}, which no registry offers]
+	{
+	ja={name} {range}が必要ですが、提供しているレジストリはありません;
+	}
+
+[Needs {name}, which no registry offers]
+	{
+	ja={name}が必要ですが、提供しているレジストリはありません;
+	}
+
+[Cannot run beside {name}]
+	{
+	ja={name}と併用不可;
+	}
+
+[· from {registry}]
+	{
+	ja=· {registry}から;
+	}
+
+[· needs {name}]
+	{
+	ja=· {name}が必要;
+	}
+
+[· not compatible with this mod]
+	{
+	ja=· このMODには非対応;
+	}
+
+[CHECK WITH THIS MOD]
+	{
+	ja=このMODで確認;
+	}
+
+[Statistics]
+	{
+	ja=ステータス;
+	}
+
+[Commanders]
+	{
+	ja=コマンダー;
+	}
+
+[New Units]
+	{
+	ja=新ユニット;
+	}
+
+[Disable]
+	{
+	ja=無効化;
+	}
+
+[Gameplay]
+	{
+	ja=ゲームプレイ;
+	}
+
+[Changes]
+	{
+	ja=変更内容;
+	}
+
+[Files]
+	{
+	ja=ファイル;
+	}
+
+[Build menus]
+	{
+	ja=建設メニュー;
+	}
+
+[Units and weapons]
+	{
+	ja=ユニットと武器;
+	}
+
+[Game tables]
+	{
+	ja=ゲームデータ表;
+	}
+
+[Features]
+	{
+	ja=地形物;
+	}
+
+[Sides]
+	{
+	ja=陣営;
+	}
+
+[Options]
+	{
+	ja=オプション;
+	}
+
+[adds {count} feature]
+	{
+	ja=追加地形物{count}種;
+	}
+
+[adds {count} features]
+	{
+	ja=追加地形物{count}種;
+	}
+
+[adds {count} file]
+	{
+	ja=追加ファイル{count}個;
+	}
+
+[adds {count} files]
+	{
+	ja=追加ファイル{count}個;
+	}
+
+[adds {count} unit]
+	{
+	ja=追加ユニット{count}種;
+	}
+
+[adds {count} units]
+	{
+	ja=追加ユニット{count}種;
+	}
+
+[adds {count} weapon]
+	{
+	ja=追加武器{count}種;
+	}
+
+[adds {count} weapons]
+	{
+	ja=追加武器{count}種;
+	}
+
+[changes other game data]
+	{
+	ja=その他のゲームデータを変更;
+	}
+
+[changes the map when a match starts]
+	{
+	ja=対戦開始時にマップを変更;
+	}
+
+[changes {count} feature]
+	{
+	ja=変更地形物{count}種;
+	}
+
+[changes {count} features]
+	{
+	ja=変更地形物{count}種;
+	}
+
+[changes {count} menu entries]
+	{
+	ja=変更メニュー項目{count}件;
+	}
+
+[changes {count} menu entry]
+	{
+	ja=変更メニュー項目{count}件;
+	}
+
+[changes {count} unit]
+	{
+	ja=変更ユニット{count}種;
+	}
+
+[changes {count} units]
+	{
+	ja=変更ユニット{count}種;
+	}
+
+[changes {count} weapon]
+	{
+	ja=変更武器{count}種;
+	}
+
+[changes {count} weapons]
+	{
+	ja=変更武器{count}種;
+	}
+
+[hides {count} file]
+	{
+	ja=非表示ファイル{count}個;
+	}
+
+[hides {count} files]
+	{
+	ja=非表示ファイル{count}個;
+	}
+
+[removes {count} feature]
+	{
+	ja=削除地形物{count}種;
+	}
+
+[removes {count} features]
+	{
+	ja=削除地形物{count}種;
+	}
+
+[removes {count} unit]
+	{
+	ja=削除ユニット{count}種;
+	}
+
+[removes {count} units]
+	{
+	ja=削除ユニット{count}種;
+	}
+
+[removes {count} weapon]
+	{
+	ja=削除武器{count}種;
+	}
+
+[removes {count} weapons]
+	{
+	ja=削除武器{count}種;
+	}
+
+// The mutator picker.
+
+[On]
+	{
+	ja=オン;
+	}
+
+[mutators]
+	{
+	ja=ミューテータ;
+	}
+
+[{count} on]
+	{
+	ja={count}個オン;
+	}
+
+[None on]
+	{
+	ja=すべてオフ;
+	}
+
+[OFF · NOT APPLIED]
+	{
+	ja=オフ · 適用しない;
+	}
+
+[ON · APPLIED TOP TO BOTTOM]
+	{
+	ja=オン · 上から順に適用;
+	}
+
+[At most {count} mutators can be on]
+	{
+	ja=オンにできるミューテータは最大{count}個です;
+	}
+
+[Order]
+	{
+	ja=順序;
+	}
+
+[▲ UP]
+	{
+	ja=▲ 上へ;
+	}
+
+[▼ DOWN]
+	{
+	ja=▼ 下へ;
+	}
+
+[Add]
+	{
+	ja=追加;
+	}
+
+[Replace]
+	{
+	ja=置き換え;
+	}
+
+[{label}: {values}]
+	{
+	ja={label}：{values};
+	}
+
+[{left} or {right}]
+	{
+	ja={left}または{right};
+	}
+
+[{setup} · {mod}]
+	{
+	ja={setup} · {mod};
+	}
+
+[Skirmish]
+	{
+	ja=スカーミッシュ;
+	}
+
+[Battle room]
+	{
+	ja=対戦ルーム;
+	}
+
+[The host's mutators. Only the host can change them.]
+	{
+	ja=ホストのミューテータです。変更できるのはホストだけです。;
+	}
+
+[The set holds for every mission of this campaign, and is saved with it.]
+	{
+	ja=このセットはこのキャンペーンのすべてのミッションに適用され、キャンペーンと一緒に保存されます。;
+	}
+
+[GET ALL]
+	{
+	ja=すべて入手;
+	}
+
+[GET BOTH]
+	{
+	ja=両方入手;
+	}
+
+[GET WITH {count} MORE]
+	{
+	ja=ほか{count}個も入手;
+	}
+
+[GET WITH {name}]
+	{
+	ja={name}も入手;
+	}
+
+[Get {name}?]
+	{
+	ja={name}を入手しますか？;
+	}
+
+[Getting {name} · {percent}%]
+	{
+	ja={name}を入手中 · {percent}%;
+	}
+
+[Downloading {name} · {index} of {total}]
+	{
+	ja={name}をダウンロード中 · {index}/{total};
+	}
+
+[{names} download first, then sit above {name} in every list.]
+	{
+	ja={names}を先にダウンロードし、すべてのリストで{name}の上に置きます。;
+	}
+
+[{names} downloads first, then sits above {name} in every list.]
+	{
+	ja={names}を先にダウンロードし、すべてのリストで{name}の上に置きます。;
+	}
+
+[{name} needs {prerequisites}, which you don't have. They download first, and go above {name} in every list.]
+	{
+	ja={name}には、手元にない{prerequisites}が必要です。先にダウンロードし、すべてのリストで{name}の上に置きます。;
+	}
+
+[{name} needs {prerequisite}, which you don't have. Both download now, and {short} goes above {name} in every list.]
+	{
+	ja={name}には、手元にない{prerequisite}が必要です。両方を今ダウンロードし、すべてのリストで{short}を{name}の上に置きます。;
+	}
+
+[Both stay installed. Turn {dependant} on again and {name} comes back with it.]
+	{
+	ja=どちらもインストールされたままです。{dependant}をもう一度オンにすると、{name}も一緒にオンになります。;
+	}
+
+[They all stay installed. Turn one on again and {name} comes back with it.]
+	{
+	ja=すべてインストールされたままです。どれかをもう一度オンにすると、{name}も一緒にオンになります。;
+	}
+
+[{names} turn off too: they need {name}.]
+	{
+	ja={names}もオフになります：{name}が必要です。;
+	}
+
+[{names} turns off too: it needs {name}.]
+	{
+	ja={names}もオフになります：{name}が必要です。;
+	}
+
+[{name} came with {dependant}]
+	{
+	ja={name}は{dependant}と一緒にオン;
+	}
+
+[{names} need it: they stay installed, and cannot be switched on until this is back.]
+	{
+	ja={names}にはこれが必要です。インストールされたままですが、これが戻るまでオンにできません。;
+	}
+
+[{name} needs it: it stays installed, and cannot be switched on until this is back.]
+	{
+	ja={name}にはこれが必要です。インストールされたままですが、これが戻るまでオンにできません。;
+	}
+
+[These mutators need each other: {ids}]
+	{
+	ja=これらのミューテータは互いを必要としています：{ids};
+	}
+
+// Mutator prompts.
+
+[Forget the last set?]
+	{
+	ja=前回のセットを忘れますか？;
+	}
+
+[FORGET IT]
+	{
+	ja=忘れる;
+	}
+
+[KEEP IT]
+	{
+	ja=残す;
+	}
+
+[USE THESE]
+	{
+	ja=これを使う;
+	}
+
+[Left out of your last set: {names}]
+	{
+	ja=前回のセットから外れたもの：{names};
+	}
+
+[Your last campaign set, ready to use. CANCEL plays without mutators.]
+	{
+	ja=前回のキャンペーンのセットをそのまま使えます。「キャンセル」でミューテータなしでプレイします。;
+	}
+
+[Your last multiplayer set, ready to use. CANCEL plays without mutators.]
+	{
+	ja=前回のマルチプレイのセットをそのまま使えます。「キャンセル」でミューテータなしでプレイします。;
+	}
+
+[Your last skirmish set, ready to use. CANCEL plays without mutators.]
+	{
+	ja=前回のスカーミッシュのセットをそのまま使えます。「キャンセル」でミューテータなしでプレイします。;
+	}
+
+[Start without them?]
+	{
+	ja=それらなしで開始しますか？;
+	}
+
+[Start without {name}?]
+	{
+	ja={name}なしで開始しますか？;
+	}
+
+[START WITHOUT IT]
+	{
+	ja=外して開始;
+	}
+
+[START WITHOUT THEM]
+	{
+	ja=すべて外して開始;
+	}
+
+[The game did not start]
+	{
+	ja=ゲームを開始できませんでした;
+	}
+
+[The game's log names them, so their authors can be told.]
+	{
+	ja=ゲームのログに名前が記録されているので、作者に知らせることができます。;
+	}
+
+[{name} stopped before the game could start. Nothing it changed is kept, and the other mutators are unaffected.]
+	{
+	ja={name}はゲーム開始前に停止しました。その変更は残っておらず、ほかのミューテータは影響を受けません。;
+	}
+
+[{names} stopped before the game could start. Nothing they changed is kept, and the other mutators are unaffected.]
+	{
+	ja={names}はゲーム開始前に停止しました。それらの変更は残っておらず、ほかのミューテータは影響を受けません。;
+	}
+
+[{problem} RETRY tries again.]
+	{
+	ja={problem}「再試行」でもう一度試します。;
+	}
+
+[Another copy of Open Annihilation is changing your Mutators folder. Try again once it has finished.]
+	{
+	ja=別のOpen AnnihilationがMutatorsフォルダーを変更しています。完了してからもう一度試してください。;
+	}
+
+[Your Mutators folder changed while this mutator was being installed; nothing was changed. Open the file again.]
+	{
+	ja=このミューテータのインストール中にMutatorsフォルダーが変更されたため、何も変更していません。もう一度ファイルを開いてください。;
+	}
+
+// Installing a mutator.
+
+[INSTALL MUTATOR]
+	{
+	ja=ミューテータのインストール;
+	}
+
+[INSTALLING MUTATOR]
+	{
+	ja=ミューテータをインストール中;
+	}
+
+[Install the mutator {name} {version}?]
+	{
+	ja=ミューテータ{name} {version}をインストールしますか？;
+	}
+
+[REINSTALL MUTATOR]
+	{
+	ja=ミューテータの再インストール;
+	}
+
+[REPLACE MUTATOR]
+	{
+	ja=ミューテータの置き換え;
+	}
+
+[UPDATE MUTATOR]
+	{
+	ja=ミューテータの更新;
+	}
+
+[MUTATOR INSTALLED]
+	{
+	ja=ミューテータインストール完了;
+	}
+
+[MUTATOR NOT INSTALLED]
+	{
+	ja=ミューテータのインストール中止;
+	}
+
+[MUTATOR UPDATED]
+	{
+	ja=ミューテータ更新完了;
+	}
+
+[The folder {name} does not hold this mutator. It is left as it is.]
+	{
+	ja=フォルダー{name}にはこのミューテータが入っていません。そのフォルダーには手を加えません。;
+	}
+
+[Your Mutators folder has no free folder name for it.]
+	{
+	ja=Mutatorsフォルダーに、これに使えるフォルダー名がありません。;
+	}
+
+[It holds no oamut.yaml at its top, or in a single folder at its top.]
+	{
+	ja=最上位にも、最上位の単一フォルダー内にもoamut.yamlがありません。;
+	}
+
+[Its oamut.yaml is larger than 256 KiB.]
+	{
+	ja=oamut.yamlが256 KiBを超えています。;
+	}
+
+[Its oamut.yaml has errors:]
+	{
+	ja=oamut.yamlにエラーがあります：;
+	}
+
+[It holds more than {limit} folders, more than a mutator may take.]
+	{
+	ja=フォルダーが{limit}個を超えており、ミューテータに許される数を超えています。;
+	}
+
+[It unpacks to {size}, more than the {limit} a mutator may take.]
+	{
+	ja=展開すると{size}になり、ミューテータに許される{limit}を超えます。;
+	}
+
+[It unpacks to {size} from {packed}, far more than a mutator's files take.]
+	{
+	ja={packed}から展開すると{size}になり、ミューテータのファイルとしては大きすぎます。;
+	}
+
+[It needs {size} free, and the disk holding your Mutators folder has {free}.]
+	{
+	ja=空き容量が{size}必要ですが、Mutatorsフォルダーのあるディスクの空きは{free}です。;
+	}
+
+[The package holds {name}, outside the folders a mutator may hold.]
+	{
+	ja=パッケージに含まれる{name}は、ミューテータに入れられるフォルダーの外にあります。;
+	}
+
+[Its icon {name} is not a square PNG of at most 256 pixels and 256 KiB.]
+	{
+	ja=アイコン{name}が、256ピクセル以下かつ256 KiB以下の正方形PNGではありません。;
+	}
+
+[Its script {name} is larger than 1 MiB.]
+	{
+	ja=スクリプト{name}が1 MiBを超えています。;
+	}
+
+[Its script {name} is missing.]
+	{
+	ja=スクリプト{name}がありません。;
+	}
+
+[{name} is precompiled Lua. A mutator holds Lua source only.]
+	{
+	ja={name}はコンパイル済みのLuaです。ミューテータに入れられるのはLuaのソースだけです。;
+	}
+
+// The battle room's mutators.
+
+[GET MUTATORS]
+	{
+	ja=ミューテータを入手;
+	}
+
+[VIEW…]
+	{
+	ja=表示…;
+	}
+
+[*** This game is Open Annihilation only, and unranked.]
+	{
+	ja=*** このゲームはOpen Annihilation専用で、ランキング対象外です。;
+	}
+
+[*** {host} turned mutators off.]
+	{
+	ja=*** {host}がミューテータをオフにしました。;
+	}
+
+[*** {host} turned on mutators: {list}]
+	{
+	ja=*** {host}がミューテータをオンにしました：{list};
+	}
+
+[*** {list}]
+	{
+	ja=*** {list};
+	}
+
+[*** {player} does not have {name}.]
+	{
+	ja=*** {player}は{name}を持っていません。;
+	}
+
+[*** {player} plays Total Annihilation 3.1c and cannot join a game with mutators.]
+	{
+	ja=*** {player}はTotal Annihilation 3.1cを使っているため、ミューテータありのゲームに参加できません。;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play with mutators.]
+	{
+	ja=*** {player}はTotal Annihilation 3.1cを使っています。このバージョンはミューテータに対応していません。;
+	}
+
+[*** You do not have {name}.]
+	{
+	ja=*** {name}がありません。;
+	}
+
+[*** You do not have {name}. GET MUTATORS downloads it from {registry}.]
+	{
+	ja=*** {name}がありません。「ミューテータを入手」で{registry}から取得。;
+	}
+
+[*** You do not have {names}.]
+	{
+	ja=*** {names}がありません。;
+	}
+
+[*** You do not have {names}. GET MUTATORS downloads them from {registry}.]
+	{
+	ja=*** {names}がありません。「ミューテータを入手」で{registry}から取得。;
+	}
+
+[Different from the host: another release of {name}.]
+	{
+	ja=ホストと異なります：{name}のリリースが違います。;
+	}
+
+[Downloads are off.]
+	{
+	ja=ダウンロードはオフです。;
+	}
+
+[Ready once {name} is here]
+	{
+	ja={name}が届けば準備完了;
+	}
+
+[The game cannot start until {player} gets it, or the host turns it off.]
+	{
+	ja={player}が入手するか、ホストがオフにするまで、ゲームを開始できません。;
+	}
+
+[Waiting for {player}: {name}]
+	{
+	ja={player}を待機中：{name};
+	}
+
+[{item} ✓]
+	{
+	ja={item} ✓;
+	}
+
+[{item}: another release here]
+	{
+	ja={item}：別のリリース;
+	}
+
+[{item}: not installed]
+	{
+	ja={item}：未インストール;
+	}
+
+[{name}: {problem}]
+	{
+	ja={name}：{problem};
+	}
+
+[Getting {name}: {percent}%]
+	{
+	ja={name}を入手中：{percent}%;
+	}
+
+[cannot check]
+	{
+	ja=確認不可;
+	}
+
+[check expired]
+	{
+	ja=確認期限切れ;
+	}
+
+[install failed]
+	{
+	ja=インストール失敗;
+	}
+
+[no downloads]
+	{
+	ja=ダウンロードオフ;
+	}
+
+[no space]
+	{
+	ja=容量不足;
+	}
+
+[not offered]
+	{
+	ja=提供なし;
+	}
+
+[not written]
+	{
+	ja=書き込み失敗;
+	}
+
+[refused]
+	{
+	ja=拒否;
+	}
+
+[unreachable]
+	{
+	ja=接続不可;
+	}
+
+[wrong file]
+	{
+	ja=ファイル不一致;
+	}
+
+[wrong size]
+	{
+	ja=サイズ不一致;
+	}
+
+[{name}: {reason}]
+	{
+	ja={name}：{reason};
+	}
+
+[{name}: not installed]
+	{
+	ja={name}：未インストール;
+	}
+
+[{name} {range} ✓]
+	{
+	ja={name} {range} ✓;
+	}
+
+[{name} {range}: not installed]
+	{
+	ja={name} {range}：未インストール;
+	}
+
+[{name}: release {here} here, release {there} on {player}'s machine.]
+	{
+	ja={name}：こちらはリリース{here}、{player}のマシンはリリース{there}です。;
+	}
+
+[{name}: {player} does not have it.]
+	{
+	ja={name}：{player}は持っていません。;
+	}
+
+[{name}: not offered.]
+	{
+	ja={name}：提供されていません。;
+	}
+
+[{registry}: downloads off.]
+	{
+	ja={registry}：ダウンロードはオフです。;
+	}
+
+[{player}'s GET MUTATORS button fetches release {release}.]
+	{
+	ja={player}の「ミューテータを入手」ボタンでは、リリース{release}を入手します。;
+	}
+
+[{player}'s mutators gave a different result from yours, so the game would play differently on each machine.]
+	{
+	ja={player}のミューテータの結果がこちらと異なるため、マシンごとにゲームの進行が変わってしまいます。;
+	}
+
+// Saves, replays and the lines that name the mutators a run plays.
+
+[Mutators:]
+	{
+	ja=ミューテータ：;
+	}
+
+[The mutators this was made with cannot be read.]
+	{
+	ja=作成時に使われたミューテータを読み込めません。;
+	}
+
+[This needs a mutator you do not have: {detail}]
+	{
+	ja=手元にないミューテータが必要です：{detail};
+	}
+
+[This was made with mutators, and this run plays none.]
+	{
+	ja=ミューテータを使って作成されましたが、今回の実行ではミューテータを使いません。;
+	}
+
+// Open Annihilation 0.8.5: the Mutators button and its lines.
+
+[Mutators ({count})]
+	{
+	ja=ミューテータ({count});
+	}
+
+[{name} is installed. Turn it on with the Mutators button when you set up a game.]
+	{
+	ja={name}をインストールしました。ゲームの設定時に「ミューテータ」ボタンでオンにしてください。;
+	}
+
+[The last game ended in a crash with {names} on. Forget the set and the Mutators button opens empty next time; nothing is uninstalled.]
+	{
+	ja=前回のゲームは{names}がオンの状態でクラッシュしました。セットを忘れると、次回「ミューテータ」ボタンは空の状態で開きます。アンインストールされるものはありません。;
+	}
+
+[Mutator packages (.oamut)]
+	{
+	ja=ミューテータパッケージ（.oamut）;
+	}
+
+[{unit}: {field} {value} held at {max}]
+	{
+	ja={unit}：{field} {value}を{max}に制限;
+	}
+
+// Graphics' Fog of War.
+
+[Fog of War]
+	{
+	ja=戦場の霧;
+	}
+
+[Classic]
+	{
+	ja=クラシック;
+	}
+
+[Smooth]
+	{
+	ja=なめらか;
+	}
+
+[Hard edges that step from cell to cell, as the game drew the fog.]
+	{
+	ja=元のゲームと同じく、マス目ごとに段差のある硬い縁です。;
+	}
+
+[Soft edges where the graphics card draws the battlefield (Full).]
+	{
+	ja=グラフィックカードが戦場を描画するとき（フル）は、柔らかい縁になります。;
+	}
+
+// Starting while iCloud downloads the game's files.
+
+[Downloading the game's files from iCloud…]
+	{
+	ja=iCloudからゲームファイルをダウンロード中…;
+	}
