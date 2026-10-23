@@ -4723,7 +4723,7 @@
 
 [RETRY]
 	{
-	uk=ПОВТОРИТИ;
+	uk=ПОВТОР;
 	}
 
 [HOMEPAGE]
@@ -4803,7 +4803,7 @@
 
 [{problem} · RETRY]
 	{
-	uk={problem} · ПОВТОРИТИ;
+	uk={problem} · ПОВТОР;
 	}
 
 [Then {package} · {phase}]
@@ -5837,7 +5837,7 @@
 
 [{folder} is a folder of your own, not {name}. Move or rename it, then RETRY.]
 	{
-	uk={folder} — це твоя власна папка, а не {name}. Перемісти або перейменуй її, а тоді натисни ПОВТОРИТИ.;
+	uk={folder} — це твоя власна папка, а не {name}. Перемісти або перейменуй її, а тоді натисни ПОВТОР.;
 	}
 
 [{n} KB]
@@ -7341,7 +7341,7 @@
 
 [TURN OFF]
 	{
-	uk=ВИМКНУТИ;
+	uk=ВИМК.;
 	}
 
 [TURN ON {name}]
@@ -8089,4 +8089,1152 @@
 [Units and shots move 30 times a second, as the game drew them; fast spins may flicker.]
 	{
 	uk=Підрозділи й снаряди рухаються 30 разів на секунду, як їх малювала гра. Швидке обертання може мерехтіти.;
+	}
+
+// Open Annihilation 0.8.5: the Library's Mutators tab.
+
+[Mutators]
+	{
+	uk=Мутатори;
+	}
+
+[Get mutators]
+	{
+	uk=Отримати мутатори;
+	}
+
+[No mutators here yet. The Library on the main menu gets them.]
+	{
+	uk=Тут поки немає мутаторів. Їх можна отримати в Бібліотеці з головного меню.;
+	}
+
+[Search mutators]
+	{
+	uk=Пошук мутаторів;
+	}
+
+[Search mutators, authors, tags]
+	{
+	uk=Пошук мутаторів, авторів, тегів;
+	}
+
+[No mutator matches these filters]
+	{
+	uk=Жоден мутатор не відповідає цим фільтрам;
+	}
+
+[Any mod]
+	{
+	uk=Будь-який мод;
+	}
+
+[{version} · {author}]
+	{
+	uk={version} · {author};
+	}
+
+[Not installed · {version}]
+	{
+	uk=Не встановлено · {version};
+	}
+
+[Not installed: switching it on downloads it]
+	{
+	uk=Не встановлено: якщо ввімкнути, його буде завантажено;
+	}
+
+[Changes the game: unranked on Core Prime]
+	{
+	uk=Змінює гру: без рейтингу на Core Prime;
+	}
+
+[Checked]
+	{
+	uk=Перевірка;
+	}
+
+[Checked with No Mod ✓]
+	{
+	uk=Перевірено без модів ✓;
+	}
+
+[Checked with {mod} ✓]
+	{
+	uk=Перевірено з модом {mod} ✓;
+	}
+
+[Checking with No Mod…]
+	{
+	uk=Перевірка без модів…;
+	}
+
+[Checking with {mod}…]
+	{
+	uk=Перевірка з модом {mod}…;
+	}
+
+[Not checked with No Mod]
+	{
+	uk=Не перевірено без модів;
+	}
+
+[Not checked with {mod}]
+	{
+	uk=Не перевірено з модом {mod};
+	}
+
+[No effect with No Mod: {name}]
+	{
+	uk=Без модів не діє: {name};
+	}
+
+[No effect with this mod]
+	{
+	uk=З цим модом не діє;
+	}
+
+[No effect with {mod}: {name}]
+	{
+	uk=З модом {mod} не діє: {name};
+	}
+
+[Not compatible with No Mod: {name}]
+	{
+	uk=Без модів несумісний: {name};
+	}
+
+[Not compatible with this mod]
+	{
+	uk=Несумісний із цим модом;
+	}
+
+[Not compatible with this mod: it works with {names}]
+	{
+	uk=Несумісний із цим модом: працює з модами {names};
+	}
+
+[Not compatible with this mod: {reason}]
+	{
+	uk=Несумісний із цим модом: {reason};
+	}
+
+[Not compatible with {mod}: {name}]
+	{
+	uk=Несумісний із модом {mod}: {name};
+	}
+
+[Stopped with this mod: {reason}]
+	{
+	uk=З цим модом зупинився: {reason};
+	}
+
+[{name} stopped with No Mod]
+	{
+	uk=Зупинився без модів: {name};
+	}
+
+[{name} stopped with {mod}]
+	{
+	uk=Зупинився з модом {mod}: {name};
+	}
+
+[With No Mod: it stopped: {reason}]
+	{
+	uk=Без модів: зупинився: {reason};
+	}
+
+[With No Mod: no effect]
+	{
+	uk=Без модів: не діє;
+	}
+
+[With No Mod: {reason}]
+	{
+	uk=Без модів: {reason};
+	}
+
+[With No Mod: {summary}]
+	{
+	uk=Без модів: {summary};
+	}
+
+[With {mod}: it stopped: {reason}]
+	{
+	uk=З модом {mod}: зупинився: {reason};
+	}
+
+[With {mod}: no effect]
+	{
+	uk=З модом {mod}: не діє;
+	}
+
+[With {mod}: {reason}]
+	{
+	uk=З модом {mod}: {reason};
+	}
+
+[With {mod}: {summary}]
+	{
+	uk=З модом {mod}: {summary};
+	}
+
+[Works with]
+	{
+	uk=Сумісність;
+	}
+
+[it works with {names}]
+	{
+	uk=працює з модами {names};
+	}
+
+[Needs {name}]
+	{
+	uk=Потребує {name};
+	}
+
+[Needed by {name}]
+	{
+	uk=Потрібен мутатору {name};
+	}
+
+[Needs {name} {range}, which no registry offers]
+	{
+	uk=Потребує {name} {range}, але жоден реєстр його не пропонує;
+	}
+
+[Needs {name}, which no registry offers]
+	{
+	uk=Потребує {name}, але жоден реєстр його не пропонує;
+	}
+
+[Cannot run beside {name}]
+	{
+	uk=Не працює разом із мутатором {name};
+	}
+
+[· from {registry}]
+	{
+	uk=· з {registry};
+	}
+
+[· needs {name}]
+	{
+	uk=· потребує {name};
+	}
+
+[· not compatible with this mod]
+	{
+	uk=· несумісний із цим модом;
+	}
+
+[CHECK WITH THIS MOD]
+	{
+	uk=ПЕРЕВІРИТИ З ЦИМ МОДОМ;
+	}
+
+[Statistics]
+	{
+	uk=Характеристики;
+	}
+
+[Commanders]
+	{
+	uk=Командири;
+	}
+
+[New Units]
+	{
+	uk=Нові підрозділи;
+	}
+
+[Disable]
+	{
+	uk=Вимкнення;
+	}
+
+[Gameplay]
+	{
+	uk=Геймплей;
+	}
+
+[Changes]
+	{
+	uk=Зміни;
+	}
+
+[Files]
+	{
+	uk=Файли;
+	}
+
+[Build menus]
+	{
+	uk=Меню будівництва;
+	}
+
+[Units and weapons]
+	{
+	uk=Підрозділи й зброя;
+	}
+
+[Game tables]
+	{
+	uk=Таблиці гри;
+	}
+
+[Features]
+	{
+	uk=Обʼєкти;
+	}
+
+[Sides]
+	{
+	uk=Сторони;
+	}
+
+[Options]
+	{
+	uk=Параметри;
+	}
+
+[adds {count} feature]
+	{
+	uk=додає {count} обʼєкт;
+	}
+
+[adds {count} features]
+	{
+	uk=додає обʼєкти ({count});
+	}
+
+[adds {count} file]
+	{
+	uk=додає {count} файл;
+	}
+
+[adds {count} files]
+	{
+	uk=додає файли ({count});
+	}
+
+[adds {count} unit]
+	{
+	uk=додає {count} підрозділ;
+	}
+
+[adds {count} units]
+	{
+	uk=додає підрозділи ({count});
+	}
+
+[adds {count} weapon]
+	{
+	uk=додає {count} вид зброї;
+	}
+
+[adds {count} weapons]
+	{
+	uk=додає види зброї ({count});
+	}
+
+[changes other game data]
+	{
+	uk=змінює інші дані гри;
+	}
+
+[changes the map when a match starts]
+	{
+	uk=змінює мапу на початку гри;
+	}
+
+[changes {count} feature]
+	{
+	uk=змінює {count} обʼєкт;
+	}
+
+[changes {count} features]
+	{
+	uk=змінює обʼєкти ({count});
+	}
+
+[changes {count} menu entries]
+	{
+	uk=змінює пункти меню ({count});
+	}
+
+[changes {count} menu entry]
+	{
+	uk=змінює {count} пункт меню;
+	}
+
+[changes {count} unit]
+	{
+	uk=змінює {count} підрозділ;
+	}
+
+[changes {count} units]
+	{
+	uk=змінює підрозділи ({count});
+	}
+
+[changes {count} weapon]
+	{
+	uk=змінює {count} вид зброї;
+	}
+
+[changes {count} weapons]
+	{
+	uk=змінює види зброї ({count});
+	}
+
+[hides {count} file]
+	{
+	uk=приховує {count} файл;
+	}
+
+[hides {count} files]
+	{
+	uk=приховує файли ({count});
+	}
+
+[removes {count} feature]
+	{
+	uk=видаляє {count} обʼєкт;
+	}
+
+[removes {count} features]
+	{
+	uk=видаляє обʼєкти ({count});
+	}
+
+[removes {count} unit]
+	{
+	uk=видаляє {count} підрозділ;
+	}
+
+[removes {count} units]
+	{
+	uk=видаляє підрозділи ({count});
+	}
+
+[removes {count} weapon]
+	{
+	uk=видаляє {count} вид зброї;
+	}
+
+[removes {count} weapons]
+	{
+	uk=видаляє види зброї ({count});
+	}
+
+// The mutator picker.
+
+[On]
+	{
+	uk=Увімк.;
+	}
+
+[mutators]
+	{
+	uk=мутатори;
+	}
+
+[{count} on]
+	{
+	uk=Увімкнено: {count};
+	}
+
+[None on]
+	{
+	uk=Нічого не ввімкнено;
+	}
+
+[OFF · NOT APPLIED]
+	{
+	uk=ВИМК. · НЕ ЗАСТОСОВУЮТЬСЯ;
+	}
+
+[ON · APPLIED TOP TO BOTTOM]
+	{
+	uk=УВІМК. · ЗАСТОСОВУЮТЬСЯ ЗГОРИ ВНИЗ;
+	}
+
+[At most {count} mutators can be on]
+	{
+	uk=Увімкнених мутаторів може бути щонайбільше {count};
+	}
+
+[Order]
+	{
+	uk=Порядок;
+	}
+
+[▲ UP]
+	{
+	uk=▲ ВГОРУ;
+	}
+
+[▼ DOWN]
+	{
+	uk=▼ ВНИЗ;
+	}
+
+[Add]
+	{
+	uk=Додати;
+	}
+
+[Replace]
+	{
+	uk=Замінити;
+	}
+
+[{label}: {values}]
+	{
+	uk={label}: {values};
+	}
+
+[{left} or {right}]
+	{
+	uk={left} або {right};
+	}
+
+[{setup} · {mod}]
+	{
+	uk={setup} · {mod};
+	}
+
+[Skirmish]
+	{
+	uk=Сутичка;
+	}
+
+[Battle room]
+	{
+	uk=Кімната бою;
+	}
+
+[The host's mutators. Only the host can change them.]
+	{
+	uk=Мутатори хоста. Змінити їх може лише хост.;
+	}
+
+[The set holds for every mission of this campaign, and is saved with it.]
+	{
+	uk=Набір діє в усіх місіях цієї кампанії і зберігається разом із нею.;
+	}
+
+[GET ALL]
+	{
+	uk=ОТРИМАТИ ВСІ;
+	}
+
+[GET BOTH]
+	{
+	uk=ОТРИМАТИ ЇХ;
+	}
+
+[GET WITH {count} MORE]
+	{
+	uk=ОТРИМАТИ Й ЩЕ {count};
+	}
+
+[GET WITH {name}]
+	{
+	uk=ОТРИМАТИ З {name};
+	}
+
+[Get {name}?]
+	{
+	uk=Отримати {name}?;
+	}
+
+[Getting {name} · {percent}%]
+	{
+	uk=Отримання {name} · {percent}%;
+	}
+
+[Downloading {name} · {index} of {total}]
+	{
+	uk=Завантаження {name} · {index} з {total};
+	}
+
+[{names} download first, then sit above {name} in every list.]
+	{
+	uk=Спершу завантажаться {names}, а потім вони стоятимуть над мутатором {name} у кожному списку.;
+	}
+
+[{names} downloads first, then sits above {name} in every list.]
+	{
+	uk=Спершу завантажиться {names}, а потім він стоятиме над мутатором {name} у кожному списку.;
+	}
+
+[{name} needs {prerequisites}, which you don't have. They download first, and go above {name} in every list.]
+	{
+	uk=Мутатор {name} потребує {prerequisites}, яких у тебе немає. Вони завантажаться першими й стоятимуть над мутатором {name} у кожному списку.;
+	}
+
+[{name} needs {prerequisite}, which you don't have. Both download now, and {short} goes above {name} in every list.]
+	{
+	uk=Мутатор {name} потребує {prerequisite}, якого в тебе немає. Обидва завантажаться зараз, і {short} стоятиме над мутатором {name} у кожному списку.;
+	}
+
+[Both stay installed. Turn {dependant} on again and {name} comes back with it.]
+	{
+	uk=Обидва залишаться встановленими. Увімкни {dependant} знову, і {name} увімкнеться разом із ним.;
+	}
+
+[They all stay installed. Turn one on again and {name} comes back with it.]
+	{
+	uk=Усі вони залишаться встановленими. Увімкни будь-який із них знову, і {name} увімкнеться разом із ним.;
+	}
+
+[{names} turn off too: they need {name}.]
+	{
+	uk={names} теж вимкнуться, бо потребують {name}.;
+	}
+
+[{names} turns off too: it needs {name}.]
+	{
+	uk={names} теж вимкнеться, бо потребує {name}.;
+	}
+
+[{name} came with {dependant}]
+	{
+	uk={name}: увімкнено разом із мутатором {dependant};
+	}
+
+[{names} need it: they stay installed, and cannot be switched on until this is back.]
+	{
+	uk=Його потребують {names}: вони залишаться встановленими, але їх не можна буде ввімкнути, доки цей мутатор не повернеться.;
+	}
+
+[{name} needs it: it stays installed, and cannot be switched on until this is back.]
+	{
+	uk=Його потребує {name}: він залишиться встановленим, але його не можна буде ввімкнути, доки цей мутатор не повернеться.;
+	}
+
+[These mutators need each other: {ids}]
+	{
+	uk=Ці мутатори потребують один одного: {ids};
+	}
+
+// Mutator prompts.
+
+[Forget the last set?]
+	{
+	uk=Забути останній набір?;
+	}
+
+[FORGET IT]
+	{
+	uk=ЗАБУТИ;
+	}
+
+[KEEP IT]
+	{
+	uk=ЗБЕРЕГТИ;
+	}
+
+[USE THESE]
+	{
+	uk=ВИКОРИСТАТИ;
+	}
+
+[Left out of your last set: {names}]
+	{
+	uk=Не ввімкнено з останнього набору: {names};
+	}
+
+[Your last campaign set, ready to use. CANCEL plays without mutators.]
+	{
+	uk=Твій останній набір для кампанії вже готовий. СКАСУВАТИ — гра без мутаторів.;
+	}
+
+[Your last multiplayer set, ready to use. CANCEL plays without mutators.]
+	{
+	uk=Твій останній набір для мережевої гри вже готовий. СКАСУВАТИ — гра без мутаторів.;
+	}
+
+[Your last skirmish set, ready to use. CANCEL plays without mutators.]
+	{
+	uk=Твій останній набір для сутички вже готовий. СКАСУВАТИ — гра без мутаторів.;
+	}
+
+[Start without them?]
+	{
+	uk=Грати без них?;
+	}
+
+[Start without {name}?]
+	{
+	uk=Грати без мутатора {name}?;
+	}
+
+[START WITHOUT IT]
+	{
+	uk=ГРАТИ БЕЗ НЬОГО;
+	}
+
+[START WITHOUT THEM]
+	{
+	uk=ГРАТИ БЕЗ НИХ;
+	}
+
+[The game did not start]
+	{
+	uk=Гра не почалася;
+	}
+
+[The game's log names them, so their authors can be told.]
+	{
+	uk=Їхні назви записано в журнал гри, щоб можна було повідомити авторів.;
+	}
+
+[{name} stopped before the game could start. Nothing it changed is kept, and the other mutators are unaffected.]
+	{
+	uk=Мутатор {name} зупинився до початку гри. Жодну з його змін не збережено, інших мутаторів це не стосується.;
+	}
+
+[{names} stopped before the game could start. Nothing they changed is kept, and the other mutators are unaffected.]
+	{
+	uk=Мутатори {names} зупинилися до початку гри. Жодну з їхніх змін не збережено, інших мутаторів це не стосується.;
+	}
+
+[{problem} RETRY tries again.]
+	{
+	uk={problem} ПОВТОР — спробувати ще раз.;
+	}
+
+[Another copy of Open Annihilation is changing your Mutators folder. Try again once it has finished.]
+	{
+	uk=Інша копія Open Annihilation змінює твою папку Mutators. Спробуй ще раз, коли вона закінчить.;
+	}
+
+[Your Mutators folder changed while this mutator was being installed; nothing was changed. Open the file again.]
+	{
+	uk=Поки встановлювався цей мутатор, твоя папка Mutators змінилася. Нічого не змінено. Відкрий файл знову.;
+	}
+
+// Installing a mutator.
+
+[INSTALL MUTATOR]
+	{
+	uk=ВСТАНОВИТИ МУТАТОР;
+	}
+
+[INSTALLING MUTATOR]
+	{
+	uk=ВСТАНОВЛЕННЯ МУТАТОРА;
+	}
+
+[Install the mutator {name} {version}?]
+	{
+	uk=Встановити мутатор {name} {version}?;
+	}
+
+[REINSTALL MUTATOR]
+	{
+	uk=ПЕРЕВСТАНОВИТИ МУТАТОР;
+	}
+
+[REPLACE MUTATOR]
+	{
+	uk=ЗАМІНИТИ МУТАТОР;
+	}
+
+[UPDATE MUTATOR]
+	{
+	uk=ОНОВИТИ МУТАТОР;
+	}
+
+[MUTATOR INSTALLED]
+	{
+	uk=МУТАТОР ВСТАНОВЛЕНО;
+	}
+
+[MUTATOR NOT INSTALLED]
+	{
+	uk=МУТАТОР НЕ ВСТАНОВЛЕНО;
+	}
+
+[MUTATOR UPDATED]
+	{
+	uk=МУТАТОР ОНОВЛЕНО;
+	}
+
+[The folder {name} does not hold this mutator. It is left as it is.]
+	{
+	uk=Папка {name} не містить цього мутатора. Її залишено як є.;
+	}
+
+[Your Mutators folder has no free folder name for it.]
+	{
+	uk=У твоїй папці Mutators немає вільної назви папки для нього.;
+	}
+
+[It holds no oamut.yaml at its top, or in a single folder at its top.]
+	{
+	uk=В архіві немає oamut.yaml ні в корені, ні в єдиній папці в корені.;
+	}
+
+[Its oamut.yaml is larger than 256 KiB.]
+	{
+	uk=Файл oamut.yaml в архіві більший за 256 КіБ.;
+	}
+
+[Its oamut.yaml has errors:]
+	{
+	uk=Файл oamut.yaml в архіві містить помилки:;
+	}
+
+[It holds more than {limit} folders, more than a mutator may take.]
+	{
+	uk=Кількість папок у ньому перевищує дозволені для мутатора {limit}.;
+	}
+
+[It unpacks to {size}, more than the {limit} a mutator may take.]
+	{
+	uk=Після розпакування займає {size}, а мутатор може займати щонайбільше {limit}.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a mutator's files take.]
+	{
+	uk=Після розпакування з {packed} займає {size} — набагато більше, ніж файли будь-якого мутатора.;
+	}
+
+[It needs {size} free, and the disk holding your Mutators folder has {free}.]
+	{
+	uk=Потрібно {size} вільного місця, а на диску з твоєю папкою Mutators вільно {free}.;
+	}
+
+[The package holds {name}, outside the folders a mutator may hold.]
+	{
+	uk=Пакет містить {name} поза папками, дозволеними для мутатора.;
+	}
+
+[Its icon {name} is not a square PNG of at most 256 pixels and 256 KiB.]
+	{
+	uk=Його значок {name} не є квадратним PNG розміром до 256 пікселів і до 256 КіБ.;
+	}
+
+[Its script {name} is larger than 1 MiB.]
+	{
+	uk=Його скрипт {name} більший за 1 МіБ.;
+	}
+
+[Its script {name} is missing.]
+	{
+	uk=Його скрипт {name} відсутній.;
+	}
+
+[{name} is precompiled Lua. A mutator holds Lua source only.]
+	{
+	uk={name} — попередньо скомпільований Lua. Мутатор може містити лише вихідний код Lua.;
+	}
+
+// The battle room's mutators.
+
+[GET MUTATORS]
+	{
+	uk=ОТРИМАТИ МУТАТОРИ;
+	}
+
+[VIEW…]
+	{
+	uk=ПЕРЕГЛЯД…;
+	}
+
+[*** This game is Open Annihilation only, and unranked.]
+	{
+	uk=*** Ця гра лише для Open Annihilation і без рейтингу.;
+	}
+
+[*** {host} turned mutators off.]
+	{
+	uk=*** {host} вимикає мутатори.;
+	}
+
+[*** {host} turned on mutators: {list}]
+	{
+	uk=*** {host} вмикає мутатори: {list};
+	}
+
+[*** {list}]
+	{
+	uk=*** {list};
+	}
+
+[*** {player} does not have {name}.]
+	{
+	uk=*** У гравця {player} немає {name}.;
+	}
+
+[*** {player} plays Total Annihilation 3.1c and cannot join a game with mutators.]
+	{
+	uk=*** {player} грає в Total Annihilation 3.1c і не може приєднатися до гри з мутаторами.;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play with mutators.]
+	{
+	uk=*** {player} грає в Total Annihilation 3.1c, яка не підтримує мутатори.;
+	}
+
+[*** You do not have {name}.]
+	{
+	uk=*** У тебе немає {name}.;
+	}
+
+[*** You do not have {name}. GET MUTATORS downloads it from {registry}.]
+	{
+	uk=*** У тебе немає {name}. Натисни ОТРИМАТИ МУТАТОРИ (з {registry}).;
+	}
+
+[*** You do not have {names}.]
+	{
+	uk=*** У тебе немає {names}.;
+	}
+
+[*** You do not have {names}. GET MUTATORS downloads them from {registry}.]
+	{
+	uk=*** У тебе немає {names}. Натисни ОТРИМАТИ МУТАТОРИ (з {registry}).;
+	}
+
+[Different from the host: another release of {name}.]
+	{
+	uk=Відмінність від хоста: інший випуск {name}.;
+	}
+
+[Downloads are off.]
+	{
+	uk=Завантаження вимкнено.;
+	}
+
+[Ready once {name} is here]
+	{
+	uk=Буде готово, щойно зʼявиться {name};
+	}
+
+[The game cannot start until {player} gets it, or the host turns it off.]
+	{
+	uk=Гра не почнеться, доки {player} його не отримає або хост його не вимкне.;
+	}
+
+[Waiting for {player}: {name}]
+	{
+	uk=Очікування гравця {player}: {name};
+	}
+
+[{item} ✓]
+	{
+	uk={item} ✓;
+	}
+
+[{item}: another release here]
+	{
+	uk={item}: інший випуск;
+	}
+
+[{item}: not installed]
+	{
+	uk={item}: не встановлено;
+	}
+
+[{name}: {problem}]
+	{
+	uk={name}: {problem};
+	}
+
+[Getting {name}: {percent}%]
+	{
+	uk=Отримання {name}: {percent}%;
+	}
+
+[cannot check]
+	{
+	uk=перевірка неможлива;
+	}
+
+[check expired]
+	{
+	uk=перевірка застаріла;
+	}
+
+[install failed]
+	{
+	uk=помилка встановлення;
+	}
+
+[no downloads]
+	{
+	uk=завантаження вимкнено;
+	}
+
+[no space]
+	{
+	uk=немає місця;
+	}
+
+[not offered]
+	{
+	uk=не пропонується;
+	}
+
+[not written]
+	{
+	uk=не записано;
+	}
+
+[refused]
+	{
+	uk=відхилено;
+	}
+
+[unreachable]
+	{
+	uk=немає звʼязку;
+	}
+
+[wrong file]
+	{
+	uk=не той файл;
+	}
+
+[wrong size]
+	{
+	uk=не той розмір;
+	}
+
+[{name}: {reason}]
+	{
+	uk={name}: {reason};
+	}
+
+[{name}: not installed]
+	{
+	uk={name}: не встановлено;
+	}
+
+[{name} {range} ✓]
+	{
+	uk={name} {range} ✓;
+	}
+
+[{name} {range}: not installed]
+	{
+	uk={name} {range}: не встановлено;
+	}
+
+[{name}: release {here} here, release {there} on {player}'s machine.]
+	{
+	uk={name}: тут випуск {here}, у гравця {player} — випуск {there}.;
+	}
+
+[{name}: {player} does not have it.]
+	{
+	uk={name}: у гравця {player} його немає.;
+	}
+
+[{name}: not offered.]
+	{
+	uk={name}: не пропонується.;
+	}
+
+[{registry}: downloads off.]
+	{
+	uk={registry}: завантаження вимкнено.;
+	}
+
+[{player}'s GET MUTATORS button fetches release {release}.]
+	{
+	uk=Кнопка ОТРИМАТИ МУТАТОРИ у гравця {player} завантажить випуск {release}.;
+	}
+
+[{player}'s mutators gave a different result from yours, so the game would play differently on each machine.]
+	{
+	uk=Мутатори гравця {player} дали інший результат, ніж твої, тож гра йшла б по-різному на кожному компʼютері.;
+	}
+
+// Saves, replays and the lines that name the mutators a run plays.
+
+[Mutators:]
+	{
+	uk=Мутатори:;
+	}
+
+[The mutators this was made with cannot be read.]
+	{
+	uk=Не вдалося прочитати, з якими мутаторами це створено.;
+	}
+
+[This needs a mutator you do not have: {detail}]
+	{
+	uk=Для цього потрібен мутатор, якого в тебе немає: {detail};
+	}
+
+[This was made with mutators, and this run plays none.]
+	{
+	uk=Це створено з мутаторами, а в цьому запуску їх немає.;
+	}
+
+// Open Annihilation 0.8.5: the Mutators button and its lines.
+
+[Mutators ({count})]
+	{
+	uk=Мутатори ({count});
+	}
+
+[{name} is installed. Turn it on with the Mutators button when you set up a game.]
+	{
+	uk=Мутатор {name} встановлено. Увімкни його кнопкою «Мутатори», коли налаштовуватимеш гру.;
+	}
+
+[The last game ended in a crash with {names} on. Forget the set and the Mutators button opens empty next time; nothing is uninstalled.]
+	{
+	uk=Остання гра завершилася збоєм, коли було ввімкнено {names}. Якщо забути набір, наступного разу кнопка «Мутатори» відкриється порожньою. Нічого не буде видалено.;
+	}
+
+[Mutator packages (.oamut)]
+	{
+	uk=Пакети мутаторів (.oamut);
+	}
+
+[{unit}: {field} {value} held at {max}]
+	{
+	uk={unit}: {field} {value} обмежено до {max};
+	}
+
+// Graphics' Fog of War.
+
+[Fog of War]
+	{
+	uk=Туман війни;
+	}
+
+[Classic]
+	{
+	uk=Класичний;
+	}
+
+[Smooth]
+	{
+	uk=Згладжений;
+	}
+
+[Hard edges that step from cell to cell, as the game drew the fog.]
+	{
+	uk=Різкі краї, що змінюються від клітинки до клітинки, як гра малювала туман.;
+	}
+
+[Soft edges where the graphics card draws the battlefield (Full).]
+	{
+	uk=Мʼякі краї, коли поле бою малює відеокарта («Повний»).;
+	}
+
+// Starting while iCloud downloads the game's files.
+
+[Downloading the game's files from iCloud…]
+	{
+	uk=Завантаження файлів гри з iCloud…;
 	}
