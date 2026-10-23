@@ -8532,19 +8532,9 @@
 
 // The mutator picker.
 
-[MUTATORS…]
-	{
-	zh-Hans=变异器……;
-	}
-
 [On]
 	{
 	zh-Hans=打开;
-	}
-
-[off]
-	{
-	zh-Hans=关闭;
 	}
 
 [mutators]
@@ -8754,11 +8744,6 @@
 	zh-Hans=使用这些;
 	}
 
-[The last game ended in a crash with {names} on. Forget the set and MUTATORS… opens empty next time; nothing is uninstalled.]
-	{
-	zh-Hans=上一局在开启{names}时崩溃了。忘记该组合后，下次打开“变异器……”时将为空；不会卸载任何内容。;
-	}
-
 [Left out of your last set: {names}]
 	{
 	zh-Hans=上次组合中未开启：{names};
@@ -8881,11 +8866,6 @@
 	zh-Hans=变异器已更新;
 	}
 
-[{name} is installed. Turn it on with MUTATORS… when you set up a game.]
-	{
-	zh-Hans={name}已安装。设置游戏时，可在“变异器……”中开启它。;
-	}
-
 [The folder {name} does not hold this mutator. It is left as it is.]
 	{
 	zh-Hans=文件夹{name}里不是这个变异器。该文件夹保持不变。;
@@ -8961,11 +8941,6 @@
 [GET MUTATORS]
 	{
 	zh-Hans=获取变异器;
-	}
-
-[OA only · unranked]
-	{
-	zh-Hans=仅OA · 不计排名;
 	}
 
 [VIEW…]
@@ -9205,3 +9180,63 @@
 	zh-Hans=此内容制作时使用了变异器，而本次运行不使用任何变异器。;
 	}
 
+// Open Annihilation 0.8.5: the Mutators button and its lines.
+
+[Mutators ({count})]
+	{
+	zh-Hans=变异器（{count}）;
+	}
+
+[{name} is installed. Turn it on with the Mutators button when you set up a game.]
+	{
+	zh-Hans={name}已安装。设置游戏时，可用“变异器”按钮开启它。;
+	}
+
+[The last game ended in a crash with {names} on. Forget the set and the Mutators button opens empty next time; nothing is uninstalled.]
+	{
+	zh-Hans=上一局在开启{names}时崩溃了。忘记该组合后，下次“变异器”按钮将打开空列表；不会卸载任何内容。;
+	}
+
+[Mutator packages (.oamut)]
+	{
+	zh-Hans=变异器包（.oamut）;
+	}
+
+[{unit}: {field} {value} held at {max}]
+	{
+	zh-Hans={unit}：{field} {value} 限制为 {max};
+	}
+
+// Graphics' Fog of War.
+
+[Fog of War]
+	{
+	zh-Hans=战争迷雾;
+	}
+
+[Classic]
+	{
+	zh-Hans=经典;
+	}
+
+[Smooth]
+	{
+	zh-Hans=平滑;
+	}
+
+[Hard edges that step from cell to cell, as the game drew the fog.]
+	{
+	zh-Hans=边缘生硬，逐格变化，与原版游戏绘制的迷雾相同。;
+	}
+
+[Soft edges where the graphics card draws the battlefield (Full).]
+	{
+	zh-Hans=显卡绘制战场时（完整）边缘柔和过渡。;
+	}
+
+// Starting while iCloud downloads the game's files.
+
+[Downloading the game's files from iCloud…]
+	{
+	zh-Hans=正在从iCloud下载游戏文件……;
+	}
