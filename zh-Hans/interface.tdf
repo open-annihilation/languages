@@ -9635,3 +9635,75 @@
 	{
 	zh-Hans=正在从iCloud下载游戏文件……;
 	}
+
+// Open Annihilation 0.8.6: Graphics' Full 3D camera and effects, and their lock lines.
+
+[Allow Full 3D Mode]
+	{
+	zh-Hans=允许完整3D模式;
+	}
+
+[Requires Full hardware acceleration.]
+	{
+	zh-Hans=需要将硬件加速设为完整。;
+	}
+
+[Unlocked Camera]
+	{
+	zh-Hans=解锁视角;
+	}
+
+[Allow angles outside the ideal range for TA art.]
+	{
+	zh-Hans=允许超出TA美术理想范围的角度。;
+	}
+
+[Coloured weapon lighting]
+	{
+	zh-Hans=彩色武器光照;
+	}
+
+[Nanolathe glow]
+	{
+	zh-Hans=纳米车床辉光;
+	}
+
+[Wreck glow]
+	{
+	zh-Hans=残骸辉光;
+	}
+
+[Heat distortion]
+	{
+	zh-Hans=热浪扭曲;
+	}
+
+[Water ripples]
+	{
+	zh-Hans=水面波纹;
+	}
+
+[Coastal waves]
+	{
+	zh-Hans=海岸波浪;
+	}
+
+[Underwater shimmer]
+	{
+	zh-Hans=水下波光;
+	}
+
+[Naval reflections]
+	{
+	zh-Hans=舰船倒影;
+	}
+
+[Needs Full acceleration]
+	{
+	zh-Hans=需要完整加速;
+	}
+
+[Needs Allow Full 3D Mode]
+	{
+	zh-Hans=需要允许完整3D模式;
+	}

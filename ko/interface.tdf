@@ -9238,3 +9238,470 @@
 	{
 	ko=iCloud에서 게임 파일 다운로드 중…;
 	}
+
+// Open Annihilation 0.8.6: the Library's Brains tab.
+
+[Brains]
+	{
+	ko=브레인;
+	}
+
+[Search brains, authors, tags]
+	{
+	ko=브레인, 제작자, 태그 검색;
+	}
+
+[Levels]
+	{
+	ko=난이도;
+	}
+
+[Rush]
+	{
+	ko=러시;
+	}
+
+[Turtle]
+	{
+	ko=수비형;
+	}
+
+[Air]
+	{
+	ko=공군;
+	}
+
+[Naval]
+	{
+	ko=해군;
+	}
+
+[Learned]
+	{
+	ko=학습형;
+	}
+
+[Teaching]
+	{
+	ko=교육용;
+	}
+
+[Experimental]
+	{
+	ko=실험적;
+	}
+
+[Full awareness]
+	{
+	ko=전체 시야;
+	}
+
+[Sees every unit on the map, as Total Annihilation's own computer player does]
+	{
+	ko=Total Annihilation의 원래 컴퓨터처럼 맵의 모든 유닛이 보임;
+	}
+
+[Uses a learned network ({size})]
+	{
+	ko=학습된 네트워크 사용({size});
+	}
+
+[it fits this game]
+	{
+	ko=이 게임에 맞음;
+	}
+
+[Installed · Default]
+	{
+	ko=설치됨 · 기본값;
+	}
+
+[Built in · Default]
+	{
+	ko=기본 제공 · 기본값;
+	}
+
+[Default]
+	{
+	ko=기본값;
+	}
+
+[Built-in computer player]
+	{
+	ko=기본 제공 컴퓨터;
+	}
+
+[Open Annihilation's own computer player. It plays as Total Annihilation's does.]
+	{
+	ko=Open Annihilation 자체의 컴퓨터입니다. Total Annihilation의 컴퓨터처럼 플레이합니다.;
+	}
+
+[Made for {names}]
+	{
+	ko={names}용;
+	}
+
+[It is your default computer player: new computer seats go back to the built-in player.]
+	{
+	ko=기본값으로 설정된 컴퓨터입니다. 새 컴퓨터 자리는 기본 제공 컴퓨터로 돌아갑니다.;
+	}
+
+[· {reason}]
+	{
+	ko=· {reason};
+	}
+
+[USE BY DEFAULT]
+	{
+	ko=기본값으로 설정;
+	}
+
+// A computer seat's brain and its picker.
+
+[Computer player]
+	{
+	ko=컴퓨터;
+	}
+
+[{seat} · {mod}]
+	{
+	ko={seat} · {mod};
+	}
+
+[Built-in]
+	{
+	ko=기본 제공;
+	}
+
+[Built into Open Annihilation]
+	{
+	ko=Open Annihilation에 기본 제공;
+	}
+
+[{brain} · {level}]
+	{
+	ko={brain} · {level};
+	}
+
+[{label} · every computer seat]
+	{
+	ko={label} · 모든 컴퓨터 자리;
+	}
+
+[Set by the Difficulty button: {level}]
+	{
+	ko=‘난이도’ 버튼으로 설정됨: {level};
+	}
+
+[Level]
+	{
+	ko=난이도;
+	}
+
+[Version]
+	{
+	ko=버전;
+	}
+
+[Use for every computer seat]
+	{
+	ko=모든 컴퓨터 자리에 사용;
+	}
+
+[Sees every unit on the map]
+	{
+	ko=맵의 모든 유닛이 보임;
+	}
+
+[{name} cannot play this seat now, so it starts on the built-in player.]
+	{
+	ko=지금은 {name}에 이 자리를 맡길 수 없어 기본 제공 컴퓨터로 시작합니다.;
+	}
+
+[USE THIS]
+	{
+	ko=사용;
+	}
+
+[No brains here yet. The Library on the main menu gets them.]
+	{
+	ko=아직 브레인이 없습니다. 메인 메뉴의 라이브러리에서 받을 수 있습니다.;
+	}
+
+[Seat {n}]
+	{
+	ko=자리 {n};
+	}
+
+// The battle room's brains.
+
+[{brain} {version} · {level}]
+	{
+	ko={brain} {version} · {level};
+	}
+
+// Installing a brain, and the .oabrain file switch.
+
+[brains]
+	{
+	ko=브레인;
+	}
+
+[Brain packages (.oabrain)]
+	{
+	ko=브레인 패키지(.oabrain);
+	}
+
+[Another copy of Open Annihilation is changing your Brains folder. Try again once it has finished.]
+	{
+	ko=실행 중인 다른 Open Annihilation이 Brains 폴더를 변경하고 있습니다. 작업이 끝난 뒤 다시 시도하세요.;
+	}
+
+[Your Brains folder changed while this brain was being installed; nothing was changed. Open the file again.]
+	{
+	ko=브레인을 설치하는 동안 Brains 폴더가 변경되어 아무것도 바꾸지 않았습니다. 파일을 다시 여세요.;
+	}
+
+[INSTALL BRAIN]
+	{
+	ko=브레인 설치;
+	}
+
+[INSTALLING BRAIN]
+	{
+	ko=브레인 설치 중;
+	}
+
+[Install the brain {name} {version}?]
+	{
+	ko={name} {version} 브레인을 설치하시겠습니까?;
+	}
+
+[REINSTALL BRAIN]
+	{
+	ko=브레인 재설치;
+	}
+
+[REPLACE BRAIN]
+	{
+	ko=브레인 교체;
+	}
+
+[UPDATE BRAIN]
+	{
+	ko=브레인 업데이트;
+	}
+
+[BRAIN INSTALLED]
+	{
+	ko=브레인 설치됨;
+	}
+
+[BRAIN NOT INSTALLED]
+	{
+	ko=브레인 설치 실패;
+	}
+
+[BRAIN UPDATED]
+	{
+	ko=브레인 업데이트됨;
+	}
+
+[The folder {name} does not hold this brain. It is left as it is.]
+	{
+	ko={name} 폴더에는 이 브레인이 없습니다. 폴더는 그대로 둡니다.;
+	}
+
+[Your Brains folder has no free folder name for it.]
+	{
+	ko=Brains 폴더에 이 브레인에 쓸 수 있는 폴더 이름이 없습니다.;
+	}
+
+[It holds no oabrain.yaml at its top, or in a single folder at its top.]
+	{
+	ko=최상위 또는 최상위의 단일 폴더 안에 oabrain.yaml 파일이 없습니다.;
+	}
+
+[Its oabrain.yaml is larger than 256 KiB.]
+	{
+	ko=oabrain.yaml 파일이 256 KiB보다 큽니다.;
+	}
+
+[Its oabrain.yaml has errors:]
+	{
+	ko=oabrain.yaml 파일에 오류가 있습니다:;
+	}
+
+[It holds more than {limit} folders, more than a brain may take.]
+	{
+	ko=폴더가 {limit}개를 넘어, 브레인에 허용되는 수를 초과합니다.;
+	}
+
+[It unpacks to {size}, more than the {limit} a brain may take.]
+	{
+	ko=압축을 푼 크기가 {size}에 달해, 브레인에 허용되는 최대 크기({limit})를 넘습니다.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a brain's files take.]
+	{
+	ko=압축 크기는 {packed}인데 풀면 {size}에 달해, 브레인 파일로는 지나치게 큽니다.;
+	}
+
+[It needs {size} free, and the disk holding your Brains folder has {free}.]
+	{
+	ko=여유 공간이 {size} 필요하지만 Brains 폴더가 있는 디스크의 여유 공간은 {free}입니다.;
+	}
+
+[The package holds {name}, outside the files a brain may hold.]
+	{
+	ko=패키지에 {name} 파일이 있지만, 브레인에 허용된 파일이 아닙니다.;
+	}
+
+[Its network {name} does not match the SHA-256 its oabrain.yaml gives.]
+	{
+	ko=네트워크 {name} 파일이 oabrain.yaml에 적힌 SHA-256과 일치하지 않습니다.;
+	}
+
+[Its network {name} is missing.]
+	{
+	ko=네트워크 {name} 파일이 없습니다.;
+	}
+
+[Its networks take {size}, more than the {limit} a brain may hold.]
+	{
+	ko=네트워크 크기가 {size}에 달해, 브레인에 허용되는 최대 크기({limit})를 넘습니다.;
+	}
+
+[Its table {name} is larger than 4 MiB.]
+	{
+	ko=테이블 {name} 파일이 4 MiB보다 큽니다.;
+	}
+
+[{name} is precompiled Lua. A brain holds Lua source only.]
+	{
+	ko={name} 파일은 미리 컴파일된 Lua입니다. 브레인에는 Lua 소스만 넣을 수 있습니다.;
+	}
+
+[{name} is installed. Choose it for a computer player when you set up a game.]
+	{
+	ko={name} 브레인을 설치했습니다. 게임을 설정할 때 컴퓨터로 선택하세요.;
+	}
+
+// When a brain stops, and saves and recordings that name a brain.
+
+[{brain} could not start ({reason}); the engine plays this seat]
+	{
+	ko={brain} 브레인을 시작하지 못했습니다({reason}). 이 자리는 엔진이 맡습니다;
+	}
+
+[{brain} does not fit this game ({reason}); the engine plays this seat]
+	{
+	ko={brain} 브레인은 이 게임에 맞지 않습니다({reason}). 이 자리는 엔진이 맡습니다;
+	}
+
+[{brain} stopped ({reason}); the engine plays this seat on]
+	{
+	ko={brain} 브레인이 중단되었습니다({reason}). 이 자리는 이제 엔진이 맡습니다;
+	}
+
+[The computer players this game was saved with cannot be read.]
+	{
+	ko=이 게임을 저장할 때의 컴퓨터 설정을 읽을 수 없습니다.;
+	}
+
+[This game was saved with {name} {version} playing seat {n}, which is not installed here.]
+	{
+	ko=이 게임은 {name} {version} 브레인이 {n}번 자리를 맡은 상태로 저장되었지만, 이 브레인은 여기에 설치되어 있지 않습니다.;
+	}
+
+[The built-in player takes those seats from the units as they stand. GET the brain in the Library to load the game as it was saved.]
+	{
+	ko=그 자리들은 기본 제공 컴퓨터가 유닛의 현재 상태 그대로 이어받습니다. 저장한 그대로 불러오려면 라이브러리에서 브레인을 받으세요.;
+	}
+
+[Load with the built-in player?]
+	{
+	ko=기본 제공 컴퓨터로 불러오시겠습니까?;
+	}
+
+[LOAD WITH THE BUILT-IN PLAYER]
+	{
+	ko=기본 제공 컴퓨터로 불러오기;
+	}
+
+[This saved game needs {name} {version}, which is not installed.]
+	{
+	ko=이 저장된 게임에는 {name} {version} 브레인이 필요하지만 설치되어 있지 않습니다.;
+	}
+
+// Open Annihilation 0.8.6: Graphics' Full 3D camera and effects, and their lock lines.
+
+[Allow Full 3D Mode]
+	{
+	ko=완전 3D 모드 허용;
+	}
+
+[Requires Full hardware acceleration.]
+	{
+	ko=하드웨어 가속이 ‘전체’여야 합니다.;
+	}
+
+[Unlocked Camera]
+	{
+	ko=카메라 제한 해제;
+	}
+
+[Allow angles outside the ideal range for TA art.]
+	{
+	ko=TA 그래픽에 이상적인 범위를 벗어난 각도도 허용합니다.;
+	}
+
+[Coloured weapon lighting]
+	{
+	ko=무기 색상 조명;
+	}
+
+[Nanolathe glow]
+	{
+	ko=나노 선반 발광;
+	}
+
+[Wreck glow]
+	{
+	ko=잔해 발광;
+	}
+
+[Heat distortion]
+	{
+	ko=열 왜곡;
+	}
+
+[Water ripples]
+	{
+	ko=수면 물결;
+	}
+
+[Coastal waves]
+	{
+	ko=해안 파도;
+	}
+
+[Underwater shimmer]
+	{
+	ko=수중 일렁임;
+	}
+
+[Naval reflections]
+	{
+	ko=함선 반사;
+	}
+
+[Needs Full acceleration]
+	{
+	ko=‘전체’ 가속 필요;
+	}
+
+[Needs Allow Full 3D Mode]
+	{
+	ko=‘완전 3D 모드 허용’ 필요;
+	}

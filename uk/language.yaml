@@ -15,6 +15,6 @@ fallbacks: []
 text: {needs: modern-fonts}
 unicode: true
 warmup: warmup.txt
-packaging: {revision: 5, date: 2026-10-23, packager: open-annihilation/languages tools/build.py}
+packaging: {revision: 6, date: 2026-10-25, packager: open-annihilation/languages tools/build.py}
 homepage: https://github.com/open-annihilation/languages
 requires: {engine: ">= 0.8.0"}

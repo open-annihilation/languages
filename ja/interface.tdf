@@ -9238,3 +9238,470 @@
 	{
 	ja=iCloudからゲームファイルをダウンロード中…;
 	}
+
+// Open Annihilation 0.8.6: the Library's Brains tab.
+
+[Brains]
+	{
+	ja=ブレイン;
+	}
+
+[Search brains, authors, tags]
+	{
+	ja=ブレイン、作者、タグを検索;
+	}
+
+[Levels]
+	{
+	ja=難易度;
+	}
+
+[Rush]
+	{
+	ja=ラッシュ;
+	}
+
+[Turtle]
+	{
+	ja=籠城;
+	}
+
+[Air]
+	{
+	ja=空軍;
+	}
+
+[Naval]
+	{
+	ja=海軍;
+	}
+
+[Learned]
+	{
+	ja=学習型;
+	}
+
+[Teaching]
+	{
+	ja=指導型;
+	}
+
+[Experimental]
+	{
+	ja=実験的;
+	}
+
+[Full awareness]
+	{
+	ja=全視界;
+	}
+
+[Sees every unit on the map, as Total Annihilation's own computer player does]
+	{
+	ja=Total Annihilation本来のコンピューターと同じく、マップ上の全ユニットが見える;
+	}
+
+[Uses a learned network ({size})]
+	{
+	ja=学習済みネットワークを使用（{size}）;
+	}
+
+[it fits this game]
+	{
+	ja=このゲームに適合;
+	}
+
+[Installed · Default]
+	{
+	ja=インストール済み · 既定;
+	}
+
+[Built in · Default]
+	{
+	ja=内蔵 · 既定;
+	}
+
+[Default]
+	{
+	ja=既定;
+	}
+
+[Built-in computer player]
+	{
+	ja=内蔵コンピューター;
+	}
+
+[Open Annihilation's own computer player. It plays as Total Annihilation's does.]
+	{
+	ja=Open Annihilation独自のコンピューターです。Total Annihilationのコンピューターと同じようにプレイします。;
+	}
+
+[Made for {names}]
+	{
+	ja={names}用;
+	}
+
+[It is your default computer player: new computer seats go back to the built-in player.]
+	{
+	ja=既定のコンピューターです。新しいコンピューターの席は内蔵コンピューターに戻ります。;
+	}
+
+[· {reason}]
+	{
+	ja=· {reason};
+	}
+
+[USE BY DEFAULT]
+	{
+	ja=既定に設定;
+	}
+
+// A computer seat's brain and its picker.
+
+[Computer player]
+	{
+	ja=コンピューター;
+	}
+
+[{seat} · {mod}]
+	{
+	ja={seat} · {mod};
+	}
+
+[Built-in]
+	{
+	ja=内蔵;
+	}
+
+[Built into Open Annihilation]
+	{
+	ja=Open Annihilationに内蔵;
+	}
+
+[{brain} · {level}]
+	{
+	ja={brain} · {level};
+	}
+
+[{label} · every computer seat]
+	{
+	ja={label} · すべてのコンピューターの席;
+	}
+
+[Set by the Difficulty button: {level}]
+	{
+	ja=「難易度」ボタンで設定：{level};
+	}
+
+[Level]
+	{
+	ja=難易度;
+	}
+
+[Version]
+	{
+	ja=バージョン;
+	}
+
+[Use for every computer seat]
+	{
+	ja=すべてのコンピューターの席に使う;
+	}
+
+[Sees every unit on the map]
+	{
+	ja=マップ上の全ユニットが見える;
+	}
+
+[{name} cannot play this seat now, so it starts on the built-in player.]
+	{
+	ja={name}は現在この席をプレイできないため、内蔵コンピューターで開始します。;
+	}
+
+[USE THIS]
+	{
+	ja=これを使う;
+	}
+
+[No brains here yet. The Library on the main menu gets them.]
+	{
+	ja=まだブレインがありません。メインメニューのライブラリで入手できます。;
+	}
+
+[Seat {n}]
+	{
+	ja=席{n};
+	}
+
+// The battle room's brains.
+
+[{brain} {version} · {level}]
+	{
+	ja={brain} {version} · {level};
+	}
+
+// Installing a brain, and the .oabrain file switch.
+
+[brains]
+	{
+	ja=ブレイン;
+	}
+
+[Brain packages (.oabrain)]
+	{
+	ja=ブレインパッケージ（.oabrain）;
+	}
+
+[Another copy of Open Annihilation is changing your Brains folder. Try again once it has finished.]
+	{
+	ja=別のOpen AnnihilationがBrainsフォルダーを変更しています。完了してからもう一度試してください。;
+	}
+
+[Your Brains folder changed while this brain was being installed; nothing was changed. Open the file again.]
+	{
+	ja=このブレインのインストール中にBrainsフォルダーが変更されたため、何も変更していません。もう一度ファイルを開いてください。;
+	}
+
+[INSTALL BRAIN]
+	{
+	ja=ブレインのインストール;
+	}
+
+[INSTALLING BRAIN]
+	{
+	ja=ブレインをインストール中;
+	}
+
+[Install the brain {name} {version}?]
+	{
+	ja=ブレイン{name} {version}をインストールしますか？;
+	}
+
+[REINSTALL BRAIN]
+	{
+	ja=ブレインの再インストール;
+	}
+
+[REPLACE BRAIN]
+	{
+	ja=ブレインの置き換え;
+	}
+
+[UPDATE BRAIN]
+	{
+	ja=ブレインの更新;
+	}
+
+[BRAIN INSTALLED]
+	{
+	ja=ブレインインストール完了;
+	}
+
+[BRAIN NOT INSTALLED]
+	{
+	ja=ブレインのインストール中止;
+	}
+
+[BRAIN UPDATED]
+	{
+	ja=ブレイン更新完了;
+	}
+
+[The folder {name} does not hold this brain. It is left as it is.]
+	{
+	ja=フォルダー{name}にはこのブレインが入っていません。そのフォルダーには手を加えません。;
+	}
+
+[Your Brains folder has no free folder name for it.]
+	{
+	ja=Brainsフォルダーに、これに使えるフォルダー名がありません。;
+	}
+
+[It holds no oabrain.yaml at its top, or in a single folder at its top.]
+	{
+	ja=最上位にも、最上位の単一フォルダー内にもoabrain.yamlがありません。;
+	}
+
+[Its oabrain.yaml is larger than 256 KiB.]
+	{
+	ja=oabrain.yamlが256 KiBを超えています。;
+	}
+
+[Its oabrain.yaml has errors:]
+	{
+	ja=oabrain.yamlにエラーがあります：;
+	}
+
+[It holds more than {limit} folders, more than a brain may take.]
+	{
+	ja=フォルダーが{limit}個を超えており、ブレインに許される数を超えています。;
+	}
+
+[It unpacks to {size}, more than the {limit} a brain may take.]
+	{
+	ja=展開すると{size}になり、ブレインに許される{limit}を超えます。;
+	}
+
+[It unpacks to {size} from {packed}, far more than a brain's files take.]
+	{
+	ja={packed}から展開すると{size}になり、ブレインのファイルとしては大きすぎます。;
+	}
+
+[It needs {size} free, and the disk holding your Brains folder has {free}.]
+	{
+	ja=空き容量が{size}必要ですが、Brainsフォルダーのあるディスクの空きは{free}です。;
+	}
+
+[The package holds {name}, outside the files a brain may hold.]
+	{
+	ja=パッケージに含まれる{name}は、ブレインに入れられるファイルではありません。;
+	}
+
+[Its network {name} does not match the SHA-256 its oabrain.yaml gives.]
+	{
+	ja=ネットワーク{name}が、oabrain.yamlに記載されたSHA-256と一致しません。;
+	}
+
+[Its network {name} is missing.]
+	{
+	ja=ネットワーク{name}がありません。;
+	}
+
+[Its networks take {size}, more than the {limit} a brain may hold.]
+	{
+	ja=ネットワークが{size}あり、ブレインに許される{limit}を超えています。;
+	}
+
+[Its table {name} is larger than 4 MiB.]
+	{
+	ja=テーブル{name}が4 MiBを超えています。;
+	}
+
+[{name} is precompiled Lua. A brain holds Lua source only.]
+	{
+	ja={name}はコンパイル済みのLuaです。ブレインに入れられるのはLuaのソースだけです。;
+	}
+
+[{name} is installed. Choose it for a computer player when you set up a game.]
+	{
+	ja={name}をインストールしました。ゲームの設定時にコンピューターとして選んでください。;
+	}
+
+// When a brain stops, and saves and recordings that name a brain.
+
+[{brain} could not start ({reason}); the engine plays this seat]
+	{
+	ja={brain}を開始できませんでした（{reason}）。この席はエンジンがプレイします;
+	}
+
+[{brain} does not fit this game ({reason}); the engine plays this seat]
+	{
+	ja={brain}はこのゲームに適合しません（{reason}）。この席はエンジンがプレイします;
+	}
+
+[{brain} stopped ({reason}); the engine plays this seat on]
+	{
+	ja={brain}が停止しました（{reason}）。この席は引き続きエンジンがプレイします;
+	}
+
+[The computer players this game was saved with cannot be read.]
+	{
+	ja=このゲームのセーブ時のコンピューターを読み込めません。;
+	}
+
+[This game was saved with {name} {version} playing seat {n}, which is not installed here.]
+	{
+	ja=このゲームは{name} {version}が席{n}をプレイした状態でセーブされましたが、このブレインはここにインストールされていません。;
+	}
+
+[The built-in player takes those seats from the units as they stand. GET the brain in the Library to load the game as it was saved.]
+	{
+	ja=それらの席は、ユニットを現在の状態のまま内蔵コンピューターが引き継ぎます。セーブ時のとおりにロードするには、ライブラリでブレインを入手してください。;
+	}
+
+[Load with the built-in player?]
+	{
+	ja=内蔵コンピューターでロードしますか？;
+	}
+
+[LOAD WITH THE BUILT-IN PLAYER]
+	{
+	ja=内蔵コンピューターでロード;
+	}
+
+[This saved game needs {name} {version}, which is not installed.]
+	{
+	ja=このセーブデータには{name} {version}が必要ですが、インストールされていません。;
+	}
+
+// Open Annihilation 0.8.6: Graphics' Full 3D camera and effects, and their lock lines.
+
+[Allow Full 3D Mode]
+	{
+	ja=フル3Dモードを許可;
+	}
+
+[Requires Full hardware acceleration.]
+	{
+	ja=ハードウェアアクセラレーションをフルにする必要があります。;
+	}
+
+[Unlocked Camera]
+	{
+	ja=カメラの制限解除;
+	}
+
+[Allow angles outside the ideal range for TA art.]
+	{
+	ja=TAのグラフィックに適した範囲外の角度も許可します。;
+	}
+
+[Coloured weapon lighting]
+	{
+	ja=武器のカラー照明;
+	}
+
+[Nanolathe glow]
+	{
+	ja=ナノ旋盤の発光;
+	}
+
+[Wreck glow]
+	{
+	ja=残骸の発光;
+	}
+
+[Heat distortion]
+	{
+	ja=熱による歪み;
+	}
+
+[Water ripples]
+	{
+	ja=水面の波紋;
+	}
+
+[Coastal waves]
+	{
+	ja=海岸の波;
+	}
+
+[Underwater shimmer]
+	{
+	ja=水中のゆらめき;
+	}
+
+[Naval reflections]
+	{
+	ja=艦船の映り込み;
+	}
+
+[Needs Full acceleration]
+	{
+	ja=「フル」の加速が必要;
+	}
+
+[Needs Allow Full 3D Mode]
+	{
+	ja=「フル3Dモードを許可」が必要;
+	}

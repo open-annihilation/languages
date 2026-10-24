@@ -9238,3 +9238,470 @@
 	{
 	uk=Завантаження файлів гри з iCloud…;
 	}
+
+// Open Annihilation 0.8.6: the Library's Brains tab.
+
+[Brains]
+	{
+	uk=Мозки;
+	}
+
+[Search brains, authors, tags]
+	{
+	uk=Пошук мозків, авторів, тегів;
+	}
+
+[Levels]
+	{
+	uk=Рівні;
+	}
+
+[Rush]
+	{
+	uk=Раш;
+	}
+
+[Turtle]
+	{
+	uk=Оборона;
+	}
+
+[Air]
+	{
+	uk=Авіація;
+	}
+
+[Naval]
+	{
+	uk=Флот;
+	}
+
+[Learned]
+	{
+	uk=Навчений;
+	}
+
+[Teaching]
+	{
+	uk=Навчальний;
+	}
+
+[Experimental]
+	{
+	uk=Експериментальний;
+	}
+
+[Full awareness]
+	{
+	uk=Повна видимість;
+	}
+
+[Sees every unit on the map, as Total Annihilation's own computer player does]
+	{
+	uk=Бачить усі підрозділи на мапі, як і компʼютер самої Total Annihilation;
+	}
+
+[Uses a learned network ({size})]
+	{
+	uk=Використовує навчену мережу ({size});
+	}
+
+[it fits this game]
+	{
+	uk=підходить для цієї гри;
+	}
+
+[Installed · Default]
+	{
+	uk=Встановлено · Типовий;
+	}
+
+[Built in · Default]
+	{
+	uk=Вбудований · Типовий;
+	}
+
+[Default]
+	{
+	uk=Типовий;
+	}
+
+[Built-in computer player]
+	{
+	uk=Вбудований компʼютерний гравець;
+	}
+
+[Open Annihilation's own computer player. It plays as Total Annihilation's does.]
+	{
+	uk=Власний компʼютерний гравець Open Annihilation. Грає так само, як компʼютер Total Annihilation.;
+	}
+
+[Made for {names}]
+	{
+	uk=Створено для: {names};
+	}
+
+[It is your default computer player: new computer seats go back to the built-in player.]
+	{
+	uk=Це твій типовий компʼютерний гравець: нові місця компʼютера повернуться до вбудованого гравця.;
+	}
+
+[· {reason}]
+	{
+	uk=· {reason};
+	}
+
+[USE BY DEFAULT]
+	{
+	uk=ЗРОБИТИ ТИПОВИМ;
+	}
+
+// A computer seat's brain and its picker.
+
+[Computer player]
+	{
+	uk=Компʼютерний гравець;
+	}
+
+[{seat} · {mod}]
+	{
+	uk={seat} · {mod};
+	}
+
+[Built-in]
+	{
+	uk=Вбудований;
+	}
+
+[Built into Open Annihilation]
+	{
+	uk=Вбудований в Open Annihilation;
+	}
+
+[{brain} · {level}]
+	{
+	uk={brain} · {level};
+	}
+
+[{label} · every computer seat]
+	{
+	uk={label} · усі місця компʼютера;
+	}
+
+[Set by the Difficulty button: {level}]
+	{
+	uk=Задано кнопкою «Складність»: {level};
+	}
+
+[Level]
+	{
+	uk=Рівень;
+	}
+
+[Version]
+	{
+	uk=Версія;
+	}
+
+[Use for every computer seat]
+	{
+	uk=Для всіх місць компʼютера;
+	}
+
+[Sees every unit on the map]
+	{
+	uk=Бачить усі підрозділи на мапі;
+	}
+
+[{name} cannot play this seat now, so it starts on the built-in player.]
+	{
+	uk={name} зараз не може зайняти це місце, тож гру почне вбудований гравець.;
+	}
+
+[USE THIS]
+	{
+	uk=ОБРАТИ;
+	}
+
+[No brains here yet. The Library on the main menu gets them.]
+	{
+	uk=Тут поки немає мозків. Їх можна отримати в Бібліотеці з головного меню.;
+	}
+
+[Seat {n}]
+	{
+	uk=Місце {n};
+	}
+
+// The battle room's brains.
+
+[{brain} {version} · {level}]
+	{
+	uk={brain} {version} · {level};
+	}
+
+// Installing a brain, and the .oabrain file switch.
+
+[brains]
+	{
+	uk=мозки;
+	}
+
+[Brain packages (.oabrain)]
+	{
+	uk=Пакети мозків (.oabrain);
+	}
+
+[Another copy of Open Annihilation is changing your Brains folder. Try again once it has finished.]
+	{
+	uk=Інша копія Open Annihilation змінює твою папку Brains. Спробуй ще раз, коли вона закінчить.;
+	}
+
+[Your Brains folder changed while this brain was being installed; nothing was changed. Open the file again.]
+	{
+	uk=Поки встановлювався цей мозок, твоя папка Brains змінилася. Нічого не змінено. Відкрий файл знову.;
+	}
+
+[INSTALL BRAIN]
+	{
+	uk=ВСТАНОВИТИ МОЗОК;
+	}
+
+[INSTALLING BRAIN]
+	{
+	uk=ВСТАНОВЛЕННЯ МОЗКУ;
+	}
+
+[Install the brain {name} {version}?]
+	{
+	uk=Встановити мозок {name} {version}?;
+	}
+
+[REINSTALL BRAIN]
+	{
+	uk=ПЕРЕВСТАНОВИТИ МОЗОК;
+	}
+
+[REPLACE BRAIN]
+	{
+	uk=ЗАМІНИТИ МОЗОК;
+	}
+
+[UPDATE BRAIN]
+	{
+	uk=ОНОВИТИ МОЗОК;
+	}
+
+[BRAIN INSTALLED]
+	{
+	uk=МОЗОК ВСТАНОВЛЕНО;
+	}
+
+[BRAIN NOT INSTALLED]
+	{
+	uk=МОЗОК НЕ ВСТАНОВЛЕНО;
+	}
+
+[BRAIN UPDATED]
+	{
+	uk=МОЗОК ОНОВЛЕНО;
+	}
+
+[The folder {name} does not hold this brain. It is left as it is.]
+	{
+	uk=Папка {name} не містить цього мозку. Її залишено як є.;
+	}
+
+[Your Brains folder has no free folder name for it.]
+	{
+	uk=У твоїй папці Brains немає вільної назви папки для нього.;
+	}
+
+[It holds no oabrain.yaml at its top, or in a single folder at its top.]
+	{
+	uk=В архіві немає oabrain.yaml ні в корені, ні в єдиній папці в корені.;
+	}
+
+[Its oabrain.yaml is larger than 256 KiB.]
+	{
+	uk=Файл oabrain.yaml в архіві більший за 256 КіБ.;
+	}
+
+[Its oabrain.yaml has errors:]
+	{
+	uk=Файл oabrain.yaml в архіві містить помилки:;
+	}
+
+[It holds more than {limit} folders, more than a brain may take.]
+	{
+	uk=Кількість папок у ньому перевищує дозволені для мозку {limit}.;
+	}
+
+[It unpacks to {size}, more than the {limit} a brain may take.]
+	{
+	uk=Після розпакування займає {size}, а мозок може займати щонайбільше {limit}.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a brain's files take.]
+	{
+	uk=Після розпакування з {packed} займає {size} — набагато більше, ніж файли будь-якого мозку.;
+	}
+
+[It needs {size} free, and the disk holding your Brains folder has {free}.]
+	{
+	uk=Потрібно {size} вільного місця, а на диску з твоєю папкою Brains вільно {free}.;
+	}
+
+[The package holds {name}, outside the files a brain may hold.]
+	{
+	uk=Пакет містить {name} — файл, якого не може бути в мозку.;
+	}
+
+[Its network {name} does not match the SHA-256 its oabrain.yaml gives.]
+	{
+	uk=Його мережа {name} не збігається з SHA-256, зазначеним в oabrain.yaml.;
+	}
+
+[Its network {name} is missing.]
+	{
+	uk=Його мережа {name} відсутня.;
+	}
+
+[Its networks take {size}, more than the {limit} a brain may hold.]
+	{
+	uk=Його мережі займають {size}, а мозок може містити щонайбільше {limit}.;
+	}
+
+[Its table {name} is larger than 4 MiB.]
+	{
+	uk=Його таблиця {name} більша за 4 МіБ.;
+	}
+
+[{name} is precompiled Lua. A brain holds Lua source only.]
+	{
+	uk={name} — попередньо скомпільований Lua. Мозок може містити лише вихідний код Lua.;
+	}
+
+[{name} is installed. Choose it for a computer player when you set up a game.]
+	{
+	uk=Мозок {name} встановлено. Обери його для компʼютерного гравця, коли налаштовуватимеш гру.;
+	}
+
+// When a brain stops, and saves and recordings that name a brain.
+
+[{brain} could not start ({reason}); the engine plays this seat]
+	{
+	uk=Мозок {brain} не запустився ({reason}). Цим місцем керує рушій;
+	}
+
+[{brain} does not fit this game ({reason}); the engine plays this seat]
+	{
+	uk=Мозок {brain} не підходить для цієї гри ({reason}). Цим місцем керує рушій;
+	}
+
+[{brain} stopped ({reason}); the engine plays this seat on]
+	{
+	uk=Мозок {brain} зупинився ({reason}). Далі цим місцем керує рушій;
+	}
+
+[The computer players this game was saved with cannot be read.]
+	{
+	uk=Не вдалося прочитати, з якими компʼютерними гравцями збережено цю гру.;
+	}
+
+[This game was saved with {name} {version} playing seat {n}, which is not installed here.]
+	{
+	uk=Цю гру збережено, коли місце {n} займав мозок {name} {version}, а тут його не встановлено.;
+	}
+
+[The built-in player takes those seats from the units as they stand. GET the brain in the Library to load the game as it was saved.]
+	{
+	uk=Ці місця займе вбудований гравець, залишивши підрозділи як є. Щоб завантажити гру в збереженому вигляді, натисни ОТРИМАТИ біля цього мозку в Бібліотеці.;
+	}
+
+[Load with the built-in player?]
+	{
+	uk=Завантажити з вбудованим гравцем?;
+	}
+
+[LOAD WITH THE BUILT-IN PLAYER]
+	{
+	uk=ВІДКРИТИ;
+	}
+
+[This saved game needs {name} {version}, which is not installed.]
+	{
+	uk=Для цієї збереженої гри потрібен мозок {name} {version}, але його не встановлено.;
+	}
+
+// Open Annihilation 0.8.6: Graphics' Full 3D camera and effects, and their lock lines.
+
+[Allow Full 3D Mode]
+	{
+	uk=Дозволити повний 3D-режим;
+	}
+
+[Requires Full hardware acceleration.]
+	{
+	uk=Потрібен режим апаратного прискорення «Повний».;
+	}
+
+[Unlocked Camera]
+	{
+	uk=Вільна камера;
+	}
+
+[Allow angles outside the ideal range for TA art.]
+	{
+	uk=Дозволяє кути поза діапазоном, ідеальним для графіки TA.;
+	}
+
+[Coloured weapon lighting]
+	{
+	uk=Кольорове світло зброї;
+	}
+
+[Nanolathe glow]
+	{
+	uk=Світіння нановерстатів;
+	}
+
+[Wreck glow]
+	{
+	uk=Світіння уламків;
+	}
+
+[Heat distortion]
+	{
+	uk=Теплові спотворення;
+	}
+
+[Water ripples]
+	{
+	uk=Брижі на воді;
+	}
+
+[Coastal waves]
+	{
+	uk=Прибій;
+	}
+
+[Underwater shimmer]
+	{
+	uk=Підводні відблиски;
+	}
+
+[Naval reflections]
+	{
+	uk=Відображення кораблів;
+	}
+
+[Needs Full acceleration]
+	{
+	uk=Потрібне прискорення «Повний»;
+	}
+
+[Needs Allow Full 3D Mode]
+	{
+	uk=Потрібен повний 3D-режим;
+	}

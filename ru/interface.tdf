@@ -9238,3 +9238,470 @@
 	{
 	ru=Скачивание файлов игры из iCloud…;
 	}
+
+// Open Annihilation 0.8.6: the Library's Brains tab.
+
+[Brains]
+	{
+	ru=Мозги;
+	}
+
+[Search brains, authors, tags]
+	{
+	ru=Поиск мозгов, авторов, тегов;
+	}
+
+[Levels]
+	{
+	ru=Уровни;
+	}
+
+[Rush]
+	{
+	ru=Раш;
+	}
+
+[Turtle]
+	{
+	ru=Оборона;
+	}
+
+[Air]
+	{
+	ru=Авиация;
+	}
+
+[Naval]
+	{
+	ru=Флот;
+	}
+
+[Learned]
+	{
+	ru=Обученный;
+	}
+
+[Teaching]
+	{
+	ru=Обучающий;
+	}
+
+[Experimental]
+	{
+	ru=Экспериментальный;
+	}
+
+[Full awareness]
+	{
+	ru=Полный обзор;
+	}
+
+[Sees every unit on the map, as Total Annihilation's own computer player does]
+	{
+	ru=Видит все юниты на карте, как и компьютер самой Total Annihilation;
+	}
+
+[Uses a learned network ({size})]
+	{
+	ru=Использует обученную сеть ({size});
+	}
+
+[it fits this game]
+	{
+	ru=подходит для этой игры;
+	}
+
+[Installed · Default]
+	{
+	ru=Установлено · По умолчанию;
+	}
+
+[Built in · Default]
+	{
+	ru=Встроенный · По умолчанию;
+	}
+
+[Default]
+	{
+	ru=По умолчанию;
+	}
+
+[Built-in computer player]
+	{
+	ru=Встроенный компьютерный игрок;
+	}
+
+[Open Annihilation's own computer player. It plays as Total Annihilation's does.]
+	{
+	ru=Собственный компьютерный игрок Open Annihilation. Играет так же, как компьютер Total Annihilation.;
+	}
+
+[Made for {names}]
+	{
+	ru=Создан для: {names};
+	}
+
+[It is your default computer player: new computer seats go back to the built-in player.]
+	{
+	ru=Это ваш компьютерный игрок по умолчанию: новые места компьютера вернутся к встроенному игроку.;
+	}
+
+[· {reason}]
+	{
+	ru=· {reason};
+	}
+
+[USE BY DEFAULT]
+	{
+	ru=ИСПОЛЬЗОВАТЬ ПО УМОЛЧАНИЮ;
+	}
+
+// A computer seat's brain and its picker.
+
+[Computer player]
+	{
+	ru=Компьютерный игрок;
+	}
+
+[{seat} · {mod}]
+	{
+	ru={seat} · {mod};
+	}
+
+[Built-in]
+	{
+	ru=Встроенный;
+	}
+
+[Built into Open Annihilation]
+	{
+	ru=Встроен в Open Annihilation;
+	}
+
+[{brain} · {level}]
+	{
+	ru={brain} · {level};
+	}
+
+[{label} · every computer seat]
+	{
+	ru={label} · все места компьютера;
+	}
+
+[Set by the Difficulty button: {level}]
+	{
+	ru=Задано кнопкой «Сложность»: {level};
+	}
+
+[Level]
+	{
+	ru=Уровень;
+	}
+
+[Version]
+	{
+	ru=Версия;
+	}
+
+[Use for every computer seat]
+	{
+	ru=Для всех мест компьютера;
+	}
+
+[Sees every unit on the map]
+	{
+	ru=Видит все юниты на карте;
+	}
+
+[{name} cannot play this seat now, so it starts on the built-in player.]
+	{
+	ru={name} сейчас не может занять это место, поэтому игру начнёт встроенный игрок.;
+	}
+
+[USE THIS]
+	{
+	ru=ВЫБРАТЬ;
+	}
+
+[No brains here yet. The Library on the main menu gets them.]
+	{
+	ru=Здесь пока нет мозгов. Их можно получить в Библиотеке из главного меню.;
+	}
+
+[Seat {n}]
+	{
+	ru=Место {n};
+	}
+
+// The battle room's brains.
+
+[{brain} {version} · {level}]
+	{
+	ru={brain} {version} · {level};
+	}
+
+// Installing a brain, and the .oabrain file switch.
+
+[brains]
+	{
+	ru=мозги;
+	}
+
+[Brain packages (.oabrain)]
+	{
+	ru=Пакеты мозгов (.oabrain);
+	}
+
+[Another copy of Open Annihilation is changing your Brains folder. Try again once it has finished.]
+	{
+	ru=Другая копия Open Annihilation изменяет вашу папку Brains. Попробуйте ещё раз, когда она закончит.;
+	}
+
+[Your Brains folder changed while this brain was being installed; nothing was changed. Open the file again.]
+	{
+	ru=Пока устанавливался этот мозг, ваша папка Brains изменилась. Ничего не изменено. Откройте файл снова.;
+	}
+
+[INSTALL BRAIN]
+	{
+	ru=УСТАНОВИТЬ МОЗГ;
+	}
+
+[INSTALLING BRAIN]
+	{
+	ru=УСТАНОВКА МОЗГА;
+	}
+
+[Install the brain {name} {version}?]
+	{
+	ru=Установить мозг {name} {version}?;
+	}
+
+[REINSTALL BRAIN]
+	{
+	ru=ПЕРЕУСТАНОВИТЬ МОЗГ;
+	}
+
+[REPLACE BRAIN]
+	{
+	ru=ЗАМЕНИТЬ МОЗГ;
+	}
+
+[UPDATE BRAIN]
+	{
+	ru=ОБНОВИТЬ МОЗГ;
+	}
+
+[BRAIN INSTALLED]
+	{
+	ru=МОЗГ УСТАНОВЛЕН;
+	}
+
+[BRAIN NOT INSTALLED]
+	{
+	ru=МОЗГ НЕ УСТАНОВЛЕН;
+	}
+
+[BRAIN UPDATED]
+	{
+	ru=МОЗГ ОБНОВЛЁН;
+	}
+
+[The folder {name} does not hold this brain. It is left as it is.]
+	{
+	ru=Папка {name} не содержит этот мозг. Она оставлена как есть.;
+	}
+
+[Your Brains folder has no free folder name for it.]
+	{
+	ru=В вашей папке Brains нет свободного имени папки для него.;
+	}
+
+[It holds no oabrain.yaml at its top, or in a single folder at its top.]
+	{
+	ru=В архиве нет oabrain.yaml ни в корне, ни в единственной папке в корне.;
+	}
+
+[Its oabrain.yaml is larger than 256 KiB.]
+	{
+	ru=Файл oabrain.yaml в архиве больше 256 КиБ.;
+	}
+
+[Its oabrain.yaml has errors:]
+	{
+	ru=Файл oabrain.yaml в архиве содержит ошибки:;
+	}
+
+[It holds more than {limit} folders, more than a brain may take.]
+	{
+	ru=Папок в нём больше, чем допустимо для мозга ({limit}).;
+	}
+
+[It unpacks to {size}, more than the {limit} a brain may take.]
+	{
+	ru=После распаковки он занимает {size}, а мозг может занимать не более {limit}.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a brain's files take.]
+	{
+	ru=После распаковки из {packed} он занимает {size} — намного больше, чем занимают файлы мозга.;
+	}
+
+[It needs {size} free, and the disk holding your Brains folder has {free}.]
+	{
+	ru=Нужно {size} свободного места, а на диске с вашей папкой Brains свободно {free}.;
+	}
+
+[The package holds {name}, outside the files a brain may hold.]
+	{
+	ru=Пакет содержит файл {name}, который не может входить в мозг.;
+	}
+
+[Its network {name} does not match the SHA-256 its oabrain.yaml gives.]
+	{
+	ru=Его сеть {name} не совпадает с SHA-256, указанным в oabrain.yaml.;
+	}
+
+[Its network {name} is missing.]
+	{
+	ru=Его сеть {name} отсутствует.;
+	}
+
+[Its networks take {size}, more than the {limit} a brain may hold.]
+	{
+	ru=Его сети занимают {size}, а мозг может содержать не более {limit}.;
+	}
+
+[Its table {name} is larger than 4 MiB.]
+	{
+	ru=Его таблица {name} больше 4 МиБ.;
+	}
+
+[{name} is precompiled Lua. A brain holds Lua source only.]
+	{
+	ru={name} — предварительно скомпилированный Lua. Мозг может содержать только исходный код Lua.;
+	}
+
+[{name} is installed. Choose it for a computer player when you set up a game.]
+	{
+	ru=Мозг {name} установлен. Выберите его для компьютерного игрока при настройке игры.;
+	}
+
+// When a brain stops, and saves and recordings that name a brain.
+
+[{brain} could not start ({reason}); the engine plays this seat]
+	{
+	ru=Мозг {brain} не запустился ({reason}). Этим местом управляет движок;
+	}
+
+[{brain} does not fit this game ({reason}); the engine plays this seat]
+	{
+	ru=Мозг {brain} не подходит для этой игры ({reason}). Этим местом управляет движок;
+	}
+
+[{brain} stopped ({reason}); the engine plays this seat on]
+	{
+	ru=Мозг {brain} остановился ({reason}). Дальше этим местом управляет движок;
+	}
+
+[The computer players this game was saved with cannot be read.]
+	{
+	ru=Не удаётся прочитать, с какими компьютерными игроками сохранена эта игра.;
+	}
+
+[This game was saved with {name} {version} playing seat {n}, which is not installed here.]
+	{
+	ru=Эта игра сохранена, когда место {n} занимал мозг {name} {version}, а здесь он не установлен.;
+	}
+
+[The built-in player takes those seats from the units as they stand. GET the brain in the Library to load the game as it was saved.]
+	{
+	ru=Эти места займёт встроенный игрок, оставив юниты как есть. Чтобы загрузить игру в сохранённом виде, нажмите ПОЛУЧИТЬ у этого мозга в Библиотеке.;
+	}
+
+[Load with the built-in player?]
+	{
+	ru=Загрузить со встроенным игроком?;
+	}
+
+[LOAD WITH THE BUILT-IN PLAYER]
+	{
+	ru=ЗАГРУЗИТЬ;
+	}
+
+[This saved game needs {name} {version}, which is not installed.]
+	{
+	ru=Для этой сохранённой игры нужен мозг {name} {version}, но он не установлен.;
+	}
+
+// Open Annihilation 0.8.6: Graphics' Full 3D camera and effects, and their lock lines.
+
+[Allow Full 3D Mode]
+	{
+	ru=Разрешить полный 3D-режим;
+	}
+
+[Requires Full hardware acceleration.]
+	{
+	ru=Требуется аппаратное ускорение «Полный».;
+	}
+
+[Unlocked Camera]
+	{
+	ru=Свободная камера;
+	}
+
+[Allow angles outside the ideal range for TA art.]
+	{
+	ru=Разрешает углы за пределами диапазона, идеального для графики TA.;
+	}
+
+[Coloured weapon lighting]
+	{
+	ru=Цветной свет оружия;
+	}
+
+[Nanolathe glow]
+	{
+	ru=Свечение наносборщиков;
+	}
+
+[Wreck glow]
+	{
+	ru=Свечение обломков;
+	}
+
+[Heat distortion]
+	{
+	ru=Тепловые искажения;
+	}
+
+[Water ripples]
+	{
+	ru=Рябь на воде;
+	}
+
+[Coastal waves]
+	{
+	ru=Прибой;
+	}
+
+[Underwater shimmer]
+	{
+	ru=Подводные блики;
+	}
+
+[Naval reflections]
+	{
+	ru=Отражения кораблей;
+	}
+
+[Needs Full acceleration]
+	{
+	ru=Нужно ускорение «Полный»;
+	}
+
+[Needs Allow Full 3D Mode]
+	{
+	ru=Нужен полный 3D-режим;
+	}
