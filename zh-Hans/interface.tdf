@@ -9048,6 +9048,401 @@
 	zh-Hans={name}：{problem};
 	}
 
+// Open Annihilation 0.8.6: the Library's Brains tab.
+
+[Brains]
+	{
+	zh-Hans=大脑;
+	}
+
+[Search brains, authors, tags]
+	{
+	zh-Hans=搜索大脑、作者、标签;
+	}
+
+[Levels]
+	{
+	zh-Hans=难度;
+	}
+
+[Rush]
+	{
+	zh-Hans=速攻;
+	}
+
+[Turtle]
+	{
+	zh-Hans=龟缩;
+	}
+
+[Air]
+	{
+	zh-Hans=空军;
+	}
+
+[Naval]
+	{
+	zh-Hans=海军;
+	}
+
+[Learned]
+	{
+	zh-Hans=学习;
+	}
+
+[Teaching]
+	{
+	zh-Hans=教学;
+	}
+
+[Experimental]
+	{
+	zh-Hans=实验;
+	}
+
+[Full awareness]
+	{
+	zh-Hans=全图视野;
+	}
+
+[Sees every unit on the map, as Total Annihilation's own computer player does]
+	{
+	zh-Hans=能看到地图上的每个单位，与Total Annihilation自带的电脑玩家相同;
+	}
+
+[Uses a learned network ({size})]
+	{
+	zh-Hans=使用学习得来的网络（{size}）;
+	}
+
+[it fits this game]
+	{
+	zh-Hans=适用于本局;
+	}
+
+[Installed · Default]
+	{
+	zh-Hans=已安装 · 默认;
+	}
+
+[Built in · Default]
+	{
+	zh-Hans=内置 · 默认;
+	}
+
+[Default]
+	{
+	zh-Hans=默认;
+	}
+
+[Built-in computer player]
+	{
+	zh-Hans=内置电脑玩家;
+	}
+
+[Open Annihilation's own computer player. It plays as Total Annihilation's does.]
+	{
+	zh-Hans=Open Annihilation自带的电脑玩家。其打法与Total Annihilation相同。;
+	}
+
+[Made for {names}]
+	{
+	zh-Hans=专为{names}制作;
+	}
+
+[It is your default computer player: new computer seats go back to the built-in player.]
+	{
+	zh-Hans=它是你的默认电脑玩家：新的电脑席位会回到内置玩家。;
+	}
+
+[· {reason}]
+	{
+	zh-Hans=· {reason};
+	}
+
+[USE BY DEFAULT]
+	{
+	zh-Hans=设为默认;
+	}
+
+// A computer seat's brain and its picker.
+
+[Computer player]
+	{
+	zh-Hans=电脑玩家;
+	}
+
+[{seat} · {mod}]
+	{
+	zh-Hans={seat} · {mod};
+	}
+
+[Built-in]
+	{
+	zh-Hans=内置;
+	}
+
+[Built into Open Annihilation]
+	{
+	zh-Hans=内置于Open Annihilation;
+	}
+
+[{brain} · {level}]
+	{
+	zh-Hans={brain} · {level};
+	}
+
+[{label} · every computer seat]
+	{
+	zh-Hans={label} · 所有电脑席位;
+	}
+
+[Set by the Difficulty button: {level}]
+	{
+	zh-Hans=由难度按钮设定：{level};
+	}
+
+[Level]
+	{
+	zh-Hans=难度;
+	}
+
+[Version]
+	{
+	zh-Hans=版本;
+	}
+
+[Use for every computer seat]
+	{
+	zh-Hans=用于所有电脑席位;
+	}
+
+[Sees every unit on the map]
+	{
+	zh-Hans=能看到地图上的每个单位;
+	}
+
+[{name} cannot play this seat now, so it starts on the built-in player.]
+	{
+	zh-Hans={name}目前无法执掌此席位，因此改由内置玩家开始。;
+	}
+
+[USE THIS]
+	{
+	zh-Hans=选用;
+	}
+
+[No brains here yet. The Library on the main menu gets them.]
+	{
+	zh-Hans=这里还没有大脑。主菜单的资源库可以获取它们。;
+	}
+
+[Seat {n}]
+	{
+	zh-Hans=席位{n};
+	}
+
+// The battle room's brains.
+
+[{brain} {version} · {level}]
+	{
+	zh-Hans={brain} {version} · {level};
+	}
+
+// Installing a brain, and the .oabrain file switch.
+
+[brains]
+	{
+	zh-Hans=大脑;
+	}
+
+[Brain packages (.oabrain)]
+	{
+	zh-Hans=大脑包（.oabrain）;
+	}
+
+[Another copy of Open Annihilation is changing your Brains folder. Try again once it has finished.]
+	{
+	zh-Hans=另一个Open Annihilation正在更改你的Brains文件夹。请在其完成后再试。;
+	}
+
+[Your Brains folder changed while this brain was being installed; nothing was changed. Open the file again.]
+	{
+	zh-Hans=安装此大脑时你的Brains文件夹发生了变化。未做任何更改。请重新打开该文件。;
+	}
+
+[INSTALL BRAIN]
+	{
+	zh-Hans=安装大脑;
+	}
+
+[INSTALLING BRAIN]
+	{
+	zh-Hans=正在安装大脑;
+	}
+
+[Install the brain {name} {version}?]
+	{
+	zh-Hans=要安装大脑{name} {version}吗？;
+	}
+
+[REINSTALL BRAIN]
+	{
+	zh-Hans=重新安装大脑;
+	}
+
+[REPLACE BRAIN]
+	{
+	zh-Hans=替换大脑;
+	}
+
+[UPDATE BRAIN]
+	{
+	zh-Hans=更新大脑;
+	}
+
+[BRAIN INSTALLED]
+	{
+	zh-Hans=大脑已安装;
+	}
+
+[BRAIN NOT INSTALLED]
+	{
+	zh-Hans=大脑未安装;
+	}
+
+[BRAIN UPDATED]
+	{
+	zh-Hans=大脑已更新;
+	}
+
+[The folder {name} does not hold this brain. It is left as it is.]
+	{
+	zh-Hans=文件夹{name}里不是这个大脑。该文件夹保持不变。;
+	}
+
+[Your Brains folder has no free folder name for it.]
+	{
+	zh-Hans=你的Brains文件夹中没有可供它使用的文件夹名。;
+	}
+
+[It holds no oabrain.yaml at its top, or in a single folder at its top.]
+	{
+	zh-Hans=其顶层或顶层的唯一文件夹中没有oabrain.yaml。;
+	}
+
+[Its oabrain.yaml is larger than 256 KiB.]
+	{
+	zh-Hans=其oabrain.yaml大于256 KiB。;
+	}
+
+[Its oabrain.yaml has errors:]
+	{
+	zh-Hans=其oabrain.yaml有错误：;
+	}
+
+[It holds more than {limit} folders, more than a brain may take.]
+	{
+	zh-Hans=其中的文件夹超过{limit}个，超过了大脑允许的数量。;
+	}
+
+[It unpacks to {size}, more than the {limit} a brain may take.]
+	{
+	zh-Hans=解压后为{size}，超过了大脑可占用的{limit}。;
+	}
+
+[It unpacks to {size} from {packed}, far more than a brain's files take.]
+	{
+	zh-Hans=解压后为{size}（压缩前为{packed}），远超大脑文件应有的大小。;
+	}
+
+[It needs {size} free, and the disk holding your Brains folder has {free}.]
+	{
+	zh-Hans=需要{size}可用空间，而你的Brains文件夹所在磁盘只有{free}。;
+	}
+
+[The package holds {name}, outside the files a brain may hold.]
+	{
+	zh-Hans=此包含有{name}，它不在大脑允许的文件中。;
+	}
+
+[Its network {name} does not match the SHA-256 its oabrain.yaml gives.]
+	{
+	zh-Hans=其网络{name}与oabrain.yaml给出的SHA-256不一致。;
+	}
+
+[Its network {name} is missing.]
+	{
+	zh-Hans=缺少其网络{name}。;
+	}
+
+[Its networks take {size}, more than the {limit} a brain may hold.]
+	{
+	zh-Hans=其网络占用{size}，超过了大脑可容纳的{limit}。;
+	}
+
+[Its table {name} is larger than 4 MiB.]
+	{
+	zh-Hans=其数据表{name}大于4 MiB。;
+	}
+
+[{name} is precompiled Lua. A brain holds Lua source only.]
+	{
+	zh-Hans={name}是预编译的Lua。大脑只能包含Lua源码。;
+	}
+
+[{name} is installed. Choose it for a computer player when you set up a game.]
+	{
+	zh-Hans={name}已安装。设置游戏时，可选用它作为电脑玩家。;
+	}
+
+// When a brain stops, and saves and recordings that name a brain.
+
+[{brain} could not start ({reason}); the engine plays this seat]
+	{
+	zh-Hans={brain}未能启动（{reason}）。引擎接管此席位;
+	}
+
+[{brain} does not fit this game ({reason}); the engine plays this seat]
+	{
+	zh-Hans={brain}不适用于本局（{reason}）。引擎接管此席位;
+	}
+
+[{brain} stopped ({reason}); the engine plays this seat on]
+	{
+	zh-Hans={brain}已停止（{reason}）。引擎继续执掌此席位;
+	}
+
+[The computer players this game was saved with cannot be read.]
+	{
+	zh-Hans=无法读取本局存档所用的电脑玩家。;
+	}
+
+[This game was saved with {name} {version} playing seat {n}, which is not installed here.]
+	{
+	zh-Hans=本局存档由{name} {version}执掌席位{n}，此处未安装。;
+	}
+
+[The built-in player takes those seats from the units as they stand. GET the brain in the Library to load the game as it was saved.]
+	{
+	zh-Hans=内置玩家按单位当前的状态接管这些席位。在资源库中获取该大脑，才能按存档时的样子读取本局。;
+	}
+
+[Load with the built-in player?]
+	{
+	zh-Hans=改用内置玩家读取？;
+	}
+
+[LOAD WITH THE BUILT-IN PLAYER]
+	{
+	zh-Hans=用内置玩家读取;
+	}
+
+[This saved game needs {name} {version}, which is not installed.]
+	{
+	zh-Hans=此存档需要{name} {version}，尚未安装。;
+	}
+
 [Getting {name}: {percent}%]
 	{
 	zh-Hans=正在获取{name}：{percent}%;
