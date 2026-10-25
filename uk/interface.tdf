@@ -9626,7 +9626,7 @@
 
 [LOAD WITH THE BUILT-IN PLAYER]
 	{
-	uk=ВІДКРИТИ;
+	uk=ЗАВАНТАЖИТИ;
 	}
 
 [This saved game needs {name} {version}, which is not installed.]
