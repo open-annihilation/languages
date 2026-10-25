@@ -8966,6 +8966,11 @@
 	ru=*** {list};
 	}
 
+[*** {player} chose a side this game does not have.]
+	{
+	ru=*** Игрок {player} выбрал сторону, которой нет в этой игре.;
+	}
+
 [*** {player} does not have {name}.]
 	{
 	ru=*** У игрока {player} нет мутатора {name}.;

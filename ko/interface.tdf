@@ -8966,6 +8966,11 @@
 	ko=*** {list};
 	}
 
+[*** {player} chose a side this game does not have.]
+	{
+	ko=*** {player} 님이 이 게임에 없는 진영을 선택했습니다.;
+	}
+
 [*** {player} does not have {name}.]
 	{
 	ko=*** {player} 님에게 {name} 뮤테이터가 없습니다.;

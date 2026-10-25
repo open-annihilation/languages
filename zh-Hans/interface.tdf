@@ -8968,6 +8968,11 @@
 	zh-Hans=*** {list};
 	}
 
+[*** {player} chose a side this game does not have.]
+	{
+	zh-Hans=*** {player}选择了本游戏没有的阵营。;
+	}
+
 [*** {player} does not have {name}.]
 	{
 	zh-Hans=*** {player}没有{name}。;

@@ -8966,6 +8966,11 @@
 	ja=*** {list};
 	}
 
+[*** {player} chose a side this game does not have.]
+	{
+	ja=*** {player}はこのゲームにない陣営を選びました。;
+	}
+
 [*** {player} does not have {name}.]
 	{
 	ja=*** {player}は{name}を持っていません。;

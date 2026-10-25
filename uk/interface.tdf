@@ -8966,6 +8966,11 @@
 	uk=*** {list};
 	}
 
+[*** {player} chose a side this game does not have.]
+	{
+	uk=*** Гравець {player} обрав сторону, якої немає в цій грі.;
+	}
+
 [*** {player} does not have {name}.]
 	{
 	uk=*** У гравця {player} немає {name}.;
