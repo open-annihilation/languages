@@ -7319,6 +7319,16 @@
 	uk=Прилипання;
 	}
 
+[Switching off {name}…]
+	{
+	uk=Вимкнення {name}…;
+	}
+
+[Switching on {name}…]
+	{
+	uk=Увімкнення {name}…;
+	}
+
 [Switching to {name} restarts the game's files, then loads this save.]
 	{
 	uk=Перехід на {name} перезавантажить файли гри, а тоді завантажить це збереження.;

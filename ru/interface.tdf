@@ -7319,6 +7319,16 @@
 	ru=Прилипание;
 	}
 
+[Switching off {name}…]
+	{
+	ru=Отключение {name}…;
+	}
+
+[Switching on {name}…]
+	{
+	ru=Включение {name}…;
+	}
+
 [Switching to {name} restarts the game's files, then loads this save.]
 	{
 	ru=Переключение на {name} перезапустит файлы игры, а затем загрузит это сохранение.;

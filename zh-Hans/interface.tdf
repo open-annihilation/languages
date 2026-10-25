@@ -7321,6 +7321,16 @@
 	zh-Hans=贴边;
 	}
 
+[Switching off {name}…]
+	{
+	zh-Hans=正在关闭{name}…;
+	}
+
+[Switching on {name}…]
+	{
+	zh-Hans=正在开启{name}…;
+	}
+
 [Switching to {name} restarts the game's files, then loads this save.]
 	{
 	zh-Hans=切换到{name}会重新载入游戏文件，然后载入这个存档。;

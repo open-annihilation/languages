@@ -7319,6 +7319,16 @@
 	ja=吸着;
 	}
 
+[Switching off {name}…]
+	{
+	ja={name}をオフにしています…;
+	}
+
+[Switching on {name}…]
+	{
+	ja={name}をオンにしています…;
+	}
+
 [Switching to {name} restarts the game's files, then loads this save.]
 	{
 	ja={name}に切り替えるとゲームのファイルを読み込み直してから、このセーブデータをロードします。;

@@ -7319,6 +7319,16 @@
 	ko=걸림;
 	}
 
+[Switching off {name}…]
+	{
+	ko={name} 끄는 중…;
+	}
+
+[Switching on {name}…]
+	{
+	ko={name} 켜는 중…;
+	}
+
 [Switching to {name} restarts the game's files, then loads this save.]
 	{
 	ko={name}(으)로 전환하면 게임 파일을 새로 읽은 뒤 이 저장된 게임을 불러옵니다.;
