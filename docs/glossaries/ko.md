@@ -373,3 +373,32 @@ short: about as many syllables as the Chinese has characters, at most about
 1.5 times. Prefer the shortest natural wording for a button: `시작` over
 `시작하기`, `불러오기` over `게임 불러오기` when the screen already says
 "game". Sentences in dialogs and hints may be as long as they need to be.
+
+## 10. Keys
+
+One word for each idea, in the key editor, the overlay, Settings › Controls,
+Settings › Accessibility, Library › Keys and the install question.
+
+| English | Korean |
+|---|---|
+| key layout | 키 배치 |
+| key editor | 키 편집기 |
+| action (a binding; also where English still says "command" for one) | 동작 |
+| changes of your own | 내 변경 |
+| clash | 충돌 |
+| latch / latched | 고정 / 고정됨 |
+| letter (of a key) | 글자 |
+| place (of a key) | 위치 |
+| hold to confirm | 길게 눌러 확인 |
+
+Named keys as a Korean keyboard prints them. Shift, Ctrl, Alt, Esc, Escape,
+Tab, Enter, Backspace, Delete, Insert, Home, End, Page Up, Page Down,
+Caps Lock, F1–F12 and Win stay Latin. 한/영 stays 한/영.
+
+| English | Korean |
+|---|---|
+| Space | 스페이스 |
+| Arrow up / down / left / right | 위쪽 화살표 / 아래쪽 화살표 / 왼쪽 화살표 / 오른쪽 화살표 |
+| Numpad | 숫자 키 |
+| Left / Right / Middle button | 왼쪽 버튼 / 오른쪽 버튼 / 가운데 버튼 |
+| Wheel up / down | 휠 위 / 휠 아래 |
