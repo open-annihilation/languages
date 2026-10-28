@@ -11683,11 +11683,6 @@
 	ja=固定チップ;
 	}
 
-[Overlays]
-	{
-	ja=オーバーレイ;
-	}
-
 [Queue and the status strip latch: tap on, tap off. A chip shows each one on.]
 	{
 	ja=予約とステータス帯は固定です。タップでオン、もう一度タップでオフになります。オンのものはチップで示します。;
@@ -12877,16 +12872,6 @@
 	ja=ミューテーター1個オン;
 	}
 
-[Mutators: off]
-	{
-	ja=ミューテーター：オフ;
-	}
-
-[Mutators: {count} on]
-	{
-	ja=ミューテーター：{count}個オン;
-	}
-
 [No mutators on]
 	{
 	ja=オンのミューテーターなし;
@@ -13382,11 +13367,6 @@
 [Done]
 	{
 	ja=完了;
-	}
-
-[Duplicate…]
-	{
-	ja=複製…;
 	}
 
 [Empty]
@@ -14019,11 +13999,6 @@
 	ja=名前;
 	}
 
-[Name this layout]
-	{
-	ja=このキー配置に名前を付ける;
-	}
-
 [Needs Allow full 3D mode]
 	{
 	ja=「フル3Dモードを許可」が必要;
@@ -14367,11 +14342,6 @@
 [Remove]
 	{
 	ja=削除;
-	}
-
-[Rename…]
-	{
-	ja=名前を変更…;
 	}
 
 [Replacing keeps {installed}, and Roll back in the Library brings it back.]
@@ -15732,5 +15702,186 @@
 [▼ Down]
 	{
 	ja=▼ 下へ;
+	}
+
+// Settings › Accessibility: Move overlays, and where the overlays show.
+
+[Move overlays]
+	{
+	ja=オーバーレイを移動;
+	}
+
+[The keys overlay, the chat line and the latch chips show where you put them.]
+	{
+	ja=キーオーバーレイ、チャット行、固定チップは、置いた場所に表示されます。;
+	}
+
+[Off, they show where the game puts them.]
+	{
+	ja=オフでは、ゲームが置く場所に表示されます。;
+	}
+
+[Overlay places]
+	{
+	ja=オーバーレイの位置;
+	}
+
+[Your places]
+	{
+	ja=自分の位置;
+	}
+
+[The game's places]
+	{
+	ja=ゲームの位置;
+	}
+
+[Arrange…]
+	{
+	ja=並べる…;
+	}
+
+[Drag them on a picture of the match. Each window size keeps its own places.]
+	{
+	ja=対戦の絵の上でドラッグしてください。ウィンドウサイズごとに、それぞれの位置を保持します。;
+	}
+
+// Arrange overlays: the picture of the match, and its sample chat.
+
+[Side panel]
+	{
+	ja=サイドパネル;
+	}
+
+[Top bar]
+	{
+	ja=上バー;
+	}
+
+[Bottom bar]
+	{
+	ja=下バー;
+	}
+
+[Ready when you are]
+	{
+	ja=準備できたらどうぞ;
+	}
+
+// Settings › Controls: whether a group's key also centres the view.
+
+[Group keys centre the view]
+	{
+	ja=グループキーで画面を中央へ;
+	}
+
+[Whether a group's key also moves the view to the group.]
+	{
+	ja=グループのキーで、そのグループへ画面も移動するかどうかです。;
+	}
+
+[On a double press]
+	{
+	ja=2回押しで;
+	}
+
+[On every press]
+	{
+	ja=押すたびに;
+	}
+
+// The battle room's mutators button. The colon became a middle dot.
+
+[Mutators · off]
+	{
+	ja=ミューテ · オフ;
+	}
+
+[Mutators · {count} on]
+	{
+	ja=ミューテ · {count}オン;
+	}
+
+// The key editor: Clone…, and Rename and Describe….
+
+[Clone…]
+	{
+	ja=クローン…;
+	}
+
+[Rename and Describe…]
+	{
+	ja=名前と説明を変更…;
+	}
+
+[Clone {layout}]
+	{
+	ja={layout}をクローン;
+	}
+
+[Rename and Describe {layout}]
+	{
+	ja={layout}の名前と説明を変更;
+	}
+
+[Description]
+	{
+	ja=説明;
+	}
+
+[Copy of {layout}]
+	{
+	ja={layout}のコピー;
+	}
+
+[Based on {layout}]
+	{
+	ja={layout}に基づく;
+	}
+
+[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share… saves it as a file.]
+	{
+	ja={layout}と自分の変更から作る、自分のキー配置です。ここで開きます。「変更を保存」で保持し、「共有…」でファイルに保存します。;
+	}
+
+[Another key layout is called {name}.]
+	{
+	ja=別のキー配置が{name}という名前です。;
+	}
+
+[This name is too long.]
+	{
+	ja=この名前は長すぎます。;
+	}
+
+[Clone]
+	{
+	ja=クローン;
+	}
+
+// The in-game menu's OA Settings button.
+
+[OA Settings]
+	{
+	ja=OA設定;
+	}
+
+// Library filters: the heading over world tags, beside TAGS.
+
+[WORLD]
+	{
+	ja=ワールド;
+	}
+
+[World: {tag} ({count})]
+	{
+	ja=ワールド：{tag}（{count}）;
+	}
+
+// Named keys: Option, the name a Mac gives the Alt key.
+
+[Option]
+	{
+	ja=Alt;
 	}
 

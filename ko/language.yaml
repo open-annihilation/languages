@@ -16,6 +16,6 @@ text: {needs: modern-fonts}
 unicode: true
 fonts: [{file: NotoSansCJKkr-Bold.otf, role: ideographs}]
 warmup: warmup.txt
-packaging: {revision: 6, date: 2026-10-28, packager: open-annihilation/languages tools/build.py}
+packaging: {revision: 7, date: 2026-10-28, packager: open-annihilation/languages tools/build.py}
 homepage: https://github.com/open-annihilation/languages
 requires: {engine: ">= 0.8.0"}

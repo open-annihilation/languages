@@ -90,3 +90,94 @@ loanword, `Destróier`, `ABERTURA` for INTRO, `Sim`/`Não` for 3.1c's On/Off
 `RECUPERAR`, the Serpent and the Scorpion left in English in the
 briefings, and every unit's proper name left in English (Peewee, Big
 Bertha) while the generic names are translated.
+
+## Words to look at with native speakers
+
+The packs' translator was unsure of these, and gave reasons. Each line is
+the English, the translation the pack uses, and why.
+
+### Japanese (ja)
+
+- "brain": ブレイン, a loanword. A Japanese word for a computer player's mind
+  did not read as the thing the Library installs.
+- "computer player": コンピューター, as 3.1c's Computer. Spelling out
+  「コンピュータープレイヤー」 would say the same thing twice beside ブレイン.
+- Rush ラッシュ, Turtle 籠城, Learned 学習型, Teaching 指導型. Turtle is 籠城
+  (holding a position), not タートル, which is also an animal.
+- "Full 3D Mode": フル3Dモード. The label is フル3Dモードを許可.
+- "Clone" (the key editor's Duplicate…, now Clone…): クローン. 複製 is the
+  pack's old word for Duplicate, and a clone here is a key layout of the
+  player's own. A player may still expect 複製.
+- "WORLD", the Library heading over world tags, and "World: {tag} ({count})":
+  ワールド and ワールド：{tag}（{count}）, parallel to タグ. The pack had no
+  word for a mod's world.
+- "Option", the name a Mac gives the Alt key: Alt, the key the pack and the
+  glossary already name. A Mac's key is printed Option.
+- "Ready when you are", the sample line in Arrange overlays' chat: 準備できたらどうぞ.
+- The battle room's mutators button is ミューテ · オフ and ミューテ · {count}オン.
+  ミューテーター does not fit on the button. The rest of the pack still says ミューテーター.
+
+### Korean (ko)
+
+- "brain": 브레인, a loanword, for the same reason as the Japanese.
+- "computer player": 컴퓨터, as 3.1c's Computer.
+- Rush 러시, Turtle 수비형, Learned 학습형, Teaching 교육용. Turtle is 수비형
+  (a defensive style), not 거북, the animal.
+- "Full 3D Mode": 완전 3D 모드, not 전체 ("whole"). The label is 완전 3D 모드 허용.
+- "Clone": 복제, the same word the pack used for Duplicate…. Korean does not
+  split the two, so the old translation moved with the English.
+- "WORLD" and "World: {tag} ({count})": 월드 and 월드: {tag} ({count}),
+  parallel to 태그. The pack had no word for a mod's world.
+- "Option": Alt, the key the pack already names.
+- "Ready when you are": 준비되면 말씀해 주세요.
+
+### Russian (ru)
+
+- "brain": мозг (and мозги on the Library's tab). As the engine's German and
+  French do. Мозги can read a little colloquially.
+- "computer player": компьютерный игрок, spelt out, because «встроенный
+  компьютер» alone reads as hardware.
+- Rush Раш, Turtle Оборона, Learned Обученный, Teaching Обучающий. Turtle is
+  Оборона, not Черепаха, which is also a unit's name.
+- "Full 3D Mode": полный 3D-режим. The label is Разрешить полный 3D-режим.
+- "Clone": Клонировать, where Duplicate… was Дублировать…. The meaning moved
+  from a duplicate to a layout of the player's own.
+- "WORLD" and "World: {tag} ({count})": МИР (beside ТЕГИ) and Мир: {tag}
+  ({count}). The pack had no word for a mod's world.
+- "Option": Alt.
+- "Ready when you are": По готовности, so the sample chat does not take a
+  gender.
+- The battle room's mutators button is Мутат. · выкл. and Мутат. · {count}.
+  Мутаторы does not fit on the button. The rest of the pack still says мутаторы.
+
+### Ukrainian (uk)
+
+- "brain": мозок (and мозки on the Library's tab). Мозки can read a little
+  colloquially.
+- "computer player": компʼютерний гравець, spelt out, because «вбудований
+  компʼютер» alone reads as hardware.
+- Rush Раш, Turtle Оборона, Learned Навчений, Teaching Навчальний. Turtle is
+  Оборона, not Черепаха, which is also a unit's name.
+- "Full 3D Mode": повний 3D-режим. The label is Дозволити повний 3D-режим.
+- "Clone": Клонувати, where Duplicate… was Дублювати….
+- "WORLD" and "World: {tag} ({count})": СВІТ (beside ТЕГИ) and Світ: {tag}
+  ({count}).
+- "Option": Alt.
+- "Ready when you are": По готовності, so the sample chat does not take a
+  gender.
+- The battle room's mutators button is Мутат. · вимк. and Мутат. · {count}.
+  Мутатори does not fit on the button. The rest of the pack still says мутатори.
+
+### Simplified Chinese (zh-Hans)
+
+- "brain": 大脑, the mind, not a loanword. The pack already said 大脑 for the
+  Library's Brains tab.
+- "computer player": 电脑玩家, spelt out.
+- Rush 速攻, Turtle 龟缩, Learned 学习, Teaching 教学. Turtle is the RTS
+  sense of holing up, not 龟, the animal.
+- "Full 3D Mode": 完整3D模式. The label is 允许完整3D模式.
+- "Clone": 克隆, where Duplicate… was 复制…. A player may still expect 复制.
+- "WORLD" and "World: {tag} ({count})": 世界 and 世界：{tag}（{count}）,
+  parallel to 标签.
+- "Option": Alt.
+- "Ready when you are": 准备好了就说一声.

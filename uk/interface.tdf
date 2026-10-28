@@ -11683,11 +11683,6 @@
 	uk=Чіпи закріплення;
 	}
 
-[Overlays]
-	{
-	uk=Оверлеї;
-	}
-
 [Queue and the status strip latch: tap on, tap off. A chip shows each one on.]
 	{
 	uk=Черга й смуга стану закріплюються: дотик увімк., дотик вимк. Плашка показує кожну, коли її увімкнено.;
@@ -12877,16 +12872,6 @@
 	uk=1 мутатор увімкнено;
 	}
 
-[Mutators: off]
-	{
-	uk=Мутатори: вимкнено;
-	}
-
-[Mutators: {count} on]
-	{
-	uk=Мутатори: увімкнено {count};
-	}
-
 [No mutators on]
 	{
 	uk=Жодного мутатора не увімкнено;
@@ -13382,11 +13367,6 @@
 [Done]
 	{
 	uk=ГОТОВО;
-	}
-
-[Duplicate…]
-	{
-	uk=Дублювати…;
 	}
 
 [Empty]
@@ -14019,11 +13999,6 @@
 	uk=Назва;
 	}
 
-[Name this layout]
-	{
-	uk=Назвати цю розкладку клавіш;
-	}
-
 [Needs Allow full 3D mode]
 	{
 	uk=Потрібен повний 3D-режим;
@@ -14367,11 +14342,6 @@
 [Remove]
 	{
 	uk=ВИДАЛИТИ;
-	}
-
-[Rename…]
-	{
-	uk=Перейменувати…;
 	}
 
 [Replacing keeps {installed}, and Roll back in the Library brings it back.]
@@ -15732,5 +15702,186 @@
 [▼ Down]
 	{
 	uk=▼ ВНИЗ;
+	}
+
+// Settings › Accessibility: Move overlays, and where the overlays show.
+
+[Move overlays]
+	{
+	uk=Переміщувати оверлеї;
+	}
+
+[The keys overlay, the chat line and the latch chips show where you put them.]
+	{
+	uk=Оверлей клавіш, рядок чату й чіпи закріплення стоять там, де ти їх ставиш.;
+	}
+
+[Off, they show where the game puts them.]
+	{
+	uk=Вимк.: вони стоять там, де їх ставить гра.;
+	}
+
+[Overlay places]
+	{
+	uk=Місця оверлеїв;
+	}
+
+[Your places]
+	{
+	uk=Твої місця;
+	}
+
+[The game's places]
+	{
+	uk=Місця гри;
+	}
+
+[Arrange…]
+	{
+	uk=Упорядкувати…;
+	}
+
+[Drag them on a picture of the match. Each window size keeps its own places.]
+	{
+	uk=Перетягни їх на зображенні партії. Кожен розмір вікна зберігає свої місця.;
+	}
+
+// Arrange overlays: the picture of the match, and its sample chat.
+
+[Side panel]
+	{
+	uk=Бічна панель;
+	}
+
+[Top bar]
+	{
+	uk=Верхня смуга;
+	}
+
+[Bottom bar]
+	{
+	uk=Нижня смуга;
+	}
+
+[Ready when you are]
+	{
+	uk=По готовності;
+	}
+
+// Settings › Controls: whether a group's key also centres the view.
+
+[Group keys centre the view]
+	{
+	uk=Клавіші групи центрують вид;
+	}
+
+[Whether a group's key also moves the view to the group.]
+	{
+	uk=Чи переміщує клавіша групи вид до цієї групи.;
+	}
+
+[On a double press]
+	{
+	uk=При подвійному натисканні;
+	}
+
+[On every press]
+	{
+	uk=При кожному натисканні;
+	}
+
+// The battle room's mutators button. The colon became a middle dot.
+
+[Mutators · off]
+	{
+	uk=Мутат. · вимк.;
+	}
+
+[Mutators · {count} on]
+	{
+	uk=Мутат. · {count};
+	}
+
+// The key editor: Clone…, and Rename and Describe….
+
+[Clone…]
+	{
+	uk=Клонувати…;
+	}
+
+[Rename and Describe…]
+	{
+	uk=Перейменувати й описати…;
+	}
+
+[Clone {layout}]
+	{
+	uk=Клонувати {layout};
+	}
+
+[Rename and Describe {layout}]
+	{
+	uk=Перейменувати й описати {layout};
+	}
+
+[Description]
+	{
+	uk=Опис;
+	}
+
+[Copy of {layout}]
+	{
+	uk=Копія {layout};
+	}
+
+[Based on {layout}]
+	{
+	uk=На основі {layout};
+	}
+
+[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share… saves it as a file.]
+	{
+	uk=Власна розкладка клавіш із {layout} і твоїх змін. Вона відкривається тут. «Зберегти зміни» лишає її, а «Поділитися…» зберігає її у файл.;
+	}
+
+[Another key layout is called {name}.]
+	{
+	uk=Інша розкладка клавіш називається {name}.;
+	}
+
+[This name is too long.]
+	{
+	uk=Це імʼя задовге.;
+	}
+
+[Clone]
+	{
+	uk=Клонувати;
+	}
+
+// The in-game menu's OA Settings button.
+
+[OA Settings]
+	{
+	uk=Налаштування OA;
+	}
+
+// Library filters: the heading over world tags, beside TAGS.
+
+[WORLD]
+	{
+	uk=СВІТ;
+	}
+
+[World: {tag} ({count})]
+	{
+	uk=Світ: {tag} ({count});
+	}
+
+// Named keys: Option, the name a Mac gives the Alt key.
+
+[Option]
+	{
+	uk=Alt;
 	}
 
