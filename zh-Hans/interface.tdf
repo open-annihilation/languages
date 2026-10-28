@@ -11685,11 +11685,6 @@
 	zh-Hans=锁定标签;
 	}
 
-[Overlays]
-	{
-	zh-Hans=叠加层;
-	}
-
 [Queue and the status strip latch: tap on, tap off. A chip shows each one on.]
 	{
 	zh-Hans=排队和状态条会锁定：点按开启，再点按关闭。标记会显示每一项已开启。;
@@ -12879,16 +12874,6 @@
 	zh-Hans=已开启变异器1个;
 	}
 
-[Mutators: off]
-	{
-	zh-Hans=变异器：关;
-	}
-
-[Mutators: {count} on]
-	{
-	zh-Hans=变异器：开{count}个;
-	}
-
 [No mutators on]
 	{
 	zh-Hans=未开启变异器;
@@ -13384,11 +13369,6 @@
 [Done]
 	{
 	zh-Hans=完成;
-	}
-
-[Duplicate…]
-	{
-	zh-Hans=复制…;
 	}
 
 [Empty]
@@ -14021,11 +14001,6 @@
 	zh-Hans=名称;
 	}
 
-[Name this layout]
-	{
-	zh-Hans=命名此按键布局;
-	}
-
 [Needs Allow full 3D mode]
 	{
 	zh-Hans=需要允许完整3D模式;
@@ -14369,11 +14344,6 @@
 [Remove]
 	{
 	zh-Hans=删除;
-	}
-
-[Rename…]
-	{
-	zh-Hans=重命名…;
 	}
 
 [Replacing keeps {installed}, and Roll back in the Library brings it back.]
@@ -15734,5 +15704,186 @@
 [▼ Down]
 	{
 	zh-Hans=▼ 下移;
+	}
+
+// Settings › Accessibility: Move overlays, and where the overlays show.
+
+[Move overlays]
+	{
+	zh-Hans=移动叠加层;
+	}
+
+[The keys overlay, the chat line and the latch chips show where you put them.]
+	{
+	zh-Hans=按键叠加层、聊天行和锁定标签显示在你放置的位置。;
+	}
+
+[Off, they show where the game puts them.]
+	{
+	zh-Hans=关闭后，它们显示在游戏放置的位置。;
+	}
+
+[Overlay places]
+	{
+	zh-Hans=叠加层位置;
+	}
+
+[Your places]
+	{
+	zh-Hans=你的位置;
+	}
+
+[The game's places]
+	{
+	zh-Hans=游戏的位置;
+	}
+
+[Arrange…]
+	{
+	zh-Hans=排列…;
+	}
+
+[Drag them on a picture of the match. Each window size keeps its own places.]
+	{
+	zh-Hans=请在对局的画面上拖动它们。每种窗口大小会记住自己的位置。;
+	}
+
+// Arrange overlays: the picture of the match, and its sample chat.
+
+[Side panel]
+	{
+	zh-Hans=侧边栏;
+	}
+
+[Top bar]
+	{
+	zh-Hans=顶栏;
+	}
+
+[Bottom bar]
+	{
+	zh-Hans=底栏;
+	}
+
+[Ready when you are]
+	{
+	zh-Hans=准备好了就说一声;
+	}
+
+// Settings › Controls: whether a group's key also centres the view.
+
+[Group keys centre the view]
+	{
+	zh-Hans=编队键使视图居中;
+	}
+
+[Whether a group's key also moves the view to the group.]
+	{
+	zh-Hans=编队键是否也会把视图移到该编队。;
+	}
+
+[On a double press]
+	{
+	zh-Hans=双按时;
+	}
+
+[On every press]
+	{
+	zh-Hans=每次按下;
+	}
+
+// The battle room's mutators button. The colon became a middle dot.
+
+[Mutators · off]
+	{
+	zh-Hans=变异器 · 关;
+	}
+
+[Mutators · {count} on]
+	{
+	zh-Hans=变异器 · 开{count}个;
+	}
+
+// The key editor: Clone…, and Rename and Describe….
+
+[Clone…]
+	{
+	zh-Hans=克隆…;
+	}
+
+[Rename and Describe…]
+	{
+	zh-Hans=重命名并描述…;
+	}
+
+[Clone {layout}]
+	{
+	zh-Hans=克隆{layout};
+	}
+
+[Rename and Describe {layout}]
+	{
+	zh-Hans=重命名并描述{layout};
+	}
+
+[Description]
+	{
+	zh-Hans=描述;
+	}
+
+[Copy of {layout}]
+	{
+	zh-Hans={layout}的副本;
+	}
+
+[Based on {layout}]
+	{
+	zh-Hans=基于{layout};
+	}
+
+[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share… saves it as a file.]
+	{
+	zh-Hans=一份你自己的按键布局，来自{layout}和你的更改。它会在这里打开。保存更改会保留它，分享…会把它存成文件。;
+	}
+
+[Another key layout is called {name}.]
+	{
+	zh-Hans=另一个按键布局名为{name}。;
+	}
+
+[This name is too long.]
+	{
+	zh-Hans=这个名字太长。;
+	}
+
+[Clone]
+	{
+	zh-Hans=克隆;
+	}
+
+// The in-game menu's OA Settings button.
+
+[OA Settings]
+	{
+	zh-Hans=OA设置;
+	}
+
+// Library filters: the heading over world tags, beside TAGS.
+
+[WORLD]
+	{
+	zh-Hans=世界;
+	}
+
+[World: {tag} ({count})]
+	{
+	zh-Hans=世界：{tag}（{count}）;
+	}
+
+// Named keys: Option, the name a Mac gives the Alt key.
+
+[Option]
+	{
+	zh-Hans=Alt;
 	}
 

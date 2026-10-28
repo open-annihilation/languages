@@ -11683,11 +11683,6 @@
 	ru=Чипы закрепления;
 	}
 
-[Overlays]
-	{
-	ru=Оверлеи;
-	}
-
 [Queue and the status strip latch: tap on, tap off. A chip shows each one on.]
 	{
 	ru=Очередь и полоса статуса закрепляются: нажатие включает, нажатие выключает. Плашка показывает, что каждая включена.;
@@ -12877,16 +12872,6 @@
 	ru=Включён 1 мутатор;
 	}
 
-[Mutators: off]
-	{
-	ru=Мутаторы: выкл.;
-	}
-
-[Mutators: {count} on]
-	{
-	ru=Мутаторы, включено: {count};
-	}
-
 [No mutators on]
 	{
 	ru=Нет включённых мутаторов;
@@ -13382,11 +13367,6 @@
 [Done]
 	{
 	ru=ГОТОВО;
-	}
-
-[Duplicate…]
-	{
-	ru=Дублировать…;
 	}
 
 [Empty]
@@ -14019,11 +13999,6 @@
 	ru=Имя;
 	}
 
-[Name this layout]
-	{
-	ru=Назвать эту раскладку клавиш;
-	}
-
 [Needs Allow full 3D mode]
 	{
 	ru=Нужен полный 3D-режим;
@@ -14367,11 +14342,6 @@
 [Remove]
 	{
 	ru=УДАЛИТЬ;
-	}
-
-[Rename…]
-	{
-	ru=Переименовать…;
 	}
 
 [Replacing keeps {installed}, and Roll back in the Library brings it back.]
@@ -15732,5 +15702,186 @@
 [▼ Down]
 	{
 	ru=▼ ВНИЗ;
+	}
+
+// Settings › Accessibility: Move overlays, and where the overlays show.
+
+[Move overlays]
+	{
+	ru=Перемещать оверлеи;
+	}
+
+[The keys overlay, the chat line and the latch chips show where you put them.]
+	{
+	ru=Оверлей клавиш, строка чата и чипы закрепления стоят там, куда вы их ставите.;
+	}
+
+[Off, they show where the game puts them.]
+	{
+	ru=«Выкл.»: они стоят там, куда их ставит игра.;
+	}
+
+[Overlay places]
+	{
+	ru=Места оверлеев;
+	}
+
+[Your places]
+	{
+	ru=Ваши места;
+	}
+
+[The game's places]
+	{
+	ru=Места игры;
+	}
+
+[Arrange…]
+	{
+	ru=Расставить…;
+	}
+
+[Drag them on a picture of the match. Each window size keeps its own places.]
+	{
+	ru=Перетащите их на изображении матча. У каждого размера окна свои места.;
+	}
+
+// Arrange overlays: the picture of the match, and its sample chat.
+
+[Side panel]
+	{
+	ru=Боковая панель;
+	}
+
+[Top bar]
+	{
+	ru=Верхняя полоса;
+	}
+
+[Bottom bar]
+	{
+	ru=Нижняя полоса;
+	}
+
+[Ready when you are]
+	{
+	ru=По готовности;
+	}
+
+// Settings › Controls: whether a group's key also centres the view.
+
+[Group keys centre the view]
+	{
+	ru=Клавиши группы центрируют вид;
+	}
+
+[Whether a group's key also moves the view to the group.]
+	{
+	ru=Перемещает ли клавиша группы вид к этой группе.;
+	}
+
+[On a double press]
+	{
+	ru=При двойном нажатии;
+	}
+
+[On every press]
+	{
+	ru=При каждом нажатии;
+	}
+
+// The battle room's mutators button. The colon became a middle dot.
+
+[Mutators · off]
+	{
+	ru=Мутат. · выкл.;
+	}
+
+[Mutators · {count} on]
+	{
+	ru=Мутат. · {count};
+	}
+
+// The key editor: Clone…, and Rename and Describe….
+
+[Clone…]
+	{
+	ru=Клонировать…;
+	}
+
+[Rename and Describe…]
+	{
+	ru=Переименовать и описать…;
+	}
+
+[Clone {layout}]
+	{
+	ru=Клонировать {layout};
+	}
+
+[Rename and Describe {layout}]
+	{
+	ru=Переименовать и описать {layout};
+	}
+
+[Description]
+	{
+	ru=Описание;
+	}
+
+[Copy of {layout}]
+	{
+	ru=Копия {layout};
+	}
+
+[Based on {layout}]
+	{
+	ru=На основе {layout};
+	}
+
+[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share… saves it as a file.]
+	{
+	ru=Своя раскладка клавиш из {layout} и ваших изменений. Она открывается здесь. «Сохранить изменения» оставляет её, а «Поделиться…» сохраняет её в файл.;
+	}
+
+[Another key layout is called {name}.]
+	{
+	ru=Другая раскладка клавиш называется {name}.;
+	}
+
+[This name is too long.]
+	{
+	ru=Это имя слишком длинное.;
+	}
+
+[Clone]
+	{
+	ru=Клонировать;
+	}
+
+// The in-game menu's OA Settings button.
+
+[OA Settings]
+	{
+	ru=Настройки OA;
+	}
+
+// Library filters: the heading over world tags, beside TAGS.
+
+[WORLD]
+	{
+	ru=МИР;
+	}
+
+[World: {tag} ({count})]
+	{
+	ru=Мир: {tag} ({count});
+	}
+
+// Named keys: Option, the name a Mac gives the Alt key.
+
+[Option]
+	{
+	ru=Alt;
 	}
 

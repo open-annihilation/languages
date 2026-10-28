@@ -11683,11 +11683,6 @@
 	ko=고정 칩;
 	}
 
-[Overlays]
-	{
-	ko=오버레이;
-	}
-
 [Queue and the status strip latch: tap on, tap off. A chip shows each one on.]
 	{
 	ko=대기열과 상태 표시줄은 고정됩니다. 누르면 켜지고, 다시 누르면 꺼집니다. 칩이 켜진 항목을 각각 표시합니다.;
@@ -12877,16 +12872,6 @@
 	ko=뮤테이터 1개 켜짐;
 	}
 
-[Mutators: off]
-	{
-	ko=뮤테이터: 꺼짐;
-	}
-
-[Mutators: {count} on]
-	{
-	ko=뮤테이터: {count}개 켜짐;
-	}
-
 [No mutators on]
 	{
 	ko=켜진 뮤테이터 없음;
@@ -13382,11 +13367,6 @@
 [Done]
 	{
 	ko=완료;
-	}
-
-[Duplicate…]
-	{
-	ko=복제…;
 	}
 
 [Empty]
@@ -14019,11 +13999,6 @@
 	ko=이름;
 	}
 
-[Name this layout]
-	{
-	ko=이 키 배치의 이름;
-	}
-
 [Needs Allow full 3D mode]
 	{
 	ko=‘완전 3D 모드 허용’ 필요;
@@ -14367,11 +14342,6 @@
 [Remove]
 	{
 	ko=제거;
-	}
-
-[Rename…]
-	{
-	ko=이름 바꾸기…;
 	}
 
 [Replacing keeps {installed}, and Roll back in the Library brings it back.]
@@ -15732,5 +15702,186 @@
 [▼ Down]
 	{
 	ko=▼ 아래로;
+	}
+
+// Settings › Accessibility: Move overlays, and where the overlays show.
+
+[Move overlays]
+	{
+	ko=오버레이 이동;
+	}
+
+[The keys overlay, the chat line and the latch chips show where you put them.]
+	{
+	ko=키 오버레이, 채팅 줄, 고정 칩이 둔 위치에 표시됩니다.;
+	}
+
+[Off, they show where the game puts them.]
+	{
+	ko=끄면 게임이 두는 위치에 표시됩니다.;
+	}
+
+[Overlay places]
+	{
+	ko=오버레이 위치;
+	}
+
+[Your places]
+	{
+	ko=내 위치;
+	}
+
+[The game's places]
+	{
+	ko=게임의 위치;
+	}
+
+[Arrange…]
+	{
+	ko=정렬…;
+	}
+
+[Drag them on a picture of the match. Each window size keeps its own places.]
+	{
+	ko=경기의 그림 위에서 드래그하세요. 창 크기마다 위치가 따로 남습니다.;
+	}
+
+// Arrange overlays: the picture of the match, and its sample chat.
+
+[Side panel]
+	{
+	ko=측면 패널;
+	}
+
+[Top bar]
+	{
+	ko=상단 바;
+	}
+
+[Bottom bar]
+	{
+	ko=하단 바;
+	}
+
+[Ready when you are]
+	{
+	ko=준비되면 말씀해 주세요;
+	}
+
+// Settings › Controls: whether a group's key also centres the view.
+
+[Group keys centre the view]
+	{
+	ko=부대 키는 화면을 중앙에 맞춥니다.;
+	}
+
+[Whether a group's key also moves the view to the group.]
+	{
+	ko=부대 키가 화면도 그 부대로 옮기는지 여부입니다.;
+	}
+
+[On a double press]
+	{
+	ko=두 번 누를 때;
+	}
+
+[On every press]
+	{
+	ko=누를 때마다;
+	}
+
+// The battle room's mutators button. The colon became a middle dot.
+
+[Mutators · off]
+	{
+	ko=뮤테이터 · 꺼짐;
+	}
+
+[Mutators · {count} on]
+	{
+	ko=뮤테이터 · {count}개 켜짐;
+	}
+
+// The key editor: Clone…, and Rename and Describe….
+
+[Clone…]
+	{
+	ko=복제…;
+	}
+
+[Rename and Describe…]
+	{
+	ko=이름과 설명 바꾸기…;
+	}
+
+[Clone {layout}]
+	{
+	ko={layout} 복제;
+	}
+
+[Rename and Describe {layout}]
+	{
+	ko={layout} 이름과 설명 바꾸기;
+	}
+
+[Description]
+	{
+	ko=설명;
+	}
+
+[Copy of {layout}]
+	{
+	ko={layout}의 사본;
+	}
+
+[Based on {layout}]
+	{
+	ko={layout} 기반;
+	}
+
+[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share… saves it as a file.]
+	{
+	ko={layout}과 내 변경으로 만든 나만의 키 배치입니다. 여기에서 열립니다. 변경 사항 저장은 이를 남기고, 공유…는 파일로 저장합니다.;
+	}
+
+[Another key layout is called {name}.]
+	{
+	ko=다른 키 배치의 이름이 {name}입니다.;
+	}
+
+[This name is too long.]
+	{
+	ko=이 이름이 너무 깁니다.;
+	}
+
+[Clone]
+	{
+	ko=복제;
+	}
+
+// The in-game menu's OA Settings button.
+
+[OA Settings]
+	{
+	ko=OA 설정;
+	}
+
+// Library filters: the heading over world tags, beside TAGS.
+
+[WORLD]
+	{
+	ko=월드;
+	}
+
+[World: {tag} ({count})]
+	{
+	ko=월드: {tag} ({count});
+	}
+
+// Named keys: Option, the name a Mac gives the Alt key.
+
+[Option]
+	{
+	ko=Alt;
 	}
 
