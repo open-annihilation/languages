@@ -481,3 +481,33 @@ Russian the same way, abbreviating with a full stop (`Улучш.`, `Макс.`,
 over `Начать игру` when the screen already says "game", `Назад` for
 "Previous Menu". Sentences in dialogs and hints may be as long as they need
 to be.
+
+## 10. Keys
+
+One word for each idea, in the key editor, the overlay, Settings › Controls,
+Settings › Accessibility, Library › Keys and the install question. Sentence
+case in a label (`Раскладка клавиш`), as the rest of this file.
+
+| English | Russian |
+|---|---|
+| key layout | раскладка клавиш |
+| key editor | редактор клавиш |
+| action (a binding; also where English still says "command" for one) | действие |
+| changes of your own | свои изменения |
+| clash | конфликт |
+| latch / latched | закрепить / закреплено |
+| latchable (the filter) | Закрепить |
+| unbound (the filter) | Пусто |
+| letter (of a key) | буква |
+| place (of a key) | позиция |
+| hold to confirm | Держать, подтверждая |
+
+Named keys stay Latin where the keyboard prints them: Shift, Ctrl, Alt, Esc,
+Escape, Enter, Tab, Space, Backspace, Delete, Insert, Home, End, Page Up,
+Page Down, F1–F12, Win. In a sentence, Space is `пробел`. Arrows are
+`Стрелка вверх`, `Стрелка вниз`, `Стрелка влево`, `Стрелка вправо`. Numpad
+is `Цифровой блок` (`Numpad add` → `Цифровой блок +`). Mouse buttons:
+`Левая кнопка`, `Правая кнопка`, `Средняя кнопка`. Wheel: `Колесо вверх`,
+`Колесо вниз`. The order-wheel chips abbreviate the held button, `Сред.`
+and `Прав.`. Settings › Accessibility is `Доступность` (heading
+`ДОСТУПНОСТЬ`).

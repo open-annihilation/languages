@@ -369,19 +369,9 @@
 	ko=이 환경에서는 꺼짐일 때와 같은 방식으로 화면을 그립니다.;
 	}
 
-[SAVES]
-	{
-	ko=저장 파일;
-	}
-
 [SCREENSHOTS]
 	{
 	ko=스크린샷;
-	}
-
-[MODS]
-	{
-	ko=모드;
 	}
 
 [System default]
@@ -1124,16 +1114,6 @@
 	ko=이 환경에서는 항상 켜짐;
 	}
 
-[MANAGE…]
-	{
-	ko=관리…;
-	}
-
-[RESTORE PROFILE VALUES]
-	{
-	ko=프로필 값 복원;
-	}
-
 [Applies at next match]
 	{
 	ko=다음 게임부터 적용;
@@ -1184,11 +1164,6 @@
 	ko=oamod.yaml 없음;
 	}
 
-[PLAYING]
-	{
-	ko=사용 중;
-	}
-
 [OPEN MODS FOLDER]
 	{
 	ko=Mods 폴더 열기;
@@ -1199,24 +1174,9 @@
 	ko=모드 전환;
 	}
 
-[SWITCH]
-	{
-	ko=전환;
-	}
-
-[ROLL BACK]
-	{
-	ko=롤백;
-	}
-
 [ROLL BACK MOD]
 	{
 	ko=모드 롤백;
-	}
-
-[Roll back {title} to {to}? {from} is kept in its place, and ROLL BACK again brings it back.]
-	{
-	ko={title} 모드를 {to} 버전으로 롤백하시겠습니까? {from} 버전은 그대로 보관되며, 롤백을 다시 누르면 되돌릴 수 있습니다.;
 	}
 
 [The game reloads its data for the mod and returns to the main menu.]
@@ -1279,21 +1239,6 @@
 	ko=교체;
 	}
 
-[INSTALL ALONGSIDE]
-	{
-	ko=별도 설치;
-	}
-
-[REINSTALL]
-	{
-	ko=재설치;
-	}
-
-[PLAY NOW]
-	{
-	ko=바로 플레이;
-	}
-
 [INSTALLING MOD]
 	{
 	ko=모드 설치 중;
@@ -1337,16 +1282,6 @@
 [MOD NOT ROLLED BACK]
 	{
 	ko=모드 롤백 실패;
-	}
-
-[The folder kept for ROLL BACK, which holds no mod that can be read, is removed.]
-	{
-	ko=롤백용으로 보관한 폴더에 읽을 수 있는 모드가 없어 제거했습니다.;
-	}
-
-[The folder kept for ROLL BACK ({backup}) is removed.]
-	{
-	ko=롤백용으로 보관한 폴더({backup})를 제거했습니다.;
 	}
 
 [{version} of an unknown revision]
@@ -1414,11 +1349,6 @@
 	ko=보관된 버전({backup})은 그대로 유지됩니다.;
 	}
 
-[The folder kept for ROLL BACK stays.]
-	{
-	ko=롤백용으로 보관한 폴더는 그대로 유지됩니다.;
-	}
-
 [Your Mods folder already has a folder named {folder} that does not hold {title}. It is left as it is.]
 	{
 	ko=Mods 폴더에 이미 {folder} 폴더가 있지만 {title} 모드가 들어 있지 않습니다. 이 폴더는 그대로 둡니다.;
@@ -1442,11 +1372,6 @@
 [The files of {title} {version} were installed again.]
 	{
 	ko={title} {version} 버전의 파일을 다시 설치했습니다.;
-	}
-
-[{title} is back to {new}. {old} is kept, and ROLL BACK brings it back.]
-	{
-	ko={title} 모드를 {new} 버전으로 되돌렸습니다. {old} 버전은 보관되며, 롤백을 누르면 다시 복원됩니다.;
 	}
 
 [{title} is back to {new}.]
@@ -1582,11 +1507,6 @@
 [{title} could not be rolled back; nothing was changed.]
 	{
 	ko={title} 모드를 롤백하지 못했습니다. 아무것도 변경되지 않았습니다.;
-	}
-
-[{title} {to}, the version kept for ROLL BACK, cannot be played.]
-	{
-	ko=롤백용으로 보관한 {title} {to} 버전은 플레이할 수 없습니다.;
 	}
 
 [the folder you chose]
@@ -4351,11 +4271,6 @@
 	ko=업데이트 {count}개;
 	}
 
-[UPDATE ALL]
-	{
-	ko=모두 업데이트;
-	}
-
 [Showing the list from {age}. OA couldn't reach the registries.]
 	{
 	ko={age} 받은 목록을 표시하고 있습니다. OA가 저장소에 연결하지 못했습니다.;
@@ -4379,16 +4294,6 @@
 [Nothing to show.]
 	{
 	ko=표시할 항목이 없습니다.;
-	}
-
-[GET]
-	{
-	ko=받기;
-	}
-
-[INSTALLED]
-	{
-	ko=설치됨;
 	}
 
 [UPDATE]
@@ -4721,16 +4626,6 @@
 	ko=✓;
 	}
 
-[RETRY]
-	{
-	ko=다시 시도;
-	}
-
-[HOMEPAGE]
-	{
-	ko=홈페이지;
-	}
-
 [Finishes when you leave {name}.]
 	{
 	ko={name}에서 나가면 완료됩니다.;
@@ -4739,16 +4634,6 @@
 [You are playing {playing}. Updating {name} doesn't restart the game.]
 	{
 	ko=현재 {playing} 플레이 중입니다. {name} 업데이트로 게임이 다시 시작되지는 않습니다.;
-	}
-
-[SETTINGS…]
-	{
-	ko=설정…;
-	}
-
-[DETAILS]
-	{
-	ko=자세히;
 	}
 
 [{name} {version}]
@@ -4789,21 +4674,6 @@
 [Installed {name}]
 	{
 	ko={name} 설치됨;
-	}
-
-[Updated {name} · {new} changes the game's rules · ROLL BACK restores {old}]
-	{
-	ko={name} 업데이트됨 · {new}에서 게임 규칙이 바뀜 · 롤백으로 {old} 복원 가능;
-	}
-
-[Updated {name} · {new} may change the game's rules · ROLL BACK restores {old}]
-	{
-	ko={name} 업데이트됨 · {new}에서 게임 규칙이 바뀔 수 있음 · 롤백으로 {old} 복원 가능;
-	}
-
-[{problem} · RETRY]
-	{
-	ko={problem} · 다시 시도;
 	}
 
 [Then {package} · {phase}]
@@ -4891,29 +4761,9 @@
 	ko={name} {from} → {to};
 	}
 
-[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and ROLL BACK brings it back.]
-	{
-	ko={To}에서 게임 규칙이 바뀝니다. {from}에서 저장한 게임은 {to}에서 불러올 수 없습니다. {From}의 사본은 그대로 보관되며, 롤백하면 되돌릴 수 있습니다.;
-	}
-
-[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and ROLL BACK brings it back.]
-	{
-	ko=OA는 {to}에서 게임 규칙이 바뀌는지 판단할 수 없습니다. 바뀐다면 {from}에서 저장한 게임을 그 버전에서 불러올 수 없습니다. {From}의 사본은 그대로 보관되며, 롤백하면 되돌릴 수 있습니다.;
-	}
-
 [It finishes when you leave {name}.]
 	{
 	ko={name}에서 나가면 완료됩니다.;
-	}
-
-[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and ROLL BACK brings it back.]
-	{
-	ko=업데이트 1개가 게임 규칙을 바꿉니다: {names}. 현재 버전에서 저장한 게임은 새 버전에서 불러올 수 없습니다. 현재 버전은 그대로 보관되며, 롤백하면 되돌릴 수 있습니다.;
-	}
-
-[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and ROLL BACK brings it back.]
-	{
-	ko=업데이트 {count}개가 게임 규칙을 바꿉니다: {names}. 각 업데이트의 현재 버전에서 저장한 게임은 새 버전에서 불러올 수 없습니다. 현재 버전은 각각 그대로 보관되며, 롤백하면 되돌릴 수 있습니다.;
 	}
 
 [{names} and {count} more]
@@ -4939,11 +4789,6 @@
 [Download]
 	{
 	ko=다운로드;
-	}
-
-[NOT NOW]
-	{
-	ko=나중에;
 	}
 
 [the server could not be reached]
@@ -5098,11 +4943,6 @@
 	ko=. 다시 시도하려면 한 번 더 선택하세요.;
 	}
 
-[MORE IN THE LIBRARY…]
-	{
-	ko=라이브러리에서 더 보기…;
-	}
-
 [More languages are in the Library.]
 	{
 	ko=라이브러리에 더 많은 언어가 있습니다.;
@@ -5178,11 +5018,6 @@
 	ko=처음 다운로드할 때 생성됨;
 	}
 
-[RESET]
-	{
-	ko=재설정;
-	}
-
 [Downloaded files]
 	{
 	ko=다운로드한 파일;
@@ -5191,11 +5026,6 @@
 [Nothing kept]
 	{
 	ko=보관된 파일 없음;
-	}
-
-[EMPTY]
-	{
-	ko=비우기;
 	}
 
 [Registries]
@@ -5288,11 +5118,6 @@
 	ko=확인을 누르면 제거됨;
 	}
 
-[ADD MIRROR…]
-	{
-	ko=미러 추가…;
-	}
-
 [Choose from the main menu.]
 	{
 	ko=메인 메뉴에서 선택하세요.;
@@ -5306,11 +5131,6 @@
 [Content from registries other than {names} isn't reviewed by the OA team. OA still checks every package before using it.]
 	{
 	ko={names} 외의 저장소에 있는 콘텐츠는 OA 팀이 검토하지 않습니다. 그래도 OA는 사용하기 전에 모든 패키지를 검사합니다.;
-	}
-
-[ADD REGISTRY…]
-	{
-	ko=저장소 추가…;
 	}
 
 // The map browser, GET MAP, and the questions that install a map pack or a language.
@@ -5558,11 +5378,6 @@
 [Install the map pack {name} {version} ({n} maps)?]
 	{
 	ko={name} {version} 맵 팩(맵 {n}개)을 설치하시겠습니까?;
-	}
-
-[INSTALL]
-	{
-	ko=설치;
 	}
 
 [UPDATE MAP PACK]
@@ -5828,16 +5643,6 @@
 [REPLACE MOD]
 	{
 	ko=모드 교체;
-	}
-
-[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and ROLL BACK brings it back.]
-	{
-	ko={installed}의 {name} 모드가 설치되어 있습니다. {new}의 {name} 모드로 교체하시겠습니까? {installed}의 모드는 보관되며 롤백을 누르면 되돌릴 수 있습니다.;
-	}
-
-[{folder} is a folder of your own, not {name}. Move or rename it, then RETRY.]
-	{
-	ko={folder} 폴더는 {name} 모드가 아니라 플레이어가 직접 만든 폴더입니다. 폴더를 옮기거나 이름을 바꾼 뒤 다시 시도를 누르세요.;
 	}
 
 [{n} KB]
@@ -6186,11 +5991,6 @@
 	ko=시작 설정;
 	}
 
-[SHOW AGAIN]
-	{
-	ko=다시 보기;
-	}
-
 [Walk through the language, online features and the OA buttons again.]
 	{
 	ko=언어, 온라인 기능, OA 버튼 안내를 다시 진행합니다.;
@@ -6251,11 +6051,6 @@
 	ko=이 시스템은 HTTPS 저장소를 HTTP로 읽습니다.;
 	}
 
-[REGISTRIES IN THE LIBRARY…]
-	{
-	ko=라이브러리에서 저장소 보기…;
-	}
-
 [Registries are in the Library.]
 	{
 	ko=저장소는 라이브러리에 있습니다.;
@@ -6269,21 +6064,6 @@
 [MAPS]
 	{
 	ko=맵;
-	}
-
-[SWITCH OFF]
-	{
-	ko=끄기;
-	}
-
-[UNLOAD MOD]
-	{
-	ko=모드 끄기;
-	}
-
-[UNINSTALL]
-	{
-	ko=제거;
 	}
 
 [{language} · built in]
@@ -6396,11 +6176,6 @@
 	ko=새로 고치는 중;
 	}
 
-[REFRESH]
-	{
-	ko=새로 고침;
-	}
-
 [refreshed {age}]
 	{
 	ko={age} 새로 고침;
@@ -6441,11 +6216,6 @@
 	ko=게임 중에는 맵 팩을 제거할 수 없습니다.;
 	}
 
-[It is in the download queue: CANCEL it before you uninstall it.]
-	{
-	ko=다운로드 대기열에 있습니다. 제거하려면 먼저 취소를 누르세요.;
-	}
-
 [Uninstall {name}]
 	{
 	ko={name} 제거;
@@ -6456,24 +6226,9 @@
 	ko={name} 항목을 제거하시겠습니까? {folder} 폴더가 삭제됩니다.;
 	}
 
-[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy ROLL BACK keeps.]
-	{
-	ko={name} 항목을 제거하시겠습니까? {folder} 폴더가 삭제되며, 롤백용으로 보관된 사본도 함께 삭제됩니다.;
-	}
-
-[GET installs it again.]
-	{
-	ko=받기를 누르면 다시 설치됩니다.;
-	}
-
 [No registry lists it, so the Library cannot get it again.]
 	{
 	ko=어느 저장소 목록에도 없으므로 라이브러리에서 다시 받을 수 없습니다.;
-	}
-
-[You are playing {name}. Switch it off first with SWITCH OFF, then uninstall it.]
-	{
-	ko=현재 {name} 모드를 플레이하고 있습니다. 먼저 끄기를 눌러 모드를 끈 다음 제거하세요.;
 	}
 
 [The game is shown in {name}. Choose another language in Settings › Language first, then uninstall it.]
@@ -6496,11 +6251,6 @@
 	ko=라이브러리가 목록을 만든 뒤 폴더가 바뀌었습니다. 다시 시도하세요.;
 	}
 
-[Its folder is a link, and OA never removes what a link leads to. OPEN FOLDER shows it.]
-	{
-	ko=이 폴더는 링크이며, OA는 링크가 가리키는 대상을 절대 삭제하지 않습니다. 폴더 열기를 누르면 확인할 수 있습니다.;
-	}
-
 [Its folder is not in your own Open Annihilation folder, and OA removes nothing outside it.]
 	{
 	ko=이 폴더는 Open Annihilation 폴더 밖에 있으며, OA는 그 밖의 항목은 삭제하지 않습니다.;
@@ -6509,36 +6259,6 @@
 [Its folder could not be moved; another program may be using it. Close it, then try again.]
 	{
 	ko=폴더를 옮길 수 없습니다. 다른 프로그램이 사용 중일 수 있습니다. 그 프로그램을 닫은 다음 다시 시도하세요.;
-	}
-
-[The version installed is kept, and ROLL BACK in the Library brings it back.]
-	{
-	ko=설치된 버전은 보관되며, 라이브러리에서 롤백을 누르면 되돌릴 수 있습니다.;
-	}
-
-[Revision {installed} is kept, and ROLL BACK in the Library brings it back.]
-	{
-	ko=현재 리비전({installed})은 보관되며, 라이브러리에서 롤백을 누르면 되돌릴 수 있습니다.;
-	}
-
-[Replacing keeps {installed}, and ROLL BACK in the Library brings it back.]
-	{
-	ko=교체해도 설치된 버전({installed})은 보관되며, 라이브러리에서 롤백을 누르면 되돌릴 수 있습니다.;
-	}
-
-[Choose PLAY NOW to play it, or choose it later with PLAY NOW in the Library.]
-	{
-	ko=지금 플레이를 눌러 바로 플레이하거나, 나중에 라이브러리에서 지금 플레이로 선택하세요.;
-	}
-
-[Choose it with PLAY NOW in the Library to play it.]
-	{
-	ko=플레이하려면 라이브러리에서 지금 플레이를 눌러 선택하세요.;
-	}
-
-[{title} is now {new}. {old} is kept, and ROLL BACK in the Library brings it back.]
-	{
-	ko={title}: 이제 {new}입니다. 기존 버전({old})은 보관되며, 라이브러리에서 롤백을 누르면 되돌릴 수 있습니다.;
 	}
 
 [It is still copied, so it can be fixed in your file manager; the Library's Mods tab plays only mods that work.]
@@ -6564,11 +6284,6 @@
 [No installed map matches.]
 	{
 	ko=조건에 맞는 설치된 맵이 없습니다.;
-	}
-
-[USE NOW]
-	{
-	ko=지금 사용;
 	}
 
 [{shown} of {all}]
@@ -6699,11 +6414,6 @@
 	ko=Bottles;
 	}
 
-[CHANGE…]
-	{
-	ko=변경…;
-	}
-
 [COPYING]
 	{
 	ko=복사 중;
@@ -6792,11 +6502,6 @@
 [Copying Total Annihilation]
 	{
 	ko=Total Annihilation 복사 중;
-	}
-
-[DETAILS…]
-	{
-	ko=자세히…;
 	}
 
 [Demo]
@@ -7349,16 +7054,6 @@
 	ko=저장된 게임;
 	}
 
-[TURN OFF]
-	{
-	ko=끄기;
-	}
-
-[TURN ON {name}]
-	{
-	ko={name} 켜기;
-	}
-
 [The display's own pixel density (Retina on a Mac). Applies from the next start.]
 	{
 	ko=디스플레이 고유의 픽셀 밀도(Mac에서는 Retina)를 사용합니다. 다음 실행부터 적용됩니다.;
@@ -7574,29 +7269,9 @@
 	ko=켜고 불러오기;
 	}
 
-[Turning it on applies when the Library closes, and then PLAY NOW works.]
-	{
-	ko=라이브러리를 닫으면 켜지며, 그 후 바로 플레이할 수 있습니다.;
-	}
-
-[Turning it on applies when the Library closes, and then USE NOW works.]
-	{
-	ko=라이브러리를 닫으면 켜지며, 그 후 바로 사용할 수 있습니다.;
-	}
-
 [Turning it on applies when the Library closes.]
 	{
 	ko=라이브러리를 닫으면 켜집니다.;
-	}
-
-[Turning them on applies when the Library closes, and then PLAY NOW works.]
-	{
-	ko=라이브러리를 닫으면 모두 켜지며, 그 후 바로 플레이할 수 있습니다.;
-	}
-
-[Turning them on applies when the Library closes, and then USE NOW works.]
-	{
-	ko=라이브러리를 닫으면 모두 켜지며, 그 후 바로 사용할 수 있습니다.;
 	}
 
 [Turning them on applies when the Library closes.]
@@ -7607,11 +7282,6 @@
 [Turning {name} on restarts the game's files, then loads this save. Your other expansions stay as they are.]
 	{
 	ko={name}을(를) 켜면 게임 파일을 새로 읽은 뒤 이 저장된 게임을 불러옵니다. 다른 확장팩은 그대로 유지됩니다.;
-	}
-
-[USE THIS GAME]
-	{
-	ko=이 게임 사용;
 	}
 
 [Units are drawn as models at every zoom. Far out on a large map, needs a fast CPU.]
@@ -7882,11 +7552,6 @@
 [{name} turns on when the Library closes.]
 	{
 	ko=라이브러리를 닫으면 {name}이(가) 켜집니다.;
-	}
-
-[{name} · ADD FROM…]
-	{
-	ko={name} · 원본을 골라 추가…;
 	}
 
 [{name} ✓]
@@ -8338,11 +8003,6 @@
 	ko=· 이 모드와 호환되지 않음;
 	}
 
-[CHECK WITH THIS MOD]
-	{
-	ko=이 모드로 확인;
-	}
-
 [Statistics]
 	{
 	ko=능력치;
@@ -8580,16 +8240,6 @@
 	ko=순서;
 	}
 
-[▲ UP]
-	{
-	ko=▲ 위로;
-	}
-
-[▼ DOWN]
-	{
-	ko=▼ 아래로;
-	}
-
 [Add]
 	{
 	ko=추가;
@@ -8633,26 +8283,6 @@
 [The set holds for every mission of this campaign, and is saved with it.]
 	{
 	ko=이 조합은 이 캠페인의 모든 미션에 적용되며, 캠페인과 함께 저장됩니다.;
-	}
-
-[GET ALL]
-	{
-	ko=모두 받기;
-	}
-
-[GET BOTH]
-	{
-	ko=둘 다 받기;
-	}
-
-[GET WITH {count} MORE]
-	{
-	ko={count}개 더 받기;
-	}
-
-[GET WITH {name}]
-	{
-	ko={name}까지 받기;
 	}
 
 [Get {name}?]
@@ -8737,39 +8367,9 @@
 	ko=마지막 조합을 잊으시겠습니까?;
 	}
 
-[FORGET IT]
-	{
-	ko=잊기;
-	}
-
-[KEEP IT]
-	{
-	ko=유지;
-	}
-
-[USE THESE]
-	{
-	ko=이대로 사용;
-	}
-
 [Left out of your last set: {names}]
 	{
 	ko=마지막 조합에서 빠진 뮤테이터: {names};
-	}
-
-[Your last campaign set, ready to use. CANCEL plays without mutators.]
-	{
-	ko=마지막 캠페인 조합을 바로 쓸 수 있습니다. 취소를 누르면 뮤테이터 없이 플레이합니다.;
-	}
-
-[Your last multiplayer set, ready to use. CANCEL plays without mutators.]
-	{
-	ko=마지막 멀티플레이 조합을 바로 쓸 수 있습니다. 취소를 누르면 뮤테이터 없이 플레이합니다.;
-	}
-
-[Your last skirmish set, ready to use. CANCEL plays without mutators.]
-	{
-	ko=마지막 스커미시 조합을 바로 쓸 수 있습니다. 취소를 누르면 뮤테이터 없이 플레이합니다.;
 	}
 
 [Start without them?]
@@ -8780,16 +8380,6 @@
 [Start without {name}?]
 	{
 	ko={name} 없이 시작하시겠습니까?;
-	}
-
-[START WITHOUT IT]
-	{
-	ko=빼고 시작;
-	}
-
-[START WITHOUT THEM]
-	{
-	ko=모두 빼고 시작;
 	}
 
 [The game did not start]
@@ -8810,11 +8400,6 @@
 [{names} stopped before the game could start. Nothing they changed is kept, and the other mutators are unaffected.]
 	{
 	ko={names} 뮤테이터가 게임 시작 전에 중단되었습니다. 변경한 내용은 남지 않으며, 다른 뮤테이터는 영향을 받지 않습니다.;
-	}
-
-[{problem} RETRY tries again.]
-	{
-	ko={problem} 다시 시도를 누르면 다시 받습니다.;
 	}
 
 [Another copy of Open Annihilation is changing your Mutators folder. Try again once it has finished.]
@@ -9366,11 +8951,6 @@
 	ko=· {reason};
 	}
 
-[USE BY DEFAULT]
-	{
-	ko=기본값으로 설정;
-	}
-
 // A computer seat's brain and its picker.
 
 [Computer player]
@@ -9431,11 +9011,6 @@
 [{name} cannot play this seat now, so it starts on the built-in player.]
 	{
 	ko=지금은 {name}에 이 자리를 맡길 수 없어 기본 제공 컴퓨터로 시작합니다.;
-	}
-
-[USE THIS]
-	{
-	ko=사용;
 	}
 
 [No brains here yet. The Library on the main menu gets them.]
@@ -9629,19 +9204,9 @@
 	ko=이 게임은 {name} {version} 브레인이 {n}번 자리를 맡은 상태로 저장되었지만, 이 브레인은 여기에 설치되어 있지 않습니다.;
 	}
 
-[The built-in player takes those seats from the units as they stand. GET the brain in the Library to load the game as it was saved.]
-	{
-	ko=그 자리들은 기본 제공 컴퓨터가 유닛의 현재 상태 그대로 이어받습니다. 저장한 그대로 불러오려면 라이브러리에서 브레인을 받으세요.;
-	}
-
 [Load with the built-in player?]
 	{
 	ko=기본 제공 컴퓨터로 불러오시겠습니까?;
-	}
-
-[LOAD WITH THE BUILT-IN PLAYER]
-	{
-	ko=기본 제공 컴퓨터로 불러오기;
 	}
 
 [This saved game needs {name} {version}, which is not installed.]
@@ -9651,19 +9216,9 @@
 
 // Open Annihilation 0.8.6: Graphics' Full 3D camera and effects, and their lock lines.
 
-[Allow Full 3D Mode]
-	{
-	ko=완전 3D 모드 허용;
-	}
-
 [Requires Full hardware acceleration.]
 	{
 	ko=하드웨어 가속이 ‘전체’여야 합니다.;
-	}
-
-[Unlocked Camera]
-	{
-	ko=카메라 제한 해제;
 	}
 
 [Allow angles outside the ideal range for TA art.]
@@ -9716,7 +9271,6466 @@
 	ko=‘전체’ 가속 필요;
 	}
 
-[Needs Allow Full 3D Mode]
+
+// Key bindings: Orders.
+
+[Activate on or off]
+	{
+	ko=활성화 켜기 또는 끄기;
+	}
+
+[Arms Attack]
+	{
+	ko=공격 선택;
+	}
+
+[Arms BLAST (D-gun)]
+	{
+	ko=D건 선택;
+	}
+
+[Arms Capture]
+	{
+	ko=포획 선택;
+	}
+
+[Arms Defend (guard)]
+	{
+	ko=호위 선택;
+	}
+
+[Arms Load]
+	{
+	ko=탑재 선택;
+	}
+
+[Arms Move]
+	{
+	ko=이동 선택;
+	}
+
+[Arms Patrol]
+	{
+	ko=순찰 선택;
+	}
+
+[Arms Reclaim]
+	{
+	ko=회수 선택;
+	}
+
+[Arms Repair]
+	{
+	ko=수리 선택;
+	}
+
+[Arms Unload]
+	{
+	ko=하역 선택;
+	}
+
+[Build tab]
+	{
+	ko=건설 탭;
+	}
+
+[Cancel order]
+	{
+	ko=명령 취소;
+	}
+
+[Cloak on or off]
+	{
+	ko=은폐 켜기 또는 끄기;
+	}
+
+[Fire state]
+	{
+	ko=사격 상태;
+	}
+
+[Force attack]
+	{
+	ko=강제 공격;
+	}
+
+[Held: force-attack a unit or the ground]
+	{
+	ko=누름: 유닛이나 지면을 강제 공격합니다.;
+	}
+
+[Held: orders join the queue, an armed order stays armed, queued orders show]
+	{
+	ko=누름: 명령은 대기열에 들어가고, 준비된 명령은 유지되며, 대기열의 명령이 표시됩니다.;
+	}
+
+[Move state]
+	{
+	ko=이동 상태;
+	}
+
+[On or off]
+	{
+	ko=켜짐/꺼짐;
+	}
+
+[Orders tab]
+	{
+	ko=명령 탭;
+	}
+
+[Starts or stops the countdown]
+	{
+	ko=카운트다운을 시작하거나 멈춥니다.;
+	}
+
+[Steps the fire standing order]
+	{
+	ko=사격 명령을 다음 단계로 바꿉니다.;
+	}
+
+[Steps the move standing order]
+	{
+	ko=이동 명령을 다음 단계로 바꿉니다.;
+	}
+
+[Takes back an armed order or a placement only]
+	{
+	ko=선택된 명령이나 배치만 취소합니다.;
+	}
+
+[The BUILD tab]
+	{
+	ko=건설 탭;
+	}
+
+[The ORDERS tab]
+	{
+	ko=명령 탭;
+	}
+
+// Key bindings: Pointer.
+
+[A build button: queue one, or start placing]
+	{
+	ko=건설 버튼: 하나를 대기열에 넣거나, 배치를 시작합니다.;
+	}
+
+[A build button: take one off]
+	{
+	ko=건설 버튼: 하나를 뺍니다.;
+	}
+
+[Add to selection]
+	{
+	ko=선택에 추가;
+	}
+
+[Build add]
+	{
+	ko=건설 추가;
+	}
+
+[Build remove]
+	{
+	ko=건설 제거;
+	}
+
+[Clicks the left button. Twice quickly, a double click]
+	{
+	ko=왼쪽 버튼을 클릭합니다. 빠르게 두 번이면 두 번 클릭입니다.;
+	}
+
+[Clicks the right button]
+	{
+	ko=오른쪽 버튼을 클릭합니다.;
+	}
+
+[Command]
+	{
+	ko=명령;
+	}
+
+[Drags the view]
+	{
+	ko=시점을 드래그합니다.;
+	}
+
+[Every unit of that type on the map]
+	{
+	ko=맵의 같은 유형 전체;
+	}
+
+[Held with the queue modifier: a build button adds or takes 100]
+	{
+	ko=대기열 조합 키와 함께 누름: 건설 버튼이 100을 더하거나 뺍니다.;
+	}
+
+[Held: a build button adds or takes five]
+	{
+	ko=누름: 건설 버튼이 다섯을 더하거나 뺍니다.;
+	}
+
+[Held: a click toggles a unit and a box adds]
+	{
+	ko=누름: 클릭은 유닛을 전환하고, 상자는 추가합니다.;
+	}
+
+[Holds the left button down until pressed again]
+	{
+	ko=다시 누를 때까지 왼쪽 버튼을 누른 채로 둡니다.;
+	}
+
+[Jumps the view to a minimap point]
+	{
+	ko=미니맵의 한 점으로 시점을 옮깁니다.;
+	}
+
+[Lets a held mouse button go]
+	{
+	ko=누르고 있던 마우스 버튼을 뗍니다.;
+	}
+
+[Minimap jump]
+	{
+	ko=미니맵 점프;
+	}
+
+[Minimap scroll]
+	{
+	ko=미니맵 스크롤;
+	}
+
+[Mouse look]
+	{
+	ko=마우스 시점;
+	}
+
+[Moves the pointer down and left, faster the longer the key is held]
+	{
+	ko=포인터를 왼쪽 아래로 옮깁니다. 키를 오래 누를수록 빨라집니다.;
+	}
+
+[Moves the pointer down and right, faster the longer the key is held]
+	{
+	ko=포인터를 오른쪽 아래로 옮깁니다. 키를 오래 누를수록 빨라집니다.;
+	}
+
+[Moves the pointer down, faster the longer the key is held]
+	{
+	ko=포인터를 아래로 옮깁니다. 키를 오래 누를수록 빨라집니다.;
+	}
+
+[Moves the pointer left, faster the longer the key is held]
+	{
+	ko=포인터를 왼쪽으로 옮깁니다. 키를 오래 누를수록 빨라집니다.;
+	}
+
+[Moves the pointer right, faster the longer the key is held]
+	{
+	ko=포인터를 오른쪽으로 옮깁니다. 키를 오래 누를수록 빨라집니다.;
+	}
+
+[Moves the pointer up and left, faster the longer the key is held]
+	{
+	ko=포인터를 왼쪽 위로 옮깁니다. 키를 오래 누를수록 빨라집니다.;
+	}
+
+[Moves the pointer up and right, faster the longer the key is held]
+	{
+	ko=포인터를 오른쪽 위로 옮깁니다. 키를 오래 누를수록 빨라집니다.;
+	}
+
+[Moves the pointer up, faster the longer the key is held]
+	{
+	ko=포인터를 위로 옮깁니다. 키를 오래 누를수록 빨라집니다.;
+	}
+
+[Orbit camera]
+	{
+	ko=카메라 공전;
+	}
+
+[Orbits the Full 3D view's camera]
+	{
+	ko=완전 3D 화면의 카메라를 공전합니다.;
+	}
+
+[Pan]
+	{
+	ko=팬;
+	}
+
+[Pan camera]
+	{
+	ko=카메라 팬;
+	}
+
+[Pans the Full 3D view's camera]
+	{
+	ko=완전 3D 화면의 카메라를 팬합니다.;
+	}
+
+[Pans towards the pointer]
+	{
+	ko=포인터 쪽으로 팬합니다.;
+	}
+
+[Pointer click left]
+	{
+	ko=포인터 왼쪽 클릭;
+	}
+
+[Pointer click right]
+	{
+	ko=포인터 오른쪽 클릭;
+	}
+
+[Pointer down]
+	{
+	ko=포인터 아래;
+	}
+
+[Pointer down left]
+	{
+	ko=포인터 왼쪽 아래;
+	}
+
+[Pointer down right]
+	{
+	ko=포인터 오른쪽 아래;
+	}
+
+[Pointer hold left]
+	{
+	ko=왼쪽 버튼 길게 누르기;
+	}
+
+[Pointer left]
+	{
+	ko=포인터 왼쪽;
+	}
+
+[Pointer let go]
+	{
+	ko=포인터 놓기;
+	}
+
+[Pointer right]
+	{
+	ko=포인터 오른쪽;
+	}
+
+[Pointer up]
+	{
+	ko=포인터 위;
+	}
+
+[Pointer up left]
+	{
+	ko=포인터 왼쪽 위;
+	}
+
+[Pointer up right]
+	{
+	ko=포인터 오른쪽 위;
+	}
+
+[Queue five]
+	{
+	ko=5개 대기;
+	}
+
+[Queue hundred]
+	{
+	ko=100개 대기;
+	}
+
+[Scrolls the view while held on the minimap]
+	{
+	ko=미니맵을 누르고 있는 동안 화면을 스크롤합니다.;
+	}
+
+[Select type]
+	{
+	ko=유형 선택;
+	}
+
+[Select type on screen]
+	{
+	ko=화면의 유형 선택;
+	}
+
+[Selects the unit under the pointer, or starts a box]
+	{
+	ko=포인터 아래의 유닛을 선택하거나, 선택 상자를 시작합니다.;
+	}
+
+[That type on screen only]
+	{
+	ko=화면의 해당 유형만;
+	}
+
+[The order the pointer shows]
+	{
+	ko=포인터가 보여 주는 명령;
+	}
+
+[Zoom in]
+	{
+	ko=확대;
+	}
+
+[Zoom out]
+	{
+	ko=축소;
+	}
+
+[Zooms in about the pointer]
+	{
+	ko=포인터를 기준으로 확대합니다.;
+	}
+
+[Zooms out about the pointer]
+	{
+	ko=포인터를 기준으로 축소합니다.;
+	}
+
+// Key bindings: Selection.
+
+[Add commander]
+	{
+	ko=커맨더 추가;
+	}
+
+[Adds the commander]
+	{
+	ko=커맨더를 추가합니다.;
+	}
+
+[Armed on screen]
+	{
+	ko=화면의 무장 유닛;
+	}
+
+[Box builders]
+	{
+	ko=상자: 건설 유닛;
+	}
+
+[Box combat]
+	{
+	ko=상자: 전투;
+	}
+
+[Box factories]
+	{
+	ko=상자: 공장;
+	}
+
+[Clear selection]
+	{
+	ko=선택 해제;
+	}
+
+[Clears the selection only]
+	{
+	ko=선택만 해제합니다.;
+	}
+
+[Cycles idle constructors, centring on each]
+	{
+	ko=유휴 건설 유닛을 순환하며, 각각에 중심을 맞춥니다.;
+	}
+
+[Cycles idle factories]
+	{
+	ko=유휴 공장을 순환합니다.;
+	}
+
+[Every unit]
+	{
+	ko=모든 유닛;
+	}
+
+[Every unit of a selected unit's type]
+	{
+	ko=선택 유닛과 같은 유형 전체;
+	}
+
+[Held as a box is released: keep constructors]
+	{
+	ko=상자를 뗄 때 누름: 건설 유닛만 남김;
+	}
+
+[Held as a box is released: keep factories]
+	{
+	ko=상자를 뗄 때 누름: 공장만 남김;
+	}
+
+[Held as a box is released: keep mobile combat units]
+	{
+	ko=상자를 뗄 때 누름: 이동 전투 유닛만 남김;
+	}
+
+[Idle builders]
+	{
+	ko=유휴 건설 유닛;
+	}
+
+[Idle factories]
+	{
+	ko=유휴 공장;
+	}
+
+[Mobile armed units on screen, not aircraft]
+	{
+	ko=화면의 이동 무장 유닛, 항공기 제외;
+	}
+
+[Next primary]
+	{
+	ko=다음 주 유닛;
+	}
+
+[Next selected unit becomes primary]
+	{
+	ko=다음 선택 유닛이 주 유닛이 됩니다.;
+	}
+
+[Previous primary]
+	{
+	ko=이전 주 유닛;
+	}
+
+[Previous selected unit becomes primary]
+	{
+	ko=이전에 선택한 유닛이 주 유닛이 됩니다.;
+	}
+
+[Select aircraft]
+	{
+	ko=항공기 선택;
+	}
+
+[Select all]
+	{
+	ko=모두 선택;
+	}
+
+[Select builders]
+	{
+	ko=건설 유닛 선택;
+	}
+
+[Select commander]
+	{
+	ko=커맨더 선택;
+	}
+
+[Select factories]
+	{
+	ko=공장 선택;
+	}
+
+[Select on screen]
+	{
+	ko=화면에서 선택;
+	}
+
+[Select same type]
+	{
+	ko=같은 유형 선택;
+	}
+
+[Select {word}]
+	{
+	ko={word} 선택;
+	}
+
+[Selects and follows the commander]
+	{
+	ko=커맨더를 선택하고 따라갑니다.;
+	}
+
+[Selects your units tagged {word}: those on screen, then the whole map on a second press.]
+	{
+	ko=태그 {word} 유닛을 선택합니다. 먼저 화면 안의 유닛이고, 한 번 더 누르면 맵 전체입니다.;
+	}
+
+[Units on screen]
+	{
+	ko=화면 위 유닛;
+	}
+
+[Units tagged CTRL_B]
+	{
+	ko=태그 CTRL_B 유닛;
+	}
+
+[Units tagged CTRL_F]
+	{
+	ko=태그 CTRL_F 유닛;
+	}
+
+[Units tagged CTRL_V]
+	{
+	ko=태그 CTRL_V 유닛;
+	}
+
+// Key bindings: Groups.
+
+[Add group 1]
+	{
+	ko=1번 부대 추가;
+	}
+
+[Add group 2]
+	{
+	ko=2번 부대 추가;
+	}
+
+[Add group 3]
+	{
+	ko=3번 부대 추가;
+	}
+
+[Add group 4]
+	{
+	ko=4번 부대 추가;
+	}
+
+[Add group 5]
+	{
+	ko=5번 부대 추가;
+	}
+
+[Add group 6]
+	{
+	ko=6번 부대 추가;
+	}
+
+[Add group 7]
+	{
+	ko=7번 부대 추가;
+	}
+
+[Add group 8]
+	{
+	ko=8번 부대 추가;
+	}
+
+[Add group 9]
+	{
+	ko=9번 부대 추가;
+	}
+
+[Adds group 1]
+	{
+	ko=1번 부대를 추가합니다.;
+	}
+
+[Adds group 2]
+	{
+	ko=2번 부대를 추가합니다.;
+	}
+
+[Adds group 3]
+	{
+	ko=3번 부대를 추가합니다.;
+	}
+
+[Adds group 4]
+	{
+	ko=4번 부대를 추가합니다.;
+	}
+
+[Adds group 5]
+	{
+	ko=5번 부대를 추가합니다.;
+	}
+
+[Adds group 6]
+	{
+	ko=6번 부대를 추가합니다.;
+	}
+
+[Adds group 7]
+	{
+	ko=7번 부대를 추가합니다.;
+	}
+
+[Adds group 8]
+	{
+	ko=8번 부대를 추가합니다.;
+	}
+
+[Adds group 9]
+	{
+	ko=9번 부대를 추가합니다.;
+	}
+
+[Assign group 1]
+	{
+	ko=1번 부대 지정;
+	}
+
+[Assign group 2]
+	{
+	ko=2번 부대 지정;
+	}
+
+[Assign group 3]
+	{
+	ko=3번 부대 지정;
+	}
+
+[Assign group 4]
+	{
+	ko=4번 부대 지정;
+	}
+
+[Assign group 5]
+	{
+	ko=5번 부대 지정;
+	}
+
+[Assign group 6]
+	{
+	ko=6번 부대 지정;
+	}
+
+[Assign group 7]
+	{
+	ko=7번 부대 지정;
+	}
+
+[Assign group 8]
+	{
+	ko=8번 부대 지정;
+	}
+
+[Assign group 9]
+	{
+	ko=9번 부대 지정;
+	}
+
+[Menu page 1]
+	{
+	ko=메뉴 페이지 1;
+	}
+
+[Menu page 2]
+	{
+	ko=메뉴 페이지 2;
+	}
+
+[Menu page 3]
+	{
+	ko=메뉴 페이지 3;
+	}
+
+[Menu page 4]
+	{
+	ko=메뉴 페이지 4;
+	}
+
+[Menu page 5]
+	{
+	ko=메뉴 페이지 5;
+	}
+
+[Menu page 6]
+	{
+	ko=메뉴 페이지 6;
+	}
+
+[Menu page 7]
+	{
+	ko=메뉴 페이지 7;
+	}
+
+[Menu page 8]
+	{
+	ko=메뉴 페이지 8;
+	}
+
+[Menu page 9]
+	{
+	ko=메뉴 페이지 9;
+	}
+
+[Select group 1]
+	{
+	ko=부대 1 선택;
+	}
+
+[Select group 2]
+	{
+	ko=부대 2 선택;
+	}
+
+[Select group 3]
+	{
+	ko=부대 3 선택;
+	}
+
+[Select group 4]
+	{
+	ko=부대 4 선택;
+	}
+
+[Select group 5]
+	{
+	ko=부대 5 선택;
+	}
+
+[Select group 6]
+	{
+	ko=부대 6 선택;
+	}
+
+[Select group 7]
+	{
+	ko=부대 7 선택;
+	}
+
+[Select group 8]
+	{
+	ko=부대 8 선택;
+	}
+
+[Select group 9]
+	{
+	ko=부대 9 선택;
+	}
+
+[Selects group 1; again centres on it]
+	{
+	ko=부대 1번을 선택합니다. 다시 누르면 화면 중앙에 맞춥니다.;
+	}
+
+[Selects group 2; again centres on it]
+	{
+	ko=부대 2번을 선택합니다. 다시 누르면 화면 중앙에 맞춥니다.;
+	}
+
+[Selects group 3; again centres on it]
+	{
+	ko=부대 3번을 선택합니다. 다시 누르면 화면 중앙에 맞춥니다.;
+	}
+
+[Selects group 4; again centres on it]
+	{
+	ko=부대 4번을 선택합니다. 다시 누르면 화면 중앙에 맞춥니다.;
+	}
+
+[Selects group 5; again centres on it]
+	{
+	ko=부대 5번을 선택합니다. 다시 누르면 화면 중앙에 맞춥니다.;
+	}
+
+[Selects group 6; again centres on it]
+	{
+	ko=부대 6번을 선택합니다. 다시 누르면 화면 중앙에 맞춥니다.;
+	}
+
+[Selects group 7; again centres on it]
+	{
+	ko=부대 7번을 선택합니다. 다시 누르면 화면 중앙에 맞춥니다.;
+	}
+
+[Selects group 8; again centres on it]
+	{
+	ko=부대 8번을 선택합니다. 다시 누르면 화면 중앙에 맞춥니다.;
+	}
+
+[Selects group 9; again centres on it]
+	{
+	ko=부대 9번을 선택합니다. 다시 누르면 화면 중앙에 맞춥니다.;
+	}
+
+[Shows page 0 of the menu (1 is orders)]
+	{
+	ko=메뉴 0페이지를 보여 줍니다 (1은 명령).;
+	}
+
+[Shows page 1 of the menu (1 is orders)]
+	{
+	ko=메뉴 1페이지를 보여 줍니다 (1은 명령).;
+	}
+
+[Shows page 2 of the menu (1 is orders)]
+	{
+	ko=메뉴 2페이지를 보여 줍니다 (1은 명령).;
+	}
+
+[Shows page 3 of the menu (1 is orders)]
+	{
+	ko=메뉴 3페이지를 보여 줍니다 (1은 명령).;
+	}
+
+[Shows page 4 of the menu (1 is orders)]
+	{
+	ko=메뉴 4페이지를 보여 줍니다 (1은 명령).;
+	}
+
+[Shows page 5 of the menu (1 is orders)]
+	{
+	ko=메뉴 5페이지를 보여 줍니다 (1은 명령).;
+	}
+
+[Shows page 6 of the menu (1 is orders)]
+	{
+	ko=메뉴 6페이지를 보여 줍니다 (1은 명령).;
+	}
+
+[Shows page 7 of the menu (1 is orders)]
+	{
+	ko=메뉴 7페이지를 보여 줍니다 (1은 명령).;
+	}
+
+[Shows page 8 of the menu (1 is orders)]
+	{
+	ko=메뉴 8페이지를 보여 줍니다 (1은 명령).;
+	}
+
+[Stores the selection as group 1]
+	{
+	ko=선택을 부대 1번으로 저장합니다.;
+	}
+
+[Stores the selection as group 2]
+	{
+	ko=선택을 부대 2번으로 저장합니다.;
+	}
+
+[Stores the selection as group 3]
+	{
+	ko=선택을 부대 3번으로 저장합니다.;
+	}
+
+[Stores the selection as group 4]
+	{
+	ko=선택을 부대 4번으로 저장합니다.;
+	}
+
+[Stores the selection as group 5]
+	{
+	ko=선택을 부대 5번으로 저장합니다.;
+	}
+
+[Stores the selection as group 6]
+	{
+	ko=선택을 부대 6번으로 저장합니다.;
+	}
+
+[Stores the selection as group 7]
+	{
+	ko=선택을 부대 7번으로 저장합니다.;
+	}
+
+[Stores the selection as group 8]
+	{
+	ko=선택을 부대 8번으로 저장합니다.;
+	}
+
+[Stores the selection as group 9]
+	{
+	ko=선택을 부대 9번으로 저장합니다.;
+	}
+
+// Key bindings: Camera.
+
+[Centres on the next unit not yet visited]
+	{
+	ko=아직 가 보지 않은 다음 유닛에 중심을 맞춥니다.;
+	}
+
+[Centres on the selected unit, or selects and centres on the commander]
+	{
+	ko=선택한 유닛에 중심을 맞추거나, 커맨더를 선택해 중심을 맞춥니다.;
+	}
+
+[Classic view]
+	{
+	ko=클래식 보기;
+	}
+
+[Edge scroll]
+	{
+	ko=가장자리 스크롤;
+	}
+
+[Follow previous]
+	{
+	ko=이전 따라가기;
+	}
+
+[Follows the next selected unit]
+	{
+	ko=다음 선택 유닛을 따라갑니다.;
+	}
+
+[Follows the previous selected unit]
+	{
+	ko=이전 선택 유닛을 따라갑니다.;
+	}
+
+[Go to bookmark 1]
+	{
+	ko=북마크 1 이동;
+	}
+
+[Go to bookmark 2]
+	{
+	ko=북마크 2 이동;
+	}
+
+[Go to bookmark 3]
+	{
+	ko=북마크 3 이동;
+	}
+
+[Go to bookmark 4]
+	{
+	ko=북마크 4 이동;
+	}
+
+[Pan down]
+	{
+	ko=아래로 팬;
+	}
+
+[Pan left]
+	{
+	ko=왼쪽으로 팬;
+	}
+
+[Pan right]
+	{
+	ko=오른쪽으로 팬;
+	}
+
+[Pan up]
+	{
+	ko=위로 팬;
+	}
+
+[Puts the Full 3D view's camera back to the classic view]
+	{
+	ko=완전 3D 화면의 카메라를 클래식 시점으로 되돌립니다.;
+	}
+
+[Reset zoom]
+	{
+	ko=확대/축소 재설정;
+	}
+
+[Returns to bookmark 1]
+	{
+	ko=북마크 1번으로 돌아갑니다.;
+	}
+
+[Returns to bookmark 2]
+	{
+	ko=북마크 2번으로 돌아갑니다.;
+	}
+
+[Returns to bookmark 3]
+	{
+	ko=북마크 3번으로 돌아갑니다.;
+	}
+
+[Returns to bookmark 4]
+	{
+	ko=북마크 4번으로 돌아갑니다.;
+	}
+
+[Scrolls at the window's edge]
+	{
+	ko=창 가장자리에서 스크롤합니다.;
+	}
+
+[Scrolls the view down]
+	{
+	ko=화면을 아래로 스크롤합니다.;
+	}
+
+[Scrolls the view left]
+	{
+	ko=화면을 왼쪽으로 스크롤합니다.;
+	}
+
+[Scrolls the view right]
+	{
+	ko=화면을 오른쪽으로 스크롤합니다.;
+	}
+
+[Scrolls the view up]
+	{
+	ko=화면을 위로 스크롤합니다.;
+	}
+
+[Set bookmark 1]
+	{
+	ko=북마크 1 설정;
+	}
+
+[Set bookmark 2]
+	{
+	ko=북마크 2 설정;
+	}
+
+[Set bookmark 3]
+	{
+	ko=북마크 3 설정;
+	}
+
+[Set bookmark 4]
+	{
+	ko=북마크 4 설정;
+	}
+
+[Stores the view as bookmark 1]
+	{
+	ko=시점을 북마크 1번으로 저장합니다.;
+	}
+
+[Stores the view as bookmark 2]
+	{
+	ko=시점을 북마크 2번으로 저장합니다.;
+	}
+
+[Stores the view as bookmark 3]
+	{
+	ko=시점을 북마크 3번으로 저장합니다.;
+	}
+
+[Stores the view as bookmark 4]
+	{
+	ko=시점을 북마크 4번으로 저장합니다.;
+	}
+
+[The game's own scale]
+	{
+	ko=게임 자체 배율;
+	}
+
+[The next unit the message log reported]
+	{
+	ko=메시지 로그가 알린 다음 유닛;
+	}
+
+[Unlocked Camera on or off in the Full 3D view]
+	{
+	ko=완전 3D 화면에서 카메라 제한 해제 켜기/끄기;
+	}
+
+[Zoom in key]
+	{
+	ko=확대 키;
+	}
+
+[Zoom out key]
+	{
+	ko=축소 키;
+	}
+
+[Zooms in about the centre]
+	{
+	ko=가운데를 기준으로 확대합니다.;
+	}
+
+[Zooms out about the centre]
+	{
+	ko=가운데를 기준으로 축소합니다.;
+	}
+
+// Key bindings: Building.
+
+[Build cell 1]
+	{
+	ko=건설 칸 1;
+	}
+
+[Build cell 10]
+	{
+	ko=건설 칸 10;
+	}
+
+[Build cell 11]
+	{
+	ko=건설 칸 11;
+	}
+
+[Build cell 12]
+	{
+	ko=건설 칸 12;
+	}
+
+[Build cell 2]
+	{
+	ko=건설 칸 2;
+	}
+
+[Build cell 3]
+	{
+	ko=건설 칸 3;
+	}
+
+[Build cell 4]
+	{
+	ko=건설 칸 4;
+	}
+
+[Build cell 5]
+	{
+	ko=건설 칸 5;
+	}
+
+[Build cell 6]
+	{
+	ko=건설 칸 6;
+	}
+
+[Build cell 7]
+	{
+	ko=건설 칸 7;
+	}
+
+[Build cell 8]
+	{
+	ko=건설 칸 8;
+	}
+
+[Build cell 9]
+	{
+	ko=건설 칸 9;
+	}
+
+[Drags a queued build site]
+	{
+	ko=대기열의 건설 지점을 드래그합니다.;
+	}
+
+[Held while placing: drag lays a line, a click rings a unit]
+	{
+	ko=배치 중 누름: 드래그하면 줄을 놓고, 클릭하면 유닛 둘레에 놓습니다.;
+	}
+
+[Held: no mex or wreck snap, and drag queued orders]
+	{
+	ko=누름: 금속 추출기와 잔해에는 스냅하지 않고, 대기열의 명령을 드래그합니다.;
+	}
+
+[Line build]
+	{
+	ko=줄 건설;
+	}
+
+[Lowers the spacing of a build line]
+	{
+	ko=건설 줄의 간격을 줄입니다.;
+	}
+
+[Move queued site]
+	{
+	ko=대기 건설 지점 이동;
+	}
+
+[Next facing]
+	{
+	ko=다음 방향;
+	}
+
+[Next page of the build menu]
+	{
+	ko=건설 메뉴의 다음 페이지;
+	}
+
+[Presses build button 1 of the page shown, in reading order]
+	{
+	ko=표시된 페이지의 건설 버튼 1번을 읽기 순서대로 누릅니다.;
+	}
+
+[Presses build button 10 of the page shown, in reading order]
+	{
+	ko=표시된 페이지의 건설 버튼 10번을 읽기 순서대로 누릅니다.;
+	}
+
+[Presses build button 11 of the page shown, in reading order]
+	{
+	ko=표시된 페이지의 건설 버튼 11번을 읽기 순서대로 누릅니다.;
+	}
+
+[Presses build button 12 of the page shown, in reading order]
+	{
+	ko=표시된 페이지의 건설 버튼 12번을 읽기 순서대로 누릅니다.;
+	}
+
+[Presses build button 2 of the page shown, in reading order]
+	{
+	ko=표시된 페이지의 건설 버튼 2번을 읽기 순서대로 누릅니다.;
+	}
+
+[Presses build button 3 of the page shown, in reading order]
+	{
+	ko=표시된 페이지의 건설 버튼 3번을 읽기 순서대로 누릅니다.;
+	}
+
+[Presses build button 4 of the page shown, in reading order]
+	{
+	ko=표시된 페이지의 건설 버튼 4번을 읽기 순서대로 누릅니다.;
+	}
+
+[Presses build button 5 of the page shown, in reading order]
+	{
+	ko=표시된 페이지의 건설 버튼 5번을 읽기 순서대로 누릅니다.;
+	}
+
+[Presses build button 6 of the page shown, in reading order]
+	{
+	ko=표시된 페이지의 건설 버튼 6번을 읽기 순서대로 누릅니다.;
+	}
+
+[Presses build button 7 of the page shown, in reading order]
+	{
+	ko=표시된 페이지의 건설 버튼 7번을 읽기 순서대로 누릅니다.;
+	}
+
+[Presses build button 8 of the page shown, in reading order]
+	{
+	ko=표시된 페이지의 건설 버튼 8번을 읽기 순서대로 누릅니다.;
+	}
+
+[Presses build button 9 of the page shown, in reading order]
+	{
+	ko=표시된 페이지의 건설 버튼 9번을 읽기 순서대로 누릅니다.;
+	}
+
+[Previous page]
+	{
+	ko=이전 페이지;
+	}
+
+[Previous page of the build menu]
+	{
+	ko=건설 메뉴의 이전 페이지;
+	}
+
+[Raises the spacing of a build line]
+	{
+	ko=건설 줄의 간격을 늘립니다.;
+	}
+
+[Rotate]
+	{
+	ko=회전;
+	}
+
+[Rotate wheel]
+	{
+	ko=휠로 회전;
+	}
+
+[Snap override]
+	{
+	ko=스냅 해제;
+	}
+
+[Spacing down]
+	{
+	ko=간격 줄이기;
+	}
+
+[Spacing up]
+	{
+	ko=간격 늘리기;
+	}
+
+[Turns the facing]
+	{
+	ko=방향을 돌립니다.;
+	}
+
+// Key bindings: Game.
+
+[Allies menu]
+	{
+	ko=동맹 메뉴;
+	}
+
+[Chat macro]
+	{
+	ko=채팅 매크로;
+	}
+
+[Clear messages]
+	{
+	ko=메시지 지우기;
+	}
+
+[Clears the message log]
+	{
+	ko=메시지 기록을 지웁니다.;
+	}
+
+[Damage bar mode 1]
+	{
+	ko=피해 막대 모드 1;
+	}
+
+[Damage bar mode 2]
+	{
+	ko=피해 막대 모드 2;
+	}
+
+[Damage bar mode 3]
+	{
+	ko=피해 막대 모드 3;
+	}
+
+[Damage bar mode 4]
+	{
+	ko=피해 막대 모드 4;
+	}
+
+[Damage bars]
+	{
+	ko=피해 막대;
+	}
+
+[Damage bars on or off]
+	{
+	ko=피해 막대 켜기 또는 끄기;
+	}
+
+[Damage bars the way the shifted 1 key shows them]
+	{
+	ko=Shift+1 방식의 피해 막대;
+	}
+
+[Damage bars the way the shifted 3 key shows them]
+	{
+	ko=Shift+3 방식의 피해 막대;
+	}
+
+[Damage bars the way the shifted 8 key shows them]
+	{
+	ko=Shift+8 방식의 피해 막대;
+	}
+
+[Damage bars the way the shifted backquote key shows them]
+	{
+	ko=Shift+백쿼트 방식의 피해 막대;
+	}
+
+[Held: the status strip and kills board]
+	{
+	ko=누름: 상태 표시줄과 처치판;
+	}
+
+[Kills board]
+	{
+	ko=처치판;
+	}
+
+[One speed step faster]
+	{
+	ko=속도 한 단계 빠르게;
+	}
+
+[One speed step slower]
+	{
+	ko=속도 한 단계 느리게;
+	}
+
+[Open allies chat]
+	{
+	ko=동맹 채팅 열기;
+	}
+
+[Open chat]
+	{
+	ko=채팅 열기;
+	}
+
+[Opens the chat line]
+	{
+	ko=채팅 입력줄을 엽니다.;
+	}
+
+[Opens the chat line to allies]
+	{
+	ko=동맹 채팅 입력줄을 엽니다.;
+	}
+
+[Pause on or off]
+	{
+	ko=일시 정지 전환;
+	}
+
+[Pin unit]
+	{
+	ko=유닛 핀;
+	}
+
+[Pins the kills board]
+	{
+	ko=처치판을 핀합니다.;
+	}
+
+[Pins the unit under the pointer]
+	{
+	ko=포인터 아래의 유닛을 핀합니다.;
+	}
+
+[Repeat command]
+	{
+	ko=채팅 명령 반복;
+	}
+
+[Runs the last chat command again]
+	{
+	ko=마지막 채팅 명령을 다시 실행합니다.;
+	}
+
+[Saves a screenshot]
+	{
+	ko=스크린샷을 저장합니다.;
+	}
+
+[Screenshot]
+	{
+	ko=스크린샷;
+	}
+
+[Sends the mod's chat macro]
+	{
+	ko=모드의 채팅 매크로를 보냅니다.;
+	}
+
+[Share panel]
+	{
+	ko=공유 패널;
+	}
+
+[Speed down]
+	{
+	ko=감속;
+	}
+
+[Speed up]
+	{
+	ko=가속;
+	}
+
+[Status strip]
+	{
+	ko=상태 표시줄;
+	}
+
+[The Escape chain: armed order, selection, then the game menu]
+	{
+	ko=Escape 순서: 선택된 명령, 선택, 이어서 게임 메뉴;
+	}
+
+[The allies menu]
+	{
+	ko=동맹 메뉴;
+	}
+
+[The in-game menu, or resumes]
+	{
+	ko=게임 내 메뉴, 또는 재개;
+	}
+
+[The mod's options dialog]
+	{
+	ko=모드 옵션 대화상자;
+	}
+
+[The resource panel on or off]
+	{
+	ko=자원 표시줄 켜기/끄기;
+	}
+
+[The share panel]
+	{
+	ko=공유 패널;
+	}
+
+[The unit info panel]
+	{
+	ko=유닛 정보 패널;
+	}
+
+[Unit info]
+	{
+	ko=유닛 정보;
+	}
+
+// Key bindings: Chat.
+
+[Cancel chat]
+	{
+	ko=채팅 취소;
+	}
+
+[Closes the line]
+	{
+	ko=줄을 닫습니다.;
+	}
+
+[Send chat]
+	{
+	ko=채팅 보내기;
+	}
+
+[Sends the line]
+	{
+	ko=입력줄을 보냅니다.;
+	}
+
+// Key bindings: Watching.
+
+[Lock view]
+	{
+	ko=시점 잠금;
+	}
+
+[Locks onto that player's camera]
+	{
+	ko=그 플레이어의 카메라에 시점을 잠급니다.;
+	}
+
+[Player view]
+	{
+	ko=플레이어 시점;
+	}
+
+[Takes the view of the player whose row is clicked]
+	{
+	ko=클릭한 행의 플레이어 시점을 가져옵니다.;
+	}
+
+// Key bindings: Window.
+
+[Accepts the screen, or presses the focused control]
+	{
+	ko=화면을 수락하거나, 포커스된 항목을 누릅니다.;
+	}
+
+[Answers no]
+	{
+	ko=아니요로 응답합니다.;
+	}
+
+[Answers yes]
+	{
+	ko=예로 응답합니다.;
+	}
+
+[Cancel screen]
+	{
+	ko=화면 취소;
+	}
+
+[Closes the screen on top]
+	{
+	ko=맨 위 화면을 닫습니다.;
+	}
+
+[Down]
+	{
+	ko=아래;
+	}
+
+[Find]
+	{
+	ko=찾기;
+	}
+
+[Finds on the screen]
+	{
+	ko=화면에서 찾습니다.;
+	}
+
+[Full screen]
+	{
+	ko=전체 화면;
+	}
+
+[Full screen on or off]
+	{
+	ko=전체 화면 켜기 또는 끄기;
+	}
+
+[Go to end]
+	{
+	ko=끝으로 이동;
+	}
+
+[Go to start]
+	{
+	ko=처음으로 이동;
+	}
+
+[Information]
+	{
+	ko=정보;
+	}
+
+[Keys overlay]
+	{
+	ko=키 오버레이;
+	}
+
+[Left]
+	{
+	ko=왼쪽;
+	}
+
+[Lets a captured pointer go]
+	{
+	ko=잡힌 포인터를 놓습니다.;
+	}
+
+[Moves the focus down]
+	{
+	ko=포커스를 아래로 옮깁니다.;
+	}
+
+[Moves the focus left, or steps a control]
+	{
+	ko=포커스를 왼쪽으로 옮기거나, 항목을 한 칸 넘깁니다.;
+	}
+
+[Moves the focus right, or steps a control]
+	{
+	ko=포커스를 오른쪽으로 옮기거나, 항목을 한 칸 넘깁니다.;
+	}
+
+[Moves the focus to the next control]
+	{
+	ko=다음 항목으로 포커스를 옮깁니다.;
+	}
+
+[Moves the focus to the previous control]
+	{
+	ko=이전 항목으로 포커스를 옮깁니다.;
+	}
+
+[Moves the focus up]
+	{
+	ko=포커스를 위로 옮깁니다.;
+	}
+
+[Next control]
+	{
+	ko=다음 항목;
+	}
+
+[Next tab]
+	{
+	ko=다음 탭;
+	}
+
+[No]
+	{
+	ko=아니요;
+	}
+
+[Opens Settings]
+	{
+	ko=설정을 엽니다.;
+	}
+
+[Page down]
+	{
+	ko=Page down;
+	}
+
+[Page up]
+	{
+	ko=Page up;
+	}
+
+[Paste]
+	{
+	ko=붙여넣기;
+	}
+
+[Pastes the clipboard into the focused text field]
+	{
+	ko=클립보드를 초점이 있는 텍스트 칸에 붙여 넣습니다.;
+	}
+
+[Press]
+	{
+	ko=누르기;
+	}
+
+[Presses the focused control]
+	{
+	ko=초점이 있는 컨트롤을 누릅니다.;
+	}
+
+[Previous control]
+	{
+	ko=이전 컨트롤;
+	}
+
+[Previous tab]
+	{
+	ko=이전 탭;
+	}
+
+[Quits]
+	{
+	ko=게임을 종료합니다.;
+	}
+
+[Refreshes the screen]
+	{
+	ko=화면을 새로 고칩니다.;
+	}
+
+[Release pointer]
+	{
+	ko=포인터 해제;
+	}
+
+[Right]
+	{
+	ko=오른쪽;
+	}
+
+[Scrolls down]
+	{
+	ko=아래로 스크롤합니다.;
+	}
+
+[Scrolls to the end, or moves to the end of a text field]
+	{
+	ko=끝까지 스크롤하거나, 텍스트 칸의 끝으로 이동합니다.;
+	}
+
+[Scrolls to the top, or moves to the start of a text field]
+	{
+	ko=맨 위로 스크롤하거나, 텍스트 칸의 처음으로 이동합니다.;
+	}
+
+[Scrolls up]
+	{
+	ko=위로 스크롤합니다.;
+	}
+
+[Shows more about what the focus is on]
+	{
+	ko=초점이 있는 항목의 자세한 내용을 보여 줍니다.;
+	}
+
+[Shows the next tab]
+	{
+	ko=다음 탭을 보여 줍니다.;
+	}
+
+[Shows the previous tab]
+	{
+	ko=이전 탭을 보여 줍니다.;
+	}
+
+[The keys overlay for the screen shown]
+	{
+	ko=표시된 화면의 키 오버레이;
+	}
+
+[Yes]
+	{
+	ko=예;
+	}
+
+// Key bindings: Menus.
+
+[Accept]
+	{
+	ko=수락;
+	}
+
+[Cancel menu]
+	{
+	ko=메뉴 취소;
+	}
+
+[Closes the menu, or answers its cancel]
+	{
+	ko=메뉴를 닫거나, 취소로 응답합니다.;
+	}
+
+[Focus down]
+	{
+	ko=포커스 아래;
+	}
+
+[Focus left]
+	{
+	ko=포커스 왼쪽;
+	}
+
+[Focus right]
+	{
+	ko=포커스 오른쪽;
+	}
+
+[Focus up]
+	{
+	ko=포커스 위;
+	}
+
+[List down]
+	{
+	ko=목록 아래;
+	}
+
+[List up]
+	{
+	ko=목록 위;
+	}
+
+[Moves the focus down. Down itself steps a list]
+	{
+	ko=포커스를 아래로 옮깁니다. 아래만 누르면 목록이 이동합니다.;
+	}
+
+[Moves the focus left from a button]
+	{
+	ko=버튼에서 포커스를 왼쪽으로 옮깁니다.;
+	}
+
+[Moves the focus right from a button]
+	{
+	ko=버튼에서 포커스를 오른쪽으로 옮깁니다.;
+	}
+
+[Moves the focus to the next button]
+	{
+	ko=다음 버튼으로 포커스를 옮깁니다.;
+	}
+
+[Moves the focus to the previous button]
+	{
+	ko=이전 버튼으로 포커스를 옮깁니다.;
+	}
+
+[Moves the focus up. Up itself steps a list]
+	{
+	ko=포커스를 위로 옮깁니다. 위만 누르면 목록이 이동합니다.;
+	}
+
+[Next button]
+	{
+	ko=다음 버튼;
+	}
+
+[Press button]
+	{
+	ko=버튼 누르기;
+	}
+
+[Presses the focused button]
+	{
+	ko=초점이 있는 버튼을 누릅니다.;
+	}
+
+[Presses the focused button, or the screen's default]
+	{
+	ko=초점이 있는 버튼, 또는 화면의 기본 버튼을 누릅니다.;
+	}
+
+[Previous button]
+	{
+	ko=이전 버튼;
+	}
+
+[Steps a list down, or moves the focus down from a button]
+	{
+	ko=목록에서 아래로 이동하거나, 버튼에서 초점을 아래로 옮깁니다.;
+	}
+
+[Steps a list up, or moves the focus up from a button]
+	{
+	ko=목록에서 위로 이동하거나, 버튼에서 초점을 위로 옮깁니다.;
+	}
+
+// Key bindings: Developer.
+
+[Cycles the overlay]
+	{
+	ko=오버레이를 순환합니다.;
+	}
+
+[Debug keys]
+	{
+	ko=디버그 키;
+	}
+
+[Debug keys on or off]
+	{
+	ko=디버그 키 켜기 또는 끄기;
+	}
+
+[Developer info]
+	{
+	ko=개발자 정보;
+	}
+
+[Kill under pointer]
+	{
+	ko=포인터 아래 처치;
+	}
+
+[Kills the unit under the pointer]
+	{
+	ko=포인터 아래의 유닛을 처치합니다.;
+	}
+
+[Movie capture]
+	{
+	ko=영상 녹화;
+	}
+
+[Overlay]
+	{
+	ko=오버레이;
+	}
+
+[Refill]
+	{
+	ko=보충;
+	}
+
+[Refills resources]
+	{
+	ko=자원을 보충합니다.;
+	}
+
+[The developer information key]
+	{
+	ko=개발자 정보 키;
+	}
+
+// Key bindings: Megamap.
+
+[Close megamap]
+	{
+	ko=메가맵 닫기;
+	}
+
+[Closes the megamap and centres on the pointer]
+	{
+	ko=메가맵을 닫고 포인터에 중심을 맞춥니다.;
+	}
+
+[Jumps the view to a point of the megamap]
+	{
+	ko=메가맵의 한 점으로 시점을 옮깁니다.;
+	}
+
+[Megamap jump]
+	{
+	ko=메가맵 점프;
+	}
+
+[Open megamap]
+	{
+	ko=메가맵 열기;
+	}
+
+[Opens the megamap]
+	{
+	ko=메가맵을 엽니다.;
+	}
+
+[The megamap on or off]
+	{
+	ko=메가맵 켜기/끄기;
+	}
+
+// Key bindings: Whiteboard.
+
+[Dot]
+	{
+	ko=점;
+	}
+
+[Draw]
+	{
+	ko=그리기;
+	}
+
+[Draws a line]
+	{
+	ko=선을 그립니다.;
+	}
+
+[Erase]
+	{
+	ko=지우기;
+	}
+
+[Erases a marker]
+	{
+	ko=표식을 지웁니다.;
+	}
+
+[Goes to the newest marker]
+	{
+	ko=최신 표식으로 이동합니다.;
+	}
+
+[Held: the whiteboard takes the mouse]
+	{
+	ko=누름: 화이트보드가 마우스를 가져갑니다.;
+	}
+
+[Line]
+	{
+	ko=선;
+	}
+
+[Move marker]
+	{
+	ko=표식 이동;
+	}
+
+[Moves a marker]
+	{
+	ko=표식을 옮깁니다.;
+	}
+
+[Newest marker]
+	{
+	ko=최신 표식;
+	}
+
+[Places a dot]
+	{
+	ko=점을 놓습니다.;
+	}
+
+[Places text]
+	{
+	ko=텍스트를 놓습니다.;
+	}
+
+[Wipe]
+	{
+	ko=지우기;
+	}
+
+[Wipes the board]
+	{
+	ko=화이트보드를 지웁니다.;
+	}
+
+// The key editor.
+
+[+ Add a key]
+	{
+	ko=+ 키 추가;
+	}
+
+[1 unsaved edit]
+	{
+	ko=미저장 편집 1개;
+	}
+
+[Add a key · {context}]
+	{
+	ko=키 추가 · {context};
+	}
+
+[All actions]
+	{
+	ko=모든 동작;
+	}
+
+[Change a key · {context}]
+	{
+	ko=키 변경 · {context};
+	}
+
+[Change {action}'s key…]
+	{
+	ko={action}의 키 변경…;
+	}
+
+[Choose an action]
+	{
+	ko=동작 선택;
+	}
+
+[Edit keys…]
+	{
+	ko=키 편집…;
+	}
+
+[Grey keys are free while playing. Select a key to see what it does in each place.]
+	{
+	ko=회색 키는 플레이 중에 할당되어 있지 않습니다. 키를 선택해 각 위치에서의 동작을 보세요.;
+	}
+
+[No unsaved edits]
+	{
+	ko=미저장 편집 없음;
+	}
+
+[{modifier}+/ or Escape closes this. More in Edit keys…]
+	{
+	ko={modifier}+/ 또는 Escape으로 닫습니다. 자세한 내용은 키 편집…에서 볼 수 있습니다.;
+	}
+
+[{n} unsaved]
+	{
+	ko=미저장 {n}개;
+	}
+
+[{n} unsaved edits]
+	{
+	ko=미저장 편집 {n}개;
+	}
+
+// Capture and clashes.
+
+[Always {description} in Open Annihilation. Choose another key.]
+	{
+	ko=Open Annihilation에서 항상 {description}. 다른 키를 선택하세요.;
+	}
+
+[Choose another key]
+	{
+	ko=다른 키 선택;
+	}
+
+[Clashes]
+	{
+	ko=충돌;
+	}
+
+[Click the key to try another.]
+	{
+	ko=키를 클릭해 다른 키를 시도하세요.;
+	}
+
+[Click the key, then press another to look it up.]
+	{
+	ko=키를 클릭한 뒤 다른 키를 눌러 조회하세요.;
+	}
+
+[One clash: {chord} already belongs to {action}. Apply keeps yours and lists the clash.]
+	{
+	ko=충돌 1개: {action}에 이미 {chord} 배정이 있습니다. 적용하면 내 키를 유지하고 충돌을 표시합니다.;
+	}
+
+[Settle 1 clash to save]
+	{
+	ko=저장하려면 충돌 1개를 해결하세요.;
+	}
+
+[Settle {n} clashes to save]
+	{
+	ko=저장하려면 충돌 {n}개를 해결하세요.;
+	}
+
+[Settle…]
+	{
+	ko=해결…;
+	}
+
+// Sharing and import.
+
+[Copy as text]
+	{
+	ko=텍스트로 복사;
+	}
+
+[Import 1 key]
+	{
+	ko=키 1개 가져오기;
+	}
+
+[Import keys from an older setup]
+	{
+	ko=이전 설정에서 키 가져오기;
+	}
+
+[Import {n} keys]
+	{
+	ko=키 {n}개 가져오기;
+	}
+
+[Imported from {file}]
+	{
+	ko={file}에서 가져옴;
+	}
+
+[Importing gives the key to this action and leaves {action} without it.]
+	{
+	ko=가져오면 이 동작이 키를 받고, {action}에서는 키가 빠집니다.;
+	}
+
+[Import…]
+	{
+	ko=가져오기…;
+	}
+
+[It holds no oakeys.yaml at its top, or in a single folder at its top.]
+	{
+	ko=맨 위에는 oakeys.yaml이 없고, 맨 위의 폴더 하나 안에도 없습니다.;
+	}
+
+[Its oakeys.yaml has errors:]
+	{
+	ko=oakeys.yaml에 오류가 있습니다:;
+	}
+
+[Its oakeys.yaml is larger than 256 KiB.]
+	{
+	ko=oakeys.yaml이 256 KiB보다 큽니다.;
+	}
+
+[Key layout packages (.oakeys)]
+	{
+	ko=키 배치 패키지 (.oakeys);
+	}
+
+[Numbers are Windows key codes, read as key places. The changes go on top of your layout as "Imported from {file}". Nothing else changes.]
+	{
+	ko=숫자는 Windows 키 코드이며, 키 위치로 읽습니다. 변경은 “{file}에서 가져옴”으로 키 배치 위에 올라갑니다. 그 밖에는 바뀌지 않습니다.;
+	}
+
+[Paste keys]
+	{
+	ko=키 붙여넣기;
+	}
+
+[Paste…]
+	{
+	ko=붙여넣기…;
+	}
+
+[Share your keys]
+	{
+	ko=키를 공유하세요.;
+	}
+
+[Share…]
+	{
+	ko=공유…;
+	}
+
+[The file is a .oakeys package anyone can open in Open Annihilation. The text carries the keys alone, for a forum or a chat.]
+	{
+	ko=이 파일은 Open Annihilation에서 누구나 열 수 있는 .oakeys 패키지입니다. 텍스트에는 포럼이나 채팅에 올릴 키만 들어 있습니다.;
+	}
+
+[This text is not a key layout.]
+	{
+	ko=이 텍스트는 키 배치가 아닙니다.;
+	}
+
+// The overlay and badges.
+
+[Arrange Overlays]
+	{
+	ko=오버레이 정렬;
+	}
+
+[Drag an overlay where it suits you. Each screen size keeps its own places.]
+	{
+	ko=오버레이를 원하는 곳으로 드래그하세요. 화면 크기마다 위치가 따로 남습니다.;
+	}
+
+[Hold Ctrl + D to try Hold to confirm.]
+	{
+	ko=Ctrl + D를 길게 눌러 “길게 눌러 확인”을 시험하세요.;
+	}
+
+[Hold to confirm]
+	{
+	ko=길게 눌러 확인;
+	}
+
+[Hold to confirm {action}]
+	{
+	ko=길게 눌러 확인: {action};
+	}
+
+[How long a hold is: hold to confirm, and keys bound to a hold.]
+	{
+	ko=길게 누르는 시간: 길게 눌러 확인, 그리고 길게 누르기에 묶인 키.;
+	}
+
+[Keys Overlay]
+	{
+	ko=키 오버레이;
+	}
+
+[Latch Chips]
+	{
+	ko=고정 칩;
+	}
+
+[Overlays]
+	{
+	ko=오버레이;
+	}
+
+[Queue and the status strip latch: tap on, tap off. A chip shows each one on.]
+	{
+	ko=대기열과 상태 표시줄은 고정됩니다. 누르면 켜지고, 다시 누르면 꺼집니다. 칩이 켜진 항목을 각각 표시합니다.;
+	}
+
+[hold to confirm]
+	{
+	ko=길게 눌러 확인;
+	}
+
+[{name} · latched]
+	{
+	ko={name} · 고정됨;
+	}
+
+// Settings › Controls.
+
+[A double press]
+	{
+	ko=두 번 누르기;
+	}
+
+[Bounce keys]
+	{
+	ko=바운스 키;
+	}
+
+[Double press]
+	{
+	ko=두 번 누르기;
+	}
+
+[Drag threshold]
+	{
+	ko=드래그 임계값;
+	}
+
+[Edge scrolling]
+	{
+	ko=가장자리 스크롤;
+	}
+
+[Edge scrolling off]
+	{
+	ko=가장자리 스크롤 꺼짐;
+	}
+
+[Full screen, screenshot and pointer keys]
+	{
+	ko=전체 화면, 스크린샷, 포인터 키;
+	}
+
+[Holding a mouse button opens the order wheel at the pointer.]
+	{
+	ko=마우스 버튼을 누르고 있으면 포인터 위치에 명령 휠이 열립니다.;
+	}
+
+[INSTALL KEY LAYOUT]
+	{
+	ko=키 배치 설치;
+	}
+
+[INSTALLING KEY LAYOUT]
+	{
+	ko=키 배치 설치 중;
+	}
+
+[Install the key layout {name} {version}?]
+	{
+	ko={name} {version} 키 배치를 설치하시겠습니까?;
+	}
+
+[It holds more than {limit} folders, more than a key layout may take.]
+	{
+	ko=폴더 수가 {limit}개보다 많아, 키 배치에 허용된 수를 넘습니다.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a key layout's files take.]
+	{
+	ko=풀린 크기는 {size}, 압축 크기는 {packed}입니다. 키 배치 파일이 차지하는 양보다 훨씬 큽니다.;
+	}
+
+[It unpacks to {size}, more than the {limit} a key layout may take.]
+	{
+	ko=풀린 크기는 {size}. 키 배치 한도 {limit}보다 큽니다.;
+	}
+
+[KEY LAYOUT INSTALLED]
+	{
+	ko=키 배치 설치됨;
+	}
+
+[KEY LAYOUT NOT INSTALLED]
+	{
+	ko=키 배치 설치 안 됨;
+	}
+
+[KEY LAYOUT UPDATED]
+	{
+	ko=키 배치 업데이트됨;
+	}
+
+[Key layout]
+	{
+	ko=키 배치;
+	}
+
+[Key layout with {mod}]
+	{
+	ko={mod}용 키 배치;
+	}
+
+[Key layouts]
+	{
+	ko=키 배치 목록;
+	}
+
+[Mods, maps and key layouts]
+	{
+	ko=모드, 맵, 키 배치;
+	}
+
+[Order wheel]
+	{
+	ko=명령 휠;
+	}
+
+[Order wheel on the held middle button]
+	{
+	ko=가운데 버튼을 누른 채 명령 휠;
+	}
+
+[Order wheel on the held right button]
+	{
+	ko=오른쪽 버튼을 누른 채 명령 휠;
+	}
+
+[Pointer keys]
+	{
+	ko=포인터 키;
+	}
+
+[REINSTALL KEY LAYOUT]
+	{
+	ko=키 배치 다시 설치;
+	}
+
+[REPLACE KEY LAYOUT]
+	{
+	ko=키 배치 교체;
+	}
+
+[Search key layouts]
+	{
+	ko=키 배치 검색;
+	}
+
+[Sticky modifiers]
+	{
+	ko=고정 보조키;
+	}
+
+[The folder {name} does not hold this key layout. It is left as it is.]
+	{
+	ko={name} 폴더에는 이 키 배치가 없습니다. 폴더는 그대로 둡니다.;
+	}
+
+[The package holds {name}, outside the files a key layout may hold.]
+	{
+	ko=패키지에 {name} 항목이 있지만, 키 배치에 허용된 파일이 아닙니다.;
+	}
+
+[Two presses this close are a double press, and two clicks a double click.]
+	{
+	ko=이만큼 가까운 두 번 누름은 더블 프레스이고, 클릭 두 번은 더블 클릭입니다.;
+	}
+
+[UPDATE KEY LAYOUT]
+	{
+	ko=키 배치 업데이트;
+	}
+
+[Used while {mod} is played. Same as the game uses Key layout.]
+	{
+	ko={mod} 플레이 중에 사용합니다. 게임과 같음은 키 배치를 사용합니다.;
+	}
+
+[Your Keys folder changed while this key layout was being installed; nothing was changed. Open the file again.]
+	{
+	ko=이 키 배치를 설치하는 동안 Keys 폴더가 바뀌었습니다. 아무것도 변경하지 않았습니다. 파일을 다시 여세요.;
+	}
+
+[key layouts]
+	{
+	ko=키 배치;
+	}
+
+// Settings › Accessibility.
+
+[ACCESSIBILITY]
+	{
+	ko=접근성;
+	}
+
+[Accessibility]
+	{
+	ko=접근성;
+	}
+
+[How soon a held camera, speed or page key repeats, and how fast.]
+	{
+	ko=카메라, 속도, 페이지 키를 누르고 있을 때 반복이 시작되는 시점과 속도입니다.;
+	}
+
+[Key repeat delay]
+	{
+	ko=키 반복 지연;
+	}
+
+[Key repeat rate]
+	{
+	ko=키 반복 속도;
+	}
+
+[Off in Settings › Accessibility]
+	{
+	ko=설정 › 접근성에서 꺼짐;
+	}
+
+[Repeat]
+	{
+	ko=반복;
+	}
+
+[Slow keys]
+	{
+	ko=느린 키;
+	}
+
+// Library › Keys.
+
+[Another copy of Open Annihilation is changing your Keys folder. Try again once it has finished.]
+	{
+	ko=다른 Open Annihilation이 Keys 폴더를 변경하는 중입니다. 끝난 뒤 다시 시도하세요.;
+	}
+
+[Either way it stays saved with {name}, and comes back when you use {name} again.]
+	{
+	ko=어느 쪽이든 {name}에 저장된 채 남고, 다시 사용할 때 {name}에서 돌아옵니다.;
+	}
+
+[Either way they stay saved with {name}, and come back when you use {name} again.]
+	{
+	ko=어느 쪽이든 모두 {name}에 저장된 채 남고, 다시 사용할 때 {name}에서 돌아옵니다.;
+	}
+
+[It needs {size} free, and the disk holding your Keys folder has {free}.]
+	{
+	ko=필요한 여유 공간은 {size}, Keys 폴더가 있는 디스크의 여유 공간은 {free}입니다.;
+	}
+
+[OA default]
+	{
+	ko=OA 기본값;
+	}
+
+[Use {name}]
+	{
+	ko={name} 사용;
+	}
+
+[You play with {name} now. Uninstall it and go back to OA default? Your own changes stay saved.]
+	{
+	ko=지금은 {name} 키 배치로 플레이합니다. 제거하고 OA 기본값으로 돌아가시겠습니까? 내 변경은 저장된 채로 남습니다.;
+	}
+
+[Your Keys folder has no free folder name for it.]
+	{
+	ko=Keys 폴더에 쓸 수 있는 폴더 이름이 없습니다.;
+	}
+
+// Named keys.
+
+[Again]
+	{
+	ko=다시;
+	}
+
+[Arrow down]
+	{
+	ko=아래쪽 화살표;
+	}
+
+[Arrow left]
+	{
+	ko=왼쪽 화살표;
+	}
+
+[Arrow right]
+	{
+	ko=오른쪽 화살표;
+	}
+
+[Arrow up]
+	{
+	ko=위쪽 화살표;
+	}
+
+[Audio volume down]
+	{
+	ko=볼륨 내리기;
+	}
+
+[Audio volume mute]
+	{
+	ko=음소거;
+	}
+
+[Audio volume up]
+	{
+	ko=볼륨 올리기;
+	}
+
+[Back button]
+	{
+	ko=뒤로 버튼;
+	}
+
+[Backquote]
+	{
+	ko=백쿼트;
+	}
+
+[Backslash]
+	{
+	ko=역슬래시;
+	}
+
+[Backspace]
+	{
+	ko=Backspace;
+	}
+
+[Bracket left]
+	{
+	ko=왼쪽 대괄호;
+	}
+
+[Bracket right]
+	{
+	ko=오른쪽 대괄호;
+	}
+
+[Browser back]
+	{
+	ko=브라우저 뒤로;
+	}
+
+[Browser favorites]
+	{
+	ko=브라우저 즐겨찾기;
+	}
+
+[Browser forward]
+	{
+	ko=브라우저 앞으로;
+	}
+
+[Browser home]
+	{
+	ko=브라우저 홈;
+	}
+
+[Browser refresh]
+	{
+	ko=브라우저 새로고침;
+	}
+
+[Browser search]
+	{
+	ko=브라우저 검색;
+	}
+
+[Browser stop]
+	{
+	ko=브라우저 중지;
+	}
+
+[Button]
+	{
+	ko=마우스 버튼;
+	}
+
+[Comma]
+	{
+	ko=쉼표;
+	}
+
+[Context menu]
+	{
+	ko=컨텍스트 메뉴;
+	}
+
+[Convert]
+	{
+	ko=변환;
+	}
+
+[Cut]
+	{
+	ko=잘라내기;
+	}
+
+[Delete]
+	{
+	ko=Delete;
+	}
+
+[Digit]
+	{
+	ko=숫자;
+	}
+
+[Eject]
+	{
+	ko=꺼내기;
+	}
+
+[End]
+	{
+	ko=End;
+	}
+
+[Equal]
+	{
+	ko=등호;
+	}
+
+[Escape]
+	{
+	ko=Escape;
+	}
+
+[Forward button]
+	{
+	ko=앞으로 버튼;
+	}
+
+[Help]
+	{
+	ko=도움말;
+	}
+
+[Home key]
+	{
+	ko=Home 키;
+	}
+
+[Insert]
+	{
+	ko=삽입;
+	}
+
+[Intl backslash]
+	{
+	ko=국제 역슬래시;
+	}
+
+[Intl ro]
+	{
+	ko=Ro;
+	}
+
+[Intl yen]
+	{
+	ko=엔;
+	}
+
+[Kana mode]
+	{
+	ko=가나;
+	}
+
+[Left button]
+	{
+	ko=왼쪽 버튼;
+	}
+
+[Media play pause]
+	{
+	ko=미디어 재생/일시 정지;
+	}
+
+[Media select]
+	{
+	ko=미디어 선택;
+	}
+
+[Media stop]
+	{
+	ko=미디어 중지;
+	}
+
+[Media track next]
+	{
+	ko=다음 트랙;
+	}
+
+[Media track previous]
+	{
+	ko=이전 트랙;
+	}
+
+[Middle button]
+	{
+	ko=가운데 버튼;
+	}
+
+[Non convert]
+	{
+	ko=무변환;
+	}
+
+[Numpad]
+	{
+	ko=숫자 키;
+	}
+
+[Numpad add]
+	{
+	ko=숫자 키 더하기;
+	}
+
+[Numpad backspace]
+	{
+	ko=숫자 키 Backspace;
+	}
+
+[Numpad clear]
+	{
+	ko=숫자 키 지우기;
+	}
+
+[Numpad clear entry]
+	{
+	ko=숫자 키 입력 지우기;
+	}
+
+[Numpad comma]
+	{
+	ko=숫자 키 쉼표;
+	}
+
+[Numpad decimal]
+	{
+	ko=숫자 키 소수점;
+	}
+
+[Numpad divide]
+	{
+	ko=숫자 키 나누기;
+	}
+
+[Numpad enter]
+	{
+	ko=숫자 키 Enter;
+	}
+
+[Numpad equal]
+	{
+	ko=숫자 키 등호;
+	}
+
+[Numpad hash]
+	{
+	ko=숫자 키 #;
+	}
+
+[Numpad memory add]
+	{
+	ko=숫자 키 메모리 더하기;
+	}
+
+[Numpad memory clear]
+	{
+	ko=숫자 키 메모리 지우기;
+	}
+
+[Numpad memory recall]
+	{
+	ko=숫자 키 메모리 불러오기;
+	}
+
+[Numpad memory store]
+	{
+	ko=숫자 키 메모리 저장;
+	}
+
+[Numpad memory subtract]
+	{
+	ko=숫자 키 메모리 빼기;
+	}
+
+[Numpad multiply]
+	{
+	ko=숫자 키 곱하기;
+	}
+
+[Numpad paren left]
+	{
+	ko=숫자 키 (;
+	}
+
+[Numpad paren right]
+	{
+	ko=숫자 키 );
+	}
+
+[Numpad subtract]
+	{
+	ko=숫자 키 빼기;
+	}
+
+[Pad]
+	{
+	ko=패드;
+	}
+
+[Period]
+	{
+	ko=마침표;
+	}
+
+[Power]
+	{
+	ko=전원;
+	}
+
+[Print screen]
+	{
+	ko=Print screen;
+	}
+
+[Quote]
+	{
+	ko=따옴표;
+	}
+
+[Right button]
+	{
+	ko=오른쪽 버튼;
+	}
+
+[Semicolon]
+	{
+	ko=세미콜론;
+	}
+
+[Slash]
+	{
+	ko=슬래시;
+	}
+
+[Sleep]
+	{
+	ko=절전;
+	}
+
+[Wake up]
+	{
+	ko=깨우기;
+	}
+
+[Wheel down]
+	{
+	ko=휠 아래;
+	}
+
+[Wheel left]
+	{
+	ko=휠 왼쪽;
+	}
+
+[Wheel right]
+	{
+	ko=휠 오른쪽;
+	}
+
+[Wheel up]
+	{
+	ko=휠 위;
+	}
+
+[Win]
+	{
+	ko=Win;
+	}
+
+[double]
+	{
+	ko=두 번;
+	}
+
+[hold]
+	{
+	ko=길게 누름;
+	}
+
+// Weapon and side limits.
+
+[*** The launch gives a computer player side {side}, which computer players cannot take in this game.]
+	{
+	ko=*** 시작이 컴퓨터에게 주는 진영은 {side}입니다. 이 게임에서 컴퓨터는 그 진영을 맡을 수 없습니다.;
+	}
+
+[*** The launch names side {side}, which this game does not have.]
+	{
+	ko=*** 시작이 지목한 진영은 {side}입니다. 이 게임에는 그 진영이 없습니다.;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than 256 weapon types.]
+	{
+	ko=*** {player}의 버전은 Total Annihilation 3.1c입니다. 무기 유형이 256개를 넘는 모드는 플레이할 수 없습니다.;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than five sides.]
+	{
+	ko=*** {player}의 버전은 Total Annihilation 3.1c입니다. 진영이 다섯을 넘는 모드는 플레이할 수 없습니다.;
+	}
+
+[This recording needs a mod with {n} weapon types and {m} sides.]
+	{
+	ko=이 녹화에는 무기 유형 {n}개, 진영 {m}개인 모드가 필요합니다.;
+	}
+
+[This recording was made with 256 weapon types and five sides. The mod you are playing has more.]
+	{
+	ko=이 녹화는 무기 유형 256개와 진영 다섯으로 만들어졌습니다. 지금 플레이 중인 모드는 그보다 많습니다.;
+	}
+
+[Weapon types]
+	{
+	ko=무기 유형;
+	}
+
+// Updates.
+
+[Back on {version}]
+	{
+	ko={version} 복귀됨;
+	}
+
+[Check for updates]
+	{
+	ko=업데이트 확인;
+	}
+
+[Checking for updates…]
+	{
+	ko=업데이트 확인 중…;
+	}
+
+[Checking the download]
+	{
+	ko=다운로드 확인 중;
+	}
+
+[Could not put {version} back: {detail}]
+	{
+	ko={version} 버전으로 롤백하지 못했습니다: {detail};
+	}
+
+[Download automatically]
+	{
+	ko=자동 다운로드;
+	}
+
+[Download paused]
+	{
+	ko=다운로드 일시 정지;
+	}
+
+[Download update]
+	{
+	ko=업데이트 다운로드;
+	}
+
+[Downloaded and checked · {size}]
+	{
+	ko=다운로드 후 확인됨 · {size};
+	}
+
+[Downloading {version}]
+	{
+	ko={version} 다운로드 중;
+	}
+
+[Downloading {version} · {done} of {size}]
+	{
+	ko={version} 다운로드 중 · {size} 중 {done};
+	}
+
+[Downloads pause during a match and carry on after it.]
+	{
+	ko=다운로드는 경기 중에 일시 정지되고, 경기가 끝나면 이어집니다.;
+	}
+
+[Finishing the update to {version}]
+	{
+	ko={version} 업데이트 마무리 중;
+	}
+
+[Go back to {version}?]
+	{
+	ko={version} 롤백을 하시겠습니까?;
+	}
+
+[Going back to {version}]
+	{
+	ko={version} 롤백 중;
+	}
+
+[Install updates]
+	{
+	ko=업데이트 설치;
+	}
+
+[Install {version} again from its page, over the copy you have.]
+	{
+	ko=해당 페이지에서 {version} 버전을 다시 설치해, 가지고 있는 사본을 덮어쓰세요.;
+	}
+
+[Installed {version}]
+	{
+	ko={version} 설치됨;
+	}
+
+[Installer will put {version} in Applications. Start it from there when it finishes.]
+	{
+	ko=설치 프로그램이 {version} 버전을 Applications에 넣습니다. 끝나면 거기서 시작하세요.;
+	}
+
+[Installing {version}]
+	{
+	ko={version} 설치 중;
+	}
+
+[It installs as you quit. Change it any time in Settings › Updates.]
+	{
+	ko=종료할 때 설치됩니다. 설정 › 업데이트에서 언제든 바꿀 수 있습니다.;
+	}
+
+[It updates as it next starts.]
+	{
+	ko=다음에 시작할 때 업데이트됩니다.;
+	}
+
+[Its signature was refused. Nothing was downloaded or changed.]
+	{
+	ko=서명이 거부되었습니다. 다운로드되거나 바뀐 것은 없습니다.;
+	}
+
+[New in {version}:]
+	{
+	ko={version}의 새 내용:;
+	}
+
+[Not in this version]
+	{
+	ko=이 버전에 없음;
+	}
+
+[Not in this version: 1]
+	{
+	ko=이 버전에 없음: 1;
+	}
+
+[Not in this version: {count}]
+	{
+	ko=이 버전에 없음: {count};
+	}
+
+[Not installed. {version} is unchanged.]
+	{
+	ko=설치되지 않았습니다. {version} 버전은 그대로입니다.;
+	}
+
+[OA restarts on {version}, with the settings it had. {current} won't be offered again until you choose it.]
+	{
+	ko=OA가 {version}에서 다시 시작하며, 당시 설정을 그대로 씁니다. {current} 버전은 직접 선택하기 전까지 다시 제안되지 않습니다.;
+	}
+
+[Off: OA asks before downloading.]
+	{
+	ko=꺼짐: 다운로드 전에 OA가 확인합니다.;
+	}
+
+[Open Annihilation {version}]
+	{
+	ko=Open Annihilation {version};
+	}
+
+[Open Annihilation {version} is out]
+	{
+	ko=Open Annihilation {version} 출시됨;
+	}
+
+[Open Annihilation {version} is ready]
+	{
+	ko=Open Annihilation {version} 준비됨;
+	}
+
+[Open your software centre to update it.]
+	{
+	ko=업데이트하려면 소프트웨어 센터를 여세요.;
+	}
+
+[Previous version · {version}]
+	{
+	ko=이전 버전 · {version};
+	}
+
+[Put {version} back]
+	{
+	ko={version} 되돌림;
+	}
+
+[Restart Windows to finish installing {version}.]
+	{
+	ko={version} 설치를 마치려면 Windows를 다시 시작하세요.;
+	}
+
+[Restart to update]
+	{
+	ko=업데이트하려면 다시 시작;
+	}
+
+[Roll back and restart]
+	{
+	ko=롤백 후 다시 시작;
+	}
+
+[Roll back restores {version} and the settings you had before updating.]
+	{
+	ko=롤백하면 {version} 버전과 업데이트 전의 설정이 돌아옵니다.;
+	}
+
+[Roll back to {version}?]
+	{
+	ko={version} 버전으로 롤백하시겠습니까?;
+	}
+
+[Roll back…]
+	{
+	ko=롤백…;
+	}
+
+[Skip this version]
+	{
+	ko=이 버전 건너뛰기;
+	}
+
+[Started {version}]
+	{
+	ko={version} 시작함;
+	}
+
+[The download stopped]
+	{
+	ko=다운로드가 중지되었습니다.;
+	}
+
+[The download stopped: {reason}]
+	{
+	ko=다운로드가 중지되었습니다: {reason};
+	}
+
+[The download was not the file the signed list names, so it was deleted.]
+	{
+	ko=다운로드한 파일이 서명된 목록의 파일과 달라 삭제되었습니다.;
+	}
+
+[The game closes, puts {version} back and starts again. {current} is not offered again until a newer release.]
+	{
+	ko=게임이 닫힌 뒤 {version} 버전을 되돌리고 다시 시작합니다. 더 새로운 릴리스가 나올 때까지 {current} 버전은 다시 제안되지 않습니다.;
+	}
+
+[The roll back failed. Nothing was changed.]
+	{
+	ko=롤백에 실패했습니다. 아무것도 변경하지 않았습니다.;
+	}
+
+[The roll back failed. The game could not be put back.]
+	{
+	ko=롤백에 실패했습니다. 게임을 되돌리지 못했습니다.;
+	}
+
+[The update could not be verified.]
+	{
+	ko=업데이트를 검증하지 못했습니다.;
+	}
+
+[The update failed. {version} was put back.]
+	{
+	ko=업데이트에 실패했습니다. {version} 버전을 되돌렸습니다.;
+	}
+
+[The update was cancelled.]
+	{
+	ko=업데이트가 취소되었습니다.;
+	}
+
+[This copy came from {name}, which updates it.]
+	{
+	ko=이 사본은 {name}에서 왔으며, 거기서 업데이트됩니다.;
+	}
+
+[This version cannot use:]
+	{
+	ko=이 버전에서 사용할 수 없음:;
+	}
+
+[Try this version]
+	{
+	ko=이 버전 시험;
+	}
+
+[Updated by {name}]
+	{
+	ko=업데이트 주체: {name};
+	}
+
+[Updated from {from}]
+	{
+	ko=업데이트 출처: {from};
+	}
+
+[Updated to {version}]
+	{
+	ko={version} 버전으로 업데이트됨;
+	}
+
+[Update…]
+	{
+	ko=업데이트…;
+	}
+
+[You have {current}. The update is {size}.]
+	{
+	ko=현재 버전은 {current}입니다. 업데이트 크기는 {size}입니다.;
+	}
+
+[Your settings from before you updated]
+	{
+	ko=업데이트 전의 설정;
+	}
+
+[by {author} · {version}]
+	{
+	ko={author} 제작 · {version};
+	}
+
+[macOS runs this copy from a protected place, so it can't update itself. Drag Open Annihilation to Applications and start it from there.]
+	{
+	ko=macOS가 보호된 위치에서 이 사본을 실행하므로 스스로 업데이트할 수 없습니다. Open Annihilation을 응용 프로그램으로 끌어다 놓은 뒤 거기서 시작하세요.;
+	}
+
+[{action} is kept in your layout for a version that has it.]
+	{
+	ko={action} 동작은 그 동작이 있는 버전을 위해 내 키 배치에 남습니다.;
+	}
+
+[{new} won't be offered again until a newer release, or choose it in Settings › Updates.]
+	{
+	ko=더 새로운 릴리스가 나올 때까지 {new} 버전은 다시 제안되지 않습니다. 설정 › 업데이트에서 선택할 수도 있습니다.;
+	}
+
+[{version} closed twice before it reached the main menu, so OA went back to {old}, with the settings you had.]
+	{
+	ko={version} 버전이 메인 메뉴에 닿기 전에 두 번 닫혀, OA가 {old} 버전과 당시 설정으로 돌아갔습니다.;
+	}
+
+[{version} closed twice before the main menu]
+	{
+	ko={version}: 메인 메뉴 전에 두 번 닫힘;
+	}
+
+[{version} downloading]
+	{
+	ko={version} 다운로드 중;
+	}
+
+[{version} installs the next time you start Open Annihilation.]
+	{
+	ko=다음에 Open Annihilation을 시작하면 {version} 버전이 설치됩니다.;
+	}
+
+[{version} installs when you quit]
+	{
+	ko=종료 시 {version} 설치;
+	}
+
+[{version} is kept, in case you want it back. The game starts again by itself.]
+	{
+	ko={version} 버전은 되돌릴 수 있게 보관됩니다. 게임이 스스로 다시 시작됩니다.;
+	}
+
+[{version} is kept. Roll back from Settings › Updates.]
+	{
+	ko={version} 버전은 보관됩니다. 설정 › 업데이트에서 롤백하세요.;
+	}
+
+[{version} is kept. To go back to it, press Roll back… in Settings › Updates.]
+	{
+	ko={version} 버전은 보관됩니다. 되돌리려면 설정 › 업데이트에서 롤백…을 누르세요.;
+	}
+
+[{version} is not offered again until a newer release.]
+	{
+	ko=더 새로운 릴리스가 나올 때까지 {version} 버전은 다시 제안되지 않습니다.;
+	}
+
+[{version} is out]
+	{
+	ko={version} 출시됨;
+	}
+
+[{version} is out · Stable · checked {when}]
+	{
+	ko={version} 출시됨 · 안정 · {when} 확인;
+	}
+
+[{version} is ready]
+	{
+	ko={version} 준비됨;
+	}
+
+[{version} is ready · {size} downloaded]
+	{
+	ko={version} 준비됨 · {size} 다운로드됨;
+	}
+
+[{version} is skipped]
+	{
+	ko={version} 건너뜀;
+	}
+
+[{version} reached the main menu]
+	{
+	ko={version} 버전이 메인 메뉴에 도달함;
+	}
+
+[{version} ready]
+	{
+	ko={version} 준비됨;
+	}
+
+[{version} waits until you choose to try again.]
+	{
+	ko=다시 시험하겠다고 선택할 때까지 {version} 버전은 기다립니다.;
+	}
+
+[{version} won't be offered again. The next release will be, or choose {version} in Settings › Updates to try it again.]
+	{
+	ko={version} 버전은 다시 제안되지 않습니다. 다음 릴리스는 제안됩니다. 다시 시험하려면 설정 › 업데이트에서 {version} 버전을 선택하세요.;
+	}
+
+[{version} · checking]
+	{
+	ko={version} · 확인 중;
+	}
+
+[{version} · paused]
+	{
+	ko={version} · 일시 정지;
+	}
+
+[{version} · {percent}%]
+	{
+	ko={version} · {percent}%;
+	}
+
+// The Library.
+
+[1 mutator on]
+	{
+	ko=뮤테이터 1개 켜짐;
+	}
+
+[Mutators: off]
+	{
+	ko=뮤테이터: 꺼짐;
+	}
+
+[Mutators: {count} on]
+	{
+	ko=뮤테이터: {count}개 켜짐;
+	}
+
+[No mutators on]
+	{
+	ko=켜진 뮤테이터 없음;
+	}
+
+[The size Settings, the Library and the other OA windows take. Auto takes the largest that fits.]
+	{
+	ko=설정, 라이브러리, 그 밖의 OA 창 크기입니다. 자동은 맞는 것 중 가장 큰 크기를 씁니다.;
+	}
+
+[{count} mutators on]
+	{
+	ko=뮤테이터 {count}개 켜짐;
+	}
+
+[{name} is installed. Choose Use in the Library's Keys tab to play with it.]
+	{
+	ko={name} 설치됨. 이것으로 플레이하려면 라이브러리의 키 탭에서 사용을 선택하세요.;
+	}
+
+// The rest of the interface.
+
+[*** {player} needs a newer Open Annihilation for this mod.]
+	{
+	ko=*** {player}에게는 이 모드를 위해 더 새 Open Annihilation이 필요합니다.;
+	}
+
+[+{n}]
+	{
+	ko=+{n};
+	}
+
+[1 change of your own]
+	{
+	ko=내 변경 1개;
+	}
+
+[1 command]
+	{
+	ko=동작 1개;
+	}
+
+[1 key, 1 helper]
+	{
+	ko=키 1개, 보조 1개;
+	}
+
+[1 key, {helpers} helpers]
+	{
+	ko=키 1개, 보조 {helpers}개;
+	}
+
+[1 setting changed]
+	{
+	ko=설정 1개 변경됨;
+	}
+
+[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and Roll back brings it back.]
+	{
+	ko=업데이트 1개가 게임 규칙을 바꿉니다: {names}. 현재 버전에서 저장한 게임은 새 버전에서 불러올 수 없습니다. 현재 버전은 그대로 보관되며, 롤백하면 되돌릴 수 있습니다.;
+	}
+
+[A hold]
+	{
+	ko=길게 누르기;
+	}
+
+[A key counts only after it is held this long. For a hand that brushes keys.]
+	{
+	ko=키를 이 시간만큼 누르고 있어야 입력으로 칩니다. 키를 스치는 손을 위한 설정입니다.;
+	}
+
+[A mod's Ctrl+F2 keys]
+	{
+	ko=모드의 Ctrl+F2 키;
+	}
+
+[A press]
+	{
+	ko=누르기;
+	}
+
+[A release]
+	{
+	ko=떼기;
+	}
+
+[A seat]
+	{
+	ko=자리;
+	}
+
+[A second press of the same key this soon is ignored.]
+	{
+	ko=같은 키를 이렇게 빨리 다시 누르면 무시됩니다.;
+	}
+
+[A selection]
+	{
+	ko=선택;
+	}
+
+[A tapped Shift, Ctrl or Alt holds for the next key or click. Tap twice to lock it.]
+	{
+	ko=Shift, Ctrl 또는 Alt를 짧게 누르면 다음 키나 클릭까지 유지됩니다. 두 번 누르면 고정됩니다.;
+	}
+
+[ANSI]
+	{
+	ko=ANSI;
+	}
+
+[ANSI keyboards]
+	{
+	ko=ANSI 키보드;
+	}
+
+[Add mirror…]
+	{
+	ko=미러 추가…;
+	}
+
+[Add registry…]
+	{
+	ko=저장소 추가…;
+	}
+
+[Allow full 3D mode]
+	{
+	ko=완전 3D 모드 허용;
+	}
+
+[Alt]
+	{
+	ko=Alt;
+	}
+
+[Applied in this order.]
+	{
+	ko=이 순서로 적용됩니다.;
+	}
+
+[Applies to every game.]
+	{
+	ko=모든 경기에 적용됩니다.;
+	}
+
+[Applies with {mod} only.]
+	{
+	ko={mod}에서만 적용됩니다.;
+	}
+
+[Apply 1 change]
+	{
+	ko=변경 1개 적용;
+	}
+
+[Apply {n} changes]
+	{
+	ko=변경 {n}개 적용;
+	}
+
+[Armed]
+	{
+	ko=무장;
+	}
+
+[Ask each time]
+	{
+	ko=매번 확인;
+	}
+
+[Ask each time, or install when I quit.]
+	{
+	ko=매번 확인하거나, 종료할 때 설치합니다.;
+	}
+
+[Asks for]
+	{
+	ko=요구;
+	}
+
+[Attack]
+	{
+	ko=공격;
+	}
+
+[Bars]
+	{
+	ko=막대;
+	}
+
+[Box: armed]
+	{
+	ko=상자: 무장;
+	}
+
+[Box: bld]
+	{
+	ko=상자: 건설;
+	}
+
+[Box: fact.]
+	{
+	ko=상자: 공장;
+	}
+
+[Build]
+	{
+	ko=건설;
+	}
+
+[Building]
+	{
+	ko=건설;
+	}
+
+[Button 6]
+	{
+	ko=버튼 6;
+	}
+
+[Button 7]
+	{
+	ko=버튼 7;
+	}
+
+[Button 8]
+	{
+	ko=버튼 8;
+	}
+
+[C]
+	{
+	ko=C;
+	}
+
+[Camera]
+	{
+	ko=카메라;
+	}
+
+[Cat.]
+	{
+	ko=분류.;
+	}
+
+[Centre]
+	{
+	ko=중앙 맞춤;
+	}
+
+[Change]
+	{
+	ko=변경;
+	}
+
+[Change layout…]
+	{
+	ko=키 배치 변경…;
+	}
+
+[Changed]
+	{
+	ko=변경됨;
+	}
+
+[Change…]
+	{
+	ko=변경…;
+	}
+
+[Chat]
+	{
+	ko=채팅;
+	}
+
+[Chat Line]
+	{
+	ko=채팅 줄;
+	}
+
+[Chat line]
+	{
+	ko=채팅 줄;
+	}
+
+[Check now]
+	{
+	ko=지금 확인;
+	}
+
+[Check with this mod]
+	{
+	ko=이 모드로 확인;
+	}
+
+[Checked the package against the signed list]
+	{
+	ko=서명된 목록과 패키지를 대조했습니다.;
+	}
+
+[Choose Play now to play it, or choose it later with Play now in the Library.]
+	{
+	ko=지금 플레이를 눌러 바로 플레이하거나, 나중에 라이브러리에서 지금 플레이로 선택하세요.;
+	}
+
+[Choose another file…]
+	{
+	ko=다른 파일 선택…;
+	}
+
+[Choose it with Play now in the Library to play it.]
+	{
+	ko=플레이하려면 라이브러리에서 지금 플레이를 눌러 선택하세요.;
+	}
+
+[Choose what happens…]
+	{
+	ko=결과 선택…;
+	}
+
+[Choose…]
+	{
+	ko=선택…;
+	}
+
+[Chosen file: {file}]
+	{
+	ko=선택한 파일: {file};
+	}
+
+[Clear]
+	{
+	ko=해제;
+	}
+
+[Click a button on the picture, or a role in the table, to change it. Buttons 6 to 8 of a gaming mouse appear here when the game sees them pressed.]
+	{
+	ko=그림의 버튼이나 표의 역할을 클릭해 바꾸세요. 게임용 마우스의 버튼 6에서 8은, 게임에서 눌림이 보이면 여기에 나타납니다.;
+	}
+
+[Click to change.]
+	{
+	ko=클릭해 변경하세요.;
+	}
+
+[Click to read.]
+	{
+	ko=클릭해 읽으세요.;
+	}
+
+[Clicks give orders with]
+	{
+	ko=명령을 내리는 클릭;
+	}
+
+[Cloak]
+	{
+	ko=은폐;
+	}
+
+[Close the game]
+	{
+	ko=게임 종료;
+	}
+
+[Close the line]
+	{
+	ko=줄 닫기;
+	}
+
+[Cmd]
+	{
+	ko=Cmd;
+	}
+
+[Cmdr]
+	{
+	ko=커맨더;
+	}
+
+[Comes back]
+	{
+	ko=돌아옴;
+	}
+
+[Commands]
+	{
+	ko=동작;
+	}
+
+[Common commands]
+	{
+	ko=자주 쓰는 동작;
+	}
+
+[Compact]
+	{
+	ko=간결;
+	}
+
+[Computer player for this seat]
+	{
+	ko=이 자리의 컴퓨터;
+	}
+
+[Computer player in the missions]
+	{
+	ko=미션의 컴퓨터;
+	}
+
+[Copy]
+	{
+	ko=복사;
+	}
+
+[Could not check]
+	{
+	ko=확인할 수 없음;
+	}
+
+[Could not check · checked {when}]
+	{
+	ko=확인할 수 없음 · 확인 {when};
+	}
+
+[Could not connect. Try again later.]
+	{
+	ko=연결하지 못했습니다. 나중에 다시 시도하세요.;
+	}
+
+[Could not put every file back: {detail}]
+	{
+	ko=모든 파일을 되돌리지 못했습니다: {detail};
+	}
+
+[Could not put the new files in place: {detail}]
+	{
+	ko=새 파일을 제자리에 넣지 못했습니다: {detail};
+	}
+
+[Could not start the game: {detail}]
+	{
+	ko=게임을 시작하지 못했습니다: {detail};
+	}
+
+[Ctrl]
+	{
+	ko=Ctrl;
+	}
+
+[D]
+	{
+	ko=D;
+	}
+
+[D-gun]
+	{
+	ko=D건;
+	}
+
+[Destruct]
+	{
+	ko=자폭;
+	}
+
+[Details]
+	{
+	ko=자세히;
+	}
+
+[Details…]
+	{
+	ko=자세히…;
+	}
+
+[Developer mode]
+	{
+	ko=개발자 모드;
+	}
+
+[Discard]
+	{
+	ko=버리기;
+	}
+
+[Don't install when I quit]
+	{
+	ko=종료 시 설치 안 함;
+	}
+
+[Done]
+	{
+	ko=완료;
+	}
+
+[Duplicate…]
+	{
+	ko=복제…;
+	}
+
+[Empty]
+	{
+	ko=비우기;
+	}
+
+[Enter]
+	{
+	ko=Enter;
+	}
+
+[Escape cancels · hold Escape to bind Escape]
+	{
+	ko=Escape는 취소 · Escape를 길게 눌러 Escape 지정;
+	}
+
+[Escape closes · hold Escape to look it up]
+	{
+	ko=Escape는 닫기 · Escape를 길게 눌러 조회;
+	}
+
+[Every game]
+	{
+	ko=모든 경기;
+	}
+
+[Every window is back in the middle.]
+	{
+	ko=모든 창이 다시 가운데에 있습니다.;
+	}
+
+[Everywhere]
+	{
+	ko=모든 곳;
+	}
+
+[Faster]
+	{
+	ko=빠르게;
+	}
+
+[Find by key]
+	{
+	ko=키로 찾기;
+	}
+
+[Find on keyboard]
+	{
+	ko=키보드에서 찾기;
+	}
+
+[Fire]
+	{
+	ko=사격;
+	}
+
+[Follow]
+	{
+	ko=따라가기;
+	}
+
+[Follow back]
+	{
+	ko=따라가기 뒤로;
+	}
+
+[Force]
+	{
+	ko=강제;
+	}
+
+[Forget it]
+	{
+	ko=잊기;
+	}
+
+[Forward]
+	{
+	ko=앞으로;
+	}
+
+[Found 1 key · 1 differs from {layout}]
+	{
+	ko=키 1개 찾음 · {layout} 대비 차이 1개;
+	}
+
+[Found 1 key · {m} differ from {layout}]
+	{
+	ko=키 1개 찾음 · {layout} 대비 차이 {m}개;
+	}
+
+[Found {n} keys · 1 differs from {layout}]
+	{
+	ko=키 {n}개 찾음 · {layout} 대비 차이 1개;
+	}
+
+[Found {n} keys · {m} differ from {layout}]
+	{
+	ko=키 {n}개 찾음 · {layout} 대비 차이 {m}개;
+	}
+
+[From your system]
+	{
+	ko=시스템에서;
+	}
+
+[From {layout}]
+	{
+	ko={layout}에서;
+	}
+
+[G]
+	{
+	ko=G;
+	}
+
+[Game and window]
+	{
+	ko=게임과 창;
+	}
+
+[Game menu]
+	{
+	ko=게임 메뉴;
+	}
+
+[Get all]
+	{
+	ko=모두 받기;
+	}
+
+[Get both]
+	{
+	ko=둘 다 받기;
+	}
+
+[Get installs it again.]
+	{
+	ko=받기를 누르면 다시 설치됩니다.;
+	}
+
+[Get more brains...]
+	{
+	ko=두뇌 더 얻기...;
+	}
+
+[Get with {count} more]
+	{
+	ko={count}개 더 받기;
+	}
+
+[Get with {name}]
+	{
+	ko={name}까지 받기;
+	}
+
+[Get · {size}]
+	{
+	ko=받기 · {size};
+	}
+
+[Grid]
+	{
+	ko=격자;
+	}
+
+[Group]
+	{
+	ko=부대;
+	}
+
+[Groups]
+	{
+	ko=부대 목록;
+	}
+
+[Guard]
+	{
+	ko=호위;
+	}
+
+[Hacks on]
+	{
+	ko=수정 항목 켜짐;
+	}
+
+[Held to the end: the order goes.]
+	{
+	ko=끝까지 누르면 명령이 나갑니다.;
+	}
+
+[Helpers act in every game, not only with {mod}.]
+	{
+	ko=보조는 모든 경기에서 작동합니다. {mod}에서만 작동하는 것은 아닙니다.;
+	}
+
+[Helpers act in every game.]
+	{
+	ko=보조는 모든 경기에서 작동합니다.;
+	}
+
+[Here and {name} both use it {context}.]
+	{
+	ko=여기와 {name} 모두가 {context}에서 같은 키를 사용합니다.;
+	}
+
+[Hold]
+	{
+	ko=길게 누르기;
+	}
+
+[Hold a key until it counts.]
+	{
+	ko=입력으로 인정될 때까지 키를 길게 누르세요.;
+	}
+
+[Hold keys that latch]
+	{
+	ko=고정되는 키;
+	}
+
+[Hold middle]
+	{
+	ko=가운데 길게;
+	}
+
+[Hold right]
+	{
+	ko=오른쪽 길게;
+	}
+
+[Hold the modifiers you want, then press a key or a mouse button, or turn the wheel.]
+	{
+	ko=원하는 조합 키를 누른 채, 키나 마우스 버튼을 누르거나 휠을 돌리세요.;
+	}
+
+[Holding]
+	{
+	ko=누르는 중;
+	}
+
+[Homepage]
+	{
+	ko=홈페이지;
+	}
+
+[How far a press may move and still be a click.]
+	{
+	ko=눌러도 클릭으로 남는 최대 이동 거리입니다.;
+	}
+
+[How it acts]
+	{
+	ko=작동 방식;
+	}
+
+[ISO]
+	{
+	ko=ISO;
+	}
+
+[ISO keyboards]
+	{
+	ko=ISO 키보드;
+	}
+
+[Idle bld]
+	{
+	ko=유휴 건설;
+	}
+
+[Idle fac]
+	{
+	ko=유휴 공장;
+	}
+
+[In the chat line]
+	{
+	ko=채팅 줄에서;
+	}
+
+[In use for every game]
+	{
+	ko=모든 경기에서 사용 중;
+	}
+
+[In use with {mod}]
+	{
+	ko={mod}에서 사용 중;
+	}
+
+[Install]
+	{
+	ko=설치;
+	}
+
+[Install alongside]
+	{
+	ko=별도 설치;
+	}
+
+[Install and restart]
+	{
+	ko=설치 후 다시 시작;
+	}
+
+[Install when I quit]
+	{
+	ko=종료 시 설치;
+	}
+
+[Install…]
+	{
+	ko=설치…;
+	}
+
+[It installs when you quit, or now if you restart. Restarting takes a few seconds and brings you back to the main menu.]
+	{
+	ko=종료할 때 설치되거나, 다시 시작하면 지금 설치됩니다. 다시 시작은 몇 초가 걸리며 메인 메뉴로 돌아옵니다.;
+	}
+
+[It is in the download queue: Cancel it before you uninstall it.]
+	{
+	ko=다운로드 대기열에 있습니다. 제거하려면 먼저 취소를 누르세요.;
+	}
+
+[It stopped before any file moved.]
+	{
+	ko=파일이 옮겨지기 전에 멈췄습니다.;
+	}
+
+[Its folder is a link, and OA never removes what a link leads to. Open folder shows it.]
+	{
+	ko=이 폴더는 링크이며, OA는 링크가 가리키는 대상을 절대 삭제하지 않습니다. 폴더 열기를 누르면 확인할 수 있습니다.;
+	}
+
+[JIS]
+	{
+	ko=JIS;
+	}
+
+[JIS keyboards]
+	{
+	ko=JIS 키보드;
+	}
+
+[KEYS]
+	{
+	ko=키;
+	}
+
+[Keep editing]
+	{
+	ko=편집 계속;
+	}
+
+[Keep holding {chord}: the ring fills in {seconds} s. Let go to cancel.]
+	{
+	ko={chord}: 계속 누르면 고리가 {seconds}초 안에 채워집니다. 떼면 취소됩니다.;
+	}
+
+[Keep it]
+	{
+	ko=유지;
+	}
+
+[Keep it for {action}]
+	{
+	ko={action}에 유지;
+	}
+
+[Keep it on top]
+	{
+	ko=위에 유지;
+	}
+
+[Keep it ready]
+	{
+	ko=준비 유지;
+	}
+
+[Keep them]
+	{
+	ko=유지;
+	}
+
+[Keep them on top]
+	{
+	ko=모두 위에 유지;
+	}
+
+[Keep your 1 change on top of {layout}?]
+	{
+	ko={layout} 위에 내 변경 1개를 유지하시겠습니까?;
+	}
+
+[Keep your {n} changes on top of {layout}?]
+	{
+	ko={layout} 위에 내 변경 {n}개를 유지하시겠습니까?;
+	}
+
+[Keyboard]
+	{
+	ko=키보드;
+	}
+
+[Keys pressed here never reach the game.]
+	{
+	ko=여기서 누른 키는 게임에 전달되지 않습니다.;
+	}
+
+[Keys while placing a building]
+	{
+	ko=건물 배치 중의 키;
+	}
+
+[Keys while playing]
+	{
+	ko=플레이 중의 키;
+	}
+
+[Keys while watching]
+	{
+	ko=관전 중의 키;
+	}
+
+[Kills]
+	{
+	ko=처치;
+	}
+
+[Kind]
+	{
+	ko=종류;
+	}
+
+[Known as]
+	{
+	ko=별칭;
+	}
+
+[Latch]
+	{
+	ko=고정;
+	}
+
+[Latch {action}]
+	{
+	ko={action} 고정;
+	}
+
+[Latchable]
+	{
+	ko=고정 가능;
+	}
+
+[Later]
+	{
+	ko=나중에;
+	}
+
+[Layout]
+	{
+	ko=키 배치;
+	}
+
+[Left and right {modifier} are one key in Open Annihilation]
+	{
+	ko={modifier}: Open Annihilation에서 왼쪽과 오른쪽은 하나의 키입니다.;
+	}
+
+[Left hand]
+	{
+	ko=왼손;
+	}
+
+[Left-click]
+	{
+	ko=왼쪽 클릭;
+	}
+
+[Legacy]
+	{
+	ko=구형;
+	}
+
+[Let go before the end: nothing happens.]
+	{
+	ko=끝나기 전에 떼면 아무 일도 없습니다.;
+	}
+
+[Load]
+	{
+	ko=탑재;
+	}
+
+[Load with the built-in player]
+	{
+	ko=기본 제공 컴퓨터로 불러오기;
+	}
+
+[Long press]
+	{
+	ko=긴 누르기;
+	}
+
+[Look]
+	{
+	ko=모양;
+	}
+
+[Macro]
+	{
+	ko=매크로;
+	}
+
+[Made for the {layout} interface; yours is {yours}.]
+	{
+	ko={layout} 인터페이스용입니다. 현재 인터페이스는 {yours}입니다.;
+	}
+
+[Manage…]
+	{
+	ko=관리…;
+	}
+
+[Marker]
+	{
+	ko=표식;
+	}
+
+[Match]
+	{
+	ko=경기;
+	}
+
+[Mayhem, Twilight and older patches]
+	{
+	ko=Mayhem, Twilight 및 이전 패치;
+	}
+
+[Menu buttons]
+	{
+	ko=메뉴 버튼;
+	}
+
+[Menus]
+	{
+	ko=메뉴;
+	}
+
+[Middle]
+	{
+	ko=가운데;
+	}
+
+[Modern]
+	{
+	ko=최신;
+	}
+
+[Modifier]
+	{
+	ko=조합 키;
+	}
+
+[More]
+	{
+	ko=더 보기;
+	}
+
+[More in the Library…]
+	{
+	ko=라이브러리에서 더 보기…;
+	}
+
+[More options]
+	{
+	ko=추가 옵션;
+	}
+
+[Mouse]
+	{
+	ko=마우스;
+	}
+
+[Mouse button {button}]
+	{
+	ko=마우스 버튼 {button};
+	}
+
+[Mouse first]
+	{
+	ko=마우스 우선;
+	}
+
+[Move]
+	{
+	ko=이동;
+	}
+
+[Move OA to Applications]
+	{
+	ko=OA를 Applications 폴더로 이동;
+	}
+
+[Move it to {action}]
+	{
+	ko={action}에 옮기기;
+	}
+
+[Move to {action}]
+	{
+	ko={action}에 이동;
+	}
+
+[Moves]
+	{
+	ko=이동;
+	}
+
+[Multiplayer]
+	{
+	ko=멀티플레이어;
+	}
+
+[Name]
+	{
+	ko=이름;
+	}
+
+[Name this layout]
+	{
+	ko=이 키 배치의 이름;
+	}
+
+[Needs Allow full 3D mode]
 	{
 	ko=‘완전 3D 모드 허용’ 필요;
 	}
+
+[New key for {action}]
+	{
+	ko={action}의 새 키;
+	}
+
+[Next page]
+	{
+	ko=다음 페이지;
+	}
+
+[Next pg]
+	{
+	ko=다음 쪽;
+	}
+
+[Next report]
+	{
+	ko=다음 보고;
+	}
+
+[Next unit]
+	{
+	ko=다음 유닛;
+	}
+
+[No command changes its key.]
+	{
+	ko=키를 바꾸는 동작은 없습니다.;
+	}
+
+[No key]
+	{
+	ko=키 없음;
+	}
+
+[No wheel zoom]
+	{
+	ko=휠 확대/축소 없음;
+	}
+
+[Not checked yet]
+	{
+	ko=아직 확인 안 함;
+	}
+
+[Not on this keyboard]
+	{
+	ko=이 키보드에 없음;
+	}
+
+[Nothing changes until you apply it.]
+	{
+	ko=적용하기 전에는 아무것도 바뀌지 않습니다.;
+	}
+
+[Nothing is scheduled.]
+	{
+	ko=예약된 것이 없습니다.;
+	}
+
+[Number keys select groups]
+	{
+	ko=숫자 키는 부대를 선택합니다.;
+	}
+
+[O]
+	{
+	ko=O;
+	}
+
+[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and Roll back brings it back.]
+	{
+	ko=OA는 {to}에서 게임 규칙이 바뀌는지 판단할 수 없습니다. 바뀐다면 {from}에서 저장한 게임을 그 버전에서 불러올 수 없습니다. {From}의 사본은 그대로 보관되며, 롤백하면 되돌릴 수 있습니다.;
+	}
+
+[OA looks for a newer Open Annihilation once a day when it starts. It never installs one until you say so.]
+	{
+	ko=OA는 시작할 때 하루에 한 번 더 새 Open Annihilation을 찾습니다. 직접 선택하기 전에는 설치하지 않습니다.;
+	}
+
+[OA never checks]
+	{
+	ko=OA 확인 안 함;
+	}
+
+[OA's screens in Barlow, a clear modern face.]
+	{
+	ko=OA 화면을 선명한 최신 글꼴 Barlow로 표시합니다.;
+	}
+
+[OA's screens in the game's own bitmap fonts.]
+	{
+	ko=OA 화면을 게임 자체의 비트맵 글꼴로 표시합니다.;
+	}
+
+[Off stops the view scrolling while the pointer rests at the window's edge.]
+	{
+	ko=끄면 포인터가 창 가장자리에 머물러도 화면이 스크롤되지 않습니다.;
+	}
+
+[On Open Annihilation's screens]
+	{
+	ko=Open Annihilation 화면에서;
+	}
+
+[On a build button]
+	{
+	ko=건설 버튼에서;
+	}
+
+[On the minimap]
+	{
+	ko=미니맵에서;
+	}
+
+[On/off]
+	{
+	ko=켜짐/꺼짐;
+	}
+
+[On:]
+	{
+	ko=켜짐:;
+	}
+
+[One hand]
+	{
+	ko=한 손;
+	}
+
+[Only when I ask]
+	{
+	ko=물을 때만;
+	}
+
+[Only with {mod}]
+	{
+	ko={mod}에서만;
+	}
+
+[Open Annihilation's screens]
+	{
+	ko=Open Annihilation 화면;
+	}
+
+[Open mod folder]
+	{
+	ko=모드 폴더 열기;
+	}
+
+[Open the installer]
+	{
+	ko=설치 프로그램 열기;
+	}
+
+[Open the log to see which files were left.]
+	{
+	ko=남은 파일을 보려면 로그를 여세요.;
+	}
+
+[Open the page]
+	{
+	ko=페이지 열기;
+	}
+
+[Open the release page]
+	{
+	ko=릴리스 페이지 열기;
+	}
+
+[Open your software centre, or run:]
+	{
+	ko=소프트웨어 센터를 열거나, 다음을 실행하세요:;
+	}
+
+[Open {page} in a browser on another computer, or in Desktop Mode.]
+	{
+	ko=다른 컴퓨터의 브라우저나 데스크톱 모드에서 이 페이지를 여세요: {page};
+	}
+
+[Open ›]
+	{
+	ko=열기 ›;
+	}
+
+[Options...]
+	{
+	ko=옵션...;
+	}
+
+[Order buttons and build cells show their key in a corner.]
+	{
+	ko=명령 버튼과 건설 칸은 모서리에 키를 표시합니다.;
+	}
+
+[P]
+	{
+	ko=P;
+	}
+
+[Page]
+	{
+	ko=페이지;
+	}
+
+[Panels]
+	{
+	ko=패널;
+	}
+
+[Patrol]
+	{
+	ko=순찰;
+	}
+
+[Paused during a match]
+	{
+	ko=대전 중 일시 정지;
+	}
+
+[Paused during the game]
+	{
+	ko=게임 중 일시 정지;
+	}
+
+[Pin]
+	{
+	ko=핀;
+	}
+
+[Placing]
+	{
+	ko=배치 중;
+	}
+
+[Placing a building]
+	{
+	ko=건물 배치 중;
+	}
+
+[Play now]
+	{
+	ko=바로 플레이;
+	}
+
+[Press a key or a mouse button to see what it does. Nothing is changed.]
+	{
+	ko=키나 마우스 버튼을 눌러 동작을 확인하세요. 바뀌는 것은 없습니다.;
+	}
+
+[Press a key twice, quickly.]
+	{
+	ko=키를 빠르게 두 번 누르세요.;
+	}
+
+[Press a key, alone or with Shift, Ctrl or Alt.]
+	{
+	ko=키를 단독으로, 또는 Shift, Ctrl, Alt와 함께 누르세요.;
+	}
+
+[Press a key…]
+	{
+	ko=키를 누르세요…;
+	}
+
+[Press {key} to rotate]
+	{
+	ko=회전하려면 {key} 키를 누르세요.;
+	}
+
+[Press {key}, or {wheel}, to rotate]
+	{
+	ko=회전하려면 {key} 키 또는 {wheel} 조작을 사용하세요.;
+	}
+
+[Prev pg]
+	{
+	ko=이전;
+	}
+
+[Put every changed file back]
+	{
+	ko=변경된 파일 모두 되돌림;
+	}
+
+[Put {to} in place, keeping {from}]
+	{
+	ko={to} 배치함, {from} 유지함;
+	}
+
+[Puts every window you moved back in the middle.]
+	{
+	ko=옮긴 창을 모두 가운데로 되돌립니다.;
+	}
+
+[Queue]
+	{
+	ko=대기열;
+	}
+
+[RESTART NOW]
+	{
+	ko=지금 다시 시작;
+	}
+
+[Ran the installer]
+	{
+	ko=설치 프로그램 실행함;
+	}
+
+[Reclaim]
+	{
+	ko=회수;
+	}
+
+[Recovery could not finish.]
+	{
+	ko=복구를 마치지 못했습니다.;
+	}
+
+[Registries in the Library…]
+	{
+	ko=라이브러리에서 저장소 보기…;
+	}
+
+[Regular]
+	{
+	ko=일반;
+	}
+
+[Reinstall]
+	{
+	ko=재설치;
+	}
+
+[Remove]
+	{
+	ko=제거;
+	}
+
+[Rename…]
+	{
+	ko=이름 바꾸기…;
+	}
+
+[Replacing keeps {installed}, and Roll back in the Library brings it back.]
+	{
+	ko=교체해도 설치된 버전({installed})은 보관되며, 라이브러리에서 롤백을 누르면 되돌릴 수 있습니다.;
+	}
+
+[Reset]
+	{
+	ko=재설정;
+	}
+
+[Reset to {layout}]
+	{
+	ko={layout} 기준으로 재설정;
+	}
+
+[Reset window positions]
+	{
+	ko=창 위치 재설정;
+	}
+
+[Resource panel]
+	{
+	ko=자원 패널;
+	}
+
+[Resources]
+	{
+	ko=자원;
+	}
+
+[Restore defaults]
+	{
+	ko=기본값 복원;
+	}
+
+[Restore profile values]
+	{
+	ko=프로필 값 복원;
+	}
+
+[Resume]
+	{
+	ko=재개;
+	}
+
+[Revision {installed} is kept, and Roll back in the Library brings it back.]
+	{
+	ko=현재 리비전({installed})은 보관되며, 라이브러리에서 롤백을 누르면 되돌릴 수 있습니다.;
+	}
+
+[Right hand]
+	{
+	ko=오른손;
+	}
+
+[Right-click]
+	{
+	ko=오른쪽 클릭;
+	}
+
+[Roll back]
+	{
+	ko=롤백;
+	}
+
+[Roll back {title} to {to}? {from} is kept in its place, and Roll back again brings it back.]
+	{
+	ko={title} 모드를 {to} 버전으로 롤백하시겠습니까? {from} 버전은 그대로 보관되며, 롤백을 다시 누르면 되돌릴 수 있습니다.;
+	}
+
+[Same]
+	{
+	ko=같음;
+	}
+
+[Same as the game]
+	{
+	ko=게임과 같음;
+	}
+
+[Same place on every keyboard]
+	{
+	ko=모든 키보드에서 같은 위치;
+	}
+
+[Save]
+	{
+	ko=저장;
+	}
+
+[Save changes]
+	{
+	ko=변경 사항 저장;
+	}
+
+[Save file…]
+	{
+	ko=파일 저장…;
+	}
+
+[Save your edit before closing?]
+	{
+	ko=닫기 전에 편집을 저장하시겠습니까?;
+	}
+
+[Save your {n} edits before closing?]
+	{
+	ko=닫기 전에 편집 {n}개를 저장하시겠습니까?;
+	}
+
+[Saved games and replays]
+	{
+	ko=저장된 게임 및 리플레이;
+	}
+
+[Saved to {place}]
+	{
+	ko=저장 위치: {place};
+	}
+
+[Saves]
+	{
+	ko=저장 파일;
+	}
+
+[Screenshots]
+	{
+	ko=스크린샷;
+	}
+
+[Search commands]
+	{
+	ko=동작 검색;
+	}
+
+[Sel bld]
+	{
+	ko=건설;
+	}
+
+[Sel fac]
+	{
+	ko=공장;
+	}
+
+[Select a key to see everything on it.]
+	{
+	ko=키를 선택해 그 키의 항목을 모두 확인하세요.;
+	}
+
+[Selection]
+	{
+	ko=선택;
+	}
+
+[Selection box]
+	{
+	ko=선택 상자;
+	}
+
+[Self-destruct]
+	{
+	ko=자폭;
+	}
+
+[Self-destruct, surrender and quitting need a long press. A ring fills as you hold.]
+	{
+	ko=자폭, 항복, 종료는 길게 눌러야 합니다. 누르는 동안 고리가 채워집니다.;
+	}
+
+[Set]
+	{
+	ko=지정;
+	}
+
+[Set by the mod. Every player in a game has the same.]
+	{
+	ko=모드가 지정합니다. 한 게임의 모든 플레이어가 같은 값을 가집니다.;
+	}
+
+[Set them aside]
+	{
+	ko=따로 보관;
+	}
+
+[Settings you changed after updating are replaced by the ones you had then.]
+	{
+	ko=업데이트 후에 바꾼 설정은 그때의 설정으로 바뀝니다.;
+	}
+
+[Settings…]
+	{
+	ko=설정…;
+	}
+
+[Shift]
+	{
+	ko=Shift;
+	}
+
+[Shot]
+	{
+	ko=캡처;
+	}
+
+[Show]
+	{
+	ko=보기;
+	}
+
+[Show again]
+	{
+	ko=다시 보기;
+	}
+
+[Show as list]
+	{
+	ko=목록으로 보기;
+	}
+
+[Show details]
+	{
+	ko=세부 정보 보기;
+	}
+
+[Show in Finder]
+	{
+	ko=Finder에서 보기;
+	}
+
+[Show keyboard]
+	{
+	ko=키보드 보기;
+	}
+
+[Show keys on buttons]
+	{
+	ko=버튼에 키 표시;
+	}
+
+[Show the log]
+	{
+	ko=로그 보기;
+	}
+
+[Single player]
+	{
+	ko=싱글 플레이어;
+	}
+
+[Slower]
+	{
+	ko=느리게;
+	}
+
+[Some files were left half-moved.]
+	{
+	ko=일부 파일은 이동이 중간에 그쳤습니다.;
+	}
+
+[Some files were left half-moved. Show details lists the steps that put the game right.]
+	{
+	ko=일부 파일은 이동이 중간에 그쳤습니다. 세부 정보 보기에 게임을 바로잡는 단계가 나옵니다.;
+	}
+
+[Space]
+	{
+	ko=스페이스;
+	}
+
+[Space +]
+	{
+	ko=간격 +;
+	}
+
+[Space -]
+	{
+	ko=간격 -;
+	}
+
+[Start Open Annihilation from Applications afterwards.]
+	{
+	ko=그다음 응용 프로그램에서 Open Annihilation을 시작하세요.;
+	}
+
+[Start clean]
+	{
+	ko=깨끗이 시작;
+	}
+
+[Start without it]
+	{
+	ko=빼고 시작;
+	}
+
+[Start without them]
+	{
+	ko=모두 빼고 시작;
+	}
+
+[Starts from]
+	{
+	ko=시작 기준;
+	}
+
+[Status]
+	{
+	ko=상태;
+	}
+
+[Stays as it is]
+	{
+	ko=그대로 유지;
+	}
+
+[Stop]
+	{
+	ko=중지;
+	}
+
+[Store]
+	{
+	ko=지정;
+	}
+
+[Swap them]
+	{
+	ko=서로 바꾸기;
+	}
+
+[Switch]
+	{
+	ko=전환;
+	}
+
+[Switch off]
+	{
+	ko=끄기;
+	}
+
+[T]
+	{
+	ko=T;
+	}
+
+[Tab]
+	{
+	ko=Tab;
+	}
+
+[Tags]
+	{
+	ko=태그;
+	}
+
+[Tap Shift, then press A.]
+	{
+	ko=Shift를 짧게 누른 뒤 A를 누르세요.;
+	}
+
+[Tap to turn it on, tap again to turn it off.]
+	{
+	ko=한 번 눌러 켜고, 다시 눌러 끄세요.;
+	}
+
+[The built-in player takes those seats from the units as they stand. Get the brain in the Library to load the game as it was saved.]
+	{
+	ko=그 자리들은 기본 제공 컴퓨터가 유닛의 현재 상태 그대로 이어받습니다. 저장한 그대로 불러오려면 라이브러리에서 브레인을 받으세요.;
+	}
+
+[The folder kept for Roll back ({backup}) is removed.]
+	{
+	ko=롤백용으로 보관한 폴더({backup})를 제거했습니다.;
+	}
+
+[The folder kept for Roll back stays.]
+	{
+	ko=롤백용으로 보관한 폴더는 그대로 유지됩니다.;
+	}
+
+[The folder kept for Roll back, which holds no mod that can be read, is removed.]
+	{
+	ko=롤백용으로 보관한 폴더에 읽을 수 있는 모드가 없어 제거했습니다.;
+	}
+
+[The game closes, installs it and starts again.]
+	{
+	ko=게임이 닫힌 뒤 설치하고 다시 시작합니다.;
+	}
+
+[The game did not close: {detail}]
+	{
+	ko=게임이 닫히지 않았습니다: {detail};
+	}
+
+[The id {id} is kept for your own changes.]
+	{
+	ko=내 변경용 ID {id} 값은 유지됩니다.;
+	}
+
+[The installer did not finish: {detail}]
+	{
+	ko=설치 프로그램이 끝나지 않았습니다: {detail};
+	}
+
+[The key in the {key} place]
+	{
+	ko={key} 위치의 키;
+	}
+
+[The keys OA keeps for TA Zero, ESC or Twilight]
+	{
+	ko=OA가 TA Zero, ESC, Twilight용으로 유지하는 키;
+	}
+
+[The keys Open Annihilation ships with.]
+	{
+	ko=Open Annihilation에 기본으로 들어 있는 키입니다.;
+	}
+
+[The keys, mouse buttons and wheel turns the game answers. {primary}+/ in a match shows them.]
+	{
+	ko=게임이 응답하는 키, 마우스 버튼, 휠 회전입니다. 대전 중에는 {primary}+/로 볼 수 있습니다.;
+	}
+
+[The layout was not saved: {reason}]
+	{
+	ko=키 배치를 저장하지 못했습니다: {reason};
+	}
+
+[The letter {key}, wherever your keyboard has it]
+	{
+	ko=글자 {key}, 키보드상의 그 위치;
+	}
+
+[The mod's data]
+	{
+	ko=모드 데이터;
+	}
+
+[The mod's hacks]
+	{
+	ko=모드의 수정 항목;
+	}
+
+[The numpad moves the pointer; 5 clicks, 0 right-clicks.]
+	{
+	ko=숫자 키가 포인터를 움직입니다. 5 클릭, 0 오른쪽 클릭입니다.;
+	}
+
+[The package could not be checked: {detail}]
+	{
+	ko=패키지를 검사하지 못했습니다: {detail};
+	}
+
+[The package could not be unpacked: {detail}]
+	{
+	ko=패키지 압축을 풀지 못했습니다: {detail};
+	}
+
+[The text changes 1 key of {layout}.]
+	{
+	ko=이 텍스트는 {layout}의 키 1개를 바꿉니다.;
+	}
+
+[The text changes {n} keys of {layout}.]
+	{
+	ko=이 텍스트는 {layout}의 키 {n}개를 바꿉니다.;
+	}
+
+[The version installed is kept, and Roll back in the Library brings it back.]
+	{
+	ko=설치된 버전은 보관되며, 라이브러리에서 롤백을 누르면 되돌릴 수 있습니다.;
+	}
+
+[The {key} key]
+	{
+	ko={key} 키;
+	}
+
+[This copy cannot replace itself. Get the new release from its page.]
+	{
+	ko=이 사본은 스스로 바꿀 수 없습니다. 해당 페이지에서 새 릴리스를 받으세요.;
+	}
+
+[This copy is installed for the whole system, so it cannot replace itself. Install the new release the way this copy was installed.]
+	{
+	ko=이 사본은 시스템 전체에 설치되어 스스로 바꿀 수 없습니다. 이 사본을 설치했던 방법대로 새 릴리스를 설치하세요.;
+	}
+
+[This layout has problems:]
+	{
+	ko=이 키 배치에 문제가 있습니다:;
+	}
+
+[This mod]
+	{
+	ko=이 모드;
+	}
+
+[This mod needs every player on Open Annihilation. The host plays Total Annihilation 3.1c.]
+	{
+	ko=이 모드는 모든 플레이어가 Open Annihilation을 사용해야 합니다. 호스트는 Total Annihilation 3.1c를 플레이합니다.;
+	}
+
+[To put the game right]
+	{
+	ko=게임을 바로잡는 방법;
+	}
+
+[Tournament]
+	{
+	ko=토너먼트;
+	}
+
+[Try it here]
+	{
+	ko=여기서 시험;
+	}
+
+[Turn every helper off]
+	{
+	ko=도우미 모두 끄기;
+	}
+
+[Turn off]
+	{
+	ko=끄기;
+	}
+
+[Turn on {name}]
+	{
+	ko={name} 켜기;
+	}
+
+[Turning it on applies when the Library closes, and then Play now works.]
+	{
+	ko=라이브러리를 닫으면 켜지며, 그 후 바로 플레이할 수 있습니다.;
+	}
+
+[Turning it on applies when the Library closes, and then Use now works.]
+	{
+	ko=라이브러리를 닫으면 켜지며, 그 후 바로 사용할 수 있습니다.;
+	}
+
+[Turning them on applies when the Library closes, and then Play now works.]
+	{
+	ko=라이브러리를 닫으면 모두 켜지며, 그 후 바로 플레이할 수 있습니다.;
+	}
+
+[Turning them on applies when the Library closes, and then Use now works.]
+	{
+	ko=라이브러리를 닫으면 모두 켜지며, 그 후 바로 사용할 수 있습니다.;
+	}
+
+[U]
+	{
+	ko=U;
+	}
+
+[UPDATES]
+	{
+	ko=업데이트;
+	}
+
+[Unbound]
+	{
+	ko=미지정;
+	}
+
+[Undo]
+	{
+	ko=실행 취소;
+	}
+
+[Uninstall]
+	{
+	ko=제거;
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy Roll back keeps.]
+	{
+	ko={name} 항목을 제거하시겠습니까? {folder} 폴더가 삭제되며, 롤백용으로 보관된 사본도 함께 삭제됩니다.;
+	}
+
+[Unload]
+	{
+	ko=하역;
+	}
+
+[Unload mod]
+	{
+	ko=모드 끄기;
+	}
+
+[Unlocked camera]
+	{
+	ko=카메라 제한 해제;
+	}
+
+[Unpacked the package]
+	{
+	ko=패키지 압축 해제함;
+	}
+
+[Up to date]
+	{
+	ko=최신 상태;
+	}
+
+[Up to date · Stable · checked {when}]
+	{
+	ko=최신 상태 · 안정 · {when} 확인;
+	}
+
+[Update]
+	{
+	ko=업데이트;
+	}
+
+[Updated {name} · {new} changes the game's rules · Roll back restores {old}]
+	{
+	ko={name} 업데이트됨 · {new}에서 게임 규칙이 바뀜 · 롤백으로 {old} 복원 가능;
+	}
+
+[Updated {name} · {new} may change the game's rules · Roll back restores {old}]
+	{
+	ko={name} 업데이트됨 · {new}에서 게임 규칙이 바뀔 수 있음 · 롤백으로 {old} 복원 가능;
+	}
+
+[Use]
+	{
+	ko=사용;
+	}
+
+[Use by default]
+	{
+	ko=기본값으로 설정;
+	}
+
+[Use for every game]
+	{
+	ko=모든 게임에 사용;
+	}
+
+[Use for {mod}]
+	{
+	ko={mod}에 사용;
+	}
+
+[Use now]
+	{
+	ko=지금 사용;
+	}
+
+[Use these]
+	{
+	ko=이대로 사용;
+	}
+
+[Use this]
+	{
+	ko=사용;
+	}
+
+[Use this game]
+	{
+	ko=이 게임 사용;
+	}
+
+[Use {chord} for {action}]
+	{
+	ko={action}에 {chord} 사용;
+	}
+
+[Use {key} for {action}…]
+	{
+	ko={action}에 {key} 사용…;
+	}
+
+[Using]
+	{
+	ko=사용 중;
+	}
+
+[Using {layout} for every game.]
+	{
+	ko=모든 게임에 {layout} 키 배치를 사용합니다.;
+	}
+
+[Using {layout} with {mod}.]
+	{
+	ko={mod}에 {layout} 키 배치를 사용합니다.;
+	}
+
+[V]
+	{
+	ko=V;
+	}
+
+[W]
+	{
+	ko=W;
+	}
+
+[WHEN I QUIT]
+	{
+	ko=종료할 때;
+	}
+
+[Waited for the game to close]
+	{
+	ko=게임이 닫히기를 기다림;
+	}
+
+[Watching]
+	{
+	ko=관전;
+	}
+
+[What happened]
+	{
+	ko=일어난 일;
+	}
+
+[What moves]
+	{
+	ko=바뀌는 항목;
+	}
+
+[What {key} does]
+	{
+	ko={key} 키의 기능;
+	}
+
+[What's new]
+	{
+	ko=새로운 내용;
+	}
+
+[Wheel]
+	{
+	ko=휠;
+	}
+
+[Wheel and middle]
+	{
+	ko=휠과 가운데 버튼;
+	}
+
+[Wheel zoom]
+	{
+	ko=휠 확대/축소;
+	}
+
+[When I quit]
+	{
+	ko=종료할 때;
+	}
+
+[When should it go in?]
+	{
+	ko=언제 설치하시겠습니까?;
+	}
+
+[Where]
+	{
+	ko=위치;
+	}
+
+[While playing]
+	{
+	ko=플레이 중;
+	}
+
+[While watching]
+	{
+	ko=관전 중;
+	}
+
+[Whiteboard held]
+	{
+	ko=화이트보드 누른 채;
+	}
+
+[Window]
+	{
+	ko=창;
+	}
+
+[Window size]
+	{
+	ko=창 크기;
+	}
+
+[Windows asks for permission.]
+	{
+	ko=Windows가 권한을 요청합니다.;
+	}
+
+[With {mod}: {name}]
+	{
+	ko={mod} 사용: {name};
+	}
+
+[You are playing {name}. Switch it off first with Switch off, then uninstall it.]
+	{
+	ko=현재 {name} 모드를 플레이하고 있습니다. 먼저 끄기를 눌러 모드를 끈 다음 제거하세요.;
+	}
+
+[You went back to {old}, with the settings you had.]
+	{
+	ko={old} 버전으로 돌아갔습니다. 당시 설정도 함께입니다.;
+	}
+
+[Your 1 change to {name}]
+	{
+	ko={name}의 내 변경 1개;
+	}
+
+[Your change]
+	{
+	ko=내 변경;
+	}
+
+[Your change, over {layout}]
+	{
+	ko={layout} 위의 내 변경;
+	}
+
+[Your changes]
+	{
+	ko=내 변경 항목;
+	}
+
+[Your last campaign set, ready to use. Cancel plays without mutators.]
+	{
+	ko=마지막 캠페인 조합을 바로 쓸 수 있습니다. 취소를 누르면 뮤테이터 없이 플레이합니다.;
+	}
+
+[Your last multiplayer set, ready to use. Cancel plays without mutators.]
+	{
+	ko=마지막 멀티플레이 조합을 바로 쓸 수 있습니다. 취소를 누르면 뮤테이터 없이 플레이합니다.;
+	}
+
+[Your last skirmish set, ready to use. Cancel plays without mutators.]
+	{
+	ko=마지막 스커미시 조합을 바로 쓸 수 있습니다. 취소를 누르면 뮤테이터 없이 플레이합니다.;
+	}
+
+[Your saved games, settings and mods are not touched by this.]
+	{
+	ko=저장된 게임, 설정, 모드는 여기서 바뀌지 않습니다.;
+	}
+
+[Your saved games, settings and mods stay as they are.]
+	{
+	ko=저장된 게임, 설정, 모드는 그대로입니다.;
+	}
+
+[Your {count} changes to {name}]
+	{
+	ko={name}의 내 변경 {count}개;
+	}
+
+[a second]
+	{
+	ko=초당;
+	}
+
+[about {minutes} minutes left]
+	{
+	ko=약 {minutes}분 남음;
+	}
+
+[always]
+	{
+	ko=항상;
+	}
+
+[and 1 change of your own]
+	{
+	ko=및 내 변경 1개;
+	}
+
+[and {count} more]
+	{
+	ko=외 {count}개;
+	}
+
+[and {n} changes of your own]
+	{
+	ko=및 내 변경 {n}개;
+	}
+
+[and {n} more]
+	{
+	ko=외 {n}개;
+	}
+
+[any keyboard]
+	{
+	ko=아무 키보드;
+	}
+
+[cnc-ddraw's ddraw.ini]
+	{
+	ko=cnc-ddraw의 ddraw.ini;
+	}
+
+[game paused]
+	{
+	ko=게임 일시 정지;
+	}
+
+[held]
+	{
+	ko=누른 채;
+	}
+
+[in place of]
+	{
+	ko=대신;
+	}
+
+[latches]
+	{
+	ko=고정함;
+	}
+
+[less than a minute left]
+	{
+	ko=1분 미만 남음;
+	}
+
+[more than an hour left]
+	{
+	ko=1시간 초과 남음;
+	}
+
+[not in the loaded units]
+	{
+	ko=불러온 유닛에 없음;
+	}
+
+[not installed]
+	{
+	ko=설치되지 않음;
+	}
+
+[not used by Open Annihilation]
+	{
+	ko=Open Annihilation에서 쓰지 않음;
+	}
+
+[on {date}]
+	{
+	ko={date}에;
+	}
+
+[place]
+	{
+	ko=배치;
+	}
+
+[px]
+	{
+	ko=px;
+	}
+
+[ready]
+	{
+	ko=준비됨;
+	}
+
+[release]
+	{
+	ko=놓기;
+	}
+
+[tdraw's Settings.ini]
+	{
+	ko=tdraw의 Settings.ini;
+	}
+
+[the button]
+	{
+	ko=버튼;
+	}
+
+[the left-click interface]
+	{
+	ko=왼쪽 클릭 인터페이스;
+	}
+
+[the mod's data]
+	{
+	ko=모드 데이터;
+	}
+
+[the right-click interface]
+	{
+	ko=오른쪽 클릭 인터페이스;
+	}
+
+[today at {time}]
+	{
+	ko=오늘 {time}에;
+	}
+
+[wheel]
+	{
+	ko=휠;
+	}
+
+[while playing]
+	{
+	ko=플레이 중;
+	}
+
+[while watching]
+	{
+	ko=관전 중;
+	}
+
+[yesterday at {time}]
+	{
+	ko=어제 {time}에;
+	}
+
+[yours]
+	{
+	ko=내 것;
+	}
+
+[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and Roll back brings it back.]
+	{
+	ko={To}에서 게임 규칙이 바뀝니다. {from}에서 저장한 게임은 {to}에서 불러올 수 없습니다. {From}의 사본은 그대로 보관되며, 롤백하면 되돌릴 수 있습니다.;
+	}
+
+[{action} and {name} both use it {context}. Choose which keeps it; nothing changes until you confirm.]
+	{
+	ko={action} 동작과 {name} 동작이 모두 이 키를 씁니다 ({context}). 어느 쪽을 남길지 선택하세요. 확인 전까지는 바뀌지 않습니다.;
+	}
+
+[{chords}, from the mod's order panel ({gadget})]
+	{
+	ko={chords}, 모드 명령 패널 ({gadget});
+	}
+
+[{chords}, from {source}]
+	{
+	ko={chords}, 출처 {source};
+	}
+
+[{chord} also does {name} {context}. That never meets {where}, so it stays.]
+	{
+	ko={chord} 키는 {name} 동작도 합니다 ({context}). 다음과는 겹치지 않아 그대로 둡니다: {where}.;
+	}
+
+[{chord} counted, then {keys} let go.]
+	{
+	ko={chord} 입력을 센 뒤 {keys} 키에서 손을 뗐습니다.;
+	}
+
+[{chord} counted.]
+	{
+	ko={chord} 입력을 세었습니다.;
+	}
+
+[{chord} does two things]
+	{
+	ko={chord} 키의 동작 2개;
+	}
+
+[{chord} is already in use]
+	{
+	ko={chord} 키는 이미 사용 중;
+	}
+
+[{chord} is free {context}]
+	{
+	ko={chord} 여유 · {context};
+	}
+
+[{chord} is free {context}.]
+	{
+	ko={chord} 키는 비어 있습니다 ({context}).;
+	}
+
+[{chord} is free: nothing uses it.]
+	{
+	ko={chord} 키는 비어 있습니다. 쓰는 동작이 없습니다.;
+	}
+
+[{chord} is in use {context}]
+	{
+	ko={chord} 사용 중 · {context};
+	}
+
+[{chord} is used in 1 place. Nothing is changed.]
+	{
+	ko={chord} 키의 사용 위치는 1개입니다. 바뀌는 것은 없습니다.;
+	}
+
+[{chord} is used in {n} places. Nothing is changed.]
+	{
+	ko={chord} 키의 사용 위치는 {n}개입니다. 바뀌는 것은 없습니다.;
+	}
+
+[{command} on {key}]
+	{
+	ko={key}의 {command};
+	}
+
+[{command} with no key]
+	{
+	ko=키 없는 {command};
+	}
+
+[{count} changes of your own]
+	{
+	ko=내 변경 {count}개;
+	}
+
+[{count} commands]
+	{
+	ko=동작 {count}개;
+	}
+
+[{count} of {limit}]
+	{
+	ko={count} / {limit};
+	}
+
+[{count} settings changed]
+	{
+	ko=설정 {count}개 변경됨;
+	}
+
+[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and Roll back brings it back.]
+	{
+	ko=업데이트 {count}개가 게임 규칙을 바꿉니다: {names}. 각 업데이트의 현재 버전에서 저장한 게임은 새 버전에서 불러올 수 없습니다. 현재 버전은 각각 그대로 보관되며, 롤백하면 되돌릴 수 있습니다.;
+	}
+
+[{description} · {chord}]
+	{
+	ko={description} · {chord};
+	}
+
+[{done} of {size} · {percent}%]
+	{
+	ko={done} / {size} · {percent}%;
+	}
+
+[{done} of {whole} s · let go to cancel]
+	{
+	ko={done} / {whole} s · 놓으면 취소;
+	}
+
+[{first}…{last}]
+	{
+	ko={first}…{last};
+	}
+
+[{folder} is a folder of your own, not {name}. Move or rename it, then Retry.]
+	{
+	ko={folder} 폴더는 {name} 모드가 아니라 플레이어가 직접 만든 폴더입니다. 폴더를 옮기거나 이름을 바꾼 뒤 다시 시도를 누르세요.;
+	}
+
+[{keys} keys, 1 helper]
+	{
+	ko=키 {keys}개, 도우미 1개;
+	}
+
+[{keys} keys, {helpers} helpers]
+	{
+	ko=키 {keys}개, 도우미 {helpers}개;
+	}
+
+[{key} did not count: let go after {held} of {wait} s.]
+	{
+	ko={key} 키는 세지 않았습니다. 필요 시간 {wait} s 중 {held} 뒤에 놓았습니다.;
+	}
+
+[{key} did not count: pressed again within {wait} s.]
+	{
+	ko={key} 키는 세지 않았습니다. {wait} s 안에 다시 눌렸습니다.;
+	}
+
+[{key} held {held} of {wait} s.]
+	{
+	ko={key} 키 누름: {held} / {wait} s;
+	}
+
+[{key} let go.]
+	{
+	ko={key} 키를 놓았습니다.;
+	}
+
+[{key} stays down for the next key.]
+	{
+	ko={key} 키는 다음 키까지 눌린 채로 있습니다.;
+	}
+
+[{key} stays down until you tap it again.]
+	{
+	ko={key} 키는 다시 짧게 누를 때까지 눌린 채로 있습니다.;
+	}
+
+[{layout} · 1 change]
+	{
+	ko={layout} · 변경 1개;
+	}
+
+[{layout} · {n} changes]
+	{
+	ko={layout} · 변경 {n}개;
+	}
+
+[{modifier} · locked]
+	{
+	ko={modifier} · 잠김;
+	}
+
+[{modifier} · next key or click]
+	{
+	ko={modifier} · 다음 키 또는 클릭;
+	}
+
+[{name} ({count})]
+	{
+	ko={name} ({count});
+	}
+
+[{name} already has 1 change of your own; it stays.]
+	{
+	ko={name}에 이미 내 변경 1개가 있습니다. 그대로 둡니다.;
+	}
+
+[{name} already has {count} changes of your own; they stay.]
+	{
+	ko={name}에 이미 내 변경 {count}개가 있습니다. 그대로 둡니다.;
+	}
+
+[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and Roll back brings it back.]
+	{
+	ko={installed}의 {name} 모드가 설치되어 있습니다. {new}의 {name} 모드로 교체하시겠습니까? {installed}의 모드는 보관되며 롤백을 누르면 되돌릴 수 있습니다.;
+	}
+
+[{name} uses it {context}. Choose what happens; nothing changes until you confirm.]
+	{
+	ko={name} 동작이 이 키를 씁니다 ({context}). 어떻게 할지 선택하세요. 확인 전까지는 바뀌지 않습니다.;
+	}
+
+[{name} uses it. Nothing changes until you choose.]
+	{
+	ko={name} 동작이 이 키를 씁니다. 선택할 때까지 바뀌지 않습니다.;
+	}
+
+[{name} · 1 change of your own]
+	{
+	ko={name} · 내 변경 1개;
+	}
+
+[{name} · Add from…]
+	{
+	ko={name} · 원본을 골라 추가…;
+	}
+
+[{name} · made for {mod}]
+	{
+	ko={name} · {mod}용;
+	}
+
+[{name} · {n} changes]
+	{
+	ko={name} · 변경 {n}개;
+	}
+
+[{name} · {n} changes of your own]
+	{
+	ko={name} · 내 변경 {n}개;
+	}
+
+[{name}: {description} {context}. OK asks what to do.]
+	{
+	ko={name}: {description} ({context}). 확인을 누르면 처리 방법을 묻습니다.;
+	}
+
+[{number} · {heading}]
+	{
+	ko={number} · {heading};
+	}
+
+[{primary}+/ in a match shows the keys.]
+	{
+	ko=대전 중 {primary}+/로 키를 보여 줍니다.;
+	}
+
+[{problem} Retry tries again.]
+	{
+	ko={problem} 다시 시도를 누르면 다시 받습니다.;
+	}
+
+[{problem} · Retry]
+	{
+	ko={problem} · 다시 시도;
+	}
+
+[{shape} · from your system]
+	{
+	ko={shape} · 내 시스템;
+	}
+
+[{title} is back to {new}. {old} is kept, and Roll back brings it back.]
+	{
+	ko={title} 모드를 {new} 버전으로 되돌렸습니다. {old} 버전은 보관되며, 롤백을 누르면 다시 복원됩니다.;
+	}
+
+[{title} is now {new}. {old} is kept, and Roll back in the Library brings it back.]
+	{
+	ko={title}: 이제 {new}입니다. 기존 버전({old})은 보관되며, 라이브러리에서 롤백을 누르면 되돌릴 수 있습니다.;
+	}
+
+[{title} {to}, the version kept for Roll back, cannot be played.]
+	{
+	ko=롤백용으로 보관한 {title} {to} 버전은 플레이할 수 없습니다.;
+	}
+
+[{wheel} rotates]
+	{
+	ko={wheel} 회전;
+	}
+
+[· 1 change of your own]
+	{
+	ko=· 내 변경 1개;
+	}
+
+[· your change]
+	{
+	ko=· 내 변경;
+	}
+
+[· {count} changes of your own]
+	{
+	ko=· 내 변경 {count}개;
+	}
+
+[▲ Up]
+	{
+	ko=▲ 위로;
+	}
+
+[▼ Down]
+	{
+	ko=▼ 아래로;
+	}
+

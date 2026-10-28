@@ -443,3 +443,37 @@ Battle Tactics' campaign lengths Very Short / Short / Medium / Long →
 `超短編 / 短編 / 中編 / 長編`, the order buttons' captions → the kanji
 word and the hotkey letter in half-width parentheses (`攻撃(A)`), as
 Japanese software marks its menus' keys.
+
+## 10. Keys
+
+One word for each idea, in the key editor, the overlay, Settings › Controls,
+Settings › Accessibility, Library › Keys and the install question.
+
+| English | Japanese |
+|---|---|
+| key layout | キー配置 |
+| key editor | キーエディター |
+| action (a binding; also where English still says "command" for one) | アクション |
+| changes of your own | 自分の変更 |
+| clash | 競合 |
+| latch / latched | 固定 / 固定中 |
+| letter (of a key) | 文字 |
+| place (of a key) | 位置 |
+| hold to confirm | 長押しで確定 |
+
+Named keys as a Japanese keyboard prints them. Shift, Ctrl, Alt, Esc,
+Escape, Tab, Enter, Backspace, Delete, Insert, Home, End, Page Up, Page Down,
+Caps Lock, F1–F12 and Win stay Latin. The rest:
+
+| English | Japanese |
+|---|---|
+| Space | スペース |
+| Arrow up / down / left / right | 上矢印 / 下矢印 / 左矢印 / 右矢印 |
+| Numpad | テンキー |
+| Convert | 変換 |
+| Non convert | 無変換 |
+| Kana mode | かな |
+| Intl yen | ¥ |
+| Intl ro | ろ |
+| Left / Right / Middle button | 左ボタン / 右ボタン / 中ボタン |
+| Wheel up / down | ホイール上 / ホイール下 |

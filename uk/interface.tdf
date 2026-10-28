@@ -369,19 +369,9 @@
 	uk=Тут зображення малюється, як і без прискорення.;
 	}
 
-[SAVES]
-	{
-	uk=ЗБЕРЕЖЕННЯ;
-	}
-
 [SCREENSHOTS]
 	{
 	uk=ЗНІМКИ ЕКРАНА;
-	}
-
-[MODS]
-	{
-	uk=МОДИ;
 	}
 
 [System default]
@@ -1124,16 +1114,6 @@
 	uk=Тут завжди увімкнено;
 	}
 
-[MANAGE…]
-	{
-	uk=КЕРУВАТИ…;
-	}
-
-[RESTORE PROFILE VALUES]
-	{
-	uk=ВІДНОВИТИ З ПРОФІЛЮ;
-	}
-
 [Applies at next match]
 	{
 	uk=Діятиме з наступної гри;
@@ -1184,11 +1164,6 @@
 	uk=Немає oamod.yaml;
 	}
 
-[PLAYING]
-	{
-	uk=У ГРІ;
-	}
-
 [OPEN MODS FOLDER]
 	{
 	uk=ВІДКРИТИ ПАПКУ МОДІВ;
@@ -1199,24 +1174,9 @@
 	uk=ЗМІНИТИ МОД;
 	}
 
-[SWITCH]
-	{
-	uk=ЗМІНИТИ;
-	}
-
-[ROLL BACK]
-	{
-	uk=ВІДКОТИТИ;
-	}
-
 [ROLL BACK MOD]
 	{
 	uk=ВІДКОТИТИ МОД;
-	}
-
-[Roll back {title} to {to}? {from} is kept in its place, and ROLL BACK again brings it back.]
-	{
-	uk=Відкотити {title} до {to}? {from} буде збережено, і ще одне натискання ВІДКОТИТИ поверне цю версію.;
 	}
 
 [The game reloads its data for the mod and returns to the main menu.]
@@ -1279,21 +1239,6 @@
 	uk=ЗАМІНИТИ;
 	}
 
-[INSTALL ALONGSIDE]
-	{
-	uk=ВСТАНОВИТИ ПОРЯД;
-	}
-
-[REINSTALL]
-	{
-	uk=ПЕРЕВСТАНОВИТИ;
-	}
-
-[PLAY NOW]
-	{
-	uk=ГРАТИ ЗАРАЗ;
-	}
-
 [INSTALLING MOD]
 	{
 	uk=ВСТАНОВЛЕННЯ МОДУ;
@@ -1337,16 +1282,6 @@
 [MOD NOT ROLLED BACK]
 	{
 	uk=МОД НЕ ВІДКОЧЕНО;
-	}
-
-[The folder kept for ROLL BACK, which holds no mod that can be read, is removed.]
-	{
-	uk=Збережену для відкату папку видалено: у ній немає моду, який можна прочитати.;
-	}
-
-[The folder kept for ROLL BACK ({backup}) is removed.]
-	{
-	uk=Збережену для відкату папку ({backup}) видалено.;
 	}
 
 [{version} of an unknown revision]
@@ -1414,11 +1349,6 @@
 	uk=Збережена версія, {backup}, залишається.;
 	}
 
-[The folder kept for ROLL BACK stays.]
-	{
-	uk=Папка, збережена для відкату, залишається.;
-	}
-
 [Your Mods folder already has a folder named {folder} that does not hold {title}. It is left as it is.]
 	{
 	uk=У твоїй папці Mods уже є папка {folder}, у якій немає {title}. Її залишено як є.;
@@ -1442,11 +1372,6 @@
 [The files of {title} {version} were installed again.]
 	{
 	uk=Файли {title} {version} встановлено знову.;
-	}
-
-[{title} is back to {new}. {old} is kept, and ROLL BACK brings it back.]
-	{
-	uk={title} повернуто до версії {new}. {old} збережено, і ВІДКОТИТИ поверне цю версію.;
 	}
 
 [{title} is back to {new}.]
@@ -1582,11 +1507,6 @@
 [{title} could not be rolled back; nothing was changed.]
 	{
 	uk=Не вдалося відкотити {title}. Нічого не змінено.;
-	}
-
-[{title} {to}, the version kept for ROLL BACK, cannot be played.]
-	{
-	uk={title} {to} (версію, збережену для відкату) неможливо запустити.;
 	}
 
 [the folder you chose]
@@ -4351,11 +4271,6 @@
 	uk=Оновлень: {count};
 	}
 
-[UPDATE ALL]
-	{
-	uk=ОНОВИТИ ВСЕ;
-	}
-
 [Showing the list from {age}. OA couldn't reach the registries.]
 	{
 	uk=Показано список, отриманий {age}. OA не вдалося звʼязатися з реєстрами.;
@@ -4379,16 +4294,6 @@
 [Nothing to show.]
 	{
 	uk=Немає чого показати.;
-	}
-
-[GET]
-	{
-	uk=ОТРИМАТИ;
-	}
-
-[INSTALLED]
-	{
-	uk=ВСТАНОВЛЕНО;
 	}
 
 [UPDATE]
@@ -4721,16 +4626,6 @@
 	uk=✓;
 	}
 
-[RETRY]
-	{
-	uk=ПОВТОР;
-	}
-
-[HOMEPAGE]
-	{
-	uk=САЙТ;
-	}
-
 [Finishes when you leave {name}.]
 	{
 	uk=Завершиться, коли вийдеш із {name}.;
@@ -4739,16 +4634,6 @@
 [You are playing {playing}. Updating {name} doesn't restart the game.]
 	{
 	uk=Зараз запущено {playing}. Оновлення {name} не перезапускає гру.;
-	}
-
-[SETTINGS…]
-	{
-	uk=НАЛАШТУВАННЯ…;
-	}
-
-[DETAILS]
-	{
-	uk=ПОДРОБИЦІ;
 	}
 
 [{name} {version}]
@@ -4789,21 +4674,6 @@
 [Installed {name}]
 	{
 	uk=Встановлено {name};
-	}
-
-[Updated {name} · {new} changes the game's rules · ROLL BACK restores {old}]
-	{
-	uk=Оновлено {name} · {new} змінює правила гри · ВІДКОТИТИ поверне попередню версію ({old});
-	}
-
-[Updated {name} · {new} may change the game's rules · ROLL BACK restores {old}]
-	{
-	uk=Оновлено {name} · {new} може змінити правила гри · ВІДКОТИТИ поверне попередню версію ({old});
-	}
-
-[{problem} · RETRY]
-	{
-	uk={problem} · ПОВТОР;
 	}
 
 [Then {package} · {phase}]
@@ -4891,29 +4761,9 @@
 	uk={name} {from} → {to};
 	}
 
-[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and ROLL BACK brings it back.]
-	{
-	uk={To} змінює правила гри. Збереження зі старої версії ({from}) не завантажаться в новій ({to}). {From} залишиться, а ВІДКОТИТИ поверне цю версію.;
-	}
-
-[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and ROLL BACK brings it back.]
-	{
-	uk=OA не може визначити, чи змінює {to} правила гри. Якщо так, збереження зі старої версії ({from}) не завантажаться в новій. {From} залишиться, а ВІДКОТИТИ поверне цю версію.;
-	}
-
 [It finishes when you leave {name}.]
 	{
 	uk=Завершиться, коли вийдеш із {name}.;
-	}
-
-[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and ROLL BACK brings it back.]
-	{
-	uk=1 оновлення змінює правила гри: {names}. Збереження з поточної версії не завантажаться в новій. Поточна версія залишиться, а ВІДКОТИТИ поверне її.;
-	}
-
-[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and ROLL BACK brings it back.]
-	{
-	uk=Оновлень, що змінюють правила гри: {count} — {names}. Збереження з їхніх поточних версій не завантажаться в нових. Кожна поточна версія залишиться, а ВІДКОТИТИ поверне її.;
 	}
 
 [{names} and {count} more]
@@ -4939,11 +4789,6 @@
 [Download]
 	{
 	uk=Завантажити;
-	}
-
-[NOT NOW]
-	{
-	uk=НЕ ЗАРАЗ;
 	}
 
 [the server could not be reached]
@@ -5098,11 +4943,6 @@
 	uk=. Обери її ще раз, щоб повторити спробу.;
 	}
 
-[MORE IN THE LIBRARY…]
-	{
-	uk=БІЛЬШЕ В БІБЛІОТЕЦІ…;
-	}
-
 [More languages are in the Library.]
 	{
 	uk=Більше мов — у Бібліотеці.;
@@ -5178,11 +5018,6 @@
 	uk=Зʼявиться з першим завантаженням;
 	}
 
-[RESET]
-	{
-	uk=СКИНУТИ;
-	}
-
 [Downloaded files]
 	{
 	uk=Завантажені файли;
@@ -5191,11 +5026,6 @@
 [Nothing kept]
 	{
 	uk=Нічого не збережено;
-	}
-
-[EMPTY]
-	{
-	uk=ОЧИСТИТИ;
 	}
 
 [Registries]
@@ -5288,11 +5118,6 @@
 	uk=Буде видалено, коли натиснеш OK;
 	}
 
-[ADD MIRROR…]
-	{
-	uk=ДОДАТИ ДЗЕРКАЛО…;
-	}
-
 [Choose from the main menu.]
 	{
 	uk=Доступно лише в головному меню.;
@@ -5306,11 +5131,6 @@
 [Content from registries other than {names} isn't reviewed by the OA team. OA still checks every package before using it.]
 	{
 	uk=Команда OA не перевіряє вміст реєстрів, крім {names}. Утім, OA перевіряє кожен пакет перед використанням.;
-	}
-
-[ADD REGISTRY…]
-	{
-	uk=ДОДАТИ РЕЄСТР…;
 	}
 
 // The map browser, GET MAP, and the questions that install a map pack or a language.
@@ -5558,11 +5378,6 @@
 [Install the map pack {name} {version} ({n} maps)?]
 	{
 	uk=Встановити набір мап {name} {version} (мап: {n})?;
-	}
-
-[INSTALL]
-	{
-	uk=ВСТАНОВИТИ;
 	}
 
 [UPDATE MAP PACK]
@@ -5828,16 +5643,6 @@
 [REPLACE MOD]
 	{
 	uk=ЗАМІНИТИ МОД;
-	}
-
-[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and ROLL BACK brings it back.]
-	{
-	uk=Встановлено {name} з {installed}. Замінити на {name} з {new}? Версія з {installed} залишиться, а ВІДКОТИТИ поверне її.;
-	}
-
-[{folder} is a folder of your own, not {name}. Move or rename it, then RETRY.]
-	{
-	uk={folder} — це твоя власна папка, а не {name}. Перемісти або перейменуй її, а тоді натисни ПОВТОР.;
 	}
 
 [{n} KB]
@@ -6186,11 +5991,6 @@
 	uk=Початкове налаштування;
 	}
 
-[SHOW AGAIN]
-	{
-	uk=ПОКАЗАТИ ЗНОВУ;
-	}
-
 [Walk through the language, online features and the OA buttons again.]
 	{
 	uk=Ще раз пройти кроки: мова, онлайн-функції та кнопки OA.;
@@ -6251,11 +6051,6 @@
 	uk=Ця система читає HTTPS-реєстри через HTTP.;
 	}
 
-[REGISTRIES IN THE LIBRARY…]
-	{
-	uk=РЕЄСТРИ В БІБЛІОТЕЦІ…;
-	}
-
 [Registries are in the Library.]
 	{
 	uk=Реєстри тепер у Бібліотеці.;
@@ -6269,21 +6064,6 @@
 [MAPS]
 	{
 	uk=МАПИ;
-	}
-
-[SWITCH OFF]
-	{
-	uk=ВИМКНУТИ;
-	}
-
-[UNLOAD MOD]
-	{
-	uk=ВИМКНУТИ МОД;
-	}
-
-[UNINSTALL]
-	{
-	uk=ВИДАЛИТИ;
 	}
 
 [{language} · built in]
@@ -6396,11 +6176,6 @@
 	uk=Оновлення списку;
 	}
 
-[REFRESH]
-	{
-	uk=ОНОВИТИ;
-	}
-
 [refreshed {age}]
 	{
 	uk=оновлено {age};
@@ -6441,11 +6216,6 @@
 	uk=Під час гри не можна видаляти набори мап.;
 	}
 
-[It is in the download queue: CANCEL it before you uninstall it.]
-	{
-	uk=Пакет стоїть у черзі завантаження: спершу натисни СКАСУВАТИ, а потім видаляй.;
-	}
-
 [Uninstall {name}]
 	{
 	uk=Видалити {name};
@@ -6456,24 +6226,9 @@
 	uk=Видалити {name}? Буде видалено папку {folder}.;
 	}
 
-[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy ROLL BACK keeps.]
-	{
-	uk=Видалити {name}? Буде видалено папку {folder}, а з нею й копію, яку зберігає ВІДКОТИТИ.;
-	}
-
-[GET installs it again.]
-	{
-	uk=Кнопка ОТРИМАТИ встановить його знову.;
-	}
-
 [No registry lists it, so the Library cannot get it again.]
 	{
 	uk=Його немає в жодному реєстрі, тож Бібліотека не зможе отримати його знову.;
-	}
-
-[You are playing {name}. Switch it off first with SWITCH OFF, then uninstall it.]
-	{
-	uk=Ти граєш із модом {name}. Спершу вимкни його кнопкою ВИМКНУТИ, а потім видаляй.;
 	}
 
 [The game is shown in {name}. Choose another language in Settings › Language first, then uninstall it.]
@@ -6496,11 +6251,6 @@
 	uk=Папка змінилася відтоді, як Бібліотека склала список. Спробуй ще раз.;
 	}
 
-[Its folder is a link, and OA never removes what a link leads to. OPEN FOLDER shows it.]
-	{
-	uk=Папка є посиланням, а OA ніколи не видаляє те, на що веде посилання. Кнопка ПАПКА покаже її.;
-	}
-
 [Its folder is not in your own Open Annihilation folder, and OA removes nothing outside it.]
 	{
 	uk=Папка лежить поза твоєю папкою Open Annihilation, а OA нічого не видаляє поза нею.;
@@ -6509,36 +6259,6 @@
 [Its folder could not be moved; another program may be using it. Close it, then try again.]
 	{
 	uk=Не вдалося перемістити папку — можливо, її використовує інша програма. Закрий ту програму й спробуй ще раз.;
-	}
-
-[The version installed is kept, and ROLL BACK in the Library brings it back.]
-	{
-	uk=Встановлена версія зберігається, і кнопка ВІДКОТИТИ в Бібліотеці поверне її.;
-	}
-
-[Revision {installed} is kept, and ROLL BACK in the Library brings it back.]
-	{
-	uk=Ревізія {installed} зберігається, і кнопка ВІДКОТИТИ в Бібліотеці поверне її.;
-	}
-
-[Replacing keeps {installed}, and ROLL BACK in the Library brings it back.]
-	{
-	uk=Під час заміни {installed} зберігається, і кнопка ВІДКОТИТИ в Бібліотеці поверне попередню версію.;
-	}
-
-[Choose PLAY NOW to play it, or choose it later with PLAY NOW in the Library.]
-	{
-	uk=Натисни ГРАТИ ЗАРАЗ, щоб почати гру, або обери його пізніше кнопкою ГРАТИ ЗАРАЗ у Бібліотеці.;
-	}
-
-[Choose it with PLAY NOW in the Library to play it.]
-	{
-	uk=Щоб грати, обери його кнопкою ГРАТИ ЗАРАЗ у Бібліотеці.;
-	}
-
-[{title} is now {new}. {old} is kept, and ROLL BACK in the Library brings it back.]
-	{
-	uk=Тепер {title} — {new}. {old} зберігається, і кнопка ВІДКОТИТИ в Бібліотеці поверне попередню версію.;
 	}
 
 [It is still copied, so it can be fixed in your file manager; the Library's Mods tab plays only mods that work.]
@@ -6564,11 +6284,6 @@
 [No installed map matches.]
 	{
 	uk=Жодна встановлена мапа не підходить.;
-	}
-
-[USE NOW]
-	{
-	uk=ОБРАТИ;
 	}
 
 [{shown} of {all}]
@@ -6699,11 +6414,6 @@
 	uk=Bottles;
 	}
 
-[CHANGE…]
-	{
-	uk=ЗМІНИТИ…;
-	}
-
 [COPYING]
 	{
 	uk=КОПІЮВАННЯ;
@@ -6792,11 +6502,6 @@
 [Copying Total Annihilation]
 	{
 	uk=Копіювання Total Annihilation;
-	}
-
-[DETAILS…]
-	{
-	uk=ПОДРОБИЦІ…;
 	}
 
 [Demo]
@@ -7349,16 +7054,6 @@
 	uk=ЗБЕРЕЖЕННЯ;
 	}
 
-[TURN OFF]
-	{
-	uk=ВИМК.;
-	}
-
-[TURN ON {name}]
-	{
-	uk=УВІМКНУТИ {name};
-	}
-
 [The display's own pixel density (Retina on a Mac). Applies from the next start.]
 	{
 	uk=Власна щільність пікселів дисплея (Retina на Mac). Діє з наступного запуску.;
@@ -7574,29 +7269,9 @@
 	uk=Увімкнути й завантажити;
 	}
 
-[Turning it on applies when the Library closes, and then PLAY NOW works.]
-	{
-	uk=Увімкнення спрацює після закриття Бібліотеки, і тоді запрацює ГРАТИ ЗАРАЗ.;
-	}
-
-[Turning it on applies when the Library closes, and then USE NOW works.]
-	{
-	uk=Увімкнення спрацює після закриття Бібліотеки, і тоді запрацює кнопка ОБРАТИ.;
-	}
-
 [Turning it on applies when the Library closes.]
 	{
 	uk=Увімкнення спрацює після закриття Бібліотеки.;
-	}
-
-[Turning them on applies when the Library closes, and then PLAY NOW works.]
-	{
-	uk=Їх буде увімкнено після закриття Бібліотеки, і тоді запрацює ГРАТИ ЗАРАЗ.;
-	}
-
-[Turning them on applies when the Library closes, and then USE NOW works.]
-	{
-	uk=Їх буде увімкнено після закриття Бібліотеки, і тоді запрацює кнопка ОБРАТИ.;
 	}
 
 [Turning them on applies when the Library closes.]
@@ -7607,11 +7282,6 @@
 [Turning {name} on restarts the game's files, then loads this save. Your other expansions stay as they are.]
 	{
 	uk=Увімкнення {name} перезавантажить файли гри, а тоді завантажить це збереження. Інші доповнення лишаться як є.;
-	}
-
-[USE THIS GAME]
-	{
-	uk=ОБРАТИ ЦЮ ГРУ;
 	}
 
 [Units are drawn as models at every zoom. Far out on a large map, needs a fast CPU.]
@@ -7882,11 +7552,6 @@
 [{name} turns on when the Library closes.]
 	{
 	uk={name} увімкнеться після закриття Бібліотеки.;
-	}
-
-[{name} · ADD FROM…]
-	{
-	uk={name} · ДОДАТИ З…;
 	}
 
 [{name} ✓]
@@ -8338,11 +8003,6 @@
 	uk=· несумісний із цим модом;
 	}
 
-[CHECK WITH THIS MOD]
-	{
-	uk=ПЕРЕВІРИТИ З ЦИМ МОДОМ;
-	}
-
 [Statistics]
 	{
 	uk=Характеристики;
@@ -8580,16 +8240,6 @@
 	uk=Порядок;
 	}
 
-[▲ UP]
-	{
-	uk=▲ ВГОРУ;
-	}
-
-[▼ DOWN]
-	{
-	uk=▼ ВНИЗ;
-	}
-
 [Add]
 	{
 	uk=Додати;
@@ -8633,26 +8283,6 @@
 [The set holds for every mission of this campaign, and is saved with it.]
 	{
 	uk=Набір діє в усіх місіях цієї кампанії і зберігається разом із нею.;
-	}
-
-[GET ALL]
-	{
-	uk=ОТРИМАТИ ВСІ;
-	}
-
-[GET BOTH]
-	{
-	uk=ОТРИМАТИ ЇХ;
-	}
-
-[GET WITH {count} MORE]
-	{
-	uk=ОТРИМАТИ Й ЩЕ {count};
-	}
-
-[GET WITH {name}]
-	{
-	uk=ОТРИМАТИ З {name};
 	}
 
 [Get {name}?]
@@ -8737,39 +8367,9 @@
 	uk=Забути останній набір?;
 	}
 
-[FORGET IT]
-	{
-	uk=ЗАБУТИ;
-	}
-
-[KEEP IT]
-	{
-	uk=ЗБЕРЕГТИ;
-	}
-
-[USE THESE]
-	{
-	uk=ВИКОРИСТАТИ;
-	}
-
 [Left out of your last set: {names}]
 	{
 	uk=Не ввімкнено з останнього набору: {names};
-	}
-
-[Your last campaign set, ready to use. CANCEL plays without mutators.]
-	{
-	uk=Твій останній набір для кампанії вже готовий. СКАСУВАТИ — гра без мутаторів.;
-	}
-
-[Your last multiplayer set, ready to use. CANCEL plays without mutators.]
-	{
-	uk=Твій останній набір для мережевої гри вже готовий. СКАСУВАТИ — гра без мутаторів.;
-	}
-
-[Your last skirmish set, ready to use. CANCEL plays without mutators.]
-	{
-	uk=Твій останній набір для сутички вже готовий. СКАСУВАТИ — гра без мутаторів.;
 	}
 
 [Start without them?]
@@ -8780,16 +8380,6 @@
 [Start without {name}?]
 	{
 	uk=Грати без мутатора {name}?;
-	}
-
-[START WITHOUT IT]
-	{
-	uk=ГРАТИ БЕЗ НЬОГО;
-	}
-
-[START WITHOUT THEM]
-	{
-	uk=ГРАТИ БЕЗ НИХ;
 	}
 
 [The game did not start]
@@ -8810,11 +8400,6 @@
 [{names} stopped before the game could start. Nothing they changed is kept, and the other mutators are unaffected.]
 	{
 	uk=Мутатори {names} зупинилися до початку гри. Жодну з їхніх змін не збережено, інших мутаторів це не стосується.;
-	}
-
-[{problem} RETRY tries again.]
-	{
-	uk={problem} ПОВТОР — спробувати ще раз.;
 	}
 
 [Another copy of Open Annihilation is changing your Mutators folder. Try again once it has finished.]
@@ -9366,11 +8951,6 @@
 	uk=· {reason};
 	}
 
-[USE BY DEFAULT]
-	{
-	uk=ЗРОБИТИ ТИПОВИМ;
-	}
-
 // A computer seat's brain and its picker.
 
 [Computer player]
@@ -9431,11 +9011,6 @@
 [{name} cannot play this seat now, so it starts on the built-in player.]
 	{
 	uk={name} зараз не може зайняти це місце, тож гру почне вбудований гравець.;
-	}
-
-[USE THIS]
-	{
-	uk=ОБРАТИ;
 	}
 
 [No brains here yet. The Library on the main menu gets them.]
@@ -9629,19 +9204,9 @@
 	uk=Цю гру збережено, коли місце {n} займав мозок {name} {version}, а тут його не встановлено.;
 	}
 
-[The built-in player takes those seats from the units as they stand. GET the brain in the Library to load the game as it was saved.]
-	{
-	uk=Ці місця займе вбудований гравець, залишивши підрозділи як є. Щоб завантажити гру в збереженому вигляді, натисни ОТРИМАТИ біля цього мозку в Бібліотеці.;
-	}
-
 [Load with the built-in player?]
 	{
 	uk=Завантажити з вбудованим гравцем?;
-	}
-
-[LOAD WITH THE BUILT-IN PLAYER]
-	{
-	uk=ЗАВАНТАЖИТИ;
 	}
 
 [This saved game needs {name} {version}, which is not installed.]
@@ -9651,19 +9216,9 @@
 
 // Open Annihilation 0.8.6: Graphics' Full 3D camera and effects, and their lock lines.
 
-[Allow Full 3D Mode]
-	{
-	uk=Дозволити повний 3D-режим;
-	}
-
 [Requires Full hardware acceleration.]
 	{
 	uk=Потрібен режим апаратного прискорення «Повний».;
-	}
-
-[Unlocked Camera]
-	{
-	uk=Вільна камера;
 	}
 
 [Allow angles outside the ideal range for TA art.]
@@ -9716,7 +9271,6466 @@
 	uk=Потрібне прискорення «Повний»;
 	}
 
-[Needs Allow Full 3D Mode]
+
+// Key bindings: Orders.
+
+[Activate on or off]
+	{
+	uk=Увімкнути або вимкнути;
+	}
+
+[Arms Attack]
+	{
+	uk=Обрати «Атака»;
+	}
+
+[Arms BLAST (D-gun)]
+	{
+	uk=Обрати «D-гармата»;
+	}
+
+[Arms Capture]
+	{
+	uk=Обрати «Захоплення»;
+	}
+
+[Arms Defend (guard)]
+	{
+	uk=Обрати «Охорона»;
+	}
+
+[Arms Load]
+	{
+	uk=Обрати «Завантаження»;
+	}
+
+[Arms Move]
+	{
+	uk=Обрати «Рух»;
+	}
+
+[Arms Patrol]
+	{
+	uk=Обрати «Патруль»;
+	}
+
+[Arms Reclaim]
+	{
+	uk=Обрати «Утилізація»;
+	}
+
+[Arms Repair]
+	{
+	uk=Обрати «Ремонт»;
+	}
+
+[Arms Unload]
+	{
+	uk=Обрати «Вивантаження»;
+	}
+
+[Build tab]
+	{
+	uk=Вкладка будування;
+	}
+
+[Cancel order]
+	{
+	uk=Скасувати наказ;
+	}
+
+[Cloak on or off]
+	{
+	uk=Маскування: увімкнути або вимкнути;
+	}
+
+[Fire state]
+	{
+	uk=Режим вогню;
+	}
+
+[Force attack]
+	{
+	uk=Примусова атака;
+	}
+
+[Held: force-attack a unit or the ground]
+	{
+	uk=Утримано: примусова атака юніта або землі;
+	}
+
+[Held: orders join the queue, an armed order stays armed, queued orders show]
+	{
+	uk=Утримано: накази стають у чергу, обраний наказ лишається обраним, накази в черзі видно;
+	}
+
+[Move state]
+	{
+	uk=Режим руху;
+	}
+
+[On or off]
+	{
+	uk=Увімк. чи вимк.;
+	}
+
+[Orders tab]
+	{
+	uk=Вкладка наказів;
+	}
+
+[Starts or stops the countdown]
+	{
+	uk=Запускає або зупиняє відлік;
+	}
+
+[Steps the fire standing order]
+	{
+	uk=Перемикає постійний наказ вогню;
+	}
+
+[Steps the move standing order]
+	{
+	uk=Перемикає постійний наказ руху;
+	}
+
+[Takes back an armed order or a placement only]
+	{
+	uk=Скасовує лише обраний наказ або розміщення;
+	}
+
+[The BUILD tab]
+	{
+	uk=Вкладка БУДУВАННЯ;
+	}
+
+[The ORDERS tab]
+	{
+	uk=Вкладка НАКАЗИ;
+	}
+
+// Key bindings: Pointer.
+
+[A build button: queue one, or start placing]
+	{
+	uk=Кнопка будування: поставити одне в чергу або почати розміщення;
+	}
+
+[A build button: take one off]
+	{
+	uk=Кнопка будування: прибрати одне;
+	}
+
+[Add to selection]
+	{
+	uk=Додати до виділення;
+	}
+
+[Build add]
+	{
+	uk=Додати будування;
+	}
+
+[Build remove]
+	{
+	uk=Прибрати будування;
+	}
+
+[Clicks the left button. Twice quickly, a double click]
+	{
+	uk=Клікає лівою кнопкою. Двічі швидко — подвійний клік;
+	}
+
+[Clicks the right button]
+	{
+	uk=Клікає правою кнопкою;
+	}
+
+[Command]
+	{
+	uk=Наказ;
+	}
+
+[Drags the view]
+	{
+	uk=Перетягує вид;
+	}
+
+[Every unit of that type on the map]
+	{
+	uk=Кожен юніт цього типу на мапі;
+	}
+
+[Held with the queue modifier: a build button adds or takes 100]
+	{
+	uk=Утримано з модифікатором черги: кнопка будування додає або знімає 100;
+	}
+
+[Held: a build button adds or takes five]
+	{
+	uk=Утримано: кнопка будування додає або знімає пʼять;
+	}
+
+[Held: a click toggles a unit and a box adds]
+	{
+	uk=Утримано: клік перемикає юніт, а рамка додає;
+	}
+
+[Holds the left button down until pressed again]
+	{
+	uk=Тримає ліву кнопку натиснутою, доки її не натиснуть знову;
+	}
+
+[Jumps the view to a minimap point]
+	{
+	uk=Перестрибує видом до точки на мінімапі;
+	}
+
+[Lets a held mouse button go]
+	{
+	uk=Відпускає утриману кнопку миші;
+	}
+
+[Minimap jump]
+	{
+	uk=Стрибок мінімапи;
+	}
+
+[Minimap scroll]
+	{
+	uk=Прокрутка мінімапи;
+	}
+
+[Mouse look]
+	{
+	uk=Огляд мишею;
+	}
+
+[Moves the pointer down and left, faster the longer the key is held]
+	{
+	uk=Рухає вказівник вниз і ліворуч, тим швидше, чим довше утримується клавіша;
+	}
+
+[Moves the pointer down and right, faster the longer the key is held]
+	{
+	uk=Рухає вказівник вниз і праворуч, тим швидше, чим довше утримується клавіша;
+	}
+
+[Moves the pointer down, faster the longer the key is held]
+	{
+	uk=Рухає вказівник вниз, тим швидше, чим довше утримується клавіша;
+	}
+
+[Moves the pointer left, faster the longer the key is held]
+	{
+	uk=Рухає вказівник ліворуч, тим швидше, чим довше утримується клавіша;
+	}
+
+[Moves the pointer right, faster the longer the key is held]
+	{
+	uk=Рухає вказівник праворуч, тим швидше, чим довше утримується клавіша;
+	}
+
+[Moves the pointer up and left, faster the longer the key is held]
+	{
+	uk=Рухає вказівник угору і ліворуч, тим швидше, чим довше утримується клавіша;
+	}
+
+[Moves the pointer up and right, faster the longer the key is held]
+	{
+	uk=Рухає вказівник угору і праворуч, тим швидше, чим довше утримується клавіша;
+	}
+
+[Moves the pointer up, faster the longer the key is held]
+	{
+	uk=Рухає вказівник угору, тим швидше, чим довше утримується клавіша;
+	}
+
+[Orbit camera]
+	{
+	uk=Обертати камеру;
+	}
+
+[Orbits the Full 3D view's camera]
+	{
+	uk=Обертає камеру повного 3D-вигляду;
+	}
+
+[Pan]
+	{
+	uk=Панорама;
+	}
+
+[Pan camera]
+	{
+	uk=Панорамувати камеру;
+	}
+
+[Pans the Full 3D view's camera]
+	{
+	uk=Панорамує камеру повного 3D-вигляду;
+	}
+
+[Pans towards the pointer]
+	{
+	uk=Панорамує до вказівника;
+	}
+
+[Pointer click left]
+	{
+	uk=Лівий клік вказівника;
+	}
+
+[Pointer click right]
+	{
+	uk=Правий клік вказівника;
+	}
+
+[Pointer down]
+	{
+	uk=Вказівник вниз;
+	}
+
+[Pointer down left]
+	{
+	uk=Вказівник вниз ліворуч;
+	}
+
+[Pointer down right]
+	{
+	uk=Вказівник вниз праворуч;
+	}
+
+[Pointer hold left]
+	{
+	uk=Утримувати ліву кнопку;
+	}
+
+[Pointer left]
+	{
+	uk=Вказівник ліворуч;
+	}
+
+[Pointer let go]
+	{
+	uk=Відпустити вказівник;
+	}
+
+[Pointer right]
+	{
+	uk=Вказівник праворуч;
+	}
+
+[Pointer up]
+	{
+	uk=Вказівник вгору;
+	}
+
+[Pointer up left]
+	{
+	uk=Вказівник вгору ліворуч;
+	}
+
+[Pointer up right]
+	{
+	uk=Вказівник вгору праворуч;
+	}
+
+[Queue five]
+	{
+	uk=Пʼять у чергу;
+	}
+
+[Queue hundred]
+	{
+	uk=Сто в чергу;
+	}
+
+[Scrolls the view while held on the minimap]
+	{
+	uk=Прокручує вигляд, поки утримується на мінімапі;
+	}
+
+[Select type]
+	{
+	uk=Виділити тип;
+	}
+
+[Select type on screen]
+	{
+	uk=Виділити тип на екрані;
+	}
+
+[Selects the unit under the pointer, or starts a box]
+	{
+	uk=Виділяє юніт під вказівником або починає рамку;
+	}
+
+[That type on screen only]
+	{
+	uk=Лише цей тип на екрані;
+	}
+
+[The order the pointer shows]
+	{
+	uk=Наказ, який показує вказівник;
+	}
+
+[Zoom in]
+	{
+	uk=Наблизити;
+	}
+
+[Zoom out]
+	{
+	uk=Віддалити;
+	}
+
+[Zooms in about the pointer]
+	{
+	uk=Наближає довкола вказівника;
+	}
+
+[Zooms out about the pointer]
+	{
+	uk=Віддаляє довкола вказівника;
+	}
+
+// Key bindings: Selection.
+
+[Add commander]
+	{
+	uk=Додати Командира;
+	}
+
+[Adds the commander]
+	{
+	uk=Додає Командира;
+	}
+
+[Armed on screen]
+	{
+	uk=Озброєні на екрані;
+	}
+
+[Box builders]
+	{
+	uk=Рамка: будівельники;
+	}
+
+[Box combat]
+	{
+	uk=Рамка: бій;
+	}
+
+[Box factories]
+	{
+	uk=Рамка: заводи;
+	}
+
+[Clear selection]
+	{
+	uk=Зняти виділення;
+	}
+
+[Clears the selection only]
+	{
+	uk=Знімає лише виділення;
+	}
+
+[Cycles idle constructors, centring on each]
+	{
+	uk=Перемикає вільних будівельників і центрує на кожному;
+	}
+
+[Cycles idle factories]
+	{
+	uk=Перемикає вільні заводи;
+	}
+
+[Every unit]
+	{
+	uk=Кожен юніт;
+	}
+
+[Every unit of a selected unit's type]
+	{
+	uk=Кожен юніт типу обраного юніта;
+	}
+
+[Held as a box is released: keep constructors]
+	{
+	uk=Утримано, коли рамку відпущено: лишити будівельників;
+	}
+
+[Held as a box is released: keep factories]
+	{
+	uk=Утримано, коли рамку відпущено: лишити заводи;
+	}
+
+[Held as a box is released: keep mobile combat units]
+	{
+	uk=Утримано, коли рамку відпущено: лишити мобільні бойові юніти;
+	}
+
+[Idle builders]
+	{
+	uk=Вільні будівельники;
+	}
+
+[Idle factories]
+	{
+	uk=Вільні заводи;
+	}
+
+[Mobile armed units on screen, not aircraft]
+	{
+	uk=Мобільні озброєні юніти на екрані, не авіація;
+	}
+
+[Next primary]
+	{
+	uk=Наступний головний;
+	}
+
+[Next selected unit becomes primary]
+	{
+	uk=Наступний обраний юніт стає головним;
+	}
+
+[Previous primary]
+	{
+	uk=Попередній основний;
+	}
+
+[Previous selected unit becomes primary]
+	{
+	uk=Попередній виділений юніт стає основним;
+	}
+
+[Select aircraft]
+	{
+	uk=Виділити авіацію;
+	}
+
+[Select all]
+	{
+	uk=Виділити все;
+	}
+
+[Select builders]
+	{
+	uk=Виділити будівельників;
+	}
+
+[Select commander]
+	{
+	uk=Виділити Командира;
+	}
+
+[Select factories]
+	{
+	uk=Виділити заводи;
+	}
+
+[Select on screen]
+	{
+	uk=Виділити на екрані;
+	}
+
+[Select same type]
+	{
+	uk=Виділити той самий тип;
+	}
+
+[Select {word}]
+	{
+	uk=Виділити {word};
+	}
+
+[Selects and follows the commander]
+	{
+	uk=Виділяє Командира й стежить за ним;
+	}
+
+[Selects your units tagged {word}: those on screen, then the whole map on a second press.]
+	{
+	uk=Виділяє твої юніти з міткою {word}: спершу ті, що на екрані, другим натисканням — усю мапу.;
+	}
+
+[Units on screen]
+	{
+	uk=Юніти на екрані;
+	}
+
+[Units tagged CTRL_B]
+	{
+	uk=Юніти з міткою CTRL_B;
+	}
+
+[Units tagged CTRL_F]
+	{
+	uk=Юніти з міткою CTRL_F;
+	}
+
+[Units tagged CTRL_V]
+	{
+	uk=Юніти з міткою CTRL_V;
+	}
+
+// Key bindings: Groups.
+
+[Add group 1]
+	{
+	uk=Додати групу 1;
+	}
+
+[Add group 2]
+	{
+	uk=Додати групу 2;
+	}
+
+[Add group 3]
+	{
+	uk=Додати групу 3;
+	}
+
+[Add group 4]
+	{
+	uk=Додати групу 4;
+	}
+
+[Add group 5]
+	{
+	uk=Додати групу 5;
+	}
+
+[Add group 6]
+	{
+	uk=Додати групу 6;
+	}
+
+[Add group 7]
+	{
+	uk=Додати групу 7;
+	}
+
+[Add group 8]
+	{
+	uk=Додати групу 8;
+	}
+
+[Add group 9]
+	{
+	uk=Додати групу 9;
+	}
+
+[Adds group 1]
+	{
+	uk=Додає групу 1;
+	}
+
+[Adds group 2]
+	{
+	uk=Додає групу 2;
+	}
+
+[Adds group 3]
+	{
+	uk=Додає групу 3;
+	}
+
+[Adds group 4]
+	{
+	uk=Додає групу 4;
+	}
+
+[Adds group 5]
+	{
+	uk=Додає групу 5;
+	}
+
+[Adds group 6]
+	{
+	uk=Додає групу 6;
+	}
+
+[Adds group 7]
+	{
+	uk=Додає групу 7;
+	}
+
+[Adds group 8]
+	{
+	uk=Додає групу 8;
+	}
+
+[Adds group 9]
+	{
+	uk=Додає групу 9;
+	}
+
+[Assign group 1]
+	{
+	uk=Призначити групу 1;
+	}
+
+[Assign group 2]
+	{
+	uk=Призначити групу 2;
+	}
+
+[Assign group 3]
+	{
+	uk=Призначити групу 3;
+	}
+
+[Assign group 4]
+	{
+	uk=Призначити групу 4;
+	}
+
+[Assign group 5]
+	{
+	uk=Призначити групу 5;
+	}
+
+[Assign group 6]
+	{
+	uk=Призначити групу 6;
+	}
+
+[Assign group 7]
+	{
+	uk=Призначити групу 7;
+	}
+
+[Assign group 8]
+	{
+	uk=Призначити групу 8;
+	}
+
+[Assign group 9]
+	{
+	uk=Призначити групу 9;
+	}
+
+[Menu page 1]
+	{
+	uk=Сторінка меню 1;
+	}
+
+[Menu page 2]
+	{
+	uk=Сторінка меню 2;
+	}
+
+[Menu page 3]
+	{
+	uk=Сторінка меню 3;
+	}
+
+[Menu page 4]
+	{
+	uk=Сторінка меню 4;
+	}
+
+[Menu page 5]
+	{
+	uk=Сторінка меню 5;
+	}
+
+[Menu page 6]
+	{
+	uk=Сторінка меню 6;
+	}
+
+[Menu page 7]
+	{
+	uk=Сторінка меню 7;
+	}
+
+[Menu page 8]
+	{
+	uk=Сторінка меню 8;
+	}
+
+[Menu page 9]
+	{
+	uk=Сторінка меню 9;
+	}
+
+[Select group 1]
+	{
+	uk=Виділити групу 1;
+	}
+
+[Select group 2]
+	{
+	uk=Виділити групу 2;
+	}
+
+[Select group 3]
+	{
+	uk=Виділити групу 3;
+	}
+
+[Select group 4]
+	{
+	uk=Виділити групу 4;
+	}
+
+[Select group 5]
+	{
+	uk=Виділити групу 5;
+	}
+
+[Select group 6]
+	{
+	uk=Виділити групу 6;
+	}
+
+[Select group 7]
+	{
+	uk=Виділити групу 7;
+	}
+
+[Select group 8]
+	{
+	uk=Виділити групу 8;
+	}
+
+[Select group 9]
+	{
+	uk=Виділити групу 9;
+	}
+
+[Selects group 1; again centres on it]
+	{
+	uk=Виділяє групу 1, удруге центрує на ній;
+	}
+
+[Selects group 2; again centres on it]
+	{
+	uk=Виділяє групу 2, удруге центрує на ній;
+	}
+
+[Selects group 3; again centres on it]
+	{
+	uk=Виділяє групу 3, удруге центрує на ній;
+	}
+
+[Selects group 4; again centres on it]
+	{
+	uk=Виділяє групу 4, удруге центрує на ній;
+	}
+
+[Selects group 5; again centres on it]
+	{
+	uk=Виділяє групу 5, удруге центрує на ній;
+	}
+
+[Selects group 6; again centres on it]
+	{
+	uk=Виділяє групу 6, удруге центрує на ній;
+	}
+
+[Selects group 7; again centres on it]
+	{
+	uk=Виділяє групу 7, удруге центрує на ній;
+	}
+
+[Selects group 8; again centres on it]
+	{
+	uk=Виділяє групу 8, удруге центрує на ній;
+	}
+
+[Selects group 9; again centres on it]
+	{
+	uk=Виділяє групу 9, удруге центрує на ній;
+	}
+
+[Shows page 0 of the menu (1 is orders)]
+	{
+	uk=Показує сторінку 0 меню (1 — це накази);
+	}
+
+[Shows page 1 of the menu (1 is orders)]
+	{
+	uk=Показує сторінку 1 меню (1 — це накази);
+	}
+
+[Shows page 2 of the menu (1 is orders)]
+	{
+	uk=Показує сторінку 2 меню (1 — це накази);
+	}
+
+[Shows page 3 of the menu (1 is orders)]
+	{
+	uk=Показує сторінку 3 меню (1 — це накази);
+	}
+
+[Shows page 4 of the menu (1 is orders)]
+	{
+	uk=Показує сторінку 4 меню (1 — це накази);
+	}
+
+[Shows page 5 of the menu (1 is orders)]
+	{
+	uk=Показує сторінку 5 меню (1 — це накази);
+	}
+
+[Shows page 6 of the menu (1 is orders)]
+	{
+	uk=Показує сторінку 6 меню (1 — це накази);
+	}
+
+[Shows page 7 of the menu (1 is orders)]
+	{
+	uk=Показує сторінку 7 меню (1 — це накази);
+	}
+
+[Shows page 8 of the menu (1 is orders)]
+	{
+	uk=Показує сторінку 8 меню (1 — це накази);
+	}
+
+[Stores the selection as group 1]
+	{
+	uk=Зберігає виділення як групу 1;
+	}
+
+[Stores the selection as group 2]
+	{
+	uk=Зберігає виділення як групу 2;
+	}
+
+[Stores the selection as group 3]
+	{
+	uk=Зберігає виділення як групу 3;
+	}
+
+[Stores the selection as group 4]
+	{
+	uk=Зберігає виділення як групу 4;
+	}
+
+[Stores the selection as group 5]
+	{
+	uk=Зберігає виділення як групу 5;
+	}
+
+[Stores the selection as group 6]
+	{
+	uk=Зберігає виділення як групу 6;
+	}
+
+[Stores the selection as group 7]
+	{
+	uk=Зберігає виділення як групу 7;
+	}
+
+[Stores the selection as group 8]
+	{
+	uk=Зберігає виділення як групу 8;
+	}
+
+[Stores the selection as group 9]
+	{
+	uk=Зберігає виділення як групу 9;
+	}
+
+// Key bindings: Camera.
+
+[Centres on the next unit not yet visited]
+	{
+	uk=Центрує на наступному ще не відвіданому юніті;
+	}
+
+[Centres on the selected unit, or selects and centres on the commander]
+	{
+	uk=Центрує на обраному юніті або обирає Командира і центрує на ньому;
+	}
+
+[Classic view]
+	{
+	uk=Класичний вид;
+	}
+
+[Edge scroll]
+	{
+	uk=Прокрутка від краю;
+	}
+
+[Follow previous]
+	{
+	uk=Стежити за попереднім;
+	}
+
+[Follows the next selected unit]
+	{
+	uk=Стежить за наступним обраним юнітом;
+	}
+
+[Follows the previous selected unit]
+	{
+	uk=Стежить за попереднім обраним юнітом;
+	}
+
+[Go to bookmark 1]
+	{
+	uk=Перейти до закладки 1;
+	}
+
+[Go to bookmark 2]
+	{
+	uk=Перейти до закладки 2;
+	}
+
+[Go to bookmark 3]
+	{
+	uk=Перейти до закладки 3;
+	}
+
+[Go to bookmark 4]
+	{
+	uk=Перейти до закладки 4;
+	}
+
+[Pan down]
+	{
+	uk=Панорама вниз;
+	}
+
+[Pan left]
+	{
+	uk=Панорама вліво;
+	}
+
+[Pan right]
+	{
+	uk=Панорама вправо;
+	}
+
+[Pan up]
+	{
+	uk=Панорама вгору;
+	}
+
+[Puts the Full 3D view's camera back to the classic view]
+	{
+	uk=Повертає камеру повного 3D-вигляду до класичного вигляду;
+	}
+
+[Reset zoom]
+	{
+	uk=Скинути масштаб;
+	}
+
+[Returns to bookmark 1]
+	{
+	uk=Повертає до закладки 1;
+	}
+
+[Returns to bookmark 2]
+	{
+	uk=Повертає до закладки 2;
+	}
+
+[Returns to bookmark 3]
+	{
+	uk=Повертає до закладки 3;
+	}
+
+[Returns to bookmark 4]
+	{
+	uk=Повертає до закладки 4;
+	}
+
+[Scrolls at the window's edge]
+	{
+	uk=Прокручує біля краю вікна;
+	}
+
+[Scrolls the view down]
+	{
+	uk=Прокручує вигляд вниз;
+	}
+
+[Scrolls the view left]
+	{
+	uk=Прокручує вигляд ліворуч;
+	}
+
+[Scrolls the view right]
+	{
+	uk=Прокручує вигляд праворуч;
+	}
+
+[Scrolls the view up]
+	{
+	uk=Прокручує вигляд вгору;
+	}
+
+[Set bookmark 1]
+	{
+	uk=Задати закладку 1;
+	}
+
+[Set bookmark 2]
+	{
+	uk=Задати закладку 2;
+	}
+
+[Set bookmark 3]
+	{
+	uk=Задати закладку 3;
+	}
+
+[Set bookmark 4]
+	{
+	uk=Задати закладку 4;
+	}
+
+[Stores the view as bookmark 1]
+	{
+	uk=Зберігає вигляд як закладку 1;
+	}
+
+[Stores the view as bookmark 2]
+	{
+	uk=Зберігає вигляд як закладку 2;
+	}
+
+[Stores the view as bookmark 3]
+	{
+	uk=Зберігає вигляд як закладку 3;
+	}
+
+[Stores the view as bookmark 4]
+	{
+	uk=Зберігає вигляд як закладку 4;
+	}
+
+[The game's own scale]
+	{
+	uk=Власний масштаб гри;
+	}
+
+[The next unit the message log reported]
+	{
+	uk=Наступний юніт, про який повідомив журнал повідомлень;
+	}
+
+[Unlocked Camera on or off in the Full 3D view]
+	{
+	uk=Вільна камера: увімк. чи вимк. у повному 3D-вигляді;
+	}
+
+[Zoom in key]
+	{
+	uk=Клавіша наближення;
+	}
+
+[Zoom out key]
+	{
+	uk=Клавіша віддалення;
+	}
+
+[Zooms in about the centre]
+	{
+	uk=Наближає довкола центра;
+	}
+
+[Zooms out about the centre]
+	{
+	uk=Віддаляє довкола центра;
+	}
+
+// Key bindings: Building.
+
+[Build cell 1]
+	{
+	uk=Кнопка будування 1;
+	}
+
+[Build cell 10]
+	{
+	uk=Кнопка будування 10;
+	}
+
+[Build cell 11]
+	{
+	uk=Кнопка будування 11;
+	}
+
+[Build cell 12]
+	{
+	uk=Кнопка будування 12;
+	}
+
+[Build cell 2]
+	{
+	uk=Кнопка будування 2;
+	}
+
+[Build cell 3]
+	{
+	uk=Кнопка будування 3;
+	}
+
+[Build cell 4]
+	{
+	uk=Кнопка будування 4;
+	}
+
+[Build cell 5]
+	{
+	uk=Кнопка будування 5;
+	}
+
+[Build cell 6]
+	{
+	uk=Кнопка будування 6;
+	}
+
+[Build cell 7]
+	{
+	uk=Кнопка будування 7;
+	}
+
+[Build cell 8]
+	{
+	uk=Кнопка будування 8;
+	}
+
+[Build cell 9]
+	{
+	uk=Кнопка будування 9;
+	}
+
+[Drags a queued build site]
+	{
+	uk=Перетягує місце будування в черзі;
+	}
+
+[Held while placing: drag lays a line, a click rings a unit]
+	{
+	uk=Утримано під час розміщення: перетягування кладе лінію, клік ставить кільце навколо юніта;
+	}
+
+[Held: no mex or wreck snap, and drag queued orders]
+	{
+	uk=Утримано: без привʼязки до видобувачів чи уламків, і накази в черзі можна тягти;
+	}
+
+[Line build]
+	{
+	uk=Будування в лінію;
+	}
+
+[Lowers the spacing of a build line]
+	{
+	uk=Зменшує інтервал лінії будування;
+	}
+
+[Move queued site]
+	{
+	uk=Перемістити місце в черзі;
+	}
+
+[Next facing]
+	{
+	uk=Наступний поворот;
+	}
+
+[Next page of the build menu]
+	{
+	uk=Наступна сторінка меню будування;
+	}
+
+[Presses build button 1 of the page shown, in reading order]
+	{
+	uk=Натискає кнопку будування 1 показаної сторінки, у порядку читання;
+	}
+
+[Presses build button 10 of the page shown, in reading order]
+	{
+	uk=Натискає кнопку будування 10 показаної сторінки, у порядку читання;
+	}
+
+[Presses build button 11 of the page shown, in reading order]
+	{
+	uk=Натискає кнопку будування 11 показаної сторінки, у порядку читання;
+	}
+
+[Presses build button 12 of the page shown, in reading order]
+	{
+	uk=Натискає кнопку будування 12 показаної сторінки, у порядку читання;
+	}
+
+[Presses build button 2 of the page shown, in reading order]
+	{
+	uk=Натискає кнопку будування 2 показаної сторінки, у порядку читання;
+	}
+
+[Presses build button 3 of the page shown, in reading order]
+	{
+	uk=Натискає кнопку будування 3 показаної сторінки, у порядку читання;
+	}
+
+[Presses build button 4 of the page shown, in reading order]
+	{
+	uk=Натискає кнопку будування 4 показаної сторінки, у порядку читання;
+	}
+
+[Presses build button 5 of the page shown, in reading order]
+	{
+	uk=Натискає кнопку будування 5 показаної сторінки, у порядку читання;
+	}
+
+[Presses build button 6 of the page shown, in reading order]
+	{
+	uk=Натискає кнопку будування 6 показаної сторінки, у порядку читання;
+	}
+
+[Presses build button 7 of the page shown, in reading order]
+	{
+	uk=Натискає кнопку будування 7 показаної сторінки, у порядку читання;
+	}
+
+[Presses build button 8 of the page shown, in reading order]
+	{
+	uk=Натискає кнопку будування 8 показаної сторінки, у порядку читання;
+	}
+
+[Presses build button 9 of the page shown, in reading order]
+	{
+	uk=Натискає кнопку будування 9 показаної сторінки, у порядку читання;
+	}
+
+[Previous page]
+	{
+	uk=Попередня сторінка;
+	}
+
+[Previous page of the build menu]
+	{
+	uk=Попередня сторінка меню будування;
+	}
+
+[Raises the spacing of a build line]
+	{
+	uk=Збільшує інтервал лінії будування;
+	}
+
+[Rotate]
+	{
+	uk=Повернути;
+	}
+
+[Rotate wheel]
+	{
+	uk=Повернути коліщатком;
+	}
+
+[Snap override]
+	{
+	uk=Без привʼязки;
+	}
+
+[Spacing down]
+	{
+	uk=Інтервал менший;
+	}
+
+[Spacing up]
+	{
+	uk=Інтервал більший;
+	}
+
+[Turns the facing]
+	{
+	uk=Повертає напрям;
+	}
+
+// Key bindings: Game.
+
+[Allies menu]
+	{
+	uk=Меню союзників;
+	}
+
+[Chat macro]
+	{
+	uk=Макрос чату;
+	}
+
+[Clear messages]
+	{
+	uk=Очистити повідомлення;
+	}
+
+[Clears the message log]
+	{
+	uk=Очищає журнал повідомлень;
+	}
+
+[Damage bar mode 1]
+	{
+	uk=Режим смуги шкоди 1;
+	}
+
+[Damage bar mode 2]
+	{
+	uk=Режим смуги шкоди 2;
+	}
+
+[Damage bar mode 3]
+	{
+	uk=Режим смуги шкоди 3;
+	}
+
+[Damage bar mode 4]
+	{
+	uk=Режим смуги шкоди 4;
+	}
+
+[Damage bars]
+	{
+	uk=Смуги шкоди;
+	}
+
+[Damage bars on or off]
+	{
+	uk=Увімкнути або вимкнути смуги шкоди;
+	}
+
+[Damage bars the way the shifted 1 key shows them]
+	{
+	uk=Смуги шкоди так, як їх показує клавіша 1 із Shift;
+	}
+
+[Damage bars the way the shifted 3 key shows them]
+	{
+	uk=Смуги шкоди так, як їх показує клавіша 3 із Shift;
+	}
+
+[Damage bars the way the shifted 8 key shows them]
+	{
+	uk=Смуги шкоди так, як їх показує клавіша 8 із Shift;
+	}
+
+[Damage bars the way the shifted backquote key shows them]
+	{
+	uk=Смуги шкоди так, як їх показує клавіша ` із Shift;
+	}
+
+[Held: the status strip and kills board]
+	{
+	uk=Утримано: смуга стану і табло знищень;
+	}
+
+[Kills board]
+	{
+	uk=Табло знищень;
+	}
+
+[One speed step faster]
+	{
+	uk=На один крок швидкості швидше;
+	}
+
+[One speed step slower]
+	{
+	uk=На один крок швидкості повільніше;
+	}
+
+[Open allies chat]
+	{
+	uk=Відкрити чат союзників;
+	}
+
+[Open chat]
+	{
+	uk=Відкрити чат;
+	}
+
+[Opens the chat line]
+	{
+	uk=Відкриває рядок чату;
+	}
+
+[Opens the chat line to allies]
+	{
+	uk=Відкриває рядок чату для союзників;
+	}
+
+[Pause on or off]
+	{
+	uk=Пауза: увімк. чи вимк.;
+	}
+
+[Pin unit]
+	{
+	uk=Прикріпити юніт;
+	}
+
+[Pins the kills board]
+	{
+	uk=Прикріплює табло вбивств;
+	}
+
+[Pins the unit under the pointer]
+	{
+	uk=Прикріплює юніт під вказівником;
+	}
+
+[Repeat command]
+	{
+	uk=Повторити команду чату;
+	}
+
+[Runs the last chat command again]
+	{
+	uk=Знову виконує останню команду чату;
+	}
+
+[Saves a screenshot]
+	{
+	uk=Зберігає знімок екрана;
+	}
+
+[Screenshot]
+	{
+	uk=Знімок екрана;
+	}
+
+[Sends the mod's chat macro]
+	{
+	uk=Надсилає макрос чату моду;
+	}
+
+[Share panel]
+	{
+	uk=Панель обміну;
+	}
+
+[Speed down]
+	{
+	uk=Повільніше;
+	}
+
+[Speed up]
+	{
+	uk=Швидше;
+	}
+
+[Status strip]
+	{
+	uk=Смуга стану;
+	}
+
+[The Escape chain: armed order, selection, then the game menu]
+	{
+	uk=Ланцюжок Escape: обраний наказ, виділення, потім меню гри;
+	}
+
+[The allies menu]
+	{
+	uk=Меню союзників;
+	}
+
+[The in-game menu, or resumes]
+	{
+	uk=Меню в грі або продовжує гру.;
+	}
+
+[The mod's options dialog]
+	{
+	uk=Вікно параметрів моду;
+	}
+
+[The resource panel on or off]
+	{
+	uk=Панель ресурсів: увімк. чи вимк.;
+	}
+
+[The share panel]
+	{
+	uk=Панель обміну;
+	}
+
+[The unit info panel]
+	{
+	uk=Панель інфо юніта;
+	}
+
+[Unit info]
+	{
+	uk=Інфо юніта;
+	}
+
+// Key bindings: Chat.
+
+[Cancel chat]
+	{
+	uk=Скасувати чат;
+	}
+
+[Closes the line]
+	{
+	uk=Закриває рядок;
+	}
+
+[Send chat]
+	{
+	uk=Надіслати чат;
+	}
+
+[Sends the line]
+	{
+	uk=Надсилає рядок;
+	}
+
+// Key bindings: Watching.
+
+[Lock view]
+	{
+	uk=Зафіксувати вид;
+	}
+
+[Locks onto that player's camera]
+	{
+	uk=Фіксується на камері цього гравця;
+	}
+
+[Player view]
+	{
+	uk=Вигляд гравця;
+	}
+
+[Takes the view of the player whose row is clicked]
+	{
+	uk=Бере вигляд гравця, чий рядок клацнуто;
+	}
+
+// Key bindings: Window.
+
+[Accepts the screen, or presses the focused control]
+	{
+	uk=Приймає екран або натискає елемент у фокусі;
+	}
+
+[Answers no]
+	{
+	uk=Відповідає ні;
+	}
+
+[Answers yes]
+	{
+	uk=Відповідає так;
+	}
+
+[Cancel screen]
+	{
+	uk=Скасувати екран;
+	}
+
+[Closes the screen on top]
+	{
+	uk=Закриває верхній екран;
+	}
+
+[Down]
+	{
+	uk=Вниз;
+	}
+
+[Find]
+	{
+	uk=Шукати;
+	}
+
+[Finds on the screen]
+	{
+	uk=Шукає на екрані;
+	}
+
+[Full screen]
+	{
+	uk=Повний екран;
+	}
+
+[Full screen on or off]
+	{
+	uk=Увімкнути або вимкнути повний екран;
+	}
+
+[Go to end]
+	{
+	uk=Перейти в кінець;
+	}
+
+[Go to start]
+	{
+	uk=Перейти на початок;
+	}
+
+[Information]
+	{
+	uk=Інформація;
+	}
+
+[Keys overlay]
+	{
+	uk=Оверлей клавіш;
+	}
+
+[Left]
+	{
+	uk=Ліворуч;
+	}
+
+[Lets a captured pointer go]
+	{
+	uk=Відпускає захоплений вказівник;
+	}
+
+[Moves the focus down]
+	{
+	uk=Переміщує фокус вниз;
+	}
+
+[Moves the focus left, or steps a control]
+	{
+	uk=Переміщує фокус ліворуч або перемикає елемент;
+	}
+
+[Moves the focus right, or steps a control]
+	{
+	uk=Переміщує фокус праворуч або перемикає елемент;
+	}
+
+[Moves the focus to the next control]
+	{
+	uk=Переміщує фокус на наступний елемент;
+	}
+
+[Moves the focus to the previous control]
+	{
+	uk=Переміщує фокус на попередній елемент;
+	}
+
+[Moves the focus up]
+	{
+	uk=Переміщує фокус угору;
+	}
+
+[Next control]
+	{
+	uk=Наступний елемент;
+	}
+
+[Next tab]
+	{
+	uk=Наступна вкладка;
+	}
+
+[No]
+	{
+	uk=Ні;
+	}
+
+[Opens Settings]
+	{
+	uk=Відкриває Налаштування;
+	}
+
+[Page down]
+	{
+	uk=Сторінка вниз;
+	}
+
+[Page up]
+	{
+	uk=Сторінка вгору;
+	}
+
+[Paste]
+	{
+	uk=Вставити;
+	}
+
+[Pastes the clipboard into the focused text field]
+	{
+	uk=Вставляє буфер обміну в текстове поле з фокусом;
+	}
+
+[Press]
+	{
+	uk=Натиснути;
+	}
+
+[Presses the focused control]
+	{
+	uk=Натискає елемент з фокусом;
+	}
+
+[Previous control]
+	{
+	uk=Попередній елемент;
+	}
+
+[Previous tab]
+	{
+	uk=Попередня вкладка;
+	}
+
+[Quits]
+	{
+	uk=Завершує гру;
+	}
+
+[Refreshes the screen]
+	{
+	uk=Перемальовує екран;
+	}
+
+[Release pointer]
+	{
+	uk=Звільнити вказівник;
+	}
+
+[Right]
+	{
+	uk=Вправо;
+	}
+
+[Scrolls down]
+	{
+	uk=Прокручує вниз;
+	}
+
+[Scrolls to the end, or moves to the end of a text field]
+	{
+	uk=Прокручує в кінець або переходить у кінець текстового поля;
+	}
+
+[Scrolls to the top, or moves to the start of a text field]
+	{
+	uk=Прокручує на початок або переходить на початок текстового поля;
+	}
+
+[Scrolls up]
+	{
+	uk=Прокручує вгору;
+	}
+
+[Shows more about what the focus is on]
+	{
+	uk=Показує більше про те, де фокус;
+	}
+
+[Shows the next tab]
+	{
+	uk=Показує наступну вкладку;
+	}
+
+[Shows the previous tab]
+	{
+	uk=Показує попередню вкладку;
+	}
+
+[The keys overlay for the screen shown]
+	{
+	uk=Оверлей клавіш для показаного екрана;
+	}
+
+[Yes]
+	{
+	uk=Так;
+	}
+
+// Key bindings: Menus.
+
+[Accept]
+	{
+	uk=Прийняти;
+	}
+
+[Cancel menu]
+	{
+	uk=Скасувати меню;
+	}
+
+[Closes the menu, or answers its cancel]
+	{
+	uk=Закриває меню або відповідає його скасуванням;
+	}
+
+[Focus down]
+	{
+	uk=Фокус вниз;
+	}
+
+[Focus left]
+	{
+	uk=Фокус ліворуч;
+	}
+
+[Focus right]
+	{
+	uk=Фокус праворуч;
+	}
+
+[Focus up]
+	{
+	uk=Фокус угору;
+	}
+
+[List down]
+	{
+	uk=Список вниз;
+	}
+
+[List up]
+	{
+	uk=Список угору;
+	}
+
+[Moves the focus down. Down itself steps a list]
+	{
+	uk=Переміщує фокус вниз. Стрілка вниз сама гортає список;
+	}
+
+[Moves the focus left from a button]
+	{
+	uk=Переміщує фокус ліворуч від кнопки;
+	}
+
+[Moves the focus right from a button]
+	{
+	uk=Переміщує фокус праворуч від кнопки;
+	}
+
+[Moves the focus to the next button]
+	{
+	uk=Переміщує фокус на наступну кнопку;
+	}
+
+[Moves the focus to the previous button]
+	{
+	uk=Переміщує фокус на попередню кнопку;
+	}
+
+[Moves the focus up. Up itself steps a list]
+	{
+	uk=Переміщує фокус угору. Стрілка вгору сама гортає список;
+	}
+
+[Next button]
+	{
+	uk=Наступна кнопка;
+	}
+
+[Press button]
+	{
+	uk=Натиснути кнопку;
+	}
+
+[Presses the focused button]
+	{
+	uk=Натискає кнопку з фокусом;
+	}
+
+[Presses the focused button, or the screen's default]
+	{
+	uk=Натискає кнопку з фокусом або типову кнопку екрана;
+	}
+
+[Previous button]
+	{
+	uk=Попередня кнопка;
+	}
+
+[Steps a list down, or moves the focus down from a button]
+	{
+	uk=Крокує списком вниз або переносить фокус вниз від кнопки;
+	}
+
+[Steps a list up, or moves the focus up from a button]
+	{
+	uk=Крокує списком вгору або переносить фокус вгору від кнопки;
+	}
+
+// Key bindings: Developer.
+
+[Cycles the overlay]
+	{
+	uk=Перемикає оверлей;
+	}
+
+[Debug keys]
+	{
+	uk=Клавіші налагодження;
+	}
+
+[Debug keys on or off]
+	{
+	uk=Увімкнути або вимкнути клавіші налагодження;
+	}
+
+[Developer info]
+	{
+	uk=Відомості для розробників;
+	}
+
+[Kill under pointer]
+	{
+	uk=Знищити під вказівником;
+	}
+
+[Kills the unit under the pointer]
+	{
+	uk=Знищує юніт під вказівником;
+	}
+
+[Movie capture]
+	{
+	uk=Запис відео;
+	}
+
+[Overlay]
+	{
+	uk=Оверлей;
+	}
+
+[Refill]
+	{
+	uk=Поповнити;
+	}
+
+[Refills resources]
+	{
+	uk=Поповнює ресурси;
+	}
+
+[The developer information key]
+	{
+	uk=Клавіша відомостей для розробників;
+	}
+
+// Key bindings: Megamap.
+
+[Close megamap]
+	{
+	uk=Закрити мегамапу;
+	}
+
+[Closes the megamap and centres on the pointer]
+	{
+	uk=Закриває мегамапу і центрує на вказівнику;
+	}
+
+[Jumps the view to a point of the megamap]
+	{
+	uk=Перестрибує видом до точки на мегамапі;
+	}
+
+[Megamap jump]
+	{
+	uk=Стрибок мегамапи;
+	}
+
+[Open megamap]
+	{
+	uk=Відкрити мегамапу;
+	}
+
+[Opens the megamap]
+	{
+	uk=Відкриває мегамапу;
+	}
+
+[The megamap on or off]
+	{
+	uk=Мегамапа: увімк. чи вимк.;
+	}
+
+// Key bindings: Whiteboard.
+
+[Dot]
+	{
+	uk=Крапка;
+	}
+
+[Draw]
+	{
+	uk=Малювати;
+	}
+
+[Draws a line]
+	{
+	uk=Малює лінію;
+	}
+
+[Erase]
+	{
+	uk=Стерти;
+	}
+
+[Erases a marker]
+	{
+	uk=Стирає позначку;
+	}
+
+[Goes to the newest marker]
+	{
+	uk=Іде до найновішої позначки;
+	}
+
+[Held: the whiteboard takes the mouse]
+	{
+	uk=Утримано: дошка перехоплює мишу;
+	}
+
+[Line]
+	{
+	uk=Лінія;
+	}
+
+[Move marker]
+	{
+	uk=Перемістити позначку;
+	}
+
+[Moves a marker]
+	{
+	uk=Переміщує позначку;
+	}
+
+[Newest marker]
+	{
+	uk=Найновіша позначка;
+	}
+
+[Places a dot]
+	{
+	uk=Ставить точку;
+	}
+
+[Places text]
+	{
+	uk=Ставить текст;
+	}
+
+[Wipe]
+	{
+	uk=Стерти;
+	}
+
+[Wipes the board]
+	{
+	uk=Стирає маркерну дошку;
+	}
+
+// The key editor.
+
+[+ Add a key]
+	{
+	uk=+ Додати клавішу;
+	}
+
+[1 unsaved edit]
+	{
+	uk=1 незбережена зміна;
+	}
+
+[Add a key · {context}]
+	{
+	uk=Додати клавішу · {context};
+	}
+
+[All actions]
+	{
+	uk=Усі дії;
+	}
+
+[Change a key · {context}]
+	{
+	uk=Змінити клавішу · {context};
+	}
+
+[Change {action}'s key…]
+	{
+	uk=Змінити клавішу для {action}…;
+	}
+
+[Choose an action]
+	{
+	uk=Обрати дію;
+	}
+
+[Edit keys…]
+	{
+	uk=Редагувати клавіші…;
+	}
+
+[Grey keys are free while playing. Select a key to see what it does in each place.]
+	{
+	uk=Сірі клавіші вільні під час гри. Обери клавішу, щоб побачити, що вона робить у кожній позиції.;
+	}
+
+[No unsaved edits]
+	{
+	uk=Немає незбережених змін;
+	}
+
+[{modifier}+/ or Escape closes this. More in Edit keys…]
+	{
+	uk={modifier}+/ або Escape закриває це. Більше в «Редагувати клавіші…».;
+	}
+
+[{n} unsaved]
+	{
+	uk=незбережено: {n};
+	}
+
+[{n} unsaved edits]
+	{
+	uk=незбережені зміни: {n};
+	}
+
+// Capture and clashes.
+
+[Always {description} in Open Annihilation. Choose another key.]
+	{
+	uk=Завжди {description} в Open Annihilation. Обери іншу клавішу.;
+	}
+
+[Choose another key]
+	{
+	uk=Обрати іншу клавішу;
+	}
+
+[Clashes]
+	{
+	uk=Конфлікти;
+	}
+
+[Click the key to try another.]
+	{
+	uk=Торкнися клавіші, щоб спробувати іншу.;
+	}
+
+[Click the key, then press another to look it up.]
+	{
+	uk=Торкнися клавіші, потім натисни іншу, щоб дізнатися, що вона робить.;
+	}
+
+[One clash: {chord} already belongs to {action}. Apply keeps yours and lists the clash.]
+	{
+	uk=Один конфлікт: {chord} вже зайнято дією {action}. «Застосувати» лишає твою й показує конфлікт.;
+	}
+
+[Settle 1 clash to save]
+	{
+	uk=Уладнай 1 конфлікт, щоб зберегти;
+	}
+
+[Settle {n} clashes to save]
+	{
+	uk=Уладнай конфлікти: {n}, щоб зберегти;
+	}
+
+[Settle…]
+	{
+	uk=Уладнати…;
+	}
+
+// Sharing and import.
+
+[Copy as text]
+	{
+	uk=Копіювати як текст;
+	}
+
+[Import 1 key]
+	{
+	uk=Імпортувати 1 клавішу;
+	}
+
+[Import keys from an older setup]
+	{
+	uk=Імпортувати клавіші зі старішого налаштування;
+	}
+
+[Import {n} keys]
+	{
+	uk=Імпортувати клавіші: {n};
+	}
+
+[Imported from {file}]
+	{
+	uk=Імпортовано з {file};
+	}
+
+[Importing gives the key to this action and leaves {action} without it.]
+	{
+	uk=Імпорт віддає клавішу цій дії і залишає {action} без неї.;
+	}
+
+[Import…]
+	{
+	uk=Імпортувати…;
+	}
+
+[It holds no oakeys.yaml at its top, or in a single folder at its top.]
+	{
+	uk=Угорі немає oakeys.yaml і немає його в одній папці на верхньому рівні.;
+	}
+
+[Its oakeys.yaml has errors:]
+	{
+	uk=У його oakeys.yaml є помилки:;
+	}
+
+[Its oakeys.yaml is larger than 256 KiB.]
+	{
+	uk=Його oakeys.yaml більший за 256 KiB.;
+	}
+
+[Key layout packages (.oakeys)]
+	{
+	uk=Розкладки клавіш (.oakeys);
+	}
+
+[Numbers are Windows key codes, read as key places. The changes go on top of your layout as "Imported from {file}". Nothing else changes.]
+	{
+	uk=Числа — це коди клавіш Windows, їх читають як позиції. Зміни лягають поверх твоєї розкладки клавіш як «Імпортовано з {file}». Більше нічого не змінюється.;
+	}
+
+[Paste keys]
+	{
+	uk=Вставити клавіші;
+	}
+
+[Paste…]
+	{
+	uk=Вставити…;
+	}
+
+[Share your keys]
+	{
+	uk=Поділися своїми клавішами;
+	}
+
+[Share…]
+	{
+	uk=Поділитися…;
+	}
+
+[The file is a .oakeys package anyone can open in Open Annihilation. The text carries the keys alone, for a forum or a chat.]
+	{
+	uk=Файл є пакетом .oakeys, який кожен може відкрити в Open Annihilation. Текст містить лише клавіші, для форуму чи чату.;
+	}
+
+[This text is not a key layout.]
+	{
+	uk=Цей текст не є розкладкою клавіш.;
+	}
+
+// The overlay and badges.
+
+[Arrange Overlays]
+	{
+	uk=Упорядкувати оверлеї;
+	}
+
+[Drag an overlay where it suits you. Each screen size keeps its own places.]
+	{
+	uk=Перетягни оверлей, куди тобі зручно. Кожен розмір екрана зберігає свої місця.;
+	}
+
+[Hold Ctrl + D to try Hold to confirm.]
+	{
+	uk=Утримуй Ctrl + D, щоб спробувати «Утримувати для підтвердження».;
+	}
+
+[Hold to confirm]
+	{
+	uk=Утримувати для підтвердження;
+	}
+
+[Hold to confirm {action}]
+	{
+	uk=Утримувати для підтвердження: {action};
+	}
+
+[How long a hold is: hold to confirm, and keys bound to a hold.]
+	{
+	uk=Яка тривалість утримання: Утримувати для підтвердження, і клавіші, привʼязані до утримання.;
+	}
+
+[Keys Overlay]
+	{
+	uk=Оверлей клавіш;
+	}
+
+[Latch Chips]
+	{
+	uk=Чіпи закріплення;
+	}
+
+[Overlays]
+	{
+	uk=Оверлеї;
+	}
+
+[Queue and the status strip latch: tap on, tap off. A chip shows each one on.]
+	{
+	uk=Черга й смуга стану закріплюються: дотик увімк., дотик вимк. Плашка показує кожну, коли її увімкнено.;
+	}
+
+[hold to confirm]
+	{
+	uk=Утримувати для підтвердження;
+	}
+
+[{name} · latched]
+	{
+	uk={name} · закріплено;
+	}
+
+// Settings › Controls.
+
+[A double press]
+	{
+	uk=Одне подвійне натискання;
+	}
+
+[Bounce keys]
+	{
+	uk=Брязкіт клавіш;
+	}
+
+[Double press]
+	{
+	uk=Подвійне натискання;
+	}
+
+[Drag threshold]
+	{
+	uk=Поріг перетягування;
+	}
+
+[Edge scrolling]
+	{
+	uk=Прокрутка від краю;
+	}
+
+[Edge scrolling off]
+	{
+	uk=Прокрутка від краю вимкнена;
+	}
+
+[Full screen, screenshot and pointer keys]
+	{
+	uk=Повний екран, знімок екрана і клавіші вказівника;
+	}
+
+[Holding a mouse button opens the order wheel at the pointer.]
+	{
+	uk=Утримання кнопки миші відкриває колесо наказів біля вказівника.;
+	}
+
+[INSTALL KEY LAYOUT]
+	{
+	uk=ВСТАНОВИТИ РОЗКЛАДКУ КЛАВІШ;
+	}
+
+[INSTALLING KEY LAYOUT]
+	{
+	uk=ВСТАНОВЛЕННЯ РОЗКЛАДКИ КЛАВІШ;
+	}
+
+[Install the key layout {name} {version}?]
+	{
+	uk=Встановити розкладку клавіш {name} {version}?;
+	}
+
+[It holds more than {limit} folders, more than a key layout may take.]
+	{
+	uk=У ньому понад {limit} папок, більше, ніж може містити розкладка клавіш.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a key layout's files take.]
+	{
+	uk=Розпаковується до {size} з {packed}, значно більше, ніж займають файли розкладки клавіш.;
+	}
+
+[It unpacks to {size}, more than the {limit} a key layout may take.]
+	{
+	uk=Розпаковується до {size}, більше за {limit}, які може мати розкладка клавіш.;
+	}
+
+[KEY LAYOUT INSTALLED]
+	{
+	uk=РОЗКЛАДКА КЛАВІШ ВСТАНОВЛЕНО;
+	}
+
+[KEY LAYOUT NOT INSTALLED]
+	{
+	uk=РОЗКЛАДКА КЛАВІШ НЕ ВСТАНОВЛЕНО;
+	}
+
+[KEY LAYOUT UPDATED]
+	{
+	uk=РОЗКЛАДКА КЛАВІШ ОНОВЛЕНО;
+	}
+
+[Key layout]
+	{
+	uk=Розкладка клавіш;
+	}
+
+[Key layout with {mod}]
+	{
+	uk=Розкладка клавіш з {mod};
+	}
+
+[Key layouts]
+	{
+	uk=Розкладки клавіш;
+	}
+
+[Mods, maps and key layouts]
+	{
+	uk=Моди, мапи і розкладки клавіш;
+	}
+
+[Order wheel]
+	{
+	uk=Колесо наказів;
+	}
+
+[Order wheel on the held middle button]
+	{
+	uk=Колесо наказів на утримуваній середній кнопці;
+	}
+
+[Order wheel on the held right button]
+	{
+	uk=Колесо наказів на утримуваній правій кнопці;
+	}
+
+[Pointer keys]
+	{
+	uk=Клавіші вказівника;
+	}
+
+[REINSTALL KEY LAYOUT]
+	{
+	uk=ПЕРЕВСТАНОВИТИ РОЗКЛАДКУ КЛАВІШ;
+	}
+
+[REPLACE KEY LAYOUT]
+	{
+	uk=ЗАМІНИТИ РОЗКЛАДКУ КЛАВІШ;
+	}
+
+[Search key layouts]
+	{
+	uk=Шукати розкладки клавіш;
+	}
+
+[Sticky modifiers]
+	{
+	uk=Липкі модифікатори;
+	}
+
+[The folder {name} does not hold this key layout. It is left as it is.]
+	{
+	uk=Папка {name} не містить цієї розкладки клавіш. Її лишають як є.;
+	}
+
+[The package holds {name}, outside the files a key layout may hold.]
+	{
+	uk=Пакет містить {name} поза файлами, які може містити розкладка клавіш.;
+	}
+
+[Two presses this close are a double press, and two clicks a double click.]
+	{
+	uk=Два натискання так близько — це подвійне натискання, а два кліки — подвійний клік.;
+	}
+
+[UPDATE KEY LAYOUT]
+	{
+	uk=ОНОВИТИ РОЗКЛАДКУ КЛАВІШ;
+	}
+
+[Used while {mod} is played. Same as the game uses Key layout.]
+	{
+	uk=Діє, доки граєш у {mod}. «Як у грі» бере розкладку клавіш.;
+	}
+
+[Your Keys folder changed while this key layout was being installed; nothing was changed. Open the file again.]
+	{
+	uk=Поки встановлювалася ця розкладка клавіш, папка Keys змінилася. Нічого не змінено. Відкрий файл знову.;
+	}
+
+[key layouts]
+	{
+	uk=розкладки клавіш;
+	}
+
+// Settings › Accessibility.
+
+[ACCESSIBILITY]
+	{
+	uk=ДОСТУПНІСТЬ;
+	}
+
+[Accessibility]
+	{
+	uk=Доступність;
+	}
+
+[How soon a held camera, speed or page key repeats, and how fast.]
+	{
+	uk=Як скоро і як швидко повторюється утримана клавіша камери, швидкості чи сторінки.;
+	}
+
+[Key repeat delay]
+	{
+	uk=Затримка повтору клавіші;
+	}
+
+[Key repeat rate]
+	{
+	uk=Темп повтору клавіші;
+	}
+
+[Off in Settings › Accessibility]
+	{
+	uk=Вимк. у Налаштування › Доступність;
+	}
+
+[Repeat]
+	{
+	uk=Повтор;
+	}
+
+[Slow keys]
+	{
+	uk=Повільні клавіші;
+	}
+
+// Library › Keys.
+
+[Another copy of Open Annihilation is changing your Keys folder. Try again once it has finished.]
+	{
+	uk=Інша копія Open Annihilation змінює твою папку Keys. Спробуй ще раз, коли вона завершить.;
+	}
+
+[Either way it stays saved with {name}, and comes back when you use {name} again.]
+	{
+	uk=У будь-якому разі вона лишається збереженою з {name} і повертається, коли ти знову використовуєш {name}.;
+	}
+
+[Either way they stay saved with {name}, and come back when you use {name} again.]
+	{
+	uk=У будь-якому разі вони лишаються збереженими з {name} і повертаються, коли ти знову використовуєш {name}.;
+	}
+
+[It needs {size} free, and the disk holding your Keys folder has {free}.]
+	{
+	uk=Потрібно {size} вільно, а на диску з твоєю папкою Keys є {free}.;
+	}
+
+[OA default]
+	{
+	uk=Стандарт OA;
+	}
+
+[Use {name}]
+	{
+	uk=Використати {name};
+	}
+
+[You play with {name} now. Uninstall it and go back to OA default? Your own changes stay saved.]
+	{
+	uk=Зараз ти граєш із {name}. Видалити й повернутися до типового OA? Власні зміни лишаються збереженими.;
+	}
+
+[Your Keys folder has no free folder name for it.]
+	{
+	uk=У папці Keys немає вільної назви папки для цього.;
+	}
+
+// Named keys.
+
+[Again]
+	{
+	uk=Повторити;
+	}
+
+[Arrow down]
+	{
+	uk=Стрілка вниз;
+	}
+
+[Arrow left]
+	{
+	uk=Стрілка вліво;
+	}
+
+[Arrow right]
+	{
+	uk=Стрілка вправо;
+	}
+
+[Arrow up]
+	{
+	uk=Стрілка вгору;
+	}
+
+[Audio volume down]
+	{
+	uk=Тихіше;
+	}
+
+[Audio volume mute]
+	{
+	uk=Без звуку;
+	}
+
+[Audio volume up]
+	{
+	uk=Голосніше;
+	}
+
+[Back button]
+	{
+	uk=Кнопка назад;
+	}
+
+[Backquote]
+	{
+	uk=Гравіс;
+	}
+
+[Backslash]
+	{
+	uk=Зворотна риска;
+	}
+
+[Backspace]
+	{
+	uk=Backspace;
+	}
+
+[Bracket left]
+	{
+	uk=Квадратна ліва;
+	}
+
+[Bracket right]
+	{
+	uk=Квадратна права;
+	}
+
+[Browser back]
+	{
+	uk=Браузер назад;
+	}
+
+[Browser favorites]
+	{
+	uk=Браузер обране;
+	}
+
+[Browser forward]
+	{
+	uk=Браузер вперед;
+	}
+
+[Browser home]
+	{
+	uk=Браузер домашня;
+	}
+
+[Browser refresh]
+	{
+	uk=Браузер оновити;
+	}
+
+[Browser search]
+	{
+	uk=Браузер пошук;
+	}
+
+[Browser stop]
+	{
+	uk=Браузер стоп;
+	}
+
+[Button]
+	{
+	uk=Кнопка миші;
+	}
+
+[Comma]
+	{
+	uk=Кома;
+	}
+
+[Context menu]
+	{
+	uk=Контекстне меню;
+	}
+
+[Convert]
+	{
+	uk=Перетворити;
+	}
+
+[Cut]
+	{
+	uk=Вирізати;
+	}
+
+[Delete]
+	{
+	uk=Delete;
+	}
+
+[Digit]
+	{
+	uk=Цифра;
+	}
+
+[Eject]
+	{
+	uk=Вийняти;
+	}
+
+[End]
+	{
+	uk=End;
+	}
+
+[Equal]
+	{
+	uk=Дорівнює;
+	}
+
+[Escape]
+	{
+	uk=Escape;
+	}
+
+[Forward button]
+	{
+	uk=Кнопка вперед;
+	}
+
+[Help]
+	{
+	uk=Довідка;
+	}
+
+[Home key]
+	{
+	uk=Клавіша Home;
+	}
+
+[Insert]
+	{
+	uk=Вставка;
+	}
+
+[Intl backslash]
+	{
+	uk=Клавіша <;
+	}
+
+[Intl ro]
+	{
+	uk=Ro;
+	}
+
+[Intl yen]
+	{
+	uk=Єна;
+	}
+
+[Kana mode]
+	{
+	uk=Режим кана;
+	}
+
+[Left button]
+	{
+	uk=Ліва кнопка;
+	}
+
+[Media play pause]
+	{
+	uk=Відтворення/пауза;
+	}
+
+[Media select]
+	{
+	uk=Вибір медіа;
+	}
+
+[Media stop]
+	{
+	uk=Стоп медіа;
+	}
+
+[Media track next]
+	{
+	uk=Наступна доріжка;
+	}
+
+[Media track previous]
+	{
+	uk=Попередня доріжка;
+	}
+
+[Middle button]
+	{
+	uk=Середня кнопка;
+	}
+
+[Non convert]
+	{
+	uk=Не перетворювати;
+	}
+
+[Numpad]
+	{
+	uk=Цифровий блок;
+	}
+
+[Numpad add]
+	{
+	uk=Цифровий блок плюс;
+	}
+
+[Numpad backspace]
+	{
+	uk=Цифровий блок Backspace;
+	}
+
+[Numpad clear]
+	{
+	uk=Цифровий блок очистити;
+	}
+
+[Numpad clear entry]
+	{
+	uk=Цифровий блок очистити введення;
+	}
+
+[Numpad comma]
+	{
+	uk=Цифровий блок кома;
+	}
+
+[Numpad decimal]
+	{
+	uk=Цифровий блок десяткова;
+	}
+
+[Numpad divide]
+	{
+	uk=Цифровий блок ділення;
+	}
+
+[Numpad enter]
+	{
+	uk=Цифровий блок Enter;
+	}
+
+[Numpad equal]
+	{
+	uk=Цифровий блок дорівнює;
+	}
+
+[Numpad hash]
+	{
+	uk=Цифровий блок решітка;
+	}
+
+[Numpad memory add]
+	{
+	uk=Цифровий блок памʼять плюс;
+	}
+
+[Numpad memory clear]
+	{
+	uk=Цифровий блок памʼять очистити;
+	}
+
+[Numpad memory recall]
+	{
+	uk=Цифровий блок памʼять виклик;
+	}
+
+[Numpad memory store]
+	{
+	uk=Цифровий блок памʼять зберегти;
+	}
+
+[Numpad memory subtract]
+	{
+	uk=Цифровий блок памʼять мінус;
+	}
+
+[Numpad multiply]
+	{
+	uk=Цифровий блок множення;
+	}
+
+[Numpad paren left]
+	{
+	uk=Цифровий блок дужка ліва;
+	}
+
+[Numpad paren right]
+	{
+	uk=Цифровий блок дужка права;
+	}
+
+[Numpad subtract]
+	{
+	uk=Цифровий блок мінус;
+	}
+
+[Pad]
+	{
+	uk=Пад;
+	}
+
+[Period]
+	{
+	uk=Крапка;
+	}
+
+[Power]
+	{
+	uk=Живлення;
+	}
+
+[Print screen]
+	{
+	uk=Друк екрана;
+	}
+
+[Quote]
+	{
+	uk=Апостроф;
+	}
+
+[Right button]
+	{
+	uk=Права кнопка;
+	}
+
+[Semicolon]
+	{
+	uk=Крапка з комою;
+	}
+
+[Slash]
+	{
+	uk=Скісна;
+	}
+
+[Sleep]
+	{
+	uk=Сон;
+	}
+
+[Wake up]
+	{
+	uk=Пробудження;
+	}
+
+[Wheel down]
+	{
+	uk=Коліщатко вниз;
+	}
+
+[Wheel left]
+	{
+	uk=Коліщатко вліво;
+	}
+
+[Wheel right]
+	{
+	uk=Коліщатко вправо;
+	}
+
+[Wheel up]
+	{
+	uk=Коліщатко вгору;
+	}
+
+[Win]
+	{
+	uk=Win;
+	}
+
+[double]
+	{
+	uk=подвійне;
+	}
+
+[hold]
+	{
+	uk=утримувати;
+	}
+
+// Weapon and side limits.
+
+[*** The launch gives a computer player side {side}, which computer players cannot take in this game.]
+	{
+	uk=*** Запуск дає компʼютерному гравцю сторону {side}, яку компʼютерні гравці не можуть взяти в цій грі.;
+	}
+
+[*** The launch names side {side}, which this game does not have.]
+	{
+	uk=*** Запуск називає сторону {side}, якої в цій грі немає.;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than 256 weapon types.]
+	{
+	uk=*** {player} грає в Total Annihilation 3.1c, який не може грати мод, де типів зброї більше за 256.;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than five sides.]
+	{
+	uk=*** {player} грає в Total Annihilation 3.1c, який не може грати мод, де сторін більше за пʼять.;
+	}
+
+[This recording needs a mod with {n} weapon types and {m} sides.]
+	{
+	uk=Цьому запису потрібен мод, де види зброї: {n}, а сторони: {m}.;
+	}
+
+[This recording was made with 256 weapon types and five sides. The mod you are playing has more.]
+	{
+	uk=Цей запис зроблено з 256 видами зброї й пʼятьма сторонами. У моді, яким ти граєш, їх більше.;
+	}
+
+[Weapon types]
+	{
+	uk=Види зброї;
+	}
+
+// Updates.
+
+[Back on {version}]
+	{
+	uk=Знову на {version};
+	}
+
+[Check for updates]
+	{
+	uk=Шукати оновлення;
+	}
+
+[Checking for updates…]
+	{
+	uk=Пошук оновлень…;
+	}
+
+[Checking the download]
+	{
+	uk=Перевірка завантаження;
+	}
+
+[Could not put {version} back: {detail}]
+	{
+	uk=Не вдалося повернути {version}: {detail};
+	}
+
+[Download automatically]
+	{
+	uk=Завантажувати автоматично;
+	}
+
+[Download paused]
+	{
+	uk=Завантаження на паузі;
+	}
+
+[Download update]
+	{
+	uk=Завантажити оновлення;
+	}
+
+[Downloaded and checked · {size}]
+	{
+	uk=Завантажено і перевірено · {size};
+	}
+
+[Downloading {version}]
+	{
+	uk=Завантаження {version};
+	}
+
+[Downloading {version} · {done} of {size}]
+	{
+	uk=Завантаження {version} · {done} з {size};
+	}
+
+[Downloads pause during a match and carry on after it.]
+	{
+	uk=Завантаження стають на паузу під час партії і продовжуються після неї.;
+	}
+
+[Finishing the update to {version}]
+	{
+	uk=Завершення оновлення до {version};
+	}
+
+[Go back to {version}?]
+	{
+	uk=Повернутися до {version}?;
+	}
+
+[Going back to {version}]
+	{
+	uk=Повернення до {version};
+	}
+
+[Install updates]
+	{
+	uk=Встановити оновлення;
+	}
+
+[Install {version} again from its page, over the copy you have.]
+	{
+	uk=Встанови {version} ще раз з її сторінки поверх своєї копії.;
+	}
+
+[Installed {version}]
+	{
+	uk=Встановлено {version};
+	}
+
+[Installer will put {version} in Applications. Start it from there when it finishes.]
+	{
+	uk=Інсталятор покладе {version} у Програми. Запусти її звідти, коли він завершить.;
+	}
+
+[Installing {version}]
+	{
+	uk=Встановлення {version};
+	}
+
+[It installs as you quit. Change it any time in Settings › Updates.]
+	{
+	uk=Встановлюється, коли ти виходиш. Змінюй це будь-коли в Налаштування › Оновлення.;
+	}
+
+[It updates as it next starts.]
+	{
+	uk=Оновлюється під час наступного запуску.;
+	}
+
+[Its signature was refused. Nothing was downloaded or changed.]
+	{
+	uk=Підпис відхилено. Нічого не завантажено і не змінено.;
+	}
+
+[New in {version}:]
+	{
+	uk=Нове в {version}:;
+	}
+
+[Not in this version]
+	{
+	uk=Немає в цій версії;
+	}
+
+[Not in this version: 1]
+	{
+	uk=Немає в цій версії: 1;
+	}
+
+[Not in this version: {count}]
+	{
+	uk=Немає в цій версії: {count};
+	}
+
+[Not installed. {version} is unchanged.]
+	{
+	uk=Не встановлено. {version} без змін.;
+	}
+
+[OA restarts on {version}, with the settings it had. {current} won't be offered again until you choose it.]
+	{
+	uk=OA перезапускається на {version} з тими налаштуваннями, що були. {current} більше не пропонуватиметься, доки ти не обереш цю версію.;
+	}
+
+[Off: OA asks before downloading.]
+	{
+	uk=Вимк.: OA питає перед завантаженням.;
+	}
+
+[Open Annihilation {version}]
+	{
+	uk=Open Annihilation {version};
+	}
+
+[Open Annihilation {version} is out]
+	{
+	uk=Open Annihilation {version} вийшла;
+	}
+
+[Open Annihilation {version} is ready]
+	{
+	uk=Open Annihilation {version} готова;
+	}
+
+[Open your software centre to update it.]
+	{
+	uk=Відкрий центр програм, щоб оновити.;
+	}
+
+[Previous version · {version}]
+	{
+	uk=Попередня версія · {version};
+	}
+
+[Put {version} back]
+	{
+	uk={version} повернуто;
+	}
+
+[Restart Windows to finish installing {version}.]
+	{
+	uk=Перезапусти Windows, щоб завершити встановлення {version}.;
+	}
+
+[Restart to update]
+	{
+	uk=Перезапустити для оновлення;
+	}
+
+[Roll back and restart]
+	{
+	uk=Відкотити й перезапустити;
+	}
+
+[Roll back restores {version} and the settings you had before updating.]
+	{
+	uk=Відкат повертає {version} і налаштування, які були до оновлення.;
+	}
+
+[Roll back to {version}?]
+	{
+	uk=Відкотити до {version}?;
+	}
+
+[Roll back…]
+	{
+	uk=Відкотити…;
+	}
+
+[Skip this version]
+	{
+	uk=Пропустити цю версію;
+	}
+
+[Started {version}]
+	{
+	uk=Запущено {version};
+	}
+
+[The download stopped]
+	{
+	uk=Завантаження зупинилося;
+	}
+
+[The download stopped: {reason}]
+	{
+	uk=Завантаження зупинилося: {reason};
+	}
+
+[The download was not the file the signed list names, so it was deleted.]
+	{
+	uk=Завантаження не є тим файлом, який названо в підписаному списку, тож його видалено.;
+	}
+
+[The game closes, puts {version} back and starts again. {current} is not offered again until a newer release.]
+	{
+	uk=Гра закривається, повертає {version} і запускається знову. {current} більше не пропонується, доки не вийде новіший випуск.;
+	}
+
+[The roll back failed. Nothing was changed.]
+	{
+	uk=Відкат не вдався. Нічого не змінено.;
+	}
+
+[The roll back failed. The game could not be put back.]
+	{
+	uk=Відкат не вдався. Гру не вдалося повернути.;
+	}
+
+[The update could not be verified.]
+	{
+	uk=Оновлення не вдалося перевірити.;
+	}
+
+[The update failed. {version} was put back.]
+	{
+	uk=Оновлення не вдалося. {version} повернуто.;
+	}
+
+[The update was cancelled.]
+	{
+	uk=Оновлення скасовано.;
+	}
+
+[This copy came from {name}, which updates it.]
+	{
+	uk=Цю копію надає й оновлює {name}.;
+	}
+
+[This version cannot use:]
+	{
+	uk=Ця версія не може використати:;
+	}
+
+[Try this version]
+	{
+	uk=Спробувати цю версію;
+	}
+
+[Updated by {name}]
+	{
+	uk=Оновлення від {name};
+	}
+
+[Updated from {from}]
+	{
+	uk=Оновлено з {from};
+	}
+
+[Updated to {version}]
+	{
+	uk=Оновлено до {version};
+	}
+
+[Update…]
+	{
+	uk=Оновити…;
+	}
+
+[You have {current}. The update is {size}.]
+	{
+	uk=У тебе {current}. Оновлення — {size}.;
+	}
+
+[Your settings from before you updated]
+	{
+	uk=Твої налаштування до оновлення;
+	}
+
+[by {author} · {version}]
+	{
+	uk=від {author} · {version};
+	}
+
+[macOS runs this copy from a protected place, so it can't update itself. Drag Open Annihilation to Applications and start it from there.]
+	{
+	uk=macOS запускає цю копію із захищеного місця, тож вона не може оновитися сама. Перетягни Open Annihilation до папки Програми й запусти її звідти.;
+	}
+
+[{action} is kept in your layout for a version that has it.]
+	{
+	uk={action} лишається у твоїй розкладці клавіш для версії, яка це має.;
+	}
+
+[{new} won't be offered again until a newer release, or choose it in Settings › Updates.]
+	{
+	uk={new} більше не пропонуватиметься, доки не вийде новіший випуск. Або обери його в Налаштування › Оновлення.;
+	}
+
+[{version} closed twice before it reached the main menu, so OA went back to {old}, with the settings you had.]
+	{
+	uk={version} двічі закрито, так і не дійшовши до головного меню, тож OA повернулося до {old} із налаштуваннями, які були.;
+	}
+
+[{version} closed twice before the main menu]
+	{
+	uk={version} двічі закрито до головного меню;
+	}
+
+[{version} downloading]
+	{
+	uk={version} завантажується;
+	}
+
+[{version} installs the next time you start Open Annihilation.]
+	{
+	uk={version} встановиться під час наступного запуску Open Annihilation.;
+	}
+
+[{version} installs when you quit]
+	{
+	uk={version} встановиться, коли виходиш;
+	}
+
+[{version} is kept, in case you want it back. The game starts again by itself.]
+	{
+	uk={version} збережено, якщо захочеш повернути. Гра запускається знову сама.;
+	}
+
+[{version} is kept. Roll back from Settings › Updates.]
+	{
+	uk={version} збережено. Відкотити можна в Налаштування › Оновлення.;
+	}
+
+[{version} is kept. To go back to it, press Roll back… in Settings › Updates.]
+	{
+	uk={version} збережено. Щоб повернутися, натисни «Відкотити…» в Налаштування › Оновлення.;
+	}
+
+[{version} is not offered again until a newer release.]
+	{
+	uk={version} більше не пропонується, доки не вийде новіший випуск.;
+	}
+
+[{version} is out]
+	{
+	uk={version} вийшла;
+	}
+
+[{version} is out · Stable · checked {when}]
+	{
+	uk={version} вийшла · Стабільна · перевірено {when};
+	}
+
+[{version} is ready]
+	{
+	uk={version} готова;
+	}
+
+[{version} is ready · {size} downloaded]
+	{
+	uk={version} готова · завантажено {size};
+	}
+
+[{version} is skipped]
+	{
+	uk={version} пропущено;
+	}
+
+[{version} reached the main menu]
+	{
+	uk={version} дійшла до головного меню;
+	}
+
+[{version} ready]
+	{
+	uk={version} готова;
+	}
+
+[{version} waits until you choose to try again.]
+	{
+	uk={version} чекає, доки ти не вирішиш спробувати знову.;
+	}
+
+[{version} won't be offered again. The next release will be, or choose {version} in Settings › Updates to try it again.]
+	{
+	uk={version} більше не пропонуватиметься. Наступний випуск пропонуватиметься. Або обери {version} у Налаштування › Оновлення, щоб спробувати ще раз.;
+	}
+
+[{version} · checking]
+	{
+	uk={version} · перевірка;
+	}
+
+[{version} · paused]
+	{
+	uk={version} · на паузі;
+	}
+
+[{version} · {percent}%]
+	{
+	uk={version} · {percent}%;
+	}
+
+// The Library.
+
+[1 mutator on]
+	{
+	uk=1 мутатор увімкнено;
+	}
+
+[Mutators: off]
+	{
+	uk=Мутатори: вимкнено;
+	}
+
+[Mutators: {count} on]
+	{
+	uk=Мутатори: увімкнено {count};
+	}
+
+[No mutators on]
+	{
+	uk=Жодного мутатора не увімкнено;
+	}
+
+[The size Settings, the Library and the other OA windows take. Auto takes the largest that fits.]
+	{
+	uk=Якого розміру вікна Налаштувань, Бібліотеки та інших вікон OA. «Авто» бере найбільший, що вміщується.;
+	}
+
+[{count} mutators on]
+	{
+	uk=мутатори увімк.: {count};
+	}
+
+[{name} is installed. Choose Use in the Library's Keys tab to play with it.]
+	{
+	uk={name} встановлено. Обери «Використати» на вкладці «Клавіші» Бібліотеки, щоб грати з цим.;
+	}
+
+// The rest of the interface.
+
+[*** {player} needs a newer Open Annihilation for this mod.]
+	{
+	uk=*** {player} потребує новішого Open Annihilation для цього моду.;
+	}
+
+[+{n}]
+	{
+	uk=+{n};
+	}
+
+[1 change of your own]
+	{
+	uk=1 власна зміна;
+	}
+
+[1 command]
+	{
+	uk=1 дія;
+	}
+
+[1 key, 1 helper]
+	{
+	uk=1 клавіша, 1 помічник;
+	}
+
+[1 key, {helpers} helpers]
+	{
+	uk=1 клавіша, помічників: {helpers};
+	}
+
+[1 setting changed]
+	{
+	uk=Змінено 1 параметр;
+	}
+
+[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and Roll back brings it back.]
+	{
+	uk=1 оновлення змінює правила гри: {names}. Збереження з поточної версії не завантажаться в новій. Поточна версія залишиться, а ВІДКОТИТИ поверне її.;
+	}
+
+[A hold]
+	{
+	uk=Утримання;
+	}
+
+[A key counts only after it is held this long. For a hand that brushes keys.]
+	{
+	uk=Клавіша зараховується, лише коли ти утримуєш її стільки часу. Для руки, яка черкає клавіші.;
+	}
+
+[A mod's Ctrl+F2 keys]
+	{
+	uk=Клавіші Ctrl+F2 цього моду;
+	}
+
+[A press]
+	{
+	uk=Одне натискання;
+	}
+
+[A release]
+	{
+	uk=Одне відпускання;
+	}
+
+[A seat]
+	{
+	uk=Одне місце;
+	}
+
+[A second press of the same key this soon is ignored.]
+	{
+	uk=Друге натискання тієї самої клавіші так скоро ігнорується.;
+	}
+
+[A selection]
+	{
+	uk=Одне виділення;
+	}
+
+[A tapped Shift, Ctrl or Alt holds for the next key or click. Tap twice to lock it.]
+	{
+	uk=Коротко натиснуті Shift, Ctrl або Alt тримаються до наступної клавіші чи кліку. Торкнися двічі, щоб закріпити.;
+	}
+
+[ANSI]
+	{
+	uk=ANSI;
+	}
+
+[ANSI keyboards]
+	{
+	uk=Клавіатури ANSI;
+	}
+
+[Add mirror…]
+	{
+	uk=ДОДАТИ ДЗЕРКАЛО…;
+	}
+
+[Add registry…]
+	{
+	uk=ДОДАТИ РЕЄСТР…;
+	}
+
+[Allow full 3D mode]
+	{
+	uk=Дозволити повний 3D-режим;
+	}
+
+[Alt]
+	{
+	uk=Alt;
+	}
+
+[Applied in this order.]
+	{
+	uk=Застосовано в такому порядку.;
+	}
+
+[Applies to every game.]
+	{
+	uk=Діє для кожної партії.;
+	}
+
+[Applies with {mod} only.]
+	{
+	uk=Діє лише з {mod}.;
+	}
+
+[Apply 1 change]
+	{
+	uk=Застосувати 1 зміну;
+	}
+
+[Apply {n} changes]
+	{
+	uk=Застосувати зміни: {n};
+	}
+
+[Armed]
+	{
+	uk=Озброєні;
+	}
+
+[Ask each time]
+	{
+	uk=Питати щоразу;
+	}
+
+[Ask each time, or install when I quit.]
+	{
+	uk=Питати щоразу або встановити, коли я виходжу.;
+	}
+
+[Asks for]
+	{
+	uk=Вимагає;
+	}
+
+[Attack]
+	{
+	uk=АТАКА;
+	}
+
+[Bars]
+	{
+	uk=Смуги;
+	}
+
+[Box: armed]
+	{
+	uk=Рамка: озбр.;
+	}
+
+[Box: bld]
+	{
+	uk=Рамка: буд.;
+	}
+
+[Box: fact.]
+	{
+	uk=Рамка: зав.;
+	}
+
+[Build]
+	{
+	uk=БУДУВАННЯ;
+	}
+
+[Building]
+	{
+	uk=Будування;
+	}
+
+[Button 6]
+	{
+	uk=Кнопка 6;
+	}
+
+[Button 7]
+	{
+	uk=Кнопка 7;
+	}
+
+[Button 8]
+	{
+	uk=Кнопка 8;
+	}
+
+[C]
+	{
+	uk=C;
+	}
+
+[Camera]
+	{
+	uk=Камера;
+	}
+
+[Cat.]
+	{
+	uk=Кат.;
+	}
+
+[Centre]
+	{
+	uk=ЦЕНТРУВАТИ;
+	}
+
+[Change]
+	{
+	uk=Змінити;
+	}
+
+[Change layout…]
+	{
+	uk=Змінити розкладку клавіш…;
+	}
+
+[Changed]
+	{
+	uk=Змінено;
+	}
+
+[Change…]
+	{
+	uk=ЗМІНИТИ…;
+	}
+
+[Chat]
+	{
+	uk=ЧАТ;
+	}
+
+[Chat Line]
+	{
+	uk=Рядок чату;
+	}
+
+[Chat line]
+	{
+	uk=Рядок чату;
+	}
+
+[Check now]
+	{
+	uk=Перевірити зараз;
+	}
+
+[Check with this mod]
+	{
+	uk=ПЕРЕВІРИТИ З ЦИМ МОДОМ;
+	}
+
+[Checked the package against the signed list]
+	{
+	uk=Пакет звірено з підписаним списком;
+	}
+
+[Choose Play now to play it, or choose it later with Play now in the Library.]
+	{
+	uk=Натисни ГРАТИ ЗАРАЗ, щоб почати гру, або обери його пізніше кнопкою ГРАТИ ЗАРАЗ у Бібліотеці.;
+	}
+
+[Choose another file…]
+	{
+	uk=Обрати інший файл…;
+	}
+
+[Choose it with Play now in the Library to play it.]
+	{
+	uk=Щоб грати, обери його кнопкою ГРАТИ ЗАРАЗ у Бібліотеці.;
+	}
+
+[Choose what happens…]
+	{
+	uk=Обрати, що станеться…;
+	}
+
+[Choose…]
+	{
+	uk=Обрати…;
+	}
+
+[Chosen file: {file}]
+	{
+	uk=Обраний файл: {file};
+	}
+
+[Clear]
+	{
+	uk=СКИНУТИ;
+	}
+
+[Click a button on the picture, or a role in the table, to change it. Buttons 6 to 8 of a gaming mouse appear here when the game sees them pressed.]
+	{
+	uk=Торкнися кнопки на зображенні або ролі в таблиці, щоб змінити її. Кнопки з 6 до 8 ігрової миші зʼявляються тут, коли гра бачить, що їх натиснуто.;
+	}
+
+[Click to change.]
+	{
+	uk=Торкнися, щоб змінити.;
+	}
+
+[Click to read.]
+	{
+	uk=Торкнися, щоб прочитати.;
+	}
+
+[Clicks give orders with]
+	{
+	uk=Кліки віддають накази з;
+	}
+
+[Cloak]
+	{
+	uk=МАСКУВАННЯ;
+	}
+
+[Close the game]
+	{
+	uk=Закрити гру;
+	}
+
+[Close the line]
+	{
+	uk=Закрити рядок;
+	}
+
+[Cmd]
+	{
+	uk=Cmd;
+	}
+
+[Cmdr]
+	{
+	uk=Кмдр;
+	}
+
+[Comes back]
+	{
+	uk=Повертається;
+	}
+
+[Commands]
+	{
+	uk=Дії;
+	}
+
+[Common commands]
+	{
+	uk=Звичайні дії;
+	}
+
+[Compact]
+	{
+	uk=Компактний;
+	}
+
+[Computer player for this seat]
+	{
+	uk=Компʼютерний гравець для цього місця;
+	}
+
+[Computer player in the missions]
+	{
+	uk=Компʼютерний гравець у місіях;
+	}
+
+[Copy]
+	{
+	uk=КОПІЮВАТИ;
+	}
+
+[Could not check]
+	{
+	uk=Не вдалося перевірити;
+	}
+
+[Could not check · checked {when}]
+	{
+	uk=Не вдалося перевірити · перевірено {when};
+	}
+
+[Could not connect. Try again later.]
+	{
+	uk=Немає зʼєднання. Спробуй ще раз пізніше.;
+	}
+
+[Could not put every file back: {detail}]
+	{
+	uk=Не вдалося повернути кожен файл: {detail};
+	}
+
+[Could not put the new files in place: {detail}]
+	{
+	uk=Не вдалося розмістити нові файли: {detail};
+	}
+
+[Could not start the game: {detail}]
+	{
+	uk=Не вдалося запустити гру: {detail};
+	}
+
+[Ctrl]
+	{
+	uk=Ctrl;
+	}
+
+[D]
+	{
+	uk=D;
+	}
+
+[D-gun]
+	{
+	uk=D-ГАРМАТА;
+	}
+
+[Destruct]
+	{
+	uk=Самознищення;
+	}
+
+[Details]
+	{
+	uk=ПОДРОБИЦІ;
+	}
+
+[Details…]
+	{
+	uk=ПОДРОБИЦІ…;
+	}
+
+[Developer mode]
+	{
+	uk=Режим розробника;
+	}
+
+[Discard]
+	{
+	uk=ВІДКИНУТИ;
+	}
+
+[Don't install when I quit]
+	{
+	uk=Не встановлювати, коли я виходжу;
+	}
+
+[Done]
+	{
+	uk=ГОТОВО;
+	}
+
+[Duplicate…]
+	{
+	uk=Дублювати…;
+	}
+
+[Empty]
+	{
+	uk=ОЧИСТИТИ;
+	}
+
+[Enter]
+	{
+	uk=Enter;
+	}
+
+[Escape cancels · hold Escape to bind Escape]
+	{
+	uk=Escape скасовує · утримуй Escape, щоб призначити Escape;
+	}
+
+[Escape closes · hold Escape to look it up]
+	{
+	uk=Escape закриває · утримуй Escape, щоб знайти Escape;
+	}
+
+[Every game]
+	{
+	uk=Кожна партія;
+	}
+
+[Every window is back in the middle.]
+	{
+	uk=Усі вікна знову посередині.;
+	}
+
+[Everywhere]
+	{
+	uk=Скрізь;
+	}
+
+[Faster]
+	{
+	uk=ШВИДШЕ;
+	}
+
+[Find by key]
+	{
+	uk=Шукати за клавішею;
+	}
+
+[Find on keyboard]
+	{
+	uk=Шукати на клавіатурі;
+	}
+
+[Fire]
+	{
+	uk=Вогонь;
+	}
+
+[Follow]
+	{
+	uk=СТЕЖИТИ;
+	}
+
+[Follow back]
+	{
+	uk=Стежити назад;
+	}
+
+[Force]
+	{
+	uk=ПРИМУС;
+	}
+
+[Forget it]
+	{
+	uk=ЗАБУТИ;
+	}
+
+[Forward]
+	{
+	uk=Вперед;
+	}
+
+[Found 1 key · 1 differs from {layout}]
+	{
+	uk=Знайдено 1 клавішу · 1 відрізняється від {layout};
+	}
+
+[Found 1 key · {m} differ from {layout}]
+	{
+	uk=Знайдено 1 клавішу · від {layout} розбіжностей: {m};
+	}
+
+[Found {n} keys · 1 differs from {layout}]
+	{
+	uk=Знайдено клавіш: {n} · 1 відрізняється від {layout};
+	}
+
+[Found {n} keys · {m} differ from {layout}]
+	{
+	uk=Знайдено клавіш: {n} · від {layout} розбіжностей: {m};
+	}
+
+[From your system]
+	{
+	uk=З твоєї системи;
+	}
+
+[From {layout}]
+	{
+	uk=З {layout};
+	}
+
+[G]
+	{
+	uk=G;
+	}
+
+[Game and window]
+	{
+	uk=Гра і вікно;
+	}
+
+[Game menu]
+	{
+	uk=МЕНЮ ГРИ;
+	}
+
+[Get all]
+	{
+	uk=ОТРИМАТИ ВСІ;
+	}
+
+[Get both]
+	{
+	uk=ОТРИМАТИ ЇХ;
+	}
+
+[Get installs it again.]
+	{
+	uk=Кнопка ОТРИМАТИ встановить його знову.;
+	}
+
+[Get more brains...]
+	{
+	uk=Отримати більше мізків...;
+	}
+
+[Get with {count} more]
+	{
+	uk=ОТРИМАТИ Й ЩЕ {count};
+	}
+
+[Get with {name}]
+	{
+	uk=ОТРИМАТИ З {name};
+	}
+
+[Get · {size}]
+	{
+	uk=Отримати · {size};
+	}
+
+[Grid]
+	{
+	uk=Сітка;
+	}
+
+[Group]
+	{
+	uk=Група;
+	}
+
+[Groups]
+	{
+	uk=Групи;
+	}
+
+[Guard]
+	{
+	uk=ОХОРОНА;
+	}
+
+[Hacks on]
+	{
+	uk=Хаки увімкнено;
+	}
+
+[Held to the end: the order goes.]
+	{
+	uk=Утримано до кінця: наказ віддається.;
+	}
+
+[Helpers act in every game, not only with {mod}.]
+	{
+	uk=Помічники діють у кожній партії, не лише з {mod}.;
+	}
+
+[Helpers act in every game.]
+	{
+	uk=Помічники діють у кожній партії.;
+	}
+
+[Here and {name} both use it {context}.]
+	{
+	uk=І тут, і {name}: {context}.;
+	}
+
+[Hold]
+	{
+	uk=Утримувати;
+	}
+
+[Hold a key until it counts.]
+	{
+	uk=Утримуй клавішу, доки вона не зарахується.;
+	}
+
+[Hold keys that latch]
+	{
+	uk=Клавіші, що закріплюються;
+	}
+
+[Hold middle]
+	{
+	uk=Середню;
+	}
+
+[Hold right]
+	{
+	uk=Праву;
+	}
+
+[Hold the modifiers you want, then press a key or a mouse button, or turn the wheel.]
+	{
+	uk=Утримуй потрібні модифікатори, потім натисни клавішу чи кнопку миші або покрути коліщатко.;
+	}
+
+[Holding]
+	{
+	uk=Утримано;
+	}
+
+[Homepage]
+	{
+	uk=САЙТ;
+	}
+
+[How far a press may move and still be a click.]
+	{
+	uk=Як далеко може зміститися натискання і все ще лишитися кліком.;
+	}
+
+[How it acts]
+	{
+	uk=Як діє;
+	}
+
+[ISO]
+	{
+	uk=ISO;
+	}
+
+[ISO keyboards]
+	{
+	uk=Клавіатури ISO;
+	}
+
+[Idle bld]
+	{
+	uk=Буд. вільні;
+	}
+
+[Idle fac]
+	{
+	uk=Зав. вільні;
+	}
+
+[In the chat line]
+	{
+	uk=У рядку чату;
+	}
+
+[In use for every game]
+	{
+	uk=Використовується в кожній партії;
+	}
+
+[In use with {mod}]
+	{
+	uk=Використовується з {mod};
+	}
+
+[Install]
+	{
+	uk=ВСТАНОВИТИ;
+	}
+
+[Install alongside]
+	{
+	uk=ВСТАНОВИТИ ПОРЯД;
+	}
+
+[Install and restart]
+	{
+	uk=Встановити і перезапустити;
+	}
+
+[Install when I quit]
+	{
+	uk=Встановити, коли я виходжу;
+	}
+
+[Install…]
+	{
+	uk=Встановити…;
+	}
+
+[It installs when you quit, or now if you restart. Restarting takes a few seconds and brings you back to the main menu.]
+	{
+	uk=Встановлюється, коли ти виходиш, або зараз, якщо перезапустиш. Перезапуск триває кілька секунд і повертає тебе в головне меню.;
+	}
+
+[It is in the download queue: Cancel it before you uninstall it.]
+	{
+	uk=Пакет стоїть у черзі завантаження: спершу натисни СКАСУВАТИ, а потім видаляй.;
+	}
+
+[It stopped before any file moved.]
+	{
+	uk=Зупинилося, перш ніж хоч один файл було переміщено.;
+	}
+
+[Its folder is a link, and OA never removes what a link leads to. Open folder shows it.]
+	{
+	uk=Папка є посиланням, а OA ніколи не видаляє те, на що веде посилання. Кнопка ПАПКА покаже її.;
+	}
+
+[JIS]
+	{
+	uk=JIS;
+	}
+
+[JIS keyboards]
+	{
+	uk=Клавіатури JIS;
+	}
+
+[KEYS]
+	{
+	uk=Клавіші;
+	}
+
+[Keep editing]
+	{
+	uk=Продовжити редагування;
+	}
+
+[Keep holding {chord}: the ring fills in {seconds} s. Let go to cancel.]
+	{
+	uk=Утримуй {chord} далі: кільце заповниться за {seconds} с. Відпусти, щоб скасувати.;
+	}
+
+[Keep it]
+	{
+	uk=ЗБЕРЕГТИ;
+	}
+
+[Keep it for {action}]
+	{
+	uk=Залишити для {action};
+	}
+
+[Keep it on top]
+	{
+	uk=Залишити зверху;
+	}
+
+[Keep it ready]
+	{
+	uk=Тримати напоготові;
+	}
+
+[Keep them]
+	{
+	uk=Залишити їх;
+	}
+
+[Keep them on top]
+	{
+	uk=Залишити їх зверху;
+	}
+
+[Keep your 1 change on top of {layout}?]
+	{
+	uk=Залишити твою 1 зміну поверх {layout}?;
+	}
+
+[Keep your {n} changes on top of {layout}?]
+	{
+	uk=Залишити твої зміни: {n} поверх {layout}?;
+	}
+
+[Keyboard]
+	{
+	uk=Клавіатура;
+	}
+
+[Keys pressed here never reach the game.]
+	{
+	uk=Клавіші, натиснуті тут, ніколи не доходять до гри.;
+	}
+
+[Keys while placing a building]
+	{
+	uk=Клавіші, поки ти розміщуєш будівлю;
+	}
+
+[Keys while playing]
+	{
+	uk=Клавіші, поки ти граєш;
+	}
+
+[Keys while watching]
+	{
+	uk=Клавіші, поки ти спостерігаєш;
+	}
+
+[Kills]
+	{
+	uk=Знищення;
+	}
+
+[Kind]
+	{
+	uk=Тип;
+	}
+
+[Known as]
+	{
+	uk=Відомий як;
+	}
+
+[Latch]
+	{
+	uk=Закріпити;
+	}
+
+[Latch {action}]
+	{
+	uk=Закріпити {action};
+	}
+
+[Latchable]
+	{
+	uk=Закріпити;
+	}
+
+[Later]
+	{
+	uk=Пізніше;
+	}
+
+[Layout]
+	{
+	uk=Розкладка клавіш;
+	}
+
+[Left and right {modifier} are one key in Open Annihilation]
+	{
+	uk=Лівий і правий {modifier} — це одна клавіша в Open Annihilation;
+	}
+
+[Left hand]
+	{
+	uk=Ліва рука;
+	}
+
+[Left-click]
+	{
+	uk=Клік лівою;
+	}
+
+[Legacy]
+	{
+	uk=Застарілий;
+	}
+
+[Let go before the end: nothing happens.]
+	{
+	uk=Відпущено до кінця: нічого не стається.;
+	}
+
+[Load]
+	{
+	uk=НАВАНТАЖИТИ;
+	}
+
+[Load with the built-in player]
+	{
+	uk=ЗАВАНТАЖИТИ;
+	}
+
+[Long press]
+	{
+	uk=Довге натискання;
+	}
+
+[Look]
+	{
+	uk=Вигляд;
+	}
+
+[Macro]
+	{
+	uk=Макрос;
+	}
+
+[Made for the {layout} interface; yours is {yours}.]
+	{
+	uk=Зроблено для інтерфейсу {layout}. Твій — {yours}.;
+	}
+
+[Manage…]
+	{
+	uk=КЕРУВАТИ…;
+	}
+
+[Marker]
+	{
+	uk=Позначка;
+	}
+
+[Match]
+	{
+	uk=Партія;
+	}
+
+[Mayhem, Twilight and older patches]
+	{
+	uk=Mayhem, Twilight і старіші патчі;
+	}
+
+[Menu buttons]
+	{
+	uk=Кнопки меню;
+	}
+
+[Menus]
+	{
+	uk=Меню;
+	}
+
+[Middle]
+	{
+	uk=Середня;
+	}
+
+[Modern]
+	{
+	uk=Сучасний;
+	}
+
+[Modifier]
+	{
+	uk=Модифікатор;
+	}
+
+[More]
+	{
+	uk=БІЛЬШЕ;
+	}
+
+[More in the Library…]
+	{
+	uk=БІЛЬШЕ В БІБЛІОТЕЦІ…;
+	}
+
+[More options]
+	{
+	uk=Більше параметрів;
+	}
+
+[Mouse]
+	{
+	uk=Миша;
+	}
+
+[Mouse button {button}]
+	{
+	uk=Кнопка миші {button};
+	}
+
+[Mouse first]
+	{
+	uk=Спершу миша;
+	}
+
+[Move]
+	{
+	uk=РУХ;
+	}
+
+[Move OA to Applications]
+	{
+	uk=Перемістити OA до Програм;
+	}
+
+[Move it to {action}]
+	{
+	uk=Перенести до {action};
+	}
+
+[Move to {action}]
+	{
+	uk=Перенести до {action};
+	}
+
+[Moves]
+	{
+	uk=Переміщення;
+	}
+
+[Multiplayer]
+	{
+	uk=Мережева гра;
+	}
+
+[Name]
+	{
+	uk=Назва;
+	}
+
+[Name this layout]
+	{
+	uk=Назвати цю розкладку клавіш;
+	}
+
+[Needs Allow full 3D mode]
 	{
 	uk=Потрібен повний 3D-режим;
 	}
+
+[New key for {action}]
+	{
+	uk=Нова клавіша для {action};
+	}
+
+[Next page]
+	{
+	uk=ДАЛІ;
+	}
+
+[Next pg]
+	{
+	uk=Стор. далі;
+	}
+
+[Next report]
+	{
+	uk=НАСТУПНИЙ ЗВІТ;
+	}
+
+[Next unit]
+	{
+	uk=НАСТУПНИЙ;
+	}
+
+[No command changes its key.]
+	{
+	uk=Жодна дія не змінює свою клавішу.;
+	}
+
+[No key]
+	{
+	uk=Немає клавіші;
+	}
+
+[No wheel zoom]
+	{
+	uk=Без масштабу коліщатком;
+	}
+
+[Not checked yet]
+	{
+	uk=ще не перевірено;
+	}
+
+[Not on this keyboard]
+	{
+	uk=Немає на цій клавіатурі;
+	}
+
+[Nothing changes until you apply it.]
+	{
+	uk=Нічого не зміниться, доки ти не застосуєш.;
+	}
+
+[Nothing is scheduled.]
+	{
+	uk=Нічого не заплановано.;
+	}
+
+[Number keys select groups]
+	{
+	uk=Цифрові клавіші обирають групи;
+	}
+
+[O]
+	{
+	uk=O;
+	}
+
+[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and Roll back brings it back.]
+	{
+	uk=OA не може визначити, чи змінює {to} правила гри. Якщо так, збереження зі старої версії ({from}) не завантажаться в новій. {From} залишиться, а ВІДКОТИТИ поверне цю версію.;
+	}
+
+[OA looks for a newer Open Annihilation once a day when it starts. It never installs one until you say so.]
+	{
+	uk=OA раз на день під час запуску шукає новіший Open Annihilation і нічого не встановлює, доки ти не скажеш.;
+	}
+
+[OA never checks]
+	{
+	uk=OA ніколи не перевіряє;
+	}
+
+[OA's screens in Barlow, a clear modern face.]
+	{
+	uk=Екрани OA у Barlow, чіткому сучасному шрифті.;
+	}
+
+[OA's screens in the game's own bitmap fonts.]
+	{
+	uk=Екрани OA растровими шрифтами самої гри.;
+	}
+
+[Off stops the view scrolling while the pointer rests at the window's edge.]
+	{
+	uk=Вимк. зупиняє прокрутку вигляду, поки вказівник стоїть біля краю вікна.;
+	}
+
+[On Open Annihilation's screens]
+	{
+	uk=На екранах Open Annihilation;
+	}
+
+[On a build button]
+	{
+	uk=На кнопці будування;
+	}
+
+[On the minimap]
+	{
+	uk=На мінімапі;
+	}
+
+[On/off]
+	{
+	uk=УВІМК./ВИМК.;
+	}
+
+[On:]
+	{
+	uk=Увімк.:;
+	}
+
+[One hand]
+	{
+	uk=Одна рука;
+	}
+
+[Only when I ask]
+	{
+	uk=Лише коли я прошу;
+	}
+
+[Only with {mod}]
+	{
+	uk=Лише з {mod};
+	}
+
+[Open Annihilation's screens]
+	{
+	uk=Екрани Open Annihilation;
+	}
+
+[Open mod folder]
+	{
+	uk=ВІДКРИТИ ПАПКУ МОДУ;
+	}
+
+[Open the installer]
+	{
+	uk=Відкрити інсталятор;
+	}
+
+[Open the log to see which files were left.]
+	{
+	uk=Відкрий журнал, щоб побачити, які файли лишилися.;
+	}
+
+[Open the page]
+	{
+	uk=Відкрити сторінку;
+	}
+
+[Open the release page]
+	{
+	uk=Відкрити сторінку випуску;
+	}
+
+[Open your software centre, or run:]
+	{
+	uk=Відкрий центр програм або виконай:;
+	}
+
+[Open {page} in a browser on another computer, or in Desktop Mode.]
+	{
+	uk=Відкрий {page} у браузері на іншому компʼютері або в режимі робочого столу.;
+	}
+
+[Open ›]
+	{
+	uk=Відкрити ›;
+	}
+
+[Options...]
+	{
+	uk=Параметри...;
+	}
+
+[Order buttons and build cells show their key in a corner.]
+	{
+	uk=Кнопки наказів і клітинки будування показують свою клавішу в куті.;
+	}
+
+[P]
+	{
+	uk=P;
+	}
+
+[Page]
+	{
+	uk=Сторінка;
+	}
+
+[Panels]
+	{
+	uk=Панелі;
+	}
+
+[Patrol]
+	{
+	uk=ПАТРУЛЬ;
+	}
+
+[Paused during a match]
+	{
+	uk=На паузі під час партії;
+	}
+
+[Paused during the game]
+	{
+	uk=На паузі під час гри;
+	}
+
+[Pin]
+	{
+	uk=Прикріпити;
+	}
+
+[Placing]
+	{
+	uk=Розміщення;
+	}
+
+[Placing a building]
+	{
+	uk=Розміщення будівлі;
+	}
+
+[Play now]
+	{
+	uk=ГРАТИ ЗАРАЗ;
+	}
+
+[Press a key or a mouse button to see what it does. Nothing is changed.]
+	{
+	uk=Натисни клавішу або кнопку миші, щоб побачити, що вона робить. Нічого не змінюється.;
+	}
+
+[Press a key twice, quickly.]
+	{
+	uk=Натисни клавішу двічі, швидко.;
+	}
+
+[Press a key, alone or with Shift, Ctrl or Alt.]
+	{
+	uk=Натисни клавішу саму або разом із Shift, Ctrl чи Alt.;
+	}
+
+[Press a key…]
+	{
+	uk=Натисни клавішу…;
+	}
+
+[Press {key} to rotate]
+	{
+	uk=Натисни {key}, щоб повернути;
+	}
+
+[Press {key}, or {wheel}, to rotate]
+	{
+	uk=Натисни {key} або {wheel}, щоб повернути;
+	}
+
+[Prev pg]
+	{
+	uk=Стор. назад;
+	}
+
+[Put every changed file back]
+	{
+	uk=Кожен змінений файл повернуто;
+	}
+
+[Put {to} in place, keeping {from}]
+	{
+	uk={to} покладено, {from} збережено;
+	}
+
+[Puts every window you moved back in the middle.]
+	{
+	uk=Повертає в центр кожне вікно, зсунуте тобою.;
+	}
+
+[Queue]
+	{
+	uk=ЧЕРГА;
+	}
+
+[RESTART NOW]
+	{
+	uk=ПЕРЕЗАПУСТИТИ ЗАРАЗ;
+	}
+
+[Ran the installer]
+	{
+	uk=Інсталятор виконано;
+	}
+
+[Reclaim]
+	{
+	uk=УТИЛІЗАЦІЯ;
+	}
+
+[Recovery could not finish.]
+	{
+	uk=Відновлення не вдалося завершити.;
+	}
+
+[Registries in the Library…]
+	{
+	uk=РЕЄСТРИ В БІБЛІОТЕЦІ…;
+	}
+
+[Regular]
+	{
+	uk=Звичайний;
+	}
+
+[Reinstall]
+	{
+	uk=ПЕРЕВСТАНОВИТИ;
+	}
+
+[Remove]
+	{
+	uk=ВИДАЛИТИ;
+	}
+
+[Rename…]
+	{
+	uk=Перейменувати…;
+	}
+
+[Replacing keeps {installed}, and Roll back in the Library brings it back.]
+	{
+	uk=Під час заміни {installed} зберігається, і кнопка ВІДКОТИТИ в Бібліотеці поверне попередню версію.;
+	}
+
+[Reset]
+	{
+	uk=СКИНУТИ;
+	}
+
+[Reset to {layout}]
+	{
+	uk=Скинути на {layout};
+	}
+
+[Reset window positions]
+	{
+	uk=Скинути позиції вікон;
+	}
+
+[Resource panel]
+	{
+	uk=Панель ресурсів;
+	}
+
+[Resources]
+	{
+	uk=Ресурси;
+	}
+
+[Restore defaults]
+	{
+	uk=ВІДНОВИТИ ТИПОВІ;
+	}
+
+[Restore profile values]
+	{
+	uk=ВІДНОВИТИ З ПРОФІЛЮ;
+	}
+
+[Resume]
+	{
+	uk=Продовжити;
+	}
+
+[Revision {installed} is kept, and Roll back in the Library brings it back.]
+	{
+	uk=Ревізія {installed} зберігається, і кнопка ВІДКОТИТИ в Бібліотеці поверне її.;
+	}
+
+[Right hand]
+	{
+	uk=Права рука;
+	}
+
+[Right-click]
+	{
+	uk=Правий клік;
+	}
+
+[Roll back]
+	{
+	uk=ВІДКОТИТИ;
+	}
+
+[Roll back {title} to {to}? {from} is kept in its place, and Roll back again brings it back.]
+	{
+	uk=Відкотити {title} до {to}? {from} буде збережено, і ще одне натискання ВІДКОТИТИ поверне цю версію.;
+	}
+
+[Same]
+	{
+	uk=Те саме;
+	}
+
+[Same as the game]
+	{
+	uk=Як у грі;
+	}
+
+[Same place on every keyboard]
+	{
+	uk=Та сама позиція на кожній клавіатурі;
+	}
+
+[Save]
+	{
+	uk=Зберегти;
+	}
+
+[Save changes]
+	{
+	uk=Зберегти зміни;
+	}
+
+[Save file…]
+	{
+	uk=Зберегти файл…;
+	}
+
+[Save your edit before closing?]
+	{
+	uk=Зберегти зміну перед закриттям?;
+	}
+
+[Save your {n} edits before closing?]
+	{
+	uk=Зберегти зміни: {n} перед закриттям?;
+	}
+
+[Saved games and replays]
+	{
+	uk=Збережені ігри й повтори;
+	}
+
+[Saved to {place}]
+	{
+	uk=Збережено: {place};
+	}
+
+[Saves]
+	{
+	uk=ЗБЕРЕЖЕННЯ;
+	}
+
+[Screenshots]
+	{
+	uk=ЗНІМКИ ЕКРАНА;
+	}
+
+[Search commands]
+	{
+	uk=Шукати дії;
+	}
+
+[Sel bld]
+	{
+	uk=Буд;
+	}
+
+[Sel fac]
+	{
+	uk=Зав;
+	}
+
+[Select a key to see everything on it.]
+	{
+	uk=Обери клавішу, щоб побачити усе, що на ній.;
+	}
+
+[Selection]
+	{
+	uk=Виділення;
+	}
+
+[Selection box]
+	{
+	uk=Рамка виділення;
+	}
+
+[Self-destruct]
+	{
+	uk=САМОЗНИЩЕННЯ;
+	}
+
+[Self-destruct, surrender and quitting need a long press. A ring fills as you hold.]
+	{
+	uk=Самознищення, здача й вихід потребують довгого натискання. Кільце заповнюється, поки утримуєш.;
+	}
+
+[Set]
+	{
+	uk=Задати;
+	}
+
+[Set by the mod. Every player in a game has the same.]
+	{
+	uk=Задано модом. Усі гравці однієї гри мають те саме.;
+	}
+
+[Set them aside]
+	{
+	uk=Відкласти;
+	}
+
+[Settings you changed after updating are replaced by the ones you had then.]
+	{
+	uk=Налаштування, змінені після оновлення, замінюються тими, що були тоді.;
+	}
+
+[Settings…]
+	{
+	uk=НАЛАШТУВАННЯ…;
+	}
+
+[Shift]
+	{
+	uk=Shift;
+	}
+
+[Shot]
+	{
+	uk=Знімок;
+	}
+
+[Show]
+	{
+	uk=ПОКАЗАТИ;
+	}
+
+[Show again]
+	{
+	uk=ПОКАЗАТИ ЗНОВУ;
+	}
+
+[Show as list]
+	{
+	uk=Показати списком;
+	}
+
+[Show details]
+	{
+	uk=Показати подробиці;
+	}
+
+[Show in Finder]
+	{
+	uk=Показати у Finder;
+	}
+
+[Show keyboard]
+	{
+	uk=Показати клавіатуру;
+	}
+
+[Show keys on buttons]
+	{
+	uk=Показувати клавіші на кнопках;
+	}
+
+[Show the log]
+	{
+	uk=Показати журнал;
+	}
+
+[Single player]
+	{
+	uk=Один гравець;
+	}
+
+[Slower]
+	{
+	uk=ПОВІЛЬНІШЕ;
+	}
+
+[Some files were left half-moved.]
+	{
+	uk=Деякі файли переміщено лише наполовину.;
+	}
+
+[Some files were left half-moved. Show details lists the steps that put the game right.]
+	{
+	uk=Деякі файли переміщено лише наполовину. «Показати подробиці» перелічує кроки, які виправляють гру.;
+	}
+
+[Space]
+	{
+	uk=Space;
+	}
+
+[Space +]
+	{
+	uk=Інтервал +;
+	}
+
+[Space -]
+	{
+	uk=Інтервал -;
+	}
+
+[Start Open Annihilation from Applications afterwards.]
+	{
+	uk=Потім запусти Open Annihilation з папки Програми.;
+	}
+
+[Start clean]
+	{
+	uk=Почати начисто;
+	}
+
+[Start without it]
+	{
+	uk=ГРАТИ БЕЗ НЬОГО;
+	}
+
+[Start without them]
+	{
+	uk=ГРАТИ БЕЗ НИХ;
+	}
+
+[Starts from]
+	{
+	uk=Починається з;
+	}
+
+[Status]
+	{
+	uk=Стан;
+	}
+
+[Stays as it is]
+	{
+	uk=Лишається як є;
+	}
+
+[Stop]
+	{
+	uk=СТОП;
+	}
+
+[Store]
+	{
+	uk=ЗАПАМʼЯТАТИ;
+	}
+
+[Swap them]
+	{
+	uk=Поміняти;
+	}
+
+[Switch]
+	{
+	uk=ЗМІНИТИ;
+	}
+
+[Switch off]
+	{
+	uk=ВИМКНУТИ;
+	}
+
+[T]
+	{
+	uk=T;
+	}
+
+[Tab]
+	{
+	uk=Tab;
+	}
+
+[Tags]
+	{
+	uk=ТЕГИ;
+	}
+
+[Tap Shift, then press A.]
+	{
+	uk=Торкнися Shift, потім натисни A.;
+	}
+
+[Tap to turn it on, tap again to turn it off.]
+	{
+	uk=Торкнися, щоб увімкнути, і ще раз, щоб вимкнути.;
+	}
+
+[The built-in player takes those seats from the units as they stand. Get the brain in the Library to load the game as it was saved.]
+	{
+	uk=Ці місця займе вбудований гравець, залишивши підрозділи як є. Щоб завантажити гру в збереженому вигляді, натисни ОТРИМАТИ біля цього мозку в Бібліотеці.;
+	}
+
+[The folder kept for Roll back ({backup}) is removed.]
+	{
+	uk=Збережену для відкату папку ({backup}) видалено.;
+	}
+
+[The folder kept for Roll back stays.]
+	{
+	uk=Папка, збережена для відкату, залишається.;
+	}
+
+[The folder kept for Roll back, which holds no mod that can be read, is removed.]
+	{
+	uk=Збережену для відкату папку видалено: у ній немає моду, який можна прочитати.;
+	}
+
+[The game closes, installs it and starts again.]
+	{
+	uk=Гра закривається, встановлює його й запускається знову.;
+	}
+
+[The game did not close: {detail}]
+	{
+	uk=Гра не закрилася: {detail};
+	}
+
+[The id {id} is kept for your own changes.]
+	{
+	uk=Ідентифікатор {id} лишається для власних змін.;
+	}
+
+[The installer did not finish: {detail}]
+	{
+	uk=Інсталятор не завершився: {detail};
+	}
+
+[The key in the {key} place]
+	{
+	uk=Клавіша на позиції {key};
+	}
+
+[The keys OA keeps for TA Zero, ESC or Twilight]
+	{
+	uk=Клавіші, які OA лишає для TA Zero, ESC чи Twilight;
+	}
+
+[The keys Open Annihilation ships with.]
+	{
+	uk=Клавіші, з якими постачається Open Annihilation.;
+	}
+
+[The keys, mouse buttons and wheel turns the game answers. {primary}+/ in a match shows them.]
+	{
+	uk=Клавіші, кнопки миші й повороти коліщатка, на які відповідає гра. {primary}+/ показує їх у партії.;
+	}
+
+[The layout was not saved: {reason}]
+	{
+	uk=Розкладку клавіш не збережено: {reason};
+	}
+
+[The letter {key}, wherever your keyboard has it]
+	{
+	uk=Літера {key}, де б вона не була на твоїй клавіатурі;
+	}
+
+[The mod's data]
+	{
+	uk=Дані моду;
+	}
+
+[The mod's hacks]
+	{
+	uk=Хаки моду;
+	}
+
+[The numpad moves the pointer; 5 clicks, 0 right-clicks.]
+	{
+	uk=Цифровий блок рухає вказівник. 5 клацає, 0 клацає правою.;
+	}
+
+[The package could not be checked: {detail}]
+	{
+	uk=Пакет не вдалося перевірити: {detail};
+	}
+
+[The package could not be unpacked: {detail}]
+	{
+	uk=Пакет не вдалося розпакувати: {detail};
+	}
+
+[The text changes 1 key of {layout}.]
+	{
+	uk=Текст для {layout} змінює 1 клавішу.;
+	}
+
+[The text changes {n} keys of {layout}.]
+	{
+	uk=Текст для {layout} змінює клавіші: {n}.;
+	}
+
+[The version installed is kept, and Roll back in the Library brings it back.]
+	{
+	uk=Встановлена версія зберігається, і кнопка ВІДКОТИТИ в Бібліотеці поверне її.;
+	}
+
+[The {key} key]
+	{
+	uk=Клавіша {key};
+	}
+
+[This copy cannot replace itself. Get the new release from its page.]
+	{
+	uk=Ця копія не може замінити сама себе. Візьми новий випуск з її сторінки.;
+	}
+
+[This copy is installed for the whole system, so it cannot replace itself. Install the new release the way this copy was installed.]
+	{
+	uk=Цю копію встановлено для всієї системи, тож вона не може замінити сама себе. Встанови новий випуск так, як встановлено цю копію.;
+	}
+
+[This layout has problems:]
+	{
+	uk=У цієї розкладки клавіш є проблеми:;
+	}
+
+[This mod]
+	{
+	uk=Цей мод;
+	}
+
+[This mod needs every player on Open Annihilation. The host plays Total Annihilation 3.1c.]
+	{
+	uk=Цей мод потребує, щоб кожен гравець був на Open Annihilation. Хост грає в Total Annihilation 3.1c.;
+	}
+
+[To put the game right]
+	{
+	uk=Як виправити гру;
+	}
+
+[Tournament]
+	{
+	uk=Турнір;
+	}
+
+[Try it here]
+	{
+	uk=Спробувати тут;
+	}
+
+[Turn every helper off]
+	{
+	uk=Вимк. помічників;
+	}
+
+[Turn off]
+	{
+	uk=ВИМК.;
+	}
+
+[Turn on {name}]
+	{
+	uk=УВІМКНУТИ {name};
+	}
+
+[Turning it on applies when the Library closes, and then Play now works.]
+	{
+	uk=Увімкнення спрацює після закриття Бібліотеки, і тоді запрацює ГРАТИ ЗАРАЗ.;
+	}
+
+[Turning it on applies when the Library closes, and then Use now works.]
+	{
+	uk=Увімкнення спрацює після закриття Бібліотеки, і тоді запрацює кнопка ОБРАТИ.;
+	}
+
+[Turning them on applies when the Library closes, and then Play now works.]
+	{
+	uk=Їх буде увімкнено після закриття Бібліотеки, і тоді запрацює ГРАТИ ЗАРАЗ.;
+	}
+
+[Turning them on applies when the Library closes, and then Use now works.]
+	{
+	uk=Їх буде увімкнено після закриття Бібліотеки, і тоді запрацює кнопка ОБРАТИ.;
+	}
+
+[U]
+	{
+	uk=U;
+	}
+
+[UPDATES]
+	{
+	uk=Оновлення;
+	}
+
+[Unbound]
+	{
+	uk=Порожньо;
+	}
+
+[Undo]
+	{
+	uk=ПОВЕРНУТИ;
+	}
+
+[Uninstall]
+	{
+	uk=ВИДАЛИТИ;
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy Roll back keeps.]
+	{
+	uk=Видалити {name}? Буде видалено папку {folder}, а з нею й копію, яку зберігає ВІДКОТИТИ.;
+	}
+
+[Unload]
+	{
+	uk=ВИВАНТАЖИТИ;
+	}
+
+[Unload mod]
+	{
+	uk=ВИМКНУТИ МОД;
+	}
+
+[Unlocked camera]
+	{
+	uk=Вільна камера;
+	}
+
+[Unpacked the package]
+	{
+	uk=Пакет розпаковано;
+	}
+
+[Up to date]
+	{
+	uk=Актуально;
+	}
+
+[Up to date · Stable · checked {when}]
+	{
+	uk=Актуально · Стабільна · перевірено {when};
+	}
+
+[Update]
+	{
+	uk=ОНОВИТИ;
+	}
+
+[Updated {name} · {new} changes the game's rules · Roll back restores {old}]
+	{
+	uk=Оновлено {name} · {new} змінює правила гри · ВІДКОТИТИ поверне попередню версію ({old});
+	}
+
+[Updated {name} · {new} may change the game's rules · Roll back restores {old}]
+	{
+	uk=Оновлено {name} · {new} може змінити правила гри · ВІДКОТИТИ поверне попередню версію ({old});
+	}
+
+[Use]
+	{
+	uk=Використати;
+	}
+
+[Use by default]
+	{
+	uk=ЗРОБИТИ ТИПОВИМ;
+	}
+
+[Use for every game]
+	{
+	uk=Використати для кожної гри;
+	}
+
+[Use for {mod}]
+	{
+	uk=Використати для {mod};
+	}
+
+[Use now]
+	{
+	uk=ОБРАТИ;
+	}
+
+[Use these]
+	{
+	uk=ВИКОРИСТАТИ;
+	}
+
+[Use this]
+	{
+	uk=ОБРАТИ;
+	}
+
+[Use this game]
+	{
+	uk=ОБРАТИ ЦЮ ГРУ;
+	}
+
+[Use {chord} for {action}]
+	{
+	uk=Використати {chord} для {action};
+	}
+
+[Use {key} for {action}…]
+	{
+	uk=Використати {key} для {action}…;
+	}
+
+[Using]
+	{
+	uk=Задіяно;
+	}
+
+[Using {layout} for every game.]
+	{
+	uk=Тепер для кожної гри діє {layout}.;
+	}
+
+[Using {layout} with {mod}.]
+	{
+	uk=Тепер {layout} діє з {mod}.;
+	}
+
+[V]
+	{
+	uk=V;
+	}
+
+[W]
+	{
+	uk=W;
+	}
+
+[WHEN I QUIT]
+	{
+	uk=КОЛИ Я ВИХОДЖУ;
+	}
+
+[Waited for the game to close]
+	{
+	uk=Дочекано закриття гри;
+	}
+
+[Watching]
+	{
+	uk=Спостереження;
+	}
+
+[What happened]
+	{
+	uk=Що сталося;
+	}
+
+[What moves]
+	{
+	uk=Що змінюється;
+	}
+
+[What {key} does]
+	{
+	uk=Що робить {key};
+	}
+
+[What's new]
+	{
+	uk=Що нового;
+	}
+
+[Wheel]
+	{
+	uk=Коліщатко;
+	}
+
+[Wheel and middle]
+	{
+	uk=Коліщатко й середня;
+	}
+
+[Wheel zoom]
+	{
+	uk=Масштаб коліщатком;
+	}
+
+[When I quit]
+	{
+	uk=Коли я виходжу;
+	}
+
+[When should it go in?]
+	{
+	uk=Коли встановити?;
+	}
+
+[Where]
+	{
+	uk=Де;
+	}
+
+[While playing]
+	{
+	uk=Під час гри;
+	}
+
+[While watching]
+	{
+	uk=Під час спостереження;
+	}
+
+[Whiteboard held]
+	{
+	uk=Маркерну дошку утримано;
+	}
+
+[Window]
+	{
+	uk=Вікно;
+	}
+
+[Window size]
+	{
+	uk=Розмір вікна;
+	}
+
+[Windows asks for permission.]
+	{
+	uk=Windows запитує дозвіл.;
+	}
+
+[With {mod}: {name}]
+	{
+	uk=З {mod}: {name};
+	}
+
+[You are playing {name}. Switch it off first with Switch off, then uninstall it.]
+	{
+	uk=Ти граєш із модом {name}. Спершу вимкни його кнопкою ВИМКНУТИ, а потім видаляй.;
+	}
+
+[You went back to {old}, with the settings you had.]
+	{
+	uk=Повернено до {old}, із налаштуваннями, які були.;
+	}
+
+[Your 1 change to {name}]
+	{
+	uk=Твоя 1 зміна в {name};
+	}
+
+[Your change]
+	{
+	uk=Твоя зміна;
+	}
+
+[Your change, over {layout}]
+	{
+	uk=Твоя зміна поверх {layout};
+	}
+
+[Your changes]
+	{
+	uk=Твої зміни;
+	}
+
+[Your last campaign set, ready to use. Cancel plays without mutators.]
+	{
+	uk=Твій останній набір для кампанії вже готовий. СКАСУВАТИ — гра без мутаторів.;
+	}
+
+[Your last multiplayer set, ready to use. Cancel plays without mutators.]
+	{
+	uk=Твій останній набір для мережевої гри вже готовий. СКАСУВАТИ — гра без мутаторів.;
+	}
+
+[Your last skirmish set, ready to use. Cancel plays without mutators.]
+	{
+	uk=Твій останній набір для сутички вже готовий. СКАСУВАТИ — гра без мутаторів.;
+	}
+
+[Your saved games, settings and mods are not touched by this.]
+	{
+	uk=Це не зачіпає твої збережені ігри, налаштування й моди.;
+	}
+
+[Your saved games, settings and mods stay as they are.]
+	{
+	uk=Твої збережені ігри, налаштування й моди лишаються як є.;
+	}
+
+[Your {count} changes to {name}]
+	{
+	uk=Твої зміни щодо {name}: {count};
+	}
+
+[a second]
+	{
+	uk=за секунду;
+	}
+
+[about {minutes} minutes left]
+	{
+	uk=лишилося хвилин: близько {minutes};
+	}
+
+[always]
+	{
+	uk=Завжди;
+	}
+
+[and 1 change of your own]
+	{
+	uk=і 1 власна зміна;
+	}
+
+[and {count} more]
+	{
+	uk=і ще {count};
+	}
+
+[and {n} changes of your own]
+	{
+	uk=і власні зміни: {n};
+	}
+
+[and {n} more]
+	{
+	uk=і ще {n};
+	}
+
+[any keyboard]
+	{
+	uk=будь-яка клавіатура;
+	}
+
+[cnc-ddraw's ddraw.ini]
+	{
+	uk=ddraw.ini від cnc-ddraw;
+	}
+
+[game paused]
+	{
+	uk=гру на паузі;
+	}
+
+[held]
+	{
+	uk=утримано;
+	}
+
+[in place of]
+	{
+	uk=замість;
+	}
+
+[latches]
+	{
+	uk=закріплюється;
+	}
+
+[less than a minute left]
+	{
+	uk=лишилося менше хвилини;
+	}
+
+[more than an hour left]
+	{
+	uk=лишилося більше години;
+	}
+
+[not in the loaded units]
+	{
+	uk=немає серед завантажених юнітів;
+	}
+
+[not installed]
+	{
+	uk=НЕ ВСТАНОВЛЕНО;
+	}
+
+[not used by Open Annihilation]
+	{
+	uk=не використовується в Open Annihilation;
+	}
+
+[on {date}]
+	{
+	uk=на {date};
+	}
+
+[place]
+	{
+	uk=РОЗМІСТИТИ;
+	}
+
+[px]
+	{
+	uk=px;
+	}
+
+[ready]
+	{
+	uk=готово;
+	}
+
+[release]
+	{
+	uk=ВІДПУСТИ;
+	}
+
+[tdraw's Settings.ini]
+	{
+	uk=Settings.ini від tdraw;
+	}
+
+[the button]
+	{
+	uk=кнопка;
+	}
+
+[the left-click interface]
+	{
+	uk=інтерфейс лівого кліку;
+	}
+
+[the mod's data]
+	{
+	uk=дані моду;
+	}
+
+[the right-click interface]
+	{
+	uk=інтерфейс правого кліку;
+	}
+
+[today at {time}]
+	{
+	uk=сьогодні о {time};
+	}
+
+[wheel]
+	{
+	uk=коліщатко;
+	}
+
+[while playing]
+	{
+	uk=під час гри;
+	}
+
+[while watching]
+	{
+	uk=під час спостереження;
+	}
+
+[yesterday at {time}]
+	{
+	uk=учора о {time};
+	}
+
+[yours]
+	{
+	uk=твоя;
+	}
+
+[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and Roll back brings it back.]
+	{
+	uk={To} змінює правила гри. Збереження зі старої версії ({from}) не завантажаться в новій ({to}). {From} залишиться, а ВІДКОТИТИ поверне цю версію.;
+	}
+
+[{action} and {name} both use it {context}. Choose which keeps it; nothing changes until you confirm.]
+	{
+	uk={action} і {name} разом використовують її {context}. Обери, хто її лишає. Нічого не зміниться, доки не підтвердиш.;
+	}
+
+[{chords}, from the mod's order panel ({gadget})]
+	{
+	uk={chords}, з панелі наказів моду ({gadget});
+	}
+
+[{chords}, from {source}]
+	{
+	uk={chords}, із {source};
+	}
+
+[{chord} also does {name} {context}. That never meets {where}, so it stays.]
+	{
+	uk={chord} також виконує {name} {context}. Це ніколи не збігається з {where}, тож лишається.;
+	}
+
+[{chord} counted, then {keys} let go.]
+	{
+	uk={chord} зараховано, потім відпущено {keys}.;
+	}
+
+[{chord} counted.]
+	{
+	uk={chord} зараховано.;
+	}
+
+[{chord} does two things]
+	{
+	uk={chord} робить дві речі;
+	}
+
+[{chord} is already in use]
+	{
+	uk={chord} вже зайнято;
+	}
+
+[{chord} is free {context}]
+	{
+	uk={chord} вільно {context};
+	}
+
+[{chord} is free {context}.]
+	{
+	uk={chord} вільно {context}.;
+	}
+
+[{chord} is free: nothing uses it.]
+	{
+	uk={chord} вільно: ніхто її не використовує.;
+	}
+
+[{chord} is in use {context}]
+	{
+	uk={chord} зайнято {context};
+	}
+
+[{chord} is used in 1 place. Nothing is changed.]
+	{
+	uk={chord} використовується в 1 місці. Нічого не змінено.;
+	}
+
+[{chord} is used in {n} places. Nothing is changed.]
+	{
+	uk={chord} використовується в місцях: {n}. Нічого не змінено.;
+	}
+
+[{command} on {key}]
+	{
+	uk={command} на {key};
+	}
+
+[{command} with no key]
+	{
+	uk={command} без клавіші;
+	}
+
+[{count} changes of your own]
+	{
+	uk=власні зміни: {count};
+	}
+
+[{count} commands]
+	{
+	uk=дії: {count};
+	}
+
+[{count} of {limit}]
+	{
+	uk={count} з {limit};
+	}
+
+[{count} settings changed]
+	{
+	uk=змінені налаштування: {count};
+	}
+
+[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and Roll back brings it back.]
+	{
+	uk=Оновлень, що змінюють правила гри: {count} — {names}. Збереження з їхніх поточних версій не завантажаться в нових. Кожна поточна версія залишиться, а ВІДКОТИТИ поверне її.;
+	}
+
+[{description} · {chord}]
+	{
+	uk={description} · {chord};
+	}
+
+[{done} of {size} · {percent}%]
+	{
+	uk={done} з {size} · {percent}%;
+	}
+
+[{done} of {whole} s · let go to cancel]
+	{
+	uk={done} з {whole} с · відпусти, щоб скасувати;
+	}
+
+[{first}…{last}]
+	{
+	uk={first}…{last};
+	}
+
+[{folder} is a folder of your own, not {name}. Move or rename it, then Retry.]
+	{
+	uk={folder} — це твоя власна папка, а не {name}. Перемісти або перейменуй її, а тоді натисни ПОВТОР.;
+	}
+
+[{keys} keys, 1 helper]
+	{
+	uk=клавіші: {keys}, 1 помічник;
+	}
+
+[{keys} keys, {helpers} helpers]
+	{
+	uk=клавіші: {keys}, помічники: {helpers};
+	}
+
+[{key} did not count: let go after {held} of {wait} s.]
+	{
+	uk={key} не зараховано: відпущено після {held} з {wait} с.;
+	}
+
+[{key} did not count: pressed again within {wait} s.]
+	{
+	uk={key} не зараховано: знову натиснуто протягом {wait} с.;
+	}
+
+[{key} held {held} of {wait} s.]
+	{
+	uk={key} утримано {held} з {wait} с.;
+	}
+
+[{key} let go.]
+	{
+	uk={key} відпущено.;
+	}
+
+[{key} stays down for the next key.]
+	{
+	uk={key} тримається для наступної клавіші.;
+	}
+
+[{key} stays down until you tap it again.]
+	{
+	uk={key} тримається, доки не торкнешся знову.;
+	}
+
+[{layout} · 1 change]
+	{
+	uk={layout} · 1 зміна;
+	}
+
+[{layout} · {n} changes]
+	{
+	uk={layout} · зміни: {n};
+	}
+
+[{modifier} · locked]
+	{
+	uk={modifier} · зафіксовано;
+	}
+
+[{modifier} · next key or click]
+	{
+	uk={modifier} · наступна клавіша або клік;
+	}
+
+[{name} ({count})]
+	{
+	uk={name} ({count});
+	}
+
+[{name} already has 1 change of your own; it stays.]
+	{
+	uk={name} вже має 1 власну зміну. Вона лишається.;
+	}
+
+[{name} already has {count} changes of your own; they stay.]
+	{
+	uk={name} вже має власні зміни: {count}. Вони лишаються.;
+	}
+
+[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and Roll back brings it back.]
+	{
+	uk=Встановлено {name} з {installed}. Замінити на {name} з {new}? Версія з {installed} залишиться, а ВІДКОТИТИ поверне її.;
+	}
+
+[{name} uses it {context}. Choose what happens; nothing changes until you confirm.]
+	{
+	uk={name} використовує її {context}. Обери, що станеться. Нічого не зміниться, доки не підтвердиш.;
+	}
+
+[{name} uses it. Nothing changes until you choose.]
+	{
+	uk={name} використовує її. Нічого не зміниться, доки не обереш.;
+	}
+
+[{name} · 1 change of your own]
+	{
+	uk={name} · 1 власна зміна;
+	}
+
+[{name} · Add from…]
+	{
+	uk={name} · ДОДАТИ З…;
+	}
+
+[{name} · made for {mod}]
+	{
+	uk={name} · зроблено для {mod};
+	}
+
+[{name} · {n} changes]
+	{
+	uk={name} · зміни: {n};
+	}
+
+[{name} · {n} changes of your own]
+	{
+	uk={name} · власні зміни: {n};
+	}
+
+[{name}: {description} {context}. OK asks what to do.]
+	{
+	uk={name}: {description} {context}. OK запитає, що робити.;
+	}
+
+[{number} · {heading}]
+	{
+	uk={number} · {heading};
+	}
+
+[{primary}+/ in a match shows the keys.]
+	{
+	uk={primary}+/ у партії показує клавіші.;
+	}
+
+[{problem} Retry tries again.]
+	{
+	uk={problem} ПОВТОР — спробувати ще раз.;
+	}
+
+[{problem} · Retry]
+	{
+	uk={problem} · ПОВТОР;
+	}
+
+[{shape} · from your system]
+	{
+	uk={shape} · з твоєї системи;
+	}
+
+[{title} is back to {new}. {old} is kept, and Roll back brings it back.]
+	{
+	uk={title} повернуто до версії {new}. {old} збережено, і ВІДКОТИТИ поверне цю версію.;
+	}
+
+[{title} is now {new}. {old} is kept, and Roll back in the Library brings it back.]
+	{
+	uk=Тепер {title} — {new}. {old} зберігається, і кнопка ВІДКОТИТИ в Бібліотеці поверне попередню версію.;
+	}
+
+[{title} {to}, the version kept for Roll back, cannot be played.]
+	{
+	uk={title} {to} (версію, збережену для відкату) неможливо запустити.;
+	}
+
+[{wheel} rotates]
+	{
+	uk={wheel} повертає;
+	}
+
+[· 1 change of your own]
+	{
+	uk=· 1 власна зміна;
+	}
+
+[· your change]
+	{
+	uk=· твоя зміна;
+	}
+
+[· {count} changes of your own]
+	{
+	uk=· власні зміни: {count};
+	}
+
+[▲ Up]
+	{
+	uk=▲ ВГОРУ;
+	}
+
+[▼ Down]
+	{
+	uk=▼ ВНИЗ;
+	}
+

@@ -369,19 +369,9 @@
 	zh-Hans=此处画面的绘制与关闭时相同。;
 	}
 
-[SAVES]
-	{
-	zh-Hans=存档;
-	}
-
 [SCREENSHOTS]
 	{
 	zh-Hans=截图;
-	}
-
-[MODS]
-	{
-	zh-Hans=模组;
 	}
 
 [System default]
@@ -1124,16 +1114,6 @@
 	zh-Hans=此处始终开启;
 	}
 
-[MANAGE…]
-	{
-	zh-Hans=管理……;
-	}
-
-[RESTORE PROFILE VALUES]
-	{
-	zh-Hans=恢复配置值;
-	}
-
 [Applies at next match]
 	{
 	zh-Hans=下一局生效;
@@ -1184,11 +1164,6 @@
 	zh-Hans=没有oamod.yaml;
 	}
 
-[PLAYING]
-	{
-	zh-Hans=使用中;
-	}
-
 [OPEN MODS FOLDER]
 	{
 	zh-Hans=打开模组文件夹;
@@ -1199,24 +1174,9 @@
 	zh-Hans=切换模组;
 	}
 
-[SWITCH]
-	{
-	zh-Hans=切换;
-	}
-
-[ROLL BACK]
-	{
-	zh-Hans=回滚;
-	}
-
 [ROLL BACK MOD]
 	{
 	zh-Hans=回滚模组;
-	}
-
-[Roll back {title} to {to}? {from} is kept in its place, and ROLL BACK again brings it back.]
-	{
-	zh-Hans=将{title}回滚到{to}？{from}会保留在原处，再次回滚即可恢复。;
 	}
 
 [The game reloads its data for the mod and returns to the main menu.]
@@ -1279,21 +1239,6 @@
 	zh-Hans=替换;
 	}
 
-[INSTALL ALONGSIDE]
-	{
-	zh-Hans=并列安装;
-	}
-
-[REINSTALL]
-	{
-	zh-Hans=重新安装;
-	}
-
-[PLAY NOW]
-	{
-	zh-Hans=立即游戏;
-	}
-
 [INSTALLING MOD]
 	{
 	zh-Hans=正在安装模组;
@@ -1337,16 +1282,6 @@
 [MOD NOT ROLLED BACK]
 	{
 	zh-Hans=模组未回滚;
-	}
-
-[The folder kept for ROLL BACK, which holds no mod that can be read, is removed.]
-	{
-	zh-Hans=为回滚保留的文件夹中没有可读取的模组，已将其删除。;
-	}
-
-[The folder kept for ROLL BACK ({backup}) is removed.]
-	{
-	zh-Hans=为回滚保留的文件夹（{backup}）已删除。;
 	}
 
 [{version} of an unknown revision]
@@ -1414,11 +1349,6 @@
 	zh-Hans=保留的版本{backup}不受影响。;
 	}
 
-[The folder kept for ROLL BACK stays.]
-	{
-	zh-Hans=为回滚保留的文件夹不受影响。;
-	}
-
 [Your Mods folder already has a folder named {folder} that does not hold {title}. It is left as it is.]
 	{
 	zh-Hans=你的Mods文件夹中已有名为{folder}的文件夹，但其中不是{title}。该文件夹保持不变。;
@@ -1442,11 +1372,6 @@
 [The files of {title} {version} were installed again.]
 	{
 	zh-Hans=已重新安装{title} {version}的文件。;
-	}
-
-[{title} is back to {new}. {old} is kept, and ROLL BACK brings it back.]
-	{
-	zh-Hans={title}已回到{new}。{old}已保留，点击回滚即可恢复。;
 	}
 
 [{title} is back to {new}.]
@@ -1582,11 +1507,6 @@
 [{title} could not be rolled back; nothing was changed.]
 	{
 	zh-Hans=无法回滚{title}；未做任何更改。;
-	}
-
-[{title} {to}, the version kept for ROLL BACK, cannot be played.]
-	{
-	zh-Hans=为回滚保留的版本{title} {to}无法使用。;
 	}
 
 [the folder you chose]
@@ -4351,11 +4271,6 @@
 	zh-Hans={count}个更新;
 	}
 
-[UPDATE ALL]
-	{
-	zh-Hans=全部更新;
-	}
-
 [Showing the list from {age}. OA couldn't reach the registries.]
 	{
 	zh-Hans=正在显示{age}的列表。OA无法连接内容源。;
@@ -4379,16 +4294,6 @@
 [Nothing to show.]
 	{
 	zh-Hans=没有可显示的内容。;
-	}
-
-[GET]
-	{
-	zh-Hans=获取;
-	}
-
-[INSTALLED]
-	{
-	zh-Hans=已安装;
 	}
 
 [UPDATE]
@@ -4721,16 +4626,6 @@
 	zh-Hans=✓;
 	}
 
-[RETRY]
-	{
-	zh-Hans=重试;
-	}
-
-[HOMEPAGE]
-	{
-	zh-Hans=主页;
-	}
-
 [Finishes when you leave {name}.]
 	{
 	zh-Hans=离开{name}后完成。;
@@ -4739,16 +4634,6 @@
 [You are playing {playing}. Updating {name} doesn't restart the game.]
 	{
 	zh-Hans=你正在使用{playing}。更新{name}不会重新启动游戏。;
-	}
-
-[SETTINGS…]
-	{
-	zh-Hans=设置……;
-	}
-
-[DETAILS]
-	{
-	zh-Hans=详情;
 	}
 
 [{name} {version}]
@@ -4789,21 +4674,6 @@
 [Installed {name}]
 	{
 	zh-Hans=已安装{name};
-	}
-
-[Updated {name} · {new} changes the game's rules · ROLL BACK restores {old}]
-	{
-	zh-Hans=已更新{name} · {new}改变了游戏规则 · 回滚可恢复{old};
-	}
-
-[Updated {name} · {new} may change the game's rules · ROLL BACK restores {old}]
-	{
-	zh-Hans=已更新{name} · {new}可能改变了游戏规则 · 回滚可恢复{old};
-	}
-
-[{problem} · RETRY]
-	{
-	zh-Hans={problem} · 重试;
 	}
 
 [Then {package} · {phase}]
@@ -4891,29 +4761,9 @@
 	zh-Hans={name} {from} → {to};
 	}
 
-[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and ROLL BACK brings it back.]
-	{
-	zh-Hans={To}会改变游戏规则。{from}的存档将无法在{to}中载入。{From}会保留，回滚即可恢复。;
-	}
-
-[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and ROLL BACK brings it back.]
-	{
-	zh-Hans=OA无法判断{to}是否会改变游戏规则。如果会，{from}的存档将无法在其中载入。{From}会保留，回滚即可恢复。;
-	}
-
 [It finishes when you leave {name}.]
 	{
 	zh-Hans=离开{name}后完成。;
-	}
-
-[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and ROLL BACK brings it back.]
-	{
-	zh-Hans=1个更新会改变游戏规则：{names}。其当前版本的存档将无法在新版本中载入。当前版本会保留，回滚即可恢复。;
-	}
-
-[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and ROLL BACK brings it back.]
-	{
-	zh-Hans={count}个更新会改变游戏规则：{names}。它们当前版本的存档将无法在新版本中载入。每个当前版本都会保留，回滚即可恢复。;
 	}
 
 [{names} and {count} more]
@@ -4939,11 +4789,6 @@
 [Download]
 	{
 	zh-Hans=下载;
-	}
-
-[NOT NOW]
-	{
-	zh-Hans=暂不;
 	}
 
 [the server could not be reached]
@@ -5098,11 +4943,6 @@
 	zh-Hans=。请再次选择以重试。;
 	}
 
-[MORE IN THE LIBRARY…]
-	{
-	zh-Hans=在资源库中查看更多……;
-	}
-
 [More languages are in the Library.]
 	{
 	zh-Hans=资源库中有更多语言。;
@@ -5178,11 +5018,6 @@
 	zh-Hans=在你首次下载时生成;
 	}
 
-[RESET]
-	{
-	zh-Hans=重置;
-	}
-
 [Downloaded files]
 	{
 	zh-Hans=已下载的文件;
@@ -5191,11 +5026,6 @@
 [Nothing kept]
 	{
 	zh-Hans=未保留任何文件;
-	}
-
-[EMPTY]
-	{
-	zh-Hans=清空;
 	}
 
 [Registries]
@@ -5288,11 +5118,6 @@
 	zh-Hans=按“确定”后移除;
 	}
 
-[ADD MIRROR…]
-	{
-	zh-Hans=添加镜像……;
-	}
-
 [Choose from the main menu.]
 	{
 	zh-Hans=请在主菜单中选择。;
@@ -5306,11 +5131,6 @@
 [Content from registries other than {names} isn't reviewed by the OA team. OA still checks every package before using it.]
 	{
 	zh-Hans=除{names}以外的内容源的内容未经OA团队审核。OA仍会在使用前检查每个内容包。;
-	}
-
-[ADD REGISTRY…]
-	{
-	zh-Hans=添加内容源……;
 	}
 
 // The map browser, GET MAP, and the questions that install a map pack or a language.
@@ -5558,11 +5378,6 @@
 [Install the map pack {name} {version} ({n} maps)?]
 	{
 	zh-Hans=要安装地图包{name} {version}（{n}张地图）吗？;
-	}
-
-[INSTALL]
-	{
-	zh-Hans=安装;
 	}
 
 [UPDATE MAP PACK]
@@ -5828,16 +5643,6 @@
 [REPLACE MOD]
 	{
 	zh-Hans=替换模组;
-	}
-
-[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and ROLL BACK brings it back.]
-	{
-	zh-Hans=已安装来自{installed}的{name}。要用来自{new}的{name}替换它吗？来自{installed}的版本会保留，回滚即可恢复。;
-	}
-
-[{folder} is a folder of your own, not {name}. Move or rename it, then RETRY.]
-	{
-	zh-Hans={folder}是你自己的文件夹，不是{name}。请移动或重命名它，然后点击重试。;
 	}
 
 [{n} KB]
@@ -6188,11 +5993,6 @@
 	zh-Hans=欢迎设置;
 	}
 
-[SHOW AGAIN]
-	{
-	zh-Hans=再看一次;
-	}
-
 [Walk through the language, online features and the OA buttons again.]
 	{
 	zh-Hans=再走一遍语言、在线功能和OA按钮。;
@@ -6253,11 +6053,6 @@
 	zh-Hans=此系统通过HTTP读取HTTPS内容源。;
 	}
 
-[REGISTRIES IN THE LIBRARY…]
-	{
-	zh-Hans=内容源在资源库中……;
-	}
-
 [Registries are in the Library.]
 	{
 	zh-Hans=内容源在资源库中。;
@@ -6271,21 +6066,6 @@
 [MAPS]
 	{
 	zh-Hans=地图;
-	}
-
-[SWITCH OFF]
-	{
-	zh-Hans=停用;
-	}
-
-[UNLOAD MOD]
-	{
-	zh-Hans=停用模组;
-	}
-
-[UNINSTALL]
-	{
-	zh-Hans=卸载;
 	}
 
 [{language} · built in]
@@ -6398,11 +6178,6 @@
 	zh-Hans=正在刷新;
 	}
 
-[REFRESH]
-	{
-	zh-Hans=刷新;
-	}
-
 [refreshed {age}]
 	{
 	zh-Hans={age}刷新过;
@@ -6443,11 +6218,6 @@
 	zh-Hans=游戏中无法卸载地图包。;
 	}
 
-[It is in the download queue: CANCEL it before you uninstall it.]
-	{
-	zh-Hans=它正在下载队列中：请先“取消”，然后再卸载。;
-	}
-
 [Uninstall {name}]
 	{
 	zh-Hans=卸载{name};
@@ -6458,24 +6228,9 @@
 	zh-Hans=卸载{name}？其文件夹{folder}将被删除。;
 	}
 
-[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy ROLL BACK keeps.]
-	{
-	zh-Hans=卸载{name}？其文件夹{folder}将被删除，回滚所保留的副本也会一并删除。;
-	}
-
-[GET installs it again.]
-	{
-	zh-Hans=“获取”会再次安装它。;
-	}
-
 [No registry lists it, so the Library cannot get it again.]
 	{
 	zh-Hans=没有内容源列出它，因此资源库无法再次获取。;
-	}
-
-[You are playing {name}. Switch it off first with SWITCH OFF, then uninstall it.]
-	{
-	zh-Hans=你正在使用{name}。请先点击“停用”关闭它，然后再卸载。;
 	}
 
 [The game is shown in {name}. Choose another language in Settings › Language first, then uninstall it.]
@@ -6498,11 +6253,6 @@
 	zh-Hans=自资源库列出它以来，其文件夹已改变。请重试。;
 	}
 
-[Its folder is a link, and OA never removes what a link leads to. OPEN FOLDER shows it.]
-	{
-	zh-Hans=其文件夹是一个链接，OA从不删除链接所指向的内容。“打开文件夹”会显示它。;
-	}
-
 [Its folder is not in your own Open Annihilation folder, and OA removes nothing outside it.]
 	{
 	zh-Hans=其文件夹不在你自己的Open Annihilation文件夹中，OA不会删除该文件夹以外的内容。;
@@ -6511,36 +6261,6 @@
 [Its folder could not be moved; another program may be using it. Close it, then try again.]
 	{
 	zh-Hans=无法移动其文件夹；可能有其他程序正在使用它。请关闭该程序，然后重试。;
-	}
-
-[The version installed is kept, and ROLL BACK in the Library brings it back.]
-	{
-	zh-Hans=已安装的版本会保留，在资源库中点击回滚即可恢复。;
-	}
-
-[Revision {installed} is kept, and ROLL BACK in the Library brings it back.]
-	{
-	zh-Hans=修订号{installed}会保留，在资源库中点击回滚即可恢复。;
-	}
-
-[Replacing keeps {installed}, and ROLL BACK in the Library brings it back.]
-	{
-	zh-Hans=替换后会保留{installed}，在资源库中点击回滚即可恢复。;
-	}
-
-[Choose PLAY NOW to play it, or choose it later with PLAY NOW in the Library.]
-	{
-	zh-Hans=选择“立即游戏”开始游玩，或稍后在资源库中选择“立即游戏”。;
-	}
-
-[Choose it with PLAY NOW in the Library to play it.]
-	{
-	zh-Hans=在资源库中选择“立即游戏”即可游玩。;
-	}
-
-[{title} is now {new}. {old} is kept, and ROLL BACK in the Library brings it back.]
-	{
-	zh-Hans={title}现在是{new}。{old}已保留，在资源库中点击回滚即可恢复。;
 	}
 
 [It is still copied, so it can be fixed in your file manager; the Library's Mods tab plays only mods that work.]
@@ -6566,11 +6286,6 @@
 [No installed map matches.]
 	{
 	zh-Hans=没有已安装的地图与之匹配。;
-	}
-
-[USE NOW]
-	{
-	zh-Hans=立即使用;
 	}
 
 [{shown} of {all}]
@@ -6701,11 +6416,6 @@
 	zh-Hans=Bottles;
 	}
 
-[CHANGE…]
-	{
-	zh-Hans=更改……;
-	}
-
 [COPYING]
 	{
 	zh-Hans=复制;
@@ -6794,11 +6504,6 @@
 [Copying Total Annihilation]
 	{
 	zh-Hans=正在复制Total Annihilation;
-	}
-
-[DETAILS…]
-	{
-	zh-Hans=详情……;
 	}
 
 [Demo]
@@ -7351,16 +7056,6 @@
 	zh-Hans=存档;
 	}
 
-[TURN OFF]
-	{
-	zh-Hans=关闭;
-	}
-
-[TURN ON {name}]
-	{
-	zh-Hans=开启{name};
-	}
-
 [The display's own pixel density (Retina on a Mac). Applies from the next start.]
 	{
 	zh-Hans=使用显示器自身的像素密度（Mac上的Retina）。下次启动时生效。;
@@ -7576,29 +7271,9 @@
 	zh-Hans=开启并载入;
 	}
 
-[Turning it on applies when the Library closes, and then PLAY NOW works.]
-	{
-	zh-Hans=开启会在关闭资源库后生效，然后就可以“立即游戏”。;
-	}
-
-[Turning it on applies when the Library closes, and then USE NOW works.]
-	{
-	zh-Hans=开启会在关闭资源库后生效，然后就可以“立即使用”。;
-	}
-
 [Turning it on applies when the Library closes.]
 	{
 	zh-Hans=开启会在关闭资源库后生效。;
-	}
-
-[Turning them on applies when the Library closes, and then PLAY NOW works.]
-	{
-	zh-Hans=开启它们会在关闭资源库后生效，然后就可以“立即游戏”。;
-	}
-
-[Turning them on applies when the Library closes, and then USE NOW works.]
-	{
-	zh-Hans=开启它们会在关闭资源库后生效，然后就可以“立即使用”。;
 	}
 
 [Turning them on applies when the Library closes.]
@@ -7609,11 +7284,6 @@
 [Turning {name} on restarts the game's files, then loads this save. Your other expansions stay as they are.]
 	{
 	zh-Hans=开启{name}会重新载入游戏文件，然后载入这个存档。你的其他资料片保持原样。;
-	}
-
-[USE THIS GAME]
-	{
-	zh-Hans=使用此游戏;
 	}
 
 [Units are drawn as models at every zoom. Far out on a large map, needs a fast CPU.]
@@ -7884,11 +7554,6 @@
 [{name} turns on when the Library closes.]
 	{
 	zh-Hans={name}会在关闭资源库后开启。;
-	}
-
-[{name} · ADD FROM…]
-	{
-	zh-Hans={name} · 从……添加;
 	}
 
 [{name} ✓]
@@ -8340,11 +8005,6 @@
 	zh-Hans=· 与此模组不兼容;
 	}
 
-[CHECK WITH THIS MOD]
-	{
-	zh-Hans=用此模组检查;
-	}
-
 [Statistics]
 	{
 	zh-Hans=数值;
@@ -8582,16 +8242,6 @@
 	zh-Hans=顺序;
 	}
 
-[▲ UP]
-	{
-	zh-Hans=▲ 上移;
-	}
-
-[▼ DOWN]
-	{
-	zh-Hans=▼ 下移;
-	}
-
 [Add]
 	{
 	zh-Hans=追加;
@@ -8635,26 +8285,6 @@
 [The set holds for every mission of this campaign, and is saved with it.]
 	{
 	zh-Hans=这组变异器对本战役的每个任务都有效，并会随战役一起保存。;
-	}
-
-[GET ALL]
-	{
-	zh-Hans=全部获取;
-	}
-
-[GET BOTH]
-	{
-	zh-Hans=两者都获取;
-	}
-
-[GET WITH {count} MORE]
-	{
-	zh-Hans=连同另外{count}个获取;
-	}
-
-[GET WITH {name}]
-	{
-	zh-Hans=连同{name}获取;
 	}
 
 [Get {name}?]
@@ -8739,39 +8369,9 @@
 	zh-Hans=忘记上次的组合？;
 	}
 
-[FORGET IT]
-	{
-	zh-Hans=忘记;
-	}
-
-[KEEP IT]
-	{
-	zh-Hans=保留;
-	}
-
-[USE THESE]
-	{
-	zh-Hans=使用这些;
-	}
-
 [Left out of your last set: {names}]
 	{
 	zh-Hans=上次组合中未开启：{names};
-	}
-
-[Your last campaign set, ready to use. CANCEL plays without mutators.]
-	{
-	zh-Hans=这是你上次的战役组合，可以直接使用。取消则不带变异器进行游戏。;
-	}
-
-[Your last multiplayer set, ready to use. CANCEL plays without mutators.]
-	{
-	zh-Hans=这是你上次的多人游戏组合，可以直接使用。取消则不带变异器进行游戏。;
-	}
-
-[Your last skirmish set, ready to use. CANCEL plays without mutators.]
-	{
-	zh-Hans=这是你上次的遭遇战组合，可以直接使用。取消则不带变异器进行游戏。;
 	}
 
 [Start without them?]
@@ -8782,16 +8382,6 @@
 [Start without {name}?]
 	{
 	zh-Hans=不带{name}开始？;
-	}
-
-[START WITHOUT IT]
-	{
-	zh-Hans=不带它开始;
-	}
-
-[START WITHOUT THEM]
-	{
-	zh-Hans=不带它们开始;
 	}
 
 [The game did not start]
@@ -8812,11 +8402,6 @@
 [{names} stopped before the game could start. Nothing they changed is kept, and the other mutators are unaffected.]
 	{
 	zh-Hans={names}在游戏开始前停止了。它们的改动都不会保留，其他变异器不受影响。;
-	}
-
-[{problem} RETRY tries again.]
-	{
-	zh-Hans={problem}点击“重试”可再试一次。;
 	}
 
 [Another copy of Open Annihilation is changing your Mutators folder. Try again once it has finished.]
@@ -9175,11 +8760,6 @@
 	zh-Hans=· {reason};
 	}
 
-[USE BY DEFAULT]
-	{
-	zh-Hans=设为默认;
-	}
-
 // A computer seat's brain and its picker.
 
 [Computer player]
@@ -9240,11 +8820,6 @@
 [{name} cannot play this seat now, so it starts on the built-in player.]
 	{
 	zh-Hans={name}目前无法执掌此席位，因此改由内置玩家开始。;
-	}
-
-[USE THIS]
-	{
-	zh-Hans=选用;
 	}
 
 [No brains here yet. The Library on the main menu gets them.]
@@ -9438,19 +9013,9 @@
 	zh-Hans=本局存档由{name} {version}执掌席位{n}，此处未安装。;
 	}
 
-[The built-in player takes those seats from the units as they stand. GET the brain in the Library to load the game as it was saved.]
-	{
-	zh-Hans=内置玩家按单位当前的状态接管这些席位。在资源库中获取该大脑，才能按存档时的样子读取本局。;
-	}
-
 [Load with the built-in player?]
 	{
 	zh-Hans=改用内置玩家读取？;
-	}
-
-[LOAD WITH THE BUILT-IN PLAYER]
-	{
-	zh-Hans=用内置玩家读取;
 	}
 
 [This saved game needs {name} {version}, which is not installed.]
@@ -9653,19 +9218,9 @@
 
 // Open Annihilation 0.8.6: Graphics' Full 3D camera and effects, and their lock lines.
 
-[Allow Full 3D Mode]
-	{
-	zh-Hans=允许完整3D模式;
-	}
-
 [Requires Full hardware acceleration.]
 	{
 	zh-Hans=需要将硬件加速设为完整。;
-	}
-
-[Unlocked Camera]
-	{
-	zh-Hans=解锁视角;
 	}
 
 [Allow angles outside the ideal range for TA art.]
@@ -9718,7 +9273,6466 @@
 	zh-Hans=需要完整加速;
 	}
 
-[Needs Allow Full 3D Mode]
+
+// Key bindings: Orders.
+
+[Activate on or off]
+	{
+	zh-Hans=激活开或关;
+	}
+
+[Arms Attack]
+	{
+	zh-Hans=选择攻击;
+	}
+
+[Arms BLAST (D-gun)]
+	{
+	zh-Hans=选择D枪;
+	}
+
+[Arms Capture]
+	{
+	zh-Hans=选择俘获;
+	}
+
+[Arms Defend (guard)]
+	{
+	zh-Hans=选择护卫;
+	}
+
+[Arms Load]
+	{
+	zh-Hans=选择装载;
+	}
+
+[Arms Move]
+	{
+	zh-Hans=选择移动;
+	}
+
+[Arms Patrol]
+	{
+	zh-Hans=选择巡逻;
+	}
+
+[Arms Reclaim]
+	{
+	zh-Hans=选择回收;
+	}
+
+[Arms Repair]
+	{
+	zh-Hans=选择修理;
+	}
+
+[Arms Unload]
+	{
+	zh-Hans=选择卸载;
+	}
+
+[Build tab]
+	{
+	zh-Hans=建造标签;
+	}
+
+[Cancel order]
+	{
+	zh-Hans=取消命令;
+	}
+
+[Cloak on or off]
+	{
+	zh-Hans=隐形开或关;
+	}
+
+[Fire state]
+	{
+	zh-Hans=开火状态;
+	}
+
+[Force attack]
+	{
+	zh-Hans=强制攻击;
+	}
+
+[Held: force-attack a unit or the ground]
+	{
+	zh-Hans=按住：强制攻击单位或地面;
+	}
+
+[Held: orders join the queue, an armed order stays armed, queued orders show]
+	{
+	zh-Hans=按住：命令进入排队，已选择的命令保持选择，并显示已排队的命令;
+	}
+
+[Move state]
+	{
+	zh-Hans=移动状态;
+	}
+
+[On or off]
+	{
+	zh-Hans=开或关;
+	}
+
+[Orders tab]
+	{
+	zh-Hans=命令标签;
+	}
+
+[Starts or stops the countdown]
+	{
+	zh-Hans=开始或停止倒计时;
+	}
+
+[Steps the fire standing order]
+	{
+	zh-Hans=切换开火命令;
+	}
+
+[Steps the move standing order]
+	{
+	zh-Hans=切换移动命令;
+	}
+
+[Takes back an armed order or a placement only]
+	{
+	zh-Hans=只撤回已启用的命令或放置;
+	}
+
+[The BUILD tab]
+	{
+	zh-Hans=建造标签;
+	}
+
+[The ORDERS tab]
+	{
+	zh-Hans=命令标签;
+	}
+
+// Key bindings: Pointer.
+
+[A build button: queue one, or start placing]
+	{
+	zh-Hans=建造按钮：排队一个，或开始放置;
+	}
+
+[A build button: take one off]
+	{
+	zh-Hans=建造按钮：撤下一个;
+	}
+
+[Add to selection]
+	{
+	zh-Hans=加入选择;
+	}
+
+[Build add]
+	{
+	zh-Hans=追加建造;
+	}
+
+[Build remove]
+	{
+	zh-Hans=撤下建造;
+	}
+
+[Clicks the left button. Twice quickly, a double click]
+	{
+	zh-Hans=点击左键。快速点两次就是双击。;
+	}
+
+[Clicks the right button]
+	{
+	zh-Hans=点击右键。;
+	}
+
+[Command]
+	{
+	zh-Hans=命令;
+	}
+
+[Drags the view]
+	{
+	zh-Hans=拖动视角。;
+	}
+
+[Every unit of that type on the map]
+	{
+	zh-Hans=地图上该类型的全部单位;
+	}
+
+[Held with the queue modifier: a build button adds or takes 100]
+	{
+	zh-Hans=与排队修饰键一起按住：建造按钮增加或减少100;
+	}
+
+[Held: a build button adds or takes five]
+	{
+	zh-Hans=按住：建造按钮增加或减少五个;
+	}
+
+[Held: a click toggles a unit and a box adds]
+	{
+	zh-Hans=按住：点击会切换单位，框选则会追加;
+	}
+
+[Holds the left button down until pressed again]
+	{
+	zh-Hans=按住左键，直到再次按下。;
+	}
+
+[Jumps the view to a minimap point]
+	{
+	zh-Hans=把视角跳到小地图上的一点。;
+	}
+
+[Lets a held mouse button go]
+	{
+	zh-Hans=松开按住的鼠标键。;
+	}
+
+[Minimap jump]
+	{
+	zh-Hans=小地图跳转;
+	}
+
+[Minimap scroll]
+	{
+	zh-Hans=小地图滚动;
+	}
+
+[Mouse look]
+	{
+	zh-Hans=鼠标环视;
+	}
+
+[Moves the pointer down and left, faster the longer the key is held]
+	{
+	zh-Hans=将指针向左下方移动，按住越久越快。;
+	}
+
+[Moves the pointer down and right, faster the longer the key is held]
+	{
+	zh-Hans=将指针向右下方移动，按住越久越快。;
+	}
+
+[Moves the pointer down, faster the longer the key is held]
+	{
+	zh-Hans=将指针向下移动，按住越久越快。;
+	}
+
+[Moves the pointer left, faster the longer the key is held]
+	{
+	zh-Hans=将指针向左移动，按住越久越快。;
+	}
+
+[Moves the pointer right, faster the longer the key is held]
+	{
+	zh-Hans=将指针向右移动，按住越久越快。;
+	}
+
+[Moves the pointer up and left, faster the longer the key is held]
+	{
+	zh-Hans=将指针向左上方移动，按住越久越快。;
+	}
+
+[Moves the pointer up and right, faster the longer the key is held]
+	{
+	zh-Hans=将指针向右上方移动，按住越久越快。;
+	}
+
+[Moves the pointer up, faster the longer the key is held]
+	{
+	zh-Hans=将指针向上移动，按住越久越快。;
+	}
+
+[Orbit camera]
+	{
+	zh-Hans=环绕视角;
+	}
+
+[Orbits the Full 3D view's camera]
+	{
+	zh-Hans=环绕完整3D视图的视角;
+	}
+
+[Pan]
+	{
+	zh-Hans=平移;
+	}
+
+[Pan camera]
+	{
+	zh-Hans=平移视角;
+	}
+
+[Pans the Full 3D view's camera]
+	{
+	zh-Hans=平移完整3D视图的视角;
+	}
+
+[Pans towards the pointer]
+	{
+	zh-Hans=朝指针平移;
+	}
+
+[Pointer click left]
+	{
+	zh-Hans=指针左键点击;
+	}
+
+[Pointer click right]
+	{
+	zh-Hans=指针右键点击;
+	}
+
+[Pointer down]
+	{
+	zh-Hans=指针向下;
+	}
+
+[Pointer down left]
+	{
+	zh-Hans=指针向左下;
+	}
+
+[Pointer down right]
+	{
+	zh-Hans=指针向右下;
+	}
+
+[Pointer hold left]
+	{
+	zh-Hans=按住左键;
+	}
+
+[Pointer left]
+	{
+	zh-Hans=指针向左;
+	}
+
+[Pointer let go]
+	{
+	zh-Hans=松开指针;
+	}
+
+[Pointer right]
+	{
+	zh-Hans=指针向右;
+	}
+
+[Pointer up]
+	{
+	zh-Hans=指针向上;
+	}
+
+[Pointer up left]
+	{
+	zh-Hans=指针向左上;
+	}
+
+[Pointer up right]
+	{
+	zh-Hans=指针向右上;
+	}
+
+[Queue five]
+	{
+	zh-Hans=排入五个;
+	}
+
+[Queue hundred]
+	{
+	zh-Hans=排入一百;
+	}
+
+[Scrolls the view while held on the minimap]
+	{
+	zh-Hans=在小地图上按住时滚动视图;
+	}
+
+[Select type]
+	{
+	zh-Hans=选择类型;
+	}
+
+[Select type on screen]
+	{
+	zh-Hans=选择屏幕内的类型;
+	}
+
+[Selects the unit under the pointer, or starts a box]
+	{
+	zh-Hans=选择指针下的单位，或开始框选;
+	}
+
+[That type on screen only]
+	{
+	zh-Hans=仅屏幕内的该类型;
+	}
+
+[The order the pointer shows]
+	{
+	zh-Hans=指针所示的命令;
+	}
+
+[Zoom in]
+	{
+	zh-Hans=放大;
+	}
+
+[Zoom out]
+	{
+	zh-Hans=缩小;
+	}
+
+[Zooms in about the pointer]
+	{
+	zh-Hans=以指针放大;
+	}
+
+[Zooms out about the pointer]
+	{
+	zh-Hans=以指针缩小;
+	}
+
+// Key bindings: Selection.
+
+[Add commander]
+	{
+	zh-Hans=添加指挥官;
+	}
+
+[Adds the commander]
+	{
+	zh-Hans=把指挥官加入选择。;
+	}
+
+[Armed on screen]
+	{
+	zh-Hans=屏幕上的武装单位;
+	}
+
+[Box builders]
+	{
+	zh-Hans=框选建造单位;
+	}
+
+[Box combat]
+	{
+	zh-Hans=框选战斗单位;
+	}
+
+[Box factories]
+	{
+	zh-Hans=框选工厂;
+	}
+
+[Clear selection]
+	{
+	zh-Hans=清除选择;
+	}
+
+[Clears the selection only]
+	{
+	zh-Hans=只清除选择。;
+	}
+
+[Cycles idle constructors, centring on each]
+	{
+	zh-Hans=依次切换空闲建造单位，并逐个居中。;
+	}
+
+[Cycles idle factories]
+	{
+	zh-Hans=依次切换空闲工厂。;
+	}
+
+[Every unit]
+	{
+	zh-Hans=全部单位;
+	}
+
+[Every unit of a selected unit's type]
+	{
+	zh-Hans=与所选单位同一类型的全部单位;
+	}
+
+[Held as a box is released: keep constructors]
+	{
+	zh-Hans=松开框选时若按住：只保留建造单位;
+	}
+
+[Held as a box is released: keep factories]
+	{
+	zh-Hans=松开框选时若按住：只保留工厂;
+	}
+
+[Held as a box is released: keep mobile combat units]
+	{
+	zh-Hans=松开框选时若按住：只保留机动战斗单位;
+	}
+
+[Idle builders]
+	{
+	zh-Hans=空闲建造单位;
+	}
+
+[Idle factories]
+	{
+	zh-Hans=空闲工厂;
+	}
+
+[Mobile armed units on screen, not aircraft]
+	{
+	zh-Hans=屏幕上的机动武装单位，不包括飞机;
+	}
+
+[Next primary]
+	{
+	zh-Hans=下一个主单位;
+	}
+
+[Next selected unit becomes primary]
+	{
+	zh-Hans=下一个所选单位成为主单位。;
+	}
+
+[Previous primary]
+	{
+	zh-Hans=上一个主单位;
+	}
+
+[Previous selected unit becomes primary]
+	{
+	zh-Hans=上一个选中单位成为主单位;
+	}
+
+[Select aircraft]
+	{
+	zh-Hans=选择飞机;
+	}
+
+[Select all]
+	{
+	zh-Hans=选择全部;
+	}
+
+[Select builders]
+	{
+	zh-Hans=选择建造单位;
+	}
+
+[Select commander]
+	{
+	zh-Hans=选择指挥官;
+	}
+
+[Select factories]
+	{
+	zh-Hans=选择工厂;
+	}
+
+[Select on screen]
+	{
+	zh-Hans=选择屏幕内单位;
+	}
+
+[Select same type]
+	{
+	zh-Hans=选择同类型;
+	}
+
+[Select {word}]
+	{
+	zh-Hans=选择{word};
+	}
+
+[Selects and follows the commander]
+	{
+	zh-Hans=选择并跟随指挥官;
+	}
+
+[Selects your units tagged {word}: those on screen, then the whole map on a second press.]
+	{
+	zh-Hans=选择你标记为{word}的单位：先是屏幕内的，再按一次则是整张地图。;
+	}
+
+[Units on screen]
+	{
+	zh-Hans=屏幕内单位;
+	}
+
+[Units tagged CTRL_B]
+	{
+	zh-Hans=标记为CTRL_B的单位;
+	}
+
+[Units tagged CTRL_F]
+	{
+	zh-Hans=标记为CTRL_F的单位;
+	}
+
+[Units tagged CTRL_V]
+	{
+	zh-Hans=标记为CTRL_V的单位;
+	}
+
+// Key bindings: Groups.
+
+[Add group 1]
+	{
+	zh-Hans=加入编队1;
+	}
+
+[Add group 2]
+	{
+	zh-Hans=加入编队2;
+	}
+
+[Add group 3]
+	{
+	zh-Hans=加入编队3;
+	}
+
+[Add group 4]
+	{
+	zh-Hans=加入编队4;
+	}
+
+[Add group 5]
+	{
+	zh-Hans=加入编队5;
+	}
+
+[Add group 6]
+	{
+	zh-Hans=加入编队6;
+	}
+
+[Add group 7]
+	{
+	zh-Hans=加入编队7;
+	}
+
+[Add group 8]
+	{
+	zh-Hans=加入编队8;
+	}
+
+[Add group 9]
+	{
+	zh-Hans=加入编队9;
+	}
+
+[Adds group 1]
+	{
+	zh-Hans=把编队1加入选择。;
+	}
+
+[Adds group 2]
+	{
+	zh-Hans=把编队2加入选择。;
+	}
+
+[Adds group 3]
+	{
+	zh-Hans=把编队3加入选择。;
+	}
+
+[Adds group 4]
+	{
+	zh-Hans=把编队4加入选择。;
+	}
+
+[Adds group 5]
+	{
+	zh-Hans=把编队5加入选择。;
+	}
+
+[Adds group 6]
+	{
+	zh-Hans=把编队6加入选择。;
+	}
+
+[Adds group 7]
+	{
+	zh-Hans=把编队7加入选择。;
+	}
+
+[Adds group 8]
+	{
+	zh-Hans=把编队8加入选择。;
+	}
+
+[Adds group 9]
+	{
+	zh-Hans=把编队9加入选择。;
+	}
+
+[Assign group 1]
+	{
+	zh-Hans=指定编队1;
+	}
+
+[Assign group 2]
+	{
+	zh-Hans=指定编队2;
+	}
+
+[Assign group 3]
+	{
+	zh-Hans=指定编队3;
+	}
+
+[Assign group 4]
+	{
+	zh-Hans=指定编队4;
+	}
+
+[Assign group 5]
+	{
+	zh-Hans=指定编队5;
+	}
+
+[Assign group 6]
+	{
+	zh-Hans=指定编队6;
+	}
+
+[Assign group 7]
+	{
+	zh-Hans=指定编队7;
+	}
+
+[Assign group 8]
+	{
+	zh-Hans=指定编队8;
+	}
+
+[Assign group 9]
+	{
+	zh-Hans=指定编队9;
+	}
+
+[Menu page 1]
+	{
+	zh-Hans=菜单页1;
+	}
+
+[Menu page 2]
+	{
+	zh-Hans=菜单页2;
+	}
+
+[Menu page 3]
+	{
+	zh-Hans=菜单页3;
+	}
+
+[Menu page 4]
+	{
+	zh-Hans=菜单页4;
+	}
+
+[Menu page 5]
+	{
+	zh-Hans=菜单页5;
+	}
+
+[Menu page 6]
+	{
+	zh-Hans=菜单页6;
+	}
+
+[Menu page 7]
+	{
+	zh-Hans=菜单页7;
+	}
+
+[Menu page 8]
+	{
+	zh-Hans=菜单页8;
+	}
+
+[Menu page 9]
+	{
+	zh-Hans=菜单页9;
+	}
+
+[Select group 1]
+	{
+	zh-Hans=选择编队1;
+	}
+
+[Select group 2]
+	{
+	zh-Hans=选择编队2;
+	}
+
+[Select group 3]
+	{
+	zh-Hans=选择编队3;
+	}
+
+[Select group 4]
+	{
+	zh-Hans=选择编队4;
+	}
+
+[Select group 5]
+	{
+	zh-Hans=选择编队5;
+	}
+
+[Select group 6]
+	{
+	zh-Hans=选择编队6;
+	}
+
+[Select group 7]
+	{
+	zh-Hans=选择编队7;
+	}
+
+[Select group 8]
+	{
+	zh-Hans=选择编队8;
+	}
+
+[Select group 9]
+	{
+	zh-Hans=选择编队9;
+	}
+
+[Selects group 1; again centres on it]
+	{
+	zh-Hans=选择编队1，再按一次则居中;
+	}
+
+[Selects group 2; again centres on it]
+	{
+	zh-Hans=选择编队2，再按一次则居中;
+	}
+
+[Selects group 3; again centres on it]
+	{
+	zh-Hans=选择编队3，再按一次则居中;
+	}
+
+[Selects group 4; again centres on it]
+	{
+	zh-Hans=选择编队4，再按一次则居中;
+	}
+
+[Selects group 5; again centres on it]
+	{
+	zh-Hans=选择编队5，再按一次则居中;
+	}
+
+[Selects group 6; again centres on it]
+	{
+	zh-Hans=选择编队6，再按一次则居中;
+	}
+
+[Selects group 7; again centres on it]
+	{
+	zh-Hans=选择编队7，再按一次则居中;
+	}
+
+[Selects group 8; again centres on it]
+	{
+	zh-Hans=选择编队8，再按一次则居中;
+	}
+
+[Selects group 9; again centres on it]
+	{
+	zh-Hans=选择编队9，再按一次则居中;
+	}
+
+[Shows page 0 of the menu (1 is orders)]
+	{
+	zh-Hans=显示菜单第0页（1是命令）;
+	}
+
+[Shows page 1 of the menu (1 is orders)]
+	{
+	zh-Hans=显示菜单第1页（1是命令）;
+	}
+
+[Shows page 2 of the menu (1 is orders)]
+	{
+	zh-Hans=显示菜单第2页（1是命令）;
+	}
+
+[Shows page 3 of the menu (1 is orders)]
+	{
+	zh-Hans=显示菜单第3页（1是命令）;
+	}
+
+[Shows page 4 of the menu (1 is orders)]
+	{
+	zh-Hans=显示菜单第4页（1是命令）;
+	}
+
+[Shows page 5 of the menu (1 is orders)]
+	{
+	zh-Hans=显示菜单第5页（1是命令）;
+	}
+
+[Shows page 6 of the menu (1 is orders)]
+	{
+	zh-Hans=显示菜单第6页（1是命令）;
+	}
+
+[Shows page 7 of the menu (1 is orders)]
+	{
+	zh-Hans=显示菜单第7页（1是命令）;
+	}
+
+[Shows page 8 of the menu (1 is orders)]
+	{
+	zh-Hans=显示菜单第8页（1是命令）;
+	}
+
+[Stores the selection as group 1]
+	{
+	zh-Hans=把选择存为编队1;
+	}
+
+[Stores the selection as group 2]
+	{
+	zh-Hans=把选择存为编队2;
+	}
+
+[Stores the selection as group 3]
+	{
+	zh-Hans=把选择存为编队3;
+	}
+
+[Stores the selection as group 4]
+	{
+	zh-Hans=把选择存为编队4;
+	}
+
+[Stores the selection as group 5]
+	{
+	zh-Hans=把选择存为编队5;
+	}
+
+[Stores the selection as group 6]
+	{
+	zh-Hans=把选择存为编队6;
+	}
+
+[Stores the selection as group 7]
+	{
+	zh-Hans=把选择存为编队7;
+	}
+
+[Stores the selection as group 8]
+	{
+	zh-Hans=把选择存为编队8;
+	}
+
+[Stores the selection as group 9]
+	{
+	zh-Hans=把选择存为编队9;
+	}
+
+// Key bindings: Camera.
+
+[Centres on the next unit not yet visited]
+	{
+	zh-Hans=居中到下一个尚未查看的单位。;
+	}
+
+[Centres on the selected unit, or selects and centres on the commander]
+	{
+	zh-Hans=居中到所选单位，或选中指挥官并居中到它。;
+	}
+
+[Classic view]
+	{
+	zh-Hans=经典视角;
+	}
+
+[Edge scroll]
+	{
+	zh-Hans=边缘滚动;
+	}
+
+[Follow previous]
+	{
+	zh-Hans=跟随上一个;
+	}
+
+[Follows the next selected unit]
+	{
+	zh-Hans=跟随下一个所选单位。;
+	}
+
+[Follows the previous selected unit]
+	{
+	zh-Hans=跟随上一个所选单位。;
+	}
+
+[Go to bookmark 1]
+	{
+	zh-Hans=转到书签1;
+	}
+
+[Go to bookmark 2]
+	{
+	zh-Hans=转到书签2;
+	}
+
+[Go to bookmark 3]
+	{
+	zh-Hans=转到书签3;
+	}
+
+[Go to bookmark 4]
+	{
+	zh-Hans=转到书签4;
+	}
+
+[Pan down]
+	{
+	zh-Hans=向下平移;
+	}
+
+[Pan left]
+	{
+	zh-Hans=向左平移;
+	}
+
+[Pan right]
+	{
+	zh-Hans=向右平移;
+	}
+
+[Pan up]
+	{
+	zh-Hans=向上平移;
+	}
+
+[Puts the Full 3D view's camera back to the classic view]
+	{
+	zh-Hans=把完整3D视图的视角恢复为经典视图;
+	}
+
+[Reset zoom]
+	{
+	zh-Hans=重置缩放;
+	}
+
+[Returns to bookmark 1]
+	{
+	zh-Hans=返回书签1;
+	}
+
+[Returns to bookmark 2]
+	{
+	zh-Hans=返回书签2;
+	}
+
+[Returns to bookmark 3]
+	{
+	zh-Hans=返回书签3;
+	}
+
+[Returns to bookmark 4]
+	{
+	zh-Hans=返回书签4;
+	}
+
+[Scrolls at the window's edge]
+	{
+	zh-Hans=在窗口边缘滚动;
+	}
+
+[Scrolls the view down]
+	{
+	zh-Hans=向下滚动视图;
+	}
+
+[Scrolls the view left]
+	{
+	zh-Hans=向左滚动视图;
+	}
+
+[Scrolls the view right]
+	{
+	zh-Hans=向右滚动视图;
+	}
+
+[Scrolls the view up]
+	{
+	zh-Hans=向上滚动视图;
+	}
+
+[Set bookmark 1]
+	{
+	zh-Hans=设置书签1;
+	}
+
+[Set bookmark 2]
+	{
+	zh-Hans=设置书签2;
+	}
+
+[Set bookmark 3]
+	{
+	zh-Hans=设置书签3;
+	}
+
+[Set bookmark 4]
+	{
+	zh-Hans=设置书签4;
+	}
+
+[Stores the view as bookmark 1]
+	{
+	zh-Hans=把视图存为书签1;
+	}
+
+[Stores the view as bookmark 2]
+	{
+	zh-Hans=把视图存为书签2;
+	}
+
+[Stores the view as bookmark 3]
+	{
+	zh-Hans=把视图存为书签3;
+	}
+
+[Stores the view as bookmark 4]
+	{
+	zh-Hans=把视图存为书签4;
+	}
+
+[The game's own scale]
+	{
+	zh-Hans=游戏自身比例;
+	}
+
+[The next unit the message log reported]
+	{
+	zh-Hans=消息日志报告的下一个单位;
+	}
+
+[Unlocked Camera on or off in the Full 3D view]
+	{
+	zh-Hans=完整3D视图中自由视角开或关;
+	}
+
+[Zoom in key]
+	{
+	zh-Hans=放大键;
+	}
+
+[Zoom out key]
+	{
+	zh-Hans=缩小键;
+	}
+
+[Zooms in about the centre]
+	{
+	zh-Hans=以中心放大;
+	}
+
+[Zooms out about the centre]
+	{
+	zh-Hans=以中心缩小;
+	}
+
+// Key bindings: Building.
+
+[Build cell 1]
+	{
+	zh-Hans=建造按钮1;
+	}
+
+[Build cell 10]
+	{
+	zh-Hans=建造按钮10;
+	}
+
+[Build cell 11]
+	{
+	zh-Hans=建造按钮11;
+	}
+
+[Build cell 12]
+	{
+	zh-Hans=建造按钮12;
+	}
+
+[Build cell 2]
+	{
+	zh-Hans=建造按钮2;
+	}
+
+[Build cell 3]
+	{
+	zh-Hans=建造按钮3;
+	}
+
+[Build cell 4]
+	{
+	zh-Hans=建造按钮4;
+	}
+
+[Build cell 5]
+	{
+	zh-Hans=建造按钮5;
+	}
+
+[Build cell 6]
+	{
+	zh-Hans=建造按钮6;
+	}
+
+[Build cell 7]
+	{
+	zh-Hans=建造按钮7;
+	}
+
+[Build cell 8]
+	{
+	zh-Hans=建造按钮8;
+	}
+
+[Build cell 9]
+	{
+	zh-Hans=建造按钮9;
+	}
+
+[Drags a queued build site]
+	{
+	zh-Hans=拖动已排队的建造地点。;
+	}
+
+[Held while placing: drag lays a line, a click rings a unit]
+	{
+	zh-Hans=放置时按住：拖动会排成一行，点击会环绕一个单位;
+	}
+
+[Held: no mex or wreck snap, and drag queued orders]
+	{
+	zh-Hans=按住：不吸附金属点或残骸，并可拖动已排队的命令;
+	}
+
+[Line build]
+	{
+	zh-Hans=成排建造;
+	}
+
+[Lowers the spacing of a build line]
+	{
+	zh-Hans=缩小成排建造的间距。;
+	}
+
+[Move queued site]
+	{
+	zh-Hans=移动已排队的建造地点;
+	}
+
+[Next facing]
+	{
+	zh-Hans=下一个朝向;
+	}
+
+[Next page of the build menu]
+	{
+	zh-Hans=建造菜单的下一页;
+	}
+
+[Presses build button 1 of the page shown, in reading order]
+	{
+	zh-Hans=按阅读顺序按下当前页的建造按钮1;
+	}
+
+[Presses build button 10 of the page shown, in reading order]
+	{
+	zh-Hans=按阅读顺序按下当前页的建造按钮10;
+	}
+
+[Presses build button 11 of the page shown, in reading order]
+	{
+	zh-Hans=按阅读顺序按下当前页的建造按钮11;
+	}
+
+[Presses build button 12 of the page shown, in reading order]
+	{
+	zh-Hans=按阅读顺序按下当前页的建造按钮12;
+	}
+
+[Presses build button 2 of the page shown, in reading order]
+	{
+	zh-Hans=按阅读顺序按下当前页的建造按钮2;
+	}
+
+[Presses build button 3 of the page shown, in reading order]
+	{
+	zh-Hans=按阅读顺序按下当前页的建造按钮3;
+	}
+
+[Presses build button 4 of the page shown, in reading order]
+	{
+	zh-Hans=按阅读顺序按下当前页的建造按钮4;
+	}
+
+[Presses build button 5 of the page shown, in reading order]
+	{
+	zh-Hans=按阅读顺序按下当前页的建造按钮5;
+	}
+
+[Presses build button 6 of the page shown, in reading order]
+	{
+	zh-Hans=按阅读顺序按下当前页的建造按钮6;
+	}
+
+[Presses build button 7 of the page shown, in reading order]
+	{
+	zh-Hans=按阅读顺序按下当前页的建造按钮7;
+	}
+
+[Presses build button 8 of the page shown, in reading order]
+	{
+	zh-Hans=按阅读顺序按下当前页的建造按钮8;
+	}
+
+[Presses build button 9 of the page shown, in reading order]
+	{
+	zh-Hans=按阅读顺序按下当前页的建造按钮9;
+	}
+
+[Previous page]
+	{
+	zh-Hans=上一页;
+	}
+
+[Previous page of the build menu]
+	{
+	zh-Hans=建造菜单的上一页;
+	}
+
+[Raises the spacing of a build line]
+	{
+	zh-Hans=加大一条建造线的间距;
+	}
+
+[Rotate]
+	{
+	zh-Hans=旋转;
+	}
+
+[Rotate wheel]
+	{
+	zh-Hans=用滚轮旋转;
+	}
+
+[Snap override]
+	{
+	zh-Hans=不吸附;
+	}
+
+[Spacing down]
+	{
+	zh-Hans=减小间距;
+	}
+
+[Spacing up]
+	{
+	zh-Hans=加大间距;
+	}
+
+[Turns the facing]
+	{
+	zh-Hans=转动朝向;
+	}
+
+// Key bindings: Game.
+
+[Allies menu]
+	{
+	zh-Hans=盟友菜单;
+	}
+
+[Chat macro]
+	{
+	zh-Hans=聊天宏;
+	}
+
+[Clear messages]
+	{
+	zh-Hans=清除消息;
+	}
+
+[Clears the message log]
+	{
+	zh-Hans=清空消息记录。;
+	}
+
+[Damage bar mode 1]
+	{
+	zh-Hans=伤害条模式1;
+	}
+
+[Damage bar mode 2]
+	{
+	zh-Hans=伤害条模式2;
+	}
+
+[Damage bar mode 3]
+	{
+	zh-Hans=伤害条模式3;
+	}
+
+[Damage bar mode 4]
+	{
+	zh-Hans=伤害条模式4;
+	}
+
+[Damage bars]
+	{
+	zh-Hans=伤害条;
+	}
+
+[Damage bars on or off]
+	{
+	zh-Hans=伤害条开或关;
+	}
+
+[Damage bars the way the shifted 1 key shows them]
+	{
+	zh-Hans=按Shift+1那样显示伤害条。;
+	}
+
+[Damage bars the way the shifted 3 key shows them]
+	{
+	zh-Hans=按Shift+3那样显示伤害条。;
+	}
+
+[Damage bars the way the shifted 8 key shows them]
+	{
+	zh-Hans=按Shift+8那样显示伤害条。;
+	}
+
+[Damage bars the way the shifted backquote key shows them]
+	{
+	zh-Hans=按Shift+反引号那样显示伤害条。;
+	}
+
+[Held: the status strip and kills board]
+	{
+	zh-Hans=按住：显示状态条和击杀榜;
+	}
+
+[Kills board]
+	{
+	zh-Hans=击杀榜;
+	}
+
+[One speed step faster]
+	{
+	zh-Hans=速度加快一档;
+	}
+
+[One speed step slower]
+	{
+	zh-Hans=速度减慢一档;
+	}
+
+[Open allies chat]
+	{
+	zh-Hans=打开盟友聊天;
+	}
+
+[Open chat]
+	{
+	zh-Hans=打开聊天;
+	}
+
+[Opens the chat line]
+	{
+	zh-Hans=打开聊天输入行;
+	}
+
+[Opens the chat line to allies]
+	{
+	zh-Hans=打开发给盟友的聊天输入行;
+	}
+
+[Pause on or off]
+	{
+	zh-Hans=暂停开或关;
+	}
+
+[Pin unit]
+	{
+	zh-Hans=钉住单位;
+	}
+
+[Pins the kills board]
+	{
+	zh-Hans=钉住击杀榜;
+	}
+
+[Pins the unit under the pointer]
+	{
+	zh-Hans=钉住指针下的单位;
+	}
+
+[Repeat command]
+	{
+	zh-Hans=重复聊天命令;
+	}
+
+[Runs the last chat command again]
+	{
+	zh-Hans=再次执行上一条聊天命令;
+	}
+
+[Saves a screenshot]
+	{
+	zh-Hans=保存截图;
+	}
+
+[Screenshot]
+	{
+	zh-Hans=截图;
+	}
+
+[Sends the mod's chat macro]
+	{
+	zh-Hans=发送模组的聊天宏;
+	}
+
+[Share panel]
+	{
+	zh-Hans=共享面板;
+	}
+
+[Speed down]
+	{
+	zh-Hans=减速;
+	}
+
+[Speed up]
+	{
+	zh-Hans=加速;
+	}
+
+[Status strip]
+	{
+	zh-Hans=状态条;
+	}
+
+[The Escape chain: armed order, selection, then the game menu]
+	{
+	zh-Hans=Escape链：已启用的命令、选择，然后是游戏菜单;
+	}
+
+[The allies menu]
+	{
+	zh-Hans=盟友菜单;
+	}
+
+[The in-game menu, or resumes]
+	{
+	zh-Hans=游戏内菜单，或继续;
+	}
+
+[The mod's options dialog]
+	{
+	zh-Hans=模组的选项对话框;
+	}
+
+[The resource panel on or off]
+	{
+	zh-Hans=资源面板开或关;
+	}
+
+[The share panel]
+	{
+	zh-Hans=共享面板;
+	}
+
+[The unit info panel]
+	{
+	zh-Hans=单位信息面板;
+	}
+
+[Unit info]
+	{
+	zh-Hans=单位信息;
+	}
+
+// Key bindings: Chat.
+
+[Cancel chat]
+	{
+	zh-Hans=取消聊天;
+	}
+
+[Closes the line]
+	{
+	zh-Hans=关闭这一行。;
+	}
+
+[Send chat]
+	{
+	zh-Hans=发送聊天;
+	}
+
+[Sends the line]
+	{
+	zh-Hans=发送这一行;
+	}
+
+// Key bindings: Watching.
+
+[Lock view]
+	{
+	zh-Hans=锁定视角;
+	}
+
+[Locks onto that player's camera]
+	{
+	zh-Hans=锁定到该玩家的视角。;
+	}
+
+[Player view]
+	{
+	zh-Hans=玩家视图;
+	}
+
+[Takes the view of the player whose row is clicked]
+	{
+	zh-Hans=采用所点那一行玩家的视图;
+	}
+
+// Key bindings: Window.
+
+[Accepts the screen, or presses the focused control]
+	{
+	zh-Hans=接受这个画面，或按下焦点所在的控件。;
+	}
+
+[Answers no]
+	{
+	zh-Hans=回答否;
+	}
+
+[Answers yes]
+	{
+	zh-Hans=回答是;
+	}
+
+[Cancel screen]
+	{
+	zh-Hans=取消画面;
+	}
+
+[Closes the screen on top]
+	{
+	zh-Hans=关闭最上层的画面。;
+	}
+
+[Down]
+	{
+	zh-Hans=向下;
+	}
+
+[Find]
+	{
+	zh-Hans=查找;
+	}
+
+[Finds on the screen]
+	{
+	zh-Hans=在画面上查找。;
+	}
+
+[Full screen]
+	{
+	zh-Hans=全屏;
+	}
+
+[Full screen on or off]
+	{
+	zh-Hans=全屏开或关;
+	}
+
+[Go to end]
+	{
+	zh-Hans=转到末尾;
+	}
+
+[Go to start]
+	{
+	zh-Hans=转到开头;
+	}
+
+[Information]
+	{
+	zh-Hans=信息;
+	}
+
+[Keys overlay]
+	{
+	zh-Hans=按键叠加层;
+	}
+
+[Left]
+	{
+	zh-Hans=向左;
+	}
+
+[Lets a captured pointer go]
+	{
+	zh-Hans=放开被捕获的指针。;
+	}
+
+[Moves the focus down]
+	{
+	zh-Hans=将焦点向下移动。;
+	}
+
+[Moves the focus left, or steps a control]
+	{
+	zh-Hans=将焦点向左移动，或切换控件。;
+	}
+
+[Moves the focus right, or steps a control]
+	{
+	zh-Hans=将焦点向右移动，或切换控件。;
+	}
+
+[Moves the focus to the next control]
+	{
+	zh-Hans=把焦点移到下一个控件。;
+	}
+
+[Moves the focus to the previous control]
+	{
+	zh-Hans=把焦点移到上一个控件。;
+	}
+
+[Moves the focus up]
+	{
+	zh-Hans=将焦点向上移动。;
+	}
+
+[Next control]
+	{
+	zh-Hans=下一个控件;
+	}
+
+[Next tab]
+	{
+	zh-Hans=下一个标签;
+	}
+
+[No]
+	{
+	zh-Hans=否;
+	}
+
+[Opens Settings]
+	{
+	zh-Hans=打开设置;
+	}
+
+[Page down]
+	{
+	zh-Hans=Page Down;
+	}
+
+[Page up]
+	{
+	zh-Hans=Page Up;
+	}
+
+[Paste]
+	{
+	zh-Hans=粘贴;
+	}
+
+[Pastes the clipboard into the focused text field]
+	{
+	zh-Hans=把剪贴板粘贴到焦点所在的文本框;
+	}
+
+[Press]
+	{
+	zh-Hans=按下;
+	}
+
+[Presses the focused control]
+	{
+	zh-Hans=按下焦点所在的控件;
+	}
+
+[Previous control]
+	{
+	zh-Hans=上一个控件;
+	}
+
+[Previous tab]
+	{
+	zh-Hans=上一个标签;
+	}
+
+[Quits]
+	{
+	zh-Hans=退出游戏;
+	}
+
+[Refreshes the screen]
+	{
+	zh-Hans=刷新画面;
+	}
+
+[Release pointer]
+	{
+	zh-Hans=释放指针;
+	}
+
+[Right]
+	{
+	zh-Hans=向右;
+	}
+
+[Scrolls down]
+	{
+	zh-Hans=向下滚动;
+	}
+
+[Scrolls to the end, or moves to the end of a text field]
+	{
+	zh-Hans=滚到末尾，或移到文本框末尾;
+	}
+
+[Scrolls to the top, or moves to the start of a text field]
+	{
+	zh-Hans=滚到顶端，或移到文本框开头;
+	}
+
+[Scrolls up]
+	{
+	zh-Hans=向上滚动;
+	}
+
+[Shows more about what the focus is on]
+	{
+	zh-Hans=显示焦点所在项的更多信息;
+	}
+
+[Shows the next tab]
+	{
+	zh-Hans=显示下一个标签;
+	}
+
+[Shows the previous tab]
+	{
+	zh-Hans=显示上一个标签;
+	}
+
+[The keys overlay for the screen shown]
+	{
+	zh-Hans=当前画面的按键叠加;
+	}
+
+[Yes]
+	{
+	zh-Hans=是;
+	}
+
+// Key bindings: Menus.
+
+[Accept]
+	{
+	zh-Hans=接受;
+	}
+
+[Cancel menu]
+	{
+	zh-Hans=取消菜单;
+	}
+
+[Closes the menu, or answers its cancel]
+	{
+	zh-Hans=关闭菜单，或回应它的取消。;
+	}
+
+[Focus down]
+	{
+	zh-Hans=焦点向下;
+	}
+
+[Focus left]
+	{
+	zh-Hans=焦点向左;
+	}
+
+[Focus right]
+	{
+	zh-Hans=焦点向右;
+	}
+
+[Focus up]
+	{
+	zh-Hans=焦点向上;
+	}
+
+[List down]
+	{
+	zh-Hans=列表向下;
+	}
+
+[List up]
+	{
+	zh-Hans=列表向上;
+	}
+
+[Moves the focus down. Down itself steps a list]
+	{
+	zh-Hans=将焦点向下移动。单独按向下会翻动列表。;
+	}
+
+[Moves the focus left from a button]
+	{
+	zh-Hans=把焦点从按钮向左移。;
+	}
+
+[Moves the focus right from a button]
+	{
+	zh-Hans=把焦点从按钮向右移。;
+	}
+
+[Moves the focus to the next button]
+	{
+	zh-Hans=把焦点移到下一个按钮。;
+	}
+
+[Moves the focus to the previous button]
+	{
+	zh-Hans=把焦点移到上一个按钮。;
+	}
+
+[Moves the focus up. Up itself steps a list]
+	{
+	zh-Hans=将焦点向上移动。单独按向上会翻动列表。;
+	}
+
+[Next button]
+	{
+	zh-Hans=下一个按钮;
+	}
+
+[Press button]
+	{
+	zh-Hans=按下按钮;
+	}
+
+[Presses the focused button]
+	{
+	zh-Hans=按下焦点所在的按钮;
+	}
+
+[Presses the focused button, or the screen's default]
+	{
+	zh-Hans=按下焦点所在的按钮，或画面的默认按钮;
+	}
+
+[Previous button]
+	{
+	zh-Hans=上一个按钮;
+	}
+
+[Steps a list down, or moves the focus down from a button]
+	{
+	zh-Hans=在列表中下移一步，或把焦点从按钮下移;
+	}
+
+[Steps a list up, or moves the focus up from a button]
+	{
+	zh-Hans=在列表中上移一步，或把焦点从按钮上移;
+	}
+
+// Key bindings: Developer.
+
+[Cycles the overlay]
+	{
+	zh-Hans=依次切换叠加层。;
+	}
+
+[Debug keys]
+	{
+	zh-Hans=调试按键;
+	}
+
+[Debug keys on or off]
+	{
+	zh-Hans=调试按键开或关;
+	}
+
+[Developer info]
+	{
+	zh-Hans=开发者信息;
+	}
+
+[Kill under pointer]
+	{
+	zh-Hans=消灭指针下的单位;
+	}
+
+[Kills the unit under the pointer]
+	{
+	zh-Hans=消灭指针下的那个单位。;
+	}
+
+[Movie capture]
+	{
+	zh-Hans=录制影片;
+	}
+
+[Overlay]
+	{
+	zh-Hans=叠加;
+	}
+
+[Refill]
+	{
+	zh-Hans=补满;
+	}
+
+[Refills resources]
+	{
+	zh-Hans=补满资源;
+	}
+
+[The developer information key]
+	{
+	zh-Hans=开发者信息键;
+	}
+
+// Key bindings: Megamap.
+
+[Close megamap]
+	{
+	zh-Hans=关闭全景地图;
+	}
+
+[Closes the megamap and centres on the pointer]
+	{
+	zh-Hans=关闭全景地图，并居中到指针。;
+	}
+
+[Jumps the view to a point of the megamap]
+	{
+	zh-Hans=把视角跳到全景地图上的一点。;
+	}
+
+[Megamap jump]
+	{
+	zh-Hans=全景地图跳转;
+	}
+
+[Open megamap]
+	{
+	zh-Hans=打开全景地图;
+	}
+
+[Opens the megamap]
+	{
+	zh-Hans=打开全景地图;
+	}
+
+[The megamap on or off]
+	{
+	zh-Hans=全景地图开或关;
+	}
+
+// Key bindings: Whiteboard.
+
+[Dot]
+	{
+	zh-Hans=点;
+	}
+
+[Draw]
+	{
+	zh-Hans=绘制;
+	}
+
+[Draws a line]
+	{
+	zh-Hans=画一条线。;
+	}
+
+[Erase]
+	{
+	zh-Hans=擦除;
+	}
+
+[Erases a marker]
+	{
+	zh-Hans=擦除一个标记。;
+	}
+
+[Goes to the newest marker]
+	{
+	zh-Hans=转到最新的标记。;
+	}
+
+[Held: the whiteboard takes the mouse]
+	{
+	zh-Hans=按住：白板接管鼠标;
+	}
+
+[Line]
+	{
+	zh-Hans=线;
+	}
+
+[Move marker]
+	{
+	zh-Hans=移动标记;
+	}
+
+[Moves a marker]
+	{
+	zh-Hans=移动一个标记。;
+	}
+
+[Newest marker]
+	{
+	zh-Hans=最新标记;
+	}
+
+[Places a dot]
+	{
+	zh-Hans=放置圆点;
+	}
+
+[Places text]
+	{
+	zh-Hans=放置文字;
+	}
+
+[Wipe]
+	{
+	zh-Hans=擦除;
+	}
+
+[Wipes the board]
+	{
+	zh-Hans=擦除白板;
+	}
+
+// The key editor.
+
+[+ Add a key]
+	{
+	zh-Hans=+添加按键;
+	}
+
+[1 unsaved edit]
+	{
+	zh-Hans=未保存编辑1项;
+	}
+
+[Add a key · {context}]
+	{
+	zh-Hans=添加按键 · {context};
+	}
+
+[All actions]
+	{
+	zh-Hans=全部动作;
+	}
+
+[Change a key · {context}]
+	{
+	zh-Hans=更改按键 · {context};
+	}
+
+[Change {action}'s key…]
+	{
+	zh-Hans=更改{action}的按键…;
+	}
+
+[Choose an action]
+	{
+	zh-Hans=选择一个动作;
+	}
+
+[Edit keys…]
+	{
+	zh-Hans=编辑按键…;
+	}
+
+[Grey keys are free while playing. Select a key to see what it does in each place.]
+	{
+	zh-Hans=灰色按键在游戏中空闲。请选择一个按键，查看它在每个位置的作用。;
+	}
+
+[No unsaved edits]
+	{
+	zh-Hans=没有未保存的编辑;
+	}
+
+[{modifier}+/ or Escape closes this. More in Edit keys…]
+	{
+	zh-Hans={modifier}+/或Escape可关闭此界面。更多内容在编辑按键…中。;
+	}
+
+[{n} unsaved]
+	{
+	zh-Hans=未保存{n}项;
+	}
+
+[{n} unsaved edits]
+	{
+	zh-Hans=未保存的编辑{n}项;
+	}
+
+// Capture and clashes.
+
+[Always {description} in Open Annihilation. Choose another key.]
+	{
+	zh-Hans=在Open Annihilation中，它始终是{description}。请另选一个按键。;
+	}
+
+[Choose another key]
+	{
+	zh-Hans=另选一个按键;
+	}
+
+[Clashes]
+	{
+	zh-Hans=冲突;
+	}
+
+[Click the key to try another.]
+	{
+	zh-Hans=请点击这个按键，再试另一个。;
+	}
+
+[Click the key, then press another to look it up.]
+	{
+	zh-Hans=请点击这个按键，再按下另一个来查询它。;
+	}
+
+[One clash: {chord} already belongs to {action}. Apply keeps yours and lists the clash.]
+	{
+	zh-Hans=一处冲突：{chord}已属于{action}。应用会保留你的键，并列出该冲突。;
+	}
+
+[Settle 1 clash to save]
+	{
+	zh-Hans=解决1处冲突才能保存;
+	}
+
+[Settle {n} clashes to save]
+	{
+	zh-Hans=解决{n}处冲突才能保存;
+	}
+
+[Settle…]
+	{
+	zh-Hans=解决…;
+	}
+
+// Sharing and import.
+
+[Copy as text]
+	{
+	zh-Hans=复制为文本;
+	}
+
+[Import 1 key]
+	{
+	zh-Hans=导入按键1个;
+	}
+
+[Import keys from an older setup]
+	{
+	zh-Hans=从较旧的配置导入按键;
+	}
+
+[Import {n} keys]
+	{
+	zh-Hans=导入按键{n}个;
+	}
+
+[Imported from {file}]
+	{
+	zh-Hans=从{file}导入;
+	}
+
+[Importing gives the key to this action and leaves {action} without it.]
+	{
+	zh-Hans=导入会把这个按键交给此动作，并让{action}失去它。;
+	}
+
+[Import…]
+	{
+	zh-Hans=导入…;
+	}
+
+[It holds no oakeys.yaml at its top, or in a single folder at its top.]
+	{
+	zh-Hans=它的顶层没有oakeys.yaml，顶层的单个文件夹里也没有。;
+	}
+
+[Its oakeys.yaml has errors:]
+	{
+	zh-Hans=它的oakeys.yaml有错误：;
+	}
+
+[Its oakeys.yaml is larger than 256 KiB.]
+	{
+	zh-Hans=它的oakeys.yaml大于256 KiB。;
+	}
+
+[Key layout packages (.oakeys)]
+	{
+	zh-Hans=按键布局包（.oakeys）;
+	}
+
+[Numbers are Windows key codes, read as key places. The changes go on top of your layout as "Imported from {file}". Nothing else changes.]
+	{
+	zh-Hans=数字是Windows按键码，依照按键位置读取。这些更改会以「从{file}导入」叠在你的按键布局之上。其他都不改变。;
+	}
+
+[Paste keys]
+	{
+	zh-Hans=粘贴按键;
+	}
+
+[Paste…]
+	{
+	zh-Hans=粘贴…;
+	}
+
+[Share your keys]
+	{
+	zh-Hans=分享你的按键;
+	}
+
+[Share…]
+	{
+	zh-Hans=分享…;
+	}
+
+[The file is a .oakeys package anyone can open in Open Annihilation. The text carries the keys alone, for a forum or a chat.]
+	{
+	zh-Hans=此文件是.oakeys包，谁都能在Open Annihilation中打开。文本只含按键，供论坛或聊天使用。;
+	}
+
+[This text is not a key layout.]
+	{
+	zh-Hans=这段文字不是按键布局。;
+	}
+
+// The overlay and badges.
+
+[Arrange Overlays]
+	{
+	zh-Hans=排列叠加层;
+	}
+
+[Drag an overlay where it suits you. Each screen size keeps its own places.]
+	{
+	zh-Hans=请把叠加层拖到你觉得合适的地方。每种屏幕尺寸会记住自己的位置。;
+	}
+
+[Hold Ctrl + D to try Hold to confirm.]
+	{
+	zh-Hans=请按住Ctrl + D，试用按住以确认。;
+	}
+
+[Hold to confirm]
+	{
+	zh-Hans=按住以确认;
+	}
+
+[Hold to confirm {action}]
+	{
+	zh-Hans=按住以确认{action};
+	}
+
+[How long a hold is: hold to confirm, and keys bound to a hold.]
+	{
+	zh-Hans=一次按住要持续多久：用于按住以确认，以及绑定为按住的按键。;
+	}
+
+[Keys Overlay]
+	{
+	zh-Hans=按键叠加层;
+	}
+
+[Latch Chips]
+	{
+	zh-Hans=锁定标签;
+	}
+
+[Overlays]
+	{
+	zh-Hans=叠加层;
+	}
+
+[Queue and the status strip latch: tap on, tap off. A chip shows each one on.]
+	{
+	zh-Hans=排队和状态条会锁定：点按开启，再点按关闭。标记会显示每一项已开启。;
+	}
+
+[hold to confirm]
+	{
+	zh-Hans=按住以确认;
+	}
+
+[{name} · latched]
+	{
+	zh-Hans={name} · 已锁定;
+	}
+
+// Settings › Controls.
+
+[A double press]
+	{
+	zh-Hans=双按;
+	}
+
+[Bounce keys]
+	{
+	zh-Hans=弹跳键;
+	}
+
+[Double press]
+	{
+	zh-Hans=双按;
+	}
+
+[Drag threshold]
+	{
+	zh-Hans=拖动阈值;
+	}
+
+[Edge scrolling]
+	{
+	zh-Hans=边缘滚动;
+	}
+
+[Edge scrolling off]
+	{
+	zh-Hans=边缘滚动关;
+	}
+
+[Full screen, screenshot and pointer keys]
+	{
+	zh-Hans=全屏、截图和指针按键;
+	}
+
+[Holding a mouse button opens the order wheel at the pointer.]
+	{
+	zh-Hans=按住鼠标键会在指针处打开命令轮盘。;
+	}
+
+[INSTALL KEY LAYOUT]
+	{
+	zh-Hans=安装按键布局;
+	}
+
+[INSTALLING KEY LAYOUT]
+	{
+	zh-Hans=正在安装按键布局;
+	}
+
+[Install the key layout {name} {version}?]
+	{
+	zh-Hans=要安装按键布局{name} {version}吗？;
+	}
+
+[It holds more than {limit} folders, more than a key layout may take.]
+	{
+	zh-Hans=其中的文件夹超过{limit}个，超过了按键布局允许的数量。;
+	}
+
+[It unpacks to {size} from {packed}, far more than a key layout's files take.]
+	{
+	zh-Hans=它从{packed}解压后为{size}，远超按键布局文件应有的大小。;
+	}
+
+[It unpacks to {size}, more than the {limit} a key layout may take.]
+	{
+	zh-Hans=它解压后为{size}，超过了按键布局可占用的{limit}。;
+	}
+
+[KEY LAYOUT INSTALLED]
+	{
+	zh-Hans=按键布局已安装;
+	}
+
+[KEY LAYOUT NOT INSTALLED]
+	{
+	zh-Hans=按键布局未安装;
+	}
+
+[KEY LAYOUT UPDATED]
+	{
+	zh-Hans=按键布局已更新;
+	}
+
+[Key layout]
+	{
+	zh-Hans=按键布局;
+	}
+
+[Key layout with {mod}]
+	{
+	zh-Hans=配合{mod}的按键布局;
+	}
+
+[Key layouts]
+	{
+	zh-Hans=按键布局;
+	}
+
+[Mods, maps and key layouts]
+	{
+	zh-Hans=模组、地图和按键布局;
+	}
+
+[Order wheel]
+	{
+	zh-Hans=命令轮盘;
+	}
+
+[Order wheel on the held middle button]
+	{
+	zh-Hans=按住中键时显示命令轮盘;
+	}
+
+[Order wheel on the held right button]
+	{
+	zh-Hans=按住右键时显示命令轮盘;
+	}
+
+[Pointer keys]
+	{
+	zh-Hans=指针键;
+	}
+
+[REINSTALL KEY LAYOUT]
+	{
+	zh-Hans=重新安装按键布局;
+	}
+
+[REPLACE KEY LAYOUT]
+	{
+	zh-Hans=替换按键布局;
+	}
+
+[Search key layouts]
+	{
+	zh-Hans=搜索按键布局;
+	}
+
+[Sticky modifiers]
+	{
+	zh-Hans=粘滞修饰键;
+	}
+
+[The folder {name} does not hold this key layout. It is left as it is.]
+	{
+	zh-Hans=文件夹{name}不含此按键布局。它会保持原样。;
+	}
+
+[The package holds {name}, outside the files a key layout may hold.]
+	{
+	zh-Hans=软件包中有{name}，不在按键布局可以包含的文件之中。;
+	}
+
+[Two presses this close are a double press, and two clicks a double click.]
+	{
+	zh-Hans=相隔这么近的两次按下算作双按，两次点击算作双击。;
+	}
+
+[UPDATE KEY LAYOUT]
+	{
+	zh-Hans=更新按键布局;
+	}
+
+[Used while {mod} is played. Same as the game uses Key layout.]
+	{
+	zh-Hans=游玩{mod}时使用。「与游戏相同」会采用按键布局。;
+	}
+
+[Your Keys folder changed while this key layout was being installed; nothing was changed. Open the file again.]
+	{
+	zh-Hans=安装此按键布局时，你的Keys文件夹发生了变化，未做任何更改。请重新打开该文件。;
+	}
+
+[key layouts]
+	{
+	zh-Hans=按键布局;
+	}
+
+// Settings › Accessibility.
+
+[ACCESSIBILITY]
+	{
+	zh-Hans=无障碍;
+	}
+
+[Accessibility]
+	{
+	zh-Hans=无障碍;
+	}
+
+[How soon a held camera, speed or page key repeats, and how fast.]
+	{
+	zh-Hans=按住的视角键、速度键或翻页键多久开始重复，以及有多快。;
+	}
+
+[Key repeat delay]
+	{
+	zh-Hans=按键重复延迟;
+	}
+
+[Key repeat rate]
+	{
+	zh-Hans=按键重复速率;
+	}
+
+[Off in Settings › Accessibility]
+	{
+	zh-Hans=设置 › 辅助功能中为关闭;
+	}
+
+[Repeat]
+	{
+	zh-Hans=重复;
+	}
+
+[Slow keys]
+	{
+	zh-Hans=慢速键;
+	}
+
+// Library › Keys.
+
+[Another copy of Open Annihilation is changing your Keys folder. Try again once it has finished.]
+	{
+	zh-Hans=另一个Open Annihilation正在更改你的Keys文件夹。请等它完成后再试。;
+	}
+
+[Either way it stays saved with {name}, and comes back when you use {name} again.]
+	{
+	zh-Hans=无论怎样，它都会与{name}保存在一起，你再次使用{name}时它会回来。;
+	}
+
+[Either way they stay saved with {name}, and come back when you use {name} again.]
+	{
+	zh-Hans=无论怎样，它们都会与{name}保存在一起，你再次使用{name}时它们会回来。;
+	}
+
+[It needs {size} free, and the disk holding your Keys folder has {free}.]
+	{
+	zh-Hans=它需要{size}可用空间，而你的Keys文件夹所在磁盘只有{free}。;
+	}
+
+[OA default]
+	{
+	zh-Hans=OA默认;
+	}
+
+[Use {name}]
+	{
+	zh-Hans=使用{name};
+	}
+
+[You play with {name} now. Uninstall it and go back to OA default? Your own changes stay saved.]
+	{
+	zh-Hans=你现在使用{name}。要卸载并回到OA默认吗？自己的更改会保留。;
+	}
+
+[Your Keys folder has no free folder name for it.]
+	{
+	zh-Hans=你的Keys文件夹没有空余的文件夹名。;
+	}
+
+// Named keys.
+
+[Again]
+	{
+	zh-Hans=重复;
+	}
+
+[Arrow down]
+	{
+	zh-Hans=下箭头;
+	}
+
+[Arrow left]
+	{
+	zh-Hans=左箭头;
+	}
+
+[Arrow right]
+	{
+	zh-Hans=右箭头;
+	}
+
+[Arrow up]
+	{
+	zh-Hans=上箭头;
+	}
+
+[Audio volume down]
+	{
+	zh-Hans=音量降低;
+	}
+
+[Audio volume mute]
+	{
+	zh-Hans=静音;
+	}
+
+[Audio volume up]
+	{
+	zh-Hans=音量升高;
+	}
+
+[Back button]
+	{
+	zh-Hans=后退键;
+	}
+
+[Backquote]
+	{
+	zh-Hans=反引号;
+	}
+
+[Backslash]
+	{
+	zh-Hans=反斜杠;
+	}
+
+[Backspace]
+	{
+	zh-Hans=退格;
+	}
+
+[Bracket left]
+	{
+	zh-Hans=左方括号;
+	}
+
+[Bracket right]
+	{
+	zh-Hans=右方括号;
+	}
+
+[Browser back]
+	{
+	zh-Hans=浏览器后退;
+	}
+
+[Browser favorites]
+	{
+	zh-Hans=浏览器收藏;
+	}
+
+[Browser forward]
+	{
+	zh-Hans=浏览器前进;
+	}
+
+[Browser home]
+	{
+	zh-Hans=浏览器主页;
+	}
+
+[Browser refresh]
+	{
+	zh-Hans=浏览器刷新;
+	}
+
+[Browser search]
+	{
+	zh-Hans=浏览器搜索;
+	}
+
+[Browser stop]
+	{
+	zh-Hans=浏览器停止;
+	}
+
+[Button]
+	{
+	zh-Hans=鼠标键;
+	}
+
+[Comma]
+	{
+	zh-Hans=逗号;
+	}
+
+[Context menu]
+	{
+	zh-Hans=菜单键;
+	}
+
+[Convert]
+	{
+	zh-Hans=变换;
+	}
+
+[Cut]
+	{
+	zh-Hans=剪切;
+	}
+
+[Delete]
+	{
+	zh-Hans=Delete;
+	}
+
+[Digit]
+	{
+	zh-Hans=数字;
+	}
+
+[Eject]
+	{
+	zh-Hans=弹出;
+	}
+
+[End]
+	{
+	zh-Hans=End;
+	}
+
+[Equal]
+	{
+	zh-Hans=等号;
+	}
+
+[Escape]
+	{
+	zh-Hans=Escape;
+	}
+
+[Forward button]
+	{
+	zh-Hans=前进键;
+	}
+
+[Help]
+	{
+	zh-Hans=帮助;
+	}
+
+[Home key]
+	{
+	zh-Hans=Home键;
+	}
+
+[Insert]
+	{
+	zh-Hans=插入;
+	}
+
+[Intl backslash]
+	{
+	zh-Hans=国际反斜杠;
+	}
+
+[Intl ro]
+	{
+	zh-Hans=Ro;
+	}
+
+[Intl yen]
+	{
+	zh-Hans=日元;
+	}
+
+[Kana mode]
+	{
+	zh-Hans=假名;
+	}
+
+[Left button]
+	{
+	zh-Hans=左键;
+	}
+
+[Media play pause]
+	{
+	zh-Hans=媒体播放暂停;
+	}
+
+[Media select]
+	{
+	zh-Hans=媒体选择;
+	}
+
+[Media stop]
+	{
+	zh-Hans=媒体停止;
+	}
+
+[Media track next]
+	{
+	zh-Hans=下一曲目;
+	}
+
+[Media track previous]
+	{
+	zh-Hans=上一曲目;
+	}
+
+[Middle button]
+	{
+	zh-Hans=中键;
+	}
+
+[Non convert]
+	{
+	zh-Hans=无变换;
+	}
+
+[Numpad]
+	{
+	zh-Hans=小键盘;
+	}
+
+[Numpad add]
+	{
+	zh-Hans=小键盘加;
+	}
+
+[Numpad backspace]
+	{
+	zh-Hans=小键盘退格;
+	}
+
+[Numpad clear]
+	{
+	zh-Hans=小键盘清除;
+	}
+
+[Numpad clear entry]
+	{
+	zh-Hans=小键盘清除输入;
+	}
+
+[Numpad comma]
+	{
+	zh-Hans=小键盘逗号;
+	}
+
+[Numpad decimal]
+	{
+	zh-Hans=小键盘小数点;
+	}
+
+[Numpad divide]
+	{
+	zh-Hans=小键盘除;
+	}
+
+[Numpad enter]
+	{
+	zh-Hans=小键盘Enter;
+	}
+
+[Numpad equal]
+	{
+	zh-Hans=小键盘等号;
+	}
+
+[Numpad hash]
+	{
+	zh-Hans=小键盘井号;
+	}
+
+[Numpad memory add]
+	{
+	zh-Hans=小键盘记忆加;
+	}
+
+[Numpad memory clear]
+	{
+	zh-Hans=小键盘记忆清除;
+	}
+
+[Numpad memory recall]
+	{
+	zh-Hans=小键盘记忆读出;
+	}
+
+[Numpad memory store]
+	{
+	zh-Hans=小键盘记忆存入;
+	}
+
+[Numpad memory subtract]
+	{
+	zh-Hans=小键盘记忆减;
+	}
+
+[Numpad multiply]
+	{
+	zh-Hans=小键盘乘;
+	}
+
+[Numpad paren left]
+	{
+	zh-Hans=小键盘左括号;
+	}
+
+[Numpad paren right]
+	{
+	zh-Hans=小键盘右括号;
+	}
+
+[Numpad subtract]
+	{
+	zh-Hans=小键盘减;
+	}
+
+[Pad]
+	{
+	zh-Hans=Pad;
+	}
+
+[Period]
+	{
+	zh-Hans=句点;
+	}
+
+[Power]
+	{
+	zh-Hans=电源;
+	}
+
+[Print screen]
+	{
+	zh-Hans=打印屏幕;
+	}
+
+[Quote]
+	{
+	zh-Hans=撇号;
+	}
+
+[Right button]
+	{
+	zh-Hans=右键;
+	}
+
+[Semicolon]
+	{
+	zh-Hans=分号;
+	}
+
+[Slash]
+	{
+	zh-Hans=斜杠;
+	}
+
+[Sleep]
+	{
+	zh-Hans=睡眠;
+	}
+
+[Wake up]
+	{
+	zh-Hans=唤醒;
+	}
+
+[Wheel down]
+	{
+	zh-Hans=滚轮向下;
+	}
+
+[Wheel left]
+	{
+	zh-Hans=滚轮向左;
+	}
+
+[Wheel right]
+	{
+	zh-Hans=滚轮向右;
+	}
+
+[Wheel up]
+	{
+	zh-Hans=滚轮向上;
+	}
+
+[Win]
+	{
+	zh-Hans=Win;
+	}
+
+[double]
+	{
+	zh-Hans=双按;
+	}
+
+[hold]
+	{
+	zh-Hans=按住;
+	}
+
+// Weapon and side limits.
+
+[*** The launch gives a computer player side {side}, which computer players cannot take in this game.]
+	{
+	zh-Hans=*** 启动给电脑玩家指定了阵营{side}，但电脑玩家在本局不能使用该阵营。;
+	}
+
+[*** The launch names side {side}, which this game does not have.]
+	{
+	zh-Hans=*** 启动指定了阵营{side}，但本游戏没有这个阵营。;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than 256 weapon types.]
+	{
+	zh-Hans=*** {player}使用的是Total Annihilation 3.1c，该版本无法使用武器类型超过256种的模组。;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than five sides.]
+	{
+	zh-Hans=*** {player}使用的是Total Annihilation 3.1c，该版本无法使用超过五个阵营的模组。;
+	}
+
+[This recording needs a mod with {n} weapon types and {m} sides.]
+	{
+	zh-Hans=此录像需要一个有{n}种武器类型和{m}个阵营的模组。;
+	}
+
+[This recording was made with 256 weapon types and five sides. The mod you are playing has more.]
+	{
+	zh-Hans=此录像以256种武器类型和五个阵营制作。你正在玩的模组比这更多。;
+	}
+
+[Weapon types]
+	{
+	zh-Hans=武器类型;
+	}
+
+// Updates.
+
+[Back on {version}]
+	{
+	zh-Hans=已回到{version};
+	}
+
+[Check for updates]
+	{
+	zh-Hans=检查更新;
+	}
+
+[Checking for updates…]
+	{
+	zh-Hans=正在检查更新…;
+	}
+
+[Checking the download]
+	{
+	zh-Hans=正在检查下载;
+	}
+
+[Could not put {version} back: {detail}]
+	{
+	zh-Hans=无法恢复{version}：{detail};
+	}
+
+[Download automatically]
+	{
+	zh-Hans=自动下载;
+	}
+
+[Download paused]
+	{
+	zh-Hans=下载已暂停;
+	}
+
+[Download update]
+	{
+	zh-Hans=下载更新;
+	}
+
+[Downloaded and checked · {size}]
+	{
+	zh-Hans=已下载并检查 · {size};
+	}
+
+[Downloading {version}]
+	{
+	zh-Hans=正在下载{version};
+	}
+
+[Downloading {version} · {done} of {size}]
+	{
+	zh-Hans=正在下载{version} · {done}，共{size};
+	}
+
+[Downloads pause during a match and carry on after it.]
+	{
+	zh-Hans=下载会在对局期间暂停，对局结束后继续。;
+	}
+
+[Finishing the update to {version}]
+	{
+	zh-Hans=正在完成到{version}的更新;
+	}
+
+[Go back to {version}?]
+	{
+	zh-Hans=要回到{version}吗？;
+	}
+
+[Going back to {version}]
+	{
+	zh-Hans=正在回到{version};
+	}
+
+[Install updates]
+	{
+	zh-Hans=安装更新;
+	}
+
+[Install {version} again from its page, over the copy you have.]
+	{
+	zh-Hans=请从其页面再次安装{version}，覆盖你现有的副本。;
+	}
+
+[Installed {version}]
+	{
+	zh-Hans=已安装{version};
+	}
+
+[Installer will put {version} in Applications. Start it from there when it finishes.]
+	{
+	zh-Hans=安装程序会把{version}放进应用程序。完成后请从那里启动它。;
+	}
+
+[Installing {version}]
+	{
+	zh-Hans=正在安装{version};
+	}
+
+[It installs as you quit. Change it any time in Settings › Updates.]
+	{
+	zh-Hans=它会在你退出时安装。你可以随时在设置 › 更新中更改。;
+	}
+
+[It updates as it next starts.]
+	{
+	zh-Hans=它会在下次启动时更新。;
+	}
+
+[Its signature was refused. Nothing was downloaded or changed.]
+	{
+	zh-Hans=它的签名被拒绝。没有下载或更改任何内容。;
+	}
+
+[New in {version}:]
+	{
+	zh-Hans={version}的新内容：;
+	}
+
+[Not in this version]
+	{
+	zh-Hans=此版本中没有;
+	}
+
+[Not in this version: 1]
+	{
+	zh-Hans=此版本中没有：1;
+	}
+
+[Not in this version: {count}]
+	{
+	zh-Hans=此版本中没有：{count};
+	}
+
+[Not installed. {version} is unchanged.]
+	{
+	zh-Hans=未安装。{version}保持不变。;
+	}
+
+[OA restarts on {version}, with the settings it had. {current} won't be offered again until you choose it.]
+	{
+	zh-Hans=OA会以{version}重启，并使用它当时的设置。在你选择它之前，不会再提供{current}。;
+	}
+
+[Off: OA asks before downloading.]
+	{
+	zh-Hans=关闭：OA下载前会询问。;
+	}
+
+[Open Annihilation {version}]
+	{
+	zh-Hans=Open Annihilation {version};
+	}
+
+[Open Annihilation {version} is out]
+	{
+	zh-Hans=Open Annihilation {version}已发布;
+	}
+
+[Open Annihilation {version} is ready]
+	{
+	zh-Hans=Open Annihilation {version}已就绪;
+	}
+
+[Open your software centre to update it.]
+	{
+	zh-Hans=请打开软件中心来更新它。;
+	}
+
+[Previous version · {version}]
+	{
+	zh-Hans=上一版本 · {version};
+	}
+
+[Put {version} back]
+	{
+	zh-Hans=已恢复{version};
+	}
+
+[Restart Windows to finish installing {version}.]
+	{
+	zh-Hans=请重新启动Windows，以完成{version}的安装。;
+	}
+
+[Restart to update]
+	{
+	zh-Hans=重新启动以更新;
+	}
+
+[Roll back and restart]
+	{
+	zh-Hans=回滚并重新启动;
+	}
+
+[Roll back restores {version} and the settings you had before updating.]
+	{
+	zh-Hans=回滚会恢复{version}，以及你更新前的设置。;
+	}
+
+[Roll back to {version}?]
+	{
+	zh-Hans=要回滚到{version}吗？;
+	}
+
+[Roll back…]
+	{
+	zh-Hans=回滚…;
+	}
+
+[Skip this version]
+	{
+	zh-Hans=跳过此版本;
+	}
+
+[Started {version}]
+	{
+	zh-Hans=已启动{version};
+	}
+
+[The download stopped]
+	{
+	zh-Hans=下载已停止;
+	}
+
+[The download stopped: {reason}]
+	{
+	zh-Hans=下载已停止：{reason};
+	}
+
+[The download was not the file the signed list names, so it was deleted.]
+	{
+	zh-Hans=下载的文件不是签名列表所指的那个，因此已删除。;
+	}
+
+[The game closes, puts {version} back and starts again. {current} is not offered again until a newer release.]
+	{
+	zh-Hans=游戏会关闭，恢复{version}，然后重新启动。在有更新的版本之前，不会再提供{current}。;
+	}
+
+[The roll back failed. Nothing was changed.]
+	{
+	zh-Hans=回滚失败。未做任何更改。;
+	}
+
+[The roll back failed. The game could not be put back.]
+	{
+	zh-Hans=回滚失败。游戏无法恢复。;
+	}
+
+[The update could not be verified.]
+	{
+	zh-Hans=无法验证此更新。;
+	}
+
+[The update failed. {version} was put back.]
+	{
+	zh-Hans=更新失败。已恢复{version}。;
+	}
+
+[The update was cancelled.]
+	{
+	zh-Hans=更新已取消。;
+	}
+
+[This copy came from {name}, which updates it.]
+	{
+	zh-Hans=此副本来自{name}，由它负责更新。;
+	}
+
+[This version cannot use:]
+	{
+	zh-Hans=此版本无法使用：;
+	}
+
+[Try this version]
+	{
+	zh-Hans=试用此版本;
+	}
+
+[Updated by {name}]
+	{
+	zh-Hans=由{name}更新;
+	}
+
+[Updated from {from}]
+	{
+	zh-Hans=更新自{from};
+	}
+
+[Updated to {version}]
+	{
+	zh-Hans=已更新到{version};
+	}
+
+[Update…]
+	{
+	zh-Hans=更新…;
+	}
+
+[You have {current}. The update is {size}.]
+	{
+	zh-Hans=你现有的是{current}。此次更新为{size}。;
+	}
+
+[Your settings from before you updated]
+	{
+	zh-Hans=你更新前的设置;
+	}
+
+[by {author} · {version}]
+	{
+	zh-Hans=由{author} · {version};
+	}
+
+[macOS runs this copy from a protected place, so it can't update itself. Drag Open Annihilation to Applications and start it from there.]
+	{
+	zh-Hans=macOS从受保护的位置运行此副本，因此无法自行更新。请把Open Annihilation拖到应用程序，并从那里启动。;
+	}
+
+[{action} is kept in your layout for a version that has it.]
+	{
+	zh-Hans={action}会留在你的按键布局里，供有它的版本使用。;
+	}
+
+[{new} won't be offered again until a newer release, or choose it in Settings › Updates.]
+	{
+	zh-Hans=在有更新的版本之前不会再提供{new}，也可在设置 › 更新中选择它。;
+	}
+
+[{version} closed twice before it reached the main menu, so OA went back to {old}, with the settings you had.]
+	{
+	zh-Hans={version}在到达主菜单前关闭了两次，因此OA回到了{old}，设置也是你当时的。;
+	}
+
+[{version} closed twice before the main menu]
+	{
+	zh-Hans={version}在主菜单前关闭了两次;
+	}
+
+[{version} downloading]
+	{
+	zh-Hans=正在下载{version};
+	}
+
+[{version} installs the next time you start Open Annihilation.]
+	{
+	zh-Hans=下次启动Open Annihilation时会安装{version}。;
+	}
+
+[{version} installs when you quit]
+	{
+	zh-Hans=你退出时安装{version};
+	}
+
+[{version} is kept, in case you want it back. The game starts again by itself.]
+	{
+	zh-Hans=已保留{version}，以便你想恢复。游戏会自行重新启动。;
+	}
+
+[{version} is kept. Roll back from Settings › Updates.]
+	{
+	zh-Hans=已保留{version}。可从设置 › 更新回滚。;
+	}
+
+[{version} is kept. To go back to it, press Roll back… in Settings › Updates.]
+	{
+	zh-Hans=已保留{version}。要回到它，请在设置 › 更新中按下回滚…。;
+	}
+
+[{version} is not offered again until a newer release.]
+	{
+	zh-Hans=在有更新的版本之前，不会再提供{version}。;
+	}
+
+[{version} is out]
+	{
+	zh-Hans={version}已发布;
+	}
+
+[{version} is out · Stable · checked {when}]
+	{
+	zh-Hans={version}已发布 · 稳定 · 检查于{when};
+	}
+
+[{version} is ready]
+	{
+	zh-Hans={version}已就绪;
+	}
+
+[{version} is ready · {size} downloaded]
+	{
+	zh-Hans={version}已就绪 · 已下载{size};
+	}
+
+[{version} is skipped]
+	{
+	zh-Hans=已跳过{version};
+	}
+
+[{version} reached the main menu]
+	{
+	zh-Hans={version}已到达主菜单;
+	}
+
+[{version} ready]
+	{
+	zh-Hans={version}就绪;
+	}
+
+[{version} waits until you choose to try again.]
+	{
+	zh-Hans={version}会等待，直到你选择再次尝试。;
+	}
+
+[{version} won't be offered again. The next release will be, or choose {version} in Settings › Updates to try it again.]
+	{
+	zh-Hans=不会再提供{version}。下一个版本会提供，也可在设置 › 更新中选择{version}再次尝试。;
+	}
+
+[{version} · checking]
+	{
+	zh-Hans={version} · 正在检查;
+	}
+
+[{version} · paused]
+	{
+	zh-Hans={version} · 已暂停;
+	}
+
+[{version} · {percent}%]
+	{
+	zh-Hans={version} · {percent}%;
+	}
+
+// The Library.
+
+[1 mutator on]
+	{
+	zh-Hans=已开启变异器1个;
+	}
+
+[Mutators: off]
+	{
+	zh-Hans=变异器：关;
+	}
+
+[Mutators: {count} on]
+	{
+	zh-Hans=变异器：开{count}个;
+	}
+
+[No mutators on]
+	{
+	zh-Hans=未开启变异器;
+	}
+
+[The size Settings, the Library and the other OA windows take. Auto takes the largest that fits.]
+	{
+	zh-Hans=设置、资源库和其他OA窗口所用的尺寸。自动会取放得下的最大尺寸。;
+	}
+
+[{count} mutators on]
+	{
+	zh-Hans=已开启{count}个变异器;
+	}
+
+[{name} is installed. Choose Use in the Library's Keys tab to play with it.]
+	{
+	zh-Hans={name}已安装。请在资源库的按键标签中选择使用，即可用它游玩。;
+	}
+
+// The rest of the interface.
+
+[*** {player} needs a newer Open Annihilation for this mod.]
+	{
+	zh-Hans=*** {player}需要较新的Open Annihilation才能使用此模组。;
+	}
+
+[+{n}]
+	{
+	zh-Hans=+{n};
+	}
+
+[1 change of your own]
+	{
+	zh-Hans=自己的更改1项;
+	}
+
+[1 command]
+	{
+	zh-Hans=动作1项;
+	}
+
+[1 key, 1 helper]
+	{
+	zh-Hans=按键1个，辅助键1个;
+	}
+
+[1 key, {helpers} helpers]
+	{
+	zh-Hans=按键1个，辅助键{helpers}个;
+	}
+
+[1 setting changed]
+	{
+	zh-Hans=已更改设置1项;
+	}
+
+[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and Roll back brings it back.]
+	{
+	zh-Hans=1个更新会改变游戏规则：{names}。其当前版本的存档将无法在新版本中载入。当前版本会保留，回滚即可恢复。;
+	}
+
+[A hold]
+	{
+	zh-Hans=按住;
+	}
+
+[A key counts only after it is held this long. For a hand that brushes keys.]
+	{
+	zh-Hans=按键要按住这么久才算数。适合容易蹭到按键的手。;
+	}
+
+[A mod's Ctrl+F2 keys]
+	{
+	zh-Hans=模组的Ctrl+F2按键;
+	}
+
+[A press]
+	{
+	zh-Hans=按下;
+	}
+
+[A release]
+	{
+	zh-Hans=松开;
+	}
+
+[A seat]
+	{
+	zh-Hans=席位;
+	}
+
+[A second press of the same key this soon is ignored.]
+	{
+	zh-Hans=同一按键在这么短的时间内再次按下会被忽略。;
+	}
+
+[A selection]
+	{
+	zh-Hans=选择;
+	}
+
+[A tapped Shift, Ctrl or Alt holds for the next key or click. Tap twice to lock it.]
+	{
+	zh-Hans=点按一次的Shift、Ctrl或Alt会留给下一次按键或点击。请点按两次以锁定。;
+	}
+
+[ANSI]
+	{
+	zh-Hans=ANSI;
+	}
+
+[ANSI keyboards]
+	{
+	zh-Hans=ANSI键盘;
+	}
+
+[Add mirror…]
+	{
+	zh-Hans=添加镜像……;
+	}
+
+[Add registry…]
+	{
+	zh-Hans=添加内容源……;
+	}
+
+[Allow full 3D mode]
+	{
+	zh-Hans=允许完整3D模式;
+	}
+
+[Alt]
+	{
+	zh-Hans=Alt;
+	}
+
+[Applied in this order.]
+	{
+	zh-Hans=按此顺序应用。;
+	}
+
+[Applies to every game.]
+	{
+	zh-Hans=适用于每一局。;
+	}
+
+[Applies with {mod} only.]
+	{
+	zh-Hans=只在使用{mod}时适用。;
+	}
+
+[Apply 1 change]
+	{
+	zh-Hans=应用更改1项;
+	}
+
+[Apply {n} changes]
+	{
+	zh-Hans=应用更改{n}项;
+	}
+
+[Armed]
+	{
+	zh-Hans=武装;
+	}
+
+[Ask each time]
+	{
+	zh-Hans=每次询问;
+	}
+
+[Ask each time, or install when I quit.]
+	{
+	zh-Hans=每次询问，或在退出时安装。;
+	}
+
+[Asks for]
+	{
+	zh-Hans=要求;
+	}
+
+[Attack]
+	{
+	zh-Hans=攻击;
+	}
+
+[Bars]
+	{
+	zh-Hans=条;
+	}
+
+[Box: armed]
+	{
+	zh-Hans=框选：武装;
+	}
+
+[Box: bld]
+	{
+	zh-Hans=框选：建造;
+	}
+
+[Box: fact.]
+	{
+	zh-Hans=框选：工厂;
+	}
+
+[Build]
+	{
+	zh-Hans=建造;
+	}
+
+[Building]
+	{
+	zh-Hans=建造;
+	}
+
+[Button 6]
+	{
+	zh-Hans=鼠标键6;
+	}
+
+[Button 7]
+	{
+	zh-Hans=鼠标键7;
+	}
+
+[Button 8]
+	{
+	zh-Hans=鼠标键8;
+	}
+
+[C]
+	{
+	zh-Hans=C;
+	}
+
+[Camera]
+	{
+	zh-Hans=视角;
+	}
+
+[Cat.]
+	{
+	zh-Hans=类别;
+	}
+
+[Centre]
+	{
+	zh-Hans=居中;
+	}
+
+[Change]
+	{
+	zh-Hans=更改;
+	}
+
+[Change layout…]
+	{
+	zh-Hans=更换按键布局…;
+	}
+
+[Changed]
+	{
+	zh-Hans=已更改;
+	}
+
+[Change…]
+	{
+	zh-Hans=更改……;
+	}
+
+[Chat]
+	{
+	zh-Hans=聊天;
+	}
+
+[Chat Line]
+	{
+	zh-Hans=聊天行;
+	}
+
+[Chat line]
+	{
+	zh-Hans=聊天行;
+	}
+
+[Check now]
+	{
+	zh-Hans=立即检查;
+	}
+
+[Check with this mod]
+	{
+	zh-Hans=用此模组检查;
+	}
+
+[Checked the package against the signed list]
+	{
+	zh-Hans=已对照已签名清单检查安装包;
+	}
+
+[Choose Play now to play it, or choose it later with Play now in the Library.]
+	{
+	zh-Hans=选择“立即游戏”开始游玩，或稍后在资源库中选择“立即游戏”。;
+	}
+
+[Choose another file…]
+	{
+	zh-Hans=另选一个文件…;
+	}
+
+[Choose it with Play now in the Library to play it.]
+	{
+	zh-Hans=在资源库中选择“立即游戏”即可游玩。;
+	}
+
+[Choose what happens…]
+	{
+	zh-Hans=选择会发生什么…;
+	}
+
+[Choose…]
+	{
+	zh-Hans=选择…;
+	}
+
+[Chosen file: {file}]
+	{
+	zh-Hans=已选文件：{file};
+	}
+
+[Clear]
+	{
+	zh-Hans=清除;
+	}
+
+[Click a button on the picture, or a role in the table, to change it. Buttons 6 to 8 of a gaming mouse appear here when the game sees them pressed.]
+	{
+	zh-Hans=请点击图上的鼠标键，或表中的作用，以更改它。游戏鼠标的鼠标键6到8会在游戏检测到按下时出现在这里。;
+	}
+
+[Click to change.]
+	{
+	zh-Hans=请点击以更改。;
+	}
+
+[Click to read.]
+	{
+	zh-Hans=请点击以阅读。;
+	}
+
+[Clicks give orders with]
+	{
+	zh-Hans=点击下达命令时使用;
+	}
+
+[Cloak]
+	{
+	zh-Hans=隐形;
+	}
+
+[Close the game]
+	{
+	zh-Hans=关闭游戏;
+	}
+
+[Close the line]
+	{
+	zh-Hans=关闭这一行;
+	}
+
+[Cmd]
+	{
+	zh-Hans=Cmd;
+	}
+
+[Cmdr]
+	{
+	zh-Hans=指挥官;
+	}
+
+[Comes back]
+	{
+	zh-Hans=会回来;
+	}
+
+[Commands]
+	{
+	zh-Hans=动作;
+	}
+
+[Common commands]
+	{
+	zh-Hans=常用动作;
+	}
+
+[Compact]
+	{
+	zh-Hans=紧凑;
+	}
+
+[Computer player for this seat]
+	{
+	zh-Hans=此席位的电脑玩家;
+	}
+
+[Computer player in the missions]
+	{
+	zh-Hans=任务中的电脑玩家;
+	}
+
+[Copy]
+	{
+	zh-Hans=复制;
+	}
+
+[Could not check]
+	{
+	zh-Hans=无法检查;
+	}
+
+[Could not check · checked {when}]
+	{
+	zh-Hans=无法检查 · 上次检查{when};
+	}
+
+[Could not connect. Try again later.]
+	{
+	zh-Hans=无法连接。请稍后再试。;
+	}
+
+[Could not put every file back: {detail}]
+	{
+	zh-Hans=无法把每一个文件都恢复：{detail};
+	}
+
+[Could not put the new files in place: {detail}]
+	{
+	zh-Hans=无法把新文件放到位：{detail};
+	}
+
+[Could not start the game: {detail}]
+	{
+	zh-Hans=无法启动游戏：{detail};
+	}
+
+[Ctrl]
+	{
+	zh-Hans=Ctrl;
+	}
+
+[D]
+	{
+	zh-Hans=D;
+	}
+
+[D-gun]
+	{
+	zh-Hans=D枪;
+	}
+
+[Destruct]
+	{
+	zh-Hans=自毁;
+	}
+
+[Details]
+	{
+	zh-Hans=详情;
+	}
+
+[Details…]
+	{
+	zh-Hans=详情……;
+	}
+
+[Developer mode]
+	{
+	zh-Hans=开发者模式;
+	}
+
+[Discard]
+	{
+	zh-Hans=放弃;
+	}
+
+[Don't install when I quit]
+	{
+	zh-Hans=退出时不安装;
+	}
+
+[Done]
+	{
+	zh-Hans=完成;
+	}
+
+[Duplicate…]
+	{
+	zh-Hans=复制…;
+	}
+
+[Empty]
+	{
+	zh-Hans=清空;
+	}
+
+[Enter]
+	{
+	zh-Hans=Enter;
+	}
+
+[Escape cancels · hold Escape to bind Escape]
+	{
+	zh-Hans=Escape取消 · 按住Escape以绑定Escape;
+	}
+
+[Escape closes · hold Escape to look it up]
+	{
+	zh-Hans=Escape关闭 · 按住Escape以查询Escape;
+	}
+
+[Every game]
+	{
+	zh-Hans=每一局;
+	}
+
+[Every window is back in the middle.]
+	{
+	zh-Hans=每个窗口都回到了正中。;
+	}
+
+[Everywhere]
+	{
+	zh-Hans=任何场合;
+	}
+
+[Faster]
+	{
+	zh-Hans=加速;
+	}
+
+[Find by key]
+	{
+	zh-Hans=按按键查找;
+	}
+
+[Find on keyboard]
+	{
+	zh-Hans=在键盘上查找;
+	}
+
+[Fire]
+	{
+	zh-Hans=开火;
+	}
+
+[Follow]
+	{
+	zh-Hans=跟随;
+	}
+
+[Follow back]
+	{
+	zh-Hans=跟随返回;
+	}
+
+[Force]
+	{
+	zh-Hans=强制;
+	}
+
+[Forget it]
+	{
+	zh-Hans=忘记;
+	}
+
+[Forward]
+	{
+	zh-Hans=前进;
+	}
+
+[Found 1 key · 1 differs from {layout}]
+	{
+	zh-Hans=找到按键1个 · 有1个与{layout}不同;
+	}
+
+[Found 1 key · {m} differ from {layout}]
+	{
+	zh-Hans=找到按键1个 · 有{m}个与{layout}不同;
+	}
+
+[Found {n} keys · 1 differs from {layout}]
+	{
+	zh-Hans=找到按键{n}个 · 有1个与{layout}不同;
+	}
+
+[Found {n} keys · {m} differ from {layout}]
+	{
+	zh-Hans=找到按键{n}个 · 有{m}个与{layout}不同;
+	}
+
+[From your system]
+	{
+	zh-Hans=来自你的系统;
+	}
+
+[From {layout}]
+	{
+	zh-Hans=来自{layout};
+	}
+
+[G]
+	{
+	zh-Hans=G;
+	}
+
+[Game and window]
+	{
+	zh-Hans=游戏与窗口;
+	}
+
+[Game menu]
+	{
+	zh-Hans=游戏菜单;
+	}
+
+[Get all]
+	{
+	zh-Hans=全部获取;
+	}
+
+[Get both]
+	{
+	zh-Hans=两者都获取;
+	}
+
+[Get installs it again.]
+	{
+	zh-Hans=“获取”会再次安装它。;
+	}
+
+[Get more brains...]
+	{
+	zh-Hans=获取更多大脑...;
+	}
+
+[Get with {count} more]
+	{
+	zh-Hans=连同另外{count}个获取;
+	}
+
+[Get with {name}]
+	{
+	zh-Hans=连同{name}获取;
+	}
+
+[Get · {size}]
+	{
+	zh-Hans=获取 · {size};
+	}
+
+[Grid]
+	{
+	zh-Hans=网格;
+	}
+
+[Group]
+	{
+	zh-Hans=编队;
+	}
+
+[Groups]
+	{
+	zh-Hans=编队;
+	}
+
+[Guard]
+	{
+	zh-Hans=护卫;
+	}
+
+[Hacks on]
+	{
+	zh-Hans=修改项已开;
+	}
+
+[Held to the end: the order goes.]
+	{
+	zh-Hans=按住直到结束：命令才会发出。;
+	}
+
+[Helpers act in every game, not only with {mod}.]
+	{
+	zh-Hans=辅助键在每一局都起作用，不只是在使用{mod}时。;
+	}
+
+[Helpers act in every game.]
+	{
+	zh-Hans=辅助键在每一局都起作用。;
+	}
+
+[Here and {name} both use it {context}.]
+	{
+	zh-Hans=此处和{name}都在{context}使用它。;
+	}
+
+[Hold]
+	{
+	zh-Hans=按住;
+	}
+
+[Hold a key until it counts.]
+	{
+	zh-Hans=请按住一个按键，直到它算数。;
+	}
+
+[Hold keys that latch]
+	{
+	zh-Hans=会锁定的按键;
+	}
+
+[Hold middle]
+	{
+	zh-Hans=按住中键;
+	}
+
+[Hold right]
+	{
+	zh-Hans=按住右键;
+	}
+
+[Hold the modifiers you want, then press a key or a mouse button, or turn the wheel.]
+	{
+	zh-Hans=请先按住你要的修饰键，再按一个按键或鼠标键，或转动滚轮。;
+	}
+
+[Holding]
+	{
+	zh-Hans=按住中;
+	}
+
+[Homepage]
+	{
+	zh-Hans=主页;
+	}
+
+[How far a press may move and still be a click.]
+	{
+	zh-Hans=一次按下可以移动多远，仍算作点击。;
+	}
+
+[How it acts]
+	{
+	zh-Hans=作用方式;
+	}
+
+[ISO]
+	{
+	zh-Hans=ISO;
+	}
+
+[ISO keyboards]
+	{
+	zh-Hans=ISO键盘;
+	}
+
+[Idle bld]
+	{
+	zh-Hans=空闲建造;
+	}
+
+[Idle fac]
+	{
+	zh-Hans=空闲厂;
+	}
+
+[In the chat line]
+	{
+	zh-Hans=在聊天行中;
+	}
+
+[In use for every game]
+	{
+	zh-Hans=每一局都在使用;
+	}
+
+[In use with {mod}]
+	{
+	zh-Hans=与{mod}一起使用时;
+	}
+
+[Install]
+	{
+	zh-Hans=安装;
+	}
+
+[Install alongside]
+	{
+	zh-Hans=并列安装;
+	}
+
+[Install and restart]
+	{
+	zh-Hans=安装并重启;
+	}
+
+[Install when I quit]
+	{
+	zh-Hans=退出时安装;
+	}
+
+[Install…]
+	{
+	zh-Hans=安装…;
+	}
+
+[It installs when you quit, or now if you restart. Restarting takes a few seconds and brings you back to the main menu.]
+	{
+	zh-Hans=它会在你退出时安装，如果现在重启则会马上安装。重启只需几秒，然后把你带回主菜单。;
+	}
+
+[It is in the download queue: Cancel it before you uninstall it.]
+	{
+	zh-Hans=它正在下载队列中：请先“取消”，然后再卸载。;
+	}
+
+[It stopped before any file moved.]
+	{
+	zh-Hans=它在任何文件移动之前就停止了。;
+	}
+
+[Its folder is a link, and OA never removes what a link leads to. Open folder shows it.]
+	{
+	zh-Hans=其文件夹是一个链接，OA从不删除链接所指向的内容。“打开文件夹”会显示它。;
+	}
+
+[JIS]
+	{
+	zh-Hans=JIS;
+	}
+
+[JIS keyboards]
+	{
+	zh-Hans=JIS键盘;
+	}
+
+[KEYS]
+	{
+	zh-Hans=按键;
+	}
+
+[Keep editing]
+	{
+	zh-Hans=继续编辑;
+	}
+
+[Keep holding {chord}: the ring fills in {seconds} s. Let go to cancel.]
+	{
+	zh-Hans=请继续按住{chord}：圆环会在{seconds}秒内填满。松开即可取消。;
+	}
+
+[Keep it]
+	{
+	zh-Hans=保留;
+	}
+
+[Keep it for {action}]
+	{
+	zh-Hans=为{action}保留;
+	}
+
+[Keep it on top]
+	{
+	zh-Hans=保留在上层;
+	}
+
+[Keep it ready]
+	{
+	zh-Hans=保持就绪;
+	}
+
+[Keep them]
+	{
+	zh-Hans=保留;
+	}
+
+[Keep them on top]
+	{
+	zh-Hans=保留在上层;
+	}
+
+[Keep your 1 change on top of {layout}?]
+	{
+	zh-Hans=要把自己的更改1项保留在{layout}之上吗？;
+	}
+
+[Keep your {n} changes on top of {layout}?]
+	{
+	zh-Hans=要把自己的更改{n}项保留在{layout}之上吗？;
+	}
+
+[Keyboard]
+	{
+	zh-Hans=键盘;
+	}
+
+[Keys pressed here never reach the game.]
+	{
+	zh-Hans=在这里按下的按键永远不会传到游戏。;
+	}
+
+[Keys while placing a building]
+	{
+	zh-Hans=放置建筑时的按键;
+	}
+
+[Keys while playing]
+	{
+	zh-Hans=游戏时的按键;
+	}
+
+[Keys while watching]
+	{
+	zh-Hans=观战时的按键;
+	}
+
+[Kills]
+	{
+	zh-Hans=击杀;
+	}
+
+[Kind]
+	{
+	zh-Hans=种类;
+	}
+
+[Known as]
+	{
+	zh-Hans=又称;
+	}
+
+[Latch]
+	{
+	zh-Hans=锁定;
+	}
+
+[Latch {action}]
+	{
+	zh-Hans=锁定{action};
+	}
+
+[Latchable]
+	{
+	zh-Hans=可锁定;
+	}
+
+[Later]
+	{
+	zh-Hans=稍后;
+	}
+
+[Layout]
+	{
+	zh-Hans=按键布局;
+	}
+
+[Left and right {modifier} are one key in Open Annihilation]
+	{
+	zh-Hans=左侧和右侧的{modifier}在Open Annihilation中是同一个按键。;
+	}
+
+[Left hand]
+	{
+	zh-Hans=左手;
+	}
+
+[Left-click]
+	{
+	zh-Hans=左键点击;
+	}
+
+[Legacy]
+	{
+	zh-Hans=旧版;
+	}
+
+[Let go before the end: nothing happens.]
+	{
+	zh-Hans=在结束前松开：什么也不会发生。;
+	}
+
+[Load]
+	{
+	zh-Hans=装载;
+	}
+
+[Load with the built-in player]
+	{
+	zh-Hans=用内置玩家读取;
+	}
+
+[Long press]
+	{
+	zh-Hans=长按;
+	}
+
+[Look]
+	{
+	zh-Hans=外观;
+	}
+
+[Macro]
+	{
+	zh-Hans=宏;
+	}
+
+[Made for the {layout} interface; yours is {yours}.]
+	{
+	zh-Hans=专为{layout}界面制作，你的是{yours}。;
+	}
+
+[Manage…]
+	{
+	zh-Hans=管理……;
+	}
+
+[Marker]
+	{
+	zh-Hans=标记;
+	}
+
+[Match]
+	{
+	zh-Hans=对局;
+	}
+
+[Mayhem, Twilight and older patches]
+	{
+	zh-Hans=Mayhem、Twilight和更早的补丁;
+	}
+
+[Menu buttons]
+	{
+	zh-Hans=菜单按钮;
+	}
+
+[Menus]
+	{
+	zh-Hans=菜单;
+	}
+
+[Middle]
+	{
+	zh-Hans=中键;
+	}
+
+[Modern]
+	{
+	zh-Hans=现代;
+	}
+
+[Modifier]
+	{
+	zh-Hans=修饰键;
+	}
+
+[More]
+	{
+	zh-Hans=更多;
+	}
+
+[More in the Library…]
+	{
+	zh-Hans=在资源库中查看更多……;
+	}
+
+[More options]
+	{
+	zh-Hans=更多选项;
+	}
+
+[Mouse]
+	{
+	zh-Hans=鼠标;
+	}
+
+[Mouse button {button}]
+	{
+	zh-Hans=鼠标键{button};
+	}
+
+[Mouse first]
+	{
+	zh-Hans=鼠标优先;
+	}
+
+[Move]
+	{
+	zh-Hans=移动;
+	}
+
+[Move OA to Applications]
+	{
+	zh-Hans=将OA移到应用程序;
+	}
+
+[Move it to {action}]
+	{
+	zh-Hans=把它移到{action};
+	}
+
+[Move to {action}]
+	{
+	zh-Hans=移到{action};
+	}
+
+[Moves]
+	{
+	zh-Hans=移动;
+	}
+
+[Multiplayer]
+	{
+	zh-Hans=多人游戏;
+	}
+
+[Name]
+	{
+	zh-Hans=名称;
+	}
+
+[Name this layout]
+	{
+	zh-Hans=命名此按键布局;
+	}
+
+[Needs Allow full 3D mode]
 	{
 	zh-Hans=需要允许完整3D模式;
 	}
+
+[New key for {action}]
+	{
+	zh-Hans={action}的新按键;
+	}
+
+[Next page]
+	{
+	zh-Hans=下一页;
+	}
+
+[Next pg]
+	{
+	zh-Hans=下一页;
+	}
+
+[Next report]
+	{
+	zh-Hans=下一报告;
+	}
+
+[Next unit]
+	{
+	zh-Hans=下一单位;
+	}
+
+[No command changes its key.]
+	{
+	zh-Hans=没有动作会更改其按键。;
+	}
+
+[No key]
+	{
+	zh-Hans=无按键;
+	}
+
+[No wheel zoom]
+	{
+	zh-Hans=滚轮不缩放;
+	}
+
+[Not checked yet]
+	{
+	zh-Hans=尚未检查;
+	}
+
+[Not on this keyboard]
+	{
+	zh-Hans=不在这个键盘上;
+	}
+
+[Nothing changes until you apply it.]
+	{
+	zh-Hans=在你应用之前，什么都不会改变。;
+	}
+
+[Nothing is scheduled.]
+	{
+	zh-Hans=没有已安排的事项。;
+	}
+
+[Number keys select groups]
+	{
+	zh-Hans=数字键选择编队;
+	}
+
+[O]
+	{
+	zh-Hans=O;
+	}
+
+[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and Roll back brings it back.]
+	{
+	zh-Hans=OA无法判断{to}是否会改变游戏规则。如果会，{from}的存档将无法在其中载入。{From}会保留，回滚即可恢复。;
+	}
+
+[OA looks for a newer Open Annihilation once a day when it starts. It never installs one until you say so.]
+	{
+	zh-Hans=OA启动时每天查找一次较新的Open Annihilation。在你同意之前，它不会安装。;
+	}
+
+[OA never checks]
+	{
+	zh-Hans=OA从不检查;
+	}
+
+[OA's screens in Barlow, a clear modern face.]
+	{
+	zh-Hans=OA的界面使用Barlow，一种清晰的现代字体。;
+	}
+
+[OA's screens in the game's own bitmap fonts.]
+	{
+	zh-Hans=OA的界面使用游戏自带的点阵字体。;
+	}
+
+[Off stops the view scrolling while the pointer rests at the window's edge.]
+	{
+	zh-Hans=关闭后，指针停在窗口边缘时，视图不再滚动。;
+	}
+
+[On Open Annihilation's screens]
+	{
+	zh-Hans=在Open Annihilation的界面上;
+	}
+
+[On a build button]
+	{
+	zh-Hans=在建造按钮上;
+	}
+
+[On the minimap]
+	{
+	zh-Hans=在小地图上;
+	}
+
+[On/off]
+	{
+	zh-Hans=开/关;
+	}
+
+[On:]
+	{
+	zh-Hans=开：;
+	}
+
+[One hand]
+	{
+	zh-Hans=单手;
+	}
+
+[Only when I ask]
+	{
+	zh-Hans=只在我要求时;
+	}
+
+[Only with {mod}]
+	{
+	zh-Hans=仅配合{mod};
+	}
+
+[Open Annihilation's screens]
+	{
+	zh-Hans=Open Annihilation的界面;
+	}
+
+[Open mod folder]
+	{
+	zh-Hans=打开模组文件夹;
+	}
+
+[Open the installer]
+	{
+	zh-Hans=打开安装程序;
+	}
+
+[Open the log to see which files were left.]
+	{
+	zh-Hans=请打开日志，查看留下了哪些文件。;
+	}
+
+[Open the page]
+	{
+	zh-Hans=打开页面;
+	}
+
+[Open the release page]
+	{
+	zh-Hans=打开版本页面;
+	}
+
+[Open your software centre, or run:]
+	{
+	zh-Hans=请打开软件中心，或运行：;
+	}
+
+[Open {page} in a browser on another computer, or in Desktop Mode.]
+	{
+	zh-Hans=请在另一台电脑的浏览器中打开{page}，或在桌面模式中打开。;
+	}
+
+[Open ›]
+	{
+	zh-Hans=打开 ›;
+	}
+
+[Options...]
+	{
+	zh-Hans=选项...;
+	}
+
+[Order buttons and build cells show their key in a corner.]
+	{
+	zh-Hans=命令按钮和建造格会在角落显示按键。;
+	}
+
+[P]
+	{
+	zh-Hans=P;
+	}
+
+[Page]
+	{
+	zh-Hans=页;
+	}
+
+[Panels]
+	{
+	zh-Hans=面板;
+	}
+
+[Patrol]
+	{
+	zh-Hans=巡逻;
+	}
+
+[Paused during a match]
+	{
+	zh-Hans=对局中已暂停;
+	}
+
+[Paused during the game]
+	{
+	zh-Hans=游戏中已暂停;
+	}
+
+[Pin]
+	{
+	zh-Hans=钉住;
+	}
+
+[Placing]
+	{
+	zh-Hans=放置;
+	}
+
+[Placing a building]
+	{
+	zh-Hans=放置建筑;
+	}
+
+[Play now]
+	{
+	zh-Hans=立即游戏;
+	}
+
+[Press a key or a mouse button to see what it does. Nothing is changed.]
+	{
+	zh-Hans=请按一个键或鼠标按钮，查看它的作用。不会做任何更改。;
+	}
+
+[Press a key twice, quickly.]
+	{
+	zh-Hans=请快速把一个键按两次。;
+	}
+
+[Press a key, alone or with Shift, Ctrl or Alt.]
+	{
+	zh-Hans=请按一个键，可单独按，或与Shift、Ctrl或Alt一起按。;
+	}
+
+[Press a key…]
+	{
+	zh-Hans=按一个键…;
+	}
+
+[Press {key} to rotate]
+	{
+	zh-Hans=按{key}旋转;
+	}
+
+[Press {key}, or {wheel}, to rotate]
+	{
+	zh-Hans=按{key}或{wheel}旋转;
+	}
+
+[Prev pg]
+	{
+	zh-Hans=上一页;
+	}
+
+[Put every changed file back]
+	{
+	zh-Hans=已还原每个更改过的文件;
+	}
+
+[Put {to} in place, keeping {from}]
+	{
+	zh-Hans=已放好{to}，保留{from};
+	}
+
+[Puts every window you moved back in the middle.]
+	{
+	zh-Hans=把你移动过的每个窗口放回中间。;
+	}
+
+[Queue]
+	{
+	zh-Hans=排队;
+	}
+
+[RESTART NOW]
+	{
+	zh-Hans=立即重新启动;
+	}
+
+[Ran the installer]
+	{
+	zh-Hans=已运行安装程序;
+	}
+
+[Reclaim]
+	{
+	zh-Hans=回收;
+	}
+
+[Recovery could not finish.]
+	{
+	zh-Hans=恢复未能完成。;
+	}
+
+[Registries in the Library…]
+	{
+	zh-Hans=内容源在资源库中……;
+	}
+
+[Regular]
+	{
+	zh-Hans=常规;
+	}
+
+[Reinstall]
+	{
+	zh-Hans=重新安装;
+	}
+
+[Remove]
+	{
+	zh-Hans=删除;
+	}
+
+[Rename…]
+	{
+	zh-Hans=重命名…;
+	}
+
+[Replacing keeps {installed}, and Roll back in the Library brings it back.]
+	{
+	zh-Hans=替换后会保留{installed}，在资源库中点击回滚即可恢复。;
+	}
+
+[Reset]
+	{
+	zh-Hans=重置;
+	}
+
+[Reset to {layout}]
+	{
+	zh-Hans=重置为{layout};
+	}
+
+[Reset window positions]
+	{
+	zh-Hans=重置窗口位置;
+	}
+
+[Resource panel]
+	{
+	zh-Hans=资源面板;
+	}
+
+[Resources]
+	{
+	zh-Hans=资源;
+	}
+
+[Restore defaults]
+	{
+	zh-Hans=恢复默认设置;
+	}
+
+[Restore profile values]
+	{
+	zh-Hans=恢复配置值;
+	}
+
+[Resume]
+	{
+	zh-Hans=继续;
+	}
+
+[Revision {installed} is kept, and Roll back in the Library brings it back.]
+	{
+	zh-Hans=修订号{installed}会保留，在资源库中点击回滚即可恢复。;
+	}
+
+[Right hand]
+	{
+	zh-Hans=右手;
+	}
+
+[Right-click]
+	{
+	zh-Hans=右键点击;
+	}
+
+[Roll back]
+	{
+	zh-Hans=回滚;
+	}
+
+[Roll back {title} to {to}? {from} is kept in its place, and Roll back again brings it back.]
+	{
+	zh-Hans=将{title}回滚到{to}？{from}会保留在原处，再次回滚即可恢复。;
+	}
+
+[Same]
+	{
+	zh-Hans=相同;
+	}
+
+[Same as the game]
+	{
+	zh-Hans=与游戏相同;
+	}
+
+[Same place on every keyboard]
+	{
+	zh-Hans=每个键盘上的位置相同;
+	}
+
+[Save]
+	{
+	zh-Hans=保存;
+	}
+
+[Save changes]
+	{
+	zh-Hans=保存更改;
+	}
+
+[Save file…]
+	{
+	zh-Hans=保存文件…;
+	}
+
+[Save your edit before closing?]
+	{
+	zh-Hans=关闭前要保存你的编辑吗？;
+	}
+
+[Save your {n} edits before closing?]
+	{
+	zh-Hans=关闭前要保存你的{n}项编辑吗？;
+	}
+
+[Saved games and replays]
+	{
+	zh-Hans=存档和录像;
+	}
+
+[Saved to {place}]
+	{
+	zh-Hans=已保存到{place};
+	}
+
+[Saves]
+	{
+	zh-Hans=存档;
+	}
+
+[Screenshots]
+	{
+	zh-Hans=截图;
+	}
+
+[Search commands]
+	{
+	zh-Hans=搜索动作;
+	}
+
+[Sel bld]
+	{
+	zh-Hans=选建造;
+	}
+
+[Sel fac]
+	{
+	zh-Hans=选工厂;
+	}
+
+[Select a key to see everything on it.]
+	{
+	zh-Hans=请选择一个键，查看其上的全部内容。;
+	}
+
+[Selection]
+	{
+	zh-Hans=选择;
+	}
+
+[Selection box]
+	{
+	zh-Hans=选择框;
+	}
+
+[Self-destruct]
+	{
+	zh-Hans=自毁;
+	}
+
+[Self-destruct, surrender and quitting need a long press. A ring fills as you hold.]
+	{
+	zh-Hans=自毁、投降和退出需要长按。按住时圆环会逐渐填满。;
+	}
+
+[Set]
+	{
+	zh-Hans=设定;
+	}
+
+[Set by the mod. Every player in a game has the same.]
+	{
+	zh-Hans=由模组设定。同一局中每位玩家都相同。;
+	}
+
+[Set them aside]
+	{
+	zh-Hans=移到一旁;
+	}
+
+[Settings you changed after updating are replaced by the ones you had then.]
+	{
+	zh-Hans=你在更新后更改的设置，会被换成你当时的设置。;
+	}
+
+[Settings…]
+	{
+	zh-Hans=设置……;
+	}
+
+[Shift]
+	{
+	zh-Hans=Shift;
+	}
+
+[Shot]
+	{
+	zh-Hans=截图;
+	}
+
+[Show]
+	{
+	zh-Hans=显示;
+	}
+
+[Show again]
+	{
+	zh-Hans=再看一次;
+	}
+
+[Show as list]
+	{
+	zh-Hans=以列表显示;
+	}
+
+[Show details]
+	{
+	zh-Hans=显示详情;
+	}
+
+[Show in Finder]
+	{
+	zh-Hans=在Finder中显示;
+	}
+
+[Show keyboard]
+	{
+	zh-Hans=显示键盘;
+	}
+
+[Show keys on buttons]
+	{
+	zh-Hans=在按钮上显示按键;
+	}
+
+[Show the log]
+	{
+	zh-Hans=显示日志;
+	}
+
+[Single player]
+	{
+	zh-Hans=单人游戏;
+	}
+
+[Slower]
+	{
+	zh-Hans=减速;
+	}
+
+[Some files were left half-moved.]
+	{
+	zh-Hans=有些文件只移动了一半。;
+	}
+
+[Some files were left half-moved. Show details lists the steps that put the game right.]
+	{
+	zh-Hans=有些文件只移动了一半。显示详情会列出修复游戏的步骤。;
+	}
+
+[Space]
+	{
+	zh-Hans=空格;
+	}
+
+[Space +]
+	{
+	zh-Hans=间距+;
+	}
+
+[Space -]
+	{
+	zh-Hans=间距-;
+	}
+
+[Start Open Annihilation from Applications afterwards.]
+	{
+	zh-Hans=之后请从应用程序启动Open Annihilation。;
+	}
+
+[Start clean]
+	{
+	zh-Hans=从头开始;
+	}
+
+[Start without it]
+	{
+	zh-Hans=不带它开始;
+	}
+
+[Start without them]
+	{
+	zh-Hans=不带它们开始;
+	}
+
+[Starts from]
+	{
+	zh-Hans=始于;
+	}
+
+[Status]
+	{
+	zh-Hans=状态;
+	}
+
+[Stays as it is]
+	{
+	zh-Hans=保持原样;
+	}
+
+[Stop]
+	{
+	zh-Hans=停止;
+	}
+
+[Store]
+	{
+	zh-Hans=存储;
+	}
+
+[Swap them]
+	{
+	zh-Hans=互换;
+	}
+
+[Switch]
+	{
+	zh-Hans=切换;
+	}
+
+[Switch off]
+	{
+	zh-Hans=停用;
+	}
+
+[T]
+	{
+	zh-Hans=T;
+	}
+
+[Tab]
+	{
+	zh-Hans=Tab;
+	}
+
+[Tags]
+	{
+	zh-Hans=标签;
+	}
+
+[Tap Shift, then press A.]
+	{
+	zh-Hans=请点按Shift，然后按A。;
+	}
+
+[Tap to turn it on, tap again to turn it off.]
+	{
+	zh-Hans=点按开启，再点按一次则关闭。;
+	}
+
+[The built-in player takes those seats from the units as they stand. Get the brain in the Library to load the game as it was saved.]
+	{
+	zh-Hans=内置玩家按单位当前的状态接管这些席位。在资源库中获取该大脑，才能按存档时的样子读取本局。;
+	}
+
+[The folder kept for Roll back ({backup}) is removed.]
+	{
+	zh-Hans=为回滚保留的文件夹（{backup}）已删除。;
+	}
+
+[The folder kept for Roll back stays.]
+	{
+	zh-Hans=为回滚保留的文件夹不受影响。;
+	}
+
+[The folder kept for Roll back, which holds no mod that can be read, is removed.]
+	{
+	zh-Hans=为回滚保留的文件夹中没有可读取的模组，已将其删除。;
+	}
+
+[The game closes, installs it and starts again.]
+	{
+	zh-Hans=游戏会关闭，安装它，然后重新启动。;
+	}
+
+[The game did not close: {detail}]
+	{
+	zh-Hans=游戏未能关闭：{detail};
+	}
+
+[The id {id} is kept for your own changes.]
+	{
+	zh-Hans=标识{id}留给自己的更改。;
+	}
+
+[The installer did not finish: {detail}]
+	{
+	zh-Hans=安装程序未能完成：{detail};
+	}
+
+[The key in the {key} place]
+	{
+	zh-Hans={key}位置上的键;
+	}
+
+[The keys OA keeps for TA Zero, ESC or Twilight]
+	{
+	zh-Hans=OA为TA Zero、ESC或Twilight保留的按键;
+	}
+
+[The keys Open Annihilation ships with.]
+	{
+	zh-Hans=Open Annihilation自带的按键。;
+	}
+
+[The keys, mouse buttons and wheel turns the game answers. {primary}+/ in a match shows them.]
+	{
+	zh-Hans=这些是游戏会响应的按键、鼠标按钮和滚轮转动。对局中按{primary}+/即可显示它们。;
+	}
+
+[The layout was not saved: {reason}]
+	{
+	zh-Hans=按键布局未能保存：{reason};
+	}
+
+[The letter {key}, wherever your keyboard has it]
+	{
+	zh-Hans=字母{key}，无论它在键盘上的哪个位置;
+	}
+
+[The mod's data]
+	{
+	zh-Hans=模组的数据;
+	}
+
+[The mod's hacks]
+	{
+	zh-Hans=模组的改动;
+	}
+
+[The numpad moves the pointer; 5 clicks, 0 right-clicks.]
+	{
+	zh-Hans=小键盘移动指针：5为点击，0为右键点击。;
+	}
+
+[The package could not be checked: {detail}]
+	{
+	zh-Hans=无法校验软件包：{detail};
+	}
+
+[The package could not be unpacked: {detail}]
+	{
+	zh-Hans=无法解压软件包：{detail};
+	}
+
+[The text changes 1 key of {layout}.]
+	{
+	zh-Hans=这段文字会更改{layout}的1个按键。;
+	}
+
+[The text changes {n} keys of {layout}.]
+	{
+	zh-Hans=这段文字会更改{layout}的{n}个按键。;
+	}
+
+[The version installed is kept, and Roll back in the Library brings it back.]
+	{
+	zh-Hans=已安装的版本会保留，在资源库中点击回滚即可恢复。;
+	}
+
+[The {key} key]
+	{
+	zh-Hans={key}键;
+	}
+
+[This copy cannot replace itself. Get the new release from its page.]
+	{
+	zh-Hans=此副本无法替换自己。请从其页面获取新版本。;
+	}
+
+[This copy is installed for the whole system, so it cannot replace itself. Install the new release the way this copy was installed.]
+	{
+	zh-Hans=此副本是为整个系统安装的，因此无法替换自己。请按安装此副本的方式安装新版本。;
+	}
+
+[This layout has problems:]
+	{
+	zh-Hans=此按键布局有问题：;
+	}
+
+[This mod]
+	{
+	zh-Hans=此模组;
+	}
+
+[This mod needs every player on Open Annihilation. The host plays Total Annihilation 3.1c.]
+	{
+	zh-Hans=此模组要求每位玩家都使用Open Annihilation。房主运行的是Total Annihilation 3.1c。;
+	}
+
+[To put the game right]
+	{
+	zh-Hans=修复游戏;
+	}
+
+[Tournament]
+	{
+	zh-Hans=锦标赛;
+	}
+
+[Try it here]
+	{
+	zh-Hans=在此试用;
+	}
+
+[Turn every helper off]
+	{
+	zh-Hans=关闭全部辅助;
+	}
+
+[Turn off]
+	{
+	zh-Hans=关闭;
+	}
+
+[Turn on {name}]
+	{
+	zh-Hans=开启{name};
+	}
+
+[Turning it on applies when the Library closes, and then Play now works.]
+	{
+	zh-Hans=开启会在关闭资源库后生效，然后就可以“立即游戏”。;
+	}
+
+[Turning it on applies when the Library closes, and then Use now works.]
+	{
+	zh-Hans=开启会在关闭资源库后生效，然后就可以“立即使用”。;
+	}
+
+[Turning them on applies when the Library closes, and then Play now works.]
+	{
+	zh-Hans=开启它们会在关闭资源库后生效，然后就可以“立即游戏”。;
+	}
+
+[Turning them on applies when the Library closes, and then Use now works.]
+	{
+	zh-Hans=开启它们会在关闭资源库后生效，然后就可以“立即使用”。;
+	}
+
+[U]
+	{
+	zh-Hans=U;
+	}
+
+[UPDATES]
+	{
+	zh-Hans=更新;
+	}
+
+[Unbound]
+	{
+	zh-Hans=未绑定;
+	}
+
+[Undo]
+	{
+	zh-Hans=撤销;
+	}
+
+[Uninstall]
+	{
+	zh-Hans=卸载;
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy Roll back keeps.]
+	{
+	zh-Hans=卸载{name}？其文件夹{folder}将被删除，回滚所保留的副本也会一并删除。;
+	}
+
+[Unload]
+	{
+	zh-Hans=卸载;
+	}
+
+[Unload mod]
+	{
+	zh-Hans=停用模组;
+	}
+
+[Unlocked camera]
+	{
+	zh-Hans=解锁视角;
+	}
+
+[Unpacked the package]
+	{
+	zh-Hans=已解压软件包;
+	}
+
+[Up to date]
+	{
+	zh-Hans=已是最新;
+	}
+
+[Up to date · Stable · checked {when}]
+	{
+	zh-Hans=已是最新 · 稳定 · 检查于{when};
+	}
+
+[Update]
+	{
+	zh-Hans=更新;
+	}
+
+[Updated {name} · {new} changes the game's rules · Roll back restores {old}]
+	{
+	zh-Hans=已更新{name} · {new}改变了游戏规则 · 回滚可恢复{old};
+	}
+
+[Updated {name} · {new} may change the game's rules · Roll back restores {old}]
+	{
+	zh-Hans=已更新{name} · {new}可能改变了游戏规则 · 回滚可恢复{old};
+	}
+
+[Use]
+	{
+	zh-Hans=使用;
+	}
+
+[Use by default]
+	{
+	zh-Hans=设为默认;
+	}
+
+[Use for every game]
+	{
+	zh-Hans=用于每一局;
+	}
+
+[Use for {mod}]
+	{
+	zh-Hans=用于{mod};
+	}
+
+[Use now]
+	{
+	zh-Hans=立即使用;
+	}
+
+[Use these]
+	{
+	zh-Hans=使用这些;
+	}
+
+[Use this]
+	{
+	zh-Hans=选用;
+	}
+
+[Use this game]
+	{
+	zh-Hans=使用此游戏;
+	}
+
+[Use {chord} for {action}]
+	{
+	zh-Hans=把{chord}用于{action};
+	}
+
+[Use {key} for {action}…]
+	{
+	zh-Hans=把{key}用于{action}…;
+	}
+
+[Using]
+	{
+	zh-Hans=使用中;
+	}
+
+[Using {layout} for every game.]
+	{
+	zh-Hans=每一局都使用{layout}。;
+	}
+
+[Using {layout} with {mod}.]
+	{
+	zh-Hans=与{mod}一起使用{layout}。;
+	}
+
+[V]
+	{
+	zh-Hans=V;
+	}
+
+[W]
+	{
+	zh-Hans=W;
+	}
+
+[WHEN I QUIT]
+	{
+	zh-Hans=当我退出时;
+	}
+
+[Waited for the game to close]
+	{
+	zh-Hans=已等待游戏关闭;
+	}
+
+[Watching]
+	{
+	zh-Hans=观战;
+	}
+
+[What happened]
+	{
+	zh-Hans=发生了什么;
+	}
+
+[What moves]
+	{
+	zh-Hans=会改动什么;
+	}
+
+[What {key} does]
+	{
+	zh-Hans={key}的作用;
+	}
+
+[What's new]
+	{
+	zh-Hans=新内容;
+	}
+
+[Wheel]
+	{
+	zh-Hans=滚轮;
+	}
+
+[Wheel and middle]
+	{
+	zh-Hans=滚轮与中键;
+	}
+
+[Wheel zoom]
+	{
+	zh-Hans=滚轮缩放;
+	}
+
+[When I quit]
+	{
+	zh-Hans=退出时;
+	}
+
+[When should it go in?]
+	{
+	zh-Hans=要在什么时候安装？;
+	}
+
+[Where]
+	{
+	zh-Hans=位置;
+	}
+
+[While playing]
+	{
+	zh-Hans=游戏时;
+	}
+
+[While watching]
+	{
+	zh-Hans=观战时;
+	}
+
+[Whiteboard held]
+	{
+	zh-Hans=白板已按住;
+	}
+
+[Window]
+	{
+	zh-Hans=窗口;
+	}
+
+[Window size]
+	{
+	zh-Hans=窗口大小;
+	}
+
+[Windows asks for permission.]
+	{
+	zh-Hans=Windows会请求权限。;
+	}
+
+[With {mod}: {name}]
+	{
+	zh-Hans=配合{mod}：{name};
+	}
+
+[You are playing {name}. Switch it off first with Switch off, then uninstall it.]
+	{
+	zh-Hans=你正在使用{name}。请先点击“停用”关闭它，然后再卸载。;
+	}
+
+[You went back to {old}, with the settings you had.]
+	{
+	zh-Hans=你已回到{old}，设置也是你当时的。;
+	}
+
+[Your 1 change to {name}]
+	{
+	zh-Hans=你对{name}的1项更改;
+	}
+
+[Your change]
+	{
+	zh-Hans=你的更改;
+	}
+
+[Your change, over {layout}]
+	{
+	zh-Hans=你的更改，位于{layout}之上;
+	}
+
+[Your changes]
+	{
+	zh-Hans=你的更改;
+	}
+
+[Your last campaign set, ready to use. Cancel plays without mutators.]
+	{
+	zh-Hans=这是你上次的战役组合，可以直接使用。取消则不带变异器进行游戏。;
+	}
+
+[Your last multiplayer set, ready to use. Cancel plays without mutators.]
+	{
+	zh-Hans=这是你上次的多人游戏组合，可以直接使用。取消则不带变异器进行游戏。;
+	}
+
+[Your last skirmish set, ready to use. Cancel plays without mutators.]
+	{
+	zh-Hans=这是你上次的遭遇战组合，可以直接使用。取消则不带变异器进行游戏。;
+	}
+
+[Your saved games, settings and mods are not touched by this.]
+	{
+	zh-Hans=这不会改动你的存档、设置和模组。;
+	}
+
+[Your saved games, settings and mods stay as they are.]
+	{
+	zh-Hans=你的存档、设置和模组保持原样。;
+	}
+
+[Your {count} changes to {name}]
+	{
+	zh-Hans=你对{name}的{count}项更改;
+	}
+
+[a second]
+	{
+	zh-Hans=每秒;
+	}
+
+[about {minutes} minutes left]
+	{
+	zh-Hans=还剩约{minutes}分钟;
+	}
+
+[always]
+	{
+	zh-Hans=始终;
+	}
+
+[and 1 change of your own]
+	{
+	zh-Hans=以及自己的更改1项;
+	}
+
+[and {count} more]
+	{
+	zh-Hans=以及另外{count}个;
+	}
+
+[and {n} changes of your own]
+	{
+	zh-Hans=以及自己的更改{n}项;
+	}
+
+[and {n} more]
+	{
+	zh-Hans=以及另外{n}个;
+	}
+
+[any keyboard]
+	{
+	zh-Hans=任意键盘;
+	}
+
+[cnc-ddraw's ddraw.ini]
+	{
+	zh-Hans=cnc-ddraw的ddraw.ini;
+	}
+
+[game paused]
+	{
+	zh-Hans=游戏已暂停;
+	}
+
+[held]
+	{
+	zh-Hans=已按住;
+	}
+
+[in place of]
+	{
+	zh-Hans=代替;
+	}
+
+[latches]
+	{
+	zh-Hans=锁定;
+	}
+
+[less than a minute left]
+	{
+	zh-Hans=剩余不到一分钟;
+	}
+
+[more than an hour left]
+	{
+	zh-Hans=剩余超过一小时;
+	}
+
+[not in the loaded units]
+	{
+	zh-Hans=不在已载入的单位中;
+	}
+
+[not installed]
+	{
+	zh-Hans=未安装;
+	}
+
+[not used by Open Annihilation]
+	{
+	zh-Hans=Open Annihilation不使用;
+	}
+
+[on {date}]
+	{
+	zh-Hans=于{date};
+	}
+
+[place]
+	{
+	zh-Hans=放置;
+	}
+
+[px]
+	{
+	zh-Hans=px;
+	}
+
+[ready]
+	{
+	zh-Hans=就绪;
+	}
+
+[release]
+	{
+	zh-Hans=松开;
+	}
+
+[tdraw's Settings.ini]
+	{
+	zh-Hans=tdraw的Settings.ini;
+	}
+
+[the button]
+	{
+	zh-Hans=该按钮;
+	}
+
+[the left-click interface]
+	{
+	zh-Hans=左键点击界面;
+	}
+
+[the mod's data]
+	{
+	zh-Hans=模组的数据;
+	}
+
+[the right-click interface]
+	{
+	zh-Hans=右键点击界面;
+	}
+
+[today at {time}]
+	{
+	zh-Hans=今天{time};
+	}
+
+[wheel]
+	{
+	zh-Hans=滚轮;
+	}
+
+[while playing]
+	{
+	zh-Hans=游戏时;
+	}
+
+[while watching]
+	{
+	zh-Hans=观战时;
+	}
+
+[yesterday at {time}]
+	{
+	zh-Hans=昨天{time};
+	}
+
+[yours]
+	{
+	zh-Hans=你的;
+	}
+
+[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and Roll back brings it back.]
+	{
+	zh-Hans={To}会改变游戏规则。{from}的存档将无法在{to}中载入。{From}会保留，回滚即可恢复。;
+	}
+
+[{action} and {name} both use it {context}. Choose which keeps it; nothing changes until you confirm.]
+	{
+	zh-Hans={action}和{name}都在{context}使用它。请选择由哪一个保留。在你确认前不会更改。;
+	}
+
+[{chords}, from the mod's order panel ({gadget})]
+	{
+	zh-Hans={chords}，来自模组的命令面板（{gadget}）;
+	}
+
+[{chords}, from {source}]
+	{
+	zh-Hans={chords}，来自{source};
+	}
+
+[{chord} also does {name} {context}. That never meets {where}, so it stays.]
+	{
+	zh-Hans={chord}在{context}也会执行{name}。它与{where}从不会同时出现，因此保留。;
+	}
+
+[{chord} counted, then {keys} let go.]
+	{
+	zh-Hans=已计入{chord}，随后松开了{keys}。;
+	}
+
+[{chord} counted.]
+	{
+	zh-Hans=已计入{chord}。;
+	}
+
+[{chord} does two things]
+	{
+	zh-Hans={chord}会做两件事;
+	}
+
+[{chord} is already in use]
+	{
+	zh-Hans={chord}已被占用;
+	}
+
+[{chord} is free {context}]
+	{
+	zh-Hans={chord}在{context}空闲;
+	}
+
+[{chord} is free {context}.]
+	{
+	zh-Hans={chord}在{context}空闲。;
+	}
+
+[{chord} is free: nothing uses it.]
+	{
+	zh-Hans={chord}空闲：没有功能使用它。;
+	}
+
+[{chord} is in use {context}]
+	{
+	zh-Hans={chord}在{context}被占用;
+	}
+
+[{chord} is used in 1 place. Nothing is changed.]
+	{
+	zh-Hans={chord}在1个位置被使用。未做任何更改。;
+	}
+
+[{chord} is used in {n} places. Nothing is changed.]
+	{
+	zh-Hans={chord}在{n}个位置被使用。未做任何更改。;
+	}
+
+[{command} on {key}]
+	{
+	zh-Hans={key}上的{command};
+	}
+
+[{command} with no key]
+	{
+	zh-Hans=没有按键的{command};
+	}
+
+[{count} changes of your own]
+	{
+	zh-Hans=自己的更改{count}项;
+	}
+
+[{count} commands]
+	{
+	zh-Hans={count}个动作;
+	}
+
+[{count} of {limit}]
+	{
+	zh-Hans={count}/{limit};
+	}
+
+[{count} settings changed]
+	{
+	zh-Hans=已更改{count}项设置;
+	}
+
+[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and Roll back brings it back.]
+	{
+	zh-Hans={count}个更新会改变游戏规则：{names}。它们当前版本的存档将无法在新版本中载入。每个当前版本都会保留，回滚即可恢复。;
+	}
+
+[{description} · {chord}]
+	{
+	zh-Hans={description} · {chord};
+	}
+
+[{done} of {size} · {percent}%]
+	{
+	zh-Hans={done}/{size} · {percent}%;
+	}
+
+[{done} of {whole} s · let go to cancel]
+	{
+	zh-Hans={done}/{whole} s · 松开即取消;
+	}
+
+[{first}…{last}]
+	{
+	zh-Hans={first}…{last};
+	}
+
+[{folder} is a folder of your own, not {name}. Move or rename it, then Retry.]
+	{
+	zh-Hans={folder}是你自己的文件夹，不是{name}。请移动或重命名它，然后点击重试。;
+	}
+
+[{keys} keys, 1 helper]
+	{
+	zh-Hans={keys}个按键，1个辅助;
+	}
+
+[{keys} keys, {helpers} helpers]
+	{
+	zh-Hans={keys}个按键，{helpers}个辅助;
+	}
+
+[{key} did not count: let go after {held} of {wait} s.]
+	{
+	zh-Hans={key}未计入：按到{held}/{wait} s就松开了。;
+	}
+
+[{key} did not count: pressed again within {wait} s.]
+	{
+	zh-Hans={key}未计入：在{wait} s内又按下了。;
+	}
+
+[{key} held {held} of {wait} s.]
+	{
+	zh-Hans={key}已按住{held}/{wait} s。;
+	}
+
+[{key} let go.]
+	{
+	zh-Hans=已松开{key}。;
+	}
+
+[{key} stays down for the next key.]
+	{
+	zh-Hans={key}保持按下，直到下一个键。;
+	}
+
+[{key} stays down until you tap it again.]
+	{
+	zh-Hans={key}保持按下，直到你再次点按它。;
+	}
+
+[{layout} · 1 change]
+	{
+	zh-Hans={layout} · 1项更改;
+	}
+
+[{layout} · {n} changes]
+	{
+	zh-Hans={layout} · {n}项更改;
+	}
+
+[{modifier} · locked]
+	{
+	zh-Hans={modifier} · 锁定;
+	}
+
+[{modifier} · next key or click]
+	{
+	zh-Hans={modifier} · 下一键或点击;
+	}
+
+[{name} ({count})]
+	{
+	zh-Hans={name}（{count}）;
+	}
+
+[{name} already has 1 change of your own; it stays.]
+	{
+	zh-Hans={name}已有自己的更改1项，会保留。;
+	}
+
+[{name} already has {count} changes of your own; they stay.]
+	{
+	zh-Hans={name}已有自己的更改{count}项，会保留。;
+	}
+
+[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and Roll back brings it back.]
+	{
+	zh-Hans=已安装来自{installed}的{name}。要用来自{new}的{name}替换它吗？来自{installed}的版本会保留，回滚即可恢复。;
+	}
+
+[{name} uses it {context}. Choose what happens; nothing changes until you confirm.]
+	{
+	zh-Hans={name}在{context}使用它。请选择如何处理。在你确认前不会更改。;
+	}
+
+[{name} uses it. Nothing changes until you choose.]
+	{
+	zh-Hans={name}正在使用它。在你选择前不会更改。;
+	}
+
+[{name} · 1 change of your own]
+	{
+	zh-Hans={name} · 自己的更改1项;
+	}
+
+[{name} · Add from…]
+	{
+	zh-Hans={name} · 从……添加;
+	}
+
+[{name} · made for {mod}]
+	{
+	zh-Hans={name} · 为{mod}制作;
+	}
+
+[{name} · {n} changes]
+	{
+	zh-Hans={name} · {n}项更改;
+	}
+
+[{name} · {n} changes of your own]
+	{
+	zh-Hans={name} · 自己的更改{n}项;
+	}
+
+[{name}: {description} {context}. OK asks what to do.]
+	{
+	zh-Hans={name}：{description} {context}。确定会询问要怎么做。;
+	}
+
+[{number} · {heading}]
+	{
+	zh-Hans={number} · {heading};
+	}
+
+[{primary}+/ in a match shows the keys.]
+	{
+	zh-Hans=对局中按{primary}+/即可显示按键。;
+	}
+
+[{problem} Retry tries again.]
+	{
+	zh-Hans={problem}点击“重试”可再试一次。;
+	}
+
+[{problem} · Retry]
+	{
+	zh-Hans={problem} · 重试;
+	}
+
+[{shape} · from your system]
+	{
+	zh-Hans={shape} · 来自你的系统;
+	}
+
+[{title} is back to {new}. {old} is kept, and Roll back brings it back.]
+	{
+	zh-Hans={title}已回到{new}。{old}已保留，点击回滚即可恢复。;
+	}
+
+[{title} is now {new}. {old} is kept, and Roll back in the Library brings it back.]
+	{
+	zh-Hans={title}现在是{new}。{old}已保留，在资源库中点击回滚即可恢复。;
+	}
+
+[{title} {to}, the version kept for Roll back, cannot be played.]
+	{
+	zh-Hans=为回滚保留的版本{title} {to}无法使用。;
+	}
+
+[{wheel} rotates]
+	{
+	zh-Hans={wheel}旋转;
+	}
+
+[· 1 change of your own]
+	{
+	zh-Hans=· 自己的更改1项;
+	}
+
+[· your change]
+	{
+	zh-Hans=· 你的更改;
+	}
+
+[· {count} changes of your own]
+	{
+	zh-Hans=· 自己的更改{count}项;
+	}
+
+[▲ Up]
+	{
+	zh-Hans=▲ 上移;
+	}
+
+[▼ Down]
+	{
+	zh-Hans=▼ 下移;
+	}
+

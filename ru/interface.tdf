@@ -369,19 +369,9 @@
 	ru=Здесь изображение рисуется так же, как без ускорения.;
 	}
 
-[SAVES]
-	{
-	ru=СОХРАНЕНИЯ;
-	}
-
 [SCREENSHOTS]
 	{
 	ru=СНИМКИ ЭКРАНА;
-	}
-
-[MODS]
-	{
-	ru=МОДЫ;
 	}
 
 [System default]
@@ -1124,16 +1114,6 @@
 	ru=Здесь всегда включено;
 	}
 
-[MANAGE…]
-	{
-	ru=УПРАВЛЕНИЕ…;
-	}
-
-[RESTORE PROFILE VALUES]
-	{
-	ru=ВЕРНУТЬ ЗНАЧЕНИЯ ПРОФИЛЯ;
-	}
-
 [Applies at next match]
 	{
 	ru=Со следующей игры;
@@ -1184,11 +1164,6 @@
 	ru=Нет oamod.yaml;
 	}
 
-[PLAYING]
-	{
-	ru=В ИГРЕ;
-	}
-
 [OPEN MODS FOLDER]
 	{
 	ru=ОТКРЫТЬ ПАПКУ МОДОВ;
@@ -1199,24 +1174,9 @@
 	ru=СМЕНИТЬ МОД;
 	}
 
-[SWITCH]
-	{
-	ru=СМЕНИТЬ;
-	}
-
-[ROLL BACK]
-	{
-	ru=ОТКАТИТЬ;
-	}
-
 [ROLL BACK MOD]
 	{
 	ru=ОТКАТИТЬ МОД;
-	}
-
-[Roll back {title} to {to}? {from} is kept in its place, and ROLL BACK again brings it back.]
-	{
-	ru=Откатить {title} до версии {to}? Версия {from} сохранится, и повторное нажатие ОТКАТИТЬ вернёт её.;
 	}
 
 [The game reloads its data for the mod and returns to the main menu.]
@@ -1279,21 +1239,6 @@
 	ru=ЗАМЕНИТЬ;
 	}
 
-[INSTALL ALONGSIDE]
-	{
-	ru=УСТАНОВИТЬ РЯДОМ;
-	}
-
-[REINSTALL]
-	{
-	ru=ПЕРЕУСТАНОВИТЬ;
-	}
-
-[PLAY NOW]
-	{
-	ru=ИГРАТЬ СЕЙЧАС;
-	}
-
 [INSTALLING MOD]
 	{
 	ru=УСТАНОВКА МОДА;
@@ -1337,16 +1282,6 @@
 [MOD NOT ROLLED BACK]
 	{
 	ru=МОД НЕ ОТКАЧЕН;
-	}
-
-[The folder kept for ROLL BACK, which holds no mod that can be read, is removed.]
-	{
-	ru=Папка, сохранённая для отката, удалена: в ней нет мода, который можно прочитать.;
-	}
-
-[The folder kept for ROLL BACK ({backup}) is removed.]
-	{
-	ru=Папка, сохранённая для отката ({backup}), удалена.;
 	}
 
 [{version} of an unknown revision]
@@ -1414,11 +1349,6 @@
 	ru=Сохранённая версия, {backup}, остаётся.;
 	}
 
-[The folder kept for ROLL BACK stays.]
-	{
-	ru=Папка, сохранённая для отката, остаётся.;
-	}
-
 [Your Mods folder already has a folder named {folder} that does not hold {title}. It is left as it is.]
 	{
 	ru=В вашей папке Mods уже есть папка {folder}, в которой нет мода {title}. Она оставлена как есть.;
@@ -1442,11 +1372,6 @@
 [The files of {title} {version} were installed again.]
 	{
 	ru=Файлы мода {title} {version} установлены заново.;
-	}
-
-[{title} is back to {new}. {old} is kept, and ROLL BACK brings it back.]
-	{
-	ru=Мод {title} возвращён к версии {new}. Версия {old} сохранена, и ОТКАТИТЬ вернёт её.;
 	}
 
 [{title} is back to {new}.]
@@ -1582,11 +1507,6 @@
 [{title} could not be rolled back; nothing was changed.]
 	{
 	ru=Не удалось откатить мод {title}. Ничего не изменено.;
-	}
-
-[{title} {to}, the version kept for ROLL BACK, cannot be played.]
-	{
-	ru=Запустить мод {title} {to} (версию, сохранённую для отката) невозможно.;
 	}
 
 [the folder you chose]
@@ -4351,11 +4271,6 @@
 	ru=Обновлений: {count};
 	}
 
-[UPDATE ALL]
-	{
-	ru=ОБНОВИТЬ ВСЁ;
-	}
-
 [Showing the list from {age}. OA couldn't reach the registries.]
 	{
 	ru=Показан список, полученный {age}. OA не удалось связаться с реестрами.;
@@ -4379,16 +4294,6 @@
 [Nothing to show.]
 	{
 	ru=Нечего показать.;
-	}
-
-[GET]
-	{
-	ru=ПОЛУЧИТЬ;
-	}
-
-[INSTALLED]
-	{
-	ru=УСТАНОВЛЕНО;
 	}
 
 [UPDATE]
@@ -4721,16 +4626,6 @@
 	ru=✓;
 	}
 
-[RETRY]
-	{
-	ru=ПОВТОР;
-	}
-
-[HOMEPAGE]
-	{
-	ru=САЙТ;
-	}
-
 [Finishes when you leave {name}.]
 	{
 	ru=Завершится, когда вы выйдете из {name}.;
@@ -4739,16 +4634,6 @@
 [You are playing {playing}. Updating {name} doesn't restart the game.]
 	{
 	ru=Сейчас запущено: {playing}. Обновление {name} не перезапускает игру.;
-	}
-
-[SETTINGS…]
-	{
-	ru=НАСТРОЙКИ…;
-	}
-
-[DETAILS]
-	{
-	ru=ПОДРОБНЕЕ;
 	}
 
 [{name} {version}]
@@ -4789,21 +4674,6 @@
 [Installed {name}]
 	{
 	ru=Установлено: {name};
-	}
-
-[Updated {name} · {new} changes the game's rules · ROLL BACK restores {old}]
-	{
-	ru=Обновлено: {name} · {new} меняет правила игры · ОТКАТИТЬ вернёт прежнюю версию ({old});
-	}
-
-[Updated {name} · {new} may change the game's rules · ROLL BACK restores {old}]
-	{
-	ru=Обновлено: {name} · {new} может изменить правила игры · ОТКАТИТЬ вернёт прежнюю версию ({old});
-	}
-
-[{problem} · RETRY]
-	{
-	ru={problem} · ПОВТОР;
 	}
 
 [Then {package} · {phase}]
@@ -4891,29 +4761,9 @@
 	ru={name} {from} → {to};
 	}
 
-[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and ROLL BACK brings it back.]
-	{
-	ru={To} меняет правила игры. Сохранения из старой версии ({from}) не загрузятся в новой ({to}). {From} сохранится, и ОТКАТИТЬ вернёт её.;
-	}
-
-[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and ROLL BACK brings it back.]
-	{
-	ru=OA не может определить, меняет ли {to} правила игры. Если меняет, сохранения из старой версии ({from}) в новой не загрузятся. {From} сохранится, и ОТКАТИТЬ вернёт её.;
-	}
-
 [It finishes when you leave {name}.]
 	{
 	ru=Завершится, когда вы выйдете из {name}.;
-	}
-
-[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and ROLL BACK brings it back.]
-	{
-	ru=1 обновление меняет правила игры: {names}. Сохранения из текущей версии не загрузятся в новой. Текущая версия сохранится, и ОТКАТИТЬ вернёт её.;
-	}
-
-[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and ROLL BACK brings it back.]
-	{
-	ru=Обновлений, меняющих правила игры: {count} — {names}. Сохранения из их текущих версий не загрузятся в новых. Каждая текущая версия сохранится, и ОТКАТИТЬ вернёт её.;
 	}
 
 [{names} and {count} more]
@@ -4939,11 +4789,6 @@
 [Download]
 	{
 	ru=Скачать;
-	}
-
-[NOT NOW]
-	{
-	ru=НЕ СЕЙЧАС;
 	}
 
 [the server could not be reached]
@@ -5098,11 +4943,6 @@
 	ru=. Выберите его ещё раз, чтобы повторить попытку.;
 	}
 
-[MORE IN THE LIBRARY…]
-	{
-	ru=ЕЩЁ В БИБЛИОТЕКЕ…;
-	}
-
 [More languages are in the Library.]
 	{
 	ru=Другие языки — в Библиотеке.;
@@ -5178,11 +5018,6 @@
 	ru=Создаётся при первом скачивании;
 	}
 
-[RESET]
-	{
-	ru=СБРОСИТЬ;
-	}
-
 [Downloaded files]
 	{
 	ru=Скачанные файлы;
@@ -5191,11 +5026,6 @@
 [Nothing kept]
 	{
 	ru=Ничего не сохранено;
-	}
-
-[EMPTY]
-	{
-	ru=ОЧИСТИТЬ;
 	}
 
 [Registries]
@@ -5288,11 +5118,6 @@
 	ru=Будет удалено, когда вы нажмёте OK;
 	}
 
-[ADD MIRROR…]
-	{
-	ru=ДОБАВИТЬ ЗЕРКАЛО…;
-	}
-
 [Choose from the main menu.]
 	{
 	ru=Доступно только в главном меню.;
@@ -5306,11 +5131,6 @@
 [Content from registries other than {names} isn't reviewed by the OA team. OA still checks every package before using it.]
 	{
 	ru=Команда OA не проверяет контент из реестров, кроме {names}. Тем не менее OA проверяет каждый пакет перед использованием.;
-	}
-
-[ADD REGISTRY…]
-	{
-	ru=ДОБАВИТЬ РЕЕСТР…;
 	}
 
 // The map browser, GET MAP, and the questions that install a map pack or a language.
@@ -5558,11 +5378,6 @@
 [Install the map pack {name} {version} ({n} maps)?]
 	{
 	ru=Установить набор карт {name} {version} (карт: {n})?;
-	}
-
-[INSTALL]
-	{
-	ru=УСТАНОВИТЬ;
 	}
 
 [UPDATE MAP PACK]
@@ -5828,16 +5643,6 @@
 [REPLACE MOD]
 	{
 	ru=ЗАМЕНИТЬ МОД;
-	}
-
-[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and ROLL BACK brings it back.]
-	{
-	ru=Установлен мод {name} из {installed}. Заменить его модом {name} из {new}? Версия из {installed} сохранится, и ОТКАТИТЬ вернёт её.;
-	}
-
-[{folder} is a folder of your own, not {name}. Move or rename it, then RETRY.]
-	{
-	ru={folder} — это ваша собственная папка, а не {name}. Переместите или переименуйте её, а затем нажмите ПОВТОР.;
 	}
 
 [{n} KB]
@@ -6186,11 +5991,6 @@
 	ru=Начальная настройка;
 	}
 
-[SHOW AGAIN]
-	{
-	ru=ПОКАЗАТЬ СНОВА;
-	}
-
 [Walk through the language, online features and the OA buttons again.]
 	{
 	ru=Ещё раз пройти шаги: язык, онлайн-функции и кнопки OA.;
@@ -6251,11 +6051,6 @@
 	ru=Эта система читает HTTPS-реестры по HTTP.;
 	}
 
-[REGISTRIES IN THE LIBRARY…]
-	{
-	ru=РЕЕСТРЫ В БИБЛИОТЕКЕ…;
-	}
-
 [Registries are in the Library.]
 	{
 	ru=Реестры теперь в Библиотеке.;
@@ -6269,21 +6064,6 @@
 [MAPS]
 	{
 	ru=КАРТЫ;
-	}
-
-[SWITCH OFF]
-	{
-	ru=ОТКЛЮЧИТЬ;
-	}
-
-[UNLOAD MOD]
-	{
-	ru=ОТКЛЮЧИТЬ МОД;
-	}
-
-[UNINSTALL]
-	{
-	ru=УДАЛИТЬ;
 	}
 
 [{language} · built in]
@@ -6396,11 +6176,6 @@
 	ru=Обновление списка;
 	}
 
-[REFRESH]
-	{
-	ru=ОБНОВИТЬ;
-	}
-
 [refreshed {age}]
 	{
 	ru=обновлено {age};
@@ -6441,11 +6216,6 @@
 	ru=Во время игры нельзя удалять наборы карт.;
 	}
 
-[It is in the download queue: CANCEL it before you uninstall it.]
-	{
-	ru=Пакет стоит в очереди скачивания: сначала нажмите ОТМЕНА, а затем удаляйте.;
-	}
-
 [Uninstall {name}]
 	{
 	ru=Удалить {name};
@@ -6456,24 +6226,9 @@
 	ru=Удалить {name}? Папка {folder} будет удалена.;
 	}
 
-[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy ROLL BACK keeps.]
-	{
-	ru=Удалить {name}? Папка {folder} будет удалена, а вместе с ней и копия, которую хранит ОТКАТИТЬ.;
-	}
-
-[GET installs it again.]
-	{
-	ru=Кнопка ПОЛУЧИТЬ установит его снова.;
-	}
-
 [No registry lists it, so the Library cannot get it again.]
 	{
 	ru=Его нет ни в одном реестре, поэтому Библиотека не сможет получить его снова.;
-	}
-
-[You are playing {name}. Switch it off first with SWITCH OFF, then uninstall it.]
-	{
-	ru=Сейчас вы играете с модом {name}. Сначала отключите его кнопкой ОТКЛЮЧИТЬ, а затем удаляйте.;
 	}
 
 [The game is shown in {name}. Choose another language in Settings › Language first, then uninstall it.]
@@ -6496,11 +6251,6 @@
 	ru=Папка изменилась с тех пор, как Библиотека составила список. Попробуйте ещё раз.;
 	}
 
-[Its folder is a link, and OA never removes what a link leads to. OPEN FOLDER shows it.]
-	{
-	ru=Папка является ссылкой, а OA никогда не удаляет то, на что ведёт ссылка. Кнопка ПАПКА покажет её.;
-	}
-
 [Its folder is not in your own Open Annihilation folder, and OA removes nothing outside it.]
 	{
 	ru=Папка находится вне вашей папки Open Annihilation, а OA ничего не удаляет за её пределами.;
@@ -6509,36 +6259,6 @@
 [Its folder could not be moved; another program may be using it. Close it, then try again.]
 	{
 	ru=Не удалось переместить папку — возможно, её использует другая программа. Закройте ту программу и попробуйте ещё раз.;
-	}
-
-[The version installed is kept, and ROLL BACK in the Library brings it back.]
-	{
-	ru=Установленная версия сохраняется, и кнопка ОТКАТИТЬ в Библиотеке вернёт её.;
-	}
-
-[Revision {installed} is kept, and ROLL BACK in the Library brings it back.]
-	{
-	ru=Ревизия {installed} сохраняется, и кнопка ОТКАТИТЬ в Библиотеке вернёт её.;
-	}
-
-[Replacing keeps {installed}, and ROLL BACK in the Library brings it back.]
-	{
-	ru=При замене {installed} сохраняется, и кнопка ОТКАТИТЬ в Библиотеке вернёт прежнюю версию.;
-	}
-
-[Choose PLAY NOW to play it, or choose it later with PLAY NOW in the Library.]
-	{
-	ru=Нажмите ИГРАТЬ СЕЙЧАС, чтобы начать игру, или выберите его позже кнопкой ИГРАТЬ СЕЙЧАС в Библиотеке.;
-	}
-
-[Choose it with PLAY NOW in the Library to play it.]
-	{
-	ru=Чтобы играть, выберите его кнопкой ИГРАТЬ СЕЙЧАС в Библиотеке.;
-	}
-
-[{title} is now {new}. {old} is kept, and ROLL BACK in the Library brings it back.]
-	{
-	ru={title}: теперь версия {new}. {old} сохраняется, и кнопка ОТКАТИТЬ в Библиотеке вернёт прежнюю версию.;
 	}
 
 [It is still copied, so it can be fixed in your file manager; the Library's Mods tab plays only mods that work.]
@@ -6564,11 +6284,6 @@
 [No installed map matches.]
 	{
 	ru=Ни одна установленная карта не подходит.;
-	}
-
-[USE NOW]
-	{
-	ru=ВЫБРАТЬ;
 	}
 
 [{shown} of {all}]
@@ -6699,11 +6414,6 @@
 	ru=Bottles;
 	}
 
-[CHANGE…]
-	{
-	ru=ИЗМЕНИТЬ…;
-	}
-
 [COPYING]
 	{
 	ru=КОПИРОВАНИЕ;
@@ -6792,11 +6502,6 @@
 [Copying Total Annihilation]
 	{
 	ru=Копирование Total Annihilation;
-	}
-
-[DETAILS…]
-	{
-	ru=ПОДРОБНЕЕ…;
 	}
 
 [Demo]
@@ -7349,16 +7054,6 @@
 	ru=СОХРАНЕНИЕ;
 	}
 
-[TURN OFF]
-	{
-	ru=ОТКЛ.;
-	}
-
-[TURN ON {name}]
-	{
-	ru=ВКЛЮЧИТЬ {name};
-	}
-
 [The display's own pixel density (Retina on a Mac). Applies from the next start.]
 	{
 	ru=Собственная плотность пикселей дисплея (Retina на Mac). Применяется со следующего запуска.;
@@ -7574,29 +7269,9 @@
 	ru=Включить и загрузить;
 	}
 
-[Turning it on applies when the Library closes, and then PLAY NOW works.]
-	{
-	ru=Включение вступит в силу после закрытия Библиотеки, и тогда заработает ИГРАТЬ СЕЙЧАС.;
-	}
-
-[Turning it on applies when the Library closes, and then USE NOW works.]
-	{
-	ru=Включение вступит в силу после закрытия Библиотеки, и тогда заработает кнопка ВЫБРАТЬ.;
-	}
-
 [Turning it on applies when the Library closes.]
 	{
 	ru=Включение вступит в силу после закрытия Библиотеки.;
-	}
-
-[Turning them on applies when the Library closes, and then PLAY NOW works.]
-	{
-	ru=Они будут включены после закрытия Библиотеки, и тогда заработает ИГРАТЬ СЕЙЧАС.;
-	}
-
-[Turning them on applies when the Library closes, and then USE NOW works.]
-	{
-	ru=Они будут включены после закрытия Библиотеки, и тогда заработает кнопка ВЫБРАТЬ.;
 	}
 
 [Turning them on applies when the Library closes.]
@@ -7607,11 +7282,6 @@
 [Turning {name} on restarts the game's files, then loads this save. Your other expansions stay as they are.]
 	{
 	ru=Включение {name} перезапустит файлы игры, а затем загрузит это сохранение. Остальные дополнения останутся как есть.;
-	}
-
-[USE THIS GAME]
-	{
-	ru=ВЫБРАТЬ ЭТУ ИГРУ;
 	}
 
 [Units are drawn as models at every zoom. Far out on a large map, needs a fast CPU.]
@@ -7882,11 +7552,6 @@
 [{name} turns on when the Library closes.]
 	{
 	ru={name} включится после закрытия Библиотеки.;
-	}
-
-[{name} · ADD FROM…]
-	{
-	ru={name} · ДОБАВИТЬ ИЗ…;
 	}
 
 [{name} ✓]
@@ -8338,11 +8003,6 @@
 	ru=· несовместим с этим модом;
 	}
 
-[CHECK WITH THIS MOD]
-	{
-	ru=ПРОВЕРИТЬ С ЭТИМ МОДОМ;
-	}
-
 [Statistics]
 	{
 	ru=Характеристики;
@@ -8580,16 +8240,6 @@
 	ru=Порядок;
 	}
 
-[▲ UP]
-	{
-	ru=▲ ВВЕРХ;
-	}
-
-[▼ DOWN]
-	{
-	ru=▼ ВНИЗ;
-	}
-
 [Add]
 	{
 	ru=Добавить;
@@ -8633,26 +8283,6 @@
 [The set holds for every mission of this campaign, and is saved with it.]
 	{
 	ru=Набор действует во всех миссиях этой кампании и сохраняется вместе с ней.;
-	}
-
-[GET ALL]
-	{
-	ru=СКАЧАТЬ ВСЕ;
-	}
-
-[GET BOTH]
-	{
-	ru=СКАЧАТЬ ОБА;
-	}
-
-[GET WITH {count} MORE]
-	{
-	ru=ПОЛУЧИТЬ И ЕЩЁ {count};
-	}
-
-[GET WITH {name}]
-	{
-	ru=ПОЛУЧИТЬ С {name};
 	}
 
 [Get {name}?]
@@ -8737,39 +8367,9 @@
 	ru=Забыть последний набор?;
 	}
 
-[FORGET IT]
-	{
-	ru=ЗАБЫТЬ;
-	}
-
-[KEEP IT]
-	{
-	ru=ОСТАВИТЬ;
-	}
-
-[USE THESE]
-	{
-	ru=ИСПОЛЬЗОВАТЬ;
-	}
-
 [Left out of your last set: {names}]
 	{
 	ru=Не включены из последнего набора: {names};
-	}
-
-[Your last campaign set, ready to use. CANCEL plays without mutators.]
-	{
-	ru=Ваш последний набор для кампании уже готов. ОТМЕНА — игра без мутаторов.;
-	}
-
-[Your last multiplayer set, ready to use. CANCEL plays without mutators.]
-	{
-	ru=Ваш последний набор для сетевой игры уже готов. ОТМЕНА — игра без мутаторов.;
-	}
-
-[Your last skirmish set, ready to use. CANCEL plays without mutators.]
-	{
-	ru=Ваш последний набор для схватки уже готов. ОТМЕНА — игра без мутаторов.;
 	}
 
 [Start without them?]
@@ -8780,16 +8380,6 @@
 [Start without {name}?]
 	{
 	ru=Начать без мутатора {name}?;
-	}
-
-[START WITHOUT IT]
-	{
-	ru=НАЧАТЬ БЕЗ НЕГО;
-	}
-
-[START WITHOUT THEM]
-	{
-	ru=НАЧАТЬ БЕЗ НИХ;
 	}
 
 [The game did not start]
@@ -8810,11 +8400,6 @@
 [{names} stopped before the game could start. Nothing they changed is kept, and the other mutators are unaffected.]
 	{
 	ru=Мутаторы {names} остановились до начала игры. Ни одно из их изменений не сохранено, остальных мутаторов это не касается.;
-	}
-
-[{problem} RETRY tries again.]
-	{
-	ru={problem} ПОВТОР — попробовать ещё раз.;
 	}
 
 [Another copy of Open Annihilation is changing your Mutators folder. Try again once it has finished.]
@@ -9366,11 +8951,6 @@
 	ru=· {reason};
 	}
 
-[USE BY DEFAULT]
-	{
-	ru=ИСПОЛЬЗОВАТЬ ПО УМОЛЧАНИЮ;
-	}
-
 // A computer seat's brain and its picker.
 
 [Computer player]
@@ -9431,11 +9011,6 @@
 [{name} cannot play this seat now, so it starts on the built-in player.]
 	{
 	ru={name} сейчас не может занять это место, поэтому игру начнёт встроенный игрок.;
-	}
-
-[USE THIS]
-	{
-	ru=ВЫБРАТЬ;
 	}
 
 [No brains here yet. The Library on the main menu gets them.]
@@ -9629,19 +9204,9 @@
 	ru=Эта игра сохранена, когда место {n} занимал мозг {name} {version}, а здесь он не установлен.;
 	}
 
-[The built-in player takes those seats from the units as they stand. GET the brain in the Library to load the game as it was saved.]
-	{
-	ru=Эти места займёт встроенный игрок, оставив юниты как есть. Чтобы загрузить игру в сохранённом виде, нажмите ПОЛУЧИТЬ у этого мозга в Библиотеке.;
-	}
-
 [Load with the built-in player?]
 	{
 	ru=Загрузить со встроенным игроком?;
-	}
-
-[LOAD WITH THE BUILT-IN PLAYER]
-	{
-	ru=ЗАГРУЗИТЬ;
 	}
 
 [This saved game needs {name} {version}, which is not installed.]
@@ -9651,19 +9216,9 @@
 
 // Open Annihilation 0.8.6: Graphics' Full 3D camera and effects, and their lock lines.
 
-[Allow Full 3D Mode]
-	{
-	ru=Разрешить полный 3D-режим;
-	}
-
 [Requires Full hardware acceleration.]
 	{
 	ru=Требуется аппаратное ускорение «Полный».;
-	}
-
-[Unlocked Camera]
-	{
-	ru=Свободная камера;
 	}
 
 [Allow angles outside the ideal range for TA art.]
@@ -9716,7 +9271,6466 @@
 	ru=Нужно ускорение «Полный»;
 	}
 
-[Needs Allow Full 3D Mode]
+
+// Key bindings: Orders.
+
+[Activate on or off]
+	{
+	ru=Активировать вкл. или выкл.;
+	}
+
+[Arms Attack]
+	{
+	ru=Выбрать: Атака;
+	}
+
+[Arms BLAST (D-gun)]
+	{
+	ru=Выбрать: D-пушка;
+	}
+
+[Arms Capture]
+	{
+	ru=Выбрать: Захват;
+	}
+
+[Arms Defend (guard)]
+	{
+	ru=Выбрать: Охрана;
+	}
+
+[Arms Load]
+	{
+	ru=Выбрать: Погрузка;
+	}
+
+[Arms Move]
+	{
+	ru=Выбрать: Движение;
+	}
+
+[Arms Patrol]
+	{
+	ru=Выбрать: Патруль;
+	}
+
+[Arms Reclaim]
+	{
+	ru=Выбрать: Утилизация;
+	}
+
+[Arms Repair]
+	{
+	ru=Выбрать: Ремонт;
+	}
+
+[Arms Unload]
+	{
+	ru=Выбрать: Выгрузка;
+	}
+
+[Build tab]
+	{
+	ru=Вкладка стройки;
+	}
+
+[Cancel order]
+	{
+	ru=Отменить приказ;
+	}
+
+[Cloak on or off]
+	{
+	ru=Маскировка вкл. или выкл.;
+	}
+
+[Fire state]
+	{
+	ru=Режим огня;
+	}
+
+[Force attack]
+	{
+	ru=Принудительная атака;
+	}
+
+[Held: force-attack a unit or the ground]
+	{
+	ru=Удержание: принудительная атака по юниту или по земле;
+	}
+
+[Held: orders join the queue, an armed order stays armed, queued orders show]
+	{
+	ru=Удержание: приказы встают в очередь, выбранный приказ остаётся выбранным, очередь приказов видна;
+	}
+
+[Move state]
+	{
+	ru=Режим движения;
+	}
+
+[On or off]
+	{
+	ru=Вкл. или выкл.;
+	}
+
+[Orders tab]
+	{
+	ru=Вкладка приказов;
+	}
+
+[Starts or stops the countdown]
+	{
+	ru=Запускает или останавливает отсчёт;
+	}
+
+[Steps the fire standing order]
+	{
+	ru=Переключает постоянный режим огня;
+	}
+
+[Steps the move standing order]
+	{
+	ru=Переключает постоянный режим движения;
+	}
+
+[Takes back an armed order or a placement only]
+	{
+	ru=Отменяет только выбранный приказ или размещение;
+	}
+
+[The BUILD tab]
+	{
+	ru=Вкладка «Стройка»;
+	}
+
+[The ORDERS tab]
+	{
+	ru=Вкладка «Приказы»;
+	}
+
+// Key bindings: Pointer.
+
+[A build button: queue one, or start placing]
+	{
+	ru=Кнопка строительства: один в очередь или начать размещение;
+	}
+
+[A build button: take one off]
+	{
+	ru=Кнопка строительства: снять один;
+	}
+
+[Add to selection]
+	{
+	ru=Добавить к выделению;
+	}
+
+[Build add]
+	{
+	ru=Добавить в стройку;
+	}
+
+[Build remove]
+	{
+	ru=Убрать из стройки;
+	}
+
+[Clicks the left button. Twice quickly, a double click]
+	{
+	ru=Щёлкает левой кнопкой. Дважды быстро — двойной щелчок;
+	}
+
+[Clicks the right button]
+	{
+	ru=Щёлкает правой кнопкой;
+	}
+
+[Command]
+	{
+	ru=Приказ;
+	}
+
+[Drags the view]
+	{
+	ru=Перетаскивает вид;
+	}
+
+[Every unit of that type on the map]
+	{
+	ru=Каждый юнит этого типа на карте;
+	}
+
+[Held with the queue modifier: a build button adds or takes 100]
+	{
+	ru=Удержание с модификатором очереди: кнопка строительства добавляет или убирает 100;
+	}
+
+[Held: a build button adds or takes five]
+	{
+	ru=Удержание: кнопка строительства добавляет или убирает пять;
+	}
+
+[Held: a click toggles a unit and a box adds]
+	{
+	ru=Удержание: щелчок переключает юнит, рамка добавляет;
+	}
+
+[Holds the left button down until pressed again]
+	{
+	ru=Держит левую кнопку нажатой до повторного нажатия;
+	}
+
+[Jumps the view to a minimap point]
+	{
+	ru=Переносит вид к точке на миникарте;
+	}
+
+[Lets a held mouse button go]
+	{
+	ru=Отпускает удерживаемую кнопку мыши;
+	}
+
+[Minimap jump]
+	{
+	ru=Прыжок на миникарте;
+	}
+
+[Minimap scroll]
+	{
+	ru=Прокрутка миникарты;
+	}
+
+[Mouse look]
+	{
+	ru=Обзор мышью;
+	}
+
+[Moves the pointer down and left, faster the longer the key is held]
+	{
+	ru=Двигает указатель вниз и влево, тем быстрее, чем дольше удерживается клавиша;
+	}
+
+[Moves the pointer down and right, faster the longer the key is held]
+	{
+	ru=Двигает указатель вниз и вправо, тем быстрее, чем дольше удерживается клавиша;
+	}
+
+[Moves the pointer down, faster the longer the key is held]
+	{
+	ru=Двигает указатель вниз, тем быстрее, чем дольше удерживается клавиша;
+	}
+
+[Moves the pointer left, faster the longer the key is held]
+	{
+	ru=Двигает указатель влево, тем быстрее, чем дольше удерживается клавиша;
+	}
+
+[Moves the pointer right, faster the longer the key is held]
+	{
+	ru=Двигает указатель вправо, тем быстрее, чем дольше удерживается клавиша;
+	}
+
+[Moves the pointer up and left, faster the longer the key is held]
+	{
+	ru=Двигает указатель вверх и влево, тем быстрее, чем дольше удерживается клавиша;
+	}
+
+[Moves the pointer up and right, faster the longer the key is held]
+	{
+	ru=Двигает указатель вверх и вправо, тем быстрее, чем дольше удерживается клавиша;
+	}
+
+[Moves the pointer up, faster the longer the key is held]
+	{
+	ru=Двигает указатель вверх, тем быстрее, чем дольше удерживается клавиша;
+	}
+
+[Orbit camera]
+	{
+	ru=Облёт камеры;
+	}
+
+[Orbits the Full 3D view's camera]
+	{
+	ru=Вращает по орбите камеру полного 3D-вида;
+	}
+
+[Pan]
+	{
+	ru=Сдвиг;
+	}
+
+[Pan camera]
+	{
+	ru=Сдвинуть камеру;
+	}
+
+[Pans the Full 3D view's camera]
+	{
+	ru=Сдвигает камеру полного 3D-вида;
+	}
+
+[Pans towards the pointer]
+	{
+	ru=Сдвигает к указателю;
+	}
+
+[Pointer click left]
+	{
+	ru=Левый щелчок указателя;
+	}
+
+[Pointer click right]
+	{
+	ru=Правый щелчок указателя;
+	}
+
+[Pointer down]
+	{
+	ru=Указатель вниз;
+	}
+
+[Pointer down left]
+	{
+	ru=Указатель вниз-влево;
+	}
+
+[Pointer down right]
+	{
+	ru=Указатель вниз-вправо;
+	}
+
+[Pointer hold left]
+	{
+	ru=Удерживать левую кнопку;
+	}
+
+[Pointer left]
+	{
+	ru=Указатель влево;
+	}
+
+[Pointer let go]
+	{
+	ru=Отпустить указатель;
+	}
+
+[Pointer right]
+	{
+	ru=Указатель вправо;
+	}
+
+[Pointer up]
+	{
+	ru=Указатель вверх;
+	}
+
+[Pointer up left]
+	{
+	ru=Указатель вверх-влево;
+	}
+
+[Pointer up right]
+	{
+	ru=Указатель вверх-вправо;
+	}
+
+[Queue five]
+	{
+	ru=В очередь: пять;
+	}
+
+[Queue hundred]
+	{
+	ru=В очередь: сто;
+	}
+
+[Scrolls the view while held on the minimap]
+	{
+	ru=Прокручивает вид при удержании на миникарте;
+	}
+
+[Select type]
+	{
+	ru=Выделить тип;
+	}
+
+[Select type on screen]
+	{
+	ru=Выделить тип на экране;
+	}
+
+[Selects the unit under the pointer, or starts a box]
+	{
+	ru=Выделяет юнит под указателем или начинает рамку;
+	}
+
+[That type on screen only]
+	{
+	ru=Только этот тип на экране;
+	}
+
+[The order the pointer shows]
+	{
+	ru=Приказ, который показывает указатель;
+	}
+
+[Zoom in]
+	{
+	ru=Приблизить;
+	}
+
+[Zoom out]
+	{
+	ru=Отдалить;
+	}
+
+[Zooms in about the pointer]
+	{
+	ru=Приближает вокруг указателя;
+	}
+
+[Zooms out about the pointer]
+	{
+	ru=Отдаляет вокруг указателя;
+	}
+
+// Key bindings: Selection.
+
+[Add commander]
+	{
+	ru=Добавить Командира;
+	}
+
+[Adds the commander]
+	{
+	ru=Добавляет Командира;
+	}
+
+[Armed on screen]
+	{
+	ru=Вооружённые на экране;
+	}
+
+[Box builders]
+	{
+	ru=Рамка: строители;
+	}
+
+[Box combat]
+	{
+	ru=Рамка: боевые;
+	}
+
+[Box factories]
+	{
+	ru=Рамка: заводы;
+	}
+
+[Clear selection]
+	{
+	ru=Снять выделение;
+	}
+
+[Clears the selection only]
+	{
+	ru=Снимает только выделение;
+	}
+
+[Cycles idle constructors, centring on each]
+	{
+	ru=Перебирает простаивающих строителей и центрирует на каждом;
+	}
+
+[Cycles idle factories]
+	{
+	ru=Перебирает простаивающие заводы;
+	}
+
+[Every unit]
+	{
+	ru=Каждый юнит;
+	}
+
+[Every unit of a selected unit's type]
+	{
+	ru=Каждый юнит типа выделенного юнита;
+	}
+
+[Held as a box is released: keep constructors]
+	{
+	ru=Удержание при отпускании рамки: оставить строителей;
+	}
+
+[Held as a box is released: keep factories]
+	{
+	ru=Удержание при отпускании рамки: оставить заводы;
+	}
+
+[Held as a box is released: keep mobile combat units]
+	{
+	ru=Удержание при отпускании рамки: оставить подвижные боевые юниты;
+	}
+
+[Idle builders]
+	{
+	ru=Простаивающие строители;
+	}
+
+[Idle factories]
+	{
+	ru=Простаивающие заводы;
+	}
+
+[Mobile armed units on screen, not aircraft]
+	{
+	ru=Подвижные вооружённые юниты на экране, не авиация;
+	}
+
+[Next primary]
+	{
+	ru=Следующий основной;
+	}
+
+[Next selected unit becomes primary]
+	{
+	ru=Следующий выделенный юнит становится основным;
+	}
+
+[Previous primary]
+	{
+	ru=Предыдущий основной юнит;
+	}
+
+[Previous selected unit becomes primary]
+	{
+	ru=Предыдущий выделенный юнит становится основным;
+	}
+
+[Select aircraft]
+	{
+	ru=Выделить авиацию;
+	}
+
+[Select all]
+	{
+	ru=Выделить всё;
+	}
+
+[Select builders]
+	{
+	ru=Выделить строителей;
+	}
+
+[Select commander]
+	{
+	ru=Выделить командира;
+	}
+
+[Select factories]
+	{
+	ru=Выделить заводы;
+	}
+
+[Select on screen]
+	{
+	ru=Выделить на экране;
+	}
+
+[Select same type]
+	{
+	ru=Выделить тот же тип;
+	}
+
+[Select {word}]
+	{
+	ru=Выделить {word};
+	}
+
+[Selects and follows the commander]
+	{
+	ru=Выделяет командира и следует за ним;
+	}
+
+[Selects your units tagged {word}: those on screen, then the whole map on a second press.]
+	{
+	ru=Выделяет ваши юниты с меткой {word}: сначала на экране, со второго нажатия — всю карту.;
+	}
+
+[Units on screen]
+	{
+	ru=Юниты на экране;
+	}
+
+[Units tagged CTRL_B]
+	{
+	ru=Юниты с меткой CTRL_B;
+	}
+
+[Units tagged CTRL_F]
+	{
+	ru=Юниты с меткой CTRL_F;
+	}
+
+[Units tagged CTRL_V]
+	{
+	ru=Юниты с меткой CTRL_V;
+	}
+
+// Key bindings: Groups.
+
+[Add group 1]
+	{
+	ru=Добавить группу 1;
+	}
+
+[Add group 2]
+	{
+	ru=Добавить группу 2;
+	}
+
+[Add group 3]
+	{
+	ru=Добавить группу 3;
+	}
+
+[Add group 4]
+	{
+	ru=Добавить группу 4;
+	}
+
+[Add group 5]
+	{
+	ru=Добавить группу 5;
+	}
+
+[Add group 6]
+	{
+	ru=Добавить группу 6;
+	}
+
+[Add group 7]
+	{
+	ru=Добавить группу 7;
+	}
+
+[Add group 8]
+	{
+	ru=Добавить группу 8;
+	}
+
+[Add group 9]
+	{
+	ru=Добавить группу 9;
+	}
+
+[Adds group 1]
+	{
+	ru=Добавляет группу 1;
+	}
+
+[Adds group 2]
+	{
+	ru=Добавляет группу 2;
+	}
+
+[Adds group 3]
+	{
+	ru=Добавляет группу 3;
+	}
+
+[Adds group 4]
+	{
+	ru=Добавляет группу 4;
+	}
+
+[Adds group 5]
+	{
+	ru=Добавляет группу 5;
+	}
+
+[Adds group 6]
+	{
+	ru=Добавляет группу 6;
+	}
+
+[Adds group 7]
+	{
+	ru=Добавляет группу 7;
+	}
+
+[Adds group 8]
+	{
+	ru=Добавляет группу 8;
+	}
+
+[Adds group 9]
+	{
+	ru=Добавляет группу 9;
+	}
+
+[Assign group 1]
+	{
+	ru=Назначить группу 1;
+	}
+
+[Assign group 2]
+	{
+	ru=Назначить группу 2;
+	}
+
+[Assign group 3]
+	{
+	ru=Назначить группу 3;
+	}
+
+[Assign group 4]
+	{
+	ru=Назначить группу 4;
+	}
+
+[Assign group 5]
+	{
+	ru=Назначить группу 5;
+	}
+
+[Assign group 6]
+	{
+	ru=Назначить группу 6;
+	}
+
+[Assign group 7]
+	{
+	ru=Назначить группу 7;
+	}
+
+[Assign group 8]
+	{
+	ru=Назначить группу 8;
+	}
+
+[Assign group 9]
+	{
+	ru=Назначить группу 9;
+	}
+
+[Menu page 1]
+	{
+	ru=Страница меню 1;
+	}
+
+[Menu page 2]
+	{
+	ru=Страница меню 2;
+	}
+
+[Menu page 3]
+	{
+	ru=Страница меню 3;
+	}
+
+[Menu page 4]
+	{
+	ru=Страница меню 4;
+	}
+
+[Menu page 5]
+	{
+	ru=Страница меню 5;
+	}
+
+[Menu page 6]
+	{
+	ru=Страница меню 6;
+	}
+
+[Menu page 7]
+	{
+	ru=Страница меню 7;
+	}
+
+[Menu page 8]
+	{
+	ru=Страница меню 8;
+	}
+
+[Menu page 9]
+	{
+	ru=Страница меню 9;
+	}
+
+[Select group 1]
+	{
+	ru=Выделить группу 1;
+	}
+
+[Select group 2]
+	{
+	ru=Выделить группу 2;
+	}
+
+[Select group 3]
+	{
+	ru=Выделить группу 3;
+	}
+
+[Select group 4]
+	{
+	ru=Выделить группу 4;
+	}
+
+[Select group 5]
+	{
+	ru=Выделить группу 5;
+	}
+
+[Select group 6]
+	{
+	ru=Выделить группу 6;
+	}
+
+[Select group 7]
+	{
+	ru=Выделить группу 7;
+	}
+
+[Select group 8]
+	{
+	ru=Выделить группу 8;
+	}
+
+[Select group 9]
+	{
+	ru=Выделить группу 9;
+	}
+
+[Selects group 1; again centres on it]
+	{
+	ru=Выделяет группу 1, повторно центрирует на ней;
+	}
+
+[Selects group 2; again centres on it]
+	{
+	ru=Выделяет группу 2, повторно центрирует на ней;
+	}
+
+[Selects group 3; again centres on it]
+	{
+	ru=Выделяет группу 3, повторно центрирует на ней;
+	}
+
+[Selects group 4; again centres on it]
+	{
+	ru=Выделяет группу 4, повторно центрирует на ней;
+	}
+
+[Selects group 5; again centres on it]
+	{
+	ru=Выделяет группу 5, повторно центрирует на ней;
+	}
+
+[Selects group 6; again centres on it]
+	{
+	ru=Выделяет группу 6, повторно центрирует на ней;
+	}
+
+[Selects group 7; again centres on it]
+	{
+	ru=Выделяет группу 7, повторно центрирует на ней;
+	}
+
+[Selects group 8; again centres on it]
+	{
+	ru=Выделяет группу 8, повторно центрирует на ней;
+	}
+
+[Selects group 9; again centres on it]
+	{
+	ru=Выделяет группу 9, повторно центрирует на ней;
+	}
+
+[Shows page 0 of the menu (1 is orders)]
+	{
+	ru=Показывает страницу 0 меню (1 — приказы);
+	}
+
+[Shows page 1 of the menu (1 is orders)]
+	{
+	ru=Показывает страницу 1 меню (1 — приказы);
+	}
+
+[Shows page 2 of the menu (1 is orders)]
+	{
+	ru=Показывает страницу 2 меню (1 — приказы);
+	}
+
+[Shows page 3 of the menu (1 is orders)]
+	{
+	ru=Показывает страницу 3 меню (1 — приказы);
+	}
+
+[Shows page 4 of the menu (1 is orders)]
+	{
+	ru=Показывает страницу 4 меню (1 — приказы);
+	}
+
+[Shows page 5 of the menu (1 is orders)]
+	{
+	ru=Показывает страницу 5 меню (1 — приказы);
+	}
+
+[Shows page 6 of the menu (1 is orders)]
+	{
+	ru=Показывает страницу 6 меню (1 — приказы);
+	}
+
+[Shows page 7 of the menu (1 is orders)]
+	{
+	ru=Показывает страницу 7 меню (1 — приказы);
+	}
+
+[Shows page 8 of the menu (1 is orders)]
+	{
+	ru=Показывает страницу 8 меню (1 — приказы);
+	}
+
+[Stores the selection as group 1]
+	{
+	ru=Сохраняет выделение как группу 1;
+	}
+
+[Stores the selection as group 2]
+	{
+	ru=Сохраняет выделение как группу 2;
+	}
+
+[Stores the selection as group 3]
+	{
+	ru=Сохраняет выделение как группу 3;
+	}
+
+[Stores the selection as group 4]
+	{
+	ru=Сохраняет выделение как группу 4;
+	}
+
+[Stores the selection as group 5]
+	{
+	ru=Сохраняет выделение как группу 5;
+	}
+
+[Stores the selection as group 6]
+	{
+	ru=Сохраняет выделение как группу 6;
+	}
+
+[Stores the selection as group 7]
+	{
+	ru=Сохраняет выделение как группу 7;
+	}
+
+[Stores the selection as group 8]
+	{
+	ru=Сохраняет выделение как группу 8;
+	}
+
+[Stores the selection as group 9]
+	{
+	ru=Сохраняет выделение как группу 9;
+	}
+
+// Key bindings: Camera.
+
+[Centres on the next unit not yet visited]
+	{
+	ru=Центрирует на следующем ещё не посещённом юните;
+	}
+
+[Centres on the selected unit, or selects and centres on the commander]
+	{
+	ru=Центрирует на выделенном юните или выделяет Командира и центрирует на нём;
+	}
+
+[Classic view]
+	{
+	ru=Классический вид;
+	}
+
+[Edge scroll]
+	{
+	ru=Прокрутка у края;
+	}
+
+[Follow previous]
+	{
+	ru=Следовать за предыдущим;
+	}
+
+[Follows the next selected unit]
+	{
+	ru=Следует за следующим выделенным юнитом;
+	}
+
+[Follows the previous selected unit]
+	{
+	ru=Следует за предыдущим выделенным юнитом;
+	}
+
+[Go to bookmark 1]
+	{
+	ru=Перейти к закладке 1;
+	}
+
+[Go to bookmark 2]
+	{
+	ru=Перейти к закладке 2;
+	}
+
+[Go to bookmark 3]
+	{
+	ru=Перейти к закладке 3;
+	}
+
+[Go to bookmark 4]
+	{
+	ru=Перейти к закладке 4;
+	}
+
+[Pan down]
+	{
+	ru=Сдвиг вниз;
+	}
+
+[Pan left]
+	{
+	ru=Сдвиг влево;
+	}
+
+[Pan right]
+	{
+	ru=Сдвиг вправо;
+	}
+
+[Pan up]
+	{
+	ru=Сдвиг вверх;
+	}
+
+[Puts the Full 3D view's camera back to the classic view]
+	{
+	ru=Возвращает камеру полного 3D-вида к классическому виду;
+	}
+
+[Reset zoom]
+	{
+	ru=Сбросить масштаб;
+	}
+
+[Returns to bookmark 1]
+	{
+	ru=Возвращает к закладке 1;
+	}
+
+[Returns to bookmark 2]
+	{
+	ru=Возвращает к закладке 2;
+	}
+
+[Returns to bookmark 3]
+	{
+	ru=Возвращает к закладке 3;
+	}
+
+[Returns to bookmark 4]
+	{
+	ru=Возвращает к закладке 4;
+	}
+
+[Scrolls at the window's edge]
+	{
+	ru=Прокручивает у края окна;
+	}
+
+[Scrolls the view down]
+	{
+	ru=Прокручивает вид вниз;
+	}
+
+[Scrolls the view left]
+	{
+	ru=Прокручивает вид влево;
+	}
+
+[Scrolls the view right]
+	{
+	ru=Прокручивает вид вправо;
+	}
+
+[Scrolls the view up]
+	{
+	ru=Прокручивает вид вверх;
+	}
+
+[Set bookmark 1]
+	{
+	ru=Задать закладку 1;
+	}
+
+[Set bookmark 2]
+	{
+	ru=Задать закладку 2;
+	}
+
+[Set bookmark 3]
+	{
+	ru=Задать закладку 3;
+	}
+
+[Set bookmark 4]
+	{
+	ru=Задать закладку 4;
+	}
+
+[Stores the view as bookmark 1]
+	{
+	ru=Сохраняет вид как закладку 1;
+	}
+
+[Stores the view as bookmark 2]
+	{
+	ru=Сохраняет вид как закладку 2;
+	}
+
+[Stores the view as bookmark 3]
+	{
+	ru=Сохраняет вид как закладку 3;
+	}
+
+[Stores the view as bookmark 4]
+	{
+	ru=Сохраняет вид как закладку 4;
+	}
+
+[The game's own scale]
+	{
+	ru=Собственный масштаб игры;
+	}
+
+[The next unit the message log reported]
+	{
+	ru=Следующий юнит из журнала сообщений;
+	}
+
+[Unlocked Camera on or off in the Full 3D view]
+	{
+	ru=Свободная камера в полном 3D-виде: вкл. или выкл.;
+	}
+
+[Zoom in key]
+	{
+	ru=Клавиша приближения;
+	}
+
+[Zoom out key]
+	{
+	ru=Клавиша отдаления;
+	}
+
+[Zooms in about the centre]
+	{
+	ru=Приближает вокруг центра;
+	}
+
+[Zooms out about the centre]
+	{
+	ru=Отдаляет вокруг центра;
+	}
+
+// Key bindings: Building.
+
+[Build cell 1]
+	{
+	ru=Ячейка стройки 1;
+	}
+
+[Build cell 10]
+	{
+	ru=Ячейка стройки 10;
+	}
+
+[Build cell 11]
+	{
+	ru=Ячейка стройки 11;
+	}
+
+[Build cell 12]
+	{
+	ru=Ячейка стройки 12;
+	}
+
+[Build cell 2]
+	{
+	ru=Ячейка стройки 2;
+	}
+
+[Build cell 3]
+	{
+	ru=Ячейка стройки 3;
+	}
+
+[Build cell 4]
+	{
+	ru=Ячейка стройки 4;
+	}
+
+[Build cell 5]
+	{
+	ru=Ячейка стройки 5;
+	}
+
+[Build cell 6]
+	{
+	ru=Ячейка стройки 6;
+	}
+
+[Build cell 7]
+	{
+	ru=Ячейка стройки 7;
+	}
+
+[Build cell 8]
+	{
+	ru=Ячейка стройки 8;
+	}
+
+[Build cell 9]
+	{
+	ru=Ячейка стройки 9;
+	}
+
+[Drags a queued build site]
+	{
+	ru=Перетаскивает место стройки из очереди;
+	}
+
+[Held while placing: drag lays a line, a click rings a unit]
+	{
+	ru=Удержание при размещении: протягивание кладёт линию, щелчок ставит кольцо вокруг юнита;
+	}
+
+[Held: no mex or wreck snap, and drag queued orders]
+	{
+	ru=Удержание: без привязки к экстрактору металла и обломкам, приказы из очереди можно тянуть;
+	}
+
+[Line build]
+	{
+	ru=Стройка линией;
+	}
+
+[Lowers the spacing of a build line]
+	{
+	ru=Уменьшает шаг линии строительства;
+	}
+
+[Move queued site]
+	{
+	ru=Сдвинуть место из очереди;
+	}
+
+[Next facing]
+	{
+	ru=Следующий разворот;
+	}
+
+[Next page of the build menu]
+	{
+	ru=Следующая страница меню строительства;
+	}
+
+[Presses build button 1 of the page shown, in reading order]
+	{
+	ru=Нажимает кнопку строительства 1 на показанной странице, в порядке чтения;
+	}
+
+[Presses build button 10 of the page shown, in reading order]
+	{
+	ru=Нажимает кнопку строительства 10 на показанной странице, в порядке чтения;
+	}
+
+[Presses build button 11 of the page shown, in reading order]
+	{
+	ru=Нажимает кнопку строительства 11 на показанной странице, в порядке чтения;
+	}
+
+[Presses build button 12 of the page shown, in reading order]
+	{
+	ru=Нажимает кнопку строительства 12 на показанной странице, в порядке чтения;
+	}
+
+[Presses build button 2 of the page shown, in reading order]
+	{
+	ru=Нажимает кнопку строительства 2 на показанной странице, в порядке чтения;
+	}
+
+[Presses build button 3 of the page shown, in reading order]
+	{
+	ru=Нажимает кнопку строительства 3 на показанной странице, в порядке чтения;
+	}
+
+[Presses build button 4 of the page shown, in reading order]
+	{
+	ru=Нажимает кнопку строительства 4 на показанной странице, в порядке чтения;
+	}
+
+[Presses build button 5 of the page shown, in reading order]
+	{
+	ru=Нажимает кнопку строительства 5 на показанной странице, в порядке чтения;
+	}
+
+[Presses build button 6 of the page shown, in reading order]
+	{
+	ru=Нажимает кнопку строительства 6 на показанной странице, в порядке чтения;
+	}
+
+[Presses build button 7 of the page shown, in reading order]
+	{
+	ru=Нажимает кнопку строительства 7 на показанной странице, в порядке чтения;
+	}
+
+[Presses build button 8 of the page shown, in reading order]
+	{
+	ru=Нажимает кнопку строительства 8 на показанной странице, в порядке чтения;
+	}
+
+[Presses build button 9 of the page shown, in reading order]
+	{
+	ru=Нажимает кнопку строительства 9 на показанной странице, в порядке чтения;
+	}
+
+[Previous page]
+	{
+	ru=Предыдущая страница;
+	}
+
+[Previous page of the build menu]
+	{
+	ru=Предыдущая страница меню строительства;
+	}
+
+[Raises the spacing of a build line]
+	{
+	ru=Увеличивает интервал линии строительства;
+	}
+
+[Rotate]
+	{
+	ru=Повернуть;
+	}
+
+[Rotate wheel]
+	{
+	ru=Поворот колесом;
+	}
+
+[Snap override]
+	{
+	ru=Без привязки;
+	}
+
+[Spacing down]
+	{
+	ru=Интервал меньше;
+	}
+
+[Spacing up]
+	{
+	ru=Интервал больше;
+	}
+
+[Turns the facing]
+	{
+	ru=Меняет направление;
+	}
+
+// Key bindings: Game.
+
+[Allies menu]
+	{
+	ru=Меню союзников;
+	}
+
+[Chat macro]
+	{
+	ru=Макрос чата;
+	}
+
+[Clear messages]
+	{
+	ru=Очистить сообщения;
+	}
+
+[Clears the message log]
+	{
+	ru=Очищает журнал сообщений;
+	}
+
+[Damage bar mode 1]
+	{
+	ru=Режим полос урона 1;
+	}
+
+[Damage bar mode 2]
+	{
+	ru=Режим полос урона 2;
+	}
+
+[Damage bar mode 3]
+	{
+	ru=Режим полос урона 3;
+	}
+
+[Damage bar mode 4]
+	{
+	ru=Режим полос урона 4;
+	}
+
+[Damage bars]
+	{
+	ru=Полосы урона;
+	}
+
+[Damage bars on or off]
+	{
+	ru=Полосы урона вкл. или выкл.;
+	}
+
+[Damage bars the way the shifted 1 key shows them]
+	{
+	ru=Полосы урона, как при клавише 1 с Shift;
+	}
+
+[Damage bars the way the shifted 3 key shows them]
+	{
+	ru=Полосы урона, как при клавише 3 с Shift;
+	}
+
+[Damage bars the way the shifted 8 key shows them]
+	{
+	ru=Полосы урона, как при клавише 8 с Shift;
+	}
+
+[Damage bars the way the shifted backquote key shows them]
+	{
+	ru=Полосы урона, как при грависе с Shift;
+	}
+
+[Held: the status strip and kills board]
+	{
+	ru=Удержание: полоса состояния и табло уничтоженных;
+	}
+
+[Kills board]
+	{
+	ru=Табло уничтоженных;
+	}
+
+[One speed step faster]
+	{
+	ru=На ступень быстрее;
+	}
+
+[One speed step slower]
+	{
+	ru=На ступень медленнее;
+	}
+
+[Open allies chat]
+	{
+	ru=Открыть чат союзников;
+	}
+
+[Open chat]
+	{
+	ru=Открыть чат;
+	}
+
+[Opens the chat line]
+	{
+	ru=Открывает строку чата;
+	}
+
+[Opens the chat line to allies]
+	{
+	ru=Открывает строку чата для союзников;
+	}
+
+[Pause on or off]
+	{
+	ru=Пауза: вкл. или выкл.;
+	}
+
+[Pin unit]
+	{
+	ru=Прикрепить юнит;
+	}
+
+[Pins the kills board]
+	{
+	ru=Прикрепляет табло уничтожений;
+	}
+
+[Pins the unit under the pointer]
+	{
+	ru=Прикрепляет юнит под указателем;
+	}
+
+[Repeat command]
+	{
+	ru=Повторить команду чата;
+	}
+
+[Runs the last chat command again]
+	{
+	ru=Снова выполняет последнюю команду чата;
+	}
+
+[Saves a screenshot]
+	{
+	ru=Сохраняет снимок экрана;
+	}
+
+[Screenshot]
+	{
+	ru=Снимок экрана;
+	}
+
+[Sends the mod's chat macro]
+	{
+	ru=Отправляет макрос чата мода;
+	}
+
+[Share panel]
+	{
+	ru=Панель передачи;
+	}
+
+[Speed down]
+	{
+	ru=Медленнее;
+	}
+
+[Speed up]
+	{
+	ru=Быстрее;
+	}
+
+[Status strip]
+	{
+	ru=Полоса статуса;
+	}
+
+[The Escape chain: armed order, selection, then the game menu]
+	{
+	ru=Цепочка Escape: выбранный приказ, выделение, затем меню игры;
+	}
+
+[The allies menu]
+	{
+	ru=Меню союзников;
+	}
+
+[The in-game menu, or resumes]
+	{
+	ru=Меню игры или продолжение;
+	}
+
+[The mod's options dialog]
+	{
+	ru=Диалог параметров мода;
+	}
+
+[The resource panel on or off]
+	{
+	ru=Панель ресурсов: вкл. или выкл.;
+	}
+
+[The share panel]
+	{
+	ru=Панель передачи;
+	}
+
+[The unit info panel]
+	{
+	ru=Панель сведений о юните;
+	}
+
+[Unit info]
+	{
+	ru=Сведения о юните;
+	}
+
+// Key bindings: Chat.
+
+[Cancel chat]
+	{
+	ru=Отменить чат;
+	}
+
+[Closes the line]
+	{
+	ru=Закрывает строку;
+	}
+
+[Send chat]
+	{
+	ru=Отправить в чат;
+	}
+
+[Sends the line]
+	{
+	ru=Отправляет строку;
+	}
+
+// Key bindings: Watching.
+
+[Lock view]
+	{
+	ru=Привязать вид;
+	}
+
+[Locks onto that player's camera]
+	{
+	ru=Привязывается к камере этого игрока;
+	}
+
+[Player view]
+	{
+	ru=Вид игрока;
+	}
+
+[Takes the view of the player whose row is clicked]
+	{
+	ru=Берёт вид игрока, по чьей строке щёлкнули;
+	}
+
+// Key bindings: Window.
+
+[Accepts the screen, or presses the focused control]
+	{
+	ru=Принимает экран или нажимает элемент в фокусе;
+	}
+
+[Answers no]
+	{
+	ru=Отвечает «нет»;
+	}
+
+[Answers yes]
+	{
+	ru=Отвечает «да»;
+	}
+
+[Cancel screen]
+	{
+	ru=Отменить экран;
+	}
+
+[Closes the screen on top]
+	{
+	ru=Закрывает верхний экран;
+	}
+
+[Down]
+	{
+	ru=Вниз;
+	}
+
+[Find]
+	{
+	ru=Найти;
+	}
+
+[Finds on the screen]
+	{
+	ru=Ищет на экране;
+	}
+
+[Full screen]
+	{
+	ru=Полноэкранный режим;
+	}
+
+[Full screen on or off]
+	{
+	ru=Полноэкранный режим вкл. или выкл.;
+	}
+
+[Go to end]
+	{
+	ru=В конец;
+	}
+
+[Go to start]
+	{
+	ru=В начало;
+	}
+
+[Information]
+	{
+	ru=Информация;
+	}
+
+[Keys overlay]
+	{
+	ru=Оверлей клавиш;
+	}
+
+[Left]
+	{
+	ru=Влево;
+	}
+
+[Lets a captured pointer go]
+	{
+	ru=Отпускает захваченный указатель;
+	}
+
+[Moves the focus down]
+	{
+	ru=Перемещает фокус вниз;
+	}
+
+[Moves the focus left, or steps a control]
+	{
+	ru=Перемещает фокус влево или переключает элемент дальше;
+	}
+
+[Moves the focus right, or steps a control]
+	{
+	ru=Перемещает фокус вправо или переключает элемент дальше;
+	}
+
+[Moves the focus to the next control]
+	{
+	ru=Переводит фокус на следующий элемент;
+	}
+
+[Moves the focus to the previous control]
+	{
+	ru=Переводит фокус на предыдущий элемент;
+	}
+
+[Moves the focus up]
+	{
+	ru=Перемещает фокус вверх;
+	}
+
+[Next control]
+	{
+	ru=Следующий элемент;
+	}
+
+[Next tab]
+	{
+	ru=Следующая вкладка;
+	}
+
+[No]
+	{
+	ru=Нет;
+	}
+
+[Opens Settings]
+	{
+	ru=Открывает настройки;
+	}
+
+[Page down]
+	{
+	ru=Page Down;
+	}
+
+[Page up]
+	{
+	ru=Page Up;
+	}
+
+[Paste]
+	{
+	ru=Вставить;
+	}
+
+[Pastes the clipboard into the focused text field]
+	{
+	ru=Вставляет буфер обмена в текстовое поле в фокусе;
+	}
+
+[Press]
+	{
+	ru=Нажатие;
+	}
+
+[Presses the focused control]
+	{
+	ru=Нажимает элемент в фокусе;
+	}
+
+[Previous control]
+	{
+	ru=Предыдущий элемент;
+	}
+
+[Previous tab]
+	{
+	ru=Предыдущая вкладка;
+	}
+
+[Quits]
+	{
+	ru=Завершает игру;
+	}
+
+[Refreshes the screen]
+	{
+	ru=Перерисовывает экран;
+	}
+
+[Release pointer]
+	{
+	ru=Освободить указатель;
+	}
+
+[Right]
+	{
+	ru=Вправо;
+	}
+
+[Scrolls down]
+	{
+	ru=Прокручивает вниз;
+	}
+
+[Scrolls to the end, or moves to the end of a text field]
+	{
+	ru=Прокручивает в конец или переходит в конец текстового поля;
+	}
+
+[Scrolls to the top, or moves to the start of a text field]
+	{
+	ru=Прокручивает в начало или переходит в начало текстового поля;
+	}
+
+[Scrolls up]
+	{
+	ru=Прокручивает вверх;
+	}
+
+[Shows more about what the focus is on]
+	{
+	ru=Показывает подробнее то, что в фокусе;
+	}
+
+[Shows the next tab]
+	{
+	ru=Показывает следующую вкладку;
+	}
+
+[Shows the previous tab]
+	{
+	ru=Показывает предыдущую вкладку;
+	}
+
+[The keys overlay for the screen shown]
+	{
+	ru=Оверлей клавиш для показанного экрана;
+	}
+
+[Yes]
+	{
+	ru=Да;
+	}
+
+// Key bindings: Menus.
+
+[Accept]
+	{
+	ru=Принять;
+	}
+
+[Cancel menu]
+	{
+	ru=Отменить меню;
+	}
+
+[Closes the menu, or answers its cancel]
+	{
+	ru=Закрывает меню или отвечает отменой;
+	}
+
+[Focus down]
+	{
+	ru=Фокус вниз;
+	}
+
+[Focus left]
+	{
+	ru=Фокус влево;
+	}
+
+[Focus right]
+	{
+	ru=Фокус вправо;
+	}
+
+[Focus up]
+	{
+	ru=Фокус вверх;
+	}
+
+[List down]
+	{
+	ru=Список вниз;
+	}
+
+[List up]
+	{
+	ru=Список вверх;
+	}
+
+[Moves the focus down. Down itself steps a list]
+	{
+	ru=Перемещает фокус вниз. Само «Вниз» листает список;
+	}
+
+[Moves the focus left from a button]
+	{
+	ru=Перемещает фокус влево с кнопки;
+	}
+
+[Moves the focus right from a button]
+	{
+	ru=Перемещает фокус вправо с кнопки;
+	}
+
+[Moves the focus to the next button]
+	{
+	ru=Переводит фокус на следующую кнопку;
+	}
+
+[Moves the focus to the previous button]
+	{
+	ru=Переводит фокус на предыдущую кнопку;
+	}
+
+[Moves the focus up. Up itself steps a list]
+	{
+	ru=Перемещает фокус вверх. Само «Вверх» листает список;
+	}
+
+[Next button]
+	{
+	ru=Следующая кнопка;
+	}
+
+[Press button]
+	{
+	ru=Нажать кнопку;
+	}
+
+[Presses the focused button]
+	{
+	ru=Нажимает кнопку в фокусе;
+	}
+
+[Presses the focused button, or the screen's default]
+	{
+	ru=Нажимает кнопку в фокусе или стандартную кнопку экрана;
+	}
+
+[Previous button]
+	{
+	ru=Предыдущая кнопка;
+	}
+
+[Steps a list down, or moves the focus down from a button]
+	{
+	ru=Шагает по списку вниз или переносит фокус вниз от кнопки;
+	}
+
+[Steps a list up, or moves the focus up from a button]
+	{
+	ru=Шагает по списку вверх или переносит фокус вверх от кнопки;
+	}
+
+// Key bindings: Developer.
+
+[Cycles the overlay]
+	{
+	ru=Переключает оверлей;
+	}
+
+[Debug keys]
+	{
+	ru=Клавиши отладки;
+	}
+
+[Debug keys on or off]
+	{
+	ru=Клавиши отладки вкл. или выкл.;
+	}
+
+[Developer info]
+	{
+	ru=Сведения разработчика;
+	}
+
+[Kill under pointer]
+	{
+	ru=Уничтожить под указателем;
+	}
+
+[Kills the unit under the pointer]
+	{
+	ru=Уничтожает юнит под указателем;
+	}
+
+[Movie capture]
+	{
+	ru=Запись видео;
+	}
+
+[Overlay]
+	{
+	ru=Оверлей;
+	}
+
+[Refill]
+	{
+	ru=Пополнить;
+	}
+
+[Refills resources]
+	{
+	ru=Пополняет ресурсы;
+	}
+
+[The developer information key]
+	{
+	ru=Клавиша сведений разработчика;
+	}
+
+// Key bindings: Megamap.
+
+[Close megamap]
+	{
+	ru=Закрыть мегакарту;
+	}
+
+[Closes the megamap and centres on the pointer]
+	{
+	ru=Закрывает мегакарту и центрирует на указателе;
+	}
+
+[Jumps the view to a point of the megamap]
+	{
+	ru=Переносит вид к точке на мегакарте;
+	}
+
+[Megamap jump]
+	{
+	ru=Прыжок на мегакарте;
+	}
+
+[Open megamap]
+	{
+	ru=Открыть мегакарту;
+	}
+
+[Opens the megamap]
+	{
+	ru=Открывает мегакарту;
+	}
+
+[The megamap on or off]
+	{
+	ru=Мегакарта: вкл. или выкл.;
+	}
+
+// Key bindings: Whiteboard.
+
+[Dot]
+	{
+	ru=Точка;
+	}
+
+[Draw]
+	{
+	ru=Рисовать;
+	}
+
+[Draws a line]
+	{
+	ru=Рисует линию;
+	}
+
+[Erase]
+	{
+	ru=Стереть;
+	}
+
+[Erases a marker]
+	{
+	ru=Стирает метку;
+	}
+
+[Goes to the newest marker]
+	{
+	ru=Переходит к новейшей метке;
+	}
+
+[Held: the whiteboard takes the mouse]
+	{
+	ru=Удержание: доска забирает мышь;
+	}
+
+[Line]
+	{
+	ru=Линия;
+	}
+
+[Move marker]
+	{
+	ru=Переместить метку;
+	}
+
+[Moves a marker]
+	{
+	ru=Перемещает метку;
+	}
+
+[Newest marker]
+	{
+	ru=Новейшая метка;
+	}
+
+[Places a dot]
+	{
+	ru=Ставит точку;
+	}
+
+[Places text]
+	{
+	ru=Ставит текст;
+	}
+
+[Wipe]
+	{
+	ru=Стереть;
+	}
+
+[Wipes the board]
+	{
+	ru=Стирает доску;
+	}
+
+// The key editor.
+
+[+ Add a key]
+	{
+	ru=+ Добавить клавишу;
+	}
+
+[1 unsaved edit]
+	{
+	ru=1 несохранённая правка;
+	}
+
+[Add a key · {context}]
+	{
+	ru=Добавить клавишу · {context};
+	}
+
+[All actions]
+	{
+	ru=Все действия;
+	}
+
+[Change a key · {context}]
+	{
+	ru=Сменить клавишу · {context};
+	}
+
+[Change {action}'s key…]
+	{
+	ru=Сменить клавишу действия {action}…;
+	}
+
+[Choose an action]
+	{
+	ru=Выбрать действие;
+	}
+
+[Edit keys…]
+	{
+	ru=Редактор клавиш…;
+	}
+
+[Grey keys are free while playing. Select a key to see what it does in each place.]
+	{
+	ru=Серые клавиши свободны во время игры. Выберите клавишу, чтобы увидеть, что она делает в каждой позиции.;
+	}
+
+[No unsaved edits]
+	{
+	ru=Нет несохранённых правок;
+	}
+
+[{modifier}+/ or Escape closes this. More in Edit keys…]
+	{
+	ru={modifier}+/ или Escape закрывает это. Подробнее в «Изменить клавиши…».;
+	}
+
+[{n} unsaved]
+	{
+	ru=не сохранено: {n};
+	}
+
+[{n} unsaved edits]
+	{
+	ru=несохранённых изменений: {n};
+	}
+
+// Capture and clashes.
+
+[Always {description} in Open Annihilation. Choose another key.]
+	{
+	ru=В Open Annihilation всегда {description}. Выберите другую клавишу.;
+	}
+
+[Choose another key]
+	{
+	ru=Выбрать другую клавишу;
+	}
+
+[Clashes]
+	{
+	ru=Конфликты;
+	}
+
+[Click the key to try another.]
+	{
+	ru=Щёлкните по клавише, чтобы попробовать другую.;
+	}
+
+[Click the key, then press another to look it up.]
+	{
+	ru=Щёлкните по клавише, затем нажмите другую, чтобы её опознать.;
+	}
+
+[One clash: {chord} already belongs to {action}. Apply keeps yours and lists the clash.]
+	{
+	ru=Один конфликт: {chord} уже относится к действию {action}. «Применить» оставляет вашу клавишу и показывает конфликт.;
+	}
+
+[Settle 1 clash to save]
+	{
+	ru=Уладьте 1 конфликт, чтобы сохранить;
+	}
+
+[Settle {n} clashes to save]
+	{
+	ru=Уладьте конфликты: {n}, чтобы сохранить;
+	}
+
+[Settle…]
+	{
+	ru=Уладить…;
+	}
+
+// Sharing and import.
+
+[Copy as text]
+	{
+	ru=Копировать как текст;
+	}
+
+[Import 1 key]
+	{
+	ru=Импортировать 1 клавишу;
+	}
+
+[Import keys from an older setup]
+	{
+	ru=Импортировать клавиши из старой настройки;
+	}
+
+[Import {n} keys]
+	{
+	ru=Импортировать клавиши: {n};
+	}
+
+[Imported from {file}]
+	{
+	ru=Импортировано из {file};
+	}
+
+[Importing gives the key to this action and leaves {action} without it.]
+	{
+	ru=Импорт отдаёт клавишу этому действию, а действие {action} остаётся без неё.;
+	}
+
+[Import…]
+	{
+	ru=Импортировать…;
+	}
+
+[It holds no oakeys.yaml at its top, or in a single folder at its top.]
+	{
+	ru=В корне нет oakeys.yaml и нет единственной папки с ним в корне.;
+	}
+
+[Its oakeys.yaml has errors:]
+	{
+	ru=В файле oakeys.yaml есть ошибки:;
+	}
+
+[Its oakeys.yaml is larger than 256 KiB.]
+	{
+	ru=Файл oakeys.yaml больше 256 KiB.;
+	}
+
+[Key layout packages (.oakeys)]
+	{
+	ru=Раскладки клавиш (.oakeys);
+	}
+
+[Numbers are Windows key codes, read as key places. The changes go on top of your layout as "Imported from {file}". Nothing else changes.]
+	{
+	ru=Числа — коды клавиш Windows, они читаются как позиции. Изменения ложатся поверх вашей раскладки как «Импортировано из {file}». Больше ничего не меняется.;
+	}
+
+[Paste keys]
+	{
+	ru=Вставить клавиши;
+	}
+
+[Paste…]
+	{
+	ru=Вставить…;
+	}
+
+[Share your keys]
+	{
+	ru=Поделиться клавишами;
+	}
+
+[Share…]
+	{
+	ru=Поделиться…;
+	}
+
+[The file is a .oakeys package anyone can open in Open Annihilation. The text carries the keys alone, for a forum or a chat.]
+	{
+	ru=Файл — пакет .oakeys, его может открыть кто угодно в Open Annihilation. В тексте только клавиши, для форума или чата.;
+	}
+
+[This text is not a key layout.]
+	{
+	ru=Этот текст — не раскладка клавиш.;
+	}
+
+// The overlay and badges.
+
+[Arrange Overlays]
+	{
+	ru=Расставить оверлеи;
+	}
+
+[Drag an overlay where it suits you. Each screen size keeps its own places.]
+	{
+	ru=Перетащите оверлей, куда вам удобно. У каждого размера экрана свои места.;
+	}
+
+[Hold Ctrl + D to try Hold to confirm.]
+	{
+	ru=Удерживайте Ctrl + D, чтобы попробовать «Держать, подтверждая».;
+	}
+
+[Hold to confirm]
+	{
+	ru=Держать, подтверждая;
+	}
+
+[Hold to confirm {action}]
+	{
+	ru=Держать, подтверждая: {action};
+	}
+
+[How long a hold is: hold to confirm, and keys bound to a hold.]
+	{
+	ru=Длительность удержания: «Держать, подтверждая» и клавиши, назначенные на удержание.;
+	}
+
+[Keys Overlay]
+	{
+	ru=Оверлей клавиш;
+	}
+
+[Latch Chips]
+	{
+	ru=Чипы закрепления;
+	}
+
+[Overlays]
+	{
+	ru=Оверлеи;
+	}
+
+[Queue and the status strip latch: tap on, tap off. A chip shows each one on.]
+	{
+	ru=Очередь и полоса статуса закрепляются: нажатие включает, нажатие выключает. Плашка показывает, что каждая включена.;
+	}
+
+[hold to confirm]
+	{
+	ru=Держать, подтверждая;
+	}
+
+[{name} · latched]
+	{
+	ru={name} · закреплено;
+	}
+
+// Settings › Controls.
+
+[A double press]
+	{
+	ru=Двойное нажатие;
+	}
+
+[Bounce keys]
+	{
+	ru=Подавление повторов;
+	}
+
+[Double press]
+	{
+	ru=Двойное нажатие;
+	}
+
+[Drag threshold]
+	{
+	ru=Порог перетаскивания;
+	}
+
+[Edge scrolling]
+	{
+	ru=Прокрутка у края;
+	}
+
+[Edge scrolling off]
+	{
+	ru=Прокрутка у края выкл.;
+	}
+
+[Full screen, screenshot and pointer keys]
+	{
+	ru=Клавиши полноэкранного режима, снимка экрана и указателя;
+	}
+
+[Holding a mouse button opens the order wheel at the pointer.]
+	{
+	ru=Удержание кнопки мыши открывает колесо приказов у указателя.;
+	}
+
+[INSTALL KEY LAYOUT]
+	{
+	ru=УСТАНОВИТЬ РАСКЛАДКУ КЛАВИШ;
+	}
+
+[INSTALLING KEY LAYOUT]
+	{
+	ru=УСТАНОВКА РАСКЛАДКИ КЛАВИШ;
+	}
+
+[Install the key layout {name} {version}?]
+	{
+	ru=Установить раскладку клавиш {name} {version}?;
+	}
+
+[It holds more than {limit} folders, more than a key layout may take.]
+	{
+	ru=Папок больше, чем {limit}. Раскладка клавиш столько не принимает.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a key layout's files take.]
+	{
+	ru=Распаковка даёт {size} из {packed}, намного больше, чем нужно файлам раскладки клавиш.;
+	}
+
+[It unpacks to {size}, more than the {limit} a key layout may take.]
+	{
+	ru=Распаковка даёт {size}, а это больше лимита {limit} для раскладки клавиш.;
+	}
+
+[KEY LAYOUT INSTALLED]
+	{
+	ru=РАСКЛАДКА КЛАВИШ УСТАНОВЛЕНА;
+	}
+
+[KEY LAYOUT NOT INSTALLED]
+	{
+	ru=РАСКЛАДКА КЛАВИШ НЕ УСТАНОВЛЕНА;
+	}
+
+[KEY LAYOUT UPDATED]
+	{
+	ru=РАСКЛАДКА КЛАВИШ ОБНОВЛЕНА;
+	}
+
+[Key layout]
+	{
+	ru=Раскладка клавиш;
+	}
+
+[Key layout with {mod}]
+	{
+	ru=Раскладка клавиш с модом {mod};
+	}
+
+[Key layouts]
+	{
+	ru=Раскладки клавиш;
+	}
+
+[Mods, maps and key layouts]
+	{
+	ru=Моды, карты и раскладки клавиш;
+	}
+
+[Order wheel]
+	{
+	ru=Колесо приказов;
+	}
+
+[Order wheel on the held middle button]
+	{
+	ru=Колесо приказов при удержании средней кнопки;
+	}
+
+[Order wheel on the held right button]
+	{
+	ru=Колесо приказов при удержании правой кнопки;
+	}
+
+[Pointer keys]
+	{
+	ru=Клавиши указателя;
+	}
+
+[REINSTALL KEY LAYOUT]
+	{
+	ru=ПЕРЕУСТАНОВИТЬ РАСКЛАДКУ КЛАВИШ;
+	}
+
+[REPLACE KEY LAYOUT]
+	{
+	ru=ЗАМЕНИТЬ РАСКЛАДКУ КЛАВИШ;
+	}
+
+[Search key layouts]
+	{
+	ru=Поиск раскладок клавиш;
+	}
+
+[Sticky modifiers]
+	{
+	ru=Липкие модификаторы;
+	}
+
+[The folder {name} does not hold this key layout. It is left as it is.]
+	{
+	ru=Папка {name} не содержит эту раскладку клавиш. Она остаётся как есть.;
+	}
+
+[The package holds {name}, outside the files a key layout may hold.]
+	{
+	ru=Пакет содержит {name} вне файлов, допустимых для раскладки клавиш.;
+	}
+
+[Two presses this close are a double press, and two clicks a double click.]
+	{
+	ru=Два нажатия с таким промежутком — двойное нажатие, а два щелчка — двойной щелчок.;
+	}
+
+[UPDATE KEY LAYOUT]
+	{
+	ru=ОБНОВИТЬ РАСКЛАДКУ КЛАВИШ;
+	}
+
+[Used while {mod} is played. Same as the game uses Key layout.]
+	{
+	ru=Действует, пока идёт мод {mod}. «Как в игре» берёт раскладку клавиш.;
+	}
+
+[Your Keys folder changed while this key layout was being installed; nothing was changed. Open the file again.]
+	{
+	ru=Папка Keys изменилась во время установки этой раскладки клавиш. Ничего не изменено. Откройте файл ещё раз.;
+	}
+
+[key layouts]
+	{
+	ru=раскладки клавиш;
+	}
+
+// Settings › Accessibility.
+
+[ACCESSIBILITY]
+	{
+	ru=ДОСТУПНОСТЬ;
+	}
+
+[Accessibility]
+	{
+	ru=Доступность;
+	}
+
+[How soon a held camera, speed or page key repeats, and how fast.]
+	{
+	ru=Как скоро повторяется удерживаемая клавиша камеры, скорости или страницы и как быстро.;
+	}
+
+[Key repeat delay]
+	{
+	ru=Задержка повтора;
+	}
+
+[Key repeat rate]
+	{
+	ru=Темп повтора клавиши;
+	}
+
+[Off in Settings › Accessibility]
+	{
+	ru=Выкл. в разделе Настройки › Доступность;
+	}
+
+[Repeat]
+	{
+	ru=Повтор;
+	}
+
+[Slow keys]
+	{
+	ru=Медленные клавиши;
+	}
+
+// Library › Keys.
+
+[Another copy of Open Annihilation is changing your Keys folder. Try again once it has finished.]
+	{
+	ru=Другая копия Open Annihilation меняет вашу папку Keys. Попробуйте ещё раз, когда она закончит.;
+	}
+
+[Either way it stays saved with {name}, and comes back when you use {name} again.]
+	{
+	ru=Так или иначе оно остаётся в записи {name} и возвращается, когда снова выбран {name}.;
+	}
+
+[Either way they stay saved with {name}, and come back when you use {name} again.]
+	{
+	ru=Так или иначе они остаются в записи {name} и возвращаются, когда снова выбран {name}.;
+	}
+
+[It needs {size} free, and the disk holding your Keys folder has {free}.]
+	{
+	ru=Нужно свободно: {size}, а на диске с папкой Keys свободно: {free}.;
+	}
+
+[OA default]
+	{
+	ru=Стандарт OA;
+	}
+
+[Use {name}]
+	{
+	ru=Использовать {name};
+	}
+
+[You play with {name} now. Uninstall it and go back to OA default? Your own changes stay saved.]
+	{
+	ru=Сейчас используется {name}. Удалить и вернуться к стандарту OA? Свои изменения останутся сохранёнными.;
+	}
+
+[Your Keys folder has no free folder name for it.]
+	{
+	ru=В папке Keys нет свободного имени папки.;
+	}
+
+// Named keys.
+
+[Again]
+	{
+	ru=Повтор;
+	}
+
+[Arrow down]
+	{
+	ru=Стрелка вниз;
+	}
+
+[Arrow left]
+	{
+	ru=Стрелка влево;
+	}
+
+[Arrow right]
+	{
+	ru=Стрелка вправо;
+	}
+
+[Arrow up]
+	{
+	ru=Стрелка вверх;
+	}
+
+[Audio volume down]
+	{
+	ru=Громкость вниз;
+	}
+
+[Audio volume mute]
+	{
+	ru=Громкость выкл.;
+	}
+
+[Audio volume up]
+	{
+	ru=Громкость вверх;
+	}
+
+[Back button]
+	{
+	ru=Кнопка назад;
+	}
+
+[Backquote]
+	{
+	ru=Гравис;
+	}
+
+[Backslash]
+	{
+	ru=Обратная косая;
+	}
+
+[Backspace]
+	{
+	ru=Backspace;
+	}
+
+[Bracket left]
+	{
+	ru=Кв. скобка левая;
+	}
+
+[Bracket right]
+	{
+	ru=Кв. скобка правая;
+	}
+
+[Browser back]
+	{
+	ru=Браузер: назад;
+	}
+
+[Browser favorites]
+	{
+	ru=Браузер: избранное;
+	}
+
+[Browser forward]
+	{
+	ru=Браузер: вперёд;
+	}
+
+[Browser home]
+	{
+	ru=Браузер: домой;
+	}
+
+[Browser refresh]
+	{
+	ru=Браузер: обновить;
+	}
+
+[Browser search]
+	{
+	ru=Браузер: поиск;
+	}
+
+[Browser stop]
+	{
+	ru=Браузер: стоп;
+	}
+
+[Button]
+	{
+	ru=Кнопка мыши;
+	}
+
+[Comma]
+	{
+	ru=Запятая;
+	}
+
+[Context menu]
+	{
+	ru=Контекстное меню;
+	}
+
+[Convert]
+	{
+	ru=Преобразование;
+	}
+
+[Cut]
+	{
+	ru=Вырезать;
+	}
+
+[Delete]
+	{
+	ru=Delete;
+	}
+
+[Digit]
+	{
+	ru=Цифра;
+	}
+
+[Eject]
+	{
+	ru=Извлечь;
+	}
+
+[End]
+	{
+	ru=End;
+	}
+
+[Equal]
+	{
+	ru=Равно;
+	}
+
+[Escape]
+	{
+	ru=Escape;
+	}
+
+[Forward button]
+	{
+	ru=Кнопка вперёд;
+	}
+
+[Help]
+	{
+	ru=Справка;
+	}
+
+[Home key]
+	{
+	ru=Клавиша Home;
+	}
+
+[Insert]
+	{
+	ru=Insert;
+	}
+
+[Intl backslash]
+	{
+	ru=Межд. обратная косая;
+	}
+
+[Intl ro]
+	{
+	ru=Ro;
+	}
+
+[Intl yen]
+	{
+	ru=Йена;
+	}
+
+[Kana mode]
+	{
+	ru=Режим кана;
+	}
+
+[Left button]
+	{
+	ru=Левая кнопка;
+	}
+
+[Media play pause]
+	{
+	ru=Воспроизведение/пауза;
+	}
+
+[Media select]
+	{
+	ru=Выбор медиа;
+	}
+
+[Media stop]
+	{
+	ru=Медиа: стоп;
+	}
+
+[Media track next]
+	{
+	ru=Следующая дорожка;
+	}
+
+[Media track previous]
+	{
+	ru=Предыдущая дорожка;
+	}
+
+[Middle button]
+	{
+	ru=Средняя кнопка;
+	}
+
+[Non convert]
+	{
+	ru=Без преобразования;
+	}
+
+[Numpad]
+	{
+	ru=Цифровой блок;
+	}
+
+[Numpad add]
+	{
+	ru=Цифровой блок +;
+	}
+
+[Numpad backspace]
+	{
+	ru=Цифровой блок Backspace;
+	}
+
+[Numpad clear]
+	{
+	ru=Цифровой блок: очистка;
+	}
+
+[Numpad clear entry]
+	{
+	ru=Цифровой блок: очистка ввода;
+	}
+
+[Numpad comma]
+	{
+	ru=Цифровой блок: запятая;
+	}
+
+[Numpad decimal]
+	{
+	ru=Цифровой блок: десятичная;
+	}
+
+[Numpad divide]
+	{
+	ru=Цифровой блок /;
+	}
+
+[Numpad enter]
+	{
+	ru=Цифровой блок Enter;
+	}
+
+[Numpad equal]
+	{
+	ru=Цифровой блок =;
+	}
+
+[Numpad hash]
+	{
+	ru=Цифровой блок #;
+	}
+
+[Numpad memory add]
+	{
+	ru=Цифровой блок: память +;
+	}
+
+[Numpad memory clear]
+	{
+	ru=Цифровой блок: память очистить;
+	}
+
+[Numpad memory recall]
+	{
+	ru=Цифровой блок: память вызвать;
+	}
+
+[Numpad memory store]
+	{
+	ru=Цифровой блок: память записать;
+	}
+
+[Numpad memory subtract]
+	{
+	ru=Цифровой блок: память -;
+	}
+
+[Numpad multiply]
+	{
+	ru=Цифровой блок *;
+	}
+
+[Numpad paren left]
+	{
+	ru=Цифровой блок (;
+	}
+
+[Numpad paren right]
+	{
+	ru=Цифровой блок );
+	}
+
+[Numpad subtract]
+	{
+	ru=Цифровой блок -;
+	}
+
+[Pad]
+	{
+	ru=Цифровой блок;
+	}
+
+[Period]
+	{
+	ru=Точка;
+	}
+
+[Power]
+	{
+	ru=Питание;
+	}
+
+[Print screen]
+	{
+	ru=Печать экрана;
+	}
+
+[Quote]
+	{
+	ru=Апостроф;
+	}
+
+[Right button]
+	{
+	ru=Правая кнопка;
+	}
+
+[Semicolon]
+	{
+	ru=Точка с запятой;
+	}
+
+[Slash]
+	{
+	ru=Косая черта;
+	}
+
+[Sleep]
+	{
+	ru=Сон;
+	}
+
+[Wake up]
+	{
+	ru=Пробуждение;
+	}
+
+[Wheel down]
+	{
+	ru=Колесо вниз;
+	}
+
+[Wheel left]
+	{
+	ru=Колесо влево;
+	}
+
+[Wheel right]
+	{
+	ru=Колесо вправо;
+	}
+
+[Wheel up]
+	{
+	ru=Колесо вверх;
+	}
+
+[Win]
+	{
+	ru=Win;
+	}
+
+[double]
+	{
+	ru=двойное;
+	}
+
+[hold]
+	{
+	ru=удержание;
+	}
+
+// Weapon and side limits.
+
+[*** The launch gives a computer player side {side}, which computer players cannot take in this game.]
+	{
+	ru=*** Запуск даёт компьютеру сторону {side}, а компьютеры не могут занять её в этой игре.;
+	}
+
+[*** The launch names side {side}, which this game does not have.]
+	{
+	ru=*** Запуск называет сторону {side}, а в этой игре её нет.;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than 256 weapon types.]
+	{
+	ru=*** {player} играет в Total Annihilation 3.1c, и эта версия не запускает мод с числом типов оружия больше 256.;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than five sides.]
+	{
+	ru=*** {player} играет в Total Annihilation 3.1c, и эта версия не запускает мод больше чем с пятью сторонами.;
+	}
+
+[This recording needs a mod with {n} weapon types and {m} sides.]
+	{
+	ru=Этой записи нужен мод. Типов оружия: {n}. Сторон: {m}.;
+	}
+
+[This recording was made with 256 weapon types and five sides. The mod you are playing has more.]
+	{
+	ru=Эта запись сделана с 256 типами оружия и пятью сторонами. У мода, в который вы играете, их больше.;
+	}
+
+[Weapon types]
+	{
+	ru=Типы оружия;
+	}
+
+// Updates.
+
+[Back on {version}]
+	{
+	ru=Снова на версии {version};
+	}
+
+[Check for updates]
+	{
+	ru=Проверить обновления;
+	}
+
+[Checking for updates…]
+	{
+	ru=Поиск обновлений…;
+	}
+
+[Checking the download]
+	{
+	ru=Проверка скачивания;
+	}
+
+[Could not put {version} back: {detail}]
+	{
+	ru=Не удалось вернуть {version}: {detail};
+	}
+
+[Download automatically]
+	{
+	ru=Скачивать автоматически;
+	}
+
+[Download paused]
+	{
+	ru=Скачивание: пауза;
+	}
+
+[Download update]
+	{
+	ru=Скачать обновление;
+	}
+
+[Downloaded and checked · {size}]
+	{
+	ru=Скачано и проверено · {size};
+	}
+
+[Downloading {version}]
+	{
+	ru=Скачивание: {version};
+	}
+
+[Downloading {version} · {done} of {size}]
+	{
+	ru=Скачивание: {version} · {done} из {size};
+	}
+
+[Downloads pause during a match and carry on after it.]
+	{
+	ru=Скачивания встают на паузу на время матча и продолжаются после.;
+	}
+
+[Finishing the update to {version}]
+	{
+	ru=Завершение обновления до версии {version};
+	}
+
+[Go back to {version}?]
+	{
+	ru=Откатить к версии {version}?;
+	}
+
+[Going back to {version}]
+	{
+	ru=Откат к версии {version};
+	}
+
+[Install updates]
+	{
+	ru=Установить обновления;
+	}
+
+[Install {version} again from its page, over the copy you have.]
+	{
+	ru=Установите {version} ещё раз с её страницы, поверх имеющейся копии.;
+	}
+
+[Installed {version}]
+	{
+	ru=Установленная версия: {version};
+	}
+
+[Installer will put {version} in Applications. Start it from there when it finishes.]
+	{
+	ru=Установщик поместит {version} в Applications. Запустите оттуда, когда установка закончится.;
+	}
+
+[Installing {version}]
+	{
+	ru=Установка: {version};
+	}
+
+[It installs as you quit. Change it any time in Settings › Updates.]
+	{
+	ru=Устанавливается при выходе. Изменить можно в любой момент: Настройки › Обновления.;
+	}
+
+[It updates as it next starts.]
+	{
+	ru=Обновление применится при следующем запуске.;
+	}
+
+[Its signature was refused. Nothing was downloaded or changed.]
+	{
+	ru=Подпись отклонена. Ничего не скачано и не изменено.;
+	}
+
+[New in {version}:]
+	{
+	ru=Новое в версии {version}:;
+	}
+
+[Not in this version]
+	{
+	ru=Нет в этой версии;
+	}
+
+[Not in this version: 1]
+	{
+	ru=Нет в этой версии: 1;
+	}
+
+[Not in this version: {count}]
+	{
+	ru=Нет в этой версии: {count};
+	}
+
+[Not installed. {version} is unchanged.]
+	{
+	ru=Не установлено. {version} без изменений.;
+	}
+
+[OA restarts on {version}, with the settings it had. {current} won't be offered again until you choose it.]
+	{
+	ru=OA перезапускается на версии {version} с прежними настройками. Версия {current} снова не предлагается, пока вы сами её не выберете.;
+	}
+
+[Off: OA asks before downloading.]
+	{
+	ru=Выключено: OA спрашивает перед скачиванием.;
+	}
+
+[Open Annihilation {version}]
+	{
+	ru=Open Annihilation {version};
+	}
+
+[Open Annihilation {version} is out]
+	{
+	ru=Уже вышла: Open Annihilation {version};
+	}
+
+[Open Annihilation {version} is ready]
+	{
+	ru=Готова: Open Annihilation {version};
+	}
+
+[Open your software centre to update it.]
+	{
+	ru=Откройте центр программ, чтобы обновить.;
+	}
+
+[Previous version · {version}]
+	{
+	ru=Предыдущая версия · {version};
+	}
+
+[Put {version} back]
+	{
+	ru=Восстановлено: {version};
+	}
+
+[Restart Windows to finish installing {version}.]
+	{
+	ru=Перезапустите Windows, чтобы завершить установку версии {version}.;
+	}
+
+[Restart to update]
+	{
+	ru=Перезапуск для обновления;
+	}
+
+[Roll back and restart]
+	{
+	ru=Откатить и перезапустить;
+	}
+
+[Roll back restores {version} and the settings you had before updating.]
+	{
+	ru=Откат возвращает версию {version} и настройки до обновления.;
+	}
+
+[Roll back to {version}?]
+	{
+	ru=Откатить до версии {version}?;
+	}
+
+[Roll back…]
+	{
+	ru=Откатить…;
+	}
+
+[Skip this version]
+	{
+	ru=Пропустить эту версию;
+	}
+
+[Started {version}]
+	{
+	ru=Запущено: {version};
+	}
+
+[The download stopped]
+	{
+	ru=Скачивание остановилось;
+	}
+
+[The download stopped: {reason}]
+	{
+	ru=Скачивание остановилось: {reason};
+	}
+
+[The download was not the file the signed list names, so it was deleted.]
+	{
+	ru=Скачанный файл не совпал с файлом из подписанного списка, поэтому он удалён.;
+	}
+
+[The game closes, puts {version} back and starts again. {current} is not offered again until a newer release.]
+	{
+	ru=Игра закрывается, восстанавливает версию {version} и запускается снова. {current} не предлагается снова, пока не выйдет более новый выпуск.;
+	}
+
+[The roll back failed. Nothing was changed.]
+	{
+	ru=Откат не удался. Ничего не изменено.;
+	}
+
+[The roll back failed. The game could not be put back.]
+	{
+	ru=Откат не удался. Игру не удалось восстановить.;
+	}
+
+[The update could not be verified.]
+	{
+	ru=Обновление не удалось проверить.;
+	}
+
+[The update failed. {version} was put back.]
+	{
+	ru=Обновление не выполнено. Восстановлено: {version}.;
+	}
+
+[The update was cancelled.]
+	{
+	ru=Обновление отменено.;
+	}
+
+[This copy came from {name}, which updates it.]
+	{
+	ru=Эта копия из источника {name}, который её обновляет.;
+	}
+
+[This version cannot use:]
+	{
+	ru=Эта версия не может использовать:;
+	}
+
+[Try this version]
+	{
+	ru=Попробовать эту версию;
+	}
+
+[Updated by {name}]
+	{
+	ru=Обновляет: {name};
+	}
+
+[Updated from {from}]
+	{
+	ru=Источник: {from};
+	}
+
+[Updated to {version}]
+	{
+	ru=Обновлено до {version};
+	}
+
+[Update…]
+	{
+	ru=Обновить…;
+	}
+
+[You have {current}. The update is {size}.]
+	{
+	ru=Сейчас у вас {current}. Размер обновления: {size}.;
+	}
+
+[Your settings from before you updated]
+	{
+	ru=Ваши настройки до обновления;
+	}
+
+[by {author} · {version}]
+	{
+	ru=автор {author} · {version};
+	}
+
+[macOS runs this copy from a protected place, so it can't update itself. Drag Open Annihilation to Applications and start it from there.]
+	{
+	ru=macOS запускает эту копию из защищённого места, поэтому она не обновляется сама. Перетащите Open Annihilation в «Программы» и запустите её оттуда.;
+	}
+
+[{action} is kept in your layout for a version that has it.]
+	{
+	ru={action} сохранено в вашей раскладке клавиш для версии, в которой оно есть.;
+	}
+
+[{new} won't be offered again until a newer release, or choose it in Settings › Updates.]
+	{
+	ru={new} не предлагается снова, пока не выйдет более новый выпуск. Либо выберите её в разделе Настройки › Обновления.;
+	}
+
+[{version} closed twice before it reached the main menu, so OA went back to {old}, with the settings you had.]
+	{
+	ru=Версия {version} дважды закрылась до главного меню, поэтому OA вернулось к версии {old} с прежними настройками.;
+	}
+
+[{version} closed twice before the main menu]
+	{
+	ru=Версия {version} дважды закрылась до главного меню;
+	}
+
+[{version} downloading]
+	{
+	ru=Скачивание: {version};
+	}
+
+[{version} installs the next time you start Open Annihilation.]
+	{
+	ru=Версия {version} установится при следующем запуске Open Annihilation.;
+	}
+
+[{version} installs when you quit]
+	{
+	ru=Версия {version} установится при выходе;
+	}
+
+[{version} is kept, in case you want it back. The game starts again by itself.]
+	{
+	ru=Версия {version} сохранена на случай возврата. Игра запустится сама.;
+	}
+
+[{version} is kept. Roll back from Settings › Updates.]
+	{
+	ru=Версия {version} сохранена. Откат — в разделе Настройки › Обновления.;
+	}
+
+[{version} is kept. To go back to it, press Roll back… in Settings › Updates.]
+	{
+	ru=Версия {version} сохранена. Чтобы вернуться, нажмите «Откатить…» в разделе Настройки › Обновления.;
+	}
+
+[{version} is not offered again until a newer release.]
+	{
+	ru=Версия {version} не предлагается снова, пока не выйдет более новый выпуск.;
+	}
+
+[{version} is out]
+	{
+	ru=Вышла версия {version};
+	}
+
+[{version} is out · Stable · checked {when}]
+	{
+	ru=Вышла версия {version} · Стабильная · проверено {when};
+	}
+
+[{version} is ready]
+	{
+	ru=Версия {version} готова;
+	}
+
+[{version} is ready · {size} downloaded]
+	{
+	ru=Версия {version} готова · скачано {size};
+	}
+
+[{version} is skipped]
+	{
+	ru=Версия {version} пропущена;
+	}
+
+[{version} reached the main menu]
+	{
+	ru=Версия {version} дошла до главного меню;
+	}
+
+[{version} ready]
+	{
+	ru={version} готова;
+	}
+
+[{version} waits until you choose to try again.]
+	{
+	ru=Версия {version} ждёт, пока вы не захотите попробовать ещё раз.;
+	}
+
+[{version} won't be offered again. The next release will be, or choose {version} in Settings › Updates to try it again.]
+	{
+	ru=Версия {version} больше не предлагается. Следующий выпуск будет. Либо выберите {version} в разделе Настройки › Обновления, чтобы попробовать ещё раз.;
+	}
+
+[{version} · checking]
+	{
+	ru={version} · проверка;
+	}
+
+[{version} · paused]
+	{
+	ru={version} · пауза;
+	}
+
+[{version} · {percent}%]
+	{
+	ru={version} · {percent}%;
+	}
+
+// The Library.
+
+[1 mutator on]
+	{
+	ru=Включён 1 мутатор;
+	}
+
+[Mutators: off]
+	{
+	ru=Мутаторы: выкл.;
+	}
+
+[Mutators: {count} on]
+	{
+	ru=Мутаторы, включено: {count};
+	}
+
+[No mutators on]
+	{
+	ru=Нет включённых мутаторов;
+	}
+
+[The size Settings, the Library and the other OA windows take. Auto takes the largest that fits.]
+	{
+	ru=Размер окон «Настройки», «Библиотека» и других окон OA. «Авто» берёт наибольший, который помещается.;
+	}
+
+[{count} mutators on]
+	{
+	ru=включено мутаторов: {count};
+	}
+
+[{name} is installed. Choose Use in the Library's Keys tab to play with it.]
+	{
+	ru=Установлено: {name}. Выберите «Использовать» на вкладке «Клавиши» в Библиотеке, чтобы играть с этим.;
+	}
+
+// The rest of the interface.
+
+[*** {player} needs a newer Open Annihilation for this mod.]
+	{
+	ru=*** {player}: для этого мода нужен более новый Open Annihilation.;
+	}
+
+[+{n}]
+	{
+	ru=+{n};
+	}
+
+[1 change of your own]
+	{
+	ru=1 своё изменение;
+	}
+
+[1 command]
+	{
+	ru=1 действие;
+	}
+
+[1 key, 1 helper]
+	{
+	ru=1 клавиша, 1 помощник;
+	}
+
+[1 key, {helpers} helpers]
+	{
+	ru=1 клавиша, помощников: {helpers};
+	}
+
+[1 setting changed]
+	{
+	ru=Изменена 1 настройка;
+	}
+
+[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and Roll back brings it back.]
+	{
+	ru=1 обновление меняет правила игры: {names}. Сохранения из текущей версии не загрузятся в новой. Текущая версия сохранится, и ОТКАТИТЬ вернёт её.;
+	}
+
+[A hold]
+	{
+	ru=Удержание;
+	}
+
+[A key counts only after it is held this long. For a hand that brushes keys.]
+	{
+	ru=Клавиша засчитывается, только когда её удерживают столько времени. Для руки, которая задевает клавиши.;
+	}
+
+[A mod's Ctrl+F2 keys]
+	{
+	ru=Клавиши Ctrl+F2 мода;
+	}
+
+[A press]
+	{
+	ru=Нажатие;
+	}
+
+[A release]
+	{
+	ru=Отпускание;
+	}
+
+[A seat]
+	{
+	ru=Место;
+	}
+
+[A second press of the same key this soon is ignored.]
+	{
+	ru=Второе нажатие той же клавиши так скоро игнорируется.;
+	}
+
+[A selection]
+	{
+	ru=Выделение;
+	}
+
+[A tapped Shift, Ctrl or Alt holds for the next key or click. Tap twice to lock it.]
+	{
+	ru=Короткое нажатие Shift, Ctrl или Alt держится для следующей клавиши или щелчка. Нажмите дважды, чтобы закрепить.;
+	}
+
+[ANSI]
+	{
+	ru=ANSI;
+	}
+
+[ANSI keyboards]
+	{
+	ru=Клавиатуры ANSI;
+	}
+
+[Add mirror…]
+	{
+	ru=ДОБАВИТЬ ЗЕРКАЛО…;
+	}
+
+[Add registry…]
+	{
+	ru=ДОБАВИТЬ РЕЕСТР…;
+	}
+
+[Allow full 3D mode]
+	{
+	ru=Разрешить полный 3D-режим;
+	}
+
+[Alt]
+	{
+	ru=Alt;
+	}
+
+[Applied in this order.]
+	{
+	ru=Применяется в этом порядке.;
+	}
+
+[Applies to every game.]
+	{
+	ru=Действует в каждой партии.;
+	}
+
+[Applies with {mod} only.]
+	{
+	ru=Действует только с модом {mod}.;
+	}
+
+[Apply 1 change]
+	{
+	ru=Применить 1 изменение;
+	}
+
+[Apply {n} changes]
+	{
+	ru=Применить изменения: {n};
+	}
+
+[Armed]
+	{
+	ru=Вооружённые;
+	}
+
+[Ask each time]
+	{
+	ru=Спрашивать каждый раз;
+	}
+
+[Ask each time, or install when I quit.]
+	{
+	ru=Спрашивать каждый раз или устанавливать при выходе.;
+	}
+
+[Asks for]
+	{
+	ru=Требует;
+	}
+
+[Attack]
+	{
+	ru=АТАКА;
+	}
+
+[Bars]
+	{
+	ru=Полосы;
+	}
+
+[Box: armed]
+	{
+	ru=Рамка: воор.;
+	}
+
+[Box: bld]
+	{
+	ru=Рамка: стр.;
+	}
+
+[Box: fact.]
+	{
+	ru=Рамка: зав.;
+	}
+
+[Build]
+	{
+	ru=СТРОЙКА;
+	}
+
+[Building]
+	{
+	ru=Строительство;
+	}
+
+[Button 6]
+	{
+	ru=Кнопка 6;
+	}
+
+[Button 7]
+	{
+	ru=Кнопка 7;
+	}
+
+[Button 8]
+	{
+	ru=Кнопка 8;
+	}
+
+[C]
+	{
+	ru=C;
+	}
+
+[Camera]
+	{
+	ru=Камера;
+	}
+
+[Cat.]
+	{
+	ru=Кат.;
+	}
+
+[Centre]
+	{
+	ru=ЦЕНТРИРОВАТЬ;
+	}
+
+[Change]
+	{
+	ru=Изменить;
+	}
+
+[Change layout…]
+	{
+	ru=Сменить раскладку клавиш…;
+	}
+
+[Changed]
+	{
+	ru=Изменено;
+	}
+
+[Change…]
+	{
+	ru=ИЗМЕНИТЬ…;
+	}
+
+[Chat]
+	{
+	ru=ЧАТ;
+	}
+
+[Chat Line]
+	{
+	ru=Строка чата;
+	}
+
+[Chat line]
+	{
+	ru=Строка чата;
+	}
+
+[Check now]
+	{
+	ru=Проверить сейчас;
+	}
+
+[Check with this mod]
+	{
+	ru=ПРОВЕРИТЬ С ЭТИМ МОДОМ;
+	}
+
+[Checked the package against the signed list]
+	{
+	ru=Пакет сверен с подписанным списком;
+	}
+
+[Choose Play now to play it, or choose it later with Play now in the Library.]
+	{
+	ru=Нажмите ИГРАТЬ СЕЙЧАС, чтобы начать игру, или выберите его позже кнопкой ИГРАТЬ СЕЙЧАС в Библиотеке.;
+	}
+
+[Choose another file…]
+	{
+	ru=Выбрать другой файл…;
+	}
+
+[Choose it with Play now in the Library to play it.]
+	{
+	ru=Чтобы играть, выберите его кнопкой ИГРАТЬ СЕЙЧАС в Библиотеке.;
+	}
+
+[Choose what happens…]
+	{
+	ru=Выбрать, что произойдёт…;
+	}
+
+[Choose…]
+	{
+	ru=Выбрать…;
+	}
+
+[Chosen file: {file}]
+	{
+	ru=Выбранный файл: {file};
+	}
+
+[Clear]
+	{
+	ru=СБРОС;
+	}
+
+[Click a button on the picture, or a role in the table, to change it. Buttons 6 to 8 of a gaming mouse appear here when the game sees them pressed.]
+	{
+	ru=Щёлкните кнопку на рисунке или роль в таблице, чтобы изменить это. Кнопки с 6 по 8 игровой мыши появляются здесь, когда игра видит, что они нажаты.;
+	}
+
+[Click to change.]
+	{
+	ru=Щёлкните, чтобы изменить.;
+	}
+
+[Click to read.]
+	{
+	ru=Щёлкните, чтобы прочитать.;
+	}
+
+[Clicks give orders with]
+	{
+	ru=Щелчки отдают приказы с;
+	}
+
+[Cloak]
+	{
+	ru=МАСКИРОВКА;
+	}
+
+[Close the game]
+	{
+	ru=Закрыть игру;
+	}
+
+[Close the line]
+	{
+	ru=Закрыть строку;
+	}
+
+[Cmd]
+	{
+	ru=Cmd;
+	}
+
+[Cmdr]
+	{
+	ru=Кмдр;
+	}
+
+[Comes back]
+	{
+	ru=Возвращается;
+	}
+
+[Commands]
+	{
+	ru=Действия;
+	}
+
+[Common commands]
+	{
+	ru=Частые действия;
+	}
+
+[Compact]
+	{
+	ru=Компактный;
+	}
+
+[Computer player for this seat]
+	{
+	ru=Компьютер для этого места;
+	}
+
+[Computer player in the missions]
+	{
+	ru=Компьютер в миссиях;
+	}
+
+[Copy]
+	{
+	ru=КОПИРОВАТЬ;
+	}
+
+[Could not check]
+	{
+	ru=Не удалось проверить;
+	}
+
+[Could not check · checked {when}]
+	{
+	ru=Не удалось проверить · проверено {when};
+	}
+
+[Could not connect. Try again later.]
+	{
+	ru=Не удалось подключиться. Попробуйте ещё раз позже.;
+	}
+
+[Could not put every file back: {detail}]
+	{
+	ru=Не удалось вернуть все файлы: {detail};
+	}
+
+[Could not put the new files in place: {detail}]
+	{
+	ru=Не удалось разместить новые файлы: {detail};
+	}
+
+[Could not start the game: {detail}]
+	{
+	ru=Не удалось запустить игру: {detail};
+	}
+
+[Ctrl]
+	{
+	ru=Ctrl;
+	}
+
+[D]
+	{
+	ru=D;
+	}
+
+[D-gun]
+	{
+	ru=D-ПУШКА;
+	}
+
+[Destruct]
+	{
+	ru=Самоуничтожение;
+	}
+
+[Details]
+	{
+	ru=ПОДРОБНЕЕ;
+	}
+
+[Details…]
+	{
+	ru=ПОДРОБНЕЕ…;
+	}
+
+[Developer mode]
+	{
+	ru=Режим разработчика;
+	}
+
+[Discard]
+	{
+	ru=ОТБРОСИТЬ;
+	}
+
+[Don't install when I quit]
+	{
+	ru=Не устанавливать при выходе;
+	}
+
+[Done]
+	{
+	ru=ГОТОВО;
+	}
+
+[Duplicate…]
+	{
+	ru=Дублировать…;
+	}
+
+[Empty]
+	{
+	ru=ОЧИСТИТЬ;
+	}
+
+[Enter]
+	{
+	ru=Enter;
+	}
+
+[Escape cancels · hold Escape to bind Escape]
+	{
+	ru=Escape отменяет · удерживайте Escape, чтобы назначить Escape;
+	}
+
+[Escape closes · hold Escape to look it up]
+	{
+	ru=Escape закрывает · удерживайте Escape, чтобы опознать Escape;
+	}
+
+[Every game]
+	{
+	ru=Каждая партия;
+	}
+
+[Every window is back in the middle.]
+	{
+	ru=Все окна снова в центре.;
+	}
+
+[Everywhere]
+	{
+	ru=Везде;
+	}
+
+[Faster]
+	{
+	ru=БЫСТРЕЕ;
+	}
+
+[Find by key]
+	{
+	ru=Найти по клавише;
+	}
+
+[Find on keyboard]
+	{
+	ru=Найти на клавиатуре;
+	}
+
+[Fire]
+	{
+	ru=Огонь;
+	}
+
+[Follow]
+	{
+	ru=СЛЕДИТЬ;
+	}
+
+[Follow back]
+	{
+	ru=Следование назад;
+	}
+
+[Force]
+	{
+	ru=ПРИНУД.;
+	}
+
+[Forget it]
+	{
+	ru=ЗАБЫТЬ;
+	}
+
+[Forward]
+	{
+	ru=Вперёд;
+	}
+
+[Found 1 key · 1 differs from {layout}]
+	{
+	ru=Найдено клавиш: 1 · отличий от раскладки {layout}: 1;
+	}
+
+[Found 1 key · {m} differ from {layout}]
+	{
+	ru=Найдено клавиш: 1 · отличий от раскладки {layout}: {m};
+	}
+
+[Found {n} keys · 1 differs from {layout}]
+	{
+	ru=Найдено клавиш: {n} · отличий от раскладки {layout}: 1;
+	}
+
+[Found {n} keys · {m} differ from {layout}]
+	{
+	ru=Найдено клавиш: {n} · отличий от раскладки {layout}: {m};
+	}
+
+[From your system]
+	{
+	ru=Из вашей системы;
+	}
+
+[From {layout}]
+	{
+	ru=Из раскладки {layout};
+	}
+
+[G]
+	{
+	ru=G;
+	}
+
+[Game and window]
+	{
+	ru=Игра и окно;
+	}
+
+[Game menu]
+	{
+	ru=МЕНЮ ИГРЫ;
+	}
+
+[Get all]
+	{
+	ru=СКАЧАТЬ ВСЕ;
+	}
+
+[Get both]
+	{
+	ru=СКАЧАТЬ ОБА;
+	}
+
+[Get installs it again.]
+	{
+	ru=Кнопка ПОЛУЧИТЬ установит его снова.;
+	}
+
+[Get more brains...]
+	{
+	ru=Ещё мозгов...;
+	}
+
+[Get with {count} more]
+	{
+	ru=ПОЛУЧИТЬ И ЕЩЁ {count};
+	}
+
+[Get with {name}]
+	{
+	ru=ПОЛУЧИТЬ С {name};
+	}
+
+[Get · {size}]
+	{
+	ru=Получить · {size};
+	}
+
+[Grid]
+	{
+	ru=Сетка;
+	}
+
+[Group]
+	{
+	ru=Группа;
+	}
+
+[Groups]
+	{
+	ru=Группы;
+	}
+
+[Guard]
+	{
+	ru=ОХРАНА;
+	}
+
+[Hacks on]
+	{
+	ru=Доработки вкл.;
+	}
+
+[Held to the end: the order goes.]
+	{
+	ru=Удержание до конца: приказ отдаётся.;
+	}
+
+[Helpers act in every game, not only with {mod}.]
+	{
+	ru=Помощники действуют в каждой партии, не только с модом {mod}.;
+	}
+
+[Helpers act in every game.]
+	{
+	ru=Помощники действуют в каждой партии.;
+	}
+
+[Here and {name} both use it {context}.]
+	{
+	ru=Здесь и {name}: {context}.;
+	}
+
+[Hold]
+	{
+	ru=Удержание;
+	}
+
+[Hold a key until it counts.]
+	{
+	ru=Удерживайте клавишу, пока она не засчитается.;
+	}
+
+[Hold keys that latch]
+	{
+	ru=Клавиши закрепления;
+	}
+
+[Hold middle]
+	{
+	ru=Сред.;
+	}
+
+[Hold right]
+	{
+	ru=Прав.;
+	}
+
+[Hold the modifiers you want, then press a key or a mouse button, or turn the wheel.]
+	{
+	ru=Удерживайте нужные модификаторы, затем нажмите клавишу или кнопку мыши либо поверните колёсико.;
+	}
+
+[Holding]
+	{
+	ru=Удерживается;
+	}
+
+[Homepage]
+	{
+	ru=САЙТ;
+	}
+
+[How far a press may move and still be a click.]
+	{
+	ru=Как далеко может сместиться нажатие и всё ещё остаться щелчком.;
+	}
+
+[How it acts]
+	{
+	ru=Как действует;
+	}
+
+[ISO]
+	{
+	ru=ISO;
+	}
+
+[ISO keyboards]
+	{
+	ru=Клавиатуры ISO;
+	}
+
+[Idle bld]
+	{
+	ru=Стр. прост.;
+	}
+
+[Idle fac]
+	{
+	ru=Зав. прост.;
+	}
+
+[In the chat line]
+	{
+	ru=В строке чата;
+	}
+
+[In use for every game]
+	{
+	ru=Используется в каждой партии;
+	}
+
+[In use with {mod}]
+	{
+	ru=Используется с модом {mod};
+	}
+
+[Install]
+	{
+	ru=УСТАНОВИТЬ;
+	}
+
+[Install alongside]
+	{
+	ru=УСТАНОВИТЬ РЯДОМ;
+	}
+
+[Install and restart]
+	{
+	ru=Установить и перезапустить;
+	}
+
+[Install when I quit]
+	{
+	ru=Установить при выходе;
+	}
+
+[Install…]
+	{
+	ru=Установить…;
+	}
+
+[It installs when you quit, or now if you restart. Restarting takes a few seconds and brings you back to the main menu.]
+	{
+	ru=Установка пройдёт при выходе или сразу, если перезапустить. Перезапуск занимает несколько секунд и возвращает в главное меню.;
+	}
+
+[It is in the download queue: Cancel it before you uninstall it.]
+	{
+	ru=Пакет стоит в очереди скачивания: сначала нажмите ОТМЕНА, а затем удаляйте.;
+	}
+
+[It stopped before any file moved.]
+	{
+	ru=Остановлено до того, как переместился хоть один файл.;
+	}
+
+[Its folder is a link, and OA never removes what a link leads to. Open folder shows it.]
+	{
+	ru=Папка является ссылкой, а OA никогда не удаляет то, на что ведёт ссылка. Кнопка ПАПКА покажет её.;
+	}
+
+[JIS]
+	{
+	ru=JIS;
+	}
+
+[JIS keyboards]
+	{
+	ru=Клавиатуры JIS;
+	}
+
+[KEYS]
+	{
+	ru=Клавиши;
+	}
+
+[Keep editing]
+	{
+	ru=Продолжить правку;
+	}
+
+[Keep holding {chord}: the ring fills in {seconds} s. Let go to cancel.]
+	{
+	ru=Продолжайте удерживать {chord}: кольцо заполнится за {seconds} с. Отпустите, чтобы отменить.;
+	}
+
+[Keep it]
+	{
+	ru=ОСТАВИТЬ;
+	}
+
+[Keep it for {action}]
+	{
+	ru=Оставить для действия {action};
+	}
+
+[Keep it on top]
+	{
+	ru=Оставить это сверху;
+	}
+
+[Keep it ready]
+	{
+	ru=Держать наготове;
+	}
+
+[Keep them]
+	{
+	ru=Оставить их;
+	}
+
+[Keep them on top]
+	{
+	ru=Оставить их сверху;
+	}
+
+[Keep your 1 change on top of {layout}?]
+	{
+	ru=Оставить 1 своё изменение поверх раскладки {layout}?;
+	}
+
+[Keep your {n} changes on top of {layout}?]
+	{
+	ru=Оставить свои изменения: {n} поверх раскладки {layout}?;
+	}
+
+[Keyboard]
+	{
+	ru=Клавиатура;
+	}
+
+[Keys pressed here never reach the game.]
+	{
+	ru=Нажатые здесь клавиши не доходят до игры.;
+	}
+
+[Keys while placing a building]
+	{
+	ru=Клавиши при размещении здания;
+	}
+
+[Keys while playing]
+	{
+	ru=Клавиши во время игры;
+	}
+
+[Keys while watching]
+	{
+	ru=Клавиши при наблюдении;
+	}
+
+[Kills]
+	{
+	ru=Уничтожено;
+	}
+
+[Kind]
+	{
+	ru=Тип;
+	}
+
+[Known as]
+	{
+	ru=Известно как;
+	}
+
+[Latch]
+	{
+	ru=Закрепление;
+	}
+
+[Latch {action}]
+	{
+	ru=Закрепить: {action};
+	}
+
+[Latchable]
+	{
+	ru=Закрепить;
+	}
+
+[Later]
+	{
+	ru=Позже;
+	}
+
+[Layout]
+	{
+	ru=Раскладка клавиш;
+	}
+
+[Left and right {modifier} are one key in Open Annihilation]
+	{
+	ru={modifier} слева и справа — одна клавиша в Open Annihilation;
+	}
+
+[Left hand]
+	{
+	ru=Левая рука;
+	}
+
+[Left-click]
+	{
+	ru=Левый щелчок;
+	}
+
+[Legacy]
+	{
+	ru=Прежний;
+	}
+
+[Let go before the end: nothing happens.]
+	{
+	ru=Если отпустить раньше конца: ничего не происходит.;
+	}
+
+[Load]
+	{
+	ru=ПОГРУЗКА;
+	}
+
+[Load with the built-in player]
+	{
+	ru=ЗАГРУЗИТЬ;
+	}
+
+[Long press]
+	{
+	ru=Долгое нажатие;
+	}
+
+[Look]
+	{
+	ru=Вид;
+	}
+
+[Macro]
+	{
+	ru=Макрос;
+	}
+
+[Made for the {layout} interface; yours is {yours}.]
+	{
+	ru=Сделано для интерфейса {layout}. Ваш интерфейс — {yours}.;
+	}
+
+[Manage…]
+	{
+	ru=УПРАВЛЕНИЕ…;
+	}
+
+[Marker]
+	{
+	ru=Метка;
+	}
+
+[Match]
+	{
+	ru=Матч;
+	}
+
+[Mayhem, Twilight and older patches]
+	{
+	ru=Mayhem, Twilight и более старые патчи;
+	}
+
+[Menu buttons]
+	{
+	ru=Кнопки меню;
+	}
+
+[Menus]
+	{
+	ru=Меню;
+	}
+
+[Middle]
+	{
+	ru=Средняя;
+	}
+
+[Modern]
+	{
+	ru=Современный;
+	}
+
+[Modifier]
+	{
+	ru=Модификатор;
+	}
+
+[More]
+	{
+	ru=ЕЩЁ;
+	}
+
+[More in the Library…]
+	{
+	ru=ЕЩЁ В БИБЛИОТЕКЕ…;
+	}
+
+[More options]
+	{
+	ru=Ещё параметры;
+	}
+
+[Mouse]
+	{
+	ru=Мышь;
+	}
+
+[Mouse button {button}]
+	{
+	ru=Кнопка мыши {button};
+	}
+
+[Mouse first]
+	{
+	ru=Сначала мышь;
+	}
+
+[Move]
+	{
+	ru=ДВИЖЕНИЕ;
+	}
+
+[Move OA to Applications]
+	{
+	ru=Переместить OA в Applications;
+	}
+
+[Move it to {action}]
+	{
+	ru=Перенести это на действие {action};
+	}
+
+[Move to {action}]
+	{
+	ru=Перенести на действие {action};
+	}
+
+[Moves]
+	{
+	ru=Движение;
+	}
+
+[Multiplayer]
+	{
+	ru=Сетевая игра;
+	}
+
+[Name]
+	{
+	ru=Имя;
+	}
+
+[Name this layout]
+	{
+	ru=Назвать эту раскладку клавиш;
+	}
+
+[Needs Allow full 3D mode]
 	{
 	ru=Нужен полный 3D-режим;
 	}
+
+[New key for {action}]
+	{
+	ru=Новая клавиша для действия {action};
+	}
+
+[Next page]
+	{
+	ru=ДАЛЕЕ;
+	}
+
+[Next pg]
+	{
+	ru=След. стр.;
+	}
+
+[Next report]
+	{
+	ru=СЛЕД. ДОНЕСЕНИЕ;
+	}
+
+[Next unit]
+	{
+	ru=СЛЕДУЮЩИЙ;
+	}
+
+[No command changes its key.]
+	{
+	ru=Ни одно действие не меняет свою клавишу.;
+	}
+
+[No key]
+	{
+	ru=Нет клавиши;
+	}
+
+[No wheel zoom]
+	{
+	ru=Без масштаба колёсиком;
+	}
+
+[Not checked yet]
+	{
+	ru=ещё не проверено;
+	}
+
+[Not on this keyboard]
+	{
+	ru=Нет на этой клавиатуре;
+	}
+
+[Nothing changes until you apply it.]
+	{
+	ru=Ничего не меняется, пока вы это не примените.;
+	}
+
+[Nothing is scheduled.]
+	{
+	ru=Ничего не запланировано.;
+	}
+
+[Number keys select groups]
+	{
+	ru=Цифровые клавиши выделяют группы;
+	}
+
+[O]
+	{
+	ru=O;
+	}
+
+[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and Roll back brings it back.]
+	{
+	ru=OA не может определить, меняет ли {to} правила игры. Если меняет, сохранения из старой версии ({from}) в новой не загрузятся. {From} сохранится, и ОТКАТИТЬ вернёт её.;
+	}
+
+[OA looks for a newer Open Annihilation once a day when it starts. It never installs one until you say so.]
+	{
+	ru=OA раз в день при запуске ищет более новый Open Annihilation. Установка не начнётся, пока вы не согласитесь.;
+	}
+
+[OA never checks]
+	{
+	ru=OA не проверяет;
+	}
+
+[OA's screens in Barlow, a clear modern face.]
+	{
+	ru=Экраны OA шрифтом Barlow, чётким современным начертанием.;
+	}
+
+[OA's screens in the game's own bitmap fonts.]
+	{
+	ru=Экраны OA собственными растровыми шрифтами игры.;
+	}
+
+[Off stops the view scrolling while the pointer rests at the window's edge.]
+	{
+	ru=«Выкл.» останавливает прокрутку вида, пока указатель находится у края окна.;
+	}
+
+[On Open Annihilation's screens]
+	{
+	ru=На экранах Open Annihilation;
+	}
+
+[On a build button]
+	{
+	ru=На кнопке строительства;
+	}
+
+[On the minimap]
+	{
+	ru=На миникарте;
+	}
+
+[On/off]
+	{
+	ru=ВКЛ./ВЫКЛ.;
+	}
+
+[On:]
+	{
+	ru=Вкл.:;
+	}
+
+[One hand]
+	{
+	ru=Одна рука;
+	}
+
+[Only when I ask]
+	{
+	ru=Только по запросу;
+	}
+
+[Only with {mod}]
+	{
+	ru=Только с модом {mod};
+	}
+
+[Open Annihilation's screens]
+	{
+	ru=Экраны Open Annihilation;
+	}
+
+[Open mod folder]
+	{
+	ru=ОТКРЫТЬ ПАПКУ МОДА;
+	}
+
+[Open the installer]
+	{
+	ru=Открыть установщик;
+	}
+
+[Open the log to see which files were left.]
+	{
+	ru=Откройте журнал и посмотрите, какие файлы остались.;
+	}
+
+[Open the page]
+	{
+	ru=Открыть страницу;
+	}
+
+[Open the release page]
+	{
+	ru=Открыть страницу выпуска;
+	}
+
+[Open your software centre, or run:]
+	{
+	ru=Откройте центр программ или выполните:;
+	}
+
+[Open {page} in a browser on another computer, or in Desktop Mode.]
+	{
+	ru=Откройте {page} в браузере на другом компьютере или в режиме рабочего стола.;
+	}
+
+[Open ›]
+	{
+	ru=Открыть ›;
+	}
+
+[Options...]
+	{
+	ru=Параметры...;
+	}
+
+[Order buttons and build cells show their key in a corner.]
+	{
+	ru=Кнопки приказов и ячейки строительства показывают клавишу в углу.;
+	}
+
+[P]
+	{
+	ru=P;
+	}
+
+[Page]
+	{
+	ru=Страница;
+	}
+
+[Panels]
+	{
+	ru=Панели;
+	}
+
+[Patrol]
+	{
+	ru=ПАТРУЛЬ;
+	}
+
+[Paused during a match]
+	{
+	ru=На паузе во время партии;
+	}
+
+[Paused during the game]
+	{
+	ru=На паузе во время игры;
+	}
+
+[Pin]
+	{
+	ru=Прикрепить;
+	}
+
+[Placing]
+	{
+	ru=Размещение;
+	}
+
+[Placing a building]
+	{
+	ru=При размещении здания;
+	}
+
+[Play now]
+	{
+	ru=ИГРАТЬ СЕЙЧАС;
+	}
+
+[Press a key or a mouse button to see what it does. Nothing is changed.]
+	{
+	ru=Нажмите клавишу или кнопку мыши, чтобы узнать, что она делает. Ничего не меняется.;
+	}
+
+[Press a key twice, quickly.]
+	{
+	ru=Нажмите клавишу дважды, быстро.;
+	}
+
+[Press a key, alone or with Shift, Ctrl or Alt.]
+	{
+	ru=Нажмите клавишу, отдельно или с Shift, Ctrl или Alt.;
+	}
+
+[Press a key…]
+	{
+	ru=Нажмите клавишу…;
+	}
+
+[Press {key} to rotate]
+	{
+	ru=Нажмите {key}, чтобы повернуть;
+	}
+
+[Press {key}, or {wheel}, to rotate]
+	{
+	ru=Нажмите {key} или {wheel}, чтобы повернуть;
+	}
+
+[Prev pg]
+	{
+	ru=Стр. назад;
+	}
+
+[Put every changed file back]
+	{
+	ru=Все изменённые файлы возвращены;
+	}
+
+[Put {to} in place, keeping {from}]
+	{
+	ru=На месте: {to}. Сохранено: {from};
+	}
+
+[Puts every window you moved back in the middle.]
+	{
+	ru=Возвращает в центр каждое окно, которое вы переместили.;
+	}
+
+[Queue]
+	{
+	ru=ОЧЕРЕДЬ;
+	}
+
+[RESTART NOW]
+	{
+	ru=ПЕРЕЗАПУСТИТЬ СЕЙЧАС;
+	}
+
+[Ran the installer]
+	{
+	ru=Установщик выполнен;
+	}
+
+[Reclaim]
+	{
+	ru=УТИЛИЗАЦИЯ;
+	}
+
+[Recovery could not finish.]
+	{
+	ru=Восстановление не завершено.;
+	}
+
+[Registries in the Library…]
+	{
+	ru=РЕЕСТРЫ В БИБЛИОТЕКЕ…;
+	}
+
+[Regular]
+	{
+	ru=Обычный;
+	}
+
+[Reinstall]
+	{
+	ru=ПЕРЕУСТАНОВИТЬ;
+	}
+
+[Remove]
+	{
+	ru=УДАЛИТЬ;
+	}
+
+[Rename…]
+	{
+	ru=Переименовать…;
+	}
+
+[Replacing keeps {installed}, and Roll back in the Library brings it back.]
+	{
+	ru=При замене {installed} сохраняется, и кнопка ОТКАТИТЬ в Библиотеке вернёт прежнюю версию.;
+	}
+
+[Reset]
+	{
+	ru=СБРОСИТЬ;
+	}
+
+[Reset to {layout}]
+	{
+	ru=Сбросить до {layout};
+	}
+
+[Reset window positions]
+	{
+	ru=Сбросить положения окон;
+	}
+
+[Resource panel]
+	{
+	ru=Панель ресурсов;
+	}
+
+[Resources]
+	{
+	ru=Ресурсы;
+	}
+
+[Restore defaults]
+	{
+	ru=ПО УМОЛЧАНИЮ;
+	}
+
+[Restore profile values]
+	{
+	ru=ВЕРНУТЬ ЗНАЧЕНИЯ ПРОФИЛЯ;
+	}
+
+[Resume]
+	{
+	ru=Продолжить;
+	}
+
+[Revision {installed} is kept, and Roll back in the Library brings it back.]
+	{
+	ru=Ревизия {installed} сохраняется, и кнопка ОТКАТИТЬ в Библиотеке вернёт её.;
+	}
+
+[Right hand]
+	{
+	ru=Правая рука;
+	}
+
+[Right-click]
+	{
+	ru=Правый щелчок;
+	}
+
+[Roll back]
+	{
+	ru=ОТКАТИТЬ;
+	}
+
+[Roll back {title} to {to}? {from} is kept in its place, and Roll back again brings it back.]
+	{
+	ru=Откатить {title} до версии {to}? Версия {from} сохранится, и повторное нажатие ОТКАТИТЬ вернёт её.;
+	}
+
+[Same]
+	{
+	ru=То же;
+	}
+
+[Same as the game]
+	{
+	ru=Как в игре;
+	}
+
+[Same place on every keyboard]
+	{
+	ru=Одна позиция на любой клавиатуре;
+	}
+
+[Save]
+	{
+	ru=Сохранить;
+	}
+
+[Save changes]
+	{
+	ru=Сохранить изменения;
+	}
+
+[Save file…]
+	{
+	ru=Сохранить файл…;
+	}
+
+[Save your edit before closing?]
+	{
+	ru=Сохранить изменение перед закрытием?;
+	}
+
+[Save your {n} edits before closing?]
+	{
+	ru=Сохранить изменения ({n}) перед закрытием?;
+	}
+
+[Saved games and replays]
+	{
+	ru=Сохранённые игры и повторы;
+	}
+
+[Saved to {place}]
+	{
+	ru=Сохранено: {place};
+	}
+
+[Saves]
+	{
+	ru=СОХРАНЕНИЯ;
+	}
+
+[Screenshots]
+	{
+	ru=СНИМКИ ЭКРАНА;
+	}
+
+[Search commands]
+	{
+	ru=Поиск действий;
+	}
+
+[Sel bld]
+	{
+	ru=Строит.;
+	}
+
+[Sel fac]
+	{
+	ru=Зав.;
+	}
+
+[Select a key to see everything on it.]
+	{
+	ru=Выберите клавишу, чтобы увидеть всё, что на ней.;
+	}
+
+[Selection]
+	{
+	ru=Выделение;
+	}
+
+[Selection box]
+	{
+	ru=Рамка выделения;
+	}
+
+[Self-destruct]
+	{
+	ru=САМОУНИЧТОЖЕНИЕ;
+	}
+
+[Self-destruct, surrender and quitting need a long press. A ring fills as you hold.]
+	{
+	ru=Самоуничтожение, капитуляция и выход требуют долгого удержания. Кольцо заполняется, пока вы удерживаете.;
+	}
+
+[Set]
+	{
+	ru=Задать;
+	}
+
+[Set by the mod. Every player in a game has the same.]
+	{
+	ru=Задано модом. У всех игроков партии одно и то же.;
+	}
+
+[Set them aside]
+	{
+	ru=Отложить;
+	}
+
+[Settings you changed after updating are replaced by the ones you had then.]
+	{
+	ru=Настройки, изменённые после обновления, заменяются прежними.;
+	}
+
+[Settings…]
+	{
+	ru=НАСТРОЙКИ…;
+	}
+
+[Shift]
+	{
+	ru=Shift;
+	}
+
+[Shot]
+	{
+	ru=Снимок;
+	}
+
+[Show]
+	{
+	ru=ПОКАЗАТЬ;
+	}
+
+[Show again]
+	{
+	ru=ПОКАЗАТЬ СНОВА;
+	}
+
+[Show as list]
+	{
+	ru=Показать списком;
+	}
+
+[Show details]
+	{
+	ru=Показать подробности;
+	}
+
+[Show in Finder]
+	{
+	ru=Показать в Finder;
+	}
+
+[Show keyboard]
+	{
+	ru=Показать клавиатуру;
+	}
+
+[Show keys on buttons]
+	{
+	ru=Клавиши на кнопках;
+	}
+
+[Show the log]
+	{
+	ru=Показать журнал;
+	}
+
+[Single player]
+	{
+	ru=Одиночная игра;
+	}
+
+[Slower]
+	{
+	ru=МЕДЛЕННЕЕ;
+	}
+
+[Some files were left half-moved.]
+	{
+	ru=Часть файлов перемещена лишь наполовину.;
+	}
+
+[Some files were left half-moved. Show details lists the steps that put the game right.]
+	{
+	ru=Часть файлов перемещена лишь наполовину. «Показать подробности» перечисляет шаги, которые приведут игру в порядок.;
+	}
+
+[Space]
+	{
+	ru=Space;
+	}
+
+[Space +]
+	{
+	ru=Интервал +;
+	}
+
+[Space -]
+	{
+	ru=Интервал -;
+	}
+
+[Start Open Annihilation from Applications afterwards.]
+	{
+	ru=Затем запустите Open Annihilation из «Программы».;
+	}
+
+[Start clean]
+	{
+	ru=Чистый запуск;
+	}
+
+[Start without it]
+	{
+	ru=НАЧАТЬ БЕЗ НЕГО;
+	}
+
+[Start without them]
+	{
+	ru=НАЧАТЬ БЕЗ НИХ;
+	}
+
+[Starts from]
+	{
+	ru=Исходит из;
+	}
+
+[Status]
+	{
+	ru=Статус;
+	}
+
+[Stays as it is]
+	{
+	ru=Остаётся как есть;
+	}
+
+[Stop]
+	{
+	ru=СТОП;
+	}
+
+[Store]
+	{
+	ru=ЗАПОМНИТЬ;
+	}
+
+[Swap them]
+	{
+	ru=Поменять местами;
+	}
+
+[Switch]
+	{
+	ru=СМЕНИТЬ;
+	}
+
+[Switch off]
+	{
+	ru=ОТКЛЮЧИТЬ;
+	}
+
+[T]
+	{
+	ru=T;
+	}
+
+[Tab]
+	{
+	ru=Tab;
+	}
+
+[Tags]
+	{
+	ru=ТЕГИ;
+	}
+
+[Tap Shift, then press A.]
+	{
+	ru=Кратко нажмите Shift, затем A.;
+	}
+
+[Tap to turn it on, tap again to turn it off.]
+	{
+	ru=Нажмите, чтобы включить, и ещё раз, чтобы выключить.;
+	}
+
+[The built-in player takes those seats from the units as they stand. Get the brain in the Library to load the game as it was saved.]
+	{
+	ru=Эти места займёт встроенный игрок, оставив юниты как есть. Чтобы загрузить игру в сохранённом виде, нажмите ПОЛУЧИТЬ у этого мозга в Библиотеке.;
+	}
+
+[The folder kept for Roll back ({backup}) is removed.]
+	{
+	ru=Папка, сохранённая для отката ({backup}), удалена.;
+	}
+
+[The folder kept for Roll back stays.]
+	{
+	ru=Папка, сохранённая для отката, остаётся.;
+	}
+
+[The folder kept for Roll back, which holds no mod that can be read, is removed.]
+	{
+	ru=Папка, сохранённая для отката, удалена: в ней нет мода, который можно прочитать.;
+	}
+
+[The game closes, installs it and starts again.]
+	{
+	ru=Игра закрывается, устанавливает обновление и запускается снова.;
+	}
+
+[The game did not close: {detail}]
+	{
+	ru=Игра не закрылась: {detail};
+	}
+
+[The id {id} is kept for your own changes.]
+	{
+	ru=Идентификатор {id} оставлен для своих изменений.;
+	}
+
+[The installer did not finish: {detail}]
+	{
+	ru=Установщик не завершился: {detail};
+	}
+
+[The key in the {key} place]
+	{
+	ru=Клавиша в позиции {key};
+	}
+
+[The keys OA keeps for TA Zero, ESC or Twilight]
+	{
+	ru=Клавиши, которые OA хранит для TA Zero, ESC или Twilight;
+	}
+
+[The keys Open Annihilation ships with.]
+	{
+	ru=Клавиши, которые поставляются с Open Annihilation.;
+	}
+
+[The keys, mouse buttons and wheel turns the game answers. {primary}+/ in a match shows them.]
+	{
+	ru=Клавиши, кнопки мыши и повороты колеса, на которые отвечает игра. {primary}+/ в партии показывает их.;
+	}
+
+[The layout was not saved: {reason}]
+	{
+	ru=Раскладка клавиш не сохранена: {reason};
+	}
+
+[The letter {key}, wherever your keyboard has it]
+	{
+	ru=Буква {key}, где бы она ни была на клавиатуре;
+	}
+
+[The mod's data]
+	{
+	ru=Данные мода;
+	}
+
+[The mod's hacks]
+	{
+	ru=Доработки мода;
+	}
+
+[The numpad moves the pointer; 5 clicks, 0 right-clicks.]
+	{
+	ru=Цифровой блок двигает указатель. 5 — щелчок, 0 — правый щелчок.;
+	}
+
+[The package could not be checked: {detail}]
+	{
+	ru=Пакет не удалось проверить: {detail};
+	}
+
+[The package could not be unpacked: {detail}]
+	{
+	ru=Пакет не удалось распаковать: {detail};
+	}
+
+[The text changes 1 key of {layout}.]
+	{
+	ru=Текст меняет 1 клавишу раскладки {layout}.;
+	}
+
+[The text changes {n} keys of {layout}.]
+	{
+	ru=Текст меняет клавиши раскладки {layout}: {n}.;
+	}
+
+[The version installed is kept, and Roll back in the Library brings it back.]
+	{
+	ru=Установленная версия сохраняется, и кнопка ОТКАТИТЬ в Библиотеке вернёт её.;
+	}
+
+[The {key} key]
+	{
+	ru=Клавиша {key};
+	}
+
+[This copy cannot replace itself. Get the new release from its page.]
+	{
+	ru=Эта копия не может заменить себя. Возьмите новый выпуск с её страницы.;
+	}
+
+[This copy is installed for the whole system, so it cannot replace itself. Install the new release the way this copy was installed.]
+	{
+	ru=Эта копия установлена для всей системы, поэтому не может заменить себя. Установите новый выпуск так же, как была установлена эта копия.;
+	}
+
+[This layout has problems:]
+	{
+	ru=У этой раскладки клавиш есть проблемы:;
+	}
+
+[This mod]
+	{
+	ru=Этот мод;
+	}
+
+[This mod needs every player on Open Annihilation. The host plays Total Annihilation 3.1c.]
+	{
+	ru=Этому моду нужно, чтобы каждый игрок использовал Open Annihilation. Хост играет в Total Annihilation 3.1c.;
+	}
+
+[To put the game right]
+	{
+	ru=Как привести игру в порядок;
+	}
+
+[Tournament]
+	{
+	ru=Турнир;
+	}
+
+[Try it here]
+	{
+	ru=Попробовать здесь;
+	}
+
+[Turn every helper off]
+	{
+	ru=Выкл. помощников;
+	}
+
+[Turn off]
+	{
+	ru=ОТКЛ.;
+	}
+
+[Turn on {name}]
+	{
+	ru=ВКЛЮЧИТЬ {name};
+	}
+
+[Turning it on applies when the Library closes, and then Play now works.]
+	{
+	ru=Включение вступит в силу после закрытия Библиотеки, и тогда заработает ИГРАТЬ СЕЙЧАС.;
+	}
+
+[Turning it on applies when the Library closes, and then Use now works.]
+	{
+	ru=Включение вступит в силу после закрытия Библиотеки, и тогда заработает кнопка ВЫБРАТЬ.;
+	}
+
+[Turning them on applies when the Library closes, and then Play now works.]
+	{
+	ru=Они будут включены после закрытия Библиотеки, и тогда заработает ИГРАТЬ СЕЙЧАС.;
+	}
+
+[Turning them on applies when the Library closes, and then Use now works.]
+	{
+	ru=Они будут включены после закрытия Библиотеки, и тогда заработает кнопка ВЫБРАТЬ.;
+	}
+
+[U]
+	{
+	ru=U;
+	}
+
+[UPDATES]
+	{
+	ru=Обновления;
+	}
+
+[Unbound]
+	{
+	ru=Пусто;
+	}
+
+[Undo]
+	{
+	ru=ВЕРНУТЬ;
+	}
+
+[Uninstall]
+	{
+	ru=УДАЛИТЬ;
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy Roll back keeps.]
+	{
+	ru=Удалить {name}? Папка {folder} будет удалена, а вместе с ней и копия, которую хранит ОТКАТИТЬ.;
+	}
+
+[Unload]
+	{
+	ru=ВЫГРУЗКА;
+	}
+
+[Unload mod]
+	{
+	ru=ОТКЛЮЧИТЬ МОД;
+	}
+
+[Unlocked camera]
+	{
+	ru=Свободная камера;
+	}
+
+[Unpacked the package]
+	{
+	ru=Пакет распакован;
+	}
+
+[Up to date]
+	{
+	ru=Актуально;
+	}
+
+[Up to date · Stable · checked {when}]
+	{
+	ru=Актуально · Стабильная · проверено {when};
+	}
+
+[Update]
+	{
+	ru=ОБНОВИТЬ;
+	}
+
+[Updated {name} · {new} changes the game's rules · Roll back restores {old}]
+	{
+	ru=Обновлено: {name} · {new} меняет правила игры · ОТКАТИТЬ вернёт прежнюю версию ({old});
+	}
+
+[Updated {name} · {new} may change the game's rules · Roll back restores {old}]
+	{
+	ru=Обновлено: {name} · {new} может изменить правила игры · ОТКАТИТЬ вернёт прежнюю версию ({old});
+	}
+
+[Use]
+	{
+	ru=Использовать;
+	}
+
+[Use by default]
+	{
+	ru=ИСПОЛЬЗОВАТЬ ПО УМОЛЧАНИЮ;
+	}
+
+[Use for every game]
+	{
+	ru=Для каждой партии;
+	}
+
+[Use for {mod}]
+	{
+	ru=Для мода {mod};
+	}
+
+[Use now]
+	{
+	ru=ВЫБРАТЬ;
+	}
+
+[Use these]
+	{
+	ru=ИСПОЛЬЗОВАТЬ;
+	}
+
+[Use this]
+	{
+	ru=ВЫБРАТЬ;
+	}
+
+[Use this game]
+	{
+	ru=ВЫБРАТЬ ЭТУ ИГРУ;
+	}
+
+[Use {chord} for {action}]
+	{
+	ru={chord} для действия {action};
+	}
+
+[Use {key} for {action}…]
+	{
+	ru={key} для действия {action}…;
+	}
+
+[Using]
+	{
+	ru=Используется;
+	}
+
+[Using {layout} for every game.]
+	{
+	ru=Для каждой партии используется {layout}.;
+	}
+
+[Using {layout} with {mod}.]
+	{
+	ru=С модом {mod} используется {layout}.;
+	}
+
+[V]
+	{
+	ru=V;
+	}
+
+[W]
+	{
+	ru=W;
+	}
+
+[WHEN I QUIT]
+	{
+	ru=ПРИ ВЫХОДЕ;
+	}
+
+[Waited for the game to close]
+	{
+	ru=Ожидание закрытия игры;
+	}
+
+[Watching]
+	{
+	ru=Наблюдение;
+	}
+
+[What happened]
+	{
+	ru=Что произошло;
+	}
+
+[What moves]
+	{
+	ru=Что перемещается;
+	}
+
+[What {key} does]
+	{
+	ru=Что делает {key};
+	}
+
+[What's new]
+	{
+	ru=Что нового;
+	}
+
+[Wheel]
+	{
+	ru=Колесо;
+	}
+
+[Wheel and middle]
+	{
+	ru=Колесо и средняя;
+	}
+
+[Wheel zoom]
+	{
+	ru=Масштаб колесом;
+	}
+
+[When I quit]
+	{
+	ru=При выходе;
+	}
+
+[When should it go in?]
+	{
+	ru=Когда установить?;
+	}
+
+[Where]
+	{
+	ru=Где;
+	}
+
+[While playing]
+	{
+	ru=Во время игры;
+	}
+
+[While watching]
+	{
+	ru=При наблюдении;
+	}
+
+[Whiteboard held]
+	{
+	ru=Маркерная доска удерживается;
+	}
+
+[Window]
+	{
+	ru=Окно;
+	}
+
+[Window size]
+	{
+	ru=Размер окна;
+	}
+
+[Windows asks for permission.]
+	{
+	ru=Windows запрашивает разрешение.;
+	}
+
+[With {mod}: {name}]
+	{
+	ru=С модом {mod}: {name};
+	}
+
+[You are playing {name}. Switch it off first with Switch off, then uninstall it.]
+	{
+	ru=Сейчас вы играете с модом {name}. Сначала отключите его кнопкой ОТКЛЮЧИТЬ, а затем удаляйте.;
+	}
+
+[You went back to {old}, with the settings you had.]
+	{
+	ru=Вы вернулись к версии {old} с прежними настройками.;
+	}
+
+[Your 1 change to {name}]
+	{
+	ru={name}: 1 своё изменение;
+	}
+
+[Your change]
+	{
+	ru=Своё изменение;
+	}
+
+[Your change, over {layout}]
+	{
+	ru=Своё изменение поверх {layout};
+	}
+
+[Your changes]
+	{
+	ru=Свои изменения;
+	}
+
+[Your last campaign set, ready to use. Cancel plays without mutators.]
+	{
+	ru=Ваш последний набор для кампании уже готов. ОТМЕНА — игра без мутаторов.;
+	}
+
+[Your last multiplayer set, ready to use. Cancel plays without mutators.]
+	{
+	ru=Ваш последний набор для сетевой игры уже готов. ОТМЕНА — игра без мутаторов.;
+	}
+
+[Your last skirmish set, ready to use. Cancel plays without mutators.]
+	{
+	ru=Ваш последний набор для схватки уже готов. ОТМЕНА — игра без мутаторов.;
+	}
+
+[Your saved games, settings and mods are not touched by this.]
+	{
+	ru=Это не затрагивает сохранённые игры, настройки и моды.;
+	}
+
+[Your saved games, settings and mods stay as they are.]
+	{
+	ru=Сохранённые игры, настройки и моды остаются как есть.;
+	}
+
+[Your {count} changes to {name}]
+	{
+	ru={name}: свои изменения: {count};
+	}
+
+[a second]
+	{
+	ru=в секунду;
+	}
+
+[about {minutes} minutes left]
+	{
+	ru=осталось около {minutes} мин;
+	}
+
+[always]
+	{
+	ru=Всегда;
+	}
+
+[and 1 change of your own]
+	{
+	ru=и 1 своё изменение;
+	}
+
+[and {count} more]
+	{
+	ru=и ещё {count};
+	}
+
+[and {n} changes of your own]
+	{
+	ru=и свои изменения: {n};
+	}
+
+[and {n} more]
+	{
+	ru=и ещё {n};
+	}
+
+[any keyboard]
+	{
+	ru=любая клавиатура;
+	}
+
+[cnc-ddraw's ddraw.ini]
+	{
+	ru=ddraw.ini из cnc-ddraw;
+	}
+
+[game paused]
+	{
+	ru=игра на паузе;
+	}
+
+[held]
+	{
+	ru=удерживается;
+	}
+
+[in place of]
+	{
+	ru=вместо;
+	}
+
+[latches]
+	{
+	ru=закрепляется;
+	}
+
+[less than a minute left]
+	{
+	ru=осталось меньше минуты;
+	}
+
+[more than an hour left]
+	{
+	ru=осталось больше часа;
+	}
+
+[not in the loaded units]
+	{
+	ru=нет среди загруженных юнитов;
+	}
+
+[not installed]
+	{
+	ru=НЕ УСТАНОВЛЕНО;
+	}
+
+[not used by Open Annihilation]
+	{
+	ru=не используется Open Annihilation;
+	}
+
+[on {date}]
+	{
+	ru=дата: {date};
+	}
+
+[place]
+	{
+	ru=РАЗМЕСТИТЬ;
+	}
+
+[px]
+	{
+	ru=px;
+	}
+
+[ready]
+	{
+	ru=готово;
+	}
+
+[release]
+	{
+	ru=ОТПУСТИТЕ;
+	}
+
+[tdraw's Settings.ini]
+	{
+	ru=Settings.ini из tdraw;
+	}
+
+[the button]
+	{
+	ru=кнопка;
+	}
+
+[the left-click interface]
+	{
+	ru=интерфейс левого щелчка;
+	}
+
+[the mod's data]
+	{
+	ru=данные мода;
+	}
+
+[the right-click interface]
+	{
+	ru=интерфейс правого щелчка;
+	}
+
+[today at {time}]
+	{
+	ru=сегодня в {time};
+	}
+
+[wheel]
+	{
+	ru=колесо;
+	}
+
+[while playing]
+	{
+	ru=во время игры;
+	}
+
+[while watching]
+	{
+	ru=при наблюдении;
+	}
+
+[yesterday at {time}]
+	{
+	ru=вчера в {time};
+	}
+
+[yours]
+	{
+	ru=ваша;
+	}
+
+[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and Roll back brings it back.]
+	{
+	ru={To} меняет правила игры. Сохранения из старой версии ({from}) не загрузятся в новой ({to}). {From} сохранится, и ОТКАТИТЬ вернёт её.;
+	}
+
+[{action} and {name} both use it {context}. Choose which keeps it; nothing changes until you confirm.]
+	{
+	ru=И {action}, и {name} используют её {context}. Выберите, кто её оставит. Ничего не изменится, пока вы не подтвердите.;
+	}
+
+[{chords}, from the mod's order panel ({gadget})]
+	{
+	ru={chords}, из панели приказов мода ({gadget});
+	}
+
+[{chords}, from {source}]
+	{
+	ru={chords}, из {source};
+	}
+
+[{chord} also does {name} {context}. That never meets {where}, so it stays.]
+	{
+	ru={chord} также выполняет {name} {context}. Не пересекается ({where}), поэтому остаётся.;
+	}
+
+[{chord} counted, then {keys} let go.]
+	{
+	ru={chord} засчитано, затем отпущено: {keys}.;
+	}
+
+[{chord} counted.]
+	{
+	ru={chord} засчитано.;
+	}
+
+[{chord} does two things]
+	{
+	ru={chord} делает два дела;
+	}
+
+[{chord} is already in use]
+	{
+	ru={chord} уже занято;
+	}
+
+[{chord} is free {context}]
+	{
+	ru={chord} свободно {context};
+	}
+
+[{chord} is free {context}.]
+	{
+	ru={chord} свободно {context}.;
+	}
+
+[{chord} is free: nothing uses it.]
+	{
+	ru={chord} свободно: никто не использует.;
+	}
+
+[{chord} is in use {context}]
+	{
+	ru={chord} занято {context};
+	}
+
+[{chord} is used in 1 place. Nothing is changed.]
+	{
+	ru={chord} используется в 1 позиции. Ничего не меняется.;
+	}
+
+[{chord} is used in {n} places. Nothing is changed.]
+	{
+	ru={chord} используется. Позиций: {n}. Ничего не меняется.;
+	}
+
+[{command} on {key}]
+	{
+	ru={command} на {key};
+	}
+
+[{command} with no key]
+	{
+	ru={command} без клавиши;
+	}
+
+[{count} changes of your own]
+	{
+	ru=свои изменения: {count};
+	}
+
+[{count} commands]
+	{
+	ru=действий: {count};
+	}
+
+[{count} of {limit}]
+	{
+	ru={count} из {limit};
+	}
+
+[{count} settings changed]
+	{
+	ru=изменено настроек: {count};
+	}
+
+[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and Roll back brings it back.]
+	{
+	ru=Обновлений, меняющих правила игры: {count} — {names}. Сохранения из их текущих версий не загрузятся в новых. Каждая текущая версия сохранится, и ОТКАТИТЬ вернёт её.;
+	}
+
+[{description} · {chord}]
+	{
+	ru={description} · {chord};
+	}
+
+[{done} of {size} · {percent}%]
+	{
+	ru={done} из {size} · {percent}%;
+	}
+
+[{done} of {whole} s · let go to cancel]
+	{
+	ru={done} из {whole} s · отпустите для отмены;
+	}
+
+[{first}…{last}]
+	{
+	ru={first}…{last};
+	}
+
+[{folder} is a folder of your own, not {name}. Move or rename it, then Retry.]
+	{
+	ru={folder} — это ваша собственная папка, а не {name}. Переместите или переименуйте её, а затем нажмите ПОВТОР.;
+	}
+
+[{keys} keys, 1 helper]
+	{
+	ru=клавиш: {keys}, 1 помощник;
+	}
+
+[{keys} keys, {helpers} helpers]
+	{
+	ru=клавиш: {keys}, помощников: {helpers};
+	}
+
+[{key} did not count: let go after {held} of {wait} s.]
+	{
+	ru={key} не засчитано: отпущено после {held} из {wait} s.;
+	}
+
+[{key} did not count: pressed again within {wait} s.]
+	{
+	ru={key} не засчитано: снова нажато в пределах {wait} s.;
+	}
+
+[{key} held {held} of {wait} s.]
+	{
+	ru={key} удерживается {held} из {wait} s.;
+	}
+
+[{key} let go.]
+	{
+	ru={key} отпущено.;
+	}
+
+[{key} stays down for the next key.]
+	{
+	ru=Клавиша {key} остаётся нажатой для следующей клавиши.;
+	}
+
+[{key} stays down until you tap it again.]
+	{
+	ru=Клавиша {key} остаётся нажатой, пока её не нажмут ещё раз.;
+	}
+
+[{layout} · 1 change]
+	{
+	ru={layout} · 1 изменение;
+	}
+
+[{layout} · {n} changes]
+	{
+	ru={layout} · изменения: {n};
+	}
+
+[{modifier} · locked]
+	{
+	ru={modifier} · зафиксировано;
+	}
+
+[{modifier} · next key or click]
+	{
+	ru={modifier} · следующая клавиша или щелчок;
+	}
+
+[{name} ({count})]
+	{
+	ru={name} ({count});
+	}
+
+[{name} already has 1 change of your own; it stays.]
+	{
+	ru={name} уже содержит 1 своё изменение. Оно остаётся.;
+	}
+
+[{name} already has {count} changes of your own; they stay.]
+	{
+	ru={name} уже содержит свои изменения: {count}. Они остаются.;
+	}
+
+[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and Roll back brings it back.]
+	{
+	ru=Установлен мод {name} из {installed}. Заменить его модом {name} из {new}? Версия из {installed} сохранится, и ОТКАТИТЬ вернёт её.;
+	}
+
+[{name} uses it {context}. Choose what happens; nothing changes until you confirm.]
+	{
+	ru={name} использует её {context}. Выберите, что произойдёт. Ничего не изменится, пока вы не подтвердите.;
+	}
+
+[{name} uses it. Nothing changes until you choose.]
+	{
+	ru={name} использует её. Ничего не изменится, пока вы не выберете.;
+	}
+
+[{name} · 1 change of your own]
+	{
+	ru={name} · 1 своё изменение;
+	}
+
+[{name} · Add from…]
+	{
+	ru={name} · ДОБАВИТЬ ИЗ…;
+	}
+
+[{name} · made for {mod}]
+	{
+	ru={name} · сделано для мода {mod};
+	}
+
+[{name} · {n} changes]
+	{
+	ru={name} · изменения: {n};
+	}
+
+[{name} · {n} changes of your own]
+	{
+	ru={name} · свои изменения: {n};
+	}
+
+[{name}: {description} {context}. OK asks what to do.]
+	{
+	ru={name}: {description} {context}. OK спросит, что делать.;
+	}
+
+[{number} · {heading}]
+	{
+	ru={number} · {heading};
+	}
+
+[{primary}+/ in a match shows the keys.]
+	{
+	ru={primary}+/ в партии показывает клавиши.;
+	}
+
+[{problem} Retry tries again.]
+	{
+	ru={problem} ПОВТОР — попробовать ещё раз.;
+	}
+
+[{problem} · Retry]
+	{
+	ru={problem} · ПОВТОР;
+	}
+
+[{shape} · from your system]
+	{
+	ru={shape} · из вашей системы;
+	}
+
+[{title} is back to {new}. {old} is kept, and Roll back brings it back.]
+	{
+	ru=Мод {title} возвращён к версии {new}. Версия {old} сохранена, и ОТКАТИТЬ вернёт её.;
+	}
+
+[{title} is now {new}. {old} is kept, and Roll back in the Library brings it back.]
+	{
+	ru={title}: теперь версия {new}. {old} сохраняется, и кнопка ОТКАТИТЬ в Библиотеке вернёт прежнюю версию.;
+	}
+
+[{title} {to}, the version kept for Roll back, cannot be played.]
+	{
+	ru=Запустить мод {title} {to} (версию, сохранённую для отката) невозможно.;
+	}
+
+[{wheel} rotates]
+	{
+	ru={wheel} поворачивает;
+	}
+
+[· 1 change of your own]
+	{
+	ru=· 1 своё изменение;
+	}
+
+[· your change]
+	{
+	ru=· своё изменение;
+	}
+
+[· {count} changes of your own]
+	{
+	ru=· свои изменения: {count};
+	}
+
+[▲ Up]
+	{
+	ru=▲ ВВЕРХ;
+	}
+
+[▼ Down]
+	{
+	ru=▼ ВНИЗ;
+	}
+

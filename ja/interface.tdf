@@ -369,19 +369,9 @@
 	ja=ここでは、オフのときと同じように画面を描画します。;
 	}
 
-[SAVES]
-	{
-	ja=セーブ;
-	}
-
 [SCREENSHOTS]
 	{
 	ja=スクリーンショット;
-	}
-
-[MODS]
-	{
-	ja=MOD;
 	}
 
 [System default]
@@ -1124,16 +1114,6 @@
 	ja=ここでは常にオン;
 	}
 
-[MANAGE…]
-	{
-	ja=管理…;
-	}
-
-[RESTORE PROFILE VALUES]
-	{
-	ja=プロファイルの値に戻す;
-	}
-
 [Applies at next match]
 	{
 	ja=次の対戦から適用;
@@ -1184,11 +1164,6 @@
 	ja=oamod.yamlがありません;
 	}
 
-[PLAYING]
-	{
-	ja=プレイ中;
-	}
-
 [OPEN MODS FOLDER]
 	{
 	ja=MODフォルダーを開く;
@@ -1199,24 +1174,9 @@
 	ja=MODを切り替え;
 	}
 
-[SWITCH]
-	{
-	ja=切り替え;
-	}
-
-[ROLL BACK]
-	{
-	ja=ロールバック;
-	}
-
 [ROLL BACK MOD]
 	{
 	ja=MODをロールバック;
-	}
-
-[Roll back {title} to {to}? {from} is kept in its place, and ROLL BACK again brings it back.]
-	{
-	ja={title}を{to}にロールバックしますか？{from}は代わりに保管され、もう一度ロールバックすると元に戻ります。;
 	}
 
 [The game reloads its data for the mod and returns to the main menu.]
@@ -1279,21 +1239,6 @@
 	ja=置き換え;
 	}
 
-[INSTALL ALONGSIDE]
-	{
-	ja=並べてインストール;
-	}
-
-[REINSTALL]
-	{
-	ja=再インストール;
-	}
-
-[PLAY NOW]
-	{
-	ja=今すぐプレイ;
-	}
-
 [INSTALLING MOD]
 	{
 	ja=MODをインストール中;
@@ -1337,16 +1282,6 @@
 [MOD NOT ROLLED BACK]
 	{
 	ja=MODのロールバック中止;
-	}
-
-[The folder kept for ROLL BACK, which holds no mod that can be read, is removed.]
-	{
-	ja=ロールバック用に保管していたフォルダーには読み取れるMODがないため、削除されます。;
-	}
-
-[The folder kept for ROLL BACK ({backup}) is removed.]
-	{
-	ja=ロールバック用に保管していたフォルダー（{backup}）は削除されます。;
 	}
 
 [{version} of an unknown revision]
@@ -1414,11 +1349,6 @@
 	ja=保管されているバージョン（{backup}）はそのまま残ります。;
 	}
 
-[The folder kept for ROLL BACK stays.]
-	{
-	ja=ロールバック用に保管していたフォルダーはそのまま残ります。;
-	}
-
 [Your Mods folder already has a folder named {folder} that does not hold {title}. It is left as it is.]
 	{
 	ja=Modsフォルダーには、{title}を含まない{folder}という名前のフォルダーがすでにあります。そのフォルダーには手を加えません。;
@@ -1442,11 +1372,6 @@
 [The files of {title} {version} were installed again.]
 	{
 	ja={title} {version}のファイルを再インストールしました。;
-	}
-
-[{title} is back to {new}. {old} is kept, and ROLL BACK brings it back.]
-	{
-	ja={title}は{new}に戻りました。{old}は保管され、ロールバックで元に戻せます。;
 	}
 
 [{title} is back to {new}.]
@@ -1582,11 +1507,6 @@
 [{title} could not be rolled back; nothing was changed.]
 	{
 	ja={title}をロールバックできませんでした。何も変更していません。;
-	}
-
-[{title} {to}, the version kept for ROLL BACK, cannot be played.]
-	{
-	ja=ロールバック用に保管していたバージョン{title} {to}はプレイできません。;
 	}
 
 [the folder you chose]
@@ -4351,11 +4271,6 @@
 	ja={count}件の更新;
 	}
 
-[UPDATE ALL]
-	{
-	ja=すべて更新;
-	}
-
 [Showing the list from {age}. OA couldn't reach the registries.]
 	{
 	ja={age}のリストを表示しています。OAはレジストリに接続できませんでした。;
@@ -4379,16 +4294,6 @@
 [Nothing to show.]
 	{
 	ja=表示するものがありません。;
-	}
-
-[GET]
-	{
-	ja=入手;
-	}
-
-[INSTALLED]
-	{
-	ja=インストール済み;
 	}
 
 [UPDATE]
@@ -4721,16 +4626,6 @@
 	ja=✓;
 	}
 
-[RETRY]
-	{
-	ja=再試行;
-	}
-
-[HOMEPAGE]
-	{
-	ja=ホームページ;
-	}
-
 [Finishes when you leave {name}.]
 	{
 	ja={name}を終了すると完了します。;
@@ -4739,16 +4634,6 @@
 [You are playing {playing}. Updating {name} doesn't restart the game.]
 	{
 	ja={playing}をプレイ中です。{name}を更新してもゲームは再起動しません。;
-	}
-
-[SETTINGS…]
-	{
-	ja=設定…;
-	}
-
-[DETAILS]
-	{
-	ja=詳細;
 	}
 
 [{name} {version}]
@@ -4789,21 +4674,6 @@
 [Installed {name}]
 	{
 	ja={name}をインストールしました;
-	}
-
-[Updated {name} · {new} changes the game's rules · ROLL BACK restores {old}]
-	{
-	ja={name}を更新 · {new}でゲームのルールが変わります · ロールバックで{old}に戻せます;
-	}
-
-[Updated {name} · {new} may change the game's rules · ROLL BACK restores {old}]
-	{
-	ja={name}を更新 · {new}でゲームのルールが変わる可能性があります · ロールバックで{old}に戻せます;
-	}
-
-[{problem} · RETRY]
-	{
-	ja={problem} · 再試行;
 	}
 
 [Then {package} · {phase}]
@@ -4891,29 +4761,9 @@
 	ja={name} {from} → {to};
 	}
 
-[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and ROLL BACK brings it back.]
-	{
-	ja={To}ではゲームのルールが変わります。{from}のセーブデータは{to}ではロードできません。{From}は保管され、ロールバックで元に戻せます。;
-	}
-
-[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and ROLL BACK brings it back.]
-	{
-	ja={to}でゲームのルールが変わるかどうか、OAには判断できません。変わる場合、{from}のセーブデータはロードできなくなります。{From}は保管され、ロールバックで元に戻せます。;
-	}
-
 [It finishes when you leave {name}.]
 	{
 	ja={name}を終了すると完了します。;
-	}
-
-[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and ROLL BACK brings it back.]
-	{
-	ja=1件の更新でゲームのルールが変わります：{names}。現在のバージョンのセーブデータは、新しいバージョンではロードできません。現在のバージョンは保管され、ロールバックで元に戻せます。;
-	}
-
-[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and ROLL BACK brings it back.]
-	{
-	ja={count}件の更新でゲームのルールが変わります：{names}。現在のバージョンのセーブデータは、新しいバージョンではロードできません。それぞれ保管され、ロールバックで元に戻せます。;
 	}
 
 [{names} and {count} more]
@@ -4939,11 +4789,6 @@
 [Download]
 	{
 	ja=ダウンロード;
-	}
-
-[NOT NOW]
-	{
-	ja=今はしない;
 	}
 
 [the server could not be reached]
@@ -5098,11 +4943,6 @@
 	ja=。もう一度選ぶと再試行します。;
 	}
 
-[MORE IN THE LIBRARY…]
-	{
-	ja=ライブラリでもっと見る…;
-	}
-
 [More languages are in the Library.]
 	{
 	ja=ほかの言語はライブラリにあります。;
@@ -5178,11 +5018,6 @@
 	ja=初回のダウンロード時に作成;
 	}
 
-[RESET]
-	{
-	ja=リセット;
-	}
-
 [Downloaded files]
 	{
 	ja=ダウンロードしたファイル;
@@ -5191,11 +5026,6 @@
 [Nothing kept]
 	{
 	ja=保管なし;
-	}
-
-[EMPTY]
-	{
-	ja=空にする;
 	}
 
 [Registries]
@@ -5288,11 +5118,6 @@
 	ja=OKを押すと削除されます;
 	}
 
-[ADD MIRROR…]
-	{
-	ja=ミラーを追加…;
-	}
-
 [Choose from the main menu.]
 	{
 	ja=メインメニューで選択してください。;
@@ -5306,11 +5131,6 @@
 [Content from registries other than {names} isn't reviewed by the OA team. OA still checks every package before using it.]
 	{
 	ja={names}以外のレジストリのコンテンツはOAチームの審査を受けていません。それでもOAは、使用前にすべてのパッケージを確認します。;
-	}
-
-[ADD REGISTRY…]
-	{
-	ja=レジストリを追加…;
 	}
 
 // The map browser, GET MAP, and the questions that install a map pack or a language.
@@ -5558,11 +5378,6 @@
 [Install the map pack {name} {version} ({n} maps)?]
 	{
 	ja=マップパック{name} {version}（{n}マップ）をインストールしますか？;
-	}
-
-[INSTALL]
-	{
-	ja=インストール;
 	}
 
 [UPDATE MAP PACK]
@@ -5828,16 +5643,6 @@
 [REPLACE MOD]
 	{
 	ja=MODの置き換え;
-	}
-
-[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and ROLL BACK brings it back.]
-	{
-	ja={installed}の{name}がインストールされています。{new}の{name}で置き換えますか？{installed}のものは保管され、ロールバックで元に戻せます。;
-	}
-
-[{folder} is a folder of your own, not {name}. Move or rename it, then RETRY.]
-	{
-	ja={folder}は{name}ではなく、ユーザー自身のフォルダーです。移動するか名前を変えてから、再試行してください。;
 	}
 
 [{n} KB]
@@ -6186,11 +5991,6 @@
 	ja=初回設定;
 	}
 
-[SHOW AGAIN]
-	{
-	ja=もう一度表示;
-	}
-
 [Walk through the language, online features and the OA buttons again.]
 	{
 	ja=言語、オンライン機能、OAのボタンの説明をもう一度見ます。;
@@ -6251,11 +6051,6 @@
 	ja=このシステムはHTTPSのレジストリをHTTPで読み込みます。;
 	}
 
-[REGISTRIES IN THE LIBRARY…]
-	{
-	ja=レジストリはライブラリに…;
-	}
-
 [Registries are in the Library.]
 	{
 	ja=レジストリはライブラリにあります。;
@@ -6269,21 +6064,6 @@
 [MAPS]
 	{
 	ja=マップ;
-	}
-
-[SWITCH OFF]
-	{
-	ja=オフにする;
-	}
-
-[UNLOAD MOD]
-	{
-	ja=MODを解除;
-	}
-
-[UNINSTALL]
-	{
-	ja=アンインストール;
 	}
 
 [{language} · built in]
@@ -6396,11 +6176,6 @@
 	ja=更新中;
 	}
 
-[REFRESH]
-	{
-	ja=更新;
-	}
-
 [refreshed {age}]
 	{
 	ja={age}に更新;
@@ -6441,11 +6216,6 @@
 	ja=ゲーム中はマップパックをアンインストールできません。;
 	}
 
-[It is in the download queue: CANCEL it before you uninstall it.]
-	{
-	ja=ダウンロード待ちです。アンインストールする前に「キャンセル」してください。;
-	}
-
 [Uninstall {name}]
 	{
 	ja={name}をアンインストール;
@@ -6456,24 +6226,9 @@
 	ja={name}をアンインストールしますか？フォルダー{folder}が削除されます。;
 	}
 
-[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy ROLL BACK keeps.]
-	{
-	ja={name}をアンインストールしますか？フォルダー{folder}が削除され、ロールバック用に保管しているコピーも一緒に削除されます。;
-	}
-
-[GET installs it again.]
-	{
-	ja=「入手」で再インストールできます。;
-	}
-
 [No registry lists it, so the Library cannot get it again.]
 	{
 	ja=どのレジストリにも載っていないため、ライブラリから再入手することはできません。;
-	}
-
-[You are playing {name}. Switch it off first with SWITCH OFF, then uninstall it.]
-	{
-	ja={name}をプレイ中です。先に「オフにする」でオフにしてから、アンインストールしてください。;
 	}
 
 [The game is shown in {name}. Choose another language in Settings › Language first, then uninstall it.]
@@ -6496,11 +6251,6 @@
 	ja=ライブラリに表示されてから、フォルダーが変更されました。もう一度試してください。;
 	}
 
-[Its folder is a link, and OA never removes what a link leads to. OPEN FOLDER shows it.]
-	{
-	ja=フォルダーがリンクになっています。OAはリンク先のものを削除しません。「フォルダーを開く」で表示できます。;
-	}
-
 [Its folder is not in your own Open Annihilation folder, and OA removes nothing outside it.]
 	{
 	ja=フォルダーがOpen Annihilationのユーザーフォルダーの外にあります。OAはその外にあるものを削除しません。;
@@ -6509,36 +6259,6 @@
 [Its folder could not be moved; another program may be using it. Close it, then try again.]
 	{
 	ja=フォルダーを移動できませんでした。ほかのプログラムが使用している可能性があります。そのプログラムを閉じてから、もう一度試してください。;
-	}
-
-[The version installed is kept, and ROLL BACK in the Library brings it back.]
-	{
-	ja=インストール済みのバージョンは保管され、ライブラリのロールバックで元に戻せます。;
-	}
-
-[Revision {installed} is kept, and ROLL BACK in the Library brings it back.]
-	{
-	ja=リビジョン{installed}は保管され、ライブラリのロールバックで元に戻せます。;
-	}
-
-[Replacing keeps {installed}, and ROLL BACK in the Library brings it back.]
-	{
-	ja=置き換えても{installed}は保管され、ライブラリのロールバックで元に戻せます。;
-	}
-
-[Choose PLAY NOW to play it, or choose it later with PLAY NOW in the Library.]
-	{
-	ja=「今すぐプレイ」でプレイするか、後でライブラリの「今すぐプレイ」で選んでください。;
-	}
-
-[Choose it with PLAY NOW in the Library to play it.]
-	{
-	ja=プレイするには、ライブラリの「今すぐプレイ」で選んでください。;
-	}
-
-[{title} is now {new}. {old} is kept, and ROLL BACK in the Library brings it back.]
-	{
-	ja={title}は{new}になりました。{old}は保管され、ライブラリのロールバックで元に戻せます。;
 	}
 
 [It is still copied, so it can be fixed in your file manager; the Library's Mods tab plays only mods that work.]
@@ -6564,11 +6284,6 @@
 [No installed map matches.]
 	{
 	ja=一致するインストール済みのマップはありません。;
-	}
-
-[USE NOW]
-	{
-	ja=今すぐ使う;
 	}
 
 [{shown} of {all}]
@@ -6699,11 +6414,6 @@
 	ja=Bottles;
 	}
 
-[CHANGE…]
-	{
-	ja=変更…;
-	}
-
 [COPYING]
 	{
 	ja=コピー中;
@@ -6792,11 +6502,6 @@
 [Copying Total Annihilation]
 	{
 	ja=Total Annihilationをコピー中;
-	}
-
-[DETAILS…]
-	{
-	ja=詳細…;
 	}
 
 [Demo]
@@ -7349,16 +7054,6 @@
 	ja=セーブデータ;
 	}
 
-[TURN OFF]
-	{
-	ja=オフにする;
-	}
-
-[TURN ON {name}]
-	{
-	ja={name}をオンにする;
-	}
-
 [The display's own pixel density (Retina on a Mac). Applies from the next start.]
 	{
 	ja=ディスプレイ本来のピクセル密度（MacではRetina）を使います。次回の起動から有効になります。;
@@ -7574,29 +7269,9 @@
 	ja=オンにしてロード;
 	}
 
-[Turning it on applies when the Library closes, and then PLAY NOW works.]
-	{
-	ja=ライブラリを閉じるとオンになり、「今すぐプレイ」が使えるようになります。;
-	}
-
-[Turning it on applies when the Library closes, and then USE NOW works.]
-	{
-	ja=ライブラリを閉じるとオンになり、「今すぐ使う」が使えるようになります。;
-	}
-
 [Turning it on applies when the Library closes.]
 	{
 	ja=ライブラリを閉じるとオンになります。;
-	}
-
-[Turning them on applies when the Library closes, and then PLAY NOW works.]
-	{
-	ja=ライブラリを閉じるとオンになり、「今すぐプレイ」が使えるようになります。;
-	}
-
-[Turning them on applies when the Library closes, and then USE NOW works.]
-	{
-	ja=ライブラリを閉じるとオンになり、「今すぐ使う」が使えるようになります。;
 	}
 
 [Turning them on applies when the Library closes.]
@@ -7607,11 +7282,6 @@
 [Turning {name} on restarts the game's files, then loads this save. Your other expansions stay as they are.]
 	{
 	ja={name}をオンにするとゲームのファイルを読み込み直してから、このセーブデータをロードします。ほかの拡張パックはそのままです。;
-	}
-
-[USE THIS GAME]
-	{
-	ja=このゲームを使う;
 	}
 
 [Units are drawn as models at every zoom. Far out on a large map, needs a fast CPU.]
@@ -7882,11 +7552,6 @@
 [{name} turns on when the Library closes.]
 	{
 	ja={name}はライブラリを閉じるとオンになります。;
-	}
-
-[{name} · ADD FROM…]
-	{
-	ja={name} · 追加元を選択…;
 	}
 
 [{name} ✓]
@@ -8338,11 +8003,6 @@
 	ja=· このMODには非対応;
 	}
 
-[CHECK WITH THIS MOD]
-	{
-	ja=このMODで確認;
-	}
-
 [Statistics]
 	{
 	ja=ステータス;
@@ -8580,16 +8240,6 @@
 	ja=順序;
 	}
 
-[▲ UP]
-	{
-	ja=▲ 上へ;
-	}
-
-[▼ DOWN]
-	{
-	ja=▼ 下へ;
-	}
-
 [Add]
 	{
 	ja=追加;
@@ -8633,26 +8283,6 @@
 [The set holds for every mission of this campaign, and is saved with it.]
 	{
 	ja=このセットはこのキャンペーンのすべてのミッションに適用され、キャンペーンと一緒に保存されます。;
-	}
-
-[GET ALL]
-	{
-	ja=すべて入手;
-	}
-
-[GET BOTH]
-	{
-	ja=両方入手;
-	}
-
-[GET WITH {count} MORE]
-	{
-	ja=ほか{count}個も入手;
-	}
-
-[GET WITH {name}]
-	{
-	ja={name}も入手;
 	}
 
 [Get {name}?]
@@ -8737,39 +8367,9 @@
 	ja=前回のセットを忘れますか？;
 	}
 
-[FORGET IT]
-	{
-	ja=忘れる;
-	}
-
-[KEEP IT]
-	{
-	ja=残す;
-	}
-
-[USE THESE]
-	{
-	ja=これを使う;
-	}
-
 [Left out of your last set: {names}]
 	{
 	ja=前回のセットから外れたもの：{names};
-	}
-
-[Your last campaign set, ready to use. CANCEL plays without mutators.]
-	{
-	ja=前回のキャンペーンのセットをそのまま使えます。「キャンセル」でミューテータなしでプレイします。;
-	}
-
-[Your last multiplayer set, ready to use. CANCEL plays without mutators.]
-	{
-	ja=前回のマルチプレイのセットをそのまま使えます。「キャンセル」でミューテータなしでプレイします。;
-	}
-
-[Your last skirmish set, ready to use. CANCEL plays without mutators.]
-	{
-	ja=前回のスカーミッシュのセットをそのまま使えます。「キャンセル」でミューテータなしでプレイします。;
 	}
 
 [Start without them?]
@@ -8780,16 +8380,6 @@
 [Start without {name}?]
 	{
 	ja={name}なしで開始しますか？;
-	}
-
-[START WITHOUT IT]
-	{
-	ja=外して開始;
-	}
-
-[START WITHOUT THEM]
-	{
-	ja=すべて外して開始;
 	}
 
 [The game did not start]
@@ -8810,11 +8400,6 @@
 [{names} stopped before the game could start. Nothing they changed is kept, and the other mutators are unaffected.]
 	{
 	ja={names}はゲーム開始前に停止しました。それらの変更は残っておらず、ほかのミューテータは影響を受けません。;
-	}
-
-[{problem} RETRY tries again.]
-	{
-	ja={problem}「再試行」でもう一度試します。;
 	}
 
 [Another copy of Open Annihilation is changing your Mutators folder. Try again once it has finished.]
@@ -9366,11 +8951,6 @@
 	ja=· {reason};
 	}
 
-[USE BY DEFAULT]
-	{
-	ja=既定に設定;
-	}
-
 // A computer seat's brain and its picker.
 
 [Computer player]
@@ -9431,11 +9011,6 @@
 [{name} cannot play this seat now, so it starts on the built-in player.]
 	{
 	ja={name}は現在この席をプレイできないため、内蔵コンピューターで開始します。;
-	}
-
-[USE THIS]
-	{
-	ja=これを使う;
 	}
 
 [No brains here yet. The Library on the main menu gets them.]
@@ -9629,19 +9204,9 @@
 	ja=このゲームは{name} {version}が席{n}をプレイした状態でセーブされましたが、このブレインはここにインストールされていません。;
 	}
 
-[The built-in player takes those seats from the units as they stand. GET the brain in the Library to load the game as it was saved.]
-	{
-	ja=それらの席は、ユニットを現在の状態のまま内蔵コンピューターが引き継ぎます。セーブ時のとおりにロードするには、ライブラリでブレインを入手してください。;
-	}
-
 [Load with the built-in player?]
 	{
 	ja=内蔵コンピューターでロードしますか？;
-	}
-
-[LOAD WITH THE BUILT-IN PLAYER]
-	{
-	ja=内蔵コンピューターでロード;
 	}
 
 [This saved game needs {name} {version}, which is not installed.]
@@ -9651,19 +9216,9 @@
 
 // Open Annihilation 0.8.6: Graphics' Full 3D camera and effects, and their lock lines.
 
-[Allow Full 3D Mode]
-	{
-	ja=フル3Dモードを許可;
-	}
-
 [Requires Full hardware acceleration.]
 	{
 	ja=ハードウェアアクセラレーションをフルにする必要があります。;
-	}
-
-[Unlocked Camera]
-	{
-	ja=カメラの制限解除;
 	}
 
 [Allow angles outside the ideal range for TA art.]
@@ -9716,7 +9271,6466 @@
 	ja=「フル」の加速が必要;
 	}
 
-[Needs Allow Full 3D Mode]
+
+// Key bindings: Orders.
+
+[Activate on or off]
+	{
+	ja=起動オン/オフ;
+	}
+
+[Arms Attack]
+	{
+	ja=攻撃を選択;
+	}
+
+[Arms BLAST (D-gun)]
+	{
+	ja=Dガンを選択;
+	}
+
+[Arms Capture]
+	{
+	ja=捕獲を選択;
+	}
+
+[Arms Defend (guard)]
+	{
+	ja=護衛を選択;
+	}
+
+[Arms Load]
+	{
+	ja=搭載を選択;
+	}
+
+[Arms Move]
+	{
+	ja=移動を選択;
+	}
+
+[Arms Patrol]
+	{
+	ja=巡回を選択;
+	}
+
+[Arms Reclaim]
+	{
+	ja=回収を選択;
+	}
+
+[Arms Repair]
+	{
+	ja=修理を選択;
+	}
+
+[Arms Unload]
+	{
+	ja=降車を選択;
+	}
+
+[Build tab]
+	{
+	ja=建設タブ;
+	}
+
+[Cancel order]
+	{
+	ja=命令をキャンセル;
+	}
+
+[Cloak on or off]
+	{
+	ja=クロークオン/オフ;
+	}
+
+[Fire state]
+	{
+	ja=射撃命令;
+	}
+
+[Force attack]
+	{
+	ja=強制攻撃;
+	}
+
+[Held: force-attack a unit or the ground]
+	{
+	ja=押したまま：ユニットか地面を強制攻撃します。;
+	}
+
+[Held: orders join the queue, an armed order stays armed, queued orders show]
+	{
+	ja=押したまま：命令は予約に入り、選択中の命令は選択のまま、予約した命令を表示します。;
+	}
+
+[Move state]
+	{
+	ja=移動命令;
+	}
+
+[On or off]
+	{
+	ja=オンかオフ;
+	}
+
+[Orders tab]
+	{
+	ja=命令タブ;
+	}
+
+[Starts or stops the countdown]
+	{
+	ja=カウントダウンを開始または停止します。;
+	}
+
+[Steps the fire standing order]
+	{
+	ja=射撃命令を次へ進めます。;
+	}
+
+[Steps the move standing order]
+	{
+	ja=移動命令を次へ進めます。;
+	}
+
+[Takes back an armed order or a placement only]
+	{
+	ja=選択した命令か配置だけを取り消します。;
+	}
+
+[The BUILD tab]
+	{
+	ja=建設タブを表示します。;
+	}
+
+[The ORDERS tab]
+	{
+	ja=命令タブを表示します。;
+	}
+
+// Key bindings: Pointer.
+
+[A build button: queue one, or start placing]
+	{
+	ja=建設ボタン：1個を予約するか、配置を始めます。;
+	}
+
+[A build button: take one off]
+	{
+	ja=建設ボタン：1個を外します。;
+	}
+
+[Add to selection]
+	{
+	ja=選択に追加;
+	}
+
+[Build add]
+	{
+	ja=建設を追加;
+	}
+
+[Build remove]
+	{
+	ja=建設を減らす;
+	}
+
+[Clicks the left button. Twice quickly, a double click]
+	{
+	ja=左クリックします。素早く2回でダブルクリックです。;
+	}
+
+[Clicks the right button]
+	{
+	ja=右クリックします。;
+	}
+
+[Command]
+	{
+	ja=命令;
+	}
+
+[Drags the view]
+	{
+	ja=視点をドラッグします。;
+	}
+
+[Every unit of that type on the map]
+	{
+	ja=マップ上の同種をすべて;
+	}
+
+[Held with the queue modifier: a build button adds or takes 100]
+	{
+	ja=予約の修飾キーを押したまま：建設ボタンで100個を追加、または100個を減らします。;
+	}
+
+[Held: a build button adds or takes five]
+	{
+	ja=押したまま：建設ボタンで5個を追加、または5個を減らします。;
+	}
+
+[Held: a click toggles a unit and a box adds]
+	{
+	ja=押したまま：クリックでユニットの選択を切り替え、範囲で追加します。;
+	}
+
+[Holds the left button down until pressed again]
+	{
+	ja=もう一度押すまで、左クリックを押したままにします。;
+	}
+
+[Jumps the view to a minimap point]
+	{
+	ja=視点をミニマップの地点へ移動します。;
+	}
+
+[Lets a held mouse button go]
+	{
+	ja=押したままのマウスボタンを放します。;
+	}
+
+[Minimap jump]
+	{
+	ja=ミニマップへ移動;
+	}
+
+[Minimap scroll]
+	{
+	ja=ミニマップスクロール;
+	}
+
+[Mouse look]
+	{
+	ja=マウス視点;
+	}
+
+[Moves the pointer down and left, faster the longer the key is held]
+	{
+	ja=ポインターを左下へ動かします。キーを長く押すほど速くなります。;
+	}
+
+[Moves the pointer down and right, faster the longer the key is held]
+	{
+	ja=ポインターを右下へ動かします。キーを長く押すほど速くなります。;
+	}
+
+[Moves the pointer down, faster the longer the key is held]
+	{
+	ja=ポインターを下へ動かします。キーを長く押すほど速くなります。;
+	}
+
+[Moves the pointer left, faster the longer the key is held]
+	{
+	ja=ポインターを左へ動かします。キーを長く押すほど速くなります。;
+	}
+
+[Moves the pointer right, faster the longer the key is held]
+	{
+	ja=ポインターを右へ動かします。キーを長く押すほど速くなります。;
+	}
+
+[Moves the pointer up and left, faster the longer the key is held]
+	{
+	ja=ポインターを左上へ動かします。キーを長く押すほど速くなります。;
+	}
+
+[Moves the pointer up and right, faster the longer the key is held]
+	{
+	ja=ポインターを右上へ動かします。キーを長く押すほど速くなります。;
+	}
+
+[Moves the pointer up, faster the longer the key is held]
+	{
+	ja=ポインターを上へ動かします。キーを長く押すほど速くなります。;
+	}
+
+[Orbit camera]
+	{
+	ja=カメラを周回;
+	}
+
+[Orbits the Full 3D view's camera]
+	{
+	ja=フル3Dビューのカメラを周回します。;
+	}
+
+[Pan]
+	{
+	ja=パン;
+	}
+
+[Pan camera]
+	{
+	ja=カメラをパン;
+	}
+
+[Pans the Full 3D view's camera]
+	{
+	ja=フル3Dビューのカメラをパンします。;
+	}
+
+[Pans towards the pointer]
+	{
+	ja=ポインターの方へパンします。;
+	}
+
+[Pointer click left]
+	{
+	ja=ポインター左クリック;
+	}
+
+[Pointer click right]
+	{
+	ja=ポインター右クリック;
+	}
+
+[Pointer down]
+	{
+	ja=ポインター下;
+	}
+
+[Pointer down left]
+	{
+	ja=ポインター左下;
+	}
+
+[Pointer down right]
+	{
+	ja=ポインター右下;
+	}
+
+[Pointer hold left]
+	{
+	ja=左ボタン長押し;
+	}
+
+[Pointer left]
+	{
+	ja=ポインター左;
+	}
+
+[Pointer let go]
+	{
+	ja=ポインターを離す;
+	}
+
+[Pointer right]
+	{
+	ja=ポインター右;
+	}
+
+[Pointer up]
+	{
+	ja=ポインター上;
+	}
+
+[Pointer up left]
+	{
+	ja=ポインター左上;
+	}
+
+[Pointer up right]
+	{
+	ja=ポインター右上;
+	}
+
+[Queue five]
+	{
+	ja=5個予約;
+	}
+
+[Queue hundred]
+	{
+	ja=100個予約;
+	}
+
+[Scrolls the view while held on the minimap]
+	{
+	ja=ミニマップ上で押している間、画面をスクロールします。;
+	}
+
+[Select type]
+	{
+	ja=タイプを選択;
+	}
+
+[Select type on screen]
+	{
+	ja=画面上のタイプを選択;
+	}
+
+[Selects the unit under the pointer, or starts a box]
+	{
+	ja=ポインター下のユニットを選択するか、選択枠を開始します。;
+	}
+
+[That type on screen only]
+	{
+	ja=画面上のそのタイプのみ;
+	}
+
+[The order the pointer shows]
+	{
+	ja=ポインターが示す命令を出します。;
+	}
+
+[Zoom in]
+	{
+	ja=ズームイン;
+	}
+
+[Zoom out]
+	{
+	ja=ズームアウト;
+	}
+
+[Zooms in about the pointer]
+	{
+	ja=ポインターを基準にズームインします。;
+	}
+
+[Zooms out about the pointer]
+	{
+	ja=ポインターを基準にズームアウトします。;
+	}
+
+// Key bindings: Selection.
+
+[Add commander]
+	{
+	ja=コマンダーを追加;
+	}
+
+[Adds the commander]
+	{
+	ja=コマンダーを追加します。;
+	}
+
+[Armed on screen]
+	{
+	ja=画面内の武装;
+	}
+
+[Box builders]
+	{
+	ja=範囲：建設;
+	}
+
+[Box combat]
+	{
+	ja=範囲：戦闘;
+	}
+
+[Box factories]
+	{
+	ja=範囲：工場;
+	}
+
+[Clear selection]
+	{
+	ja=選択を解除;
+	}
+
+[Clears the selection only]
+	{
+	ja=選択だけを解除します。;
+	}
+
+[Cycles idle constructors, centring on each]
+	{
+	ja=待機中の建設ユニットを順に切り替え、それぞれを中央に表示します。;
+	}
+
+[Cycles idle factories]
+	{
+	ja=待機中の工場を順に切り替えます。;
+	}
+
+[Every unit]
+	{
+	ja=すべてのユニット;
+	}
+
+[Every unit of a selected unit's type]
+	{
+	ja=選択ユニットと同種をすべて;
+	}
+
+[Held as a box is released: keep constructors]
+	{
+	ja=範囲を離すときに押したまま：建設ユニットを残します。;
+	}
+
+[Held as a box is released: keep factories]
+	{
+	ja=範囲を離すときに押したまま：工場を残します。;
+	}
+
+[Held as a box is released: keep mobile combat units]
+	{
+	ja=範囲を離すときに押したまま：移動戦闘ユニットを残します。;
+	}
+
+[Idle builders]
+	{
+	ja=待機中の建設ユニット;
+	}
+
+[Idle factories]
+	{
+	ja=待機中の工場;
+	}
+
+[Mobile armed units on screen, not aircraft]
+	{
+	ja=画面内の移動武装ユニット（航空機を除く）;
+	}
+
+[Next primary]
+	{
+	ja=次の主ユニット;
+	}
+
+[Next selected unit becomes primary]
+	{
+	ja=次の選択ユニットが主ユニットになります。;
+	}
+
+[Previous primary]
+	{
+	ja=前の主力;
+	}
+
+[Previous selected unit becomes primary]
+	{
+	ja=1つ前の選択ユニットが主力になります。;
+	}
+
+[Select aircraft]
+	{
+	ja=航空機を選択;
+	}
+
+[Select all]
+	{
+	ja=すべて選択;
+	}
+
+[Select builders]
+	{
+	ja=建設ユニットを選択;
+	}
+
+[Select commander]
+	{
+	ja=コマンダーを選択;
+	}
+
+[Select factories]
+	{
+	ja=工場を選択;
+	}
+
+[Select on screen]
+	{
+	ja=画面上を選択;
+	}
+
+[Select same type]
+	{
+	ja=同じタイプを選択;
+	}
+
+[Select {word}]
+	{
+	ja={word}を選択;
+	}
+
+[Selects and follows the commander]
+	{
+	ja=コマンダーを選択して追従します。;
+	}
+
+[Selects your units tagged {word}: those on screen, then the whole map on a second press.]
+	{
+	ja=タグ{word}のユニットを選択します。1回目は画面上、もう一度押すとマップ全体です。;
+	}
+
+[Units on screen]
+	{
+	ja=画面上のユニット;
+	}
+
+[Units tagged CTRL_B]
+	{
+	ja=タグCTRL_Bのユニット;
+	}
+
+[Units tagged CTRL_F]
+	{
+	ja=タグCTRL_Fのユニット;
+	}
+
+[Units tagged CTRL_V]
+	{
+	ja=タグCTRL_Vのユニット;
+	}
+
+// Key bindings: Groups.
+
+[Add group 1]
+	{
+	ja=グループ1を追加;
+	}
+
+[Add group 2]
+	{
+	ja=グループ2を追加;
+	}
+
+[Add group 3]
+	{
+	ja=グループ3を追加;
+	}
+
+[Add group 4]
+	{
+	ja=グループ4を追加;
+	}
+
+[Add group 5]
+	{
+	ja=グループ5を追加;
+	}
+
+[Add group 6]
+	{
+	ja=グループ6を追加;
+	}
+
+[Add group 7]
+	{
+	ja=グループ7を追加;
+	}
+
+[Add group 8]
+	{
+	ja=グループ8を追加;
+	}
+
+[Add group 9]
+	{
+	ja=グループ9を追加;
+	}
+
+[Adds group 1]
+	{
+	ja=グループ1を追加します。;
+	}
+
+[Adds group 2]
+	{
+	ja=グループ2を追加します。;
+	}
+
+[Adds group 3]
+	{
+	ja=グループ3を追加します。;
+	}
+
+[Adds group 4]
+	{
+	ja=グループ4を追加します。;
+	}
+
+[Adds group 5]
+	{
+	ja=グループ5を追加します。;
+	}
+
+[Adds group 6]
+	{
+	ja=グループ6を追加します。;
+	}
+
+[Adds group 7]
+	{
+	ja=グループ7を追加します。;
+	}
+
+[Adds group 8]
+	{
+	ja=グループ8を追加します。;
+	}
+
+[Adds group 9]
+	{
+	ja=グループ9を追加します。;
+	}
+
+[Assign group 1]
+	{
+	ja=グループ1を割り当て;
+	}
+
+[Assign group 2]
+	{
+	ja=グループ2を割り当て;
+	}
+
+[Assign group 3]
+	{
+	ja=グループ3を割り当て;
+	}
+
+[Assign group 4]
+	{
+	ja=グループ4を割り当て;
+	}
+
+[Assign group 5]
+	{
+	ja=グループ5を割り当て;
+	}
+
+[Assign group 6]
+	{
+	ja=グループ6を割り当て;
+	}
+
+[Assign group 7]
+	{
+	ja=グループ7を割り当て;
+	}
+
+[Assign group 8]
+	{
+	ja=グループ8を割り当て;
+	}
+
+[Assign group 9]
+	{
+	ja=グループ9を割り当て;
+	}
+
+[Menu page 1]
+	{
+	ja=メニューページ1;
+	}
+
+[Menu page 2]
+	{
+	ja=メニューページ2;
+	}
+
+[Menu page 3]
+	{
+	ja=メニューページ3;
+	}
+
+[Menu page 4]
+	{
+	ja=メニューページ4;
+	}
+
+[Menu page 5]
+	{
+	ja=メニューページ5;
+	}
+
+[Menu page 6]
+	{
+	ja=メニューページ6;
+	}
+
+[Menu page 7]
+	{
+	ja=メニューページ7;
+	}
+
+[Menu page 8]
+	{
+	ja=メニューページ8;
+	}
+
+[Menu page 9]
+	{
+	ja=メニューページ9;
+	}
+
+[Select group 1]
+	{
+	ja=グループ1を選択;
+	}
+
+[Select group 2]
+	{
+	ja=グループ2を選択;
+	}
+
+[Select group 3]
+	{
+	ja=グループ3を選択;
+	}
+
+[Select group 4]
+	{
+	ja=グループ4を選択;
+	}
+
+[Select group 5]
+	{
+	ja=グループ5を選択;
+	}
+
+[Select group 6]
+	{
+	ja=グループ6を選択;
+	}
+
+[Select group 7]
+	{
+	ja=グループ7を選択;
+	}
+
+[Select group 8]
+	{
+	ja=グループ8を選択;
+	}
+
+[Select group 9]
+	{
+	ja=グループ9を選択;
+	}
+
+[Selects group 1; again centres on it]
+	{
+	ja=グループ1を選択します。もう一度押すと中央に表示します。;
+	}
+
+[Selects group 2; again centres on it]
+	{
+	ja=グループ2を選択します。もう一度押すと中央に表示します。;
+	}
+
+[Selects group 3; again centres on it]
+	{
+	ja=グループ3を選択します。もう一度押すと中央に表示します。;
+	}
+
+[Selects group 4; again centres on it]
+	{
+	ja=グループ4を選択します。もう一度押すと中央に表示します。;
+	}
+
+[Selects group 5; again centres on it]
+	{
+	ja=グループ5を選択します。もう一度押すと中央に表示します。;
+	}
+
+[Selects group 6; again centres on it]
+	{
+	ja=グループ6を選択します。もう一度押すと中央に表示します。;
+	}
+
+[Selects group 7; again centres on it]
+	{
+	ja=グループ7を選択します。もう一度押すと中央に表示します。;
+	}
+
+[Selects group 8; again centres on it]
+	{
+	ja=グループ8を選択します。もう一度押すと中央に表示します。;
+	}
+
+[Selects group 9; again centres on it]
+	{
+	ja=グループ9を選択します。もう一度押すと中央に表示します。;
+	}
+
+[Shows page 0 of the menu (1 is orders)]
+	{
+	ja=メニューのページ0を表示します（1は命令です）。;
+	}
+
+[Shows page 1 of the menu (1 is orders)]
+	{
+	ja=メニューのページ1を表示します（1は命令です）。;
+	}
+
+[Shows page 2 of the menu (1 is orders)]
+	{
+	ja=メニューのページ2を表示します（1は命令です）。;
+	}
+
+[Shows page 3 of the menu (1 is orders)]
+	{
+	ja=メニューのページ3を表示します（1は命令です）。;
+	}
+
+[Shows page 4 of the menu (1 is orders)]
+	{
+	ja=メニューのページ4を表示します（1は命令です）。;
+	}
+
+[Shows page 5 of the menu (1 is orders)]
+	{
+	ja=メニューのページ5を表示します（1は命令です）。;
+	}
+
+[Shows page 6 of the menu (1 is orders)]
+	{
+	ja=メニューのページ6を表示します（1は命令です）。;
+	}
+
+[Shows page 7 of the menu (1 is orders)]
+	{
+	ja=メニューのページ7を表示します（1は命令です）。;
+	}
+
+[Shows page 8 of the menu (1 is orders)]
+	{
+	ja=メニューのページ8を表示します（1は命令です）。;
+	}
+
+[Stores the selection as group 1]
+	{
+	ja=選択をグループ1に登録します。;
+	}
+
+[Stores the selection as group 2]
+	{
+	ja=選択をグループ2に登録します。;
+	}
+
+[Stores the selection as group 3]
+	{
+	ja=選択をグループ3に登録します。;
+	}
+
+[Stores the selection as group 4]
+	{
+	ja=選択をグループ4に登録します。;
+	}
+
+[Stores the selection as group 5]
+	{
+	ja=選択をグループ5に登録します。;
+	}
+
+[Stores the selection as group 6]
+	{
+	ja=選択をグループ6に登録します。;
+	}
+
+[Stores the selection as group 7]
+	{
+	ja=選択をグループ7に登録します。;
+	}
+
+[Stores the selection as group 8]
+	{
+	ja=選択をグループ8に登録します。;
+	}
+
+[Stores the selection as group 9]
+	{
+	ja=選択をグループ9に登録します。;
+	}
+
+// Key bindings: Camera.
+
+[Centres on the next unit not yet visited]
+	{
+	ja=まだ見ていない次のユニットを中央に表示します。;
+	}
+
+[Centres on the selected unit, or selects and centres on the commander]
+	{
+	ja=選択中のユニットを中央に表示します。なければコマンダーを選んで中央に表示します。;
+	}
+
+[Classic view]
+	{
+	ja=クラシック表示;
+	}
+
+[Edge scroll]
+	{
+	ja=端スクロール;
+	}
+
+[Follow previous]
+	{
+	ja=前を追従;
+	}
+
+[Follows the next selected unit]
+	{
+	ja=次の選択ユニットを追従します。;
+	}
+
+[Follows the previous selected unit]
+	{
+	ja=前の選択ユニットを追従します。;
+	}
+
+[Go to bookmark 1]
+	{
+	ja=ブックマーク1へ;
+	}
+
+[Go to bookmark 2]
+	{
+	ja=ブックマーク2へ;
+	}
+
+[Go to bookmark 3]
+	{
+	ja=ブックマーク3へ;
+	}
+
+[Go to bookmark 4]
+	{
+	ja=ブックマーク4へ;
+	}
+
+[Pan down]
+	{
+	ja=下へパン;
+	}
+
+[Pan left]
+	{
+	ja=左へパン;
+	}
+
+[Pan right]
+	{
+	ja=右へパン;
+	}
+
+[Pan up]
+	{
+	ja=上へパン;
+	}
+
+[Puts the Full 3D view's camera back to the classic view]
+	{
+	ja=フル3Dビューのカメラをクラシック表示に戻します。;
+	}
+
+[Reset zoom]
+	{
+	ja=ズームをリセット;
+	}
+
+[Returns to bookmark 1]
+	{
+	ja=ブックマーク1に戻ります。;
+	}
+
+[Returns to bookmark 2]
+	{
+	ja=ブックマーク2に戻ります。;
+	}
+
+[Returns to bookmark 3]
+	{
+	ja=ブックマーク3に戻ります。;
+	}
+
+[Returns to bookmark 4]
+	{
+	ja=ブックマーク4に戻ります。;
+	}
+
+[Scrolls at the window's edge]
+	{
+	ja=ウィンドウの端でスクロールします。;
+	}
+
+[Scrolls the view down]
+	{
+	ja=画面を下へスクロールします。;
+	}
+
+[Scrolls the view left]
+	{
+	ja=画面を左へスクロールします。;
+	}
+
+[Scrolls the view right]
+	{
+	ja=画面を右へスクロールします。;
+	}
+
+[Scrolls the view up]
+	{
+	ja=画面を上へスクロールします。;
+	}
+
+[Set bookmark 1]
+	{
+	ja=ブックマーク1を登録;
+	}
+
+[Set bookmark 2]
+	{
+	ja=ブックマーク2を登録;
+	}
+
+[Set bookmark 3]
+	{
+	ja=ブックマーク3を登録;
+	}
+
+[Set bookmark 4]
+	{
+	ja=ブックマーク4を登録;
+	}
+
+[Stores the view as bookmark 1]
+	{
+	ja=画面をブックマーク1として保存します。;
+	}
+
+[Stores the view as bookmark 2]
+	{
+	ja=画面をブックマーク2として保存します。;
+	}
+
+[Stores the view as bookmark 3]
+	{
+	ja=画面をブックマーク3として保存します。;
+	}
+
+[Stores the view as bookmark 4]
+	{
+	ja=画面をブックマーク4として保存します。;
+	}
+
+[The game's own scale]
+	{
+	ja=ゲーム本来の倍率;
+	}
+
+[The next unit the message log reported]
+	{
+	ja=メッセージログが知らせた次のユニットへ移ります。;
+	}
+
+[Unlocked Camera on or off in the Full 3D view]
+	{
+	ja=フル3Dビューでフリーカメラをオンかオフにします。;
+	}
+
+[Zoom in key]
+	{
+	ja=キーでズームイン;
+	}
+
+[Zoom out key]
+	{
+	ja=キーでズームアウト;
+	}
+
+[Zooms in about the centre]
+	{
+	ja=中央を基準にズームインします。;
+	}
+
+[Zooms out about the centre]
+	{
+	ja=中央を基準にズームアウトします。;
+	}
+
+// Key bindings: Building.
+
+[Build cell 1]
+	{
+	ja=建設ボタン1;
+	}
+
+[Build cell 10]
+	{
+	ja=建設ボタン10;
+	}
+
+[Build cell 11]
+	{
+	ja=建設ボタン11;
+	}
+
+[Build cell 12]
+	{
+	ja=建設ボタン12;
+	}
+
+[Build cell 2]
+	{
+	ja=建設ボタン2;
+	}
+
+[Build cell 3]
+	{
+	ja=建設ボタン3;
+	}
+
+[Build cell 4]
+	{
+	ja=建設ボタン4;
+	}
+
+[Build cell 5]
+	{
+	ja=建設ボタン5;
+	}
+
+[Build cell 6]
+	{
+	ja=建設ボタン6;
+	}
+
+[Build cell 7]
+	{
+	ja=建設ボタン7;
+	}
+
+[Build cell 8]
+	{
+	ja=建設ボタン8;
+	}
+
+[Build cell 9]
+	{
+	ja=建設ボタン9;
+	}
+
+[Drags a queued build site]
+	{
+	ja=予約した建設地点をドラッグします。;
+	}
+
+[Held while placing: drag lays a line, a click rings a unit]
+	{
+	ja=配置中に押したまま：ドラッグで一列に置き、クリックでユニットを囲みます。;
+	}
+
+[Held: no mex or wreck snap, and drag queued orders]
+	{
+	ja=押したまま：金属抽出機や残骸にはスナップせず、予約した命令をドラッグします。;
+	}
+
+[Line build]
+	{
+	ja=ライン建設;
+	}
+
+[Lowers the spacing of a build line]
+	{
+	ja=建設ラインの間隔を狭めます。;
+	}
+
+[Move queued site]
+	{
+	ja=予約地点を移動;
+	}
+
+[Next facing]
+	{
+	ja=次の向き;
+	}
+
+[Next page of the build menu]
+	{
+	ja=建設メニューの次のページ;
+	}
+
+[Presses build button 1 of the page shown, in reading order]
+	{
+	ja=表示中のページの建設ボタン1を、読み順に押します。;
+	}
+
+[Presses build button 10 of the page shown, in reading order]
+	{
+	ja=表示中のページの建設ボタン10を、読み順に押します。;
+	}
+
+[Presses build button 11 of the page shown, in reading order]
+	{
+	ja=表示中のページの建設ボタン11を、読み順に押します。;
+	}
+
+[Presses build button 12 of the page shown, in reading order]
+	{
+	ja=表示中のページの建設ボタン12を、読み順に押します。;
+	}
+
+[Presses build button 2 of the page shown, in reading order]
+	{
+	ja=表示中のページの建設ボタン2を、読み順に押します。;
+	}
+
+[Presses build button 3 of the page shown, in reading order]
+	{
+	ja=表示中のページの建設ボタン3を、読み順に押します。;
+	}
+
+[Presses build button 4 of the page shown, in reading order]
+	{
+	ja=表示中のページの建設ボタン4を、読み順に押します。;
+	}
+
+[Presses build button 5 of the page shown, in reading order]
+	{
+	ja=表示中のページの建設ボタン5を、読み順に押します。;
+	}
+
+[Presses build button 6 of the page shown, in reading order]
+	{
+	ja=表示中のページの建設ボタン6を、読み順に押します。;
+	}
+
+[Presses build button 7 of the page shown, in reading order]
+	{
+	ja=表示中のページの建設ボタン7を、読み順に押します。;
+	}
+
+[Presses build button 8 of the page shown, in reading order]
+	{
+	ja=表示中のページの建設ボタン8を、読み順に押します。;
+	}
+
+[Presses build button 9 of the page shown, in reading order]
+	{
+	ja=表示中のページの建設ボタン9を、読み順に押します。;
+	}
+
+[Previous page]
+	{
+	ja=前のページ;
+	}
+
+[Previous page of the build menu]
+	{
+	ja=建設メニューの前のページへ移ります。;
+	}
+
+[Raises the spacing of a build line]
+	{
+	ja=建設列の間隔を広げます。;
+	}
+
+[Rotate]
+	{
+	ja=回転;
+	}
+
+[Rotate wheel]
+	{
+	ja=ホイールで回転;
+	}
+
+[Snap override]
+	{
+	ja=スナップ解除;
+	}
+
+[Spacing down]
+	{
+	ja=間隔を狭める;
+	}
+
+[Spacing up]
+	{
+	ja=間隔を広げる;
+	}
+
+[Turns the facing]
+	{
+	ja=向きを変えます。;
+	}
+
+// Key bindings: Game.
+
+[Allies menu]
+	{
+	ja=同盟メニュー;
+	}
+
+[Chat macro]
+	{
+	ja=チャットマクロ;
+	}
+
+[Clear messages]
+	{
+	ja=メッセージを消去;
+	}
+
+[Clears the message log]
+	{
+	ja=メッセージログを消去します。;
+	}
+
+[Damage bar mode 1]
+	{
+	ja=ダメージバーモード1;
+	}
+
+[Damage bar mode 2]
+	{
+	ja=ダメージバーモード2;
+	}
+
+[Damage bar mode 3]
+	{
+	ja=ダメージバーモード3;
+	}
+
+[Damage bar mode 4]
+	{
+	ja=ダメージバーモード4;
+	}
+
+[Damage bars]
+	{
+	ja=ダメージバー;
+	}
+
+[Damage bars on or off]
+	{
+	ja=ダメージバーオン/オフ;
+	}
+
+[Damage bars the way the shifted 1 key shows them]
+	{
+	ja=Shift+1のときと同じダメージバー;
+	}
+
+[Damage bars the way the shifted 3 key shows them]
+	{
+	ja=Shift+3のときと同じダメージバー;
+	}
+
+[Damage bars the way the shifted 8 key shows them]
+	{
+	ja=Shift+8のときと同じダメージバー;
+	}
+
+[Damage bars the way the shifted backquote key shows them]
+	{
+	ja=Shift+バッククォートのときと同じダメージバー;
+	}
+
+[Held: the status strip and kills board]
+	{
+	ja=押したまま：ステータスバーと撃破ボードを出します。;
+	}
+
+[Kills board]
+	{
+	ja=撃破ボード;
+	}
+
+[One speed step faster]
+	{
+	ja=速度を1段上げる;
+	}
+
+[One speed step slower]
+	{
+	ja=速度を1段下げる;
+	}
+
+[Open allies chat]
+	{
+	ja=同盟チャットを開く;
+	}
+
+[Open chat]
+	{
+	ja=チャットを開く;
+	}
+
+[Opens the chat line]
+	{
+	ja=チャット入力欄を開きます。;
+	}
+
+[Opens the chat line to allies]
+	{
+	ja=同盟へのチャット入力欄を開きます。;
+	}
+
+[Pause on or off]
+	{
+	ja=一時停止を切り替え;
+	}
+
+[Pin unit]
+	{
+	ja=ユニットをピン留め;
+	}
+
+[Pins the kills board]
+	{
+	ja=撃破表をピン留めします。;
+	}
+
+[Pins the unit under the pointer]
+	{
+	ja=ポインター下のユニットをピン留めします。;
+	}
+
+[Repeat command]
+	{
+	ja=チャットコマンドを繰り返す;
+	}
+
+[Runs the last chat command again]
+	{
+	ja=直前のチャットコマンドをもう一度実行します。;
+	}
+
+[Saves a screenshot]
+	{
+	ja=スクリーンショットを保存します。;
+	}
+
+[Screenshot]
+	{
+	ja=スクリーンショット;
+	}
+
+[Sends the mod's chat macro]
+	{
+	ja=MODのチャットマクロを送信します。;
+	}
+
+[Share panel]
+	{
+	ja=共有パネル;
+	}
+
+[Speed down]
+	{
+	ja=減速;
+	}
+
+[Speed up]
+	{
+	ja=加速;
+	}
+
+[Status strip]
+	{
+	ja=ステータス帯;
+	}
+
+[The Escape chain: armed order, selection, then the game menu]
+	{
+	ja=Escapeでは、選択した命令、選択、ゲームメニューの順に閉じます。;
+	}
+
+[The allies menu]
+	{
+	ja=同盟メニューを開きます。;
+	}
+
+[The in-game menu, or resumes]
+	{
+	ja=ゲームメニューを開くか、再開します。;
+	}
+
+[The mod's options dialog]
+	{
+	ja=MODのオプションダイアログを開きます。;
+	}
+
+[The resource panel on or off]
+	{
+	ja=資源パネルをオンかオフにします。;
+	}
+
+[The share panel]
+	{
+	ja=共有パネルを開きます。;
+	}
+
+[The unit info panel]
+	{
+	ja=ユニット情報パネルを開きます。;
+	}
+
+[Unit info]
+	{
+	ja=ユニット情報;
+	}
+
+// Key bindings: Chat.
+
+[Cancel chat]
+	{
+	ja=チャットをキャンセル;
+	}
+
+[Closes the line]
+	{
+	ja=行を閉じます。;
+	}
+
+[Send chat]
+	{
+	ja=チャットを送信;
+	}
+
+[Sends the line]
+	{
+	ja=入力行を送信します。;
+	}
+
+// Key bindings: Watching.
+
+[Lock view]
+	{
+	ja=視点をロック;
+	}
+
+[Locks onto that player's camera]
+	{
+	ja=そのプレイヤーのカメラにロックします。;
+	}
+
+[Player view]
+	{
+	ja=プレイヤー視点;
+	}
+
+[Takes the view of the player whose row is clicked]
+	{
+	ja=クリックした行のプレイヤーの視点に移ります。;
+	}
+
+// Key bindings: Window.
+
+[Accepts the screen, or presses the focused control]
+	{
+	ja=画面を決定するか、フォーカス中の項目を押します。;
+	}
+
+[Answers no]
+	{
+	ja=いいえと答えます。;
+	}
+
+[Answers yes]
+	{
+	ja=はいと答えます。;
+	}
+
+[Cancel screen]
+	{
+	ja=画面をキャンセル;
+	}
+
+[Closes the screen on top]
+	{
+	ja=一番上の画面を閉じます。;
+	}
+
+[Down]
+	{
+	ja=下;
+	}
+
+[Find]
+	{
+	ja=検索;
+	}
+
+[Finds on the screen]
+	{
+	ja=画面内を検索します。;
+	}
+
+[Full screen]
+	{
+	ja=フルスクリーン;
+	}
+
+[Full screen on or off]
+	{
+	ja=フルスクリーンオン/オフ;
+	}
+
+[Go to end]
+	{
+	ja=末尾へ;
+	}
+
+[Go to start]
+	{
+	ja=先頭へ;
+	}
+
+[Information]
+	{
+	ja=情報;
+	}
+
+[Keys overlay]
+	{
+	ja=キーオーバーレイ;
+	}
+
+[Left]
+	{
+	ja=左;
+	}
+
+[Lets a captured pointer go]
+	{
+	ja=捕捉したポインターを放します。;
+	}
+
+[Moves the focus down]
+	{
+	ja=フォーカスを下へ動かします。;
+	}
+
+[Moves the focus left, or steps a control]
+	{
+	ja=フォーカスを左へ動かすか、項目を一段動かします。;
+	}
+
+[Moves the focus right, or steps a control]
+	{
+	ja=フォーカスを右へ動かすか、項目を一段動かします。;
+	}
+
+[Moves the focus to the next control]
+	{
+	ja=次の項目へフォーカスを動かします。;
+	}
+
+[Moves the focus to the previous control]
+	{
+	ja=前の項目へフォーカスを動かします。;
+	}
+
+[Moves the focus up]
+	{
+	ja=フォーカスを上へ動かします。;
+	}
+
+[Next control]
+	{
+	ja=次の項目;
+	}
+
+[Next tab]
+	{
+	ja=次のタブ;
+	}
+
+[No]
+	{
+	ja=いいえ;
+	}
+
+[Opens Settings]
+	{
+	ja=設定を開きます。;
+	}
+
+[Page down]
+	{
+	ja=ページダウン;
+	}
+
+[Page up]
+	{
+	ja=ページアップ;
+	}
+
+[Paste]
+	{
+	ja=貼り付け;
+	}
+
+[Pastes the clipboard into the focused text field]
+	{
+	ja=フォーカス中のテキスト欄に、クリップボードを貼り付けます。;
+	}
+
+[Press]
+	{
+	ja=押す;
+	}
+
+[Presses the focused control]
+	{
+	ja=フォーカス中の項目を押します。;
+	}
+
+[Previous control]
+	{
+	ja=前の項目;
+	}
+
+[Previous tab]
+	{
+	ja=前のタブ;
+	}
+
+[Quits]
+	{
+	ja=ゲームを終了します。;
+	}
+
+[Refreshes the screen]
+	{
+	ja=画面を再描画します。;
+	}
+
+[Release pointer]
+	{
+	ja=ポインターを解放;
+	}
+
+[Right]
+	{
+	ja=右;
+	}
+
+[Scrolls down]
+	{
+	ja=下へスクロールします。;
+	}
+
+[Scrolls to the end, or moves to the end of a text field]
+	{
+	ja=末尾までスクロールするか、テキスト欄の末尾へ移動します。;
+	}
+
+[Scrolls to the top, or moves to the start of a text field]
+	{
+	ja=先頭までスクロールするか、テキスト欄の先頭へ移動します。;
+	}
+
+[Scrolls up]
+	{
+	ja=上へスクロールします。;
+	}
+
+[Shows more about what the focus is on]
+	{
+	ja=フォーカスしているものについて、詳しく表示します。;
+	}
+
+[Shows the next tab]
+	{
+	ja=次のタブを表示します。;
+	}
+
+[Shows the previous tab]
+	{
+	ja=前のタブを表示します。;
+	}
+
+[The keys overlay for the screen shown]
+	{
+	ja=表示中の画面のキーオーバーレイを出します。;
+	}
+
+[Yes]
+	{
+	ja=はい;
+	}
+
+// Key bindings: Menus.
+
+[Accept]
+	{
+	ja=決定;
+	}
+
+[Cancel menu]
+	{
+	ja=メニューをキャンセル;
+	}
+
+[Closes the menu, or answers its cancel]
+	{
+	ja=メニューを閉じるか、キャンセルで答えます。;
+	}
+
+[Focus down]
+	{
+	ja=フォーカス下;
+	}
+
+[Focus left]
+	{
+	ja=フォーカス左;
+	}
+
+[Focus right]
+	{
+	ja=フォーカス右;
+	}
+
+[Focus up]
+	{
+	ja=フォーカス上;
+	}
+
+[List down]
+	{
+	ja=リスト下;
+	}
+
+[List up]
+	{
+	ja=リスト上;
+	}
+
+[Moves the focus down. Down itself steps a list]
+	{
+	ja=フォーカスを下へ動かします。下そのものはリストを送ります。;
+	}
+
+[Moves the focus left from a button]
+	{
+	ja=ボタンからフォーカスを左へ動かします。;
+	}
+
+[Moves the focus right from a button]
+	{
+	ja=ボタンからフォーカスを右へ動かします。;
+	}
+
+[Moves the focus to the next button]
+	{
+	ja=次のボタンへフォーカスを動かします。;
+	}
+
+[Moves the focus to the previous button]
+	{
+	ja=前のボタンへフォーカスを動かします。;
+	}
+
+[Moves the focus up. Up itself steps a list]
+	{
+	ja=フォーカスを上へ動かします。上そのものはリストを送ります。;
+	}
+
+[Next button]
+	{
+	ja=次のボタン;
+	}
+
+[Press button]
+	{
+	ja=ボタンを押す;
+	}
+
+[Presses the focused button]
+	{
+	ja=フォーカス中のボタンを押します。;
+	}
+
+[Presses the focused button, or the screen's default]
+	{
+	ja=フォーカス中のボタンか、画面の既定ボタンを押します。;
+	}
+
+[Previous button]
+	{
+	ja=前のボタン;
+	}
+
+[Steps a list down, or moves the focus down from a button]
+	{
+	ja=リストを下へ進めるか、ボタンからフォーカスを下へ移します。;
+	}
+
+[Steps a list up, or moves the focus up from a button]
+	{
+	ja=リストを上へ進めるか、ボタンからフォーカスを上へ移します。;
+	}
+
+// Key bindings: Developer.
+
+[Cycles the overlay]
+	{
+	ja=オーバーレイを切り替えます。;
+	}
+
+[Debug keys]
+	{
+	ja=デバッグキー;
+	}
+
+[Debug keys on or off]
+	{
+	ja=デバッグキーオン/オフ;
+	}
+
+[Developer info]
+	{
+	ja=開発者情報;
+	}
+
+[Kill under pointer]
+	{
+	ja=ポインター下を破壊;
+	}
+
+[Kills the unit under the pointer]
+	{
+	ja=ポインター下のユニットを破壊します。;
+	}
+
+[Movie capture]
+	{
+	ja=ムービーキャプチャ;
+	}
+
+[Overlay]
+	{
+	ja=オーバーレイ;
+	}
+
+[Refill]
+	{
+	ja=補充;
+	}
+
+[Refills resources]
+	{
+	ja=資源を補充します。;
+	}
+
+[The developer information key]
+	{
+	ja=開発者情報のキーです。;
+	}
+
+// Key bindings: Megamap.
+
+[Close megamap]
+	{
+	ja=メガマップを閉じる;
+	}
+
+[Closes the megamap and centres on the pointer]
+	{
+	ja=メガマップを閉じ、ポインターの位置を中央に表示します。;
+	}
+
+[Jumps the view to a point of the megamap]
+	{
+	ja=視点をメガマップの地点へ移動します。;
+	}
+
+[Megamap jump]
+	{
+	ja=メガマップへ移動;
+	}
+
+[Open megamap]
+	{
+	ja=メガマップを開く;
+	}
+
+[Opens the megamap]
+	{
+	ja=メガマップを開きます。;
+	}
+
+[The megamap on or off]
+	{
+	ja=メガマップをオンかオフにします。;
+	}
+
+// Key bindings: Whiteboard.
+
+[Dot]
+	{
+	ja=点;
+	}
+
+[Draw]
+	{
+	ja=描く;
+	}
+
+[Draws a line]
+	{
+	ja=線を描きます。;
+	}
+
+[Erase]
+	{
+	ja=消す;
+	}
+
+[Erases a marker]
+	{
+	ja=マーカーを消します。;
+	}
+
+[Goes to the newest marker]
+	{
+	ja=最新のマーカーへ移動します。;
+	}
+
+[Held: the whiteboard takes the mouse]
+	{
+	ja=押したまま：ホワイトボードがマウスを受け取ります。;
+	}
+
+[Line]
+	{
+	ja=線;
+	}
+
+[Move marker]
+	{
+	ja=マーカーを移動;
+	}
+
+[Moves a marker]
+	{
+	ja=マーカーを移動します。;
+	}
+
+[Newest marker]
+	{
+	ja=最新のマーカー;
+	}
+
+[Places a dot]
+	{
+	ja=点を置きます。;
+	}
+
+[Places text]
+	{
+	ja=テキストを置きます。;
+	}
+
+[Wipe]
+	{
+	ja=消去;
+	}
+
+[Wipes the board]
+	{
+	ja=ボードを消去します。;
+	}
+
+// The key editor.
+
+[+ Add a key]
+	{
+	ja=+ キーを追加;
+	}
+
+[1 unsaved edit]
+	{
+	ja=未保存の編集1件;
+	}
+
+[Add a key · {context}]
+	{
+	ja=キーを追加 · {context};
+	}
+
+[All actions]
+	{
+	ja=すべてのアクション;
+	}
+
+[Change a key · {context}]
+	{
+	ja=キーを変更 · {context};
+	}
+
+[Change {action}'s key…]
+	{
+	ja={action}のキーを変更…;
+	}
+
+[Choose an action]
+	{
+	ja=アクションを選択;
+	}
+
+[Edit keys…]
+	{
+	ja=キーを編集…;
+	}
+
+[Grey keys are free while playing. Select a key to see what it does in each place.]
+	{
+	ja=グレーのキーはプレイ中は空いています。キーを選ぶと、各位置での動作が分かります。;
+	}
+
+[No unsaved edits]
+	{
+	ja=未保存の編集なし;
+	}
+
+[{modifier}+/ or Escape closes this. More in Edit keys…]
+	{
+	ja={modifier}+/かEscapeでこれを閉じます。詳しくはキーエディター…にあります。;
+	}
+
+[{n} unsaved]
+	{
+	ja=未保存{n}件;
+	}
+
+[{n} unsaved edits]
+	{
+	ja=未保存の編集{n}件;
+	}
+
+// Capture and clashes.
+
+[Always {description} in Open Annihilation. Choose another key.]
+	{
+	ja=Open Annihilationでは常に{description}です。別のキーを選んでください。;
+	}
+
+[Choose another key]
+	{
+	ja=別のキーを選択;
+	}
+
+[Clashes]
+	{
+	ja=競合;
+	}
+
+[Click the key to try another.]
+	{
+	ja=別のキーを試すには、キーをクリックしてください。;
+	}
+
+[Click the key, then press another to look it up.]
+	{
+	ja=キーをクリックしてから、別のキーを押して調べてください。;
+	}
+
+[One clash: {chord} already belongs to {action}. Apply keeps yours and lists the clash.]
+	{
+	ja=競合1件：{chord}は、すでに{action}に割り当てられています。適用すると、自分の割り当てを残し、競合を表示します。;
+	}
+
+[Settle 1 clash to save]
+	{
+	ja=競合1件を解決して保存;
+	}
+
+[Settle {n} clashes to save]
+	{
+	ja=競合{n}件を解決して保存;
+	}
+
+[Settle…]
+	{
+	ja=解決…;
+	}
+
+// Sharing and import.
+
+[Copy as text]
+	{
+	ja=テキストとしてコピー;
+	}
+
+[Import 1 key]
+	{
+	ja=キー1個をインポート;
+	}
+
+[Import keys from an older setup]
+	{
+	ja=古い設定からキーをインポート;
+	}
+
+[Import {n} keys]
+	{
+	ja=キー{n}個をインポート;
+	}
+
+[Imported from {file}]
+	{
+	ja={file}からインポート;
+	}
+
+[Importing gives the key to this action and leaves {action} without it.]
+	{
+	ja=インポートすると、キーはこのアクションのものになり、{action}からは外れます。;
+	}
+
+[Import…]
+	{
+	ja=インポート…;
+	}
+
+[It holds no oakeys.yaml at its top, or in a single folder at its top.]
+	{
+	ja=最上位にoakeys.yamlがなく、最上位の1つのフォルダーの中にもありません。;
+	}
+
+[Its oakeys.yaml has errors:]
+	{
+	ja=oakeys.yamlにエラーがあります：;
+	}
+
+[Its oakeys.yaml is larger than 256 KiB.]
+	{
+	ja=oakeys.yamlは256 KiBより大きいです。;
+	}
+
+[Key layout packages (.oakeys)]
+	{
+	ja=キー配置パッケージ（.oakeys）;
+	}
+
+[Numbers are Windows key codes, read as key places. The changes go on top of your layout as "Imported from {file}". Nothing else changes.]
+	{
+	ja=数字はWindowsのキーコードで、キーの位置として読みます。変更は「{file}からインポート」としてキー配置の上に載ります。ほかは変わりません。;
+	}
+
+[Paste keys]
+	{
+	ja=キーを貼り付け;
+	}
+
+[Paste…]
+	{
+	ja=貼り付け…;
+	}
+
+[Share your keys]
+	{
+	ja=キーを共有;
+	}
+
+[Share…]
+	{
+	ja=共有…;
+	}
+
+[The file is a .oakeys package anyone can open in Open Annihilation. The text carries the keys alone, for a forum or a chat.]
+	{
+	ja=このファイルは.oakeysパッケージで、Open Annihilationなら誰でも開けます。テキストにはキーだけが含まれ、フォーラムやチャット向けです。;
+	}
+
+[This text is not a key layout.]
+	{
+	ja=このテキストはキー配置ではありません。;
+	}
+
+// The overlay and badges.
+
+[Arrange Overlays]
+	{
+	ja=オーバーレイを並べる;
+	}
+
+[Drag an overlay where it suits you. Each screen size keeps its own places.]
+	{
+	ja=オーバーレイを好みの位置へドラッグしてください。画面サイズごとに、それぞれの位置を保持します。;
+	}
+
+[Hold Ctrl + D to try Hold to confirm.]
+	{
+	ja=Ctrl + Dを長押しして、長押しで確定を試してください。;
+	}
+
+[Hold to confirm]
+	{
+	ja=長押しで確定;
+	}
+
+[Hold to confirm {action}]
+	{
+	ja=長押しで確定：{action};
+	}
+
+[How long a hold is: hold to confirm, and keys bound to a hold.]
+	{
+	ja=ホールドの長さです。長押しで確定と、ホールドに割り当てたキーに使います。;
+	}
+
+[Keys Overlay]
+	{
+	ja=キーオーバーレイ;
+	}
+
+[Latch Chips]
+	{
+	ja=固定チップ;
+	}
+
+[Overlays]
+	{
+	ja=オーバーレイ;
+	}
+
+[Queue and the status strip latch: tap on, tap off. A chip shows each one on.]
+	{
+	ja=予約とステータス帯は固定です。タップでオン、もう一度タップでオフになります。オンのものはチップで示します。;
+	}
+
+[hold to confirm]
+	{
+	ja=長押しで確定;
+	}
+
+[{name} · latched]
+	{
+	ja={name} · 固定中;
+	}
+
+// Settings › Controls.
+
+[A double press]
+	{
+	ja=2回押し;
+	}
+
+[Bounce keys]
+	{
+	ja=バウンスキー;
+	}
+
+[Double press]
+	{
+	ja=2回押し;
+	}
+
+[Drag threshold]
+	{
+	ja=ドラッグしきい値;
+	}
+
+[Edge scrolling]
+	{
+	ja=端スクロール;
+	}
+
+[Edge scrolling off]
+	{
+	ja=端スクロールオフ;
+	}
+
+[Full screen, screenshot and pointer keys]
+	{
+	ja=フルスクリーン、スクリーンショット、ポインターのキー;
+	}
+
+[Holding a mouse button opens the order wheel at the pointer.]
+	{
+	ja=マウスボタンを押したままにすると、ポインターの位置に命令ホイールが開きます。;
+	}
+
+[INSTALL KEY LAYOUT]
+	{
+	ja=キー配置をインストール;
+	}
+
+[INSTALLING KEY LAYOUT]
+	{
+	ja=キー配置をインストール中;
+	}
+
+[Install the key layout {name} {version}?]
+	{
+	ja=キー配置{name} {version}をインストールしますか？;
+	}
+
+[It holds more than {limit} folders, more than a key layout may take.]
+	{
+	ja=フォルダーが{limit}個を超え、キー配置に入れられる数を超えています。;
+	}
+
+[It unpacks to {size} from {packed}, far more than a key layout's files take.]
+	{
+	ja={packed}から{size}に展開され、キー配置のファイルよりはるかに大きいです。;
+	}
+
+[It unpacks to {size}, more than the {limit} a key layout may take.]
+	{
+	ja={size}に展開され、キー配置の上限{limit}を超えています。;
+	}
+
+[KEY LAYOUT INSTALLED]
+	{
+	ja=キー配置をインストール済み;
+	}
+
+[KEY LAYOUT NOT INSTALLED]
+	{
+	ja=キー配置は未インストール;
+	}
+
+[KEY LAYOUT UPDATED]
+	{
+	ja=キー配置を更新済み;
+	}
+
+[Key layout]
+	{
+	ja=キー配置;
+	}
+
+[Key layout with {mod}]
+	{
+	ja={mod}のキー配置;
+	}
+
+[Key layouts]
+	{
+	ja=キー配置;
+	}
+
+[Mods, maps and key layouts]
+	{
+	ja=MOD、マップ、キー配置;
+	}
+
+[Order wheel]
+	{
+	ja=命令ホイール;
+	}
+
+[Order wheel on the held middle button]
+	{
+	ja=中ボタンを押したまま命令ホイール;
+	}
+
+[Order wheel on the held right button]
+	{
+	ja=右ボタンを押したまま命令ホイール;
+	}
+
+[Pointer keys]
+	{
+	ja=ポインターキー;
+	}
+
+[REINSTALL KEY LAYOUT]
+	{
+	ja=キー配置を再インストール;
+	}
+
+[REPLACE KEY LAYOUT]
+	{
+	ja=キー配置を置き換え;
+	}
+
+[Search key layouts]
+	{
+	ja=キー配置を検索;
+	}
+
+[Sticky modifiers]
+	{
+	ja=固定式修飾キー;
+	}
+
+[The folder {name} does not hold this key layout. It is left as it is.]
+	{
+	ja=フォルダー{name}には、このキー配置が入っていません。そのままにしてあります。;
+	}
+
+[The package holds {name}, outside the files a key layout may hold.]
+	{
+	ja=パッケージには、キー配置に入れてよいファイル以外の{name}が入っています。;
+	}
+
+[Two presses this close are a double press, and two clicks a double click.]
+	{
+	ja=この近さでの2回の押しはダブルプレス、2回のクリックはダブルクリックです。;
+	}
+
+[UPDATE KEY LAYOUT]
+	{
+	ja=キー配置を更新;
+	}
+
+[Used while {mod} is played. Same as the game uses Key layout.]
+	{
+	ja={mod}のプレイ中に使います。「ゲームと同じ」では、キー配置を使います。;
+	}
+
+[Your Keys folder changed while this key layout was being installed; nothing was changed. Open the file again.]
+	{
+	ja=このキー配置のインストール中に、Keysフォルダーが変更されました。何も変更されていません。ファイルをもう一度開いてください。;
+	}
+
+[key layouts]
+	{
+	ja=キー配置;
+	}
+
+// Settings › Accessibility.
+
+[ACCESSIBILITY]
+	{
+	ja=アクセシビリティ;
+	}
+
+[Accessibility]
+	{
+	ja=アクセシビリティ;
+	}
+
+[How soon a held camera, speed or page key repeats, and how fast.]
+	{
+	ja=押したままのカメラキー、速度キー、ページキーが、繰り返すまでの時間と速さです。;
+	}
+
+[Key repeat delay]
+	{
+	ja=キーリピート遅延;
+	}
+
+[Key repeat rate]
+	{
+	ja=キーリピート速度;
+	}
+
+[Off in Settings › Accessibility]
+	{
+	ja=設定 › アクセシビリティでオフ;
+	}
+
+[Repeat]
+	{
+	ja=繰り返し;
+	}
+
+[Slow keys]
+	{
+	ja=スローキー;
+	}
+
+// Library › Keys.
+
+[Another copy of Open Annihilation is changing your Keys folder. Try again once it has finished.]
+	{
+	ja=別のOpen AnnihilationがKeysフォルダーを変更しています。完了してから、もう一度試してください。;
+	}
+
+[Either way it stays saved with {name}, and comes back when you use {name} again.]
+	{
+	ja=どちらの場合も、これは{name}と一緒に保存され、{name}を再び使うと戻ります。;
+	}
+
+[Either way they stay saved with {name}, and come back when you use {name} again.]
+	{
+	ja=どちらの場合も、これらは{name}と一緒に保存され、{name}を再び使うと戻ります。;
+	}
+
+[It needs {size} free, and the disk holding your Keys folder has {free}.]
+	{
+	ja=空き{size}が必要です。Keysフォルダーがあるディスクの空きは{free}です。;
+	}
+
+[OA default]
+	{
+	ja=OA標準;
+	}
+
+[Use {name}]
+	{
+	ja={name}を使用;
+	}
+
+[You play with {name} now. Uninstall it and go back to OA default? Your own changes stay saved.]
+	{
+	ja=今は{name}でプレイしています。アンインストールしてOAの既定に戻しますか？自分の変更は保存されたままです。;
+	}
+
+[Your Keys folder has no free folder name for it.]
+	{
+	ja=Keysフォルダーに、空いているフォルダー名がありません。;
+	}
+
+// Named keys.
+
+[Again]
+	{
+	ja=再実行;
+	}
+
+[Arrow down]
+	{
+	ja=下矢印;
+	}
+
+[Arrow left]
+	{
+	ja=左矢印;
+	}
+
+[Arrow right]
+	{
+	ja=右矢印;
+	}
+
+[Arrow up]
+	{
+	ja=上矢印;
+	}
+
+[Audio volume down]
+	{
+	ja=音量ダウン;
+	}
+
+[Audio volume mute]
+	{
+	ja=音量ミュート;
+	}
+
+[Audio volume up]
+	{
+	ja=音量アップ;
+	}
+
+[Back button]
+	{
+	ja=戻るボタン;
+	}
+
+[Backquote]
+	{
+	ja=バッククォート;
+	}
+
+[Backslash]
+	{
+	ja=バックスラッシュ;
+	}
+
+[Backspace]
+	{
+	ja=Backspace;
+	}
+
+[Bracket left]
+	{
+	ja=左角括弧;
+	}
+
+[Bracket right]
+	{
+	ja=右角括弧;
+	}
+
+[Browser back]
+	{
+	ja=ブラウザー戻る;
+	}
+
+[Browser favorites]
+	{
+	ja=ブラウザーお気に入り;
+	}
+
+[Browser forward]
+	{
+	ja=ブラウザー進む;
+	}
+
+[Browser home]
+	{
+	ja=ブラウザーホーム;
+	}
+
+[Browser refresh]
+	{
+	ja=ブラウザー更新;
+	}
+
+[Browser search]
+	{
+	ja=ブラウザー検索;
+	}
+
+[Browser stop]
+	{
+	ja=ブラウザー停止;
+	}
+
+[Button]
+	{
+	ja=マウスボタン;
+	}
+
+[Comma]
+	{
+	ja=コンマ;
+	}
+
+[Context menu]
+	{
+	ja=コンテキストメニュー;
+	}
+
+[Convert]
+	{
+	ja=変換;
+	}
+
+[Cut]
+	{
+	ja=切り取り;
+	}
+
+[Delete]
+	{
+	ja=Delete;
+	}
+
+[Digit]
+	{
+	ja=数字;
+	}
+
+[Eject]
+	{
+	ja=取り出し;
+	}
+
+[End]
+	{
+	ja=End;
+	}
+
+[Equal]
+	{
+	ja=等号;
+	}
+
+[Escape]
+	{
+	ja=Escape;
+	}
+
+[Forward button]
+	{
+	ja=進むボタン;
+	}
+
+[Help]
+	{
+	ja=ヘルプ;
+	}
+
+[Home key]
+	{
+	ja=Homeキー;
+	}
+
+[Insert]
+	{
+	ja=Insert;
+	}
+
+[Intl backslash]
+	{
+	ja=国際バックスラッシュ;
+	}
+
+[Intl ro]
+	{
+	ja=ろ;
+	}
+
+[Intl yen]
+	{
+	ja=円;
+	}
+
+[Kana mode]
+	{
+	ja=かな;
+	}
+
+[Left button]
+	{
+	ja=左クリック;
+	}
+
+[Media play pause]
+	{
+	ja=再生一時停止;
+	}
+
+[Media select]
+	{
+	ja=メディア選択;
+	}
+
+[Media stop]
+	{
+	ja=メディア停止;
+	}
+
+[Media track next]
+	{
+	ja=次のトラック;
+	}
+
+[Media track previous]
+	{
+	ja=前のトラック;
+	}
+
+[Middle button]
+	{
+	ja=中クリック;
+	}
+
+[Non convert]
+	{
+	ja=無変換;
+	}
+
+[Numpad]
+	{
+	ja=テンキー;
+	}
+
+[Numpad add]
+	{
+	ja=テンキー加算;
+	}
+
+[Numpad backspace]
+	{
+	ja=テンキーBackspace;
+	}
+
+[Numpad clear]
+	{
+	ja=テンキークリア;
+	}
+
+[Numpad clear entry]
+	{
+	ja=テンキー入力クリア;
+	}
+
+[Numpad comma]
+	{
+	ja=テンキーコンマ;
+	}
+
+[Numpad decimal]
+	{
+	ja=テンキー小数点;
+	}
+
+[Numpad divide]
+	{
+	ja=テンキー除算;
+	}
+
+[Numpad enter]
+	{
+	ja=テンキーEnter;
+	}
+
+[Numpad equal]
+	{
+	ja=テンキー等号;
+	}
+
+[Numpad hash]
+	{
+	ja=テンキー井桁;
+	}
+
+[Numpad memory add]
+	{
+	ja=テンキーメモリ加算;
+	}
+
+[Numpad memory clear]
+	{
+	ja=テンキーメモリクリア;
+	}
+
+[Numpad memory recall]
+	{
+	ja=テンキーメモリ呼出;
+	}
+
+[Numpad memory store]
+	{
+	ja=テンキーメモリ保存;
+	}
+
+[Numpad memory subtract]
+	{
+	ja=テンキーメモリ減算;
+	}
+
+[Numpad multiply]
+	{
+	ja=テンキー乗算;
+	}
+
+[Numpad paren left]
+	{
+	ja=テンキー左括弧;
+	}
+
+[Numpad paren right]
+	{
+	ja=テンキー右括弧;
+	}
+
+[Numpad subtract]
+	{
+	ja=テンキー減算;
+	}
+
+[Pad]
+	{
+	ja=パッド;
+	}
+
+[Period]
+	{
+	ja=ピリオド;
+	}
+
+[Power]
+	{
+	ja=電源;
+	}
+
+[Print screen]
+	{
+	ja=プリントスクリーン;
+	}
+
+[Quote]
+	{
+	ja=クォート;
+	}
+
+[Right button]
+	{
+	ja=右ボタン;
+	}
+
+[Semicolon]
+	{
+	ja=セミコロン;
+	}
+
+[Slash]
+	{
+	ja=スラッシュ;
+	}
+
+[Sleep]
+	{
+	ja=スリープ;
+	}
+
+[Wake up]
+	{
+	ja=ウェイク;
+	}
+
+[Wheel down]
+	{
+	ja=ホイール下;
+	}
+
+[Wheel left]
+	{
+	ja=ホイール左;
+	}
+
+[Wheel right]
+	{
+	ja=ホイール右;
+	}
+
+[Wheel up]
+	{
+	ja=ホイール上;
+	}
+
+[Win]
+	{
+	ja=Win;
+	}
+
+[double]
+	{
+	ja=ダブル;
+	}
+
+[hold]
+	{
+	ja=長押し;
+	}
+
+// Weapon and side limits.
+
+[*** The launch gives a computer player side {side}, which computer players cannot take in this game.]
+	{
+	ja=*** 起動がコンピューターにサイド{side}を渡していますが、このゲームではコンピューターはそのサイドを取れません。;
+	}
+
+[*** The launch names side {side}, which this game does not have.]
+	{
+	ja=*** 起動がサイド{side}を指定していますが、このゲームにそのサイドはありません。;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than 256 weapon types.]
+	{
+	ja=*** {player}はTotal Annihilation 3.1cをプレイしています。武器の種類が256を超えるMODはプレイできません。;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than five sides.]
+	{
+	ja=*** {player}はTotal Annihilation 3.1cをプレイしています。サイドが5を超えるMODはプレイできません。;
+	}
+
+[This recording needs a mod with {n} weapon types and {m} sides.]
+	{
+	ja=この録画には、武器タイプが{n}種、陣営が{m}のMODが必要です。;
+	}
+
+[This recording was made with 256 weapon types and five sides. The mod you are playing has more.]
+	{
+	ja=この録画は、武器タイプ256種、陣営5つで作られました。プレイ中のMODは、それより多いです。;
+	}
+
+[Weapon types]
+	{
+	ja=武器タイプ;
+	}
+
+// Updates.
+
+[Back on {version}]
+	{
+	ja={version}にロールバック済み;
+	}
+
+[Check for updates]
+	{
+	ja=更新を確認;
+	}
+
+[Checking for updates…]
+	{
+	ja=更新を確認中…;
+	}
+
+[Checking the download]
+	{
+	ja=ダウンロードを確認中;
+	}
+
+[Could not put {version} back: {detail}]
+	{
+	ja={version}をロールバックできませんでした：{detail};
+	}
+
+[Download automatically]
+	{
+	ja=自動でダウンロード;
+	}
+
+[Download paused]
+	{
+	ja=ダウンロード一時停止;
+	}
+
+[Download update]
+	{
+	ja=更新をダウンロード;
+	}
+
+[Downloaded and checked · {size}]
+	{
+	ja=ダウンロードして確認済み · {size};
+	}
+
+[Downloading {version}]
+	{
+	ja={version}をダウンロード中;
+	}
+
+[Downloading {version} · {done} of {size}]
+	{
+	ja={version}をダウンロード中 · {size}のうち{done};
+	}
+
+[Downloads pause during a match and carry on after it.]
+	{
+	ja=ダウンロードは対戦中は一時停止し、その後に再開します。;
+	}
+
+[Finishing the update to {version}]
+	{
+	ja={version}への更新を完了中;
+	}
+
+[Go back to {version}?]
+	{
+	ja={version}にロールバックしますか？;
+	}
+
+[Going back to {version}]
+	{
+	ja={version}にロールバック中;
+	}
+
+[Install updates]
+	{
+	ja=更新をインストール;
+	}
+
+[Install {version} again from its page, over the copy you have.]
+	{
+	ja=今あるコピーの上へ、そのページから{version}をもう一度インストールしてください。;
+	}
+
+[Installed {version}]
+	{
+	ja=インストール済み：{version};
+	}
+
+[Installer will put {version} in Applications. Start it from there when it finishes.]
+	{
+	ja=インストーラーは{version}をアプリケーションに置きます。完了したら、そこから起動してください。;
+	}
+
+[Installing {version}]
+	{
+	ja={version}をインストール中;
+	}
+
+[It installs as you quit. Change it any time in Settings › Updates.]
+	{
+	ja=終了時にインストールされます。設定 › 更新で、いつでも変更できます。;
+	}
+
+[It updates as it next starts.]
+	{
+	ja=次回の起動時に更新されます。;
+	}
+
+[Its signature was refused. Nothing was downloaded or changed.]
+	{
+	ja=署名は拒否されました。ダウンロードも変更もしていません。;
+	}
+
+[New in {version}:]
+	{
+	ja={version}の新機能：;
+	}
+
+[Not in this version]
+	{
+	ja=このバージョンにはありません;
+	}
+
+[Not in this version: 1]
+	{
+	ja=このバージョンにはありません：1;
+	}
+
+[Not in this version: {count}]
+	{
+	ja=このバージョンにはありません：{count};
+	}
+
+[Not installed. {version} is unchanged.]
+	{
+	ja=インストールされていません。{version}は変わっていません。;
+	}
+
+[OA restarts on {version}, with the settings it had. {current} won't be offered again until you choose it.]
+	{
+	ja=OAは{version}で、それまでの設定のまま再起動します。{current}は、選ぶまで再び提案しません。;
+	}
+
+[Off: OA asks before downloading.]
+	{
+	ja=オフ：ダウンロードの前に、OAが確認します。;
+	}
+
+[Open Annihilation {version}]
+	{
+	ja=Open Annihilation {version};
+	}
+
+[Open Annihilation {version} is out]
+	{
+	ja=Open Annihilation {version}が公開中;
+	}
+
+[Open Annihilation {version} is ready]
+	{
+	ja=Open Annihilation {version}は準備完了;
+	}
+
+[Open your software centre to update it.]
+	{
+	ja=更新するには、ソフトウェアセンターを開いてください。;
+	}
+
+[Previous version · {version}]
+	{
+	ja=前のバージョン · {version};
+	}
+
+[Put {version} back]
+	{
+	ja={version}を元に戻しました。;
+	}
+
+[Restart Windows to finish installing {version}.]
+	{
+	ja={version}のインストールを終えるには、Windowsを再起動してください。;
+	}
+
+[Restart to update]
+	{
+	ja=再起動して更新;
+	}
+
+[Roll back and restart]
+	{
+	ja=ロールバックして再起動;
+	}
+
+[Roll back restores {version} and the settings you had before updating.]
+	{
+	ja=ロールバックすると、{version}と、更新前の設定を復元します。;
+	}
+
+[Roll back to {version}?]
+	{
+	ja={version}にロールバックしますか？;
+	}
+
+[Roll back…]
+	{
+	ja=ロールバック…;
+	}
+
+[Skip this version]
+	{
+	ja=このバージョンをスキップ;
+	}
+
+[Started {version}]
+	{
+	ja={version}を起動しました。;
+	}
+
+[The download stopped]
+	{
+	ja=ダウンロードが止まりました。;
+	}
+
+[The download stopped: {reason}]
+	{
+	ja=ダウンロードが止まりました：{reason};
+	}
+
+[The download was not the file the signed list names, so it was deleted.]
+	{
+	ja=ダウンロードは、署名付きリストにあるファイルではなかったため、削除しました。;
+	}
+
+[The game closes, puts {version} back and starts again. {current} is not offered again until a newer release.]
+	{
+	ja=ゲームを閉じ、{version}を戻して、もう一度起動します。より新しいリリースまで、{current}は再案内しません。;
+	}
+
+[The roll back failed. Nothing was changed.]
+	{
+	ja=ロールバックに失敗しました。何も変更されていません。;
+	}
+
+[The roll back failed. The game could not be put back.]
+	{
+	ja=ロールバックに失敗しました。ゲームを元に戻せませんでした。;
+	}
+
+[The update could not be verified.]
+	{
+	ja=更新を検証できませんでした。;
+	}
+
+[The update failed. {version} was put back.]
+	{
+	ja=更新に失敗しました。{version}を元に戻しました。;
+	}
+
+[The update was cancelled.]
+	{
+	ja=更新はキャンセルされました。;
+	}
+
+[This copy came from {name}, which updates it.]
+	{
+	ja=このコピーは{name}から入手したもので、更新もそこが行います。;
+	}
+
+[This version cannot use:]
+	{
+	ja=このバージョンでは使えません：;
+	}
+
+[Try this version]
+	{
+	ja=このバージョンを試す;
+	}
+
+[Updated by {name}]
+	{
+	ja={name}が更新;
+	}
+
+[Updated from {from}]
+	{
+	ja={from}から更新;
+	}
+
+[Updated to {version}]
+	{
+	ja={version}に更新;
+	}
+
+[Update…]
+	{
+	ja=更新…;
+	}
+
+[You have {current}. The update is {size}.]
+	{
+	ja=現在は{current}です。更新は{size}です。;
+	}
+
+[Your settings from before you updated]
+	{
+	ja=更新前の設定;
+	}
+
+[by {author} · {version}]
+	{
+	ja={author}作 · {version};
+	}
+
+[macOS runs this copy from a protected place, so it can't update itself. Drag Open Annihilation to Applications and start it from there.]
+	{
+	ja=macOSは保護された場所からこのコピーを実行しているため、自身を更新できません。Open Annihilationをアプリケーションにドラッグして、そこから起動してください。;
+	}
+
+[{action} is kept in your layout for a version that has it.]
+	{
+	ja={action}は、それを持つバージョンのために、キー配置へ残してあります。;
+	}
+
+[{new} won't be offered again until a newer release, or choose it in Settings › Updates.]
+	{
+	ja=より新しいリリースまで{new}は再案内しません。設定 › 更新で選ぶこともできます。;
+	}
+
+[{version} closed twice before it reached the main menu, so OA went back to {old}, with the settings you had.]
+	{
+	ja={version}はメインメニューに達する前に2回閉じたため、OAはそれまでの設定のまま{old}に戻りました。;
+	}
+
+[{version} closed twice before the main menu]
+	{
+	ja={version}はメインメニュー前に2回終了;
+	}
+
+[{version} downloading]
+	{
+	ja={version}ダウンロード中;
+	}
+
+[{version} installs the next time you start Open Annihilation.]
+	{
+	ja=次回Open Annihilationの起動時に、{version}をインストールします。;
+	}
+
+[{version} installs when you quit]
+	{
+	ja=終了時に{version}をインストール;
+	}
+
+[{version} is kept, in case you want it back. The game starts again by itself.]
+	{
+	ja=戻せるように、{version}は残してあります。ゲームは自動で再起動します。;
+	}
+
+[{version} is kept. Roll back from Settings › Updates.]
+	{
+	ja={version}は残してあります。設定 › 更新からロールバックしてください。;
+	}
+
+[{version} is kept. To go back to it, press Roll back… in Settings › Updates.]
+	{
+	ja={version}は残してあります。戻すには、設定 › 更新の「ロールバック…」を押してください。;
+	}
+
+[{version} is not offered again until a newer release.]
+	{
+	ja=より新しいリリースまで、{version}は再案内しません。;
+	}
+
+[{version} is out]
+	{
+	ja={version}が公開中;
+	}
+
+[{version} is out · Stable · checked {when}]
+	{
+	ja={version}が公開中 · 安定版 · {when}に確認;
+	}
+
+[{version} is ready]
+	{
+	ja={version}は準備完了;
+	}
+
+[{version} is ready · {size} downloaded]
+	{
+	ja={version}は準備完了 · {size}ダウンロード済み;
+	}
+
+[{version} is skipped]
+	{
+	ja={version}はスキップ済み;
+	}
+
+[{version} reached the main menu]
+	{
+	ja={version}はメインメニューに到達;
+	}
+
+[{version} ready]
+	{
+	ja={version}準備完了;
+	}
+
+[{version} waits until you choose to try again.]
+	{
+	ja=再試行を選ぶまで、{version}は待機します。;
+	}
+
+[{version} won't be offered again. The next release will be, or choose {version} in Settings › Updates to try it again.]
+	{
+	ja={version}は再案内しません。次のリリースは案内します。もう一度試すには、設定 › 更新で{version}を選んでください。;
+	}
+
+[{version} · checking]
+	{
+	ja={version} · 確認中;
+	}
+
+[{version} · paused]
+	{
+	ja={version} · 一時停止;
+	}
+
+[{version} · {percent}%]
+	{
+	ja={version} · {percent}%;
+	}
+
+// The Library.
+
+[1 mutator on]
+	{
+	ja=ミューテーター1個オン;
+	}
+
+[Mutators: off]
+	{
+	ja=ミューテーター：オフ;
+	}
+
+[Mutators: {count} on]
+	{
+	ja=ミューテーター：{count}個オン;
+	}
+
+[No mutators on]
+	{
+	ja=オンのミューテーターなし;
+	}
+
+[The size Settings, the Library and the other OA windows take. Auto takes the largest that fits.]
+	{
+	ja=設定、ライブラリ、その他のOAのウィンドウの大きさです。自動では、収まる最大の大きさを使います。;
+	}
+
+[{count} mutators on]
+	{
+	ja=ミューテータ{count}個オン;
+	}
+
+[{name} is installed. Choose Use in the Library's Keys tab to play with it.]
+	{
+	ja={name}はインストール済みです。これでプレイするには、ライブラリのキータブで「使用」を選んでください。;
+	}
+
+// The rest of the interface.
+
+[*** {player} needs a newer Open Annihilation for this mod.]
+	{
+	ja=*** {player}には、このMOD用のより新しいOpen Annihilationが必要です。;
+	}
+
+[+{n}]
+	{
+	ja=+{n};
+	}
+
+[1 change of your own]
+	{
+	ja=自分の変更1件;
+	}
+
+[1 command]
+	{
+	ja=アクション1;
+	}
+
+[1 key, 1 helper]
+	{
+	ja=キー1、ヘルパー1;
+	}
+
+[1 key, {helpers} helpers]
+	{
+	ja=キー1、ヘルパー{helpers};
+	}
+
+[1 setting changed]
+	{
+	ja=設定の変更1件;
+	}
+
+[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and Roll back brings it back.]
+	{
+	ja=1件の更新でゲームのルールが変わります：{names}。現在のバージョンのセーブデータは、新しいバージョンではロードできません。現在のバージョンは保管され、ロールバックで元に戻せます。;
+	}
+
+[A hold]
+	{
+	ja=ホールド;
+	}
+
+[A key counts only after it is held this long. For a hand that brushes keys.]
+	{
+	ja=キーは、この時間押し続けてから反応します。キーに軽く触れてしまう場合のためです。;
+	}
+
+[A mod's Ctrl+F2 keys]
+	{
+	ja=MODのCtrl+F2キー;
+	}
+
+[A press]
+	{
+	ja=押下;
+	}
+
+[A release]
+	{
+	ja=リリース;
+	}
+
+[A seat]
+	{
+	ja=席;
+	}
+
+[A second press of the same key this soon is ignored.]
+	{
+	ja=同じキーを、この時間内にもう一度押しても無視されます。;
+	}
+
+[A selection]
+	{
+	ja=選択;
+	}
+
+[A tapped Shift, Ctrl or Alt holds for the next key or click. Tap twice to lock it.]
+	{
+	ja=タップしたShift、Ctrl、Altは、次のキーかクリックまで保持されます。2回タップして固定してください。;
+	}
+
+[ANSI]
+	{
+	ja=ANSI;
+	}
+
+[ANSI keyboards]
+	{
+	ja=ANSIキーボード;
+	}
+
+[Add mirror…]
+	{
+	ja=ミラーを追加…;
+	}
+
+[Add registry…]
+	{
+	ja=レジストリを追加…;
+	}
+
+[Allow full 3D mode]
+	{
+	ja=フル3Dモードを許可;
+	}
+
+[Alt]
+	{
+	ja=Alt;
+	}
+
+[Applied in this order.]
+	{
+	ja=この順に適用されます。;
+	}
+
+[Applies to every game.]
+	{
+	ja=すべてのゲームに適用されます。;
+	}
+
+[Applies with {mod} only.]
+	{
+	ja={mod}だけに適用されます。;
+	}
+
+[Apply 1 change]
+	{
+	ja=変更1件を適用;
+	}
+
+[Apply {n} changes]
+	{
+	ja=変更{n}件を適用;
+	}
+
+[Armed]
+	{
+	ja=武装;
+	}
+
+[Ask each time]
+	{
+	ja=毎回確認;
+	}
+
+[Ask each time, or install when I quit.]
+	{
+	ja=毎回確認するか、終了時にインストールします。;
+	}
+
+[Asks for]
+	{
+	ja=要求;
+	}
+
+[Attack]
+	{
+	ja=攻撃;
+	}
+
+[Bars]
+	{
+	ja=バー;
+	}
+
+[Box: armed]
+	{
+	ja=範囲：武装;
+	}
+
+[Box: bld]
+	{
+	ja=範囲：建設;
+	}
+
+[Box: fact.]
+	{
+	ja=範囲：工場;
+	}
+
+[Build]
+	{
+	ja=建設;
+	}
+
+[Building]
+	{
+	ja=建設;
+	}
+
+[Button 6]
+	{
+	ja=ボタン6;
+	}
+
+[Button 7]
+	{
+	ja=ボタン7;
+	}
+
+[Button 8]
+	{
+	ja=ボタン8;
+	}
+
+[C]
+	{
+	ja=C;
+	}
+
+[Camera]
+	{
+	ja=カメラ;
+	}
+
+[Cat.]
+	{
+	ja=分類;
+	}
+
+[Centre]
+	{
+	ja=中央へ;
+	}
+
+[Change]
+	{
+	ja=変更;
+	}
+
+[Change layout…]
+	{
+	ja=キー配置を変更…;
+	}
+
+[Changed]
+	{
+	ja=変更済み;
+	}
+
+[Change…]
+	{
+	ja=変更…;
+	}
+
+[Chat]
+	{
+	ja=チャット;
+	}
+
+[Chat Line]
+	{
+	ja=チャット行;
+	}
+
+[Chat line]
+	{
+	ja=チャット行;
+	}
+
+[Check now]
+	{
+	ja=今すぐ確認;
+	}
+
+[Check with this mod]
+	{
+	ja=このMODで確認;
+	}
+
+[Checked the package against the signed list]
+	{
+	ja=パッケージを署名リストと照合済み;
+	}
+
+[Choose Play now to play it, or choose it later with Play now in the Library.]
+	{
+	ja=「今すぐプレイ」でプレイするか、後でライブラリの「今すぐプレイ」で選んでください。;
+	}
+
+[Choose another file…]
+	{
+	ja=別のファイルを選択…;
+	}
+
+[Choose it with Play now in the Library to play it.]
+	{
+	ja=プレイするには、ライブラリの「今すぐプレイ」で選んでください。;
+	}
+
+[Choose what happens…]
+	{
+	ja=動作を選択…;
+	}
+
+[Choose…]
+	{
+	ja=選択…;
+	}
+
+[Chosen file: {file}]
+	{
+	ja=選択したファイル：{file};
+	}
+
+[Clear]
+	{
+	ja=解除;
+	}
+
+[Click a button on the picture, or a role in the table, to change it. Buttons 6 to 8 of a gaming mouse appear here when the game sees them pressed.]
+	{
+	ja=変更するには、図のボタンか表の役割をクリックしてください。ゲーミングマウスのボタン6から8は、ゲームが押されたのを認識するとここに出ます。;
+	}
+
+[Click to change.]
+	{
+	ja=クリックして変更してください。;
+	}
+
+[Click to read.]
+	{
+	ja=クリックして読んでください。;
+	}
+
+[Clicks give orders with]
+	{
+	ja=クリックで命令を出す;
+	}
+
+[Cloak]
+	{
+	ja=クローク;
+	}
+
+[Close the game]
+	{
+	ja=ゲームを閉じる;
+	}
+
+[Close the line]
+	{
+	ja=行を閉じる;
+	}
+
+[Cmd]
+	{
+	ja=Cmd;
+	}
+
+[Cmdr]
+	{
+	ja=司令;
+	}
+
+[Comes back]
+	{
+	ja=戻る;
+	}
+
+[Commands]
+	{
+	ja=アクション;
+	}
+
+[Common commands]
+	{
+	ja=よく使うアクション;
+	}
+
+[Compact]
+	{
+	ja=コンパクト;
+	}
+
+[Computer player for this seat]
+	{
+	ja=この席のコンピューター;
+	}
+
+[Computer player in the missions]
+	{
+	ja=ミッションのコンピューター;
+	}
+
+[Copy]
+	{
+	ja=コピー;
+	}
+
+[Could not check]
+	{
+	ja=確認できません;
+	}
+
+[Could not check · checked {when}]
+	{
+	ja=確認できません · {when}に確認;
+	}
+
+[Could not connect. Try again later.]
+	{
+	ja=接続できませんでした。しばらくしてからもう一度試してください。;
+	}
+
+[Could not put every file back: {detail}]
+	{
+	ja=すべてのファイルを元に戻せませんでした：{detail};
+	}
+
+[Could not put the new files in place: {detail}]
+	{
+	ja=新しいファイルを配置できませんでした：{detail};
+	}
+
+[Could not start the game: {detail}]
+	{
+	ja=ゲームを起動できませんでした：{detail};
+	}
+
+[Ctrl]
+	{
+	ja=Ctrl;
+	}
+
+[D]
+	{
+	ja=D;
+	}
+
+[D-gun]
+	{
+	ja=Dガン;
+	}
+
+[Destruct]
+	{
+	ja=自爆;
+	}
+
+[Details]
+	{
+	ja=詳細;
+	}
+
+[Details…]
+	{
+	ja=詳細…;
+	}
+
+[Developer mode]
+	{
+	ja=開発者モード;
+	}
+
+[Discard]
+	{
+	ja=破棄;
+	}
+
+[Don't install when I quit]
+	{
+	ja=終了時はインストールしない;
+	}
+
+[Done]
+	{
+	ja=完了;
+	}
+
+[Duplicate…]
+	{
+	ja=複製…;
+	}
+
+[Empty]
+	{
+	ja=空にする;
+	}
+
+[Enter]
+	{
+	ja=Enter;
+	}
+
+[Escape cancels · hold Escape to bind Escape]
+	{
+	ja=Escapeでキャンセル · Escapeを割り当てるにはEscapeを長押し;
+	}
+
+[Escape closes · hold Escape to look it up]
+	{
+	ja=Escapeで閉じる · Escapeを調べるにはEscapeを長押し;
+	}
+
+[Every game]
+	{
+	ja=すべてのゲーム;
+	}
+
+[Every window is back in the middle.]
+	{
+	ja=すべてのウィンドウが中央に戻りました。;
+	}
+
+[Everywhere]
+	{
+	ja=どこでも;
+	}
+
+[Faster]
+	{
+	ja=速く;
+	}
+
+[Find by key]
+	{
+	ja=キーで検索;
+	}
+
+[Find on keyboard]
+	{
+	ja=キーボードで検索;
+	}
+
+[Fire]
+	{
+	ja=射撃;
+	}
+
+[Follow]
+	{
+	ja=追従;
+	}
+
+[Follow back]
+	{
+	ja=追従を戻す;
+	}
+
+[Force]
+	{
+	ja=強制;
+	}
+
+[Forget it]
+	{
+	ja=忘れる;
+	}
+
+[Forward]
+	{
+	ja=進む;
+	}
+
+[Found 1 key · 1 differs from {layout}]
+	{
+	ja=キー1個を検出 · {layout}との差は1;
+	}
+
+[Found 1 key · {m} differ from {layout}]
+	{
+	ja=キー1個を検出 · {layout}との差は{m};
+	}
+
+[Found {n} keys · 1 differs from {layout}]
+	{
+	ja=キー{n}個を検出 · {layout}との差は1;
+	}
+
+[Found {n} keys · {m} differ from {layout}]
+	{
+	ja=キー{n}個を検出 · {layout}との差は{m};
+	}
+
+[From your system]
+	{
+	ja=システムから;
+	}
+
+[From {layout}]
+	{
+	ja={layout}から;
+	}
+
+[G]
+	{
+	ja=G;
+	}
+
+[Game and window]
+	{
+	ja=ゲームとウィンドウ;
+	}
+
+[Game menu]
+	{
+	ja=ゲームメニュー;
+	}
+
+[Get all]
+	{
+	ja=すべて入手;
+	}
+
+[Get both]
+	{
+	ja=両方入手;
+	}
+
+[Get installs it again.]
+	{
+	ja=「入手」で再インストールできます。;
+	}
+
+[Get more brains...]
+	{
+	ja=頭脳をもっと入手...;
+	}
+
+[Get with {count} more]
+	{
+	ja=ほか{count}個も入手;
+	}
+
+[Get with {name}]
+	{
+	ja={name}も入手;
+	}
+
+[Get · {size}]
+	{
+	ja=取得 · {size};
+	}
+
+[Grid]
+	{
+	ja=グリッド;
+	}
+
+[Group]
+	{
+	ja=グループ;
+	}
+
+[Groups]
+	{
+	ja=グループ;
+	}
+
+[Guard]
+	{
+	ja=護衛;
+	}
+
+[Hacks on]
+	{
+	ja=ハックオン;
+	}
+
+[Held to the end: the order goes.]
+	{
+	ja=最後まで押したまま：命令が出ます。;
+	}
+
+[Helpers act in every game, not only with {mod}.]
+	{
+	ja=ヘルパーは、{mod}のときだけでなく、すべてのゲームで動作します。;
+	}
+
+[Helpers act in every game.]
+	{
+	ja=ヘルパーはすべてのゲームで動作します。;
+	}
+
+[Here and {name} both use it {context}.]
+	{
+	ja=ここでも{name}でも、{context}に使っています。;
+	}
+
+[Hold]
+	{
+	ja=ホールド;
+	}
+
+[Hold a key until it counts.]
+	{
+	ja=反応するまで、キーを押し続けてください。;
+	}
+
+[Hold keys that latch]
+	{
+	ja=固定するホールドキー;
+	}
+
+[Hold middle]
+	{
+	ja=中長押し;
+	}
+
+[Hold right]
+	{
+	ja=右長押し;
+	}
+
+[Hold the modifiers you want, then press a key or a mouse button, or turn the wheel.]
+	{
+	ja=使う修飾キーを押したまま、キーかマウスボタンを押すか、ホイールを回してください。;
+	}
+
+[Holding]
+	{
+	ja=押下中;
+	}
+
+[Homepage]
+	{
+	ja=ホームページ;
+	}
+
+[How far a press may move and still be a click.]
+	{
+	ja=どれだけ動いてもクリックとみなす距離です。;
+	}
+
+[How it acts]
+	{
+	ja=動作;
+	}
+
+[ISO]
+	{
+	ja=ISO;
+	}
+
+[ISO keyboards]
+	{
+	ja=ISOキーボード;
+	}
+
+[Idle bld]
+	{
+	ja=待機建設;
+	}
+
+[Idle fac]
+	{
+	ja=待機工場;
+	}
+
+[In the chat line]
+	{
+	ja=チャット行で;
+	}
+
+[In use for every game]
+	{
+	ja=すべてのゲームで使用中;
+	}
+
+[In use with {mod}]
+	{
+	ja={mod}で使用中;
+	}
+
+[Install]
+	{
+	ja=インストール;
+	}
+
+[Install alongside]
+	{
+	ja=並べてインストール;
+	}
+
+[Install and restart]
+	{
+	ja=インストールして再起動;
+	}
+
+[Install when I quit]
+	{
+	ja=終了時にインストール;
+	}
+
+[Install…]
+	{
+	ja=インストール…;
+	}
+
+[It installs when you quit, or now if you restart. Restarting takes a few seconds and brings you back to the main menu.]
+	{
+	ja=終了時にインストールされます。今すぐなら再起動します。再起動は数秒で、メインメニューに戻ります。;
+	}
+
+[It is in the download queue: Cancel it before you uninstall it.]
+	{
+	ja=ダウンロード待ちです。アンインストールする前に「キャンセル」してください。;
+	}
+
+[It stopped before any file moved.]
+	{
+	ja=ファイルを動かす前に停止しました。;
+	}
+
+[Its folder is a link, and OA never removes what a link leads to. Open folder shows it.]
+	{
+	ja=フォルダーがリンクになっています。OAはリンク先のものを削除しません。「フォルダーを開く」で表示できます。;
+	}
+
+[JIS]
+	{
+	ja=JIS;
+	}
+
+[JIS keyboards]
+	{
+	ja=JISキーボード;
+	}
+
+[KEYS]
+	{
+	ja=キー;
+	}
+
+[Keep editing]
+	{
+	ja=編集を続ける;
+	}
+
+[Keep holding {chord}: the ring fills in {seconds} s. Let go to cancel.]
+	{
+	ja={chord}を押し続けてください。リングは{seconds}秒で満たされます。離すとキャンセルです。;
+	}
+
+[Keep it]
+	{
+	ja=残す;
+	}
+
+[Keep it for {action}]
+	{
+	ja={action}用に残す;
+	}
+
+[Keep it on top]
+	{
+	ja=それを上に残す;
+	}
+
+[Keep it ready]
+	{
+	ja=準備しておく;
+	}
+
+[Keep them]
+	{
+	ja=残す;
+	}
+
+[Keep them on top]
+	{
+	ja=それらを上に残す;
+	}
+
+[Keep your 1 change on top of {layout}?]
+	{
+	ja={layout}の上に自分の変更1件を残しますか？;
+	}
+
+[Keep your {n} changes on top of {layout}?]
+	{
+	ja={layout}の上に自分の変更{n}件を残しますか？;
+	}
+
+[Keyboard]
+	{
+	ja=キーボード;
+	}
+
+[Keys pressed here never reach the game.]
+	{
+	ja=ここで押したキーは、ゲームに届きません。;
+	}
+
+[Keys while placing a building]
+	{
+	ja=建物配置中のキー;
+	}
+
+[Keys while playing]
+	{
+	ja=プレイ中のキー;
+	}
+
+[Keys while watching]
+	{
+	ja=観戦中のキー;
+	}
+
+[Kills]
+	{
+	ja=撃破;
+	}
+
+[Kind]
+	{
+	ja=種類;
+	}
+
+[Known as]
+	{
+	ja=別名;
+	}
+
+[Latch]
+	{
+	ja=固定;
+	}
+
+[Latch {action}]
+	{
+	ja={action}を固定;
+	}
+
+[Latchable]
+	{
+	ja=固定可;
+	}
+
+[Later]
+	{
+	ja=後で;
+	}
+
+[Layout]
+	{
+	ja=キー配置;
+	}
+
+[Left and right {modifier} are one key in Open Annihilation]
+	{
+	ja=左と右の{modifier}は、Open Annihilationでは1つのキーです。;
+	}
+
+[Left hand]
+	{
+	ja=左手;
+	}
+
+[Left-click]
+	{
+	ja=左クリック;
+	}
+
+[Legacy]
+	{
+	ja=レガシー;
+	}
+
+[Let go before the end: nothing happens.]
+	{
+	ja=終わる前に離す：何も起きません。;
+	}
+
+[Load]
+	{
+	ja=搭載;
+	}
+
+[Load with the built-in player]
+	{
+	ja=内蔵コンピューターでロード;
+	}
+
+[Long press]
+	{
+	ja=長押し;
+	}
+
+[Look]
+	{
+	ja=外観;
+	}
+
+[Macro]
+	{
+	ja=マクロ;
+	}
+
+[Made for the {layout} interface; yours is {yours}.]
+	{
+	ja={layout}のインターフェース用です。いまのものは{yours}です。;
+	}
+
+[Manage…]
+	{
+	ja=管理…;
+	}
+
+[Marker]
+	{
+	ja=マーカー;
+	}
+
+[Match]
+	{
+	ja=対戦;
+	}
+
+[Mayhem, Twilight and older patches]
+	{
+	ja=Mayhem、Twilight、それより古いパッチ;
+	}
+
+[Menu buttons]
+	{
+	ja=メニューボタン;
+	}
+
+[Menus]
+	{
+	ja=メニュー;
+	}
+
+[Middle]
+	{
+	ja=中;
+	}
+
+[Modern]
+	{
+	ja=モダン;
+	}
+
+[Modifier]
+	{
+	ja=修飾キー;
+	}
+
+[More]
+	{
+	ja=その他;
+	}
+
+[More in the Library…]
+	{
+	ja=ライブラリでもっと見る…;
+	}
+
+[More options]
+	{
+	ja=その他のオプション;
+	}
+
+[Mouse]
+	{
+	ja=マウス;
+	}
+
+[Mouse button {button}]
+	{
+	ja=マウスボタン{button};
+	}
+
+[Mouse first]
+	{
+	ja=マウス優先;
+	}
+
+[Move]
+	{
+	ja=移動;
+	}
+
+[Move OA to Applications]
+	{
+	ja=OAをアプリケーションへ移す;
+	}
+
+[Move it to {action}]
+	{
+	ja={action}へ移す;
+	}
+
+[Move to {action}]
+	{
+	ja={action}へ移動;
+	}
+
+[Moves]
+	{
+	ja=移動;
+	}
+
+[Multiplayer]
+	{
+	ja=マルチプレイ;
+	}
+
+[Name]
+	{
+	ja=名前;
+	}
+
+[Name this layout]
+	{
+	ja=このキー配置に名前を付ける;
+	}
+
+[Needs Allow full 3D mode]
 	{
 	ja=「フル3Dモードを許可」が必要;
 	}
+
+[New key for {action}]
+	{
+	ja={action}の新しいキー;
+	}
+
+[Next page]
+	{
+	ja=次のページ;
+	}
+
+[Next pg]
+	{
+	ja=次ページ;
+	}
+
+[Next report]
+	{
+	ja=次の報告;
+	}
+
+[Next unit]
+	{
+	ja=次のユニット;
+	}
+
+[No command changes its key.]
+	{
+	ja=キーが変わるアクションはありません。;
+	}
+
+[No key]
+	{
+	ja=キーなし;
+	}
+
+[No wheel zoom]
+	{
+	ja=ホイールズームなし;
+	}
+
+[Not checked yet]
+	{
+	ja=未確認;
+	}
+
+[Not on this keyboard]
+	{
+	ja=このキーボードにはありません;
+	}
+
+[Nothing changes until you apply it.]
+	{
+	ja=適用するまで、何も変わりません。;
+	}
+
+[Nothing is scheduled.]
+	{
+	ja=予定はありません。;
+	}
+
+[Number keys select groups]
+	{
+	ja=数字キーでグループを選択;
+	}
+
+[O]
+	{
+	ja=O;
+	}
+
+[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and Roll back brings it back.]
+	{
+	ja={to}でゲームのルールが変わるかどうか、OAには判断できません。変わる場合、{from}のセーブデータはロードできなくなります。{From}は保管され、ロールバックで元に戻せます。;
+	}
+
+[OA looks for a newer Open Annihilation once a day when it starts. It never installs one until you say so.]
+	{
+	ja=OAは起動時に1日1回、新しいOpen Annihilationを探します。指示があるまでインストールしません。;
+	}
+
+[OA never checks]
+	{
+	ja=OAは確認しない;
+	}
+
+[OA's screens in Barlow, a clear modern face.]
+	{
+	ja=OAの画面を、明瞭なモダンフォントBarlowで表示します。;
+	}
+
+[OA's screens in the game's own bitmap fonts.]
+	{
+	ja=OAの画面を、ゲーム本来のビットマップフォントで表示します。;
+	}
+
+[Off stops the view scrolling while the pointer rests at the window's edge.]
+	{
+	ja=オフにすると、ポインターがウィンドウの端にある間、画面はスクロールしません。;
+	}
+
+[On Open Annihilation's screens]
+	{
+	ja=Open Annihilationの画面;
+	}
+
+[On a build button]
+	{
+	ja=建設ボタン上;
+	}
+
+[On the minimap]
+	{
+	ja=ミニマップ上;
+	}
+
+[On/off]
+	{
+	ja=オン/オフ;
+	}
+
+[On:]
+	{
+	ja=オン：;
+	}
+
+[One hand]
+	{
+	ja=片手;
+	}
+
+[Only when I ask]
+	{
+	ja=頼んだときだけ;
+	}
+
+[Only with {mod}]
+	{
+	ja={mod}のみ;
+	}
+
+[Open Annihilation's screens]
+	{
+	ja=Open Annihilationの画面;
+	}
+
+[Open mod folder]
+	{
+	ja=MODフォルダーを開く;
+	}
+
+[Open the installer]
+	{
+	ja=インストーラーを開く;
+	}
+
+[Open the log to see which files were left.]
+	{
+	ja=残ったファイルを見るには、ログを開いてください。;
+	}
+
+[Open the page]
+	{
+	ja=ページを開く;
+	}
+
+[Open the release page]
+	{
+	ja=リリースページを開く;
+	}
+
+[Open your software centre, or run:]
+	{
+	ja=ソフトウェアセンターを開くか、次を実行してください：;
+	}
+
+[Open {page} in a browser on another computer, or in Desktop Mode.]
+	{
+	ja=別のコンピューターのブラウザーか、デスクトップモードで{page}を開いてください。;
+	}
+
+[Open ›]
+	{
+	ja=開く ›;
+	}
+
+[Options...]
+	{
+	ja=オプション...;
+	}
+
+[Order buttons and build cells show their key in a corner.]
+	{
+	ja=命令ボタンと建設マスの隅に、キーを表示します。;
+	}
+
+[P]
+	{
+	ja=P;
+	}
+
+[Page]
+	{
+	ja=ページ;
+	}
+
+[Panels]
+	{
+	ja=パネル;
+	}
+
+[Patrol]
+	{
+	ja=巡回;
+	}
+
+[Paused during a match]
+	{
+	ja=対戦中は一時停止;
+	}
+
+[Paused during the game]
+	{
+	ja=ゲーム中は一時停止;
+	}
+
+[Pin]
+	{
+	ja=ピン留め;
+	}
+
+[Placing]
+	{
+	ja=配置中;
+	}
+
+[Placing a building]
+	{
+	ja=建物を配置中;
+	}
+
+[Play now]
+	{
+	ja=今すぐプレイ;
+	}
+
+[Press a key or a mouse button to see what it does. Nothing is changed.]
+	{
+	ja=キーかマウスボタンを押すと、その動作が見えます。何も変更されません。;
+	}
+
+[Press a key twice, quickly.]
+	{
+	ja=キーをすばやく2回押してください。;
+	}
+
+[Press a key, alone or with Shift, Ctrl or Alt.]
+	{
+	ja=キーを単独で、またはShift、Ctrl、Altと一緒に押してください。;
+	}
+
+[Press a key…]
+	{
+	ja=キーを押す…;
+	}
+
+[Press {key} to rotate]
+	{
+	ja={key}を押して回転;
+	}
+
+[Press {key}, or {wheel}, to rotate]
+	{
+	ja={key}か{wheel}で回転;
+	}
+
+[Prev pg]
+	{
+	ja=前ページ;
+	}
+
+[Put every changed file back]
+	{
+	ja=変更したファイルをすべて元に戻しました。;
+	}
+
+[Put {to} in place, keeping {from}]
+	{
+	ja={from}を残して{to}を配置しました。;
+	}
+
+[Puts every window you moved back in the middle.]
+	{
+	ja=動かしたウィンドウを、すべて中央に戻します。;
+	}
+
+[Queue]
+	{
+	ja=予約;
+	}
+
+[RESTART NOW]
+	{
+	ja=今すぐ再起動;
+	}
+
+[Ran the installer]
+	{
+	ja=インストーラーを実行しました。;
+	}
+
+[Reclaim]
+	{
+	ja=回収;
+	}
+
+[Recovery could not finish.]
+	{
+	ja=復元を完了できませんでした。;
+	}
+
+[Registries in the Library…]
+	{
+	ja=レジストリはライブラリに…;
+	}
+
+[Regular]
+	{
+	ja=標準;
+	}
+
+[Reinstall]
+	{
+	ja=再インストール;
+	}
+
+[Remove]
+	{
+	ja=削除;
+	}
+
+[Rename…]
+	{
+	ja=名前を変更…;
+	}
+
+[Replacing keeps {installed}, and Roll back in the Library brings it back.]
+	{
+	ja=置き換えても{installed}は保管され、ライブラリのロールバックで元に戻せます。;
+	}
+
+[Reset]
+	{
+	ja=リセット;
+	}
+
+[Reset to {layout}]
+	{
+	ja={layout}にリセット;
+	}
+
+[Reset window positions]
+	{
+	ja=ウィンドウ位置をリセット;
+	}
+
+[Resource panel]
+	{
+	ja=資源パネル;
+	}
+
+[Resources]
+	{
+	ja=資源;
+	}
+
+[Restore defaults]
+	{
+	ja=初期設定に戻す;
+	}
+
+[Restore profile values]
+	{
+	ja=プロファイルの値に戻す;
+	}
+
+[Resume]
+	{
+	ja=再開;
+	}
+
+[Revision {installed} is kept, and Roll back in the Library brings it back.]
+	{
+	ja=リビジョン{installed}は保管され、ライブラリのロールバックで元に戻せます。;
+	}
+
+[Right hand]
+	{
+	ja=右手;
+	}
+
+[Right-click]
+	{
+	ja=右クリック;
+	}
+
+[Roll back]
+	{
+	ja=ロールバック;
+	}
+
+[Roll back {title} to {to}? {from} is kept in its place, and Roll back again brings it back.]
+	{
+	ja={title}を{to}にロールバックしますか？{from}は代わりに保管され、もう一度ロールバックすると元に戻ります。;
+	}
+
+[Same]
+	{
+	ja=同じ;
+	}
+
+[Same as the game]
+	{
+	ja=ゲームと同じ;
+	}
+
+[Same place on every keyboard]
+	{
+	ja=どのキーボードでも同じ位置;
+	}
+
+[Save]
+	{
+	ja=保存;
+	}
+
+[Save changes]
+	{
+	ja=変更を保存;
+	}
+
+[Save file…]
+	{
+	ja=ファイルを保存…;
+	}
+
+[Save your edit before closing?]
+	{
+	ja=閉じる前に、編集を保存しますか？;
+	}
+
+[Save your {n} edits before closing?]
+	{
+	ja=閉じる前に、編集{n}件を保存しますか？;
+	}
+
+[Saved games and replays]
+	{
+	ja=セーブデータとリプレイ;
+	}
+
+[Saved to {place}]
+	{
+	ja={place}に保存しました。;
+	}
+
+[Saves]
+	{
+	ja=セーブ;
+	}
+
+[Screenshots]
+	{
+	ja=スクリーンショット;
+	}
+
+[Search commands]
+	{
+	ja=アクションを検索;
+	}
+
+[Sel bld]
+	{
+	ja=建設;
+	}
+
+[Sel fac]
+	{
+	ja=工場;
+	}
+
+[Select a key to see everything on it.]
+	{
+	ja=キーを選ぶと、そのキーの内容がすべて見えます。;
+	}
+
+[Selection]
+	{
+	ja=選択;
+	}
+
+[Selection box]
+	{
+	ja=選択枠;
+	}
+
+[Self-destruct]
+	{
+	ja=自爆;
+	}
+
+[Self-destruct, surrender and quitting need a long press. A ring fills as you hold.]
+	{
+	ja=自爆、降伏、終了には長押しが必要です。押している間、リングが満ちます。;
+	}
+
+[Set]
+	{
+	ja=セット;
+	}
+
+[Set by the mod. Every player in a game has the same.]
+	{
+	ja=MODが決めます。同じゲームのプレイヤーは、全員同じです。;
+	}
+
+[Set them aside]
+	{
+	ja=脇へ置く;
+	}
+
+[Settings you changed after updating are replaced by the ones you had then.]
+	{
+	ja=更新の後に変えた設定は、そのときの設定に置き換わります。;
+	}
+
+[Settings…]
+	{
+	ja=設定…;
+	}
+
+[Shift]
+	{
+	ja=Shift;
+	}
+
+[Shot]
+	{
+	ja=画像;
+	}
+
+[Show]
+	{
+	ja=表示;
+	}
+
+[Show again]
+	{
+	ja=もう一度表示;
+	}
+
+[Show as list]
+	{
+	ja=リストで表示;
+	}
+
+[Show details]
+	{
+	ja=詳細を表示;
+	}
+
+[Show in Finder]
+	{
+	ja=Finderで表示;
+	}
+
+[Show keyboard]
+	{
+	ja=キーボードを表示;
+	}
+
+[Show keys on buttons]
+	{
+	ja=ボタンにキーを表示;
+	}
+
+[Show the log]
+	{
+	ja=ログを表示;
+	}
+
+[Single player]
+	{
+	ja=シングルプレイ;
+	}
+
+[Slower]
+	{
+	ja=遅く;
+	}
+
+[Some files were left half-moved.]
+	{
+	ja=一部のファイルが、移動の途中で残っています。;
+	}
+
+[Some files were left half-moved. Show details lists the steps that put the game right.]
+	{
+	ja=一部のファイルが、移動の途中で残っています。「詳細を表示」に、ゲームを直す手順があります。;
+	}
+
+[Space]
+	{
+	ja=スペース;
+	}
+
+[Space +]
+	{
+	ja=間隔+;
+	}
+
+[Space -]
+	{
+	ja=間隔-;
+	}
+
+[Start Open Annihilation from Applications afterwards.]
+	{
+	ja=その後、アプリケーションからOpen Annihilationを起動してください。;
+	}
+
+[Start clean]
+	{
+	ja=初期状態で開始;
+	}
+
+[Start without it]
+	{
+	ja=外して開始;
+	}
+
+[Start without them]
+	{
+	ja=すべて外して開始;
+	}
+
+[Starts from]
+	{
+	ja=開始元;
+	}
+
+[Status]
+	{
+	ja=ステータス;
+	}
+
+[Stays as it is]
+	{
+	ja=そのまま;
+	}
+
+[Stop]
+	{
+	ja=中止;
+	}
+
+[Store]
+	{
+	ja=登録;
+	}
+
+[Swap them]
+	{
+	ja=入れ替える;
+	}
+
+[Switch]
+	{
+	ja=切り替え;
+	}
+
+[Switch off]
+	{
+	ja=オフにする;
+	}
+
+[T]
+	{
+	ja=T;
+	}
+
+[Tab]
+	{
+	ja=Tab;
+	}
+
+[Tags]
+	{
+	ja=タグ;
+	}
+
+[Tap Shift, then press A.]
+	{
+	ja=Shiftをタップしてから、Aを押してください。;
+	}
+
+[Tap to turn it on, tap again to turn it off.]
+	{
+	ja=タップでオンにし、もう一度タップでオフにしてください。;
+	}
+
+[The built-in player takes those seats from the units as they stand. Get the brain in the Library to load the game as it was saved.]
+	{
+	ja=それらの席は、ユニットを現在の状態のまま内蔵コンピューターが引き継ぎます。セーブ時のとおりにロードするには、ライブラリでブレインを入手してください。;
+	}
+
+[The folder kept for Roll back ({backup}) is removed.]
+	{
+	ja=ロールバック用に保管していたフォルダー（{backup}）は削除されます。;
+	}
+
+[The folder kept for Roll back stays.]
+	{
+	ja=ロールバック用に保管していたフォルダーはそのまま残ります。;
+	}
+
+[The folder kept for Roll back, which holds no mod that can be read, is removed.]
+	{
+	ja=ロールバック用に保管していたフォルダーには読み取れるMODがないため、削除されます。;
+	}
+
+[The game closes, installs it and starts again.]
+	{
+	ja=ゲームを閉じ、それをインストールして、もう一度起動します。;
+	}
+
+[The game did not close: {detail}]
+	{
+	ja=ゲームは閉じませんでした：{detail};
+	}
+
+[The id {id} is kept for your own changes.]
+	{
+	ja=ID{id}は、自分の変更のために残してあります。;
+	}
+
+[The installer did not finish: {detail}]
+	{
+	ja=インストーラーは完了しませんでした：{detail};
+	}
+
+[The key in the {key} place]
+	{
+	ja={key}の位置にあるキー;
+	}
+
+[The keys OA keeps for TA Zero, ESC or Twilight]
+	{
+	ja=OAがTA Zero、ESC、Twilight用に残しているキーです。;
+	}
+
+[The keys Open Annihilation ships with.]
+	{
+	ja=Open Annihilationに付属するキーです。;
+	}
+
+[The keys, mouse buttons and wheel turns the game answers. {primary}+/ in a match shows them.]
+	{
+	ja=ゲームが受け付けるキー、マウスボタン、ホイール操作です。対戦中は{primary}+/で表示します。;
+	}
+
+[The layout was not saved: {reason}]
+	{
+	ja=キー配置を保存できませんでした：{reason};
+	}
+
+[The letter {key}, wherever your keyboard has it]
+	{
+	ja=文字{key}です。キーボードのどこにあっても同じです。;
+	}
+
+[The mod's data]
+	{
+	ja=MODのデータ;
+	}
+
+[The mod's hacks]
+	{
+	ja=MODのハック;
+	}
+
+[The numpad moves the pointer; 5 clicks, 0 right-clicks.]
+	{
+	ja=テンキーでポインターを動かします。5はクリック、0は右クリックです。;
+	}
+
+[The package could not be checked: {detail}]
+	{
+	ja=パッケージを確認できませんでした：{detail};
+	}
+
+[The package could not be unpacked: {detail}]
+	{
+	ja=パッケージを展開できませんでした：{detail};
+	}
+
+[The text changes 1 key of {layout}.]
+	{
+	ja=このテキストは、{layout}のキーを1つ変更します。;
+	}
+
+[The text changes {n} keys of {layout}.]
+	{
+	ja=このテキストは、{layout}のキーを{n}個変更します。;
+	}
+
+[The version installed is kept, and Roll back in the Library brings it back.]
+	{
+	ja=インストール済みのバージョンは保管され、ライブラリのロールバックで元に戻せます。;
+	}
+
+[The {key} key]
+	{
+	ja={key}キー;
+	}
+
+[This copy cannot replace itself. Get the new release from its page.]
+	{
+	ja=このコピーは、自身を置き換えられません。新しいリリースは、そのページから入手してください。;
+	}
+
+[This copy is installed for the whole system, so it cannot replace itself. Install the new release the way this copy was installed.]
+	{
+	ja=このコピーはシステム全体にインストールされているため、自身を置き換えられません。このコピーと同じ方法で、新しいリリースをインストールしてください。;
+	}
+
+[This layout has problems:]
+	{
+	ja=このキー配置には問題があります：;
+	}
+
+[This mod]
+	{
+	ja=このMOD;
+	}
+
+[This mod needs every player on Open Annihilation. The host plays Total Annihilation 3.1c.]
+	{
+	ja=このMODは、プレイヤー全員がOpen Annihilationである必要があります。ホストはTotal Annihilation 3.1cでプレイしています。;
+	}
+
+[To put the game right]
+	{
+	ja=ゲームを直すには;
+	}
+
+[Tournament]
+	{
+	ja=トーナメント;
+	}
+
+[Try it here]
+	{
+	ja=ここで試す;
+	}
+
+[Turn every helper off]
+	{
+	ja=ヘルパーをすべてオフ;
+	}
+
+[Turn off]
+	{
+	ja=オフにする;
+	}
+
+[Turn on {name}]
+	{
+	ja={name}をオンにする;
+	}
+
+[Turning it on applies when the Library closes, and then Play now works.]
+	{
+	ja=ライブラリを閉じるとオンになり、「今すぐプレイ」が使えるようになります。;
+	}
+
+[Turning it on applies when the Library closes, and then Use now works.]
+	{
+	ja=ライブラリを閉じるとオンになり、「今すぐ使う」が使えるようになります。;
+	}
+
+[Turning them on applies when the Library closes, and then Play now works.]
+	{
+	ja=ライブラリを閉じるとオンになり、「今すぐプレイ」が使えるようになります。;
+	}
+
+[Turning them on applies when the Library closes, and then Use now works.]
+	{
+	ja=ライブラリを閉じるとオンになり、「今すぐ使う」が使えるようになります。;
+	}
+
+[U]
+	{
+	ja=U;
+	}
+
+[UPDATES]
+	{
+	ja=更新;
+	}
+
+[Unbound]
+	{
+	ja=未割り当て;
+	}
+
+[Undo]
+	{
+	ja=元に戻す;
+	}
+
+[Uninstall]
+	{
+	ja=アンインストール;
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy Roll back keeps.]
+	{
+	ja={name}をアンインストールしますか？フォルダー{folder}が削除され、ロールバック用に保管しているコピーも一緒に削除されます。;
+	}
+
+[Unload]
+	{
+	ja=降車;
+	}
+
+[Unload mod]
+	{
+	ja=MODを解除;
+	}
+
+[Unlocked camera]
+	{
+	ja=カメラの制限解除;
+	}
+
+[Unpacked the package]
+	{
+	ja=パッケージを展開しました。;
+	}
+
+[Up to date]
+	{
+	ja=最新;
+	}
+
+[Up to date · Stable · checked {when}]
+	{
+	ja=最新 · 安定版 · {when}に確認;
+	}
+
+[Update]
+	{
+	ja=更新;
+	}
+
+[Updated {name} · {new} changes the game's rules · Roll back restores {old}]
+	{
+	ja={name}を更新 · {new}でゲームのルールが変わります · ロールバックで{old}に戻せます;
+	}
+
+[Updated {name} · {new} may change the game's rules · Roll back restores {old}]
+	{
+	ja={name}を更新 · {new}でゲームのルールが変わる可能性があります · ロールバックで{old}に戻せます;
+	}
+
+[Use]
+	{
+	ja=使用;
+	}
+
+[Use by default]
+	{
+	ja=既定に設定;
+	}
+
+[Use for every game]
+	{
+	ja=すべてのゲームで使用;
+	}
+
+[Use for {mod}]
+	{
+	ja={mod}で使用;
+	}
+
+[Use now]
+	{
+	ja=今すぐ使う;
+	}
+
+[Use these]
+	{
+	ja=これを使う;
+	}
+
+[Use this]
+	{
+	ja=これを使う;
+	}
+
+[Use this game]
+	{
+	ja=このゲームを使う;
+	}
+
+[Use {chord} for {action}]
+	{
+	ja={action}に{chord}を使う;
+	}
+
+[Use {key} for {action}…]
+	{
+	ja={action}に{key}を使う…;
+	}
+
+[Using]
+	{
+	ja=使用中;
+	}
+
+[Using {layout} for every game.]
+	{
+	ja=すべてのゲームで{layout}を使用しています。;
+	}
+
+[Using {layout} with {mod}.]
+	{
+	ja={mod}で{layout}を使用しています。;
+	}
+
+[V]
+	{
+	ja=V;
+	}
+
+[W]
+	{
+	ja=W;
+	}
+
+[WHEN I QUIT]
+	{
+	ja=終了時;
+	}
+
+[Waited for the game to close]
+	{
+	ja=ゲームが閉じるのを待ちました。;
+	}
+
+[Watching]
+	{
+	ja=観戦;
+	}
+
+[What happened]
+	{
+	ja=起きたこと;
+	}
+
+[What moves]
+	{
+	ja=変わるもの;
+	}
+
+[What {key} does]
+	{
+	ja={key}の動作;
+	}
+
+[What's new]
+	{
+	ja=新機能;
+	}
+
+[Wheel]
+	{
+	ja=ホイール;
+	}
+
+[Wheel and middle]
+	{
+	ja=ホイールと中ボタン;
+	}
+
+[Wheel zoom]
+	{
+	ja=ホイールズーム;
+	}
+
+[When I quit]
+	{
+	ja=終了時;
+	}
+
+[When should it go in?]
+	{
+	ja=いつインストールしますか？;
+	}
+
+[Where]
+	{
+	ja=場所;
+	}
+
+[While playing]
+	{
+	ja=プレイ中;
+	}
+
+[While watching]
+	{
+	ja=観戦中;
+	}
+
+[Whiteboard held]
+	{
+	ja=ホワイトボード長押し;
+	}
+
+[Window]
+	{
+	ja=ウィンドウ;
+	}
+
+[Window size]
+	{
+	ja=ウィンドウサイズ;
+	}
+
+[Windows asks for permission.]
+	{
+	ja=Windowsが許可を求めてきます。;
+	}
+
+[With {mod}: {name}]
+	{
+	ja={mod}：{name};
+	}
+
+[You are playing {name}. Switch it off first with Switch off, then uninstall it.]
+	{
+	ja={name}をプレイ中です。先に「オフにする」でオフにしてから、アンインストールしてください。;
+	}
+
+[You went back to {old}, with the settings you had.]
+	{
+	ja={old}に戻りました。設定もそのときのものです。;
+	}
+
+[Your 1 change to {name}]
+	{
+	ja={name}への自分の変更1件;
+	}
+
+[Your change]
+	{
+	ja=自分の変更;
+	}
+
+[Your change, over {layout}]
+	{
+	ja={layout}上の自分の変更;
+	}
+
+[Your changes]
+	{
+	ja=自分の変更;
+	}
+
+[Your last campaign set, ready to use. Cancel plays without mutators.]
+	{
+	ja=前回のキャンペーンのセットをそのまま使えます。「キャンセル」でミューテータなしでプレイします。;
+	}
+
+[Your last multiplayer set, ready to use. Cancel plays without mutators.]
+	{
+	ja=前回のマルチプレイのセットをそのまま使えます。「キャンセル」でミューテータなしでプレイします。;
+	}
+
+[Your last skirmish set, ready to use. Cancel plays without mutators.]
+	{
+	ja=前回のスカーミッシュのセットをそのまま使えます。「キャンセル」でミューテータなしでプレイします。;
+	}
+
+[Your saved games, settings and mods are not touched by this.]
+	{
+	ja=セーブデータ、設定、MODには、影響しません。;
+	}
+
+[Your saved games, settings and mods stay as they are.]
+	{
+	ja=セーブデータ、設定、MODは、そのままです。;
+	}
+
+[Your {count} changes to {name}]
+	{
+	ja={name}への自分の変更{count}件;
+	}
+
+[a second]
+	{
+	ja=毎秒;
+	}
+
+[about {minutes} minutes left]
+	{
+	ja=残り約{minutes}分;
+	}
+
+[always]
+	{
+	ja=常に;
+	}
+
+[and 1 change of your own]
+	{
+	ja=と自分の変更1件;
+	}
+
+[and {count} more]
+	{
+	ja=ほか{count}件;
+	}
+
+[and {n} changes of your own]
+	{
+	ja=と自分の変更{n}件;
+	}
+
+[and {n} more]
+	{
+	ja=ほか{n}件;
+	}
+
+[any keyboard]
+	{
+	ja=どのキーボードでも;
+	}
+
+[cnc-ddraw's ddraw.ini]
+	{
+	ja=cnc-ddrawのddraw.ini;
+	}
+
+[game paused]
+	{
+	ja=ゲーム一時停止中;
+	}
+
+[held]
+	{
+	ja=押したまま;
+	}
+
+[in place of]
+	{
+	ja=の代わりに;
+	}
+
+[latches]
+	{
+	ja=固定;
+	}
+
+[less than a minute left]
+	{
+	ja=残り1分未満;
+	}
+
+[more than an hour left]
+	{
+	ja=残り1時間超;
+	}
+
+[not in the loaded units]
+	{
+	ja=読み込み済みユニットにない;
+	}
+
+[not installed]
+	{
+	ja=未インストール;
+	}
+
+[not used by Open Annihilation]
+	{
+	ja=Open Annihilationでは未使用;
+	}
+
+[on {date}]
+	{
+	ja={date};
+	}
+
+[place]
+	{
+	ja=配置;
+	}
+
+[px]
+	{
+	ja=px;
+	}
+
+[ready]
+	{
+	ja=準備完了;
+	}
+
+[release]
+	{
+	ja=離す;
+	}
+
+[tdraw's Settings.ini]
+	{
+	ja=tdrawのSettings.ini;
+	}
+
+[the button]
+	{
+	ja=ボタン;
+	}
+
+[the left-click interface]
+	{
+	ja=左クリックのインターフェース;
+	}
+
+[the mod's data]
+	{
+	ja=MODのデータ;
+	}
+
+[the right-click interface]
+	{
+	ja=右クリックのインターフェース;
+	}
+
+[today at {time}]
+	{
+	ja=今日の{time};
+	}
+
+[wheel]
+	{
+	ja=ホイール;
+	}
+
+[while playing]
+	{
+	ja=プレイ中;
+	}
+
+[while watching]
+	{
+	ja=観戦中;
+	}
+
+[yesterday at {time}]
+	{
+	ja=昨日の{time};
+	}
+
+[yours]
+	{
+	ja=自分の;
+	}
+
+[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and Roll back brings it back.]
+	{
+	ja={To}ではゲームのルールが変わります。{from}のセーブデータは{to}ではロードできません。{From}は保管され、ロールバックで元に戻せます。;
+	}
+
+[{action} and {name} both use it {context}. Choose which keeps it; nothing changes until you confirm.]
+	{
+	ja={context}では、{action}と{name}の両方が使っています。どちらを残すか選んでください。確定するまで何も変わりません。;
+	}
+
+[{chords}, from the mod's order panel ({gadget})]
+	{
+	ja={chords}、MODの命令パネルから（{gadget}）;
+	}
+
+[{chords}, from {source}]
+	{
+	ja={chords}、{source}から;
+	}
+
+[{chord} also does {name} {context}. That never meets {where}, so it stays.]
+	{
+	ja={context}では、{chord}は{name}も実行します。{where}とは重ならないので、そのまま残します。;
+	}
+
+[{chord} counted, then {keys} let go.]
+	{
+	ja={chord}をカウントし、その後{keys}を離しました。;
+	}
+
+[{chord} counted.]
+	{
+	ja={chord}をカウントしました。;
+	}
+
+[{chord} does two things]
+	{
+	ja={chord}は2つの動作;
+	}
+
+[{chord} is already in use]
+	{
+	ja={chord}はすでに使用中;
+	}
+
+[{chord} is free {context}]
+	{
+	ja={context}では{chord}は空き;
+	}
+
+[{chord} is free {context}.]
+	{
+	ja={context}では、{chord}は空いています。;
+	}
+
+[{chord} is free: nothing uses it.]
+	{
+	ja={chord}は空いています。何も使っていません。;
+	}
+
+[{chord} is in use {context}]
+	{
+	ja={context}では{chord}は使用中;
+	}
+
+[{chord} is used in 1 place. Nothing is changed.]
+	{
+	ja={chord}は1か所で使われています。何も変更されません。;
+	}
+
+[{chord} is used in {n} places. Nothing is changed.]
+	{
+	ja={chord}は{n}か所で使われています。何も変更されません。;
+	}
+
+[{command} on {key}]
+	{
+	ja={key}に{command};
+	}
+
+[{command} with no key]
+	{
+	ja=キーなしの{command};
+	}
+
+[{count} changes of your own]
+	{
+	ja=自分の変更{count}件;
+	}
+
+[{count} commands]
+	{
+	ja=アクション{count}件;
+	}
+
+[{count} of {limit}]
+	{
+	ja={count}/{limit};
+	}
+
+[{count} settings changed]
+	{
+	ja=変更した設定{count}件;
+	}
+
+[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and Roll back brings it back.]
+	{
+	ja={count}件の更新でゲームのルールが変わります：{names}。現在のバージョンのセーブデータは、新しいバージョンではロードできません。それぞれ保管され、ロールバックで元に戻せます。;
+	}
+
+[{description} · {chord}]
+	{
+	ja={description} · {chord};
+	}
+
+[{done} of {size} · {percent}%]
+	{
+	ja={done}/{size} · {percent}%;
+	}
+
+[{done} of {whole} s · let go to cancel]
+	{
+	ja={whole}秒中{done} · 離すとキャンセル;
+	}
+
+[{first}…{last}]
+	{
+	ja={first}…{last};
+	}
+
+[{folder} is a folder of your own, not {name}. Move or rename it, then Retry.]
+	{
+	ja={folder}は{name}ではなく、ユーザー自身のフォルダーです。移動するか名前を変えてから、再試行してください。;
+	}
+
+[{keys} keys, 1 helper]
+	{
+	ja=キー{keys}個、ヘルパー1つ;
+	}
+
+[{keys} keys, {helpers} helpers]
+	{
+	ja=キー{keys}個、ヘルパー{helpers}つ;
+	}
+
+[{key} did not count: let go after {held} of {wait} s.]
+	{
+	ja={key}はカウントされませんでした：{wait}秒のうち{held}で離しました。;
+	}
+
+[{key} did not count: pressed again within {wait} s.]
+	{
+	ja={key}はカウントされませんでした：{wait}秒以内にもう一度押されました。;
+	}
+
+[{key} held {held} of {wait} s.]
+	{
+	ja={key}は{wait}秒のうち{held}押しています。;
+	}
+
+[{key} let go.]
+	{
+	ja={key}を離しました。;
+	}
+
+[{key} stays down for the next key.]
+	{
+	ja={key}は次のキーまで押されたままです。;
+	}
+
+[{key} stays down until you tap it again.]
+	{
+	ja=もう一度タップするまで、{key}は押されたままです。;
+	}
+
+[{layout} · 1 change]
+	{
+	ja={layout} · 変更1件;
+	}
+
+[{layout} · {n} changes]
+	{
+	ja={layout} · 変更{n}件;
+	}
+
+[{modifier} · locked]
+	{
+	ja={modifier} · ロック;
+	}
+
+[{modifier} · next key or click]
+	{
+	ja={modifier} · 次のキーかクリック;
+	}
+
+[{name} ({count})]
+	{
+	ja={name}（{count}）;
+	}
+
+[{name} already has 1 change of your own; it stays.]
+	{
+	ja={name}には、すでに自分の変更1件があります。そのまま残します。;
+	}
+
+[{name} already has {count} changes of your own; they stay.]
+	{
+	ja={name}には、すでに自分の変更{count}件があります。そのまま残します。;
+	}
+
+[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and Roll back brings it back.]
+	{
+	ja={installed}の{name}がインストールされています。{new}の{name}で置き換えますか？{installed}のものは保管され、ロールバックで元に戻せます。;
+	}
+
+[{name} uses it {context}. Choose what happens; nothing changes until you confirm.]
+	{
+	ja={context}では、{name}が使っています。どうするか選んでください。確定するまで何も変わりません。;
+	}
+
+[{name} uses it. Nothing changes until you choose.]
+	{
+	ja={name}が使っています。選ぶまで何も変わりません。;
+	}
+
+[{name} · 1 change of your own]
+	{
+	ja={name} · 自分の変更1件;
+	}
+
+[{name} · Add from…]
+	{
+	ja={name} · 追加元を選択…;
+	}
+
+[{name} · made for {mod}]
+	{
+	ja={name} · {mod}用;
+	}
+
+[{name} · {n} changes]
+	{
+	ja={name} · 変更{n}件;
+	}
+
+[{name} · {n} changes of your own]
+	{
+	ja={name} · 自分の変更{n}件;
+	}
+
+[{name}: {description} {context}. OK asks what to do.]
+	{
+	ja={name}：{description}（{context}）。OKを押すと、どうするか尋ねます。;
+	}
+
+[{number} · {heading}]
+	{
+	ja={number} · {heading};
+	}
+
+[{primary}+/ in a match shows the keys.]
+	{
+	ja=対戦中は{primary}+/でキーを表示します。;
+	}
+
+[{problem} Retry tries again.]
+	{
+	ja={problem}「再試行」でもう一度試します。;
+	}
+
+[{problem} · Retry]
+	{
+	ja={problem} · 再試行;
+	}
+
+[{shape} · from your system]
+	{
+	ja={shape} · システムから;
+	}
+
+[{title} is back to {new}. {old} is kept, and Roll back brings it back.]
+	{
+	ja={title}は{new}に戻りました。{old}は保管され、ロールバックで元に戻せます。;
+	}
+
+[{title} is now {new}. {old} is kept, and Roll back in the Library brings it back.]
+	{
+	ja={title}は{new}になりました。{old}は保管され、ライブラリのロールバックで元に戻せます。;
+	}
+
+[{title} {to}, the version kept for Roll back, cannot be played.]
+	{
+	ja=ロールバック用に保管していたバージョン{title} {to}はプレイできません。;
+	}
+
+[{wheel} rotates]
+	{
+	ja={wheel}で回転;
+	}
+
+[· 1 change of your own]
+	{
+	ja=· 自分の変更1件;
+	}
+
+[· your change]
+	{
+	ja=· 自分の変更;
+	}
+
+[· {count} changes of your own]
+	{
+	ja=· 自分の変更{count}件;
+	}
+
+[▲ Up]
+	{
+	ja=▲ 上へ;
+	}
+
+[▼ Down]
+	{
+	ja=▼ 下へ;
+	}
+
