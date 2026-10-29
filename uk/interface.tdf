@@ -2094,9 +2094,9 @@
 	uk=Обери папку гри;
 	}
 
-[CHOOSE FOLDER]
+[Choose folder]
 	{
-	uk=ОБРАТИ ПАПКУ;
+	uk=Обрати папку;
 	}
 
 [Copy it yourself]
@@ -2104,9 +2104,9 @@
 	uk=Скопіювати самостійно;
 	}
 
-[I HAVE COPIED IT]
+[I have copied it]
 	{
-	uk=УЖЕ СКОПІЙОВАНО;
+	uk=Уже скопійовано;
 	}
 
 [Play the 1997 demo]
@@ -2114,14 +2114,14 @@
 	uk=Грати в демоверсію 1997 року;
 	}
 
-[CHOOSE INSTALLER]
+[Choose installer]
 	{
-	uk=ОБРАТИ ІНСТАЛЯТОР;
+	uk=Обрати інсталятор;
 	}
 
-[WHY]
+[Why]
 	{
-	uk=ЧОМУ;
+	uk=Чому;
 	}
 
 [SHOW]
@@ -2184,14 +2184,14 @@
 	uk=У цій папці немає архівів гри, але вони є у вкладених папках. Обери одну з них.;
 	}
 
-[USE THAT FOLDER]
+[Use that folder]
 	{
-	uk=ВИКОРИСТАТИ ЦЮ ПАПКУ;
+	uk=Використати цю папку;
 	}
 
-[CHOOSE ANOTHER FOLDER]
+[Choose another folder]
 	{
-	uk=ОБРАТИ ІНШУ ПАПКУ;
+	uk=Обрати іншу папку;
 	}
 
 [This is already the game folder.]
@@ -2199,9 +2199,9 @@
 	uk=Це вже і є папка гри.;
 	}
 
-[CHECK IT]
+[Check it]
 	{
-	uk=ПЕРЕВІРИТИ;
+	uk=Перевірити;
 	}
 
 [Ready to copy]
@@ -2219,19 +2219,14 @@
 	uk=Повну перевірку буде виконано після копіювання.;
 	}
 
-[CHOOSE ANOTHER FILE]
+[Choose another file]
 	{
-	uk=ОБРАТИ ІНШИЙ ФАЙЛ;
+	uk=Обрати інший файл;
 	}
 
-[CHECK AGAIN]
+[Replace game files]
 	{
-	uk=ПЕРЕВІРИТИ ЩЕ РАЗ;
-	}
-
-[REPLACE GAME FILES]
-	{
-	uk=ЗАМІНИТИ ІГРОВІ ФАЙЛИ;
+	uk=Замінити ігрові файли;
 	}
 
 [COPY]
@@ -2269,9 +2264,9 @@
 	uk=Готово до гри;
 	}
 
-[REMOVE OLD FOLDER]
+[Remove old folder]
 	{
-	uk=ВИДАЛИТИ СТАРУ ПАПКУ;
+	uk=Видалити стару папку;
 	}
 
 [DONE]
@@ -2284,19 +2279,19 @@
 	uk=ГРАТИ;
 	}
 
-[ADD FILES…]
+[Add files…]
 	{
-	uk=ДОДАТИ ФАЙЛИ…;
+	uk=Додати файли…;
 	}
 
-[REPLACE THE GAME FILES…]
+[Replace the game files…]
 	{
-	uk=ЗАМІНИТИ ІГРОВІ ФАЙЛИ…;
+	uk=Замінити ігрові файли…;
 	}
 
-[REMOVE ALL GAME FILES…]
+[Remove all game files…]
 	{
-	uk=ВИДАЛИТИ ВСІ ІГРОВІ ФАЙЛИ…;
+	uk=Видалити всі ігрові файли…;
 	}
 
 [Pick the folder that holds totala1.hpi: {places}. It is checked, then copied in.]
@@ -2539,9 +2534,9 @@
 	uk=модів: {n};
 	}
 
-[ADD THE MISSING FILES]
+[Add the missing files]
 	{
-	uk=ДОДАТИ ВІДСУТНІ ФАЙЛИ;
+	uk=Додати відсутні файли;
 	}
 
 [BACK]
@@ -2549,84 +2544,74 @@
 	uk=НАЗАД;
 	}
 
-[CANCEL THE REPLACEMENT]
+[Cancel the replacement]
 	{
-	uk=СКАСУВАТИ ЗАМІНУ;
+	uk=Скасувати заміну;
 	}
 
-[CHANGE WHAT IS COPIED]
+[Change what is copied]
 	{
-	uk=ЗМІНИТИ, ЩО КОПІЮВАТИ;
+	uk=Змінити, що копіювати;
 	}
 
-[CHOOSE A FOLDER]
+[Choose a folder]
 	{
-	uk=ОБРАТИ ПАПКУ;
+	uk=Обрати папку;
 	}
 
-[CHOOSE ARCHIVES]
+[Choose archives]
 	{
-	uk=ОБРАТИ АРХІВИ;
+	uk=Обрати архіви;
 	}
 
-[CHOOSE THE DEMO'S INSTALLER]
+[Choose the demo's installer]
 	{
-	uk=ОБРАТИ ІНСТАЛЯТОР ДЕМОВЕРСІЇ;
+	uk=Обрати інсталятор демоверсії;
 	}
 
-[CHOOSE THE FOLDER AGAIN]
+[Choose the folder again]
 	{
-	uk=ОБРАТИ ПАПКУ ЗНОВУ;
+	uk=Обрати папку знову;
 	}
 
-[CONTINUE]
+[Copy anyway]
 	{
-	uk=ПРОДОВЖИТИ;
+	uk=Усе одно копіювати;
 	}
 
-[COPY ANYWAY]
+[Discard what was copied]
 	{
-	uk=УСЕ ОДНО КОПІЮВАТИ;
+	uk=Відкинути скопійоване;
 	}
 
-[DISCARD]
+[Gather them]
 	{
-	uk=ВІДКИНУТИ;
+	uk=Зібрати їх;
 	}
 
-[DISCARD WHAT WAS COPIED]
+[Keep]
 	{
-	uk=ВІДКИНУТИ СКОПІЙОВАНЕ;
+	uk=Залишити;
 	}
 
-[GATHER THEM]
+[Keep copying]
 	{
-	uk=ЗІБРАТИ ЇХ;
+	uk=Продовжити копіювання;
 	}
 
-[KEEP]
+[Keep what was copied]
 	{
-	uk=ЗАЛИШИТИ;
+	uk=Залишити скопійоване;
 	}
 
-[KEEP COPYING]
+[Remove all]
 	{
-	uk=ПРОДОВЖИТИ КОПІЮВАННЯ;
+	uk=Видалити все;
 	}
 
-[KEEP WHAT WAS COPIED]
+[Start again]
 	{
-	uk=ЗАЛИШИТИ СКОПІЙОВАНЕ;
-	}
-
-[REMOVE ALL]
-	{
-	uk=ВИДАЛИТИ ВСЕ;
-	}
-
-[START AGAIN]
-	{
-	uk=ПОЧАТИ ЗНОВУ;
+	uk=Почати знову;
 	}
 
 [TRY AGAIN]
@@ -2634,9 +2619,9 @@
 	uk=СПРОБУВАТИ ЩЕ РАЗ;
 	}
 
-[USE IT]
+[Use it]
 	{
-	uk=ВИКОРИСТАТИ;
+	uk=Використати;
 	}
 
 [Copy your Total Annihilation folder into Open Annihilation's own folder with your file manager.]
@@ -11529,11 +11514,6 @@
 	uk=Торкнися клавіші, потім натисни іншу, щоб дізнатися, що вона робить.;
 	}
 
-[One clash: {chord} already belongs to {action}. Apply keeps yours and lists the clash.]
-	{
-	uk=Один конфлікт: {chord} вже зайнято дією {action}. «Застосувати» лишає твою й показує конфлікт.;
-	}
-
 [Settle 1 clash to save]
 	{
 	uk=Уладнай 1 конфлікт, щоб зберегти;
@@ -11551,7 +11531,7 @@
 
 // Sharing and import.
 
-[Copy as text]
+[Copy as Text]
 	{
 	uk=Копіювати як текст;
 	}
@@ -11581,11 +11561,6 @@
 	uk=Імпорт віддає клавішу цій дії і залишає {action} без неї.;
 	}
 
-[Import…]
-	{
-	uk=Імпортувати…;
-	}
-
 [It holds no oakeys.yaml at its top, or in a single folder at its top.]
 	{
 	uk=Угорі немає oakeys.yaml і немає його в одній папці на верхньому рівні.;
@@ -11609,31 +11584,6 @@
 [Numbers are Windows key codes, read as key places. The changes go on top of your layout as "Imported from {file}". Nothing else changes.]
 	{
 	uk=Числа — це коди клавіш Windows, їх читають як позиції. Зміни лягають поверх твоєї розкладки клавіш як «Імпортовано з {file}». Більше нічого не змінюється.;
-	}
-
-[Paste keys]
-	{
-	uk=Вставити клавіші;
-	}
-
-[Paste…]
-	{
-	uk=Вставити…;
-	}
-
-[Share your keys]
-	{
-	uk=Поділися своїми клавішами;
-	}
-
-[Share…]
-	{
-	uk=Поділитися…;
-	}
-
-[The file is a .oakeys package anyone can open in Open Annihilation. The text carries the keys alone, for a forum or a chat.]
-	{
-	uk=Файл є пакетом .oakeys, який кожен може відкрити в Open Annihilation. Текст містить лише клавіші, для форуму чи чату.;
 	}
 
 [This text is not a key layout.]
@@ -12750,11 +12700,6 @@
 	uk=macOS запускає цю копію із захищеного місця, тож вона не може оновитися сама. Перетягни Open Annihilation до папки Програми й запусти її звідти.;
 	}
 
-[{action} is kept in your layout for a version that has it.]
-	{
-	uk={action} лишається у твоїй розкладці клавіш для версії, яка це має.;
-	}
-
 [{new} won't be offered again until a newer release, or choose it in Settings › Updates.]
 	{
 	uk={new} більше не пропонуватиметься, доки не вийде новіший випуск. Або обери його в Налаштування › Оновлення.;
@@ -12914,16 +12859,6 @@
 	uk=1 дія;
 	}
 
-[1 key, 1 helper]
-	{
-	uk=1 клавіша, 1 помічник;
-	}
-
-[1 key, {helpers} helpers]
-	{
-	uk=1 клавіша, помічників: {helpers};
-	}
-
 [1 setting changed]
 	{
 	uk=Змінено 1 параметр;
@@ -13024,12 +12959,12 @@
 	uk=Діє лише з {mod}.;
 	}
 
-[Apply 1 change]
+[Apply 1 Change]
 	{
 	uk=Застосувати 1 зміну;
 	}
 
-[Apply {n} changes]
+[Apply {n} Changes]
 	{
 	uk=Застосувати зміни: {n};
 	}
@@ -13356,7 +13291,7 @@
 
 [Discard]
 	{
-	uk=ВІДКИНУТИ;
+	uk=Відкинути;
 	}
 
 [Don't install when I quit]
@@ -13716,7 +13651,7 @@
 
 [KEYS]
 	{
-	uk=Клавіші;
+	uk=КЛАВІШІ;
 	}
 
 [Keep editing]
@@ -14079,11 +14014,6 @@
 	uk=OA не може визначити, чи змінює {to} правила гри. Якщо так, збереження зі старої версії ({from}) не завантажаться в новій. {From} залишиться, а ВІДКОТИТИ поверне цю версію.;
 	}
 
-[OA looks for a newer Open Annihilation once a day when it starts. It never installs one until you say so.]
-	{
-	uk=OA раз на день під час запуску шукає новіший Open Annihilation і нічого не встановлює, доки ти не скажеш.;
-	}
-
 [OA never checks]
 	{
 	uk=OA ніколи не перевіряє;
@@ -14374,9 +14304,9 @@
 	uk=Ресурси;
 	}
 
-[Restore defaults]
+[Restore Defaults]
 	{
-	uk=ВІДНОВИТИ ТИПОВІ;
+	uk=Відновити типові;
 	}
 
 [Restore profile values]
@@ -14439,7 +14369,7 @@
 	uk=Зберегти зміни;
 	}
 
-[Save file…]
+[Save File…]
 	{
 	uk=Зберегти файл…;
 	}
@@ -14644,11 +14574,6 @@
 	uk=ГРАТИ БЕЗ НИХ;
 	}
 
-[Starts from]
-	{
-	uk=Починається з;
-	}
-
 [Status]
 	{
 	uk=Стан;
@@ -14802,16 +14727,6 @@
 [The package could not be unpacked: {detail}]
 	{
 	uk=Пакет не вдалося розпакувати: {detail};
-	}
-
-[The text changes 1 key of {layout}.]
-	{
-	uk=Текст для {layout} змінює 1 клавішу.;
-	}
-
-[The text changes {n} keys of {layout}.]
-	{
-	uk=Текст для {layout} змінює клавіші: {n}.;
 	}
 
 [The version installed is kept, and Roll back in the Library brings it back.]
@@ -15304,11 +15219,6 @@
 	uk=на {date};
 	}
 
-[place]
-	{
-	uk=РОЗМІСТИТИ;
-	}
-
 [px]
 	{
 	uk=px;
@@ -15512,16 +15422,6 @@
 [{folder} is a folder of your own, not {name}. Move or rename it, then Retry.]
 	{
 	uk={folder} — це твоя власна папка, а не {name}. Перемісти або перейменуй її, а тоді натисни ПОВТОР.;
-	}
-
-[{keys} keys, 1 helper]
-	{
-	uk=клавіші: {keys}, 1 помічник;
-	}
-
-[{keys} keys, {helpers} helpers]
-	{
-	uk=клавіші: {keys}, помічники: {helpers};
 	}
 
 [{key} did not count: let go after {held} of {wait} s.]
@@ -15802,12 +15702,7 @@
 	uk=Мутат. · {count};
 	}
 
-// The key editor: Clone…, and Rename and Describe….
-
-[Clone…]
-	{
-	uk=Клонувати…;
-	}
+// The key editor: Rename and Describe…, and the Clone and Rename questions.
 
 [Rename and Describe…]
 	{
@@ -15837,11 +15732,6 @@
 [Based on {layout}]
 	{
 	uk=На основі {layout};
-	}
-
-[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share… saves it as a file.]
-	{
-	uk=Власна розкладка клавіш із {layout} і твоїх змін. Вона відкривається тут. «Зберегти зміни» лишає її, а «Поділитися…» зберігає її у файл.;
 	}
 
 [Another key layout is called {name}.]
@@ -15883,5 +15773,174 @@
 [Option]
 	{
 	uk=Alt;
+	}
+
+// The Library's header: OPEN ANNIHILATION LIBRARY.
+
+[LIBRARY]
+	{
+	uk=БІБЛІОТЕКА;
+	}
+
+// The key editor's More menu: Layouts, then Sharing, and Clone's note.
+
+[Layouts]
+	{
+	uk=Розкладки;
+	}
+
+[Import New Layout…]
+	{
+	uk=Імпортувати нову розкладку…;
+	}
+
+[Clone as New Layout…]
+	{
+	uk=Клонувати як нову розкладку…;
+	}
+
+[Share My Custom Keys…]
+	{
+	uk=Поділитися своїми клавішами…;
+	}
+
+[Paste Someone's Layout…]
+	{
+	uk=Вставити чужу розкладку…;
+	}
+
+[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share My Custom Keys… saves it as a file.]
+	{
+	uk=Власна розкладка клавіш із {layout} і твоїх змін. Вона відкривається тут. «Зберегти зміни» лишає її, а «Поділитися своїми клавішами…» зберігає її у файл.;
+	}
+
+// The key editor's Share My Custom Keys.
+
+[Share My Custom Keys]
+	{
+	uk=Поділитися своїми клавішами;
+	}
+
+[From {layout} · {n} keys and {m} helpers changed]
+	{
+	uk=З {layout} · змінено клавіш: {n}, помічників: {m};
+	}
+
+[From {layout} · 1 key and 1 helper changed]
+	{
+	uk=З {layout} · змінено 1 клавішу і 1 помічника;
+	}
+
+[From {layout} · 1 key and {m} helpers changed]
+	{
+	uk=З {layout} · змінено 1 клавішу, помічників: {m};
+	}
+
+[From {layout} · {n} keys and 1 helper changed]
+	{
+	uk=З {layout} · змінено клавіш: {n}, помічників: 1;
+	}
+
+[No changes from {layout} yet: there is nothing to share]
+	{
+	uk=Змін відносно {layout} ще немає: нема чим ділитися;
+	}
+
+[As a file]
+	{
+	uk=Як файл;
+	}
+
+[An .oakeys file anyone can open in Open Annihilation to install your layout.]
+	{
+	uk=Файл .oakeys, який кожен може відкрити в Open Annihilation, щоб встановити твою розкладку.;
+	}
+
+[Open Folder]
+	{
+	uk=Відкрити папку;
+	}
+
+[As text]
+	{
+	uk=Як текст;
+	}
+
+[Your changed keys as text, for a forum or a chat.]
+	{
+	uk=Твої змінені клавіші текстом, для форуму чи чату.;
+	}
+
+// The key editor's Paste Someone's Layout.
+
+[Paste Someone's Layout]
+	{
+	uk=Вставити чужу розкладку;
+	}
+
+[The text you copied changes {n} keys of {layout}.]
+	{
+	uk=Скопійований текст для {layout} змінює клавіші: {n}.;
+	}
+
+[The text you copied changes 1 key of {layout}.]
+	{
+	uk=Скопійований текст для {layout} змінює 1 клавішу.;
+	}
+
+[By place]
+	{
+	uk=За позицією;
+	}
+
+[Clash]
+	{
+	uk=Конфлікт;
+	}
+
+[{key} already belongs to {action}. Apply keeps yours and lists the clash.]
+	{
+	uk={key} вже зайнято дією {action}. «Застосувати» лишає твою й показує конфлікт.;
+	}
+
+[Kept in your layout for a version that has it.]
+	{
+	uk=Лишається у твоїй розкладці клавіш для версії, яка це має.;
+	}
+
+[Copy someone's shared key text first (it starts with # oakeys), then choose Paste Someone's Layout again.]
+	{
+	uk=Спершу скопіюй текст клавіш, яким із тобою поділилися (він починається з # oakeys), тоді знову обери «Вставити чужу розкладку».;
+	}
+
+// Settings › Graphics: New unit shadows, and its hint while on and while off.
+
+[New unit shadows]
+	{
+	uk=Нові тіні підрозділів;
+	}
+
+[Softer aircraft shadows, laid under every unit and tree (Full).]
+	{
+	uk=Мʼякші тіні авіації під кожним підрозділом і деревом («Повний»).;
+	}
+
+[Units cast the original game's shadows, as trees and rocks do.]
+	{
+	uk=Підрозділи відкидають тіні оригінальної гри, як дерева й каміння.;
+	}
+
+// Settings › Updates: when OA looks for a newer release.
+
+[OA looks for a newer Open Annihilation at every start and every hour while it runs. It never installs one until you say so.]
+	{
+	uk=OA під час кожного запуску й щогодини роботи шукає новіший Open Annihilation і нічого не встановлює, доки ти не скажеш.;
+	}
+
+// Game files: the Play button.
+
+[Play]
+	{
+	uk=Грати;
 	}
 

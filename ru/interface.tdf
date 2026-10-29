@@ -2094,9 +2094,9 @@
 	ru=Выберите папку игры;
 	}
 
-[CHOOSE FOLDER]
+[Choose folder]
 	{
-	ru=ВЫБРАТЬ ПАПКУ;
+	ru=Выбрать папку;
 	}
 
 [Copy it yourself]
@@ -2104,9 +2104,9 @@
 	ru=Скопировать самостоятельно;
 	}
 
-[I HAVE COPIED IT]
+[I have copied it]
 	{
-	ru=УЖЕ СКОПИРОВАНО;
+	ru=Уже скопировано;
 	}
 
 [Play the 1997 demo]
@@ -2114,14 +2114,14 @@
 	ru=Играть в демоверсию 1997 года;
 	}
 
-[CHOOSE INSTALLER]
+[Choose installer]
 	{
-	ru=ВЫБРАТЬ УСТАНОВЩИК;
+	ru=Выбрать установщик;
 	}
 
-[WHY]
+[Why]
 	{
-	ru=ПОЧЕМУ;
+	ru=Почему;
 	}
 
 [SHOW]
@@ -2184,14 +2184,14 @@
 	ru=В этой папке нет архивов игры, но они есть во вложенных папках. Выберите одну из них.;
 	}
 
-[USE THAT FOLDER]
+[Use that folder]
 	{
-	ru=ИСПОЛЬЗОВАТЬ ЭТУ ПАПКУ;
+	ru=Использовать эту папку;
 	}
 
-[CHOOSE ANOTHER FOLDER]
+[Choose another folder]
 	{
-	ru=ВЫБРАТЬ ДРУГУЮ ПАПКУ;
+	ru=Выбрать другую папку;
 	}
 
 [This is already the game folder.]
@@ -2199,9 +2199,9 @@
 	ru=Это и есть папка игры.;
 	}
 
-[CHECK IT]
+[Check it]
 	{
-	ru=ПРОВЕРИТЬ;
+	ru=Проверить;
 	}
 
 [Ready to copy]
@@ -2219,19 +2219,14 @@
 	ru=Полная проверка — после копирования.;
 	}
 
-[CHOOSE ANOTHER FILE]
+[Choose another file]
 	{
-	ru=ВЫБРАТЬ ДРУГОЙ ФАЙЛ;
+	ru=Выбрать другой файл;
 	}
 
-[CHECK AGAIN]
+[Replace game files]
 	{
-	ru=ПРОВЕРИТЬ СНОВА;
-	}
-
-[REPLACE GAME FILES]
-	{
-	ru=ЗАМЕНИТЬ ФАЙЛЫ ИГРЫ;
+	ru=Заменить файлы игры;
 	}
 
 [COPY]
@@ -2269,9 +2264,9 @@
 	ru=Готово к игре;
 	}
 
-[REMOVE OLD FOLDER]
+[Remove old folder]
 	{
-	ru=УДАЛИТЬ СТАРУЮ ПАПКУ;
+	ru=Удалить старую папку;
 	}
 
 [DONE]
@@ -2284,19 +2279,19 @@
 	ru=ИГРАТЬ;
 	}
 
-[ADD FILES…]
+[Add files…]
 	{
-	ru=ДОБАВИТЬ ФАЙЛЫ…;
+	ru=Добавить файлы…;
 	}
 
-[REPLACE THE GAME FILES…]
+[Replace the game files…]
 	{
-	ru=ЗАМЕНИТЬ ФАЙЛЫ ИГРЫ…;
+	ru=Заменить файлы игры…;
 	}
 
-[REMOVE ALL GAME FILES…]
+[Remove all game files…]
 	{
-	ru=УДАЛИТЬ ВСЕ ФАЙЛЫ ИГРЫ…;
+	ru=Удалить все файлы игры…;
 	}
 
 [Pick the folder that holds totala1.hpi: {places}. It is checked, then copied in.]
@@ -2539,9 +2534,9 @@
 	ru=модов: {n};
 	}
 
-[ADD THE MISSING FILES]
+[Add the missing files]
 	{
-	ru=ДОБАВИТЬ НЕДОСТАЮЩИЕ ФАЙЛЫ;
+	ru=Добавить недостающие файлы;
 	}
 
 [BACK]
@@ -2549,84 +2544,74 @@
 	ru=НАЗАД;
 	}
 
-[CANCEL THE REPLACEMENT]
+[Cancel the replacement]
 	{
-	ru=ОТМЕНИТЬ ЗАМЕНУ;
+	ru=Отменить замену;
 	}
 
-[CHANGE WHAT IS COPIED]
+[Change what is copied]
 	{
-	ru=ВЫБРАТЬ, ЧТО КОПИРОВАТЬ;
+	ru=Выбрать, что копировать;
 	}
 
-[CHOOSE A FOLDER]
+[Choose a folder]
 	{
-	ru=ВЫБРАТЬ ПАПКУ;
+	ru=Выбрать папку;
 	}
 
-[CHOOSE ARCHIVES]
+[Choose archives]
 	{
-	ru=ВЫБРАТЬ АРХИВЫ;
+	ru=Выбрать архивы;
 	}
 
-[CHOOSE THE DEMO'S INSTALLER]
+[Choose the demo's installer]
 	{
-	ru=ВЫБРАТЬ УСТАНОВЩИК ДЕМОВЕРСИИ;
+	ru=Выбрать установщик демоверсии;
 	}
 
-[CHOOSE THE FOLDER AGAIN]
+[Choose the folder again]
 	{
-	ru=ВЫБРАТЬ ПАПКУ СНОВА;
+	ru=Выбрать папку снова;
 	}
 
-[CONTINUE]
+[Copy anyway]
 	{
-	ru=ПРОДОЛЖИТЬ;
+	ru=Всё равно копировать;
 	}
 
-[COPY ANYWAY]
+[Discard what was copied]
 	{
-	ru=ВСЁ РАВНО КОПИРОВАТЬ;
+	ru=Отбросить скопированное;
 	}
 
-[DISCARD]
+[Gather them]
 	{
-	ru=ОТБРОСИТЬ;
+	ru=Собрать их;
 	}
 
-[DISCARD WHAT WAS COPIED]
+[Keep]
 	{
-	ru=ОТБРОСИТЬ СКОПИРОВАННОЕ;
+	ru=Оставить;
 	}
 
-[GATHER THEM]
+[Keep copying]
 	{
-	ru=СОБРАТЬ ИХ;
+	ru=Продолжить копирование;
 	}
 
-[KEEP]
+[Keep what was copied]
 	{
-	ru=ОСТАВИТЬ;
+	ru=Оставить скопированное;
 	}
 
-[KEEP COPYING]
+[Remove all]
 	{
-	ru=ПРОДОЛЖИТЬ КОПИРОВАНИЕ;
+	ru=Удалить всё;
 	}
 
-[KEEP WHAT WAS COPIED]
+[Start again]
 	{
-	ru=ОСТАВИТЬ СКОПИРОВАННОЕ;
-	}
-
-[REMOVE ALL]
-	{
-	ru=УДАЛИТЬ ВСЁ;
-	}
-
-[START AGAIN]
-	{
-	ru=НАЧАТЬ ЗАНОВО;
+	ru=Начать заново;
 	}
 
 [TRY AGAIN]
@@ -2634,9 +2619,9 @@
 	ru=ПОВТОРИТЬ;
 	}
 
-[USE IT]
+[Use it]
 	{
-	ru=ИСПОЛЬЗОВАТЬ;
+	ru=Использовать;
 	}
 
 [Copy your Total Annihilation folder into Open Annihilation's own folder with your file manager.]
@@ -6278,7 +6263,7 @@
 
 [In use]
 	{
-	ru=Используется;
+	ru=Выбрано;
 	}
 
 [No installed map matches.]
@@ -11529,11 +11514,6 @@
 	ru=Щёлкните по клавише, затем нажмите другую, чтобы её опознать.;
 	}
 
-[One clash: {chord} already belongs to {action}. Apply keeps yours and lists the clash.]
-	{
-	ru=Один конфликт: {chord} уже относится к действию {action}. «Применить» оставляет вашу клавишу и показывает конфликт.;
-	}
-
 [Settle 1 clash to save]
 	{
 	ru=Уладьте 1 конфликт, чтобы сохранить;
@@ -11551,7 +11531,7 @@
 
 // Sharing and import.
 
-[Copy as text]
+[Copy as Text]
 	{
 	ru=Копировать как текст;
 	}
@@ -11581,11 +11561,6 @@
 	ru=Импорт отдаёт клавишу этому действию, а действие {action} остаётся без неё.;
 	}
 
-[Import…]
-	{
-	ru=Импортировать…;
-	}
-
 [It holds no oakeys.yaml at its top, or in a single folder at its top.]
 	{
 	ru=В корне нет oakeys.yaml и нет единственной папки с ним в корне.;
@@ -11609,31 +11584,6 @@
 [Numbers are Windows key codes, read as key places. The changes go on top of your layout as "Imported from {file}". Nothing else changes.]
 	{
 	ru=Числа — коды клавиш Windows, они читаются как позиции. Изменения ложатся поверх вашей раскладки как «Импортировано из {file}». Больше ничего не меняется.;
-	}
-
-[Paste keys]
-	{
-	ru=Вставить клавиши;
-	}
-
-[Paste…]
-	{
-	ru=Вставить…;
-	}
-
-[Share your keys]
-	{
-	ru=Поделиться клавишами;
-	}
-
-[Share…]
-	{
-	ru=Поделиться…;
-	}
-
-[The file is a .oakeys package anyone can open in Open Annihilation. The text carries the keys alone, for a forum or a chat.]
-	{
-	ru=Файл — пакет .oakeys, его может открыть кто угодно в Open Annihilation. В тексте только клавиши, для форума или чата.;
 	}
 
 [This text is not a key layout.]
@@ -12750,11 +12700,6 @@
 	ru=macOS запускает эту копию из защищённого места, поэтому она не обновляется сама. Перетащите Open Annihilation в «Программы» и запустите её оттуда.;
 	}
 
-[{action} is kept in your layout for a version that has it.]
-	{
-	ru={action} сохранено в вашей раскладке клавиш для версии, в которой оно есть.;
-	}
-
 [{new} won't be offered again until a newer release, or choose it in Settings › Updates.]
 	{
 	ru={new} не предлагается снова, пока не выйдет более новый выпуск. Либо выберите её в разделе Настройки › Обновления.;
@@ -12914,16 +12859,6 @@
 	ru=1 действие;
 	}
 
-[1 key, 1 helper]
-	{
-	ru=1 клавиша, 1 помощник;
-	}
-
-[1 key, {helpers} helpers]
-	{
-	ru=1 клавиша, помощников: {helpers};
-	}
-
 [1 setting changed]
 	{
 	ru=Изменена 1 настройка;
@@ -13024,12 +12959,12 @@
 	ru=Действует только с модом {mod}.;
 	}
 
-[Apply 1 change]
+[Apply 1 Change]
 	{
 	ru=Применить 1 изменение;
 	}
 
-[Apply {n} changes]
+[Apply {n} Changes]
 	{
 	ru=Применить изменения: {n};
 	}
@@ -13356,7 +13291,7 @@
 
 [Discard]
 	{
-	ru=ОТБРОСИТЬ;
+	ru=Отбросить;
 	}
 
 [Don't install when I quit]
@@ -13716,7 +13651,7 @@
 
 [KEYS]
 	{
-	ru=Клавиши;
+	ru=КЛАВИШИ;
 	}
 
 [Keep editing]
@@ -14079,11 +14014,6 @@
 	ru=OA не может определить, меняет ли {to} правила игры. Если меняет, сохранения из старой версии ({from}) в новой не загрузятся. {From} сохранится, и ОТКАТИТЬ вернёт её.;
 	}
 
-[OA looks for a newer Open Annihilation once a day when it starts. It never installs one until you say so.]
-	{
-	ru=OA раз в день при запуске ищет более новый Open Annihilation. Установка не начнётся, пока вы не согласитесь.;
-	}
-
 [OA never checks]
 	{
 	ru=OA не проверяет;
@@ -14374,9 +14304,9 @@
 	ru=Ресурсы;
 	}
 
-[Restore defaults]
+[Restore Defaults]
 	{
-	ru=ПО УМОЛЧАНИЮ;
+	ru=Сбросить;
 	}
 
 [Restore profile values]
@@ -14439,7 +14369,7 @@
 	ru=Сохранить изменения;
 	}
 
-[Save file…]
+[Save File…]
 	{
 	ru=Сохранить файл…;
 	}
@@ -14644,11 +14574,6 @@
 	ru=НАЧАТЬ БЕЗ НИХ;
 	}
 
-[Starts from]
-	{
-	ru=Исходит из;
-	}
-
 [Status]
 	{
 	ru=Статус;
@@ -14802,16 +14727,6 @@
 [The package could not be unpacked: {detail}]
 	{
 	ru=Пакет не удалось распаковать: {detail};
-	}
-
-[The text changes 1 key of {layout}.]
-	{
-	ru=Текст меняет 1 клавишу раскладки {layout}.;
-	}
-
-[The text changes {n} keys of {layout}.]
-	{
-	ru=Текст меняет клавиши раскладки {layout}: {n}.;
 	}
 
 [The version installed is kept, and Roll back in the Library brings it back.]
@@ -15304,11 +15219,6 @@
 	ru=дата: {date};
 	}
 
-[place]
-	{
-	ru=РАЗМЕСТИТЬ;
-	}
-
 [px]
 	{
 	ru=px;
@@ -15512,16 +15422,6 @@
 [{folder} is a folder of your own, not {name}. Move or rename it, then Retry.]
 	{
 	ru={folder} — это ваша собственная папка, а не {name}. Переместите или переименуйте её, а затем нажмите ПОВТОР.;
-	}
-
-[{keys} keys, 1 helper]
-	{
-	ru=клавиш: {keys}, 1 помощник;
-	}
-
-[{keys} keys, {helpers} helpers]
-	{
-	ru=клавиш: {keys}, помощников: {helpers};
 	}
 
 [{key} did not count: let go after {held} of {wait} s.]
@@ -15802,12 +15702,7 @@
 	ru=Мутат. · {count};
 	}
 
-// The key editor: Clone…, and Rename and Describe….
-
-[Clone…]
-	{
-	ru=Клонировать…;
-	}
+// The key editor: Rename and Describe…, and the Clone and Rename questions.
 
 [Rename and Describe…]
 	{
@@ -15837,11 +15732,6 @@
 [Based on {layout}]
 	{
 	ru=На основе {layout};
-	}
-
-[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share… saves it as a file.]
-	{
-	ru=Своя раскладка клавиш из {layout} и ваших изменений. Она открывается здесь. «Сохранить изменения» оставляет её, а «Поделиться…» сохраняет её в файл.;
 	}
 
 [Another key layout is called {name}.]
@@ -15883,5 +15773,174 @@
 [Option]
 	{
 	ru=Alt;
+	}
+
+// The Library's header: OPEN ANNIHILATION LIBRARY.
+
+[LIBRARY]
+	{
+	ru=БИБЛИОТЕКА;
+	}
+
+// The key editor's More menu: Layouts, then Sharing, and Clone's note.
+
+[Layouts]
+	{
+	ru=Раскладки;
+	}
+
+[Import New Layout…]
+	{
+	ru=Импортировать новую раскладку…;
+	}
+
+[Clone as New Layout…]
+	{
+	ru=Клонировать как новую раскладку…;
+	}
+
+[Share My Custom Keys…]
+	{
+	ru=Поделиться своими клавишами…;
+	}
+
+[Paste Someone's Layout…]
+	{
+	ru=Вставить чужую раскладку…;
+	}
+
+[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share My Custom Keys… saves it as a file.]
+	{
+	ru=Своя раскладка клавиш из {layout} и ваших изменений. Она открывается здесь. «Сохранить изменения» оставляет её, а «Поделиться своими клавишами…» сохраняет её в файл.;
+	}
+
+// The key editor's Share My Custom Keys.
+
+[Share My Custom Keys]
+	{
+	ru=Поделиться своими клавишами;
+	}
+
+[From {layout} · {n} keys and {m} helpers changed]
+	{
+	ru=Из {layout} · изменено клавиш: {n}, помощников: {m};
+	}
+
+[From {layout} · 1 key and 1 helper changed]
+	{
+	ru=Из {layout} · изменены 1 клавиша и 1 помощник;
+	}
+
+[From {layout} · 1 key and {m} helpers changed]
+	{
+	ru=Из {layout} · изменена 1 клавиша, помощников: {m};
+	}
+
+[From {layout} · {n} keys and 1 helper changed]
+	{
+	ru=Из {layout} · изменено клавиш: {n}, помощников: 1;
+	}
+
+[No changes from {layout} yet: there is nothing to share]
+	{
+	ru=Изменений относительно {layout} ещё нет: делиться нечем;
+	}
+
+[As a file]
+	{
+	ru=Как файл;
+	}
+
+[An .oakeys file anyone can open in Open Annihilation to install your layout.]
+	{
+	ru=Файл .oakeys, который кто угодно может открыть в Open Annihilation, чтобы установить вашу раскладку.;
+	}
+
+[Open Folder]
+	{
+	ru=Открыть папку;
+	}
+
+[As text]
+	{
+	ru=Как текст;
+	}
+
+[Your changed keys as text, for a forum or a chat.]
+	{
+	ru=Ваши изменённые клавиши в виде текста, для форума или чата.;
+	}
+
+// The key editor's Paste Someone's Layout.
+
+[Paste Someone's Layout]
+	{
+	ru=Вставить чужую раскладку;
+	}
+
+[The text you copied changes {n} keys of {layout}.]
+	{
+	ru=Скопированный текст меняет клавиши раскладки {layout}: {n}.;
+	}
+
+[The text you copied changes 1 key of {layout}.]
+	{
+	ru=Скопированный текст меняет 1 клавишу раскладки {layout}.;
+	}
+
+[By place]
+	{
+	ru=По позиции;
+	}
+
+[Clash]
+	{
+	ru=Конфликт;
+	}
+
+[{key} already belongs to {action}. Apply keeps yours and lists the clash.]
+	{
+	ru={key} уже относится к действию {action}. «Применить» оставляет вашу клавишу и показывает конфликт.;
+	}
+
+[Kept in your layout for a version that has it.]
+	{
+	ru=Сохранено в вашей раскладке клавиш для версии, в которой оно есть.;
+	}
+
+[Copy someone's shared key text first (it starts with # oakeys), then choose Paste Someone's Layout again.]
+	{
+	ru=Сначала скопируйте текст клавиш, которым с вами поделились (он начинается с # oakeys), затем снова выберите «Вставить чужую раскладку».;
+	}
+
+// Settings › Graphics: New unit shadows, and its hint while on and while off.
+
+[New unit shadows]
+	{
+	ru=Новые тени юнитов;
+	}
+
+[Softer aircraft shadows, laid under every unit and tree (Full).]
+	{
+	ru=Более мягкие тени авиации, под каждым юнитом и деревом («Полный»).;
+	}
+
+[Units cast the original game's shadows, as trees and rocks do.]
+	{
+	ru=Юниты отбрасывают тени оригинальной игры, как деревья и камни.;
+	}
+
+// Settings › Updates: when OA looks for a newer release.
+
+[OA looks for a newer Open Annihilation at every start and every hour while it runs. It never installs one until you say so.]
+	{
+	ru=OA при каждом запуске и каждый час работы ищет более новый Open Annihilation. Установка не начнётся, пока вы не согласитесь.;
+	}
+
+// Game files: the Play button.
+
+[Play]
+	{
+	ru=Играть;
 	}
 

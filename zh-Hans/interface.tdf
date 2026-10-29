@@ -2094,7 +2094,7 @@
 	zh-Hans=选择游戏文件夹;
 	}
 
-[CHOOSE FOLDER]
+[Choose folder]
 	{
 	zh-Hans=选择文件夹;
 	}
@@ -2104,7 +2104,7 @@
 	zh-Hans=自行复制;
 	}
 
-[I HAVE COPIED IT]
+[I have copied it]
 	{
 	zh-Hans=我已复制;
 	}
@@ -2114,12 +2114,12 @@
 	zh-Hans=游玩1997年试玩版;
 	}
 
-[CHOOSE INSTALLER]
+[Choose installer]
 	{
 	zh-Hans=选择安装程序;
 	}
 
-[WHY]
+[Why]
 	{
 	zh-Hans=原因;
 	}
@@ -2184,12 +2184,12 @@
 	zh-Hans=此文件夹中没有游戏数据包，但其子文件夹中有。请选择一个。;
 	}
 
-[USE THAT FOLDER]
+[Use that folder]
 	{
 	zh-Hans=使用该文件夹;
 	}
 
-[CHOOSE ANOTHER FOLDER]
+[Choose another folder]
 	{
 	zh-Hans=选择其他文件夹;
 	}
@@ -2199,7 +2199,7 @@
 	zh-Hans=这已经是游戏文件夹。;
 	}
 
-[CHECK IT]
+[Check it]
 	{
 	zh-Hans=检查;
 	}
@@ -2219,17 +2219,12 @@
 	zh-Hans=复制后将完整检查。;
 	}
 
-[CHOOSE ANOTHER FILE]
+[Choose another file]
 	{
 	zh-Hans=选择其他文件;
 	}
 
-[CHECK AGAIN]
-	{
-	zh-Hans=重新检查;
-	}
-
-[REPLACE GAME FILES]
+[Replace game files]
 	{
 	zh-Hans=替换游戏文件;
 	}
@@ -2269,7 +2264,7 @@
 	zh-Hans=可以开始游戏;
 	}
 
-[REMOVE OLD FOLDER]
+[Remove old folder]
 	{
 	zh-Hans=删除旧文件夹;
 	}
@@ -2284,17 +2279,17 @@
 	zh-Hans=开始游戏;
 	}
 
-[ADD FILES…]
+[Add files…]
 	{
 	zh-Hans=添加文件……;
 	}
 
-[REPLACE THE GAME FILES…]
+[Replace the game files…]
 	{
 	zh-Hans=替换游戏文件……;
 	}
 
-[REMOVE ALL GAME FILES…]
+[Remove all game files…]
 	{
 	zh-Hans=删除所有游戏文件……;
 	}
@@ -2539,7 +2534,7 @@
 	zh-Hans={n}个模组;
 	}
 
-[ADD THE MISSING FILES]
+[Add the missing files]
 	{
 	zh-Hans=添加缺失的文件;
 	}
@@ -2549,82 +2544,72 @@
 	zh-Hans=返回;
 	}
 
-[CANCEL THE REPLACEMENT]
+[Cancel the replacement]
 	{
 	zh-Hans=取消替换;
 	}
 
-[CHANGE WHAT IS COPIED]
+[Change what is copied]
 	{
 	zh-Hans=更改复制内容;
 	}
 
-[CHOOSE A FOLDER]
+[Choose a folder]
 	{
 	zh-Hans=选择文件夹;
 	}
 
-[CHOOSE ARCHIVES]
+[Choose archives]
 	{
 	zh-Hans=选择数据包;
 	}
 
-[CHOOSE THE DEMO'S INSTALLER]
+[Choose the demo's installer]
 	{
 	zh-Hans=选择试玩版安装程序;
 	}
 
-[CHOOSE THE FOLDER AGAIN]
+[Choose the folder again]
 	{
 	zh-Hans=重新选择文件夹;
 	}
 
-[CONTINUE]
-	{
-	zh-Hans=继续;
-	}
-
-[COPY ANYWAY]
+[Copy anyway]
 	{
 	zh-Hans=仍然复制;
 	}
 
-[DISCARD]
-	{
-	zh-Hans=放弃;
-	}
-
-[DISCARD WHAT WAS COPIED]
+[Discard what was copied]
 	{
 	zh-Hans=放弃已复制的内容;
 	}
 
-[GATHER THEM]
+[Gather them]
 	{
 	zh-Hans=集中整理;
 	}
 
-[KEEP]
+[Keep]
 	{
 	zh-Hans=保留;
 	}
 
-[KEEP COPYING]
+[Keep copying]
 	{
 	zh-Hans=继续复制;
 	}
 
-[KEEP WHAT WAS COPIED]
+[Keep what was copied]
 	{
 	zh-Hans=保留已复制的内容;
 	}
 
-[REMOVE ALL]
+[Remove all]
 	{
 	zh-Hans=全部删除;
 	}
 
-[START AGAIN]
+[Start again]
 	{
 	zh-Hans=重新开始;
 	}
@@ -2634,7 +2619,7 @@
 	zh-Hans=重试;
 	}
 
-[USE IT]
+[Use it]
 	{
 	zh-Hans=使用;
 	}
@@ -11531,11 +11516,6 @@
 	zh-Hans=请点击这个按键，再按下另一个来查询它。;
 	}
 
-[One clash: {chord} already belongs to {action}. Apply keeps yours and lists the clash.]
-	{
-	zh-Hans=一处冲突：{chord}已属于{action}。应用会保留你的键，并列出该冲突。;
-	}
-
 [Settle 1 clash to save]
 	{
 	zh-Hans=解决1处冲突才能保存;
@@ -11553,7 +11533,7 @@
 
 // Sharing and import.
 
-[Copy as text]
+[Copy as Text]
 	{
 	zh-Hans=复制为文本;
 	}
@@ -11583,11 +11563,6 @@
 	zh-Hans=导入会把这个按键交给此动作，并让{action}失去它。;
 	}
 
-[Import…]
-	{
-	zh-Hans=导入…;
-	}
-
 [It holds no oakeys.yaml at its top, or in a single folder at its top.]
 	{
 	zh-Hans=它的顶层没有oakeys.yaml，顶层的单个文件夹里也没有。;
@@ -11611,31 +11586,6 @@
 [Numbers are Windows key codes, read as key places. The changes go on top of your layout as "Imported from {file}". Nothing else changes.]
 	{
 	zh-Hans=数字是Windows按键码，依照按键位置读取。这些更改会以「从{file}导入」叠在你的按键布局之上。其他都不改变。;
-	}
-
-[Paste keys]
-	{
-	zh-Hans=粘贴按键;
-	}
-
-[Paste…]
-	{
-	zh-Hans=粘贴…;
-	}
-
-[Share your keys]
-	{
-	zh-Hans=分享你的按键;
-	}
-
-[Share…]
-	{
-	zh-Hans=分享…;
-	}
-
-[The file is a .oakeys package anyone can open in Open Annihilation. The text carries the keys alone, for a forum or a chat.]
-	{
-	zh-Hans=此文件是.oakeys包，谁都能在Open Annihilation中打开。文本只含按键，供论坛或聊天使用。;
 	}
 
 [This text is not a key layout.]
@@ -12752,11 +12702,6 @@
 	zh-Hans=macOS从受保护的位置运行此副本，因此无法自行更新。请把Open Annihilation拖到应用程序，并从那里启动。;
 	}
 
-[{action} is kept in your layout for a version that has it.]
-	{
-	zh-Hans={action}会留在你的按键布局里，供有它的版本使用。;
-	}
-
 [{new} won't be offered again until a newer release, or choose it in Settings › Updates.]
 	{
 	zh-Hans=在有更新的版本之前不会再提供{new}，也可在设置 › 更新中选择它。;
@@ -12916,16 +12861,6 @@
 	zh-Hans=动作1项;
 	}
 
-[1 key, 1 helper]
-	{
-	zh-Hans=按键1个，辅助键1个;
-	}
-
-[1 key, {helpers} helpers]
-	{
-	zh-Hans=按键1个，辅助键{helpers}个;
-	}
-
 [1 setting changed]
 	{
 	zh-Hans=已更改设置1项;
@@ -13026,12 +12961,12 @@
 	zh-Hans=只在使用{mod}时适用。;
 	}
 
-[Apply 1 change]
+[Apply 1 Change]
 	{
 	zh-Hans=应用更改1项;
 	}
 
-[Apply {n} changes]
+[Apply {n} Changes]
 	{
 	zh-Hans=应用更改{n}项;
 	}
@@ -13563,12 +13498,12 @@
 
 [Helpers act in every game, not only with {mod}.]
 	{
-	zh-Hans=辅助键在每一局都起作用，不只是在使用{mod}时。;
+	zh-Hans=辅助在每一局都起作用，不只是在使用{mod}时。;
 	}
 
 [Helpers act in every game.]
 	{
-	zh-Hans=辅助键在每一局都起作用。;
+	zh-Hans=辅助在每一局都起作用。;
 	}
 
 [Here and {name} both use it {context}.]
@@ -14081,11 +14016,6 @@
 	zh-Hans=OA无法判断{to}是否会改变游戏规则。如果会，{from}的存档将无法在其中载入。{From}会保留，回滚即可恢复。;
 	}
 
-[OA looks for a newer Open Annihilation once a day when it starts. It never installs one until you say so.]
-	{
-	zh-Hans=OA启动时每天查找一次较新的Open Annihilation。在你同意之前，它不会安装。;
-	}
-
 [OA never checks]
 	{
 	zh-Hans=OA从不检查;
@@ -14376,7 +14306,7 @@
 	zh-Hans=资源;
 	}
 
-[Restore defaults]
+[Restore Defaults]
 	{
 	zh-Hans=恢复默认设置;
 	}
@@ -14441,7 +14371,7 @@
 	zh-Hans=保存更改;
 	}
 
-[Save file…]
+[Save File…]
 	{
 	zh-Hans=保存文件…;
 	}
@@ -14646,11 +14576,6 @@
 	zh-Hans=不带它们开始;
 	}
 
-[Starts from]
-	{
-	zh-Hans=始于;
-	}
-
 [Status]
 	{
 	zh-Hans=状态;
@@ -14804,16 +14729,6 @@
 [The package could not be unpacked: {detail}]
 	{
 	zh-Hans=无法解压软件包：{detail};
-	}
-
-[The text changes 1 key of {layout}.]
-	{
-	zh-Hans=这段文字会更改{layout}的1个按键。;
-	}
-
-[The text changes {n} keys of {layout}.]
-	{
-	zh-Hans=这段文字会更改{layout}的{n}个按键。;
 	}
 
 [The version installed is kept, and Roll back in the Library brings it back.]
@@ -15306,11 +15221,6 @@
 	zh-Hans=于{date};
 	}
 
-[place]
-	{
-	zh-Hans=放置;
-	}
-
 [px]
 	{
 	zh-Hans=px;
@@ -15514,16 +15424,6 @@
 [{folder} is a folder of your own, not {name}. Move or rename it, then Retry.]
 	{
 	zh-Hans={folder}是你自己的文件夹，不是{name}。请移动或重命名它，然后点击重试。;
-	}
-
-[{keys} keys, 1 helper]
-	{
-	zh-Hans={keys}个按键，1个辅助;
-	}
-
-[{keys} keys, {helpers} helpers]
-	{
-	zh-Hans={keys}个按键，{helpers}个辅助;
 	}
 
 [{key} did not count: let go after {held} of {wait} s.]
@@ -15804,12 +15704,7 @@
 	zh-Hans=变异器 · 开{count}个;
 	}
 
-// The key editor: Clone…, and Rename and Describe….
-
-[Clone…]
-	{
-	zh-Hans=克隆…;
-	}
+// The key editor: Rename and Describe…, and the Clone and Rename questions.
 
 [Rename and Describe…]
 	{
@@ -15839,11 +15734,6 @@
 [Based on {layout}]
 	{
 	zh-Hans=基于{layout};
-	}
-
-[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share… saves it as a file.]
-	{
-	zh-Hans=一份你自己的按键布局，来自{layout}和你的更改。它会在这里打开。保存更改会保留它，分享…会把它存成文件。;
 	}
 
 [Another key layout is called {name}.]
@@ -15885,5 +15775,174 @@
 [Option]
 	{
 	zh-Hans=Alt;
+	}
+
+// The Library's header: OPEN ANNIHILATION LIBRARY.
+
+[LIBRARY]
+	{
+	zh-Hans=资源库;
+	}
+
+// The key editor's More menu: Layouts, then Sharing, and Clone's note.
+
+[Layouts]
+	{
+	zh-Hans=按键布局;
+	}
+
+[Import New Layout…]
+	{
+	zh-Hans=导入新的按键布局…;
+	}
+
+[Clone as New Layout…]
+	{
+	zh-Hans=克隆为新的按键布局…;
+	}
+
+[Share My Custom Keys…]
+	{
+	zh-Hans=分享我的按键…;
+	}
+
+[Paste Someone's Layout…]
+	{
+	zh-Hans=粘贴他人的按键布局…;
+	}
+
+[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share My Custom Keys… saves it as a file.]
+	{
+	zh-Hans=一份你自己的按键布局，来自{layout}和你的更改。它会在这里打开。保存更改会保留它，分享我的按键…会把它存成文件。;
+	}
+
+// The key editor's Share My Custom Keys.
+
+[Share My Custom Keys]
+	{
+	zh-Hans=分享我的按键;
+	}
+
+[From {layout} · {n} keys and {m} helpers changed]
+	{
+	zh-Hans=来自{layout} · 已改{n}个按键、{m}个辅助;
+	}
+
+[From {layout} · 1 key and 1 helper changed]
+	{
+	zh-Hans=来自{layout} · 已改1个按键、1个辅助;
+	}
+
+[From {layout} · 1 key and {m} helpers changed]
+	{
+	zh-Hans=来自{layout} · 已改1个按键、{m}个辅助;
+	}
+
+[From {layout} · {n} keys and 1 helper changed]
+	{
+	zh-Hans=来自{layout} · 已改{n}个按键、1个辅助;
+	}
+
+[No changes from {layout} yet: there is nothing to share]
+	{
+	zh-Hans=还没有对{layout}做出更改：没有可分享的内容;
+	}
+
+[As a file]
+	{
+	zh-Hans=作为文件;
+	}
+
+[An .oakeys file anyone can open in Open Annihilation to install your layout.]
+	{
+	zh-Hans=一个.oakeys文件，谁都能在Open Annihilation中打开，以安装你的按键布局。;
+	}
+
+[Open Folder]
+	{
+	zh-Hans=打开文件夹;
+	}
+
+[As text]
+	{
+	zh-Hans=作为文本;
+	}
+
+[Your changed keys as text, for a forum or a chat.]
+	{
+	zh-Hans=以文本写出你改过的按键，供论坛或聊天使用。;
+	}
+
+// The key editor's Paste Someone's Layout.
+
+[Paste Someone's Layout]
+	{
+	zh-Hans=粘贴他人的按键布局;
+	}
+
+[The text you copied changes {n} keys of {layout}.]
+	{
+	zh-Hans=你复制的这段文字会更改{layout}的{n}个按键。;
+	}
+
+[The text you copied changes 1 key of {layout}.]
+	{
+	zh-Hans=你复制的这段文字会更改{layout}的1个按键。;
+	}
+
+[By place]
+	{
+	zh-Hans=按位置;
+	}
+
+[Clash]
+	{
+	zh-Hans=冲突;
+	}
+
+[{key} already belongs to {action}. Apply keeps yours and lists the clash.]
+	{
+	zh-Hans={key}已属于{action}。应用会保留你的键，并列出该冲突。;
+	}
+
+[Kept in your layout for a version that has it.]
+	{
+	zh-Hans=留在你的按键布局里，供有它的版本使用。;
+	}
+
+[Copy someone's shared key text first (it starts with # oakeys), then choose Paste Someone's Layout again.]
+	{
+	zh-Hans=请先复制别人分享的按键文本（它以# oakeys开头），然后再选一次粘贴他人的按键布局。;
+	}
+
+// Settings › Graphics: New unit shadows, and its hint while on and while off.
+
+[New unit shadows]
+	{
+	zh-Hans=新的单位阴影;
+	}
+
+[Softer aircraft shadows, laid under every unit and tree (Full).]
+	{
+	zh-Hans=更柔和的飞机阴影，铺在每个单位和每棵树下（完整）。;
+	}
+
+[Units cast the original game's shadows, as trees and rocks do.]
+	{
+	zh-Hans=单位投下原版游戏的阴影，如同树木和岩石。;
+	}
+
+// Settings › Updates: when OA looks for a newer release.
+
+[OA looks for a newer Open Annihilation at every start and every hour while it runs. It never installs one until you say so.]
+	{
+	zh-Hans=OA每次启动时，以及运行期间每小时，都会查找较新的Open Annihilation。在你同意之前，它不会安装。;
+	}
+
+// Game files: the Play button.
+
+[Play]
+	{
+	zh-Hans=开始游戏;
 	}
 

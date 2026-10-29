@@ -2094,7 +2094,7 @@
 	ko=게임 폴더 선택;
 	}
 
-[CHOOSE FOLDER]
+[Choose folder]
 	{
 	ko=폴더 선택;
 	}
@@ -2104,7 +2104,7 @@
 	ko=직접 복사;
 	}
 
-[I HAVE COPIED IT]
+[I have copied it]
 	{
 	ko=복사 완료;
 	}
@@ -2114,12 +2114,12 @@
 	ko=1997년 데모 플레이;
 	}
 
-[CHOOSE INSTALLER]
+[Choose installer]
 	{
 	ko=설치 프로그램 선택;
 	}
 
-[WHY]
+[Why]
 	{
 	ko=이유;
 	}
@@ -2184,12 +2184,12 @@
 	ko=이 폴더에는 게임 아카이브가 없지만 그 안의 폴더에는 있습니다. 하나를 선택하세요.;
 	}
 
-[USE THAT FOLDER]
+[Use that folder]
 	{
 	ko=그 폴더 사용;
 	}
 
-[CHOOSE ANOTHER FOLDER]
+[Choose another folder]
 	{
 	ko=다른 폴더 선택;
 	}
@@ -2199,7 +2199,7 @@
 	ko=이 폴더는 이미 게임 폴더입니다.;
 	}
 
-[CHECK IT]
+[Check it]
 	{
 	ko=폴더 확인;
 	}
@@ -2219,17 +2219,12 @@
 	ko=복사가 끝나면 전체를 확인합니다.;
 	}
 
-[CHOOSE ANOTHER FILE]
+[Choose another file]
 	{
 	ko=다른 파일 선택;
 	}
 
-[CHECK AGAIN]
-	{
-	ko=다시 확인;
-	}
-
-[REPLACE GAME FILES]
+[Replace game files]
 	{
 	ko=게임 파일 교체;
 	}
@@ -2269,7 +2264,7 @@
 	ko=플레이 준비 완료;
 	}
 
-[REMOVE OLD FOLDER]
+[Remove old folder]
 	{
 	ko=이전 폴더 제거;
 	}
@@ -2284,17 +2279,17 @@
 	ko=플레이;
 	}
 
-[ADD FILES…]
+[Add files…]
 	{
 	ko=파일 추가…;
 	}
 
-[REPLACE THE GAME FILES…]
+[Replace the game files…]
 	{
 	ko=게임 파일 교체…;
 	}
 
-[REMOVE ALL GAME FILES…]
+[Remove all game files…]
 	{
 	ko=모든 게임 파일 제거…;
 	}
@@ -2539,7 +2534,7 @@
 	ko=모드 {n}개;
 	}
 
-[ADD THE MISSING FILES]
+[Add the missing files]
 	{
 	ko=누락된 파일 추가;
 	}
@@ -2549,82 +2544,72 @@
 	ko=뒤로;
 	}
 
-[CANCEL THE REPLACEMENT]
+[Cancel the replacement]
 	{
 	ko=교체 취소;
 	}
 
-[CHANGE WHAT IS COPIED]
+[Change what is copied]
 	{
 	ko=복사할 항목 변경;
 	}
 
-[CHOOSE A FOLDER]
+[Choose a folder]
 	{
 	ko=폴더 선택;
 	}
 
-[CHOOSE ARCHIVES]
+[Choose archives]
 	{
 	ko=아카이브 선택;
 	}
 
-[CHOOSE THE DEMO'S INSTALLER]
+[Choose the demo's installer]
 	{
 	ko=데모 설치 프로그램 선택;
 	}
 
-[CHOOSE THE FOLDER AGAIN]
+[Choose the folder again]
 	{
 	ko=폴더 다시 선택;
 	}
 
-[CONTINUE]
-	{
-	ko=계속;
-	}
-
-[COPY ANYWAY]
+[Copy anyway]
 	{
 	ko=그래도 복사;
 	}
 
-[DISCARD]
-	{
-	ko=버리기;
-	}
-
-[DISCARD WHAT WAS COPIED]
+[Discard what was copied]
 	{
 	ko=복사한 내용 버리기;
 	}
 
-[GATHER THEM]
+[Gather them]
 	{
 	ko=모으기;
 	}
 
-[KEEP]
+[Keep]
 	{
 	ko=유지;
 	}
 
-[KEEP COPYING]
+[Keep copying]
 	{
 	ko=계속 복사;
 	}
 
-[KEEP WHAT WAS COPIED]
+[Keep what was copied]
 	{
 	ko=복사한 내용 유지;
 	}
 
-[REMOVE ALL]
+[Remove all]
 	{
 	ko=모두 제거;
 	}
 
-[START AGAIN]
+[Start again]
 	{
 	ko=다시 시작;
 	}
@@ -2634,7 +2619,7 @@
 	ko=다시 시도;
 	}
 
-[USE IT]
+[Use it]
 	{
 	ko=사용;
 	}
@@ -11529,11 +11514,6 @@
 	ko=키를 클릭한 뒤 다른 키를 눌러 조회하세요.;
 	}
 
-[One clash: {chord} already belongs to {action}. Apply keeps yours and lists the clash.]
-	{
-	ko=충돌 1개: {action}에 이미 {chord} 배정이 있습니다. 적용하면 내 키를 유지하고 충돌을 표시합니다.;
-	}
-
 [Settle 1 clash to save]
 	{
 	ko=저장하려면 충돌 1개를 해결하세요.;
@@ -11551,7 +11531,7 @@
 
 // Sharing and import.
 
-[Copy as text]
+[Copy as Text]
 	{
 	ko=텍스트로 복사;
 	}
@@ -11581,11 +11561,6 @@
 	ko=가져오면 이 동작이 키를 받고, {action}에서는 키가 빠집니다.;
 	}
 
-[Import…]
-	{
-	ko=가져오기…;
-	}
-
 [It holds no oakeys.yaml at its top, or in a single folder at its top.]
 	{
 	ko=맨 위에는 oakeys.yaml이 없고, 맨 위의 폴더 하나 안에도 없습니다.;
@@ -11609,31 +11584,6 @@
 [Numbers are Windows key codes, read as key places. The changes go on top of your layout as "Imported from {file}". Nothing else changes.]
 	{
 	ko=숫자는 Windows 키 코드이며, 키 위치로 읽습니다. 변경은 “{file}에서 가져옴”으로 키 배치 위에 올라갑니다. 그 밖에는 바뀌지 않습니다.;
-	}
-
-[Paste keys]
-	{
-	ko=키 붙여넣기;
-	}
-
-[Paste…]
-	{
-	ko=붙여넣기…;
-	}
-
-[Share your keys]
-	{
-	ko=키를 공유하세요.;
-	}
-
-[Share…]
-	{
-	ko=공유…;
-	}
-
-[The file is a .oakeys package anyone can open in Open Annihilation. The text carries the keys alone, for a forum or a chat.]
-	{
-	ko=이 파일은 Open Annihilation에서 누구나 열 수 있는 .oakeys 패키지입니다. 텍스트에는 포럼이나 채팅에 올릴 키만 들어 있습니다.;
 	}
 
 [This text is not a key layout.]
@@ -12750,11 +12700,6 @@
 	ko=macOS가 보호된 위치에서 이 사본을 실행하므로 스스로 업데이트할 수 없습니다. Open Annihilation을 응용 프로그램으로 끌어다 놓은 뒤 거기서 시작하세요.;
 	}
 
-[{action} is kept in your layout for a version that has it.]
-	{
-	ko={action} 동작은 그 동작이 있는 버전을 위해 내 키 배치에 남습니다.;
-	}
-
 [{new} won't be offered again until a newer release, or choose it in Settings › Updates.]
 	{
 	ko=더 새로운 릴리스가 나올 때까지 {new} 버전은 다시 제안되지 않습니다. 설정 › 업데이트에서 선택할 수도 있습니다.;
@@ -12914,16 +12859,6 @@
 	ko=동작 1개;
 	}
 
-[1 key, 1 helper]
-	{
-	ko=키 1개, 보조 1개;
-	}
-
-[1 key, {helpers} helpers]
-	{
-	ko=키 1개, 보조 {helpers}개;
-	}
-
 [1 setting changed]
 	{
 	ko=설정 1개 변경됨;
@@ -13024,12 +12959,12 @@
 	ko={mod}에서만 적용됩니다.;
 	}
 
-[Apply 1 change]
+[Apply 1 Change]
 	{
 	ko=변경 1개 적용;
 	}
 
-[Apply {n} changes]
+[Apply {n} Changes]
 	{
 	ko=변경 {n}개 적용;
 	}
@@ -14079,11 +14014,6 @@
 	ko=OA는 {to}에서 게임 규칙이 바뀌는지 판단할 수 없습니다. 바뀐다면 {from}에서 저장한 게임을 그 버전에서 불러올 수 없습니다. {From}의 사본은 그대로 보관되며, 롤백하면 되돌릴 수 있습니다.;
 	}
 
-[OA looks for a newer Open Annihilation once a day when it starts. It never installs one until you say so.]
-	{
-	ko=OA는 시작할 때 하루에 한 번 더 새 Open Annihilation을 찾습니다. 직접 선택하기 전에는 설치하지 않습니다.;
-	}
-
 [OA never checks]
 	{
 	ko=OA 확인 안 함;
@@ -14374,7 +14304,7 @@
 	ko=자원;
 	}
 
-[Restore defaults]
+[Restore Defaults]
 	{
 	ko=기본값 복원;
 	}
@@ -14439,7 +14369,7 @@
 	ko=변경 사항 저장;
 	}
 
-[Save file…]
+[Save File…]
 	{
 	ko=파일 저장…;
 	}
@@ -14644,11 +14574,6 @@
 	ko=모두 빼고 시작;
 	}
 
-[Starts from]
-	{
-	ko=시작 기준;
-	}
-
 [Status]
 	{
 	ko=상태;
@@ -14804,16 +14729,6 @@
 	ko=패키지 압축을 풀지 못했습니다: {detail};
 	}
 
-[The text changes 1 key of {layout}.]
-	{
-	ko=이 텍스트는 {layout}의 키 1개를 바꿉니다.;
-	}
-
-[The text changes {n} keys of {layout}.]
-	{
-	ko=이 텍스트는 {layout}의 키 {n}개를 바꿉니다.;
-	}
-
 [The version installed is kept, and Roll back in the Library brings it back.]
 	{
 	ko=설치된 버전은 보관되며, 라이브러리에서 롤백을 누르면 되돌릴 수 있습니다.;
@@ -14866,7 +14781,7 @@
 
 [Turn every helper off]
 	{
-	ko=도우미 모두 끄기;
+	ko=보조 모두 끄기;
 	}
 
 [Turn off]
@@ -15304,11 +15219,6 @@
 	ko={date}에;
 	}
 
-[place]
-	{
-	ko=배치;
-	}
-
 [px]
 	{
 	ko=px;
@@ -15512,16 +15422,6 @@
 [{folder} is a folder of your own, not {name}. Move or rename it, then Retry.]
 	{
 	ko={folder} 폴더는 {name} 모드가 아니라 플레이어가 직접 만든 폴더입니다. 폴더를 옮기거나 이름을 바꾼 뒤 다시 시도를 누르세요.;
-	}
-
-[{keys} keys, 1 helper]
-	{
-	ko=키 {keys}개, 도우미 1개;
-	}
-
-[{keys} keys, {helpers} helpers]
-	{
-	ko=키 {keys}개, 도우미 {helpers}개;
 	}
 
 [{key} did not count: let go after {held} of {wait} s.]
@@ -15802,12 +15702,7 @@
 	ko=뮤테이터 · {count}개 켜짐;
 	}
 
-// The key editor: Clone…, and Rename and Describe….
-
-[Clone…]
-	{
-	ko=복제…;
-	}
+// The key editor: Rename and Describe…, and the Clone and Rename questions.
 
 [Rename and Describe…]
 	{
@@ -15837,11 +15732,6 @@
 [Based on {layout}]
 	{
 	ko={layout} 기반;
-	}
-
-[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share… saves it as a file.]
-	{
-	ko={layout}과 내 변경으로 만든 나만의 키 배치입니다. 여기에서 열립니다. 변경 사항 저장은 이를 남기고, 공유…는 파일로 저장합니다.;
 	}
 
 [Another key layout is called {name}.]
@@ -15883,5 +15773,174 @@
 [Option]
 	{
 	ko=Alt;
+	}
+
+// The Library's header: OPEN ANNIHILATION LIBRARY.
+
+[LIBRARY]
+	{
+	ko=라이브러리;
+	}
+
+// The key editor's More menu: Layouts, then Sharing, and Clone's note.
+
+[Layouts]
+	{
+	ko=키 배치;
+	}
+
+[Import New Layout…]
+	{
+	ko=새 키 배치 가져오기…;
+	}
+
+[Clone as New Layout…]
+	{
+	ko=새 키 배치로 복제…;
+	}
+
+[Share My Custom Keys…]
+	{
+	ko=내 키 공유…;
+	}
+
+[Paste Someone's Layout…]
+	{
+	ko=다른 사람의 키 배치 붙여넣기…;
+	}
+
+[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share My Custom Keys… saves it as a file.]
+	{
+	ko={layout}과 내 변경으로 만든 나만의 키 배치입니다. 여기에서 열립니다. 변경 사항 저장은 이를 남기고, 내 키 공유…는 파일로 저장합니다.;
+	}
+
+// The key editor's Share My Custom Keys.
+
+[Share My Custom Keys]
+	{
+	ko=내 키 공유;
+	}
+
+[From {layout} · {n} keys and {m} helpers changed]
+	{
+	ko={layout}에서 · 키 {n}개, 보조 {m}개 변경;
+	}
+
+[From {layout} · 1 key and 1 helper changed]
+	{
+	ko={layout}에서 · 키 1개, 보조 1개 변경;
+	}
+
+[From {layout} · 1 key and {m} helpers changed]
+	{
+	ko={layout}에서 · 키 1개, 보조 {m}개 변경;
+	}
+
+[From {layout} · {n} keys and 1 helper changed]
+	{
+	ko={layout}에서 · 키 {n}개, 보조 1개 변경;
+	}
+
+[No changes from {layout} yet: there is nothing to share]
+	{
+	ko={layout}에서 바꾼 것이 아직 없어 공유할 내용이 없습니다;
+	}
+
+[As a file]
+	{
+	ko=파일로;
+	}
+
+[An .oakeys file anyone can open in Open Annihilation to install your layout.]
+	{
+	ko=Open Annihilation에서 누구나 열어 키 배치를 설치할 수 있는 .oakeys 파일입니다.;
+	}
+
+[Open Folder]
+	{
+	ko=폴더 열기;
+	}
+
+[As text]
+	{
+	ko=텍스트로;
+	}
+
+[Your changed keys as text, for a forum or a chat.]
+	{
+	ko=내가 바꾼 키를 담은 텍스트로, 포럼이나 채팅용입니다.;
+	}
+
+// The key editor's Paste Someone's Layout.
+
+[Paste Someone's Layout]
+	{
+	ko=다른 사람의 키 배치 붙여넣기;
+	}
+
+[The text you copied changes {n} keys of {layout}.]
+	{
+	ko=복사한 텍스트는 {layout}의 키 {n}개를 바꿉니다.;
+	}
+
+[The text you copied changes 1 key of {layout}.]
+	{
+	ko=복사한 텍스트는 {layout}의 키 1개를 바꿉니다.;
+	}
+
+[By place]
+	{
+	ko=위치;
+	}
+
+[Clash]
+	{
+	ko=충돌;
+	}
+
+[{key} already belongs to {action}. Apply keeps yours and lists the clash.]
+	{
+	ko={action}에 이미 {key} 배정이 있습니다. 적용하면 내 키를 유지하고 충돌을 표시합니다.;
+	}
+
+[Kept in your layout for a version that has it.]
+	{
+	ko=그 동작이 있는 버전을 위해 내 키 배치에 남습니다.;
+	}
+
+[Copy someone's shared key text first (it starts with # oakeys), then choose Paste Someone's Layout again.]
+	{
+	ko=먼저 다른 사람이 공유한 키 텍스트를 복사하세요(# oakeys로 시작합니다). 그런 다음 다른 사람의 키 배치 붙여넣기를 다시 고르세요.;
+	}
+
+// Settings › Graphics: New unit shadows, and its hint while on and while off.
+
+[New unit shadows]
+	{
+	ko=유닛의 새 그림자;
+	}
+
+[Softer aircraft shadows, laid under every unit and tree (Full).]
+	{
+	ko=항공기 그림자를 더 부드럽게 하고 모든 유닛과 나무 아래에 그립니다(전체).;
+	}
+
+[Units cast the original game's shadows, as trees and rocks do.]
+	{
+	ko=유닛은 나무와 바위처럼 원래 게임의 그림자를 드리웁니다.;
+	}
+
+// Settings › Updates: when OA looks for a newer release.
+
+[OA looks for a newer Open Annihilation at every start and every hour while it runs. It never installs one until you say so.]
+	{
+	ko=OA는 시작할 때마다, 그리고 실행 중에는 한 시간마다 더 새 Open Annihilation을 찾습니다. 직접 선택하기 전에는 설치하지 않습니다.;
+	}
+
+// Game files: the Play button.
+
+[Play]
+	{
+	ko=플레이;
 	}
 

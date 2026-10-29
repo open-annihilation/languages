@@ -2094,7 +2094,7 @@
 	ja=ゲームフォルダーを選択;
 	}
 
-[CHOOSE FOLDER]
+[Choose folder]
 	{
 	ja=フォルダーを選択;
 	}
@@ -2104,7 +2104,7 @@
 	ja=自分でコピー;
 	}
 
-[I HAVE COPIED IT]
+[I have copied it]
 	{
 	ja=コピーしました;
 	}
@@ -2114,12 +2114,12 @@
 	ja=1997年の体験版をプレイ;
 	}
 
-[CHOOSE INSTALLER]
+[Choose installer]
 	{
 	ja=インストーラーを選択;
 	}
 
-[WHY]
+[Why]
 	{
 	ja=理由;
 	}
@@ -2184,12 +2184,12 @@
 	ja=このフォルダーにゲームアーカイブはありませんが、中のフォルダーにはあります。1つ選んでください。;
 	}
 
-[USE THAT FOLDER]
+[Use that folder]
 	{
 	ja=このフォルダーを使う;
 	}
 
-[CHOOSE ANOTHER FOLDER]
+[Choose another folder]
 	{
 	ja=別のフォルダーを選択;
 	}
@@ -2199,7 +2199,7 @@
 	ja=これはすでにゲームフォルダーです。;
 	}
 
-[CHECK IT]
+[Check it]
 	{
 	ja=確認;
 	}
@@ -2219,17 +2219,12 @@
 	ja=コピー後に完全に確認します。;
 	}
 
-[CHOOSE ANOTHER FILE]
+[Choose another file]
 	{
 	ja=別のファイルを選択;
 	}
 
-[CHECK AGAIN]
-	{
-	ja=再確認;
-	}
-
-[REPLACE GAME FILES]
+[Replace game files]
 	{
 	ja=ゲームファイルを置き換え;
 	}
@@ -2269,7 +2264,7 @@
 	ja=プレイの準備完了;
 	}
 
-[REMOVE OLD FOLDER]
+[Remove old folder]
 	{
 	ja=古いフォルダーを削除;
 	}
@@ -2284,17 +2279,17 @@
 	ja=プレイ;
 	}
 
-[ADD FILES…]
+[Add files…]
 	{
 	ja=ファイルを追加…;
 	}
 
-[REPLACE THE GAME FILES…]
+[Replace the game files…]
 	{
 	ja=ゲームファイルを置き換え…;
 	}
 
-[REMOVE ALL GAME FILES…]
+[Remove all game files…]
 	{
 	ja=すべてのゲームファイルを削除…;
 	}
@@ -2539,7 +2534,7 @@
 	ja={n}個のMOD;
 	}
 
-[ADD THE MISSING FILES]
+[Add the missing files]
 	{
 	ja=不足しているファイルを追加;
 	}
@@ -2549,82 +2544,72 @@
 	ja=戻る;
 	}
 
-[CANCEL THE REPLACEMENT]
+[Cancel the replacement]
 	{
 	ja=置き換えを取り消す;
 	}
 
-[CHANGE WHAT IS COPIED]
+[Change what is copied]
 	{
 	ja=コピーする内容を変更;
 	}
 
-[CHOOSE A FOLDER]
+[Choose a folder]
 	{
 	ja=フォルダーを選択;
 	}
 
-[CHOOSE ARCHIVES]
+[Choose archives]
 	{
 	ja=アーカイブを選択;
 	}
 
-[CHOOSE THE DEMO'S INSTALLER]
+[Choose the demo's installer]
 	{
 	ja=体験版のインストーラーを選択;
 	}
 
-[CHOOSE THE FOLDER AGAIN]
+[Choose the folder again]
 	{
 	ja=フォルダーを選び直す;
 	}
 
-[CONTINUE]
-	{
-	ja=続行;
-	}
-
-[COPY ANYWAY]
+[Copy anyway]
 	{
 	ja=そのままコピー;
 	}
 
-[DISCARD]
-	{
-	ja=破棄;
-	}
-
-[DISCARD WHAT WAS COPIED]
+[Discard what was copied]
 	{
 	ja=コピー済みの分を破棄;
 	}
 
-[GATHER THEM]
+[Gather them]
 	{
 	ja=まとめる;
 	}
 
-[KEEP]
+[Keep]
 	{
 	ja=残す;
 	}
 
-[KEEP COPYING]
+[Keep copying]
 	{
 	ja=コピーを続ける;
 	}
 
-[KEEP WHAT WAS COPIED]
+[Keep what was copied]
 	{
 	ja=コピー済みの分を残す;
 	}
 
-[REMOVE ALL]
+[Remove all]
 	{
 	ja=すべて削除;
 	}
 
-[START AGAIN]
+[Start again]
 	{
 	ja=やり直す;
 	}
@@ -2634,7 +2619,7 @@
 	ja=再試行;
 	}
 
-[USE IT]
+[Use it]
 	{
 	ja=使用する;
 	}
@@ -4313,12 +4298,12 @@
 
 [{version} · rev {revision}]
 	{
-	ja={version} · リビジョン{revision};
+	ja={version} · Rev.{revision};
 	}
 
 [rev {revision}]
 	{
-	ja=リビジョン{revision};
+	ja=Rev.{revision};
 	}
 
 [{count} map]
@@ -6123,7 +6108,7 @@
 
 [{version} (rev {revision})]
 	{
-	ja={version}（リビジョン{revision}）;
+	ja={version}（Rev.{revision}）;
 	}
 
 [Update available · {size} to download]
@@ -11529,11 +11514,6 @@
 	ja=キーをクリックしてから、別のキーを押して調べてください。;
 	}
 
-[One clash: {chord} already belongs to {action}. Apply keeps yours and lists the clash.]
-	{
-	ja=競合1件：{chord}は、すでに{action}に割り当てられています。適用すると、自分の割り当てを残し、競合を表示します。;
-	}
-
 [Settle 1 clash to save]
 	{
 	ja=競合1件を解決して保存;
@@ -11551,7 +11531,7 @@
 
 // Sharing and import.
 
-[Copy as text]
+[Copy as Text]
 	{
 	ja=テキストとしてコピー;
 	}
@@ -11581,11 +11561,6 @@
 	ja=インポートすると、キーはこのアクションのものになり、{action}からは外れます。;
 	}
 
-[Import…]
-	{
-	ja=インポート…;
-	}
-
 [It holds no oakeys.yaml at its top, or in a single folder at its top.]
 	{
 	ja=最上位にoakeys.yamlがなく、最上位の1つのフォルダーの中にもありません。;
@@ -11609,31 +11584,6 @@
 [Numbers are Windows key codes, read as key places. The changes go on top of your layout as "Imported from {file}". Nothing else changes.]
 	{
 	ja=数字はWindowsのキーコードで、キーの位置として読みます。変更は「{file}からインポート」としてキー配置の上に載ります。ほかは変わりません。;
-	}
-
-[Paste keys]
-	{
-	ja=キーを貼り付け;
-	}
-
-[Paste…]
-	{
-	ja=貼り付け…;
-	}
-
-[Share your keys]
-	{
-	ja=キーを共有;
-	}
-
-[Share…]
-	{
-	ja=共有…;
-	}
-
-[The file is a .oakeys package anyone can open in Open Annihilation. The text carries the keys alone, for a forum or a chat.]
-	{
-	ja=このファイルは.oakeysパッケージで、Open Annihilationなら誰でも開けます。テキストにはキーだけが含まれ、フォーラムやチャット向けです。;
 	}
 
 [This text is not a key layout.]
@@ -12750,11 +12700,6 @@
 	ja=macOSは保護された場所からこのコピーを実行しているため、自身を更新できません。Open Annihilationをアプリケーションにドラッグして、そこから起動してください。;
 	}
 
-[{action} is kept in your layout for a version that has it.]
-	{
-	ja={action}は、それを持つバージョンのために、キー配置へ残してあります。;
-	}
-
 [{new} won't be offered again until a newer release, or choose it in Settings › Updates.]
 	{
 	ja=より新しいリリースまで{new}は再案内しません。設定 › 更新で選ぶこともできます。;
@@ -12914,16 +12859,6 @@
 	ja=アクション1;
 	}
 
-[1 key, 1 helper]
-	{
-	ja=キー1、ヘルパー1;
-	}
-
-[1 key, {helpers} helpers]
-	{
-	ja=キー1、ヘルパー{helpers};
-	}
-
 [1 setting changed]
 	{
 	ja=設定の変更1件;
@@ -13024,12 +12959,12 @@
 	ja={mod}だけに適用されます。;
 	}
 
-[Apply 1 change]
+[Apply 1 Change]
 	{
 	ja=変更1件を適用;
 	}
 
-[Apply {n} changes]
+[Apply {n} Changes]
 	{
 	ja=変更{n}件を適用;
 	}
@@ -14079,11 +14014,6 @@
 	ja={to}でゲームのルールが変わるかどうか、OAには判断できません。変わる場合、{from}のセーブデータはロードできなくなります。{From}は保管され、ロールバックで元に戻せます。;
 	}
 
-[OA looks for a newer Open Annihilation once a day when it starts. It never installs one until you say so.]
-	{
-	ja=OAは起動時に1日1回、新しいOpen Annihilationを探します。指示があるまでインストールしません。;
-	}
-
 [OA never checks]
 	{
 	ja=OAは確認しない;
@@ -14374,7 +14304,7 @@
 	ja=資源;
 	}
 
-[Restore defaults]
+[Restore Defaults]
 	{
 	ja=初期設定に戻す;
 	}
@@ -14439,7 +14369,7 @@
 	ja=変更を保存;
 	}
 
-[Save file…]
+[Save File…]
 	{
 	ja=ファイルを保存…;
 	}
@@ -14644,11 +14574,6 @@
 	ja=すべて外して開始;
 	}
 
-[Starts from]
-	{
-	ja=開始元;
-	}
-
 [Status]
 	{
 	ja=ステータス;
@@ -14802,16 +14727,6 @@
 [The package could not be unpacked: {detail}]
 	{
 	ja=パッケージを展開できませんでした：{detail};
-	}
-
-[The text changes 1 key of {layout}.]
-	{
-	ja=このテキストは、{layout}のキーを1つ変更します。;
-	}
-
-[The text changes {n} keys of {layout}.]
-	{
-	ja=このテキストは、{layout}のキーを{n}個変更します。;
 	}
 
 [The version installed is kept, and Roll back in the Library brings it back.]
@@ -15304,11 +15219,6 @@
 	ja={date};
 	}
 
-[place]
-	{
-	ja=配置;
-	}
-
 [px]
 	{
 	ja=px;
@@ -15512,16 +15422,6 @@
 [{folder} is a folder of your own, not {name}. Move or rename it, then Retry.]
 	{
 	ja={folder}は{name}ではなく、ユーザー自身のフォルダーです。移動するか名前を変えてから、再試行してください。;
-	}
-
-[{keys} keys, 1 helper]
-	{
-	ja=キー{keys}個、ヘルパー1つ;
-	}
-
-[{keys} keys, {helpers} helpers]
-	{
-	ja=キー{keys}個、ヘルパー{helpers}つ;
 	}
 
 [{key} did not count: let go after {held} of {wait} s.]
@@ -15802,12 +15702,7 @@
 	ja=ミューテ · {count}オン;
 	}
 
-// The key editor: Clone…, and Rename and Describe….
-
-[Clone…]
-	{
-	ja=クローン…;
-	}
+// The key editor: Rename and Describe…, and the Clone and Rename questions.
 
 [Rename and Describe…]
 	{
@@ -15837,11 +15732,6 @@
 [Based on {layout}]
 	{
 	ja={layout}に基づく;
-	}
-
-[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share… saves it as a file.]
-	{
-	ja={layout}と自分の変更から作る、自分のキー配置です。ここで開きます。「変更を保存」で保持し、「共有…」でファイルに保存します。;
 	}
 
 [Another key layout is called {name}.]
@@ -15883,5 +15773,174 @@
 [Option]
 	{
 	ja=Alt;
+	}
+
+// The Library's header: OPEN ANNIHILATION LIBRARY.
+
+[LIBRARY]
+	{
+	ja=ライブラリ;
+	}
+
+// The key editor's More menu: Layouts, then Sharing, and Clone's note.
+
+[Layouts]
+	{
+	ja=キー配置;
+	}
+
+[Import New Layout…]
+	{
+	ja=新しいキー配置をインポート…;
+	}
+
+[Clone as New Layout…]
+	{
+	ja=新しいキー配置としてクローン…;
+	}
+
+[Share My Custom Keys…]
+	{
+	ja=自分のキーを共有…;
+	}
+
+[Paste Someone's Layout…]
+	{
+	ja=他の人のキー配置を貼り付け…;
+	}
+
+[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share My Custom Keys… saves it as a file.]
+	{
+	ja={layout}と自分の変更から作る、自分のキー配置です。ここで開きます。「変更を保存」で保持し、「自分のキーを共有…」でファイルに保存します。;
+	}
+
+// The key editor's Share My Custom Keys.
+
+[Share My Custom Keys]
+	{
+	ja=自分のキーを共有;
+	}
+
+[From {layout} · {n} keys and {m} helpers changed]
+	{
+	ja={layout}から · キー{n}個とヘルパー{m}つを変更;
+	}
+
+[From {layout} · 1 key and 1 helper changed]
+	{
+	ja={layout}から · キー1個とヘルパー1つを変更;
+	}
+
+[From {layout} · 1 key and {m} helpers changed]
+	{
+	ja={layout}から · キー1個とヘルパー{m}つを変更;
+	}
+
+[From {layout} · {n} keys and 1 helper changed]
+	{
+	ja={layout}から · キー{n}個とヘルパー1つを変更;
+	}
+
+[No changes from {layout} yet: there is nothing to share]
+	{
+	ja={layout}からの変更はまだないため、共有するものがありません;
+	}
+
+[As a file]
+	{
+	ja=ファイルとして;
+	}
+
+[An .oakeys file anyone can open in Open Annihilation to install your layout.]
+	{
+	ja=誰でもOpen Annihilationで開いて、このキー配置をインストールできる.oakeysファイルです。;
+	}
+
+[Open Folder]
+	{
+	ja=フォルダーを開く;
+	}
+
+[As text]
+	{
+	ja=テキストとして;
+	}
+
+[Your changed keys as text, for a forum or a chat.]
+	{
+	ja=変更したキーをテキストにしたもので、フォーラムやチャット向けです。;
+	}
+
+// The key editor's Paste Someone's Layout.
+
+[Paste Someone's Layout]
+	{
+	ja=他の人のキー配置を貼り付け;
+	}
+
+[The text you copied changes {n} keys of {layout}.]
+	{
+	ja=コピーしたテキストは、{layout}のキーを{n}個変更します。;
+	}
+
+[The text you copied changes 1 key of {layout}.]
+	{
+	ja=コピーしたテキストは、{layout}のキーを1つ変更します。;
+	}
+
+[By place]
+	{
+	ja=位置;
+	}
+
+[Clash]
+	{
+	ja=競合;
+	}
+
+[{key} already belongs to {action}. Apply keeps yours and lists the clash.]
+	{
+	ja={key}は、すでに{action}に割り当てられています。適用すると、自分の割り当てを残し、競合を表示します。;
+	}
+
+[Kept in your layout for a version that has it.]
+	{
+	ja=このアクションを持つバージョンのために、キー配置へ残してあります。;
+	}
+
+[Copy someone's shared key text first (it starts with # oakeys), then choose Paste Someone's Layout again.]
+	{
+	ja=先に、他の人が共有したキーのテキストをコピーしてください（先頭は# oakeysです）。それから「他の人のキー配置を貼り付け」を、もう一度選んでください。;
+	}
+
+// Settings › Graphics: New unit shadows, and its hint while on and while off.
+
+[New unit shadows]
+	{
+	ja=ユニットの新しい影;
+	}
+
+[Softer aircraft shadows, laid under every unit and tree (Full).]
+	{
+	ja=航空機の影をより柔らかくし、すべてのユニットと木の下に描きます（フル）。;
+	}
+
+[Units cast the original game's shadows, as trees and rocks do.]
+	{
+	ja=ユニットは、木や岩と同じく、元のゲームの影を落とします。;
+	}
+
+// Settings › Updates: when OA looks for a newer release.
+
+[OA looks for a newer Open Annihilation at every start and every hour while it runs. It never installs one until you say so.]
+	{
+	ja=OAは起動するたびに、また実行中は1時間ごとに、新しいOpen Annihilationを探します。指示があるまでインストールしません。;
+	}
+
+// Game files: the Play button.
+
+[Play]
+	{
+	ja=プレイ;
 	}
 
