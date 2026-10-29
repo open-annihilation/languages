@@ -105,9 +105,9 @@ the English, the translation the pack uses, and why.
 - Rush ラッシュ, Turtle 籠城, Learned 学習型, Teaching 指導型. Turtle is 籠城
   (holding a position), not タートル, which is also an animal.
 - "Full 3D Mode": フル3Dモード. The label is フル3Dモードを許可.
-- "Clone" (the key editor's Duplicate…, now Clone…): クローン. 複製 is the
-  pack's old word for Duplicate, and a clone here is a key layout of the
-  player's own. A player may still expect 複製.
+- "Clone" (the key editor's Duplicate…, now Clone as New Layout…): クローン.
+  複製 is the pack's old word for Duplicate, and a clone here is a key layout
+  of the player's own. A player may still expect 複製.
 - "WORLD", the Library heading over world tags, and "World: {tag} ({count})":
   ワールド and ワールド：{tag}（{count}）, parallel to タグ. The pack had no
   word for a mod's world.
@@ -116,6 +116,13 @@ the English, the translation the pack uses, and why.
 - "Ready when you are", the sample line in Arrange overlays' chat: 準備できたらどうぞ.
 - The battle room's mutators button is ミューテ · オフ and ミューテ · {count}オン.
   ミューテーター does not fit on the button. The rest of the pack still says ミューテーター.
+- "Paste Someone's Layout…": 他の人のキー配置を貼り付け…. 相手 would read as
+  an opponent in a game.
+- "New unit shadows": ユニットの新しい影, so it does not read as the shadows
+  of new units.
+- "rev", the English's short form ("{version} · rev {revision}" and the two
+  like it): Rev., where "revision" spelt out stays リビジョン. リビジョン left no
+  room for a mod's name in the Library's narrower list.
 
 ### Korean (ko)
 
@@ -130,6 +137,10 @@ the English, the translation the pack uses, and why.
   parallel to 태그. The pack had no word for a mod's world.
 - "Option": Alt, the key the pack already names.
 - "Ready when you are": 준비되면 말씀해 주세요.
+- "helper": 보조, everywhere now. "Turn every helper off" said 도우미, as two
+  of the old key counts did.
+- "New unit shadows": 유닛의 새 그림자, so it does not read as a new unit's
+  shadows.
 
 ### Russian (ru)
 
@@ -149,6 +160,17 @@ the English, the translation the pack uses, and why.
   gender.
 - The battle room's mutators button is Мутат. · выкл. and Мутат. · {count}.
   Мутаторы does not fit on the button. The rest of the pack still says мутаторы.
+- "From {layout} · {n} keys and {m} helpers changed": Из {layout} · изменено
+  клавиш: {n}, помощников: {m}. The counts take a colon, so they need no
+  plural forms, and the layout's name follows Из as it is, as in Копия
+  {layout} and На основе {layout}.
+- "Sharing": Передача, the hacks' word for the area, now also the heading over
+  the key editor's Share and Paste.
+- "KEYS": КЛАВИШИ, in capitals beside КАРТЫ and ДОПОЛНЕНИЯ, now that it is also
+  the key editor's header.
+- "In use", the Library's pill: Выбрано, a short participle as the glossary
+  has it, as Ukrainian's Обрано. Используется left no room for the pack's own
+  name in the Library's narrower list.
 
 ### Ukrainian (uk)
 
@@ -167,6 +189,10 @@ the English, the translation the pack uses, and why.
   gender.
 - The battle room's mutators button is Мутат. · вимк. and Мутат. · {count}.
   Мутатори does not fit on the button. The rest of the pack still says мутатори.
+- "From {layout} · {n} keys and {m} helpers changed": З {layout} · змінено
+  клавіш: {n}, помічників: {m}, for the same reason as the Russian.
+- "KEYS": КЛАВІШІ, in capitals beside МАПИ and ДОПОВНЕННЯ, now that it is also
+  the key editor's header.
 
 ### Simplified Chinese (zh-Hans)
 
@@ -181,3 +207,7 @@ the English, the translation the pack uses, and why.
   parallel to 标签.
 - "Option": Alt.
 - "Ready when you are": 准备好了就说一声.
+- "helper": 辅助, everywhere now. "Helpers act in every game" said 辅助键, but
+  a helper is a setting, not a key.
+- "Layouts", the heading in the key editor's More menu: 按键布局, the
+  glossary's word, not 布局 alone.
