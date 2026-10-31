@@ -1,6 +1,6 @@
 # Open Annihilation language packs
 
-The sources of Open Annihilation's downloadable language packs (`.oalang`): Simplified Chinese, Ukrainian, Korean, Japanese, Russian and Brazilian Portuguese. Each pack is built and checked here, and published with the content library's publish script. That script also makes a GitHub release for each pack and revision, so a translation can ship without an engine release.
+The sources of Open Annihilation's downloadable language packs (`.oalang`): Simplified Chinese, Ukrainian, Korean, Japanese, Russian, Brazilian Portuguese and European Portuguese. Each pack is built and checked here, and published with the content library's publish script. That script also makes a GitHub release for each pack and revision, so a translation can ship without an engine release.
 
 The five languages Total Annihilation 3.1c ships with (English, German, Spanish, French and Italian) need no pack: Open Annihilation reads them from the game's own data.
 
@@ -12,6 +12,7 @@ The five languages Total Annihilation 3.1c ships with (English, German, Spanish,
 - `ja/` holds the Japanese sources, laid out the same way. Its text is drawn in the modern fonts, its kana and kanji from the pack's own face, cut from the same collection in its Japanese forms.
 - `ru/` holds the Russian sources, laid out the same way. Like Ukrainian, it is drawn in the modern fonts and brings no font of its own.
 - `pt-BR/` holds the Brazilian Portuguese sources, laid out the same way. Its letters are all in the game's code page, but 3.1c's menu fonts lack ã, õ, Ç, Â, Ê, Ô and À, so it is drawn in the modern fonts and brings no font of its own.
+- `pt-PT/` holds the European Portuguese sources, laid out the same way and drawn the same way as the Brazilian pack's. Portugal's system locale chooses it, as do those of the other countries that write European Portuguese; a bare `pt` chooses the Brazilian pack.
 - `fonts/` holds the CJK fonts' recipes, their licence and the pinned fontTools requirements, and `engine-faces.json`, the record of the characters the engine's own faces draw. The built fonts are not stored here.
 - `tools/check.py` checks a pack. `tools/coverage.py` lists the engine's interface words a pack does not translate. `tools/build.py` builds a `.oalang`. `tools/fonts.py` builds the fonts. `tools/translate.py` prepares, checks and merges a new pack's translation from an existing pack. `tools/screens.py` takes pictures of a built pack's screens with an engine build.
 - `docs/` holds the guides: [adding a language](docs/new-language.md), [updating the packs for an engine release](docs/updating-a-pack.md), and each pack's glossary under `docs/glossaries/`.
@@ -88,11 +89,11 @@ python3 tools/build.py uk --oa-tool /path/to/oa-tool
 
 ## A new revision
 
-Fix the translation, then bump `packaging.revision` and `packaging.date` in the pack's `language.yaml`. Commit and push to `main`. From that clean commit, build the pack. The maintainer publishes it with the content library's publish script, which reads the build info and makes the GitHub release for that pack and revision (for example `zh-Hans-r1`, `uk-r1`, `ko-r1`, `ja-r1`, `ru-r1` or `pt-BR-r1`).
+Fix the translation, then bump `packaging.revision` and `packaging.date` in the pack's `language.yaml`. Commit and push to `main`. From that clean commit, build the pack. The maintainer publishes it with the content library's publish script, which reads the build info and makes the GitHub release for that pack and revision (for example `zh-Hans-r1`, `uk-r1`, `ko-r1`, `ja-r1`, `ru-r1`, `pt-BR-r1` or `pt-PT-r1`).
 
 ## Licences
 
-The tables, briefings and tools are GPL-3.0-only, the same terms as the engine (`LICENSE`, `COPYRIGHT`). The CJK fonts are under the SIL Open Font License 1.1 (`fonts/NotoSansCJK-OFL.txt`). The Ukrainian pack carries no font.
+The tables, briefings and tools are GPL-3.0-only, the same terms as the engine (`LICENSE`, `COPYRIGHT`). The CJK fonts are under the SIL Open Font License 1.1 (`fonts/NotoSansCJK-OFL.txt`). The Ukrainian, Russian and Portuguese packs carry no font.
 
 ## Tests
 

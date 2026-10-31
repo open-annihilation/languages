@@ -1,0 +1,8 @@
+MISSÃO 13.1CORE
+
+ESCUTA-INTEL:
+Destrua os guardas do Portal. Capture o que lhe for útil. Use o seu D-Gun no resto. Não é necessário construir uma base. A vida vegetal fornece uma fonte de energia, caso precise.  Os mares não são seguros - use o Atlas. Avance depressa e capture a torre de radar avançada no continente.
+
+&RCapture o Atlas e use-o para voar até ao continente. Capture a torre de radar avançada.&
+
+EXECUTE AGORA.

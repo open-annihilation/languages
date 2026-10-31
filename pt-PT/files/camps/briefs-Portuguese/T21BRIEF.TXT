@@ -1,0 +1,13 @@
+Missão T21: Ataque de Zippers
+
+O Ponto Quente de Harrison é uma região geotermicamente ativa de Empyrrean.  O CORE tem ali uma base grande e pouco defendida, pois até agora não foi desafiado na área.
+
+Leve uma força de Zippers num ataque relâmpago, com foco nas fontes de energia deles.  Destrua todas as Centrais Geotérmicas e Centrais de Fusão a qualquer custo.
+
+Sugestões:
+Não tente destruir a linha defensiva do CORE. Limite-se a passar por ela a toda a velocidade e continue o ataque às zonas mais vulneráveis.  Cuidado.  Há patrulhas errantes e fábricas na retaguarda.  Não se distraia dos objetivos da missão.
+
+
+
+Táticas de batalha:
+Com o jogo em curso, prima a tecla ENTER e escreva '+shootall' na linha de mensagem se quiser que as suas unidades ataquem automaticamente as construções.  Os seus Zippers têm blindagem ligeira, por isso não convém ter demasiados perto de uma Central de Fusão quando ela explodir.

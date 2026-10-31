@@ -1,0 +1,22 @@
+Missão R31: Ribeiro Rotrey
+
+Ao longo do Ribeiro de Rotrey, os nossos adversários sem imaginação largaram várias unidades de construção para desenvolver a sua economia na região.
+
+Lançámos um bombardeamento que destruiu a maior parte dos seus Extratores de Metal, embora a um custo elevado.
+
+As suas ordens são avançar e acabar com eles antes que possam recuperar.
+
+Sugestões:
+Terá de conquistar uma área defensável com algum metal e construir uma base o mais depressa possível.
+
+
+
+Táticas de batalha:
+Pode ajustar a quantidade de falas das unidades que aparecem no ecrã principal.  Prima F2 para
+abrir o Menu de Opções e clique depois no botão INTERFACE.  Use o botão FALAS
+para alternar entre as opções DESLIGADO, MÉDIO e COMPLETO.
+
+
+
+Quando uma unidade comunica uma mensagem, pode premir F3 para centrar o ecrã na última unidade que comunicou
+informações.

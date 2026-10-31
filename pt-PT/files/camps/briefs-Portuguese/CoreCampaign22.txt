@@ -1,0 +1,8 @@
+MISSÃO 22.1CORE
+
+ESCUTA-INTEL:
+Tem de avançar depressa - antes que o ARM se possa preparar. Destrua quaisquer guardas no Portal. Há um canhão Bertha ativo a sul.  Foram-lhe fornecidas todas as unidades necessárias para esta missão.
+
+&RCapture o canhão Bertha.&
+
+EXECUTE AGORA.

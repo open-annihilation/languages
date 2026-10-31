@@ -1,0 +1,16 @@
+Missão T15: O Combate do Vau de Wayneston
+
+O CORE está a tentar expandir uma pequena base perto do Porto de Wayneston.
+
+Atravesse o rio no Vau de Wayneston e destrua a base deles.  Não deixe de eliminar as suas instalações de produção de energia e os Depósitos de Energia.
+
+O seu nanotorno está danificado e não poderá construir unidades nesta batalha.
+
+Sugestões:
+Decida o ponto de travessia e ataque sem demora.  As forças do CORE estão a construir ativamente defesas mais fortes.  O seu Canhão Desintegrador pode limpar concentrações de unidades inimigas.
+
+Táticas de batalha:
+Prima CTRL+C para selecionar o Comandante.  Capturar Coletores Solares fornece-lhe energia suficiente para disparar a D-Gun com frequência.  (O botão CAPTURAR encontra-se no menu de ordens do Comandante.)
+
+Para capturar uma unidade, mude para o menu de ordens do Comandante (pode premir O no teclado), clique no botão CAPTURAR (ou na tecla de atalho C) e depois clique na unidade que pretende capturar.
+Pode capturar qualquer unidade inimiga e usá-la em seu proveito.  Tenha presente que o Comandante fica vulnerável a ataques enquanto captura uma unidade.

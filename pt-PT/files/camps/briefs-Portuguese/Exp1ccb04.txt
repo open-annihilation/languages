@@ -1,0 +1,13 @@
+MISSÃO 4.1LCORE
+O ARM controla Hydross, mas não importa. O sinalizador nem sequer estava em Hydross. Os sensores indicam que poderá estar em Lusch. Temos de vasculhar o planeta enquanto mantemos o ARM à distância.
+
+ESCUTA-INTEL:
+O ARM procura o Comandante e o sinalizador. Tem de ser detido antes de estabelecer um ponto de apoio neste mundo.
+
+O ARM adaptou unidades a este mundo. Espere resistência de unidades hovercraft e Kbots anfíbios ARM.
+
+O CORE também desenvolveu tecnologia hovercraft. &RUtilize essa tecnologia para destruir o ARM.&
+
+Para concluir esta missão, tem de &Rconstruir uma plataforma de hovercrafts e destruir todas as unidades ARM.&
+
+EXECUTE AGORA.

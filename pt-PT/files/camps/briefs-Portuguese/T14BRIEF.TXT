@@ -1,0 +1,12 @@
+Missão T14: Caça aos Nhanons
+
+Julgamos que o CORE montou uma base aérea a norte do Rio Nhanons.  Localize essa base e destrua-a.
+
+Leve o seu bando de Kbots através do vau e destrua a Fábrica de Aeronaves Avançada do CORE.
+
+Sugestões:
+Espalhe as suas unidades antiaéreas para que o ângulo de ataque varie.  Isto aumenta a probabilidade de acertar e reduz ao mínimo o dano causado pelas aeronaves inimigas.
+Táticas de batalha:
+Os Kbots de Construção podem reparar unidades danificadas. Para o fazer rapidamente, selecione a unidade de construção, prima M e clique com o botão esquerdo na unidade danificada que pretende reparar.
+
+Se estiver a usar a interface de clique direito, selecione a unidade de construção e clique com o botão direito na unidade danificada.

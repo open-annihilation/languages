@@ -1,0 +1,10 @@
+MISSÃO 13.002ARMB
+Destrua a base CORE localizada acima da Interface de Landown.
+
+&YPRIORIDADE&
+O CORE constituiu um imenso arsenal de material de guerra e está a tentar construir uma grande base de fogo do outro lado da barreira conhecida como "Interface de Landown". A parede escarpada da Interface estende-se por muitos quilómetros, onde a Crosta 8 foi empurrada para cima da Crosta 7.
+
+INFORMAÇÕES
+Terá de encontrar forma de transpor a Interface de Landown para deter o CORE. &GSiga pelo ar, Comandante.&
+
+FIM

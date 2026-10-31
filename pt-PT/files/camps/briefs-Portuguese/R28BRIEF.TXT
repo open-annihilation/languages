@@ -1,0 +1,19 @@
+Missão R28: Lua Nova
+
+Está a ser enviado para a lua Novaspin IV, atualmente explorada pelo ARM como importante fonte de metal.  Tem de estabelecer rapidamente uma base antes que a sua presença seja detetada e seja lançado um grande ataque.
+
+Além de sobreviver, as suas ordens são destruir todos os Laboratórios de Kbots inimigos.
+&RNão podem ser enviados reforços para Novaspin IV durante treze dias, pelo que terá de levar o ataque por conta própria.&
+
+Sugestões:
+Trabalhe depressa para desenvolver a sua economia.  Prepare-se para repelir um contra-ataque obstinado do ARM.  A sua única vantagem é que o ARM demorará alguns minutos a redirecionar os seus recursos e a começar a construir unidades de guerra.
+
+Novaspin IV tem apenas vestígios de atmosfera.  Não poderá construir nenhum tipo de aeronave.
+
+Vigie a sua economia de energia, sobretudo se capturar Minas Moho, pois exigem muita energia.
+
+
+Táticas de batalha:
+A barra amarela na parte superior do ecrã mostra a quantidade de energia armazenada.  Os números verdes à direita da barra de energia mostram a energia que recebe a cada segundo de jogo.  Os números vermelhos indicam os seus gastos de energia a cada segundo de jogo.
+
+Precisa de energia para construir, abastecer as suas forças e disparar a D-Gun, por isso assegure-se de que tem fontes de energia suficientes para sustentar a economia.  Mantenha um excedente de energia ao usar a D-Gun.  Use a tecla X para ligar e desligar as Minas Moho selecionadas.

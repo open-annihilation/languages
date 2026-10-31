@@ -1,0 +1,70 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+
+// Captions drawn over the player's own pictures while European Portuguese is shown
+// (src/present/include/oa/present/picture_captions.hpp). A picture left
+// out here, or a section with no keys, keeps its art.
+
+// The order buttons. A caption is drawn at the largest size that fits its
+// button, so the longer words are cut short to stay legible.
+[commongui.gaf]
+{
+    [ARMATTACK] { text=ATACAR; }
+    [CORATTACK] { text=ATACAR; }
+    [ARMMOVE] { text=MOVER; }
+    [CORMOVE] { text=MOVER; }
+    [ARMSTOP] { text=PARAR; }
+    [CORSTOP] { text=PARAR; }
+    [ARMPATROL] { text=PATRULHAR; }
+    [CORPATROL] { text=PATRULHAR; }
+    [ARMDEFEND] { text=DEFENDER; }
+    [CORDEFEND] { text=DEFENDER; }
+    [ARMRECLAIM] { text=RECICLAR; }
+    [CORRECLAIM] { text=RECICLAR; }
+    [ARMREPAIR] { text=REPARAR; }
+    [CORREPAIR] { text=REPARAR; }
+    [ARMCAPTURE] { text=CAPTURAR; }
+    [CORCAPTURE] { text=CAPTURAR; }
+    [ARMLOAD] { text=CARREGAR; }
+    [CORLOAD] { text=CARREGAR; }
+    [ARMUNLOAD] { text=DESCARREG.; }
+    [CORUNLOAD] { text=DESCARREG.; }
+    [ARMORDERS] { text=ORDENS; }
+    [CORORDERS] { text=ORDENS; }
+    [ARMBUILD] { text=CONSTRUIR; }
+    [CORBUILD] { text=CONSTRUIR; }
+    [ARMBLAST] { text=D-GUN; }
+    [CORBLAST] { text=D-GUN; }
+
+    // The toggles: one caption per state, then the button's name; their
+    // lights stay at the right.
+    [ARMFIREORD] { text=CESSAR FOGO|RIPOSTAR|FOGO À VONTADE|ORDENS DE FOGO; area=3,2,95,16; align=left; }
+    [CORFIREORD] { text=CESSAR FOGO|RIPOSTAR|FOGO À VONTADE|ORDENS DE FOGO; area=3,2,95,16; align=left; }
+    [ARMMOVEORD] { text=MANTER POSIÇÃO|MANOBRAR|VAGUEAR|ORDENS DE MOV.; area=3,2,95,16; align=left; }
+    [CORMOVEORD] { text=MANTER POSIÇÃO|MANOBRAR|VAGUEAR|ORDENS DE MOV.; area=3,2,95,16; align=left; }
+    [ARMONOFF] { text=DESLIGADO|LIGADO|LIGA/DESLIGA; area=3,2,95,16; align=left; }
+    [CORONOFF] { text=DESLIGADO|LIGADO|LIGA/DESLIGA; area=3,2,95,16; align=left; }
+    [ARMCLOAK] { text=VISÍVEL|CAMUFLADO|CAMUFLAGEM; area=3,2,95,16; align=left; }
+    [CORCLOAK] { text=VISÍVEL|CAMUFLADO|CAMUFLAGEM; area=3,2,95,16; align=left; }
+    [ARMACTIVATE] { text=ATIVAR|DESATIVAR; area=3,2,95,16; align=left; }
+    [CORACTIVATE] { text=ATIVAR|DESATIVAR; area=3,2,95,16; align=left; }
+}
+
+// The top bar's METAL and ENERGY.
+[armint.gaf/PANELTOP] { text=METAL|ENERGIA; area=36,4,48,17|285,4,56,17; }
+[corint.gaf/PANELTOP] { text=METAL|ENERGIA; area=34,8,48,13|285,8,52,13; }
+
+// The titles over the battlefield.
+[igtitles.gaf]
+{
+    [igpaused] { text=PAUSA; }
+    [igvictory] { text=VITÓRIA!; }
+    [igdefeat] { text=DERROTA; }
+}
+
+// The load dialog's title.
+[loadgame.gaf/LoadGame] { text=CARREGAR; }
+
+// The save and load dialogs' titles, painted into their backgrounds.
+[dsavegame2.pcx] { text=GUARDAR JOGO; area=64,31,168,27; }
+[dloadgame2.pcx] { text=CARREGAR JOGO; area=61,32,166,27; }

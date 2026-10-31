@@ -1,0 +1,16 @@
+Missão T29: Atravessar os Lagos Longos
+
+As nossas forças no Mar de Safira devastaram a marinha do CORE e estabeleceram uma cabeça de praia na ilha principal.  Uma equipa de reconhecimento comunicou o avistamento de um Portal Galáctico danificado no seu setor.  Fica no canto sudeste da região dos dois lagos. Este Portal tem de ser capturado antes de poder ser reparado.
+
+O CORE espera que ataquemos a oeste ou a leste destes longos lagos, pelo que a praia norte está pouco defendida.  Foi reunida uma pequena força de ataque para ajudar no seu assalto inicial a essa praia.  Há recursos significativos e estruturas inimigas na margem norte.  Depois de capturadas, as estruturas podem ajudá-lo a cumprir a missão.
+
+As suas ordens são atravessar os dois lagos e capturar o Portal Galáctico no canto sudeste do mapa.
+
+Sugestões:
+O tempo é limitado, por isso não construa demasiadas defesas fixas.  Para montar rapidamente uma base, tente capturar o maior número possível de estruturas da base do CORE.  Os tanques anfíbios e os hovercrafts são muito úteis nesta missão.
+
+Táticas de batalha:
+Use uma unidade de construção avançada para construir um canhão Big Bertha e uma Torre de Radar Avançada em cada ilha.  Depois, use a Bertha para eliminar as defesas inimigas na ilha seguinte.
+Esta é uma missão longa e é possível que atinja o limite de 250 unidades.  Pode premir a BARRA DE ESPAÇOS para ver o seu total de unidades em comparação com o limite.
+
+À medida que se aproximar do limite, pode querer livrar-se das unidades menos úteis.  Para isso, selecione todas as unidades que pretende destruir e prima CTRL+D para as autodestruir.

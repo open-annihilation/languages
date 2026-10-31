@@ -1,0 +1,12 @@
+Missão T03: Investida de Cans
+
+&REmergência!&
+Os seus batedores detetaram uma poderosa força de Cans CORE.  Impeça que os Cans destruam o seu Reator de Fusão.
+
+Sugestões:
+Tem três Kbots de Construção, por isso use-os com sensatez.  Se possível, crie unidades com poder de fogo de longo alcance.
+
+Táticas de batalha:
+Para que o seu Kbot de Construção construa várias estruturas, mantenha a tecla SHIFT premida ao colocar a estrutura.  Continue a premir a tecla SHIFT enquanto dá as ordens seguintes.  O Kbot de Construção executa as suas ordens pela ordem em que foram dadas.
+
+Se mantiver SHIFT premida com uma unidade de construção selecionada, são apresentados quadrados no terreno.  Os quadrados verdes representam as estruturas que a unidade atualmente selecionada vai construir.  Os quadrados azuis mostram as ordens de construção das outras unidades de construção.

@@ -1,0 +1,15 @@
+Missão T25: Colina do Guardian
+
+O avanço do ARM para norte pelos contrafortes das Montanhas Webster foi finalmente travado.  Após uma batalha feroz, impedimos que atravessassem o Rio Dalok. No entanto, os seus Guardians, construídos nas alturas a sul do vau, sufocaram os nossos contra-ataques.  A "Colina do Guardian" domina a região e os serviços secretos sugerem que, se a tomarmos, o ARM será forçado a uma retirada geral.
+
+Tem ordens para avançar através do vau e construir um Punisher no topo da Colina do Guardian.  Tem apenas 50 minutos para cumprir esta missão, pois precisamos desesperadamente de si noutro lugar.
+
+Sugestões:
+Não ataque aos poucos.  Ataque em grandes grupos e recue as suas forças quando achar que não consegue fazer mais nada.
+Desenvolva a sua economia com os recursos das áreas que capturar.  Construa várias fábricas, pois vai precisar de muitas unidades nesta batalha.
+
+Táticas de batalha:
+Dar uma ordem MOVER às fábricas diz às unidades que produzem para onde ir.  Selecione a fábrica, prima o botão MOVER e clique num ponto de destino para as unidades.
+
+Se mantiver premida a tecla SHIFT, pode dar à fábrica várias ordens MOVER seguidas.  As novas unidades passarão por cada ponto de passagem a caminho do destino
+final.

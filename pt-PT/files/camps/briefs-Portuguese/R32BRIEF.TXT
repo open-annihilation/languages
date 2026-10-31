@@ -1,0 +1,15 @@
+Missão R32: Fontes Termais de Zedtopt
+
+No coração das Montanhas da Rocha Moída há um vale com várias fontes termais que alimentam um lago que não gela.  Foi deixado ali para construir uma base e garantir a área.
+
+A nordeste encontra-se um Laboratório de Kbots Avançado ARM. Destrua-o.
+Sugestões:
+Use batedores para encontrar jazidas de minério ricas e protegê-las, mesmo que ainda não esteja pronto para construir Extratores de Metal.
+
+Expanda-se de forma agressiva, sobretudo para norte.
+
+
+
+Táticas de batalha:
+Mantenha a tecla SHIFT premida para colocar várias ordens em fila.
+Os respiradouros geotérmicos (áreas de neve derretida de onde sobe vapor) são fontes valiosas de energia.  Use unidades de construção de primeiro nível para construir Centrais Geotérmicas nesses respiradouros.

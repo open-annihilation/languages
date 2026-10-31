@@ -1,0 +1,11 @@
+Missão T27: Invasão de Destral II
+
+O ARM conseguiu reunir uma forte força aérea e naval a sul.
+
+Tem ordens para destruir todas as Centrais Geotérmicas e Estaleiros Avançados do ARM.  Tem uma hora para cumprir a missão.
+
+Sugestões:
+Os nossos estrategas determinaram que é possível uma invasão da base naval por transportes aéreos Valkyrie ou uma invasão anfíbia da base aérea por transportes de tropas Envoy.
+
+Táticas de batalha:
+Prima ENTER e escreva '+sing' na linha de mensagem.  Sempre que mover as suas unidades, elas cantam para si.  Escreva '+sing' outra vez para parar o coro.  Embora não seja um código de batota útil do ponto de vista estratégico, pode fazer-lhe companhia durante esta missão mais longa.

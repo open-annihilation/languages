@@ -1,0 +1,8 @@
+Missão T12: Limpeza de Kbots
+
+As forças do ARM na lua Nayrb foram abandonadas.  Elimine quaisquer remanescentes no seu setor.
+
+Sugestões:
+Use a sua unidade de construção móvel para reparar as unidades danificadas.  O ARM despojou a lua dos seus recursos. Construir uma base será difícil.
+Táticas de batalha:
+Prima a tecla til (~) para mostrar o dano que as suas unidades sofreram.  Se tiver criado esquadrões, isto mostra também o esquadrão atribuído a cada unidade.  Para definir esquadrões, selecione um grupo de unidades e prima CTRL+1 (ou 2,3,4, etc.).  Use ALT+1 (etc.) para voltar a selecionar o esquadrão.

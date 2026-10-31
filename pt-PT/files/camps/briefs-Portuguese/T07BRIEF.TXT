@@ -1,0 +1,16 @@
+Missão T07: Assalto à Base de Gelo
+
+A Base de Gelo do CORE, junto ao Mar Gelado, resistiu a todos os assaltos.  Foi reunida uma poderosa força para um último ataque.
+
+Tem dois Kbots de Construção para a manutenção das forças que lhe foram atribuídas.  Não há tempo para construir uma base.
+
+Abra caminho pelas defesas do CORE e destrua a Central de Fusão deles antes de decorridos vinte minutos.
+
+Sugestões:
+Os seus Fidos são rápidos, mas têm blindagem ligeira. Mantenha-os em reserva até que o primeiro assalto consiga abrir uma brecha na linha inimiga.
+
+
+Evite atacar onde eles querem que ataque. Não caia numa armadilha do CORE.
+
+Táticas de batalha:
+Mande os seus dois Kbots de Construção patrulhar uma região fácil de localizar no mapa de radar. Qualquer unidade danificada pode ser enviada de volta a essa região e é reparada automaticamente quando encontrar o Kbot de Construção.

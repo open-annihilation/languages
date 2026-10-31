@@ -1,23 +1,25 @@
 # To do
 
-## Brazilian Portuguese (`pt-BR`)
+## Portuguese (`pt-BR` and `pt-PT`)
 
-The pack is complete and checks clean: every interface word, 3.1c's texts,
-the units, the missions and the 175 briefings, fitting every screen the
-text-fit check measures. It is not published yet. These are what is left,
-most important first. `python3 tools/screens.py pt-BR …` (see
+Both packs are complete and check clean: every interface word of 0.8.9,
+3.1c's texts, the units, the missions and the 175 briefings, fitting every
+screen the text-fit check measures. These are what is left, most important
+first. `python3 tools/screens.py <tag> …` (see
 [adding a language, step 9](docs/new-language.md#9-look-at-it-in-the-game))
 shows each problem on screen.
 
 ### 1. 3.1c's menu buttons draw a box for some Portuguese letters (engine)
 
 **What the player sees.** On 3.1c's own buttons and labels, a box in place of
-a letter: `Opç□es` on the single-player menu, `OP□□ES` on the in-game
-menu, `Posiç□o` and `Linha de vis□o` in the skirmish setup, `Sem narraç□o`
-on the briefing's narration button. A test pack showed the letters hit:
-ã, õ, Ã, Õ, Ç, Â, Ê, Ô and À. The small â, ê, ô and à draw, as do á, é, í,
-ó, ú, ç and their capitals Á, É, Í, Ó, Ú. Briefings, help and Open
-Annihilation's own screens draw every letter.
+a letter: `Opç□es` on the single-player menu, `OP□□ES` and `Definiç□es` on
+the in-game menu, `Posiç□o` and `Linha de vis□o` in the skirmish setup,
+`Sem narraç□o` on the briefing's narration button, `Miss□o/mapa` in the
+load dialog, and in the European pack `Tamanho do ecr□` in the visual
+options. A test pack showed the letters hit: ã, õ, Ã, Õ, Ç, Â, Ê, Ô and À.
+The small â, ê, ô and à draw, as do á, é, í, ó, ú, ç and their capitals Á,
+É, Í, Ó, Ú. Briefings, help and Open Annihilation's own screens draw every
+letter.
 
 **What is known.**
 
@@ -50,19 +52,16 @@ Annihilation's own screens draw every letter.
 
 **Done when** the screens pictures show `Opções`, `OPÇÕES`, `Posição` and
 `Linha de visão` whole, and an engine test covers a GUI font whose
-placeholder frames equal frame 0. Then publish the pack (or publish it
-before, with the boxes, if the maintainer chooses).
+placeholder frames equal frame 0. The packs need no change for it.
 
-### 2. The pack's name on the first-start language card
+### 2. The packs' English names on the first-start language card
 
-The manifest's `name` is `Português (BR)`. `Português (Brasil)` wraps onto
-a second line of first start's language card at 640x480 and runs over the
-English name beneath it, and the text-fit check fails on it. One pack
-serves Brazil and Portugal (its locales are `pt-BR`, `pt` and `pt-PT`), so
-the simplest fix is `name: Português`, keeping `english-name: Portuguese
-(Brazil)` so the card still says which Portuguese it is; that passes the
-check. The other way is an engine change that lets the card take a longer
-name.
+The card at 640x480 holds about 110 pixels of the English name under the
+language's own. `Portuguese (Brazil)` fits; `Portuguese (Portugal)`,
+`European Portuguese` and `Portuguese (Europe)` do not (120, 113 and 111),
+so the European pack's `english-name` is `Portuguese (PT)`, as its own name
+is `Português (PT)`. An engine change that lets the card take a longer name
+would let it say `Portuguese (Portugal)`.
 
 ### 3. The engine's languages page misstates what a Windows-1252 language needs (docs)
 
@@ -82,19 +81,61 @@ Correct the page; `docs/new-language.md` here already says both. Also make
 
 ### 4. A native speaker's reading
 
-The pack was translated in one pass with a glossary
-(`docs/glossaries/pt-BR.md`) and has not been read by a Brazilian player.
-The choices the translator was least sure of: `Briefing` kept as a
-loanword, `Destróier`, `ABERTURA` for INTRO, `Sim`/`Não` for 3.1c's On/Off
-(as its French and Italian do), `RECICLAR` for reclaim rather than
-`RECUPERAR`, the Serpent and the Scorpion left in English in the
-briefings, and every unit's proper name left in English (Peewee, Big
-Bertha) while the generic names are translated.
+Neither pack has been read by a Brazilian or a Portuguese player. The
+Brazilian pack's first revision was translated in one pass, and the words
+of 0.8.5 to 0.8.9 in a second; the European pack was translated from the
+English beside the Brazilian. Both follow their glossaries
+(`docs/glossaries/pt-BR.md`, `docs/glossaries/pt-PT.md`). The choices made
+with least certainty are under "Words to look at with native speakers".
 
 ## Words to look at with native speakers
 
 The packs' translator was unsure of these, and gave reasons. Each line is
 the English, the translation the pack uses, and why.
+
+### Brazilian Portuguese (pt-BR)
+
+- `Briefing` kept as a loanword, `Destróier`, `ABERTURA` for INTRO,
+  `Sim`/`Não` for 3.1c's On/Off (as its French and Italian do), and
+  `RECICLAR` for reclaim rather than `RECUPERAR`.
+- The Serpent and the Scorpion left in English in the briefings, and every
+  unit's proper name left in English (Peewee, Big Bertha) while the generic
+  names are translated.
+- "brain": cérebro, as the engine's German and French say it. Rush, Turtle,
+  Learned and Teaching are Rush, Defensivo, Treinado and Didático.
+- "seat" (a player's place): lugar. `vaga` is the other choice.
+- "Held:" before a modifier's description: Segurada:. "hold" and "double"
+  gestures: pressão longa, pressão dupla.
+- "Bounce keys" and "Sticky modifiers": Teclas de ricochete and
+  Modificadores aderentes. The systems' own names may differ.
+- "Hold keys that latch": Teclas de segurar que fixam, which reads clumsily.
+- The battle room's mutators button is Mutadores · desl. and Mutadores ·
+  {count} lig.; Mutadores alone does not leave room for the state.
+- "Turn every helper off": Desativar auxiliares, shortened to fit
+  Settings › Accessibility.
+- "Select Map": Escolher, as the map chooser's own button is too narrow for
+  Escolher mapa.
+
+### European Portuguese (pt-PT)
+
+- The same choices as the Brazilian pack for the briefings, the unit names,
+  INTRO, On/Off, RECICLAR and the brains.
+- "view" (the part of the map on screen): vista, where the Brazilian pack
+  says visão.
+- "Return Fire" and "Roam": Ripostar and Vaguear.
+- "Decoy Commander": Comandante Chamariz.
+- "the Gauntlet" (Core mission 10): O Corredor de Fogo, since Corredor da
+  Morte means death row in Portugal.
+- "You", the score screen's row beside "AI Player": Jogador.
+- "Seeking to attack / defend / guard / land": A ir atacar, A ir defender,
+  A ir proteger, A ir aterrar.
+- "Next": Seguinte, one letter longer than the Brazilian Próximo.
+- "Antialias": Anti-aliasing, the loanword Portugal's players use.
+- "Include in device backups": Incluir nas cópias de segurança, shortened
+  to fit the game-files screen.
+- "Hold keys that latch": Teclas de manter que fixam, which reads clumsily.
+- "software centre": centro de software. "Edge scrolling": Deslocação pela
+  margem.
 
 ### Japanese (ja)
 

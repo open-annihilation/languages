@@ -1,0 +1,11 @@
+Missão R13: Incursão em Vetes
+
+O CORE estabeleceu uma base no Domo de Lava de Vetes e construiu defesas concêntricas.  Leve a sua força móvel rápida através da floresta e destrua a base do CORE.  Ataque tudo, mas não deixe de destruir todos os Laboratórios de Kbots Avançados e Centrais de Fusão.
+
+Utilize unidades de construção para reparar as suas forças.
+
+Sugestões:
+Sempre que possível, evite combater o inimigo até ter encontrado os seus alvos. Mantenha as suas unidades juntas.
+
+Táticas de batalha:
+Prima a tecla til (~) para ativar as barras de dano das unidades.  Estas barras indicam a quantidade de dano sofrido por cada unidade.  Se uma unidade tiver sido atribuída a um esquadrão, o número do esquadrão também aparece quando as barras de dano estão visíveis.  Para desativar as barras de dano, prima novamente til (~).

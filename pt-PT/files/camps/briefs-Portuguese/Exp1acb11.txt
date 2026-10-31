@@ -1,0 +1,14 @@
+MISSÃO 11.002ARMG
+Repelimos a primeira vaga do CORE. Pode esperar que o CORE se reagrupe e volte a atacar em breve. Reconstrua a sua base o suficiente para lançar um ataque ao bloco de gelo a oeste. Destrua aí as fábricas de hovercrafts e de aeronaves VTOL e depois avance para o continente, a norte.
+
+&Y*PRIORIDADE CRÍTICA*&
+Espera-se que, se conseguir destruir as fábricas no bloco de gelo a oeste, o ataque final ao continente não deixe unidades CORE na retaguarda. Embora o CORE tenha tido tempo de sobra para se preparar para a nossa investida no continente, é de esperar que a praia a norte esteja guardada.
+
+INFORMAÇÕES
+&RO CORE desenvolveu um novo Kbot mais letal, o Sumo.& É certo que irá surgir no continente (por ser demasiado pesado para os blocos de gelo). Apesar de lento, o Sumo possui um temível canhão laser.
+
+Pela nossa parte, os técnicos ARM montaram uma bateria de canhões Bertha para a sua utilização. Terá, no entanto, de construir os geradores de energia necessários para os alimentar.
+
+Para concluir a missão, tem de destruir todas as unidades CORE e &Rlevar o seu Comandante até à base do glaciar& no continente.
+
+FIM

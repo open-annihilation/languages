@@ -1,0 +1,12 @@
+MISSÃO 12.003ARMG
+Apesar de termos sido empurrados de volta para os mares gelados ao largo do continente, chegaram reforços e a invasão do continente começou! O CORE tem uma base fortificada acima da parede do glaciar. Não será uma base fácil de tomar.
+
+&Y*PRIORIDADE CRÍTICA*&
+Há indícios de que o sinalizador foi levado para a fortaleza, onde foi convertido num horrendo dispositivo de implosão... e esse dispositivo foi ativado. Temos muito pouco tempo para estabelecer a nossa base e fazer o assalto final à fortaleza.
+
+INFORMAÇÕES
+&RO dispositivo de implosão foi ativado!& Conclua esta missão com êxito, ou a galáxia vai terminar... e o ARM com ela.
+
+Para concluir esta missão, o Comandante CORE e o sinalizador têm de ser destruídos antes de o temporizador terminar... Dispõe de 90 minutos para destruir o dispositivo e todo o CORE.
+
+FIM

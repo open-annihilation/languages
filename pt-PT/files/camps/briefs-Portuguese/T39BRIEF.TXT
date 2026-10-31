@@ -1,0 +1,16 @@
+Missão T39: Contrafortes de Yerrot
+
+&YEmergência!&
+Todas as tentativas de encontrar afloramentos de minério falharam e já não há destroços inimigos para reciclar em metal.  O CORE construiu uma Fábrica de Aeronaves Avançada nas proximidades.  Um assalto surpresa conseguiu destruir a nossa base.
+
+Pegue nas unidades sobreviventes e capture a Fábrica de Aeronaves Avançada antes que a força de ataque do inimigo o esmague.
+
+
+Sugestões:
+Os Defenders e os Flakkers revelaram-se muito eficazes e destruíram por completo a ala aérea inimiga.  Por isso, deverá ser seguro atacar durante alguns minutos.  O CORE construiu muitas defesas fixas, que são vulneráveis a assaltos maciços de Spiders.
+
+Táticas de batalha:
+Um disparo de um Spider impede as unidades inimigas de responder ao fogo, mas só por um período limitado.
+
+Lembre-se de que as unidades inimigas capturadas ficam em Cessar fogo e que tem de alterar manualmente as suas ordens permanentes.  Se pretende fazer muitas capturas, pode premir CTRL+W (que seleciona todas as suas unidades de guerra) e depois mudar as ordens de todas as unidades para Ripostar.  Assim evita destruir a fábrica que está a tentar
+capturar.

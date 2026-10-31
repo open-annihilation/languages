@@ -1,0 +1,14 @@
+Missão R09: A Planície Aluvial de Retorb
+
+&YPrioridade um&
+As nossas necessidades de energia na região são críticas.
+
+Construa uma Central Geotérmica na Planície Aluvial de Retorb. Espere que o ARM o importune e atrase com pequenos ataques.  Tem nove minutos para ter êxito nesta missão.
+Sugestões:
+Poderá ter de construir algumas defesas antes de iniciar a Central Geotérmica. Mantenha os seus Slashers de longo alcance no centro da base, com os tanques ao longo do perímetro.
+
+
+
+
+Táticas de batalha:
+Utilize o código de batota seguinte para acompanhar o tempo de jogo.  Prima ENTER para ativar a barra de mensagens na parte inferior do ecrã.  Depois escreva '+clock' para mostrar o relógio do jogo no canto inferior esquerdo do mapa principal.

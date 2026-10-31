@@ -1,0 +1,12 @@
+Missão R17: Cristal-Semente
+
+A sua missão é intercetar um projeto de expansão do ARM na Planície do Cristal-Semente.
+
+Construa uma base e destrua todas as unidades móveis inimigas.  Se possível, capture estruturas inimigas.
+
+
+Sugestões:
+Instale Torres de Radar à medida que explora a zona, para encontrar o inimigo disperso pela região.
+
+Táticas de batalha:
+Para reciclar destroços e obter metal, selecione uma unidade de construção, prima 1 para abrir o menu de ordens, prima E para selecionar o modo RECICLAR e depois clique (com o botão esquerdo do rato) sobre os destroços.  Ao utilizar a interface de clique esquerdo, o cursor muda para o cursor de reciclagem ao passar sobre os destroços.  Na interface de clique direito, o cursor fica simplesmente verde.

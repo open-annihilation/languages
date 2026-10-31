@@ -1,0 +1,8 @@
+MISSÃO 7.3CORE
+
+ESCUTA-INTEL:
+Isolámos uma grande infestação ARM na Crosta 2. O ARM construiu ali, convenientemente, um campo de metal. Capturar as Minas Moho que lá estão vai poupar-nos o trabalho de as construirmos nós mesmos. Controle as suas unidades com cuidado, ou uma delas poderá destruir uma Moho antes de a conseguir capturar.
+
+&RCapture uma Mina Moho e destrua a praga ARM.&
+
+EXECUTE AGORA.

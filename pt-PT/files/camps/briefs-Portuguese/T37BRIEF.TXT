@@ -1,0 +1,14 @@
+Missão T37: A Ascensão do Intimidator
+
+O obstinado ARM continua a resistir, apesar das nossas condições de rendição mais do que justas.  Vai pagar pela sua obstinação.  Vamos usar uma das nossas vantagens mais decisivas na batalha que se avizinha.  O nosso canhão de plasma, o Intimidator, tem um alcance 25% superior ao da Big Bertha ARM.
+
+&RConstrua um Intimidator a oeste.&  Isto vai permitir-nos erradicar as forças do ARM no Planalto de Hasfap sem sofrermos fogo de resposta, o que na prática elimina a última instalação inimiga de produção de aeronaves na área.
+
+O ARM tem uma linha de Dentes de Dragão orientada de norte a sul.  A oeste destas fortificações fica uma pequena base junto de um grande conjunto de pináculos.  Mais a oeste ainda encontrará a Central de Hidratação do ARM.  Construa o Intimidator perto da Central de Hidratação.
+
+Sugestões:
+Não deixe de construir algumas unidades antiaéreas, pois o ARM tem uma base aérea na área.
+
+Conquiste terreno com grandes assaltos organizados, em vez de atacar com um fluxo constante de unidades.  Reserve tempo para reparar e organizar as suas unidades antes de cada assalto.
+Táticas de batalha:
+Use CTRL+F para selecionar todas as fábricas.  Depois, pode ordenar a todas as fábricas que enviem as novas unidades para o mesmo ponto de reunião junto à frente.

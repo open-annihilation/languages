@@ -1,0 +1,10 @@
+MISSÃO 1.0001ARME
+Estabeleça uma guarda em redor do Portal Galáctico.
+
+&Y*PRIORIDADE CRÍTICA*&
+Agentes CORE conseguiram, de alguma forma, violar a nossa segurança e estão em Empyrrean. Pior ainda, o Comandante está fora do planeta e o CORE aguarda em emboscada perto do Portal por onde ele tem de regressar. Leve as suas unidades até ao Portal e proteja-o. O nosso Comandante tem de regressar em segurança, ou estaremos perdidos.
+
+INFORMAÇÕES
+O Portal localiza-se na Cratera, a norte. &REspere patrulhas CORE.&
+
+FIM

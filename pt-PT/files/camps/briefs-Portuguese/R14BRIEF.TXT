@@ -1,0 +1,8 @@
+Missão R14: Surpresa em Labrodorite
+
+Foi avistado um Comandante inimigo entre as tropas ARM na planície de Labrodorite, rica em minerais.  Encontre e destrua o Comandante ARM.  Não deixe nenhuma unidade ARM escapar para oeste.
+
+Sugestões:
+Cuidado com as defesas ARM a nordeste.
+Táticas de batalha:
+Utilize patrulhas circulares enquanto procura o Comandante inimigo. Para isso, selecione uma ou mais unidades, clique no botão PATRULHAR e depois, com a tecla SHIFT premida, clique perto de cada canto do mapa de radar.  Isto define uma rota de patrulha ao longo de todo o perímetro do mapa.

@@ -1,0 +1,13 @@
+Missão T13: Encontro no Mar de Coral
+
+O CORE está a construir uma poderosa marinha nos mares de Rashak IV.  Temos a localização aproximada dos seus principais Estaleiros.
+
+As suas ordens são destruir a frota inimiga e todos os Estaleiros.
+
+Sugestões:
+Mantenha os seus navios grandes juntos e assegure-se de que continuam a disparar.  O seu porta-aviões tem radar, o que o ajudará a coordenar os ataques.
+
+Táticas de batalha:
+Ao premir CTRL+W, seleciona todas as unidades com armas (exceto o Comandante).
+
+Para selecionar todas as unidades de um tipo, selecione uma única unidade (contratorpedeiros, por exemplo) e prima CTRL+Z.  Todos os contratorpedeiros ficam selecionados.

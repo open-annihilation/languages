@@ -1,0 +1,9 @@
+Missão T08: Limpeza de Berthas
+
+A escumalha do ARM criou uma base de fogo com Berthas. Se for destruída, as forças do ARM serão obrigadas a recuar.  Limpe o Setor 9387 de Core Prime de todos os canhões Bertha de longo alcance.
+
+Sugestões:
+Use os seus Diplomats e unidades de radar móvel para atacar defesas fixas a longa distância.  Mantenha as suas unidades em movimento.
+
+Táticas de batalha:
+Use CTRL+Z para selecionar todas as unidades do mesmo tipo.  Por exemplo, selecione um Reaper (o tanque pesado) e depois use CTRL+Z para selecionar todos os outros Reapers.

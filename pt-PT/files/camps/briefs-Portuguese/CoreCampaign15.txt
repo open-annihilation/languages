@@ -1,0 +1,10 @@
+MISSÃO 15.3CORE
+
+ESCUTA-INTEL:
+O ARM montou uma arma Annihilator do outro lado do Abismo de Xantippe. A única travessia está bem guardada. Capture o canhão Bertha a leste e use-o para enfraquecer as defesas do ARM o suficiente para destruir o Annihilator.
+
+&YEspere chuvas de meteoros.&
+
+&RCapture uma Bertha do ARM. Destrua o Annihilator do ARM.&
+
+EXECUTE AGORA.

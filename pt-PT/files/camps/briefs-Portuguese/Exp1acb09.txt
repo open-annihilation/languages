@@ -1,0 +1,14 @@
+MISSÃO 9.003ARMT
+Existe uma base CORE a norte, o último posto avançado do CORE em Temblor. Se o Comandante CORE e o sinalizador não estiverem lá, só podem estar em Gelidus. Temos de terminar aqui o mais depressa possível.
+
+&Y*PRIORIDADE CRÍTICA*&
+Perseguimos as últimas unidades CORE até à sua fortaleza. Se o Comandante CORE estiver entre as unidades que lá se encontram, tanto melhor... mas receamos que já tenha abandonado o planeta...
+
+INFORMAÇÕES
+&GAVANÇO TECNOLÓGICO:& A nova central de mira com IA já está disponível. Quando usada em combinação com o radar avançado, pode ser muito eficaz, pois permite que as suas unidades apontem automaticamente às unidades inimigas através do radar.
+
+&RATENÇÃO!& A central de mira exige uma enorme quantidade de energia. Convém desligá-la até ter energia suficiente.
+
+Para concluir a missão, tem de destruir todas as unidades CORE.
+
+FIM

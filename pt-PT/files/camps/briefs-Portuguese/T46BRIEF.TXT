@@ -1,0 +1,12 @@
+Missão T46: Fortaleza de Aço
+
+O Comandante CORE construiu uma base de fogo poderosamente defendida.  Não nos atrevemos a instalar estações retransmissoras nem a avançar além desta área até que as forças inimigas sejam destruídas.
+
+Tem ordens para destruir a base e tudo o que ela contém.
+
+Sugestões:
+Se quiser vencer com unidades ligeiras, construa mais algumas Fábricas de Veículos e ordene-lhes que construam tanques Flash.  Ponha em fila tanques Flash suficientes para manter cada fábrica sempre a construir.
+
+Táticas de batalha:
+Para pôr em fila dezenas de ordens de construção muito depressa, mantenha a tecla SHIFT premida ao ordenar às fábricas que construam unidades.  Isto coloca cinco unidades em fila a cada clique.
+Ordene às fábricas que enviem as unidades concluídas para um único local.  Prima CTRL+F para selecionar todas as fábricas, depois prima MOVER e clique com o botão esquerdo num local estratégico do mapa.

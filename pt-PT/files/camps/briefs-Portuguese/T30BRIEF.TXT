@@ -1,0 +1,14 @@
+Missão T30: Montanhas de Açúcar-Cândi
+
+Temos três Torres de Radar posicionadas para triangular a localização aproximada da Central de Fusão inimiga.  O CORE pretende encontrar as nossas fontes de energia pelo mesmo método.
+
+O Kbot de Construção que construiu inicialmente as Torres de Radar ficou gravemente danificado num tiroteio.  No entanto, continua apto a reparar unidades aliadas na área.
+
+As suas ordens são localizar e destruir as três Torres de Radar inimigas. Tem também de impedir que o inimigo destrua qualquer uma das nossas Torres de Radar.
+
+Sugestões:
+Deixe algumas unidades a defender cada Torre de Radar e envie as restantes em exploração.  Sempre que vir uma unidade inimiga isolada, não deixe de a perseguir e destruir antes que encontre as nossas Torres de Radar.
+Táticas de batalha:
+Vigie o radar, pois será o primeiro aviso de um ataque inimigo.
+
+Se vir uma mensagem a indicar que uma das suas unidades está sob ataque, pode premir F3 e centrar o ecrã nessa unidade.

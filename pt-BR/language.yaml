@@ -5,14 +5,15 @@
 # all in Windows-1252, but 3.1c's menu fonts (hattfont12 and hattfont11) lack
 # ã, õ and the capitals Ã, Õ, Ç, Â, Ê, Ô and À, so its text is drawn in the
 # modern fonts, whose sans faces travel with the game; the pack brings no
-# font of its own. A player in Portugal gets it too.
+# font of its own. A bare pt locale gets it; Portugal and the countries
+# that write European Portuguese get the pt-PT pack.
 oalang: 1
 tag: pt-BR
 name: Português (BR)
 english-name: Portuguese (Brazil)
 word: Portuguese
 version: "1"
-locales: [pt-BR, pt, pt-PT]
+locales: [pt-BR, pt]
 fallbacks: []
 text: {needs: modern-fonts}
 unicode: true

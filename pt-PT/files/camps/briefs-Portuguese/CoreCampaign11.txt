@@ -1,0 +1,8 @@
+MISSÃO 11.3CORE
+
+ESCUTA-INTEL:
+Há um Kbot Zeus na ilha a sul.  Tenha cuidado para que unidades CORE demasiado zelosas não destruam o Zeus antes de o conseguir capturar.
+
+&RCapture um Kbot Zeus.&
+
+EXECUTE AGORA.

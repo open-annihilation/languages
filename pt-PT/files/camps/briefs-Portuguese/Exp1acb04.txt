@@ -1,0 +1,14 @@
+MISSÃO 4.001ARML
+Hydross está sob controlo ARM. As unidades CORE vasculham este mundo em busca de um dispositivo - um sinalizador de origem alienígena.
+
+As densas selvas e os pântanos deste mundo dificultarão a deslocação. O CORE desenvolveu tecnologia hovercraft para manobrar com maior eficiência em Lusch. Essa tecnologia facilitaria muito a nossa busca do Comandante da contingência e do sinalizador alienígena.
+
+&Y*PRIORIDADE CRÍTICA*&
+Encontre e capture uma das plataformas de fabrico de hovercrafts. Tenha um cuidado especial para que as suas unidades &Gnão destruam a plataforma& no entusiasmo de destruir o CORE. Depois de capturada a plataforma de hovercrafts, utilize-a para construir unidades hovercraft que o ajudem a limpar a zona de todas as unidades móveis do CORE.
+
+INFORMAÇÕES
+Terá ao seu dispor o novo Kbot Maverick como guarda-costas e um modelo de Kbot anfíbio, o Pelican, para aumentar a mobilidade. A equipa técnica entregou também uma nova arma, o Flakker, para defesa antiaérea. &RO CORE terá igualmente uma nova arma antiaérea flak.&
+
+Para concluir esta missão, tem de capturar a plataforma de hovercrafts do CORE e destruir todas as unidades móveis CORE.
+
+FIM

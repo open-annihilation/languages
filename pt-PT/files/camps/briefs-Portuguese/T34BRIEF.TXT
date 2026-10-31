@@ -1,0 +1,18 @@
+Missão T34: Caixa Negra
+
+&RAtenção - Prioridade Máxima&
+Foi recentemente lançado um míssil espião em território do ARM.  Os seus sistemas de comunicação foram destruídos antes de ser possível qualquer transmissão.  A cápsula do míssil acabou por cair na Cidade de Pikas, depois de percorrer dois terços da circunferência do planeta durante a descida.
+
+Um aperfeiçoamento recente nas nossas cápsulas de mísseis incluiu uma caixa negra capaz de sobreviver a uma queda a partir da órbita. Nos bancos de memória desta caixa negra há imagens da órbita que revelam as defesas do ARM em mais de metade do mundo.
+
+Tem ordens para assaltar a Cidade de Pikas e capturar os restos deste satélite, que se crê estarem enterrados numa cratera algures na região.  Qualquer Veículo de Construção Avançado que chegue a esta cratera poderá recuperar a informação.
+
+Alguns dos seus transportes levam Veículos de Construção Avançados.  Não os perca!
+
+Sugestões:
+Use os seus navios para destruir as defesas terrestres, de modo a que os transportes possam aterrar em segurança.
+Táticas de batalha:
+Para acelerar a descarga dos transportes, clique no botão DESCARREGAR.  Depois, com a tecla SHIFT premida, clique várias vezes com o botão esquerdo ao longo da costa. Isto coloca várias ordens de descarga em fila de uma só vez.  Espalhe os pontos de descarga para evitar amontoar unidades umas sobre as outras.
+
+
+&RCuidado:& O seu Comandante está no transporte Valkyrie desarmado.  Se esta unidade de transporte aéreo for destruída, o Comandante também será destruído.

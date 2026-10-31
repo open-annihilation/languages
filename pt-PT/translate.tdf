@@ -1,0 +1,4168 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// European Portuguese for 3.1c's translate.tdf texts, keyed by 3.1c's English
+// exactly (case and spaces included), in 3.1c's own order.
+
+// Ingame and Panel Messages
+
+[KILLS]
+	{
+	Portuguese=ABATES;
+	}
+[Kills]
+	{
+	Portuguese=Abates;
+	}
+[Kill]
+	{
+	Portuguese=Abate;
+	}
+[kill]
+	{
+	Portuguese=abate;
+	}
+[LOSSES]
+	{
+	Portuguese=PERDAS;
+	}
+[Losses]
+	{
+	Portuguese=Perdas;
+	}
+[kills]
+	{
+	Portuguese=abates;
+	}
+[Veteran]
+	{
+	Portuguese=Veterano;
+	}
+[Newbie]
+	{
+	Portuguese=Novato;
+	}
+[PAUSED]
+	{
+	Portuguese=PAUSA;
+	}
+
+// Loading screen
+
+[Map]
+	{
+	Portuguese=Mapa;
+	}
+[Map:]
+	{
+	Portuguese=Mapa:;
+	}
+[Terrain]
+	{
+	Portuguese=Terreno;
+	}
+[Textures]
+	{
+	Portuguese=Texturas;
+	}
+[Units]
+	{
+	Portuguese=Unidades;
+	}
+[Features]
+	{
+	Portuguese=Elementos;
+	}
+[FEATURES]
+	{
+	Portuguese=ELEMENTOS;
+	}
+[MoveInfo]
+	{
+	Portuguese=Dados de movimento;
+	}
+[Explosions]
+	{
+	Portuguese=Explosões;
+	}
+[Synchronization complete]
+	{
+	Portuguese=Sincronização concluída;
+	}
+[player ready]
+	{
+	Portuguese=jogador pronto;
+	}
+[players ready]
+	{
+	Portuguese=jogadores prontos;
+	}
+[Waiting for other players]
+	{
+	Portuguese=A aguardar os outros jogadores;
+	}
+[Synchronizing]
+	{
+	Portuguese=A sincronizar;
+	}
+[Waiting for the Creator]
+	{
+	Portuguese=A aguardar o anfitrião;
+	}
+[3D Data]
+	{
+	Portuguese=Dados 3D;
+	}
+[Animation]
+	{
+	Portuguese=Animação;
+	}
+[Animations]
+	{
+	Portuguese=Animações;
+	}
+
+// Sides
+
+[Arm]
+	{
+	Portuguese=ARM;
+	}
+[Core]
+	{
+	Portuguese=CORE;
+	}
+[Arm Campaign]
+	{
+	Portuguese=Campanha ARM;
+	}
+[arm campaign]
+	{
+	Portuguese=Campanha ARM;
+	}
+[Core Campaign]
+	{
+	Portuguese=Campanha CORE;
+	}
+
+// Campaigns' names in the New Campaign and Any Mission lists, which 3.1c's
+// table does not hold: keyed by the campaign file's name, without the space
+// that ends Core Contingency's.
+
+[Arm Campaign - Core Contingency]
+	{
+	Portuguese=Campanha ARM - Core Contingency;
+	}
+[Core Campaign - Core Contingency]
+	{
+	Portuguese=Campanha CORE - Core Contingency;
+	}
+[Krogoth Encounter]
+	{
+	Portuguese=Encontro com o Krogoth;
+	}
+[Battle Tactics - Arm Very Short]
+	{
+	Portuguese=Battle Tactics - ARM, muito curtas;
+	}
+[Battle Tactics - Arm Short]
+	{
+	Portuguese=Battle Tactics - ARM, curtas;
+	}
+[Battle Tactics - Arm Medium]
+	{
+	Portuguese=Battle Tactics - ARM, médias;
+	}
+[Battle Tactics - Arm Long]
+	{
+	Portuguese=Battle Tactics - ARM, longas;
+	}
+[Battle Tactics - Core Very Short]
+	{
+	Portuguese=Battle Tactics - CORE, muito curtas;
+	}
+[Battle Tactics - Core Short]
+	{
+	Portuguese=Battle Tactics - CORE, curtas;
+	}
+[Battle Tactics - Core Medium]
+	{
+	Portuguese=Battle Tactics - CORE, médias;
+	}
+[Battle Tactics - Core Long]
+	{
+	Portuguese=Battle Tactics - CORE, longas;
+	}
+
+// Menus
+
+[No Narration]
+	{
+	Portuguese=Sem narração;
+	}
+[Narration]
+	{
+	Portuguese=Narração;
+	}
+[Start]
+	{
+	Portuguese=Iniciar;
+	}
+[Select]
+	{
+	Portuguese=Escolher;
+	}
+[Previous Menu]
+	{
+	Portuguese=Menu anterior;
+	}
+[Next]
+	{
+	Portuguese=Seguinte;
+	}
+[Previous]
+	{
+	Portuguese=Anterior;
+	}
+[SOUND]
+	{
+	Portuguese=SOM;
+	}
+[INTERFACE]
+	{
+	Portuguese=INTERFACE;
+	}
+[VISUALS]
+	{
+	Portuguese=VISUAL;
+	}
+[MUSIC]
+	{
+	Portuguese=MÚSICA;
+	}
+[Set Difficulty]
+	{
+	Portuguese=Dificuldade;
+	}
+[Skirmish]
+	{
+	Portuguese=Escaramuça;
+	}
+[Skirmish (%d players)]
+	{
+	Portuguese=Escaramuça (%d jogadores);
+	}
+[New Campaign]
+	{
+	Portuguese=Nova campanha;
+	}
+[NEW CAMPAIGN]
+	{
+	Portuguese=NOVA CAMPANHA;
+	}
+[Start Campaign]
+	{
+	Portuguese=Iniciar;
+	}
+[Select Campaign]
+	{
+	Portuguese=Campanha;
+	}
+[SELECT CAMPAIGN:]
+	{
+	Portuguese=ESCOLHA A CAMPANHA:;
+	}
+[Select Any Mission]
+	{
+	Portuguese=Escolher qualquer missão;
+	}
+[Select Mission]
+	{
+	Portuguese=Escolher;
+	}
+[Start Mission]
+	{
+	Portuguese=Iniciar;
+	}
+[Undo Changes]
+	{
+	Portuguese=Desfazer;
+	}
+[Restore Defaults]
+	{
+	Portuguese=Predefinições;
+	}
+[Restore Default]
+	{
+	Portuguese=Restaurar;
+	}
+[Exit to Menu]
+	{
+	Portuguese=Sair para o menu;
+	}
+[Exit Game]
+	{
+	Portuguese=Sair do jogo;
+	}
+[Please Select Map]
+	{
+	Portuguese=Escolha um mapa;
+	}
+[Load Map]
+	{
+	Portuguese=Carregar mapa;
+	}
+[Select Side]
+	{
+	Portuguese=Lado;
+	}
+
+// Generic gameplay stuff
+
+[Player]
+	{
+	Portuguese=Jogador;
+	}
+[Players]
+	{
+	Portuguese=Jogadores;
+	}
+[Players:]
+	{
+	Portuguese=Jogadores:;
+	}
+[Allies]
+	{
+	Portuguese=Aliados;
+	}
+[ALLIES]
+	{
+	Portuguese=ALIADOS;
+	}
+[Ally]
+	{
+	Portuguese=Aliado;
+	}
+[Side]
+	{
+	Portuguese=Lado;
+	}
+[Metal]
+	{
+	Portuguese=Metal;
+	}
+[METAL]
+	{
+	Portuguese=METAL;
+	}
+[Energy]
+	{
+	Portuguese=Energia;
+	}
+[ENERGY]
+	{
+	Portuguese=ENERGIA;
+	}
+[Color]
+	{
+	Portuguese=Cor;
+	}
+[Yes]
+	{
+	Portuguese=Sim;
+	}
+[No]
+	{
+	Portuguese=Não;
+	}
+[OK]
+	{
+	Portuguese=OK;
+	}
+[Ok]
+	{
+	Portuguese=OK;
+	}
+[Cancel]
+	{
+	Portuguese=Cancelar;
+	}
+[CANCEL]
+	{
+	Portuguese=CANCELAR;
+	}
+
+// Victory/Defeat Screen
+
+[Energy Produced]
+	{
+	Portuguese=Energia produzida;
+	}
+[Metal Produced]
+	{
+	Portuguese=Metal produzido;
+	}
+[Energy Wasted]
+	{
+	Portuguese=Energia desperdiçada;
+	}
+[Metal Wasted]
+	{
+	Portuguese=Metal desperdiçado;
+	}
+
+// Options menu
+
+[Options Menu]
+	{
+	Portuguese=Opções;
+	}
+[GAME OPTIONS]
+	{
+	Portuguese=OPÇÕES DO JOGO;
+	}
+[Resume]
+	{
+	Portuguese=Continuar;
+	}
+[Save Game]
+	{
+	Portuguese=Guardar;
+	}
+[Load Game]
+	{
+	Portuguese=Carregar;
+	}
+[Preferences]
+	{
+	Portuguese=Preferências;
+	}
+[End Mission]
+	{
+	Portuguese=Terminar missão;
+	}
+[Help]
+	{
+	Portuguese=Ajuda;
+	}
+[Briefing]
+	{
+	Portuguese=Briefing;
+	}
+[Mission Objective]
+	{
+	Portuguese=Objetivo da missão;
+	}
+
+// Player settings
+
+[UNUSED]
+	{
+	Portuguese=VAZIO;
+	}
+[unused]
+	{
+	Portuguese=vazio;
+	}
+[AI]
+	{
+	Portuguese=IA;
+	}
+[BLOCKED]
+	{
+	Portuguese=BLOQUEADO;
+	}
+[No Limit]
+	{
+	Portuguese=Sem limite;
+	}
+
+// CD controls
+
+[CD Player]
+	{
+	Portuguese=Leitor de CD;
+	}
+[No Music]
+	{
+	Portuguese=Sem música;
+	}
+[Repeat Track]
+	{
+	Portuguese=Repetir faixa;
+	}
+[Repeat Track #]
+	{
+	Portuguese=Repetir faixa #;
+	}
+[Repeat]
+	{
+	Portuguese=Repetir;
+	}
+[Random Tracks]
+	{
+	Portuguese=Faixas aleatórias;
+	}
+[Specify Tracks]
+	{
+	Portuguese=Escolher faixas;
+	}
+[Play All Tracks]
+	{
+	Portuguese=Tocar todas as faixas;
+	}
+[Play All]
+	{
+	Portuguese=Tocar todas;
+	}
+[Track]
+	{
+	Portuguese=Faixa;
+	}
+[Custom]
+	{
+	Portuguese=Personalizado;
+	}
+[No Action]
+	{
+	Portuguese=Calmaria;
+	}
+[Battle]
+	{
+	Portuguese=Batalha;
+	}
+[Defeat]
+	{
+	Portuguese=Derrota;
+	}
+[Unused]
+	{
+	Portuguese=Sem uso;
+	}
+[NO DISC]
+	{
+	Portuguese=SEM DISCO;
+	}
+
+// Speeds
+
+[Normal]
+	{
+	Portuguese=Normal;
+	}
+[Slow]
+	{
+	Portuguese=Lento;
+	}
+[Slower]
+	{
+	Portuguese=Mais lento;
+	}
+[Fast]
+	{
+	Portuguese=Rápido;
+	}
+[Faster]
+	{
+	Portuguese=Mais rápido;
+	}
+[Game Speed]
+	{
+	Portuguese=Velocidade do jogo;
+	}
+[Mouse Speed]
+	{
+	Portuguese=Velocidade do rato;
+	}
+[Screen Scroll]
+	{
+	Portuguese=Deslocação do ecrã;
+	}
+[Screen Text Delay]
+	{
+	Portuguese=Tempo do texto;
+	}
+[Interface]
+	{
+	Portuguese=Interface;
+	}
+[Unit Chat]
+	{
+	Portuguese=Falas;
+	}
+[Text Lines]
+	{
+	Portuguese=Linhas de texto;
+	}
+[Game]
+	{
+	Portuguese=Jogo;
+	}
+[Mouse]
+	{
+	Portuguese=Rato;
+	}
+[Screen]
+	{
+	Portuguese=Ecrã;
+	}
+[Text Delay (secs)]
+	{
+	Portuguese=Tempo do texto (s);
+	}
+[Button Interface]
+	{
+	Portuguese=Botões do rato;
+	}
+[Control]
+	{
+	Portuguese=Controlo;
+	}
+
+// Gamespeed
+
+[Quick]
+	{
+	Portuguese=Ágil;
+	}
+[Sluggish]
+	{
+	Portuguese=Arrastado;
+	}
+[Rapid Fire]
+	{
+	Portuguese=Frenético;
+	}
+
+// Chat settings
+
+[No Chat]
+	{
+	Portuguese=Sem falas;
+	}
+[Only important info]
+	{
+	Portuguese=Só informações importantes;
+	}
+[Medium chat]
+	{
+	Portuguese=Falas moderadas;
+	}
+[Detailed chat]
+	{
+	Portuguese=Falas detalhadas;
+	}
+[High chat level]
+	{
+	Portuguese=Muitas falas;
+	}
+[All info chatted]
+	{
+	Portuguese=Todas as falas;
+	}
+[ENEMIES]
+	{
+	Portuguese=INIMIGOS;
+	}
+[Enemies]
+	{
+	Portuguese=Inimigos;
+	}
+[All]
+	{
+	Portuguese=Todos;
+	}
+[ALL]
+	{
+	Portuguese=TODOS;
+	}
+[TALK TO:]
+	{
+	Portuguese=FALAR COM:;
+	}
+[Unit Sounds]
+	{
+	Portuguese=Sons das unidades;
+	}
+[UNIT SOUNDS]
+	{
+	Portuguese=SONS DAS UNIDADES;
+	}
+
+// Sound settings
+
+[On]
+	{
+	Portuguese=Sim;
+	}
+[Off]
+	{
+	Portuguese=Não;
+	}
+[Mono]
+	{
+	Portuguese=Mono;
+	}
+[Stereo]
+	{
+	Portuguese=Estéreo;
+	}
+[3d]
+	{
+	Portuguese=3D;
+	}
+[Sound Effects Volume]
+	{
+	Portuguese=Volume dos efeitos;
+	}
+[Music Volume]
+	{
+	Portuguese=Volume da música;
+	}
+[Sound Volume]
+	{
+	Portuguese=Volume do som;
+	}
+[Sound Mode]
+	{
+	Portuguese=Modo de som;
+	}
+[No Chatting]
+	{
+	Portuguese=Sem falas;
+	}
+[TEST]
+	{
+	Portuguese=TESTE;
+	}
+[Sound Test]
+	{
+	Portuguese=Teste de som;
+	}
+[SOUND TEST]
+	{
+	Portuguese=TESTE DE SOM;
+	}
+[Building Sounds]
+	{
+	Portuguese=Sons de construção;
+	}
+[Building]
+	{
+	Portuguese=Construção;
+	}
+[Unit Speech]
+	{
+	Portuguese=Vozes das unidades;
+	}
+[Unit Chat Level]
+	{
+	Portuguese=Nível de falas;
+	}
+[Unit Text Acks]
+	{
+	Portuguese=Respostas em texto;
+	}
+[Chat Level Info]
+	{
+	Portuguese=Sobre níveis de fala;
+	}
+[Unit Acknowledgement]
+	{
+	Portuguese=Respostas das unidades;
+	}
+// Not in 3.1c's table: the Unit Speech and Unit Chat Level buttons'
+// stages, whole. A button's whole caption is translated before each of its
+// stages, and [Full] alone is a game the game list shows full.
+[Off|Medium|Full]
+	{
+	Portuguese=Nenhum|Médio|Completo;
+	}
+
+// Difficulty settings
+
+[Difficulty]
+	{
+	Portuguese=Dificuldade;
+	}
+[Difficulty:]
+	{
+	Portuguese=Dificuldade:;
+	}
+[Easy]
+	{
+	Portuguese=Fácil;
+	}
+[Medium]
+	{
+	Portuguese=Médio;
+	}
+[Hard]
+	{
+	Portuguese=Difícil;
+	}
+[Mapped]
+	{
+	Portuguese=Mapeado;
+	}
+[Unmapped]
+	{
+	Portuguese=Oculto;
+	}
+
+// Starting resource levels
+
+[Low]
+	{
+	Portuguese=Baixo;
+	}
+[High]
+	{
+	Portuguese=Alto;
+	}
+
+// Interface menu
+
+[Left]
+	{
+	Portuguese=Esquerdo;
+	}
+[Right]
+	{
+	Portuguese=Direito;
+	}
+[Left Click]
+	{
+	Portuguese=Esquerdo;
+	}
+[Right Click]
+	{
+	Portuguese=Direito;
+	}
+
+// Visuals menu
+
+[Shading]
+	{
+	Portuguese=Sombreamento;
+	}
+[Antialias]
+	{
+	Portuguese=Anti-aliasing;
+	}
+[Anti-aliasing]
+	{
+	Portuguese=Anti-aliasing;
+	}
+[Map Mode]
+	{
+	Portuguese=Modo do mapa;
+	}
+[Gamma]
+	{
+	Portuguese=Gama;
+	}
+[Gamma Correction]
+	{
+	Portuguese=Correção de gama;
+	}
+[Line Of Sight]
+	{
+	Portuguese=Linha de visão;
+	}
+[Object rendering]
+	{
+	Portuguese=Renderização;
+	}
+[Screen Size]
+	{
+	Portuguese=Tamanho do ecrã;
+	}
+[Size]
+	{
+	Portuguese=Tamanho;
+	}
+[Shadows]
+	{
+	Portuguese=Sombras;
+	}
+[Building Shadows]
+	{
+	Portuguese=Sombras de construções;
+	}
+[Vehicle Shadows]
+	{
+	Portuguese=Sombras de veículos;
+	}
+[True]
+	{
+	Portuguese=Real;
+	}
+[Set]
+	{
+	Portuguese=Definir;
+	}
+
+// Video mode menu
+
+[Select Videomode]
+	{
+	Portuguese=Modo de vídeo;
+	}
+[Select Mode]
+	{
+	Portuguese=Escolher modo;
+	}
+
+// Save / Load game menus
+
+[Name Of Game to Load]
+	{
+	Portuguese=Nome do jogo a carregar;
+	}
+[Name Of Game to Save]
+	{
+	Portuguese=Nome do jogo a guardar;
+	}
+[Reset List]
+	{
+	Portuguese=Repor;
+	}
+[Delete Game]
+	{
+	Portuguese=Eliminar;
+	}
+[Delete List]
+	{
+	Portuguese=Eliminar;
+	}
+[Cancel Save]
+	{
+	Portuguese=Cancelar;
+	}
+[Game type:]
+	{
+	Portuguese=Tipo de jogo:;
+	}
+[Mission/Map:]
+	{
+	Portuguese=Missão/mapa:;
+	}
+[Time elapsed:]
+	{
+	Portuguese=Tempo decorrido:;
+	}
+[Side:]
+	{
+	Portuguese=Lado:;
+	}
+[Campaign:]
+	{
+	Portuguese=Campanha:;
+	}
+[There are no saved games to choose from]
+	{
+	Portuguese=Não há jogos guardados para escolher;
+	}
+[Mission:]
+	{
+	Portuguese=Missão:;
+	}
+[Time saved:]
+	{
+	Portuguese=Guardado em:;
+	}
+
+// Multiplayer connection messages
+
+[The creator has left the game]
+	{
+	Portuguese=O anfitrião saiu da partida;
+	}
+[Reject Now]
+	{
+	Portuguese=Expulsar;
+	}
+[will be rejected in %d seconds]
+	{
+	Portuguese=será expulso em %d segundos;
+	}
+[You do not have a compatible version for this game.]
+	{
+	Portuguese=Não tem uma versão compatível com esta partida.;
+	}
+[is not responding]
+	{
+	Portuguese=não está a responder;
+	}
+[Timed out while connecting to DirectPlay lobby!]
+	{
+	Portuguese=Tempo de ligação ao lobby DirectPlay esgotado!;
+	}
+[Please insert the Installation CD (Disc 1) and select%s"%s" again.]
+	{
+	Portuguese=Introduza o CD de instalação (Disco 1) e selecione%s"%s" novamente.;
+	}
+[Please insert the Campaign CD (Disc 2) and try again]
+	{
+	Portuguese=Introduza o CD da campanha (Disco 2) e tente novamente;
+	}
+[Please insert the Multiplayer CD (Disc 1) and try again]
+	{
+	Portuguese=Introduza o CD multijogador (Disco 1) e tente novamente;
+	}
+[Fault while trying to excecute button action.]
+	{
+	Portuguese=Falha ao executar a ação do botão.;
+	}
+[The "%s" service failed or took %stoo long. Please see the readmee%sfile for more information.]
+	{
+	Portuguese=O serviço "%s" falhou ou demorou %sdemasiado. Consulte o ficheiro%sreadme para obter mais informações.;
+	}
+[Unable to connect to DirectPlay lobby.]
+	{
+	Portuguese=Não foi possível ligar ao lobby DirectPlay.;
+	}
+[Unable to browse to URL: %s]
+	{
+	Portuguese=Não foi possível abrir o URL: %s;
+	}
+[Unable to invoke DLL: %s]
+	{
+	Portuguese=Não foi possível chamar a DLL: %s;
+	}
+[Unable to execute command: %s]
+	{
+	Portuguese=Não foi possível executar o comando: %s;
+	}
+[Could not match weapon type "%s" for synchronization!]
+	{
+	Portuguese=Não foi possível encontrar o tipo de arma "%s" para a sincronização!;
+	}
+[Updating...]
+	{
+	Portuguese=A atualizar...;
+	}
+[You must enter a game name]
+	{
+	Portuguese=Introduza um nome para a partida;
+	}
+[You must enter your name]
+	{
+	Portuguese=Introduza o seu nome;
+	}
+[You were rejected from the game]
+	{
+	Portuguese=Foi expulso da partida;
+	}
+[The %s service failed or took%stoo long. Please see the readme%sfile for more information.]
+	{
+	Portuguese=O serviço %s falhou ou demorou%sdemasiado. Consulte o ficheiro%sreadme para obter mais informações.;
+	}
+[Direct Connections]
+	{
+	Portuguese=Ligações diretas;
+	}
+[Internet Access]
+	{
+	Portuguese=Acesso à Internet;
+	}
+[There are no multiplayer games to choose from]
+	{
+	Portuguese=Não há partidas multijogador para escolher;
+	}
+[Player has left the game]
+	{
+	Portuguese=O jogador saiu da partida;
+	}
+[Player is joining the game]
+	{
+	Portuguese=Um jogador está a entrar na partida;
+	}
+[Player has disconnected]
+	{
+	Portuguese=O jogador desligou-se;
+	}
+[Player %s has disconnected]
+	{
+	Portuguese=O jogador %s desligou-se;
+	}
+[You did not have the correct password]
+	{
+	Portuguese=Palavra-passe incorreta;
+	}
+[10 seconds]
+	{
+	Portuguese=10 segundos;
+	}
+[Please Select Provider]
+	{
+	Portuguese=Escolha a ligação;
+	}
+[Select Provider]
+	{
+	Portuguese=Escolher;
+	}
+
+// Multiplayer interface
+
+[Allied Victory]
+	{
+	Portuguese=Vitória aliada;
+	}
+[Chosen Units]
+	{
+	Portuguese=Unidades escolhidas;
+	}
+[More Info]
+	{
+	Portuguese=Detalhes;
+	}
+[Enter Game Name]
+	{
+	Portuguese=Nome da partida;
+	}
+[Enter Your Name]
+	{
+	Portuguese=O seu nome;
+	}
+[Create New Game]
+	{
+	Portuguese=Criar partida;
+	}
+[Password To Join]
+	{
+	Portuguese=Palavra-passe;
+	}
+[Closed]
+	{
+	Portuguese=Fechada;
+	}
+[The game is closed]
+	{
+	Portuguese=A partida está fechada;
+	}
+[The game is full]
+	{
+	Portuguese=A partida está cheia;
+	}
+[In Game]
+	{
+	Portuguese=Em jogo;
+	}
+[Lounge]
+	{
+	Portuguese=Lobby;
+	}
+[Playing]
+	{
+	Portuguese=A jogar;
+	}
+[Full]
+	{
+	Portuguese=Cheia;
+	}
+[Reject Player:]
+	{
+	Portuguese=Expulsar jogador:;
+	}
+[Reject Player]
+	{
+	Portuguese=Expulsar jogador;
+	}
+[Reject Player?]
+	{
+	Portuguese=Expulsar jogador?;
+	}
+[Reject %s?]
+	{
+	Portuguese=Expulsar %s?;
+	}
+[Reject]
+	{
+	Portuguese=Expulsar;
+	}
+[Not Selected]
+	{
+	Portuguese=Não escolhido;
+	}
+[NOT SELECTED]
+	{
+	Portuguese=NÃO ESCOLHIDO;
+	}
+[Join]
+	{
+	Portuguese=Entrar;
+	}
+[New]
+	{
+	Portuguese=Nova;
+	}
+[Name of Game]
+	{
+	Portuguese=Nome da partida;
+	}
+[Plyrs]
+	{
+	Portuguese=Jog.;
+	}
+[Status]
+	{
+	Portuguese=Estado;
+	}
+[Watch]
+	{
+	Portuguese=Assistir;
+	}
+[Update]
+	{
+	Portuguese=Atualizar;
+	}
+[LOS]
+	{
+	Portuguese=Visão;
+	}
+[Cmdr]
+	{
+	Portuguese=Cmdt.;
+	}
+[Ping]
+	{
+	Portuguese=Ping;
+	}
+[Name]
+	{
+	Portuguese=Nome;
+	}
+[Your Name]
+	{
+	Portuguese=O seu nome;
+	}
+[Game Password]
+	{
+	Portuguese=Palavra-passe;
+	}
+
+// Lounge options
+
+[Messages]
+	{
+	Portuguese=Mensagens;
+	}
+[Mem.]
+	{
+	Portuguese=Mem.;
+	}
+[Ready?]
+	{
+	Portuguese=Pronto?;
+	}
+[Start Game]
+	{
+	Portuguese=Iniciar;
+	}
+[Select Map]
+	{
+	Portuguese=Escolher;
+	}
+[Resolution]
+	{
+	Portuguese=Resolução;
+	}
+[Cmndr Ends Game]
+	{
+	Portuguese=Cmdt. termina;
+	}
+[LOS Mode]
+	{
+	Portuguese=Modo de visão;
+	}
+[Cheat Codes]
+	{
+	Portuguese=Batotas;
+	}
+[Cheat Codes:]
+	{
+	Portuguese=Batotas:;
+	}
+[Disallowed]
+	{
+	Portuguese=Proibidas;
+	}
+[Allowed]
+	{
+	Portuguese=Permitidas;
+	}
+[Watching]
+	{
+	Portuguese=Espetadores;
+	}
+[Watching:]
+	{
+	Portuguese=Espetadores:;
+	}
+[Watching OK]
+	{
+	Portuguese=Espetadores: sim;
+	}
+[No Watching]
+	{
+	Portuguese=Espetadores: não;
+	}
+[Game Open]
+	{
+	Portuguese=Partida aberta;
+	}
+[Game Closed]
+	{
+	Portuguese=Partida fechada;
+	}
+[Game Status]
+	{
+	Portuguese=Estado da partida;
+	}
+[Watching Allowed]
+	{
+	Portuguese=Espetadores: sim;
+	}
+[Map Name]
+	{
+	Portuguese=Nome do mapa;
+	}
+[Max Units]
+	{
+	Portuguese=Limite;
+	}
+[Max Units:]
+	{
+	Portuguese=Máx. de unidades:;
+	}
+[Game Is Open]
+	{
+	Portuguese=Partida aberta;
+	}
+[Build Restrictions]
+	{
+	Portuguese=Restrições;
+	}
+
+// Skirmish menu
+
+[Start Skirmish]
+	{
+	Portuguese=Iniciar escaramuça;
+	}
+[Location]
+	{
+	Portuguese=Posição;
+	}
+[Dead Commander]
+	{
+	Portuguese=Comandante morto;
+	}
+[Commander]
+	{
+	Portuguese=Comandante;
+	}
+
+// Restrictions menu
+
+[Max Per Player]
+	{
+	Portuguese=Máx. por jogador;
+	}
+[Unit Build Restrictions]
+	{
+	Portuguese=Restrições de construção de unidades;
+	}
+[Load List]
+	{
+	Portuguese=Carregar;
+	}
+[Save List]
+	{
+	Portuguese=Guardar;
+	}
+[Name of list to save]
+	{
+	Portuguese=Nome da lista a guardar;
+	}
+[Show Picture]
+	{
+	Portuguese=Mostrar imagem;
+	}
+
+// Gameplay options
+
+[Fixed]
+	{
+	Portuguese=Fixa;
+	}
+[Random]
+	{
+	Portuguese=Aleatória;
+	}
+[Specific]
+	{
+	Portuguese=Escolhida;
+	}
+[Fixed Locations]
+	{
+	Portuguese=Posições fixas;
+	}
+[Random Locations]
+	{
+	Portuguese=Posições aleatórias;
+	}
+[Game Ends]
+	{
+	Portuguese=Fim de jogo;
+	}
+[Game ends]
+	{
+	Portuguese=Fim de jogo;
+	}
+[Deathmatch]
+	{
+	Portuguese=Deathmatch;
+	}
+[Continues]
+	{
+	Portuguese=Continua;
+	}
+[Game Continues]
+	{
+	Portuguese=Jogo continua;
+	}
+[Mapping Mode]
+	{
+	Portuguese=Modo do mapa;
+	}
+[Mapping Mode:]
+	{
+	Portuguese=Modo do mapa:;
+	}
+[Blank Map]
+	{
+	Portuguese=Mapa oculto;
+	}
+[Full Map]
+	{
+	Portuguese=Mapa completo;
+	}
+[LOS Off]
+	{
+	Portuguese=Desligada;
+	}
+[Permanent]
+	{
+	Portuguese=Permanente;
+	}
+[True LOS]
+	{
+	Portuguese=Real;
+	}
+[Circular]
+	{
+	Portuguese=Circular;
+	}
+[Starting Locations:]
+	{
+	Portuguese=Posições iniciais:;
+	}
+[Start Location]
+	{
+	Portuguese=Posição inicial;
+	}
+[Commander Death]
+	{
+	Portuguese=Morte do Comandante;
+	}
+[Commander Death:]
+	{
+	Portuguese=Morte do Comandante:;
+	}
+[Mapping]
+	{
+	Portuguese=Mapa;
+	}
+[Line of Sight]
+	{
+	Portuguese=Linha de visão;
+	}
+[Line of Sight:]
+	{
+	Portuguese=Linha de visão:;
+	}
+[Computer Opponent]
+	{
+	Portuguese=Computador;
+	}
+[Computer]
+	{
+	Portuguese=Computador;
+	}
+[AI Opponent]
+	{
+	Portuguese=Oponente IA;
+	}
+[Opponent]
+	{
+	Portuguese=Oponente;
+	}
+[Exit the Battle]
+	{
+	Portuguese=Sair da batalha;
+	}
+[Page 1]
+	{
+	Portuguese=Página 1;
+	}
+[Page 2]
+	{
+	Portuguese=Página 2;
+	}
+[Page 3]
+	{
+	Portuguese=Página 3;
+	}
+
+// Briefing messages
+
+[BACK TO START]
+	{
+	Portuguese=AO INÍCIO;
+	}
+[MORE...]
+	{
+	Portuguese=MAIS...;
+	}
+
+// Game over screen
+
+[Victory or Failure]
+	{
+	Portuguese=Vitória ou fracasso;
+	}
+[Main Menu]
+	{
+	Portuguese=Menu principal;
+	}
+[Game Statistics]
+	{
+	Portuguese=Estatísticas;
+	}
+[Statistics]
+	{
+	Portuguese=Estatísticas;
+	}
+[Next Mission]
+	{
+	Portuguese=Missão seguinte;
+	}
+[Adjust Difficulty]
+	{
+	Portuguese=Dificuldade;
+	}
+[Adjust skirmish difficulty.]
+	{
+	Portuguese=Ajustar a dificuldade da escaramuça.;
+	}
+[You]
+	{
+	Portuguese=Jogador;
+	}
+[AI Player]
+	{
+	Portuguese=Jogador IA;
+	}
+[Score]
+	{
+	Portuguese=Pontuação;
+	}
+[Victory]
+	{
+	Portuguese=Vitória;
+	}
+[Failure]
+	{
+	Portuguese=Fracasso;
+	}
+
+// Game commands
+
+[Total Units]
+	{
+	Portuguese=Unidades;
+	}
+[Stop Building]
+	{
+	Portuguese=Parar;
+	}
+[Options]
+	{
+	Portuguese=Opções;
+	}
+[Share]
+	{
+	Portuguese=Partilhar;
+	}
+
+// Share options
+
+[TRANSFER RESOURCES]
+	{
+	Portuguese=TRANSFERIR RECURSOS;
+	}
+[Selected Units]
+	{
+	Portuguese=Unidades selecionadas;
+	}
+[Select Player]
+	{
+	Portuguese=Escolher jogador;
+	}
+[Map Info]
+	{
+	Portuguese=Info do mapa;
+	}
+
+// Unit status messages
+
+[five]
+	{
+	Portuguese=cinco;
+	}
+[four]
+	{
+	Portuguese=quatro;
+	}
+[three]
+	{
+	Portuguese=três;
+	}
+[two]
+	{
+	Portuguese=dois;
+	}
+[one]
+	{
+	Portuguese=um;
+	}
+[zero]
+	{
+	Portuguese=zero;
+	}
+[Building complete]
+	{
+	Portuguese=Construção concluída;
+	}
+[Capture failed]
+	{
+	Portuguese=Captura falhou;
+	}
+[Construction failed: target area was blocked]
+	{
+	Portuguese=Construção falhou: área bloqueada;
+	}
+[Construction stopped]
+	{
+	Portuguese=Construção parada;
+	}
+[Construction terminated]
+	{
+	Portuguese=Construção cancelada;
+	}
+[Target area was blocked]
+	{
+	Portuguese=Área de destino bloqueada;
+	}
+[Construction terminated by hostile action]
+	{
+	Portuguese=Construção interrompida por ação inimiga;
+	}
+[How can I fix units when they keep blowing up?]
+	{
+	Portuguese=Como reparar unidades se não param de explodir?;
+	}
+[I can't get there]
+	{
+	Portuguese=Não consigo chegar lá;
+	}
+[I can't reach the construction site]
+	{
+	Portuguese=Não consigo chegar ao local da construção;
+	}
+[Landing aborted]
+	{
+	Portuguese=Aterragem abortada;
+	}
+[Landing aborted: all pads are occupied]
+	{
+	Portuguese=Aterragem abortada: todas as plataformas ocupadas;
+	}
+[Landing aborted: no pads available]
+	{
+	Portuguese=Aterragem abortada: nenhuma plataforma disponível;
+	}
+[Landing failed]
+	{
+	Portuguese=Aterragem falhou;
+	}
+[Loading unit]
+	{
+	Portuguese=A carregar unidade;
+	}
+[Preparing for transport]
+	{
+	Portuguese=A preparar o transporte;
+	}
+[Reclamate failed]
+	{
+	Portuguese=Reciclagem falhou;
+	}
+[Reclamating]
+	{
+	Portuguese=A reciclar;
+	}
+[Reclamation failed]
+	{
+	Portuguese=Reciclagem falhou;
+	}
+[Repair aborted.]
+	{
+	Portuguese=Reparação abortada.;
+	}
+[Repair mission failed]
+	{
+	Portuguese=Missão de reparação falhou;
+	}
+[Repairs unsuccessful.]
+	{
+	Portuguese=Reparações malsucedidas.;
+	}
+[Self destruct terminated]
+	{
+	Portuguese=Autodestruição cancelada;
+	}
+[Starting construction]
+	{
+	Portuguese=A iniciar construção;
+	}
+[That unit cannot be captured]
+	{
+	Portuguese=Essa unidade não pode ser capturada;
+	}
+[That unit cannot be reclamated]
+	{
+	Portuguese=Essa unidade não pode ser reciclada;
+	}
+[That unit cannot be reclaimed]
+	{
+	Portuguese=Essa unidade não pode ser reciclada;
+	}
+[That unit is a cloud of vapor and cannot be captured]
+	{
+	Portuguese=Essa unidade é uma nuvem de vapor e não pode ser capturada;
+	}
+[That unit is a cloud of vapor and cannot be reclamated]
+	{
+	Portuguese=Essa unidade é uma nuvem de vapor e não pode ser reciclada;
+	}
+[Transport mission failed]
+	{
+	Portuguese=Missão de transporte falhou;
+	}
+[End Transport]
+	{
+	Portuguese=Fim do transporte;
+	}
+[Unable to create any more units]
+	{
+	Portuguese=Impossível criar mais unidades;
+	}
+[Unable to unload unit]
+	{
+	Portuguese=Impossível descarregar a unidade;
+	}
+[Unit is too heavy to transport]
+	{
+	Portuguese=Unidade demasiado pesada para transportar;
+	}
+[Unit is too large to transport]
+	{
+	Portuguese=Unidade demasiado grande para transportar;
+	}
+[Unit repaired]
+	{
+	Portuguese=Unidade reparada;
+	}
+[Unloading]
+	{
+	Portuguese=A descarregar;
+	}
+[Unloading process is proceeding non-optimally]
+	{
+	Portuguese=Descarregamento abaixo do ideal;
+	}
+[Waiting for construction area to clear]
+	{
+	Portuguese=A aguardar que a área de construção fique livre;
+	}
+[Waiting for target area to clear]
+	{
+	Portuguese=A aguardar que a área de destino fique livre;
+	}
+[Waiting for construction pad to clear]
+	{
+	Portuguese=A aguardar que a plataforma de construção fique livre;
+	}
+
+// Miscellaneous
+
+[Warning!\n\nUnable to register %1 for DirectPlay.]
+	{
+	Portuguese=Atenção!\n\nNão foi possível registar %1 para o DirectPlay.;
+	}
+[Unidentified object]
+	{
+	Portuguese=Objeto não identificado;
+	}
+[Game Time]
+	{
+	Portuguese=Tempo de jogo;
+	}
+[Human]
+	{
+	Portuguese=Humano;
+	}
+[Human Player]
+	{
+	Portuguese=Jogador humano;
+	}
+[Open]
+	{
+	Portuguese=Aberto;
+	}
+[Error]
+	{
+	Portuguese=Erro;
+	}
+[There are too many players enabled for this map]
+	{
+	Portuguese=Há demasiados jogadores ativados para este mapa;
+	}
+[There must be at least one human player and one AI opponent]
+	{
+	Portuguese=Tem de haver pelo menos um jogador humano e um oponente IA;
+	}
+[There must be at least one player and one computer opponent]
+	{
+	Portuguese=Tem de haver pelo menos um jogador e um oponente do computador;
+	}
+[You have lost connection with the game]
+	{
+	Portuguese=Perdeu a ligação à partida;
+	}
+[Lost connection with game]
+	{
+	Portuguese=Ligação à partida perdida;
+	}
+[You need a unit you don't have for this game]
+	{
+	Portuguese=Esta partida requer uma unidade que não tem;
+	}
+[You need a newer version of the game to enter]
+	{
+	Portuguese=Precisa de uma versão mais recente do jogo para entrar;
+	}
+[No watching is allowed for this game]
+	{
+	Portuguese=Esta partida não permite espetadores;
+	}
+[Out of memory! Your hard disk may be full.]
+	{
+	Portuguese=Memória insuficiente! O seu disco rígido pode estar cheio.;
+	}
+
+// Unit speech
+
+[Under Attack]
+	{
+	Portuguese=Sob ataque;
+	}
+[Arrived]
+	{
+	Portuguese=No local;
+	}
+[Cannot Comply]
+	{
+	Portuguese=Impossível cumprir;
+	}
+[Nanolathe Complete]
+	{
+	Portuguese=Nanotorneamento concluído;
+	}
+[Cloaked]
+	{
+	Portuguese=Camuflado;
+	}
+[Visible]
+	{
+	Portuguese=Visível;
+	}
+
+// Mission states
+
+[Acknowledged]
+	{
+	Portuguese=Entendido;
+	}
+[Activate]
+	{
+	Portuguese=Ativar;
+	}
+[Airstrike]
+	{
+	Portuguese=Ataque aéreo;
+	}
+[Annihilating]
+	{
+	Portuguese=A aniquilar;
+	}
+[Attacking]
+	{
+	Portuguese=A atacar;
+	}
+[Being transported]
+	{
+	Portuguese=Em transporte;
+	}
+[Capturing]
+	{
+	Portuguese=A capturar;
+	}
+[Cloaking]
+	{
+	Portuguese=A camuflar;
+	}
+[Deactivate]
+	{
+	Portuguese=Desativar;
+	}
+[Decloaking]
+	{
+	Portuguese=A sair da camuflagem;
+	}
+[Defending]
+	{
+	Portuguese=A defender;
+	}
+[Diving]
+	{
+	Portuguese=A mergulhar;
+	}
+[Engaging target]
+	{
+	Portuguese=A atacar o alvo;
+	}
+[Evading]
+	{
+	Portuguese=Em evasão;
+	}
+[Following]
+	{
+	Portuguese=A seguir;
+	}
+[Guarding]
+	{
+	Portuguese=A proteger;
+	}
+[Landing]
+	{
+	Portuguese=A aterrar;
+	}
+[Loading]
+	{
+	Portuguese=A carregar;
+	}
+[Moving]
+	{
+	Portuguese=Em movimento;
+	}
+[Nanolathing]
+	{
+	Portuguese=Nanotorneamento;
+	}
+[Paralyzed]
+	{
+	Portuguese=Paralisado;
+	}
+[Parking]
+	{
+	Portuguese=A estacionar;
+	}
+[Patrolling]
+	{
+	Portuguese=A patrulhar;
+	}
+[Patrolling for damaged units]
+	{
+	Portuguese=A procurar unidades danificadas;
+	}
+[Ready]
+	{
+	Portuguese=Pronto;
+	}
+[Ready with orders]
+	{
+	Portuguese=Pronto, com ordens;
+	}
+[Reclaiming]
+	{
+	Portuguese=A reciclar;
+	}
+[Repairing]
+	{
+	Portuguese=A reparar;
+	}
+[Repair patrol]
+	{
+	Portuguese=Patrulha de reparação;
+	}
+[Seeking to attack]
+	{
+	Portuguese=A ir atacar;
+	}
+[Seeking to defend]
+	{
+	Portuguese=A ir defender;
+	}
+[Seeking to land]
+	{
+	Portuguese=A ir aterrar;
+	}
+[Seeking to guard]
+	{
+	Portuguese=A ir proteger;
+	}
+[SELF DESTRUCT ENGAGED]
+	{
+	Portuguese=AUTODESTRUIÇÃO ATIVADA;
+	}
+[Standby]
+	{
+	Portuguese=Em espera;
+	}
+[Stopping]
+	{
+	Portuguese=A parar;
+	}
+[Suppressing fire]
+	{
+	Portuguese=Fogo de supressão;
+	}
+[Surfacing]
+	{
+	Portuguese=A emergir;
+	}
+[Teleporting]
+	{
+	Portuguese=A teletransportar;
+	}
+[Under construction]
+	{
+	Portuguese=Em construção;
+	}
+[Under repair]
+	{
+	Portuguese=Em reparação;
+	}
+[Unit is available]
+	{
+	Portuguese=Unidade disponível;
+	}
+[Waiting]
+	{
+	Portuguese=A aguardar;
+	}
+[Waiting for attack]
+	{
+	Portuguese=A aguardar ataque;
+	}
+
+// Feature descriptions
+
+[Description]
+	{
+	Portuguese=Descrição;
+	}
+[Plant]
+	{
+	Portuguese=Planta;
+	}
+[Burnt Plant]
+	{
+	Portuguese=Planta queimada;
+	}
+[Fortification Wall]
+	{
+	Portuguese=Muralha de Fortificação;
+	}
+[Hole]
+	{
+	Portuguese=Buraco;
+	}
+[Crater]
+	{
+	Portuguese=Cratera;
+	}
+[Foliage]
+	{
+	Portuguese=Folhagem;
+	}
+[Rock]
+	{
+	Portuguese=Rocha;
+	}
+[rock]
+	{
+	Portuguese=rocha;
+	}
+[Rubble]
+	{
+	Portuguese=Entulho;
+	}
+[Thermal Vent]
+	{
+	Portuguese=Respiradouro térmico;
+	}
+[Ventilation Engine]
+	{
+	Portuguese=Motor de ventilação;
+	}
+[Wreckage]
+	{
+	Portuguese=Destroços;
+	}
+[Burnt Foliage]
+	{
+	Portuguese=Folhagem queimada;
+	}
+[Burnt Tree]
+	{
+	Portuguese=Árvore queimada;
+	}
+[Tree]
+	{
+	Portuguese=Árvore;
+	}
+[Ice Chunks]
+	{
+	Portuguese=Blocos de gelo;
+	}
+[Damaged Terrain]
+	{
+	Portuguese=Terreno danificado;
+	}
+[Damaged Surface]
+	{
+	Portuguese=Superfície danificada;
+	}
+[DragonsTeeth]
+	{
+	Portuguese=Dentes de Dragão;
+	}
+[Dragons Teeth - NS]
+	{
+	Portuguese=Dentes de Dragão - NS;
+	}
+[DragonsTeeth - NS]
+	{
+	Portuguese=Dentes de Dragão - NS;
+	}
+[Metal Deposit]
+	{
+	Portuguese=Jazida de metal;
+	}
+[Node]
+	{
+	Portuguese=Nódulo;
+	}
+[Spire]
+	{
+	Portuguese=Pináculo;
+	}
+[Glyph]
+	{
+	Portuguese=Glifo;
+	}
+[Ruin]
+	{
+	Portuguese=Ruína;
+	}
+[Seismic Monitor]
+	{
+	Portuguese=Monitor sísmico;
+	}
+[Pipe]
+	{
+	Portuguese=Tubo;
+	}
+[Communications Uplink]
+	{
+	Portuguese=Uplink de comunicações;
+	}
+[Comm Uplink]
+	{
+	Portuguese=Uplink de comunicações;
+	}
+[Communication Tower]
+	{
+	Portuguese=Torre de comunicações;
+	}
+[Regulator Complex]
+	{
+	Portuguese=Complexo regulador;
+	}
+[Thermal Regulator]
+	{
+	Portuguese=Regulador térmico;
+	}
+[Transmitter]
+	{
+	Portuguese=Transmissor;
+	}
+[Pressure Release Valve]
+	{
+	Portuguese=Válvula de alívio de pressão;
+	}
+[Pressure Valve]
+	{
+	Portuguese=Válvula de pressão;
+	}
+
+// Multiplayer online interface messages
+
+[Invalid TCP/IP Address]
+	{
+	Portuguese=Endereço TCP/IP inválido;
+	}
+[Enter TCP address (leave blank to search)]
+	{
+	Portuguese=Endereço TCP (em branco para procurar);
+	}
+[Phone Numbers]
+	{
+	Portuguese=Telefones;
+	}
+[Number]
+	{
+	Portuguese=Número;
+	}
+[Modem]
+	{
+	Portuguese=Modem;
+	}
+[Port]
+	{
+	Portuguese=Porta;
+	}
+[Answer]
+	{
+	Portuguese=Atender;
+	}
+[Dial]
+	{
+	Portuguese=Marcar;
+	}
+[Host]
+	{
+	Portuguese=Criar;
+	}
+[Play]
+	{
+	Portuguese=Jogar;
+	}
+[Unit Download]
+	{
+	Portuguese=Transferir unidades;
+	}
+
+// In game pop-up messages
+
+[Game Name]
+	{
+	Portuguese=Nome da partida;
+	}
+[Map game will play on]
+	{
+	Portuguese=Mapa desta partida;
+	}
+[Does dead commander end game?]
+	{
+	Portuguese=A morte do Comandante encerra a partida?;
+	}
+[Average latency (big is bad)]
+	{
+	Portuguese=Latência média (alta é mau);
+	}
+[Type of Line of Sight]
+	{
+	Portuguese=Tipo de linha de visão;
+	}
+[Tells if you start with map]
+	{
+	Portuguese=Indica se começa com o mapa;
+	}
+[Starting Metal:]
+	{
+	Portuguese=Metal inicial:;
+	}
+[Starting Energy:]
+	{
+	Portuguese=Energia inicial:;
+	}
+[Starting metal amount]
+	{
+	Portuguese=Quantidade inicial de metal;
+	}
+[Starting energy amount]
+	{
+	Portuguese=Quantidade inicial de energia;
+	}
+[Click to edit energy value.]
+	{
+	Portuguese=Clique para editar o valor de energia.;
+	}
+[Click to set energy value.]
+	{
+	Portuguese=Clique para definir o valor de energia.;
+	}
+[Click to edit metal value.]
+	{
+	Portuguese=Clique para editar o valor de metal.;
+	}
+[Click to set metal value.]
+	{
+	Portuguese=Clique para definir o valor de metal.;
+	}
+[Left click to increase metal. Right click to decrease metal.]
+	{
+	Portuguese=Botão esquerdo aumenta o metal. Botão direito diminui o metal.;
+	}
+[Left click to increase energy. Right click to decrease energy.]
+	{
+	Portuguese=Botão esquerdo aumenta a energia. Botão direito diminui a energia.;
+	}
+[Click to select an allegiance symbol.]
+	{
+	Portuguese=Clique para escolher um símbolo de aliança.;
+	}
+[Players in game / Max players]
+	{
+	Portuguese=Jogadores na partida / máximo de jogadores;
+	}
+[Tells if game is in play]
+	{
+	Portuguese=Indica se a partida já começou;
+	}
+[Game ends when commander is destroyed.]
+	{
+	Portuguese=A partida termina quando o Comandante é destruído.;
+	}
+[Game continues after Commander is destroyed.]
+	{
+	Portuguese=A partida continua depois de o Comandante ser destruído.;
+	}
+[Commanders are placed at pre-determined locations.]
+	{
+	Portuguese=Os Comandantes começam em posições predefinidas.;
+	}
+[Commanders are randomly placed on the battle field.]
+	{
+	Portuguese=Os Comandantes começam em posições aleatórias no campo de batalha.;
+	}
+[Terrain is blacked out until explored.]
+	{
+	Portuguese=O terreno fica escuro até ser explorado.;
+	}
+[Terrain is visible.]
+	{
+	Portuguese=O terreno é visível.;
+	}
+[Terrain elevations affect a unit's view.]
+	{
+	Portuguese=O relevo do terreno afeta a visão das unidades.;
+	}
+[Terrain elevations do not affect a unit's view.]
+	{
+	Portuguese=O relevo do terreno não afeta a visão das unidades.;
+	}
+[All mapped terrain is visible.]
+	{
+	Portuguese=Todo o terreno mapeado fica visível.;
+	}
+[Exit Mission]
+	{
+	Portuguese=Sair da missão;
+	}
+[Exit Skirmish]
+	{
+	Portuguese=Sair da escaramuça;
+	}
+[Exit Battle]
+	{
+	Portuguese=Sair da batalha;
+	}
+[Restart Mission]
+	{
+	Portuguese=Reiniciar missão;
+	}
+[Restart Skirmish]
+	{
+	Portuguese=Reiniciar escaramuça;
+	}
+[Restart]
+	{
+	Portuguese=Reiniciar;
+	}
+[Close Windows CD Player?]
+	{
+	Portuguese=Fechar o leitor de CD do Windows?;
+	}
+[CD Music]
+	{
+	Portuguese=Música do CD;
+	}
+[Surrender this battle and return to main menu?]
+	{
+	Portuguese=Pretende render-se nesta batalha e voltar ao menu principal?;
+	}
+[Surrender this battle and exit to Windows?]
+	{
+	Portuguese=Pretende render-se nesta batalha e sair para o Windows?;
+	}
+[Surrender this battle and exit to the system?]
+	{
+	Portuguese=Pretende render-se nesta batalha e sair para o sistema?;
+	}
+
+// Title Screen
+
+[SINGLE]
+	{
+	Portuguese=UM JOGADOR;
+	}
+[Single]
+	{
+	Portuguese=Um jogador;
+	}
+[MULTI]
+	{
+	Portuguese=MULTIJOGADOR;
+	}
+[INTRO]
+	{
+	Portuguese=ABERTURA;
+	}
+[EXIT]
+	{
+	Portuguese=SAIR;
+	}
+[Exit]
+	{
+	Portuguese=Sair;
+	}
+
+// In-Game Help Screen
+
+[Keyboard Commands]
+	{
+	Portuguese=Comandos do teclado;
+	}
+[SPACEBAR]
+	{
+	Portuguese=BARRA DE ESPAÇOS;
+	}
+[Activate the game status bar]
+	{
+	Portuguese=Ativa a barra de estado do jogo;
+	}
+[Bring up the multiplayer scorecard]
+	{
+	Portuguese=Mostra a tabela de pontuação multijogador;
+	}
+[Select all factories]
+	{
+	Portuguese=Seleciona todas as fábricas;
+	}
+[Multiplayer options]
+	{
+	Portuguese=Opções multijogador;
+	}
+[Cancels the current command]
+	{
+	Portuguese=Cancela o comando atual;
+	}
+[Assign the currently selected units to a squad]
+	{
+	Portuguese=Atribui as unidades selecionadas a um esquadrão;
+	}
+[Select squad]
+	{
+	Portuguese=Seleciona o esquadrão;
+	}
+[Toggles fire orders]
+	{
+	Portuguese=Alterna as ordens de fogo;
+	}
+[Toggles selected unit's cloaking capabilities]
+	{
+	Portuguese=Liga ou desliga a camuflagem da unidade selecionada;
+	}
+[Toggles move orders]
+	{
+	Portuguese=Alterna as ordens de movimento;
+	}
+[Select the Build menu for the current unit]
+	{
+	Portuguese=Abre o menu de construção da unidade;
+	}
+[Select the Orders menu for the current unit]
+	{
+	Portuguese=Abre o menu de ordens da unidade;
+	}
+[Select the menu for the current unit]
+	{
+	Portuguese=Abre o menu da unidade atual;
+	}
+[, (comma)]
+	{
+	Portuguese=, (vírgula);
+	}
+[Select the previous menu for that unit]
+	{
+	Portuguese=Abre o menu anterior dessa unidade;
+	}
+[. (period)]
+	{
+	Portuguese=. (ponto);
+	}
+[Select the next menu for that unit]
+	{
+	Portuguese=Abre o menu seguinte dessa unidade;
+	}
+[~ (tilde)]
+	{
+	Portuguese=~ (til);
+	}
+[Toggle damage bars on the units]
+	{
+	Portuguese=Liga ou desliga as barras de dano das unidades;
+	}
+[Pause the game]
+	{
+	Portuguese=Coloca o jogo em pausa;
+	}
+[Display information on selected unit]
+	{
+	Portuguese=Mostra informações da unidade selecionada;
+	}
+[Display the Options menu]
+	{
+	Portuguese=Mostra o menu de opções;
+	}
+[Selects the unit that last reported]
+	{
+	Portuguese=Seleciona a última unidade que comunicou;
+	}
+[Screen capture]
+	{
+	Portuguese=Captura de ecrã;
+	}
+[Clear all chat messages]
+	{
+	Portuguese=Apaga todas as mensagens do chat;
+	}
+[Select all units]
+	{
+	Portuguese=Seleciona todas as unidades;
+	}
+[Select all construction units except the Commander]
+	{
+	Portuguese=Seleciona os construtores, exceto o Comandante;
+	}
+[Select the Commander]
+	{
+	Portuguese=Seleciona o Comandante;
+	}
+[Destruct selected unit(s)]
+	{
+	Portuguese=Autodestrói as unidades selecionadas;
+	}
+[Select all units currently on the screen]
+	{
+	Portuguese=Seleciona todas as unidades no ecrã;
+	}
+[Select all aircraft]
+	{
+	Portuguese=Seleciona todas as aeronaves;
+	}
+[Select all units of same type]
+	{
+	Portuguese=Seleciona todas as unidades do mesmo tipo;
+	}
+[Applies a map bookmark at cursor location]
+	{
+	Portuguese=Marca um ponto do mapa sob o ponteiro;
+	}
+[Centers the screen on a map bookmark]
+	{
+	Portuguese=Centra o ecrã num ponto marcado;
+	}
+[Give an attack order]
+	{
+	Portuguese=Dá uma ordem de ataque;
+	}
+[Give a guard order]
+	{
+	Portuguese=Dá uma ordem de proteção;
+	}
+[Give a move order]
+	{
+	Portuguese=Dá uma ordem de movimento;
+	}
+[Give a patrol order]
+	{
+	Portuguese=Dá uma ordem de patrulha;
+	}
+[Give a stop order (cancel previous orders)]
+	{
+	Portuguese=Dá uma ordem de paragem (cancela as ordens anteriores);
+	}
+[Use the Disintegrator Gun]
+	{
+	Portuguese=Usa o Canhão Desintegrador;
+	}
+[Give a capture order]
+	{
+	Portuguese=Dá uma ordem de captura;
+	}
+[Give a repair order]
+	{
+	Portuguese=Dá uma ordem de reparação;
+	}
+[Give a reclaim order]
+	{
+	Portuguese=Dá uma ordem de reciclagem;
+	}
+[Share resources with another player]
+	{
+	Portuguese=Partilha recursos com outro jogador;
+	}
+[Scroll to the next unit off screen]
+	{
+	Portuguese=Desloca a vista até à próxima unidade fora do ecrã;
+	}
+[Track the selected unit]
+	{
+	Portuguese=Acompanha a unidade selecionada;
+	}
+[Reduce the game speed]
+	{
+	Portuguese=Reduz a velocidade do jogo;
+	}
+[Increase the game speed]
+	{
+	Portuguese=Aumenta a velocidade do jogo;
+	}
+[Hold down to queue up multiple commands]
+	{
+	Portuguese=Mantenha premido para pôr vários comandos em fila;
+	}
+[ENTER]
+	{
+	Portuguese=ENTER;
+	}
+[Activate the message bar]
+	{
+	Portuguese=Ativa a barra de mensagens;
+	}
+[Turn Rate]
+	{
+	Portuguese=Rotação;
+	}
+
+// Multiplayer map names and descriptions
+
+[painted desert]
+	{
+	Portuguese=Deserto Pintado;
+	}
+[18 x 18  battle in the many mesas area.]
+	{
+	Portuguese=18 x 18  Batalha na região dos muitos planaltos.;
+	}
+[caldera's rim]
+	{
+	Portuguese=Rebordo da Caldeira;
+	}
+[29 x 29  sunken volcanic crater in center of map]
+	{
+	Portuguese=29 x 29  Cratera vulcânica afundada no centro do mapa;
+	}
+[coast to coast]
+	{
+	Portuguese=De Costa a Costa;
+	}
+[7 x 4  water between two coasts. weak tides.]
+	{
+	Portuguese=7 x 4  Água entre duas costas. Marés fracas.;
+	}
+[dark side]
+	{
+	Portuguese=Lado Escuro;
+	}
+[6 x 5  lunar map with plenty of metal]
+	{
+	Portuguese=6 x 5  Mapa lunar com muito metal;
+	}
+[etorrep glacier]
+	{
+	Portuguese=Glaciar Etorrep;
+	}
+[5 x 8  strong winds coming from ocean.]
+	{
+	Portuguese=5 x 8  Ventos fortes vindos do oceano.;
+	}
+[fox holes]
+	{
+	Portuguese=Trincheiras;
+	}
+[7 x 7  strong winds. more metal on high ground.]
+	{
+	Portuguese=7 x 7  Ventos fortes. Mais metal nas zonas altas.;
+	}
+[full moon]
+	{
+	Portuguese=Lua Cheia;
+	}
+[8 x 8  fighting on the naryb highlands. no wind.]
+	{
+	Portuguese=8 x 8  Combate nas terras altas de Naryb. Sem vento.;
+	}
+[gods of war]
+	{
+	Portuguese=Deuses da Guerra;
+	}
+[9 x 8  asymmetric water map.]
+	{
+	Portuguese=9 x 8  Mapa aquático assimétrico.;
+	}
+[great divide]
+	{
+	Portuguese=Grande Divisão;
+	}
+[5 x 8  fight through a mountain pass.]
+	{
+	Portuguese=5 x 8  Lute por uma passagem de montanha.;
+	}
+[hundred isles]
+	{
+	Portuguese=Cem Ilhas;
+	}
+[12 x 12  fighting on over a hundred small islands]
+	{
+	Portuguese=12 x 12  Combate em mais de cem pequenas ilhas;
+	}
+[kill the middle]
+	{
+	Portuguese=Massacre no Centro;
+	}
+[13 x 13  powerful player in middle of map on island.]
+	{
+	Portuguese=13 x 13  Jogador poderoso numa ilha no centro do mapa.;
+	}
+[king of the hill]
+	{
+	Portuguese=Rei da Colina;
+	}
+[16 x 16  fight for a metal rich mountain. strong wind.]
+	{
+	Portuguese=16 x 16  Lute por uma montanha rica em metal. Vento forte.;
+	}
+[lava & two hills]
+	{
+	Portuguese=Lava e Duas Colinas;
+	}
+[9 x 8  two giant hills & a river of lava between them]
+	{
+	Portuguese=9 x 8  Duas colinas gigantes e um rio de lava entre elas;
+	}
+[lava highground]
+	{
+	Portuguese=Alturas de Lava;
+	}
+[8 x 8  fight over narrow ramps.]
+	{
+	Portuguese=8 x 8  Combate em rampas estreitas.;
+	}
+[lava mania]
+	{
+	Portuguese=Mania da Lava;
+	}
+[8 x 8  strong winds.]
+	{
+	Portuguese=8 x 8  Ventos fortes.;
+	}
+[lava run]
+	{
+	Portuguese=Corrida de Lava;
+	}
+[13 x 4  lava strip down center. high winds.]
+	{
+	Portuguese=13 x 4  Faixa de lava no centro. Ventos fortes.;
+	}
+[greenhaven]
+	{
+	Portuguese=Refúgio Verde;
+	}
+[16 x 16  large map with many hills to hide behind.]
+	{
+	Portuguese=16 x 16  Mapa grande com muitas colinas onde se esconder.;
+	}
+[metal heck]
+	{
+	Portuguese=Inferno de Metal;
+	}
+[8 x 8  fight in the metal cross region.]
+	{
+	Portuguese=8 x 8  Combate na região da cruz de metal.;
+	}
+[red hot lava]
+	{
+	Portuguese=Lava em Brasa;
+	}
+[11 x 9  many hills and lava pools. plenty of metal]
+	{
+	Portuguese=11 x 9  Muitas colinas e lagos de lava. Bastante metal;
+	}
+[red planet]
+	{
+	Portuguese=Planeta Vermelho;
+	}
+[9 x 9   many small hills and pools]
+	{
+	Portuguese=9 x 9   Muitas pequenas colinas e lagoas;
+	}
+[red triangle]
+	{
+	Portuguese=Triângulo Vermelho;
+	}
+[16 x 16  powerful tides and strong winds.]
+	{
+	Portuguese=16 x 16  Marés poderosas e ventos fortes.;
+	}
+[ring atoll]
+	{
+	Portuguese=Atol Anular;
+	}
+[21 x 21  powerful tides. ground units can use shallow water.]
+	{
+	Portuguese=21 x 21  Marés poderosas. Unidades terrestres podem usar águas pouco profundas.;
+	}
+[rock alley]
+	{
+	Portuguese=Corredor de Pedra;
+	}
+[9 x 21  fight in mountian valley.]
+	{
+	Portuguese=9 x 21  Combate num vale de montanha.;
+	}
+[sherwood]
+	{
+	Portuguese=Sherwood;
+	}
+[6 x 6  fighting around 3 large hills]
+	{
+	Portuguese=6 x 6  Combate em torno de 3 grandes colinas;
+	}
+[shore to shore]
+	{
+	Portuguese=De Margem a Margem;
+	}
+[29 x 4  two coasts with large ocean between them.]
+	{
+	Portuguese=29 x 4  Duas costas com um grande oceano entre elas.;
+	}
+[the desert triad]
+	{
+	Portuguese=A Tríade do Deserto;
+	}
+[6 x 6  fighting on 3 mesas.]
+	{
+	Portuguese=6 x 6  Combate em 3 planaltos.;
+	}
+[two continents]
+	{
+	Portuguese=Dois Continentes;
+	}
+[22 x 25  metal in the middle of the map.]
+	{
+	Portuguese=22 x 25  Metal no meio do mapa.;
+	}
+[yerrot mountains]
+	{
+	Portuguese=Montanhas Yerrot;
+	}
+[27 x 23  mountain range with lots of metal.]
+	{
+	Portuguese=27 x 23  Cordilheira com muito metal.;
+	}
+[pincushion]
+	{
+	Portuguese=Alfineteira;
+	}
+[13 x 13  a fight amongst lava spires]
+	{
+	Portuguese=13 x 13  Combate entre pináculos de lava;
+	}
+[over crude water]
+	{
+	Portuguese=Sobre Águas de Petróleo;
+	}
+[25 x 25  a maze of metal bridges.]
+	{
+	Portuguese=25 x 25  Um labirinto de pontes de metal.;
+	}
+[seven islands]
+	{
+	Portuguese=Sete Ilhas;
+	}
+[40 x 40  huge sea battle on core prime]
+	{
+	Portuguese=40 x 40  Enorme batalha naval em Core Prime;
+	}
+[ashap plateau]
+	{
+	Portuguese=Planalto Ashap;
+	}
+[9 x 9  metal on rough lower level]
+	{
+	Portuguese=9 x 9  Metal no nível inferior acidentado;
+	}
+[the cold place]
+	{
+	Portuguese=O Lugar Frio;
+	}
+[15 x 11  fighting on a flat tundra with very strong winds.]
+	{
+	Portuguese=15 x 11  Combate numa tundra plana com ventos muito fortes.;
+	}
+[evad river confluence]
+	{
+	Portuguese=Confluência do Rio Evad;
+	}
+[11 x 10 map.  intermittent winds]
+	{
+	Portuguese=11 x 10 mapa.  Ventos intermitentes;
+	}
+[lava alley]
+	{
+	Portuguese=Corredor de Lava;
+	}
+[18 x 18  fighting in narrow valleys.]
+	{
+	Portuguese=18 x 18  Combate em vales estreitos.;
+	}
+[the pass]
+	{
+	Portuguese=O Desfiladeiro;
+	}
+[7 x 4  fight to control a winding mountian pass.]
+	{
+	Portuguese=7 x 4  Lute pelo controlo de uma passagem de montanha sinuosa.;
+	}
+[anteer strait]
+	{
+	Portuguese=Estreito de Anteer;
+	}
+[18 x 18  fight in an iceburg filled ocean. strong tides.]
+	{
+	Portuguese=18 x 18  Combate num oceano cheio de icebergues. Marés fortes.;
+	}
+[metal isles]
+	{
+	Portuguese=Ilhas de Metal;
+	}
+[23 X 21  4 Symmetrical Metal Islands, good for sea battles]
+	{
+	Portuguese=23 X 21  4 ilhas de metal simétricas, boas para batalhas navais;
+	}
+
+// Expansion Pack map names and descriptions
+
+[acid foursome]
+	{
+	Portuguese=Quarteto Ácido;
+	}
+[13 X 13  Open plains and small lakes.]
+	{
+	Portuguese=13 X 13  Planícies abertas e pequenos lagos.;
+	}
+[acid pools]
+	{
+	Portuguese=Poças Ácidas;
+	}
+[32 X 23  Masses of land with narrow passages.]
+	{
+	Portuguese=32 X 23  Massas de terra com passagens estreitas.;
+	}
+[acid trip]
+	{
+	Portuguese=Viagem Ácida;
+	}
+[15 X 39  Watch out for the acid or you'll melt away.]
+	{
+	Portuguese=15 X 39  Cuidado com o ácido, ou vai derreter.;
+	}
+[assault on suburbia]
+	{
+	Portuguese=Assalto aos Subúrbios;
+	}
+[16 X 16 Crush 'em.]
+	{
+	Portuguese=16 X 16 Esmague-os.;
+	}
+[biggie biggs]
+	{
+	Portuguese=Biggie Biggs;
+	}
+[36 X 16  Dance from island to island crushing your opponents.]
+	{
+	Portuguese=36 X 16  Dance de ilha em ilha a esmagar os seus adversários.;
+	}
+[block wars]
+	{
+	Portuguese=Guerra de Quarteirões;
+	}
+[20 X 20  Battling through the Core Prime suburbs.]
+	{
+	Portuguese=20 X 20  Combate pelos subúrbios de Core Prime.;
+	}
+[brain coral]
+	{
+	Portuguese=Coral-Cérebro;
+	}
+[20 X 20  Hydrous map with brain coral spiral.]
+	{
+	Portuguese=20 X 20  Mapa aquático com uma espiral de coral-cérebro.;
+	}
+[25 X 24  Keep your Kbots on the trails.]
+	{
+	Portuguese=25 X 24  Mantenha os seus Kbots nos trilhos.;
+	}
+[checker ponds]
+	{
+	Portuguese=Lagoas Xadrez;
+	}
+[13 X 13  Be wary of the many corrosive puddles.]
+	{
+	Portuguese=13 X 13  Cuidado com as muitas poças corrosivas.;
+	}
+[cluster freak]
+	{
+	Portuguese=Aglomeração;
+	}
+[10 X 10  High winds with lots of metal in the middle.]
+	{
+	Portuguese=10 X 10  Ventos fortes e muito metal no meio.;
+	}
+[comet catcher]
+	{
+	Portuguese=Caça-Cometas;
+	}
+[12 X 15  Low gravity livens up this desolate landscape.]
+	{
+	Portuguese=12 X 15  A baixa gravidade anima esta paisagem desolada.;
+	}
+[core prime industrial area]
+	{
+	Portuguese=Zona Industrial de Core Prime;
+	}
+[21 X 21  Abandoned Core industrial area.]
+	{
+	Portuguese=21 X 21  Zona industrial CORE abandonada.;
+	}
+[crater islands]
+	{
+	Portuguese=Ilhas da Cratera;
+	}
+[10 X 8  Fight your way across these shallow waters.]
+	{
+	Portuguese=10 X 8  Abra caminho a combater por estas águas pouco profundas.;
+	}
+[crystal cracked]
+	{
+	Portuguese=Cristal Rachado;
+	}
+[20 X 20 Two land masses split by an inland filled sea.]
+	{
+	Portuguese=20 X 20 Duas massas de terra separadas por um mar interior.;
+	}
+[crystal isles]
+	{
+	Portuguese=Ilhas de Cristal;
+	}
+[20 X 20 Crystal World ocean, dotted with reefs and islands.]
+	{
+	Portuguese=20 X 20 Oceano do Mundo de Cristal, pontilhado de recifes e ilhas.;
+	}
+[crystal maze]
+	{
+	Portuguese=Labirinto de Cristal;
+	}
+[10 X 10 Free-for-all in a maze of mountains.]
+	{
+	Portuguese=10 X 10 Todos contra todos num labirinto de montanhas.;
+	}
+[crystal treasure island]
+	{
+	Portuguese=Ilha do Tesouro de Cristal;
+	}
+[12 X 13  Crystal map with metal-rich islands in the center.]
+	{
+	Portuguese=12 X 13  Mapa de cristal com ilhas ricas em metal no centro.;
+	}
+[dire straits]
+	{
+	Portuguese=Estreitos Perigosos;
+	}
+[15 X 17 Natural fortification to hide between.]
+	{
+	Portuguese=15 X 17 Fortificações naturais onde se esconder.;
+	}
+[east indeez]
+	{
+	Portuguese=Índias Orientais;
+	}
+[28 X 19 Lots of islands, lots of water!]
+	{
+	Portuguese=28 X 19 Muitas ilhas, muita água!;
+	}
+[eastside westside]
+	{
+	Portuguese=Leste e Oeste;
+	}
+[19 X 19  Find a park or reclaim large structures for metal.]
+	{
+	Portuguese=19 X 19  Encontre um parque ou recicle grandes estruturas para obter metal.;
+	}
+[14 X 14, Battle for the Evad River Delta]
+	{
+	Portuguese=14 X 14, Batalha pelo delta do Rio Evad;
+	}
+[expanded confluence]
+	{
+	Portuguese=Confluência Expandida;
+	}
+[22 X 22 More room to rumble on this old favorite.]
+	{
+	Portuguese=22 X 22 Mais espaço para a luta neste velho favorito.;
+	}
+[flooded glaciers]
+	{
+	Portuguese=Glaciares Inundados;
+	}
+[12 X 10 Icy ocean battle.]
+	{
+	Portuguese=12 X 10 Batalha num oceano gelado.;
+	}
+[gasbag forests]
+	{
+	Portuguese=Florestas de Bolsas de Gás;
+	}
+[19 X 19  Large fields of gasplants block your path.]
+	{
+	Portuguese=19 X 19  Grandes campos de plantas de gás bloqueiam o seu caminho.;
+	}
+[gasplant plain]
+	{
+	Portuguese=Planície das Plantas de Gás;
+	}
+[10 X 8  Large plain for close encounters. Lots of geothermal.]
+	{
+	Portuguese=10 X 8  Grande planície para combates próximos. Muita energia geotérmica.;
+	}
+[higher ground]
+	{
+	Portuguese=Terreno Elevado;
+	}
+[8 X 16  You take the high road and I'll take the low road.]
+	{
+	Portuguese=8 X 16  Vá pelo caminho de cima, que eu vou pelo de baixo.;
+	}
+[ice house]
+	{
+	Portuguese=Casa de Gelo;
+	}
+[16 X 16  Large ice mountains hinder big guns.]
+	{
+	Portuguese=16 X 16  Grandes montanhas de gelo dificultam os canhões pesados.;
+	}
+[ice scream]
+	{
+	Portuguese=Grito no Gelo;
+	}
+[15 X 39  Screaming won't be all you do on this forbidding world.]
+	{
+	Portuguese=15 X 39  Gritar não será a única coisa que fará neste mundo inóspito.;
+	}
+[icy bergs]
+	{
+	Portuguese=Icebergues;
+	}
+[28 X 28  Landless. Lots of sunken ships.]
+	{
+	Portuguese=28 X 28  Sem terra firme. Muitos navios afundados.;
+	}
+[john's pass]
+	{
+	Portuguese=Desfiladeiro de John;
+	}
+[10 X 15  Follow the river up the middle, if you dare!]
+	{
+	Portuguese=10 X 15  Siga o rio pelo meio, se tiver coragem!;
+	}
+[lake shore]
+	{
+	Portuguese=Margem do Lago;
+	}
+[13 X 7  Large lake with islands in the middle.]
+	{
+	Portuguese=13 X 7  Grande lago com ilhas no meio.;
+	}
+[luschaven]
+	{
+	Portuguese=Luschaven;
+	}
+[17 X 16 Battle for control of dry land.]
+	{
+	Portuguese=17 X 16 Batalha pelo controlo da terra firme.;
+	}
+[lusch puppy]
+	{
+	Portuguese=Pequeno Lusch;
+	}
+[11 X 7  Small map divided by grand mountains.]
+	{
+	Portuguese=11 X 7  Mapa pequeno dividido por grandes montanhas.;
+	}
+[moon quartet]
+	{
+	Portuguese=Quarteto Lunar;
+	}
+[20 X 20 Great map for team play.  Light side vs. dark side.]
+	{
+	Portuguese=20 X 20 Ótimo mapa para jogar em equipa.  Lado claro contra lado escuro.;
+	}
+[mounds of mars]
+	{
+	Portuguese=Montes de Marte;
+	}
+[8 X 17  For more than two players, play teams, North vs. South.]
+	{
+	Portuguese=8 X 17  Com mais de dois jogadores, jogue em equipas, Norte contra Sul.;
+	}
+[ooooweeee]
+	{
+	Portuguese=Uhuuuu;
+	}
+[19 X 19  Nine islands of love and understanding.  Let's hug.]
+	{
+	Portuguese=19 X 19  Nove ilhas de amor e compreensão.  Vamos abraçar-nos.;
+	}
+[pillopeens]
+	{
+	Portuguese=Pillopeens;
+	}
+[17 X 27 Island-hopping map.]
+	{
+	Portuguese=17 X 27 Mapa para saltar de ilha em ilha.;
+	}
+[plains and passes]
+	{
+	Portuguese=Planícies e Passagens;
+	}
+[20 X 20  Large map with lots of metal.]
+	{
+	Portuguese=20 X 20  Mapa grande com muito metal.;
+	}
+[polar range]
+	{
+	Portuguese=Cordilheira Polar;
+	}
+[20 X 20  Large polar ice cap map. A bleak and forbidding world.]
+	{
+	Portuguese=20 X 20  Grande mapa de calota polar. Um mundo sombrio e inóspito.;
+	}
+[polyp fields]
+	{
+	Portuguese=Campos de Pólipos;
+	}
+[27 X 22  Large geometric polyps litter this battlefield.]
+	{
+	Portuguese=27 X 22  Grandes pólipos geométricos espalham-se por este campo de batalha.;
+	}
+[red river]
+	{
+	Portuguese=Rio Vermelho;
+	}
+[21 X 30  Large river separates two land masses.]
+	{
+	Portuguese=21 X 30  Um grande rio separa duas massas de terra.;
+	}
+[red river north]
+	{
+	Portuguese=Rio Vermelho Norte;
+	}
+[21 X 14  Smaller segment of Red River.]
+	{
+	Portuguese=21 X 14  Troço menor do Rio Vermelho.;
+	}
+[ror shock]
+	{
+	Portuguese=Ror Shock;
+	}
+[26 X 26 Ocean Battles are a must for this fine map.  Big surprise in center!]
+	{
+	Portuguese=26 X 26 As batalhas navais são obrigatórias neste belo mapa.  Grande surpresa no centro!;
+	}
+[sail away]
+	{
+	Portuguese=Velas ao Vento;
+	}
+[12 X 20 High winds sweep these islands.]
+	{
+	Portuguese=12 X 20 Ventos fortes varrem estas ilhas.;
+	}
+[sector 410b]
+	{
+	Portuguese=Setor 410b;
+	}
+[25 X 22  Large mountains with narrow passes.]
+	{
+	Portuguese=25 X 22  Grandes montanhas com passagens estreitas.;
+	}
+[show down]
+	{
+	Portuguese=Confronto;
+	}
+[11 X 5  Meet in the middle.]
+	{
+	Portuguese=11 X 5  Encontro no meio.;
+	}
+[slate gordon]
+	{
+	Portuguese=Slate Gordon;
+	}
+[23 X 15 Great map for east/west rivalries.  Earthquakes.]
+	{
+	Portuguese=23 X 15 Ótimo mapa para rivalidades este/oeste.  Terramotos.;
+	}
+[slated fate]
+	{
+	Portuguese=Destino de Ardósia;
+	}
+[7 x 12 Search for metal in crevices.]
+	{
+	Portuguese=7 x 12 Procure metal nas fendas.;
+	}
+[steel jungle]
+	{
+	Portuguese=Selva de Aço;
+	}
+[20 x 10  Wake up and smell the coffee with the Morning War Show.]
+	{
+	Portuguese=20 x 10  Acorde e sinta o aroma do café com o Show Matinal da Guerra.;
+	}
+[surface meltdown]
+	{
+	Portuguese=Superfície Derretida;
+	}
+[15 X 17  Bumps, bumps, and more bumps.]
+	{
+	Portuguese=15 X 17  Elevações, elevações e mais elevações.;
+	}
+[temblorian mist]
+	{
+	Portuguese=Névoa de Temblor;
+	}
+[12 X 15  Make your way around the edges or fly across the center.]
+	{
+	Portuguese=12 X 15  Siga pelas margens ou voe pelo centro.;
+	}
+[the barrier reef]
+	{
+	Portuguese=A Barreira de Coral;
+	}
+[19 X 19  Body of water separates two land masses.  Great underwater starts!]
+	{
+	Portuguese=19 X 19  Uma massa de água separa duas massas de terra.  Ótimos inícios submarinos!;
+	}
+[the bayou]
+	{
+	Portuguese=O Pântano;
+	}
+[20 X 20  Strong currents rush through this Bayou.]
+	{
+	Portuguese=20 X 20  Correntes fortes atravessam este pântano.;
+	}
+[town & country]
+	{
+	Portuguese=Cidade e Campo;
+	}
+[17 X 17  Urban vs. rural.]
+	{
+	Portuguese=17 X 17  Urbano contra rural.;
+	}
+[trout farm]
+	{
+	Portuguese=Viveiro de Trutas;
+	}
+[15 X 15  Watch out for the sinkhole in the middle.]
+	{
+	Portuguese=15 X 15  Cuidado com o sumidouro no meio.;
+	}
+
+// Download Maps
+
+[cloudious prime]
+	{
+	Portuguese=Cloudious Prime;
+	}
+[20 X 20  Island in the clouds with giant canyon.  Absurd wind.]
+	{
+	Portuguese=20 X 20  Ilha nas nuvens com um desfiladeiro gigante.  Vento absurdo.;
+	}
+
+// Battle Tactics Maps
+
+[aqua verdigris]
+	{
+	Portuguese=Azinhavre Aquático;
+	}
+[12 x 12  Fighting around rings of Dragon's Teeth.]
+	{
+	Portuguese=12 x 12  Combate em redor de anéis de Dentes de Dragão.;
+	}
+[brilliant cut lake]
+	{
+	Portuguese=Lago Lapidado;
+	}
+[15 X 15  Fighting around a large lake.]
+	{
+	Portuguese=15 X 15  Combate em redor de um grande lago.;
+	}
+[canal crossing]
+	{
+	Portuguese=Travessia dos Canais;
+	}
+[16 X 17  Four land masses separated by canals.]
+	{
+	Portuguese=16 X 17  Quatro massas de terra separadas por canais.;
+	}
+[metal gridlock]
+	{
+	Portuguese=Engarrafamento de Metal;
+	}
+[20 X 20  Five squares interlock to create defensive forts.]
+	{
+	Portuguese=20 X 20  Cinco quadrados encaixam-se para formar fortes defensivos.;
+	}
+[wretched ridges]
+	{
+	Portuguese=Cristas Malditas;
+	}
+[12 X 12  High ridges protect defensive areas.  Light forest.]
+	{
+	Portuguese=12 X 12  Cristas altas protegem áreas defensivas.  Floresta rala.;
+	}
+[coremageddon]
+	{
+	Portuguese=Coremageddon;
+	}
+[13 X 20  Set up ambushes in this Core Prime maze.]
+	{
+	Portuguese=13 X 20  Monte emboscadas neste labirinto de Core Prime.;
+	}
+
+// Possible Error Messages
+
+[The requested campaign file, %s, does not exist.]
+	{
+	Portuguese=O ficheiro de campanha pedido, %s, não existe.;
+	}
+[Error -- Unnamed Mission]
+	{
+	Portuguese=Erro: missão sem nome;
+	}
+[The requested mission file, %s, does not exist.]
+	{
+	Portuguese=O ficheiro de missão pedido, %s, não existe.;
+	}
+[No GlobalHeader block in mission file!]
+	{
+	Portuguese=Não existe nenhum bloco GlobalHeader no ficheiro da missão!;
+	}
+[No description available]
+	{
+	Portuguese=Sem descrição disponível;
+	}
+[No suitable schema type in mission file!]
+	{
+	Portuguese=Nenhum tipo de esquema adequado no ficheiro da missão!;
+	}
+[Very bad news!  No MSG!]
+	{
+	Portuguese=Péssimas notícias!  Sem MSG!;
+	}
+[Hey, hoser!  The default meteor shower data was bogus!]
+	{
+	Portuguese=Ei, palerma!  Os dados predefinidos da chuva de meteoros estavam errados!;
+	}
+[Could not open movie file, please check filename in INI.]
+	{
+	Portuguese=Não foi possível abrir o ficheiro de vídeo. Verifique o nome do ficheiro no INI.;
+	}
+[Could not setup Direct Draw to play movie.]
+	{
+	Portuguese=Não foi possível configurar o Direct Draw para reproduzir o vídeo.;
+	}
+[Unsupported pixel format.]
+	{
+	Portuguese=Formato de píxel não suportado.;
+	}
+[Smacker Error]
+	{
+	Portuguese=Erro do Smacker;
+	}
+[Summary]
+	{
+	Portuguese=Resumo;
+	}
+[getbuilt]
+	{
+	Portuguese=em construção;
+	}
+[TransportDrop]
+	{
+	Portuguese=Desembarque do transporte;
+	}
+[QueryTransport]
+	{
+	Portuguese=Pedido de transporte;
+	}
+[EndTransport]
+	{
+	Portuguese=Fim do transporte;
+	}
+[QueryLandingPad]
+	{
+	Portuguese=Pedido de plataforma de aterragem;
+	}
+[Invalid logo setting]
+	{
+	Portuguese=Definição de logótipo inválida;
+	}
+[Unable to start the thread!]
+	{
+	Portuguese=Não foi possível iniciar a thread!;
+	}
+[Please insert the Total Annihilation CD and try again]
+	{
+	Portuguese=Introduza o CD do Total Annihilation e tente novamente;
+	}
+[Please insert the Play CD and try again]
+	{
+	Portuguese=Introduza o CD de jogo e tente novamente;
+	}
+[The Play CD was not found]
+	{
+	Portuguese=O CD de jogo não foi encontrado;
+	}
+[Please insert the Play CD]
+	{
+	Portuguese=Introduza o CD de jogo;
+	}
+[Click to continue.]
+	{
+	Portuguese=Clique para continuar.;
+	}
+[Done]
+	{
+	Portuguese=Concluído;
+	}
+[Record "%s" missing from feature files]
+	{
+	Portuguese=Registo "%s" em falta nos ficheiros de elementos;
+	}
+[An error occurred trying to use this service]
+	{
+	Portuguese=Ocorreu um erro ao tentar utilizar este serviço;
+	}
+[expecting int]
+	{
+	Portuguese=esperava-se int;
+	}
+[parse error reading AI profile %s\n%s\nlast string =]
+	{
+	Portuguese=erro de análise ao ler o perfil de IA %s\n%s\núltima string =;
+	}
+[None]
+	{
+	Portuguese=Nenhum;
+	}
+[Incompatible units found.  They will be ignored.  Please download the latest version of the game.]
+	{
+	Portuguese=Foram encontradas unidades incompatíveis.  Serão ignoradas.  Transfira a versão mais recente do jogo.;
+	}
+[Can't load MOVEINFO.TDF]
+	{
+	Portuguese=Não foi possível carregar MOVEINFO.TDF;
+	}
+[Can't load GAMEDATA.TDF]
+	{
+	Portuguese=Não foi possível carregar GAMEDATA.TDF;
+	}
+[Connecting  (ESC to abort)]
+	{
+	Portuguese=A ligar  (ESC para cancelar);
+	}
+[Lock]
+	{
+	Portuguese=Fechado;
+	}
+[Blk]
+	{
+	Portuguese=Preto;
+	}
+[Gray]
+	{
+	Portuguese=Cinza;
+	}
+[Connecting... press ESC to abort]
+	{
+	Portuguese=A ligar... prima ESC para cancelar;
+	}
+[Unable to find any modems]
+	{
+	Portuguese=Não foi encontrado nenhum modem;
+	}
+[allied with]
+	{
+	Portuguese=aliou-se a;
+	}
+[broke alliance with]
+	{
+	Portuguese=rompeu a aliança com;
+	}
+[There are not enough game CDs present to play]
+	{
+	Portuguese=Não existem CDs de jogo suficientes para jogar;
+	}
+[You must select a map before starting]
+	{
+	Portuguese=Escolha um mapa antes de começar;
+	}
+[\nYou must select a map before starting\n\n]
+	{
+	Portuguese=\nEscolha um mapa antes de começar\n\n;
+	}
+[n/a]
+	{
+	Portuguese=n/d;
+	}
+[N/A]
+	{
+	Portuguese=N/D;
+	}
+[View Map]
+	{
+	Portuguese=Ver mapa;
+	}
+[Could not find the multiplayer map!!]
+	{
+	Portuguese=Não foi possível encontrar o mapa multijogador!!;
+	}
+[does not have this map]
+	{
+	Portuguese=não tem este mapa;
+	}
+[There are no saved lists to choose from]
+	{
+	Portuguese=Não existem listas guardadas para escolher;
+	}
+[has left the scene]
+	{
+	Portuguese=saiu de cena;
+	}
+[has been shown the door]
+	{
+	Portuguese=foi posto na rua;
+	}
+[has gone to a better place]
+	{
+	Portuguese=foi para um lugar melhor;
+	}
+[has bowed out]
+	{
+	Portuguese=retirou-se;
+	}
+[has terminated]
+	{
+	Portuguese=deixou de existir;
+	}
+[has been eradicated]
+	{
+	Portuguese=foi erradicado;
+	}
+[has been liquidated]
+	{
+	Portuguese=foi liquidado;
+	}
+[has been obliterated]
+	{
+	Portuguese=foi obliterado;
+	}
+[forces have been obliterated]
+	{
+	Portuguese=teve as suas forças obliteradas;
+	}
+[vermin have been exterminated]
+	{
+	Portuguese=teve a sua praga exterminada;
+	}
+[forces have gone to a better place]
+	{
+	Portuguese=teve as suas forças enviadas para um lugar melhor;
+	}
+[dropping a player due to TIMEOUT_SECS]
+	{
+	Portuguese=a remover um jogador por TIMEOUT_SECS;
+	}
+[%s is joining the game...]
+	{
+	Portuguese=%s está a entrar na partida...;
+	}
+[player dropped by DPSYS_]
+	{
+	Portuguese=jogador removido por DPSYS_;
+	}
+[player '%s' set to startpos %d\n]
+	{
+	Portuguese=jogador '%s' definido para a posição inicial %d\n;
+	}
+[You're out!  Continue Watching?]
+	{
+	Portuguese=Está fora!  Continuar a assistir?;
+	}
+[Weapon]
+	{
+	Portuguese=Arma;
+	}
+[Please insert a Total Annihilation CD and try again]
+	{
+	Portuguese=Introduza um CD do Total Annihilation e tente novamente;
+	}
+[Wind Speed]
+	{
+	Portuguese=Vento;
+	}
+[Gravity]
+	{
+	Portuguese=Gravidade;
+	}
+[Tidal Strength]
+	{
+	Portuguese=Força das marés;
+	}
+[There are no skirmish maps to choose from]
+	{
+	Portuguese=Não existem mapas de escaramuça para escolher;
+	}
+[There are no multiplayer maps to choose from]
+	{
+	Portuguese=Não existem mapas multijogador para escolher;
+	}
+[The terrain for the selected map does not exist.]
+	{
+	Portuguese=O terreno do mapa selecionado não existe.;
+	}
+[All players may not be in the same allied group.]
+	{
+	Portuguese=Os jogadores não podem estar todos no mesmo grupo de aliados.;
+	}
+[Error:  Sound system initialization failed.]
+	{
+	Portuguese=Erro:  falha ao iniciar o sistema de som.;
+	}
+[%s has taken the lead with %d kills]
+	{
+	Portuguese=%s assumiu a liderança com %d abates;
+	}
+[has taken the lead with %d kills]
+	{
+	Portuguese=assumiu a liderança com %d abates;
+	}
+[has taken the lead with]
+	{
+	Portuguese=assumiu a liderança com;
+	}
+[Player number %d invalid for unit %s]
+	{
+	Portuguese=Número de jogador %d inválido para a unidade %s;
+	}
+[Cost]
+	{
+	Portuguese=Custo;
+	}
+[Build Time]
+	{
+	Portuguese=Tempo de constr.;
+	}
+[Max Velocity]
+	{
+	Portuguese=Velocidade máx.;
+	}
+[Acceleration]
+	{
+	Portuguese=Aceleração;
+	}
+[Weapons]
+	{
+	Portuguese=Armas;
+	}
+[Speed]
+	{
+	Portuguese=Velocidade;
+	}
+[Game Speed Normal]
+	{
+	Portuguese=Velocidade normal do jogo;
+	}
+[Invalid savegame file]
+	{
+	Portuguese=Ficheiro de jogo guardado inválido;
+	}
+[Unable to start the loading thread!]
+	{
+	Portuguese=Não foi possível iniciar a thread de carregamento!;
+	}
+[DirectPlay registration failed.]
+	{
+	Portuguese=Falha no registo do DirectPlay.;
+	}
+[Demo Version]
+	{
+	Portuguese=Versão demo;
+	}
+[Settings]
+	{
+	Portuguese=Definições;
+	}
+
+// Added for v2.0
+
+[Can't add another player when game is closed.]
+	{
+	Portuguese=Não é possível adicionar outro jogador com a partida fechada.;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-create the game session.\n]
+	{
+	Portuguese=O Direct Play não conseguiu adicionar o novo jogador.\n\nRecomenda-se que volte ao ecrã anterior e crie novamente a sessão de jogo.\n;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-join the game session.\n]
+	{
+	Portuguese=O Direct Play não conseguiu adicionar o novo jogador.\n\nRecomenda-se que volte ao ecrã anterior e volte a entrar na sessão de jogo.\n;
+	}
+[Square]
+	{
+	Portuguese=Quadrado;
+	}
+[Circle]
+	{
+	Portuguese=Círculo;
+	}
+[Triangle]
+	{
+	Portuguese=Triângulo;
+	}
+[Star]
+	{
+	Portuguese=Estrela;
+	}
+[Moon]
+	{
+	Portuguese=Lua;
+	}
+[has joined the]
+	{
+	Portuguese=entrou no grupo;
+	}
+[has left the]
+	{
+	Portuguese=saiu do grupo;
+	}
+[anemone]
+	{
+	Portuguese=Anémona;
+	}
+[coral]
+	{
+	Portuguese=Coral;
+	}
+[seaweed]
+	{
+	Portuguese=Alga;
+	}
+[kelp]
+	{
+	Portuguese=Laminária;
+	}
+[You are placed in watch mode because you are hosting AI players which are still alive.  If you exit, they will be terminated.]
+	{
+	Portuguese=Foi colocado em modo de espetador porque está a alojar jogadores IA que ainda estão vivos.  Se sair, serão terminados.;
+	}
+[Unable to initialize scores reporting.]
+	{
+	Portuguese=Não foi possível iniciar o envio de pontuações.;
+	}
+[No sound driver is available for use.\n]
+	{
+	Portuguese=Não existe nenhum controlador de som disponível.\n;
+	}
+[Debug:  You must be in full-screen mode to play a movie.]
+	{
+	Portuguese=Depuração:  tem de estar em ecrã inteiro para reproduzir um vídeo.;
+	}
+[Old TED format no longer supported!]
+	{
+	Portuguese=O antigo formato TED já não é suportado!;
+	}
+[Can not start game with all players on the same team.]
+	{
+	Portuguese=Não é possível iniciar a partida com todos os jogadores na mesma equipa.;
+	}
+
+// Features
+
+[Transit Node]
+	{
+	Portuguese=Nó de Trânsito;
+	}
+[Microwave Relay]
+	{
+	Portuguese=Retransmissor de Micro-ondas;
+	}
+[Climatic Optimizer]
+	{
+	Portuguese=Otimizador Climático;
+	}
+[Truck]
+	{
+	Portuguese=Camião;
+	}
+[Manhole]
+	{
+	Portuguese=Tampa de Esgoto;
+	}
+[Public Art]
+	{
+	Portuguese=Arte Pública;
+	}
+[Car]
+	{
+	Portuguese=Carro;
+	}
+[Willy Gates Bldg]
+	{
+	Portuguese=Edifício Willy Gates;
+	}
+[Barrier]
+	{
+	Portuguese=Barreira;
+	}
+[barrier]
+	{
+	Portuguese=barreira;
+	}
+[Oolok Tree]
+	{
+	Portuguese=Árvore Oolok;
+	}
+[Gasbag]
+	{
+	Portuguese=Bolsa de Gás;
+	}
+[Bridge]
+	{
+	Portuguese=Ponte;
+	}
+[Ruined Bridge]
+	{
+	Portuguese=Ponte em Ruínas;
+	}
+[Factory]
+	{
+	Portuguese=Fábrica;
+	}
+[Cheese Factory]
+	{
+	Portuguese=Fábrica de Queijo;
+	}
+[Public Hygiene Pod]
+	{
+	Portuguese=Cabine de Higiene Pública;
+	}
+[Monorail Track]
+	{
+	Portuguese=Via de Monocarril;
+	}
+[Streetlight]
+	{
+	Portuguese=Candeeiro de Rua;
+	}
+
+// Chat messages
+
+[OK.  Will share metal if above %d]
+	{
+	Portuguese=OK.  Vou partilhar metal acima de %d;
+	}
+[OK.  Will share energy if above %d]
+	{
+	Portuguese=OK.  Vou partilhar energia acima de %d;
+	}
+
+// Not in 3.1c's table: GUI captions and messages that 3.1c's own translate.tdf does not key
+
+[Begin Mission]
+	{
+	Portuguese=Iniciar missão;
+	}
+[Choose where you would like your scores reported to:]
+	{
+	Portuguese=Escolha para onde enviar as suas pontuações:;
+	}
+[CREDITS]
+	{
+	Portuguese=CRÉDITOS;
+	}
+[has modified his executable.  Game integrity breached.]
+	{
+	Portuguese=modificou o seu executável.  Integridade do jogo violada.;
+	}
+[has not responded for %d seconds]
+	{
+	Portuguese=não responde há %d segundos;
+	}
+[Have a nice day]
+	{
+	Portuguese=Tenha um bom dia;
+	}
+[Mission Brief]
+	{
+	Portuguese=Briefing da missão;
+	}
+[Name Of List To Save]
+	{
+	Portuguese=Nome da lista a guardar;
+	}
+[Pevious Menu]
+	{
+	Portuguese=Menu anterior;
+	}
+[Select Player:]
+	{
+	Portuguese=Escolha o jogador:;
+	}
+[Synching]
+	{
+	Portuguese=A sincronizar;
+	}
+[Watching Allowe]
+	{
+	Portuguese=Espetadores: sim;
+	}
+
+// Not in 3.1c's table: Map names and descriptions
+
+[luschinfloggen]
+	{
+	Portuguese=Luschinfloggen;
+	}
+[8 X 10  Find your way through the shallows into the enemy base.]
+	{
+	Portuguese=8 X 10  Abra caminho pelos baixios até à base inimiga.;
+	}
+
+// Not in 3.1c's table: Planet names, as the maps give them
+
+[Green planet]
+	{
+	Portuguese=Planeta verde;
+	}
+[Lava]
+	{
+	Portuguese=Lava;
+	}
+[Red Planet]
+	{
+	Portuguese=Planeta Vermelho;
+	}
+[Lush]
+	{
+	Portuguese=Luxuriante;
+	}
+[Ice]
+	{
+	Portuguese=Gelo;
+	}
+[Archipelago]
+	{
+	Portuguese=Arquipélago;
+	}
+[Slate]
+	{
+	Portuguese=Ardósia;
+	}
+[Lunar]
+	{
+	Portuguese=Lunar;
+	}
+[Water World]
+	{
+	Portuguese=Mundo Aquático;
+	}
+[Acid]
+	{
+	Portuguese=Ácido;
+	}
+[Crystal]
+	{
+	Portuguese=Cristal;
+	}
+[Wet Desert]
+	{
+	Portuguese=Deserto Húmido;
+	}
+[Desert]
+	{
+	Portuguese=Deserto;
+	}
+[Urban]
+	{
+	Portuguese=Urbano;
+	}

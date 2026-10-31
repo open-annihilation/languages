@@ -1,0 +1,9 @@
+MISSÃO 1.1CORE
+A praga ARM aterrou em Core Prime. Um pequeno grupo surpreendeu o Comandante durante a manutenção e desativou-o. Destrua toda a praga ARM para que o Comandante possa ser reativado.
+
+ESCUTA-INTEL:
+A probabilidade de o ARM estar em Core Prime é nula. Contudo, está aqui.
+
+&RDestrua todas as unidades ARM.&
+
+EXECUTE AGORA.

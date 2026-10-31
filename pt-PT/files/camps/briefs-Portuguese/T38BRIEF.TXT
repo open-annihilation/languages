@@ -1,0 +1,21 @@
+Missão T38: Combater sob Fogo
+
+O Planalto 368 tem importância vital para ambos os lados.  Os combates na Crista de Hyenbacku têm sido particularmente intensos.  Temos sido lentamente empurrados para trás pelas forças do CORE.
+
+Embora os relatórios dos serviços secretos sobre o posicionamento do inimigo se tenham revelado fiáveis, vários assaltos aéreos foram facilmente repelidos por dezenas de Cobras, o que torna inúteis novos assaltos aéreos.  A nossa Fábrica de Aeronaves está programada para enviar os seus aviões numa patrulha defensiva.
+
+Temos de vencer o CORE no seu próprio jogo e usar as nossas Big Berthas para destruir o seu canhão Intimidator.  Como o CORE já construiu os seus Intimidators, terá de construir a sua Bertha sob fogo.
+
+Os serviços secretos informam que o CORE está a preparar um ataque aéreo maciço, com início previsto para daqui a cerca de 30 minutos.  Tem esse tempo para destruir os Intimidators deles.
+
+Não deixe que o CORE destrua os seus Reatores de Fusão, pois são a principal fonte de energia.
+
+Sugestões:
+Use as suas Muralhas de Fortificação como proteção enquanto trabalha.  Construir Berthas nos penhascos mais a oeste manterá os Intimidators inimigos ao alcance.
+
+
+Táticas de batalha:
+É possível definir rotas de patrulha para as fábricas.  Para isso, selecione a fábrica e prima o botão PATRULHAR.  Mantenha a tecla SHIFT premida e clique no mapa para criar pontos de passagem.  Cada nova unidade produzida pela fábrica patrulhará todos os pontos de passagem e regressará à fábrica num ciclo contínuo.
+
+Se quiser cancelar as ordens de patrulha de uma fábrica, selecione a fábrica e prima o
+botão PARAR.

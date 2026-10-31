@@ -1,0 +1,20 @@
+Missão R20: Desembarque em Miniement
+
+&REmergência!&
+O CORE lançou um forte ataque contra as nossas forças na Ilha Miniement, embora parte ou a totalidade da sua força naval possa retirar-se após o bombardeamento inicial da costa.
+A zona está bem cartografada. A sua Torre de Radar Avançada deverá dar-lhe uma visão clara da batalha.  Considera-se que o seu Estaleiro é um alvo de alta prioridade e é improvável que consiga salvá-lo.
+
+As suas ordens são deter a invasão.  Tem de eliminar todas as unidades inimigas, de qualquer tipo.
+
+Sugestões:
+Tente construir uma combinação de novas fortificações e unidades móveis.
+
+
+Táticas de batalha:
+É vital atingir unidades inimigas a longa distância com o radar.
+
+Se estiver a utilizar a interface de clique esquerdo, selecione uma unidade de longo alcance (um Guardian, por exemplo), prima o botão ATACAR e depois clique com o botão esquerdo num ponto vermelho do mapa de radar, dentro do alcance da unidade selecionada.
+
+Com a interface de clique direito, selecione a unidade de longo alcance e clique com o botão direito num ponto vermelho do mapa de radar.
+
+Esta técnica é importante, pois as suas unidades não atacam automaticamente unidades inimigas que estejam fora do seu alcance visual.

@@ -1,0 +1,8 @@
+MISSÃO 18.CORE
+
+ESCUTA-INTEL:
+O ARM controla esta parte de Nigh Pilago. A rede de torres de laser desta zona tornou-se um problema. As torres são alimentadas por uma única central de fusão situada num vulcão adormecido a norte. O ARM acredita possuir uma rede de proteção impenetrável. A análise mostra que existe uma passagem através da rede. Encontre o caminho seguro até à ilha e envie bombardeiros para destruir a Central de Fusão.
+
+&RDestrua a Central de Fusão.&
+
+EXECUTE AGORA.

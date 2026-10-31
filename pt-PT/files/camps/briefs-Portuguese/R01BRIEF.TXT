@@ -1,0 +1,18 @@
+Missão R01: Base de Fogo
+
+O ARM construiu uma base de fogo numa colina baixa, diretamente a oeste da nossa posição atual.  Já foram construídos três canhões Big Bertha, bem como um formidável labirinto de Dentes de Dragão.
+
+Destrua todas as Berthas inimigas localizadas no centro.
+
+Sugestões:
+O seu primeiro objetivo é abrir caminho à força pelos Dentes de Dragão.  Podem ser destruídos com fogo pesado, ou pode reciclá-los com os seus Veículos de Construção.
+
+Os destroços de unidades bloquearão o seu caminho e também devem ser pulverizados ou reciclados para desimpedir a passagem.
+
+
+Táticas de batalha:
+Para pulverizar Dentes de Dragão, selecione alguns Goliaths ou outras unidades com armas pesadas e prima a tecla 'A' para abrir o cursor de ataque.  Várias unidades fortemente armadas a disparar ao mesmo tempo devem destruir rapidamente as fortificações inimigas.
+
+Para reciclar estas fortificações, selecione um Veículo de Construção e coloque o cursor sobre os Dentes de Dragão.  A seta muda automaticamente para o cursor de reciclagem.  Clique na fortificação para reciclar o seu metal.
+
+Manter premida a tecla Shift permite pôr em fila várias ordens de reciclagem.

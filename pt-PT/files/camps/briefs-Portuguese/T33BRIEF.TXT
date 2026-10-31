@@ -1,0 +1,11 @@
+Missão T33: Reduzir as Ilhas Yrdac
+
+Uma base aérea e naval combinada nas Ilhas Yrdac resistiu com sucesso a três ataques. Pensa-se que um cientista do ARM criou uma inovação na Central Geotérmica desta base, uma vez que esta fica numa área distante das fontes geotérmicas normais.  Em vez de um bombardeamento com mísseis nucleares, tem ordens para demolir pessoalmente a Base Yrdac.
+Destrua todos os Extratores de Metal e Minas Moho e capture a Central Geotérmica situada na região norte do mapa.
+
+Sugestões:
+Os ataques anteriores destruíram a maior parte dos canhões grandes, pelo que se pensa que a Base Yrdac esteja vulnerável a bombardeamento a partir do mar.  Sugere-se que use Finks para detetar alvos para os seus navios.
+Táticas de batalha:
+Prima a tecla ENTER e escreva '+shootall' na linha de mensagem. Isto permite que as suas unidades ataquem automaticamente construções, além de unidades inimigas hostis.  Escreva o código de novo para desativar esta definição.
+
+Repare com frequência as unidades danificadas.  Uma unidade de construção em patrulha repara automaticamente qualquer unidade aliada danificada nas proximidades.

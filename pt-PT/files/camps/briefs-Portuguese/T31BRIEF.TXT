@@ -1,0 +1,18 @@
+Missão T31: Falta de Água
+
+Um ataque na região de Crosta XIII deixou um Kbot de Construção inimigo parcialmente destruído.  Este Kbot avariado espalhou L.L.T.s e Torres de Radar pela região. Graças a estas unidades, o avanço do CORE na área tem sido rápido.
+
+Para desenvolver indústrias terciárias, o CORE precisa de grandes quantidades do solvente H2O, que não existem neste mundo.  Os nossos espiões descobriram uma Central de Hidratação numa base a noroeste da sua posição.
+Esperamos ataques poderosos contra a sua base. Tem ordens para destruir a Central de Hidratação inimiga, mas sem deixar que a sua base seja destruída no processo.  Tem vinte minutos para cumprir a missão.
+
+
+Nota: Nesta altura do ano local, está a atravessar o enxame de meteoros Lambda.  Espere chuvas de meteoros durante toda a batalha.
+
+Sugestões:
+As unidades gravemente danificadas podem ser enviadas de volta à base para reparação.
+Use Dentes de Dragão bem posicionados para encaminhar as forças inimigas em avanço para zonas de abate.
+
+Táticas de batalha:
+Prima a tecla til (~) para mostrar o dano que as suas unidades sofreram.  Isto mostra também a que esquadrões as suas unidades pertencem.
+Se precisar de marcar uma localização do ecrã, prima CTRL+F5 (ou F6, F7 ou F8).  Prima F5 (etc.) para
+voltar a centrar o ecrã nessa localização.

@@ -1,0 +1,14 @@
+Missão I13: O Radar de Rede Faseada
+
+&RAtenção!&
+A construção do radar de rede faseada está quase concluída.  Utiliza centenas de Torres de Radar interligadas eletronicamente, para funcionar como um único radar gigante, de imensa sensibilidade.
+
+O ARM descobriu os nossos planos e lançou um ataque para destruir o nosso campo de radares.
+
+Neutralize o ataque ARM.  Reduza ao mínimo a perda de Torres de Radar.
+
+Sugestões:
+Espalhe as suas tropas para evitar que as unidades inimigas mais rápidas as contornem.
+
+Táticas de batalha:
+Poderá querer formar um esquadrão com uma força central que responda a cada ataque. Para isso, selecione as unidades que pretende agrupar e utilize CTRL+# (em que # é um dígito de 1 a 9).  Mais tarde, pode selecionar instantaneamente todas essas unidades ao premir ALT+#.

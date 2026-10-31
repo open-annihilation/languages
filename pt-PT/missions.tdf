@@ -1,0 +1,706 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// European Portuguese mission names, keyed by the mission file the campaign
+// lists. A campaign's "N: " prefix is kept as it is.
+
+[EXP1AC01.ota]
+	{
+	missionname=1: Hydross - A Busca Começa!;
+	}
+[EXP1AC02.ota]
+	{
+	missionname=2: Proteger o Atol;
+	}
+[EXP1AC03.ota]
+	{
+	missionname=3: Afundar o CORE;
+	}
+[EXP1AC04.ota]
+	{
+	missionname=4: Lusch - Tecnologia Hovercraft;
+	}
+[EXP1AC05.ota]
+	{
+	missionname=5: Por Brejos e Pântanos;
+	}
+[EXP1AC06.ota]
+	{
+	missionname=6: O Sinalizador;
+	}
+[EXP1AC07.ota]
+	{
+	missionname=7: Temblor - Terramoto!;
+	}
+[EXP1AC08.ota]
+	{
+	missionname=8: Entre a Espada e a Parede;
+	}
+[EXP1AC09.ota]
+	{
+	missionname=9: O ARM Abala, o CORE Treme;
+	}
+[EXP1AC10.ota]
+	{
+	missionname=10: Gelidus - Uma Receção Fria;
+	}
+[EXP1AC11.ota]
+	{
+	missionname=11: Ao Sabor do Gelo;
+	}
+[EXP1AC12.ota]
+	{
+	missionname=12: A Salvação de uma Galáxia;
+	}
+[AC01.ota]
+	{
+	missionname=1: O Regresso de um Herói;
+	}
+[AC02.ota]
+	{
+	missionname=2: Base de Kbots CORE, Destrua-a!;
+	}
+[AC03.ota]
+	{
+	missionname=3: Tecnologia Spider;
+	}
+[AC04.ota]
+	{
+	missionname=4: A Contaminação CORE Alastra...;
+	}
+[AC05.ota]
+	{
+	missionname=5: O Portal para Thalassean;
+	}
+[AC06.ota]
+	{
+	missionname=6: Cabeça de Praia em Thalassean;
+	}
+[AC07.ota]
+	{
+	missionname=7: A Defesa do Porto de Larab;
+	}
+[AC08.ota]
+	{
+	missionname=8: O Portal para Tergiverse IV;
+	}
+[AC09.ota]
+	{
+	missionname=9: A Central de Hidratação;
+	}
+[AC10.ota]
+	{
+	missionname=10: O Labirinto de Bromid;
+	}
+[AC11.ota]
+	{
+	missionname=11: O Portal para Barathrum;
+	}
+[AC12.ota]
+	{
+	missionname=12: Barathrum!;
+	}
+[AC13.ota]
+	{
+	missionname=13: A Interface de Landown;
+	}
+[AC14.ota]
+	{
+	missionname=14: O Calor Aumenta;
+	}
+[AC15.ota]
+	{
+	missionname=15: Rougpelt;
+	}
+[AC16.ota]
+	{
+	missionname=16: Arsenal no Contraforte.;
+	}
+[AC17.ota]
+	{
+	missionname=17: Fortaleza na Ilha de Brooban;
+	}
+[AC18.ota]
+	{
+	missionname=18: Vingança!;
+	}
+[AC19.ota]
+	{
+	missionname=19: A Rampa de Motien;
+	}
+[AC20.ota]
+	{
+	missionname=20: Dump;
+	}
+[AC21.ota]
+	{
+	missionname=21: Bem-vindo a CORE PRIME;
+	}
+[AC22.ota]
+	{
+	missionname=22: Batalha pela Coordenada 6551:447;
+	}
+[AC23.ota]
+	{
+	missionname=23: Atravessar o Corpo Aquoso 397;
+	}
+[AC24.ota]
+	{
+	missionname=24: Avanço até à Consciência Central;
+	}
+[AC25.ota]
+	{
+	missionname=25: Apocalipse em CORE PRIME. Finalmente Livres!;
+	}
+[Com Pattern Five.ota]
+	{
+	missionname=Padrão Com Cinco;
+	}
+[Steel Stronghold.ota]
+	{
+	missionname=Fortaleza de Aço;
+	}
+[Thermal Exchange Causeway.ota]
+	{
+	missionname=Calçada da Troca Térmica;
+	}
+[Crossing the Long Lakes.ota]
+	{
+	missionname=Atravessar os Lagos Longos;
+	}
+[Capture Hanan Base.ota]
+	{
+	missionname=Capturar a Base Hanan;
+	}
+[Lipar Pass.ota]
+	{
+	missionname=Desfiladeiro de Lipar;
+	}
+[Ice Base Assault.ota]
+	{
+	missionname=Assalto à Base de Gelo;
+	}
+[Pursuit.ota]
+	{
+	missionname=Perseguição;
+	}
+[Backs to the Sea.ota]
+	{
+	missionname=De Costas para o Mar;
+	}
+[Spider Ambush.ota]
+	{
+	missionname=Emboscada de Spiders;
+	}
+[Islands of Grace.ota]
+	{
+	missionname=Ilhas da Graça;
+	}
+[Wet and Dry.ota]
+	{
+	missionname=Molhado e Seco;
+	}
+[Meraldi Amphibious Assault.ota]
+	{
+	missionname=Assalto Anfíbio a Meraldi;
+	}
+[Miniement Landing.ota]
+	{
+	missionname=Desembarque em Miniement;
+	}
+[Intimidator Ridge.ota]
+	{
+	missionname=Crista do Intimidator;
+	}
+[Zipper Attack.ota]
+	{
+	missionname=Ataque de Zippers;
+	}
+[Can Rush.ota]
+	{
+	missionname=Investida de Cans;
+	}
+[Attack on Barrack.ota]
+	{
+	missionname=Ataque a Barrack;
+	}
+[Cutoff in Sector 6895.ota]
+	{
+	missionname=Cerco no Setor 6895;
+	}
+[Encounter on the Coral Sea.ota]
+	{
+	missionname=Encontro no Mar de Coral;
+	}
+[The Wayneston Ford Engagement.ota]
+	{
+	missionname=O Combate do Vau de Wayneston;
+	}
+[Ice Base Baryn.ota]
+	{
+	missionname=Base de Gelo Baryn;
+	}
+[Forest Base 129.ota]
+	{
+	missionname=Base Florestal 129;
+	}
+[Rock Candy Mountains.ota]
+	{
+	missionname=Montanhas de Açúcar-Cândi;
+	}
+[Kudzu Base.ota]
+	{
+	missionname=Base Kudzu;
+	}
+[Yerrot Foothills.ota]
+	{
+	missionname=Contrafortes de Yerrot;
+	}
+[Island Hopping.ota]
+	{
+	missionname=De Ilha em Ilha;
+	}
+[Mist Bombers.ota]
+	{
+	missionname=Bombardeiros da Névoa;
+	}
+[A Shortage of Water.ota]
+	{
+	missionname=Falta de Água;
+	}
+[Raid on Vetes.ota]
+	{
+	missionname=Incursão em Vetes;
+	}
+[Three Passes.ota]
+	{
+	missionname=Três Desfiladeiros;
+	}
+[Spire Sports.ota]
+	{
+	missionname=Desportos nos Pináculos;
+	}
+[Charging the Line.ota]
+	{
+	missionname=Carga sobre a Linha;
+	}
+[Dawn Directive.ota]
+	{
+	missionname=Diretiva da Aurora;
+	}
+[Waiting.ota]
+	{
+	missionname=Espera;
+	}
+[The Vulcans Forge Hotspot.ota]
+	{
+	missionname=O Ponto Quente da Forja de Vulcano;
+	}
+[Crawling Destruction.ota]
+	{
+	missionname=Destruição Rastejante;
+	}
+[Battle of Ansapp Sea.ota]
+	{
+	missionname=Batalha do Mar de Ansapp;
+	}
+[Between Two Lakes.ota]
+	{
+	missionname=Entre Dois Lagos;
+	}
+[Hunting Nhanons.ota]
+	{
+	missionname=Caça aos Nhanons;
+	}
+[Sub Hunting.ota]
+	{
+	missionname=Caça aos Submarinos;
+	}
+[Ambush on Novespin IV.ota]
+	{
+	missionname=Emboscada em Novespin IV;
+	}
+[Force the Strait.ota]
+	{
+	missionname=Forçar o Estreito;
+	}
+[Destroy the FMD.ota]
+	{
+	missionname=Destruir a FMD;
+	}
+[Kaki Island Assault.ota]
+	{
+	missionname=Assalto à Ilha Kaki;
+	}
+[Fighting Under Fire.ota]
+	{
+	missionname=Combater sob Fogo;
+	}
+[The Ravenstein Run.ota]
+	{
+	missionname=A Corrida de Ravenstein;
+	}
+[Reducing the Yrdac Islands.ota]
+	{
+	missionname=Reduzir as Ilhas Yrdac;
+	}
+[Black Box.ota]
+	{
+	missionname=Caixa Negra;
+	}
+[Firebase Prasad.ota]
+	{
+	missionname=Base de Fogo Prasad;
+	}
+[Invasion of Destral II.ota]
+	{
+	missionname=Invasão de Destral II;
+	}
+[Guardian Hill.ota]
+	{
+	missionname=Colina do Guardian;
+	}
+[Metal Maze.ota]
+	{
+	missionname=Labirinto de Metal;
+	}
+[Titanium Fist Bay.ota]
+	{
+	missionname=Baía do Punho de Titânio;
+	}
+[Crossing Kerrap Shallows.ota]
+	{
+	missionname=Atravessar os Baixios de Kerrap;
+	}
+[Peaceful Pools.ota]
+	{
+	missionname=Lagoas Pacíficas;
+	}
+[Solidspire Base.ota]
+	{
+	missionname=Base Solidspire;
+	}
+[Fortitude Race.ota]
+	{
+	missionname=Corrida pela Fortitude;
+	}
+[Brawler Buildup.ota]
+	{
+	missionname=Concentração de Brawlers;
+	}
+[Silent Slayers.ota]
+	{
+	missionname=Assassinos Silenciosos;
+	}
+[Crossing Arnen Inlet.ota]
+	{
+	missionname=Atravessar a Enseada de Arnen;
+	}
+[Cloaked in the Spires.ota]
+	{
+	missionname=Camuflados nos Pináculos;
+	}
+[Zedtopt Hotsprings.ota]
+	{
+	missionname=Fontes Termais de Zedtopt;
+	}
+[Intimidator Rising.ota]
+	{
+	missionname=A Ascensão do Intimidator;
+	}
+[Guditha Pass.ota]
+	{
+	missionname=Desfiladeiro de Guditha;
+	}
+[Sink the Battleship.ota]
+	{
+	missionname=Afundar o Couraçado;
+	}
+[Coordinated Assault.ota]
+	{
+	missionname=Assalto Coordenado;
+	}
+[Dogfight over Grantham Deep.ota]
+	{
+	missionname=Combate Aéreo sobre o Abismo de Grantham;
+	}
+[Mesa Run.ota]
+	{
+	missionname=Corrida no Planalto;
+	}
+[Krocark Firebase Complex.ota]
+	{
+	missionname=Complexo de Bases de Fogo de Krocark;
+	}
+[Jungle Journey.ota]
+	{
+	missionname=Viagem pela Selva;
+	}
+[Capturing Terseknos.ota]
+	{
+	missionname=Capturar Terseknos;
+	}
+[Bertha Cleansing.ota]
+	{
+	missionname=Limpeza de Berthas;
+	}
+[Surprise at Labrodorite.ota]
+	{
+	missionname=Surpresa em Labrodorite;
+	}
+[Skirmish on the Sand.ota]
+	{
+	missionname=Escaramuça na Areia;
+	}
+[New Moon.ota]
+	{
+	missionname=Lua Nova;
+	}
+[Kbot Mop Up.ota]
+	{
+	missionname=Limpeza de Kbots;
+	}
+[River Base Alpha.ota]
+	{
+	missionname=Base Fluvial Alfa;
+	}
+[Crossing Two Rivers.ota]
+	{
+	missionname=Atravessar Dois Rios;
+	}
+[Caranat Conquest.ota]
+	{
+	missionname=Conquista de Caranat;
+	}
+[Less Refreshing Sea.ota]
+	{
+	missionname=Mar Menos Refrescante;
+	}
+[Hot Day and Hull Down.ota]
+	{
+	missionname=Dia Quente, Casco Oculto;
+	}
+[Seed Crystal.ota]
+	{
+	missionname=Cristal-Semente;
+	}
+[Cleanup on Kral.ota]
+	{
+	missionname=Limpeza em Kral;
+	}
+[Air Assault.ota]
+	{
+	missionname=Assalto Aéreo;
+	}
+[Lightning Recon.ota]
+	{
+	missionname=Reconhecimento Relâmpago;
+	}
+[A Gentle Time.ota]
+	{
+	missionname=Um Tempo Tranquilo;
+	}
+[Disintegrator Alley.ota]
+	{
+	missionname=Beco do Desintegrador;
+	}
+[Two Ore Coast.ota]
+	{
+	missionname=Costa dos Dois Minérios;
+	}
+[Thrashing a Rear Guard.ota]
+	{
+	missionname=Esmagar uma Retaguarda;
+	}
+[Emerald Seamount.ota]
+	{
+	missionname=Monte Submarino Esmeralda;
+	}
+[Taking Island 445.ota]
+	{
+	missionname=Tomar a Ilha 445;
+	}
+[The Retorb Floodplain.ota]
+	{
+	missionname=A Planície Aluvial de Retorb;
+	}
+[Firebase.ota]
+	{
+	missionname=Base de Fogo;
+	}
+[Battle of Chimo Island.ota]
+	{
+	missionname=Batalha da Ilha Chimo;
+	}
+[Laser Plain.ota]
+	{
+	missionname=Planície Laser;
+	}
+[Rotrey Stream.ota]
+	{
+	missionname=Ribeiro Rotrey;
+	}
+[Rainforest Construction.ota]
+	{
+	missionname=Construção na Floresta Tropical;
+	}
+[Yollets Rain Forest.ota]
+	{
+	missionname=Floresta Tropical de Yollets;
+	}
+[The Phase Array Radar.ota]
+	{
+	missionname=O Radar de Rede Faseada;
+	}
+[EXP1CC01.ota]
+	{
+	missionname=1: O ARM Chega a Hydross;
+	}
+[EXP1CC02.ota]
+	{
+	missionname=2: Trabalho Molhado;
+	}
+[EXP1CC03.ota]
+	{
+	missionname=3: Alvos Fáceis;
+	}
+[EXP1CC04.ota]
+	{
+	missionname=4: Lusch - Bem-vindo ao Paraíso;
+	}
+[EXP1CC05.ota]
+	{
+	missionname=5: Pancadaria e Lamaçal;
+	}
+[EXP1CC06.ota]
+	{
+	missionname=6: Insetos Alienígenas;
+	}
+[EXP1CC07.ota]
+	{
+	missionname=7: Treme, Sacode e Morre;
+	}
+[EXP1CC08.ota]
+	{
+	missionname=8: Confusão no Comando;
+	}
+[EXP1CC09.ota]
+	{
+	missionname=9: Assaltar a Fortaleza das Nuvens;
+	}
+[EXP1CC10.ota]
+	{
+	missionname=10: Arrefecimento;
+	}
+[EXP1CC11.ota]
+	{
+	missionname=11: Devastação Gélida;
+	}
+[EXP1CC12.ota]
+	{
+	missionname=12: Hora de Partir;
+	}
+[CC01.ota]
+	{
+	missionname=1: O Comandante Reativado...;
+	}
+[CC02.ota]
+	{
+	missionname=2: Pragas;
+	}
+[CC03.ota]
+	{
+	missionname=3: Emboscada!;
+	}
+[CC04.ota]
+	{
+	missionname=4: Já Chega!;
+	}
+[CC05.ota]
+	{
+	missionname=5: Barathrum!;
+	}
+[CC06.ota]
+	{
+	missionname=6: A Purificação Começa;
+	}
+[CC07.ota]
+	{
+	missionname=7: Apertar o Laço;
+	}
+[CC08.ota]
+	{
+	missionname=8: O Portal para Aqueous Minor;
+	}
+[CC09.ota]
+	{
+	missionname=9: A Purga de Aqueous Minor;
+	}
+[CC10.ota]
+	{
+	missionname=10: O Corredor de Fogo;
+	}
+[CC11.ota]
+	{
+	missionname=11: Ilha Parche;
+	}
+[CC12.ota]
+	{
+	missionname=12: Um Traidor Mostra o Caminho;
+	}
+[CC13.ota]
+	{
+	missionname=13: Rougpelt;
+	}
+[CC14.ota]
+	{
+	missionname=14: Varrer Rougpelt;
+	}
+[CC15.ota]
+	{
+	missionname=15: Abismo de Xantippe;
+	}
+[CC16.ota]
+	{
+	missionname=16: Abandonar Rougpelt;
+	}
+[CC17.ota]
+	{
+	missionname=17: A Ilha Perdida;
+	}
+[CC18.ota]
+	{
+	missionname=18: Slolam Pilago;
+	}
+[CC19.ota]
+	{
+	missionname=19: A Frota Vebreen;
+	}
+[CC20.ota]
+	{
+	missionname=20: O Portal para Aegus;
+	}
+[CC21.ota]
+	{
+	missionname=21: Aegus...o Guardião de Empyrrean;
+	}
+[CC22.ota]
+	{
+	missionname=22: Uma Grande Receção em Empyrrean;
+	}
+[CC23.ota]
+	{
+	missionname=23: A Fortaleza Cai;
+	}
+[CC24.ota]
+	{
+	missionname=24: Cercado e Esmagado;
+	}
+[CC25.ota]
+	{
+	missionname=25: A Última Resistência de Empyrrean;
+	}
+[Krogoth Encounter.ota]
+	{
+	missionname=1: Encontro com o Krogoth!;
+	}
