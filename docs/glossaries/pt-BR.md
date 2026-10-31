@@ -81,6 +81,11 @@ it (`ação`, `ideia`, `autodestruição`, `antiaéreo`, `contra-ataque`).
   slot whose gender is not known: name the thing first (`o mapa {map}`,
   `o pacote {pack}`, `de {name}`), or recast. After a count, write the
   plural (`{count} arquivos`), as the English does.
+- `{device}` and `{cloud}` are filled with this pack's `device` and `the
+  cloud`, or with the system's own name for them (`iPad`, `iCloud`).
+  Translate `device` as `dispositivo` and `the cloud` as `nuvem`, with no
+  article, and write the sentences so either fills them: `neste {device}`,
+  `em {cloud}`, `via {cloud}` (never `na {cloud}` or `da {cloud}`).
 - A tab or line break never goes into a translation.
 
 ## 3. Names kept as written
@@ -436,3 +441,75 @@ full stop only when nothing shorter is natural (`Avanç.`, `Descarr.`), and
 never in a sentence. Sentences in dialogs and hints may be as long as they
 need to be; the text-fit check measures Open Annihilation's own screens.
 The pictures' captions (pictures.tdf) are one word each.
+
+## 10. Keys
+
+One word for each idea, in the key editor, the overlay, Settings › Controls,
+Settings › Accessibility, Library › Keys and the install question. Sentence
+case in a label (`Esquema de teclas`), as the rest of this file.
+
+| English | Portuguese |
+|---|---|
+| key layout | esquema de teclas (`esquema` alone where the screen already says keys) |
+| key editor | editor de teclas |
+| action (a binding; also where English still says "command" for one) | ação |
+| key binding | atalho |
+| helper (a setting of the key editor) | auxiliar (plural auxiliares) |
+| changes of your own | suas alterações |
+| clash | conflito |
+| latch / latched | fixar / fixado |
+| unbound (the filter) | Sem tecla |
+| letter (of a key) | letra |
+| place (of a key) | posição |
+| hold to confirm | Segure para confirmar |
+| Clone (a layout) | Clonar |
+| Share / Paste (a layout) | Compartilhar / Colar |
+| Sharing (the heading) | Compartilhamento |
+| primary (the selected unit the others follow) | principal |
+| idle (builders, factories) | ociosos, ociosas |
+| countdown | contagem regressiva |
+
+Named keys stay as the keyboard prints them: Shift, Ctrl, Alt, Option, Esc,
+Escape, Enter, Tab, Backspace, Delete, Insert, Home, End, Page Up, Page
+Down, Caps Lock, F1–F12, Win. In a sentence, Space is `barra de espaço`;
+the key's name alone is `Espaço`. Arrows are `Seta para cima`, `Seta para
+baixo`, `Seta para a esquerda`, `Seta para a direita`. Numpad is `Teclado
+numérico` (`Numpad add` → `Teclado numérico +`). Mouse buttons: `Botão
+esquerdo`, `Botão direito`, `Botão do meio`. Wheel: `Roda para cima`, `Roda
+para baixo`.
+
+## 11. Brains, mutators and the later screens
+
+The words Open Annihilation 0.8.5 to 0.8.9 added.
+
+| English | Portuguese |
+|---|---|
+| brain (a computer player's mind, installed from the Library) | cérebro (the Library's tab: Cérebros) |
+| built-in player | jogador integrado |
+| computer player | computador (3.1c's Computer); `jogador do computador` only where a sentence needs it |
+| Rush / Turtle / Learned / Teaching (brain styles) | Rush / Defensivo / Treinado / Didático |
+| mutator | mutador (the Library's tab and the button: Mutadores) |
+| Fog of War | Névoa de guerra |
+| Full 3D Mode / Full 3D | Modo 3D completo / 3D completo |
+| Basic / Full (hardware acceleration's choices) | Básico / Completo, the choices' names, also in sentences (`em Completo`, `Requer a aceleração por hardware em Completo.`) |
+| Smooth motion | Movimento suave |
+| New unit shadows | Novas sombras de unidades |
+| overlay / Arrange overlays | sobreposição / Organizar sobreposições |
+| badge | emblema |
+| Accessibility | Acessibilidade (heading ACESSIBILIDADE) |
+| Engine Limits | Limites do motor |
+| Whiteboard (key bindings) | Quadro branco |
+| Megamap | Megamapa |
+| Watching (key bindings) | Espectador |
+| world (a mod's world, the Library's filter) / WORLD | mundo / MUNDO (`Mundo: {tag} ({count})`) |
+| tag / TAGS | tag / TAGS |
+| In use (the Library's pill) | Em uso |
+| rev (short for revision) | rev. |
+| Ready when you are (sample chat) | Quando quiser |
+| camera (Full 3D) / orbit / pan | câmera / orbitar / deslocar |
+| Mouse look | Olhar com o mouse |
+| Developer (key bindings) | Desenvolvedor |
+| view (the part of the map on screen) | visão (`centra a visão`, `Desloca a visão para cima`) |
+| seat (a player's place in a game) | lugar (`Lugar {n}`) |
+| tab (a screen's tab) | aba |
+| bookmark (a stored view) / marker (the whiteboard's) | marcador / marca |

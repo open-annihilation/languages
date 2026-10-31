@@ -369,19 +369,9 @@
 	pt-BR=Aqui a imagem é desenhada como com a aceleração desligada.;
 	}
 
-[SAVES]
-	{
-	pt-BR=JOGOS SALVOS;
-	}
-
 [SCREENSHOTS]
 	{
 	pt-BR=CAPTURAS DE TELA;
-	}
-
-[MODS]
-	{
-	pt-BR=MODS;
 	}
 
 [System default]
@@ -1124,16 +1114,6 @@
 	pt-BR=Sempre ligado aqui;
 	}
 
-[MANAGE…]
-	{
-	pt-BR=GERENCIAR…;
-	}
-
-[RESTORE PROFILE VALUES]
-	{
-	pt-BR=RESTAURAR VALORES DO PERFIL;
-	}
-
 [Applies at next match]
 	{
 	pt-BR=Vale na próxima partida;
@@ -1184,11 +1164,6 @@
 	pt-BR=Sem oamod.yaml;
 	}
 
-[PLAYING]
-	{
-	pt-BR=JOGANDO;
-	}
-
 [OPEN MODS FOLDER]
 	{
 	pt-BR=ABRIR PASTA DE MODS;
@@ -1199,24 +1174,9 @@
 	pt-BR=TROCAR DE MOD;
 	}
 
-[SWITCH]
-	{
-	pt-BR=TROCAR;
-	}
-
-[ROLL BACK]
-	{
-	pt-BR=REVERTER;
-	}
-
 [ROLL BACK MOD]
 	{
 	pt-BR=REVERTER MOD;
-	}
-
-[Roll back {title} to {to}? {from} is kept in its place, and ROLL BACK again brings it back.]
-	{
-	pt-BR=Reverter {title} para {to}? {from} fica guardado, e REVERTER de novo o traz de volta.;
 	}
 
 [The game reloads its data for the mod and returns to the main menu.]
@@ -1279,21 +1239,6 @@
 	pt-BR=SUBSTITUIR;
 	}
 
-[INSTALL ALONGSIDE]
-	{
-	pt-BR=INSTALAR AO LADO;
-	}
-
-[REINSTALL]
-	{
-	pt-BR=REINSTALAR;
-	}
-
-[PLAY NOW]
-	{
-	pt-BR=JOGAR AGORA;
-	}
-
 [INSTALLING MOD]
 	{
 	pt-BR=INSTALANDO MOD;
@@ -1337,16 +1282,6 @@
 [MOD NOT ROLLED BACK]
 	{
 	pt-BR=MOD NÃO REVERTIDO;
-	}
-
-[The folder kept for ROLL BACK, which holds no mod that can be read, is removed.]
-	{
-	pt-BR=A pasta guardada para REVERTER, que não contém um mod legível, é removida.;
-	}
-
-[The folder kept for ROLL BACK ({backup}) is removed.]
-	{
-	pt-BR=A pasta guardada para REVERTER ({backup}) é removida.;
 	}
 
 [{version} of an unknown revision]
@@ -1414,11 +1349,6 @@
 	pt-BR=A versão guardada, {backup}, permanece.;
 	}
 
-[The folder kept for ROLL BACK stays.]
-	{
-	pt-BR=A pasta guardada para REVERTER permanece.;
-	}
-
 [Your Mods folder already has a folder named {folder} that does not hold {title}. It is left as it is.]
 	{
 	pt-BR=Sua pasta Mods já tem uma pasta chamada {folder} que não contém {title}. Ela é deixada como está.;
@@ -1442,11 +1372,6 @@
 [The files of {title} {version} were installed again.]
 	{
 	pt-BR=Os arquivos de {title} {version} foram reinstalados.;
-	}
-
-[{title} is back to {new}. {old} is kept, and ROLL BACK brings it back.]
-	{
-	pt-BR={title} voltou para {new}. {old} fica guardado, e REVERTER o traz de volta.;
 	}
 
 [{title} is back to {new}.]
@@ -1582,11 +1507,6 @@
 [{title} could not be rolled back; nothing was changed.]
 	{
 	pt-BR=Não foi possível reverter {title}. Nada foi alterado.;
-	}
-
-[{title} {to}, the version kept for ROLL BACK, cannot be played.]
-	{
-	pt-BR={title} {to}, a versão guardada para REVERTER, não pode ser jogada.;
 	}
 
 [the folder you chose]
@@ -2174,9 +2094,9 @@
 	pt-BR=Escolha a pasta do jogo;
 	}
 
-[CHOOSE FOLDER]
+[Choose folder]
 	{
-	pt-BR=ESCOLHER PASTA;
+	pt-BR=Escolher pasta;
 	}
 
 [Copy it yourself]
@@ -2184,9 +2104,9 @@
 	pt-BR=Copie você mesmo;
 	}
 
-[I HAVE COPIED IT]
+[I have copied it]
 	{
-	pt-BR=JÁ COPIEI;
+	pt-BR=Já copiei;
 	}
 
 [Play the 1997 demo]
@@ -2194,14 +2114,14 @@
 	pt-BR=Jogar a demo de 1997;
 	}
 
-[CHOOSE INSTALLER]
+[Choose installer]
 	{
-	pt-BR=ESCOLHER INSTALADOR;
+	pt-BR=Escolher instalador;
 	}
 
-[WHY]
+[Why]
 	{
-	pt-BR=POR QUÊ;
+	pt-BR=Por quê;
 	}
 
 [SHOW]
@@ -2264,14 +2184,14 @@
 	pt-BR=Esta pasta não contém arquivos compactados do jogo, mas pastas dentro dela, sim. Escolha uma.;
 	}
 
-[USE THAT FOLDER]
+[Use that folder]
 	{
-	pt-BR=USAR ESSA PASTA;
+	pt-BR=Usar essa pasta;
 	}
 
-[CHOOSE ANOTHER FOLDER]
+[Choose another folder]
 	{
-	pt-BR=ESCOLHER OUTRA PASTA;
+	pt-BR=Escolher outra pasta;
 	}
 
 [This is already the game folder.]
@@ -2279,9 +2199,9 @@
 	pt-BR=Esta já é a pasta do jogo.;
 	}
 
-[CHECK IT]
+[Check it]
 	{
-	pt-BR=VERIFICAR;
+	pt-BR=Verificar;
 	}
 
 [Ready to copy]
@@ -2299,19 +2219,14 @@
 	pt-BR=Verificado por completo após a cópia.;
 	}
 
-[CHOOSE ANOTHER FILE]
+[Choose another file]
 	{
-	pt-BR=ESCOLHER OUTRO ARQUIVO;
+	pt-BR=Escolher outro arquivo;
 	}
 
-[CHECK AGAIN]
+[Replace game files]
 	{
-	pt-BR=VERIFICAR DE NOVO;
-	}
-
-[REPLACE GAME FILES]
-	{
-	pt-BR=SUBSTITUIR ARQUIVOS DO JOGO;
+	pt-BR=Substituir arquivos do jogo;
 	}
 
 [COPY]
@@ -2349,9 +2264,9 @@
 	pt-BR=Pronto para jogar;
 	}
 
-[REMOVE OLD FOLDER]
+[Remove old folder]
 	{
-	pt-BR=REMOVER PASTA ANTIGA;
+	pt-BR=Remover pasta antiga;
 	}
 
 [DONE]
@@ -2364,19 +2279,19 @@
 	pt-BR=JOGAR;
 	}
 
-[ADD FILES…]
+[Add files…]
 	{
-	pt-BR=ADICIONAR ARQUIVOS…;
+	pt-BR=Adicionar arquivos…;
 	}
 
-[REPLACE THE GAME FILES…]
+[Replace the game files…]
 	{
-	pt-BR=SUBSTITUIR OS ARQUIVOS DO JOGO…;
+	pt-BR=Substituir os arquivos do jogo…;
 	}
 
-[REMOVE ALL GAME FILES…]
+[Remove all game files…]
 	{
-	pt-BR=REMOVER TODOS OS ARQUIVOS DO JOGO…;
+	pt-BR=Remover todos os arquivos do jogo…;
 	}
 
 [Pick the folder that holds totala1.hpi: {places}. It is checked, then copied in.]
@@ -2476,7 +2391,7 @@
 
 [Downloading {file} from {cloud}…]
 	{
-	pt-BR=Baixando {file} de {cloud}…;
+	pt-BR=Baixando {file} via {cloud}…;
 	}
 
 [Unpacking the demo's game data ({size})…]
@@ -2619,9 +2534,9 @@
 	pt-BR={n} mods;
 	}
 
-[ADD THE MISSING FILES]
+[Add the missing files]
 	{
-	pt-BR=ADICIONAR OS ARQUIVOS QUE FALTAM;
+	pt-BR=Adicionar os arquivos que faltam;
 	}
 
 [BACK]
@@ -2629,84 +2544,74 @@
 	pt-BR=VOLTAR;
 	}
 
-[CANCEL THE REPLACEMENT]
+[Cancel the replacement]
 	{
-	pt-BR=CANCELAR A SUBSTITUIÇÃO;
+	pt-BR=Cancelar a substituição;
 	}
 
-[CHANGE WHAT IS COPIED]
+[Change what is copied]
 	{
-	pt-BR=MUDAR O QUE É COPIADO;
+	pt-BR=Mudar o que é copiado;
 	}
 
-[CHOOSE A FOLDER]
+[Choose a folder]
 	{
-	pt-BR=ESCOLHER UMA PASTA;
+	pt-BR=Escolher uma pasta;
 	}
 
-[CHOOSE ARCHIVES]
+[Choose archives]
 	{
-	pt-BR=ESCOLHER ARQUIVOS COMPACTADOS;
+	pt-BR=Escolher arquivos compactados;
 	}
 
-[CHOOSE THE DEMO'S INSTALLER]
+[Choose the demo's installer]
 	{
-	pt-BR=ESCOLHER O INSTALADOR DA DEMO;
+	pt-BR=Escolher o instalador da demo;
 	}
 
-[CHOOSE THE FOLDER AGAIN]
+[Choose the folder again]
 	{
-	pt-BR=ESCOLHER A PASTA DE NOVO;
+	pt-BR=Escolher a pasta de novo;
 	}
 
-[CONTINUE]
+[Copy anyway]
 	{
-	pt-BR=CONTINUAR;
+	pt-BR=Copiar mesmo assim;
 	}
 
-[COPY ANYWAY]
+[Discard what was copied]
 	{
-	pt-BR=COPIAR MESMO ASSIM;
+	pt-BR=Descartar o que foi copiado;
 	}
 
-[DISCARD]
+[Gather them]
 	{
-	pt-BR=DESCARTAR;
+	pt-BR=Reunir;
 	}
 
-[DISCARD WHAT WAS COPIED]
+[Keep]
 	{
-	pt-BR=DESCARTAR O QUE FOI COPIADO;
+	pt-BR=Manter;
 	}
 
-[GATHER THEM]
+[Keep copying]
 	{
-	pt-BR=REUNIR;
+	pt-BR=Continuar copiando;
 	}
 
-[KEEP]
+[Keep what was copied]
 	{
-	pt-BR=MANTER;
+	pt-BR=Manter o que foi copiado;
 	}
 
-[KEEP COPYING]
+[Remove all]
 	{
-	pt-BR=CONTINUAR COPIANDO;
+	pt-BR=Remover tudo;
 	}
 
-[KEEP WHAT WAS COPIED]
+[Start again]
 	{
-	pt-BR=MANTER O QUE FOI COPIADO;
-	}
-
-[REMOVE ALL]
-	{
-	pt-BR=REMOVER TUDO;
-	}
-
-[START AGAIN]
-	{
-	pt-BR=RECOMEÇAR;
+	pt-BR=Recomeçar;
 	}
 
 [TRY AGAIN]
@@ -2714,9 +2619,9 @@
 	pt-BR=TENTAR NOVAMENTE;
 	}
 
-[USE IT]
+[Use it]
 	{
-	pt-BR=USAR;
+	pt-BR=Usar;
 	}
 
 [Copy your Total Annihilation folder into Open Annihilation's own folder with your file manager.]
@@ -2751,7 +2656,7 @@
 
 [the cloud]
 	{
-	pt-BR=a nuvem;
+	pt-BR=nuvem;
 	}
 
 [{a} and {b}]
@@ -4351,11 +4256,6 @@
 	pt-BR={count} atualizações;
 	}
 
-[UPDATE ALL]
-	{
-	pt-BR=ATUALIZAR TUDO;
-	}
-
 [Showing the list from {age}. OA couldn't reach the registries.]
 	{
 	pt-BR=Mostrando a lista de {age}. O OA não conseguiu acessar os repositórios.;
@@ -4379,16 +4279,6 @@
 [Nothing to show.]
 	{
 	pt-BR=Nada para mostrar.;
-	}
-
-[GET]
-	{
-	pt-BR=OBTER;
-	}
-
-[INSTALLED]
-	{
-	pt-BR=INSTALADO;
 	}
 
 [UPDATE]
@@ -4721,16 +4611,6 @@
 	pt-BR=✓;
 	}
 
-[RETRY]
-	{
-	pt-BR=TENTAR NOVAMENTE;
-	}
-
-[HOMEPAGE]
-	{
-	pt-BR=SITE;
-	}
-
 [Finishes when you leave {name}.]
 	{
 	pt-BR=Termina quando você sair de {name}.;
@@ -4739,16 +4619,6 @@
 [You are playing {playing}. Updating {name} doesn't restart the game.]
 	{
 	pt-BR=Você está jogando {playing}. Atualizar {name} não reinicia o jogo.;
-	}
-
-[SETTINGS…]
-	{
-	pt-BR=CONFIGURAÇÕES…;
-	}
-
-[DETAILS]
-	{
-	pt-BR=DETALHES;
 	}
 
 [{name} {version}]
@@ -4789,21 +4659,6 @@
 [Installed {name}]
 	{
 	pt-BR={name} instalado;
-	}
-
-[Updated {name} · {new} changes the game's rules · ROLL BACK restores {old}]
-	{
-	pt-BR={name} atualizado · {new} muda as regras do jogo · REVERTER restaura {old};
-	}
-
-[Updated {name} · {new} may change the game's rules · ROLL BACK restores {old}]
-	{
-	pt-BR={name} atualizado · {new} pode mudar as regras do jogo · REVERTER restaura {old};
-	}
-
-[{problem} · RETRY]
-	{
-	pt-BR={problem} · TENTAR NOVAMENTE;
 	}
 
 [Then {package} · {phase}]
@@ -4891,29 +4746,9 @@
 	pt-BR={name} {from} → {to};
 	}
 
-[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and ROLL BACK brings it back.]
-	{
-	pt-BR={To} muda as regras do jogo. Jogos salvos de {from} não carregarão com {to}. {From} fica guardado, e REVERTER o traz de volta.;
-	}
-
-[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and ROLL BACK brings it back.]
-	{
-	pt-BR=O OA não sabe dizer se {to} muda as regras do jogo. Se mudar, jogos salvos de {from} não carregarão com ele. {From} fica guardado, e REVERTER o traz de volta.;
-	}
-
 [It finishes when you leave {name}.]
 	{
 	pt-BR=Termina quando você sair de {name}.;
-	}
-
-[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and ROLL BACK brings it back.]
-	{
-	pt-BR=1 atualização muda as regras do jogo: {names}. Jogos salvos da versão atual não carregarão com a nova. Ela fica guardada, e REVERTER a traz de volta.;
-	}
-
-[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and ROLL BACK brings it back.]
-	{
-	pt-BR={count} atualizações mudam as regras do jogo: {names}. Jogos salvos das versões atuais não carregarão com as novas. Cada uma fica guardada, e REVERTER a traz de volta.;
 	}
 
 [{names} and {count} more]
@@ -4939,11 +4774,6 @@
 [Download]
 	{
 	pt-BR=Baixar;
-	}
-
-[NOT NOW]
-	{
-	pt-BR=AGORA NÃO;
 	}
 
 [the server could not be reached]
@@ -5098,11 +4928,6 @@
 	pt-BR=. Escolha-o de novo para tentar outra vez.;
 	}
 
-[MORE IN THE LIBRARY…]
-	{
-	pt-BR=MAIS NA BIBLIOTECA…;
-	}
-
 [More languages are in the Library.]
 	{
 	pt-BR=Há mais idiomas na Biblioteca.;
@@ -5178,11 +5003,6 @@
 	pt-BR=Criado no seu primeiro download;
 	}
 
-[RESET]
-	{
-	pt-BR=REDEFINIR;
-	}
-
 [Downloaded files]
 	{
 	pt-BR=Arquivos baixados;
@@ -5191,11 +5011,6 @@
 [Nothing kept]
 	{
 	pt-BR=Nada guardado;
-	}
-
-[EMPTY]
-	{
-	pt-BR=ESVAZIAR;
 	}
 
 [Registries]
@@ -5288,11 +5103,6 @@
 	pt-BR=Removido ao apertar OK;
 	}
 
-[ADD MIRROR…]
-	{
-	pt-BR=ADICIONAR ESPELHO…;
-	}
-
 [Choose from the main menu.]
 	{
 	pt-BR=Escolha no menu principal.;
@@ -5306,11 +5116,6 @@
 [Content from registries other than {names} isn't reviewed by the OA team. OA still checks every package before using it.]
 	{
 	pt-BR=O conteúdo de repositórios que não sejam {names} não é revisado pela equipe do OA. O OA ainda verifica cada pacote antes de usá-lo.;
-	}
-
-[ADD REGISTRY…]
-	{
-	pt-BR=ADICIONAR REPOSITÓRIO…;
 	}
 
 // The map browser, GET MAP, and the questions that install a map pack or a language.
@@ -5558,11 +5363,6 @@
 [Install the map pack {name} {version} ({n} maps)?]
 	{
 	pt-BR=Instalar o pacote de mapas {name} {version} ({n} mapas)?;
-	}
-
-[INSTALL]
-	{
-	pt-BR=INSTALAR;
 	}
 
 [UPDATE MAP PACK]
@@ -5828,16 +5628,6 @@
 [REPLACE MOD]
 	{
 	pt-BR=SUBSTITUIR MOD;
-	}
-
-[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and ROLL BACK brings it back.]
-	{
-	pt-BR={name} de {installed} está instalado. Substituí-lo por {name} de {new}? O de {installed} fica guardado, e REVERTER o traz de volta.;
-	}
-
-[{folder} is a folder of your own, not {name}. Move or rename it, then RETRY.]
-	{
-	pt-BR={folder} é uma pasta sua, não {name}. Mova-a ou renomeie-a e depois use TENTAR NOVAMENTE.;
 	}
 
 [{n} KB]
@@ -6186,11 +5976,6 @@
 	pt-BR=Configuração inicial;
 	}
 
-[SHOW AGAIN]
-	{
-	pt-BR=MOSTRAR DE NOVO;
-	}
-
 [Walk through the language, online features and the OA buttons again.]
 	{
 	pt-BR=Rever o idioma, os recursos online e os botões do OA.;
@@ -6251,11 +6036,6 @@
 	pt-BR=Este sistema lê repositórios HTTPS por HTTP.;
 	}
 
-[REGISTRIES IN THE LIBRARY…]
-	{
-	pt-BR=REPOSITÓRIOS NA BIBLIOTECA…;
-	}
-
 [Registries are in the Library.]
 	{
 	pt-BR=Os repositórios estão na Biblioteca.;
@@ -6269,21 +6049,6 @@
 [MAPS]
 	{
 	pt-BR=MAPAS;
-	}
-
-[SWITCH OFF]
-	{
-	pt-BR=DESATIVAR;
-	}
-
-[UNLOAD MOD]
-	{
-	pt-BR=DESATIVAR MOD;
-	}
-
-[UNINSTALL]
-	{
-	pt-BR=DESINSTALAR;
 	}
 
 [{language} · built in]
@@ -6396,11 +6161,6 @@
 	pt-BR=Atualizando lista;
 	}
 
-[REFRESH]
-	{
-	pt-BR=ATUALIZAR;
-	}
-
 [refreshed {age}]
 	{
 	pt-BR=atualizado {age};
@@ -6441,11 +6201,6 @@
 	pt-BR=Não é possível desinstalar pacotes de mapas durante uma partida.;
 	}
 
-[It is in the download queue: CANCEL it before you uninstall it.]
-	{
-	pt-BR=Ele está na fila de download: use CANCELAR antes de desinstalá-lo.;
-	}
-
 [Uninstall {name}]
 	{
 	pt-BR=Desinstalar {name};
@@ -6456,24 +6211,9 @@
 	pt-BR=Desinstalar {name}? A pasta dele, {folder}, será removida.;
 	}
 
-[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy ROLL BACK keeps.]
-	{
-	pt-BR=Desinstalar {name}? A pasta dele, {folder}, será removida, e com ela a cópia que REVERTER guarda.;
-	}
-
-[GET installs it again.]
-	{
-	pt-BR=OBTER o instala de novo.;
-	}
-
 [No registry lists it, so the Library cannot get it again.]
 	{
 	pt-BR=Nenhum repositório o lista, então a Biblioteca não pode obtê-lo de novo.;
-	}
-
-[You are playing {name}. Switch it off first with SWITCH OFF, then uninstall it.]
-	{
-	pt-BR=Você está jogando {name}. Desative-o primeiro com DESATIVAR e depois desinstale-o.;
 	}
 
 [The game is shown in {name}. Choose another language in Settings › Language first, then uninstall it.]
@@ -6496,11 +6236,6 @@
 	pt-BR=A pasta mudou desde que a Biblioteca a listou. Tente novamente.;
 	}
 
-[Its folder is a link, and OA never removes what a link leads to. OPEN FOLDER shows it.]
-	{
-	pt-BR=A pasta é um link, e o OA nunca remove o destino de um link. ABRIR PASTA a mostra.;
-	}
-
 [Its folder is not in your own Open Annihilation folder, and OA removes nothing outside it.]
 	{
 	pt-BR=A pasta não está na sua própria pasta do Open Annihilation, e o OA não remove nada fora dela.;
@@ -6509,36 +6244,6 @@
 [Its folder could not be moved; another program may be using it. Close it, then try again.]
 	{
 	pt-BR=Não foi possível mover a pasta. Outro programa pode estar usando-a. Feche-o e tente novamente.;
-	}
-
-[The version installed is kept, and ROLL BACK in the Library brings it back.]
-	{
-	pt-BR=A versão instalada fica guardada, e REVERTER na Biblioteca a traz de volta.;
-	}
-
-[Revision {installed} is kept, and ROLL BACK in the Library brings it back.]
-	{
-	pt-BR=A revisão {installed} fica guardada, e REVERTER na Biblioteca a traz de volta.;
-	}
-
-[Replacing keeps {installed}, and ROLL BACK in the Library brings it back.]
-	{
-	pt-BR=A substituição guarda {installed}, e REVERTER na Biblioteca o traz de volta.;
-	}
-
-[Choose PLAY NOW to play it, or choose it later with PLAY NOW in the Library.]
-	{
-	pt-BR=Escolha JOGAR AGORA para jogá-lo, ou escolha-o depois com JOGAR AGORA na Biblioteca.;
-	}
-
-[Choose it with PLAY NOW in the Library to play it.]
-	{
-	pt-BR=Para jogá-lo, escolha-o com JOGAR AGORA na Biblioteca.;
-	}
-
-[{title} is now {new}. {old} is kept, and ROLL BACK in the Library brings it back.]
-	{
-	pt-BR={title} agora está na versão {new}. {old} fica guardado, e REVERTER na Biblioteca o traz de volta.;
 	}
 
 [It is still copied, so it can be fixed in your file manager; the Library's Mods tab plays only mods that work.]
@@ -6564,11 +6269,6 @@
 [No installed map matches.]
 	{
 	pt-BR=Nenhum mapa instalado corresponde.;
-	}
-
-[USE NOW]
-	{
-	pt-BR=USAR AGORA;
 	}
 
 [{shown} of {all}]
@@ -6699,11 +6399,6 @@
 	pt-BR=Bottles;
 	}
 
-[CHANGE…]
-	{
-	pt-BR=ALTERAR…;
-	}
-
 [COPYING]
 	{
 	pt-BR=COPIANDO;
@@ -6792,11 +6487,6 @@
 [Copying Total Annihilation]
 	{
 	pt-BR=Copiando Total Annihilation;
-	}
-
-[DETAILS…]
-	{
-	pt-BR=DETALHES…;
 	}
 
 [Demo]
@@ -7319,6 +7009,16 @@
 	pt-BR=Fixo;
 	}
 
+[Switching off {name}…]
+	{
+	pt-BR=Desativando {name}…;
+	}
+
+[Switching on {name}…]
+	{
+	pt-BR=Ativando {name}…;
+	}
+
 [Switching to {name} restarts the game's files, then loads this save.]
 	{
 	pt-BR=Trocar para {name} reinicia os arquivos do jogo e depois carrega este jogo salvo.;
@@ -7337,16 +7037,6 @@
 [THE SAVE]
 	{
 	pt-BR=O JOGO SALVO;
-	}
-
-[TURN OFF]
-	{
-	pt-BR=DESATIVAR;
-	}
-
-[TURN ON {name}]
-	{
-	pt-BR=ATIVAR {name};
 	}
 
 [The display's own pixel density (Retina on a Mac). Applies from the next start.]
@@ -7564,29 +7254,9 @@
 	pt-BR=Ativar e carregar;
 	}
 
-[Turning it on applies when the Library closes, and then PLAY NOW works.]
-	{
-	pt-BR=A ativação vale quando a Biblioteca fecha, e então JOGAR AGORA funciona.;
-	}
-
-[Turning it on applies when the Library closes, and then USE NOW works.]
-	{
-	pt-BR=A ativação vale quando a Biblioteca fecha, e então USAR AGORA funciona.;
-	}
-
 [Turning it on applies when the Library closes.]
 	{
 	pt-BR=A ativação vale quando a Biblioteca fecha.;
-	}
-
-[Turning them on applies when the Library closes, and then PLAY NOW works.]
-	{
-	pt-BR=A ativação vale quando a Biblioteca fecha, e então JOGAR AGORA funciona.;
-	}
-
-[Turning them on applies when the Library closes, and then USE NOW works.]
-	{
-	pt-BR=A ativação vale quando a Biblioteca fecha, e então USAR AGORA funciona.;
 	}
 
 [Turning them on applies when the Library closes.]
@@ -7597,11 +7267,6 @@
 [Turning {name} on restarts the game's files, then loads this save. Your other expansions stay as they are.]
 	{
 	pt-BR=Ativar {name} reinicia os arquivos do jogo e depois carrega este jogo salvo. Suas outras expansões ficam como estão.;
-	}
-
-[USE THIS GAME]
-	{
-	pt-BR=USAR ESTE JOGO;
 	}
 
 [Units are drawn as models at every zoom. Far out on a large map, needs a fast CPU.]
@@ -7874,11 +7539,6 @@
 	pt-BR={name} é ligado quando a Biblioteca fecha.;
 	}
 
-[{name} · ADD FROM…]
-	{
-	pt-BR={name} · ADICIONAR DE…;
-	}
-
 [{name} ✓]
 	{
 	pt-BR={name} ✓;
@@ -7978,7 +7638,6 @@
 	{
 	pt-BR={count} pacotes;
 	}
-
 
 // The notices for a launch file the game does not open, Settings'
 // launch file switch and the Library's locked expansions.
@@ -8089,4 +7748,8249 @@
 [Units and shots move 30 times a second, as the game drew them; fast spins may flicker.]
 	{
 	pt-BR=Unidades e disparos se movem 30 vezes por segundo, como o jogo os desenhava. Giros rápidos podem tremer.;
+	}
+
+// Open Annihilation 0.8.5: the Library's Mutators tab.
+
+[Mutators]
+	{
+	pt-BR=Mutadores;
+	}
+
+[Get mutators]
+	{
+	pt-BR=Obter mutadores;
+	}
+
+[No mutators here yet. The Library on the main menu gets them.]
+	{
+	pt-BR=Ainda não há mutadores aqui. Obtenha-os na Biblioteca, no menu principal.;
+	}
+
+[Search mutators]
+	{
+	pt-BR=Buscar mutadores;
+	}
+
+[Search mutators, authors, tags]
+	{
+	pt-BR=Buscar mutadores, autores, tags;
+	}
+
+[No mutator matches these filters]
+	{
+	pt-BR=Nenhum mutador corresponde a estes filtros;
+	}
+
+[Any mod]
+	{
+	pt-BR=Qualquer mod;
+	}
+
+[{version} · {author}]
+	{
+	pt-BR={version} · {author};
+	}
+
+[Not installed · {version}]
+	{
+	pt-BR=Não instalado · {version};
+	}
+
+[Not installed: switching it on downloads it]
+	{
+	pt-BR=Não instalado: ao ligá-lo, ele é baixado;
+	}
+
+[Changes the game: unranked on Core Prime]
+	{
+	pt-BR=Muda o jogo: sem ranking no Core Prime;
+	}
+
+[Checked]
+	{
+	pt-BR=Verificado;
+	}
+
+[Checked with No Mod ✓]
+	{
+	pt-BR=Verificado sem mod ✓;
+	}
+
+[Checked with {mod} ✓]
+	{
+	pt-BR=Verificado com {mod} ✓;
+	}
+
+[Checking with No Mod…]
+	{
+	pt-BR=Verificando sem mod…;
+	}
+
+[Checking with {mod}…]
+	{
+	pt-BR=Verificando com {mod}…;
+	}
+
+[Not checked with No Mod]
+	{
+	pt-BR=Não verificado sem mod;
+	}
+
+[Not checked with {mod}]
+	{
+	pt-BR=Não verificado com {mod};
+	}
+
+[No effect with No Mod: {name}]
+	{
+	pt-BR=Sem efeito sem mod: {name};
+	}
+
+[No effect with this mod]
+	{
+	pt-BR=Sem efeito com este mod;
+	}
+
+[No effect with {mod}: {name}]
+	{
+	pt-BR=Sem efeito com {mod}: {name};
+	}
+
+[Not compatible with No Mod: {name}]
+	{
+	pt-BR=Incompatível sem mod: {name};
+	}
+
+[Not compatible with this mod]
+	{
+	pt-BR=Incompatível com este mod;
+	}
+
+[Not compatible with this mod: it works with {names}]
+	{
+	pt-BR=Incompatível com este mod: funciona com {names};
+	}
+
+[Not compatible with this mod: {reason}]
+	{
+	pt-BR=Incompatível com este mod: {reason};
+	}
+
+[Not compatible with {mod}: {name}]
+	{
+	pt-BR=Incompatível com {mod}: {name};
+	}
+
+[Stopped with this mod: {reason}]
+	{
+	pt-BR=Parou com este mod: {reason};
+	}
+
+[{name} stopped with No Mod]
+	{
+	pt-BR={name} parou sem mod;
+	}
+
+[{name} stopped with {mod}]
+	{
+	pt-BR={name} parou com {mod};
+	}
+
+[With No Mod: it stopped: {reason}]
+	{
+	pt-BR=Sem mod: parou: {reason};
+	}
+
+[With No Mod: no effect]
+	{
+	pt-BR=Sem mod: sem efeito;
+	}
+
+[With No Mod: {reason}]
+	{
+	pt-BR=Sem mod: {reason};
+	}
+
+[With No Mod: {summary}]
+	{
+	pt-BR=Sem mod: {summary};
+	}
+
+[With {mod}: it stopped: {reason}]
+	{
+	pt-BR=Com {mod}: parou: {reason};
+	}
+
+[With {mod}: no effect]
+	{
+	pt-BR=Com {mod}: sem efeito;
+	}
+
+[With {mod}: {reason}]
+	{
+	pt-BR=Com {mod}: {reason};
+	}
+
+[With {mod}: {summary}]
+	{
+	pt-BR=Com {mod}: {summary};
+	}
+
+[Works with]
+	{
+	pt-BR=Funciona com;
+	}
+
+[it works with {names}]
+	{
+	pt-BR=funciona com {names};
+	}
+
+[Needs {name}]
+	{
+	pt-BR=Requer {name};
+	}
+
+[Needed by {name}]
+	{
+	pt-BR=Requerido por {name};
+	}
+
+[Needs {name} {range}, which no registry offers]
+	{
+	pt-BR=Requer {name} {range}, que nenhum repositório oferece;
+	}
+
+[Needs {name}, which no registry offers]
+	{
+	pt-BR=Requer {name}, que nenhum repositório oferece;
+	}
+
+[Cannot run beside {name}]
+	{
+	pt-BR=Não funciona junto com {name};
+	}
+
+[· from {registry}]
+	{
+	pt-BR=· de {registry};
+	}
+
+[· needs {name}]
+	{
+	pt-BR=· requer {name};
+	}
+
+[· not compatible with this mod]
+	{
+	pt-BR=· incompatível com este mod;
+	}
+
+[Statistics]
+	{
+	pt-BR=Estatísticas;
+	}
+
+[Commanders]
+	{
+	pt-BR=Comandantes;
+	}
+
+[New Units]
+	{
+	pt-BR=Novas unidades;
+	}
+
+[Disable]
+	{
+	pt-BR=Desativação;
+	}
+
+[Gameplay]
+	{
+	pt-BR=Jogabilidade;
+	}
+
+[Changes]
+	{
+	pt-BR=Alterações;
+	}
+
+[Files]
+	{
+	pt-BR=Arquivos;
+	}
+
+[Build menus]
+	{
+	pt-BR=Menus de construção;
+	}
+
+[Units and weapons]
+	{
+	pt-BR=Unidades e armas;
+	}
+
+[Game tables]
+	{
+	pt-BR=Tabelas do jogo;
+	}
+
+[Features]
+	{
+	pt-BR=Elementos;
+	}
+
+[Sides]
+	{
+	pt-BR=Lados;
+	}
+
+[Options]
+	{
+	pt-BR=Opções;
+	}
+
+[adds {count} feature]
+	{
+	pt-BR=adiciona {count} elemento;
+	}
+
+[adds {count} features]
+	{
+	pt-BR=adiciona {count} elementos;
+	}
+
+[adds {count} file]
+	{
+	pt-BR=adiciona {count} arquivo;
+	}
+
+[adds {count} files]
+	{
+	pt-BR=adiciona {count} arquivos;
+	}
+
+[adds {count} unit]
+	{
+	pt-BR=adiciona {count} unidade;
+	}
+
+[adds {count} units]
+	{
+	pt-BR=adiciona {count} unidades;
+	}
+
+[adds {count} weapon]
+	{
+	pt-BR=adiciona {count} arma;
+	}
+
+[adds {count} weapons]
+	{
+	pt-BR=adiciona {count} armas;
+	}
+
+[changes other game data]
+	{
+	pt-BR=altera outros dados do jogo;
+	}
+
+[changes the map when a match starts]
+	{
+	pt-BR=altera o mapa quando a partida começa;
+	}
+
+[changes {count} feature]
+	{
+	pt-BR=altera {count} elemento;
+	}
+
+[changes {count} features]
+	{
+	pt-BR=altera {count} elementos;
+	}
+
+[changes {count} menu entries]
+	{
+	pt-BR=altera {count} itens de menu;
+	}
+
+[changes {count} menu entry]
+	{
+	pt-BR=altera {count} item de menu;
+	}
+
+[changes {count} unit]
+	{
+	pt-BR=altera {count} unidade;
+	}
+
+[changes {count} units]
+	{
+	pt-BR=altera {count} unidades;
+	}
+
+[changes {count} weapon]
+	{
+	pt-BR=altera {count} arma;
+	}
+
+[changes {count} weapons]
+	{
+	pt-BR=altera {count} armas;
+	}
+
+[hides {count} file]
+	{
+	pt-BR=esconde {count} arquivo;
+	}
+
+[hides {count} files]
+	{
+	pt-BR=esconde {count} arquivos;
+	}
+
+[removes {count} feature]
+	{
+	pt-BR=remove {count} elemento;
+	}
+
+[removes {count} features]
+	{
+	pt-BR=remove {count} elementos;
+	}
+
+[removes {count} unit]
+	{
+	pt-BR=remove {count} unidade;
+	}
+
+[removes {count} units]
+	{
+	pt-BR=remove {count} unidades;
+	}
+
+[removes {count} weapon]
+	{
+	pt-BR=remove {count} arma;
+	}
+
+[removes {count} weapons]
+	{
+	pt-BR=remove {count} armas;
+	}
+
+// The mutator picker.
+
+[On]
+	{
+	pt-BR=Ligado;
+	}
+
+[mutators]
+	{
+	pt-BR=mutadores;
+	}
+
+[{count} on]
+	{
+	pt-BR={count} ligados;
+	}
+
+[None on]
+	{
+	pt-BR=Nenhum ligado;
+	}
+
+[OFF · NOT APPLIED]
+	{
+	pt-BR=DESLIGADOS · NÃO APLICADOS;
+	}
+
+[ON · APPLIED TOP TO BOTTOM]
+	{
+	pt-BR=LIGADOS · APLICADOS DE CIMA PARA BAIXO;
+	}
+
+[At most {count} mutators can be on]
+	{
+	pt-BR=No máximo {count} mutadores podem ficar ligados;
+	}
+
+[Order]
+	{
+	pt-BR=Ordem;
+	}
+
+[Add]
+	{
+	pt-BR=Adicionar;
+	}
+
+[Replace]
+	{
+	pt-BR=Substituir;
+	}
+
+[{label}: {values}]
+	{
+	pt-BR={label}: {values};
+	}
+
+[{left} or {right}]
+	{
+	pt-BR={left} ou {right};
+	}
+
+[{setup} · {mod}]
+	{
+	pt-BR={setup} · {mod};
+	}
+
+[Skirmish]
+	{
+	pt-BR=Escaramuça;
+	}
+
+[Battle room]
+	{
+	pt-BR=Sala de batalha;
+	}
+
+[The host's mutators. Only the host can change them.]
+	{
+	pt-BR=Os mutadores do anfitrião. Só o anfitrião pode alterá-los.;
+	}
+
+[The set holds for every mission of this campaign, and is saved with it.]
+	{
+	pt-BR=O conjunto vale para todas as missões desta campanha e é salvo com ela.;
+	}
+
+[Get {name}?]
+	{
+	pt-BR=Obter {name}?;
+	}
+
+[Getting {name} · {percent}%]
+	{
+	pt-BR=Obtendo {name} · {percent}%;
+	}
+
+[Downloading {name} · {index} of {total}]
+	{
+	pt-BR=Baixando {name} · {index} de {total};
+	}
+
+[{names} download first, then sit above {name} in every list.]
+	{
+	pt-BR={names} são baixados primeiro e ficam acima de {name} em todas as listas.;
+	}
+
+[{names} downloads first, then sits above {name} in every list.]
+	{
+	pt-BR={names} é baixado primeiro e fica acima de {name} em todas as listas.;
+	}
+
+[{name} needs {prerequisites}, which you don't have. They download first, and go above {name} in every list.]
+	{
+	pt-BR={name} requer {prerequisites}, que você não tem. Eles são baixados primeiro e ficam acima de {name} em todas as listas.;
+	}
+
+[{name} needs {prerequisite}, which you don't have. Both download now, and {short} goes above {name} in every list.]
+	{
+	pt-BR={name} requer {prerequisite}, que você não tem. Os dois são baixados agora, e {short} fica acima de {name} em todas as listas.;
+	}
+
+[Both stay installed. Turn {dependant} on again and {name} comes back with it.]
+	{
+	pt-BR=Ambos continuam instalados. Ative {dependant} de novo e {name} volta junto com ele.;
+	}
+
+[They all stay installed. Turn one on again and {name} comes back with it.]
+	{
+	pt-BR=Todos continuam instalados. Ative um deles de novo e {name} volta junto.;
+	}
+
+[{names} turn off too: they need {name}.]
+	{
+	pt-BR={names} também são desligados: requerem {name}.;
+	}
+
+[{names} turns off too: it needs {name}.]
+	{
+	pt-BR={names} também é desligado: requer {name}.;
+	}
+
+[{name} came with {dependant}]
+	{
+	pt-BR={name} veio com {dependant};
+	}
+
+[{names} need it: they stay installed, and cannot be switched on until this is back.]
+	{
+	pt-BR={names} o requerem: continuam instalados e não podem ser ligados até que este volte.;
+	}
+
+[{name} needs it: it stays installed, and cannot be switched on until this is back.]
+	{
+	pt-BR={name} o requer: continua instalado e não pode ser ligado até que este volte.;
+	}
+
+[These mutators need each other: {ids}]
+	{
+	pt-BR=Estes mutadores precisam uns dos outros: {ids};
+	}
+
+// Mutator prompts.
+
+[Forget the last set?]
+	{
+	pt-BR=Esquecer o último conjunto?;
+	}
+
+[Left out of your last set: {names}]
+	{
+	pt-BR=Ficaram de fora do seu último conjunto: {names};
+	}
+
+[Start without them?]
+	{
+	pt-BR=Iniciar sem eles?;
+	}
+
+[Start without {name}?]
+	{
+	pt-BR=Iniciar sem {name}?;
+	}
+
+[The game did not start]
+	{
+	pt-BR=A partida não começou;
+	}
+
+[The game's log names them, so their authors can be told.]
+	{
+	pt-BR=O log do jogo cita os nomes deles, para que os autores possam ser avisados.;
+	}
+
+[{name} stopped before the game could start. Nothing it changed is kept, and the other mutators are unaffected.]
+	{
+	pt-BR={name} parou antes de a partida poder começar. Nada do que ele alterou é mantido, e os outros mutadores não são afetados.;
+	}
+
+[{names} stopped before the game could start. Nothing they changed is kept, and the other mutators are unaffected.]
+	{
+	pt-BR={names} pararam antes de a partida poder começar. Nada do que eles alteraram é mantido, e os outros mutadores não são afetados.;
+	}
+
+[Another copy of Open Annihilation is changing your Mutators folder. Try again once it has finished.]
+	{
+	pt-BR=Outra cópia do Open Annihilation está alterando sua pasta Mutators. Tente novamente quando ela terminar.;
+	}
+
+[Your Mutators folder changed while this mutator was being installed; nothing was changed. Open the file again.]
+	{
+	pt-BR=Sua pasta Mutators mudou enquanto este mutador era instalado. Nada foi alterado. Abra o arquivo de novo.;
+	}
+
+// Installing a mutator.
+
+[INSTALL MUTATOR]
+	{
+	pt-BR=INSTALAR MUTADOR;
+	}
+
+[INSTALLING MUTATOR]
+	{
+	pt-BR=INSTALANDO MUTADOR;
+	}
+
+[Install the mutator {name} {version}?]
+	{
+	pt-BR=Instalar o mutador {name} {version}?;
+	}
+
+[REINSTALL MUTATOR]
+	{
+	pt-BR=REINSTALAR MUTADOR;
+	}
+
+[REPLACE MUTATOR]
+	{
+	pt-BR=SUBSTITUIR MUTADOR;
+	}
+
+[UPDATE MUTATOR]
+	{
+	pt-BR=ATUALIZAR MUTADOR;
+	}
+
+[MUTATOR INSTALLED]
+	{
+	pt-BR=MUTADOR INSTALADO;
+	}
+
+[MUTATOR NOT INSTALLED]
+	{
+	pt-BR=MUTADOR NÃO INSTALADO;
+	}
+
+[MUTATOR UPDATED]
+	{
+	pt-BR=MUTADOR ATUALIZADO;
+	}
+
+[The folder {name} does not hold this mutator. It is left as it is.]
+	{
+	pt-BR=A pasta {name} não contém este mutador. Ela é deixada como está.;
+	}
+
+[Your Mutators folder has no free folder name for it.]
+	{
+	pt-BR=Sua pasta Mutators não tem um nome de pasta livre para ele.;
+	}
+
+[It holds no oamut.yaml at its top, or in a single folder at its top.]
+	{
+	pt-BR=Não contém oamut.yaml na raiz, nem numa única pasta na raiz.;
+	}
+
+[Its oamut.yaml is larger than 256 KiB.]
+	{
+	pt-BR=Seu oamut.yaml tem mais de 256 KiB.;
+	}
+
+[Its oamut.yaml has errors:]
+	{
+	pt-BR=Seu oamut.yaml tem erros:;
+	}
+
+[It holds more than {limit} folders, more than a mutator may take.]
+	{
+	pt-BR=Contém mais de {limit} pastas, mais do que um mutador pode ter.;
+	}
+
+[It unpacks to {size}, more than the {limit} a mutator may take.]
+	{
+	pt-BR=Descompactado, ocupa {size}, mais que os {limit} permitidos a um mutador.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a mutator's files take.]
+	{
+	pt-BR=Descompactado, passa de {packed} para {size}, muito mais do que os arquivos de um mutador ocupam.;
+	}
+
+[It needs {size} free, and the disk holding your Mutators folder has {free}.]
+	{
+	pt-BR=Requer {size} livres, e o disco da sua pasta Mutators tem {free}.;
+	}
+
+[The package holds {name}, outside the folders a mutator may hold.]
+	{
+	pt-BR=O pacote contém {name}, fora das pastas que um mutador pode ter.;
+	}
+
+[Its icon {name} is not a square PNG of at most 256 pixels and 256 KiB.]
+	{
+	pt-BR=O ícone {name} não é um PNG quadrado de no máximo 256 pixels e 256 KiB.;
+	}
+
+[Its script {name} is larger than 1 MiB.]
+	{
+	pt-BR=Seu script {name} tem mais de 1 MiB.;
+	}
+
+[Its script {name} is missing.]
+	{
+	pt-BR=Seu script {name} está ausente.;
+	}
+
+[{name} is precompiled Lua. A mutator holds Lua source only.]
+	{
+	pt-BR={name} é Lua pré-compilado. Um mutador contém só código-fonte Lua.;
+	}
+
+// The battle room's mutators.
+
+[GET MUTATORS]
+	{
+	pt-BR=OBTER MUTADORES;
+	}
+
+[VIEW…]
+	{
+	pt-BR=VER…;
+	}
+
+[*** This game is Open Annihilation only, and unranked.]
+	{
+	pt-BR=*** Esta partida é exclusiva do Open Annihilation e sem ranking.;
+	}
+
+[*** {host} turned mutators off.]
+	{
+	pt-BR=*** {host} desligou os mutadores.;
+	}
+
+[*** {host} turned on mutators: {list}]
+	{
+	pt-BR=*** {host} ligou os mutadores: {list};
+	}
+
+[*** {list}]
+	{
+	pt-BR=*** {list};
+	}
+
+[*** {player} chose a side this game does not have.]
+	{
+	pt-BR=*** {player} escolheu um lado que esta partida não tem.;
+	}
+
+[*** {player} does not have {name}.]
+	{
+	pt-BR=*** {player} não tem {name}.;
+	}
+
+[*** {player} plays Total Annihilation 3.1c and cannot join a game with mutators.]
+	{
+	pt-BR=*** {player} joga Total Annihilation 3.1c e não pode entrar numa partida com mutadores.;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play with mutators.]
+	{
+	pt-BR=*** {player} joga Total Annihilation 3.1c, que não pode jogar com mutadores.;
+	}
+
+[*** You do not have {name}.]
+	{
+	pt-BR=*** Você não tem {name}.;
+	}
+
+[*** You do not have {name}. GET MUTATORS downloads it from {registry}.]
+	{
+	pt-BR=*** Você não tem {name}. OBTER MUTADORES o baixa de {registry}.;
+	}
+
+[*** You do not have {names}.]
+	{
+	pt-BR=*** Você não tem {names}.;
+	}
+
+[*** You do not have {names}. GET MUTATORS downloads them from {registry}.]
+	{
+	pt-BR=*** Você não tem {names}. OBTER MUTADORES os baixa de {registry}.;
+	}
+
+[Different from the host: another release of {name}.]
+	{
+	pt-BR=Diferente do anfitrião: outra versão de {name}.;
+	}
+
+[Downloads are off.]
+	{
+	pt-BR=Os downloads estão desligados.;
+	}
+
+[Ready once {name} is here]
+	{
+	pt-BR=Pronto assim que {name} estiver aqui;
+	}
+
+[The game cannot start until {player} gets it, or the host turns it off.]
+	{
+	pt-BR=A partida não pode começar até que {player} o obtenha, ou o anfitrião o desative.;
+	}
+
+[Waiting for {player}: {name}]
+	{
+	pt-BR=Aguardando {player}: {name};
+	}
+
+[{item} ✓]
+	{
+	pt-BR={item} ✓;
+	}
+
+[{item}: another release here]
+	{
+	pt-BR={item}: outra versão aqui;
+	}
+
+[{item}: not installed]
+	{
+	pt-BR={item}: não instalado;
+	}
+
+[{name}: {problem}]
+	{
+	pt-BR={name}: {problem};
+	}
+
+[Getting {name}: {percent}%]
+	{
+	pt-BR=Obtendo {name}: {percent}%;
+	}
+
+[cannot check]
+	{
+	pt-BR=não é possível verificar;
+	}
+
+[check expired]
+	{
+	pt-BR=verificação expirada;
+	}
+
+[install failed]
+	{
+	pt-BR=falha na instalação;
+	}
+
+[no downloads]
+	{
+	pt-BR=sem downloads;
+	}
+
+[no space]
+	{
+	pt-BR=sem espaço;
+	}
+
+[not offered]
+	{
+	pt-BR=não oferecido;
+	}
+
+[not written]
+	{
+	pt-BR=não gravado;
+	}
+
+[refused]
+	{
+	pt-BR=recusado;
+	}
+
+[unreachable]
+	{
+	pt-BR=inacessível;
+	}
+
+[wrong file]
+	{
+	pt-BR=arquivo errado;
+	}
+
+[wrong size]
+	{
+	pt-BR=tamanho errado;
+	}
+
+[{name}: {reason}]
+	{
+	pt-BR={name}: {reason};
+	}
+
+[{name}: not installed]
+	{
+	pt-BR={name}: não instalado;
+	}
+
+[{name} {range} ✓]
+	{
+	pt-BR={name} {range} ✓;
+	}
+
+[{name} {range}: not installed]
+	{
+	pt-BR={name} {range}: não instalado;
+	}
+
+[{name}: release {here} here, release {there} on {player}'s machine.]
+	{
+	pt-BR={name}: versão {here} aqui, versão {there} na máquina de {player}.;
+	}
+
+[{name}: {player} does not have it.]
+	{
+	pt-BR={name}: {player} não o tem.;
+	}
+
+[{name}: not offered.]
+	{
+	pt-BR={name}: não oferecido.;
+	}
+
+[{registry}: downloads off.]
+	{
+	pt-BR={registry}: downloads desligados.;
+	}
+
+[{player}'s GET MUTATORS button fetches release {release}.]
+	{
+	pt-BR=O botão OBTER MUTADORES de {player} baixa a versão {release}.;
+	}
+
+[{player}'s mutators gave a different result from yours, so the game would play differently on each machine.]
+	{
+	pt-BR=Os mutadores de {player} deram um resultado diferente dos seus, então a partida seria jogada de forma diferente em cada máquina.;
+	}
+
+// Saves, replays and the lines that name the mutators a run plays.
+
+[Mutators:]
+	{
+	pt-BR=Mutadores:;
+	}
+
+[The mutators this was made with cannot be read.]
+	{
+	pt-BR=Não é possível ler os mutadores com que isto foi criado.;
+	}
+
+[This needs a mutator you do not have: {detail}]
+	{
+	pt-BR=Isto requer um mutador que você não tem: {detail};
+	}
+
+[This was made with mutators, and this run plays none.]
+	{
+	pt-BR=Isto foi criado com mutadores, e esta execução não usa nenhum.;
+	}
+
+// Open Annihilation 0.8.5: the Mutators button and its lines.
+
+[Mutators ({count})]
+	{
+	pt-BR=Mutadores ({count});
+	}
+
+[{name} is installed. Turn it on with the Mutators button when you set up a game.]
+	{
+	pt-BR={name} está instalado. Ative-o com o botão Mutadores ao configurar uma partida.;
+	}
+
+[The last game ended in a crash with {names} on. Forget the set and the Mutators button opens empty next time; nothing is uninstalled.]
+	{
+	pt-BR=A última partida terminou em falha com {names} ligados. Esqueça o conjunto e o botão Mutadores abrirá vazio da próxima vez. Nada é desinstalado.;
+	}
+
+[Mutator packages (.oamut)]
+	{
+	pt-BR=Pacotes de mutadores (.oamut);
+	}
+
+[{unit}: {field} {value} held at {max}]
+	{
+	pt-BR={unit}: {field} {value} limitado a {max};
+	}
+
+// Graphics' Fog of War.
+
+[Fog of War]
+	{
+	pt-BR=Névoa de guerra;
+	}
+
+[Classic]
+	{
+	pt-BR=Clássico;
+	}
+
+[Smooth]
+	{
+	pt-BR=Suave;
+	}
+
+[Hard edges that step from cell to cell, as the game drew the fog.]
+	{
+	pt-BR=Bordas nítidas que passam de célula em célula, como o jogo desenhava a névoa.;
+	}
+
+[Soft edges where the graphics card draws the battlefield (Full).]
+	{
+	pt-BR=Bordas suaves onde a placa de vídeo desenha o campo de batalha (Completo).;
+	}
+
+// Starting while iCloud downloads the game's files.
+
+[Downloading the game's files from iCloud…]
+	{
+	pt-BR=Baixando os arquivos do jogo do iCloud…;
+	}
+
+// Open Annihilation 0.8.6: the Library's Brains tab.
+
+[Brains]
+	{
+	pt-BR=Cérebros;
+	}
+
+[Search brains, authors, tags]
+	{
+	pt-BR=Buscar cérebros, autores, tags;
+	}
+
+[Levels]
+	{
+	pt-BR=Níveis;
+	}
+
+[Rush]
+	{
+	pt-BR=Rush;
+	}
+
+[Turtle]
+	{
+	pt-BR=Defensivo;
+	}
+
+[Air]
+	{
+	pt-BR=Aéreo;
+	}
+
+[Naval]
+	{
+	pt-BR=Naval;
+	}
+
+[Learned]
+	{
+	pt-BR=Treinado;
+	}
+
+[Teaching]
+	{
+	pt-BR=Didático;
+	}
+
+[Experimental]
+	{
+	pt-BR=Experimental;
+	}
+
+[Full awareness]
+	{
+	pt-BR=Visão total;
+	}
+
+[Sees every unit on the map, as Total Annihilation's own computer player does]
+	{
+	pt-BR=Vê todas as unidades do mapa, como o computador do próprio Total Annihilation;
+	}
+
+[Uses a learned network ({size})]
+	{
+	pt-BR=Usa uma rede treinada ({size});
+	}
+
+[it fits this game]
+	{
+	pt-BR=é compatível com este jogo;
+	}
+
+[Installed · Default]
+	{
+	pt-BR=Instalado · Padrão;
+	}
+
+[Built in · Default]
+	{
+	pt-BR=Integrado · Padrão;
+	}
+
+[Default]
+	{
+	pt-BR=Padrão;
+	}
+
+[Built-in computer player]
+	{
+	pt-BR=Computador integrado;
+	}
+
+[Open Annihilation's own computer player. It plays as Total Annihilation's does.]
+	{
+	pt-BR=O computador do próprio Open Annihilation. Ele joga como o de Total Annihilation.;
+	}
+
+[Made for {names}]
+	{
+	pt-BR=Feito para {names};
+	}
+
+[It is your default computer player: new computer seats go back to the built-in player.]
+	{
+	pt-BR=É o seu computador padrão: os novos lugares de computador voltam ao jogador integrado.;
+	}
+
+[· {reason}]
+	{
+	pt-BR=· {reason};
+	}
+
+// A computer seat's brain and its picker.
+
+[Computer player]
+	{
+	pt-BR=Jogador do computador;
+	}
+
+[{seat} · {mod}]
+	{
+	pt-BR={seat} · {mod};
+	}
+
+[Built-in]
+	{
+	pt-BR=Integrado;
+	}
+
+[Built into Open Annihilation]
+	{
+	pt-BR=Integrado ao Open Annihilation;
+	}
+
+[{brain} · {level}]
+	{
+	pt-BR={brain} · {level};
+	}
+
+[{label} · every computer seat]
+	{
+	pt-BR={label} · todos os lugares de computador;
+	}
+
+[Set by the Difficulty button: {level}]
+	{
+	pt-BR=Definido pelo botão Dificuldade: {level};
+	}
+
+[Level]
+	{
+	pt-BR=Nível;
+	}
+
+[Version]
+	{
+	pt-BR=Versão;
+	}
+
+[Use for every computer seat]
+	{
+	pt-BR=Usar em todos os lugares de computador;
+	}
+
+[Sees every unit on the map]
+	{
+	pt-BR=Vê todas as unidades do mapa;
+	}
+
+[{name} cannot play this seat now, so it starts on the built-in player.]
+	{
+	pt-BR={name} não pode jogar neste lugar agora, então ele começa com o jogador integrado.;
+	}
+
+[No brains here yet. The Library on the main menu gets them.]
+	{
+	pt-BR=Ainda não há cérebros aqui. Obtenha-os na Biblioteca, no menu principal.;
+	}
+
+[Seat {n}]
+	{
+	pt-BR=Lugar {n};
+	}
+
+// The battle room's brains.
+
+[{brain} {version} · {level}]
+	{
+	pt-BR={brain} {version} · {level};
+	}
+
+// Installing a brain, and the .oabrain file switch.
+
+[brains]
+	{
+	pt-BR=cérebros;
+	}
+
+[Brain packages (.oabrain)]
+	{
+	pt-BR=Pacotes de cérebros (.oabrain);
+	}
+
+[Another copy of Open Annihilation is changing your Brains folder. Try again once it has finished.]
+	{
+	pt-BR=Outra cópia do Open Annihilation está alterando sua pasta Brains. Tente novamente quando ela terminar.;
+	}
+
+[Your Brains folder changed while this brain was being installed; nothing was changed. Open the file again.]
+	{
+	pt-BR=Sua pasta Brains mudou enquanto este cérebro era instalado. Nada foi alterado. Abra o arquivo de novo.;
+	}
+
+[INSTALL BRAIN]
+	{
+	pt-BR=INSTALAR CÉREBRO;
+	}
+
+[INSTALLING BRAIN]
+	{
+	pt-BR=INSTALANDO CÉREBRO;
+	}
+
+[Install the brain {name} {version}?]
+	{
+	pt-BR=Instalar o cérebro {name} {version}?;
+	}
+
+[REINSTALL BRAIN]
+	{
+	pt-BR=REINSTALAR CÉREBRO;
+	}
+
+[REPLACE BRAIN]
+	{
+	pt-BR=SUBSTITUIR CÉREBRO;
+	}
+
+[UPDATE BRAIN]
+	{
+	pt-BR=ATUALIZAR CÉREBRO;
+	}
+
+[BRAIN INSTALLED]
+	{
+	pt-BR=CÉREBRO INSTALADO;
+	}
+
+[BRAIN NOT INSTALLED]
+	{
+	pt-BR=CÉREBRO NÃO INSTALADO;
+	}
+
+[BRAIN UPDATED]
+	{
+	pt-BR=CÉREBRO ATUALIZADO;
+	}
+
+[The folder {name} does not hold this brain. It is left as it is.]
+	{
+	pt-BR=A pasta {name} não contém este cérebro. Ela é deixada como está.;
+	}
+
+[Your Brains folder has no free folder name for it.]
+	{
+	pt-BR=Sua pasta Brains não tem um nome de pasta livre para ele.;
+	}
+
+[It holds no oabrain.yaml at its top, or in a single folder at its top.]
+	{
+	pt-BR=Não contém oabrain.yaml na raiz, nem numa única pasta na raiz.;
+	}
+
+[Its oabrain.yaml is larger than 256 KiB.]
+	{
+	pt-BR=Seu oabrain.yaml tem mais de 256 KiB.;
+	}
+
+[Its oabrain.yaml has errors:]
+	{
+	pt-BR=Seu oabrain.yaml tem erros:;
+	}
+
+[It holds more than {limit} folders, more than a brain may take.]
+	{
+	pt-BR=Contém mais de {limit} pastas, mais do que um cérebro pode ter.;
+	}
+
+[It unpacks to {size}, more than the {limit} a brain may take.]
+	{
+	pt-BR=Descompactado, ocupa {size}, mais que os {limit} permitidos a um cérebro.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a brain's files take.]
+	{
+	pt-BR=Descompactado, passa de {packed} para {size}, muito mais do que os arquivos de um cérebro ocupam.;
+	}
+
+[It needs {size} free, and the disk holding your Brains folder has {free}.]
+	{
+	pt-BR=Requer {size} livres, e o disco da sua pasta Brains tem {free}.;
+	}
+
+[The package holds {name}, outside the files a brain may hold.]
+	{
+	pt-BR=O pacote contém {name}, fora dos arquivos que um cérebro pode ter.;
+	}
+
+[Its network {name} does not match the SHA-256 its oabrain.yaml gives.]
+	{
+	pt-BR=Sua rede {name} não corresponde ao SHA-256 informado no oabrain.yaml.;
+	}
+
+[Its network {name} is missing.]
+	{
+	pt-BR=Falta a rede {name}.;
+	}
+
+[Its networks take {size}, more than the {limit} a brain may hold.]
+	{
+	pt-BR=Suas redes ocupam {size}, mais do que os {limit} que um cérebro pode ter.;
+	}
+
+[Its table {name} is larger than 4 MiB.]
+	{
+	pt-BR=Sua tabela {name} tem mais de 4 MiB.;
+	}
+
+[{name} is precompiled Lua. A brain holds Lua source only.]
+	{
+	pt-BR={name} é Lua pré-compilado. Um cérebro contém apenas código-fonte Lua.;
+	}
+
+[{name} is installed. Choose it for a computer player when you set up a game.]
+	{
+	pt-BR={name} está instalado. Escolha-o para um jogador do computador ao configurar uma partida.;
+	}
+
+// When a brain stops, and saves and recordings that name a brain.
+
+[{brain} could not start ({reason}); the engine plays this seat]
+	{
+	pt-BR={brain} não conseguiu iniciar ({reason}), e o motor joga neste lugar;
+	}
+
+[{brain} does not fit this game ({reason}); the engine plays this seat]
+	{
+	pt-BR={brain} é incompatível com esta partida ({reason}), e o motor joga neste lugar;
+	}
+
+[{brain} stopped ({reason}); the engine plays this seat on]
+	{
+	pt-BR={brain} parou ({reason}), e o motor continua jogando neste lugar;
+	}
+
+[The computer players this game was saved with cannot be read.]
+	{
+	pt-BR=Não é possível ler os jogadores do computador com os quais este jogo foi salvo.;
+	}
+
+[This game was saved with {name} {version} playing seat {n}, which is not installed here.]
+	{
+	pt-BR=Este jogo foi salvo com {name} {version} jogando no lugar {n}, que não está instalado aqui.;
+	}
+
+[Load with the built-in player?]
+	{
+	pt-BR=Carregar com o jogador integrado?;
+	}
+
+[This saved game needs {name} {version}, which is not installed.]
+	{
+	pt-BR=Este jogo salvo precisa de {name} {version}, que não está instalado.;
+	}
+
+// Open Annihilation 0.8.6: Graphics' Full 3D camera and effects, and their lock lines.
+
+[Requires Full hardware acceleration.]
+	{
+	pt-BR=Requer aceleração por hardware em Completo.;
+	}
+
+[Allow angles outside the ideal range for TA art.]
+	{
+	pt-BR=Permite ângulos fora da faixa ideal para a arte do TA.;
+	}
+
+[Coloured weapon lighting]
+	{
+	pt-BR=Iluminação colorida das armas;
+	}
+
+[Nanolathe glow]
+	{
+	pt-BR=Brilho do nanotorno;
+	}
+
+[Wreck glow]
+	{
+	pt-BR=Brilho dos destroços;
+	}
+
+[Heat distortion]
+	{
+	pt-BR=Distorção de calor;
+	}
+
+[Water ripples]
+	{
+	pt-BR=Ondulações na água;
+	}
+
+[Coastal waves]
+	{
+	pt-BR=Ondas costeiras;
+	}
+
+[Underwater shimmer]
+	{
+	pt-BR=Cintilação subaquática;
+	}
+
+[Naval reflections]
+	{
+	pt-BR=Reflexos navais;
+	}
+
+[Needs Full acceleration]
+	{
+	pt-BR=Requer aceleração em Completo;
+	}
+
+// Key bindings: Orders.
+
+[Activate on or off]
+	{
+	pt-BR=Ativa ou desativa;
+	}
+
+[Arms Attack]
+	{
+	pt-BR=Prepara a ordem Atacar;
+	}
+
+[Arms BLAST (D-gun)]
+	{
+	pt-BR=Prepara a ordem D-GUN;
+	}
+
+[Arms Capture]
+	{
+	pt-BR=Prepara a ordem Capturar;
+	}
+
+[Arms Defend (guard)]
+	{
+	pt-BR=Prepara a ordem Defender (proteger);
+	}
+
+[Arms Load]
+	{
+	pt-BR=Prepara a ordem Carregar;
+	}
+
+[Arms Move]
+	{
+	pt-BR=Prepara a ordem Mover;
+	}
+
+[Arms Patrol]
+	{
+	pt-BR=Prepara a ordem Patrulhar;
+	}
+
+[Arms Reclaim]
+	{
+	pt-BR=Prepara a ordem Reciclar;
+	}
+
+[Arms Repair]
+	{
+	pt-BR=Prepara a ordem Reparar;
+	}
+
+[Arms Unload]
+	{
+	pt-BR=Prepara a ordem Descarregar;
+	}
+
+[Build tab]
+	{
+	pt-BR=Aba de construção;
+	}
+
+[Cancel order]
+	{
+	pt-BR=Cancelar ordem;
+	}
+
+[Cloak on or off]
+	{
+	pt-BR=Liga ou desliga a camuflagem;
+	}
+
+[Fire state]
+	{
+	pt-BR=Estado de fogo;
+	}
+
+[Force attack]
+	{
+	pt-BR=Forçar ataque;
+	}
+
+[Held: force-attack a unit or the ground]
+	{
+	pt-BR=Segurada: força o ataque a uma unidade ou ao chão;
+	}
+
+[Held: orders join the queue, an armed order stays armed, queued orders show]
+	{
+	pt-BR=Segurada: as ordens entram na fila, uma ordem preparada continua preparada e as ordens na fila aparecem;
+	}
+
+[Move state]
+	{
+	pt-BR=Estado de movimento;
+	}
+
+[On or off]
+	{
+	pt-BR=Ligar ou desligar;
+	}
+
+[Orders tab]
+	{
+	pt-BR=Aba de ordens;
+	}
+
+[Starts or stops the countdown]
+	{
+	pt-BR=Inicia ou interrompe a contagem regressiva;
+	}
+
+[Steps the fire standing order]
+	{
+	pt-BR=Alterna a ordem de fogo;
+	}
+
+[Steps the move standing order]
+	{
+	pt-BR=Alterna a ordem de movimento;
+	}
+
+[Takes back an armed order or a placement only]
+	{
+	pt-BR=Cancela apenas uma ordem preparada ou um posicionamento;
+	}
+
+[The BUILD tab]
+	{
+	pt-BR=A aba CONSTRUIR;
+	}
+
+[The ORDERS tab]
+	{
+	pt-BR=A aba ORDENS;
+	}
+
+// Key bindings: Pointer.
+
+[A build button: queue one, or start placing]
+	{
+	pt-BR=Um botão de construção: põe um na fila ou começa a posicionar;
+	}
+
+[A build button: take one off]
+	{
+	pt-BR=Um botão de construção: tira um da fila;
+	}
+
+[Add to selection]
+	{
+	pt-BR=Adicionar à seleção;
+	}
+
+[Build add]
+	{
+	pt-BR=Construir: adicionar;
+	}
+
+[Build remove]
+	{
+	pt-BR=Construir: remover;
+	}
+
+[Clicks the left button. Twice quickly, a double click]
+	{
+	pt-BR=Clica no botão esquerdo. Duas vezes seguidas, um clique duplo;
+	}
+
+[Clicks the right button]
+	{
+	pt-BR=Clica no botão direito;
+	}
+
+[Command]
+	{
+	pt-BR=Comando;
+	}
+
+[Drags the view]
+	{
+	pt-BR=Arrasta a visão;
+	}
+
+[Held with the queue modifier: a build button adds or takes 100]
+	{
+	pt-BR=Segurada com o modificador de fila: um botão de construção adiciona ou retira 100;
+	}
+
+[Held: a build button adds or takes five]
+	{
+	pt-BR=Segurada: um botão de construção adiciona ou retira cinco;
+	}
+
+[Held: a click toggles a unit and a box adds]
+	{
+	pt-BR=Segurada: um clique alterna uma unidade e uma caixa de seleção adiciona;
+	}
+
+[Holds the left button down until pressed again]
+	{
+	pt-BR=Mantém o botão esquerdo pressionado até a tecla ser pressionada de novo;
+	}
+
+[Jumps the view to a minimap point]
+	{
+	pt-BR=Leva a visão a um ponto do minimapa;
+	}
+
+[Lets a held mouse button go]
+	{
+	pt-BR=Solta um botão do mouse mantido pressionado;
+	}
+
+[Minimap jump]
+	{
+	pt-BR=Salto no minimapa;
+	}
+
+[Minimap scroll]
+	{
+	pt-BR=Rolagem no minimapa;
+	}
+
+[Mouse look]
+	{
+	pt-BR=Olhar com o mouse;
+	}
+
+[Moves the pointer down and left, faster the longer the key is held]
+	{
+	pt-BR=Move o ponteiro para baixo e para a esquerda, mais rápido quanto mais tempo a tecla fica pressionada;
+	}
+
+[Moves the pointer down and right, faster the longer the key is held]
+	{
+	pt-BR=Move o ponteiro para baixo e para a direita, mais rápido quanto mais tempo a tecla fica pressionada;
+	}
+
+[Moves the pointer down, faster the longer the key is held]
+	{
+	pt-BR=Move o ponteiro para baixo, mais rápido quanto mais tempo a tecla fica pressionada;
+	}
+
+[Moves the pointer left, faster the longer the key is held]
+	{
+	pt-BR=Move o ponteiro para a esquerda, mais rápido quanto mais tempo a tecla fica pressionada;
+	}
+
+[Moves the pointer right, faster the longer the key is held]
+	{
+	pt-BR=Move o ponteiro para a direita, mais rápido quanto mais tempo a tecla fica pressionada;
+	}
+
+[Moves the pointer up and left, faster the longer the key is held]
+	{
+	pt-BR=Move o ponteiro para cima e para a esquerda, mais rápido quanto mais tempo a tecla fica pressionada;
+	}
+
+[Moves the pointer up and right, faster the longer the key is held]
+	{
+	pt-BR=Move o ponteiro para cima e para a direita, mais rápido quanto mais tempo a tecla fica pressionada;
+	}
+
+[Moves the pointer up, faster the longer the key is held]
+	{
+	pt-BR=Move o ponteiro para cima, mais rápido quanto mais tempo a tecla fica pressionada;
+	}
+
+[Orbit camera]
+	{
+	pt-BR=Orbitar câmera;
+	}
+
+[Orbits the Full 3D view's camera]
+	{
+	pt-BR=Orbita a câmera do 3D completo;
+	}
+
+[Pan]
+	{
+	pt-BR=Deslocar;
+	}
+
+[Pan camera]
+	{
+	pt-BR=Deslocar câmera;
+	}
+
+[Pans the Full 3D view's camera]
+	{
+	pt-BR=Desloca a câmera do 3D completo;
+	}
+
+[Pans towards the pointer]
+	{
+	pt-BR=Desloca a visão em direção ao ponteiro;
+	}
+
+[Pointer click left]
+	{
+	pt-BR=Clique esquerdo do ponteiro;
+	}
+
+[Pointer click right]
+	{
+	pt-BR=Clique direito do ponteiro;
+	}
+
+[Pointer down]
+	{
+	pt-BR=Ponteiro para baixo;
+	}
+
+[Pointer down left]
+	{
+	pt-BR=Ponteiro para baixo e à esquerda;
+	}
+
+[Pointer down right]
+	{
+	pt-BR=Ponteiro para baixo e à direita;
+	}
+
+[Pointer hold left]
+	{
+	pt-BR=Segurar botão esquerdo do ponteiro;
+	}
+
+[Pointer left]
+	{
+	pt-BR=Ponteiro para a esquerda;
+	}
+
+[Pointer let go]
+	{
+	pt-BR=Soltar botão do ponteiro;
+	}
+
+[Pointer right]
+	{
+	pt-BR=Ponteiro para a direita;
+	}
+
+[Pointer up]
+	{
+	pt-BR=Ponteiro para cima;
+	}
+
+[Pointer up left]
+	{
+	pt-BR=Ponteiro para cima e à esquerda;
+	}
+
+[Pointer up right]
+	{
+	pt-BR=Ponteiro para cima e à direita;
+	}
+
+[Queue five]
+	{
+	pt-BR=Fila de cinco;
+	}
+
+[Queue hundred]
+	{
+	pt-BR=Fila de cem;
+	}
+
+[Scrolls the view while held on the minimap]
+	{
+	pt-BR=Rola a visão enquanto o botão fica pressionado no minimapa;
+	}
+
+[Select type]
+	{
+	pt-BR=Selecionar tipo;
+	}
+
+[Select type on screen]
+	{
+	pt-BR=Selecionar tipo na tela;
+	}
+
+[Selects the unit under the pointer, or starts a box]
+	{
+	pt-BR=Seleciona a unidade sob o ponteiro ou inicia uma caixa de seleção;
+	}
+
+[The order the pointer shows]
+	{
+	pt-BR=A ordem que o ponteiro mostra;
+	}
+
+[Zoom in]
+	{
+	pt-BR=Aproximar;
+	}
+
+[Zoom out]
+	{
+	pt-BR=Afastar;
+	}
+
+[Zooms in about the pointer]
+	{
+	pt-BR=Aproxima em torno do ponteiro;
+	}
+
+[Zooms out about the pointer]
+	{
+	pt-BR=Afasta em torno do ponteiro;
+	}
+
+// Key bindings: Selection.
+
+[Add commander]
+	{
+	pt-BR=Adicionar Comandante;
+	}
+
+[Adds the commander]
+	{
+	pt-BR=Adiciona o Comandante;
+	}
+
+[Armed on screen]
+	{
+	pt-BR=Armadas na tela;
+	}
+
+[Box builders]
+	{
+	pt-BR=Caixa de construtores;
+	}
+
+[Box combat]
+	{
+	pt-BR=Caixa de combate;
+	}
+
+[Box factories]
+	{
+	pt-BR=Caixa de fábricas;
+	}
+
+[Clear selection]
+	{
+	pt-BR=Limpar seleção;
+	}
+
+[Clears the selection only]
+	{
+	pt-BR=Limpa apenas a seleção;
+	}
+
+[Cycles idle constructors, centring on each]
+	{
+	pt-BR=Percorre os construtores ociosos, centralizando a visão em cada um;
+	}
+
+[Cycles idle factories]
+	{
+	pt-BR=Percorre as fábricas ociosas;
+	}
+
+[Every unit]
+	{
+	pt-BR=Todas as unidades;
+	}
+
+[Every unit of a selected unit's type]
+	{
+	pt-BR=Todas as unidades do tipo de uma unidade selecionada;
+	}
+
+[Held as a box is released: keep constructors]
+	{
+	pt-BR=Segurada ao soltar a caixa: mantém só os construtores;
+	}
+
+[Held as a box is released: keep factories]
+	{
+	pt-BR=Segurada ao soltar a caixa: mantém só as fábricas;
+	}
+
+[Held as a box is released: keep mobile combat units]
+	{
+	pt-BR=Segurada ao soltar a caixa: mantém só as unidades de combate móveis;
+	}
+
+[Idle builders]
+	{
+	pt-BR=Construtores ociosos;
+	}
+
+[Idle factories]
+	{
+	pt-BR=Fábricas ociosas;
+	}
+
+[Mobile armed units on screen, not aircraft]
+	{
+	pt-BR=Unidades armadas móveis na tela, exceto aeronaves;
+	}
+
+[Next primary]
+	{
+	pt-BR=Próxima unidade principal;
+	}
+
+[Next selected unit becomes primary]
+	{
+	pt-BR=A próxima unidade selecionada passa a ser a principal;
+	}
+
+[Previous primary]
+	{
+	pt-BR=Unidade principal anterior;
+	}
+
+[Previous selected unit becomes primary]
+	{
+	pt-BR=A unidade selecionada anterior passa a ser a principal;
+	}
+
+[Select aircraft]
+	{
+	pt-BR=Selecionar aeronaves;
+	}
+
+[Select all]
+	{
+	pt-BR=Selecionar tudo;
+	}
+
+[Select builders]
+	{
+	pt-BR=Selecionar construtores;
+	}
+
+[Select commander]
+	{
+	pt-BR=Selecionar Comandante;
+	}
+
+[Select factories]
+	{
+	pt-BR=Selecionar fábricas;
+	}
+
+[Select on screen]
+	{
+	pt-BR=Selecionar na tela;
+	}
+
+[Select same type]
+	{
+	pt-BR=Selecionar o mesmo tipo;
+	}
+
+[Select {word}]
+	{
+	pt-BR=Selecionar {word};
+	}
+
+[Selects and follows the commander]
+	{
+	pt-BR=Seleciona e segue o Comandante;
+	}
+
+[Selects your units tagged {word}: those on screen, then the whole map on a second press.]
+	{
+	pt-BR=Seleciona suas unidades com a tag {word}: as que estão na tela e, ao pressionar de novo, as do mapa inteiro.;
+	}
+
+[Units on screen]
+	{
+	pt-BR=Unidades na tela;
+	}
+
+[Units tagged CTRL_B]
+	{
+	pt-BR=Unidades com a tag CTRL_B;
+	}
+
+[Units tagged CTRL_F]
+	{
+	pt-BR=Unidades com a tag CTRL_F;
+	}
+
+[Units tagged CTRL_V]
+	{
+	pt-BR=Unidades com a tag CTRL_V;
+	}
+
+// Key bindings: Groups.
+
+[Add group 1]
+	{
+	pt-BR=Adicionar grupo 1;
+	}
+
+[Add group 2]
+	{
+	pt-BR=Adicionar grupo 2;
+	}
+
+[Add group 3]
+	{
+	pt-BR=Adicionar grupo 3;
+	}
+
+[Add group 4]
+	{
+	pt-BR=Adicionar grupo 4;
+	}
+
+[Add group 5]
+	{
+	pt-BR=Adicionar grupo 5;
+	}
+
+[Add group 6]
+	{
+	pt-BR=Adicionar grupo 6;
+	}
+
+[Add group 7]
+	{
+	pt-BR=Adicionar grupo 7;
+	}
+
+[Add group 8]
+	{
+	pt-BR=Adicionar grupo 8;
+	}
+
+[Add group 9]
+	{
+	pt-BR=Adicionar grupo 9;
+	}
+
+[Adds group 1]
+	{
+	pt-BR=Adiciona o grupo 1;
+	}
+
+[Adds group 2]
+	{
+	pt-BR=Adiciona o grupo 2;
+	}
+
+[Adds group 3]
+	{
+	pt-BR=Adiciona o grupo 3;
+	}
+
+[Adds group 4]
+	{
+	pt-BR=Adiciona o grupo 4;
+	}
+
+[Adds group 5]
+	{
+	pt-BR=Adiciona o grupo 5;
+	}
+
+[Adds group 6]
+	{
+	pt-BR=Adiciona o grupo 6;
+	}
+
+[Adds group 7]
+	{
+	pt-BR=Adiciona o grupo 7;
+	}
+
+[Adds group 8]
+	{
+	pt-BR=Adiciona o grupo 8;
+	}
+
+[Adds group 9]
+	{
+	pt-BR=Adiciona o grupo 9;
+	}
+
+[Assign group 1]
+	{
+	pt-BR=Atribuir grupo 1;
+	}
+
+[Assign group 2]
+	{
+	pt-BR=Atribuir grupo 2;
+	}
+
+[Assign group 3]
+	{
+	pt-BR=Atribuir grupo 3;
+	}
+
+[Assign group 4]
+	{
+	pt-BR=Atribuir grupo 4;
+	}
+
+[Assign group 5]
+	{
+	pt-BR=Atribuir grupo 5;
+	}
+
+[Assign group 6]
+	{
+	pt-BR=Atribuir grupo 6;
+	}
+
+[Assign group 7]
+	{
+	pt-BR=Atribuir grupo 7;
+	}
+
+[Assign group 8]
+	{
+	pt-BR=Atribuir grupo 8;
+	}
+
+[Assign group 9]
+	{
+	pt-BR=Atribuir grupo 9;
+	}
+
+[Menu page 1]
+	{
+	pt-BR=Página 1 do menu;
+	}
+
+[Menu page 2]
+	{
+	pt-BR=Página 2 do menu;
+	}
+
+[Menu page 3]
+	{
+	pt-BR=Página 3 do menu;
+	}
+
+[Menu page 4]
+	{
+	pt-BR=Página 4 do menu;
+	}
+
+[Menu page 5]
+	{
+	pt-BR=Página 5 do menu;
+	}
+
+[Menu page 6]
+	{
+	pt-BR=Página 6 do menu;
+	}
+
+[Menu page 7]
+	{
+	pt-BR=Página 7 do menu;
+	}
+
+[Menu page 8]
+	{
+	pt-BR=Página 8 do menu;
+	}
+
+[Menu page 9]
+	{
+	pt-BR=Página 9 do menu;
+	}
+
+[Select group 1]
+	{
+	pt-BR=Selecionar grupo 1;
+	}
+
+[Select group 2]
+	{
+	pt-BR=Selecionar grupo 2;
+	}
+
+[Select group 3]
+	{
+	pt-BR=Selecionar grupo 3;
+	}
+
+[Select group 4]
+	{
+	pt-BR=Selecionar grupo 4;
+	}
+
+[Select group 5]
+	{
+	pt-BR=Selecionar grupo 5;
+	}
+
+[Select group 6]
+	{
+	pt-BR=Selecionar grupo 6;
+	}
+
+[Select group 7]
+	{
+	pt-BR=Selecionar grupo 7;
+	}
+
+[Select group 8]
+	{
+	pt-BR=Selecionar grupo 8;
+	}
+
+[Select group 9]
+	{
+	pt-BR=Selecionar grupo 9;
+	}
+
+[Selects group 1; again centres on it]
+	{
+	pt-BR=Seleciona o grupo 1. Ao repetir, centraliza a visão nele;
+	}
+
+[Selects group 2; again centres on it]
+	{
+	pt-BR=Seleciona o grupo 2. Ao repetir, centraliza a visão nele;
+	}
+
+[Selects group 3; again centres on it]
+	{
+	pt-BR=Seleciona o grupo 3. Ao repetir, centraliza a visão nele;
+	}
+
+[Selects group 4; again centres on it]
+	{
+	pt-BR=Seleciona o grupo 4. Ao repetir, centraliza a visão nele;
+	}
+
+[Selects group 5; again centres on it]
+	{
+	pt-BR=Seleciona o grupo 5. Ao repetir, centraliza a visão nele;
+	}
+
+[Selects group 6; again centres on it]
+	{
+	pt-BR=Seleciona o grupo 6. Ao repetir, centraliza a visão nele;
+	}
+
+[Selects group 7; again centres on it]
+	{
+	pt-BR=Seleciona o grupo 7. Ao repetir, centraliza a visão nele;
+	}
+
+[Selects group 8; again centres on it]
+	{
+	pt-BR=Seleciona o grupo 8. Ao repetir, centraliza a visão nele;
+	}
+
+[Selects group 9; again centres on it]
+	{
+	pt-BR=Seleciona o grupo 9. Ao repetir, centraliza a visão nele;
+	}
+
+[Shows page 0 of the menu (1 is orders)]
+	{
+	pt-BR=Mostra a página 0 do menu (1 são as ordens);
+	}
+
+[Shows page 1 of the menu (1 is orders)]
+	{
+	pt-BR=Mostra a página 1 do menu (1 são as ordens);
+	}
+
+[Shows page 2 of the menu (1 is orders)]
+	{
+	pt-BR=Mostra a página 2 do menu (1 são as ordens);
+	}
+
+[Shows page 3 of the menu (1 is orders)]
+	{
+	pt-BR=Mostra a página 3 do menu (1 são as ordens);
+	}
+
+[Shows page 4 of the menu (1 is orders)]
+	{
+	pt-BR=Mostra a página 4 do menu (1 são as ordens);
+	}
+
+[Shows page 5 of the menu (1 is orders)]
+	{
+	pt-BR=Mostra a página 5 do menu (1 são as ordens);
+	}
+
+[Shows page 6 of the menu (1 is orders)]
+	{
+	pt-BR=Mostra a página 6 do menu (1 são as ordens);
+	}
+
+[Shows page 7 of the menu (1 is orders)]
+	{
+	pt-BR=Mostra a página 7 do menu (1 são as ordens);
+	}
+
+[Shows page 8 of the menu (1 is orders)]
+	{
+	pt-BR=Mostra a página 8 do menu (1 são as ordens);
+	}
+
+[Stores the selection as group 1]
+	{
+	pt-BR=Guarda a seleção como grupo 1;
+	}
+
+[Stores the selection as group 2]
+	{
+	pt-BR=Guarda a seleção como grupo 2;
+	}
+
+[Stores the selection as group 3]
+	{
+	pt-BR=Guarda a seleção como grupo 3;
+	}
+
+[Stores the selection as group 4]
+	{
+	pt-BR=Guarda a seleção como grupo 4;
+	}
+
+[Stores the selection as group 5]
+	{
+	pt-BR=Guarda a seleção como grupo 5;
+	}
+
+[Stores the selection as group 6]
+	{
+	pt-BR=Guarda a seleção como grupo 6;
+	}
+
+[Stores the selection as group 7]
+	{
+	pt-BR=Guarda a seleção como grupo 7;
+	}
+
+[Stores the selection as group 8]
+	{
+	pt-BR=Guarda a seleção como grupo 8;
+	}
+
+[Stores the selection as group 9]
+	{
+	pt-BR=Guarda a seleção como grupo 9;
+	}
+
+// Key bindings: Camera.
+
+[Centres on the next unit not yet visited]
+	{
+	pt-BR=Centraliza a visão na próxima unidade ainda não visitada;
+	}
+
+[Centres on the selected unit, or selects and centres on the commander]
+	{
+	pt-BR=Centraliza a visão na unidade selecionada, ou seleciona o Comandante e centraliza nele;
+	}
+
+[Classic view]
+	{
+	pt-BR=Visão clássica;
+	}
+
+[Edge scroll]
+	{
+	pt-BR=Rolagem pela borda;
+	}
+
+[Follow previous]
+	{
+	pt-BR=Seguir anterior;
+	}
+
+[Follows the next selected unit]
+	{
+	pt-BR=Segue a próxima unidade selecionada;
+	}
+
+[Follows the previous selected unit]
+	{
+	pt-BR=Segue a unidade selecionada anterior;
+	}
+
+[Go to bookmark 1]
+	{
+	pt-BR=Ir para o marcador 1;
+	}
+
+[Go to bookmark 2]
+	{
+	pt-BR=Ir para o marcador 2;
+	}
+
+[Go to bookmark 3]
+	{
+	pt-BR=Ir para o marcador 3;
+	}
+
+[Go to bookmark 4]
+	{
+	pt-BR=Ir para o marcador 4;
+	}
+
+[Pan down]
+	{
+	pt-BR=Deslocar para baixo;
+	}
+
+[Pan left]
+	{
+	pt-BR=Deslocar para a esquerda;
+	}
+
+[Pan right]
+	{
+	pt-BR=Deslocar para a direita;
+	}
+
+[Pan up]
+	{
+	pt-BR=Deslocar para cima;
+	}
+
+[Puts the Full 3D view's camera back to the classic view]
+	{
+	pt-BR=Devolve a câmera do 3D completo à visão clássica;
+	}
+
+[Reset zoom]
+	{
+	pt-BR=Redefinir zoom;
+	}
+
+[Returns to bookmark 1]
+	{
+	pt-BR=Volta ao marcador 1;
+	}
+
+[Returns to bookmark 2]
+	{
+	pt-BR=Volta ao marcador 2;
+	}
+
+[Returns to bookmark 3]
+	{
+	pt-BR=Volta ao marcador 3;
+	}
+
+[Returns to bookmark 4]
+	{
+	pt-BR=Volta ao marcador 4;
+	}
+
+[Scrolls at the window's edge]
+	{
+	pt-BR=Rola a visão na borda da janela;
+	}
+
+[Scrolls the view down]
+	{
+	pt-BR=Rola a visão para baixo;
+	}
+
+[Scrolls the view left]
+	{
+	pt-BR=Rola a visão para a esquerda;
+	}
+
+[Scrolls the view right]
+	{
+	pt-BR=Rola a visão para a direita;
+	}
+
+[Scrolls the view up]
+	{
+	pt-BR=Rola a visão para cima;
+	}
+
+[Set bookmark 1]
+	{
+	pt-BR=Definir marcador 1;
+	}
+
+[Set bookmark 2]
+	{
+	pt-BR=Definir marcador 2;
+	}
+
+[Set bookmark 3]
+	{
+	pt-BR=Definir marcador 3;
+	}
+
+[Set bookmark 4]
+	{
+	pt-BR=Definir marcador 4;
+	}
+
+[Stores the view as bookmark 1]
+	{
+	pt-BR=Guarda a visão como marcador 1;
+	}
+
+[Stores the view as bookmark 2]
+	{
+	pt-BR=Guarda a visão como marcador 2;
+	}
+
+[Stores the view as bookmark 3]
+	{
+	pt-BR=Guarda a visão como marcador 3;
+	}
+
+[Stores the view as bookmark 4]
+	{
+	pt-BR=Guarda a visão como marcador 4;
+	}
+
+[The game's own scale]
+	{
+	pt-BR=A escala própria do jogo;
+	}
+
+[The next unit the message log reported]
+	{
+	pt-BR=A próxima unidade indicada no registro de mensagens;
+	}
+
+[Unlocked Camera on or off in the Full 3D view]
+	{
+	pt-BR=Liga ou desliga a câmera desbloqueada no 3D completo;
+	}
+
+[Zoom in key]
+	{
+	pt-BR=Tecla de aproximar;
+	}
+
+[Zoom out key]
+	{
+	pt-BR=Tecla de afastar;
+	}
+
+[Zooms in about the centre]
+	{
+	pt-BR=Aproxima em torno do centro;
+	}
+
+[Zooms out about the centre]
+	{
+	pt-BR=Afasta em torno do centro;
+	}
+
+// Key bindings: Building.
+
+[Build cell 1]
+	{
+	pt-BR=Célula de construção 1;
+	}
+
+[Build cell 10]
+	{
+	pt-BR=Célula de construção 10;
+	}
+
+[Build cell 11]
+	{
+	pt-BR=Célula de construção 11;
+	}
+
+[Build cell 12]
+	{
+	pt-BR=Célula de construção 12;
+	}
+
+[Build cell 2]
+	{
+	pt-BR=Célula de construção 2;
+	}
+
+[Build cell 3]
+	{
+	pt-BR=Célula de construção 3;
+	}
+
+[Build cell 4]
+	{
+	pt-BR=Célula de construção 4;
+	}
+
+[Build cell 5]
+	{
+	pt-BR=Célula de construção 5;
+	}
+
+[Build cell 6]
+	{
+	pt-BR=Célula de construção 6;
+	}
+
+[Build cell 7]
+	{
+	pt-BR=Célula de construção 7;
+	}
+
+[Build cell 8]
+	{
+	pt-BR=Célula de construção 8;
+	}
+
+[Build cell 9]
+	{
+	pt-BR=Célula de construção 9;
+	}
+
+[Drags a queued build site]
+	{
+	pt-BR=Arrasta um local de construção da fila;
+	}
+
+[Held while placing: drag lays a line, a click rings a unit]
+	{
+	pt-BR=Segurada ao posicionar: arrastar traça uma linha e um clique forma um anel em volta de uma unidade;
+	}
+
+[Held: no mex or wreck snap, and drag queued orders]
+	{
+	pt-BR=Segurada: sem encaixe em extratores ou destroços, e permite arrastar as ordens da fila;
+	}
+
+[Line build]
+	{
+	pt-BR=Construção em linha;
+	}
+
+[Lowers the spacing of a build line]
+	{
+	pt-BR=Diminui o espaçamento de uma linha de construção;
+	}
+
+[Move queued site]
+	{
+	pt-BR=Mover local da fila;
+	}
+
+[Next facing]
+	{
+	pt-BR=Próxima orientação;
+	}
+
+[Next page of the build menu]
+	{
+	pt-BR=Próxima página do menu de construção;
+	}
+
+[Presses build button 1 of the page shown, in reading order]
+	{
+	pt-BR=Pressiona o botão de construção 1 da página mostrada, em ordem de leitura;
+	}
+
+[Presses build button 10 of the page shown, in reading order]
+	{
+	pt-BR=Pressiona o botão de construção 10 da página mostrada, em ordem de leitura;
+	}
+
+[Presses build button 11 of the page shown, in reading order]
+	{
+	pt-BR=Pressiona o botão de construção 11 da página mostrada, em ordem de leitura;
+	}
+
+[Presses build button 12 of the page shown, in reading order]
+	{
+	pt-BR=Pressiona o botão de construção 12 da página mostrada, em ordem de leitura;
+	}
+
+[Presses build button 2 of the page shown, in reading order]
+	{
+	pt-BR=Pressiona o botão de construção 2 da página mostrada, em ordem de leitura;
+	}
+
+[Presses build button 3 of the page shown, in reading order]
+	{
+	pt-BR=Pressiona o botão de construção 3 da página mostrada, em ordem de leitura;
+	}
+
+[Presses build button 4 of the page shown, in reading order]
+	{
+	pt-BR=Pressiona o botão de construção 4 da página mostrada, em ordem de leitura;
+	}
+
+[Presses build button 5 of the page shown, in reading order]
+	{
+	pt-BR=Pressiona o botão de construção 5 da página mostrada, em ordem de leitura;
+	}
+
+[Presses build button 6 of the page shown, in reading order]
+	{
+	pt-BR=Pressiona o botão de construção 6 da página mostrada, em ordem de leitura;
+	}
+
+[Presses build button 7 of the page shown, in reading order]
+	{
+	pt-BR=Pressiona o botão de construção 7 da página mostrada, em ordem de leitura;
+	}
+
+[Presses build button 8 of the page shown, in reading order]
+	{
+	pt-BR=Pressiona o botão de construção 8 da página mostrada, em ordem de leitura;
+	}
+
+[Presses build button 9 of the page shown, in reading order]
+	{
+	pt-BR=Pressiona o botão de construção 9 da página mostrada, em ordem de leitura;
+	}
+
+[Previous page]
+	{
+	pt-BR=Página anterior;
+	}
+
+[Previous page of the build menu]
+	{
+	pt-BR=Página anterior do menu de construção;
+	}
+
+[Raises the spacing of a build line]
+	{
+	pt-BR=Aumenta o espaçamento de uma linha de construção;
+	}
+
+[Rotate]
+	{
+	pt-BR=Girar;
+	}
+
+[Rotate wheel]
+	{
+	pt-BR=Girar com a roda;
+	}
+
+[Snap override]
+	{
+	pt-BR=Anular encaixe;
+	}
+
+[Spacing down]
+	{
+	pt-BR=Diminuir espaçamento;
+	}
+
+[Spacing up]
+	{
+	pt-BR=Aumentar espaçamento;
+	}
+
+[Turns the facing]
+	{
+	pt-BR=Gira a orientação;
+	}
+
+// Key bindings: Game.
+
+[Allies menu]
+	{
+	pt-BR=Menu de aliados;
+	}
+
+[Chat macro]
+	{
+	pt-BR=Macro de chat;
+	}
+
+[Clear messages]
+	{
+	pt-BR=Limpar mensagens;
+	}
+
+[Clears the message log]
+	{
+	pt-BR=Limpa o registro de mensagens;
+	}
+
+[Damage bar mode 1]
+	{
+	pt-BR=Modo 1 das barras de dano;
+	}
+
+[Damage bar mode 2]
+	{
+	pt-BR=Modo 2 das barras de dano;
+	}
+
+[Damage bar mode 3]
+	{
+	pt-BR=Modo 3 das barras de dano;
+	}
+
+[Damage bar mode 4]
+	{
+	pt-BR=Modo 4 das barras de dano;
+	}
+
+[Damage bars]
+	{
+	pt-BR=Barras de dano;
+	}
+
+[Damage bars on or off]
+	{
+	pt-BR=Liga ou desliga as barras de dano;
+	}
+
+[Damage bars the way the shifted 1 key shows them]
+	{
+	pt-BR=Barras de dano como a tecla 1 com Shift as mostra;
+	}
+
+[Damage bars the way the shifted 3 key shows them]
+	{
+	pt-BR=Barras de dano como a tecla 3 com Shift as mostra;
+	}
+
+[Damage bars the way the shifted 8 key shows them]
+	{
+	pt-BR=Barras de dano como a tecla 8 com Shift as mostra;
+	}
+
+[Damage bars the way the shifted backquote key shows them]
+	{
+	pt-BR=Barras de dano como a tecla de acento grave com Shift as mostra;
+	}
+
+[Held: the status strip and kills board]
+	{
+	pt-BR=Segurada: mostra a faixa de estado e o quadro de abates;
+	}
+
+[Kills board]
+	{
+	pt-BR=Quadro de abates;
+	}
+
+[One speed step faster]
+	{
+	pt-BR=Aumenta a velocidade em um passo;
+	}
+
+[One speed step slower]
+	{
+	pt-BR=Reduz a velocidade em um passo;
+	}
+
+[Open allies chat]
+	{
+	pt-BR=Abrir chat dos aliados;
+	}
+
+[Open chat]
+	{
+	pt-BR=Abrir chat;
+	}
+
+[Opens the chat line]
+	{
+	pt-BR=Abre a linha de chat;
+	}
+
+[Opens the chat line to allies]
+	{
+	pt-BR=Abre a linha de chat para os aliados;
+	}
+
+[Pause on or off]
+	{
+	pt-BR=Pausa ou retoma a partida;
+	}
+
+[Pin unit]
+	{
+	pt-BR=Fixar unidade;
+	}
+
+[Pins the kills board]
+	{
+	pt-BR=Fixa o quadro de abates;
+	}
+
+[Pins the unit under the pointer]
+	{
+	pt-BR=Fixa a unidade sob o ponteiro;
+	}
+
+[Repeat command]
+	{
+	pt-BR=Repetir comando;
+	}
+
+[Runs the last chat command again]
+	{
+	pt-BR=Executa de novo o último comando de chat;
+	}
+
+[Saves a screenshot]
+	{
+	pt-BR=Salva uma captura de tela;
+	}
+
+[Screenshot]
+	{
+	pt-BR=Captura de tela;
+	}
+
+[Sends the mod's chat macro]
+	{
+	pt-BR=Envia a macro de chat do mod;
+	}
+
+[Share panel]
+	{
+	pt-BR=Painel de compartilhamento;
+	}
+
+[Speed down]
+	{
+	pt-BR=Diminuir velocidade;
+	}
+
+[Speed up]
+	{
+	pt-BR=Aumentar velocidade;
+	}
+
+[Status strip]
+	{
+	pt-BR=Faixa de estado;
+	}
+
+[The Escape chain: armed order, selection, then the game menu]
+	{
+	pt-BR=A sequência do Escape: ordem preparada, seleção e, por fim, o menu do jogo;
+	}
+
+[The allies menu]
+	{
+	pt-BR=O menu de aliados;
+	}
+
+[The in-game menu, or resumes]
+	{
+	pt-BR=Abre o menu do jogo ou retoma o jogo;
+	}
+
+[The mod's options dialog]
+	{
+	pt-BR=O diálogo de opções do mod;
+	}
+
+[The resource panel on or off]
+	{
+	pt-BR=Liga ou desliga o painel de recursos;
+	}
+
+[The share panel]
+	{
+	pt-BR=O painel de compartilhamento;
+	}
+
+[The unit info panel]
+	{
+	pt-BR=O painel de informações da unidade;
+	}
+
+[Unit info]
+	{
+	pt-BR=Informações da unidade;
+	}
+
+// Key bindings: Chat.
+
+[Cancel chat]
+	{
+	pt-BR=Cancelar chat;
+	}
+
+[Closes the line]
+	{
+	pt-BR=Fecha a linha de chat;
+	}
+
+[Send chat]
+	{
+	pt-BR=Enviar chat;
+	}
+
+[Sends the line]
+	{
+	pt-BR=Envia a linha de chat;
+	}
+
+// Key bindings: Watching.
+
+[Lock view]
+	{
+	pt-BR=Travar visão;
+	}
+
+[Locks onto that player's camera]
+	{
+	pt-BR=Trava a visão na câmera desse jogador;
+	}
+
+[Player view]
+	{
+	pt-BR=Visão do jogador;
+	}
+
+[Takes the view of the player whose row is clicked]
+	{
+	pt-BR=Assume a visão do jogador cuja linha é clicada;
+	}
+
+// Key bindings: Window.
+
+[Accepts the screen, or presses the focused control]
+	{
+	pt-BR=Aceita a tela ou pressiona o controle em foco;
+	}
+
+[Answers no]
+	{
+	pt-BR=Responde não;
+	}
+
+[Answers yes]
+	{
+	pt-BR=Responde sim;
+	}
+
+[Cancel screen]
+	{
+	pt-BR=Cancelar tela;
+	}
+
+[Closes the screen on top]
+	{
+	pt-BR=Fecha a tela que está por cima;
+	}
+
+[Down]
+	{
+	pt-BR=Descer;
+	}
+
+[Find]
+	{
+	pt-BR=Procurar;
+	}
+
+[Finds on the screen]
+	{
+	pt-BR=Procura na tela;
+	}
+
+[Full screen]
+	{
+	pt-BR=Tela cheia;
+	}
+
+[Full screen on or off]
+	{
+	pt-BR=Liga ou desliga a tela cheia;
+	}
+
+[Go to end]
+	{
+	pt-BR=Ir para o fim;
+	}
+
+[Go to start]
+	{
+	pt-BR=Ir para o início;
+	}
+
+[Information]
+	{
+	pt-BR=Informações;
+	}
+
+[Keys overlay]
+	{
+	pt-BR=Sobreposição de teclas;
+	}
+
+[Left]
+	{
+	pt-BR=Esquerda;
+	}
+
+[Lets a captured pointer go]
+	{
+	pt-BR=Solta um ponteiro capturado;
+	}
+
+[Moves the focus down]
+	{
+	pt-BR=Move o foco para baixo;
+	}
+
+[Moves the focus left, or steps a control]
+	{
+	pt-BR=Move o foco para a esquerda ou ajusta um controle;
+	}
+
+[Moves the focus right, or steps a control]
+	{
+	pt-BR=Move o foco para a direita ou ajusta um controle;
+	}
+
+[Moves the focus to the next control]
+	{
+	pt-BR=Move o foco para o próximo controle;
+	}
+
+[Moves the focus to the previous control]
+	{
+	pt-BR=Move o foco para o controle anterior;
+	}
+
+[Moves the focus up]
+	{
+	pt-BR=Move o foco para cima;
+	}
+
+[Next control]
+	{
+	pt-BR=Próximo controle;
+	}
+
+[Next tab]
+	{
+	pt-BR=Próxima aba;
+	}
+
+[No]
+	{
+	pt-BR=Não;
+	}
+
+[Opens Settings]
+	{
+	pt-BR=Abre as Configurações;
+	}
+
+[Page down]
+	{
+	pt-BR=Página para baixo;
+	}
+
+[Page up]
+	{
+	pt-BR=Página para cima;
+	}
+
+[Paste]
+	{
+	pt-BR=Colar;
+	}
+
+[Pastes the clipboard into the focused text field]
+	{
+	pt-BR=Cola a área de transferência no campo de texto em foco;
+	}
+
+[Press]
+	{
+	pt-BR=Pressionar;
+	}
+
+[Presses the focused control]
+	{
+	pt-BR=Pressiona o controle em foco;
+	}
+
+[Previous control]
+	{
+	pt-BR=Controle anterior;
+	}
+
+[Previous tab]
+	{
+	pt-BR=Aba anterior;
+	}
+
+[Quits]
+	{
+	pt-BR=Sai do jogo;
+	}
+
+[Refreshes the screen]
+	{
+	pt-BR=Atualiza a tela;
+	}
+
+[Release pointer]
+	{
+	pt-BR=Soltar ponteiro;
+	}
+
+[Right]
+	{
+	pt-BR=Direita;
+	}
+
+[Scrolls down]
+	{
+	pt-BR=Rola para baixo;
+	}
+
+[Scrolls to the end, or moves to the end of a text field]
+	{
+	pt-BR=Rola até o fim ou vai para o fim de um campo de texto;
+	}
+
+[Scrolls to the top, or moves to the start of a text field]
+	{
+	pt-BR=Rola até o topo ou vai para o início de um campo de texto;
+	}
+
+[Scrolls up]
+	{
+	pt-BR=Rola para cima;
+	}
+
+[Shows more about what the focus is on]
+	{
+	pt-BR=Mostra mais sobre o que está em foco;
+	}
+
+[Shows the next tab]
+	{
+	pt-BR=Mostra a próxima aba;
+	}
+
+[Shows the previous tab]
+	{
+	pt-BR=Mostra a aba anterior;
+	}
+
+[The keys overlay for the screen shown]
+	{
+	pt-BR=A sobreposição de teclas da tela mostrada;
+	}
+
+[Yes]
+	{
+	pt-BR=Sim;
+	}
+
+// Key bindings: Menus.
+
+[Accept]
+	{
+	pt-BR=Aceitar;
+	}
+
+[Cancel menu]
+	{
+	pt-BR=Cancelar menu;
+	}
+
+[Closes the menu, or answers its cancel]
+	{
+	pt-BR=Fecha o menu ou responde com Cancelar;
+	}
+
+[Focus down]
+	{
+	pt-BR=Foco para baixo;
+	}
+
+[Focus left]
+	{
+	pt-BR=Foco para a esquerda;
+	}
+
+[Focus right]
+	{
+	pt-BR=Foco para a direita;
+	}
+
+[Focus up]
+	{
+	pt-BR=Foco para cima;
+	}
+
+[List down]
+	{
+	pt-BR=Lista para baixo;
+	}
+
+[List up]
+	{
+	pt-BR=Lista para cima;
+	}
+
+[Moves the focus down. Down itself steps a list]
+	{
+	pt-BR=Move o foco para baixo. A própria seta para baixo percorre uma lista;
+	}
+
+[Moves the focus left from a button]
+	{
+	pt-BR=Move o foco para a esquerda a partir de um botão;
+	}
+
+[Moves the focus right from a button]
+	{
+	pt-BR=Move o foco para a direita a partir de um botão;
+	}
+
+[Moves the focus to the next button]
+	{
+	pt-BR=Move o foco para o próximo botão;
+	}
+
+[Moves the focus to the previous button]
+	{
+	pt-BR=Move o foco para o botão anterior;
+	}
+
+[Moves the focus up. Up itself steps a list]
+	{
+	pt-BR=Move o foco para cima. A própria seta para cima percorre uma lista;
+	}
+
+[Next button]
+	{
+	pt-BR=Próximo botão;
+	}
+
+[Press button]
+	{
+	pt-BR=Pressionar botão;
+	}
+
+[Presses the focused button]
+	{
+	pt-BR=Pressiona o botão em foco;
+	}
+
+[Presses the focused button, or the screen's default]
+	{
+	pt-BR=Pressiona o botão em foco ou o botão padrão da tela;
+	}
+
+[Previous button]
+	{
+	pt-BR=Botão anterior;
+	}
+
+[Steps a list down, or moves the focus down from a button]
+	{
+	pt-BR=Percorre uma lista para baixo ou move o foco para baixo a partir de um botão;
+	}
+
+[Steps a list up, or moves the focus up from a button]
+	{
+	pt-BR=Percorre uma lista para cima ou move o foco para cima a partir de um botão;
+	}
+
+// Key bindings: Developer.
+
+[Cycles the overlay]
+	{
+	pt-BR=Alterna a sobreposição;
+	}
+
+[Debug keys]
+	{
+	pt-BR=Teclas de depuração;
+	}
+
+[Debug keys on or off]
+	{
+	pt-BR=Liga ou desliga as teclas de depuração;
+	}
+
+[Developer info]
+	{
+	pt-BR=Informações do desenvolvedor;
+	}
+
+[Kill under pointer]
+	{
+	pt-BR=Destruir sob o ponteiro;
+	}
+
+[Kills the unit under the pointer]
+	{
+	pt-BR=Destrói a unidade sob o ponteiro;
+	}
+
+[Movie capture]
+	{
+	pt-BR=Captura de vídeo;
+	}
+
+[Overlay]
+	{
+	pt-BR=Sobreposição;
+	}
+
+[Refill]
+	{
+	pt-BR=Reabastecer;
+	}
+
+[Refills resources]
+	{
+	pt-BR=Reabastece os recursos;
+	}
+
+[The developer information key]
+	{
+	pt-BR=A tecla de informações do desenvolvedor;
+	}
+
+// Key bindings: Megamap.
+
+[Close megamap]
+	{
+	pt-BR=Fechar megamapa;
+	}
+
+[Closes the megamap and centres on the pointer]
+	{
+	pt-BR=Fecha o megamapa e centraliza no ponteiro;
+	}
+
+[Jumps the view to a point of the megamap]
+	{
+	pt-BR=Salta a visão para um ponto do megamapa;
+	}
+
+[Megamap jump]
+	{
+	pt-BR=Salto no megamapa;
+	}
+
+[Open megamap]
+	{
+	pt-BR=Abrir megamapa;
+	}
+
+[Opens the megamap]
+	{
+	pt-BR=Abre o megamapa;
+	}
+
+[The megamap on or off]
+	{
+	pt-BR=Liga ou desliga o megamapa;
+	}
+
+// Key bindings: Whiteboard.
+
+[Dot]
+	{
+	pt-BR=Ponto;
+	}
+
+[Draw]
+	{
+	pt-BR=Desenhar;
+	}
+
+[Draws a line]
+	{
+	pt-BR=Desenha uma linha;
+	}
+
+[Erase]
+	{
+	pt-BR=Apagar;
+	}
+
+[Erases a marker]
+	{
+	pt-BR=Apaga uma marca;
+	}
+
+[Goes to the newest marker]
+	{
+	pt-BR=Vai para a marca mais recente;
+	}
+
+[Held: the whiteboard takes the mouse]
+	{
+	pt-BR=Segurada: o quadro branco assume o mouse;
+	}
+
+[Line]
+	{
+	pt-BR=Linha;
+	}
+
+[Move marker]
+	{
+	pt-BR=Mover marca;
+	}
+
+[Moves a marker]
+	{
+	pt-BR=Move uma marca;
+	}
+
+[Newest marker]
+	{
+	pt-BR=Marca mais recente;
+	}
+
+[Places a dot]
+	{
+	pt-BR=Coloca um ponto;
+	}
+
+[Places text]
+	{
+	pt-BR=Coloca texto;
+	}
+
+[Wipe]
+	{
+	pt-BR=Limpar;
+	}
+
+[Wipes the board]
+	{
+	pt-BR=Limpa o quadro;
+	}
+
+// The key editor.
+
+[+ Add a key]
+	{
+	pt-BR=+ Adicionar uma tecla;
+	}
+
+[1 unsaved edit]
+	{
+	pt-BR=1 edição não salva;
+	}
+
+[Add a key · {context}]
+	{
+	pt-BR=Adicionar uma tecla · {context};
+	}
+
+[All actions]
+	{
+	pt-BR=Todas as ações;
+	}
+
+[Change a key · {context}]
+	{
+	pt-BR=Alterar uma tecla · {context};
+	}
+
+[Change {action}'s key…]
+	{
+	pt-BR=Alterar a tecla de {action}…;
+	}
+
+[Choose an action]
+	{
+	pt-BR=Escolha uma ação;
+	}
+
+[Edit keys…]
+	{
+	pt-BR=Editar teclas…;
+	}
+
+[Grey keys are free while playing. Select a key to see what it does in each place.]
+	{
+	pt-BR=As teclas cinza estão livres durante a partida. Selecione uma tecla para ver o que ela faz em cada situação.;
+	}
+
+[No unsaved edits]
+	{
+	pt-BR=Sem edições não salvas;
+	}
+
+[{modifier}+/ or Escape closes this. More in Edit keys…]
+	{
+	pt-BR={modifier}+/ ou Escape fecha isto. Mais em Editar teclas…;
+	}
+
+[{n} unsaved]
+	{
+	pt-BR={n} não salvas;
+	}
+
+[{n} unsaved edits]
+	{
+	pt-BR={n} edições não salvas;
+	}
+
+// Capture and clashes.
+
+[Always {description} in Open Annihilation. Choose another key.]
+	{
+	pt-BR=Sempre {description} no Open Annihilation. Escolha outra tecla.;
+	}
+
+[Choose another key]
+	{
+	pt-BR=Escolher outra tecla;
+	}
+
+[Clashes]
+	{
+	pt-BR=Conflitos;
+	}
+
+[Click the key to try another.]
+	{
+	pt-BR=Clique na tecla para tentar outra.;
+	}
+
+[Click the key, then press another to look it up.]
+	{
+	pt-BR=Clique na tecla e pressione outra para procurá-la.;
+	}
+
+[Settle 1 clash to save]
+	{
+	pt-BR=Resolva 1 conflito para salvar;
+	}
+
+[Settle {n} clashes to save]
+	{
+	pt-BR=Resolva {n} conflitos para salvar;
+	}
+
+[Settle…]
+	{
+	pt-BR=Resolver…;
+	}
+
+// Sharing and import.
+
+[Copy as Text]
+	{
+	pt-BR=Copiar como texto;
+	}
+
+[Import 1 key]
+	{
+	pt-BR=Importar 1 tecla;
+	}
+
+[Import keys from an older setup]
+	{
+	pt-BR=Importar teclas de uma configuração antiga;
+	}
+
+[Import {n} keys]
+	{
+	pt-BR=Importar {n} teclas;
+	}
+
+[Imported from {file}]
+	{
+	pt-BR=Importado de {file};
+	}
+
+[Importing gives the key to this action and leaves {action} without it.]
+	{
+	pt-BR=A importação dá a tecla a esta ação e deixa {action} sem ela.;
+	}
+
+[It holds no oakeys.yaml at its top, or in a single folder at its top.]
+	{
+	pt-BR=Não contém oakeys.yaml na raiz, nem numa única pasta na raiz.;
+	}
+
+[Its oakeys.yaml has errors:]
+	{
+	pt-BR=Seu oakeys.yaml tem erros:;
+	}
+
+[Its oakeys.yaml is larger than 256 KiB.]
+	{
+	pt-BR=Seu oakeys.yaml tem mais de 256 KiB.;
+	}
+
+[Key layout packages (.oakeys)]
+	{
+	pt-BR=Pacotes de esquemas de teclas (.oakeys);
+	}
+
+[Numbers are Windows key codes, read as key places. The changes go on top of your layout as "Imported from {file}". Nothing else changes.]
+	{
+	pt-BR=Os números são códigos de tecla do Windows, lidos como posições de teclas. As mudanças vão por cima do seu esquema como "Importado de {file}". Nada mais muda.;
+	}
+
+[This text is not a key layout.]
+	{
+	pt-BR=Este texto não é um esquema de teclas.;
+	}
+
+// The overlay and badges.
+
+[Arrange Overlays]
+	{
+	pt-BR=Organizar sobreposições;
+	}
+
+[Drag an overlay where it suits you. Each screen size keeps its own places.]
+	{
+	pt-BR=Arraste uma sobreposição para onde preferir. Cada tamanho de tela guarda suas próprias posições.;
+	}
+
+[Hold Ctrl + D to try Hold to confirm.]
+	{
+	pt-BR=Segure Ctrl + D para experimentar a opção Segure para confirmar.;
+	}
+
+[Hold to confirm]
+	{
+	pt-BR=Segure para confirmar;
+	}
+
+[Hold to confirm {action}]
+	{
+	pt-BR=Segure para confirmar {action};
+	}
+
+[How long a hold is: hold to confirm, and keys bound to a hold.]
+	{
+	pt-BR=Quanto tempo dura uma pressão longa: na confirmação por segurar e nas teclas atribuídas a uma pressão longa.;
+	}
+
+[Keys Overlay]
+	{
+	pt-BR=Sobreposição de teclas;
+	}
+
+[Latch Chips]
+	{
+	pt-BR=Indicadores de fixação;
+	}
+
+[Queue and the status strip latch: tap on, tap off. A chip shows each one on.]
+	{
+	pt-BR=A fila e a faixa de estado fixam: toque para ligar, toque para desligar. Um indicador mostra cada uma que estiver ligada.;
+	}
+
+[hold to confirm]
+	{
+	pt-BR=segure para confirmar;
+	}
+
+[{name} · latched]
+	{
+	pt-BR={name} · fixado;
+	}
+
+// Settings › Controls.
+
+[A double press]
+	{
+	pt-BR=Uma pressão dupla;
+	}
+
+[Bounce keys]
+	{
+	pt-BR=Teclas de ricochete;
+	}
+
+[Double press]
+	{
+	pt-BR=Pressão dupla;
+	}
+
+[Drag threshold]
+	{
+	pt-BR=Limiar de arrasto;
+	}
+
+[Edge scrolling]
+	{
+	pt-BR=Rolagem pela borda;
+	}
+
+[Edge scrolling off]
+	{
+	pt-BR=Rolagem pela borda desligada;
+	}
+
+[Full screen, screenshot and pointer keys]
+	{
+	pt-BR=Teclas de tela cheia, de captura de tela e do ponteiro;
+	}
+
+[Holding a mouse button opens the order wheel at the pointer.]
+	{
+	pt-BR=Segurar um botão do mouse abre a roda de ordens no ponteiro.;
+	}
+
+[INSTALL KEY LAYOUT]
+	{
+	pt-BR=INSTALAR ESQUEMA DE TECLAS;
+	}
+
+[INSTALLING KEY LAYOUT]
+	{
+	pt-BR=INSTALANDO ESQUEMA DE TECLAS;
+	}
+
+[Install the key layout {name} {version}?]
+	{
+	pt-BR=Instalar o esquema de teclas {name} {version}?;
+	}
+
+[It holds more than {limit} folders, more than a key layout may take.]
+	{
+	pt-BR=Contém mais de {limit} pastas, mais do que um esquema de teclas pode ter.;
+	}
+
+[It unpacks to {size} from {packed}, far more than a key layout's files take.]
+	{
+	pt-BR=Descompactado, passa de {packed} para {size}, muito mais do que os arquivos de um esquema de teclas ocupam.;
+	}
+
+[It unpacks to {size}, more than the {limit} a key layout may take.]
+	{
+	pt-BR=Descompactado, ocupa {size}, mais que os {limit} permitidos a um esquema de teclas.;
+	}
+
+[KEY LAYOUT INSTALLED]
+	{
+	pt-BR=ESQUEMA DE TECLAS INSTALADO;
+	}
+
+[KEY LAYOUT NOT INSTALLED]
+	{
+	pt-BR=ESQUEMA DE TECLAS NÃO INSTALADO;
+	}
+
+[KEY LAYOUT UPDATED]
+	{
+	pt-BR=ESQUEMA DE TECLAS ATUALIZADO;
+	}
+
+[Key layout]
+	{
+	pt-BR=Esquema de teclas;
+	}
+
+[Key layout with {mod}]
+	{
+	pt-BR=Esquema de teclas com {mod};
+	}
+
+[Key layouts]
+	{
+	pt-BR=Esquemas de teclas;
+	}
+
+[Mods, maps and key layouts]
+	{
+	pt-BR=Mods, mapas e esquemas de teclas;
+	}
+
+[Order wheel]
+	{
+	pt-BR=Roda de ordens;
+	}
+
+[Order wheel on the held middle button]
+	{
+	pt-BR=Roda de ordens ao segurar o botão do meio;
+	}
+
+[Order wheel on the held right button]
+	{
+	pt-BR=Roda de ordens ao segurar o botão direito;
+	}
+
+[Pointer keys]
+	{
+	pt-BR=Teclas do ponteiro;
+	}
+
+[REINSTALL KEY LAYOUT]
+	{
+	pt-BR=REINSTALAR ESQUEMA DE TECLAS;
+	}
+
+[REPLACE KEY LAYOUT]
+	{
+	pt-BR=SUBSTITUIR ESQUEMA DE TECLAS;
+	}
+
+[Search key layouts]
+	{
+	pt-BR=Buscar esquemas de teclas;
+	}
+
+[Sticky modifiers]
+	{
+	pt-BR=Modificadores aderentes;
+	}
+
+[The folder {name} does not hold this key layout. It is left as it is.]
+	{
+	pt-BR=A pasta {name} não contém este esquema de teclas. Ela é deixada como está.;
+	}
+
+[The package holds {name}, outside the files a key layout may hold.]
+	{
+	pt-BR=O pacote contém {name}, fora dos arquivos que um esquema de teclas pode conter.;
+	}
+
+[Two presses this close are a double press, and two clicks a double click.]
+	{
+	pt-BR=Duas pressões tão próximas contam como uma pressão dupla, e dois cliques, como um clique duplo.;
+	}
+
+[UPDATE KEY LAYOUT]
+	{
+	pt-BR=ATUALIZAR ESQUEMA DE TECLAS;
+	}
+
+[Used while {mod} is played. Same as the game uses Key layout.]
+	{
+	pt-BR=Usado ao jogar {mod}. Igual ao jogo segue o Esquema de teclas.;
+	}
+
+[Your Keys folder changed while this key layout was being installed; nothing was changed. Open the file again.]
+	{
+	pt-BR=Sua pasta Keys mudou enquanto este esquema de teclas era instalado. Nada foi alterado. Abra o arquivo de novo.;
+	}
+
+[key layouts]
+	{
+	pt-BR=esquemas de teclas;
+	}
+
+// Settings › Accessibility.
+
+[ACCESSIBILITY]
+	{
+	pt-BR=ACESSIBILIDADE;
+	}
+
+[Accessibility]
+	{
+	pt-BR=Acessibilidade;
+	}
+
+[How soon a held camera, speed or page key repeats, and how fast.]
+	{
+	pt-BR=Quanto tempo uma tecla de câmera, de velocidade ou de página segurada leva para começar a repetir, e com que rapidez.;
+	}
+
+[Key repeat delay]
+	{
+	pt-BR=Atraso da repetição de teclas;
+	}
+
+[Key repeat rate]
+	{
+	pt-BR=Taxa de repetição de teclas;
+	}
+
+[Off in Settings › Accessibility]
+	{
+	pt-BR=Desligado em Configurações › Acessibilidade;
+	}
+
+[Repeat]
+	{
+	pt-BR=Repetição;
+	}
+
+[Slow keys]
+	{
+	pt-BR=Teclas lentas;
+	}
+
+// Library › Keys.
+
+[Another copy of Open Annihilation is changing your Keys folder. Try again once it has finished.]
+	{
+	pt-BR=Outra cópia do Open Annihilation está alterando sua pasta Keys. Tente novamente quando ela terminar.;
+	}
+
+[Either way it stays saved with {name}, and comes back when you use {name} again.]
+	{
+	pt-BR=De qualquer forma, ela continua salva com {name} e volta quando você usar {name} de novo.;
+	}
+
+[Either way they stay saved with {name}, and come back when you use {name} again.]
+	{
+	pt-BR=De qualquer forma, elas continuam salvas com {name} e voltam quando você usar {name} de novo.;
+	}
+
+[It needs {size} free, and the disk holding your Keys folder has {free}.]
+	{
+	pt-BR=Requer {size} livres, e o disco da sua pasta Keys tem {free}.;
+	}
+
+[OA default]
+	{
+	pt-BR=Padrão do OA;
+	}
+
+[Use {name}]
+	{
+	pt-BR=Usar {name};
+	}
+
+[You play with {name} now. Uninstall it and go back to OA default? Your own changes stay saved.]
+	{
+	pt-BR=Você está jogando com {name}. Desinstalá-lo e voltar ao Padrão do OA? Suas alterações continuam salvas.;
+	}
+
+[Your Keys folder has no free folder name for it.]
+	{
+	pt-BR=Sua pasta Keys não tem um nome de pasta livre para ele.;
+	}
+
+// Named keys.
+
+[Again]
+	{
+	pt-BR=Repetir;
+	}
+
+[Arrow down]
+	{
+	pt-BR=Seta para baixo;
+	}
+
+[Arrow left]
+	{
+	pt-BR=Seta para a esquerda;
+	}
+
+[Arrow right]
+	{
+	pt-BR=Seta para a direita;
+	}
+
+[Arrow up]
+	{
+	pt-BR=Seta para cima;
+	}
+
+[Audio volume down]
+	{
+	pt-BR=Diminuir volume;
+	}
+
+[Audio volume mute]
+	{
+	pt-BR=Silenciar áudio;
+	}
+
+[Audio volume up]
+	{
+	pt-BR=Aumentar volume;
+	}
+
+[Back button]
+	{
+	pt-BR=Botão voltar;
+	}
+
+[Backquote]
+	{
+	pt-BR=Acento grave;
+	}
+
+[Backslash]
+	{
+	pt-BR=Barra invertida;
+	}
+
+[Backspace]
+	{
+	pt-BR=Backspace;
+	}
+
+[Bracket left]
+	{
+	pt-BR=Colchete esquerdo;
+	}
+
+[Bracket right]
+	{
+	pt-BR=Colchete direito;
+	}
+
+[Browser back]
+	{
+	pt-BR=Navegador: voltar;
+	}
+
+[Browser favorites]
+	{
+	pt-BR=Navegador: favoritos;
+	}
+
+[Browser forward]
+	{
+	pt-BR=Navegador: avançar;
+	}
+
+[Browser home]
+	{
+	pt-BR=Navegador: início;
+	}
+
+[Browser refresh]
+	{
+	pt-BR=Navegador: atualizar;
+	}
+
+[Browser search]
+	{
+	pt-BR=Navegador: buscar;
+	}
+
+[Browser stop]
+	{
+	pt-BR=Navegador: parar;
+	}
+
+[Button]
+	{
+	pt-BR=Botão;
+	}
+
+[Comma]
+	{
+	pt-BR=Vírgula;
+	}
+
+[Context menu]
+	{
+	pt-BR=Menu de contexto;
+	}
+
+[Convert]
+	{
+	pt-BR=Converter;
+	}
+
+[Cut]
+	{
+	pt-BR=Cortar;
+	}
+
+[Delete]
+	{
+	pt-BR=Delete;
+	}
+
+[Digit]
+	{
+	pt-BR=Dígito;
+	}
+
+[Eject]
+	{
+	pt-BR=Ejetar;
+	}
+
+[End]
+	{
+	pt-BR=End;
+	}
+
+[Equal]
+	{
+	pt-BR=Igual;
+	}
+
+[Escape]
+	{
+	pt-BR=Escape;
+	}
+
+[Forward button]
+	{
+	pt-BR=Botão avançar;
+	}
+
+[Help]
+	{
+	pt-BR=Ajuda;
+	}
+
+[Home key]
+	{
+	pt-BR=Home;
+	}
+
+[Insert]
+	{
+	pt-BR=Insert;
+	}
+
+[Intl backslash]
+	{
+	pt-BR=Barra invertida int.;
+	}
+
+[Intl ro]
+	{
+	pt-BR=Ro int.;
+	}
+
+[Intl yen]
+	{
+	pt-BR=Iene int.;
+	}
+
+[Kana mode]
+	{
+	pt-BR=Modo Kana;
+	}
+
+[Left button]
+	{
+	pt-BR=Botão esquerdo;
+	}
+
+[Media play pause]
+	{
+	pt-BR=Mídia: reproduzir/pausar;
+	}
+
+[Media select]
+	{
+	pt-BR=Mídia: selecionar;
+	}
+
+[Media stop]
+	{
+	pt-BR=Mídia: parar;
+	}
+
+[Media track next]
+	{
+	pt-BR=Mídia: próxima faixa;
+	}
+
+[Media track previous]
+	{
+	pt-BR=Mídia: faixa anterior;
+	}
+
+[Middle button]
+	{
+	pt-BR=Botão do meio;
+	}
+
+[Non convert]
+	{
+	pt-BR=Não converter;
+	}
+
+[Numpad]
+	{
+	pt-BR=Teclado numérico;
+	}
+
+[Numpad add]
+	{
+	pt-BR=Teclado numérico +;
+	}
+
+[Numpad backspace]
+	{
+	pt-BR=Teclado numérico Backspace;
+	}
+
+[Numpad clear]
+	{
+	pt-BR=Teclado numérico Limpar;
+	}
+
+[Numpad clear entry]
+	{
+	pt-BR=Teclado numérico Limpar entrada;
+	}
+
+[Numpad comma]
+	{
+	pt-BR=Teclado numérico ,;
+	}
+
+[Numpad decimal]
+	{
+	pt-BR=Teclado numérico decimal;
+	}
+
+[Numpad divide]
+	{
+	pt-BR=Teclado numérico /;
+	}
+
+[Numpad enter]
+	{
+	pt-BR=Teclado numérico Enter;
+	}
+
+[Numpad equal]
+	{
+	pt-BR=Teclado numérico =;
+	}
+
+[Numpad hash]
+	{
+	pt-BR=Teclado numérico #;
+	}
+
+[Numpad memory add]
+	{
+	pt-BR=Teclado numérico memória +;
+	}
+
+[Numpad memory clear]
+	{
+	pt-BR=Teclado numérico limpar memória;
+	}
+
+[Numpad memory recall]
+	{
+	pt-BR=Teclado numérico recuperar memória;
+	}
+
+[Numpad memory store]
+	{
+	pt-BR=Teclado numérico salvar memória;
+	}
+
+[Numpad memory subtract]
+	{
+	pt-BR=Teclado numérico memória -;
+	}
+
+[Numpad multiply]
+	{
+	pt-BR=Teclado numérico *;
+	}
+
+[Numpad paren left]
+	{
+	pt-BR=Teclado numérico (;
+	}
+
+[Numpad paren right]
+	{
+	pt-BR=Teclado numérico );
+	}
+
+[Numpad subtract]
+	{
+	pt-BR=Teclado numérico -;
+	}
+
+[Pad]
+	{
+	pt-BR=Controle;
+	}
+
+[Period]
+	{
+	pt-BR=Ponto;
+	}
+
+[Power]
+	{
+	pt-BR=Ligar/desligar;
+	}
+
+[Print screen]
+	{
+	pt-BR=Imprimir tela;
+	}
+
+[Quote]
+	{
+	pt-BR=Apóstrofo;
+	}
+
+[Right button]
+	{
+	pt-BR=Botão direito;
+	}
+
+[Semicolon]
+	{
+	pt-BR=Ponto e vírgula;
+	}
+
+[Slash]
+	{
+	pt-BR=Barra;
+	}
+
+[Sleep]
+	{
+	pt-BR=Suspender;
+	}
+
+[Wake up]
+	{
+	pt-BR=Despertar;
+	}
+
+[Wheel down]
+	{
+	pt-BR=Roda para baixo;
+	}
+
+[Wheel left]
+	{
+	pt-BR=Roda para a esquerda;
+	}
+
+[Wheel right]
+	{
+	pt-BR=Roda para a direita;
+	}
+
+[Wheel up]
+	{
+	pt-BR=Roda para cima;
+	}
+
+[Win]
+	{
+	pt-BR=Win;
+	}
+
+[double]
+	{
+	pt-BR=duplo;
+	}
+
+[hold]
+	{
+	pt-BR=longo;
+	}
+
+// Weapon and side limits.
+
+[*** The launch gives a computer player side {side}, which computer players cannot take in this game.]
+	{
+	pt-BR=*** O lançamento dá a um jogador do computador o lado {side}, que os jogadores do computador não podem assumir neste jogo.;
+	}
+
+[*** The launch names side {side}, which this game does not have.]
+	{
+	pt-BR=*** O lançamento indica o lado {side}, que este jogo não tem.;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than 256 weapon types.]
+	{
+	pt-BR=*** {player} joga Total Annihilation 3.1c, que não consegue jogar um mod com mais de 256 tipos de arma.;
+	}
+
+[*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than five sides.]
+	{
+	pt-BR=*** {player} joga Total Annihilation 3.1c, que não consegue jogar um mod com mais de cinco lados.;
+	}
+
+[This recording needs a mod with {n} weapon types and {m} sides.]
+	{
+	pt-BR=Esta gravação exige um mod com {n} tipos de arma e {m} lados.;
+	}
+
+[This recording was made with 256 weapon types and five sides. The mod you are playing has more.]
+	{
+	pt-BR=Esta gravação foi feita com 256 tipos de arma e cinco lados. O mod que você está jogando tem mais.;
+	}
+
+[Weapon types]
+	{
+	pt-BR=Tipos de arma;
+	}
+
+// Updates.
+
+[Back on {version}]
+	{
+	pt-BR=De volta à versão {version};
+	}
+
+[Check for updates]
+	{
+	pt-BR=Procurar atualizações;
+	}
+
+[Checking for updates…]
+	{
+	pt-BR=Procurando atualizações…;
+	}
+
+[Checking the download]
+	{
+	pt-BR=Verificando o download;
+	}
+
+[Could not put {version} back: {detail}]
+	{
+	pt-BR=Não foi possível restaurar a versão {version}: {detail};
+	}
+
+[Download automatically]
+	{
+	pt-BR=Baixar automaticamente;
+	}
+
+[Download paused]
+	{
+	pt-BR=Download pausado;
+	}
+
+[Download update]
+	{
+	pt-BR=Baixar atualização;
+	}
+
+[Downloaded and checked · {size}]
+	{
+	pt-BR=Baixado e verificado · {size};
+	}
+
+[Downloading {version}]
+	{
+	pt-BR=Baixando {version};
+	}
+
+[Downloading {version} · {done} of {size}]
+	{
+	pt-BR=Baixando {version} · {done} de {size};
+	}
+
+[Downloads pause during a match and carry on after it.]
+	{
+	pt-BR=Os downloads são pausados durante uma partida e continuam depois dela.;
+	}
+
+[Finishing the update to {version}]
+	{
+	pt-BR=Concluindo a atualização para a versão {version};
+	}
+
+[Go back to {version}?]
+	{
+	pt-BR=Voltar para a versão {version}?;
+	}
+
+[Going back to {version}]
+	{
+	pt-BR=Voltando para a versão {version};
+	}
+
+[Install updates]
+	{
+	pt-BR=Instalar atualizações;
+	}
+
+[Install {version} again from its page, over the copy you have.]
+	{
+	pt-BR=Instale a versão {version} novamente a partir da página dela, sobre a cópia que você tem.;
+	}
+
+[Installed {version}]
+	{
+	pt-BR=Versão {version} instalada;
+	}
+
+[Installer will put {version} in Applications. Start it from there when it finishes.]
+	{
+	pt-BR=O Instalador coloca a versão {version} em Aplicativos. Quando terminar, inicie o jogo por lá.;
+	}
+
+[Installing {version}]
+	{
+	pt-BR=Instalando {version};
+	}
+
+[It installs as you quit. Change it any time in Settings › Updates.]
+	{
+	pt-BR=A instalação é feita ao sair. Mude isso quando quiser em Configurações › Atualizações.;
+	}
+
+[It updates as it next starts.]
+	{
+	pt-BR=A atualização é feita na próxima vez que o jogo iniciar.;
+	}
+
+[Its signature was refused. Nothing was downloaded or changed.]
+	{
+	pt-BR=A assinatura foi recusada. Nada foi baixado nem alterado.;
+	}
+
+[New in {version}:]
+	{
+	pt-BR=Novidades na versão {version}:;
+	}
+
+[Not in this version]
+	{
+	pt-BR=Não existe nesta versão;
+	}
+
+[Not in this version: 1]
+	{
+	pt-BR=Não existe nesta versão: 1;
+	}
+
+[Not in this version: {count}]
+	{
+	pt-BR=Não existe nesta versão: {count};
+	}
+
+[Not installed. {version} is unchanged.]
+	{
+	pt-BR=Não instalado. A versão {version} não foi alterada.;
+	}
+
+[OA restarts on {version}, with the settings it had. {current} won't be offered again until you choose it.]
+	{
+	pt-BR=O OA reinicia na versão {version}, com as configurações que tinha. A versão {current} só volta a ser oferecida depois que você a escolher.;
+	}
+
+[Off: OA asks before downloading.]
+	{
+	pt-BR=Desligado: o OA pergunta antes de baixar.;
+	}
+
+[Open Annihilation {version}]
+	{
+	pt-BR=Open Annihilation {version};
+	}
+
+[Open Annihilation {version} is out]
+	{
+	pt-BR=O Open Annihilation {version} está disponível;
+	}
+
+[Open your software centre to update it.]
+	{
+	pt-BR=Abra a central de programas para atualizá-lo.;
+	}
+
+[Previous version · {version}]
+	{
+	pt-BR=Versão anterior · {version};
+	}
+
+[Put {version} back]
+	{
+	pt-BR=Versão {version} restaurada;
+	}
+
+[Restart Windows to finish installing {version}.]
+	{
+	pt-BR=Reinicie o Windows para concluir a instalação da versão {version}.;
+	}
+
+[Restart to update]
+	{
+	pt-BR=Reiniciar para atualizar;
+	}
+
+[Roll back and restart]
+	{
+	pt-BR=Reverter e reiniciar;
+	}
+
+[Roll back restores {version} and the settings you had before updating.]
+	{
+	pt-BR=Reverter restaura a versão {version} e as configurações de antes da atualização.;
+	}
+
+[Roll back to {version}?]
+	{
+	pt-BR=Reverter para a versão {version}?;
+	}
+
+[Roll back…]
+	{
+	pt-BR=Reverter…;
+	}
+
+[Skip this version]
+	{
+	pt-BR=Pular esta versão;
+	}
+
+[Started {version}]
+	{
+	pt-BR=Versão {version} iniciada;
+	}
+
+[The download stopped]
+	{
+	pt-BR=O download parou;
+	}
+
+[The download stopped: {reason}]
+	{
+	pt-BR=O download parou: {reason};
+	}
+
+[The download was not the file the signed list names, so it was deleted.]
+	{
+	pt-BR=O download não era o arquivo indicado na lista assinada, por isso foi excluído.;
+	}
+
+[The game closes, puts {version} back and starts again. {current} is not offered again until a newer release.]
+	{
+	pt-BR=O jogo fecha, restaura a versão {version} e inicia de novo. A versão {current} não é oferecida de novo até sair uma versão mais recente.;
+	}
+
+[The roll back failed. Nothing was changed.]
+	{
+	pt-BR=A reversão falhou. Nada foi alterado.;
+	}
+
+[The roll back failed. The game could not be put back.]
+	{
+	pt-BR=A reversão falhou. Não foi possível restaurar o jogo.;
+	}
+
+[The update could not be verified.]
+	{
+	pt-BR=Não foi possível verificar a atualização.;
+	}
+
+[The update failed. {version} was put back.]
+	{
+	pt-BR=A atualização falhou. A versão {version} foi restaurada.;
+	}
+
+[The update was cancelled.]
+	{
+	pt-BR=A atualização foi cancelada.;
+	}
+
+[This copy came from {name}, which updates it.]
+	{
+	pt-BR=Esta cópia veio de {name}, que a atualiza.;
+	}
+
+[This version cannot use:]
+	{
+	pt-BR=Esta versão não pode usar:;
+	}
+
+[Try this version]
+	{
+	pt-BR=Testar esta versão;
+	}
+
+[Updated by {name}]
+	{
+	pt-BR=Atualizado por {name};
+	}
+
+[Updated from {from}]
+	{
+	pt-BR=Atualizado da versão {from};
+	}
+
+[Updated to {version}]
+	{
+	pt-BR=Atualizado para a versão {version};
+	}
+
+[Update…]
+	{
+	pt-BR=Atualizar…;
+	}
+
+[You have {current}. The update is {size}.]
+	{
+	pt-BR=Versão atual: {current}. A atualização tem {size}.;
+	}
+
+[Your settings from before you updated]
+	{
+	pt-BR=Suas configurações de antes da atualização;
+	}
+
+[by {author} · {version}]
+	{
+	pt-BR=por {author} · {version};
+	}
+
+[macOS runs this copy from a protected place, so it can't update itself. Drag Open Annihilation to Applications and start it from there.]
+	{
+	pt-BR=O macOS executa esta cópia de um local protegido, por isso ela não consegue se atualizar sozinha. Arraste o Open Annihilation para Aplicativos e abra-o de lá.;
+	}
+
+[{new} won't be offered again until a newer release, or choose it in Settings › Updates.]
+	{
+	pt-BR=A versão {new} não é oferecida de novo até sair uma versão mais recente, ou escolha-a em Configurações › Atualizações.;
+	}
+
+[{version} closed twice before it reached the main menu, so OA went back to {old}, with the settings you had.]
+	{
+	pt-BR=A versão {version} fechou duas vezes antes de chegar ao menu principal, por isso o OA voltou para a versão {old}, com as suas configurações.;
+	}
+
+[{version} closed twice before the main menu]
+	{
+	pt-BR=A versão {version} fechou duas vezes antes do menu principal;
+	}
+
+[{version} downloading]
+	{
+	pt-BR=Baixando {version};
+	}
+
+[{version} installs the next time you start Open Annihilation.]
+	{
+	pt-BR=A versão {version} é instalada na próxima vez que o Open Annihilation for iniciado.;
+	}
+
+[{version} installs when you quit]
+	{
+	pt-BR=A versão {version} é instalada ao sair;
+	}
+
+[{version} is kept, in case you want it back. The game starts again by itself.]
+	{
+	pt-BR=A versão {version} fica guardada, caso queira tê-la de volta. O jogo inicia de novo sozinho.;
+	}
+
+[{version} is kept. Roll back from Settings › Updates.]
+	{
+	pt-BR=A versão {version} fica guardada. É possível reverter em Configurações › Atualizações.;
+	}
+
+[{version} is kept. To go back to it, press Roll back… in Settings › Updates.]
+	{
+	pt-BR=A versão {version} fica guardada. Para voltar a ela, aperte Reverter… em Configurações › Atualizações.;
+	}
+
+[{version} is not offered again until a newer release.]
+	{
+	pt-BR=A versão {version} não é oferecida de novo até sair uma versão mais recente.;
+	}
+
+[{version} is out]
+	{
+	pt-BR=Versão {version} lançada;
+	}
+
+[{version} is out · Stable · checked {when}]
+	{
+	pt-BR=Versão {version} lançada · Estável · verificado {when};
+	}
+
+[{version} is ready]
+	{
+	pt-BR=Versão {version} pronta;
+	}
+
+[{version} is ready · {size} downloaded]
+	{
+	pt-BR=Versão {version} pronta · {size} baixados;
+	}
+
+[{version} is skipped]
+	{
+	pt-BR=Versão {version} pulada;
+	}
+
+[{version} reached the main menu]
+	{
+	pt-BR=A versão {version} chegou ao menu principal;
+	}
+
+[{version} ready]
+	{
+	pt-BR=Versão {version} pronta;
+	}
+
+[{version} waits until you choose to try again.]
+	{
+	pt-BR=A versão {version} espera até decidir tentar de novo.;
+	}
+
+[{version} won't be offered again. The next release will be, or choose {version} in Settings › Updates to try it again.]
+	{
+	pt-BR=A versão {version} não será oferecida de novo. A próxima versão será, ou escolha a versão {version} em Configurações › Atualizações para tentar de novo.;
+	}
+
+[{version} · checking]
+	{
+	pt-BR={version} · verificando;
+	}
+
+[{version} · paused]
+	{
+	pt-BR={version} · pausado;
+	}
+
+[{version} · {percent}%]
+	{
+	pt-BR={version} · {percent}%;
+	}
+
+// The Library.
+
+[1 mutator on]
+	{
+	pt-BR=1 mutador ligado;
+	}
+
+[No mutators on]
+	{
+	pt-BR=Nenhum mutador ligado;
+	}
+
+[The size Settings, the Library and the other OA windows take. Auto takes the largest that fits.]
+	{
+	pt-BR=O tamanho das janelas de Configurações, da Biblioteca e das outras janelas do OA. Auto usa o maior que couber.;
+	}
+
+[{count} mutators on]
+	{
+	pt-BR={count} mutadores ligados;
+	}
+
+[{name} is installed. Choose Use in the Library's Keys tab to play with it.]
+	{
+	pt-BR=O esquema de teclas {name} foi instalado. Escolha Usar na aba Teclas da Biblioteca para jogar com ele.;
+	}
+
+// The rest of the interface.
+
+[*** {player} needs a newer Open Annihilation for this mod.]
+	{
+	pt-BR=*** {player} precisa de um Open Annihilation mais recente para este mod.;
+	}
+
+[+{n}]
+	{
+	pt-BR=+{n};
+	}
+
+[1 change of your own]
+	{
+	pt-BR=1 alteração sua;
+	}
+
+[1 command]
+	{
+	pt-BR=1 ação;
+	}
+
+[1 setting changed]
+	{
+	pt-BR=1 configuração alterada;
+	}
+
+[1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and Roll back brings it back.]
+	{
+	pt-BR=1 atualização muda as regras do jogo: {names}. Jogos salvos da versão atual não carregarão com a nova. Ela fica guardada, e Reverter a traz de volta.;
+	}
+
+[A hold]
+	{
+	pt-BR=Segurar;
+	}
+
+[A key counts only after it is held this long. For a hand that brushes keys.]
+	{
+	pt-BR=Uma tecla só conta depois de segurada por este tempo. Para mãos que esbarram nas teclas.;
+	}
+
+[A mod's Ctrl+F2 keys]
+	{
+	pt-BR=Teclas Ctrl+F2 de um mod;
+	}
+
+[A press]
+	{
+	pt-BR=Apertar;
+	}
+
+[A release]
+	{
+	pt-BR=Soltar;
+	}
+
+[A seat]
+	{
+	pt-BR=Um lugar;
+	}
+
+[A second press of the same key this soon is ignored.]
+	{
+	pt-BR=Apertar de novo a mesma tecla tão rápido é ignorado.;
+	}
+
+[A selection]
+	{
+	pt-BR=Uma seleção;
+	}
+
+[A tapped Shift, Ctrl or Alt holds for the next key or click. Tap twice to lock it.]
+	{
+	pt-BR=Um Shift, Ctrl ou Alt apertado uma vez fica ativo para a próxima tecla ou clique. Aperte duas vezes para travá-lo.;
+	}
+
+[ANSI]
+	{
+	pt-BR=ANSI;
+	}
+
+[ANSI keyboards]
+	{
+	pt-BR=Teclados ANSI;
+	}
+
+[Add mirror…]
+	{
+	pt-BR=Adicionar espelho…;
+	}
+
+[Add registry…]
+	{
+	pt-BR=Adicionar repositório…;
+	}
+
+[Allow full 3D mode]
+	{
+	pt-BR=Permitir modo 3D completo;
+	}
+
+[Alt]
+	{
+	pt-BR=Alt;
+	}
+
+[Applied in this order.]
+	{
+	pt-BR=Aplicados nesta ordem.;
+	}
+
+[Applies to every game.]
+	{
+	pt-BR=Vale para todos os jogos.;
+	}
+
+[Applies with {mod} only.]
+	{
+	pt-BR=Vale só com {mod}.;
+	}
+
+[Apply 1 Change]
+	{
+	pt-BR=Aplicar 1 alteração;
+	}
+
+[Apply {n} Changes]
+	{
+	pt-BR=Aplicar {n} alterações;
+	}
+
+[Armed]
+	{
+	pt-BR=Armadas;
+	}
+
+[Ask each time]
+	{
+	pt-BR=Perguntar sempre;
+	}
+
+[Ask each time, or install when I quit.]
+	{
+	pt-BR=Perguntar sempre, ou instalar ao sair.;
+	}
+
+[Asks for]
+	{
+	pt-BR=Pede;
+	}
+
+[Attack]
+	{
+	pt-BR=Atacar;
+	}
+
+[Bars]
+	{
+	pt-BR=Barras;
+	}
+
+[Box: armed]
+	{
+	pt-BR=Caixa: armadas;
+	}
+
+[Box: bld]
+	{
+	pt-BR=Caixa: constr.;
+	}
+
+[Box: fact.]
+	{
+	pt-BR=Caixa: fáb.;
+	}
+
+[Build]
+	{
+	pt-BR=Construir;
+	}
+
+[Building]
+	{
+	pt-BR=Construção;
+	}
+
+[Button 6]
+	{
+	pt-BR=Botão 6;
+	}
+
+[Button 7]
+	{
+	pt-BR=Botão 7;
+	}
+
+[Button 8]
+	{
+	pt-BR=Botão 8;
+	}
+
+[C]
+	{
+	pt-BR=C;
+	}
+
+[Camera]
+	{
+	pt-BR=Câmera;
+	}
+
+[Cat.]
+	{
+	pt-BR=Cat.;
+	}
+
+[Centre]
+	{
+	pt-BR=Centralizar;
+	}
+
+[Change]
+	{
+	pt-BR=Alterar;
+	}
+
+[Change layout…]
+	{
+	pt-BR=Alterar esquema…;
+	}
+
+[Changed]
+	{
+	pt-BR=Alteradas;
+	}
+
+[Change…]
+	{
+	pt-BR=Alterar…;
+	}
+
+[Chat]
+	{
+	pt-BR=Chat;
+	}
+
+[Chat Line]
+	{
+	pt-BR=Linha de chat;
+	}
+
+[Chat line]
+	{
+	pt-BR=Linha de chat;
+	}
+
+[Check now]
+	{
+	pt-BR=Verificar agora;
+	}
+
+[Check with this mod]
+	{
+	pt-BR=Verificar com este mod;
+	}
+
+[Checked the package against the signed list]
+	{
+	pt-BR=Pacote verificado com a lista assinada;
+	}
+
+[Choose Play now to play it, or choose it later with Play now in the Library.]
+	{
+	pt-BR=Escolha Jogar agora para jogá-lo, ou escolha-o depois com Jogar agora na Biblioteca.;
+	}
+
+[Choose another file…]
+	{
+	pt-BR=Escolher outro arquivo…;
+	}
+
+[Choose it with Play now in the Library to play it.]
+	{
+	pt-BR=Para jogá-lo, escolha-o com Jogar agora na Biblioteca.;
+	}
+
+[Choose what happens…]
+	{
+	pt-BR=Escolher o que acontece…;
+	}
+
+[Choose…]
+	{
+	pt-BR=Escolher…;
+	}
+
+[Chosen file: {file}]
+	{
+	pt-BR=Arquivo escolhido: {file};
+	}
+
+[Clear]
+	{
+	pt-BR=Limpar;
+	}
+
+[Click a button on the picture, or a role in the table, to change it. Buttons 6 to 8 of a gaming mouse appear here when the game sees them pressed.]
+	{
+	pt-BR=Clique em um botão da imagem, ou em uma função da tabela, para alterar. Os botões 6 a 8 de um mouse gamer aparecem aqui quando o jogo detecta que foram apertados.;
+	}
+
+[Click to change.]
+	{
+	pt-BR=Clique para alterar.;
+	}
+
+[Click to read.]
+	{
+	pt-BR=Clique para ler.;
+	}
+
+[Clicks give orders with]
+	{
+	pt-BR=Os cliques dão ordens com;
+	}
+
+[Cloak]
+	{
+	pt-BR=Camuflar;
+	}
+
+[Close the game]
+	{
+	pt-BR=Fechar o jogo;
+	}
+
+[Close the line]
+	{
+	pt-BR=Fechar a linha;
+	}
+
+[Cmd]
+	{
+	pt-BR=Cmd;
+	}
+
+[Cmdr]
+	{
+	pt-BR=Cmte.;
+	}
+
+[Comes back]
+	{
+	pt-BR=Volta;
+	}
+
+[Commands]
+	{
+	pt-BR=Ações;
+	}
+
+[Common commands]
+	{
+	pt-BR=Ações comuns;
+	}
+
+[Compact]
+	{
+	pt-BR=Compacto;
+	}
+
+[Computer player for this seat]
+	{
+	pt-BR=Computador para este lugar;
+	}
+
+[Computer player in the missions]
+	{
+	pt-BR=Computador nas missões;
+	}
+
+[Copy]
+	{
+	pt-BR=Copiar;
+	}
+
+[Could not check]
+	{
+	pt-BR=Não foi possível verificar;
+	}
+
+[Could not check · checked {when}]
+	{
+	pt-BR=Não foi possível verificar · tentativa {when};
+	}
+
+[Could not connect. Try again later.]
+	{
+	pt-BR=Não foi possível conectar. Tente novamente mais tarde.;
+	}
+
+[Could not put every file back: {detail}]
+	{
+	pt-BR=Não foi possível restaurar todos os arquivos: {detail};
+	}
+
+[Could not put the new files in place: {detail}]
+	{
+	pt-BR=Não foi possível colocar os novos arquivos no lugar: {detail};
+	}
+
+[Could not start the game: {detail}]
+	{
+	pt-BR=Não foi possível iniciar o jogo: {detail};
+	}
+
+[Ctrl]
+	{
+	pt-BR=Ctrl;
+	}
+
+[D]
+	{
+	pt-BR=D;
+	}
+
+[D-gun]
+	{
+	pt-BR=D-Gun;
+	}
+
+[Destruct]
+	{
+	pt-BR=Autodestr.;
+	}
+
+[Details]
+	{
+	pt-BR=Detalhes;
+	}
+
+[Details…]
+	{
+	pt-BR=Detalhes…;
+	}
+
+[Developer mode]
+	{
+	pt-BR=Modo desenvolvedor;
+	}
+
+[Discard]
+	{
+	pt-BR=Descartar;
+	}
+
+[Don't install when I quit]
+	{
+	pt-BR=Não instalar ao sair;
+	}
+
+[Done]
+	{
+	pt-BR=Concluído;
+	}
+
+[Empty]
+	{
+	pt-BR=Esvaziar;
+	}
+
+[Enter]
+	{
+	pt-BR=Enter;
+	}
+
+[Escape cancels · hold Escape to bind Escape]
+	{
+	pt-BR=Escape cancela · segure Escape para atribuir Escape;
+	}
+
+[Escape closes · hold Escape to look it up]
+	{
+	pt-BR=Escape fecha · segure Escape para consultar a tecla;
+	}
+
+[Every game]
+	{
+	pt-BR=Todos os jogos;
+	}
+
+[Every window is back in the middle.]
+	{
+	pt-BR=Todas as janelas voltaram ao centro.;
+	}
+
+[Everywhere]
+	{
+	pt-BR=Em todo lugar;
+	}
+
+[Faster]
+	{
+	pt-BR=Mais rápido;
+	}
+
+[Find by key]
+	{
+	pt-BR=Localizar por tecla;
+	}
+
+[Find on keyboard]
+	{
+	pt-BR=Localizar no teclado;
+	}
+
+[Fire]
+	{
+	pt-BR=Fogo;
+	}
+
+[Follow]
+	{
+	pt-BR=Seguir;
+	}
+
+[Follow back]
+	{
+	pt-BR=Seguir ant.;
+	}
+
+[Force]
+	{
+	pt-BR=Forçar;
+	}
+
+[Forget it]
+	{
+	pt-BR=Esquecer;
+	}
+
+[Forward]
+	{
+	pt-BR=Avançar;
+	}
+
+[Found 1 key · 1 differs from {layout}]
+	{
+	pt-BR=Encontrada 1 tecla · 1 difere de {layout};
+	}
+
+[Found 1 key · {m} differ from {layout}]
+	{
+	pt-BR=Encontrada 1 tecla · {m} diferem de {layout};
+	}
+
+[Found {n} keys · 1 differs from {layout}]
+	{
+	pt-BR=Encontradas {n} teclas · 1 difere de {layout};
+	}
+
+[Found {n} keys · {m} differ from {layout}]
+	{
+	pt-BR=Encontradas {n} teclas · {m} diferem de {layout};
+	}
+
+[From your system]
+	{
+	pt-BR=Do seu sistema;
+	}
+
+[From {layout}]
+	{
+	pt-BR=De {layout};
+	}
+
+[G]
+	{
+	pt-BR=G;
+	}
+
+[Game and window]
+	{
+	pt-BR=Jogo e janela;
+	}
+
+[Game menu]
+	{
+	pt-BR=Menu do jogo;
+	}
+
+[Get all]
+	{
+	pt-BR=Obter tudo;
+	}
+
+[Get both]
+	{
+	pt-BR=Obter ambos;
+	}
+
+[Get installs it again.]
+	{
+	pt-BR=Obter o instala de novo.;
+	}
+
+[Get more brains...]
+	{
+	pt-BR=Obter mais cérebros...;
+	}
+
+[Get with {count} more]
+	{
+	pt-BR=Obter com mais {count};
+	}
+
+[Get with {name}]
+	{
+	pt-BR=Obter com {name};
+	}
+
+[Get · {size}]
+	{
+	pt-BR=Obter · {size};
+	}
+
+[Grid]
+	{
+	pt-BR=Grade;
+	}
+
+[Group]
+	{
+	pt-BR=Grupo;
+	}
+
+[Groups]
+	{
+	pt-BR=Grupos;
+	}
+
+[Guard]
+	{
+	pt-BR=Proteger;
+	}
+
+[Hacks on]
+	{
+	pt-BR=Ajustes ligados;
+	}
+
+[Held to the end: the order goes.]
+	{
+	pt-BR=Segurou até o fim: a ordem é dada.;
+	}
+
+[Helpers act in every game, not only with {mod}.]
+	{
+	pt-BR=Os auxiliares atuam em todos os jogos, não só com {mod}.;
+	}
+
+[Helpers act in every game.]
+	{
+	pt-BR=Os auxiliares atuam em todos os jogos.;
+	}
+
+[Here and {name} both use it {context}.]
+	{
+	pt-BR=Esta ação e {name} usam essa tecla {context}.;
+	}
+
+[Hold]
+	{
+	pt-BR=Segurar;
+	}
+
+[Hold a key until it counts.]
+	{
+	pt-BR=Segure uma tecla até ela contar.;
+	}
+
+[Hold keys that latch]
+	{
+	pt-BR=Teclas de segurar que fixam;
+	}
+
+[Hold middle]
+	{
+	pt-BR=Segurar meio;
+	}
+
+[Hold right]
+	{
+	pt-BR=Segurar dir.;
+	}
+
+[Hold the modifiers you want, then press a key or a mouse button, or turn the wheel.]
+	{
+	pt-BR=Segure os modificadores que quiser, depois aperte uma tecla ou um botão do mouse, ou gire a roda.;
+	}
+
+[Holding]
+	{
+	pt-BR=Segurando;
+	}
+
+[Homepage]
+	{
+	pt-BR=Site;
+	}
+
+[How far a press may move and still be a click.]
+	{
+	pt-BR=Quanto o ponteiro pode se mover durante o clique e ainda contar como clique.;
+	}
+
+[How it acts]
+	{
+	pt-BR=Como age;
+	}
+
+[ISO]
+	{
+	pt-BR=ISO;
+	}
+
+[ISO keyboards]
+	{
+	pt-BR=Teclados ISO;
+	}
+
+[Idle bld]
+	{
+	pt-BR=Constr. ocios.;
+	}
+
+[Idle fac]
+	{
+	pt-BR=Fáb. ocios.;
+	}
+
+[In the chat line]
+	{
+	pt-BR=Na linha de chat;
+	}
+
+[In use for every game]
+	{
+	pt-BR=Em uso em todos os jogos;
+	}
+
+[In use with {mod}]
+	{
+	pt-BR=Em uso com {mod};
+	}
+
+[Install]
+	{
+	pt-BR=Instalar;
+	}
+
+[Install alongside]
+	{
+	pt-BR=Instalar ao lado;
+	}
+
+[Install and restart]
+	{
+	pt-BR=Instalar e reiniciar;
+	}
+
+[Install when I quit]
+	{
+	pt-BR=Instalar ao sair;
+	}
+
+[Install…]
+	{
+	pt-BR=Instalar…;
+	}
+
+[It installs when you quit, or now if you restart. Restarting takes a few seconds and brings you back to the main menu.]
+	{
+	pt-BR=Instala ao sair, ou agora, se reiniciar. Reiniciar leva alguns segundos e volta ao menu principal.;
+	}
+
+[It is in the download queue: Cancel it before you uninstall it.]
+	{
+	pt-BR=Está na fila de download: use Cancelar antes de desinstalá-lo.;
+	}
+
+[It stopped before any file moved.]
+	{
+	pt-BR=Parou antes de qualquer arquivo ser movido.;
+	}
+
+[Its folder is a link, and OA never removes what a link leads to. Open folder shows it.]
+	{
+	pt-BR=A pasta dele é um link, e o OA nunca remove o destino de um link. Abrir pasta a mostra.;
+	}
+
+[JIS]
+	{
+	pt-BR=JIS;
+	}
+
+[JIS keyboards]
+	{
+	pt-BR=Teclados JIS;
+	}
+
+[KEYS]
+	{
+	pt-BR=TECLAS;
+	}
+
+[Keep editing]
+	{
+	pt-BR=Continuar editando;
+	}
+
+[Keep holding {chord}: the ring fills in {seconds} s. Let go to cancel.]
+	{
+	pt-BR=Continue segurando {chord}: o anel se completa em {seconds} s. Solte para cancelar.;
+	}
+
+[Keep it]
+	{
+	pt-BR=Manter;
+	}
+
+[Keep it for {action}]
+	{
+	pt-BR=Manter para {action};
+	}
+
+[Keep it on top]
+	{
+	pt-BR=Manter por cima;
+	}
+
+[Keep it ready]
+	{
+	pt-BR=Manter pronta;
+	}
+
+[Keep them]
+	{
+	pt-BR=Manter;
+	}
+
+[Keep them on top]
+	{
+	pt-BR=Manter por cima;
+	}
+
+[Keep your 1 change on top of {layout}?]
+	{
+	pt-BR=Manter 1 alteração sua por cima de {layout}?;
+	}
+
+[Keep your {n} changes on top of {layout}?]
+	{
+	pt-BR=Manter suas {n} alterações por cima de {layout}?;
+	}
+
+[Keyboard]
+	{
+	pt-BR=Teclado;
+	}
+
+[Keys pressed here never reach the game.]
+	{
+	pt-BR=As teclas apertadas aqui nunca chegam ao jogo.;
+	}
+
+[Keys while placing a building]
+	{
+	pt-BR=Teclas ao posicionar uma construção;
+	}
+
+[Keys while playing]
+	{
+	pt-BR=Teclas ao jogar;
+	}
+
+[Keys while watching]
+	{
+	pt-BR=Teclas ao assistir;
+	}
+
+[Kills]
+	{
+	pt-BR=Abates;
+	}
+
+[Kind]
+	{
+	pt-BR=Tipo;
+	}
+
+[Known as]
+	{
+	pt-BR=Conhecida como;
+	}
+
+[Latch]
+	{
+	pt-BR=Fixar;
+	}
+
+[Latch {action}]
+	{
+	pt-BR=Fixar {action};
+	}
+
+[Latchable]
+	{
+	pt-BR=Fixáveis;
+	}
+
+[Later]
+	{
+	pt-BR=Mais tarde;
+	}
+
+[Layout]
+	{
+	pt-BR=Esquema;
+	}
+
+[Left and right {modifier} are one key in Open Annihilation]
+	{
+	pt-BR=As teclas {modifier} da esquerda e da direita são uma só no Open Annihilation;
+	}
+
+[Left hand]
+	{
+	pt-BR=Mão esquerda;
+	}
+
+[Left-click]
+	{
+	pt-BR=Clique esquerdo;
+	}
+
+[Legacy]
+	{
+	pt-BR=Legado;
+	}
+
+[Let go before the end: nothing happens.]
+	{
+	pt-BR=Soltou antes do fim: nada acontece.;
+	}
+
+[Load]
+	{
+	pt-BR=Carregar;
+	}
+
+[Load with the built-in player]
+	{
+	pt-BR=Carregar com o jogador integrado;
+	}
+
+[Long press]
+	{
+	pt-BR=Pressão longa;
+	}
+
+[Look]
+	{
+	pt-BR=Aparência;
+	}
+
+[Macro]
+	{
+	pt-BR=Macro;
+	}
+
+[Made for the {layout} interface; yours is {yours}.]
+	{
+	pt-BR=Feito para a interface de {layout}. A sua é a de {yours}.;
+	}
+
+[Manage…]
+	{
+	pt-BR=Gerenciar…;
+	}
+
+[Marker]
+	{
+	pt-BR=Marcador;
+	}
+
+[Match]
+	{
+	pt-BR=Partida;
+	}
+
+[Mayhem, Twilight and older patches]
+	{
+	pt-BR=Mayhem, Twilight e patches mais antigos;
+	}
+
+[Menu buttons]
+	{
+	pt-BR=Botões do menu;
+	}
+
+[Menus]
+	{
+	pt-BR=Menus;
+	}
+
+[Middle]
+	{
+	pt-BR=Botão do meio;
+	}
+
+[Modern]
+	{
+	pt-BR=Moderno;
+	}
+
+[Modifier]
+	{
+	pt-BR=Modificador;
+	}
+
+[More]
+	{
+	pt-BR=Mais;
+	}
+
+[More in the Library…]
+	{
+	pt-BR=Mais na Biblioteca…;
+	}
+
+[More options]
+	{
+	pt-BR=Mais opções;
+	}
+
+[Mouse]
+	{
+	pt-BR=Mouse;
+	}
+
+[Mouse button {button}]
+	{
+	pt-BR=Botão {button} do mouse;
+	}
+
+[Mouse first]
+	{
+	pt-BR=Foco no mouse;
+	}
+
+[Move]
+	{
+	pt-BR=Mover;
+	}
+
+[Move OA to Applications]
+	{
+	pt-BR=Mover o OA para Aplicativos;
+	}
+
+[Move it to {action}]
+	{
+	pt-BR=Mover a tecla para {action};
+	}
+
+[Move to {action}]
+	{
+	pt-BR=Mover para {action};
+	}
+
+[Moves]
+	{
+	pt-BR=Movimento;
+	}
+
+[Multiplayer]
+	{
+	pt-BR=Multijogador;
+	}
+
+[Name]
+	{
+	pt-BR=Nome;
+	}
+
+[Needs Allow full 3D mode]
+	{
+	pt-BR=Requer Permitir modo 3D completo;
+	}
+
+[New key for {action}]
+	{
+	pt-BR=Nova tecla para {action};
+	}
+
+[Next page]
+	{
+	pt-BR=Próxima página;
+	}
+
+[Next pg]
+	{
+	pt-BR=Próx. pág.;
+	}
+
+[Next report]
+	{
+	pt-BR=Próximo aviso;
+	}
+
+[Next unit]
+	{
+	pt-BR=Próxima unidade;
+	}
+
+[No command changes its key.]
+	{
+	pt-BR=Nenhuma ação muda de tecla.;
+	}
+
+[No key]
+	{
+	pt-BR=Sem tecla;
+	}
+
+[No wheel zoom]
+	{
+	pt-BR=Sem zoom com a roda;
+	}
+
+[Not checked yet]
+	{
+	pt-BR=Ainda não verificado;
+	}
+
+[Not on this keyboard]
+	{
+	pt-BR=Não existe neste teclado;
+	}
+
+[Nothing changes until you apply it.]
+	{
+	pt-BR=Nada muda até aplicar.;
+	}
+
+[Nothing is scheduled.]
+	{
+	pt-BR=Nada está agendado.;
+	}
+
+[Number keys select groups]
+	{
+	pt-BR=Teclas numéricas selecionam grupos;
+	}
+
+[O]
+	{
+	pt-BR=O;
+	}
+
+[OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and Roll back brings it back.]
+	{
+	pt-BR=O OA não sabe dizer se {to} muda as regras do jogo. Se mudar, os jogos salvos de {from} não carregarão com a nova versão. {From} fica guardado, e Reverter o traz de volta.;
+	}
+
+[OA never checks]
+	{
+	pt-BR=O OA nunca verifica;
+	}
+
+[OA's screens in Barlow, a clear modern face.]
+	{
+	pt-BR=As telas do OA em Barlow, uma fonte moderna e legível.;
+	}
+
+[OA's screens in the game's own bitmap fonts.]
+	{
+	pt-BR=As telas do OA nas fontes bitmap do próprio jogo.;
+	}
+
+[Off stops the view scrolling while the pointer rests at the window's edge.]
+	{
+	pt-BR=Desligado, a visão não rola quando o ponteiro fica na borda da janela.;
+	}
+
+[On Open Annihilation's screens]
+	{
+	pt-BR=Nas telas do Open Annihilation;
+	}
+
+[On a build button]
+	{
+	pt-BR=Em um botão de construção;
+	}
+
+[On the minimap]
+	{
+	pt-BR=No minimapa;
+	}
+
+[On/off]
+	{
+	pt-BR=Lig./desl.;
+	}
+
+[On:]
+	{
+	pt-BR=Ligados:;
+	}
+
+[One hand]
+	{
+	pt-BR=Uma mão;
+	}
+
+[Only when I ask]
+	{
+	pt-BR=Só quando eu pedir;
+	}
+
+[Only with {mod}]
+	{
+	pt-BR=Só com {mod};
+	}
+
+[Open Annihilation's screens]
+	{
+	pt-BR=Telas do Open Annihilation;
+	}
+
+[Open mod folder]
+	{
+	pt-BR=Abrir pasta do mod;
+	}
+
+[Open the installer]
+	{
+	pt-BR=Abrir o instalador;
+	}
+
+[Open the log to see which files were left.]
+	{
+	pt-BR=Abra o registro para ver quais arquivos ficaram.;
+	}
+
+[Open the page]
+	{
+	pt-BR=Abrir a página;
+	}
+
+[Open the release page]
+	{
+	pt-BR=Abrir a página da versão;
+	}
+
+[Open your software centre, or run:]
+	{
+	pt-BR=Abra a central de programas ou execute:;
+	}
+
+[Open {page} in a browser on another computer, or in Desktop Mode.]
+	{
+	pt-BR=Abra {page} em um navegador em outro computador ou no Modo Desktop.;
+	}
+
+[Open ›]
+	{
+	pt-BR=Abrir ›;
+	}
+
+[Options...]
+	{
+	pt-BR=Opções...;
+	}
+
+[Order buttons and build cells show their key in a corner.]
+	{
+	pt-BR=Os botões de ordens e as células de construção mostram a tecla num canto.;
+	}
+
+[P]
+	{
+	pt-BR=P;
+	}
+
+[Page]
+	{
+	pt-BR=Página;
+	}
+
+[Panels]
+	{
+	pt-BR=Painéis;
+	}
+
+[Patrol]
+	{
+	pt-BR=Patrulhar;
+	}
+
+[Paused during a match]
+	{
+	pt-BR=Pausado durante uma partida;
+	}
+
+[Paused during the game]
+	{
+	pt-BR=Pausado durante o jogo;
+	}
+
+[Pin]
+	{
+	pt-BR=Afixar;
+	}
+
+[Placing]
+	{
+	pt-BR=Posicionamento;
+	}
+
+[Placing a building]
+	{
+	pt-BR=Ao posicionar uma construção;
+	}
+
+[Play now]
+	{
+	pt-BR=Jogar agora;
+	}
+
+[Press a key or a mouse button to see what it does. Nothing is changed.]
+	{
+	pt-BR=Aperte uma tecla ou um botão do mouse para ver o que faz. Nada é alterado.;
+	}
+
+[Press a key twice, quickly.]
+	{
+	pt-BR=Aperte uma tecla duas vezes, rapidamente.;
+	}
+
+[Press a key, alone or with Shift, Ctrl or Alt.]
+	{
+	pt-BR=Aperte uma tecla, sozinha ou com Shift, Ctrl ou Alt.;
+	}
+
+[Press a key…]
+	{
+	pt-BR=Aperte uma tecla…;
+	}
+
+[Press {key} to rotate]
+	{
+	pt-BR=Aperte {key} para girar;
+	}
+
+[Press {key}, or {wheel}, to rotate]
+	{
+	pt-BR=Aperte {key}, ou {wheel}, para girar;
+	}
+
+[Prev pg]
+	{
+	pt-BR=Pág. ant.;
+	}
+
+[Put every changed file back]
+	{
+	pt-BR=Todos os arquivos alterados restaurados;
+	}
+
+[Put {to} in place, keeping {from}]
+	{
+	pt-BR=Versão {to} colocada no lugar, mantendo a versão {from};
+	}
+
+[Puts every window you moved back in the middle.]
+	{
+	pt-BR=Devolve ao centro todas as janelas que foram movidas.;
+	}
+
+[Queue]
+	{
+	pt-BR=Fila;
+	}
+
+[RESTART NOW]
+	{
+	pt-BR=REINICIAR AGORA;
+	}
+
+[Ran the installer]
+	{
+	pt-BR=Executou o instalador;
+	}
+
+[Reclaim]
+	{
+	pt-BR=Reciclar;
+	}
+
+[Recovery could not finish.]
+	{
+	pt-BR=Não foi possível concluir a recuperação.;
+	}
+
+[Registries in the Library…]
+	{
+	pt-BR=Repositórios na Biblioteca…;
+	}
+
+[Regular]
+	{
+	pt-BR=Normal;
+	}
+
+[Reinstall]
+	{
+	pt-BR=Reinstalar;
+	}
+
+[Remove]
+	{
+	pt-BR=Remover;
+	}
+
+[Replacing keeps {installed}, and Roll back in the Library brings it back.]
+	{
+	pt-BR=A substituição guarda {installed}, e Reverter na Biblioteca o traz de volta.;
+	}
+
+[Reset]
+	{
+	pt-BR=Redefinir;
+	}
+
+[Reset to {layout}]
+	{
+	pt-BR=Redefinir para {layout};
+	}
+
+[Reset window positions]
+	{
+	pt-BR=Redefinir posições das janelas;
+	}
+
+[Resource panel]
+	{
+	pt-BR=Painel de recursos;
+	}
+
+[Resources]
+	{
+	pt-BR=Recursos;
+	}
+
+[Restore Defaults]
+	{
+	pt-BR=Restaurar padrões;
+	}
+
+[Restore profile values]
+	{
+	pt-BR=Restaurar valores do perfil;
+	}
+
+[Resume]
+	{
+	pt-BR=Continuar;
+	}
+
+[Revision {installed} is kept, and Roll back in the Library brings it back.]
+	{
+	pt-BR=A revisão {installed} fica guardada, e Reverter na Biblioteca a traz de volta.;
+	}
+
+[Right hand]
+	{
+	pt-BR=Mão direita;
+	}
+
+[Right-click]
+	{
+	pt-BR=Clique direito;
+	}
+
+[Roll back]
+	{
+	pt-BR=Reverter;
+	}
+
+[Roll back {title} to {to}? {from} is kept in its place, and Roll back again brings it back.]
+	{
+	pt-BR=Deseja reverter {title} para {to}? {from} fica guardado no lugar dele, e Reverter de novo o traz de volta.;
+	}
+
+[Same]
+	{
+	pt-BR=Mesmo;
+	}
+
+[Same as the game]
+	{
+	pt-BR=Igual ao jogo;
+	}
+
+[Same place on every keyboard]
+	{
+	pt-BR=Mesma posição em todos os teclados;
+	}
+
+[Save]
+	{
+	pt-BR=Salvar;
+	}
+
+[Save changes]
+	{
+	pt-BR=Salvar alterações;
+	}
+
+[Save File…]
+	{
+	pt-BR=Salvar arquivo…;
+	}
+
+[Save your edit before closing?]
+	{
+	pt-BR=Salvar sua edição antes de fechar?;
+	}
+
+[Save your {n} edits before closing?]
+	{
+	pt-BR=Salvar suas {n} edições antes de fechar?;
+	}
+
+[Saved games and replays]
+	{
+	pt-BR=Jogos salvos e replays;
+	}
+
+[Saved to {place}]
+	{
+	pt-BR=Salvo em {place};
+	}
+
+[Saves]
+	{
+	pt-BR=Jogos salvos;
+	}
+
+[Screenshots]
+	{
+	pt-BR=Capturas de tela;
+	}
+
+[Search commands]
+	{
+	pt-BR=Buscar ações;
+	}
+
+[Sel bld]
+	{
+	pt-BR=Sel constr;
+	}
+
+[Sel fac]
+	{
+	pt-BR=Sel fáb;
+	}
+
+[Select a key to see everything on it.]
+	{
+	pt-BR=Selecione uma tecla para ver tudo o que há nela.;
+	}
+
+[Selection]
+	{
+	pt-BR=Seleção;
+	}
+
+[Selection box]
+	{
+	pt-BR=Caixa de seleção;
+	}
+
+[Self-destruct]
+	{
+	pt-BR=Autodestruição;
+	}
+
+[Self-destruct, surrender and quitting need a long press. A ring fills as you hold.]
+	{
+	pt-BR=Autodestruição, rendição e saída exigem uma pressão longa. Um anel vai se enchendo enquanto se segura.;
+	}
+
+[Set]
+	{
+	pt-BR=Definir;
+	}
+
+[Set by the mod. Every player in a game has the same.]
+	{
+	pt-BR=Definido pelo mod. Todos os jogadores de uma partida têm o mesmo.;
+	}
+
+[Set them aside]
+	{
+	pt-BR=Deixar de lado;
+	}
+
+[Settings you changed after updating are replaced by the ones you had then.]
+	{
+	pt-BR=As configurações alteradas depois da atualização são substituídas pelas de antes.;
+	}
+
+[Settings…]
+	{
+	pt-BR=Configurações…;
+	}
+
+[Shift]
+	{
+	pt-BR=Shift;
+	}
+
+[Shot]
+	{
+	pt-BR=Captura;
+	}
+
+[Show]
+	{
+	pt-BR=Mostrar;
+	}
+
+[Show again]
+	{
+	pt-BR=Mostrar de novo;
+	}
+
+[Show as list]
+	{
+	pt-BR=Mostrar como lista;
+	}
+
+[Show details]
+	{
+	pt-BR=Mostrar detalhes;
+	}
+
+[Show in Finder]
+	{
+	pt-BR=Mostrar no Finder;
+	}
+
+[Show keyboard]
+	{
+	pt-BR=Mostrar teclado;
+	}
+
+[Show keys on buttons]
+	{
+	pt-BR=Mostrar teclas nos botões;
+	}
+
+[Show the log]
+	{
+	pt-BR=Mostrar o log;
+	}
+
+[Single player]
+	{
+	pt-BR=Um jogador;
+	}
+
+[Slower]
+	{
+	pt-BR=Mais lento;
+	}
+
+[Some files were left half-moved.]
+	{
+	pt-BR=Alguns arquivos ficaram movidos pela metade.;
+	}
+
+[Some files were left half-moved. Show details lists the steps that put the game right.]
+	{
+	pt-BR=Alguns arquivos ficaram movidos pela metade. Mostrar detalhes lista os passos para corrigir o jogo.;
+	}
+
+[Space]
+	{
+	pt-BR=Espaço;
+	}
+
+[Space +]
+	{
+	pt-BR=Espaç. +;
+	}
+
+[Space -]
+	{
+	pt-BR=Espaç. -;
+	}
+
+[Start Open Annihilation from Applications afterwards.]
+	{
+	pt-BR=Depois, inicie o Open Annihilation pela pasta Aplicativos.;
+	}
+
+[Start clean]
+	{
+	pt-BR=Começar do zero;
+	}
+
+[Start without it]
+	{
+	pt-BR=Iniciar sem ele;
+	}
+
+[Start without them]
+	{
+	pt-BR=Iniciar sem eles;
+	}
+
+[Status]
+	{
+	pt-BR=Estado;
+	}
+
+[Stays as it is]
+	{
+	pt-BR=Permanece como está;
+	}
+
+[Stop]
+	{
+	pt-BR=Parar;
+	}
+
+[Store]
+	{
+	pt-BR=Guardar;
+	}
+
+[Swap them]
+	{
+	pt-BR=Trocar entre si;
+	}
+
+[Switch]
+	{
+	pt-BR=Trocar;
+	}
+
+[Switch off]
+	{
+	pt-BR=Desativar;
+	}
+
+[T]
+	{
+	pt-BR=T;
+	}
+
+[Tab]
+	{
+	pt-BR=Tab;
+	}
+
+[Tags]
+	{
+	pt-BR=Tags;
+	}
+
+[Tap Shift, then press A.]
+	{
+	pt-BR=Toque em Shift e depois pressione A.;
+	}
+
+[Tap to turn it on, tap again to turn it off.]
+	{
+	pt-BR=Toque para ativar, toque de novo para desativar.;
+	}
+
+[The built-in player takes those seats from the units as they stand. Get the brain in the Library to load the game as it was saved.]
+	{
+	pt-BR=O jogador integrado assume esses lugares a partir das unidades como estão. Obtenha o cérebro na Biblioteca para carregar o jogo como foi salvo.;
+	}
+
+[The folder kept for Roll back ({backup}) is removed.]
+	{
+	pt-BR=A pasta guardada para Reverter ({backup}) é removida.;
+	}
+
+[The folder kept for Roll back stays.]
+	{
+	pt-BR=A pasta guardada para Reverter permanece.;
+	}
+
+[The folder kept for Roll back, which holds no mod that can be read, is removed.]
+	{
+	pt-BR=A pasta guardada para Reverter, que não contém um mod legível, é removida.;
+	}
+
+[The game closes, installs it and starts again.]
+	{
+	pt-BR=O jogo fecha, instala a atualização e inicia de novo.;
+	}
+
+[The game did not close: {detail}]
+	{
+	pt-BR=O jogo não fechou: {detail};
+	}
+
+[The id {id} is kept for your own changes.]
+	{
+	pt-BR=O ID {id} é reservado para as suas próprias alterações.;
+	}
+
+[The installer did not finish: {detail}]
+	{
+	pt-BR=O instalador não terminou: {detail};
+	}
+
+[The key in the {key} place]
+	{
+	pt-BR=A tecla na posição {key};
+	}
+
+[The keys OA keeps for TA Zero, ESC or Twilight]
+	{
+	pt-BR=As teclas que o OA guarda para TA Zero, ESC ou Twilight;
+	}
+
+[The keys Open Annihilation ships with.]
+	{
+	pt-BR=As teclas que vêm com o Open Annihilation.;
+	}
+
+[The keys, mouse buttons and wheel turns the game answers. {primary}+/ in a match shows them.]
+	{
+	pt-BR=As teclas, os botões do mouse e os giros da roda a que o jogo responde. {primary}+/ durante uma partida mostra tudo isso.;
+	}
+
+[The layout was not saved: {reason}]
+	{
+	pt-BR=O esquema não foi salvo: {reason};
+	}
+
+[The letter {key}, wherever your keyboard has it]
+	{
+	pt-BR=A letra {key}, onde quer que o seu teclado a tenha;
+	}
+
+[The mod's data]
+	{
+	pt-BR=Os dados do mod;
+	}
+
+[The mod's hacks]
+	{
+	pt-BR=Os ajustes do mod;
+	}
+
+[The numpad moves the pointer; 5 clicks, 0 right-clicks.]
+	{
+	pt-BR=O teclado numérico move o ponteiro, o 5 clica e o 0 clica com o botão direito.;
+	}
+
+[The package could not be checked: {detail}]
+	{
+	pt-BR=Não foi possível verificar o pacote: {detail};
+	}
+
+[The package could not be unpacked: {detail}]
+	{
+	pt-BR=Não foi possível descompactar o pacote: {detail};
+	}
+
+[The version installed is kept, and Roll back in the Library brings it back.]
+	{
+	pt-BR=A versão instalada fica guardada, e Reverter na Biblioteca a traz de volta.;
+	}
+
+[The {key} key]
+	{
+	pt-BR=A tecla {key};
+	}
+
+[This copy cannot replace itself. Get the new release from its page.]
+	{
+	pt-BR=Esta cópia não pode se substituir. Obtenha a nova versão na página dela.;
+	}
+
+[This copy is installed for the whole system, so it cannot replace itself. Install the new release the way this copy was installed.]
+	{
+	pt-BR=Esta cópia está instalada para todo o sistema, então não pode se substituir. Instale a nova versão da mesma forma que esta cópia foi instalada.;
+	}
+
+[This layout has problems:]
+	{
+	pt-BR=Este esquema tem problemas:;
+	}
+
+[This mod]
+	{
+	pt-BR=Este mod;
+	}
+
+[This mod needs every player on Open Annihilation. The host plays Total Annihilation 3.1c.]
+	{
+	pt-BR=Este mod exige que todos os jogadores usem o Open Annihilation. O anfitrião joga Total Annihilation 3.1c.;
+	}
+
+[To put the game right]
+	{
+	pt-BR=Para corrigir o jogo;
+	}
+
+[Tournament]
+	{
+	pt-BR=Torneio;
+	}
+
+[Try it here]
+	{
+	pt-BR=Experimente aqui;
+	}
+
+[Turn every helper off]
+	{
+	pt-BR=Desativar auxiliares;
+	}
+
+[Turn off]
+	{
+	pt-BR=Desativar;
+	}
+
+[Turn on {name}]
+	{
+	pt-BR=Ativar {name};
+	}
+
+[Turning it on applies when the Library closes, and then Play now works.]
+	{
+	pt-BR=A ativação vale quando a Biblioteca fecha, e então Jogar agora funciona.;
+	}
+
+[Turning it on applies when the Library closes, and then Use now works.]
+	{
+	pt-BR=A ativação vale quando a Biblioteca fecha, e então Usar agora funciona.;
+	}
+
+[Turning them on applies when the Library closes, and then Play now works.]
+	{
+	pt-BR=A ativação deles vale quando a Biblioteca fecha, e então Jogar agora funciona.;
+	}
+
+[Turning them on applies when the Library closes, and then Use now works.]
+	{
+	pt-BR=A ativação deles vale quando a Biblioteca fecha, e então Usar agora funciona.;
+	}
+
+[U]
+	{
+	pt-BR=U;
+	}
+
+[UPDATES]
+	{
+	pt-BR=ATUALIZAÇÕES;
+	}
+
+[Unbound]
+	{
+	pt-BR=Sem tecla;
+	}
+
+[Undo]
+	{
+	pt-BR=Desfazer;
+	}
+
+[Uninstall]
+	{
+	pt-BR=Desinstalar;
+	}
+
+[Uninstall {name}? Its folder, {folder}, is removed, and with it the copy Roll back keeps.]
+	{
+	pt-BR=Deseja desinstalar {name}? A pasta dele, {folder}, será removida, e com ela a cópia que Reverter guarda.;
+	}
+
+[Unload]
+	{
+	pt-BR=Descarregar;
+	}
+
+[Unload mod]
+	{
+	pt-BR=Desativar mod;
+	}
+
+[Unlocked camera]
+	{
+	pt-BR=Câmera livre;
+	}
+
+[Unpacked the package]
+	{
+	pt-BR=Descompactou o pacote;
+	}
+
+[Up to date]
+	{
+	pt-BR=Atualizado;
+	}
+
+[Up to date · Stable · checked {when}]
+	{
+	pt-BR=Atualizado · Estável · verificado {when};
+	}
+
+[Update]
+	{
+	pt-BR=Atualizar;
+	}
+
+[Updated {name} · {new} changes the game's rules · Roll back restores {old}]
+	{
+	pt-BR={name} atualizado · {new} muda as regras do jogo · Reverter restaura {old};
+	}
+
+[Updated {name} · {new} may change the game's rules · Roll back restores {old}]
+	{
+	pt-BR={name} atualizado · {new} pode mudar as regras do jogo · Reverter restaura {old};
+	}
+
+[Use]
+	{
+	pt-BR=Usar;
+	}
+
+[Use by default]
+	{
+	pt-BR=Usar como padrão;
+	}
+
+[Use for every game]
+	{
+	pt-BR=Usar para todos os jogos;
+	}
+
+[Use for {mod}]
+	{
+	pt-BR=Usar para {mod};
+	}
+
+[Use now]
+	{
+	pt-BR=Usar agora;
+	}
+
+[Use these]
+	{
+	pt-BR=Usar estes;
+	}
+
+[Use this]
+	{
+	pt-BR=Usar este;
+	}
+
+[Use this game]
+	{
+	pt-BR=Usar este jogo;
+	}
+
+[Use {chord} for {action}]
+	{
+	pt-BR=Usar {chord} para {action};
+	}
+
+[Use {key} for {action}…]
+	{
+	pt-BR=Usar {key} para {action}…;
+	}
+
+[Using]
+	{
+	pt-BR=Em uso;
+	}
+
+[Using {layout} for every game.]
+	{
+	pt-BR=Usando o esquema {layout} em todos os jogos.;
+	}
+
+[Using {layout} with {mod}.]
+	{
+	pt-BR=Usando o esquema {layout} com {mod}.;
+	}
+
+[V]
+	{
+	pt-BR=V;
+	}
+
+[W]
+	{
+	pt-BR=W;
+	}
+
+[WHEN I QUIT]
+	{
+	pt-BR=AO SAIR;
+	}
+
+[Waited for the game to close]
+	{
+	pt-BR=Aguardou o fechamento do jogo;
+	}
+
+[Watching]
+	{
+	pt-BR=Espectador;
+	}
+
+[What happened]
+	{
+	pt-BR=O que aconteceu;
+	}
+
+[What moves]
+	{
+	pt-BR=O que muda;
+	}
+
+[What {key} does]
+	{
+	pt-BR=O que {key} faz;
+	}
+
+[What's new]
+	{
+	pt-BR=Novidades;
+	}
+
+[Wheel]
+	{
+	pt-BR=Roda;
+	}
+
+[Wheel and middle]
+	{
+	pt-BR=Roda e botão do meio;
+	}
+
+[Wheel zoom]
+	{
+	pt-BR=Zoom com a roda;
+	}
+
+[When I quit]
+	{
+	pt-BR=Ao sair;
+	}
+
+[When should it go in?]
+	{
+	pt-BR=Quando instalar?;
+	}
+
+[Where]
+	{
+	pt-BR=Onde;
+	}
+
+[While playing]
+	{
+	pt-BR=Ao jogar;
+	}
+
+[While watching]
+	{
+	pt-BR=Ao assistir;
+	}
+
+[Whiteboard held]
+	{
+	pt-BR=Quadro branco segurado;
+	}
+
+[Window]
+	{
+	pt-BR=Janela;
+	}
+
+[Window size]
+	{
+	pt-BR=Tamanho da janela;
+	}
+
+[Windows asks for permission.]
+	{
+	pt-BR=O Windows pede permissão.;
+	}
+
+[With {mod}: {name}]
+	{
+	pt-BR=Com {mod}: {name};
+	}
+
+[You are playing {name}. Switch it off first with Switch off, then uninstall it.]
+	{
+	pt-BR=Você está jogando {name}. Desative-o primeiro com Desativar e depois desinstale-o.;
+	}
+
+[You went back to {old}, with the settings you had.]
+	{
+	pt-BR=Voltou para a versão {old}, com as configurações de antes.;
+	}
+
+[Your 1 change to {name}]
+	{
+	pt-BR=Sua 1 alteração em {name};
+	}
+
+[Your change]
+	{
+	pt-BR=Sua alteração;
+	}
+
+[Your change, over {layout}]
+	{
+	pt-BR=Sua alteração, sobre {layout};
+	}
+
+[Your changes]
+	{
+	pt-BR=Suas alterações;
+	}
+
+[Your last campaign set, ready to use. Cancel plays without mutators.]
+	{
+	pt-BR=Seu último conjunto de campanha, pronto para usar. Cancelar joga sem mutadores.;
+	}
+
+[Your last multiplayer set, ready to use. Cancel plays without mutators.]
+	{
+	pt-BR=Seu último conjunto multijogador, pronto para usar. Cancelar joga sem mutadores.;
+	}
+
+[Your last skirmish set, ready to use. Cancel plays without mutators.]
+	{
+	pt-BR=Seu último conjunto de escaramuça, pronto para usar. Cancelar joga sem mutadores.;
+	}
+
+[Your saved games, settings and mods are not touched by this.]
+	{
+	pt-BR=Isto não afeta seus jogos salvos, configurações nem mods.;
+	}
+
+[Your saved games, settings and mods stay as they are.]
+	{
+	pt-BR=Seus jogos salvos, configurações e mods ficam como estão.;
+	}
+
+[Your {count} changes to {name}]
+	{
+	pt-BR=Suas {count} alterações em {name};
+	}
+
+[a second]
+	{
+	pt-BR=por segundo;
+	}
+
+[about {minutes} minutes left]
+	{
+	pt-BR=faltam cerca de {minutes} minutos;
+	}
+
+[always]
+	{
+	pt-BR=sempre;
+	}
+
+[and 1 change of your own]
+	{
+	pt-BR=e 1 alteração sua;
+	}
+
+[and {count} more]
+	{
+	pt-BR=e mais {count};
+	}
+
+[and {n} changes of your own]
+	{
+	pt-BR=e {n} alterações suas;
+	}
+
+[and {n} more]
+	{
+	pt-BR=e mais {n};
+	}
+
+[any keyboard]
+	{
+	pt-BR=qualquer teclado;
+	}
+
+[cnc-ddraw's ddraw.ini]
+	{
+	pt-BR=ddraw.ini do cnc-ddraw;
+	}
+
+[game paused]
+	{
+	pt-BR=jogo pausado;
+	}
+
+[held]
+	{
+	pt-BR=segurado;
+	}
+
+[in place of]
+	{
+	pt-BR=no lugar de;
+	}
+
+[latches]
+	{
+	pt-BR=fixa;
+	}
+
+[less than a minute left]
+	{
+	pt-BR=falta menos de um minuto;
+	}
+
+[more than an hour left]
+	{
+	pt-BR=falta mais de uma hora;
+	}
+
+[not in the loaded units]
+	{
+	pt-BR=não está nas unidades carregadas;
+	}
+
+[not installed]
+	{
+	pt-BR=não instalado;
+	}
+
+[not used by Open Annihilation]
+	{
+	pt-BR=não usada pelo Open Annihilation;
+	}
+
+[on {date}]
+	{
+	pt-BR=em {date};
+	}
+
+[px]
+	{
+	pt-BR=px;
+	}
+
+[ready]
+	{
+	pt-BR=pronta;
+	}
+
+[release]
+	{
+	pt-BR=soltar;
+	}
+
+[tdraw's Settings.ini]
+	{
+	pt-BR=Settings.ini do tdraw;
+	}
+
+[the button]
+	{
+	pt-BR=o botão;
+	}
+
+[the left-click interface]
+	{
+	pt-BR=a interface de clique esquerdo;
+	}
+
+[the mod's data]
+	{
+	pt-BR=dados do mod;
+	}
+
+[the right-click interface]
+	{
+	pt-BR=a interface de clique direito;
+	}
+
+[today at {time}]
+	{
+	pt-BR=hoje às {time};
+	}
+
+[wheel]
+	{
+	pt-BR=roda;
+	}
+
+[while playing]
+	{
+	pt-BR=ao jogar;
+	}
+
+[while watching]
+	{
+	pt-BR=ao assistir;
+	}
+
+[yesterday at {time}]
+	{
+	pt-BR=ontem às {time};
+	}
+
+[yours]
+	{
+	pt-BR=sua;
+	}
+
+[{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and Roll back brings it back.]
+	{
+	pt-BR={To} muda as regras do jogo. Jogos salvos de {from} não carregarão com {to}. {From} fica guardado, e Reverter o traz de volta.;
+	}
+
+[{action} and {name} both use it {context}. Choose which keeps it; nothing changes until you confirm.]
+	{
+	pt-BR={action} e {name} usam o mesmo atalho {context}. Escolha qual deles o mantém. Nada muda até a confirmação.;
+	}
+
+[{chords}, from the mod's order panel ({gadget})]
+	{
+	pt-BR={chords}, origem: painel de ordens do mod ({gadget});
+	}
+
+[{chords}, from {source}]
+	{
+	pt-BR={chords}, origem: {source};
+	}
+
+[{chord} also does {name} {context}. That never meets {where}, so it stays.]
+	{
+	pt-BR={chord} também faz {name} {context}. Isso nunca coincide com o que vale {where}, então permanece.;
+	}
+
+[{chord} counted, then {keys} let go.]
+	{
+	pt-BR={chord} contou e, depois, as teclas {keys} foram soltas.;
+	}
+
+[{chord} counted.]
+	{
+	pt-BR={chord} contou.;
+	}
+
+[{chord} does two things]
+	{
+	pt-BR={chord} faz duas coisas;
+	}
+
+[{chord} is already in use]
+	{
+	pt-BR={chord} já está em uso;
+	}
+
+[{chord} is free {context}]
+	{
+	pt-BR={chord} está livre {context};
+	}
+
+[{chord} is free {context}.]
+	{
+	pt-BR={chord} está livre {context}.;
+	}
+
+[{chord} is free: nothing uses it.]
+	{
+	pt-BR={chord} está livre: nada o usa.;
+	}
+
+[{chord} is in use {context}]
+	{
+	pt-BR={chord} está em uso {context};
+	}
+
+[{chord} is used in 1 place. Nothing is changed.]
+	{
+	pt-BR={chord} é usado em 1 lugar. Nada é alterado.;
+	}
+
+[{chord} is used in {n} places. Nothing is changed.]
+	{
+	pt-BR={chord} é usado em {n} lugares. Nada é alterado.;
+	}
+
+[{command} on {key}]
+	{
+	pt-BR={command} em {key};
+	}
+
+[{command} with no key]
+	{
+	pt-BR={command} sem tecla;
+	}
+
+[{count} changes of your own]
+	{
+	pt-BR={count} alterações suas;
+	}
+
+[{count} commands]
+	{
+	pt-BR={count} ações;
+	}
+
+[{count} of {limit}]
+	{
+	pt-BR={count} de {limit};
+	}
+
+[{count} settings changed]
+	{
+	pt-BR={count} configurações alteradas;
+	}
+
+[{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and Roll back brings it back.]
+	{
+	pt-BR={count} atualizações mudam as regras do jogo: {names}. Jogos salvos das versões atuais não carregarão com as novas. Cada uma fica guardada, e Reverter a traz de volta.;
+	}
+
+[{description} · {chord}]
+	{
+	pt-BR={description} · {chord};
+	}
+
+[{done} of {size} · {percent}%]
+	{
+	pt-BR={done} de {size} · {percent}%;
+	}
+
+[{done} of {whole} s · let go to cancel]
+	{
+	pt-BR={done} de {whole} s · solte para cancelar;
+	}
+
+[{first}…{last}]
+	{
+	pt-BR={first}…{last};
+	}
+
+[{folder} is a folder of your own, not {name}. Move or rename it, then Retry.]
+	{
+	pt-BR={folder} é uma pasta sua, não {name}. Mova-a ou renomeie-a e depois use Tentar novamente.;
+	}
+
+[{key} did not count: let go after {held} of {wait} s.]
+	{
+	pt-BR=A tecla {key} não contou: foi solta após {held} de {wait} s.;
+	}
+
+[{key} did not count: pressed again within {wait} s.]
+	{
+	pt-BR=A tecla {key} não contou: pressionada de novo em menos de {wait} s.;
+	}
+
+[{key} held {held} of {wait} s.]
+	{
+	pt-BR=Tecla {key} segurada: {held} de {wait} s.;
+	}
+
+[{key} let go.]
+	{
+	pt-BR=A tecla {key} foi solta.;
+	}
+
+[{key} stays down for the next key.]
+	{
+	pt-BR=A tecla {key} fica pressionada para a próxima tecla.;
+	}
+
+[{key} stays down until you tap it again.]
+	{
+	pt-BR=A tecla {key} fica pressionada até ser tocada de novo.;
+	}
+
+[{layout} · 1 change]
+	{
+	pt-BR={layout} · 1 alteração;
+	}
+
+[{layout} · {n} changes]
+	{
+	pt-BR={layout} · {n} alterações;
+	}
+
+[{modifier} · locked]
+	{
+	pt-BR={modifier} · bloqueado;
+	}
+
+[{modifier} · next key or click]
+	{
+	pt-BR={modifier} · próxima tecla ou clique;
+	}
+
+[{name} ({count})]
+	{
+	pt-BR={name} ({count});
+	}
+
+[{name} already has 1 change of your own; it stays.]
+	{
+	pt-BR={name} já tem 1 alteração sua, que permanece.;
+	}
+
+[{name} already has {count} changes of your own; they stay.]
+	{
+	pt-BR={name} já tem {count} alterações suas, que permanecem.;
+	}
+
+[{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and Roll back brings it back.]
+	{
+	pt-BR={name} de {installed} está instalado. Deseja substituí-lo por {name} de {new}? O de {installed} fica guardado, e Reverter o traz de volta.;
+	}
+
+[{name} uses it {context}. Choose what happens; nothing changes until you confirm.]
+	{
+	pt-BR=O atalho é usado por {name} {context}. Escolha o que acontece. Nada muda até a confirmação.;
+	}
+
+[{name} uses it. Nothing changes until you choose.]
+	{
+	pt-BR=O atalho é usado por {name}. Nada muda até a escolha.;
+	}
+
+[{name} · 1 change of your own]
+	{
+	pt-BR={name} · 1 alteração sua;
+	}
+
+[{name} · Add from…]
+	{
+	pt-BR={name} · Adicionar de…;
+	}
+
+[{name} · made for {mod}]
+	{
+	pt-BR={name} · feito para {mod};
+	}
+
+[{name} · {n} changes]
+	{
+	pt-BR={name} · {n} alterações;
+	}
+
+[{name} · {n} changes of your own]
+	{
+	pt-BR={name} · {n} alterações suas;
+	}
+
+[{name}: {description} {context}. OK asks what to do.]
+	{
+	pt-BR={name}: {description} {context}. OK pergunta o que fazer.;
+	}
+
+[{number} · {heading}]
+	{
+	pt-BR={number} · {heading};
+	}
+
+[{primary}+/ in a match shows the keys.]
+	{
+	pt-BR={primary}+/ durante uma partida mostra as teclas.;
+	}
+
+[{problem} Retry tries again.]
+	{
+	pt-BR={problem} Tentar novamente repete a tentativa.;
+	}
+
+[{problem} · Retry]
+	{
+	pt-BR={problem} · Tentar novamente;
+	}
+
+[{shape} · from your system]
+	{
+	pt-BR={shape} · do seu sistema;
+	}
+
+[{title} is back to {new}. {old} is kept, and Roll back brings it back.]
+	{
+	pt-BR={title} voltou para {new}. {old} fica guardado, e Reverter o traz de volta.;
+	}
+
+[{title} is now {new}. {old} is kept, and Roll back in the Library brings it back.]
+	{
+	pt-BR={title} agora está na versão {new}. {old} fica guardado, e Reverter na Biblioteca o traz de volta.;
+	}
+
+[{title} {to}, the version kept for Roll back, cannot be played.]
+	{
+	pt-BR={title} {to}, a versão guardada para Reverter, não pode ser jogada.;
+	}
+
+[{wheel} rotates]
+	{
+	pt-BR={wheel} gira;
+	}
+
+[· 1 change of your own]
+	{
+	pt-BR=· 1 alteração sua;
+	}
+
+[· your change]
+	{
+	pt-BR=· sua alteração;
+	}
+
+[· {count} changes of your own]
+	{
+	pt-BR=· {count} alterações suas;
+	}
+
+[▲ Up]
+	{
+	pt-BR=▲ Subir;
+	}
+
+[▼ Down]
+	{
+	pt-BR=▼ Descer;
+	}
+
+// Settings › Accessibility: Move overlays, and where the overlays show.
+
+[Move overlays]
+	{
+	pt-BR=Mover sobreposições;
+	}
+
+[The keys overlay, the chat line and the latch chips show where you put them.]
+	{
+	pt-BR=A sobreposição de teclas, a linha de chat e os indicadores de fixação aparecem onde forem colocados.;
+	}
+
+[Off, they show where the game puts them.]
+	{
+	pt-BR=Desligado, aparecem onde o jogo os coloca.;
+	}
+
+[Overlay places]
+	{
+	pt-BR=Posições das sobreposições;
+	}
+
+[Your places]
+	{
+	pt-BR=Suas posições;
+	}
+
+[The game's places]
+	{
+	pt-BR=Posições do jogo;
+	}
+
+[Arrange…]
+	{
+	pt-BR=Organizar…;
+	}
+
+[Drag them on a picture of the match. Each window size keeps its own places.]
+	{
+	pt-BR=Arraste-as em uma imagem da partida. Cada tamanho de janela guarda as próprias posições.;
+	}
+
+// Arrange overlays: the picture of the match, and its sample chat.
+
+[Side panel]
+	{
+	pt-BR=Painel lateral;
+	}
+
+[Top bar]
+	{
+	pt-BR=Barra superior;
+	}
+
+[Bottom bar]
+	{
+	pt-BR=Barra inferior;
+	}
+
+[Ready when you are]
+	{
+	pt-BR=Quando quiser;
+	}
+
+// Settings › Controls: whether a group's key also centres the view.
+
+[Group keys centre the view]
+	{
+	pt-BR=Teclas de grupo centralizam a visão;
+	}
+
+[Whether a group's key also moves the view to the group.]
+	{
+	pt-BR=Se a tecla de um grupo também leva a visão até o grupo.;
+	}
+
+[On a double press]
+	{
+	pt-BR=Em pressão dupla;
+	}
+
+[On every press]
+	{
+	pt-BR=A cada pressão;
+	}
+
+// The battle room's mutators button. The colon became a middle dot.
+
+[Mutators · off]
+	{
+	pt-BR=Mutadores · desl.;
+	}
+
+[Mutators · {count} on]
+	{
+	pt-BR=Mutadores · {count} lig.;
+	}
+
+// The key editor: Rename and Describe…, and the Clone and Rename questions.
+
+[Rename and Describe…]
+	{
+	pt-BR=Renomear e descrever…;
+	}
+
+[Clone {layout}]
+	{
+	pt-BR=Clonar {layout};
+	}
+
+[Rename and Describe {layout}]
+	{
+	pt-BR=Renomear e descrever {layout};
+	}
+
+[Description]
+	{
+	pt-BR=Descrição;
+	}
+
+[Copy of {layout}]
+	{
+	pt-BR=Cópia de {layout};
+	}
+
+[Based on {layout}]
+	{
+	pt-BR=Com base em {layout};
+	}
+
+[Another key layout is called {name}.]
+	{
+	pt-BR=Outro esquema de teclas se chama {name}.;
+	}
+
+[This name is too long.]
+	{
+	pt-BR=Este nome é longo demais.;
+	}
+
+[Clone]
+	{
+	pt-BR=Clonar;
+	}
+
+// The in-game menu's OA Settings button.
+
+[OA Settings]
+	{
+	pt-BR=Configurações do OA;
+	}
+
+// Library filters: the heading over world tags, beside TAGS.
+
+[WORLD]
+	{
+	pt-BR=MUNDO;
+	}
+
+[World: {tag} ({count})]
+	{
+	pt-BR=Mundo: {tag} ({count});
+	}
+
+// Named keys: Option, the name a Mac gives the Alt key.
+
+[Option]
+	{
+	pt-BR=Option;
+	}
+
+// The Library's header: OPEN ANNIHILATION LIBRARY.
+
+[LIBRARY]
+	{
+	pt-BR=BIBLIOTECA;
+	}
+
+// The key editor's More menu: Layouts, then Sharing, and Clone's note.
+
+[Layouts]
+	{
+	pt-BR=Esquemas;
+	}
+
+[Import New Layout…]
+	{
+	pt-BR=Importar novo esquema…;
+	}
+
+[Clone as New Layout…]
+	{
+	pt-BR=Clonar como novo esquema…;
+	}
+
+[Share My Custom Keys…]
+	{
+	pt-BR=Compartilhar minhas teclas personalizadas…;
+	}
+
+[Paste Someone's Layout…]
+	{
+	pt-BR=Colar o esquema de alguém…;
+	}
+
+[A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share My Custom Keys… saves it as a file.]
+	{
+	pt-BR=Um esquema de teclas só seu, a partir de {layout} e das suas alterações. Ele abre aqui. Salvar alterações o mantém, e Compartilhar minhas teclas personalizadas… o salva como arquivo.;
+	}
+
+// The key editor's Share My Custom Keys.
+
+[Share My Custom Keys]
+	{
+	pt-BR=Compartilhar minhas teclas personalizadas;
+	}
+
+[From {layout} · {n} keys and {m} helpers changed]
+	{
+	pt-BR=De {layout} · {n} teclas e {m} auxiliares alterados;
+	}
+
+[From {layout} · 1 key and 1 helper changed]
+	{
+	pt-BR=De {layout} · 1 tecla e 1 auxiliar alterados;
+	}
+
+[From {layout} · 1 key and {m} helpers changed]
+	{
+	pt-BR=De {layout} · 1 tecla e {m} auxiliares alterados;
+	}
+
+[From {layout} · {n} keys and 1 helper changed]
+	{
+	pt-BR=De {layout} · {n} teclas e 1 auxiliar alterados;
+	}
+
+[No changes from {layout} yet: there is nothing to share]
+	{
+	pt-BR=Ainda não há alterações em relação a {layout}: nada para compartilhar;
+	}
+
+[As a file]
+	{
+	pt-BR=Como arquivo;
+	}
+
+[An .oakeys file anyone can open in Open Annihilation to install your layout.]
+	{
+	pt-BR=Um arquivo .oakeys que qualquer pessoa pode abrir no Open Annihilation para instalar o seu esquema.;
+	}
+
+[Open Folder]
+	{
+	pt-BR=Abrir pasta;
+	}
+
+[As text]
+	{
+	pt-BR=Como texto;
+	}
+
+[Your changed keys as text, for a forum or a chat.]
+	{
+	pt-BR=Suas teclas alteradas como texto, para um fórum ou um chat.;
+	}
+
+// The key editor's Paste Someone's Layout.
+
+[Paste Someone's Layout]
+	{
+	pt-BR=Colar o esquema de alguém;
+	}
+
+[The text you copied changes {n} keys of {layout}.]
+	{
+	pt-BR=O texto copiado altera {n} teclas de {layout}.;
+	}
+
+[The text you copied changes 1 key of {layout}.]
+	{
+	pt-BR=O texto copiado altera 1 tecla de {layout}.;
+	}
+
+[By place]
+	{
+	pt-BR=Por posição;
+	}
+
+[Clash]
+	{
+	pt-BR=Conflito;
+	}
+
+[{key} already belongs to {action}. Apply keeps yours and lists the clash.]
+	{
+	pt-BR={key} já pertence à ação {action}. Aplicar mantém a sua e lista o conflito.;
+	}
+
+[Kept in your layout for a version that has it.]
+	{
+	pt-BR=Fica no seu esquema para uma versão que tenha esta ação.;
+	}
+
+[Copy someone's shared key text first (it starts with # oakeys), then choose Paste Someone's Layout again.]
+	{
+	pt-BR=Copie primeiro o texto de teclas compartilhado por alguém (começa com # oakeys) e escolha Colar o esquema de alguém de novo.;
+	}
+
+// Settings › Graphics: New unit shadows, and its hint while on and while off.
+
+[New unit shadows]
+	{
+	pt-BR=Novas sombras de unidades;
+	}
+
+[Softer aircraft shadows, laid under every unit and tree (Full).]
+	{
+	pt-BR=Sombras de aeronave mais suaves, colocadas sob cada unidade e árvore (Completo).;
+	}
+
+[Units cast the original game's shadows, as trees and rocks do.]
+	{
+	pt-BR=As unidades projetam as sombras do jogo original, como árvores e rochas.;
+	}
+
+// Settings › Updates: when OA looks for a newer release.
+
+[OA looks for a newer Open Annihilation at every start and every hour while it runs. It never installs one until you say so.]
+	{
+	pt-BR=O OA procura uma versão mais recente do Open Annihilation a cada início e a cada hora enquanto está aberto. Nunca instala nenhuma sem a sua autorização.;
+	}
+
+// Game files: the Play button.
+
+[Play]
+	{
+	pt-BR=Jogar;
+	}
+
+// Settings › Controls' Double-click selects, Settings › General's When the window
+// loses focus, the mutator picker's header and the update screen's headers.
+
+[Double-click selects]
+	{
+	pt-BR=Clique duplo seleciona;
+	}
+
+[Where a double-click on a unit selects its type.]
+	{
+	pt-BR=Onde um clique duplo em uma unidade seleciona as do mesmo tipo.;
+	}
+
+[On screen]
+	{
+	pt-BR=Na tela;
+	}
+
+[On the map]
+	{
+	pt-BR=No mapa;
+	}
+
+[When the window loses focus]
+	{
+	pt-BR=Quando a janela perde o foco;
+	}
+
+[Whether a single-player game pauses while away.]
+	{
+	pt-BR=Se uma partida de um jogador é pausada enquanto a janela não está em foco.;
+	}
+
+[Pause single player]
+	{
+	pt-BR=Pausar (um jogador);
+	}
+
+[Keep playing]
+	{
+	pt-BR=Continuar jogando;
+	}
+
+[MUTATORS]
+	{
+	pt-BR=MUTADORES;
+	}
+
+[That type on screen, or on the map, as Settings says]
+	{
+	pt-BR=Esse tipo na tela, ou no mapa, conforme as configurações;
+	}
+
+[The selected types on screen, or that type on the map, as Settings says]
+	{
+	pt-BR=Os tipos selecionados na tela, ou esse tipo no mapa, conforme as configurações;
+	}
+
+[VERSION {version} AVAILABLE]
+	{
+	pt-BR=VERSÃO {version} DISPONÍVEL;
+	}
+
+[VERSION {version} READY]
+	{
+	pt-BR=VERSÃO {version} PRONTA;
 	}
