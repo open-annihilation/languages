@@ -281,6 +281,20 @@ class CheckTests(unittest.TestCase):
         self.assertIn("interface.tdf uses 21 characters the game's fonts (Windows-1252) lack: "
                       "М (U+041C, line 6)", output)
         self.assertNotIn("«", output)  # Windows-1252 holds the guillemets and the dash
+        self.assertNotIn("does not set unicode: true", output)
+
+    def test_the_game_fonts_without_unicode_fail(self) -> None:
+        pack = Path(self.folder.name) / "cyrillic"
+        shutil.copytree(FIXTURES / "cyrillic", pack)
+        manifest = pack / "language.yaml"
+        manifest.write_text(
+            manifest.read_text(encoding="utf-8")
+            .replace("modern-fonts", "game-fonts").replace("unicode: true\n", ""),
+            encoding="utf-8")
+        code, output = run([str(pack)])
+        self.assertEqual(code, 1, output)
+        self.assertEqual(output.count("does not set unicode: true"), 1, output)
+        self.assertIn("interface.tdf holds М (U+041C, line 6), which would show garbled", output)
 
     def test_missing_pack_is_skipped(self) -> None:
         code, output = run([str(FIXTURES / "not-a-pack")])

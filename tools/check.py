@@ -41,7 +41,8 @@ or the pack's fonts, and each visible character must be in one of them, in
 the faces every weight looks in. The engine's faces are read from the
 record fonts/engine-faces.json, or from an engine build's fonts folder
 with --engine-fonts. A language drawn in the game's fonts keeps to their
-code page, Windows-1252.
+code page, Windows-1252, and a pack of one whose text goes beyond ASCII
+must set unicode: true, as the game reads its UTF-8 so only then.
 
 In interface.tdf, each translation must keep the places of its English
 ({name}, %s and the like) and each of its numbers.
@@ -566,13 +567,16 @@ def check_characters(
     One that only a CJK face draws must be in the pack's fonts. In a
     language whose text needs the modern fonts, every other visible
     character must be in the engine's base faces (engine) or the pack's
-    fonts; in one drawn in the game's fonts, in their code page.
+    fonts; in one drawn in the game's fonts, in their code page, and a
+    character beyond ASCII needs unicode: true for the game to read it.
     """
     held = cut_characters(found, deps, report, pack_recipes(values))
     if held is None:
         return
     engine = engine or EngineFaces()
     modern = modern_fonts(values)
+    read_as_utf8 = modern or values.get("unicode") is True
+    misread: tuple[Path, str, int] | None = None
     for path in pack_texts(pack, values):
         try:
             text = path.read_bytes().decode("utf-8")
@@ -583,6 +587,8 @@ def check_characters(
         for number, line in enumerate(text.splitlines(), start=1):
             for character in line:
                 code = ord(character)
+                if code > 0x7F and not read_as_utf8 and misread is None:
+                    misread = (path, character, number)
                 if code > 0x7F and font_cut.cjk_block(code):
                     if code not in held:
                         lacking.setdefault(character, number)
@@ -602,6 +608,13 @@ def check_characters(
                 else "the game's fonts (Windows-1252)"
             )
             report.fail(lacking_line(pack, path, undrawn, what))
+    if misread is not None:
+        path, character, number = misread
+        report.fail(
+            "language.yaml does not set unicode: true, without which the game reads the "
+            f"pack's UTF-8 in its code page: {path.relative_to(pack).as_posix()} holds "
+            f"{character} (U+{ord(character):04X}, line {number}), which would show garbled"
+        )
 
 
 def check_manifest(pack: Path, report: Report) -> dict:

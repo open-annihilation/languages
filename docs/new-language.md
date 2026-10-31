@@ -37,12 +37,12 @@ The game draws text two ways, and the pack's manifest says which it needs.
   the way today. A pack's tables are UTF-8, and this engine reads them as
   UTF-8 only while `unicode: true` or the modern fonts are on, so a pack in
   the game's fonts needs `unicode: true` too, or every accented letter
-  shows garbled. And 3.1c's menu fonts (`hattfont11.gaf`, `hattfont12.gaf`)
-  hold a box, not a letter, for ã, õ, Ã, Õ, Ç, Â, Ê, Ô and À, which this
-  engine draws as it finds it; their other fonts hold every letter of the
-  code page. Portuguese needs those letters, so its pack uses the modern
-  fonts, and its menu captions still show the boxes until the engine draws
-  them in the modern fonts instead.
+  shows garbled (`tools/check.py` fails one without it). And 3.1c's menu
+  fonts (`hattfont11.gaf`, `hattfont12.gaf`) hold a box, not a letter, for
+  ã, õ, Ã, Õ, Ç, Â, Ê, Ô and À, which engine 0.8.9 draws as it finds it;
+  the release after it draws a caption holding one in the modern fonts.
+  Their other fonts hold every letter of the code page. Portuguese needs
+  those letters, so its pack uses the modern fonts.
 
   Decide with a probe before translating: a manifest, a `translate.tdf`
   with a few of the main menu's and the single-player menu's captions
