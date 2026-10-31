@@ -9441,11 +9441,6 @@
 	ko=시점을 드래그합니다.;
 	}
 
-[Every unit of that type on the map]
-	{
-	ko=맵의 같은 유형 전체;
-	}
-
 [Held with the queue modifier: a build button adds or takes 100]
 	{
 	ko=대기열 조합 키와 함께 누름: 건설 버튼이 100을 더하거나 뺍니다.;
@@ -9649,11 +9644,6 @@
 [Selects the unit under the pointer, or starts a box]
 	{
 	ko=포인터 아래의 유닛을 선택하거나, 선택 상자를 시작합니다.;
-	}
-
-[That type on screen only]
-	{
-	ko=화면의 해당 유형만;
 	}
 
 [The order the pointer shows]
@@ -12538,11 +12528,6 @@
 [Open Annihilation {version} is out]
 	{
 	ko=Open Annihilation {version} 출시됨;
-	}
-
-[Open Annihilation {version} is ready]
-	{
-	ko=Open Annihilation {version} 준비됨;
 	}
 
 [Open your software centre to update it.]
@@ -15942,5 +15927,73 @@
 [Play]
 	{
 	ko=플레이;
+	}
+
+// Settings › Controls' Double-click selects, Settings › General's When the window
+// loses focus, the mutator picker's header and the update screen's headers.
+
+[Double-click selects]
+	{
+	ko=더블 클릭 선택 범위;
+	}
+
+[Where a double-click on a unit selects its type.]
+	{
+	ko=유닛을 더블 클릭했을 때 같은 유형을 선택하는 범위입니다.;
+	}
+
+[On screen]
+	{
+	ko=화면 안;
+	}
+
+[On the map]
+	{
+	ko=맵 전체;
+	}
+
+[When the window loses focus]
+	{
+	ko=창이 포커스를 잃었을 때;
+	}
+
+[Whether a single-player game pauses while away.]
+	{
+	ko=창을 벗어나 있는 동안 싱글 플레이어 게임을 일시 정지할지 여부입니다.;
+	}
+
+[Pause single player]
+	{
+	ko=싱글 플레이어 일시 정지;
+	}
+
+[Keep playing]
+	{
+	ko=계속 플레이;
+	}
+
+[MUTATORS]
+	{
+	ko=뮤테이터;
+	}
+
+[That type on screen, or on the map, as Settings says]
+	{
+	ko=설정에 따라 화면 안 또는 맵 전체의 해당 유형;
+	}
+
+[The selected types on screen, or that type on the map, as Settings says]
+	{
+	ko=설정에 따라 화면 안의 선택한 유형, 또는 맵 전체의 해당 유형;
+	}
+
+[VERSION {version} AVAILABLE]
+	{
+	ko=버전 {version} 사용 가능;
+	}
+
+[VERSION {version} READY]
+	{
+	ko=버전 {version} 준비됨;
 	}
 

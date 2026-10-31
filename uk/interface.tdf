@@ -9441,11 +9441,6 @@
 	uk=Перетягує вид;
 	}
 
-[Every unit of that type on the map]
-	{
-	uk=Кожен юніт цього типу на мапі;
-	}
-
 [Held with the queue modifier: a build button adds or takes 100]
 	{
 	uk=Утримано з модифікатором черги: кнопка будування додає або знімає 100;
@@ -9649,11 +9644,6 @@
 [Selects the unit under the pointer, or starts a box]
 	{
 	uk=Виділяє юніт під вказівником або починає рамку;
-	}
-
-[That type on screen only]
-	{
-	uk=Лише цей тип на екрані;
 	}
 
 [The order the pointer shows]
@@ -12538,11 +12528,6 @@
 [Open Annihilation {version} is out]
 	{
 	uk=Open Annihilation {version} вийшла;
-	}
-
-[Open Annihilation {version} is ready]
-	{
-	uk=Open Annihilation {version} готова;
 	}
 
 [Open your software centre to update it.]
@@ -15942,5 +15927,73 @@
 [Play]
 	{
 	uk=Грати;
+	}
+
+// Settings › Controls' Double-click selects, Settings › General's When the window
+// loses focus, the mutator picker's header and the update screen's headers.
+
+[Double-click selects]
+	{
+	uk=Подвійний клік виділяє;
+	}
+
+[Where a double-click on a unit selects its type.]
+	{
+	uk=Де подвійний клік по юніту виділяє юніти того ж типу.;
+	}
+
+[On screen]
+	{
+	uk=На екрані;
+	}
+
+[On the map]
+	{
+	uk=На мапі;
+	}
+
+[When the window loses focus]
+	{
+	uk=Коли вікно втрачає фокус;
+	}
+
+[Whether a single-player game pauses while away.]
+	{
+	uk=Чи ставиться гра для одного гравця на паузу, поки вікно неактивне.;
+	}
+
+[Pause single player]
+	{
+	uk=Пауза для одного гравця;
+	}
+
+[Keep playing]
+	{
+	uk=Грати далі;
+	}
+
+[MUTATORS]
+	{
+	uk=МУТАТОРИ;
+	}
+
+[That type on screen, or on the map, as Settings says]
+	{
+	uk=Цей тип на екрані або на мапі, як задано в Налаштуваннях;
+	}
+
+[The selected types on screen, or that type on the map, as Settings says]
+	{
+	uk=Виділені типи на екрані або цей тип на мапі, як задано в Налаштуваннях;
+	}
+
+[VERSION {version} AVAILABLE]
+	{
+	uk=ДОСТУПНА ВЕРСІЯ {version};
+	}
+
+[VERSION {version} READY]
+	{
+	uk=ВЕРСІЯ {version} ГОТОВА;
 	}
 

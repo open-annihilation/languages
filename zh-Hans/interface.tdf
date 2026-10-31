@@ -9443,11 +9443,6 @@
 	zh-Hans=拖动视角。;
 	}
 
-[Every unit of that type on the map]
-	{
-	zh-Hans=地图上该类型的全部单位;
-	}
-
 [Held with the queue modifier: a build button adds or takes 100]
 	{
 	zh-Hans=与排队修饰键一起按住：建造按钮增加或减少100;
@@ -9651,11 +9646,6 @@
 [Selects the unit under the pointer, or starts a box]
 	{
 	zh-Hans=选择指针下的单位，或开始框选;
-	}
-
-[That type on screen only]
-	{
-	zh-Hans=仅屏幕内的该类型;
 	}
 
 [The order the pointer shows]
@@ -12540,11 +12530,6 @@
 [Open Annihilation {version} is out]
 	{
 	zh-Hans=Open Annihilation {version}已发布;
-	}
-
-[Open Annihilation {version} is ready]
-	{
-	zh-Hans=Open Annihilation {version}已就绪;
 	}
 
 [Open your software centre to update it.]
@@ -15944,5 +15929,73 @@
 [Play]
 	{
 	zh-Hans=开始游戏;
+	}
+
+// Settings › Controls' Double-click selects, Settings › General's When the window
+// loses focus, the mutator picker's header and the update screen's headers.
+
+[Double-click selects]
+	{
+	zh-Hans=双击选择范围;
+	}
+
+[Where a double-click on a unit selects its type.]
+	{
+	zh-Hans=双击单位时选择同类型单位的范围。;
+	}
+
+[On screen]
+	{
+	zh-Hans=屏幕内;
+	}
+
+[On the map]
+	{
+	zh-Hans=整张地图;
+	}
+
+[When the window loses focus]
+	{
+	zh-Hans=窗口失去焦点时;
+	}
+
+[Whether a single-player game pauses while away.]
+	{
+	zh-Hans=窗口不在前台时，单人游戏是否暂停。;
+	}
+
+[Pause single player]
+	{
+	zh-Hans=暂停单人游戏;
+	}
+
+[Keep playing]
+	{
+	zh-Hans=继续游戏;
+	}
+
+[MUTATORS]
+	{
+	zh-Hans=变异器;
+	}
+
+[That type on screen, or on the map, as Settings says]
+	{
+	zh-Hans=屏幕内或整张地图上的该类型，依设置而定;
+	}
+
+[The selected types on screen, or that type on the map, as Settings says]
+	{
+	zh-Hans=屏幕内已选中的类型，或整张地图上的该类型，依设置而定;
+	}
+
+[VERSION {version} AVAILABLE]
+	{
+	zh-Hans=版本{version}可用;
+	}
+
+[VERSION {version} READY]
+	{
+	zh-Hans=版本{version}已就绪;
 	}
 

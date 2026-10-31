@@ -9441,11 +9441,6 @@
 	ja=視点をドラッグします。;
 	}
 
-[Every unit of that type on the map]
-	{
-	ja=マップ上の同種をすべて;
-	}
-
 [Held with the queue modifier: a build button adds or takes 100]
 	{
 	ja=予約の修飾キーを押したまま：建設ボタンで100個を追加、または100個を減らします。;
@@ -9649,11 +9644,6 @@
 [Selects the unit under the pointer, or starts a box]
 	{
 	ja=ポインター下のユニットを選択するか、選択枠を開始します。;
-	}
-
-[That type on screen only]
-	{
-	ja=画面上のそのタイプのみ;
 	}
 
 [The order the pointer shows]
@@ -12538,11 +12528,6 @@
 [Open Annihilation {version} is out]
 	{
 	ja=Open Annihilation {version}が公開中;
-	}
-
-[Open Annihilation {version} is ready]
-	{
-	ja=Open Annihilation {version}は準備完了;
 	}
 
 [Open your software centre to update it.]
@@ -15942,5 +15927,73 @@
 [Play]
 	{
 	ja=プレイ;
+	}
+
+// Settings › Controls' Double-click selects, Settings › General's When the window
+// loses focus, the mutator picker's header and the update screen's headers.
+
+[Double-click selects]
+	{
+	ja=ダブルクリックの選択範囲;
+	}
+
+[Where a double-click on a unit selects its type.]
+	{
+	ja=ユニットをダブルクリックしたとき、同じタイプを選択する範囲です。;
+	}
+
+[On screen]
+	{
+	ja=画面上;
+	}
+
+[On the map]
+	{
+	ja=マップ全体;
+	}
+
+[When the window loses focus]
+	{
+	ja=ウィンドウのフォーカスが外れたとき;
+	}
+
+[Whether a single-player game pauses while away.]
+	{
+	ja=ウィンドウから離れている間、シングルプレイのゲームを一時停止するかどうかです。;
+	}
+
+[Pause single player]
+	{
+	ja=シングルプレイを一時停止;
+	}
+
+[Keep playing]
+	{
+	ja=プレイを続ける;
+	}
+
+[MUTATORS]
+	{
+	ja=ミューテータ;
+	}
+
+[That type on screen, or on the map, as Settings says]
+	{
+	ja=画面上またはマップ全体のそのタイプ（設定に従う）;
+	}
+
+[The selected types on screen, or that type on the map, as Settings says]
+	{
+	ja=画面上の選択中のタイプ、またはマップ全体のそのタイプ（設定に従う）;
+	}
+
+[VERSION {version} AVAILABLE]
+	{
+	ja=バージョン{version}を入手可能;
+	}
+
+[VERSION {version} READY]
+	{
+	ja=バージョン{version}の準備完了;
 	}
 
