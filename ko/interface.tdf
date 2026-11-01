@@ -2959,11 +2959,6 @@
 	ko=맵 스크립트 유닛;
 	}
 
-[Start with One Human]
-	{
-	ko=사람 플레이어 한 명으로 시작;
-	}
-
 [Several Local AI Players]
 	{
 	ko=여러 로컬 AI 플레이어;
@@ -15995,5 +15990,73 @@
 [VERSION {version} READY]
 	{
 	ko=버전 {version} 준비됨;
+	}
+
+// Settings › Controls' three Invert switches, Developer's Update channel, the
+// Updates card's testing line and the update offer for a release installed by hand.
+
+[Invert 3D camera pan]
+	{
+	ko=3D 카메라 팬 반전;
+	}
+
+[Pan drags move the 3D view the other way.]
+	{
+	ko=팬 드래그로 3D 화면이 반대 방향으로 움직입니다.;
+	}
+
+[Invert 3D camera rotation]
+	{
+	ko=3D 카메라 회전 반전;
+	}
+
+[Orbit drags turn and tilt the view the other way.]
+	{
+	ko=공전 드래그로 화면이 반대 방향으로 회전하고 기울어집니다.;
+	}
+
+[Invert mouse zoom]
+	{
+	ko=마우스 확대/축소 반전;
+	}
+
+[Scrolling zooms the battlefield the other way.]
+	{
+	ko=스크롤하면 전장이 반대 방향으로 확대/축소됩니다.;
+	}
+
+[Update channel]
+	{
+	ko=업데이트 채널;
+	}
+
+[Stable]
+	{
+	ko=안정;
+	}
+
+[Testing]
+	{
+	ko=테스트;
+	}
+
+[Testing builds come first and may be unfinished.]
+	{
+	ko=테스트 버전은 먼저 나오며 미완성일 수 있습니다.;
+	}
+
+[Installed {version} · Testing channel]
+	{
+	ko={version} 설치됨 · 테스트 채널;
+	}
+
+[You have {current}. This version is installed by hand.]
+	{
+	ko=현재 버전은 {current}입니다. 이 버전은 직접 설치해야 합니다.;
+	}
+
+[Open the download page]
+	{
+	ko=다운로드 페이지 열기;
 	}
 

@@ -2959,11 +2959,6 @@
 	pt-PT=Unidades com script do mapa;
 	}
 
-[Start with One Human]
-	{
-	pt-PT=Começar com um humano;
-	}
-
 [Several Local AI Players]
 	{
 	pt-PT=Vários jogadores de IA locais;
@@ -15993,4 +15988,72 @@
 [VERSION {version} READY]
 	{
 	pt-PT=VERSÃO {version} PRONTA;
+	}
+
+// Settings › Controls' three Invert switches, Developer's Update channel, the
+// Updates card's testing line and the update offer for a release installed by hand.
+
+[Invert 3D camera pan]
+	{
+	pt-PT=Inverter deslocação da câmara 3D;
+	}
+
+[Pan drags move the 3D view the other way.]
+	{
+	pt-PT=Arrastar para deslocar move a vista 3D ao contrário.;
+	}
+
+[Invert 3D camera rotation]
+	{
+	pt-PT=Inverter rotação da câmara 3D;
+	}
+
+[Orbit drags turn and tilt the view the other way.]
+	{
+	pt-PT=Arrastar para orbitar roda e inclina a vista ao contrário.;
+	}
+
+[Invert mouse zoom]
+	{
+	pt-PT=Inverter zoom do rato;
+	}
+
+[Scrolling zooms the battlefield the other way.]
+	{
+	pt-PT=A roda aproxima e afasta o campo de batalha ao contrário.;
+	}
+
+[Update channel]
+	{
+	pt-PT=Canal de atualizações;
+	}
+
+[Stable]
+	{
+	pt-PT=Estável;
+	}
+
+[Testing]
+	{
+	pt-PT=Testes;
+	}
+
+[Testing builds come first and may be unfinished.]
+	{
+	pt-PT=As versões de teste chegam primeiro e podem estar inacabadas.;
+	}
+
+[Installed {version} · Testing channel]
+	{
+	pt-PT=Versão {version} instalada · canal de testes;
+	}
+
+[You have {current}. This version is installed by hand.]
+	{
+	pt-PT=Versão atual: {current}. Esta versão instala-se manualmente.;
+	}
+
+[Open the download page]
+	{
+	pt-PT=Abrir a página de transferência;
 	}

@@ -2959,11 +2959,6 @@
 	ru=Юниты из сценария карты;
 	}
 
-[Start with One Human]
-	{
-	ru=Старт с одним игроком-человеком;
-	}
-
 [Several Local AI Players]
 	{
 	ru=Несколько локальных игроков ИИ;
@@ -15995,5 +15990,73 @@
 [VERSION {version} READY]
 	{
 	ru=ВЕРСИЯ {version} ГОТОВА;
+	}
+
+// Settings › Controls' three Invert switches, Developer's Update channel, the
+// Updates card's testing line and the update offer for a release installed by hand.
+
+[Invert 3D camera pan]
+	{
+	ru=Инвертировать сдвиг 3D-камеры;
+	}
+
+[Pan drags move the 3D view the other way.]
+	{
+	ru=При сдвиге перетаскиванием 3D-вид движется в обратную сторону.;
+	}
+
+[Invert 3D camera rotation]
+	{
+	ru=Инвертировать вращение 3D-камеры;
+	}
+
+[Orbit drags turn and tilt the view the other way.]
+	{
+	ru=При облёте вид поворачивается и наклоняется в обратную сторону.;
+	}
+
+[Invert mouse zoom]
+	{
+	ru=Инвертировать масштаб мышью;
+	}
+
+[Scrolling zooms the battlefield the other way.]
+	{
+	ru=Прокрутка меняет масштаб поля боя в обратную сторону.;
+	}
+
+[Update channel]
+	{
+	ru=Канал обновлений;
+	}
+
+[Stable]
+	{
+	ru=Стабильный;
+	}
+
+[Testing]
+	{
+	ru=Тестовый;
+	}
+
+[Testing builds come first and may be unfinished.]
+	{
+	ru=Тестовые версии выходят раньше и могут быть недоработаны.;
+	}
+
+[Installed {version} · Testing channel]
+	{
+	ru=Установленная версия: {version} · тестовый канал;
+	}
+
+[You have {current}. This version is installed by hand.]
+	{
+	ru=Сейчас у вас {current}. Эта версия устанавливается вручную.;
+	}
+
+[Open the download page]
+	{
+	ru=Открыть страницу скачивания;
 	}
 

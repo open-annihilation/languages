@@ -2959,11 +2959,6 @@
 	zh-Hans=地图脚本单位;
 	}
 
-[Start with One Human]
-	{
-	zh-Hans=单名真人玩家即可开始;
-	}
-
 [Several Local AI Players]
 	{
 	zh-Hans=多个本地电脑玩家;
@@ -15997,5 +15992,73 @@
 [VERSION {version} READY]
 	{
 	zh-Hans=版本{version}已就绪;
+	}
+
+// Settings › Controls' three Invert switches, Developer's Update channel, the
+// Updates card's testing line and the update offer for a release installed by hand.
+
+[Invert 3D camera pan]
+	{
+	zh-Hans=反转3D视角平移;
+	}
+
+[Pan drags move the 3D view the other way.]
+	{
+	zh-Hans=平移拖动会反向移动3D视图。;
+	}
+
+[Invert 3D camera rotation]
+	{
+	zh-Hans=反转3D视角旋转;
+	}
+
+[Orbit drags turn and tilt the view the other way.]
+	{
+	zh-Hans=环绕拖动会反向旋转和倾斜视图。;
+	}
+
+[Invert mouse zoom]
+	{
+	zh-Hans=反转鼠标缩放;
+	}
+
+[Scrolling zooms the battlefield the other way.]
+	{
+	zh-Hans=滚动滚轮会反向缩放战场。;
+	}
+
+[Update channel]
+	{
+	zh-Hans=更新通道;
+	}
+
+[Stable]
+	{
+	zh-Hans=稳定;
+	}
+
+[Testing]
+	{
+	zh-Hans=测试;
+	}
+
+[Testing builds come first and may be unfinished.]
+	{
+	zh-Hans=测试版本会先发布，可能尚未完成。;
+	}
+
+[Installed {version} · Testing channel]
+	{
+	zh-Hans=已安装{version} · 测试通道;
+	}
+
+[You have {current}. This version is installed by hand.]
+	{
+	zh-Hans=你现有的是{current}。此版本需要手动安装。;
+	}
+
+[Open the download page]
+	{
+	zh-Hans=打开下载页面;
 	}
 

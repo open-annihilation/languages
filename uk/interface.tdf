@@ -2959,11 +2959,6 @@
 	uk=Підрозділи зі сценарію мапи;
 	}
 
-[Start with One Human]
-	{
-	uk=Старт з одним гравцем-людиною;
-	}
-
 [Several Local AI Players]
 	{
 	uk=Кілька локальних компʼютерних гравців;
@@ -15995,5 +15990,73 @@
 [VERSION {version} READY]
 	{
 	uk=ВЕРСІЯ {version} ГОТОВА;
+	}
+
+// Settings › Controls' three Invert switches, Developer's Update channel, the
+// Updates card's testing line and the update offer for a release installed by hand.
+
+[Invert 3D camera pan]
+	{
+	uk=Інвертувати панорамування 3D-камери;
+	}
+
+[Pan drags move the 3D view the other way.]
+	{
+	uk=Панорамування перетягуванням рухає 3D-вигляд у протилежний бік.;
+	}
+
+[Invert 3D camera rotation]
+	{
+	uk=Інвертувати обертання 3D-камери;
+	}
+
+[Orbit drags turn and tilt the view the other way.]
+	{
+	uk=Обертання перетягуванням повертає й нахиляє вигляд у протилежний бік.;
+	}
+
+[Invert mouse zoom]
+	{
+	uk=Інвертувати масштаб мишею;
+	}
+
+[Scrolling zooms the battlefield the other way.]
+	{
+	uk=Прокрутка змінює масштаб поля бою в протилежний бік.;
+	}
+
+[Update channel]
+	{
+	uk=Канал оновлень;
+	}
+
+[Stable]
+	{
+	uk=Стабільний;
+	}
+
+[Testing]
+	{
+	uk=Тестовий;
+	}
+
+[Testing builds come first and may be unfinished.]
+	{
+	uk=Тестові версії виходять першими й можуть бути незавершеними.;
+	}
+
+[Installed {version} · Testing channel]
+	{
+	uk=Встановлено {version} · тестовий канал;
+	}
+
+[You have {current}. This version is installed by hand.]
+	{
+	uk=У тебе {current}. Цю версію встановлюють вручну.;
+	}
+
+[Open the download page]
+	{
+	uk=Відкрити сторінку завантаження;
 	}
 

@@ -2959,11 +2959,6 @@
 	ja=マップのスクリプトユニット;
 	}
 
-[Start with One Human]
-	{
-	ja=人間1人で開始;
-	}
-
 [Several Local AI Players]
 	{
 	ja=複数のローカルAIプレイヤー;
@@ -15995,5 +15990,73 @@
 [VERSION {version} READY]
 	{
 	ja=バージョン{version}の準備完了;
+	}
+
+// Settings › Controls' three Invert switches, Developer's Update channel, the
+// Updates card's testing line and the update offer for a release installed by hand.
+
+[Invert 3D camera pan]
+	{
+	ja=3Dカメラのパンを反転;
+	}
+
+[Pan drags move the 3D view the other way.]
+	{
+	ja=パンのドラッグで、3Dビューが逆方向に動きます。;
+	}
+
+[Invert 3D camera rotation]
+	{
+	ja=3Dカメラの回転を反転;
+	}
+
+[Orbit drags turn and tilt the view the other way.]
+	{
+	ja=周回のドラッグで、ビューが逆方向に回転し、傾きます。;
+	}
+
+[Invert mouse zoom]
+	{
+	ja=マウスズームを反転;
+	}
+
+[Scrolling zooms the battlefield the other way.]
+	{
+	ja=スクロールで戦場を逆方向にズームします。;
+	}
+
+[Update channel]
+	{
+	ja=更新チャンネル;
+	}
+
+[Stable]
+	{
+	ja=安定版;
+	}
+
+[Testing]
+	{
+	ja=テスト版;
+	}
+
+[Testing builds come first and may be unfinished.]
+	{
+	ja=テスト版は先に公開され、未完成の場合があります。;
+	}
+
+[Installed {version} · Testing channel]
+	{
+	ja=インストール済み：{version} · テスト版チャンネル;
+	}
+
+[You have {current}. This version is installed by hand.]
+	{
+	ja=現在は{current}です。このバージョンは手動でインストールします。;
+	}
+
+[Open the download page]
+	{
+	ja=ダウンロードページを開く;
 	}
 
