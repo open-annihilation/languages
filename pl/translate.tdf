@@ -1,0 +1,4168 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Polish for 3.1c's translate.tdf texts, keyed by 3.1c's English
+// exactly (case and spaces included), in 3.1c's own order.
+
+// Ingame and Panel Messages
+
+[KILLS]
+	{
+	Polish=ZNISZ.;
+	}
+[Kills]
+	{
+	Polish=Znisz.;
+	}
+[Kill]
+	{
+	Polish=Znis.;
+	}
+[kill]
+	{
+	Polish=znis.;
+	}
+[LOSSES]
+	{
+	Polish=STRATY;
+	}
+[Losses]
+	{
+	Polish=Straty;
+	}
+[kills]
+	{
+	Polish=znisz.;
+	}
+[Veteran]
+	{
+	Polish=Weteran;
+	}
+[Newbie]
+	{
+	Polish=Rekrut;
+	}
+[PAUSED]
+	{
+	Polish=PAUZA;
+	}
+
+// Loading screen
+
+[Map]
+	{
+	Polish=Mapa;
+	}
+[Map:]
+	{
+	Polish=Mapa:;
+	}
+[Terrain]
+	{
+	Polish=Teren;
+	}
+[Textures]
+	{
+	Polish=Tekstury;
+	}
+[Units]
+	{
+	Polish=Jednost.;
+	}
+[Features]
+	{
+	Polish=Obiekty;
+	}
+[FEATURES]
+	{
+	Polish=OBIEKTY;
+	}
+[MoveInfo]
+	{
+	Polish=Dane ruchu;
+	}
+[Explosions]
+	{
+	Polish=Wybuchy;
+	}
+[Synchronization complete]
+	{
+	Polish=Zsynchronizowano;
+	}
+[player ready]
+	{
+	Polish=gracz gotowy;
+	}
+[players ready]
+	{
+	Polish=graczy gotowych;
+	}
+[Waiting for other players]
+	{
+	Polish=Oczekiwanie na innych graczy;
+	}
+[Synchronizing]
+	{
+	Polish=Synchroniz.;
+	}
+[Waiting for the Creator]
+	{
+	Polish=Czekanie na gospodarza;
+	}
+[3D Data]
+	{
+	Polish=Dane 3D;
+	}
+[Animation]
+	{
+	Polish=Animacja;
+	}
+[Animations]
+	{
+	Polish=Animacje;
+	}
+
+// Sides
+
+[Arm]
+	{
+	Polish=ARM;
+	}
+[Core]
+	{
+	Polish=CORE;
+	}
+[Arm Campaign]
+	{
+	Polish=Kampania ARM;
+	}
+[arm campaign]
+	{
+	Polish=Kampania ARM;
+	}
+[Core Campaign]
+	{
+	Polish=Kampania CORE;
+	}
+
+// Campaigns' names in the New Campaign and Any Mission lists, which 3.1c's
+// table does not hold: keyed by the campaign file's name, without the space
+// that ends Core Contingency's.
+
+[Arm Campaign - Core Contingency]
+	{
+	Polish=Kampania ARM - Core Contingency;
+	}
+[Core Campaign - Core Contingency]
+	{
+	Polish=Kampania CORE - Core Contingency;
+	}
+[Krogoth Encounter]
+	{
+	Polish=Spotkanie z Krogothiem;
+	}
+[Battle Tactics - Arm Very Short]
+	{
+	Polish=Battle Tactics - ARM, najkrótsze;
+	}
+[Battle Tactics - Arm Short]
+	{
+	Polish=Battle Tactics - ARM, krótk.;
+	}
+[Battle Tactics - Arm Medium]
+	{
+	Polish=Battle Tactics - ARM, śred.;
+	}
+[Battle Tactics - Arm Long]
+	{
+	Polish=Battle Tactics - ARM, długie;
+	}
+[Battle Tactics - Core Very Short]
+	{
+	Polish=Battle Tactics - CORE, najkrótsze;
+	}
+[Battle Tactics - Core Short]
+	{
+	Polish=Battle Tactics - CORE, krótk.;
+	}
+[Battle Tactics - Core Medium]
+	{
+	Polish=Battle Tactics - CORE, śred.;
+	}
+[Battle Tactics - Core Long]
+	{
+	Polish=Battle Tactics - CORE, długie;
+	}
+
+// Menus
+
+[No Narration]
+	{
+	Polish=Bez narracji;
+	}
+[Narration]
+	{
+	Polish=Narracja;
+	}
+[Start]
+	{
+	Polish=Zacznij;
+	}
+[Select]
+	{
+	Polish=Wybierz;
+	}
+[Previous Menu]
+	{
+	Polish=Wstecz;
+	}
+[Next]
+	{
+	Polish=Dalej;
+	}
+[Previous]
+	{
+	Polish=Wstecz;
+	}
+[SOUND]
+	{
+	Polish=DŹW.;
+	}
+[INTERFACE]
+	{
+	Polish=INTERFEJS;
+	}
+[VISUALS]
+	{
+	Polish=GRAF.;
+	}
+[MUSIC]
+	{
+	Polish=MUZYKA;
+	}
+[Set Difficulty]
+	{
+	Polish=Trudność;
+	}
+[Skirmish]
+	{
+	Polish=Potyczka;
+	}
+[Skirmish (%d players)]
+	{
+	Polish=Potyczka (%d graczy);
+	}
+[New Campaign]
+	{
+	Polish=Nowa kampania;
+	}
+[NEW CAMPAIGN]
+	{
+	Polish=NOWA KAMPANIA;
+	}
+[Start Campaign]
+	{
+	Polish=Zacznij;
+	}
+[Select Campaign]
+	{
+	Polish=Kampania;
+	}
+[SELECT CAMPAIGN:]
+	{
+	Polish=WYBIERZ KAMPANIĘ:;
+	}
+[Select Any Mission]
+	{
+	Polish=Wybierz dowolną misję;
+	}
+[Select Mission]
+	{
+	Polish=Wybierz;
+	}
+[Start Mission]
+	{
+	Polish=Zacznij;
+	}
+[Undo Changes]
+	{
+	Polish=Cofnij;
+	}
+[Restore Defaults]
+	{
+	Polish=Domyślne;
+	}
+[Restore Default]
+	{
+	Polish=Przywróć;
+	}
+[Exit to Menu]
+	{
+	Polish=Wyjdź do menu;
+	}
+[Exit Game]
+	{
+	Polish=Wyjdź z gry;
+	}
+[Please Select Map]
+	{
+	Polish=Wybierz mapę;
+	}
+[Load Map]
+	{
+	Polish=Wczytaj mapę;
+	}
+[Select Side]
+	{
+	Polish=Str.;
+	}
+
+// Generic gameplay stuff
+
+[Player]
+	{
+	Polish=Gracz;
+	}
+[Players]
+	{
+	Polish=Gracze;
+	}
+[Players:]
+	{
+	Polish=Gracze:;
+	}
+[Allies]
+	{
+	Polish=Sojusz;
+	}
+[ALLIES]
+	{
+	Polish=SOJUSZ;
+	}
+[Ally]
+	{
+	Polish=Sojusz;
+	}
+[Side]
+	{
+	Polish=Str.;
+	}
+[Metal]
+	{
+	Polish=Metal;
+	}
+[METAL]
+	{
+	Polish=METAL;
+	}
+[Energy]
+	{
+	Polish=Energia;
+	}
+[ENERGY]
+	{
+	Polish=ENERGIA;
+	}
+[Color]
+	{
+	Polish=Kol.;
+	}
+[Yes]
+	{
+	Polish=Tak;
+	}
+[No]
+	{
+	Polish=Nie;
+	}
+[OK]
+	{
+	Polish=OK;
+	}
+[Ok]
+	{
+	Polish=Ok;
+	}
+[Cancel]
+	{
+	Polish=Anuluj;
+	}
+[CANCEL]
+	{
+	Polish=ANULUJ;
+	}
+
+// Victory/Defeat Screen
+
+[Energy Produced]
+	{
+	Polish=Uzysk energii;
+	}
+[Metal Produced]
+	{
+	Polish=Uzysk metalu;
+	}
+[Energy Wasted]
+	{
+	Polish=Strata energii;
+	}
+[Metal Wasted]
+	{
+	Polish=Strata metalu;
+	}
+
+// Options menu
+
+[Options Menu]
+	{
+	Polish=Opcje;
+	}
+[GAME OPTIONS]
+	{
+	Polish=OPCJE GRY;
+	}
+[Resume]
+	{
+	Polish=Wznów;
+	}
+[Save Game]
+	{
+	Polish=Zapisz;
+	}
+[Load Game]
+	{
+	Polish=Wczytaj;
+	}
+[Preferences]
+	{
+	Polish=Preferencje;
+	}
+[End Mission]
+	{
+	Polish=Zakończ misję;
+	}
+[Help]
+	{
+	Polish=Pomoc;
+	}
+[Briefing]
+	{
+	Polish=Odprawa;
+	}
+[Mission Objective]
+	{
+	Polish=Cel misji;
+	}
+
+// Player settings
+
+[UNUSED]
+	{
+	Polish=PUSTE;
+	}
+[unused]
+	{
+	Polish=puste;
+	}
+[AI]
+	{
+	Polish=SI;
+	}
+[BLOCKED]
+	{
+	Polish=ZABLOK.;
+	}
+[No Limit]
+	{
+	Polish=Bez limitu;
+	}
+
+// CD controls
+
+[CD Player]
+	{
+	Polish=Odtw. CD;
+	}
+[No Music]
+	{
+	Polish=Bez muzyki;
+	}
+[Repeat Track]
+	{
+	Polish=Powtórz utwór;
+	}
+[Repeat Track #]
+	{
+	Polish=Powtórz utwór #;
+	}
+[Repeat]
+	{
+	Polish=Powtórz;
+	}
+[Random Tracks]
+	{
+	Polish=Losowe utwory;
+	}
+[Specify Tracks]
+	{
+	Polish=Wybierz utwory;
+	}
+[Play All Tracks]
+	{
+	Polish=Graj wszystkie utwory;
+	}
+[Play All]
+	{
+	Polish=Graj wsz.;
+	}
+[Track]
+	{
+	Polish=Utwór;
+	}
+[Custom]
+	{
+	Polish=Własny;
+	}
+[No Action]
+	{
+	Polish=Spokój;
+	}
+[Battle]
+	{
+	Polish=Bitwa;
+	}
+[Defeat]
+	{
+	Polish=Porażka;
+	}
+[Unused]
+	{
+	Polish=Nieuż.;
+	}
+[NO DISC]
+	{
+	Polish=BRAK CD;
+	}
+
+// Speeds
+
+[Normal]
+	{
+	Polish=Zwykły;
+	}
+[Slow]
+	{
+	Polish=Wolny;
+	}
+[Slower]
+	{
+	Polish=Wolniejszy;
+	}
+[Fast]
+	{
+	Polish=Szybki;
+	}
+[Faster]
+	{
+	Polish=Szybszy;
+	}
+[Game Speed]
+	{
+	Polish=Prędkość gry;
+	}
+[Mouse Speed]
+	{
+	Polish=Prędkość myszy;
+	}
+[Screen Scroll]
+	{
+	Polish=Przewijanie ekranu;
+	}
+[Screen Text Delay]
+	{
+	Polish=Czas tekstu;
+	}
+[Interface]
+	{
+	Polish=Interfejs;
+	}
+[Unit Chat]
+	{
+	Polish=Głos;
+	}
+[Text Lines]
+	{
+	Polish=Linie tekstu;
+	}
+[Game]
+	{
+	Polish=Gra;
+	}
+[Mouse]
+	{
+	Polish=Mysz;
+	}
+[Screen]
+	{
+	Polish=Ekr.;
+	}
+[Text Delay (secs)]
+	{
+	Polish=Czas tekstu (s);
+	}
+[Button Interface]
+	{
+	Polish=Przyc. myszy;
+	}
+[Control]
+	{
+	Polish=Kontrola;
+	}
+
+// Gamespeed
+
+[Quick]
+	{
+	Polish=Żywy;
+	}
+[Sluggish]
+	{
+	Polish=Ociężały;
+	}
+[Rapid Fire]
+	{
+	Polish=Szalony;
+	}
+
+// Chat settings
+
+[No Chat]
+	{
+	Polish=Bez głosu;
+	}
+[Only important info]
+	{
+	Polish=Tylko ważne informacje;
+	}
+[Medium chat]
+	{
+	Polish=Średnie głosy;
+	}
+[Detailed chat]
+	{
+	Polish=Dokładne głosy;
+	}
+[High chat level]
+	{
+	Polish=Dużo głosów;
+	}
+[All info chatted]
+	{
+	Polish=Pełne głosy;
+	}
+[ENEMIES]
+	{
+	Polish=WROGOWIE;
+	}
+[Enemies]
+	{
+	Polish=Wrogowie;
+	}
+[All]
+	{
+	Polish=Każdy;
+	}
+[ALL]
+	{
+	Polish=WSZYSCY;
+	}
+[TALK TO:]
+	{
+	Polish=DO KOGO:;
+	}
+[Unit Sounds]
+	{
+	Polish=Dźwięki jednostek;
+	}
+[UNIT SOUNDS]
+	{
+	Polish=DŹWIĘKI JEDNOSTEK;
+	}
+
+// Sound settings
+
+[On]
+	{
+	Polish=Tak;
+	}
+[Off]
+	{
+	Polish=Nie;
+	}
+[Mono]
+	{
+	Polish=Mono;
+	}
+[Stereo]
+	{
+	Polish=Stereo;
+	}
+[3d]
+	{
+	Polish=3D;
+	}
+[Sound Effects Volume]
+	{
+	Polish=Głośność efektów;
+	}
+[Music Volume]
+	{
+	Polish=Głośność muzyki;
+	}
+[Sound Volume]
+	{
+	Polish=Głośność;
+	}
+[Sound Mode]
+	{
+	Polish=Tryb dźw.;
+	}
+[No Chatting]
+	{
+	Polish=Bez głosu;
+	}
+[TEST]
+	{
+	Polish=TEST;
+	}
+[Sound Test]
+	{
+	Polish=Test dźwięku;
+	}
+[SOUND TEST]
+	{
+	Polish=TEST DŹWIĘKU;
+	}
+[Building Sounds]
+	{
+	Polish=Dźwięki budowy;
+	}
+[Building]
+	{
+	Polish=Budowa;
+	}
+[Unit Speech]
+	{
+	Polish=Głosy jednostek;
+	}
+[Unit Chat Level]
+	{
+	Polish=Poziom głosów;
+	}
+[Unit Text Acks]
+	{
+	Polish=Odp. tekstowe;
+	}
+[Chat Level Info]
+	{
+	Polish=O poziomach głosu;
+	}
+[Unit Acknowledgement]
+	{
+	Polish=Odpowiedzi jednostek;
+	}
+// Not in 3.1c's table: the Unit Speech and Unit Chat Level buttons'
+// stages, whole. A button's whole caption is translated before each of its
+// stages, and [Full] alone is a game the game list shows full.
+[Off|Medium|Full]
+	{
+	Polish=Wył.|Śred.|Pełny;
+	}
+
+// Difficulty settings
+
+[Difficulty]
+	{
+	Polish=Trudność;
+	}
+[Difficulty:]
+	{
+	Polish=Trudność:;
+	}
+[Easy]
+	{
+	Polish=Łatwy;
+	}
+[Medium]
+	{
+	Polish=Średni;
+	}
+[Hard]
+	{
+	Polish=Trudny;
+	}
+[Mapped]
+	{
+	Polish=Odkryta;
+	}
+[Unmapped]
+	{
+	Polish=Ukryta;
+	}
+
+// Starting resource levels
+
+[Low]
+	{
+	Polish=Niski;
+	}
+[High]
+	{
+	Polish=Wys.;
+	}
+
+// Interface menu
+
+[Left]
+	{
+	Polish=Lewy;
+	}
+[Right]
+	{
+	Polish=Prawy;
+	}
+[Left Click]
+	{
+	Polish=Lewy;
+	}
+[Right Click]
+	{
+	Polish=Prawy;
+	}
+
+// Visuals menu
+
+[Shading]
+	{
+	Polish=Cieniowanie;
+	}
+[Antialias]
+	{
+	Polish=Wygładzanie;
+	}
+[Anti-aliasing]
+	{
+	Polish=Wygładzanie;
+	}
+[Map Mode]
+	{
+	Polish=Tryb mapy;
+	}
+[Gamma]
+	{
+	Polish=Gama;
+	}
+[Gamma Correction]
+	{
+	Polish=Korekcja gamy;
+	}
+[Line Of Sight]
+	{
+	Polish=Pole widzenia;
+	}
+[Object rendering]
+	{
+	Polish=Renderowanie;
+	}
+[Screen Size]
+	{
+	Polish=Rozmiar ekranu;
+	}
+[Size]
+	{
+	Polish=Rozmiar;
+	}
+[Shadows]
+	{
+	Polish=Cienie;
+	}
+[Building Shadows]
+	{
+	Polish=Cienie budynków;
+	}
+[Vehicle Shadows]
+	{
+	Polish=Cienie pojazdów;
+	}
+[True]
+	{
+	Polish=Praw.;
+	}
+[Set]
+	{
+	Polish=Ustaw;
+	}
+
+// Video mode menu
+
+[Select Videomode]
+	{
+	Polish=Tryb wideo;
+	}
+[Select Mode]
+	{
+	Polish=Wybierz tryb;
+	}
+
+// Save / Load game menus
+
+[Name Of Game to Load]
+	{
+	Polish=Nazwa gry do wczytania;
+	}
+[Name Of Game to Save]
+	{
+	Polish=Nazwa gry do zapisu;
+	}
+[Reset List]
+	{
+	Polish=Zeruj;
+	}
+[Delete Game]
+	{
+	Polish=Usuń grę;
+	}
+[Delete List]
+	{
+	Polish=Usuń;
+	}
+[Cancel Save]
+	{
+	Polish=Anuluj;
+	}
+[Game type:]
+	{
+	Polish=Typ gry:;
+	}
+[Mission/Map:]
+	{
+	Polish=Misja/mapa:;
+	}
+[Time elapsed:]
+	{
+	Polish=Czas trwania:;
+	}
+[Side:]
+	{
+	Polish=Str.:;
+	}
+[Campaign:]
+	{
+	Polish=Kampania:;
+	}
+[There are no saved games to choose from]
+	{
+	Polish=Nie ma zapisanych gier do wyboru;
+	}
+[Mission:]
+	{
+	Polish=Misja:;
+	}
+[Time saved:]
+	{
+	Polish=Czas zapisu:;
+	}
+
+// Multiplayer connection messages
+
+[The creator has left the game]
+	{
+	Polish=Gospodarz opuścił grę;
+	}
+[Reject Now]
+	{
+	Polish=Wyrzuć;
+	}
+[will be rejected in %d seconds]
+	{
+	Polish=zostanie wyrzucony za %d sekund;
+	}
+[You do not have a compatible version for this game.]
+	{
+	Polish=Nie masz wersji zgodnej z tą grą.;
+	}
+[is not responding]
+	{
+	Polish=nie odpowiada;
+	}
+[Timed out while connecting to DirectPlay lobby!]
+	{
+	Polish=Minął czas łączenia z lobby DirectPlay!;
+	}
+[Please insert the Installation CD (Disc 1) and select%s"%s" again.]
+	{
+	Polish=Włóż CD instalacyjny (płyta 1) i wybierz%s„%s” ponownie.;
+	}
+[Please insert the Campaign CD (Disc 2) and try again]
+	{
+	Polish=Włóż CD kampanii (płyta 2) i spróbuj ponownie;
+	}
+[Please insert the Multiplayer CD (Disc 1) and try again]
+	{
+	Polish=Włóż CD gry wieloosobowej (płyta 1) i spróbuj ponownie;
+	}
+[Fault while trying to excecute button action.]
+	{
+	Polish=Nie udało się wykonać akcji przycisku.;
+	}
+[The "%s" service failed or took %stoo long. Please see the readmee%sfile for more information.]
+	{
+	Polish=Usługa „%s” nie działa lub trwa %sza długo. Zajrzyj do pliku%sreadme, tam są szczegóły.;
+	}
+[Unable to connect to DirectPlay lobby.]
+	{
+	Polish=Nie udało się połączyć z lobby DirectPlay.;
+	}
+[Unable to browse to URL: %s]
+	{
+	Polish=Nie udało się otworzyć URL: %s;
+	}
+[Unable to invoke DLL: %s]
+	{
+	Polish=Nie udało się wywołać DLL: %s;
+	}
+[Unable to execute command: %s]
+	{
+	Polish=Nie udało się wykonać polecenia: %s;
+	}
+[Could not match weapon type "%s" for synchronization!]
+	{
+	Polish=Nie udało się dopasować typu broni „%s” do synchronizacji!;
+	}
+[Updating...]
+	{
+	Polish=Odświeżanie...;
+	}
+[You must enter a game name]
+	{
+	Polish=Wpisz nazwę gry;
+	}
+[You must enter your name]
+	{
+	Polish=Wpisz swoje imię;
+	}
+[You were rejected from the game]
+	{
+	Polish=Wyrzucono cię z gry;
+	}
+[The %s service failed or took%stoo long. Please see the readme%sfile for more information.]
+	{
+	Polish=Usługa %s nie działa lub trwa%sza długo. Zajrzyj do pliku%sreadme, tam są szczegóły.;
+	}
+[Direct Connections]
+	{
+	Polish=Połączenia bezp.;
+	}
+[Internet Access]
+	{
+	Polish=Dostęp do sieci;
+	}
+[There are no multiplayer games to choose from]
+	{
+	Polish=Nie ma gier wieloosobowych do wyboru;
+	}
+[Player has left the game]
+	{
+	Polish=Gracz opuścił grę;
+	}
+[Player is joining the game]
+	{
+	Polish=Gracz dołącza do gry;
+	}
+[Player has disconnected]
+	{
+	Polish=Gracz się rozłączył;
+	}
+[Player %s has disconnected]
+	{
+	Polish=Gracz %s się rozłączył;
+	}
+[You did not have the correct password]
+	{
+	Polish=Nie masz poprawnego hasła;
+	}
+[10 seconds]
+	{
+	Polish=10 sekund;
+	}
+[Please Select Provider]
+	{
+	Polish=Wybierz łącze;
+	}
+[Select Provider]
+	{
+	Polish=Wybierz;
+	}
+
+// Multiplayer interface
+
+[Allied Victory]
+	{
+	Polish=Sojusz wygrywa;
+	}
+[Chosen Units]
+	{
+	Polish=Wybrane jednostki;
+	}
+[More Info]
+	{
+	Polish=Szczeg.;
+	}
+[Enter Game Name]
+	{
+	Polish=Nazwa gry;
+	}
+[Enter Your Name]
+	{
+	Polish=Twoje imię;
+	}
+[Create New Game]
+	{
+	Polish=Utwórz grę;
+	}
+[Password To Join]
+	{
+	Polish=Hasło;
+	}
+[Closed]
+	{
+	Polish=Zamkn.;
+	}
+[The game is closed]
+	{
+	Polish=Gra jest zamknięta;
+	}
+[The game is full]
+	{
+	Polish=Gra jest pełna;
+	}
+[In Game]
+	{
+	Polish=W grze;
+	}
+[Lounge]
+	{
+	Polish=Pocz.;
+	}
+[Playing]
+	{
+	Polish=W toku;
+	}
+[Full]
+	{
+	Polish=Pełna;
+	}
+[Reject Player:]
+	{
+	Polish=Wyrzuć gracza:;
+	}
+[Reject Player]
+	{
+	Polish=Wyrzuć gracza;
+	}
+[Reject Player?]
+	{
+	Polish=Wyrzucić gracza?;
+	}
+[Reject %s?]
+	{
+	Polish=Wyrzucić %s?;
+	}
+[Reject]
+	{
+	Polish=Wyrzuć;
+	}
+[Not Selected]
+	{
+	Polish=Nie wybrano;
+	}
+[NOT SELECTED]
+	{
+	Polish=NIE WYBRANO;
+	}
+[Join]
+	{
+	Polish=Dołącz;
+	}
+[New]
+	{
+	Polish=Nowa;
+	}
+[Name of Game]
+	{
+	Polish=Nazwa gry;
+	}
+[Plyrs]
+	{
+	Polish=Gr.;
+	}
+[Status]
+	{
+	Polish=Stan;
+	}
+[Watch]
+	{
+	Polish=Obserwuj;
+	}
+[Update]
+	{
+	Polish=Odśwież;
+	}
+[LOS]
+	{
+	Polish=Widok;
+	}
+[Cmdr]
+	{
+	Polish=Dow.;
+	}
+[Ping]
+	{
+	Polish=Ping;
+	}
+[Name]
+	{
+	Polish=Imię;
+	}
+[Your Name]
+	{
+	Polish=Twoje imię;
+	}
+[Game Password]
+	{
+	Polish=Hasło gry;
+	}
+
+// Lounge options
+
+[Messages]
+	{
+	Polish=Wiadom.;
+	}
+[Mem.]
+	{
+	Polish=Pam.;
+	}
+[Ready?]
+	{
+	Polish=Gotowe?;
+	}
+[Start Game]
+	{
+	Polish=Graj;
+	}
+[Select Map]
+	{
+	Polish=Wybierz;
+	}
+[Resolution]
+	{
+	Polish=Rozdz.;
+	}
+[Cmndr Ends Game]
+	{
+	Polish=Dow. kończy;
+	}
+[LOS Mode]
+	{
+	Polish=Pole widzenia;
+	}
+[Cheat Codes]
+	{
+	Polish=Kody;
+	}
+[Cheat Codes:]
+	{
+	Polish=Kody:;
+	}
+[Disallowed]
+	{
+	Polish=Zakazane;
+	}
+[Allowed]
+	{
+	Polish=Dozwolone;
+	}
+[Watching]
+	{
+	Polish=Obserw.;
+	}
+[Watching:]
+	{
+	Polish=Obserw.:;
+	}
+[Watching OK]
+	{
+	Polish=Obserw.: tak;
+	}
+[No Watching]
+	{
+	Polish=Obserw.: nie;
+	}
+[Game Open]
+	{
+	Polish=Gra otwarta;
+	}
+[Game Closed]
+	{
+	Polish=Gra zamknięta;
+	}
+[Game Status]
+	{
+	Polish=Stan gry;
+	}
+[Watching Allowed]
+	{
+	Polish=Obserw.: tak;
+	}
+[Map Name]
+	{
+	Polish=Nazwa mapy;
+	}
+[Max Units]
+	{
+	Polish=Limit;
+	}
+[Max Units:]
+	{
+	Polish=Maks. jednostek:;
+	}
+[Game Is Open]
+	{
+	Polish=Gra otwarta;
+	}
+[Build Restrictions]
+	{
+	Polish=Ogranicz.;
+	}
+
+// Skirmish menu
+
+[Start Skirmish]
+	{
+	Polish=Zacznij potyczkę;
+	}
+[Location]
+	{
+	Polish=Pozycja;
+	}
+[Dead Commander]
+	{
+	Polish=Martwy Dowódca;
+	}
+[Commander]
+	{
+	Polish=Dowódca;
+	}
+
+// Restrictions menu
+
+[Max Per Player]
+	{
+	Polish=Maks. na gracza;
+	}
+[Unit Build Restrictions]
+	{
+	Polish=Ograniczenia budowy jednostek;
+	}
+[Load List]
+	{
+	Polish=Wczytaj;
+	}
+[Save List]
+	{
+	Polish=Zapisz;
+	}
+[Name of list to save]
+	{
+	Polish=Nazwa listy do zapisu;
+	}
+[Show Picture]
+	{
+	Polish=Pokaż obraz;
+	}
+
+// Gameplay options
+
+[Fixed]
+	{
+	Polish=Sta.;
+	}
+[Random]
+	{
+	Polish=Losowa;
+	}
+[Specific]
+	{
+	Polish=Wybrana;
+	}
+[Fixed Locations]
+	{
+	Polish=Pozycje stałe;
+	}
+[Random Locations]
+	{
+	Polish=Pozycje losowe;
+	}
+[Game Ends]
+	{
+	Polish=Koniec gry;
+	}
+[Game ends]
+	{
+	Polish=Koniec gry;
+	}
+[Deathmatch]
+	{
+	Polish=Dezmecz;
+	}
+[Continues]
+	{
+	Polish=Trwa;
+	}
+[Game Continues]
+	{
+	Polish=Gra trwa;
+	}
+[Mapping Mode]
+	{
+	Polish=Tryb mapy;
+	}
+[Mapping Mode:]
+	{
+	Polish=Tryb mapy:;
+	}
+[Blank Map]
+	{
+	Polish=Mapa ukryta;
+	}
+[Full Map]
+	{
+	Polish=Cała mapa;
+	}
+[LOS Off]
+	{
+	Polish=Wyłączone;
+	}
+[Permanent]
+	{
+	Polish=Trwałe;
+	}
+[True LOS]
+	{
+	Polish=Praw.;
+	}
+[Circular]
+	{
+	Polish=Kołowe;
+	}
+[Starting Locations:]
+	{
+	Polish=Pozycje startowe:;
+	}
+[Start Location]
+	{
+	Polish=Pozycja startu;
+	}
+[Commander Death]
+	{
+	Polish=Śmierć Dowódcy;
+	}
+[Commander Death:]
+	{
+	Polish=Śmierć Dowódcy:;
+	}
+[Mapping]
+	{
+	Polish=Mapa;
+	}
+[Line of Sight]
+	{
+	Polish=Pole widzenia;
+	}
+[Line of Sight:]
+	{
+	Polish=Pole widzenia:;
+	}
+[Computer Opponent]
+	{
+	Polish=Komputer;
+	}
+[Computer]
+	{
+	Polish=Komputer;
+	}
+[AI Opponent]
+	{
+	Polish=Oponent SI;
+	}
+[Opponent]
+	{
+	Polish=Oponent;
+	}
+[Exit the Battle]
+	{
+	Polish=Wyjdź z bitwy;
+	}
+[Page 1]
+	{
+	Polish=Strona 1;
+	}
+[Page 2]
+	{
+	Polish=Strona 2;
+	}
+[Page 3]
+	{
+	Polish=Strona 3;
+	}
+
+// Briefing messages
+
+[BACK TO START]
+	{
+	Polish=DO STARTU;
+	}
+[MORE...]
+	{
+	Polish=WIĘCEJ;
+	}
+
+// Game over screen
+
+[Victory or Failure]
+	{
+	Polish=Wygrana czy porażka;
+	}
+[Main Menu]
+	{
+	Polish=Menu główne;
+	}
+[Game Statistics]
+	{
+	Polish=Statystyki;
+	}
+[Statistics]
+	{
+	Polish=Statystyki;
+	}
+[Next Mission]
+	{
+	Polish=Następna misja;
+	}
+[Adjust Difficulty]
+	{
+	Polish=Trudność;
+	}
+[Adjust skirmish difficulty.]
+	{
+	Polish=Dostosuj trudność potyczki.;
+	}
+[You]
+	{
+	Polish=Ty;
+	}
+[AI Player]
+	{
+	Polish=Gracz SI;
+	}
+[Score]
+	{
+	Polish=Wynik;
+	}
+[Victory]
+	{
+	Polish=Wygrana;
+	}
+[Failure]
+	{
+	Polish=Porażka;
+	}
+
+// Game commands
+
+[Total Units]
+	{
+	Polish=Jednost.;
+	}
+[Stop Building]
+	{
+	Polish=Stop;
+	}
+[Options]
+	{
+	Polish=Opcje;
+	}
+[Share]
+	{
+	Polish=Przekaż;
+	}
+
+// Share options
+
+[TRANSFER RESOURCES]
+	{
+	Polish=PRZEKAŻ ZASOBY;
+	}
+[Selected Units]
+	{
+	Polish=Zaznaczone jednostki;
+	}
+[Select Player]
+	{
+	Polish=Wybierz gracza;
+	}
+[Map Info]
+	{
+	Polish=Dane mapy;
+	}
+
+// Unit status messages
+
+[five]
+	{
+	Polish=pięć;
+	}
+[four]
+	{
+	Polish=cztery;
+	}
+[three]
+	{
+	Polish=trzy;
+	}
+[two]
+	{
+	Polish=dwa;
+	}
+[one]
+	{
+	Polish=jeden;
+	}
+[zero]
+	{
+	Polish=zero;
+	}
+[Building complete]
+	{
+	Polish=Budowa ukończona;
+	}
+[Capture failed]
+	{
+	Polish=Nie przejęto;
+	}
+[Construction failed: target area was blocked]
+	{
+	Polish=Budowa nieudana: teren zajęty;
+	}
+[Construction stopped]
+	{
+	Polish=Budowa wstrzymana;
+	}
+[Construction terminated]
+	{
+	Polish=Budowa przerwana;
+	}
+[Target area was blocked]
+	{
+	Polish=Obszar docelowy zajęty;
+	}
+[Construction terminated by hostile action]
+	{
+	Polish=Wróg przerwał budowę;
+	}
+[How can I fix units when they keep blowing up?]
+	{
+	Polish=Jak mam naprawiać jednostki, skoro ciągle wybuchają?;
+	}
+[I can't get there]
+	{
+	Polish=Nie dotrę tam;
+	}
+[I can't reach the construction site]
+	{
+	Polish=Nie dotrę na plac budowy;
+	}
+[Landing aborted]
+	{
+	Polish=Lądowanie przerwane;
+	}
+[Landing aborted: all pads are occupied]
+	{
+	Polish=Lądowanie przerwane: wszystkie lądowiska zajęte;
+	}
+[Landing aborted: no pads available]
+	{
+	Polish=Lądowanie przerwane: brak wolnych lądowisk;
+	}
+[Landing failed]
+	{
+	Polish=Lądowanie nieudane;
+	}
+[Loading unit]
+	{
+	Polish=Załadunek jednostki;
+	}
+[Preparing for transport]
+	{
+	Polish=Przygotowanie do transportu;
+	}
+[Reclamate failed]
+	{
+	Polish=Odzysk nieudany;
+	}
+[Reclamating]
+	{
+	Polish=Odzyskiwanie;
+	}
+[Reclamation failed]
+	{
+	Polish=Odzysk nieudany;
+	}
+[Repair aborted.]
+	{
+	Polish=Naprawa przerwana.;
+	}
+[Repair mission failed]
+	{
+	Polish=Zadanie naprawy nieudane;
+	}
+[Repairs unsuccessful.]
+	{
+	Polish=Naprawy nieudane.;
+	}
+[Self destruct terminated]
+	{
+	Polish=Samozniszczenie przerwane;
+	}
+[Starting construction]
+	{
+	Polish=Początek budowy;
+	}
+[That unit cannot be captured]
+	{
+	Polish=Tej jednostki nie można przejąć;
+	}
+[That unit cannot be reclamated]
+	{
+	Polish=Tej jednostki nie można odzyskać;
+	}
+[That unit cannot be reclaimed]
+	{
+	Polish=Tej jednostki nie można odzyskać;
+	}
+[That unit is a cloud of vapor and cannot be captured]
+	{
+	Polish=Ta jednostka to chmura pary i nie można jej przejąć;
+	}
+[That unit is a cloud of vapor and cannot be reclamated]
+	{
+	Polish=Ta jednostka to chmura pary i nie można jej odzyskać;
+	}
+[Transport mission failed]
+	{
+	Polish=Zadanie transportu nieudane;
+	}
+[End Transport]
+	{
+	Polish=Koniec transportu;
+	}
+[Unable to create any more units]
+	{
+	Polish=Nie można utworzyć więcej jednostek;
+	}
+[Unable to unload unit]
+	{
+	Polish=Nie można wyładować jednostki;
+	}
+[Unit is too heavy to transport]
+	{
+	Polish=Jednostka jest za ciężka do transportu;
+	}
+[Unit is too large to transport]
+	{
+	Polish=Jednostka jest za duża do transportu;
+	}
+[Unit repaired]
+	{
+	Polish=Jednostka naprawiona;
+	}
+[Unloading]
+	{
+	Polish=Wyładunek;
+	}
+[Unloading process is proceeding non-optimally]
+	{
+	Polish=Proces wyładunku przebiega nieoptymalnie;
+	}
+[Waiting for construction area to clear]
+	{
+	Polish=Oczekiwanie na wolny obszar budowy;
+	}
+[Waiting for target area to clear]
+	{
+	Polish=Oczekiwanie na wolne miejsce docelowe;
+	}
+[Waiting for construction pad to clear]
+	{
+	Polish=Oczekiwanie na wolne stanowisko budowy;
+	}
+
+// Miscellaneous
+
+[Warning!\n\nUnable to register %1 for DirectPlay.]
+	{
+	Polish=Ostrzeżenie!\n\nNie udało się zarejestrować %1 dla DirectPlay.;
+	}
+[Unidentified object]
+	{
+	Polish=Niezidentyfikowany obiekt;
+	}
+[Game Time]
+	{
+	Polish=Czas gry;
+	}
+[Human]
+	{
+	Polish=Człowiek;
+	}
+[Human Player]
+	{
+	Polish=Gracz-człowiek;
+	}
+[Open]
+	{
+	Polish=Wolne;
+	}
+[Error]
+	{
+	Polish=Błąd;
+	}
+[There are too many players enabled for this map]
+	{
+	Polish=Dla tej mapy włączono zbyt wielu graczy;
+	}
+[There must be at least one human player and one AI opponent]
+	{
+	Polish=Musi być co najmniej jeden gracz-człowiek i jeden przeciwnik SI;
+	}
+[There must be at least one player and one computer opponent]
+	{
+	Polish=Musi być co najmniej jeden gracz i jeden komputer;
+	}
+[You have lost connection with the game]
+	{
+	Polish=Utracono połączenie z partią;
+	}
+[Lost connection with game]
+	{
+	Polish=Połączenie z partią utracone;
+	}
+[You need a unit you don't have for this game]
+	{
+	Polish=Ta partia wymaga jednostki, której nie masz;
+	}
+[You need a newer version of the game to enter]
+	{
+	Polish=By wejść, potrzebujesz nowszej wersji gry;
+	}
+[No watching is allowed for this game]
+	{
+	Polish=Tej partii nie można obserwować;
+	}
+[Out of memory! Your hard disk may be full.]
+	{
+	Polish=Brak pamięci! Twój dysk twardy może być pełny.;
+	}
+
+// Unit speech
+
+[Under Attack]
+	{
+	Polish=Pod ostrzałem;
+	}
+[Arrived]
+	{
+	Polish=Na miejscu;
+	}
+[Cannot Comply]
+	{
+	Polish=Nie wykonam;
+	}
+[Nanolathe Complete]
+	{
+	Polish=Nanotokowanie ukończone;
+	}
+[Cloaked]
+	{
+	Polish=Zamaskowany;
+	}
+[Visible]
+	{
+	Polish=Widoczny;
+	}
+
+// Mission states
+
+[Acknowledged]
+	{
+	Polish=Przyjęto;
+	}
+[Activate]
+	{
+	Polish=Aktywuj;
+	}
+[Airstrike]
+	{
+	Polish=Nalot;
+	}
+[Annihilating]
+	{
+	Polish=Anihiluje;
+	}
+[Attacking]
+	{
+	Polish=Atakuje;
+	}
+[Being transported]
+	{
+	Polish=W transporcie;
+	}
+[Capturing]
+	{
+	Polish=Przejmuje;
+	}
+[Cloaking]
+	{
+	Polish=Maskuje się;
+	}
+[Deactivate]
+	{
+	Polish=Dezaktywuj;
+	}
+[Decloaking]
+	{
+	Polish=Odsłania się;
+	}
+[Defending]
+	{
+	Polish=Broni;
+	}
+[Diving]
+	{
+	Polish=Zanurza się;
+	}
+[Engaging target]
+	{
+	Polish=Atakuje cel;
+	}
+[Evading]
+	{
+	Polish=Unika;
+	}
+[Following]
+	{
+	Polish=Podąża;
+	}
+[Guarding]
+	{
+	Polish=Chroni;
+	}
+[Landing]
+	{
+	Polish=Ląduje;
+	}
+[Loading]
+	{
+	Polish=Ładuje;
+	}
+[Moving]
+	{
+	Polish=Porusza się;
+	}
+[Nanolathing]
+	{
+	Polish=Nanotokuje;
+	}
+[Paralyzed]
+	{
+	Polish=Sparaliżowany;
+	}
+[Parking]
+	{
+	Polish=Parkuje;
+	}
+[Patrolling]
+	{
+	Polish=Patroluje;
+	}
+[Patrolling for damaged units]
+	{
+	Polish=Patroluje w poszukiwaniu uszkodzonych jednostek;
+	}
+[Ready]
+	{
+	Polish=Gotowe;
+	}
+[Ready with orders]
+	{
+	Polish=Gotowe z rozkazami;
+	}
+[Reclaiming]
+	{
+	Polish=Odzyskuje;
+	}
+[Repairing]
+	{
+	Polish=Naprawia;
+	}
+[Repair patrol]
+	{
+	Polish=Patrol naprawczy;
+	}
+[Seeking to attack]
+	{
+	Polish=Rusza do ataku;
+	}
+[Seeking to defend]
+	{
+	Polish=Rusza do obrony;
+	}
+[Seeking to land]
+	{
+	Polish=Szuka lądowiska;
+	}
+[Seeking to guard]
+	{
+	Polish=Rusza do ochrony;
+	}
+[SELF DESTRUCT ENGAGED]
+	{
+	Polish=SAMOZNIISZCZENIE URUCHOMIONE;
+	}
+[Standby]
+	{
+	Polish=W pogotowiu;
+	}
+[Stopping]
+	{
+	Polish=Zatrzymuje się;
+	}
+[Suppressing fire]
+	{
+	Polish=Ogień zaporowy;
+	}
+[Surfacing]
+	{
+	Polish=Wynurza się;
+	}
+[Teleporting]
+	{
+	Polish=Teleportuje;
+	}
+[Under construction]
+	{
+	Polish=W budowie;
+	}
+[Under repair]
+	{
+	Polish=W naprawie;
+	}
+[Unit is available]
+	{
+	Polish=Jednostka dostępna;
+	}
+[Waiting]
+	{
+	Polish=Oczekiwanie;
+	}
+[Waiting for attack]
+	{
+	Polish=Oczekiwanie na atak;
+	}
+
+// Feature descriptions
+
+[Description]
+	{
+	Polish=Opis;
+	}
+[Plant]
+	{
+	Polish=Roślina;
+	}
+[Burnt Plant]
+	{
+	Polish=Spalona roślina;
+	}
+[Fortification Wall]
+	{
+	Polish=Mur obronny;
+	}
+[Hole]
+	{
+	Polish=Dziura;
+	}
+[Crater]
+	{
+	Polish=Krater;
+	}
+[Foliage]
+	{
+	Polish=Roślinność;
+	}
+[Rock]
+	{
+	Polish=Skała;
+	}
+[rock]
+	{
+	Polish=Skała;
+	}
+[Rubble]
+	{
+	Polish=Gruz;
+	}
+[Thermal Vent]
+	{
+	Polish=Otwór termiczny;
+	}
+[Ventilation Engine]
+	{
+	Polish=Silnik wentylacyjny;
+	}
+[Wreckage]
+	{
+	Polish=Szczątki;
+	}
+[Burnt Foliage]
+	{
+	Polish=Spalona roślinność;
+	}
+[Burnt Tree]
+	{
+	Polish=Spalone drzewo;
+	}
+[Tree]
+	{
+	Polish=Drzewo;
+	}
+[Ice Chunks]
+	{
+	Polish=Bryły lodu;
+	}
+[Damaged Terrain]
+	{
+	Polish=Uszkodzony teren;
+	}
+[Damaged Surface]
+	{
+	Polish=Uszkodzona powierzchnia;
+	}
+[DragonsTeeth]
+	{
+	Polish=Smocze zęby;
+	}
+[Dragons Teeth - NS]
+	{
+	Polish=Smocze zęby - NS;
+	}
+[DragonsTeeth - NS]
+	{
+	Polish=Smocze zęby - NS;
+	}
+[Metal Deposit]
+	{
+	Polish=Złoże metalu;
+	}
+[Node]
+	{
+	Polish=Węzeł;
+	}
+[Spire]
+	{
+	Polish=Iglica;
+	}
+[Glyph]
+	{
+	Polish=Glif;
+	}
+[Ruin]
+	{
+	Polish=Ruina;
+	}
+[Seismic Monitor]
+	{
+	Polish=Czujnik sejsmiczny;
+	}
+[Pipe]
+	{
+	Polish=Rura;
+	}
+[Communications Uplink]
+	{
+	Polish=Łącze łączności;
+	}
+[Comm Uplink]
+	{
+	Polish=Łącze łączn.;
+	}
+[Communication Tower]
+	{
+	Polish=Wieża łączności;
+	}
+[Regulator Complex]
+	{
+	Polish=Kompleks regulatora;
+	}
+[Thermal Regulator]
+	{
+	Polish=Regulator termiczny;
+	}
+[Transmitter]
+	{
+	Polish=Nadajnik;
+	}
+[Pressure Release Valve]
+	{
+	Polish=Zawór upustowy;
+	}
+[Pressure Valve]
+	{
+	Polish=Zawór ciśnieniowy;
+	}
+
+// Multiplayer online interface messages
+
+[Invalid TCP/IP Address]
+	{
+	Polish=Nieprawidłowy adres TCP/IP;
+	}
+[Enter TCP address (leave blank to search)]
+	{
+	Polish=Wpisz adres TCP (zostaw puste, by szukać);
+	}
+[Phone Numbers]
+	{
+	Polish=Numery telefonów;
+	}
+[Number]
+	{
+	Polish=Numer;
+	}
+[Modem]
+	{
+	Polish=Modem;
+	}
+[Port]
+	{
+	Polish=Port;
+	}
+[Answer]
+	{
+	Polish=Odbierz;
+	}
+[Dial]
+	{
+	Polish=Dzwoń;
+	}
+[Host]
+	{
+	Polish=Gospodarz;
+	}
+[Play]
+	{
+	Polish=Graj;
+	}
+[Unit Download]
+	{
+	Polish=Pobieranie jednostek;
+	}
+
+// In game pop-up messages
+
+[Game Name]
+	{
+	Polish=Nazwa partii;
+	}
+[Map game will play on]
+	{
+	Polish=Mapa partii;
+	}
+[Does dead commander end game?]
+	{
+	Polish=Czy śmierć Dowódcy kończy partię?;
+	}
+[Average latency (big is bad)]
+	{
+	Polish=Średnie opóźnienie (im większe, tym gorzej);
+	}
+[Type of Line of Sight]
+	{
+	Polish=Rodzaj pola widzenia;
+	}
+[Tells if you start with map]
+	{
+	Polish=Informuje, czy zaczynasz z odkrytą mapą;
+	}
+[Starting Metal:]
+	{
+	Polish=Metal początkowy:;
+	}
+[Starting Energy:]
+	{
+	Polish=Energia początkowa:;
+	}
+[Starting metal amount]
+	{
+	Polish=Początkowa ilość metalu;
+	}
+[Starting energy amount]
+	{
+	Polish=Początkowa ilość energii;
+	}
+[Click to edit energy value.]
+	{
+	Polish=Kliknij, by zmienić wartość energii.;
+	}
+[Click to set energy value.]
+	{
+	Polish=Kliknij, by ustawić wartość energii.;
+	}
+[Click to edit metal value.]
+	{
+	Polish=Kliknij, by zmienić wartość metalu.;
+	}
+[Click to set metal value.]
+	{
+	Polish=Kliknij, by ustawić wartość metalu.;
+	}
+[Left click to increase metal. Right click to decrease metal.]
+	{
+	Polish=Lewym przyciskiem zwiększ metal. Prawym przyciskiem zmniejsz metal.;
+	}
+[Left click to increase energy. Right click to decrease energy.]
+	{
+	Polish=Lewym przyciskiem zwiększ energię. Prawym przyciskiem zmniejsz energię.;
+	}
+[Click to select an allegiance symbol.]
+	{
+	Polish=Kliknij, by wybrać symbol przynależności.;
+	}
+[Players in game / Max players]
+	{
+	Polish=Gracze w partii / Maks. graczy;
+	}
+[Tells if game is in play]
+	{
+	Polish=Informuje, czy partia już trwa;
+	}
+[Game ends when commander is destroyed.]
+	{
+	Polish=Partia kończy się, gdy Dowódca zostaje zniszczony.;
+	}
+[Game continues after Commander is destroyed.]
+	{
+	Polish=Partia trwa po zniszczeniu Dowódcy.;
+	}
+[Commanders are placed at pre-determined locations.]
+	{
+	Polish=Dowódcy zaczynają w wyznaczonych miejscach.;
+	}
+[Commanders are randomly placed on the battle field.]
+	{
+	Polish=Dowódcy zaczynają w losowych miejscach na polu bitwy.;
+	}
+[Terrain is blacked out until explored.]
+	{
+	Polish=Teren jest zaciemniony, dopóki go nie zbadasz.;
+	}
+[Terrain is visible.]
+	{
+	Polish=Teren jest widoczny.;
+	}
+[Terrain elevations affect a unit's view.]
+	{
+	Polish=Ukształtowanie terenu wpływa na pole widzenia jednostki.;
+	}
+[Terrain elevations do not affect a unit's view.]
+	{
+	Polish=Ukształtowanie terenu nie wpływa na pole widzenia jednostki.;
+	}
+[All mapped terrain is visible.]
+	{
+	Polish=Cały rozpoznany teren jest widoczny.;
+	}
+[Exit Mission]
+	{
+	Polish=Wyjdź z misji;
+	}
+[Exit Skirmish]
+	{
+	Polish=Wyjdź z potyczki;
+	}
+[Exit Battle]
+	{
+	Polish=Wyjdź z bitwy;
+	}
+[Restart Mission]
+	{
+	Polish=Ponów misję;
+	}
+[Restart Skirmish]
+	{
+	Polish=Ponów potyczkę;
+	}
+[Restart]
+	{
+	Polish=Ponów;
+	}
+[Close Windows CD Player?]
+	{
+	Polish=Zamknąć odtwarzacz CD systemu Windows?;
+	}
+[CD Music]
+	{
+	Polish=Muzyka z CD;
+	}
+[Surrender this battle and return to main menu?]
+	{
+	Polish=Poddać się w tej bitwie i wrócić do menu głównego?;
+	}
+[Surrender this battle and exit to Windows?]
+	{
+	Polish=Poddać się w tej bitwie i wyjść do Windows?;
+	}
+[Surrender this battle and exit to the system?]
+	{
+	Polish=Poddać się w tej bitwie i wyjść do systemu?;
+	}
+
+// Title Screen
+
+[SINGLE]
+	{
+	Polish=1 GRACZ;
+	}
+[Single]
+	{
+	Polish=Jeden gracz;
+	}
+[MULTI]
+	{
+	Polish=WIELOOS.;
+	}
+[INTRO]
+	{
+	Polish=INTRO;
+	}
+[EXIT]
+	{
+	Polish=WYJDŹ;
+	}
+[Exit]
+	{
+	Polish=Wyjdź;
+	}
+
+// In-Game Help Screen
+
+[Keyboard Commands]
+	{
+	Polish=Polecenia klawiatury;
+	}
+[SPACEBAR]
+	{
+	Polish=SPACJA;
+	}
+[Activate the game status bar]
+	{
+	Polish=Włącza pasek stanu gry;
+	}
+[Bring up the multiplayer scorecard]
+	{
+	Polish=Pokazuje kartę wyników wieloosobowych;
+	}
+[Select all factories]
+	{
+	Polish=Zaznacza wszystkie fabryki;
+	}
+[Multiplayer options]
+	{
+	Polish=Opcje wieloosobowe;
+	}
+[Cancels the current command]
+	{
+	Polish=Anuluje bieżący rozkaz;
+	}
+[Assign the currently selected units to a squad]
+	{
+	Polish=Przypisuje zaznaczone jednostki do grupy;
+	}
+[Select squad]
+	{
+	Polish=Zaznacza grupę;
+	}
+[Toggles fire orders]
+	{
+	Polish=Przełącza rozkazy ognia;
+	}
+[Toggles selected unit's cloaking capabilities]
+	{
+	Polish=Przełącza maskowanie zaznaczonej jednostki;
+	}
+[Toggles move orders]
+	{
+	Polish=Przełącza rozkazy ruchu;
+	}
+[Select the Build menu for the current unit]
+	{
+	Polish=Wybiera menu budowy bieżącej jednostki;
+	}
+[Select the Orders menu for the current unit]
+	{
+	Polish=Wybiera menu rozkazów bieżącej jednostki;
+	}
+[Select the menu for the current unit]
+	{
+	Polish=Wybiera menu bieżącej jednostki;
+	}
+[, (comma)]
+	{
+	Polish=, (przecinek);
+	}
+[Select the previous menu for that unit]
+	{
+	Polish=Wybiera poprzednie menu tej jednostki;
+	}
+[. (period)]
+	{
+	Polish=. (kropka);
+	}
+[Select the next menu for that unit]
+	{
+	Polish=Wybiera następne menu tej jednostki;
+	}
+[~ (tilde)]
+	{
+	Polish=~ (tylda);
+	}
+[Toggle damage bars on the units]
+	{
+	Polish=Przełącza paski uszkodzeń jednostek;
+	}
+[Pause the game]
+	{
+	Polish=Włącza pauzę;
+	}
+[Display information on selected unit]
+	{
+	Polish=Pokazuje informacje o zaznaczonej jednostce;
+	}
+[Display the Options menu]
+	{
+	Polish=Pokazuje menu opcji;
+	}
+[Selects the unit that last reported]
+	{
+	Polish=Zaznacza jednostkę, która meldowała się ostatnio;
+	}
+[Screen capture]
+	{
+	Polish=Zrzut ekranu;
+	}
+[Clear all chat messages]
+	{
+	Polish=Czyści wszystkie wiadomości czatu;
+	}
+[Select all units]
+	{
+	Polish=Zaznacza wszystkie jednostki;
+	}
+[Select all construction units except the Commander]
+	{
+	Polish=Zaznacza budowniczych oprócz Dowódcy;
+	}
+[Select the Commander]
+	{
+	Polish=Zaznacza Dowódcę;
+	}
+[Destruct selected unit(s)]
+	{
+	Polish=Uruchamia samozniszczenie zaznaczonych jednostek;
+	}
+[Select all units currently on the screen]
+	{
+	Polish=Zaznacza wszystkie jednostki na ekranie;
+	}
+[Select all aircraft]
+	{
+	Polish=Zaznacza całe lotnictwo;
+	}
+[Select all units of same type]
+	{
+	Polish=Zaznacza wszystkie jednostki tego samego typu;
+	}
+[Applies a map bookmark at cursor location]
+	{
+	Polish=Stawia zakładkę mapy w miejscu wskaźnika;
+	}
+[Centers the screen on a map bookmark]
+	{
+	Polish=Wyśrodkowuje ekran na zakładce mapy;
+	}
+[Give an attack order]
+	{
+	Polish=Wydaje rozkaz ataku;
+	}
+[Give a guard order]
+	{
+	Polish=Wydaje rozkaz ochrony;
+	}
+[Give a move order]
+	{
+	Polish=Wydaje rozkaz ruchu;
+	}
+[Give a patrol order]
+	{
+	Polish=Wydaje rozkaz patrolu;
+	}
+[Give a stop order (cancel previous orders)]
+	{
+	Polish=Wydaje rozkaz zatrzymania (anuluje poprzednie rozkazy);
+	}
+[Use the Disintegrator Gun]
+	{
+	Polish=Używa działa dezintegrującego;
+	}
+[Give a capture order]
+	{
+	Polish=Wydaje rozkaz przejęcia;
+	}
+[Give a repair order]
+	{
+	Polish=Wydaje rozkaz naprawy;
+	}
+[Give a reclaim order]
+	{
+	Polish=Wydaje rozkaz odzysku;
+	}
+[Share resources with another player]
+	{
+	Polish=Dzieli się zasobami z innym graczem;
+	}
+[Scroll to the next unit off screen]
+	{
+	Polish=Przewija do następnej jednostki poza ekranem;
+	}
+[Track the selected unit]
+	{
+	Polish=Śledzi zaznaczoną jednostkę;
+	}
+[Reduce the game speed]
+	{
+	Polish=Zmniejsza prędkość gry;
+	}
+[Increase the game speed]
+	{
+	Polish=Zwiększa prędkość gry;
+	}
+[Hold down to queue up multiple commands]
+	{
+	Polish=Przytrzymaj, by ustawić kilka rozkazów w kolejce;
+	}
+[ENTER]
+	{
+	Polish=ENTER;
+	}
+[Activate the message bar]
+	{
+	Polish=Włącza pasek wiadomości;
+	}
+[Turn Rate]
+	{
+	Polish=Szybkość obrotu;
+	}
+
+// Multiplayer map names and descriptions
+
+[painted desert]
+	{
+	Polish=Malowana pustynia;
+	}
+[18 x 18  battle in the many mesas area.]
+	{
+	Polish=18 x 18  Bitwa w krainie wielu płaskowyżów.;
+	}
+[caldera's rim]
+	{
+	Polish=Krawędź kaldery;
+	}
+[29 x 29  sunken volcanic crater in center of map]
+	{
+	Polish=29 x 29  Zapadły krater wulkaniczny na środku mapy;
+	}
+[coast to coast]
+	{
+	Polish=Od wybrzeża do wybrzeża;
+	}
+[7 x 4  water between two coasts. weak tides.]
+	{
+	Polish=7 x 4  Woda między dwoma wybrzeżami. Słabe pływy.;
+	}
+[dark side]
+	{
+	Polish=Ciemna strona;
+	}
+[6 x 5  lunar map with plenty of metal]
+	{
+	Polish=6 x 5  Księżycowa mapa z dużą ilością metalu;
+	}
+[etorrep glacier]
+	{
+	Polish=Lodowiec Etorrep;
+	}
+[5 x 8  strong winds coming from ocean.]
+	{
+	Polish=5 x 8  Silne wiatry znad oceanu.;
+	}
+[fox holes]
+	{
+	Polish=Lisie nory;
+	}
+[7 x 7  strong winds. more metal on high ground.]
+	{
+	Polish=7 x 7  Silne wiatry. Więcej metalu na wzniesieniach.;
+	}
+[full moon]
+	{
+	Polish=Pełnia księżyca;
+	}
+[8 x 8  fighting on the naryb highlands. no wind.]
+	{
+	Polish=8 x 8  Walka na wyżynach Naryb. Bez wiatru.;
+	}
+[gods of war]
+	{
+	Polish=Bogowie wojny;
+	}
+[9 x 8  asymmetric water map.]
+	{
+	Polish=9 x 8  Asymetryczna mapa wodna.;
+	}
+[great divide]
+	{
+	Polish=Wielki wododział;
+	}
+[5 x 8  fight through a mountain pass.]
+	{
+	Polish=5 x 8  Walka o przebicie się przez górską przełęcz.;
+	}
+[hundred isles]
+	{
+	Polish=Sto wysp;
+	}
+[12 x 12  fighting on over a hundred small islands]
+	{
+	Polish=12 x 12  Walka na ponad stu małych wyspach;
+	}
+[kill the middle]
+	{
+	Polish=Zabij środek;
+	}
+[13 x 13  powerful player in middle of map on island.]
+	{
+	Polish=13 x 13  Potężny gracz na wyspie pośrodku mapy.;
+	}
+[king of the hill]
+	{
+	Polish=Król wzgórza;
+	}
+[16 x 16  fight for a metal rich mountain. strong wind.]
+	{
+	Polish=16 x 16  Walka o górę bogatą w metal. Silny wiatr.;
+	}
+[lava & two hills]
+	{
+	Polish=Lawa i dwa wzgórza;
+	}
+[9 x 8  two giant hills & a river of lava between them]
+	{
+	Polish=9 x 8  Dwa ogromne wzgórza i rzeka lawy między nimi;
+	}
+[lava highground]
+	{
+	Polish=Lawowe wzniesienie;
+	}
+[8 x 8  fight over narrow ramps.]
+	{
+	Polish=8 x 8  Walka na wąskich rampach.;
+	}
+[lava mania]
+	{
+	Polish=Mania lawy;
+	}
+[8 x 8  strong winds.]
+	{
+	Polish=8 x 8  Silne wiatry.;
+	}
+[lava run]
+	{
+	Polish=Potok lawy;
+	}
+[13 x 4  lava strip down center. high winds.]
+	{
+	Polish=13 x 4  Pas lawy przez środek. Silne wiatry.;
+	}
+[greenhaven]
+	{
+	Polish=Zielona przystań;
+	}
+[16 x 16  large map with many hills to hide behind.]
+	{
+	Polish=16 x 16  Duża mapa z wieloma wzgórzami, za którymi można się schować.;
+	}
+[metal heck]
+	{
+	Polish=Metalowe piekło;
+	}
+[8 x 8  fight in the metal cross region.]
+	{
+	Polish=8 x 8  Walka w rejonie metalowego krzyża.;
+	}
+[red hot lava]
+	{
+	Polish=Rozżarzona lawa;
+	}
+[11 x 9  many hills and lava pools. plenty of metal]
+	{
+	Polish=11 x 9  Wiele wzgórz i sadzawek lawy. Dużo metalu;
+	}
+[red planet]
+	{
+	Polish=Czerwona planeta;
+	}
+[9 x 9   many small hills and pools]
+	{
+	Polish=9 x 9   Wiele małych wzgórz i sadzawek;
+	}
+[red triangle]
+	{
+	Polish=Czerwony trójkąt;
+	}
+[16 x 16  powerful tides and strong winds.]
+	{
+	Polish=16 x 16  Potężne pływy i silne wiatry.;
+	}
+[ring atoll]
+	{
+	Polish=Atol pierścieniowy;
+	}
+[21 x 21  powerful tides. ground units can use shallow water.]
+	{
+	Polish=21 x 21  Potężne pływy. Jednostki lądowe mogą korzystać z płytkiej wody.;
+	}
+[rock alley]
+	{
+	Polish=Skalny zaułek;
+	}
+[9 x 21  fight in mountian valley.]
+	{
+	Polish=9 x 21  Walka w górskiej dolinie.;
+	}
+[sherwood]
+	{
+	Polish=Sherwood;
+	}
+[6 x 6  fighting around 3 large hills]
+	{
+	Polish=6 x 6  Walka wokół 3 dużych wzgórz;
+	}
+[shore to shore]
+	{
+	Polish=Od brzegu do brzegu;
+	}
+[29 x 4  two coasts with large ocean between them.]
+	{
+	Polish=29 x 4  Dwa wybrzeża i wielki ocean między nimi.;
+	}
+[the desert triad]
+	{
+	Polish=Pustynna triada;
+	}
+[6 x 6  fighting on 3 mesas.]
+	{
+	Polish=6 x 6  Walka na 3 płaskowyżach.;
+	}
+[two continents]
+	{
+	Polish=Dwa kontynenty;
+	}
+[22 x 25  metal in the middle of the map.]
+	{
+	Polish=22 x 25  Metal na środku mapy.;
+	}
+[yerrot mountains]
+	{
+	Polish=Góry Yerrot;
+	}
+[27 x 23  mountain range with lots of metal.]
+	{
+	Polish=27 x 23  Pasmo górskie z dużą ilością metalu.;
+	}
+[pincushion]
+	{
+	Polish=Igielnik;
+	}
+[13 x 13  a fight amongst lava spires]
+	{
+	Polish=13 x 13  Walka wśród lawowych iglic;
+	}
+[over crude water]
+	{
+	Polish=Nad ropą naftową;
+	}
+[25 x 25  a maze of metal bridges.]
+	{
+	Polish=25 x 25  Labirynt metalowych mostów.;
+	}
+[seven islands]
+	{
+	Polish=Siedem wysp;
+	}
+[40 x 40  huge sea battle on core prime]
+	{
+	Polish=40 x 40  Ogromna bitwa morska na Core Prime;
+	}
+[ashap plateau]
+	{
+	Polish=Płaskowyż Ashap;
+	}
+[9 x 9  metal on rough lower level]
+	{
+	Polish=9 x 9  Metal na nierównym dolnym poziomie;
+	}
+[the cold place]
+	{
+	Polish=Zimne miejsce;
+	}
+[15 x 11  fighting on a flat tundra with very strong winds.]
+	{
+	Polish=15 x 11  Walka na płaskiej tundrze przy bardzo silnym wietrze.;
+	}
+[evad river confluence]
+	{
+	Polish=Zbieg rzeki Evad;
+	}
+[11 x 10 map.  intermittent winds]
+	{
+	Polish=11 x 10 map.  Przerywane wiatry;
+	}
+[lava alley]
+	{
+	Polish=Lawowy zaułek;
+	}
+[18 x 18  fighting in narrow valleys.]
+	{
+	Polish=18 x 18  Walka w wąskich dolinach.;
+	}
+[the pass]
+	{
+	Polish=Przełęcz;
+	}
+[7 x 4  fight to control a winding mountian pass.]
+	{
+	Polish=7 x 4  Walka o kontrolę nad krętą górską przełęczą.;
+	}
+[anteer strait]
+	{
+	Polish=Cieśnina Anteer;
+	}
+[18 x 18  fight in an iceburg filled ocean. strong tides.]
+	{
+	Polish=18 x 18  Walka na oceanie pełnym gór lodowych. Silne pływy.;
+	}
+[metal isles]
+	{
+	Polish=Wyspy metalu;
+	}
+[23 X 21  4 Symmetrical Metal Islands, good for sea battles]
+	{
+	Polish=23 X 21  4 symetryczne wyspy metalu, dobre do bitew morskich;
+	}
+
+// Expansion Pack map names and descriptions
+
+[acid foursome]
+	{
+	Polish=Kwaśna czwórka;
+	}
+[13 X 13  Open plains and small lakes.]
+	{
+	Polish=13 X 13  Otwarte równiny i małe jeziora.;
+	}
+[acid pools]
+	{
+	Polish=Kwaśne sadzawki;
+	}
+[32 X 23  Masses of land with narrow passages.]
+	{
+	Polish=32 X 23  Masywy lądu z wąskimi przejściami.;
+	}
+[acid trip]
+	{
+	Polish=Kwaśna podróż;
+	}
+[15 X 39  Watch out for the acid or you'll melt away.]
+	{
+	Polish=15 X 39  Uważaj na kwas, bo się roztopisz.;
+	}
+[assault on suburbia]
+	{
+	Polish=Szturm na przedmieścia;
+	}
+[16 X 16 Crush 'em.]
+	{
+	Polish=16 X 16 Zgnieć ich.;
+	}
+[biggie biggs]
+	{
+	Polish=Biggie Biggs;
+	}
+[36 X 16  Dance from island to island crushing your opponents.]
+	{
+	Polish=36 X 16  Tańcz od wyspy do wyspy, miażdżąc przeciwników.;
+	}
+[block wars]
+	{
+	Polish=Wojny kwartałów;
+	}
+[20 X 20  Battling through the Core Prime suburbs.]
+	{
+	Polish=20 X 20  Walki na przedmieściach Core Prime.;
+	}
+[brain coral]
+	{
+	Polish=Koral mózgowy;
+	}
+[20 X 20  Hydrous map with brain coral spiral.]
+	{
+	Polish=20 X 20  Wodna mapa ze spiralą korala mózgowego.;
+	}
+[25 X 24  Keep your Kbots on the trails.]
+	{
+	Polish=25 X 24  Trzymaj Kboty na ścieżkach.;
+	}
+[checker ponds]
+	{
+	Polish=Stawy w kratkę;
+	}
+[13 X 13  Be wary of the many corrosive puddles.]
+	{
+	Polish=13 X 13  Uważaj na liczne żrące kałuże.;
+	}
+[cluster freak]
+	{
+	Polish=Kłębowisko;
+	}
+[10 X 10  High winds with lots of metal in the middle.]
+	{
+	Polish=10 X 10  Silne wiatry i dużo metalu w środku.;
+	}
+[comet catcher]
+	{
+	Polish=Łowca komet;
+	}
+[12 X 15  Low gravity livens up this desolate landscape.]
+	{
+	Polish=12 X 15  Niska grawitacja ożywia ten odludny krajobraz.;
+	}
+[core prime industrial area]
+	{
+	Polish=Strefa przemysłowa Core Prime;
+	}
+[21 X 21  Abandoned Core industrial area.]
+	{
+	Polish=21 X 21  Opuszczona strefa przemysłowa CORE.;
+	}
+[crater islands]
+	{
+	Polish=Wyspy kraterowe;
+	}
+[10 X 8  Fight your way across these shallow waters.]
+	{
+	Polish=10 X 8  Przebij się przez te płycizny.;
+	}
+[crystal cracked]
+	{
+	Polish=Pęknięty kryształ;
+	}
+[20 X 20 Two land masses split by an inland filled sea.]
+	{
+	Polish=20 X 20 Dwa masywy lądu rozdzielone morzem śródlądowym.;
+	}
+[crystal isles]
+	{
+	Polish=Kryształowe wyspy;
+	}
+[20 X 20 Crystal World ocean, dotted with reefs and islands.]
+	{
+	Polish=20 X 20 Ocean kryształowego świata, usiany rafami i wyspami.;
+	}
+[crystal maze]
+	{
+	Polish=Kryształowy labirynt;
+	}
+[10 X 10 Free-for-all in a maze of mountains.]
+	{
+	Polish=10 X 10 Każdy na każdego w labiryncie gór.;
+	}
+[crystal treasure island]
+	{
+	Polish=Kryształowa wyspa skarbów;
+	}
+[12 X 13  Crystal map with metal-rich islands in the center.]
+	{
+	Polish=12 X 13  Kryształowa mapa z bogatymi w metal wyspami w środku.;
+	}
+[dire straits]
+	{
+	Polish=Srogie cieśniny;
+	}
+[15 X 17 Natural fortification to hide between.]
+	{
+	Polish=15 X 17 Naturalne umocnienia, między którymi można się schować.;
+	}
+[east indeez]
+	{
+	Polish=Indie Wschodnie;
+	}
+[28 X 19 Lots of islands, lots of water!]
+	{
+	Polish=28 X 19 Mnóstwo wysp, mnóstwo wody!;
+	}
+[eastside westside]
+	{
+	Polish=Wschód i zachód;
+	}
+[19 X 19  Find a park or reclaim large structures for metal.]
+	{
+	Polish=19 X 19  Znajdź park albo odzyskaj duże struktury, by zyskać metal.;
+	}
+[14 X 14, Battle for the Evad River Delta]
+	{
+	Polish=14 X 14, Bitwa o deltę rzeki Evad;
+	}
+[expanded confluence]
+	{
+	Polish=Rozszerzony zbieg;
+	}
+[22 X 22 More room to rumble on this old favorite.]
+	{
+	Polish=22 X 22 Więcej miejsca do walki na tej starej ulubionej mapie.;
+	}
+[flooded glaciers]
+	{
+	Polish=Zalane lodowce;
+	}
+[12 X 10 Icy ocean battle.]
+	{
+	Polish=12 X 10 Bitwa na lodowatym oceanie.;
+	}
+[gasbag forests]
+	{
+	Polish=Lasy pęcherzy gazowych;
+	}
+[19 X 19  Large fields of gasplants block your path.]
+	{
+	Polish=19 X 19  Wielkie pola roślin gazowych blokują drogę.;
+	}
+[gasplant plain]
+	{
+	Polish=Równina roślin gazowych;
+	}
+[10 X 8  Large plain for close encounters. Lots of geothermal.]
+	{
+	Polish=10 X 8  Wielka równina do bliskich starć. Dużo źródeł geotermalnych.;
+	}
+[higher ground]
+	{
+	Polish=Wyższy teren;
+	}
+[8 X 16  You take the high road and I'll take the low road.]
+	{
+	Polish=8 X 16  Idź górną drogą, a ja pójdę dolną.;
+	}
+[ice house]
+	{
+	Polish=Lodowy dom;
+	}
+[16 X 16  Large ice mountains hinder big guns.]
+	{
+	Polish=16 X 16  Wielkie lodowe góry przeszkadzają ciężkim działom.;
+	}
+[ice scream]
+	{
+	Polish=Lodowy krzyk;
+	}
+[15 X 39  Screaming won't be all you do on this forbidding world.]
+	{
+	Polish=15 X 39  Na tym niegościnnym świecie nie tylko pokrzyczysz.;
+	}
+[icy bergs]
+	{
+	Polish=Góry lodowe;
+	}
+[28 X 28  Landless. Lots of sunken ships.]
+	{
+	Polish=28 X 28  Bez lądu. Dużo zatopionych okrętów.;
+	}
+[john's pass]
+	{
+	Polish=Przełęcz Johna;
+	}
+[10 X 15  Follow the river up the middle, if you dare!]
+	{
+	Polish=10 X 15  Idź rzeką przez środek, jeśli się odważysz!;
+	}
+[lake shore]
+	{
+	Polish=Brzeg jeziora;
+	}
+[13 X 7  Large lake with islands in the middle.]
+	{
+	Polish=13 X 7  Wielkie jezioro z wyspami pośrodku.;
+	}
+[luschaven]
+	{
+	Polish=Luschaven;
+	}
+[17 X 16 Battle for control of dry land.]
+	{
+	Polish=17 X 16 Bitwa o panowanie nad suchym lądem.;
+	}
+[lusch puppy]
+	{
+	Polish=Mały Lusch;
+	}
+[11 X 7  Small map divided by grand mountains.]
+	{
+	Polish=11 X 7  Mała mapa rozdzielona potężnymi górami.;
+	}
+[moon quartet]
+	{
+	Polish=Kwartet księżycowy;
+	}
+[20 X 20 Great map for team play.  Light side vs. dark side.]
+	{
+	Polish=20 X 20 Świetna mapa do gry drużynowej.  Jasna strona kontra ciemna.;
+	}
+[mounds of mars]
+	{
+	Polish=Kopce Marsa;
+	}
+[8 X 17  For more than two players, play teams, North vs. South.]
+	{
+	Polish=8 X 17  Gdy graczy jest więcej niż dwóch, graj drużynami: Północ kontra Południe.;
+	}
+[ooooweeee]
+	{
+	Polish=Ooooweeee;
+	}
+[19 X 19  Nine islands of love and understanding.  Let's hug.]
+	{
+	Polish=19 X 19  Dziewięć wysp miłości i zrozumienia.  Przytulmy się.;
+	}
+[pillopeens]
+	{
+	Polish=Pillopeens;
+	}
+[17 X 27 Island-hopping map.]
+	{
+	Polish=17 X 27 Mapa do skoków z wyspy na wyspę.;
+	}
+[plains and passes]
+	{
+	Polish=Równiny i przełęcze;
+	}
+[20 X 20  Large map with lots of metal.]
+	{
+	Polish=20 X 20  Duża mapa z mnóstwem metalu.;
+	}
+[polar range]
+	{
+	Polish=Pasmo polarne;
+	}
+[20 X 20  Large polar ice cap map. A bleak and forbidding world.]
+	{
+	Polish=20 X 20  Duża mapa polarnej czapy lodowej. Ponury i niegościnny świat.;
+	}
+[polyp fields]
+	{
+	Polish=Pola polipów;
+	}
+[27 X 22  Large geometric polyps litter this battlefield.]
+	{
+	Polish=27 X 22  Wielkie geometryczne polipy zaściełają to pole bitwy.;
+	}
+[red river]
+	{
+	Polish=Czerwona rzeka;
+	}
+[21 X 30  Large river separates two land masses.]
+	{
+	Polish=21 X 30  Wielka rzeka rozdziela dwa masywy lądu.;
+	}
+[red river north]
+	{
+	Polish=Czerwona rzeka: północ;
+	}
+[21 X 14  Smaller segment of Red River.]
+	{
+	Polish=21 X 14  Mniejszy odcinek Czerwonej rzeki.;
+	}
+[ror shock]
+	{
+	Polish=Ror Shock;
+	}
+[26 X 26 Ocean Battles are a must for this fine map.  Big surprise in center!]
+	{
+	Polish=26 X 26 Bitwy morskie są tu obowiązkowe.  Wielka niespodzianka w środku!;
+	}
+[sail away]
+	{
+	Polish=Pod żaglami;
+	}
+[12 X 20 High winds sweep these islands.]
+	{
+	Polish=12 X 20 Silne wiatry smagają te wyspy.;
+	}
+[sector 410b]
+	{
+	Polish=Sektor 410b;
+	}
+[25 X 22  Large mountains with narrow passes.]
+	{
+	Polish=25 X 22  Wysokie góry z wąskimi przełęczami.;
+	}
+[show down]
+	{
+	Polish=Starcie;
+	}
+[11 X 5  Meet in the middle.]
+	{
+	Polish=11 X 5  Spotkanie pośrodku.;
+	}
+[slate gordon]
+	{
+	Polish=Slate Gordon;
+	}
+[23 X 15 Great map for east/west rivalries.  Earthquakes.]
+	{
+	Polish=23 X 15 Świetna mapa do rywalizacji wschodu z zachodem.  Trzęsienia ziemi.;
+	}
+[slated fate]
+	{
+	Polish=Łupkowy los;
+	}
+[7 x 12 Search for metal in crevices.]
+	{
+	Polish=7 x 12 Szukaj metalu w szczelinach.;
+	}
+[steel jungle]
+	{
+	Polish=Stalowa dżungla;
+	}
+[20 x 10  Wake up and smell the coffee with the Morning War Show.]
+	{
+	Polish=20 x 10  Obudź się i poczuj zapach kawy przy Porannym pokazie wojny.;
+	}
+[surface meltdown]
+	{
+	Polish=Roztopiona powierzchnia;
+	}
+[15 X 17  Bumps, bumps, and more bumps.]
+	{
+	Polish=15 X 17  Pagórki, pagórki i jeszcze pagórki.;
+	}
+[temblorian mist]
+	{
+	Polish=Mgła Tembloru;
+	}
+[12 X 15  Make your way around the edges or fly across the center.]
+	{
+	Polish=12 X 15  Przedzieraj się skrajami albo leć przez środek.;
+	}
+[the barrier reef]
+	{
+	Polish=Rafa barierowa;
+	}
+[19 X 19  Body of water separates two land masses.  Great underwater starts!]
+	{
+	Polish=19 X 19  Woda rozdziela dwa masywy lądu.  Świetne podwodne pozycje startowe!;
+	}
+[the bayou]
+	{
+	Polish=Rozlewisko;
+	}
+[20 X 20  Strong currents rush through this Bayou.]
+	{
+	Polish=20 X 20  Silne prądy pędzą przez to rozlewisko.;
+	}
+[town & country]
+	{
+	Polish=Miasto i wieś;
+	}
+[17 X 17  Urban vs. rural.]
+	{
+	Polish=17 X 17  Miasto kontra wieś.;
+	}
+[trout farm]
+	{
+	Polish=Pstrągarnia;
+	}
+[15 X 15  Watch out for the sinkhole in the middle.]
+	{
+	Polish=15 X 15  Uważaj na zapadlisko pośrodku.;
+	}
+
+// Download Maps
+
+[cloudious prime]
+	{
+	Polish=Cloudious Prime;
+	}
+[20 X 20  Island in the clouds with giant canyon.  Absurd wind.]
+	{
+	Polish=20 X 20  Wyspa w chmurach z olbrzymim kanionem.  Absurdalny wiatr.;
+	}
+
+// Battle Tactics Maps
+
+[aqua verdigris]
+	{
+	Polish=Wodny grynszpan;
+	}
+[12 x 12  Fighting around rings of Dragon's Teeth.]
+	{
+	Polish=12 x 12  Walka wokół pierścieni „Smocze zęby”.;
+	}
+[brilliant cut lake]
+	{
+	Polish=Jezioro brylantowe;
+	}
+[15 X 15  Fighting around a large lake.]
+	{
+	Polish=15 X 15  Walka wokół wielkiego jeziora.;
+	}
+[canal crossing]
+	{
+	Polish=Przeprawa przez kanały;
+	}
+[16 X 17  Four land masses separated by canals.]
+	{
+	Polish=16 X 17  Cztery masywy lądu rozdzielone kanałami.;
+	}
+[metal gridlock]
+	{
+	Polish=Metalowy zator;
+	}
+[20 X 20  Five squares interlock to create defensive forts.]
+	{
+	Polish=20 X 20  Pięć kwadratów zazębia się, tworząc forty obronne.;
+	}
+[wretched ridges]
+	{
+	Polish=Przeklęte grzbiety;
+	}
+[12 X 12  High ridges protect defensive areas.  Light forest.]
+	{
+	Polish=12 X 12  Wysokie grzbiety chronią obszary obronne.  Rzadki las.;
+	}
+[coremageddon]
+	{
+	Polish=Armagedon CORE;
+	}
+[13 X 20  Set up ambushes in this Core Prime maze.]
+	{
+	Polish=13 X 20  Zastawiaj zasadzki w tym labiryncie na Core Prime.;
+	}
+
+// Possible Error Messages
+
+[The requested campaign file, %s, does not exist.]
+	{
+	Polish=Żądany plik kampanii, %s, nie istnieje.;
+	}
+[Error -- Unnamed Mission]
+	{
+	Polish=Błąd — misja bez nazwy;
+	}
+[The requested mission file, %s, does not exist.]
+	{
+	Polish=Żądany plik misji, %s, nie istnieje.;
+	}
+[No GlobalHeader block in mission file!]
+	{
+	Polish=W pliku misji nie ma bloku GlobalHeader!;
+	}
+[No description available]
+	{
+	Polish=Brak opisu;
+	}
+[No suitable schema type in mission file!]
+	{
+	Polish=W pliku misji nie ma odpowiedniego typu schematu!;
+	}
+[Very bad news!  No MSG!]
+	{
+	Polish=Bardzo złe wieści!  Nie ma MSG!;
+	}
+[Hey, hoser!  The default meteor shower data was bogus!]
+	{
+	Polish=Ej, jełopie!  Domyślne dane deszczu meteorów były fałszywe!;
+	}
+[Could not open movie file, please check filename in INI.]
+	{
+	Polish=Nie udało się otworzyć pliku filmu. Sprawdź nazwę pliku w INI.;
+	}
+[Could not setup Direct Draw to play movie.]
+	{
+	Polish=Nie udało się skonfigurować Direct Draw do odtworzenia filmu.;
+	}
+[Unsupported pixel format.]
+	{
+	Polish=Nieobsługiwany format pikseli.;
+	}
+[Smacker Error]
+	{
+	Polish=Błąd Smacker;
+	}
+[Summary]
+	{
+	Polish=Podsumowanie;
+	}
+[getbuilt]
+	{
+	Polish=w budowie;
+	}
+[TransportDrop]
+	{
+	Polish=Wyładunek z transportu;
+	}
+[QueryTransport]
+	{
+	Polish=Szukanie transportu;
+	}
+[EndTransport]
+	{
+	Polish=Koniec transportu;
+	}
+[QueryLandingPad]
+	{
+	Polish=Szukanie lądowiska;
+	}
+[Invalid logo setting]
+	{
+	Polish=Nieprawidłowe ustawienie logo;
+	}
+[Unable to start the thread!]
+	{
+	Polish=Nie udało się uruchomić wątku!;
+	}
+[Please insert the Total Annihilation CD and try again]
+	{
+	Polish=Włóż CD Total Annihilation i spróbuj ponownie;
+	}
+[Please insert the Play CD and try again]
+	{
+	Polish=Włóż CD gry i spróbuj ponownie;
+	}
+[The Play CD was not found]
+	{
+	Polish=Nie znaleziono CD gry;
+	}
+[Please insert the Play CD]
+	{
+	Polish=Włóż CD gry;
+	}
+[Click to continue.]
+	{
+	Polish=Kliknij, by kontynuować.;
+	}
+[Done]
+	{
+	Polish=Gotowe;
+	}
+[Record "%s" missing from feature files]
+	{
+	Polish=W plikach obiektów mapy brak wpisu „%s”;
+	}
+[An error occurred trying to use this service]
+	{
+	Polish=Przy próbie użycia tej usługi wystąpił błąd;
+	}
+[expecting int]
+	{
+	Polish=oczekiwano liczby całkowitej;
+	}
+[parse error reading AI profile %s\n%s\nlast string =]
+	{
+	Polish=błąd składni przy odczycie profilu SI %s\n%s\nostatni ciąg =;
+	}
+[None]
+	{
+	Polish=Brak;
+	}
+[Incompatible units found.  They will be ignored.  Please download the latest version of the game.]
+	{
+	Polish=Znaleziono niekompatybilne jednostki.  Zostaną zignorowane.  Pobierz najnowszą wersję gry.;
+	}
+[Can't load MOVEINFO.TDF]
+	{
+	Polish=Nie udało się wczytać MOVEINFO.TDF;
+	}
+[Can't load GAMEDATA.TDF]
+	{
+	Polish=Nie udało się wczytać GAMEDATA.TDF;
+	}
+[Connecting  (ESC to abort)]
+	{
+	Polish=Łączenie  (ESC, by przerwać);
+	}
+[Lock]
+	{
+	Polish=Zablokuj;
+	}
+[Blk]
+	{
+	Polish=Czar.;
+	}
+[Gray]
+	{
+	Polish=Szary;
+	}
+[Connecting... press ESC to abort]
+	{
+	Polish=Łączenie... Naciśnij ESC, by przerwać;
+	}
+[Unable to find any modems]
+	{
+	Polish=Nie znaleziono żadnego modemu;
+	}
+[allied with]
+	{
+	Polish=zawiera sojusz z;
+	}
+[broke alliance with]
+	{
+	Polish=zrywa sojusz z;
+	}
+[There are not enough game CDs present to play]
+	{
+	Polish=Brakuje CD do gry;
+	}
+[You must select a map before starting]
+	{
+	Polish=Przed startem wybierz mapę;
+	}
+[\nYou must select a map before starting\n\n]
+	{
+	Polish=\nPrzed startem wybierz mapę\n\n;
+	}
+[n/a]
+	{
+	Polish=n.d.;
+	}
+[N/A]
+	{
+	Polish=N.D.;
+	}
+[View Map]
+	{
+	Polish=Pokaż mapę;
+	}
+[Could not find the multiplayer map!!]
+	{
+	Polish=Nie znaleziono mapy wieloosobowej!!;
+	}
+[does not have this map]
+	{
+	Polish=nie ma tej mapy;
+	}
+[There are no saved lists to choose from]
+	{
+	Polish=Nie ma zapisanych list do wyboru;
+	}
+[has left the scene]
+	{
+	Polish=opuszcza scenę;
+	}
+[has been shown the door]
+	{
+	Polish=wylatuje za drzwi;
+	}
+[has gone to a better place]
+	{
+	Polish=odchodzi w lepszy świat;
+	}
+[has bowed out]
+	{
+	Polish=kłania się na odchodne;
+	}
+[has terminated]
+	{
+	Polish=kończy działanie;
+	}
+[has been eradicated]
+	{
+	Polish=zostaje wytępiony;
+	}
+[has been liquidated]
+	{
+	Polish=zostaje zlikwidowany;
+	}
+[has been obliterated]
+	{
+	Polish=zostaje unicestwiony;
+	}
+[forces have been obliterated]
+	{
+	Polish=— siły unicestwiono;
+	}
+[vermin have been exterminated]
+	{
+	Polish=— robactwo wytępiono;
+	}
+[forces have gone to a better place]
+	{
+	Polish=— siły odchodzą w lepszy świat;
+	}
+[dropping a player due to TIMEOUT_SECS]
+	{
+	Polish=odłączanie gracza z powodu TIMEOUT_SECS;
+	}
+[%s is joining the game...]
+	{
+	Polish=%s dołącza do gry...;
+	}
+[player dropped by DPSYS_]
+	{
+	Polish=gracz odłączony przez DPSYS_;
+	}
+[player '%s' set to startpos %d\n]
+	{
+	Polish=gracz „%s” dostaje pozycję startową %d\n;
+	}
+[You're out!  Continue Watching?]
+	{
+	Polish=Odpadasz!  Kontynuować obserwację?;
+	}
+[Weapon]
+	{
+	Polish=Broń;
+	}
+[Please insert a Total Annihilation CD and try again]
+	{
+	Polish=Włóż CD Total Annihilation i spróbuj ponownie;
+	}
+[Wind Speed]
+	{
+	Polish=Wiatr;
+	}
+[Gravity]
+	{
+	Polish=Grawitacja;
+	}
+[Tidal Strength]
+	{
+	Polish=Siła pływów;
+	}
+[There are no skirmish maps to choose from]
+	{
+	Polish=Nie ma map potyczki do wyboru;
+	}
+[There are no multiplayer maps to choose from]
+	{
+	Polish=Nie ma map wieloosobowych do wyboru;
+	}
+[The terrain for the selected map does not exist.]
+	{
+	Polish=Teren wybranej mapy nie istnieje.;
+	}
+[All players may not be in the same allied group.]
+	{
+	Polish=Nie można umieścić wszystkich graczy w jednym sojuszu.;
+	}
+[Error:  Sound system initialization failed.]
+	{
+	Polish=Błąd:  Nie udało się uruchomić systemu dźwięku.;
+	}
+[%s has taken the lead with %d kills]
+	{
+	Polish=%s wychodzi na prowadzenie. Zniszczone: %d;
+	}
+[has taken the lead with %d kills]
+	{
+	Polish=wychodzi na prowadzenie. Zniszczone: %d;
+	}
+[has taken the lead with]
+	{
+	Polish=wychodzi na prowadzenie z;
+	}
+[Player number %d invalid for unit %s]
+	{
+	Polish=Numer gracza %d jest błędny dla jednostki %s;
+	}
+[Cost]
+	{
+	Polish=Koszt;
+	}
+[Build Time]
+	{
+	Polish=Czas bud.;
+	}
+[Max Velocity]
+	{
+	Polish=Maks. prędkość;
+	}
+[Acceleration]
+	{
+	Polish=Przyspieszenie;
+	}
+[Weapons]
+	{
+	Polish=Uzbrojenie;
+	}
+[Speed]
+	{
+	Polish=Prędkość;
+	}
+[Game Speed Normal]
+	{
+	Polish=Normalna prędkość gry;
+	}
+[Invalid savegame file]
+	{
+	Polish=Nieprawidłowy plik zapisu gry;
+	}
+[Unable to start the loading thread!]
+	{
+	Polish=Nie udało się uruchomić wątku wczytywania!;
+	}
+[DirectPlay registration failed.]
+	{
+	Polish=Rejestracja DirectPlay nie powiodła się.;
+	}
+[Demo Version]
+	{
+	Polish=Wersja demo;
+	}
+[Settings]
+	{
+	Polish=Ustawienia;
+	}
+
+// Added for v2.0
+
+[Can't add another player when game is closed.]
+	{
+	Polish=Nie można dodać kolejnego gracza, gdy gra jest zamknięta.;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-create the game session.\n]
+	{
+	Polish=Direct Play nie dodał nowego gracza.\n\nWróć do poprzedniego ekranu i utwórz sesję gry od nowa.\n;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-join the game session.\n]
+	{
+	Polish=Direct Play nie dodał nowego gracza.\n\nWróć do poprzedniego ekranu i dołącz do sesji gry ponownie.\n;
+	}
+[Square]
+	{
+	Polish=Kwadrat;
+	}
+[Circle]
+	{
+	Polish=Koło;
+	}
+[Triangle]
+	{
+	Polish=Trójkąt;
+	}
+[Star]
+	{
+	Polish=Gwiazda;
+	}
+[Moon]
+	{
+	Polish=Księżyc;
+	}
+[has joined the]
+	{
+	Polish=wchodzi do grupy;
+	}
+[has left the]
+	{
+	Polish=opuszcza grupę;
+	}
+[anemone]
+	{
+	Polish=Ukwiał;
+	}
+[coral]
+	{
+	Polish=Koral;
+	}
+[seaweed]
+	{
+	Polish=Wodorosty;
+	}
+[kelp]
+	{
+	Polish=Listownica;
+	}
+[You are placed in watch mode because you are hosting AI players which are still alive.  If you exit, they will be terminated.]
+	{
+	Polish=Trafiasz w tryb obserwatora, bo jesteś gospodarzem graczy SI, którzy wciąż żyją.  Jeśli wyjdziesz, zostaną usunięci.;
+	}
+[Unable to initialize scores reporting.]
+	{
+	Polish=Nie udało się uruchomić wysyłania wyników.;
+	}
+[No sound driver is available for use.\n]
+	{
+	Polish=Brak dostępnego sterownika dźwięku.\n;
+	}
+[Debug:  You must be in full-screen mode to play a movie.]
+	{
+	Polish=Diagnostyka:  Musisz być w pełnym ekranie, by odtworzyć film.;
+	}
+[Old TED format no longer supported!]
+	{
+	Polish=Stary format TED nie jest już obsługiwany!;
+	}
+[Can not start game with all players on the same team.]
+	{
+	Polish=Nie można zacząć gry, gdy wszyscy gracze są w jednej drużynie.;
+	}
+
+// Features
+
+[Transit Node]
+	{
+	Polish=Węzeł tranzytowy;
+	}
+[Microwave Relay]
+	{
+	Polish=Przekaźnik mikrofalowy;
+	}
+[Climatic Optimizer]
+	{
+	Polish=Optymalizator klimatu;
+	}
+[Truck]
+	{
+	Polish=Ciężarówka;
+	}
+[Manhole]
+	{
+	Polish=Właz kanalizacyjny;
+	}
+[Public Art]
+	{
+	Polish=Sztuka publiczna;
+	}
+[Car]
+	{
+	Polish=Samochód;
+	}
+[Willy Gates Bldg]
+	{
+	Polish=Budynek Willy Gates;
+	}
+[Barrier]
+	{
+	Polish=Bariera;
+	}
+[barrier]
+	{
+	Polish=bariera;
+	}
+[Oolok Tree]
+	{
+	Polish=Drzewo Oolok;
+	}
+[Gasbag]
+	{
+	Polish=Pęcherz gazowy;
+	}
+[Bridge]
+	{
+	Polish=Most;
+	}
+[Ruined Bridge]
+	{
+	Polish=Zrujnowany most;
+	}
+[Factory]
+	{
+	Polish=Fabryka;
+	}
+[Cheese Factory]
+	{
+	Polish=Fabryka sera;
+	}
+[Public Hygiene Pod]
+	{
+	Polish=Kapsuła higieny publicznej;
+	}
+[Monorail Track]
+	{
+	Polish=Tor kolei jednoszynowej;
+	}
+[Streetlight]
+	{
+	Polish=Latarnia uliczna;
+	}
+
+// Chat messages
+
+[OK.  Will share metal if above %d]
+	{
+	Polish=OK.  Udostępnię metal powyżej %d;
+	}
+[OK.  Will share energy if above %d]
+	{
+	Polish=OK.  Udostępnię energię powyżej %d;
+	}
+
+// Not in 3.1c's table: GUI captions and messages that 3.1c's own translate.tdf does not key
+
+[Begin Mission]
+	{
+	Polish=Rozpocznij misję;
+	}
+[Choose where you would like your scores reported to:]
+	{
+	Polish=Wybierz, gdzie wysyłać wyniki:;
+	}
+[CREDITS]
+	{
+	Polish=AUTORZY;
+	}
+[has modified his executable.  Game integrity breached.]
+	{
+	Polish=zmienił swój plik wykonywalny.  Naruszono integralność gry.;
+	}
+[has not responded for %d seconds]
+	{
+	Polish=nie odpowiada od %d sek.;
+	}
+[Have a nice day]
+	{
+	Polish=Miłego dnia;
+	}
+[Mission Brief]
+	{
+	Polish=Odprawa misji;
+	}
+[Name Of List To Save]
+	{
+	Polish=Nazwa listy do zapisu;
+	}
+[Pevious Menu]
+	{
+	Polish=Wstecz;
+	}
+[Select Player:]
+	{
+	Polish=Wybierz gracza:;
+	}
+[Synching]
+	{
+	Polish=Synchr.;
+	}
+[Watching Allowe]
+	{
+	Polish=Obserwatorzy: tak;
+	}
+
+// Not in 3.1c's table: Map names and descriptions
+
+[luschinfloggen]
+	{
+	Polish=Luschinfloggen;
+	}
+[8 X 10  Find your way through the shallows into the enemy base.]
+	{
+	Polish=8 X 10  Znajdź drogę przez płycizny do wrogiej bazy.;
+	}
+
+// Not in 3.1c's table: Planet names, as the maps give them
+
+[Green planet]
+	{
+	Polish=Zielona planeta;
+	}
+[Lava]
+	{
+	Polish=Lawa;
+	}
+[Red Planet]
+	{
+	Polish=Czerwona planeta;
+	}
+[Lush]
+	{
+	Polish=Bujny;
+	}
+[Ice]
+	{
+	Polish=Lód;
+	}
+[Archipelago]
+	{
+	Polish=Archipelag;
+	}
+[Slate]
+	{
+	Polish=Łupek;
+	}
+[Lunar]
+	{
+	Polish=Księżycowy;
+	}
+[Water World]
+	{
+	Polish=Wodny świat;
+	}
+[Acid]
+	{
+	Polish=Kwas;
+	}
+[Crystal]
+	{
+	Polish=Kryształ;
+	}
+[Wet Desert]
+	{
+	Polish=Wilgotna pustynia;
+	}
+[Desert]
+	{
+	Polish=Pustynia;
+	}
+[Urban]
+	{
+	Polish=Miejski;
+	}

@@ -1,0 +1,1953 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Unit names and descriptions in Polish, one section per unit.
+// name-from and description-from hold the English each field
+// translates; a field whose English no longer matches is not shown.
+
+[ARMAAP]
+	{
+	name=Zaaw. fabryka samolotów;
+	description=Produkuje samoloty;
+	name-from=Adv. Aircraft Plant;
+	description-from=Produces Aircraft;
+	}
+[ARMAAS]
+	{
+	name=Łucznik;
+	description=Okręt plot;
+	name-from=Archer;
+	description-from=Anti-Air Ship;
+	}
+[ARMACA]
+	{
+	name=Zaaw. samolot budowlany;
+	description=Poziom tech. 2;
+	name-from=Adv. Construction Aircraft;
+	description-from=Tech Level 2;
+	}
+[ARMACK]
+	{
+	name=Zaaw. Kbot budowlany;
+	description=Poziom tech. 2;
+	name-from=Adv. Construction Kbot;
+	description-from=Tech Level 2;
+	}
+[ARMACSUB]
+	{
+	name=Zaaw. okręt podwodny budowlany;
+	description=Poziom tech. 2;
+	name-from=Advanced Construction Sub;
+	description-from=Tech Level 2;
+	}
+[ARMACV]
+	{
+	name=Zaaw. pojazd budowlany;
+	description=Poziom tech. 2;
+	name-from=Adv. Construction Vehicle;
+	description-from=Tech Level 2;
+	}
+[ARMAH]
+	{
+	name=Packa;
+	description=Poduszkowiec plot;
+	name-from=Swatter;
+	description-from=Anti-Air Hovercraft;
+	}
+[ARMALAB]
+	{
+	name=Zaaw. laboratorium Kbotów;
+	description=Produkuje Kboty;
+	name-from=Adv. Kbot Lab;
+	description-from=Produces Kbots;
+	}
+[ARMAMB]
+	{
+	name=Zasadnik;
+	description=Wysuwane ciężkie działo;
+	name-from=Ambusher;
+	description-from=Pop-up Heavy Cannon;
+	}
+[ARMAMD]
+	{
+	name=Protektor;
+	description=Obrona przeciwrakietowa;
+	name-from=Protector;
+	description-from=Anti Missile Defense System;
+	}
+[ARMAMPH]
+	{
+	name=Pelikan;
+	description=Kbot amfibijny;
+	name-from=Pelican;
+	description-from=Amphibious Kbot;
+	}
+[ARMANAC]
+	{
+	name=Anakonda;
+	description=Czołg na poduszce;
+	name-from=Anaconda;
+	description-from=Hovertank;
+	}
+[ARMANNI]
+	{
+	name=Anihilator;
+	description=Broń energetyczna;
+	name-from=Annihilator;
+	description-from=Energy weapon;
+	}
+[ARMAP]
+	{
+	name=Fabryka samolotów;
+	description=Produkuje samoloty;
+	name-from=Aircraft Plant;
+	description-from=Produces Aircraft;
+	}
+[ARMARAD]
+	{
+	name=Zaaw. wieża radaru;
+	description=Wieża radaru dalekiego zasięgu;
+	name-from=Advanced Radar Tower;
+	description-from=Long Range Radar Tower;
+	}
+[ARMASER]
+	{
+	name=Gumka;
+	description=Zagłuszacz radaru;
+	name-from=Eraser;
+	description-from=Radar Jammer;
+	}
+[ARMASON]
+	{
+	name=Zaaw. stacja sonaru;
+	description=Sonar rozszerzony;
+	name-from=Advanced Sonar Station;
+	description-from=Extended Sonar;
+	}
+[ARMASP]
+	{
+	name=Lądowisko naprawcze;
+	description=Sam naprawia samoloty;
+	name-from=Air Repair Pad;
+	description-from=Automatically repairs aircraft;
+	}
+[ARMASY]
+	{
+	name=Zaaw. stocznia;
+	description=Produkuje okręty;
+	name-from=Adv. Shipyard;
+	description-from=Produces Ships;
+	}
+[ARMATL]
+	{
+	name=Zaaw. wyrzutnia torped;
+	description=Zaawansowana wyrzutnia torped;
+	name-from=Advanced Torpedo Launcher;
+	description-from=Advanced Torpedo Launcher;
+	}
+[ARMATLAS]
+	{
+	name=Atlas;
+	description=Transport powietrzny;
+	name-from=Atlas;
+	description-from=Air Transport;
+	}
+[ARMAVP]
+	{
+	name=Zaaw. fabryka pojazdów;
+	description=Produkuje pojazdy;
+	name-from=Adv. Vehicle Plant;
+	description-from=Produces Vehicles;
+	}
+[ARMAWAC]
+	{
+	name=Orzeł;
+	description=Samolot radaru;
+	name-from=Eagle;
+	description-from=Radar Plane;
+	}
+[ARMBATS]
+	{
+	name=Milenium;
+	description=Pancernik;
+	name-from=Millenium;
+	description-from=Battleship;
+	}
+[ARMBEAC]
+	{
+	name=Obca latarnia;
+	description=Obca latarnia;
+	name-from=Alien Beacon;
+	description-from=Alien Beacon;
+	}
+[ARMBRAWL]
+	{
+	name=Zabijaka;
+	description=Szturmowiec;
+	name-from=Brawler;
+	description-from=Gunship;
+	}
+[ARMBRTHA]
+	{
+	name=Gruba Berta;
+	description=Dalekonośne działo plazmowe;
+	name-from=Big Bertha;
+	description-from=Long Range Plasma Cannon;
+	}
+[ARMBULL]
+	{
+	name=Buldog;
+	description=Ciężki czołg szturmowy;
+	name-from=Bulldog;
+	description-from=Heavy Assault Tank;
+	}
+[ARMCA]
+	{
+	name=Samolot budowlany;
+	description=Poziom tech. 1;
+	name-from=Construction Aircraft;
+	description-from=Tech Level 1;
+	}
+[ARMCARRY]
+	{
+	name=Kolos;
+	description=Lekki lotniskowiec;
+	name-from=Colossus;
+	description-from=Light Carrier;
+	}
+[ARMCH]
+	{
+	name=Poduszkowiec budowlany;
+	description=Poziom tech. 1;
+	name-from=Construction Hovercraft;
+	description-from=Tech Level 1;
+	}
+[ARMCK]
+	{
+	name=Kbot budowlany;
+	description=Poziom tech. 1;
+	name-from=Construction KBot;
+	description-from=Tech Level 1;
+	}
+[ARMCKFUS]
+	{
+	name=Reaktor fuzyjny z maskowaniem;
+	description=Produkuje energię;
+	name-from=Cloakable Fusion Reactor;
+	description-from=Produces Energy;
+	}
+[ARMCOM]
+	{
+	name=Dowódca;
+	description=Dowódca;
+	name-from=Commander;
+	description-from=Commander;
+	}
+[ARMCROC]
+	{
+	name=Tryton;
+	description=Czołg amfibijny;
+	name-from=Triton;
+	description-from=Amphibious Tank;
+	}
+[ARMCRUS]
+	{
+	name=Zdobywca;
+	description=Krążownik;
+	name-from=Conqueror;
+	description-from=Cruiser;
+	}
+[ARMCS]
+	{
+	name=Okręt budowlany;
+	description=Poziom tech. 1;
+	name-from=Construction Ship;
+	description-from=Tech Level 1;
+	}
+[ARMCSA]
+	{
+	name=Wodnosamolot budowlany;
+	description=Poziom tech. 1;
+	name-from=Construction Seaplane;
+	description-from=Tech Level 1;
+	}
+[ARMCV]
+	{
+	name=Pojazd budowlany;
+	description=Poziom tech. 1;
+	name-from=Construction Vehicle;
+	description-from=Tech Level 1;
+	}
+[ARMDECOM]
+	{
+	name=Dowódca-przynęta;
+	description=Dowódca-przynęta;
+	name-from=Decoy Commander;
+	description-from=Decoy Commander;
+	}
+[ARMDEV1]
+	{
+	name=Urządzenie implozyjne;
+	description=Urządzenie implozyjne;
+	name-from=Implosion Device;
+	description-from=Implosion Device;
+	}
+[ARMDRAG]
+	{
+	name=Smocze zęby;
+	description=Obrona obwodu;
+	name-from=Dragon's Teeth;
+	description-from=Perimeter Defense;
+	}
+[ARMEMP]
+	{
+	name=Ogłuszacz;
+	description=Wyrzutnia pocisków EMP;
+	name-from=Stunner;
+	description-from=EMP Missile Launcher;
+	}
+[ARMESTOR]
+	{
+	name=Magazyn energii;
+	description=Zwiększa magazyn energii;
+	name-from=Energy Storage;
+	description-from=Increases Energy Storage;
+	}
+[ARMFARK]
+	{
+	name=FARK;
+	description=Szybki Kbot wsparcia;
+	name-from=FARK;
+	description-from=Fast Assist-Repair Kbot;
+	}
+[ARMFAST]
+	{
+	name=Suwak;
+	description=Szybki Kbot szturmowy;
+	name-from=Zipper;
+	description-from=Fast Attack Kbot;
+	}
+[ARMFAV]
+	{
+	name=Jeffy;
+	description=Szybki pojazd szturmowy;
+	name-from=Jeffy;
+	description-from=Fast Attack Vehicle;
+	}
+[ARMFDRAG]
+	{
+	name=Pływające smocze zęby;
+	description=Pływające smocze zęby;
+	name-from=Floating Dragon's Teeth;
+	description-from=Floating Dragon's Teeth;
+	}
+[ARMFHLT]
+	{
+	name=Płaszczka;
+	description=Pływająca ciężka wieża laserowa;
+	name-from=Stingray;
+	description-from=Floating Heavy Laser Tower;
+	}
+[ARMFIDO]
+	{
+	name=Fido;
+	description=Kbot szturmowy;
+	name-from=Fido;
+	description-from=Assault Kbot;
+	}
+[ARMFIG]
+	{
+	name=Bojownik;
+	description=Myśliwiec;
+	name-from=Freedom Fighter;
+	description-from=Fighter;
+	}
+[ARMFLAK]
+	{
+	name=Flakowiec;
+	description=Działo plot;
+	name-from=Flakker;
+	description-from=Anti-Air Flak Gun;
+	}
+[ARMFLASH]
+	{
+	name=Błysk;
+	description=Szybki czołg szturmowy;
+	name-from=Flash;
+	description-from=Fast Assault Tank;
+	}
+[ARMFLEA]
+	{
+	name=Pchła;
+	description=Szybki lekki zwiadowca;
+	name-from=Flea;
+	description-from=Fast Light Scout Kbot;
+	}
+[ARMFMKR]
+	{
+	name=Pływający przetwornik metalu;
+	description=Pływający przetwornik metalu;
+	name-from=Floating Metal Maker;
+	description-from=Floating Metal Maker;
+	}
+[ARMFORT]
+	{
+	name=Mur obronny;
+	description=Obrona obwodu;
+	name-from=Fortification Wall;
+	description-from=Perimeter Defense;
+	}
+[ARMFRT]
+	{
+	name=Obrońca - NS;
+	description=Wieża pocisków - seria morska;
+	name-from=Defender - NS;
+	description-from=Missile Tower - Naval Series;
+	}
+[ARMFUS]
+	{
+	name=Reaktor fuzyjny;
+	description=Produkuje energię;
+	name-from=Fusion Reactor;
+	description-from=Produces Energy;
+	}
+[ARMGATE]
+	{
+	name=Brama Galaktyczna;
+	description=Teleport kosmiczny;
+	name-from=Galactic Gate;
+	description-from=Space Teleporter;
+	}
+[ARMGEO]
+	{
+	name=Elektrownia geotermalna;
+	description=Produkuje energię;
+	name-from=Geothermal Powerplant;
+	description-from=Produces Energy;
+	}
+[ARMGUARD]
+	{
+	name=Strażnik;
+	description=Bateria plazmowa;
+	name-from=Guardian;
+	description-from=Plasma Battery;
+	}
+[ARMHAM]
+	{
+	name=Młot;
+	description=Kbot artylerii;
+	name-from=Hammer;
+	description-from=Artillery Kbot;
+	}
+[ARMHAWK]
+	{
+	name=Jastrząb;
+	description=Myśliwiec skryty;
+	name-from=Hawk;
+	description-from=Stealth Fighter;
+	}
+[ARMHLT]
+	{
+	name=Wartownik;
+	description=Ciężka wieża laserowa;
+	name-from=Sentinel;
+	description-from=Heavy Laser Tower;
+	}
+[ARMHP]
+	{
+	name=Platforma poduszkowców;
+	description=Buduje poduszkowce;
+	name-from=Hovercraft Platform;
+	description-from=Builds Hovercraft;
+	}
+[ARMJAM]
+	{
+	name=Zagłuszacz;
+	description=Mobilny zagłuszacz radaru;
+	name-from=Jammer;
+	description-from=Mobile Radar Jammer;
+	}
+[ARMJETH]
+	{
+	name=Jethro;
+	description=Kbot plot;
+	name-from=Jethro;
+	description-from=Anti-Air Kbot;
+	}
+[ARMLAB]
+	{
+	name=Laboratorium Kbotów;
+	description=Produkuje Kboty;
+	name-from=Kbot Lab;
+	description-from=Produces Kbots;
+	}
+[ARMLANCE]
+	{
+	name=Lancet;
+	description=Bombowiec torpedowy;
+	name-from=Lancet;
+	description-from=Torpedo Bomber;
+	}
+[ARMLATNK]
+	{
+	name=Pantera;
+	description=Czołg błyskawic;
+	name-from=Panther;
+	description-from=Lightning Tank;
+	}
+[ARMLLT]
+	{
+	name=L.L.T.;
+	description=Lekka wieża laserowa;
+	name-from=L.L.T.;
+	description-from=Light Laser Tower;
+	}
+[ARMMAKR]
+	{
+	name=Przetwornik metalu;
+	description=Zamienia energię w metal;
+	name-from=Metal Maker;
+	description-from=Converts Energy into Metal;
+	}
+[ARMMANNI]
+	{
+	name=Przebijacz;
+	description=Mobilna broń energetyczna;
+	name-from=Penetrator;
+	description-from=Mobile Energy Weapon;
+	}
+[ARMMARK]
+	{
+	name=Marky;
+	description=Mobilny Kbot radaru;
+	name-from=Marky;
+	description-from=Mobile Radar Kbot;
+	}
+[ARMMART]
+	{
+	name=Luger;
+	description=Artyleria mobilna;
+	name-from=Luger;
+	description-from=Mobile Artillery;
+	}
+[ARMMAV]
+	{
+	name=Odmieniec;
+	description=Kbot rewolwerowiec;
+	name-from=Maverick;
+	description-from=Gun-slinging Kbot;
+	}
+[ARMMERL]
+	{
+	name=Merl;
+	description=Mobilna wyrzutnia rakiet;
+	name-from=Merl;
+	description-from=Mobile Rocket Launcher;
+	}
+[ARMMEX]
+	{
+	name=Ekstraktor metalu;
+	description=Wydobywa metal;
+	name-from=Metal Extractor;
+	description-from=Extracts Metal;
+	}
+[ARMMH]
+	{
+	name=Wombat;
+	description=Poduszkowiec z rakietami;
+	name-from=Wombat;
+	description-from=Hovercraft Rocket Launcher;
+	}
+[ARMMINE1]
+	{
+	name=Drobiazg;
+	description=Małe obrażenia, średni zasięg;
+	name-from=Tiny;
+	description-from=Low Damage, Med. Range Mine;
+	}
+[ARMMINE2]
+	{
+	name=Mina obszarowa;
+	description=Małe obrażenia, duży zasięg;
+	name-from=Area Mine;
+	description-from=Low Damage, Large Range Mine;
+	}
+[ARMMINE3]
+	{
+	name=Mina skupiona;
+	description=Średnie obrażenia, mały zasięg;
+	name-from=Focused Mine;
+	description-from=Med. Damage, Small Range Mine;
+	}
+[ARMMINE4]
+	{
+	name=Mina burząca;
+	description=Średnie obrażenia, duży zasięg;
+	name-from=HE Area Mine;
+	description-from=Med. Damage, Large Range Mine;
+	}
+[ARMMINE5]
+	{
+	name=Mina precyzyjna;
+	description=Duże obrażenia, mały zasięg;
+	name-from=Precision Mine;
+	description-from=High Damage, Small Range Mine;
+	}
+[ARMMINE6]
+	{
+	name=Mina jądrowa;
+	description=Mina jądrowa;
+	name-from=Nuclear Mine;
+	description-from=Nuclear Mine;
+	}
+[ARMMLV]
+	{
+	name=Podger;
+	description=Stawiacz min;
+	name-from=Podger;
+	description-from=Mine Layer Vehicle;
+	}
+[ARMMMKR]
+	{
+	name=Przetwornik Moho;
+	description=Zamienia energię w metal;
+	name-from=Moho Metal Maker;
+	description-from=Converts Energy into Metal;
+	}
+[ARMMOHO]
+	{
+	name=Kopalnia Moho;
+	description=Zaawansowany ekstraktor metalu;
+	name-from=Moho Mine;
+	description-from=Advanced Metal Extractor;
+	}
+[ARMMSHIP]
+	{
+	name=Strażnik wybrzeża;
+	description=Okręt pocisków;
+	name-from=Ranger;
+	description-from=Missile Ship;
+	}
+[ARMMSTOR]
+	{
+	name=Magazyn metalu;
+	description=Zwiększa magazyn metalu;
+	name-from=Metal Storage;
+	description-from=Increases Metal Storage;
+	}
+[ARMPEEP]
+	{
+	name=Oczko;
+	description=Zwiad powietrzny;
+	name-from=Peeper;
+	description-from=Air Scout;
+	}
+[ARMPLAT]
+	{
+	name=Platforma wodnosamolotów;
+	description=Buduje wodnosamoloty;
+	name-from=Seaplane Platform;
+	description-from=Builds Seaplanes;
+	}
+[ARMPNIX]
+	{
+	name=Feniks;
+	description=Bombowiec;
+	name-from=Phoenix;
+	description-from=Bomber;
+	}
+[ARMPT]
+	{
+	name=Komar;
+	description=Okręt zwiadowczy;
+	name-from=Skeeter;
+	description-from=Scout Ship;
+	}
+[ARMPW]
+	{
+	name=Mikrus;
+	description=Kbot piechoty;
+	name-from=Peewee;
+	description-from=Infantry Kbot;
+	}
+[ARMRAD]
+	{
+	name=Wieża radaru;
+	description=Wieża radaru;
+	name-from=Radar Tower;
+	description-from=Radar Tower;
+	}
+[ARMRL]
+	{
+	name=Obrońca;
+	description=Wieża pocisków;
+	name-from=Defender;
+	description-from=Missile Tower;
+	}
+[ARMROCK]
+	{
+	name=Rocko;
+	description=Kbot rakietowy;
+	name-from=Rocko;
+	description-from=Rocket Kbot;
+	}
+[ARMROY]
+	{
+	name=Krzyżowiec;
+	description=Niszczyciel;
+	name-from=Crusader;
+	description-from=Destroyer;
+	}
+[ARMSAM]
+	{
+	name=Samson;
+	description=Mobilna wyrzutnia pocisków;
+	name-from=Samson;
+	description-from=Mobile Missile Launcher;
+	}
+[ARMSCAB]
+	{
+	name=Skarabeusz;
+	description=Mobilna obrona przeciwrakietowa;
+	name-from=Scarab;
+	description-from=Mobile Missile Defense;
+	}
+[ARMSCORP]
+	{
+	name=Skorpion;
+	description=Tubylcza forma życia;
+	name-from=Scorpion;
+	description-from=Indigenous Lifeform;
+	}
+[ARMSCRAM]
+	{
+	name=Łgarz;
+	description=Zagłuszacz sonaru;
+	name-from=Fibber;
+	description-from=Sonar Jamming Sub;
+	}
+[ARMSEAP]
+	{
+	name=Albatros;
+	description=Wodnosamolot torpedowy;
+	name-from=Albatross;
+	description-from=Torpedo Seaplane;
+	}
+[ARMSEER]
+	{
+	name=Wieszcz;
+	description=Mobilny radar;
+	name-from=Seer;
+	description-from=Mobile Radar;
+	}
+[ARMSEHAK]
+	{
+	name=Rybołów;
+	description=Sonar latający;
+	name-from=Seahawk;
+	description-from=Airborne Sonar;
+	}
+[ARMSFIG]
+	{
+	name=Tornado;
+	description=Wodnosamolot myśliwski;
+	name-from=Tornado;
+	description-from=Seaplane Fighter;
+	}
+[ARMSH]
+	{
+	name=Ślizgacz;
+	description=Poduszkowiec zwiadowczy;
+	name-from=Skimmer;
+	description-from=Scout Hovercraft;
+	}
+[ARMSILO]
+	{
+	name=Odwetowiec;
+	description=Wyrzutnia pocisków jądrowych;
+	name-from=Retaliator;
+	description-from=Nuclear Missile Launcher;
+	}
+[ARMSJAM]
+	{
+	name=Eskorta;
+	description=Okręt zagłuszający radar;
+	name-from=Escort;
+	description-from=Radar Jammer Ship;
+	}
+[ARMSNIPE]
+	{
+	name=Strzelec;
+	description=Kbot snajper;
+	name-from=Shooter;
+	description-from=Sniper Kbot;
+	}
+[ARMSOLAR]
+	{
+	name=Kolektor słoneczny;
+	description=Produkuje energię;
+	name-from=Solar Collector;
+	description-from=Produces Energy;
+	}
+[ARMSONAR]
+	{
+	name=Stacja sonaru;
+	description=Wykrywa jednostki na wodzie;
+	name-from=Sonar Station;
+	description-from=Locates Water Units;
+	}
+[ARMSPID]
+	{
+	name=Pająk;
+	description=Pajęczy pojazd szturmowy;
+	name-from=Spider;
+	description-from=Spider Assault Vehicle;
+	}
+[ARMSPY]
+	{
+	name=Infiltrator;
+	description=Kbot szpiegowski;
+	name-from=Infiltrator;
+	description-from=SPY Kbot;
+	}
+[ARMSS]
+	{
+	name=Wąż morski;
+	description=Tubylcza forma życia;
+	name-from=Sea Serpent;
+	description-from=Indigenous Lifeform;
+	}
+[ARMSTUMP]
+	{
+	name=Krępy;
+	description=Średni czołg szturmowy;
+	name-from=Stumpy;
+	description-from=Medium Assault Tank;
+	}
+[ARMSUB]
+	{
+	name=Czyhacz;
+	description=Okręt podwodny;
+	name-from=Lurker;
+	description-from=Submarine;
+	}
+[ARMSUBK]
+	{
+	name=Pirania;
+	description=Zabójca okrętów podwodnych;
+	name-from=Piranha;
+	description-from=Submarine Killer;
+	}
+[ARMSY]
+	{
+	name=Stocznia;
+	description=Produkuje okręty;
+	name-from=Shipyard;
+	description-from=Produces Ships;
+	}
+[ARMTARG]
+	{
+	name=Ośrodek namierzania;
+	description=Automatyczne namierzanie radaru;
+	name-from=Targeting Facility;
+	description-from=Automatic Radar Targeting;
+	}
+[ARMTHOVR]
+	{
+	name=Niedźwiedź;
+	description=Poduszkowiec transportowy;
+	name-from=Bear;
+	description-from=Transport Hovercraft;
+	}
+[ARMTHUND]
+	{
+	name=Grom;
+	description=Bombowiec;
+	name-from=Thunder;
+	description-from=Bomber;
+	}
+[ARMTIDE]
+	{
+	name=Generator pływowy;
+	description=Produkuje energię;
+	name-from=Tidal Generator;
+	description-from=Produces Energy;
+	}
+[ARMTL]
+	{
+	name=Wyrzutnia torped;
+	description=Wyrzutnia torped;
+	name-from=Torpedo Launcher;
+	description-from=Torpedo Launcher;
+	}
+[ARMTSHIP]
+	{
+	name=Olbrzym;
+	description=Okręt transportowy;
+	name-from=Hulk;
+	description-from=Transport Ship;
+	}
+[ARMUWES]
+	{
+	name=Podwodny magazyn energii;
+	description=Zwiększa magazyn energii;
+	name-from=Underwater Energy Storage;
+	description-from=Increases Energy Storage;
+	}
+[ARMUWFUS]
+	{
+	name=Podwodna elektrownia fuzyjna;
+	description=Produkuje energię;
+	name-from=Underwater Fusion Plant;
+	description-from=Produces Energy;
+	}
+[ARMUWMEX]
+	{
+	name=Podwodny ekstraktor metalu;
+	description=Wydobywa metal;
+	name-from=Underwater Metal Extractor;
+	description-from=Extracts Metal;
+	}
+[ARMUWMS]
+	{
+	name=Podwodny magazyn metalu;
+	description=Zwiększa magazyn metalu;
+	name-from=Underwater Metal Storage;
+	description-from=Increases Metal Storage;
+	}
+[ARMVADER]
+	{
+	name=Najeźdźca;
+	description=Pełzająca bomba;
+	name-from=Invader;
+	description-from=Crawling Bomb;
+	}
+[ARMVP]
+	{
+	name=Fabryka pojazdów;
+	description=Produkuje pojazdy;
+	name-from=Vehicle Plant;
+	description-from=Produces Vehicles;
+	}
+[ARMVULC]
+	{
+	name=Wulkan;
+	description=Szybkostrzelne działo plazmowe;
+	name-from=Vulcan;
+	description-from=Rapid Fire Plasma Cannon;
+	}
+[ARMWAR]
+	{
+	name=Wojownik;
+	description=Średni Kbot piechoty;
+	name-from=Warrior;
+	description-from=Medium Infantry Kbot;
+	}
+[ARMWIN]
+	{
+	name=Generator wiatrowy;
+	description=Produkuje energię;
+	name-from=Wind Generator;
+	description-from=Produces Energy;
+	}
+[ARMYORK]
+	{
+	name=Falanga;
+	description=Mobilne działo plot;
+	name-from=Phalanx;
+	description-from=Mobile Flak Vehicle;
+	}
+[ARMZEUS]
+	{
+	name=Zeus;
+	description=Kbot szturmowy;
+	name-from=Zeus;
+	description-from=Assault Kbot;
+	}
+[CORAAP]
+	{
+	name=Zaaw. fabryka samolotów;
+	description=Produkuje samoloty;
+	name-from=Adv. Aircraft Plant;
+	description-from=Produces Aircraft;
+	}
+[CORACA]
+	{
+	name=Zaaw. samolot budowlany;
+	description=Poziom tech. 2;
+	name-from=Adv. Construction Aircraft;
+	description-from=Tech Level 2;
+	}
+[CORACK]
+	{
+	name=Zaaw. Kbot budowlany;
+	description=Poziom tech. 2;
+	name-from=Adv. Construction Kbot;
+	description-from=Tech Level 2;
+	}
+[CORACSUB]
+	{
+	name=Zaaw. okręt podwodny budowlany;
+	description=Poziom tech. 2;
+	name-from=Advanced Construction Sub;
+	description-from=Tech Level 2;
+	}
+[CORACV]
+	{
+	name=Zaaw. pojazd budowlany;
+	description=Poziom tech. 2;
+	name-from=Adv. Construction Vehicle;
+	description-from=Tech Level 2;
+	}
+[CORAH]
+	{
+	name=Procarz;
+	description=Poduszkowiec plot;
+	name-from=Slinger;
+	description-from=Anti-Air Hovercraft;
+	}
+[CORAK]
+	{
+	name=A.K.;
+	description=Kbot piechoty;
+	name-from=A.K.;
+	description-from=Infantry Kbot;
+	}
+[CORALAB]
+	{
+	name=Zaaw. laboratorium Kbotów;
+	description=Produkuje Kboty;
+	name-from=Adv. Kbot Lab;
+	description-from=Produces Kbots;
+	}
+[CORAMPH]
+	{
+	name=Kuternoga;
+	description=Kbot amfibijny;
+	name-from=Gimp;
+	description-from=Amphibious Kbot;
+	}
+[CORAP]
+	{
+	name=Fabryka samolotów;
+	description=Produkuje samoloty;
+	name-from=Aircraft Plant;
+	description-from=Produces Aircraft;
+	}
+[CORAPE]
+	{
+	name=Rapier;
+	description=Szturmowiec;
+	name-from=Rapier;
+	description-from=Gunship;
+	}
+[CORARAD]
+	{
+	name=Zaaw. wieża radaru;
+	description=Radar dalekiego zasięgu;
+	name-from=Advanced Radar Tower;
+	description-from=Long Range Radar;
+	}
+[CORARCH]
+	{
+	name=Rozdrabniacz;
+	description=Okręt plot;
+	name-from=Shredder;
+	description-from=Anti-Air Ship;
+	}
+[CORASON]
+	{
+	name=Zaaw. stacja sonaru;
+	description=Wykrywa jednostki na wodzie;
+	name-from=Advanced Sonar Station;
+	description-from=Locates Water Units;
+	}
+[CORASP]
+	{
+	name=Lądowisko naprawcze;
+	description=Sam naprawia samoloty;
+	name-from=Air Repair Pad;
+	description-from=Automatically repairs aircraft;
+	}
+[CORASY]
+	{
+	name=Zaaw. stocznia;
+	description=Produkuje okręty;
+	name-from=Adv. Shipyard;
+	description-from=Produces Ships;
+	}
+[CORATL]
+	{
+	name=Zaaw. wyrzutnia torped;
+	description=Zaawansowana wyrzutnia torped;
+	name-from=Advanced Torpedo Launcher;
+	description-from=Advanced Torpedo Launcher;
+	}
+[CORAVP]
+	{
+	name=Zaaw. fabryka pojazdów;
+	description=Produkuje pojazdy;
+	name-from=Adv. Vehicle Plant;
+	description-from=Produces Vehicles;
+	}
+[CORAWAC]
+	{
+	name=Sęp;
+	description=Samolot radaru;
+	name-from=Vulture;
+	description-from=Radar Plane;
+	}
+[CORBATS]
+	{
+	name=Wódz;
+	description=Pancernik;
+	name-from=Warlord;
+	description-from=Battleship;
+	}
+[CORBEAC]
+	{
+	name=Obca latarnia;
+	description=Obca latarnia;
+	name-from=Alien Beacon;
+	description-from=Alien Beacon;
+	}
+[CORBUILD]
+	{
+	name=Zakład nawadniania;
+	description=Tworzy wodę;
+	name-from=Hydration Plant;
+	description-from=Creates Water;
+	}
+[CORBUZZ]
+	{
+	name=Piła;
+	description=Szybkostrzelne działo plazmowe;
+	name-from=Buzzsaw;
+	description-from=Rapid Fire Plasma Cannon;
+	}
+[CORCA]
+	{
+	name=Samolot budowlany;
+	description=Poziom tech. 1;
+	name-from=Construction Aircraft;
+	description-from=Tech Level 1;
+	}
+[CORCAN]
+	{
+	name=Puszka;
+	description=Opancerzony Kbot szturmowy;
+	name-from=The Can;
+	description-from=Armored Assault Kbot;
+	}
+[CORCARRY]
+	{
+	name=Ul;
+	description=Lekki lotniskowiec;
+	name-from=Hive;
+	description-from=Light Carrier;
+	}
+[CORCH]
+	{
+	name=Poduszkowiec budowlany;
+	description=Poziom tech. 1;
+	name-from=Construction Hovercraft;
+	description-from=Tech Level 1;
+	}
+[CORCK]
+	{
+	name=Kbot budowlany;
+	description=Poziom tech. 1;
+	name-from=Construction Kbot;
+	description-from=Tech Level 1;
+	}
+[CORCKFUS]
+	{
+	name=Reaktor fuzyjny z maskowaniem;
+	description=Produkuje energię;
+	name-from=Cloakable Fusion Reactor;
+	description-from=Produces Energy;
+	}
+[CORCOM]
+	{
+	name=Dowódca;
+	description=Dowódca;
+	name-from=Commander;
+	description-from=Commander;
+	}
+[CORCRASH]
+	{
+	name=Łomot;
+	description=Kbot pocisków;
+	name-from=Crasher;
+	description-from=Missile Kbot;
+	}
+[CORCRUS]
+	{
+	name=Kat;
+	description=Krążownik;
+	name-from=Executioner;
+	description-from=Cruiser;
+	}
+[CORCS]
+	{
+	name=Okręt budowlany;
+	description=Poziom tech. 1;
+	name-from=Construction Ship;
+	description-from=Tech Level 1;
+	}
+[CORCSA]
+	{
+	name=Wodnosamolot budowlany;
+	description=Poziom tech. 1;
+	name-from=Construction Seaplane;
+	description-from=Tech Level 1;
+	}
+[CORCV]
+	{
+	name=Pojazd budowlany;
+	description=Poziom tech. 1;
+	name-from=Construction Vehicle;
+	description-from=Tech Level 1;
+	}
+[CORDECOM]
+	{
+	name=Dowódca-przynęta;
+	description=Dowódca-przynęta;
+	name-from=Decoy Commander;
+	description-from=Decoy Commander;
+	}
+[CORDEV1]
+	{
+	name=Urządzenie implozyjne;
+	description=Urządzenie implozyjne;
+	name-from=Implosion Device;
+	description-from=Implosion Device;
+	}
+[CORDOOM]
+	{
+	name=Maszyna zagłady;
+	description=Broń energetyczna;
+	name-from=Doomsday Machine;
+	description-from=Energy Weapon;
+	}
+[CORDRAG]
+	{
+	name=Smocze zęby;
+	description=Obrona obwodu;
+	name-from=Dragon's Teeth;
+	description-from=Perimeter Defense;
+	}
+[CORESTOR]
+	{
+	name=Magazyn energii;
+	description=Zwiększa magazyn energii;
+	name-from=Energy Storage;
+	description-from=Increases Energy Storage;
+	}
+[CORETER]
+	{
+	name=Wymazywacz;
+	description=Mobilny zagłuszacz radaru;
+	name-from=Deleter;
+	description-from=Mobile Radar Jammer;
+	}
+[CORFAST]
+	{
+	name=Świr;
+	description=Szybki Kbot szturmowy;
+	name-from=Freaker;
+	description-from=Fast Attack Kbot;
+	}
+[CORFAV]
+	{
+	name=Łasica;
+	description=Zwiadowca;
+	name-from=Weasel;
+	description-from=Scout;
+	}
+[CORFDRAG]
+	{
+	name=Pływające smocze zęby;
+	description=Pływające smocze zęby;
+	name-from=Floating Dragon's Teeth;
+	description-from=Floating Dragon's Teeth;
+	}
+[CORFHLT]
+	{
+	name=Piorun;
+	description=Pływająca ciężka wieża laserowa;
+	name-from=Thunderbolt;
+	description-from=Floating Heavy Laser Tower;
+	}
+[CORFINK]
+	{
+	name=Kapuś;
+	description=Zwiad powietrzny;
+	name-from=Fink;
+	description-from=Air Scout;
+	}
+[CORFLAK]
+	{
+	name=Kobra;
+	description=Działo plot;
+	name-from=Cobra;
+	description-from=Anti-Air Flak Gun;
+	}
+[CORFMD]
+	{
+	name=Obrona Fortitude;
+	description=Obrona przeciwrakietowa;
+	name-from=Fortitude Missile Defense;
+	description-from=Anti Missile Defense System;
+	}
+[CORFMKR]
+	{
+	name=Pływający przetwornik metalu;
+	description=Pływający przetwornik metalu;
+	name-from=Floating Metal Maker;
+	description-from=Floating Metal Maker;
+	}
+[CORFORT]
+	{
+	name=Mur obronny;
+	description=Obrona obwodu;
+	name-from=Fortification Wall;
+	description-from=Perimeter Defense;
+	}
+[CORFRT]
+	{
+	name=Żądło;
+	description=Wieża pocisków - seria morska;
+	name-from=Stinger;
+	description-from=Missile Tower - Naval Series;
+	}
+[CORFUS]
+	{
+	name=Elektrownia fuzyjna;
+	description=Produkuje energię;
+	name-from=Fusion Power Plant;
+	description-from=Produces Energy;
+	}
+[CORGANT]
+	{
+	name=Suwnica Krogotha;
+	description=Buduje Krogotha;
+	name-from=Krogoth Gantry;
+	description-from=Builds Krogoth;
+	}
+[CORGATE]
+	{
+	name=Brama Galaktyczna;
+	description=Teleport kosmiczny;
+	name-from=Galactic Gate;
+	description-from=Space Teleporter;
+	}
+[CORGATOR]
+	{
+	name=Podżegacz;
+	description=Czołg szturmowy;
+	name-from=Instigator;
+	description-from=Assault Tank;
+	}
+[CORGEO]
+	{
+	name=Elektrownia geotermalna;
+	description=Produkuje energię;
+	name-from=Geothermal Powerplant;
+	description-from=Produces Energy;
+	}
+[CORGOL]
+	{
+	name=Goliat;
+	description=Bardzo ciężki czołg szturmowy;
+	name-from=Goliath;
+	description-from=Very Heavy Assault Tank;
+	}
+[CORHLT]
+	{
+	name=Działo Gaat;
+	description=Ciężka wieża laserowa;
+	name-from=Gaat Gun;
+	description-from=Heavy Laser Tower;
+	}
+[CORHP]
+	{
+	name=Platforma poduszkowców;
+	description=Buduje poduszkowce;
+	name-from=Hovercraft Platform;
+	description-from=Builds Hovercraft;
+	}
+[CORHRK]
+	{
+	name=Dominator;
+	description=Ciężki Kbot rakietowy;
+	name-from=Dominator;
+	description-from=Heavy Rocket Kbot;
+	}
+[CORHUNT]
+	{
+	name=Łowca;
+	description=Sonar latający;
+	name-from=Hunter;
+	description-from=Airborne Sonar;
+	}
+[CORHURC]
+	{
+	name=Huragan;
+	description=Bombowiec strategiczny;
+	name-from=Hurricane;
+	description-from=Strategic Bomber;
+	}
+[CORINT]
+	{
+	name=Zastraszacz;
+	description=Dalekonośne działo plazmowe;
+	name-from=Intimidator;
+	description-from=Long Range Plasma Cannon;
+	}
+[CORKROG]
+	{
+	name=Krogoth;
+	description=Eksperymentalny Kbot;
+	name-from=Krogoth;
+	description-from=Experimental Kbot;
+	}
+[CORLAB]
+	{
+	name=Laboratorium Kbotów;
+	description=Produkuje Kboty;
+	name-from=Kbot Lab;
+	description-from=Produces Kbots;
+	}
+[CORLEVLR]
+	{
+	name=Walec;
+	description=Czołg tłumiący;
+	name-from=Leveler;
+	description-from=Riot Tank;
+	}
+[CORLLT]
+	{
+	name=Lekka wieża laserowa;
+	description=Lekka wieża laserowa;
+	name-from=Light Laser Tower;
+	description-from=Light Laser Tower;
+	}
+[CORMABM]
+	{
+	name=Jeż;
+	description=Mobilna obrona przeciwrakietowa;
+	name-from=Hedgehog;
+	description-from=Mobile Missile Defense;
+	}
+[CORMAKR]
+	{
+	name=Przetwornik metalu;
+	description=Przetwornik metalu;
+	name-from=Metal Maker;
+	description-from=Metal Maker;
+	}
+[CORMART]
+	{
+	name=Artyleria mobilna;
+	description=Artyleria mobilna;
+	name-from=Mobile Artillery;
+	description-from=Mobile Artillery;
+	}
+[CORMEX]
+	{
+	name=Ekstraktor metalu;
+	description=Wydobywa metal;
+	name-from=Metal Extractor;
+	description-from=Extracts Metal;
+	}
+[CORMH]
+	{
+	name=Nixer;
+	description=Poduszkowiec z rakietami;
+	name-from=Nixer;
+	description-from=Hovercraft Rocket Launcher;
+	}
+[CORMINE1]
+	{
+	name=M-104;
+	description=Małe obrażenia, średni zasięg;
+	name-from=M-104;
+	description-from=Low Damage, Med. Range Mine;
+	}
+[CORMINE2]
+	{
+	name=M-209;
+	description=Małe obrażenia, duży zasięg;
+	name-from=M-209;
+	description-from=Low Damage, Large Range Mine;
+	}
+[CORMINE3]
+	{
+	name=M-303;
+	description=Średnie obrażenia, średni zasięg;
+	name-from=M-303;
+	description-from=Med. Damage, Med. Range Mine;
+	}
+[CORMINE4]
+	{
+	name=M-420;
+	description=Duże obrażenia, średni zasięg;
+	name-from=M-420;
+	description-from=High Damage, Med. Range Mine;
+	}
+[CORMINE5]
+	{
+	name=M-515;
+	description=Duże obrażenia, duży zasięg;
+	name-from=M-515;
+	description-from=High Damage, Large Range Mine;
+	}
+[CORMINE6]
+	{
+	name=M-610;
+	description=Mina jądrowa;
+	name-from=M-610;
+	description-from=Nuclear Mine;
+	}
+[CORMIST]
+	{
+	name=Rębacz;
+	description=Wyrzutnia pocisków;
+	name-from=Slasher;
+	description-from=Missile Launcher;
+	}
+[CORMLV]
+	{
+	name=Psuj;
+	description=Stawiacz min;
+	name-from=Spoiler;
+	description-from=Mine Layer Vehicle;
+	}
+[CORMMKR]
+	{
+	name=Przetwornik Moho;
+	description=Produkuje metal;
+	name-from=Moho Metal Maker;
+	description-from=Produces Metal;
+	}
+[CORMOHO]
+	{
+	name=Kopalnia Moho;
+	description=Zaawansowany ekstraktor metalu;
+	name-from=Moho Mine;
+	description-from=Advanced Metal Extractor;
+	}
+[CORMORT]
+	{
+	name=Morty;
+	description=Mobilny Kbot moździerzy;
+	name-from=Morty;
+	description-from=Mobile Mortar Kbot;
+	}
+[CORMSHIP]
+	{
+	name=Fregata rakietowa;
+	description=Okręt pocisków;
+	name-from=Missile Frigate;
+	description-from=Missile Ship;
+	}
+[CORMSTOR]
+	{
+	name=Magazyn metalu;
+	description=Zwiększa magazyn metalu;
+	name-from=Metal Storage;
+	description-from=Increases Metal Storage;
+	}
+[CORNECRO]
+	{
+	name=Kbot wskrzeszenia;
+	description=Kbot wskrzeszenia;
+	name-from=Resurrection Kbot;
+	description-from=Resurrection Kbot;
+	}
+[CORPLAS]
+	{
+	name=Spopielacz;
+	description=Wieża plazmowa;
+	name-from=Immolator;
+	description-from=Plasma Tower;
+	}
+[CORPLAT]
+	{
+	name=Platforma wodnosamolotów;
+	description=Buduje wodnosamoloty;
+	name-from=Seaplane Platform;
+	description-from=Builds Seaplanes;
+	}
+[CORPT]
+	{
+	name=Szperacz;
+	description=Okręt zwiadowczy;
+	name-from=Searcher;
+	description-from=Scout Ship;
+	}
+[CORPUN]
+	{
+	name=Karzący;
+	description=Bateria plazmowa;
+	name-from=Punisher;
+	description-from=Plasma Battery;
+	}
+[CORPYRO]
+	{
+	name=Piro;
+	description=Kbot szturmowy;
+	name-from=Pyro;
+	description-from=Assault Kbot;
+	}
+[CORRAD]
+	{
+	name=Wieża radaru;
+	description=Wieża radaru;
+	name-from=Radar Tower;
+	description-from=Radar Tower;
+	}
+[CORRAID]
+	{
+	name=Rajdowiec;
+	description=Średni czołg szturmowy;
+	name-from=Raider;
+	description-from=Medium Assault Tank;
+	}
+[CORREAP]
+	{
+	name=Żniwiarz;
+	description=Ciężki czołg szturmowy;
+	name-from=Reaper;
+	description-from=Heavy Assault Tank;
+	}
+[CORRL]
+	{
+	name=Miażdżyciel;
+	description=Wieża pocisków;
+	name-from=Pulverizer;
+	description-from=Missile Tower;
+	}
+[CORROACH]
+	{
+	name=Karaluch;
+	description=Pełzająca bomba;
+	name-from=Roach;
+	description-from=Crawling Bomb;
+	}
+[CORROY]
+	{
+	name=Egzekutor;
+	description=Niszczyciel;
+	name-from=Enforcer;
+	description-from=Destroyer;
+	}
+[CORSCORP]
+	{
+	name=Skorpion;
+	description=Tubylcza forma życia;
+	name-from=Scorpion;
+	description-from=Indigenous Lifeform;
+	}
+[CORSEAL]
+	{
+	name=Krokodyl;
+	description=Czołg amfibijny;
+	name-from=Crock;
+	description-from=Amphibious Tank;
+	}
+[CORSEAP]
+	{
+	name=Tajfun;
+	description=Wodnosamolot torpedowy;
+	name-from=Typhoon;
+	description-from=Torpedo Seaplane;
+	}
+[CORSENT]
+	{
+	name=Miedziogłów;
+	description=Mobilne działo plot;
+	name-from=Copperhead;
+	description-from=Mobile Flak Vehicle;
+	}
+[CORSFIG]
+	{
+	name=Wudu;
+	description=Wodnosamolot myśliwski;
+	name-from=Voodoo;
+	description-from=Seaplane Fighter;
+	}
+[CORSH]
+	{
+	name=Czyściciel;
+	description=Poduszkowiec zwiadowczy;
+	name-from=Scrubber;
+	description-from=Scout Hovercraft;
+	}
+[CORSHAD]
+	{
+	name=Cień;
+	description=Bombowiec;
+	name-from=Shadow;
+	description-from=Bomber;
+	}
+[CORSHARK]
+	{
+	name=Rekin;
+	description=Zabójca okrętów podwodnych;
+	name-from=Shark;
+	description-from=Submarine Killer;
+	}
+[CORSILO]
+	{
+	name=Tłumik;
+	description=Wyrzutnia pocisków jądrowych;
+	name-from=Silencer;
+	description-from=Nuclear Missile Launcher;
+	}
+[CORSJAM]
+	{
+	name=Fantom;
+	description=Okręt zagłuszający radar;
+	name-from=Phantom;
+	description-from=Radar Jammer Ship;
+	}
+[CORSNAP]
+	{
+	name=Kąsacz;
+	description=Czołg na poduszce;
+	name-from=Snapper;
+	description-from=Hovertank;
+	}
+[CORSOLAR]
+	{
+	name=Kolektor słoneczny;
+	description=Produkuje energię;
+	name-from=Solar Collector;
+	description-from=Produces Energy;
+	}
+[CORSONAR]
+	{
+	name=Stacja sonaru;
+	description=Stacja sonaru;
+	name-from=Sonar Station;
+	description-from=Sonar Station;
+	}
+[CORSPEC]
+	{
+	name=Widmo;
+	description=Zagłuszacz radaru;
+	name-from=Spectre;
+	description-from=Radar Jammer;
+	}
+[CORSPY]
+	{
+	name=Pasożyt;
+	description=Kbot szpiegowski;
+	name-from=Parasite;
+	description-from=SPY Kbot;
+	}
+[CORSS]
+	{
+	name=Wąż morski;
+	description=Tubylcza forma życia;
+	name-from=Sea Serpent;
+	description-from=Indigenous Lifeform;
+	}
+[CORSSUB]
+	{
+	name=Lewiatan;
+	description=Bojowy okręt podwodny;
+	name-from=Leviathan;
+	description-from=Battle Sub;
+	}
+[CORSTORM]
+	{
+	name=Sztorm;
+	description=Kbot rakietowy;
+	name-from=Storm;
+	description-from=Rocket Kbot;
+	}
+[CORSUB]
+	{
+	name=Wąż;
+	description=Okręt podwodny;
+	name-from=Snake;
+	description-from=Submarine;
+	}
+[CORSUMO]
+	{
+	name=Sumo;
+	description=Zaaw. opancerzony Kbot szturmowy;
+	name-from=Sumo;
+	description-from=Adv. Armored Assault Kbot;
+	}
+[CORSY]
+	{
+	name=Stocznia;
+	description=Produkuje okręty;
+	name-from=Shipyard;
+	description-from=Produces Ships;
+	}
+[CORTARG]
+	{
+	name=Ośrodek namierzania;
+	description=Automatyczne namierzanie radaru;
+	name-from=Targeting Facility;
+	description-from=Automatic Radar Targeting;
+	}
+[CORTHOVR]
+	{
+	name=Żółw;
+	description=Poduszkowiec transportowy;
+	name-from=Turtle;
+	description-from=Transport Hovercraft;
+	}
+[CORTHUD]
+	{
+	name=Huk;
+	description=Kbot artylerii;
+	name-from=Thud;
+	description-from=Artillery Kbot;
+	}
+[CORTIDE]
+	{
+	name=Generator pływowy;
+	description=Produkuje energię;
+	name-from=Tidal Generator;
+	description-from=Produces Energy;
+	}
+[CORTITAN]
+	{
+	name=Tytan;
+	description=Bombowiec torpedowy;
+	name-from=Titan;
+	description-from=Torpedo Bomber;
+	}
+[CORTL]
+	{
+	name=Wyrzutnia torped;
+	description=Wyrzutnia torped;
+	name-from=Torpedo Launcher;
+	description-from=Torpedo Launcher;
+	}
+[CORTOAST]
+	{
+	name=Toster;
+	description=Wysuwane ciężkie działo;
+	name-from=Toaster;
+	description-from=Pop-up Heavy Cannon;
+	}
+[CORTRON]
+	{
+	name=Neutron;
+	description=Wyrzutnia pocisków neutronowych;
+	name-from=Neutron;
+	description-from=Neutron Missile Launcher;
+	}
+[CORTRUCK]
+	{
+	name=Ciężarówka;
+	description=Transport lądowy;
+	name-from=Truck;
+	description-from=Ground Transport;
+	}
+[CORTSHIP]
+	{
+	name=Poseł;
+	description=Okręt transportowy;
+	name-from=Envoy;
+	description-from=Transport Ship;
+	}
+[CORUWES]
+	{
+	name=Podwodny magazyn energii;
+	description=Zwiększa magazyn energii;
+	name-from=Underwater Energy Storage;
+	description-from=Increases Energy Storage;
+	}
+[CORUWFUS]
+	{
+	name=Podwodna elektrownia fuzyjna;
+	description=Produkuje energię;
+	name-from=Underwater Fusion Plant;
+	description-from=Produces Energy;
+	}
+[CORUWMEX]
+	{
+	name=Podwodny ekstraktor metalu;
+	description=Wydobywa metal;
+	name-from=Underwater Metal Extractor;
+	description-from=Extracts Metal;
+	}
+[CORUWMS]
+	{
+	name=Podwodny magazyn metalu;
+	description=Zwiększa magazyn metalu;
+	name-from=Underwater Metal Storage;
+	description-from=Increases Metal Storage;
+	}
+[CORVALK]
+	{
+	name=Walkiria;
+	description=Transport powietrzny;
+	name-from=Valkyrie;
+	description-from=Air Transport;
+	}
+[CORVAMP]
+	{
+	name=Wampir;
+	description=Myśliwiec skryty;
+	name-from=Vamp;
+	description-from=Stealth Fighter;
+	}
+[CORVENG]
+	{
+	name=Mściciel;
+	description=Myśliwiec;
+	name-from=Avenger;
+	description-from=Fighter;
+	}
+[CORVIPE]
+	{
+	name=Żmija;
+	description=Wysuwany ciężki laser;
+	name-from=Viper;
+	description-from=Pop-Up Heavy Laser;
+	}
+[CORVOYR]
+	{
+	name=Podglądacz;
+	description=Mobilny Kbot radaru;
+	name-from=Voyeur;
+	description-from=Mobile Radar Kbot;
+	}
+[CORVP]
+	{
+	name=Fabryka pojazdów;
+	description=Produkuje pojazdy;
+	name-from=Vehicle Plant;
+	description-from=Produces Vehicles;
+	}
+[CORVRAD]
+	{
+	name=Informator;
+	description=Mobilny radar;
+	name-from=Informer;
+	description-from=Mobile Radar;
+	}
+[CORVROC]
+	{
+	name=Dyplomata;
+	description=Mobilna wyrzutnia rakiet;
+	name-from=Diplomat;
+	description-from=Mobile Rocket Launcher;
+	}
+[CORWIN]
+	{
+	name=Generator wiatrowy;
+	description=Produkuje energię;
+	name-from=Wind Generator;
+	description-from=Produces Energy;
+	}

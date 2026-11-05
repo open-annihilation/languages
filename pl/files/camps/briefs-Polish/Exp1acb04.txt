@@ -1,0 +1,14 @@
+MISJA 4.001ARML
+Hydross jest pod kontrolą ARM. Jednostki CORE przeszukują ten świat w poszukiwaniu urządzenia - latarni obcego pochodzenia.
+
+Gęste dżungle i bagna tego świata utrudnią marsz. CORE opracował technologię poduszkowców, by sprawniej manewrować na Lusch. Ta technologia znacznie ułatwiłaby nam poszukiwanie Dowódcy kontyngentu i obcej latarni.
+
+&Y*PRIORYTET KRYTYCZNY*&
+Znajdź i przejmij jedną z platform wytwarzających poduszkowce. Szczególnie uważaj, by twoje jednostki &Gnie zniszczyły platformy& w zapale niszczenia CORE. Gdy platforma poduszkowców zostanie przejęta, buduj na niej poduszkowce i oczyść nimi teren ze wszystkich mobilnych jednostek CORE.
+
+MELDUNEK
+Masz nowego Kbot Odmieńca do ochrony i amfibijnego Kbot Pelikana, żeby zyskać ruchliwość. Technicy dostarczyli też nowe działo Flakowiec do obrony przeciwlotniczej. &RCORE też będzie miał nowe działo przeciwlotnicze.&
+
+Aby ukończyć tę misję, musisz przejąć platformę poduszkowców CORE i zniszczyć wszystkie mobilne jednostki CORE.
+
+KONIEC

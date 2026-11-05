@@ -1,0 +1,22 @@
+Misja R31: Strumień Rotrey
+
+Wzdłuż strumienia Rotrey nasi mało pomysłowi przeciwnicy zostawili kilka jednostek budowlanych, by rozkręcić gospodarkę w tym rejonie.
+
+Nalotem zniszczyliśmy większość ich ekstraktorów metalu, choć drogo nas to kosztowało.
+
+Wejdź tam i dobij ich, zanim się pozbierają.
+
+Sugestie:
+Musisz zająć teren do obrony, z odrobiną metalu, i jak najszybciej rozbudować bazę.
+
+
+
+Taktyka bitwy:
+Możesz ustawić, ile komunikatów jednostek widać na ekranie głównym. Naciśnij F2, aby
+otworzyć Menu opcji, a potem kliknij przycisk INTERFEJS. Przyciskiem CZAT JEDNOSTEK
+przełączaj opcje WYŁ., ŚREDNI i PEŁNY.
+
+
+
+Gdy jednostka zgłasza komunikat, naciśnij F3, by wyśrodkować ekran na ostatniej jednostce, która podała
+informację.

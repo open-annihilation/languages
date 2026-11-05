@@ -1,0 +1,18 @@
+Misja T31: Niedobór wody
+
+Atak w rejonie Skorupy XIII zostawił wrogiego Kbota budowlanego częściowo zniszczonego. Ten niesprawny Kbot zasłał rejon budowlami L.L.T. i wieżami radaru. Dzięki tym jednostkom natarcie CORE poszło tu szybko.
+
+Aby rozwinąć przemysł wyższego rzędu, CORE potrzebuje wielkich ilości rozpuszczalnika H2O, którego na tym świecie brakuje. Nasi szpiedzy wykryli zakład nawadniania w bazie na północny zachód od twojej pozycji.
+Spodziewamy się silnych szturmów na twoją bazę. Zniszcz wrogi zakład nawadniania, ale nie dopuść, by przy tym padła twoja baza. Masz dwadzieścia minut na ukończenie misji.
+
+
+Uwaga: o tej porze miejscowego roku przechodzisz przez rój meteorów Lambda. Przez całą bitwę spodziewaj się deszczów meteorów.
+
+Sugestie:
+Ciężko uszkodzone jednostki można odesłać do bazy na naprawę.
+Dobrze ustawionymi smoczymi zębami kieruj nacierające siły wroga w strefy rażenia.
+
+Taktyka bitwy:
+Naciśnij klawisz tyldy (~), aby zobaczyć, ile obrażeń przyjęły twoje jednostki. Widać też, do których grup należą.
+Jeśli chcesz oznaczyć miejsce na ekranie, naciśnij CTRL+F5 (albo F6, F7 lub F8). Naciśnij F5 (itd.), aby
+ponownie wyśrodkować ekran na tym miejscu.

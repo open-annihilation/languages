@@ -1,0 +1,8 @@
+MISJA 13.1CORE
+
+PODSŁUCH:
+Zniszcz warty przy Bramie. Przejmij to, co ci się przyda. Na resztę użyj D-Gun. Nie trzeba budować bazy. Roślinność daje energię, gdybyś jej potrzebował. Morza są niebezpieczne. Użyj Atlasa. Działaj szybko i przejmij zaawansowaną wieżę radaru na lądzie stałym.
+
+&RPrzejmij Atlasa i przeleć nim na ląd stały. Przejmij zaawansowaną wieżę radaru.&
+
+ZRÓB TO TERAZ.

@@ -1,0 +1,11 @@
+Misja R23: Baza rzeczna Alpha
+
+Bród u ujścia rzeki Tiebreemb jest podobno słabo broniony. Załóż bazę, potem uderz na północ. Umocnij obecność CORE, budując Fabrykę pojazdów na północnym brzegu. Wyeliminuj zwiadowców ARM w okolicy.
+
+
+Sugestie:
+Jeden albo dwa Kolektory słoneczne albo Generatory wiatrowe dadzą przychód energii, by szybciej ukończyć Fabrykę pojazdów.
+
+Taktyka bitwy:
+Twój Dowódca przejdzie głęboką wodę, ale pozostałe jednostki muszą przekroczyć rzekę płytkim brodem. Płytka woda jest jasnoniebieska.
+Przycisk budowy Fabryki pojazdów jest w drugim menu budowy Dowódcy. Naciśnij Strzałkę w prawo, by przewinąć menu budowy. Klawisze kropki (.) i przecinka (,) też przełączają menu budowy.

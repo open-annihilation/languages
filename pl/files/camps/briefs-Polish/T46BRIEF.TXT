@@ -1,0 +1,12 @@
+Misja T46: Stalowa twierdza
+
+Dowódca CORE zbudował potężnie bronioną bazę ogniową. Nie ośmielimy się stawiać stacji przekaźnikowych ani iść dalej, dopóki siły wroga nie zostaną zniszczone.
+
+Zniszcz bazę i wszystko, co w niej jest.
+
+Sugestie:
+Jeśli chcesz wygrać lekkimi jednostkami, zbuduj jeszcze kilka fabryk pojazdów i każ im budować czołgi Błysk. Ustaw w kolejce dość czołgów Błysk, aby każda fabryka budowała bez przerwy.
+
+Taktyka bitwy:
+Aby bardzo szybko ustawić w kolejce dziesiątki rozkazów budowy, przytrzymaj klawisz SHIFT, gdy każesz fabrykom budować jednostki. Każde kliknięcie doda pięć jednostek.
+Każ fabrykom wysyłać gotowe jednostki w jedno miejsce. Naciśnij CTRL+F, aby zaznaczyć wszystkie fabryki, potem naciśnij RUCH i kliknij lewym przyciskiem strategiczne miejsce na mapie.

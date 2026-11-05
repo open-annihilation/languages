@@ -1,0 +1,12 @@
+Misja R19: Baza ogniowa Prasad
+
+Odizolowaliśmy zgrupowanie jednostek ARM, ale nie da się ich wyprzeć. Na wzgórzu zwanym Prasad stanęła baza ogniowa z Grubą Bertą, by osłaniać te jednostki. Nasz ostatni atak zniszczył wszystkie pojazdy budowlane na szczycie, więc uszkodzonych jednostek nie dało się naprawić.
+
+Dowódco, przejmij albo zniszcz bazę ogniową opornego ARM na wzgórzu na północnym zachodzie. Przetrwaj wszystkie kontrataki wroga przez godzinę.
+
+Sugestie:
+Koniecznie przejmij Reaktor fuzyjny. Dopóki Gruba Berta nie zostanie przejęta albo zniszczona, nie zatrzymuj się.
+
+
+Taktyka bitwy:
+Warto przejąć Grubą Bertę i Reaktor fuzyjny. Zaznacz wszystkie jednostki przez Ctrl+A i ustaw im rozkaz Bez ognia, gdy znajdziesz Grubą Bertę. Dzięki temu jednostki jej nie zniszczą, zanim ją przejmiesz. Po przejęciu ustaw wszystkie rozkazy stałe na nowo.

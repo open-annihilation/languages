@@ -1,0 +1,11 @@
+Misja T23: Rajd przez płaskowyż
+
+Baza ARM na płaskowyżu Skyreld dostarcza większość metalu, którego ARM używa w tym sektorze. Kontrolę nad tym terenem umocnimy, gdy zetrzemy gospodarkę metalową ARM.
+
+Zniszcz wszystkie przetworniki Moho.
+
+Sugestie:
+Nie stój w miejscu. Schodź z toru nadlatujących pocisków Strażnika i Grubej Berty. Zatrzymaj się do strzału z D-Gun dopiero wtedy, gdy pocisk Grubej Berty już wybuchnie.
+
+Taktyka bitwy:
+CTRL+A zaznacza wszystkie jednostki, żeby ruszyły jedną grupą. Klawiszem D nadal kierujesz D-Gun Dowódcy.

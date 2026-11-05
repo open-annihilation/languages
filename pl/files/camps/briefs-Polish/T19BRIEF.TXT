@@ -1,0 +1,11 @@
+Misja T19: Baza Kudzu
+
+Wielka bitwa przeszła przez teren zwany Dżunglą Kudzu. Nasze siły zostawiły w całości szereg ekstraktorów metalu CORE i kopalni Moho, by wrócić i je przejąć. CORE zdołał jednak przejąć kilka jednostek budowlanych ARM i naszą technologią rozbudował pobliską bazę.
+
+Wpadnij do Bazy Kudzu i zniszcz wszystkie ekstraktory metalu CORE oraz kopalnie Moho. Nie musisz niszczyć całej bazy.
+
+Sugestie:
+Ekstraktory metalu często kryją się w odludnych miejscach. Wieże radaru dobrze wykrywają jednostki schowane wśród drzew.
+
+Taktyka bitwy:
+CTRL+R zaznacza wszystkie twoje jednostki radaru. Na mapie radaru zobaczysz zasięg pokrycia.

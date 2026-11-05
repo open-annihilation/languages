@@ -1,0 +1,10 @@
+MISJA 15.3CORE
+
+PODSŁUCH:
+ARM zmontował Anihilator po drugiej stronie Otchłani Ksantypy. Jedyna przeprawa jest dobrze strzeżona. Przejmij działo Grubej Berty na wschodzie i użyj go, by osłabić obronę ARM dość, żeby zniszczyć Anihilator.
+
+&YSpodziewaj się deszczy meteorytów.&
+
+&RPrzejmij Grubą Bertę ARM. Zniszcz Anihilator ARM.&
+
+ZRÓB TO TERAZ.

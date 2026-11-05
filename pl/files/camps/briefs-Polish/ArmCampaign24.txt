@@ -1,0 +1,12 @@
+MISJA 24.004ARMCP
+Przejmij kontrolę nad kopułą na Placu Centralnym.
+
+&YPRIORYTET&
+Znaleźliśmy Centralną Świadomość, która kieruje machiną wojenną CORE. Leży pod ogromną kopułą na Placu Centralnym. Zniszcz stacjonujący tam garnizon i zajmij kopułę. Gdy opanujemy Centralną Świadomość, CORE na pewno osłabnie dość, by ARM zdobył ostateczne zwycięstwo!
+
+MELDUNEK
+Na Plac Centralny prowadzi kilka wejść. Spodziewaj się, że wszystkie będą dobrze strzeżone. Spodziewaj się też, że kopuła będzie niezwykle silnie strzeżona. Obrona CORE będzie dzika. Musisz być równie dziki, Dowódco.
+
+Dowódco, musisz stanąć na szczycie kopuły.
+
+KONIEC

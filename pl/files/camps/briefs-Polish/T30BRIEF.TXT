@@ -1,0 +1,14 @@
+Misja T30: Góry cukierkowe
+
+Mamy trzy wieże radaru ustawione do triangulacji przybliżonego położenia wrogiej elektrowni fuzyjnej. CORE chce w ten sam sposób znaleźć nasze zasoby energii.
+
+Kbot budowlany, który pierwszy zbudował wieże radaru, został ciężko uszkodzony w wymianie ognia. Nadal potrafi naprawiać sojusznicze jednostki w okolicy.
+
+Odszukaj i zniszcz wszystkie trzy wrogie wieże radaru. Nie pozwól też, by wróg zniszczył którąkolwiek z naszych wież radaru.
+
+Sugestie:
+Zostaw po kilka jednostek do ochrony każdej wieży radaru, a resztę wyślij na zwiad. Gdy zobaczysz samotną jednostkę wroga, namierz ją i zniszcz, zanim znajdzie nasze wieże radaru.
+Taktyka bitwy:
+Obserwuj radar. To da ci pierwsze ostrzeżenie o ataku wroga.
+
+Gdy zobaczysz meldunek, że jedna z twoich jednostek jest atakowana, naciśnij F3 i wyśrodkuj ekran na tej jednostce.

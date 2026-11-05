@@ -1,0 +1,16 @@
+Misja T47: Zamaskowany wśród iglic
+
+Skorupa 14 słynie z iglic, które powstały na dużej części równin centralnych. ARM mocno trzyma teren naprzeciw Zatoki Rozpadliny Lawowej.
+
+Przepraw się przez zatokę i zniszcz wszystkie wrogie fabryki.
+Sugestie:
+&YZanim przeprawisz się przez zatokę, zmień rozkazy Dowódcy z WIDOCZNY na ZAMASKOWANY!&
+
+Taktyka bitwy:
+Aby przełączyć Dowódcę ze stanu WIDOCZNY na ZAMASKOWANY, zaznacz Dowódcę i naciśnij przycisk ROZKAZY. Powinien pojawić się przycisk z napisem WIDOCZNY. Gdy go klikniesz, zmieni się na ZAMASKOWANY. Kliknij jeszcze raz, a znów będzie WIDOCZNY.
+
+Gdy Dowódca jest zamaskowany, wygląda na nieco półprzezroczystego, co oddaje ten stan. Podczas maskowania jednostki wroga nie dostrzegą go, dopóki nie wejdą w promień maskowania. Aby zobaczyć promień maskowania, najedź kursorem na Dowódcę i przytrzymaj klawisz SHIFT. Pojawi się małe koło. Pokazuje ono, jak blisko musi podejść wróg, zanim Dowódca stanie się widoczny.
+
+Pamiętaj, że zamaskowaną jednostkę nadal widać na radarze, chyba że w pobliżu jest zagłuszacz radaru.
+
+Maskowanie wymaga wielkiej ilości energii - 200 energii na sekundę gry, gdy Dowódca stoi w miejscu, i 1000 energii na sekundę gry, gdy Dowódca jest w ruchu.

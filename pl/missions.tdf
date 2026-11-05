@@ -1,0 +1,706 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Polish mission names, keyed by the mission file the campaign
+// lists. A campaign's "N: " prefix is kept as it is.
+
+[EXP1AC01.ota]
+	{
+	missionname=1: Hydross - Początek poszukiwań!;
+	}
+[EXP1AC02.ota]
+	{
+	missionname=2: Zabezpieczenie atolu;
+	}
+[EXP1AC03.ota]
+	{
+	missionname=3: Zatopienie CORE;
+	}
+[EXP1AC04.ota]
+	{
+	missionname=4: Lusch - Technologia poduszkowców;
+	}
+[EXP1AC05.ota]
+	{
+	missionname=5: Przez grzęzawiska i bagna;
+	}
+[EXP1AC06.ota]
+	{
+	missionname=6: Latarnia;
+	}
+[EXP1AC07.ota]
+	{
+	missionname=7: Temblor - Trzęsienie ziemi!;
+	}
+[EXP1AC08.ota]
+	{
+	missionname=8: Między młotem a kowadłem;
+	}
+[EXP1AC09.ota]
+	{
+	missionname=9: ARM trzęsie - CORE drży;
+	}
+[EXP1AC10.ota]
+	{
+	missionname=10: Gelidus - Zimne powitanie;
+	}
+[EXP1AC11.ota]
+	{
+	missionname=11: Z prądem kry;
+	}
+[EXP1AC12.ota]
+	{
+	missionname=12: Ocalenie galaktyki;
+	}
+[AC01.ota]
+	{
+	missionname=1: Powrót bohatera;
+	}
+[AC02.ota]
+	{
+	missionname=2: Baza Kbotów CORE, zniszcz ją!;
+	}
+[AC03.ota]
+	{
+	missionname=3: Technologia Pająka;
+	}
+[AC04.ota]
+	{
+	missionname=4: Skażenie CORE szerzy się...;
+	}
+[AC05.ota]
+	{
+	missionname=5: Brama do Thalassean;
+	}
+[AC06.ota]
+	{
+	missionname=6: Przyczółek na Thalassean;
+	}
+[AC07.ota]
+	{
+	missionname=7: Obrona Portu Larab;
+	}
+[AC08.ota]
+	{
+	missionname=8: Brama do Tergiverse IV;
+	}
+[AC09.ota]
+	{
+	missionname=9: Zakład nawadniania;
+	}
+[AC10.ota]
+	{
+	missionname=10: Labirynt Bromid;
+	}
+[AC11.ota]
+	{
+	missionname=11: Brama do Barathrum;
+	}
+[AC12.ota]
+	{
+	missionname=12: Barathrum!;
+	}
+[AC13.ota]
+	{
+	missionname=13: Styk Landowna;
+	}
+[AC14.ota]
+	{
+	missionname=14: Żar narasta;
+	}
+[AC15.ota]
+	{
+	missionname=15: Rougpelt;
+	}
+[AC16.ota]
+	{
+	missionname=16: Skład przy przyczółku.;
+	}
+[AC17.ota]
+	{
+	missionname=17: Twierdza na Wyspie Broobana;
+	}
+[AC18.ota]
+	{
+	missionname=18: Zemsta!;
+	}
+[AC19.ota]
+	{
+	missionname=19: Rampa Motien;
+	}
+[AC20.ota]
+	{
+	missionname=20: Dump;
+	}
+[AC21.ota]
+	{
+	missionname=21: Witaj na CORE PRIME;
+	}
+[AC22.ota]
+	{
+	missionname=22: Bitwa o współrzędne 6551:447;
+	}
+[AC23.ota]
+	{
+	missionname=23: Przeprawa przez akwen 397;
+	}
+[AC24.ota]
+	{
+	missionname=24: Przełamanie do Centralnej Świadomości;
+	}
+[AC25.ota]
+	{
+	missionname=25: Apokalipsa CORE PRIME. Nareszcie wolni!;
+	}
+[Com Pattern Five.ota]
+	{
+	missionname=Wzorzec Com numer pięć;
+	}
+[Steel Stronghold.ota]
+	{
+	missionname=Stalowa warownia;
+	}
+[Thermal Exchange Causeway.ota]
+	{
+	missionname=Grobla wymiany cieplnej;
+	}
+[Crossing the Long Lakes.ota]
+	{
+	missionname=Przeprawa przez długie jeziora;
+	}
+[Capture Hanan Base.ota]
+	{
+	missionname=Przejmij bazę Hanan;
+	}
+[Lipar Pass.ota]
+	{
+	missionname=Przełęcz Lipar;
+	}
+[Ice Base Assault.ota]
+	{
+	missionname=Szturm na lodową bazę;
+	}
+[Pursuit.ota]
+	{
+	missionname=Pościg;
+	}
+[Backs to the Sea.ota]
+	{
+	missionname=Plecami do morza;
+	}
+[Spider Ambush.ota]
+	{
+	missionname=Zasadzka Pająków;
+	}
+[Islands of Grace.ota]
+	{
+	missionname=Wyspy Łaski;
+	}
+[Wet and Dry.ota]
+	{
+	missionname=Mokro i sucho;
+	}
+[Meraldi Amphibious Assault.ota]
+	{
+	missionname=Desant amfibijny na Meraldi;
+	}
+[Miniement Landing.ota]
+	{
+	missionname=Lądowanie na Miniement;
+	}
+[Intimidator Ridge.ota]
+	{
+	missionname=Grzbiet Zastraszacza;
+	}
+[Zipper Attack.ota]
+	{
+	missionname=Atak Suwaków;
+	}
+[Can Rush.ota]
+	{
+	missionname=Szarża Puszek;
+	}
+[Attack on Barrack.ota]
+	{
+	missionname=Atak na Barrack;
+	}
+[Cutoff in Sector 6895.ota]
+	{
+	missionname=Odcięcie w sektorze 6895;
+	}
+[Encounter on the Coral Sea.ota]
+	{
+	missionname=Starcie na morzu koralowym;
+	}
+[The Wayneston Ford Engagement.ota]
+	{
+	missionname=Starcie przy Brodzie Wayneston;
+	}
+[Ice Base Baryn.ota]
+	{
+	missionname=Lodowa baza Baryn;
+	}
+[Forest Base 129.ota]
+	{
+	missionname=Leśna baza 129;
+	}
+[Rock Candy Mountains.ota]
+	{
+	missionname=Góry z kandyzu;
+	}
+[Kudzu Base.ota]
+	{
+	missionname=Baza Kudzu;
+	}
+[Yerrot Foothills.ota]
+	{
+	missionname=Pogórze Yerrot;
+	}
+[Island Hopping.ota]
+	{
+	missionname=Z wyspy na wyspę;
+	}
+[Mist Bombers.ota]
+	{
+	missionname=Bombowce we mgle;
+	}
+[A Shortage of Water.ota]
+	{
+	missionname=Niedobór wody;
+	}
+[Raid on Vetes.ota]
+	{
+	missionname=Rajd na Vetes;
+	}
+[Three Passes.ota]
+	{
+	missionname=Trzy przełęcze;
+	}
+[Spire Sports.ota]
+	{
+	missionname=Sporty wśród iglic;
+	}
+[Charging the Line.ota]
+	{
+	missionname=Szarża na linię;
+	}
+[Dawn Directive.ota]
+	{
+	missionname=Dyrektywa świtu;
+	}
+[Waiting.ota]
+	{
+	missionname=Oczekiwanie;
+	}
+[The Vulcans Forge Hotspot.ota]
+	{
+	missionname=Gorący punkt Vulcans Forge;
+	}
+[Crawling Destruction.ota]
+	{
+	missionname=Pełzające zniszczenie;
+	}
+[Battle of Ansapp Sea.ota]
+	{
+	missionname=Bitwa na Morzu Ansapp;
+	}
+[Between Two Lakes.ota]
+	{
+	missionname=Między dwoma jeziorami;
+	}
+[Hunting Nhanons.ota]
+	{
+	missionname=Polowanie nad Nhanons;
+	}
+[Sub Hunting.ota]
+	{
+	missionname=Polowanie na okręty podwodne;
+	}
+[Ambush on Novespin IV.ota]
+	{
+	missionname=Zasadzka na Novespin IV;
+	}
+[Force the Strait.ota]
+	{
+	missionname=Forsuj cieśninę;
+	}
+[Destroy the FMD.ota]
+	{
+	missionname=Zniszcz obronę Fortitude;
+	}
+[Kaki Island Assault.ota]
+	{
+	missionname=Szturm na Wyspę Kaki;
+	}
+[Fighting Under Fire.ota]
+	{
+	missionname=Walka pod ostrzałem;
+	}
+[The Ravenstein Run.ota]
+	{
+	missionname=Rajd na Ravenstein;
+	}
+[Reducing the Yrdac Islands.ota]
+	{
+	missionname=Pacyfikacja Wysp Yrdac;
+	}
+[Black Box.ota]
+	{
+	missionname=Czarna skrzynka;
+	}
+[Firebase Prasad.ota]
+	{
+	missionname=Baza ogniowa Prasad;
+	}
+[Invasion of Destral II.ota]
+	{
+	missionname=Inwazja na Destral II;
+	}
+[Guardian Hill.ota]
+	{
+	missionname=Wzgórze Strażnika;
+	}
+[Metal Maze.ota]
+	{
+	missionname=Metalowy labirynt;
+	}
+[Titanium Fist Bay.ota]
+	{
+	missionname=Zatoka Tytanowej Pięści;
+	}
+[Crossing Kerrap Shallows.ota]
+	{
+	missionname=Przeprawa przez Płycizny Kerrap;
+	}
+[Peaceful Pools.ota]
+	{
+	missionname=Spokojne sadzawki;
+	}
+[Solidspire Base.ota]
+	{
+	missionname=Baza Solidspire;
+	}
+[Fortitude Race.ota]
+	{
+	missionname=Wyścig o Fortitude;
+	}
+[Brawler Buildup.ota]
+	{
+	missionname=Koncentracja Zabijaków;
+	}
+[Silent Slayers.ota]
+	{
+	missionname=Cisi zabójcy;
+	}
+[Crossing Arnen Inlet.ota]
+	{
+	missionname=Przeprawa przez Zatokę Arnen;
+	}
+[Cloaked in the Spires.ota]
+	{
+	missionname=Zamaskowani wśród iglic;
+	}
+[Zedtopt Hotsprings.ota]
+	{
+	missionname=Gorące źródła Zedtopt;
+	}
+[Intimidator Rising.ota]
+	{
+	missionname=Zastraszacz powstaje;
+	}
+[Guditha Pass.ota]
+	{
+	missionname=Przełęcz Guditha;
+	}
+[Sink the Battleship.ota]
+	{
+	missionname=Zatop pancernik;
+	}
+[Coordinated Assault.ota]
+	{
+	missionname=Skoordynowany szturm;
+	}
+[Dogfight over Grantham Deep.ota]
+	{
+	missionname=Walka powietrzna nad Głębią Grantham;
+	}
+[Mesa Run.ota]
+	{
+	missionname=Rajd przez płaskowyż;
+	}
+[Krocark Firebase Complex.ota]
+	{
+	missionname=Kompleks baz ogniowych Krocark;
+	}
+[Jungle Journey.ota]
+	{
+	missionname=Wędrówka przez dżunglę;
+	}
+[Capturing Terseknos.ota]
+	{
+	missionname=Przejmowanie Terseknos;
+	}
+[Bertha Cleansing.ota]
+	{
+	missionname=Czystka Grubych Bert;
+	}
+[Surprise at Labrodorite.ota]
+	{
+	missionname=Niespodzianka na Labrodorite;
+	}
+[Skirmish on the Sand.ota]
+	{
+	missionname=Potyczka na piasku;
+	}
+[New Moon.ota]
+	{
+	missionname=Nowy księżyc;
+	}
+[Kbot Mop Up.ota]
+	{
+	missionname=Dobijanie Kbotów;
+	}
+[River Base Alpha.ota]
+	{
+	missionname=Rzeczna baza Alfa;
+	}
+[Crossing Two Rivers.ota]
+	{
+	missionname=Przeprawa przez dwie rzeki;
+	}
+[Caranat Conquest.ota]
+	{
+	missionname=Podbój Caranat;
+	}
+[Less Refreshing Sea.ota]
+	{
+	missionname=Mniej orzeźwiające morze;
+	}
+[Hot Day and Hull Down.ota]
+	{
+	missionname=Upalny dzień i kadłub w ukryciu;
+	}
+[Seed Crystal.ota]
+	{
+	missionname=Kryształ zarodkowy;
+	}
+[Cleanup on Kral.ota]
+	{
+	missionname=Sprzątanie na Kral;
+	}
+[Air Assault.ota]
+	{
+	missionname=Szturm powietrzny;
+	}
+[Lightning Recon.ota]
+	{
+	missionname=Błyskawiczne rozpoznanie;
+	}
+[A Gentle Time.ota]
+	{
+	missionname=Łagodny czas;
+	}
+[Disintegrator Alley.ota]
+	{
+	missionname=Aleja dezintegratorów;
+	}
+[Two Ore Coast.ota]
+	{
+	missionname=Wybrzeże dwóch rud;
+	}
+[Thrashing a Rear Guard.ota]
+	{
+	missionname=Rozgromienie ariergardy;
+	}
+[Emerald Seamount.ota]
+	{
+	missionname=Szmaragdowa góra podwodna;
+	}
+[Taking Island 445.ota]
+	{
+	missionname=Zdobycie wyspy 445;
+	}
+[The Retorb Floodplain.ota]
+	{
+	missionname=Równina zalewowa Retorb;
+	}
+[Firebase.ota]
+	{
+	missionname=Baza ogniowa;
+	}
+[Battle of Chimo Island.ota]
+	{
+	missionname=Bitwa o Wyspę Chimo;
+	}
+[Laser Plain.ota]
+	{
+	missionname=Laserowa równina;
+	}
+[Rotrey Stream.ota]
+	{
+	missionname=Strumień Rotrey;
+	}
+[Rainforest Construction.ota]
+	{
+	missionname=Budowa w lesie deszczowym;
+	}
+[Yollets Rain Forest.ota]
+	{
+	missionname=Las deszczowy Yollets;
+	}
+[The Phase Array Radar.ota]
+	{
+	missionname=Radar z szykiem fazowym;
+	}
+[EXP1CC01.ota]
+	{
+	missionname=1: ARM przybywa na Hydross;
+	}
+[EXP1CC02.ota]
+	{
+	missionname=2: Mokra robota;
+	}
+[EXP1CC03.ota]
+	{
+	missionname=3: Łatwe cele;
+	}
+[EXP1CC04.ota]
+	{
+	missionname=4: Lusch - Witaj w raju;
+	}
+[EXP1CC05.ota]
+	{
+	missionname=5: Młócka i mozół;
+	}
+[EXP1CC06.ota]
+	{
+	missionname=6: Obce owady;
+	}
+[EXP1CC07.ota]
+	{
+	missionname=7: Trzęś, grzechocz i giń;
+	}
+[EXP1CC08.ota]
+	{
+	missionname=8: Zamęt dowodzenia;
+	}
+[EXP1CC09.ota]
+	{
+	missionname=9: Szturm na chmurową twierdzę;
+	}
+[EXP1CC10.ota]
+	{
+	missionname=10: Schłodzenie;
+	}
+[EXP1CC11.ota]
+	{
+	missionname=11: Lodowate spustoszenie;
+	}
+[EXP1CC12.ota]
+	{
+	missionname=12: Czas odejść;
+	}
+[CC01.ota]
+	{
+	missionname=1: Dowódca reaktywowany...;
+	}
+[CC02.ota]
+	{
+	missionname=2: Robactwo;
+	}
+[CC03.ota]
+	{
+	missionname=3: Zasadzka!;
+	}
+[CC04.ota]
+	{
+	missionname=4: Dość tego;
+	}
+[CC05.ota]
+	{
+	missionname=5: Barathrum!;
+	}
+[CC06.ota]
+	{
+	missionname=6: Czystka się zaczyna;
+	}
+[CC07.ota]
+	{
+	missionname=7: Zaciskanie pętli;
+	}
+[CC08.ota]
+	{
+	missionname=8: Brama do Aqueous Minor;
+	}
+[CC09.ota]
+	{
+	missionname=9: Oczyszczenie Aqueous Minor;
+	}
+[CC10.ota]
+	{
+	missionname=10: Korytarz ognia;
+	}
+[CC11.ota]
+	{
+	missionname=11: Wyspa Parche;
+	}
+[CC12.ota]
+	{
+	missionname=12: Zdrajca wskazuje drogę;
+	}
+[CC13.ota]
+	{
+	missionname=13: Rougpelt;
+	}
+[CC14.ota]
+	{
+	missionname=14: Przeczesywanie Rougpelt;
+	}
+[CC15.ota]
+	{
+	missionname=15: Otchłań Ksantypy;
+	}
+[CC16.ota]
+	{
+	missionname=16: Opuszczenie Rougpelt;
+	}
+[CC17.ota]
+	{
+	missionname=17: Zaginiona wyspa;
+	}
+[CC18.ota]
+	{
+	missionname=18: Slolam Pilago;
+	}
+[CC19.ota]
+	{
+	missionname=19: Flota Vebreen;
+	}
+[CC20.ota]
+	{
+	missionname=20: Brama do Aegus;
+	}
+[CC21.ota]
+	{
+	missionname=21: Aegus...Strażnik Empyrrean;
+	}
+[CC22.ota]
+	{
+	missionname=22: Wielkie powitanie na Empyrrean;
+	}
+[CC23.ota]
+	{
+	missionname=23: Twierdza pada;
+	}
+[CC24.ota]
+	{
+	missionname=24: Otoczeni i miażdżeni;
+	}
+[CC25.ota]
+	{
+	missionname=25: Ostatni bój na Empyrrean;
+	}
+[Krogoth Encounter.ota]
+	{
+	missionname=1: Spotkanie z Krogothem!;
+	}

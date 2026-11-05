@@ -1,0 +1,12 @@
+MISJA 17.003ARMR
+CORE zbudował silos pocisków jądrowych! Znajdź silos i przejmij go.
+
+&YPRIORYTET&
+CORE znowu podbił stawkę. Emisje energii wskazują, że ukończyli w tej okolicy budowę dużego silosu pocisków. Silos ma zawierać pociski z głowicami jądrowymi. Musimy przejąć silos, nie tylko by usunąć zagrożenie, ale i by zdobyć jego technologię.
+
+MELDUNEK
+Silos na pewno jest dobrze chroniony i może leżeć na Wyspie Broobana. Najskuteczniejsze będą połączone siły powietrzne i morskie.
+
+&RBądź gotów na deszcze meteorytów.&
+
+KONIEC

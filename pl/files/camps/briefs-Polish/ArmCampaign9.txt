@@ -1,0 +1,10 @@
+MISJA 9.0001ARMT
+Przejmij zakład nawadniania.
+
+&YPRIORYTET&
+W walce z CORE do tej pory wstrzymywaliśmy jednostki powietrzne... CORE będzie się spodziewał ataku sił lądowych. Czas ich zaskoczyć. &GZbuduj fabrykę samolotów& i lotnictwem zniszcz ich nieliczne stanowiska plot. &GZbuduj jednostkę transportu powietrznego Atlas&, która przeniesie cię ponad ich siłami lądowymi, i przejmij zakład nawadniania.
+
+MELDUNEK
+Zakład nawadniania leży na terenie umocnionym i patrolowanym. Największą szansę daje przelot ponad obroną CORE. Spodziewaj się silnych sił lądowych CORE i słabej obrony plot. Jak zawsze, spodziewaj się wart przy Bramie.
+
+KONIEC

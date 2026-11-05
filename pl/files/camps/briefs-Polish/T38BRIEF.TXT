@@ -1,0 +1,21 @@
+Misja T38: Walka pod ostrzałem
+
+Płaskowyż 368 ma żywotne znaczenie dla obu stron. Walki na Grzbiecie Hyenbacku są wyjątkowo zacięte. Siły CORE powoli spychają nas w tył.
+
+Choć meldunki wywiadu o rozmieszczeniu wroga okazały się wiarygodne, kolejne szturmy powietrzne łatwo odparto dziesiątkami Kobr i dalsze naloty straciły sens. Nasza fabryka samolotów jest ustawiona tak, by wysyłać samoloty na patrol obronny.
+
+Musimy pobić CORE jego własnym sposobem i naszymi Grubymi Bertami zniszczyć jego działo Zastraszacz. Skoro CORE zbudował już Zastraszaczy, Bertę musisz stawiać pod ostrzałem.
+
+Wywiad melduje, że CORE szykuje zmasowany szturm powietrzny. Zacznie się za około 30 minut. Tyle masz czasu, by zniszczyć jego Zastraszaczy.
+
+Nie pozwól, by CORE zniszczył twoje reaktory fuzyjne. To główne źródło energii.
+
+Sugestie:
+Murami obronnymi osłaniaj pracę. Budowa Bert na najbardziej zachodnich urwiskach utrzyma wrogich Zastraszaczy w zasięgu.
+
+
+Taktyka bitwy:
+Fabrykom można wyznaczyć trasy patrolu. Zaznacz fabrykę i naciśnij przycisk PATROL. Przytrzymaj klawisz SHIFT i klikaj mapę, aby tworzyć punkty trasy. Każda nowa jednostka z fabryki będzie patrolować wszystkie punkty i wracać do fabryki w ciągłej pętli.
+
+Jeśli chcesz cofnąć rozkazy patrolu fabryki, zaznacz fabrykę i naciśnij
+przycisk STOP.

@@ -1,0 +1,20 @@
+Misja R20: Desant na Miniement
+
+&RAlarm!&
+CORE przypuścił silny atak na nasze siły na wyspie Miniement, choć część albo całość jego floty może się wycofać po pierwszym ostrzale brzegu.
+Teren jest dobrze skartowany. Zaaw. wieża radaru powinna dać ci wyraźny widok bitwy. Uważa się, że twoja Stocznia jest celem o wysokim priorytecie i raczej jej nie ocalisz.
+
+Rozkaz brzmi: zatrzymaj inwazję. Musisz zabić wszystkie jednostki wroga, każdego rodzaju.
+
+Sugestie:
+Spróbuj zbudować mieszankę nowych umocnień i jednostek mobilnych.
+
+
+Taktyka bitwy:
+Koniecznie namierzaj wrogie jednostki na dalekim zasięgu za pomocą radaru.
+
+Jeśli używasz interfejsu lewego przycisku, zaznacz jednostkę dalekiego zasięgu (na przykład Strażnika), naciśnij przycisk ATAK, a potem kliknij lewym przyciskiem czerwoną kropkę na mapie radaru w zasięgu zaznaczonej jednostki.
+
+W interfejsie prawego przycisku zaznacz jednostkę dalekiego zasięgu i kliknij prawym przyciskiem czerwoną kropkę na mapie radaru.
+
+Ten sposób jest ważny, bo jednostki same nie namierzają wroga poza polem widzenia.

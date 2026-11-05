@@ -1,0 +1,11 @@
+Misja R13: Rajd na Vetes
+
+CORE założył bazę na kopule lawowej Vetes i rozbudował koncentryczną obronę. Przeprowadź szybkie siły mobilne przez las i zniszcz bazę CORE. Atakuj wszystko, ale koniecznie zniszcz wszystkie Zaaw. laboratoria Kbotów i Elektrownie fuzyjne.
+
+Jednostkami budowlanymi naprawiaj swoje siły.
+
+Sugestie:
+Gdy się da, unikaj walki z wrogiem, póki nie znajdziesz celów. Trzymaj jednostki razem.
+
+Taktyka bitwy:
+Naciśnij klawisz tyldy (~), by włączyć paski uszkodzeń jednostek. Paski pokazują, ile uszkodzeń przyjęła każda jednostka. Jeśli jednostka jest w grupie, przy widocznych paskach pojawi się też numer grupy. Żeby wyłączyć paski, naciśnij tyldę (~) jeszcze raz.

@@ -1,0 +1,14 @@
+MISJA 11.002ARMG
+Odparliśmy pierwszą falę CORE. Spodziewaj się, że wkrótce się przegrupują i znów uderzą. Odbuduj bazę na tyle, by uderzyć na krę na zachodzie. Zniszcz tam fabryki poduszkowców oraz fabryki samolotów, a potem rusz na ląd stały na północy.
+
+&Y*PRIORYTET KRYTYCZNY*&
+Jeśli zniszczysz zakłady na krze na zachodzie, w ostatnim szturmie na ląd CORE nie zostanie nam na tyłach. CORE miał dość czasu, by szykować się na nasze wejście na ląd, więc spodziewaj się, że plaża na północy będzie strzeżona.
+
+MELDUNEK
+&RCORE opracował nowego, groźniejszego Kbot, Sumo.& Na pewno pojawi się na lądzie stałym (jest za ciężki na kry). Choć wolny, Sumo niesie paskudne działo laserowe.
+
+Z naszej strony technicy ARM złożyli dla ciebie baterię dział Gruba Berta. Musisz jednak zbudować generatory energii, które je zasilą.
+
+Aby ukończyć misję, musisz zniszczyć wszystkie jednostki CORE i &Rdoprowadzić Dowódcę do podnóża lodowca& na lądzie stałym.
+
+KONIEC

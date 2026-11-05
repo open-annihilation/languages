@@ -1,0 +1,11 @@
+Misja I02: Morze Mniej Orzeźwiające
+
+Głupie siły ARM założyły małą bazę na wyspie na zachodzie. Musisz przebyć kwaśne wody Morza Mniej Orzeźwiającego, żeby ją zniszczyć. Po drodze ARM wystawił stałą obronę.
+
+Zetrzyj bazę ARM w ciągu dwudziestu minut. Nie trać Dominatorów.
+
+Sugestie:
+Użyj dalekiego ognia Dominatorów, by zniszczyć bazę z bezpiecznej odległości.
+
+Taktyka bitwy:
+Wrogie jednostki strzelają tylko wtedy, gdy twoje wejdą w ich pole widzenia albo gdy same są ostrzeliwane. Dlatego na początku ataku ostrzeliwuj wroga Dominatorami, żeby jak najbardziej ograniczyć możliwość odpowiedzi ogniem ze strony ARM.

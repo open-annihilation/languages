@@ -1,0 +1,10 @@
+Misja R10: Przeprawa przez dwie rzeki
+
+Zacofany ARM postawił małą bazę na polanie na północnym zachodzie, za dwiema rzekami. Na polanie jest kilka złóż rudy i Elektrownia geotermalna.
+
+Zniszcz wrogą Elektrownię geotermalną i zbuduj Zaaw. fabrykę pojazdów tuż na północ od wylotu pary.
+Sugestie:
+Lekkie jednostki wroga mogą zaatakować twój Pojazd budowlany. Pilnuj go uważnie.
+
+Taktyka bitwy:
+Walcami oczyść drogę przez dżunglę. Zaznacz Walec, wciśnij 'A' (skrót rozkazu ATAK), przytrzymaj klawisz Shift i kliknij ziemię w kilku sąsiednich miejscach. Walec usunie roślinność ogniem zaporowym.

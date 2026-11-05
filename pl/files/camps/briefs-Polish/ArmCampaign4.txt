@@ -1,0 +1,13 @@
+MISJA 4.0004ARME
+Znajdź obiekty wydobywcze i łączności CORE. Zniszcz wszystkie jednostki CORE.
+
+PRIORYTET 1
+Skażenie Empyrrean przez CORE zaszło za daleko! Zniszczenie bazy wydobywczej i łączności CORE na rubieży zerwie transmisje danych CORE i odbierze mu rzadkie minerały.
+
+MELDUNEK
+&R*OSTRZEŻENIE* *OSTRZEŻENIE* *OSTRZEŻENIE*&
+Baza CORE jest dobrze chroniona. Załóż bazę, aby mieć dość siły do ukończenia misji. Wróg zna twój zamiar i może wysłać przeciw tobie oddziały zabójców Piro. Do ochrony dostajesz model Zeus Arm-Zeus.
+
+&GNaprawiaj jednostki, gdy możesz.&
+
+KONIEC

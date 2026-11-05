@@ -1,0 +1,11 @@
+MISJA 7.1TCORE
+Robactwo ARM dokonało desantu na Temblor. To dobrze. Ścigają cię, Dowódco. Latarnię bezpiecznie przewieziono na Gelidus. Twoje zadanie to trzymać ARM jak najdłużej i przerzedzić ich szeregi. Idź na południe i niszcz każdą napotkaną jednostkę ARM.
+
+PODSŁUCH:
+Siły ARM są teraz stosunkowo słabe. Będą w odwrocie, aż dotrą posiłki. Będą próbować spowolnić twój marsz minami lądowymi. Usuń miny lądowe i zniszcz wszystkie jednostki ARM.
+
+&RTemblor to niestabilna planeta. Spodziewaj się częstych trzęsień ziemi.&
+
+Aby ukończyć tę misję, musisz zniszczyć wszystkie jednostki ARM i miny lądowe.
+
+ZRÓB TO TERAZ.

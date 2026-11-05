@@ -1,0 +1,10 @@
+MISJA 7.0002ARMTH
+Chroń Port Larab. Zachowaj tamtejszą kopalnię Moho. Zniszcz wszystkie jednostki CORE.
+
+&Y*PRIORYTET SPECJALNY*&
+Twierdzę ARM i skład zaopatrzenia w Porcie Larab trzeba obronić przed każdym szturmem CORE. Metal jest na Thalassean tak rzadki, że kopalnię Moho w Porcie Larab trzeba chronić za wszelką cenę. Jeśli kopalnia Moho zostanie zniszczona, nie wykonasz misji.
+
+MELDUNEK
+Mamy powody sądzić, że flota CORE kryje się w huraganie idącym na Port Larab. Bądź gotów! &YWróg na pewno weźmie na cel kopalnię Moho.&
+
+KONIEC

@@ -1,0 +1,13 @@
+Misja R25: Baza leśna 129
+
+Tuż na południe od dwóch głębokich dopływów rzeki Yorlat wróg buduje bazę. CORE, licząc na nasz szturm z powietrza, postawił na Kobry. Przerzuciliśmy lotem wiele czołgów amfibijnych i wysadziliśmy je na północ od rzek.
+Rozkaz: zniszcz wszystkie wrogie fabryki w regionie. Wytęp wszystkie mobilne bojowe jednostki wroga.
+
+&YMasz dwadzieścia minut, by ukończyć tę misję.&
+
+Sugestie:
+CORE mógł zdążyć albo nie zdążyć postawić Smoczych zębów, by spowolnić szturm lądowy. Jeśli stoją, rozbij je skupionym ogniem kilku czołgów. Możesz też przebić drogę przez las i obejść Smocze zęby.
+Taktyka bitwy:
+Podziel siły na dwie albo trzy grupy i każdej wskaż inny cel. Utwórz z nich grupy, zaznaczając grupę i naciskając Ctrl+# (gdzie # to cyfra od 1 do 9). Żeby później zaznaczyć tę grupę, naciśnij Alt+#. Żeby zobaczyć numer grupy jednostki, naciśnij klawisz tyldy (~).
+
+Jest kod, który pozwala zaznaczyć grupę samym naciśnięciem # (gdzie # to cyfra od 1 do 9). Żeby włączyć ten kod, naciśnij Enter, by otworzyć pasek wiadomości u dołu ekranu. Wpisz '+switchalt' i naciśnij Enter, by włączyć tę opcję. Samo naciśnięcie przypisanego numeru zaznaczy tę grupę. Żeby wyłączyć opcję i wrócić do ustawień domyślnych, wpisz '+switchalt' jeszcze raz.

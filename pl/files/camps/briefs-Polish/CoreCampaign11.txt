@@ -1,0 +1,8 @@
+MISJA 11.3CORE
+
+PODSŁUCH:
+Na wyspie na południu jest Kbot Zeus. Uważaj, by nadgorliwe jednostki CORE nie zniszczyły Zeusa, zanim go przejmiesz.
+
+&RPrzejmij Kbot Zeus.&
+
+ZRÓB TO TERAZ.

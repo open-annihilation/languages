@@ -1,0 +1,13 @@
+Misja R03: Baza lodowa Baryn
+
+Szturm CORE na naszą bazę niemal przytłoczył obronę.
+
+Uderzymy na dalekim wschodzie, co na kilka krótkich godzin odciąży twoje siły. Przetrwaj szturm wroga, jeśli zdołasz.
+
+Szybko będą potrzebne zaawansowane jednostki, więc rozbuduj Bazę lodową Baryn i zbuduj Zaaw. laboratorium Kbotów.
+
+Sugestie:
+Geolodzy podejrzewają, że na południu metalu jest więcej.
+
+Taktyka bitwy:
+Naciśnij Enter, by włączyć pasek wiadomości, i wpisz '+dither'. Ten kod ułatwi ocenę zasięgu pola widzenia. Zbadany teren będzie ciemniejszy zamiast szarego. Wpisz '+dither' jeszcze raz, by wrócić do ustawienia domyślnego.

@@ -1,0 +1,17 @@
+Misja T41: Cisi zabójcy
+
+Zamiast zwykłego zwiadu nasza tajna baza w Zatoce Tessop musi teraz czynnie zacząć atak na wroga. Zakończ warunki maksymalnej ciszy i zacznij budować kolejne okręty podwodne.
+
+ARM desperacko przerzuca zapasy wojenne tam i z powrotem przez zatokę. Jeśli go zatrzymasz, ta tajna placówka stanie się zwykłym ośrodkiem produkcji.
+
+Zniszcz wszystkie lekkie lotniskowce i co najmniej pięć transportów Olbrzym, a swoje stocznie zachowaj. Twoje okręty podwodne są pilnie potrzebne gdzie indziej, więc nie strać w tej misji więcej niż dwudziestu.
+Sugestie:
+Krótki zasięg obserwacji okrętów podwodnych utrudnia znalezienie celów. Rozprosz je, a gdy cel zostanie dostrzeżony, skieruj kolejne przed niego do ataku. Uszkodzone odsyłaj do bazy na naprawę.
+
+
+
+Taktyka bitwy:
+Odprawa tej misji jest złożona. Rozkazy przejrzysz, naciskając F2, a potem klikając ODPRAWA.
+
+Ustaw okrętom budowlanym rozkaz OBRONA na stocznię. Nanotokarką wesprą
+produkcję stoczni.

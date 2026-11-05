@@ -1,0 +1,10 @@
+MISJA 14.2CORE
+
+PODSŁUCH:
+Odcięto mały garnizon ARM. To czyszczenie terenu. Garnizon jest mały i słabo broniony. Przejmij tyle budynków, ile zdołasz, i załóż bazę.
+
+&YSpodziewaj się deszczy meteorytów.&
+
+&RPrzejmij budynki i zniszcz jednostki ARM.&
+
+ZRÓB TO TERAZ.

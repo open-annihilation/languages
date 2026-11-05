@@ -1,0 +1,8 @@
+Misja T12: Czyszczenie Kbotów
+
+Siły ARM na księżycu Nayrb zostały porzucone. Zlikwiduj resztki w swoim sektorze.
+
+Sugestie:
+Mobilną jednostką budowlaną naprawiaj uszkodzone jednostki. ARM ogołocił księżyc z zasobów. Budowa bazy będzie trudna.
+Taktyka bitwy:
+Naciśnij klawisz tyldy (~), aby zobaczyć, ile uszkodzeń przyjęły jednostki. Jeśli masz grupy, widać też ich przydział. Grupę ustawisz, zaznaczając jednostki i naciskając CTRL+1 (albo 2, 3, 4 itd.). ALT+1 (itd.) zaznacza tę grupę ponownie.
