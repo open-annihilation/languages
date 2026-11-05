@@ -1,12 +1,13 @@
 # Open Annihilation language packs
 
-The sources of Open Annihilation's downloadable language packs (`.oalang`): Simplified Chinese, Ukrainian, Korean, Japanese, Russian, Brazilian Portuguese and European Portuguese. Each pack is built and checked here, and published with the content library's publish script. That script also makes a GitHub release for each pack and revision, so a translation can ship without an engine release.
+The sources of Open Annihilation's downloadable language packs (`.oalang`): Simplified Chinese, Traditional Chinese, Ukrainian, Korean, Japanese, Russian, Brazilian Portuguese and European Portuguese. Each pack is built and checked here, and published with the content library's publish script. That script also makes a GitHub release for each pack and revision, so a translation can ship without an engine release.
 
 The five languages Total Annihilation 3.1c ships with (English, German, Spanish, French and Italian) need no pack: Open Annihilation reads them from the game's own data.
 
 ## Layout
 
 - `zh-Hans/` holds the Simplified Chinese sources: `language.yaml`, the tables, `warmup.txt`, and the briefings under `files/`.
+- `zh-Hant/` holds the Traditional Chinese sources, laid out the same way. Its text is drawn in the modern fonts, its hanzi from the pack's own face, cut from the same collection in Taiwan's forms. Taiwan, Hong Kong and Macau choose it; a bare `zh` chooses the Simplified pack.
 - `uk/` holds the Ukrainian sources, laid out the same way. Its text is drawn in the modern fonts, and the sans faces that travel with the game hold Cyrillic, so the pack brings no font of its own.
 - `ko/` holds the Korean sources, laid out the same way. Its text is drawn in the modern fonts, its Hangul from the pack's own face, cut from the same collection as the Chinese one.
 - `ja/` holds the Japanese sources, laid out the same way. Its text is drawn in the modern fonts, its kana and kanji from the pack's own face, cut from the same collection in its Japanese forms.
@@ -89,7 +90,7 @@ python3 tools/build.py uk --oa-tool /path/to/oa-tool
 
 ## A new revision
 
-Fix the translation, then bump `packaging.revision` and `packaging.date` in the pack's `language.yaml`. Commit and push to `main`. From that clean commit, build the pack. The maintainer publishes it with the content library's publish script, which reads the build info and makes the GitHub release for that pack and revision (for example `zh-Hans-r1`, `uk-r1`, `ko-r1`, `ja-r1`, `ru-r1`, `pt-BR-r1` or `pt-PT-r1`).
+Fix the translation, then bump `packaging.revision` and `packaging.date` in the pack's `language.yaml`. Commit and push to `main`. From that clean commit, build the pack. The maintainer publishes it with the content library's publish script, which reads the build info and makes the GitHub release for that pack and revision (for example `zh-Hans-r1`, `zh-Hant-r1`, `uk-r1`, `ko-r1`, `ja-r1`, `ru-r1`, `pt-BR-r1` or `pt-PT-r1`).
 
 ## Licences
 

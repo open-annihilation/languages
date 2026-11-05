@@ -52,12 +52,13 @@ The game draws text two ways, and the pack's manifest says which it needs.
 - **The modern fonts.** Any other language: `text: {needs: modern-fonts}`
   and `unicode: true`. The sans faces that travel with the engine draw
   Latin, Greek and Cyrillic, so a Russian or Ukrainian pack brings no
-  font. Chinese, Japanese and Korean need a face of their own (step 7).
+  font. Simplified Chinese, Traditional Chinese, Japanese and Korean need a face of their own (step 7).
   `fonts/engine-faces.json` lists every character the engine's faces draw.
 
 | Pack | Drawn with | Font in the pack |
 |---|---|---|
 | `zh-Hans` | modern fonts | `NotoSansCJKsc-Bold.otf` |
+| `zh-Hant` | modern fonts | `NotoSansCJKtc-Bold.otf` |
 | `uk` | modern fonts | none |
 | `ko` | modern fonts | `NotoSansCJKkr-Bold.otf` |
 | `ja` | modern fonts | `NotoSansCJKjp-Bold.otf` |

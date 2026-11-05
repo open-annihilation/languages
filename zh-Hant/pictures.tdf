@@ -1,0 +1,70 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+
+// Captions drawn over the player's own pictures while Traditional Chinese
+// is shown (src/present/include/oa/present/picture_captions.hpp). A
+// picture left out here, or a section with no keys, keeps its art.
+
+// The order buttons, each with its hotkey letter.
+[commongui.gaf]
+{
+    [ARMATTACK] { text=攻擊A; }
+    [CORATTACK] { text=攻擊A; }
+    [ARMMOVE] { text=移動M; }
+    [CORMOVE] { text=移動M; }
+    [ARMSTOP] { text=停止S; }
+    [CORSTOP] { text=停止S; }
+    [ARMPATROL] { text=巡邏P; }
+    [CORPATROL] { text=巡邏P; }
+    [ARMDEFEND] { text=護衛G; }
+    [CORDEFEND] { text=護衛G; }
+    [ARMRECLAIM] { text=回收E; }
+    [CORRECLAIM] { text=回收E; }
+    [ARMREPAIR] { text=修理R; }
+    [CORREPAIR] { text=修理R; }
+    [ARMCAPTURE] { text=俘獲C; }
+    [CORCAPTURE] { text=俘獲C; }
+    [ARMLOAD] { text=裝載L; }
+    [CORLOAD] { text=裝載L; }
+    [ARMUNLOAD] { text=卸載U; }
+    [CORUNLOAD] { text=卸載U; }
+    [ARMORDERS] { text=命令; }
+    [CORORDERS] { text=命令; }
+    [ARMBUILD] { text=建造; }
+    [CORBUILD] { text=建造; }
+    // Two characters, kept to the others' size.
+    [ARMBLAST] { text=D槍; area=3,6,48,17; }
+    [CORBLAST] { text=D槍; area=3,6,48,17; }
+
+    // The toggles: one caption per state, then the button's name; their
+    // lights stay at the right.
+    [ARMFIREORD] { text=停火|還擊|自由開火|開火命令; area=3,2,95,16; align=left; }
+    [CORFIREORD] { text=停火|還擊|自由開火|開火命令; area=3,2,95,16; align=left; }
+    [ARMMOVEORD] { text=固守|機動|漫遊|移動命令; area=3,2,95,16; align=left; }
+    [CORMOVEORD] { text=固守|機動|漫遊|移動命令; area=3,2,95,16; align=left; }
+    [ARMONOFF] { text=關|開|開關命令; area=3,2,95,16; align=left; }
+    [CORONOFF] { text=關|開|開關命令; area=3,2,95,16; align=left; }
+    [ARMCLOAK] { text=可見|隱形|隱形命令; area=3,2,95,16; align=left; }
+    [CORCLOAK] { text=可見|隱形|隱形命令; area=3,2,95,16; align=left; }
+    [ARMACTIVATE] { text=啟用|停用; area=3,2,95,16; align=left; }
+    [CORACTIVATE] { text=啟用|停用; area=3,2,95,16; align=left; }
+}
+
+// The top bar's METAL and ENERGY.
+[armint.gaf/PANELTOP] { text=金屬|能量; area=36,4,48,17|285,4,56,17; }
+[corint.gaf/PANELTOP] { text=金屬|能量; area=34,8,48,13|285,8,52,13; }
+
+// The titles over the battlefield.
+[igtitles.gaf]
+{
+    [igpaused] { text=遊戲暫停; }
+    [igvictory] { text=勝利; }
+    [igdefeat] { text=全軍覆沒; }
+}
+
+// The load dialog's title.
+[loadgame.gaf/LoadGame] { text=載入遊戲; }
+
+// The save and load dialogs' titles, painted into their backgrounds.
+[dsavegame2.pcx] { text=儲存遊戲; area=64,31,168,27; }
+[dloadgame2.pcx] { text=載入遊戲; area=61,32,166,27; }
