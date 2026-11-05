@@ -11,9 +11,11 @@ is already there is used when its SHA-256 matches, and fetched otherwise.
 --out is where the cut faces are written (default local/fonts). Each face
 is one line: its path, its size in bytes and its SHA-256.
 
-Three faces are cut from the Bold collection: Noto Sans CJK SC Bold (face
+Four faces are cut from the Bold collection: Noto Sans CJK SC Bold (face
 2) kept to the common CJK characters, Noto Sans CJK KR Bold (face 1) kept
-to Hangul, and Noto Sans CJK JP Bold (face 0) kept to Japanese. fontTools
+to Hangul, Noto Sans CJK JP Bold (face 0) kept to Japanese, and Noto Sans
+CJK TC Bold (face 3) kept to Traditional Chinese, in Taiwan's forms.
+fontTools
 4.66.1, pinned by hash in fonts/requirements.txt, runs in
 local/fonttools-venv, which is made again when its Python no longer runs
 it. --self-test checks the pins and the character sets and downloads
@@ -158,6 +160,28 @@ def hangul_characters():
     return sorted(characters)
 
 
+TRADITIONAL_COUNT = 13903
+"""The characters traditional_characters() lists."""
+
+
+def traditional_characters():
+    """The characters the cut-down Traditional Chinese face keeps, as a sorted list.
+
+    The two-byte characters of Big5, its symbols and its level-1 and level-2
+    hanzi (lead bytes 0xA1-0xF9), as Python's codec maps them, and the blocks
+    of CJK punctuation, bopomofo and half- and full-width forms. GB 2312's
+    simplified characters are left out, so a simplified form the codec does
+    not map is not in the set. The face is Noto Sans CJK TC, so a character
+    the two Chinese faces share is drawn in Taiwan's form.
+    """
+    characters = two_byte_characters(
+        "big5", range(0xA1, 0xFA), [*range(0x40, 0x7F), *range(0xA1, 0xFF)]
+    )
+    for first, last in ((0x3000, 0x303F), (0x3100, 0x312F), (0xFF00, 0xFFEF)):
+        characters |= set(range(first, last + 1))
+    return sorted(characters)
+
+
 JAPANESE_BLOCKS = (
     (0x3000, 0x303F),  # CJK symbols and punctuation
     (0x3040, 0x309F),  # Hiragana
@@ -189,12 +213,13 @@ def japanese_characters(kanji=()):
     return sorted(characters)
 
 
-RECIPES = ("common-cjk", "hangul", "japanese")
+RECIPES = ("common-cjk", "hangul", "japanese", "traditional")
 """The character sets a face in fonts.json may be cut to.
 
 common-cjk is cjk_characters() with the general standard table, hangul is
 hangul_characters(), japanese is japanese_characters() with the kanji of
-JIS X 0208 and the Jōyō and Jinmeiyō kanji.
+JIS X 0208 and the Jōyō and Jinmeiyō kanji, and traditional is
+traditional_characters(), Big5's characters.
 """
 
 
@@ -202,13 +227,14 @@ def unihan_characters(recipe, unihan):
     """The code points a recipe reads from the Unihan archive at unihan.
 
     The general standard table for common-cjk, the Japanese kanji for
-    japanese, and none for hangul, which does not read the archive.
+    japanese, and none for hangul and traditional, which do not read the
+    archive.
     """
     if recipe == "common-cjk":
         return general_standard_characters(unihan)
     if recipe == "japanese":
         return japanese_kanji(unihan)
-    if recipe == "hangul":
+    if recipe in ("hangul", "traditional"):
         return set()
     raise ValueError(f"{recipe!r} is not a recipe")
 
@@ -217,6 +243,8 @@ def recipe_characters(recipe, from_unihan=()):
     """The code points a recipe keeps, with from_unihan, what it reads from the Unihan archive."""
     if recipe == "hangul":
         return hangul_characters()
+    if recipe == "traditional":
+        return traditional_characters()
     if recipe == "common-cjk":
         return cjk_characters(from_unihan)
     if recipe == "japanese":
@@ -602,8 +630,9 @@ def cut_cjk_face(collection, unihan, face, out, count, recipe="common-cjk"):
 
     The recipe is common-cjk, cjk_characters() with the general standard
     table read from unihan, japanese, japanese_characters() with the kanji
-    read from unihan, or hangul, hangul_characters(), which does not read
-    unihan. Runs in the fontTools environment (--cut-face). Layout tables
+    read from unihan, hangul, hangul_characters(), or traditional,
+    traditional_characters(). Hangul and traditional do not read unihan.
+    Runs in the fontTools environment (--cut-face). Layout tables
     are dropped, since the engine shapes nothing, and the hinting kept; the
     font's modification time is left as it was, so the output depends only
     on its input.
@@ -662,6 +691,17 @@ def self_test():
         problems.append("the Japanese character set holds Hangul")
     if any(ord(character) in japanese for character in "们这说"):
         problems.append("the Japanese character set holds simplified Chinese characters")
+    traditional = traditional_characters()
+    if len(traditional) != TRADITIONAL_COUNT:
+        problems.append(
+            "the Traditional Chinese character set holds "
+            f"{len(traditional)} characters, not {TRADITIONAL_COUNT}"
+        )
+    for sample in ("繁體中文", "軟體", "資訊", "網路", "螢幕", "後臺裡為"):
+        if any(ord(character) not in traditional for character in sample):
+            problems.append(f"the Traditional Chinese character set lacks {sample}")
+    if any(ord(character) in traditional for character in "国这软们"):
+        problems.append("the Traditional Chinese character set holds simplified characters")
     for problem in problems:
         print(f"fonts self-test: {problem}")
     if problems:
@@ -669,8 +709,9 @@ def self_test():
     print(
         f"fonts self-test: {len(data['downloads'])} downloads, {len(data['fonts'])} fonts, "
         f"{len(characters)} CJK characters besides the general standard table, "
-        f"{len(hangul)} Hangul characters and {len(japanese)} Japanese characters "
-        f"besides the Unihan kanji, as expected"
+        f"{len(hangul)} Hangul characters, {len(japanese)} Japanese characters "
+        f"besides the Unihan kanji, and {len(traditional)} Traditional Chinese "
+        f"characters, as expected"
     )
     return 0
 

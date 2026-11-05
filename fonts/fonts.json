@@ -40,6 +40,14 @@
       "face": 2,
       "licence": "NotoSansCJK-OFL.txt",
       "sha256": "1bff16d425a0bc5048fddb7d33d2a59e08647d4a29380a348ccaabcbd89a29f2"
+    },
+    "NotoSansCJKtc-Bold.otf": {
+      "characters": "traditional",
+      "count": 13879,
+      "download": "NotoSansCJK-Bold-2.004.ttc",
+      "face": 3,
+      "licence": "NotoSansCJK-OFL.txt",
+      "sha256": "9600804dceb783422e302bb6153fd78c2a0158e7e17303786129d1cbb4ec7458"
     }
   }
 }

@@ -32,7 +32,8 @@ Chinese Characters when --deps (default local/deps) holds the pinned
 Unihan archive, and without it otherwise, which refuses the table's rarer
 characters; the Japanese face's with the Jōyō and Jinmeiyō kanji from the
 same archive, and without it otherwise, which keeps the text to JIS X
-0208; the Korean face's, Hangul, with no download.
+0208; the Korean face's, Hangul, with no download; the Traditional Chinese
+face's, Big5, with no download.
 
 Every other character is drawn where the manifest's text says. A language
 whose text needs the modern fonts (text: {needs: modern-fonts}) draws it
@@ -451,6 +452,11 @@ def cut_characters(
             else:
                 report.note("the Japanese face is not built: characters are checked against its recipe")
                 held |= set(font_cut.japanese_characters(font_cut.japanese_kanji(unihan)))
+        if "traditional" in recipes:
+            report.note(
+                "the Traditional Chinese face is not built: characters are checked against its recipe"
+            )
+            held |= set(font_cut.traditional_characters())
         if "common-cjk" not in recipes:
             return held
         unihan = unihan_archive(deps)

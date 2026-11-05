@@ -306,7 +306,8 @@ A new face takes, in one commit:
   licence, SHA-256);
 - its character set in `tools/fonts.py`, documented there, and its self-test;
 - `tools/check.py` checking the pack's characters against that set before
-  the face is built, as it does for the Chinese, Korean and Japanese faces;
+  the face is built, as it does for the Simplified Chinese, Traditional
+  Chinese, Korean and Japanese faces;
 - tests beside the Chinese, Korean and Japanese ones, `fonts/README.md` and
   this repository's README.
 
