@@ -336,7 +336,7 @@ Title-screen words that must fit a narrow button use the short forms
 `একক` and `অনেকজন` (the word Multiplayer, where it has room, is
 `মাল্টিপ্লেয়ার`). Apply is `প্রয়োগ`, also in `Applied in this order`. A
 setting that takes effect later (applies at the next match, when the Library
-closes) is `লাগে`. Set, Place, Assign group and the bookmarks stay `বসাও`.
+closes) is `কার্যকর হয়`. Set, Place, Assign group and the bookmarks stay `বসাও`.
 
 ## 7. Open Annihilation's interface
 

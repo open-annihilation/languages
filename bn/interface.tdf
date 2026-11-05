@@ -1116,7 +1116,7 @@
 
 [Applies at next match]
 	{
-	bn=পরের লড়াইয়ে লাগে;
+	bn=পরের লড়াইয়ে কার্যকর হয়;
 	}
 
 [Off: it plays as 3.1c.]
@@ -2076,7 +2076,7 @@
 
 [{added}.]
 	{
-	bn={added}.;
+	bn={added}।;
 	}
 
 [{added} The new files are used from the next start of Open Annihilation.]
@@ -2526,7 +2526,7 @@
 
 [{game}.]
 	{
-	bn={game}.;
+	bn={game}।;
 	}
 
 [{n} mods]
@@ -6431,12 +6431,12 @@
 
 [Choosing another base game turns on all of its expansions and unloads the mod you are playing ({mod}). The change applies when the Library closes.]
 	{
-	bn=অন্য মূল গেম বেছে নিলে তার সব এক্সপানশন চালু হয় এবং তুমি যে মোড খেলছ ({mod}) সেটা সরে যায়। বদল লাগে লাইব্রেরি বন্ধ হলে।;
+	bn=অন্য মূল গেম বেছে নিলে তার সব এক্সপানশন চালু হয় এবং তুমি যে মোড খেলছ ({mod}) সেটা সরে যায়। বদল কার্যকর হয় লাইব্রেরি বন্ধ হলে।;
 	}
 
 [Choosing another base game turns on all of its expansions. The change applies when the Library closes.]
 	{
-	bn=অন্য মূল গেম বেছে নিলে তার সব এক্সপানশন চালু হয়। বদল লাগে লাইব্রেরি বন্ধ হলে।;
+	bn=অন্য মূল গেম বেছে নিলে তার সব এক্সপানশন চালু হয়। বদল কার্যকর হয় লাইব্রেরি বন্ধ হলে।;
 	}
 
 [Choosing it asks for the demo installer, then copies it. It takes no expansions.]
@@ -6636,7 +6636,7 @@
 
 [Full screen at this size, or a window of it. Applies when you press OK.]
 	{
-	bn=এই মাপে পুরো পর্দা, বা এই মাপের উইন্ডো। ঠিক চাপলে লাগে।;
+	bn=এই মাপে পুরো পর্দা, বা এই মাপের উইন্ডো। ঠিক চাপলে কার্যকর হয়।;
 	}
 
 [GAME CONTENT]
@@ -7036,7 +7036,7 @@
 
 [The display's own pixel density (Retina on a Mac). Applies from the next start.]
 	{
-	bn=পর্দার নিজের পিক্সেল ঘনত্ব (Mac-এ Retina)। পরের শুরু থেকে লাগে।;
+	bn=পর্দার নিজের পিক্সেল ঘনত্ব (Mac-এ Retina)। পরের শুরু থেকে কার্যকর হয়।;
 	}
 
 [The expansion holds {name}, which it does not have.]
@@ -7251,7 +7251,7 @@
 
 [Turning it on applies when the Library closes.]
 	{
-	bn=চালু করলে লাইব্রেরি বন্ধ হওয়ার পর লাগে।;
+	bn=চালু করলে লাইব্রেরি বন্ধ হওয়ার পর কার্যকর হয়।;
 	}
 
 [Turning them on applies when the Library closes.]
@@ -7286,7 +7286,7 @@
 
 [Units each player can have. Applies from the next game.]
 	{
-	bn=প্রত্যেক খেলোয়াড়ের যত ইউনিট থাকতে পারে। পরের লড়াই থেকে লাগে।;
+	bn=প্রত্যেক খেলোয়াড়ের যত ইউনিট থাকতে পারে। পরের লড়াই থেকে কার্যকর হয়।;
 	}
 
 [Up]
@@ -7331,12 +7331,12 @@
 
 [What guarding builders do. Applies from the next game.]
 	{
-	bn=পাহারা দেওয়া নির্মাতা কী করে। পরের লড়াই থেকে লাগে।;
+	bn=পাহারা দেওয়া নির্মাতা কী করে। পরের লড়াই থেকে কার্যকর হয়।;
 	}
 
 [What patrolling builders do. Applies from the next game.]
 	{
-	bn=টহল দেওয়া নির্মাতা কী করে। পরের লড়াই থেকে লাগে।;
+	bn=টহল দেওয়া নির্মাতা কী করে। পরের লড়াই থেকে কার্যকর হয়।;
 	}
 
 [Locate Total Annihilation Game Files]
@@ -14776,22 +14776,22 @@
 
 [Turning it on applies when the Library closes, and then Play now works.]
 	{
-	bn=চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় লাগে, তারপর এখন খেলো কাজ করে।;
+	bn=চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় কার্যকর হয়, তারপর এখন খেলো কাজ করে।;
 	}
 
 [Turning it on applies when the Library closes, and then Use now works.]
 	{
-	bn=চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় লাগে, তারপর এখন ব্যবহার কাজ করে।;
+	bn=চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় কার্যকর হয়, তারপর এখন ব্যবহার কাজ করে।;
 	}
 
 [Turning them on applies when the Library closes, and then Play now works.]
 	{
-	bn=এগুলো চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় লাগে, তারপর এখন খেলো কাজ করে।;
+	bn=এগুলো চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় কার্যকর হয়, তারপর এখন খেলো কাজ করে।;
 	}
 
 [Turning them on applies when the Library closes, and then Use now works.]
 	{
-	bn=এগুলো চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় লাগে, তারপর এখন ব্যবহার কাজ করে।;
+	bn=এগুলো চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় কার্যকর হয়, তারপর এখন ব্যবহার কাজ করে।;
 	}
 
 [U]
