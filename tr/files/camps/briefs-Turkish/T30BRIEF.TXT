@@ -1,0 +1,14 @@
+Misyon T30: Kaya Şekeri Dağları
+
+Düşman füzyon santralinin yaklaşık yerini üç noktadan saptamak üzere üç radar kulesi yerleştirdik. CORE, enerji kaynaklarımızı aynı yolla bulmak istiyor.
+
+Radar kulelerini ilk inşa eden inşaat Kbotu bir çatışmada ağır hasar aldı. Yine de bölgedeki dost birimleri onarabiliyor.
+
+Düşmanın üç radar kulesini de bulup yok et. Düşmanın bizim radar kulelerimizden herhangi birini yok etmesini de önle.
+
+Öneriler:
+Her radar kulesini savunmak için birkaç birim bırak, gerisini keşfe çıkar. Yalnız bir düşman birimi görürsen radar kulelerimizi bulamadan peşine düşüp yok et.
+Savaş taktikleri:
+Radarı izle. Düşman saldırısının ilk uyarısı oradan gelir.
+
+Bir biriminin saldırı altında olduğunu söyleyen bir mesaj görürsen F3'e basarak ekranı o birime ortalayabilirsin.

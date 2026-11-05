@@ -1,0 +1,11 @@
+MİSYON 21.1CORE
+
+İSTİHBARAT HATTI:
+Aegus, Empyrrean'ın uydusu. ARM ana gezegenine son taarruz için kusursuz bir toplanma bölgesi olacak. Uydunun düşük yerçekimi, atmosferinin ve denizlerinin olmaması bunu bir kara birimi görevi yapar. ARM Galaktik Kapısı, Empyrrean istilası için kritik.
+
+&RARM Kapısı'nı ele geçir.&
+
+&R*UYARI*UYARI*UYARI*&
+&RARM son Kapı'yı çökertme sırasına aldı. Kapı çökmeden onu ele geçir.&
+
+HEMEN YERİNE GETİR.

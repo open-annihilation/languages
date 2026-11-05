@@ -1,0 +1,12 @@
+Misyon T46: Çelik kale
+
+CORE Komutanı güçlü savunulan bir ateş üssü kurdu. Düşman kuvvetleri yok edilmeden röle istasyonu kurmaya ya da bu bölgenin ötesine ilerlemeye cesaret edemeyiz.
+
+Üssü ve içindekileri yok et.
+
+Öneriler:
+Hafif birimlerle başarmak istersen birkaç araç fabrikası daha inşa et ve onlara Flash tankı üretmelerini emret. Her fabrikayı aralıksız üretimde tutacak kadar Flash tankını sıraya koy.
+
+Savaş taktikleri:
+Onlarca inşa emrini çabucak sıraya koymak için fabrikalara birim üretme emri verirken SHIFT tuşunu basılı tut. Her tıklama beş birimi sıraya koyar.
+Bitmiş birimleri tek bir noktaya göndermeleri için fabrikalara emir ver. Bütün fabrikaları seçmek üzere CTRL+F tuşuna bas, sonra GİT'e bas ve haritada stratejik bir yere sol tuşla tıkla.

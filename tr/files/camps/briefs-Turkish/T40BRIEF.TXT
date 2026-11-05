@@ -1,0 +1,20 @@
+Misyon T40: Eşgüdümlü taarruz
+
+ARM, deniz saldırılarında zırhlılara büyük ağırlık verdi. Yakınımızda bir ileri üs kurdular. Kıyı şeridini uçaksavar birimleri sıkı tutuyor.
+
+Her ARM zırhlısını ve inşaat gemisini yok et.
+&YDikkat:&
+ARM, saldırıyı denizaltılarla kesmeye çalışabilir. Amfibi tanklar sürülmeden önce yolun açık olması gerek.
+
+Öneriler:
+Hive hafif uçak gemileri hasarlı uçakları onarabilir. Hava savunmasını çökertip Guardian'ları yok etmek ve Croc'ların kıyıya çıkmasını sağlamak için Rapier'lerini feda etmen gerekebilir.
+
+Savaş taktikleri:
+Birden çok uçak grubunu yönetmenin türlü yolları var:
+
+  1) Farklı türdeki uçakları
+     gruplara ayır (CTRL+# kullan, # 1 ile 9 arasındadır).
+  2) Bütün hava birimlerini seçmek için CTRL+V kullan.
+  3) Bütün taarruz hava birimlerini seçmek için CTRL+P kullan.
+  4) Bir uçak türü seç, sonra aynı türden bütün birimleri
+     seçmek için CTRL+Z kullan.

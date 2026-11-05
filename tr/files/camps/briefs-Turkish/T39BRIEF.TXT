@@ -1,0 +1,16 @@
+Misyon T39: Yerrot Etekleri
+
+&YAcil durum!&
+Açık cevher damarlarını bulma denemelerinin hepsi boşa çıktı. Metal için geri alınacak düşman enkazı da kalmadı. CORE yakına bir Glş. uçak fabrikası kurdu. Sürpriz bir taarruz üssümüzü yok etti.
+
+Sağ kalan birimlerini al ve düşmanın vurucu gücü seni ezmeden Glş. uçak fabrikasını ele geçir.
+
+
+Öneriler:
+Defender'ler ve Flakker'ler en işe yarayanlar oldu, düşman hava filosunu bütünüyle yok ettiler. Bu yüzden birkaç dakika saldırmak güvenli olmalı. CORE çok sayıda sabit savunma kurdu. Bunlar toplu Spider taarruzlarına karşı zayıf.
+
+Savaş taktikleri:
+Bir Spider atışı, düşman birimlerinin kısa bir süre ateşle karşılık verememesini sağlar.
+
+Ele geçirilen düşman birimleri Ateş kes durumundadır ve daimi emirlerini elle değiştirmen gerekir. Çok sayıda ele geçirme yapacaksan CTRL+W tuşuna bas (bütün savaş birimlerini seçer), sonra her birimin emrini Karşılık ver yap. Böylece ele geçirmeye çalıştığın
+fabrikayı yok etmekten kaçınırsın.

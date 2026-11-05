@@ -1,0 +1,13 @@
+MİSYON 4.0004ARME
+CORE madencilik ve iletişim tesislerini bul. Tüm CORE birimlerini yok et.
+
+ÖNCELİK 1
+Empyrrean'daki CORE bulaşması fazla ileri gitti! Sınırdaki CORE madencilik ve iletişim üssünün yok edilmesi CORE veri aktarımını keser ve CORE'u nadir minerallerden yoksun bırakır.
+
+BİLGİ AKIŞI
+&R*UYARI* *UYARI* *UYARI*&
+CORE üssü iyi korunuyor. Görevi bitirecek güce ulaşmak için bir üs kur. Düşman niyetini biliyor ve üzerine Pyro suikast timleri gönderebilir. Koruman için ARM-Zeus modelinden bir Zeus verildi.
+
+&GBirimleri elverdiğince onar.&
+
+SON

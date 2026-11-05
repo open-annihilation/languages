@@ -1,0 +1,10 @@
+Misyon R18: Sivrilerde çekişme
+
+CORE, Kabuk 12'ye aynı anda büyük bir saldırı dizisi başlatıyor. Birimleri üretebildikleri hızla cepheye sürüyorlar. Üssü kendi kuvvetlerinle savun. Sana ayrılacak takviye yok.
+Üssü genişlet ve tüm düşman birimlerini yok et.
+
+Öneriler:
+CORE tankları sivri kayalıklarda zayıf kalır. Yapabilirsen düşmanla orada çarpış. Üssü korumak için ağır tahkimat da inşa etmek isteyebilirsin.
+Savaş taktikleri:
+Bir inşaat birimi seçiliyken M kısayol tuşuyla Onar işaretçisini hızla aç.
+İşaretçi hasarlı birimlerin üzerine gelir.

@@ -1,0 +1,11 @@
+Misyon T19: Kudzu Üssü
+
+Kudzu Cangılı denen bölgede büyük bir muharebe koptu.  Kuvvetlerimiz, dönüp ele geçirmek üzere birçok CORE Metal çıkarıcıyı ve Moho madenini sağlam bıraktı.  Ama CORE bazı ARM inşaat birimlerini ele geçirdi ve yakınlarda bir üs kurmak için teknolojimizi kullandı.
+
+Kudzu Üssü'ne dal ve bütün CORE Metal çıkarıcılarını ve Moho madenlerini yok et. Üssün tamamını yok etmek gerekmez.
+
+Öneriler:
+Metal çıkarıcılar çoğu zaman ücra yerlerde gizlidir.  Ağaçların arasına gizlenmiş birimleri bulmak için Radar kulesi kurmak iyi bir yoldur.
+
+Savaş taktikleri:
+Bütün radar birimlerini seçmek için Ctrl+R kullan.  Kapsama menzilini görmek için radar haritasına bak.

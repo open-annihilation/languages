@@ -1,0 +1,15 @@
+Misyon T01: Hava Taarruzu
+
+İSTİHBARAT:
+Bir ARM hava birliği, Astrede Kıyısı'ndaki görev sektörüne yöneliyor.
+
+Yaklaşan saldırıya karşı Füzyon santralini savun.
+
+Öneriler:
+Uçak fabrikasını, ürettiği her uçak Füzyon santralinin üzerinde kendiliğinden devriye gezecek şekilde ayarla.
+
+Bir İnşaat Kbotunu Füzyon santralini korumaya ver. Santral hasar alınca onu kendiliğinden onarır.
+
+
+Savaş taktikleri:
+Bir fabrikanın DEVRİYE düğmesi, ürettiği bütün birimleri bir devriye yoluna koyar.  Bunun için fabrikayı seç, DEVRİYE düğmesine tıkla, sonra devriyenin öbür ucunu belirlemek için haritaya ya da radar ekranına tıkla.  Son adımda Shift tuşunu basılı tutmak birden çok devriye noktası koymanı sağlar.

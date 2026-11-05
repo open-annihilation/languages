@@ -1,0 +1,16 @@
+Misyon T44: Lazer ovası
+
+Düşman ARM Komutanı, mevzilerimize çok sayıda küçük birimle yüklenir. Flash tanklarıyla bir saldırı bekliyoruz. Düşmanın bu son yüklenmeden önce seni bir dizi küçük saldırıyla oyalaması beklenir.
+
+Düşman saldırılarını püskürt ve küçük birimlere karşı en az bir L.L.T. inşa et.
+
+Öneriler:
+Metal yataklarını bulmak için haritayı keşfet. L.L.T. inşası 2608 birim enerji ister, her atış da yirmi birim enerji harcar. Bu yüzden ilk lazer silahından önce dört ya da beş güneş toplayıcı inşa etmek isteyeceksin.
+
+
+Savaş taktikleri:
+SHIFT tuşuyla emirleri üst üste dizmeyi öğrenirsen oyununu hızlandırırsın. Böylece neredeyse her birime birden çok emir verebilirsin. Birim ilk emri bitirince kendiliğinden sonrakine geçer.
+
+Örneğin Komutanından bir güneş toplayıcı inşa etmesini isteyebilirsin. SHIFT tuşunu basılı tutup ek emirler ver. Güneş toplayıcının yerini gösteren yeşil bir dikdörtgen belirir. Bu dikdörtgenleri görmek, birden çok inşa emrini sıraya koyarken birimleri üst üste koymanı önler.
+
+Emirleri sıraya koymak için SHIFT tuşunu kullanırsan bir birime onu meşgul edecek kadar emri çabucak verir, dikkatini başka yere çevirebilirsin.

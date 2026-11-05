@@ -1,0 +1,12 @@
+Misyon T14: Nhanons Avı
+
+CORE'un Nhanons Nehri'nin kuzeyinde bir hava üssü kurduğunu düşünüyoruz.  Bu üssü bul ve yok et.
+
+Kbot birliğini sığlıktan karşıya geçir ve CORE Glş. uçak fabrikasını yok et.
+
+Öneriler:
+Saldırı açısı değişsin diye uçaksavar birimlerini yay.  Bu, isabet şansını artırır ve düşman uçaklarından alınan hasarı azaltır.
+Savaş taktikleri:
+İnşaat Kbotları hasarlı birimleri onarabilir. Bunu çabuk yapmak için inşaat birimini seç, M'ye bas, sonra onarmak istediğin hasarlı birime sol tuşla tıkla.
+
+Sağ tık arayüzünü kullanıyorsan inşaat birimini seç, sonra hasarlı birime sağ tuşla tıkla.

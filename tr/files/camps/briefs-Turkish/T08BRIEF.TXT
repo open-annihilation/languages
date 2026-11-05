@@ -1,0 +1,9 @@
+Misyon T08: Bertha Temizliği
+
+ARM süprüntüsü bir Bertha ateş üssü kurdu. Yok edilirse ARM kuvvetleri çekilmek zorunda kalır.  CORE Prime Sektör 9387'yi bütün uzun menzilli Bertha toplarından temizle.
+
+Öneriler:
+Sabit savunmalara uzun menzilden saldırmak için Diplomat'larını ve gezici radar birimlerini kullan.  Birimlerini hareket halinde tut.
+
+Savaş taktikleri:
+Aynı türden bütün birimleri seçmek için Ctrl+Z kullan.  Örneğin bir Reaper seç (ağır tank), sonra diğer bütün Reaper'leri seçmek için Ctrl+Z kullan.

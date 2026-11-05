@@ -1,0 +1,17 @@
+Misyon T41: Sessiz katiller
+
+Basit keşif görevleri yapmak yerine Tessop Körfezi'ndeki gizli üssümüz artık düşmana açıkça saldırmaya başlamalı. Bu yüzden azami sessizlik koşullarını bitir ve ek denizaltı inşa etmeye başla.
+
+ARM, körfezin iki yakası arasında ek savaş malzemesi taşımak için çaresiz. Onları durdurursak bu gizli karakol düzenli bir üretim merkezi olur.
+
+Tersanelerini ayakta tutarak bütün hafif uçak gemilerini ve en az beş Hulk nakliyesini yok et. Denizaltıların başka yerde acil gerektiğinden bu görevde yirmiden fazlasını kaybetme.
+Öneriler:
+Denizaltılarının kısa görüş yarıçapı hedef bulmayı zorlaştırır. Denizaltılarını yaymak isteyebilirsin. Bir hedef görülünce saldırı için denizaltıları onun önüne sür. Hasarlı denizaltılar onarım için üsse geri gönderilmeli.
+
+
+
+Savaş taktikleri:
+Bu görevin bilgilendirmesi karmaşık. F2'ye basıp ardından BİLGİLENDİRME'ye tıklayarak emirlerini yeniden okuyabilirsin.
+
+İnşaat gemilerine bir tersaneyi KORU emri ver. Nanotornavidalarıyla tersanenin
+üretimine yardım ederler.

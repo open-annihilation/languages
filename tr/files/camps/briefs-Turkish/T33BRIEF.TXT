@@ -1,0 +1,11 @@
+Misyon T33: Yrdac Adalarını düşürmek
+
+Yrdac Adaları'ndaki birleşik hava ve deniz üssü üç saldırıya başarıyla direndi. Bir ARM bilim insanının, olağan jeotermal kaynaklardan uzak bu bölgedeki jeotermal santralde bir yenilik yarattığı düşünülüyor. Nükleer füze bombardımanı yerine Yrdac Üssü'nü bizzat yık.
+Haritanın kuzey bölgesindeki bütün metal çıkarıcıları ve Moho madenlerini yok et, jeotermal santrali de ele geçir.
+
+Öneriler:
+Önceki taarruzlar büyük topların çoğunu yok ettiğinden Yrdac Üssü'nün kıyı bombardımanına açık olduğu düşünülüyor. Gemilerine hedef göstermesi için Fink'leri kullan.
+Savaş taktikleri:
+ENTER tuşuna bas, sonra mesaj satırına '+shootall' yaz. Bu, birimlerinin düşman birimlerinin yanında binaları da kendiliğinden hedeflemesini sağlar. Bu ayarı kapatmak için kodu yeniden yaz.
+
+Hasarlı birimleri sık sık onar. Devriye emrindeki bir inşaat birimi, civardaki hasarlı dost birimleri kendiliğinden onarır.

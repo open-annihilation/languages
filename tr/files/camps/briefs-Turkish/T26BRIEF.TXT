@@ -1,0 +1,11 @@
+Misyon T26: Krocark Ateş Üssü Kompleksi
+
+Krocark Ateş Üssü Kompleksi, Drenigal Şehri'nin ARM haşeresi tarafından hâlâ güçlü savunulan tek bölümüdür. Bu güneybatı kesiminin denetimi ele geçerse şehrin geri kalanı kuvvetlerimize kolayca düşer.
+
+Big Bertha'ları ve füzyon reaktörlerini yok et.
+
+Öneriler:
+Bertha ateşinden kaçmak için hareket halinde kal. Düşmanı bulmak için radar haritasını kullan.
+
+Savaş taktikleri:
+Uzak düşman birimlerini saptamak için gezici radar Informer birimlerini kullan. Uzun menzilli Diplomat'lar ve gezici topçu, birliklerinin gerisinde durunca en etkilidir.

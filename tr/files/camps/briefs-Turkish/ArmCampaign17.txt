@@ -1,0 +1,12 @@
+MİSYON 17.003ARMR
+CORE bir nükleer füze silosu kurdu! Siloyu bul ve ele geçir.
+
+&YÖNCELİK&
+CORE bahsi yine yükseltti. Enerji salımı, bu bölgede büyük bir füze silosunun inşasını bitirdiklerini gösteriyor. Silonun nükleer başlıklı füzeler taşıdığı sanılıyor. Siloyu yalnızca tehdidi kaldırmak için değil, temsil ettiği teknolojiyi almak için de ele geçirmeliyiz.
+
+BİLGİ AKIŞI
+Silo iyi korunuyor olmalı ve Brooban Adası denen yerde bulunabilir. Hava ve denizden karma bir kuvvet en etkili olur.
+
+&RMeteor yağmurlarına hazır ol.&
+
+SON

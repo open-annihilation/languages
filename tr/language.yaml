@@ -1,0 +1,22 @@
+# SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+# SPDX-License-Identifier: GPL-3.0-only
+
+# Turkish, built by tools/build.py (README.md). Windows-1252 holds ç, ö and
+# ü, but not ğ, ı, İ or ş, and 3.1c's menu fonts lack those letters, so the
+# pack is drawn in the modern fonts, whose sans faces travel with the game.
+# The pack brings no font of its own. Dotted and dotless i are written as
+# Turkish spells them (i/İ and ı/I); nothing here changes their case.
+oalang: 1
+tag: tr
+name: Türkçe
+english-name: Turkish
+word: Turkish
+version: "1"
+locales: [tr, tr-TR, tr-CY]
+fallbacks: []
+text: {needs: modern-fonts}
+unicode: true
+warmup: warmup.txt
+packaging: {revision: 1, date: 2026-11-05, packager: open-annihilation/languages tools/build.py}
+homepage: https://github.com/open-annihilation/languages
+requires: {engine: ">= 0.8.0"}

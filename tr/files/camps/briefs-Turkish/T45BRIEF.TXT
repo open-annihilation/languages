@@ -1,0 +1,14 @@
+Misyon T45: Zümrüt Denizaltı Dağı
+
+İstihbarat, ARM'ın Zümrüt Denizaltı Dağı'nın tam kuzeyinde bir deniz üssü kurduğunu belirtiyor.
+
+Sekizinci Filo'yu kuzeye götür ve karşılaştığın her düşmanı yok et.
+
+
+Öneriler:
+Searcher'lerini düşmanın ağır gemilerinden iyice uzak tut. Bölgede yeni görülen düşman torpido bombardıman uçaklarını düşürmek için onlara gerek var.
+
+Savaş taktikleri:
+Ekranın sol üst köşesindeki radar haritası, savaş alanının genel görünümünü verir. Radar haritasındaki kırmızı noktalar orada düşman olduğunu gösterir. Yanıp sönen mavi noktalar görürsen birimlerin saldırı altındadır.
+
+Radar haritasında sağ fare tuşuna tıklamak ana ekranı o noktaya ortalar. Sağ tık arayüzünde sol fare tuşunu kullan.

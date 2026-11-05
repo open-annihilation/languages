@@ -1,0 +1,11 @@
+Misyon T27: Destral II istilası
+
+ARM, güneyde güçlü bir hava ve deniz gücü kurmayı başardı.
+
+ARM'ın bütün jeotermal santrallerini ve Glş. tersanelerini yok et. Görevi başarmak için bir saatin var.
+
+Öneriler:
+Stratejistlerimiz iki yolun mümkün olduğunu belirledi: deniz üssüne Valkyrie hava nakliyeleriyle çıkarma ya da hava üssüne Envoy birlik nakliyeleriyle amfibi çıkarma.
+
+Savaş taktikleri:
+ENTER tuşuna bas ve mesaj satırına '+sing' yaz. Birimlerini her hareket ettirişinde sana şarkı söylerler. Koroyu durdurmak için '+sing' bir kez daha yaz. Stratejik açıdan yararlı bir hile kodu değildir ama bu uzun görevde sana eşlik edebilir.

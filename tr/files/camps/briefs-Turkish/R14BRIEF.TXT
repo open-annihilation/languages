@@ -1,0 +1,8 @@
+Misyon R14: Labrodorite sürprizi
+
+Cevher bakımından zengin Labrodorite ovasında, ARM birliklerinin arasında bir düşman Komutan görüldü. ARM Komutanını bul ve yok et. Hiçbir ARM biriminin batıya kaçmasına izin verme.
+
+Öneriler:
+Kuzeydoğudaki ARM savunmalarına dikkat et.
+Savaş taktikleri:
+Düşman Komutanı ararken dairesel devriyeler kullan. Bunun için bir ya da daha çok birim seç, DEVRİYE düğmesine tıkla, sonra Shift tuşunu basılı tutarak radar haritasının her köşesinin yakınına tıkla. Bu, haritanın tüm çevresi boyunca bir devriye yolu kurar.

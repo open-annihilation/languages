@@ -1,0 +1,11 @@
+Misyon R13: Vetes baskını
+
+CORE, Vetes lav kubbesine bir üs kurmuş ve iç içe savunmalar örmüş. Hızlı gezici kuvvetini ormanın içinden geçir ve CORE üssünü yok et. Her şeye saldır ama tüm Glş. Kbot laboratuvarlarını ve Füzyon santrallerini yok ettiğinden emin ol.
+
+Kuvvetlerini onarmak için inşaat birimlerini kullan.
+
+Öneriler:
+Hedeflerini bulana kadar mümkün olduğunca düşmanla çarpışmaya girme. Birimlerini bir arada tut.
+
+Savaş taktikleri:
+Birim hasar çubuklarını açmak için tilde (~) tuşuna bas. Bu çubuklar her birimin aldığı hasarı gösterir. Bir birim bir gruba atandıysa hasar çubukları görünürken grup numarası da görünür. Hasar çubuklarını kapatmak için tilde (~) tuşuna yeniden bas.

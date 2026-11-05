@@ -1,0 +1,14 @@
+Misyon I10: Artçıyı ezmek
+
+ARM'ın ana gezegeni Empyrrean'daki ilerleyişimiz neredeyse bitti. Kuvvetleri yenilmez ordumuzdan kaçıyor, çaresizce toparlanmaya çalışıyor. İlerleyişimizi geciktirmek için geride bir "kahramanlar çetesi" bırakmışlar.
+
+Bütün ARM birimlerini olabildiğince çabuk ez. Zaman dar.
+
+Öneriler:
+Empyrrean'ın bu bölgesinde metal cevheri az. Hiçbir şey kurmamayı da seçebilirsin. Yine de bir ya da iki güneş toplayıcı kurmak, art arda D-Gun atışı için ek enerji sağlar.
+
+
+Savaş taktikleri:
+Komutanın D-Gun'u oyundaki en güçlü silahtır. Düşmanlar bir aradaysa çoğu zaman tek atışla birkaçını yok edebilirsin.
+
+D-Gun ateşlemek için 400 enerji ister ve geride enkaz bırakmaz. D-Gun imlecini çabuk çıkarmak için klavyede D yaz.

@@ -1,0 +1,13 @@
+Misyon T21: Zipper Saldırısı
+
+Harrison Sıcak Noktası, Empyrrean üzerinde jeotermal bakımdan etkin bir bölgedir.  CORE'un burada büyük ve savunması zayıf bir üssü var. Bölgede şimdiye kadar karşısına çıkan olmadı.
+
+Enerji kaynaklarına odaklanan bir yıldırım vuruşu için Zipper kuvvetini içeri sok.  Bütün Jeotermal santralleri ve Füzyon santrallerini ne pahasına olursa olsun yok et.
+
+Öneriler:
+CORE savunma hattını yok etmeye çalışma. Yanından hızla geç ve saldırını daha savunmasız bölgelerine sürdür.  Dikkatli ol.  Geride dolaşan devriyeler ve fabrikalar var.  Görev hedeflerinden sapma.
+
+
+
+Savaş taktikleri:
+Oyun çalışırken birimlerinin binaları kendiliğinden hedeflemesini istiyorsan Enter tuşuna bas, sonra mesaj satırına '+shootall' yaz.  Zipper'lerin zırhı incedir. Bir Füzyon santrali patlarken yanında çok fazla Zipper olmasın.

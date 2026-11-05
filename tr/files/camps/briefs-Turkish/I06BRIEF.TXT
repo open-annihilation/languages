@@ -1,0 +1,12 @@
+Misyon I06: Şafak yönergesi
+
+Opal Gölleri'ne başarılı saldırımızdan sonra sağlam kalan Brawler birimimiz az. Bu birimler Ametist Ovası'ndaki ileri CORE üssünü yok etmek için hazır.
+
+Düşman uçak fabrikasını ara ve yok et. Düşman avcı uçaklarına karşı savunman az, bu yüzden çabuk ol. Fabrika haritanın güneybatı köşesinde.
+
+
+Öneriler:
+Düşman Cobra birimlerine dikkat et. Uçaklarını çok çabuk yok edebilirler.
+
+Savaş taktikleri:
+Düşman avcılarını hedeflemenin en kolay yolu radar haritasıdır. Saldıran birimlerini seç, SALDIR düğmesine bas, sonra düşman avcının radar izine sol tuşla tıkla.
