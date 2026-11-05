@@ -1,0 +1,18 @@
+Misyon T34: Kara kutu
+
+&RDikkat - En yüksek öncelik&
+Kısa süre önce ARM topraklarına bir casus füze fırlatıldı. Herhangi bir yayın yapılamadan haberleşme sistemleri yok edildi. Füze kapsülü, düşüşünde gezegenin çevresinin üçte ikisini kat ederek sonunda Pikas Şehri'ne düştü.
+
+Füze kapsüllerimize yakın zamanda yapılan iyileştirme, yörüngeden düşüşe dayanabilen bir kara kutu eklenmesiydi. Bu kara kutunun bellek bankalarında, dünyanın yarısından fazlasındaki ARM savunmalarını gösteren yörünge görüntüleri var.
+
+Pikas Şehri'ne taarruz et ve bölgenin bir yerinde, bir kratere gömülü olduğu sanılan bu uydunun kalıntılarını ele geçir. Bu kratere ulaşan her Glş. inşaat aracı bilgiyi kurtarabilir.
+
+Nakliyelerinin bazılarında Glş. inşaat araçları var. Onları kaybetme!
+
+Öneriler:
+Nakliyelerin güvenle kıyıya inmesi için kara savunmalarını gemilerinle yok et.
+Savaş taktikleri:
+Nakliyeleri boşaltmayı hızlandırmak için BOŞALT düğmesine tıkla. Sonra SHIFT tuşunu basılı tutarken kıyı boyunca birkaç kez sol tuşla tıkla. Bu, bir anda birden çok boşaltma emrini sıraya koyar. Birimleri üst üste yığmamak için boşaltma noktalarını yay.
+
+
+&RDikkat:& Komutanın silahsız Valkyrie nakliyesinde. Bu hava nakliyesi yok edilirse Komutanın da yok olur.

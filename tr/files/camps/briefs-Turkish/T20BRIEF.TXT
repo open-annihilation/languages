@@ -1,0 +1,10 @@
+Misyon T20: Titanyum Yumruk Körfezi
+
+Nrowb VII üzerindeki ARM donanması, Titanyum Yumruk Körfezi'ndeki limanlarına dönen bir nakliye konvoyuna eşlik ederken görüldü.  Yokluklarından yararlanacağız.
+
+Güneydeki limanlarına kadar savaşarak gir. Bulduğun bütün Glş. tersaneleri ve zırhlıları yok et.
+Öneriler:
+İlk saldırıda hasarın çoğunu Snake'ler emsin.  Sonarı ve görüş yarıçapı daha iyi olduğu için bir Shark'ı öne almak isteyebilirsin.
+
+Savaş taktikleri:
+Hızlı Shark'larını yavaş Snake'lerin gerisinde tutmak için Shark'lara birinci seviye denizaltıları KORU emri ver.

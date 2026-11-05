@@ -1,0 +1,22 @@
+Misyon R31: Rotrey Deresi
+
+Rotrey Deresi boyunca hayal gücü kıt rakiplerimiz, bölgede ekonomilerini kurmak için bir dizi inşaat birimi indirdi.
+
+Metal çıkarıcılarının çoğunu vuran bir bombardıman uçuşu yaptık. Bedeli ağır oldu.
+
+Toparlanamadan içeri gir ve onları bitir.
+
+Öneriler:
+Biraz metali olan, savunulabilir bir bölgeyi ele geçir ve olabildiğince çabuk üs kur.
+
+
+
+Savaş taktikleri:
+Ana ekranda görünen birim sohbetinin miktarını ayarlayabilirsin.  F2'ye basıp
+Seçenekler menüsünü aç, sonra ARAYÜZ düğmesine tıkla.  BİRİM SOHBETİ düğmesiyle
+KAPALI, ORTA ve TAM seçenekleri arasında geçiş yap.
+
+
+
+Bir birim mesaj bildirdiğinde F3'e bas. Ekran, en son
+bilgi bildiren birimin üzerine ortalanır.

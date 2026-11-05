@@ -1,0 +1,13 @@
+Misyon R03: Buz üssü Baryn
+
+CORE'un üssümüze saldırısı savunmamızı neredeyse ezdi.
+
+En doğuda karşı saldırıya geçeceğiz. Bu, kuvvetlerinin üzerindeki baskıyı birkaç kısa saat hafifletmeli. Düşman saldırısına dayanabilirsen dayan.
+
+Glş. birimlere çabuk ihtiyacımız var. Buz üssü Baryn'i genişlet ve bir Glş. Kbot laboratuvarı inşa et.
+
+Öneriler:
+Jeologlar güneyde metalin daha bol bulunabileceğini düşünüyor.
+
+Savaş taktikleri:
+Mesaj çubuğunu açmak için Enter'a bas ve '+dither' yaz. Bu hile kodu görüş hattının kapsamını görmeyi kolaylaştırır. Keşfedilmiş arazi gri yerine daha koyu bir renkte görünür. Varsayılan ayara dönmek için '+dither' yazısını yeniden yaz.

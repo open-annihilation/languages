@@ -1,0 +1,12 @@
+Misyon R17: Tohum kristali
+
+Görevin, Tohum Kristali Ovası'ndaki bir ARM genişleme girişimini kesmek.
+
+Bir üs kur ve tüm gezici düşman birimlerini yok et. Mümkünse düşman yapılarını ele geçir.
+
+
+Öneriler:
+Bölgeye dağılmış düşmanı bulmak için alanı keşfederken Radar kuleleri kur.
+
+Savaş taktikleri:
+Enkazdan metal geri almak için bir inşaat birimi seç, emir menüsünü açmak için 1 tuşuna bas, GERİ AL kipini seçmek için E tuşuna bas, sonra enkazın üzerine sol tuşla tıkla. Sol tık arayüzünde işaretçi enkazın üzerinden geçerken geri alma işaretçisine döner. Sağ tık arayüzünde işaretçi yalnızca yeşile döner.

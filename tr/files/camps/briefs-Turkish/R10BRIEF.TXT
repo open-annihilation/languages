@@ -1,0 +1,10 @@
+Misyon R10: İki ırmağı geçmek
+
+Geri kalmış ARM, iki ırmağın ötesinde, kuzeybatıdaki bir açıklığa küçük bir üs kurmuş. Açıklıkta birkaç cevher yatağı ve bir Jeotermal santral var.
+
+Düşman Jeotermal santralini yok et ve buhar bacasının hemen kuzeyine bir Glş. araç fabrikası inşa et.
+Öneriler:
+Hafif düşman birimleri İnşaat aracına saldırabilir. Onu dikkatle koru.
+
+Savaş taktikleri:
+Cengelin içinden yol açmak için Leveler birimleri kullan. Bir Leveler seç, A tuşuna bas (SALDIR kısayolu), Shift tuşunu basılı tut ve birbirine bitişik birkaç yerde yere tıkla. Leveler bitki örtüsünü kaldırmak için bastırma ateşi kullanır.

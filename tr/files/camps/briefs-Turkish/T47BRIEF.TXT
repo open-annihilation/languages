@@ -1,0 +1,16 @@
+Misyon T47: Sivri kayalarda gizli
+
+Kabuk 14, orta ovaların büyük bölümünde oluşan sivri kayalarıyla tanınır. ARM, Lav Yarığı Girişi'nin tam karşısındaki bölgeyi sıkı tutuyor.
+
+Girişi geç ve bütün düşman fabrikalarını yok et.
+Öneriler:
+&YGirişi geçmeden önce Komutanının emirlerini GÖRÜNÜR durumundan GİZLİ durumuna çevir!&
+
+Savaş taktikleri:
+Komutanını GÖRÜNÜR durumundan GİZLİ durumuna geçirmek için onu seç ve EMİR düğmesine bas. Üzerinde GÖRÜNÜR yazan bir düğme görmelisin. Bu düğmeye tıklarsan GİZLİ olur. Bir kez daha tıkla, yine GÖRÜNÜR olursun.
+
+Gizliyken Komutan, durumu belli etmek için biraz yarı saydam görünür. Gizliyken düşman birimleri, gizlenme yarıçapına girmedikçe Komutanı göremez. Gizlenme yarıçapını görmek için imleci Komutanının üzerine getir ve SHIFT tuşunu basılı tut. Düşmanın, Komutan görünür olmadan önce ne kadar yaklaşması gerektiğini gösteren küçük bir daire belirir.
+
+Yakında bir radar karıştırıcı yoksa gizli bir birim radarda görünmeyi sürdürür.
+
+Gizlenme büyük enerji ister. Komutan yerinde duruyorsa oyun saniyesi başına 200 enerji, hareket halindeyse oyun saniyesi başına 1000 enerji gerekir.

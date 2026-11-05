@@ -1,0 +1,12 @@
+Misyon R19: Prasad ateş üssü
+
+Bir küme ARM birimini kuşattık ama onları yerinden etmek olanaksız çıktı. Bu ARM birimlerini korumak için Prasad adlı tepeye bir Bertha ateş üssü kurulmuş. Son saldırımız tepedeki tüm İnşaat araçlarını yok etti. Hasarlı birimleri onaramamış olmalılar.
+
+Komutan, kuzeybatıdaki tepede inatçı ARM'ın ateş üssünü ele geçir ya da yok et. Bir saat boyunca tüm düşman karşı saldırılarına dayan.
+
+Öneriler:
+Füzyon reaktörünü ele geçirmek hayati. Bertha ele geçene ya da yok olana kadar hareket et.
+
+
+Savaş taktikleri:
+Bertha birimini ve Füzyon reaktörünü ele geçirmek isteyeceksin. Bertha birimini bulunca Ctrl+A ile tüm birimleri seç ve emirlerini Ateş kes yap. Bu, ele geçirmeden önce birimlerinin Bertha birimini yok etmesini engeller. Ele geçirince tüm sürekli emirleri sıfırla.

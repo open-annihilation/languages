@@ -1,0 +1,12 @@
+Misyon T18: Spider Pususu
+
+CORE plazma topunun uzun menzilli yeteneği lazım: Intimidator.  Askeri istihbarat, CORE'un bu sektöre bir Glş. inşaat aracı gönderdiğini düşündürüyor.  Onu ele geçir.
+Öneriler:
+Düşman kuvvetlerini hızla genişletiyor. Saldırmadan önce fazla oyalanma. Mümkün olan her yerde CORE kuvvetlerini ele geçir ve onlara karşı kullan.  Takviyelerin saldırmasını önlemek için çabuk hareket et.
+
+Hızlı birimleri ele geçirmek zordur. Önce onları felç etmek için Spider'leri kullan.
+
+Savaş taktikleri:
+Ele geçirilince bir birimin sürekli emirleri kendiliğinden Ateş kes olur.  Birimi savaşa sürmeden önce bu emirleri değiştirmek isteyebilirsin.
+
+Bunun için emir menüsüne geç ve Ateş kes'e tıkla. Bu, o birime açık saldırganlık ayarları arasında geçiş yapmanı sağlar.

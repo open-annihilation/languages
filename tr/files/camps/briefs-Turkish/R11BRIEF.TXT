@@ -1,0 +1,13 @@
+Misyon R11: Sektör 6895'te kuşatma
+
+&YAcil durum&
+Bu bir tuzak! CORE seni ana kuvvetlerinden kopardı ve seni bitirmek için yaklaşıyor. Yardım olarak bir Atlas hava nakliyesi gönderiyoruz. Sektör 6895'in güneydoğu köşesine inecek ama on dakika uzakta.
+
+Hava nakliyesi kurtarana kadar dayan, sonra haritanın güney kenarına kaç.
+
+Öneriler:
+Dayanmana yardım edecek küçük bir üs kur. Güneydoğudaki hava nakliyesini gözle. Atlas'ın yok olmasına izin verme.
+
+Savaş taktikleri:
+Komutanını hava nakliyesine yüklemek için nakliyeyi seç ve YÜKLE düğmesine tıkla. Sonra Komutana tıkla.
+Bir nakliye yok olursa taşıdığı tüm birimler de yok olur.

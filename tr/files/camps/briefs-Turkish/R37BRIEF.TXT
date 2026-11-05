@@ -1,0 +1,21 @@
+Misyon R37: Intimidator Sırtı
+
+CORE Komutanı, artık "Intimidator Sırtı" denen tepeye plazma topları kurdu.  Bu tepe çevredeki araziye hükmetti ve üç saldırımıza dayandı.
+
+Kamikaze bir bombardıman, Intimidator'ları besleyen Füzyon santralini yok etti.  CORE yeniden kurarken, kısa bir süre tepe savunmasız.
+
+Tepeye dördüncü saldırının komutasındasın. Bütün Intimidator'ları yok et.
+Öneriler:
+CORE stratejistleri uzun menzilli toplar kurup onları radar karıştırıcılarının arkasına gizlemeye yatkındır.  Topçu düellosuna kapılma. Düşman üssüne ateşle yol açarak gir.
+
+Intimidator'ların asgari menzili yaklaşık yarım ekrandır.  Bir birimi bu mesafenin içine sokarsan Intimidator'lar onu hedeflemez.
+
+Savaş taktikleri:
+Ctrl+W, Komutan dışında silahlı bütün savaş birimlerini seçer.
+
+Pahalı bir birim kurarken, örneğin bir Moho madeni, Komutan dahil birkaç inşaat birimini inşaata yardım ettirebilirsin.
+
+Başka bir birimin inşasına yardım etmek için nanotornavidalı bir ya da daha çok birim seç ve asıl birimi KORU.  Ya da inşa menüsünde ONAR'a bas, sonra inşa halindeki birime sol tuşla tıkla.
+
+Sağ tık arayüzünü kullanıyorsan yardımcı birimleri seç ve sağ tuşla
+inşa halindeki birime tıkla.

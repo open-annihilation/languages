@@ -1,0 +1,16 @@
+Misyon R27: Vulkan ocağı sıcak noktası
+
+Aşınma, Vulkan ocağı bölgesini askeri birimlerin hareketini yönlendiren ve kısıtlayan yüksek, dar kaya sırtlarından bir labirente çevirmiş.
+
+CORE bölgeyi silip süpürdü ve tek bir Araç fabrikası dışında fabrikalarımızı yok etti. Bu fabrikanın inşa yetenekleri ciddi biçimde kısıtlı.
+
+Emrin: Araç fabrikasını koru ve saldıran tüm düşman birimlerini yok et. Takviye yok. Kendi başınasın.
+Öneriler:
+Kalan Merl birimlerinin kavisli roketleriyle sırtların üzerinden ateş et.
+
+Savaş taktikleri:
+Bir fabrikanın inşa menüsünde tıklarken Shift tuşunu basılı tutmak bir seferde beş birimi sıraya koyar. Bir resim griyse o birim bu görevde yoktur.
+
+Merl roketatarlarını uzun menzilde, mümkünse sırtların gerisinde tut. Merl birimlerine hedef gösterecek başka birimler gerekir.
+
+Üssünün yalnızca iki girişi var. Düşman bir geçitten sokulurken birkaç birimin ateş etmesini sağla.

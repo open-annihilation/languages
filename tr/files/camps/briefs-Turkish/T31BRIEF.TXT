@@ -1,0 +1,18 @@
+Misyon T31: Su kıtlığı
+
+Kabuk XIII bölgesindeki bir saldırı, bir düşman inşaat Kbotunu kısmen yok etti. Bu bozuk Kbot, bölgeyi L.L.T. ve radar kuleleriyle doldurdu. Bu birimleri kendi lehine kullanan CORE, bölgede hızla ilerliyor.
+
+Üçüncül sanayileri geliştirmek için CORE, bu dünyada bulunmayan H2O çözücüsünden büyük miktarda istiyor. Casuslarımız, konumunun kuzeybatısındaki bir üste bir hidrasyon santrali buldu.
+Üssüne güçlü taarruzlar bekliyoruz. Düşman hidrasyon santralini yok et ama bu sırada üssünün yok olmasına izin verme. Görevi bitirmek için yirmi dakikan var.
+
+
+Not: Yerel yılın bu döneminde Lambda meteor sürüsünden geçiyorsun. Çarpışma boyunca meteor yağmurları bekle.
+
+Öneriler:
+Ağır hasarlı birimler onarım için üsse geri gönderilebilir.
+İlerleyen düşmanı imha bölgelerine yönlendirmek için ejderha dişlerini uygun yerlere kur.
+
+Savaş taktikleri:
+Birimlerinin ne kadar hasar aldığını göstermek için tilde (~) tuşuna bas. Bu, birimlerinin hangi gruba ait olduğunu da gösterir.
+Bir ekran konumunu işaretlemen gerekirse CTRL+F5 (ya da F6, F7 veya F8) tuşuna bas. F5 (vb.) ile ekranı bu konumda
+yeniden ortala.

@@ -1,0 +1,11 @@
+Misyon T32: Orman yolculuğu
+
+Orman Üssü Sekiz dışındaki bir keşifte inşaat Kbotlarımız, gazi ARM Bulldog ve Zeus mangasının saldırısına uğradı.
+
+Orman Üssü Sekiz'in genişletilmesini sürdür ve ARM varlığını yok et.
+
+Öneriler:
+Takviye yetişene kadar düşmanı geciktirmek için inşaat birimlerinle hafif tahkimat inşa et.
+
+Savaş taktikleri:
+Oyunun temposu başlangıçta fazla hızlıysa eksi (-) tuşuna basarak oyun hızını düşür. Artı (+) tuşu oyun hızını artırır.

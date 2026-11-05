@@ -1,0 +1,13 @@
+Misyon R25: Orman üssü 129
+
+Yorlat Irmağı'nın iki derin kolunun hemen güneyinde düşman bir üs kuruyor. Hava taarruzu bekleyen CORE, Cobra birimlerine yatırım yapmış. Çok sayıda amfibi tankı uçurup ırmakların kuzeyine indirdik.
+Emrin, bölgedeki tüm düşman fabrikalarını yok etmek. Tüm gezici düşman savaş birimlerini yok et.
+
+&YBu görevi bitirmek için yirmi dakikan var.&
+
+Öneriler:
+CORE, kara taarruzlarını yavaşlatmak için Ejderha dişleri kuracak zamanı bulmuş olabilir de, olmamış da. Kurulmuşlarsa onları uçurmak için birkaç tankın yoğun ateşini kullan. Ya da ormanın içinden bir yol açmak Ejderha dişlerinin çevresinden dolaşmanı sağlayabilir.
+Savaş taktikleri:
+Kuvvetlerini iki ya da üç gruba böl ve her birini ayrı hedeflere ver. Grubu seçip Ctrl+# tuşuna basarak onları numaralı grup yap (#, 1 ile 9 arasında bir rakamdır). O grubu sonra seçmek için Alt+# tuşuna bas. Bir birimin grup numarasını görmek için tilde (~) tuşuna bas.
+
+Yalnızca # tuşuna basarak grubu seçmeni sağlayan bir hile kodu var (#, 1 ile 9 arasında bir rakamdır). Bu hileyi açmak için ekranın altındaki mesaj çubuğunu getirmek üzere Enter'a bas. '+switchalt' yaz ve bu seçeneği açmak için Enter'a bas. Atanan numaraya basmak artık o grubu seçer. Bu seçeneği kapatıp varsayılan ayarlara dönmek için '+switchalt' yazısını yeniden yaz.

@@ -1,0 +1,10 @@
+Misyon R35: Yağmur Ormanı İnşaatı
+
+Gelişini beklemeyen ARM, bölgeye yalnızca hafif bir birim perdesi sürdü.  Enerji arzımızı kur ve karşılaştığın bütün düşman kuvvetlerini yok et.
+
+Yılan Omurgası Nehri'nin güneyinde bir yerdeki buhar bacasını bul ve oraya bir Jeotermal santral kur.
+Öneriler:
+Jeotermal santrali kuracak bir inşaat birimi için bir fabrika kur.  Bölgede düşman uçakları görüldü. Fabrikadan uçaksavar birimleri de üret.
+
+Savaş taktikleri:
+Bütün uçakları Ctrl+V ile seç (bütün VToL birimlerini seçer).

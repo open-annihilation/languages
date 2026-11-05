@@ -1,0 +1,11 @@
+Misyon I02: Az Ferahlatıcı Deniz
+
+Akılsız ARM kuvvetleri batıda bir adada küçük bir üs kurdu. Onu yok etmek için Az Ferahlatıcı Deniz'in asitli sularını geç. ARM yol boyunca sabit savunmalar kurmuş.
+
+ARM üssünü yirmi dakika içinde yok et. Dominator birimlerini kaybetme.
+
+Öneriler:
+Üssü güvenli uzaklıktan yok etmek için Dominator birimlerinin uzun menzilli ateş gücünü kullan.
+
+Savaş taktikleri:
+Düşman birimleri ancak birimlerin onların görüş hattına girdiğinde ya da kendilerine ateş açılınca ateş eder. Bu yüzden ilk saldırıda düşmanı Dominator birimleriyle bombala. ARM'ın karşılık verme olanağı böyle azalır.

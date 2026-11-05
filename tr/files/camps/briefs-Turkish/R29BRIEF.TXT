@@ -1,0 +1,13 @@
+Misyon R29: Bekleyiş
+
+Birkaç hafif CORE aracı bölgeye sızdı. Ulaşabildiğin herhangi bir cevher yatağına bir Metal çıkarıcı kur.  Yolundaki bütün düşmanları yok et.
+
+Öneriler:
+Metal yatağını bulmak için keşfi sürdür.  En yakını, başlangıç yerinin hemen kuzeyinde.  Bir Füzyon reaktörün var. Enerji dert değil.
+
+Füzyon reaktörün saldırı altındaysa, yok olmasın diye çabuk geri dön ve onu kurtar.
+
+Savaş taktikleri:
+Bir yapı kurmak için Komutanını seç ve radar haritasının hemen altındaki İNŞA düğmesine tıkla. Komutanın inşa menüsü açılır.  Bu menü, Komutanın kurabildiği birimleri gösterir.  (Bu görevde olmayan birimler gri görünür.)  Bir birim resmine sol tuşla tıkla ve imleci ana haritanın üzerine götür.  Yeşil bir kutu imleci haritada izler.  Yeniden sol tuşla tıklamak yapıyı araziye yerleştirir.
+
+Çerçeve kutusu kırmızıysa birim yerleştirilemez.  Büyük olasılıkla seçtiğin yer engebeli arazidir.  Çerçeve yeniden yeşil olana kadar imleci haritada gezdir.

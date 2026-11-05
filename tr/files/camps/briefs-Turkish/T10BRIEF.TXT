@@ -1,0 +1,8 @@
+Misyon T10: Sis Bombacıları
+
+1075. hava filosunu düşmanın zayıf bölgesine götür ve üretim kapasitesini enkaza çevir.  Bütün Kbot laboratuvarlarını ve Uçak fabrikalarını yok ettiğinden emin ol.  Görevi on dakikada bitirmezsen bir daha bitiremezsin.
+Öneriler:
+Bilinen hava savunmalarından kaçınmak için bombardıman uçuşlarının yönünü planla.
+
+Savaş taktikleri:
+Geçen oyun süresini ekranın sol alt köşesinde göstermek için mesaj çubuğuna '+clock' yaz.  Saat göstergesini gizlemek için bu hile kodunu yeniden yaz.

@@ -1,0 +1,14 @@
+Misyon T37: Intimidator yükselişi
+
+İnatçı ARM, fazlasıyla adil teslim koşullarımıza rağmen direniyor. İnatlarının bedelini ödeyecekler. Yaklaşan çarpışmada en kesin üstünlüklerimizden birini kullanacağız. Plazma topumuz Intimidator, ARM'ın Big Bertha'sından %25 daha uzun menzile sahip.
+
+&RBatıya bir Intimidator inşa et.& Böylece karşılık ateşine girmeden Hasfap Platosu'ndaki ARM kuvvetlerini yok edebilir, bölgedeki son düşman uçak üretim tesisini de fiilen ortadan kaldırabiliriz.
+
+ARM'ın kuzey-güney doğrultusunda bir ejderha dişi hattı var. Bu tahkimatların batısında, büyük bir sivri kaya kümesinin yanında küçük bir üs bulunuyor. Daha da batıda ARM'ın hidrasyon santralini görürsün. Intimidator'unu hidrasyon santralinin yakınına inşa et.
+
+Öneriler:
+Bölgede bir ARM hava üssü olduğundan biraz uçaksavar birimi inşa etmeyi unutma.
+
+Birimleri kesintisiz akıtarak saldırmak yerine büyük ve düzenli taarruzlarla yer ele geçir. Her taarruzdan önce birimlerini onarıp düzene koymaya zaman ayır.
+Savaş taktikleri:
+Bütün fabrikaları seçmek için CTRL+F kullan. Sonra bütün fabrikalara, yeni birimlerini cephenin yakınındaki aynı toplanma noktasına sürmelerini emredebilirsin.

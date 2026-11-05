@@ -1,0 +1,15 @@
+Misyon R24: Parçalayıcı sokağı
+
+&RAcil durum!&
+Israrcı ARM kuvvetleri bölgeyi bir dizi nükleer vuruşla dövdü. Deniz takviyeleri, konumuna varıp yardım etmeden önce Lancet torpido bombardıman uçaklarınca yok edildi. Şimdi bir ARM kolu ordunu bitirmek için ilerliyor.
+
+Menzildeki her düşman birimini D-Gun ile yok et. Bu görevi kazanmak için tüm düşman birimlerini yok et.
+
+Öneriler:
+Enerji kaynaklarına dikkat et. D-Gun ateşi için sürekli bir enerji kaynağı gerekir. Sık saldırılar, onu beslemek için enerji kaynaklarını yeniden kurmanı gerektirebilir:
+D-Gun.
+
+Savaş taktikleri:
+Komutanın, hedeflenen bir düşman birimine kesin nişan alması bazen uzun sürer.
+D-Gun ile daha hızlı atış için ateşi dene:
+D-Gun'ı düşman birimlerinin hemen önündeki yere sık.

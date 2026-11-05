@@ -1,0 +1,9 @@
+MİSYON 1.1CORE
+ARM haşereleri CORE Prime yüzeyine indi. Küçük bir grup bakım sırasında Komutan'ı yakalayıp devre dışı bıraktı. Tüm ARM haşerelerini yok et. Komutan ancak o zaman yeniden etkinleştirilir.
+
+İSTİHBARAT HATTI:
+ARM'ın CORE Prime üzerinde bulunma olasılığı sıfır. Yine de buradalar.
+
+&RTüm ARM birimlerini yok et.&
+
+HEMEN YERİNE GETİR.

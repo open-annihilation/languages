@@ -1,0 +1,14 @@
+Misyon I13: Faz dizili radar
+
+&RDikkat!&
+Faz dizili radarın inşası neredeyse bitti. Yüzlerce Radar kulesi elektronik olarak birbirine bağlanır ve çok yüksek duyarlılıkta tek bir dev radar gibi çalışır.
+
+ARM planlarımızı öğrendi ve radar sahamızı yok etmek için saldırı başlattı.
+
+ARM saldırısını bertaraf et. Radar kulesi kaybını en aza indir.
+
+Öneriler:
+Birliklerini yay. Daha hızlı düşman birimleri çevrelerinden dolaşamasınlar.
+
+Savaş taktikleri:
+Her saldırıya karşılık verecek merkezi bir kuvvetten bir grup kurmak isteyebilirsin. Bunun için gruplamak istediğin birimleri seç, sonra Ctrl+# kullan (#, 1 ile 9 arasında bir rakamdır). Sonra bu birimlerin tümünü Alt+# tuşuna basarak anında seçersin.

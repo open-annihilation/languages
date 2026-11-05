@@ -1,0 +1,14 @@
+Misyon I15: Arnen koyunu geçmek
+
+ARM, Arnen'in buz uçurumlarına bir Füzyon reaktörü kurmuş. Bölgedeki tek büyük güç kaynakları bu. Onu yok etmek ekonomilerini tüm yörede çökertir.
+
+Bir Brawler hava filosu başka yere çekildi ve dönmesi en az 25 dakika sürer. Bu sürede kuvvetlerini dağların üzerinden geçir, Arnen koyunu aş, Füzyon reaktörünü bul ve yok et. Tüm inşaat birimlerini yok olmaktan koru.
+
+Öneriler:
+Zaman çok önemli. Brawler birimleri dönünce büyük olasılıkla yok edilirsin. Düşmanın üssü savunan birkaç Flakker birimi var. İstihbarat, kara taarruzunun başarabileceğini düşünüyor.
+En zor engel Arnen koyu. Onu nakliye gemileri, amfibi birimler ya da Valkyrie hava nakliyeleriyle geç.
+
+Savaş taktikleri:
+Ctrl+W tüm savaş birimlerini seçer.
+
+Tersane kurmak için derin suyun üzerinden sorunsuz geçen bir İnşaat uçağı inşa etmek isteyebilirsin.
