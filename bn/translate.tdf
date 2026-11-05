@@ -44,7 +44,7 @@
 	}
 [PAUSED]
 	{
-	Bengali=থাম;
+	Bengali=বিরতি;
 	}
 
 // Loading screen
@@ -290,11 +290,11 @@
 	}
 [Restore Defaults]
 	{
-	Bengali=ডিফল্ট ফেরত;
+	Bengali=ডিফল্টে ফেরো;
 	}
 [Restore Default]
 	{
-	Bengali=ডিফল্ট ফেরত;
+	Bengali=ডিফল্টে ফেরো;
 	}
 [Exit to Menu]
 	{
@@ -423,7 +423,7 @@
 	}
 [Resume]
 	{
-	Bengali=আবার শুরু;
+	Bengali=চালিয়ে যাও;
 	}
 [Save Game]
 	{
@@ -717,11 +717,11 @@
 	}
 [Music Volume]
 	{
-	Bengali=সঙ্গীতের আওয়াজ;
+	Bengali=সঙ্গীতের ভলিউম;
 	}
 [Sound Volume]
 	{
-	Bengali=শব্দের আওয়াজ;
+	Bengali=শব্দের ভলিউম;
 	}
 [Sound Mode]
 	{
@@ -745,11 +745,11 @@
 	}
 [Building Sounds]
 	{
-	Bengali=ভবনের শব্দ;
+	Bengali=নির্মাণের শব্দ;
 	}
 [Building]
 	{
-	Bengali=ভবন;
+	Bengali=নির্মাণ;
 	}
 [Unit Speech]
 	{
@@ -989,7 +989,7 @@
 	}
 [You do not have a compatible version for this game.]
 	{
-	Bengali=তোমার এই গেমের মানানসই ভার্সন নেই.;
+	Bengali=তোমার এই গেমের মানানসই ভার্সন নেই।;
 	}
 [is not responding]
 	{
@@ -1001,7 +1001,7 @@
 	}
 [Please insert the Installation CD (Disc 1) and select%s"%s" again.]
 	{
-	Bengali=ইনস্টল CD (ডিস্ক 1) ঢোকাও এবং%s“%s” আবার বাছো.;
+	Bengali=ইনস্টল CD (ডিস্ক 1) ঢোকাও এবং%s“%s” আবার বাছো।;
 	}
 [Please insert the Campaign CD (Disc 2) and try again]
 	{
@@ -1009,19 +1009,19 @@
 	}
 [Please insert the Multiplayer CD (Disc 1) and try again]
 	{
-	Bengali=অনেকজনের CD (ডিস্ক 1) ঢোকাও এবং আবার চেষ্টা করো;
+	Bengali=মাল্টিপ্লেয়ারের CD (ডিস্ক 1) ঢোকাও এবং আবার চেষ্টা করো;
 	}
 [Fault while trying to excecute button action.]
 	{
-	Bengali=বোতামের কাজ করতে গিয়ে ত্রুটি.;
+	Bengali=বোতামের কাজ করতে গিয়ে ত্রুটি।;
 	}
 [The "%s" service failed or took %stoo long. Please see the readmee%sfile for more information.]
 	{
-	Bengali=“%s” সার্ভিস হয়নি বা %sসময় বেশি নিয়েছে. আরও জানতে%sreadme ফাইল দেখো.;
+	Bengali=“%s” সার্ভিস হয়নি বা %sসময় বেশি নিয়েছে। আরও জানতে%sreadme ফাইল দেখো।;
 	}
 [Unable to connect to DirectPlay lobby.]
 	{
-	Bengali=DirectPlay অপেক্ষাকক্ষে যোগ হয়নি.;
+	Bengali=DirectPlay অপেক্ষাকক্ষে যোগ হয়নি।;
 	}
 [Unable to browse to URL: %s]
 	{
@@ -1057,7 +1057,7 @@
 	}
 [The %s service failed or took%stoo long. Please see the readme%sfile for more information.]
 	{
-	Bengali=%s সার্ভিস হয়নি বা%sসময় বেশি নিয়েছে. আরও জানতে%sreadme ফাইল দেখো.;
+	Bengali=%s সার্ভিস হয়নি বা%sসময় বেশি নিয়েছে। আরও জানতে%sreadme ফাইল দেখো।;
 	}
 [Direct Connections]
 	{
@@ -1069,7 +1069,7 @@
 	}
 [There are no multiplayer games to choose from]
 	{
-	Bengali=বাছার মতো অনেকজনের লড়াই নেই;
+	Bengali=বাছার মতো মাল্টিপ্লেয়ারের লড়াই নেই;
 	}
 [Player has left the game]
 	{
@@ -1566,7 +1566,7 @@
 	}
 [Adjust skirmish difficulty.]
 	{
-	Bengali=লড়াইয়ের কঠিনতা বদলাও.;
+	Bengali=লড়াইয়ের কঠিনতা বদলাও।;
 	}
 [You]
 	{
@@ -1731,7 +1731,7 @@
 	}
 [Repair aborted.]
 	{
-	Bengali=মেরামত বাতিল.;
+	Bengali=মেরামত বাতিল।;
 	}
 [Repair mission failed]
 	{
@@ -1739,7 +1739,7 @@
 	}
 [Repairs unsuccessful.]
 	{
-	Bengali=মেরামত হয়নি.;
+	Bengali=মেরামত হয়নি।;
 	}
 [Self destruct terminated]
 	{
@@ -1822,7 +1822,7 @@
 
 [Warning!\n\nUnable to register %1 for DirectPlay.]
 	{
-	Bengali=সতর্কতা!\n\nDirectPlay-এ %1 রেজিস্টার করা যায়নি.;
+	Bengali=সতর্কতা!\n\nDirectPlay-এ %1 রেজিস্টার করা যায়নি।;
 	}
 [Unidentified object]
 	{
@@ -1882,7 +1882,7 @@
 	}
 [Out of memory! Your hard disk may be full.]
 	{
-	Bengali=মেমরি ফুরিয়েছে! তোমার হার্ড ডিস্ক ভরা থাকতে পারে.;
+	Bengali=মেমরি ফুরিয়েছে! তোমার হার্ড ডিস্ক ভরা থাকতে পারে।;
 	}
 
 // Unit speech
@@ -2333,31 +2333,31 @@
 	}
 [Click to edit energy value.]
 	{
-	Bengali=শক্তির মান বদলাতে চাপো.;
+	Bengali=শক্তির মান বদলাতে চাপো।;
 	}
 [Click to set energy value.]
 	{
-	Bengali=শক্তির মান বসাতে চাপো.;
+	Bengali=শক্তির মান বসাতে চাপো।;
 	}
 [Click to edit metal value.]
 	{
-	Bengali=ধাতুর মান বদলাতে চাপো.;
+	Bengali=ধাতুর মান বদলাতে চাপো।;
 	}
 [Click to set metal value.]
 	{
-	Bengali=ধাতুর মান বসাতে চাপো.;
+	Bengali=ধাতুর মান বসাতে চাপো।;
 	}
 [Left click to increase metal. Right click to decrease metal.]
 	{
-	Bengali=বাঁ বোতাম চাপলে ধাতু বাড়ে. ডান বোতাম চাপলে ধাতু কমে.;
+	Bengali=বাঁ বোতাম চাপলে ধাতু বাড়ে। ডান বোতাম চাপলে ধাতু কমে।;
 	}
 [Left click to increase energy. Right click to decrease energy.]
 	{
-	Bengali=বাঁ বোতাম চাপলে শক্তি বাড়ে. ডান বোতাম চাপলে শক্তি কমে.;
+	Bengali=বাঁ বোতাম চাপলে শক্তি বাড়ে। ডান বোতাম চাপলে শক্তি কমে।;
 	}
 [Click to select an allegiance symbol.]
 	{
-	Bengali=জোটের চিহ্ন বাছতে চাপো.;
+	Bengali=জোটের চিহ্ন বাছতে চাপো।;
 	}
 [Players in game / Max players]
 	{
@@ -2369,39 +2369,39 @@
 	}
 [Game ends when commander is destroyed.]
 	{
-	Bengali=কমান্ডার ধ্বংস হলে লড়াই শেষ.;
+	Bengali=কমান্ডার ধ্বংস হলে লড়াই শেষ।;
 	}
 [Game continues after Commander is destroyed.]
 	{
-	Bengali=কমান্ডার ধ্বংস হলেও লড়াই চলে.;
+	Bengali=কমান্ডার ধ্বংস হলেও লড়াই চলে।;
 	}
 [Commanders are placed at pre-determined locations.]
 	{
-	Bengali=কমান্ডার আগে ঠিক করা জায়গায় বসে.;
+	Bengali=কমান্ডার আগে ঠিক করা জায়গায় বসে।;
 	}
 [Commanders are randomly placed on the battle field.]
 	{
-	Bengali=কমান্ডার যুদ্ধক্ষেত্রে এলোমেলো জায়গায় বসে.;
+	Bengali=কমান্ডার যুদ্ধক্ষেত্রে এলোমেলো জায়গায় বসে।;
 	}
 [Terrain is blacked out until explored.]
 	{
-	Bengali=খোঁজার আগে ভূমি কালো থাকে.;
+	Bengali=খোঁজার আগে ভূমি কালো থাকে।;
 	}
 [Terrain is visible.]
 	{
-	Bengali=ভূমি দেখা যায়.;
+	Bengali=ভূমি দেখা যায়।;
 	}
 [Terrain elevations affect a unit's view.]
 	{
-	Bengali=ভূমির উচ্চতা ইউনিটের দৃষ্টিসীমা বদলায়.;
+	Bengali=ভূমির উচ্চতা ইউনিটের দৃষ্টিসীমা বদলায়।;
 	}
 [Terrain elevations do not affect a unit's view.]
 	{
-	Bengali=ভূমির উচ্চতা ইউনিটের দৃষ্টিসীমা বদলায় না.;
+	Bengali=ভূমির উচ্চতা ইউনিটের দৃষ্টিসীমা বদলায় না।;
 	}
 [All mapped terrain is visible.]
 	{
-	Bengali=ম্যাপ হওয়া সব ভূমি দেখা যায়.;
+	Bengali=ম্যাপ হওয়া সব ভূমি দেখা যায়।;
 	}
 [Exit Mission]
 	{
@@ -2491,7 +2491,7 @@
 	}
 [Bring up the multiplayer scorecard]
 	{
-	Bengali=অনেকজনের হিসাব খোলো;
+	Bengali=মাল্টিপ্লেয়ারের হিসাব খোলো;
 	}
 [Select all factories]
 	{
@@ -2499,7 +2499,7 @@
 	}
 [Multiplayer options]
 	{
-	Bengali=অনেকজনের অপশন;
+	Bengali=মাল্টিপ্লেয়ারের অপশন;
 	}
 [Cancels the current command]
 	{
@@ -2563,7 +2563,7 @@
 	}
 [Pause the game]
 	{
-	Bengali=গেম থামাও;
+	Bengali=গেম বিরতি;
 	}
 [Display information on selected unit]
 	{
@@ -2702,7 +2702,7 @@
 	}
 [18 x 18  battle in the many mesas area.]
 	{
-	Bengali=18 x 18  অনেক মালভূমির এলাকায় লড়াই.;
+	Bengali=18 x 18  অনেক মালভূমির এলাকায় লড়াই।;
 	}
 [caldera's rim]
 	{
@@ -2718,7 +2718,7 @@
 	}
 [7 x 4  water between two coasts. weak tides.]
 	{
-	Bengali=7 x 4  দুই উপকূলের মাঝে পানি. দুর্বল জোয়ার.;
+	Bengali=7 x 4  দুই উপকূলের মাঝে পানি। দুর্বল জোয়ার।;
 	}
 [dark side]
 	{
@@ -2734,7 +2734,7 @@
 	}
 [5 x 8  strong winds coming from ocean.]
 	{
-	Bengali=5 x 8  সমুদ্র থেকে জোরালো বাতাস.;
+	Bengali=5 x 8  সমুদ্র থেকে জোরালো বাতাস।;
 	}
 [fox holes]
 	{
@@ -2742,7 +2742,7 @@
 	}
 [7 x 7  strong winds. more metal on high ground.]
 	{
-	Bengali=7 x 7  জোরালো বাতাস. উঁচু জমিতে বেশি ধাতু.;
+	Bengali=7 x 7  জোরালো বাতাস। উঁচু জমিতে বেশি ধাতু।;
 	}
 [full moon]
 	{
@@ -2750,7 +2750,7 @@
 	}
 [8 x 8  fighting on the naryb highlands. no wind.]
 	{
-	Bengali=8 x 8  naryb উচ্চভূমিতে লড়াই. বাতাস নেই.;
+	Bengali=8 x 8  naryb উচ্চভূমিতে লড়াই। বাতাস নেই।;
 	}
 [gods of war]
 	{
@@ -2758,7 +2758,7 @@
 	}
 [9 x 8  asymmetric water map.]
 	{
-	Bengali=9 x 8  অসম পানির ম্যাপ.;
+	Bengali=9 x 8  অসম পানির ম্যাপ।;
 	}
 [great divide]
 	{
@@ -2766,7 +2766,7 @@
 	}
 [5 x 8  fight through a mountain pass.]
 	{
-	Bengali=5 x 8  পাহাড়ি গিরিপথ দিয়ে লড়াই.;
+	Bengali=5 x 8  পাহাড়ি গিরিপথ দিয়ে লড়াই।;
 	}
 [hundred isles]
 	{
@@ -2782,7 +2782,7 @@
 	}
 [13 x 13  powerful player in middle of map on island.]
 	{
-	Bengali=13 x 13  ম্যাপের মাঝের দ্বীপে শক্তিশালী খেলোয়াড়.;
+	Bengali=13 x 13  ম্যাপের মাঝের দ্বীপে শক্তিশালী খেলোয়াড়।;
 	}
 [king of the hill]
 	{
@@ -2790,7 +2790,7 @@
 	}
 [16 x 16  fight for a metal rich mountain. strong wind.]
 	{
-	Bengali=16 x 16  ধাতুসমৃদ্ধ পর্বতের জন্য লড়াই. জোরালো বাতাস.;
+	Bengali=16 x 16  ধাতুসমৃদ্ধ পর্বতের জন্য লড়াই। জোরালো বাতাস।;
 	}
 [lava & two hills]
 	{
@@ -2806,7 +2806,7 @@
 	}
 [8 x 8  fight over narrow ramps.]
 	{
-	Bengali=8 x 8  সরু ঢাল নিয়ে লড়াই.;
+	Bengali=8 x 8  সরু ঢাল নিয়ে লড়াই।;
 	}
 [lava mania]
 	{
@@ -2814,7 +2814,7 @@
 	}
 [8 x 8  strong winds.]
 	{
-	Bengali=8 x 8  জোরালো বাতাস.;
+	Bengali=8 x 8  জোরালো বাতাস।;
 	}
 [lava run]
 	{
@@ -2822,7 +2822,7 @@
 	}
 [13 x 4  lava strip down center. high winds.]
 	{
-	Bengali=13 x 4  মাঝ বরাবর লাভার ফালি. জোরালো বাতাস.;
+	Bengali=13 x 4  মাঝ বরাবর লাভার ফালি। জোরালো বাতাস।;
 	}
 [greenhaven]
 	{
@@ -2830,7 +2830,7 @@
 	}
 [16 x 16  large map with many hills to hide behind.]
 	{
-	Bengali=16 x 16  পেছনে লুকানোর অনেক পাহাড়ওয়ালা বড় ম্যাপ.;
+	Bengali=16 x 16  পেছনে লুকানোর অনেক পাহাড়ওয়ালা বড় ম্যাপ।;
 	}
 [metal heck]
 	{
@@ -2838,7 +2838,7 @@
 	}
 [8 x 8  fight in the metal cross region.]
 	{
-	Bengali=8 x 8  ধাতুর ক্রস এলাকায় লড়াই.;
+	Bengali=8 x 8  ধাতুর ক্রস এলাকায় লড়াই।;
 	}
 [red hot lava]
 	{
@@ -2846,7 +2846,7 @@
 	}
 [11 x 9  many hills and lava pools. plenty of metal]
 	{
-	Bengali=11 x 9  অনেক পাহাড় আর লাভার কুণ্ড. প্রচুর ধাতু;
+	Bengali=11 x 9  অনেক পাহাড় আর লাভার কুণ্ড। প্রচুর ধাতু;
 	}
 [red planet]
 	{
@@ -2862,7 +2862,7 @@
 	}
 [16 x 16  powerful tides and strong winds.]
 	{
-	Bengali=16 x 16  প্রবল জোয়ার আর জোরালো বাতাস.;
+	Bengali=16 x 16  প্রবল জোয়ার আর জোরালো বাতাস।;
 	}
 [ring atoll]
 	{
@@ -2870,7 +2870,7 @@
 	}
 [21 x 21  powerful tides. ground units can use shallow water.]
 	{
-	Bengali=21 x 21  প্রবল জোয়ার. স্থল ইউনিট অগভীর পানিতে চলতে পারে.;
+	Bengali=21 x 21  প্রবল জোয়ার। স্থল ইউনিট অগভীর পানিতে চলতে পারে।;
 	}
 [rock alley]
 	{
@@ -2878,7 +2878,7 @@
 	}
 [9 x 21  fight in mountian valley.]
 	{
-	Bengali=9 x 21  পাহাড়ি উপত্যকায় লড়াই.;
+	Bengali=9 x 21  পাহাড়ি উপত্যকায় লড়াই।;
 	}
 [sherwood]
 	{
@@ -2894,7 +2894,7 @@
 	}
 [29 x 4  two coasts with large ocean between them.]
 	{
-	Bengali=29 x 4  দুই উপকূল, মাঝে বড় সমুদ্র.;
+	Bengali=29 x 4  দুই উপকূল, মাঝে বড় সমুদ্র।;
 	}
 [the desert triad]
 	{
@@ -2902,7 +2902,7 @@
 	}
 [6 x 6  fighting on 3 mesas.]
 	{
-	Bengali=6 x 6  3টি মালভূমিতে লড়াই.;
+	Bengali=6 x 6  3টি মালভূমিতে লড়াই।;
 	}
 [two continents]
 	{
@@ -2910,7 +2910,7 @@
 	}
 [22 x 25  metal in the middle of the map.]
 	{
-	Bengali=22 x 25  ম্যাপের মাঝে ধাতু.;
+	Bengali=22 x 25  ম্যাপের মাঝে ধাতু।;
 	}
 [yerrot mountains]
 	{
@@ -2918,7 +2918,7 @@
 	}
 [27 x 23  mountain range with lots of metal.]
 	{
-	Bengali=27 x 23  প্রচুর ধাতুর পর্বতমালা.;
+	Bengali=27 x 23  প্রচুর ধাতুর পর্বতমালা।;
 	}
 [pincushion]
 	{
@@ -2934,7 +2934,7 @@
 	}
 [25 x 25  a maze of metal bridges.]
 	{
-	Bengali=25 x 25  ধাতুর সেতুর গোলকধাঁধা.;
+	Bengali=25 x 25  ধাতুর সেতুর গোলকধাঁধা।;
 	}
 [seven islands]
 	{
@@ -2958,7 +2958,7 @@
 	}
 [15 x 11  fighting on a flat tundra with very strong winds.]
 	{
-	Bengali=15 x 11  খুব জোরালো বাতাসে সমতল তুন্দ্রায় লড়াই.;
+	Bengali=15 x 11  খুব জোরালো বাতাসে সমতল তুন্দ্রায় লড়াই।;
 	}
 [evad river confluence]
 	{
@@ -2966,7 +2966,7 @@
 	}
 [11 x 10 map.  intermittent winds]
 	{
-	Bengali=11 x 10 map.  মাঝে মাঝে বাতাস;
+	Bengali=11 x 10  মাঝে মাঝে বাতাস।;
 	}
 [lava alley]
 	{
@@ -2974,7 +2974,7 @@
 	}
 [18 x 18  fighting in narrow valleys.]
 	{
-	Bengali=18 x 18  সরু উপত্যকায় লড়াই.;
+	Bengali=18 x 18  সরু উপত্যকায় লড়াই।;
 	}
 [the pass]
 	{
@@ -2982,7 +2982,7 @@
 	}
 [7 x 4  fight to control a winding mountian pass.]
 	{
-	Bengali=7 x 4  আঁকাবাঁকা পাহাড়ি গিরিপথ নিয়ন্ত্রণের লড়াই.;
+	Bengali=7 x 4  আঁকাবাঁকা পাহাড়ি গিরিপথ নিয়ন্ত্রণের লড়াই।;
 	}
 [anteer strait]
 	{
@@ -2990,7 +2990,7 @@
 	}
 [18 x 18  fight in an iceburg filled ocean. strong tides.]
 	{
-	Bengali=18 x 18  হিমশৈলে ভরা সমুদ্রে লড়াই. প্রবল জোয়ার.;
+	Bengali=18 x 18  হিমশৈলে ভরা সমুদ্রে লড়াই। প্রবল জোয়ার।;
 	}
 [metal isles]
 	{
@@ -3009,7 +3009,7 @@
 	}
 [13 X 13  Open plains and small lakes.]
 	{
-	Bengali=13 X 13  খোলা সমভূমি আর ছোট হ্রদ.;
+	Bengali=13 X 13  খোলা সমভূমি আর ছোট হ্রদ।;
 	}
 [acid pools]
 	{
@@ -3017,7 +3017,7 @@
 	}
 [32 X 23  Masses of land with narrow passages.]
 	{
-	Bengali=32 X 23  সরু পথসহ বিশাল স্থলভাগ.;
+	Bengali=32 X 23  সরু পথসহ বিশাল স্থলভাগ।;
 	}
 [acid trip]
 	{
@@ -3025,7 +3025,7 @@
 	}
 [15 X 39  Watch out for the acid or you'll melt away.]
 	{
-	Bengali=15 X 39  অ্যাসিড থেকে সাবধান, নইলে গলে যাবে.;
+	Bengali=15 X 39  অ্যাসিড থেকে সাবধান, নইলে গলে যাবে।;
 	}
 [assault on suburbia]
 	{
@@ -3033,7 +3033,7 @@
 	}
 [16 X 16 Crush 'em.]
 	{
-	Bengali=16 X 16 তাদের গুঁড়িয়ে দাও.;
+	Bengali=16 X 16 তাদের গুঁড়িয়ে দাও।;
 	}
 [biggie biggs]
 	{
@@ -3041,7 +3041,7 @@
 	}
 [36 X 16  Dance from island to island crushing your opponents.]
 	{
-	Bengali=36 X 16  দ্বীপ থেকে দ্বীপে নেচে প্রতিপক্ষকে গুঁড়িয়ে দাও.;
+	Bengali=36 X 16  দ্বীপ থেকে দ্বীপে নেচে প্রতিপক্ষকে গুঁড়িয়ে দাও।;
 	}
 [block wars]
 	{
@@ -3049,7 +3049,7 @@
 	}
 [20 X 20  Battling through the Core Prime suburbs.]
 	{
-	Bengali=20 X 20  Core Prime-এর শহরতলিতে লড়াই.;
+	Bengali=20 X 20  Core Prime-এর শহরতলিতে লড়াই।;
 	}
 [brain coral]
 	{
@@ -3057,11 +3057,11 @@
 	}
 [20 X 20  Hydrous map with brain coral spiral.]
 	{
-	Bengali=20 X 20  মস্তিষ্ক প্রবালের সর্পিলসহ পানির ম্যাপ.;
+	Bengali=20 X 20  মস্তিষ্ক প্রবালের সর্পিলসহ পানির ম্যাপ।;
 	}
 [25 X 24  Keep your Kbots on the trails.]
 	{
-	Bengali=25 X 24  Kbot পথে রাখো.;
+	Bengali=25 X 24  Kbot পথে রাখো।;
 	}
 [checker ponds]
 	{
@@ -3069,7 +3069,7 @@
 	}
 [13 X 13  Be wary of the many corrosive puddles.]
 	{
-	Bengali=13 X 13  অনেক ক্ষয়কারী ডোবা থেকে সাবধান.;
+	Bengali=13 X 13  অনেক ক্ষয়কারী ডোবা থেকে সাবধান।;
 	}
 [cluster freak]
 	{
@@ -3077,7 +3077,7 @@
 	}
 [10 X 10  High winds with lots of metal in the middle.]
 	{
-	Bengali=10 X 10  প্রবল বাতাস, মাঝখানে অনেক ধাতু.;
+	Bengali=10 X 10  প্রবল বাতাস, মাঝখানে অনেক ধাতু।;
 	}
 [comet catcher]
 	{
@@ -3085,7 +3085,7 @@
 	}
 [12 X 15  Low gravity livens up this desolate landscape.]
 	{
-	Bengali=12 X 15  কম মাধ্যাকর্ষণ এই জনশূন্য ভূমিকে জাগায়.;
+	Bengali=12 X 15  কম মাধ্যাকর্ষণ এই জনশূন্য ভূমিকে জাগায়।;
 	}
 [core prime industrial area]
 	{
@@ -3093,7 +3093,7 @@
 	}
 [21 X 21  Abandoned Core industrial area.]
 	{
-	Bengali=21 X 21  পরিত্যক্ত CORE শিল্প এলাকা.;
+	Bengali=21 X 21  পরিত্যক্ত CORE শিল্প এলাকা।;
 	}
 [crater islands]
 	{
@@ -3101,7 +3101,7 @@
 	}
 [10 X 8  Fight your way across these shallow waters.]
 	{
-	Bengali=10 X 8  এই অগভীর পানি পেরিয়ে লড়ে এগোও.;
+	Bengali=10 X 8  এই অগভীর পানি পেরিয়ে লড়ে এগোও।;
 	}
 [crystal cracked]
 	{
@@ -3109,7 +3109,7 @@
 	}
 [20 X 20 Two land masses split by an inland filled sea.]
 	{
-	Bengali=20 X 20 অভ্যন্তরীণ সমুদ্র দিয়ে আলাদা দুই স্থলভাগ.;
+	Bengali=20 X 20 অভ্যন্তরীণ সমুদ্র দিয়ে আলাদা দুই স্থলভাগ।;
 	}
 [crystal isles]
 	{
@@ -3117,7 +3117,7 @@
 	}
 [20 X 20 Crystal World ocean, dotted with reefs and islands.]
 	{
-	Bengali=20 X 20 স্ফটিক জগতের সমুদ্র, প্রবালচর আর দ্বীপে ছড়ানো.;
+	Bengali=20 X 20 স্ফটিক জগতের সমুদ্র, প্রবালচর আর দ্বীপে ছড়ানো।;
 	}
 [crystal maze]
 	{
@@ -3125,7 +3125,7 @@
 	}
 [10 X 10 Free-for-all in a maze of mountains.]
 	{
-	Bengali=10 X 10 পাহাড়ের গোলকধাঁধায় মুক্ত লড়াই.;
+	Bengali=10 X 10 পাহাড়ের গোলকধাঁধায় মুক্ত লড়াই।;
 	}
 [crystal treasure island]
 	{
@@ -3133,7 +3133,7 @@
 	}
 [12 X 13  Crystal map with metal-rich islands in the center.]
 	{
-	Bengali=12 X 13  মাঝখানে ধাতুসমৃদ্ধ দ্বীপসহ স্ফটিক ম্যাপ.;
+	Bengali=12 X 13  মাঝখানে ধাতুসমৃদ্ধ দ্বীপসহ স্ফটিক ম্যাপ।;
 	}
 [dire straits]
 	{
@@ -3141,7 +3141,7 @@
 	}
 [15 X 17 Natural fortification to hide between.]
 	{
-	Bengali=15 X 17 ফাঁকে লুকোনোর প্রাকৃতিক দুর্গ.;
+	Bengali=15 X 17 ফাঁকে লুকোনোর প্রাকৃতিক দুর্গ।;
 	}
 [east indeez]
 	{
@@ -3157,7 +3157,7 @@
 	}
 [19 X 19  Find a park or reclaim large structures for metal.]
 	{
-	Bengali=19 X 19  একটা পার্ক খুঁজে নাও, না হলে ধাতুর জন্য বড় কাঠামো উদ্ধার করো.;
+	Bengali=19 X 19  একটা পার্ক খুঁজে নাও, না হলে ধাতুর জন্য বড় কাঠামো উদ্ধার করো।;
 	}
 [14 X 14, Battle for the Evad River Delta]
 	{
@@ -3169,7 +3169,7 @@
 	}
 [22 X 22 More room to rumble on this old favorite.]
 	{
-	Bengali=22 X 22 এই পুরনো প্রিয় ম্যাপে লড়ার আরও জায়গা.;
+	Bengali=22 X 22 এই পুরনো প্রিয় ম্যাপে লড়ার আরও জায়গা।;
 	}
 [flooded glaciers]
 	{
@@ -3177,7 +3177,7 @@
 	}
 [12 X 10 Icy ocean battle.]
 	{
-	Bengali=12 X 10 বরফ সমুদ্রের লড়াই.;
+	Bengali=12 X 10 বরফ সমুদ্রের লড়াই।;
 	}
 [gasbag forests]
 	{
@@ -3185,7 +3185,7 @@
 	}
 [19 X 19  Large fields of gasplants block your path.]
 	{
-	Bengali=19 X 19  গ্যাসগাছের বিশাল মাঠ পথ আটকায়.;
+	Bengali=19 X 19  গ্যাসগাছের বিশাল মাঠ পথ আটকায়।;
 	}
 [gasplant plain]
 	{
@@ -3193,7 +3193,7 @@
 	}
 [10 X 8  Large plain for close encounters. Lots of geothermal.]
 	{
-	Bengali=10 X 8  কাছাকাছি লড়ার বিশাল সমভূমি. অনেক ভূতাপ.;
+	Bengali=10 X 8  কাছাকাছি লড়ার বিশাল সমভূমি। অনেক ভূতাপ।;
 	}
 [higher ground]
 	{
@@ -3201,7 +3201,7 @@
 	}
 [8 X 16  You take the high road and I'll take the low road.]
 	{
-	Bengali=8 X 16  তুমি উঁচু পথ নাও, আমি নিচু পথ নেব.;
+	Bengali=8 X 16  তুমি উঁচু পথ নাও, আমি নিচু পথ নেব।;
 	}
 [ice house]
 	{
@@ -3209,7 +3209,7 @@
 	}
 [16 X 16  Large ice mountains hinder big guns.]
 	{
-	Bengali=16 X 16  বড় বরফ পাহাড় ভারী কামান আটকায়.;
+	Bengali=16 X 16  বড় বরফ পাহাড় ভারী কামান আটকায়।;
 	}
 [ice scream]
 	{
@@ -3217,7 +3217,7 @@
 	}
 [15 X 39  Screaming won't be all you do on this forbidding world.]
 	{
-	Bengali=15 X 39  এই ভয়ংকর পৃথিবীতে শুধু চিৎকারই করবে না.;
+	Bengali=15 X 39  এই ভয়ংকর পৃথিবীতে শুধু চিৎকারই করবে না।;
 	}
 [icy bergs]
 	{
@@ -3225,7 +3225,7 @@
 	}
 [28 X 28  Landless. Lots of sunken ships.]
 	{
-	Bengali=28 X 28  স্থল নেই. অনেক ডুবে যাওয়া জাহাজ.;
+	Bengali=28 X 28  স্থল নেই। অনেক ডুবে যাওয়া জাহাজ।;
 	}
 [john's pass]
 	{
@@ -3241,7 +3241,7 @@
 	}
 [13 X 7  Large lake with islands in the middle.]
 	{
-	Bengali=13 X 7  মাঝখানে দ্বীপসহ বড় হ্রদ.;
+	Bengali=13 X 7  মাঝখানে দ্বীপসহ বড় হ্রদ।;
 	}
 [luschaven]
 	{
@@ -3249,7 +3249,7 @@
 	}
 [17 X 16 Battle for control of dry land.]
 	{
-	Bengali=17 X 16 শুকনো স্থল দখলের লড়াই.;
+	Bengali=17 X 16 শুকনো স্থল দখলের লড়াই।;
 	}
 [lusch puppy]
 	{
@@ -3257,7 +3257,7 @@
 	}
 [11 X 7  Small map divided by grand mountains.]
 	{
-	Bengali=11 X 7  বিশাল পাহাড়ে ভাগ হওয়া ছোট ম্যাপ.;
+	Bengali=11 X 7  বিশাল পাহাড়ে ভাগ হওয়া ছোট ম্যাপ।;
 	}
 [moon quartet]
 	{
@@ -3265,7 +3265,7 @@
 	}
 [20 X 20 Great map for team play.  Light side vs. dark side.]
 	{
-	Bengali=20 X 20 দলের খেলার দারুণ ম্যাপ.  আলোর দিক বনাম অন্ধকারের দিক.;
+	Bengali=20 X 20 দলের খেলার দারুণ ম্যাপ।  আলোর দিক বনাম অন্ধকারের দিক।;
 	}
 [mounds of mars]
 	{
@@ -3273,7 +3273,7 @@
 	}
 [8 X 17  For more than two players, play teams, North vs. South.]
 	{
-	Bengali=8 X 17  দুইয়ের বেশি খেলোয়াড় হলে দলে খেলো, উত্তর বনাম দক্ষিণ.;
+	Bengali=8 X 17  দুইয়ের বেশি খেলোয়াড় হলে দলে খেলো, উত্তর বনাম দক্ষিণ।;
 	}
 [ooooweeee]
 	{
@@ -3281,7 +3281,7 @@
 	}
 [19 X 19  Nine islands of love and understanding.  Let's hug.]
 	{
-	Bengali=19 X 19  ভালোবাসা আর বোঝাপড়ার নয়টি দ্বীপ.  চলো জড়িয়ে ধরি.;
+	Bengali=19 X 19  ভালোবাসা আর বোঝাপড়ার নয়টি দ্বীপ।  চলো জড়িয়ে ধরি।;
 	}
 [pillopeens]
 	{
@@ -3289,7 +3289,7 @@
 	}
 [17 X 27 Island-hopping map.]
 	{
-	Bengali=17 X 27 দ্বীপ থেকে দ্বীপে যাওয়ার ম্যাপ.;
+	Bengali=17 X 27 দ্বীপ থেকে দ্বীপে যাওয়ার ম্যাপ।;
 	}
 [plains and passes]
 	{
@@ -3297,7 +3297,7 @@
 	}
 [20 X 20  Large map with lots of metal.]
 	{
-	Bengali=20 X 20  অনেক ধাতুসহ বড় ম্যাপ.;
+	Bengali=20 X 20  অনেক ধাতুসহ বড় ম্যাপ।;
 	}
 [polar range]
 	{
@@ -3305,7 +3305,7 @@
 	}
 [20 X 20  Large polar ice cap map. A bleak and forbidding world.]
 	{
-	Bengali=20 X 20  মেরুর বরফটুপির বড় ম্যাপ. এক নিরানন্দ ভয়ংকর পৃথিবী.;
+	Bengali=20 X 20  মেরুর বরফটুপির বড় ম্যাপ। এক নিরানন্দ ভয়ংকর পৃথিবী।;
 	}
 [polyp fields]
 	{
@@ -3313,7 +3313,7 @@
 	}
 [27 X 22  Large geometric polyps litter this battlefield.]
 	{
-	Bengali=27 X 22  বড় জ্যামিতিক পলিপ এই যুদ্ধক্ষেত্রে ছড়ানো.;
+	Bengali=27 X 22  বড় জ্যামিতিক পলিপ এই যুদ্ধক্ষেত্রে ছড়ানো।;
 	}
 [red river]
 	{
@@ -3321,7 +3321,7 @@
 	}
 [21 X 30  Large river separates two land masses.]
 	{
-	Bengali=21 X 30  বড় নদী দুই স্থলভাগকে আলাদা করে.;
+	Bengali=21 X 30  বড় নদী দুই স্থলভাগকে আলাদা করে।;
 	}
 [red river north]
 	{
@@ -3329,7 +3329,7 @@
 	}
 [21 X 14  Smaller segment of Red River.]
 	{
-	Bengali=21 X 14  লাল নদীর ছোট অংশ.;
+	Bengali=21 X 14  লাল নদীর ছোট অংশ।;
 	}
 [ror shock]
 	{
@@ -3337,7 +3337,7 @@
 	}
 [26 X 26 Ocean Battles are a must for this fine map.  Big surprise in center!]
 	{
-	Bengali=26 X 26 এই দারুণ ম্যাপে সমুদ্রের লড়াই আবশ্যক.  মাঝখানে বড় চমক!;
+	Bengali=26 X 26 এই দারুণ ম্যাপে সমুদ্রের লড়াই আবশ্যক।  মাঝখানে বড় চমক!;
 	}
 [sail away]
 	{
@@ -3345,7 +3345,7 @@
 	}
 [12 X 20 High winds sweep these islands.]
 	{
-	Bengali=12 X 20 প্রবল বাতাস এই দ্বীপগুলো ঝাঁটায়.;
+	Bengali=12 X 20 প্রবল বাতাস এই দ্বীপগুলো ঝাঁটায়।;
 	}
 [sector 410b]
 	{
@@ -3353,7 +3353,7 @@
 	}
 [25 X 22  Large mountains with narrow passes.]
 	{
-	Bengali=25 X 22  সরু গিরিপথসহ বড় পাহাড়.;
+	Bengali=25 X 22  সরু গিরিপথসহ বড় পাহাড়।;
 	}
 [show down]
 	{
@@ -3361,7 +3361,7 @@
 	}
 [11 X 5  Meet in the middle.]
 	{
-	Bengali=11 X 5  মাঝখানে দেখা করো.;
+	Bengali=11 X 5  মাঝখানে দেখা করো।;
 	}
 [slate gordon]
 	{
@@ -3369,7 +3369,7 @@
 	}
 [23 X 15 Great map for east/west rivalries.  Earthquakes.]
 	{
-	Bengali=23 X 15 পূর্ব বনাম পশ্চিমের দারুণ ম্যাপ.  ভূমিকম্প.;
+	Bengali=23 X 15 পূর্ব বনাম পশ্চিমের দারুণ ম্যাপ।  ভূমিকম্প।;
 	}
 [slated fate]
 	{
@@ -3377,7 +3377,7 @@
 	}
 [7 x 12 Search for metal in crevices.]
 	{
-	Bengali=7 x 12 ফাটলে ধাতু খোঁজো.;
+	Bengali=7 x 12 ফাটলে ধাতু খোঁজো।;
 	}
 [steel jungle]
 	{
@@ -3385,7 +3385,7 @@
 	}
 [20 x 10  Wake up and smell the coffee with the Morning War Show.]
 	{
-	Bengali=20 x 10  সকালের যুদ্ধের শো-এর সাথে জেগে কফির গন্ধ নাও.;
+	Bengali=20 x 10  সকালের যুদ্ধের শো-এর সাথে জেগে কফির গন্ধ নাও।;
 	}
 [surface meltdown]
 	{
@@ -3393,7 +3393,7 @@
 	}
 [15 X 17  Bumps, bumps, and more bumps.]
 	{
-	Bengali=15 X 17  ঢিবি, ঢিবি, আরও ঢিবি.;
+	Bengali=15 X 17  ঢিবি, ঢিবি, আরও ঢিবি।;
 	}
 [temblorian mist]
 	{
@@ -3401,7 +3401,7 @@
 	}
 [12 X 15  Make your way around the edges or fly across the center.]
 	{
-	Bengali=12 X 15  কিনারা ঘুরে যাও, না হলে মাঝখান দিয়ে উড়ে যাও.;
+	Bengali=12 X 15  কিনারা ঘুরে যাও, না হলে মাঝখান দিয়ে উড়ে যাও।;
 	}
 [the barrier reef]
 	{
@@ -3409,7 +3409,7 @@
 	}
 [19 X 19  Body of water separates two land masses.  Great underwater starts!]
 	{
-	Bengali=19 X 19  এক জলাশয় দুই স্থলভাগকে আলাদা করে.  পানির নিচে দারুণ শুরুর জায়গা!;
+	Bengali=19 X 19  এক জলাশয় দুই স্থলভাগকে আলাদা করে।  পানির নিচে দারুণ শুরুর জায়গা!;
 	}
 [the bayou]
 	{
@@ -3417,7 +3417,7 @@
 	}
 [20 X 20  Strong currents rush through this Bayou.]
 	{
-	Bengali=20 X 20  এই জলাভূমির ভেতর দিয়ে প্রবল স্রোত বয়.;
+	Bengali=20 X 20  এই জলাভূমির ভেতর দিয়ে প্রবল স্রোত বয়।;
 	}
 [town & country]
 	{
@@ -3425,7 +3425,7 @@
 	}
 [17 X 17  Urban vs. rural.]
 	{
-	Bengali=17 X 17  শহর বনাম গ্রাম.;
+	Bengali=17 X 17  শহর বনাম গ্রাম।;
 	}
 [trout farm]
 	{
@@ -3433,7 +3433,7 @@
 	}
 [15 X 15  Watch out for the sinkhole in the middle.]
 	{
-	Bengali=15 X 15  মাঝখানের ধসগর্ত থেকে সাবধান.;
+	Bengali=15 X 15  মাঝখানের ধসগর্ত থেকে সাবধান।;
 	}
 
 // Download Maps
@@ -3444,7 +3444,7 @@
 	}
 [20 X 20  Island in the clouds with giant canyon.  Absurd wind.]
 	{
-	Bengali=20 X 20  বিশাল গিরিখাতসহ মেঘের দ্বীপ.  অদ্ভুত বাতাস.;
+	Bengali=20 X 20  বিশাল গিরিখাতসহ মেঘের দ্বীপ।  অদ্ভুত বাতাস।;
 	}
 
 // Battle Tactics Maps
@@ -3455,7 +3455,7 @@
 	}
 [12 x 12  Fighting around rings of Dragon's Teeth.]
 	{
-	Bengali=12 x 12  ড্রাগনের দাঁতের বলয় ঘিরে লড়াই.;
+	Bengali=12 x 12  ড্রাগনের দাঁতের বলয় ঘিরে লড়াই।;
 	}
 [brilliant cut lake]
 	{
@@ -3463,7 +3463,7 @@
 	}
 [15 X 15  Fighting around a large lake.]
 	{
-	Bengali=15 X 15  এক বড় হ্রদ ঘিরে লড়াই.;
+	Bengali=15 X 15  এক বড় হ্রদ ঘিরে লড়াই।;
 	}
 [canal crossing]
 	{
@@ -3471,7 +3471,7 @@
 	}
 [16 X 17  Four land masses separated by canals.]
 	{
-	Bengali=16 X 17  খাল দিয়ে আলাদা চার স্থলভাগ.;
+	Bengali=16 X 17  খাল দিয়ে আলাদা চার স্থলভাগ।;
 	}
 [metal gridlock]
 	{
@@ -3479,7 +3479,7 @@
 	}
 [20 X 20  Five squares interlock to create defensive forts.]
 	{
-	Bengali=20 X 20  পাঁচ বর্গ জড়িয়ে রক্ষার দুর্গ হয়.;
+	Bengali=20 X 20  পাঁচ বর্গ জড়িয়ে রক্ষার দুর্গ হয়।;
 	}
 [wretched ridges]
 	{
@@ -3487,7 +3487,7 @@
 	}
 [12 X 12  High ridges protect defensive areas.  Light forest.]
 	{
-	Bengali=12 X 12  উঁচু শৈলশিরা রক্ষার এলাকা বাঁচায়.  পাতলা বন.;
+	Bengali=12 X 12  উঁচু শৈলশিরা রক্ষার এলাকা বাঁচায়।  পাতলা বন।;
 	}
 [coremageddon]
 	{
@@ -3495,14 +3495,14 @@
 	}
 [13 X 20  Set up ambushes in this Core Prime maze.]
 	{
-	Bengali=13 X 20  এই Core Prime গোলকধাঁধায় ওত পাতো.;
+	Bengali=13 X 20  এই Core Prime গোলকধাঁধায় ওত পাতো।;
 	}
 
 // Possible Error Messages
 
 [The requested campaign file, %s, does not exist.]
 	{
-	Bengali=চাওয়া অভিযানের ফাইল, %s, নেই.;
+	Bengali=চাওয়া অভিযানের ফাইল, %s, নেই।;
 	}
 [Error -- Unnamed Mission]
 	{
@@ -3510,7 +3510,7 @@
 	}
 [The requested mission file, %s, does not exist.]
 	{
-	Bengali=চাওয়া মিশন ফাইল, %s, নেই.;
+	Bengali=চাওয়া মিশন ফাইল, %s, নেই।;
 	}
 [No GlobalHeader block in mission file!]
 	{
@@ -3534,15 +3534,15 @@
 	}
 [Could not open movie file, please check filename in INI.]
 	{
-	Bengali=চলচ্চিত্রের ফাইল খোলা যায়নি, INI-এর ফাইলের নাম দেখো.;
+	Bengali=চলচ্চিত্রের ফাইল খোলা যায়নি, INI-এর ফাইলের নাম দেখো।;
 	}
 [Could not setup Direct Draw to play movie.]
 	{
-	Bengali=চলচ্চিত্র চালাতে Direct Draw সেট হয়নি.;
+	Bengali=চলচ্চিত্র চালাতে Direct Draw সেট হয়নি।;
 	}
 [Unsupported pixel format.]
 	{
-	Bengali=অসমর্থিত পিক্সেল ফরম্যাট.;
+	Bengali=অসমর্থিত পিক্সেল ফরম্যাট।;
 	}
 [Smacker Error]
 	{
@@ -3598,7 +3598,7 @@
 	}
 [Click to continue.]
 	{
-	Bengali=চালিয়ে যেতে চাপো.;
+	Bengali=চালিয়ে যেতে চাপো।;
 	}
 [Done]
 	{
@@ -3626,7 +3626,7 @@
 	}
 [Incompatible units found.  They will be ignored.  Please download the latest version of the game.]
 	{
-	Bengali=অসামঞ্জস্য ইউনিট পাওয়া গেছে.  সেগুলো বাদ যাবে.  গেমের সর্বশেষ ভার্সন নামাও.;
+	Bengali=অসামঞ্জস্য ইউনিট পাওয়া গেছে।  সেগুলো বাদ যাবে।  গেমের সর্বশেষ ভার্সন নামাও।;
 	}
 [Can't load MOVEINFO.TDF]
 	{
@@ -3694,7 +3694,7 @@
 	}
 [Could not find the multiplayer map!!]
 	{
-	Bengali=অনেকজনের ম্যাপ মেলেনি!!;
+	Bengali=মাল্টিপ্লেয়ারের ম্যাপ মেলেনি!!;
 	}
 [does not have this map]
 	{
@@ -3794,19 +3794,19 @@
 	}
 [There are no multiplayer maps to choose from]
 	{
-	Bengali=বাছার মতো অনেকজনের ম্যাপ নেই;
+	Bengali=বাছার মতো মাল্টিপ্লেয়ারের ম্যাপ নেই;
 	}
 [The terrain for the selected map does not exist.]
 	{
-	Bengali=বাছাই করা ম্যাপের ভূমি নেই.;
+	Bengali=বাছাই করা ম্যাপের ভূমি নেই।;
 	}
 [All players may not be in the same allied group.]
 	{
-	Bengali=সব খেলোয়াড় একই জোটে থাকতে পারে না.;
+	Bengali=সব খেলোয়াড় একই জোটে থাকতে পারে না।;
 	}
 [Error:  Sound system initialization failed.]
 	{
-	Bengali=ত্রুটি:  শব্দ সিস্টেম চালু হয়নি.;
+	Bengali=ত্রুটি:  শব্দ সিস্টেম চালু হয়নি।;
 	}
 [%s has taken the lead with %d kills]
 	{
@@ -3862,7 +3862,7 @@
 	}
 [DirectPlay registration failed.]
 	{
-	Bengali=DirectPlay নিবন্ধন হয়নি.;
+	Bengali=DirectPlay নিবন্ধন হয়নি।;
 	}
 [Demo Version]
 	{
@@ -3877,15 +3877,15 @@
 
 [Can't add another player when game is closed.]
 	{
-	Bengali=লড়াই বন্ধ থাকলে আর খেলোয়াড় যোগ হয় না.;
+	Bengali=লড়াই বন্ধ থাকলে আর খেলোয়াড় যোগ হয় না।;
 	}
 [Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-create the game session.\n]
 	{
-	Bengali=Direct Play নতুন খেলোয়াড় যোগ করতে পারেনি.\n\nআগের পর্দায় গিয়ে লড়াইয়ের সেশন আবার বানাও.\n;
+	Bengali=Direct Play নতুন খেলোয়াড় যোগ করতে পারেনি।\n\nআগের পর্দায় গিয়ে লড়াইয়ের সেশন আবার বানাও।\n;
 	}
 [Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-join the game session.\n]
 	{
-	Bengali=Direct Play নতুন খেলোয়াড় যোগ করতে পারেনি.\n\nআগের পর্দায় গিয়ে লড়াইয়ের সেশনে আবার যোগ দাও.\n;
+	Bengali=Direct Play নতুন খেলোয়াড় যোগ করতে পারেনি।\n\nআগের পর্দায় গিয়ে লড়াইয়ের সেশনে আবার যোগ দাও।\n;
 	}
 [Square]
 	{
@@ -3933,19 +3933,19 @@
 	}
 [You are placed in watch mode because you are hosting AI players which are still alive.  If you exit, they will be terminated.]
 	{
-	Bengali=তুমি দর্শক মোডে, কারণ তোমার হোস্ট করা AI খেলোয়াড় এখনো বেঁচে আছে.  বেরোলে তাদের বন্ধ করা হবে.;
+	Bengali=তুমি দর্শক মোডে, কারণ তোমার হোস্ট করা AI খেলোয়াড় এখনো বেঁচে আছে।  বেরোলে তাদের বন্ধ করা হবে।;
 	}
 [Unable to initialize scores reporting.]
 	{
-	Bengali=স্কোর জানানো চালু হয়নি.;
+	Bengali=স্কোর জানানো চালু হয়নি।;
 	}
 [No sound driver is available for use.\n]
 	{
-	Bengali=কোনো শব্দ ড্রাইভার নেই.\n;
+	Bengali=কোনো শব্দ ড্রাইভার নেই।\n;
 	}
 [Debug:  You must be in full-screen mode to play a movie.]
 	{
-	Bengali=ডিবাগ:  চলচ্চিত্র চালাতে পুরো পর্দা চাই.;
+	Bengali=ডিবাগ:  চলচ্চিত্র চালাতে পুরো পর্দা চাই।;
 	}
 [Old TED format no longer supported!]
 	{
@@ -3953,7 +3953,7 @@
 	}
 [Can not start game with all players on the same team.]
 	{
-	Bengali=সব খেলোয়াড় একই দলে থাকলে লড়াই শুরু হয় না.;
+	Bengali=সব খেলোয়াড় একই দলে থাকলে লড়াই শুরু হয় না।;
 	}
 
 // Features
@@ -4039,11 +4039,11 @@
 
 [OK.  Will share metal if above %d]
 	{
-	Bengali=ঠিক.  %d এর উপরে হলে ধাতু ভাগ করব;
+	Bengali=ঠিক।  %d এর উপরে হলে ধাতু ভাগ করব;
 	}
 [OK.  Will share energy if above %d]
 	{
-	Bengali=ঠিক.  %d এর উপরে হলে শক্তি ভাগ করব;
+	Bengali=ঠিক।  %d এর উপরে হলে শক্তি ভাগ করব;
 	}
 
 // Not in 3.1c's table: GUI captions and messages that 3.1c's own translate.tdf does not key
@@ -4058,11 +4058,11 @@
 	}
 [CREDITS]
 	{
-	Bengali=কৃতিত্ব;
+	Bengali=নির্মাতারা;
 	}
 [has modified his executable.  Game integrity breached.]
 	{
-	Bengali=নিজের প্রোগ্রাম বদলেছে.  গেমের অখণ্ডতা নষ্ট হয়েছে.;
+	Bengali=নিজের প্রোগ্রাম বদলেছে।  গেমের অখণ্ডতা নষ্ট হয়েছে।;
 	}
 [has not responded for %d seconds]
 	{
@@ -4105,7 +4105,7 @@
 	}
 [8 X 10  Find your way through the shallows into the enemy base.]
 	{
-	Bengali=8 X 10  অগভীর পানি দিয়ে শত্রুর ঘাঁটিতে পথ খুঁজে নাও.;
+	Bengali=8 X 10  অগভীর পানি দিয়ে শত্রুর ঘাঁটিতে পথ খুঁজে নাও।;
 	}
 
 // Not in 3.1c's table: Planet names, as the maps give them

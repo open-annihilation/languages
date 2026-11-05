@@ -156,52 +156,52 @@
 
 [The processor draws and scales the view.]
 	{
-	bn=প্রসেসর দৃশ্য আঁকে এবং মাপ বদলায়.;
+	bn=প্রসেসর দৃশ্য আঁকে এবং মাপ বদলায়।;
 	}
 
 [Off: the processor draws and scales the view.]
 	{
-	bn=বন্ধ: প্রসেসর দৃশ্য আঁকে এবং মাপ বদলায়.;
+	bn=বন্ধ: প্রসেসর দৃশ্য আঁকে এবং মাপ বদলায়।;
 	}
 
 [Set it to Off and back, or restore defaults.]
 	{
-	bn=বন্ধ করে আবার বসাও, অথবা মূল ফেরাও.;
+	bn=বন্ধ করে আবার বসাও, অথবা ডিফল্টে ফেরো।;
 	}
 
 [A failed graphics driver is skipped.]
 	{
-	bn=হয়নি এমন গ্রাফিক্স ড্রাইভার বাদ যায়.;
+	bn=হয়নি এমন গ্রাফিক্স ড্রাইভার বাদ যায়।;
 	}
 
 [Not in use: it needs at least 2 GB of memory.]
 	{
-	bn=ব্যবহারে নেই: অন্তত 2 GB মেমরি লাগে.;
+	bn=ব্যবহারে নেই: অন্তত 2 GB মেমরি লাগে।;
 	}
 
 [Full in use: the graphics card draws the view.]
 	{
-	bn=পূর্ণ চালু: গ্রাফিক্স কার্ড দৃশ্য আঁকে.;
+	bn=পূর্ণ চালু: গ্রাফিক্স কার্ড দৃশ্য আঁকে।;
 	}
 
 [Basic lets the graphics card scale it evenly.]
 	{
-	bn=মৌলিক গ্রাফিক্স কার্ডকে সমানভাবে মাপ বদলাতে দেয়.;
+	bn=মৌলিক গ্রাফিক্স কার্ডকে সমানভাবে মাপ বদলাতে দেয়।;
 	}
 
 [For this run only. The setting is kept.]
 	{
-	bn=শুধু এই চালের জন্য. সেটিং রাখা আছে.;
+	bn=শুধু এই চালের জন্য। সেটিং রাখা আছে।;
 	}
 
 [Not in use: the environment names a driver.]
 	{
-	bn=ব্যবহারে নেই: পরিবেশ এক ড্রাইভারের নাম দেয়.;
+	bn=ব্যবহারে নেই: পরিবেশ এক ড্রাইভারের নাম দেয়।;
 	}
 
 [Not in use: there is too little memory.]
 	{
-	bn=ব্যবহারে নেই: মেমরি খুব কম.;
+	bn=ব্যবহারে নেই: মেমরি খুব কম।;
 	}
 
 [Off for this game: in a shared game, Basic]
@@ -211,72 +211,72 @@
 
 [takes effect from the next game.]
 	{
-	bn=পরের লড়াই থেকে কার্যকর.;
+	bn=পরের লড়াই থেকে কার্যকর।;
 	}
 
 [Not in use: an error stopped it for this run.]
 	{
-	bn=ব্যবহারে নেই: এক ত্রুটিতে এই চালে থেমেছে.;
+	bn=ব্যবহারে নেই: এক ত্রুটিতে এই চালে থেমেছে।;
 	}
 
 [Not in use: the graphics driver failed.]
 	{
-	bn=ব্যবহারে নেই: গ্রাফিক্স ড্রাইভার হয়নি.;
+	bn=ব্যবহারে নেই: গ্রাফিক্স ড্রাইভার হয়নি।;
 	}
 
 [Not in use: the game stopped while using it.]
 	{
-	bn=ব্যবহারে নেই: ব্যবহারের সময় গেম থেমেছে.;
+	bn=ব্যবহারে নেই: ব্যবহারের সময় গেম থেমেছে।;
 	}
 
 [Not in use: no usable graphics card was found.]
 	{
-	bn=ব্যবহারে নেই: ব্যবহারযোগ্য গ্রাফিক্স কার্ড মেলেনি.;
+	bn=ব্যবহারে নেই: ব্যবহারযোগ্য গ্রাফিক্স কার্ড মেলেনি।;
 	}
 
 [Not in use: the graphics card lacks a feature.]
 	{
-	bn=ব্যবহারে নেই: গ্রাফিক্স কার্ডে এক ক্ষমতা নেই.;
+	bn=ব্যবহারে নেই: গ্রাফিক্স কার্ডে এক ক্ষমতা নেই।;
 	}
 
 [Not in use: the game cannot save its files.]
 	{
-	bn=ব্যবহারে নেই: গেম নিজের ফাইল সেভ করতে পারে না.;
+	bn=ব্যবহারে নেই: গেম নিজের ফাইল সেভ করতে পারে না।;
 	}
 
 [Takes effect from the next start.]
 	{
-	bn=পরের শুরু থেকে কার্যকর.;
+	bn=পরের শুরু থেকে কার্যকর।;
 	}
 
 [The processor draws and scales the view until then.]
 	{
-	bn=ততক্ষণ প্রসেসর দৃশ্য আঁকে এবং মাপ বদলায়.;
+	bn=ততক্ষণ প্রসেসর দৃশ্য আঁকে এবং মাপ বদলায়।;
 	}
 
 [Basic in use: the game cannot save its files.]
 	{
-	bn=মৌলিক চালু: গেম নিজের ফাইল সেভ করতে পারে না.;
+	bn=মৌলিক চালু: গেম নিজের ফাইল সেভ করতে পারে না।;
 	}
 
 [Basic in use: there is too little memory for Full.]
 	{
-	bn=মৌলিক চালু: পূর্ণের জন্য মেমরি খুব কম.;
+	bn=মৌলিক চালু: পূর্ণের জন্য মেমরি খুব কম।;
 	}
 
 [Basic in use: Full stopped for this run.]
 	{
-	bn=মৌলিক চালু: এই চালে পূর্ণ থেমেছে.;
+	bn=মৌলিক চালু: এই চালে পূর্ণ থেমেছে।;
 	}
 
 [Basic in use: Full failed before on this driver.]
 	{
-	bn=মৌলিক চালু: এই ড্রাইভারে পূর্ণ আগে হয়নি.;
+	bn=মৌলিক চালু: এই ড্রাইভারে পূর্ণ আগে হয়নি।;
 	}
 
 [Basic in use: the card lacks a feature Full needs.]
 	{
-	bn=মৌলিক চালু: কার্ডে পূর্ণের দরকারি এক ক্ষমতা নেই.;
+	bn=মৌলিক চালু: কার্ডে পূর্ণের দরকারি এক ক্ষমতা নেই।;
 	}
 
 [Basic for this game: in a shared game, Full]
@@ -286,17 +286,17 @@
 
 [Basic in use, on another driver: one failed.]
 	{
-	bn=মৌলিক চালু, অন্য ড্রাইভারে: একটা হয়নি.;
+	bn=মৌলিক চালু, অন্য ড্রাইভারে: একটা হয়নি।;
 	}
 
 [Basic in use; no smoothing when zoomed out here.]
 	{
-	bn=মৌলিক চালু. এখানে জুম আউট করলে মসৃণ হয় না.;
+	bn=মৌলিক চালু। এখানে জুম আউট করলে মসৃণ হয় না।;
 	}
 
 [Basic in use.]
 	{
-	bn=মৌলিক চালু.;
+	bn=মৌলিক চালু।;
 	}
 
 [Off for this game: in a shared game, Full]
@@ -321,52 +321,52 @@
 
 [Smoothed at every zoom.]
 	{
-	bn=প্রতি জুমে মসৃণ.;
+	bn=প্রতি জুমে মসৃণ।;
 	}
 
 [Smoothed at every zoom; 2x2 samples a pixel.]
 	{
-	bn=প্রতি জুমে মসৃণ. 2x2 এক পিক্সেল নমুনা নেয়.;
+	bn=প্রতি জুমে মসৃণ। 2x2 এক পিক্সেল নমুনা নেয়।;
 	}
 
 [Smoothed at every zoom; 4x4 samples a pixel.]
 	{
-	bn=প্রতি জুমে মসৃণ. 4x4 এক পিক্সেল নমুনা নেয়.;
+	bn=প্রতি জুমে মসৃণ। 4x4 এক পিক্সেল নমুনা নেয়।;
 	}
 
 [Smoothed at every zoom; 8x8 samples a pixel.]
 	{
-	bn=প্রতি জুমে মসৃণ. 8x8 এক পিক্সেল নমুনা নেয়.;
+	bn=প্রতি জুমে মসৃণ। 8x8 এক পিক্সেল নমুনা নেয়।;
 	}
 
 [Smoothed at every zoom; 16x16 samples a pixel.]
 	{
-	bn=প্রতি জুমে মসৃণ. 16x16 এক পিক্সেল নমুনা নেয়.;
+	bn=প্রতি জুমে মসৃণ। 16x16 এক পিক্সেল নমুনা নেয়।;
 	}
 
 [It scales the menus and the interface evenly.]
 	{
-	bn=এটা মেনু আর ইন্টারফেস সমানভাবে মাপ বদলায়.;
+	bn=এটা মেনু আর ইন্টারফেস সমানভাবে মাপ বদলায়।;
 	}
 
 [It scales the interface and zoomed-in view evenly.]
 	{
-	bn=এটা ইন্টারফেস আর জুম-ইন দৃশ্য সমানভাবে মাপ বদলায়.;
+	bn=এটা ইন্টারফেস আর জুম-ইন দৃশ্য সমানভাবে মাপ বদলায়।;
 	}
 
 [It scales evenly and smooths the zoomed-out view.]
 	{
-	bn=এটা সমানভাবে মাপ বদলায় এবং জুম-আউট দৃশ্য মসৃণ করে.;
+	bn=এটা সমানভাবে মাপ বদলায় এবং জুম-আউট দৃশ্য মসৃণ করে।;
 	}
 
 [It smooths the zoomed-out view.]
 	{
-	bn=এটা জুম-আউট দৃশ্য মসৃণ করে.;
+	bn=এটা জুম-আউট দৃশ্য মসৃণ করে।;
 	}
 
 [Here the view is drawn as when it is off.]
 	{
-	bn=এখানে দৃশ্য আঁকা হয় যেমন বন্ধ থাকলে.;
+	bn=এখানে দৃশ্য আঁকা হয় যেমন বন্ধ থাকলে।;
 	}
 
 [SCREENSHOTS]
@@ -816,22 +816,22 @@
 
 [More cycles find routes faster but use more CPU.]
 	{
-	bn=বেশি চক্রে পথ তাড়াতাড়ি মেলে, তবে CPU বেশি লাগে.;
+	bn=বেশি চক্রে পথ তাড়াতাড়ি মেলে, তবে CPU বেশি লাগে।;
 	}
 
 [Scroll to zoom the battlefield in and out.]
 	{
-	bn=স্ক্রল করে যুদ্ধক্ষেত্র বড় আর ছোট করো.;
+	bn=স্ক্রল করে যুদ্ধক্ষেত্র বড় আর ছোট করো।;
 	}
 
 [A number key selects its group on its own.]
 	{
-	bn=নম্বরের কী একাই নিজের দল বাছে.;
+	bn=নম্বরের কী একাই নিজের দল বাছে।;
 	}
 
 [Lower it to save power.]
 	{
-	bn=কমিয়ে বিদ্যুৎ বাঁচাও.;
+	bn=কমিয়ে বিদ্যুৎ বাঁচাও।;
 	}
 
 [Custom]
@@ -841,17 +841,17 @@
 
 [Your changes to the profile's hacks apply while on.]
 	{
-	bn=চালু থাকলে প্রোফাইলের হ্যাকে তোমার বদল বসে.;
+	bn=চালু থাকলে প্রোফাইলের হ্যাকে তোমার বদল প্রয়োগ হয়।;
 	}
 
 [Frame and tick times over the battlefield.]
 	{
-	bn=যুদ্ধক্ষেত্রের উপর ফ্রেম আর টিকের সময়.;
+	bn=যুদ্ধক্ষেত্রের উপর ফ্রেম আর টিকের সময়।;
 	}
 
 [Each frame waits for the display: no tearing.]
 	{
-	bn=প্রতি ফ্রেম পর্দার জন্য অপেক্ষা করে: ছবি ছেঁড়ে না.;
+	bn=প্রতি ফ্রেম পর্দার জন্য অপেক্ষা করে: ছবি ছেঁড়ে না।;
 	}
 
 [Rendered]
@@ -881,127 +881,127 @@
 
 [A dark edge round each letter of modern text.]
 	{
-	bn=আধুনিক লেখার প্রতি অক্ষরের চারপাশে গাঢ় কিনারা.;
+	bn=আধুনিক লেখার প্রতি অক্ষরের চারপাশে গাঢ় কিনারা।;
 	}
 
 [A dark shadow under modern text.]
 	{
-	bn=আধুনিক লেখার নিচে গাঢ় ছায়া.;
+	bn=আধুনিক লেখার নিচে গাঢ় ছায়া।;
 	}
 
 [A shaded box behind each line of game text.]
 	{
-	bn=গেমের লেখার প্রতি লাইনের পেছনে ছায়া বাক্স.;
+	bn=গেমের লেখার প্রতি লাইনের পেছনে ছায়া বাক্স।;
 	}
 
 [How long a finger or button is held for a hold.]
 	{
-	bn=ধরা গুনতে আঙুল বা বোতাম কতক্ষণ থাকে.;
+	bn=ধরা গুনতে আঙুল বা বোতাম কতক্ষণ থাকে।;
 	}
 
 [A short vibration as a touch control acts.]
 	{
-	bn=স্পর্শের নিয়ন্ত্রণ কাজ করলে ছোট কম্পন.;
+	bn=স্পর্শের নিয়ন্ত্রণ কাজ করলে ছোট কম্পন।;
 	}
 
 [Each point of the pad is a point of the view.]
 	{
-	bn=প্যাডের প্রতি বিন্দু দৃশ্যের এক বিন্দু.;
+	bn=প্যাডের প্রতি বিন্দু দৃশ্যের এক বিন্দু।;
 	}
 
 [The pointer moves as the thumb slides.]
 	{
-	bn=বুড়ো আঙুল সরালে পয়েন্টার সরে.;
+	bn=বুড়ো আঙুল সরালে পয়েন্টার সরে।;
 	}
 
 [How far the pointer moves for a slide.]
 	{
-	bn=এক সরানোয় পয়েন্টার কত দূর যায়.;
+	bn=এক সরানোয় পয়েন্টার কত দূর যায়।;
 	}
 
 [A quick slide moves the pointer further.]
 	{
-	bn=দ্রুত সরালে পয়েন্টার আরও দূর যায়.;
+	bn=দ্রুত সরালে পয়েন্টার আরও দূর যায়।;
 	}
 
 [The pointer keeps moving after a quick flick.]
 	{
-	bn=ঝটকা দিলে পয়েন্টার আরও খানিক সরে.;
+	bn=ঝটকা দিলে পয়েন্টার আরও খানিক সরে।;
 	}
 
 [The right stick does nothing.]
 	{
-	bn=ডান স্টিক কিছু করে না.;
+	bn=ডান স্টিক কিছু করে না।;
 	}
 
 [The stick pointer settles on a lone unit near it.]
 	{
-	bn=স্টিক পয়েন্টার কাছের একা ইউনিটে থামে.;
+	bn=স্টিক পয়েন্টার কাছের একা ইউনিটে থামে।;
 	}
 
 [Turning the controller fine-tunes the pointer.]
 	{
-	bn=কন্ট্রোলার ঘোরালে পয়েন্টার সূক্ষ্ম সরে.;
+	bn=কন্ট্রোলার ঘোরালে পয়েন্টার সূক্ষ্ম সরে।;
 	}
 
 [How far the pointer moves as the controller turns.]
 	{
-	bn=কন্ট্রোলার ঘুরলে পয়েন্টার কত দূর যায়.;
+	bn=কন্ট্রোলার ঘুরলে পয়েন্টার কত দূর যায়।;
 	}
 
 [Small ticks and bumps felt through the controller.]
 	{
-	bn=কন্ট্রোলারে ছোট টিক আর ধাক্কা লাগে.;
+	bn=কন্ট্রোলারে ছোট টিক আর ধাক্কা লাগে।;
 	}
 
 [The button pictures the controls and rings show.]
 	{
-	bn=বোতামের ছবি নিয়ন্ত্রণ আর বলয় দেখায়.;
+	bn=বোতামের ছবি নিয়ন্ত্রণ আর বলয় দেখায়।;
 	}
 
 [Held, a click is not snapped.]
 	{
-	bn=ধরে রাখলে ক্লিক স্ন্যাপ হয় না.;
+	bn=ধরে রাখলে ক্লিক স্ন্যাপ হয় না।;
 	}
 
 [Held, a build click lays a line or a ring.]
 	{
-	bn=ধরে রাখলে বানানোর ক্লিক এক লাইন বা বলয় বসায়.;
+	bn=ধরে রাখলে বানানোর ক্লিক এক লাইন বা বলয় বসায়।;
 	}
 
 [Turns the building being placed.]
 	{
-	bn=যে ভবন বসানো হচ্ছে সেটা ঘোরায়.;
+	bn=যে ভবন বসানো হচ্ছে সেটা ঘোরায়।;
 	}
 
 [Cells a metal extractor snaps to metal.]
 	{
-	bn=যত ঘরে ধাতু খনন ধাতুতে স্ন্যাপ হয়.;
+	bn=যত ঘরে ধাতু খনন ধাতুতে স্ন্যাপ হয়।;
 	}
 
 [Cells a reclaim click snaps to a wreck.]
 	{
-	bn=যত ঘরে উদ্ধারের ক্লিক ধ্বংসাবশেষে স্ন্যাপ হয়.;
+	bn=যত ঘরে উদ্ধারের ক্লিক ধ্বংসাবশেষে স্ন্যাপ হয়।;
 	}
 
 [Lines of 2x2 walls build as a double row.]
 	{
-	bn=2x2 প্রাচীরের লাইন দুই সারিতে বানায়.;
+	bn=2x2 প্রাচীরের লাইন দুই সারিতে বানায়।;
 	}
 
 [Rings include their corners.]
 	{
-	bn=বলয়ে কোণাও থাকে.;
+	bn=বলয়ে কোণও থাকে।;
 	}
 
 [A dark backdrop under each chat line.]
 	{
-	bn=প্রতি চ্যাট লাইনের নিচে গাঢ় পট.;
+	bn=প্রতি চ্যাট লাইনের নিচে গাঢ় পট।;
 	}
 
 [Behind the resource bar's text.]
 	{
-	bn=সম্পদ বারের লেখার পেছনে.;
+	bn=সম্পদ বারের লেখার পেছনে।;
 	}
 
 [per player]
@@ -1116,17 +1116,17 @@
 
 [Applies at next match]
 	{
-	bn=পরের লড়াইয়ে বসে;
+	bn=পরের লড়াইয়ে লাগে;
 	}
 
 [Off: it plays as 3.1c.]
 	{
-	bn=বন্ধ: 3.1c-এর মতো চলে.;
+	bn=বন্ধ: 3.1c-এর মতো চলে।;
 	}
 
 [Not implemented by this engine.]
 	{
-	bn=এই ইঞ্জিনে হয়নি.;
+	bn=এই ইঞ্জিনে হয়নি।;
 	}
 
 [Items]
@@ -1136,12 +1136,12 @@
 
 [Steam Input is on: the trackpads and back grips reach the game as Steam's mouse and keys. Turn Steam Input off for Open Annihilation in Steam's controller settings to use them here.]
 	{
-	bn=Steam Input চালু: ট্র্যাকপ্যাড আর পেছনের গ্রিপ গেমে Steam-এর মাউস আর কী হয়ে আসে. এখানে ব্যবহার করতে Steam-এর কন্ট্রোলার সেটিংসে Open Annihilation-এর জন্য Steam Input বন্ধ করো.;
+	bn=Steam Input চালু: ট্র্যাকপ্যাড আর পেছনের গ্রিপ গেমে Steam-এর মাউস আর কী হয়ে আসে। এখানে ব্যবহার করতে Steam-এর কন্ট্রোলার সেটিংসে Open Annihilation-এর জন্য Steam Input বন্ধ করো।;
 	}
 
 [Steam Deck: starts at the screen's {rate} fps.]
 	{
-	bn=Steam Deck: পর্দার {rate} fps-এ শুরু হয়.;
+	bn=Steam Deck: পর্দার {rate} fps-এ শুরু হয়।;
 	}
 
 [SETTINGS]
@@ -1181,7 +1181,7 @@
 
 [The game reloads its data for the mod and returns to the main menu.]
 	{
-	bn=গেম মোডের ডেটা আবার পড়ে মূল মেনুতে ফেরে.;
+	bn=গেম মোডের ডেটা আবার পড়ে মূল মেনুতে ফেরে।;
 	}
 
 [CANCEL]
@@ -1191,17 +1191,17 @@
 
 [Locked during a game. Choose the mod from the main menu.]
 	{
-	bn=লড়াই চলাকালীন আটকানো. মূল মেনু থেকে মোড বেছে নাও.;
+	bn=লড়াই চলাকালীন আটকানো। মূল মেনু থেকে মোড বেছে নাও।;
 	}
 
 [Saved games, screenshots, films and mods.]
 	{
-	bn=সেভ করা গেম, স্ক্রিনশট, ফিল্ম আর মোড.;
+	bn=সেভ করা গেম, স্ক্রিনশট, ফিল্ম আর মোড।;
 	}
 
 [The command line chose this run's mod.]
 	{
-	bn=কমান্ড লাইন এই চালের মোড বেছেছে.;
+	bn=কমান্ড লাইন এই চালের মোড বেছেছে।;
 	}
 
 [Shared game - still running]
@@ -1211,7 +1211,7 @@
 
 [RESTORE DEFAULTS]
 	{
-	bn=মূল ফেরাও;
+	bn=ডিফল্টে ফেরো;
 	}
 
 [OK]
@@ -1311,22 +1311,22 @@
 
 [{title} {version}, an unknown revision, is installed. Replace it with revision {incoming} from {file}?]
 	{
-	bn={title} {version}, অজানা রিভিশন, ইনস্টল আছে. {file} থেকে রিভিশন {incoming} দিয়ে বদলাবে?;
+	bn={title} {version}, অজানা রিভিশন, ইনস্টল আছে। {file} থেকে রিভিশন {incoming} দিয়ে বদলাবে?;
 	}
 
 [{title} {version}, revision {installed}, is installed. Replace it with revision {incoming} from {file}?]
 	{
-	bn={title} {version}, রিভিশন {installed}, ইনস্টল আছে. {file} থেকে রিভিশন {incoming} দিয়ে বদলাবে?;
+	bn={title} {version}, রিভিশন {installed}, ইনস্টল আছে। {file} থেকে রিভিশন {incoming} দিয়ে বদলাবে?;
 	}
 
 [Revision {incoming} is older than the one installed.]
 	{
-	bn=রিভিশন {incoming} ইনস্টল থাকাটার চেয়ে পুরনো.;
+	bn=রিভিশন {incoming} ইনস্টল থাকাটার চেয়ে পুরনো।;
 	}
 
 [{title} {installed} is installed. Replace it with {incoming}, or install {incoming} alongside it?]
 	{
-	bn={title} {installed} ইনস্টল আছে. {incoming} দিয়ে বদলাবে, নাকি {incoming} পাশাপাশি ইনস্টল করবে?;
+	bn={title} {installed} ইনস্টল আছে। {incoming} দিয়ে বদলাবে, নাকি {incoming} পাশাপাশি ইনস্টল করবে?;
 	}
 
 [Alongside, {incoming} goes in a folder of its own:]
@@ -1336,22 +1336,22 @@
 
 [{title} {version}, revision {revision}, is already installed. Install its files again from {file}?]
 	{
-	bn={title} {version}, রিভিশন {revision}, আগেই ইনস্টল আছে. {file} থেকে ফাইল আবার ইনস্টল করবে?;
+	bn={title} {version}, রিভিশন {revision}, আগেই ইনস্টল আছে। {file} থেকে ফাইল আবার ইনস্টল করবে?;
 	}
 
 [Files added to its folder, or changed, since it was installed are replaced or removed.]
 	{
-	bn=ইনস্টলের পর ফোল্ডারে যোগ বা বদলানো ফাইল বদলায় বা সরে যায়.;
+	bn=ইনস্টলের পর ফোল্ডারে যোগ বা বদলানো ফাইল বদলায় বা সরে যায়।;
 	}
 
 [The version kept, {backup}, stays.]
 	{
-	bn=রাখা ভার্সন, {backup}, থেকে যায়.;
+	bn=রাখা ভার্সন, {backup}, থেকে যায়।;
 	}
 
 [Your Mods folder already has a folder named {folder} that does not hold {title}. It is left as it is.]
 	{
-	bn=তোমার মোডের ফোল্ডারে আগেই {folder} নামের এক ফোল্ডার আছে, তাতে {title} নেই. সেটা যেমন আছে তেমন থাকে.;
+	bn=তোমার মোডের ফোল্ডারে আগেই {folder} নামের এক ফোল্ডার আছে, তাতে {title} নেই। সেটা যেমন আছে তেমন থাকে।;
 	}
 
 [Install {title} {version} alongside it, in a folder of its own?]
@@ -1366,52 +1366,52 @@
 
 [{title} is now {new}.]
 	{
-	bn={title} এখন {new}.;
+	bn={title} এখন {new}।;
 	}
 
 [The files of {title} {version} were installed again.]
 	{
-	bn={title} {version}-এর ফাইল আবার ইনস্টল হয়েছে.;
+	bn={title} {version}-এর ফাইল আবার ইনস্টল হয়েছে।;
 	}
 
 [{title} is back to {new}.]
 	{
-	bn={title} আবার {new} হয়েছে.;
+	bn={title} আবার {new} হয়েছে।;
 	}
 
 [{old} could not be kept as the earlier version; it is in:]
 	{
-	bn=আগের ভার্সন হিসেবে {old} রাখা যায়নি. সেটা আছে:;
+	bn=আগের ভার্সন হিসেবে {old} রাখা যায়নি। সেটা আছে:;
 	}
 
 [It cannot be read.]
 	{
-	bn=এটা পড়া যায় না.;
+	bn=এটা পড়া যায় না।;
 	}
 
 [It is not a zip archive.]
 	{
-	bn=এটা জিপ আর্কাইভ নয়.;
+	bn=এটা জিপ আর্কাইভ নয়।;
 	}
 
 [It is damaged.]
 	{
-	bn=এটা নষ্ট.;
+	bn=এটা নষ্ট।;
 	}
 
 [It is damaged: {name} does not unpack as recorded.]
 	{
-	bn=এটা নষ্ট: {name} লেখা মতো খোলে না.;
+	bn=এটা নষ্ট: {name} লেখা মতো খোলে না।;
 	}
 
 [It holds no oamod.yaml at its top, or in a single folder at its top.]
 	{
-	bn=ওপরে oamod.yaml নেই, ওপরের এক ফোল্ডারের ভিতরেও নেই.;
+	bn=ওপরে oamod.yaml নেই, ওপরের এক ফোল্ডারের ভিতরেও নেই।;
 	}
 
 [Its oamod.yaml is larger than 256 KiB.]
 	{
-	bn=এর oamod.yaml 256 KiB-এর চেয়ে বড়.;
+	bn=এর oamod.yaml 256 KiB-এর চেয়ে বড়।;
 	}
 
 [Its oamod.yaml has errors:]
@@ -1421,92 +1421,92 @@
 
 [It holds a file it cannot unpack safely: {name}.]
 	{
-	bn=এতে এক ফাইল নিরাপদে খোলে না: {name}.;
+	bn=এতে এক ফাইল নিরাপদে খোলে না: {name}।;
 	}
 
 [It holds two names that differ only in case: {name}.]
 	{
-	bn=এতে দুই নাম শুধু বড়-ছোট হাতে আলাদা: {name}.;
+	bn=এতে দুই নাম শুধু বড়-ছোট হাতে আলাদা: {name}।;
 	}
 
 [It holds a link to another file: {name}.]
 	{
-	bn=এতে অন্য ফাইলের লিংক আছে: {name}.;
+	bn=এতে অন্য ফাইলের লিংক আছে: {name}।;
 	}
 
 [It holds an encrypted file: {name}.]
 	{
-	bn=এতে এনক্রিপ্ট করা ফাইল আছে: {name}.;
+	bn=এতে এনক্রিপ্ট করা ফাইল আছে: {name}।;
 	}
 
 [It holds a file packed in a way it cannot unpack: {name}. Pack it again with standard (deflate) compression.]
 	{
-	bn=এতে এক ফাইল এমনভাবে প্যাক যে খোলা যায় না: {name}. স্ট্যান্ডার্ড (deflate) সংকোচনে আবার প্যাক করো.;
+	bn=এতে এক ফাইল এমনভাবে প্যাক যে খোলা যায় না: {name}। স্ট্যান্ডার্ড (deflate) সংকোচনে আবার প্যাক করো।;
 	}
 
 [It unpacks to {size}, more than the {limit} a mod may take.]
 	{
-	bn=খুললে {size} হয়, যা মোডের সীমা {limit}-এর বেশি.;
+	bn=খুললে {size} হয়, যা মোডের সীমা {limit}-এর বেশি।;
 	}
 
 [It unpacks to {size} from {packed}, far more than a mod's files take.]
 	{
-	bn={packed} থেকে খুললে {size} হয়, মোডের ফাইলের চেয়ে অনেক বেশি.;
+	bn={packed} থেকে খুললে {size} হয়, মোডের ফাইলের চেয়ে অনেক বেশি।;
 	}
 
 [It holds more than {limit} folders, more than a mod may take.]
 	{
-	bn=এতে {limit}-এর বেশি ফোল্ডার, মোড যত নিতে পারে তার বেশি.;
+	bn=এতে {limit}-এর বেশি ফোল্ডার, মোড যত নিতে পারে তার বেশি।;
 	}
 
 [It needs {size} free, and the disk holding your Mods folder has {free}.]
 	{
-	bn={size} ফাঁকা লাগে, আর তোমার মোডের ফোল্ডারের ডিস্কে {free} আছে.;
+	bn={size} ফাঁকা লাগে, আর তোমার মোডের ফোল্ডারের ডিস্কে {free} আছে।;
 	}
 
 [Its id, {id}, cannot name a folder on Windows.]
 	{
-	bn=এর ID, {id}, Windows-এ ফোল্ডারের নাম হতে পারে না.;
+	bn=এর ID, {id}, Windows-এ ফোল্ডারের নাম হতে পারে না।;
 	}
 
 [Your Mods folder has no free folder name for it.]
 	{
-	bn=তোমার মোডের ফোল্ডারে এর জন্য ফাঁকা ফোল্ডারের নাম নেই.;
+	bn=তোমার মোডের ফোল্ডারে এর জন্য ফাঁকা ফোল্ডারের নাম নেই।;
 	}
 
 [Its files could not be put in place. Another program, such as a file sync or a virus scanner, may be using its files; try again in a moment.]
 	{
-	bn=ফাইল বসানো যায়নি. অন্য প্রোগ্রাম, যেমন ফাইল সিঙ্ক বা ভাইরাস স্ক্যানার, ফাইল ব্যবহার করছে হতে পারে. একটু পরে আবার চেষ্টা করো.;
+	bn=ফাইল বসানো যায়নি। অন্য প্রোগ্রাম, যেমন ফাইল সিঙ্ক বা ভাইরাস স্ক্যানার, ফাইল ব্যবহার করছে হতে পারে। একটু পরে আবার চেষ্টা করো।;
 	}
 
 [Your Mods folder changed while this mod was being installed; nothing was changed. Open the file again.]
 	{
-	bn=এই মোড ইনস্টলের সময় তোমার মোডের ফোল্ডার বদলেছে. কিছু বদলায়নি. ফাইল আবার খোলো.;
+	bn=এই মোড ইনস্টলের সময় তোমার মোডের ফোল্ডার বদলেছে। কিছু বদলায়নি। ফাইল আবার খোলো।;
 	}
 
 [Another copy of Open Annihilation is changing your Mods folder. Try again once it has finished.]
 	{
-	bn=Open Annihilation-এর অন্য এক কপি তোমার মোডের ফোল্ডার বদলাচ্ছে. সেটা শেষ হলে আবার চেষ্টা করো.;
+	bn=Open Annihilation-এর অন্য এক কপি তোমার মোডের ফোল্ডার বদলাচ্ছে। সেটা শেষ হলে আবার চেষ্টা করো।;
 	}
 
 [{file} cannot be installed.]
 	{
-	bn={file} ইনস্টল হয় না.;
+	bn={file} ইনস্টল হয় না।;
 	}
 
 [And {n} more; the log has them all.]
 	{
-	bn=আরও {n}টি. লগে সব আছে.;
+	bn=আরও {n}টি। লগে সব আছে।;
 	}
 
 [Nothing was changed.]
 	{
-	bn=কিছু বদলায়নি.;
+	bn=কিছু বদলায়নি।;
 	}
 
 [{title} could not be rolled back; nothing was changed.]
 	{
-	bn={title} ফিরিয়ে নেওয়া যায়নি. কিছু বদলায়নি.;
+	bn={title} ফিরিয়ে নেওয়া যায়নি। কিছু বদলায়নি।;
 	}
 
 [the folder you chose]
@@ -1601,7 +1601,7 @@
 
 [installer recognised by its size; checked when it is unpacked]
 	{
-	bn=মাপ দেখে চেনা ইনস্টলার. খোলার সময় যাচাই হয়;
+	bn=মাপ দেখে চেনা ইনস্টলার। খোলার সময় যাচাই হয়;
 	}
 
 [no longer used now that the full game is here]
@@ -1616,7 +1616,7 @@
 
 [Recommended: shared games with players who have it may not match.]
 	{
-	bn=সুপারিশ: যাদের কাছে এটা আছে তাদের সঙ্গে শেয়ার করা গেম না-ও মিলতে পারে.;
+	bn=সুপারিশ: যাদের কাছে এটা আছে তাদের সঙ্গে শেয়ার করা গেম না-ও মিলতে পারে।;
 	}
 
 [Shared games need the same files on every machine]
@@ -1676,12 +1676,12 @@
 
 [It holds no Total Annihilation archives (.hpi, .ufo, .ccx or rev31.gp3 files) and no installer of the Total Annihilation demo (1997).]
 	{
-	bn=এতে Total Annihilation আর্কাইভ নেই (.hpi, .ufo, .ccx বা rev31.gp3 ফাইল) এবং Total Annihilation ডেমোর (1997) ইনস্টলার নেই.;
+	bn=এতে Total Annihilation আর্কাইভ নেই (.hpi, .ufo, .ccx বা rev31.gp3 ফাইল) এবং Total Annihilation ডেমোর (1997) ইনস্টলার নেই।;
 	}
 
 [Choose the folder that holds totala1.hpi.]
 	{
-	bn=যে ফোল্ডারে totala1.hpi আছে সেটা বেছে নাও.;
+	bn=যে ফোল্ডারে totala1.hpi আছে সেটা বেছে নাও।;
 	}
 
 [These files cannot be played]
@@ -1691,7 +1691,7 @@
 
 [The folder may be missing totala1.hpi.]
 	{
-	bn=ফোল্ডারে totala1.hpi না-ও থাকতে পারে.;
+	bn=ফোল্ডারে totala1.hpi না-ও থাকতে পারে।;
 	}
 
 [This is not the demo's installer]
@@ -1741,7 +1741,7 @@
 
 [Archives are loose in Open Annihilation's folder. Gather them into Total Annihilation?]
 	{
-	bn=Open Annihilation-এর ফোল্ডারে আর্কাইভ এলোমেলো. Total Annihilation-এ জড়ো করবে?;
+	bn=Open Annihilation-এর ফোল্ডারে আর্কাইভ এলোমেলো। Total Annihilation-এ জড়ো করবে?;
 	}
 
 [The file picker did not open]
@@ -1751,7 +1751,7 @@
 
 [The system's file picker could not be opened.]
 	{
-	bn=সিস্টেমের ফাইল বাছাই খোলা যায়নি.;
+	bn=সিস্টেমের ফাইল বাছাই খোলা যায়নি।;
 	}
 
 [The copy could not start]
@@ -1761,7 +1761,7 @@
 
 [Open Annihilation could not write its own folder.]
 	{
-	bn=Open Annihilation নিজের ফোল্ডারে লিখতে পারেনি.;
+	bn=Open Annihilation নিজের ফোল্ডারে লিখতে পারেনি।;
 	}
 
 [Stop copying?]
@@ -1776,7 +1776,7 @@
 
 [Nothing in this folder is left out.]
 	{
-	bn=এই ফোল্ডারের কিছুই বাদ নেই.;
+	bn=এই ফোল্ডারের কিছুই বাদ নেই।;
 	}
 
 [This mod cannot be used]
@@ -1806,17 +1806,17 @@
 
 [The game plays without it.]
 	{
-	bn=গেম এটা ছাড়া চলে.;
+	bn=গেম এটা ছাড়া চলে।;
 	}
 
 [Saved games that use its units cannot be loaded without it, and shared games need the same files on every machine.]
 	{
-	bn=এর ইউনিটের সেভ করা গেম এটা ছাড়া খোলা যায় না, আর শেয়ার করা গেমে প্রতি মেশিনে একই ফাইল লাগে.;
+	bn=এর ইউনিটের সেভ করা গেম এটা ছাড়া খোলা যায় না, আর শেয়ার করা গেমে প্রতি মেশিনে একই ফাইল লাগে।;
 	}
 
 [It is removed at the next start of Open Annihilation.]
 	{
-	bn=Open Annihilation-এর পরের শুরুতে এটা সরে যায়.;
+	bn=Open Annihilation-এর পরের শুরুতে এটা সরে যায়।;
 	}
 
 [Remove all game files?]
@@ -1831,7 +1831,7 @@
 
 [Expansions, extra maps and mods are added beside what is there; nothing already there is replaced.]
 	{
-	bn=এক্সপানশন, বাড়তি ম্যাপ আর মোড যা আছে তার পাশে যোগ হয়. যা আগে আছে তা বদলায় না.;
+	bn=এক্সপানশন, বাড়তি ম্যাপ আর মোড যা আছে তার পাশে যোগ হয়। যা আগে আছে তা বদলায় না।;
 	}
 
 [From the next start]
@@ -1841,17 +1841,17 @@
 
 [The changes are used from the next start of Open Annihilation.]
 	{
-	bn=বদল Open Annihilation-এর পরের শুরু থেকে ব্যবহার হয়.;
+	bn=বদল Open Annihilation-এর পরের শুরু থেকে ব্যবহার হয়।;
 	}
 
 [The new game files are used from the next start of Open Annihilation. Adding or removing files waits until then.]
 	{
-	bn=নতুন গেমের ফাইল Open Annihilation-এর পরের শুরু থেকে ব্যবহার হয়. ফাইল যোগ বা সরানো ততক্ষণ অপেক্ষা করে.;
+	bn=নতুন গেমের ফাইল Open Annihilation-এর পরের শুরু থেকে ব্যবহার হয়। ফাইল যোগ বা সরানো ততক্ষণ অপেক্ষা করে।;
 	}
 
 [Copying stopped. Nothing was added.]
 	{
-	bn=কপি থেমেছে. কিছু যোগ হয়নি.;
+	bn=কপি থেমেছে। কিছু যোগ হয়নি।;
 	}
 
 [Copying went on while Open Annihilation was away]
@@ -1906,12 +1906,12 @@
 
 [{problem} The folder may be missing totala1.hpi.]
 	{
-	bn={problem} ফোল্ডারে totala1.hpi না-ও থাকতে পারে.;
+	bn={problem} ফোল্ডারে totala1.hpi না-ও থাকতে পারে।;
 	}
 
 [{file} is not the release of the Total Annihilation demo (1997) that Open Annihilation recognises. Installers of the full game are Windows programs, which Open Annihilation never runs: install the game on a computer, then copy its folder.]
 	{
-	bn={file} Total Annihilation ডেমোর (1997) সেই প্রকাশ নয় যা Open Annihilation চেনে. পূর্ণ গেমের ইনস্টলার Windows প্রোগ্রাম, Open Annihilation কখনো চালায় না: কম্পিউটারে গেম ইনস্টল করো, তারপর এর ফোল্ডার কপি করো.;
+	bn={file} Total Annihilation ডেমোর (1997) সেই প্রকাশ নয় যা Open Annihilation চেনে। পূর্ণ গেমের ইনস্টলার Windows প্রোগ্রাম, Open Annihilation কখনো চালায় না: কম্পিউটারে গেম ইনস্টল করো, তারপর এর ফোল্ডার কপি করো।;
 	}
 
 [Not enough space on this {device}]
@@ -1921,7 +1921,7 @@
 
 [These files need {need} and this {device} has {free} free. {advice}, or turn off a part above, then tap Check again.]
 	{
-	bn=এই ফাইলে {need} লাগে এবং এই {device}-এ {free} ফাঁকা. {advice}, অথবা উপরের এক অংশ বন্ধ করো, তারপর আবার যাচাই চাপো.;
+	bn=এই ফাইলে {need} লাগে এবং এই {device}-এ {free} ফাঁকা। {advice}, অথবা উপরের এক অংশ বন্ধ করো, তারপর আবার যাচাই চাপো।;
 	}
 
 [This {device} ran out of space]
@@ -1931,72 +1931,72 @@
 
 [The copy stopped after {size}. What was copied is kept: free some space, then tap Continue.]
 	{
-	bn=কপি {size}-এর পর থেমেছে. যা কপি হয়েছে তা রাখা আছে: কিছু জায়গা ফাঁকা করো, তারপর চালিয়ে যাও চাপো.;
+	bn=কপি {size}-এর পর থেমেছে। যা কপি হয়েছে তা রাখা আছে: কিছু জায়গা ফাঁকা করো, তারপর চালিয়ে যাও চাপো।;
 	}
 
 [Open Annihilation could not read {file}. Connect it again and tap Continue. What was copied is kept.]
 	{
-	bn=Open Annihilation {file} পড়তে পারেনি. আবার জোড়ো এবং চালিয়ে যাও চাপো. যা কপি হয়েছে তা রাখা আছে.;
+	bn=Open Annihilation {file} পড়তে পারেনি। আবার জোড়ো এবং চালিয়ে যাও চাপো। যা কপি হয়েছে তা রাখা আছে।;
 	}
 
 [Open Annihilation could not read {file}: {why}. Connect it again and tap Continue. What was copied is kept.]
 	{
-	bn=Open Annihilation {file} পড়তে পারেনি: {why}. আবার জোড়ো এবং চালিয়ে যাও চাপো. যা কপি হয়েছে তা রাখা আছে.;
+	bn=Open Annihilation {file} পড়তে পারেনি: {why}। আবার জোড়ো এবং চালিয়ে যাও চাপো। যা কপি হয়েছে তা রাখা আছে।;
 	}
 
 [{file} is in {cloud} and could not be downloaded. Connect to the internet and tap Continue.]
 	{
-	bn={file} {cloud}-এ আছে এবং নামানো যায়নি. ইন্টারনেটে জোড়ো এবং চালিয়ে যাও চাপো.;
+	bn={file} {cloud}-এ আছে এবং নামানো যায়নি। ইন্টারনেটে জোড়ো এবং চালিয়ে যাও চাপো।;
 	}
 
 [{file} is in {cloud} and could not be downloaded: {why}. Connect to the internet and tap Continue.]
 	{
-	bn={file} {cloud}-এ আছে এবং নামানো যায়নি: {why}. ইন্টারনেটে জোড়ো এবং চালিয়ে যাও চাপো.;
+	bn={file} {cloud}-এ আছে এবং নামানো যায়নি: {why}। ইন্টারনেটে জোড়ো এবং চালিয়ে যাও চাপো।;
 	}
 
 [Open Annihilation may no longer read {location}. Choose the folder again to go on; what was copied is kept.]
 	{
-	bn=Open Annihilation {location} আর পড়তে না-ও পারে. এগোতে ফোল্ডার আবার বেছে নাও. যা কপি হয়েছে তা রাখা আছে.;
+	bn=Open Annihilation {location} আর পড়তে না-ও পারে। এগোতে ফোল্ডার আবার বেছে নাও। যা কপি হয়েছে তা রাখা আছে।;
 	}
 
 [Some files in {location} changed since the copy began. Files that match are kept; the rest are copied again.]
 	{
-	bn=কপি শুরুর পর {location}-এ কিছু ফাইল বদলেছে. যেগুলো মেলে সেগুলো থাকে. বাকি আবার কপি হয়.;
+	bn=কপি শুরুর পর {location}-এ কিছু ফাইল বদলেছে। যেগুলো মেলে সেগুলো থাকে। বাকি আবার কপি হয়।;
 	}
 
 [This folder holds {size}, far more than a Total Annihilation installation (about 1.1 GB with everything).]
 	{
-	bn=এই ফোল্ডারে {size} আছে, Total Annihilation ইনস্টলের চেয়ে অনেক বেশি (সব মিলিয়ে প্রায় 1.1 GB).;
+	bn=এই ফোল্ডারে {size} আছে, Total Annihilation ইনস্টলের চেয়ে অনেক বেশি (সব মিলিয়ে প্রায় 1.1 GB)।;
 	}
 
 [There is no Total Annihilation folder on this {device} yet. {steps} Name it Total Annihilation. Wait until the copy has finished, then tap Check again.]
 	{
-	bn=এই {device}-এ এখনও Total Annihilation ফোল্ডার নেই. {steps} নাম দাও Total Annihilation. কপি শেষ হওয়া পর্যন্ত অপেক্ষা করো, তারপর আবার যাচাই চাপো.;
+	bn=এই {device}-এ এখনও Total Annihilation ফোল্ডার নেই। {steps} নাম দাও Total Annihilation। কপি শেষ হওয়া পর্যন্ত অপেক্ষা করো, তারপর আবার যাচাই চাপো।;
 	}
 
 [Found your files in {folder}. Use that folder?]
 	{
-	bn={folder}-এ তোমার ফাইল মিলেছে. সেই ফোল্ডার ব্যবহার করবে?;
+	bn={folder}-এ তোমার ফাইল মিলেছে। সেই ফোল্ডার ব্যবহার করবে?;
 	}
 
 [The system's file picker could not be opened: {error}.]
 	{
-	bn=সিস্টেমের ফাইল বাছাই খোলা যায়নি: {error}.;
+	bn=সিস্টেমের ফাইল বাছাই খোলা যায়নি: {error}।;
 	}
 
 [Open Annihilation could not write its own folder: {error}.]
 	{
-	bn=Open Annihilation নিজের ফোল্ডারে লিখতে পারেনি: {error}.;
+	bn=Open Annihilation নিজের ফোল্ডারে লিখতে পারেনি: {error}।;
 	}
 
 [{done} of {total} is copied. Keep it, and choosing the same folder later continues from here.]
 	{
-	bn={total}-এর {done} কপি হয়েছে. রাখো, পরে একই ফোল্ডার বেছে নিলে এখান থেকে চলবে.;
+	bn={total}-এর {done} কপি হয়েছে। রাখো, পরে একই ফোল্ডার বেছে নিলে এখান থেকে চলবে।;
 	}
 
 [This replaces the game files on this {device} ({size}) with the folder you chose. The current folder is kept as Total Annihilation (old) until you remove it. Saved games and settings stay.]
 	{
-	bn=এতে এই {device}-এর গেমের ফাইল ({size}) তুমি যে ফোল্ডার বেছেছ সেটা দিয়ে বদলায়. বর্তমান ফোল্ডার Total Annihilation (old) নামে থাকে, যতক্ষণ না সরাও. সেভ করা গেম আর সেটিংস থাকে.;
+	bn=এতে এই {device}-এর গেমের ফাইল ({size}) তুমি যে ফোল্ডার বেছেছ সেটা দিয়ে বদলায়। বর্তমান ফোল্ডার Total Annihilation (old) নামে থাকে, যতক্ষণ না সরাও। সেভ করা গেম আর সেটিংস থাকে।;
 	}
 
 [{kinds} ({size})]
@@ -2006,12 +2006,12 @@
 
 [Total Annihilation (old) is the folder that was there before ({size}). The game does not use it; removing it frees the space.]
 	{
-	bn=Total Annihilation (old) আগের ফোল্ডার ({size}). গেম এটা ব্যবহার করে না. সরালে জায়গা ফাঁকা হয়.;
+	bn=Total Annihilation (old) আগের ফোল্ডার ({size})। গেম এটা ব্যবহার করে না। সরালে জায়গা ফাঁকা হয়।;
 	}
 
 [The demo's unpacked data ({size}) is no longer used.]
 	{
-	bn=ডেমোর খোলা ডেটা ({size}) আর ব্যবহার হয় না.;
+	bn=ডেমোর খোলা ডেটা ({size}) আর ব্যবহার হয় না।;
 	}
 
 [Remove {name} ({size})?]
@@ -2021,22 +2021,22 @@
 
 [Remove every game file from this {device} ({size})? Saved games and settings stay. The game cannot start until you add the files again.]
 	{
-	bn=এই {device} থেকে সব গেমের ফাইল ({size}) সরাবে? সেভ করা গেম আর সেটিংস থাকে. ফাইল আবার যোগ না করা পর্যন্ত গেম শুরু হয় না.;
+	bn=এই {device} থেকে সব গেমের ফাইল ({size}) সরাবে? সেভ করা গেম আর সেটিংস থাকে। ফাইল আবার যোগ না করা পর্যন্ত গেম শুরু হয় না।;
 	}
 
 [Copying from {location} stopped at {done} of {total}. Choose the same folder to continue; what was copied is kept.]
 	{
-	bn={location} থেকে কপি {total}-এর {done}-এ থেমেছে. চালিয়ে যেতে একই ফোল্ডার বেছে নাও. যা কপি হয়েছে তা রাখা আছে.;
+	bn={location} থেকে কপি {total}-এর {done}-এ থেমেছে। চালিয়ে যেতে একই ফোল্ডার বেছে নাও। যা কপি হয়েছে তা রাখা আছে।;
 	}
 
 [Copying from {location} stopped at {done}. Choose the same folder to continue; what was copied is kept.]
 	{
-	bn={location} থেকে কপি {done}-এ থেমেছে. চালিয়ে যেতে একই ফোল্ডার বেছে নাও. যা কপি হয়েছে তা রাখা আছে.;
+	bn={location} থেকে কপি {done}-এ থেমেছে। চালিয়ে যেতে একই ফোল্ডার বেছে নাও। যা কপি হয়েছে তা রাখা আছে।;
 	}
 
 [The Total Annihilation folder on this {device} cannot be played.]
 	{
-	bn=এই {device}-এর Total Annihilation ফোল্ডার দিয়ে খেলা যায় না.;
+	bn=এই {device}-এর Total Annihilation ফোল্ডার দিয়ে খেলা যায় না।;
 	}
 
 [The Total Annihilation folder on this {device} cannot be played: {problem}]
@@ -2061,7 +2061,7 @@
 
 [{added}; {name} is there already and was kept.]
 	{
-	bn={added}. {name} আগেই আছে এবং রাখা হয়েছে.;
+	bn={added}। {name} আগেই আছে এবং রাখা হয়েছে।;
 	}
 
 [{n} more]
@@ -2071,7 +2071,7 @@
 
 [{added}; {names} are there already and were kept.]
 	{
-	bn={added}. {names} আগেই আছে এবং রাখা হয়েছে.;
+	bn={added}। {names} আগেই আছে এবং রাখা হয়েছে।;
 	}
 
 [{added}.]
@@ -2081,12 +2081,12 @@
 
 [{added} The new files are used from the next start of Open Annihilation.]
 	{
-	bn={added} নতুন ফাইল Open Annihilation-এর পরের শুরু থেকে ব্যবহার হয়.;
+	bn={added} নতুন ফাইল Open Annihilation-এর পরের শুরু থেকে ব্যবহার হয়।;
 	}
 
 [{changes} Waiting to be removed: {names}.]
 	{
-	bn={changes} সরানোর অপেক্ষায়: {names}.;
+	bn={changes} সরানোর অপেক্ষায়: {names}।;
 	}
 
 [Choose the game folder]
@@ -2141,17 +2141,17 @@
 
 [You need the folder of an installed copy of Total Annihilation, the one that holds totala1.hpi: about 1.1 GB with both expansions and the music. Installers of the full game are Windows programs and cannot be used here; install the game on a computer and bring its folder.]
 	{
-	bn=ইনস্টল করা Total Annihilation-এর সেই ফোল্ডার লাগে যাতে totala1.hpi আছে: দুই এক্সপানশন আর সঙ্গীত সহ প্রায় 1.1 GB. পূর্ণ গেমের ইনস্টলার Windows প্রোগ্রাম, এখানে ব্যবহার হয় না. কম্পিউটারে গেম ইনস্টল করে ফোল্ডার নিয়ে এসো.;
+	bn=ইনস্টল করা Total Annihilation-এর সেই ফোল্ডার লাগে যাতে totala1.hpi আছে: দুই এক্সপানশন আর সঙ্গীত সহ প্রায় 1.1 GB। পূর্ণ গেমের ইনস্টলার Windows প্রোগ্রাম, এখানে ব্যবহার হয় না। কম্পিউটারে গেম ইনস্টল করে ফোল্ডার নিয়ে এসো।;
 	}
 
 [OA settings › Game files manages them later.]
 	{
-	bn=OA সেটিংস › গেমের ফাইল পরে সামলায়.;
+	bn=OA সেটিংস › গেমের ফাইল পরে সামলায়।;
 	}
 
 [OA settings › Game files adds an expansion or removes the files later.]
 	{
-	bn=OA সেটিংস › গেমের ফাইল পরে এক্সপানশন যোগ করে বা ফাইল সরায়.;
+	bn=OA সেটিংস › গেমের ফাইল পরে এক্সপানশন যোগ করে বা ফাইল সরায়।;
 	}
 
 [Looking at the file]
@@ -2166,7 +2166,7 @@
 
 [Reading names and sizes only: nothing is copied or downloaded yet.]
 	{
-	bn=শুধু নাম আর মাপ পড়া হচ্ছে: এখনও কিছু কপি বা নামানো হয়নি.;
+	bn=শুধু নাম আর মাপ পড়া হচ্ছে: এখনও কিছু কপি বা নামানো হয়নি।;
 	}
 
 [A game folder inside]
@@ -2181,7 +2181,7 @@
 
 [This folder holds no game archives, but folders inside it do. Choose one.]
 	{
-	bn=এই ফোল্ডারে গেমের আর্কাইভ নেই, ভিতরের ফোল্ডারে আছে. একটা বেছে নাও.;
+	bn=এই ফোল্ডারে গেমের আর্কাইভ নেই, ভিতরের ফোল্ডারে আছে। একটা বেছে নাও।;
 	}
 
 [Use that folder]
@@ -2196,7 +2196,7 @@
 
 [This is already the game folder.]
 	{
-	bn=এটাই আগে থেকে গেমের ফোল্ডার.;
+	bn=এটাই আগে থেকে গেমের ফোল্ডার।;
 	}
 
 [Check it]
@@ -2211,12 +2211,12 @@
 
 [Checked: the game can start from these files.]
 	{
-	bn=যাচাই হয়েছে: এই ফাইল থেকে গেম শুরু হতে পারে.;
+	bn=যাচাই হয়েছে: এই ফাইল থেকে গেম শুরু হতে পারে।;
 	}
 
 [Checked fully once copied.]
 	{
-	bn=কপি হলে পুরো যাচাই হয়.;
+	bn=কপি হলে পুরো যাচাই হয়।;
 	}
 
 [Choose another file]
@@ -2246,7 +2246,7 @@
 
 [Keep Open Annihilation open until the copy ends. If you leave it, the copy goes on for a short while, then pauses and continues when you come back.]
 	{
-	bn=কপি শেষ না হওয়া পর্যন্ত Open Annihilation খোলা রাখো. সরে গেলে কপি অল্পক্ষণ চলে, তারপর থামে, আর ফিরলে আবার চলে.;
+	bn=কপি শেষ না হওয়া পর্যন্ত Open Annihilation খোলা রাখো। সরে গেলে কপি অল্পক্ষণ চলে, তারপর থামে, আর ফিরলে আবার চলে।;
 	}
 
 [Checking]
@@ -2296,47 +2296,47 @@
 
 [Pick the folder that holds totala1.hpi: {places}. It is checked, then copied in.]
 	{
-	bn=যে ফোল্ডারে totala1.hpi আছে সেটা বাছো: {places}. যাচাই হয়, তারপর ভিতরে কপি হয়.;
+	bn=যে ফোল্ডারে totala1.hpi আছে সেটা বাছো: {places}। যাচাই হয়, তারপর ভিতরে কপি হয়।;
 	}
 
 [The folder that holds totala1.hpi: {places}.]
 	{
-	bn=যে ফোল্ডারে totala1.hpi আছে: {places}.;
+	bn=যে ফোল্ডারে totala1.hpi আছে: {places}।;
 	}
 
 [{steps} Name it Total Annihilation.]
 	{
-	bn={steps} নাম দাও Total Annihilation.;
+	bn={steps} নাম দাও Total Annihilation।;
 	}
 
 [{steps}, named Total Annihilation.]
 	{
-	bn={steps}, নাম Total Annihilation.;
+	bn={steps}, নাম Total Annihilation।;
 	}
 
 [Choose the installer of the Total Annihilation demo (1997). The game recognises it, never runs it, and unpacks its {size} of game data.]
 	{
-	bn=Total Annihilation ডেমোর (1997) ইনস্টলার বেছে নাও. গেম এটা চেনে, কখনো চালায় না, এবং এর {size} গেম ডেটা খোলে.;
+	bn=Total Annihilation ডেমোর (1997) ইনস্টলার বেছে নাও। গেম এটা চেনে, কখনো চালায় না, এবং এর {size} গেম ডেটা খোলে।;
 	}
 
 [The demo's installer: recognised, never run, {size} unpacked.]
 	{
-	bn=ডেমোর ইনস্টলার: চেনা, কখনো চালানো হয় না, {size} খোলা.;
+	bn=ডেমোর ইনস্টলার: চেনা, কখনো চালানো হয় না, {size} খোলা।;
 	}
 
 [Copied onto this {device} once from your own copy. Nothing is downloaded.]
 	{
-	bn=তোমার নিজের কপি থেকে একবার এই {device}-এ কপি হয়. কিছু নামানো হয় না.;
+	bn=তোমার নিজের কপি থেকে একবার এই {device}-এ কপি হয়। কিছু নামানো হয় না।;
 	}
 
 [Open Annihilation plays the game from your own copy, as it does on a computer. It comes with no game data and downloads nothing: the files are copied onto this {device} once and stay here.]
 	{
-	bn=Open Annihilation তোমার নিজের কপি থেকে গেম খেলে, কম্পিউটারে যেমন. এর সঙ্গে গেমের ডেটা আসে না এবং কিছু নামায় না: ফাইল একবার এই {device}-এ কপি হয় এবং এখানেই থাকে.;
+	bn=Open Annihilation তোমার নিজের কপি থেকে গেম খেলে, কম্পিউটারে যেমন। এর সঙ্গে গেমের ডেটা আসে না এবং কিছু নামায় না: ফাইল একবার এই {device}-এ কপি হয় এবং এখানেই থাকে।;
 	}
 
 [{size} free on this {device}.]
 	{
-	bn=এই {device}-এ {size} ফাঁকা.;
+	bn=এই {device}-এ {size} ফাঁকা।;
 	}
 
 [Looking at {location}…]
@@ -2361,12 +2361,12 @@
 
 [This folder holds no game archives, but {folder} does.]
 	{
-	bn=এই ফোল্ডারে গেমের আর্কাইভ নেই, {folder}-এ আছে.;
+	bn=এই ফোল্ডারে গেমের আর্কাইভ নেই, {folder}-এ আছে।;
 	}
 
 [{warning} Turning off {parts} would make them fit.]
 	{
-	bn={warning} {parts} বন্ধ করলে সেগুলো আঁটে.;
+	bn={warning} {parts} বন্ধ করলে সেগুলো আঁটে।;
 	}
 
 [From {location}]
@@ -2376,17 +2376,17 @@
 
 [{size} is in {cloud} only and is downloaded while copying.]
 	{
-	bn={size} শুধু {cloud}-এ আছে এবং কপির সময় নামে.;
+	bn={size} শুধু {cloud}-এ আছে এবং কপির সময় নামে।;
 	}
 
 [Copies at least {size}.]
 	{
-	bn=অন্তত {size} কপি হয়.;
+	bn=অন্তত {size} কপি হয়।;
 	}
 
 [Copies {size}.]
 	{
-	bn={size} কপি হয়.;
+	bn={size} কপি হয়।;
 	}
 
 [Downloading {file} from {cloud}…]
@@ -2401,27 +2401,27 @@
 
 [Uses {size} on this {device} · {free} free.]
 	{
-	bn=এই {device}-এ {size} লাগে · {free} ফাঁকা.;
+	bn=এই {device}-এ {size} লাগে · {free} ফাঁকা।;
 	}
 
 [Uses {size} on this {device}.]
 	{
-	bn=এই {device}-এ {size} লাগে.;
+	bn=এই {device}-এ {size} লাগে।;
 	}
 
 [These files are not in this {device}'s backups. Keep your original copy.]
 	{
-	bn=এই ফাইল এই {device}-এর ব্যাকআপে নেই. তোমার আসল কপি রাখো.;
+	bn=এই ফাইল এই {device}-এর ব্যাকআপে নেই। তোমার আসল কপি রাখো।;
 	}
 
 [{file} could not be opened, so the game plays without it: it may be damaged. Copy it again from the original.]
 	{
-	bn={file} খোলা যায়নি, তাই গেম এটা ছাড়া চলে: নষ্ট হতে পারে. আসল থেকে আবার কপি করো.;
+	bn={file} খোলা যায়নি, তাই গেম এটা ছাড়া চলে: নষ্ট হতে পারে। আসল থেকে আবার কপি করো।;
 	}
 
 [The folder that was there before is kept as Total Annihilation (old), {size}.]
 	{
-	bn=আগের ফোল্ডার Total Annihilation (old) নামে থাকে, {size}.;
+	bn=আগের ফোল্ডার Total Annihilation (old) নামে থাকে, {size}।;
 	}
 
 [{size} on this {device} · {free} free]
@@ -2456,7 +2456,7 @@
 
 [The Total Annihilation demo (1997).]
 	{
-	bn=Total Annihilation ডেমো (1997).;
+	bn=Total Annihilation ডেমো (1997)।;
 	}
 
 [extra units and maps]
@@ -2516,12 +2516,12 @@
 
 [{game} with {expansions}, {others}.]
 	{
-	bn={game}, {expansions} সহ, {others}.;
+	bn={game}, {expansions} সহ, {others}।;
 	}
 
 [{game} with {list}.]
 	{
-	bn={game}, {list} সহ.;
+	bn={game}, {list} সহ।;
 	}
 
 [{game}.]
@@ -2626,7 +2626,7 @@
 
 [Copy your Total Annihilation folder into Open Annihilation's own folder with your file manager.]
 	{
-	bn=ফাইল ম্যানেজার দিয়ে তোমার Total Annihilation ফোল্ডার Open Annihilation-এর নিজের ফোল্ডারে কপি করো.;
+	bn=ফাইল ম্যানেজার দিয়ে তোমার Total Annihilation ফোল্ডার Open Annihilation-এর নিজের ফোল্ডারে কপি করো।;
 	}
 
 [Into Open Annihilation's own folder]
@@ -2671,62 +2671,62 @@
 
 [No folders here.]
 	{
-	bn=এখানে কোনো ফোল্ডার নেই.;
+	bn=এখানে কোনো ফোল্ডার নেই।;
 	}
 
 [Settings were not saved.]
 	{
-	bn=সেটিংস সেভ হয়নি.;
+	bn=সেটিংস সেভ হয়নি।;
 	}
 
 [That folder cannot be found.]
 	{
-	bn=সেই ফোল্ডার মেলেনি.;
+	bn=সেই ফোল্ডার মেলেনি।;
 	}
 
 [That folder's oamod.yaml cannot be read.]
 	{
-	bn=সেই ফোল্ডারের oamod.yaml পড়া যায় না.;
+	bn=সেই ফোল্ডারের oamod.yaml পড়া যায় না।;
 	}
 
 [That folder cannot be played; the log says why.]
 	{
-	bn=সেই ফোল্ডার দিয়ে খেলা যায় না. লগ বলে কেন.;
+	bn=সেই ফোল্ডার দিয়ে খেলা যায় না। লগ বলে কেন।;
 	}
 
 [Its oamod.yaml cannot be played; the log says why.]
 	{
-	bn=এর oamod.yaml দিয়ে খেলা যায় না. লগ বলে কেন.;
+	bn=এর oamod.yaml দিয়ে খেলা যায় না। লগ বলে কেন।;
 	}
 
 [The graphics card could not be used, so the processor draws the game. You can try it again under Graphics in the OA settings.]
 	{
-	bn=গ্রাফিক্স কার্ড ব্যবহার করা যায়নি, তাই প্রসেসর গেম আঁকে. OA সেটিংসে গ্রাফিক্সের নিচে আবার চেষ্টা করতে পারো.;
+	bn=গ্রাফিক্স কার্ড ব্যবহার করা যায়নি, তাই প্রসেসর গেম আঁকে। OA সেটিংসে গ্রাফিক্সের নিচে আবার চেষ্টা করতে পারো।;
 	}
 
 [A graphics driver failed, so the game now uses another one. You can try it again under Graphics in the OA settings.]
 	{
-	bn=এক গ্রাফিক্স ড্রাইভার হয়নি, তাই গেম এখন অন্যটা ব্যবহার করে. OA সেটিংসে গ্রাফিক্সের নিচে আবার চেষ্টা করতে পারো.;
+	bn=এক গ্রাফিক্স ড্রাইভার হয়নি, তাই গেম এখন অন্যটা ব্যবহার করে। OA সেটিংসে গ্রাফিক্সের নিচে আবার চেষ্টা করতে পারো।;
 	}
 
 [The graphics card could not draw the battlefield, so it only scales it now. You can try Full again under Graphics in the OA settings.]
 	{
-	bn=গ্রাফিক্স কার্ড যুদ্ধক্ষেত্র আঁকতে পারেনি, তাই এখন শুধু মাপ বদলায়. OA সেটিংসে গ্রাফিক্সের নিচে পূর্ণ আবার চেষ্টা করতে পারো.;
+	bn=গ্রাফিক্স কার্ড যুদ্ধক্ষেত্র আঁকতে পারেনি, তাই এখন শুধু মাপ বদলায়। OA সেটিংসে গ্রাফিক্সের নিচে পূর্ণ আবার চেষ্টা করতে পারো।;
 	}
 
 [This game includes no skirmish maps, so skirmish is not available.]
 	{
-	bn=এই গেমে লড়াইয়ের ম্যাপ নেই, তাই লড়াই নেই.;
+	bn=এই গেমে লড়াইয়ের ম্যাপ নেই, তাই লড়াই নেই।;
 	}
 
 [This game includes no multiplayer maps, so multiplayer is not available.]
 	{
-	bn=এই গেমে অনেকজনের ম্যাপ নেই, তাই অনেকজন নেই.;
+	bn=এই গেমে মাল্টিপ্লেয়ারের ম্যাপ নেই, তাই মাল্টিপ্লেয়ার নেই।;
 	}
 
 [Campaign complete. This game includes no further missions.]
 	{
-	bn=অভিযান শেষ. এই গেমে আর মিশন নেই.;
+	bn=অভিযান শেষ। এই গেমে আর মিশন নেই।;
 	}
 
 [{used} · {free} free on this {device}]
@@ -2766,17 +2766,17 @@
 
 [Screenshots, films and mods now go in the same Open Annihilation folder.]
 	{
-	bn=স্ক্রিনশট, ফিল্ম আর মোড এখন একই Open Annihilation ফোল্ডারে যায়.;
+	bn=স্ক্রিনশট, ফিল্ম আর মোড এখন একই Open Annihilation ফোল্ডারে যায়।;
 	}
 
 [Open Annihilation remembers it for later starts; start it with --choose-game-dir to choose another folder.]
 	{
-	bn=Open Annihilation পরের শুরুর জন্য এটা মনে রাখে. অন্য ফোল্ডার বেছে নিতে --choose-game-dir দিয়ে শুরু করো.;
+	bn=Open Annihilation পরের শুরুর জন্য এটা মনে রাখে। অন্য ফোল্ডার বেছে নিতে --choose-game-dir দিয়ে শুরু করো।;
 	}
 
 [None of this mod's units were found.]
 	{
-	bn=এই মোডের কোনো ইউনিট মেলেনি.;
+	bn=এই মোডের কোনো ইউনিট মেলেনি।;
 	}
 
 [Its games can't start until the mod's files are added to its folder:]
@@ -2786,7 +2786,7 @@
 
 [Its games still start. Add the missing files to its folder to show them:]
 	{
-	bn=এর গেম তবু শুরু হয়. দেখাতে না-থাকা ফাইল এর ফোল্ডারে যোগ করো:;
+	bn=এর গেম তবু শুরু হয়। দেখাতে না-থাকা ফাইল এর ফোল্ডারে যোগ করো:;
 	}
 
 [Income Multipliers]
@@ -3326,7 +3326,7 @@
 
 [ATTACK]
 	{
-	bn=আক্র.;
+	bn=হামলা;
 	}
 
 [PATROL]
@@ -3391,82 +3391,82 @@
 
 [MOVE: the selection moves to the held point.]
 	{
-	bn=চল: বাছাই ধরা বিন্দুতে যায়.;
+	bn=চল: বাছাই ধরা বিন্দুতে যায়।;
 	}
 
 [PATROL: the selection patrols to the held point.]
 	{
-	bn=টহল: বাছাই ধরা বিন্দু পর্যন্ত টহল দেয়.;
+	bn=টহল: বাছাই ধরা বিন্দু পর্যন্ত টহল দেয়।;
 	}
 
 [ATTACK: the selection attacks the unit or ground at the held point.]
 	{
-	bn=আক্র.: বাছাই ধরা বিন্দুর ইউনিট বা মাটিতে আক্রমণ করে.;
+	bn=হামলা: বাছাই ধরা বিন্দুর ইউনিট বা মাটিতে আক্রমণ করে।;
 	}
 
 [D-GUN: the commander fires the D-gun at the held point.]
 	{
-	bn=D-GUN: কমান্ডার ধরা বিন্দুতে D-Gun ছোড়ে.;
+	bn=D-GUN: কমান্ডার ধরা বিন্দুতে D-Gun ছোড়ে।;
 	}
 
 [LOAD: the transport loads the unit at the held point.]
 	{
-	bn=তোল: পরিবহন ধরা বিন্দুর ইউনিট তোলে.;
+	bn=তোল: পরিবহন ধরা বিন্দুর ইউনিট তোলে।;
 	}
 
 [CAPTURE: the selection captures the unit at the held point.]
 	{
-	bn=দখল: বাছাই ধরা বিন্দুর ইউনিট দখল করে.;
+	bn=দখল: বাছাই ধরা বিন্দুর ইউনিট দখল করে।;
 	}
 
 [STOP: the selection stops at once.]
 	{
-	bn=থাম: বাছাই সঙ্গে সঙ্গে থামে.;
+	bn=থাম: বাছাই সঙ্গে সঙ্গে থামে।;
 	}
 
 [INFO: shows the information of the unit at the held point.]
 	{
-	bn=তথ্য: ধরা বিন্দুর ইউনিটের তথ্য দেখায়.;
+	bn=তথ্য: ধরা বিন্দুর ইউনিটের তথ্য দেখায়।;
 	}
 
 [TYPE: selects every unit of the held unit's type.]
 	{
-	bn=ধরন: ধরা ইউনিটের ধরনের সব ইউনিট বাছে.;
+	bn=ধরন: ধরা ইউনিটের ধরনের সব ইউনিট বাছে।;
 	}
 
 [RECLAIM: the selection reclaims the wreck or unit at the held point.]
 	{
-	bn=উদ্ধার: বাছাই ধরা বিন্দুর ধ্বংসাবশেষ বা ইউনিট উদ্ধার করে.;
+	bn=উদ্ধার: বাছাই ধরা বিন্দুর ধ্বংসাবশেষ বা ইউনিট উদ্ধার করে।;
 	}
 
 [REPAIR: the selection repairs or helps build the unit at the held point.]
 	{
-	bn=সারাও: বাছাই ধরা বিন্দুর ইউনিট সারায় বা বানাতে সাহায্য করে.;
+	bn=সারাও: বাছাই ধরা বিন্দুর ইউনিট সারায় বা বানাতে সাহায্য করে।;
 	}
 
 [UNLOAD: the transport unloads at the held point.]
 	{
-	bn=নামাও: পরিবহন ধরা বিন্দুতে নামায়.;
+	bn=নামাও: পরিবহন ধরা বিন্দুতে নামায়।;
 	}
 
 [GUARD: the selection guards the unit at the held point.]
 	{
-	bn=রক্ষা: বাছাই ধরা বিন্দুর ইউনিট পাহারা দেয়.;
+	bn=রক্ষা: বাছাই ধরা বিন্দুর ইউনিট পাহারা দেয়।;
 	}
 
 [Fire orders: tap to step through Hold fire, Return fire and Fire at will.]
 	{
-	bn=আগুন: চাপো, একে একে বন্ধ, ফিরতি আর যেকোনো আসে.;
+	bn=আগুন: চাপো, একে একে বন্ধ, ফিরতি আর যেকোনো আসে।;
 	}
 
 [Move orders: tap to step through Hold position, Maneuver and Roam.]
 	{
-	bn=চলা: চাপো, একে একে স্থির, চাল আর ঘুর আসে.;
+	bn=চলা: চাপো, একে একে স্থির, চাল আর ঘুর আসে।;
 	}
 
 [On/Off: tap to switch the selected units on or off.]
 	{
-	bn=বিদ্যুৎ: চাপো, বাছাই করা ইউনিট বন্ধ বা চালু হয়.;
+	bn=বিদ্যুৎ: চাপো, বাছাই করা ইউনিট বন্ধ বা চালু হয়।;
 	}
 
 [CLOAK]
@@ -3476,7 +3476,7 @@
 
 [Cloak: tap to turn cloaking on or off; a cloaked unit uses energy.]
 	{
-	bn=আড়াল: চাপো, আড়াল চালু বা বন্ধ হয়. আড়ালে থাকা ইউনিট শক্তি খরচ করে.;
+	bn=আড়াল: চাপো, আড়াল চালু বা বন্ধ হয়। আড়ালে থাকা ইউনিট শক্তি খরচ করে।;
 	}
 
 [ORDERS]
@@ -3486,7 +3486,7 @@
 
 [ORDERS: shows the orders page.]
 	{
-	bn=আদেশ: আদেশের পাতা দেখায়.;
+	bn=আদেশ: আদেশের পাতা দেখায়।;
 	}
 
 [BUILD]
@@ -3496,7 +3496,7 @@
 
 [BUILD: shows the build pages.]
 	{
-	bn=বানাও: বানানোর পাতা দেখায়.;
+	bn=বানাও: বানানোর পাতা দেখায়।;
 	}
 
 [PREV]
@@ -3506,7 +3506,7 @@
 
 [PREV: shows the build page before this one.]
 	{
-	bn=আগে: এর আগের বানানোর পাতা দেখায়.;
+	bn=আগে: এর আগের বানানোর পাতা দেখায়।;
 	}
 
 [NEXT PAGE]
@@ -3516,57 +3516,57 @@
 
 [NEXT: shows the build page after this one.]
 	{
-	bn=পরের: এর পরের বানানোর পাতা দেখায়.;
+	bn=পরের: এর পরের বানানোর পাতা দেখায়।;
 	}
 
 [MOVE: tap to arm it, then tap where the selection goes.]
 	{
-	bn=চল: চাপলে সশস্ত্র হয়, তারপর বাছাই যেখানে যাবে সেখানে চাপো.;
+	bn=চল: চাপলে সশস্ত্র হয়, তারপর বাছাই যেখানে যাবে সেখানে চাপো।;
 	}
 
 [ATTACK: tap to arm it, then tap the unit or ground to fire at.]
 	{
-	bn=আক্র.: চাপলে সশস্ত্র হয়, তারপর যে ইউনিট বা মাটিতে গুলি হবে সেখানে চাপো.;
+	bn=হামলা: চাপলে সশস্ত্র হয়, তারপর যে ইউনিট বা মাটিতে গুলি হবে সেখানে চাপো।;
 	}
 
 [PATROL: tap to arm it, then tap the points to patrol between.]
 	{
-	bn=টহল: চাপলে সশস্ত্র হয়, তারপর টহলের বিন্দুগুলোতে চাপো.;
+	bn=টহল: চাপলে সশস্ত্র হয়, তারপর টহলের বিন্দুগুলোতে চাপো।;
 	}
 
 [GUARD: tap to arm it, then tap the unit to guard.]
 	{
-	bn=রক্ষা: চাপলে সশস্ত্র হয়, তারপর যে ইউনিট পাহারা দেবে তাতে চাপো.;
+	bn=রক্ষা: চাপলে সশস্ত্র হয়, তারপর যে ইউনিট পাহারা দেবে তাতে চাপো।;
 	}
 
 [D-GUN: tap to arm it, then tap where the commander fires it.]
 	{
-	bn=D-GUN: চাপলে সশস্ত্র হয়, তারপর কমান্ডার যেখানে ছুড়বে সেখানে চাপো.;
+	bn=D-GUN: চাপলে সশস্ত্র হয়, তারপর কমান্ডার যেখানে ছুড়বে সেখানে চাপো।;
 	}
 
 [RECLAIM: tap to arm it, then tap the wreck or unit to reclaim.]
 	{
-	bn=উদ্ধার: চাপলে সশস্ত্র হয়, তারপর যে ধ্বংসাবশেষ বা ইউনিট উদ্ধার হবে তাতে চাপো.;
+	bn=উদ্ধার: চাপলে সশস্ত্র হয়, তারপর যে ধ্বংসাবশেষ বা ইউনিট উদ্ধার হবে তাতে চাপো।;
 	}
 
 [REPAIR: tap to arm it, then tap the unit to repair or help build.]
 	{
-	bn=সারাও: চাপলে সশস্ত্র হয়, তারপর যে ইউনিট সারাবে বা বানাতে সাহায্য করবে তাতে চাপো.;
+	bn=সারাও: চাপলে সশস্ত্র হয়, তারপর যে ইউনিট সারাবে বা বানাতে সাহায্য করবে তাতে চাপো।;
 	}
 
 [CAPTURE: tap to arm it, then tap the unit to capture.]
 	{
-	bn=দখল: চাপলে সশস্ত্র হয়, তারপর যে ইউনিট দখল হবে তাতে চাপো.;
+	bn=দখল: চাপলে সশস্ত্র হয়, তারপর যে ইউনিট দখল হবে তাতে চাপো।;
 	}
 
 [UNLOAD: tap to arm it, then tap where the transport unloads.]
 	{
-	bn=নামাও: চাপলে সশস্ত্র হয়, তারপর পরিবহন যেখানে নামাবে সেখানে চাপো.;
+	bn=নামাও: চাপলে সশস্ত্র হয়, তারপর পরিবহন যেখানে নামাবে সেখানে চাপো।;
 	}
 
 [LOAD: tap to arm it, then tap the unit to load.]
 	{
-	bn=তোল: চাপলে সশস্ত্র হয়, তারপর যে ইউনিট তোলা হবে তাতে চাপো.;
+	bn=তোল: চাপলে সশস্ত্র হয়, তারপর যে ইউনিট তোলা হবে তাতে চাপো।;
 	}
 
 [ALL]
@@ -3681,172 +3681,172 @@
 
 [QUEUE: Shift for orders, building and placement. Tap to latch, hold for one.]
 	{
-	bn=সারি: আদেশ, বানানো আর বসানোর জন্য Shift. চাপলে আটকে যায়, একবারের জন্য ধরে রাখো.;
+	bn=সারি: আদেশ, বানানো আর বসানোর জন্য Shift। চাপলে আটকে যায়, একবারের জন্য ধরে রাখো।;
 	}
 
 [ADD: Shift for selecting, so taps, boxes and groups add to the selection. Tap to latch, hold for one.]
 	{
-	bn=যোগ: বাছতে Shift, তাই চাপ, বাক্স আর দল বাছাইয়ে যোগ হয়. চাপলে আটকে যায়, একবারের জন্য ধরে রাখো.;
+	bn=যোগ: বাছতে Shift, তাই চাপ, বাক্স আর দল বাছাইয়ে যোগ হয়। চাপলে আটকে যায়, একবারের জন্য ধরে রাখো।;
 	}
 
 [x5: Shift for the build buttons, five at a time. Tap to latch, hold for one.]
 	{
-	bn=x5: বানানোর বোতামে Shift, একসঙ্গে পাঁচটা. চাপলে আটকে যায়, একবারের জন্য ধরে রাখো.;
+	bn=x5: বানানোর বোতামে Shift, একসঙ্গে পাঁচটা। চাপলে আটকে যায়, একবারের জন্য ধরে রাখো।;
 	}
 
 [CLEAR: takes back the armed order or the building being placed, else clears the selection.]
 	{
-	bn=মুছো: সশস্ত্র আদেশ বা বসানো ভবন ফিরিয়ে নেয়, না হলে বাছাই মুছে.;
+	bn=মুছো: সশস্ত্র আদেশ বা বসানো ভবন ফিরিয়ে নেয়, না হলে বাছাই মুছে।;
 	}
 
 [SELECT: selects all units, builders, factories, aircraft, the units on screen, the commander or the same type.]
 	{
-	bn=বাছো: সব ইউনিট, নির্মাতা, কারখানা, বিমান, পর্দার ইউনিট, কমান্ডার বা একই ধরন বাছে.;
+	bn=বাছো: সব ইউনিট, নির্মাতা, কারখানা, বিমান, পর্দার ইউনিট, কমান্ডার বা একই ধরন বাছে।;
 	}
 
 [STORE: stores the selection as the lowest free group.]
 	{
-	bn=রাখো: বাছাইকে সবচেয়ে নিচের ফাঁকা দলে রাখে.;
+	bn=রাখো: বাছাইকে সবচেয়ে নিচের ফাঁকা দলে রাখে।;
 	}
 
 [Group: tap to select it, tap again to centre on it, hold to store the selection in it.]
 	{
-	bn=দল: চাপলে সেটা বাছে, আবার চাপলে তার কেন্দ্রে আনে, ধরে রাখলে বাছাই সেখানে রাখে.;
+	bn=দল: চাপলে সেটা বাছে, আবার চাপলে তার কেন্দ্রে আনে, ধরে রাখলে বাছাই সেখানে রাখে।;
 	}
 
 [PAUSE: pauses or resumes the game.]
 	{
-	bn=থাম: লড়াই থামায় বা আবার শুরু করে.;
+	bn=বিরতি: লড়াই থামায় বা আবার চালায়।;
 	}
 
 [SPEED: makes the game slower or faster.]
 	{
-	bn=গতি: লড়াই ধীর বা দ্রুত করে.;
+	bn=গতি: লড়াই ধীর বা দ্রুত করে।;
 	}
 
 [CHAT: writes a message to the other players.]
 	{
-	bn=চ্যাট: অন্য খেলোয়াড়দের বার্তা লেখে.;
+	bn=চ্যাট: অন্য খেলোয়াড়দের বার্তা লেখে।;
 	}
 
 [CENTRE: centres the view on the selected unit.]
 	{
-	bn=কেন্দ্র: বাছাই করা ইউনিটের উপর দৃশ্য আনে.;
+	bn=কেন্দ্র: বাছাই করা ইউনিটের উপর দৃশ্য আনে।;
 	}
 
 [FOLLOW: the view follows the selected unit; tap again for the next one.]
 	{
-	bn=অনুসরণ: দৃশ্য বাছাই করা ইউনিটকে অনুসরণ করে. আবার চাপলে পরেরটা.;
+	bn=অনুসরণ: দৃশ্য বাছাই করা ইউনিটকে অনুসরণ করে। আবার চাপলে পরেরটা।;
 	}
 
 [NEXT: centres the view on the next unit not yet visited.]
 	{
-	bn=পরের: যে ইউনিটে এখনো যাওয়া হয়নি, তার উপর দৃশ্য আনে.;
+	bn=পরের: যে ইউনিটে এখনো যাওয়া হয়নি, তার উপর দৃশ্য আনে।;
 	}
 
 [INFO: shows the selected unit's information.]
 	{
-	bn=তথ্য: বাছাই করা ইউনিটের তথ্য দেখায়.;
+	bn=তথ্য: বাছাই করা ইউনিটের তথ্য দেখায়।;
 	}
 
 [MENU: opens the game menu.]
 	{
-	bn=মেনু: গেম মেনু খোলে.;
+	bn=মেনু: গেম মেনু খোলে।;
 	}
 
 [BUILD: opens the builder's build pages, or the orders page for other units.]
 	{
-	bn=বানাও: নির্মাতার বানানোর পাতা খোলে, অন্য ইউনিটের জন্য আদেশের পাতা.;
+	bn=বানাও: নির্মাতার বানানোর পাতা খোলে, অন্য ইউনিটের জন্য আদেশের পাতা।;
 	}
 
 [Zoom out: shows more of the battlefield.]
 	{
-	bn=ছোট করো: যুদ্ধক্ষেত্রের আরও অংশ দেখায়.;
+	bn=ছোট করো: যুদ্ধক্ষেত্রের আরও অংশ দেখায়।;
 	}
 
 [Zoom in: shows the battlefield closer.]
 	{
-	bn=বড় করো: যুদ্ধক্ষেত্র কাছে দেখায়.;
+	bn=বড় করো: যুদ্ধক্ষেত্র কাছে দেখায়।;
 	}
 
 [Order: tap to arm it, then tap where it goes; tap again to take it back.]
 	{
-	bn=আদেশ: চাপলে সশস্ত্র হয়, তারপর যেখানে যাবে সেখানে চাপো. আবার চাপলে সেটা ফিরে আসে.;
+	bn=আদেশ: চাপলে সশস্ত্র হয়, তারপর যেখানে যাবে সেখানে চাপো। আবার চাপলে সেটা ফিরে আসে।;
 	}
 
 [MORE: the other orders, fire and move orders, on and off, cloak and self-destruct.]
 	{
-	bn=আরও: অন্য আদেশ, আগুন আর চলা, বন্ধ আর চালু, আড়াল আর আত্মধ্বংস.;
+	bn=আরও: অন্য আদেশ, আগুন আর চলা, বন্ধ আর চালু, আড়াল আর আত্মধ্বংস।;
 	}
 
 [BUILD: shows the builder's build pages.]
 	{
-	bn=বানাও: নির্মাতার বানানোর পাতা দেখায়.;
+	bn=বানাও: নির্মাতার বানানোর পাতা দেখায়।;
 	}
 
 [Closes the build drawer.]
 	{
-	bn=বানানোর ড্রয়ার বন্ধ করে.;
+	bn=বানানোর ড্রয়ার বন্ধ করে।;
 	}
 
 [Shows the previous page.]
 	{
-	bn=আগের পাতা দেখায়.;
+	bn=আগের পাতা দেখায়।;
 	}
 
 [Shows the next page.]
 	{
-	bn=পরের পাতা দেখায়.;
+	bn=পরের পাতা দেখায়।;
 	}
 
 [CANCEL: stops placing the building.]
 	{
-	bn=বাতিল: ভবন বসানো থামায়.;
+	bn=বাতিল: ভবন বসানো থামায়।;
 	}
 
 [Takes back the armed order.]
 	{
-	bn=সশস্ত্র আদেশ ফিরিয়ে নেয়.;
+	bn=সশস্ত্র আদেশ ফিরিয়ে নেয়।;
 	}
 
 [Chooses this item.]
 	{
-	bn=এই জিনিস বেছে নেয়.;
+	bn=এই জিনিস বেছে নেয়।;
 	}
 
 [SELF-DESTRUCT: hold to start or stop the selection's self-destruct countdown.]
 	{
-	bn=আত্মধ্বংস: ধরে রাখলে বাছাইয়ের আত্মধ্বংসের গণনা শুরু বা থেমে যায়.;
+	bn=আত্মধ্বংস: ধরে রাখলে বাছাইয়ের আত্মধ্বংসের গণনা শুরু বা থেমে যায়।;
 	}
 
 [Gives this order at the held point.]
 	{
-	bn=ধরা বিন্দুতে এই আদেশ দেয়.;
+	bn=ধরা বিন্দুতে এই আদেশ দেয়।;
 	}
 
 [QUEUE: the next order picked is queued after the selection's orders.]
 	{
-	bn=সারি: এরপর যে আদেশ বাছবে, সেটা বাছাইয়ের আদেশের পরে সারিতে যায়.;
+	bn=সারি: এরপর যে আদেশ বাছবে, সেটা বাছাইয়ের আদেশের পরে সারিতে যায়।;
 	}
 
 [Closes the open menu.]
 	{
-	bn=খোলা মেনু বন্ধ করে.;
+	bn=খোলা মেনু বন্ধ করে।;
 	}
 
 [FORCE: Ctrl for orders and selecting while held, so a click forces fire on the ground or a friend.]
 	{
-	bn=জোর: ধরে রাখলে আদেশ আর বাছার জন্য Ctrl হয়, তাই চাপে মাটিতে বা মিত্রে জোর করে গুলি চলে.;
+	bn=জোর: ধরে রাখলে আদেশ আর বাছার জন্য Ctrl হয়, তাই চাপে মাটিতে বা মিত্রে জোর করে গুলি চলে।;
 	}
 
 [Build ring: presses its build button or toggle, or turns the build page.]
 	{
-	bn=বানানোর রিং: এর বানানোর বোতাম বা টগল চাপে, অথবা বানানোর পাতা ঘোরায়.;
+	bn=বানানোর রিং: এর বানানোর বোতাম বা টগল চাপে, অথবা বানানোর পাতা ঘোরায়।;
 	}
 
 [Group: select it, again to centre on it, hold to store the selection in it.]
 	{
-	bn=দল: বাছো, আবার চাপলে কেন্দ্রে আনে, ধরে রাখলে বাছাই এতে রাখে.;
+	bn=দল: বাছো, আবার চাপলে কেন্দ্রে আনে, ধরে রাখলে বাছাই এতে রাখে।;
 	}
 
 [FORCE]
@@ -3876,7 +3876,7 @@
 
 [PAUSE]
 	{
-	bn=থাম;
+	bn=বিরতি;
 	}
 
 [SPEED]
@@ -4061,7 +4061,7 @@
 
 [Enable Unicode Multiplayer Chat]
 	{
-	bn=ইউনিকোড অনেকজন চ্যাট চালু করো;
+	bn=ইউনিকোড মাল্টিপ্লেয়ার চ্যাট চালু করো;
 	}
 
 [Set by the language]
@@ -4072,11 +4072,11 @@
 // Network play's notices in the message log, with {slots} where the values go.
 [Autopause: only the host can unpause]
 	{
-	bn=অটোথাম: শুধু হোস্ট আবার শুরু করতে পারে;
+	bn=অটো-বিরতি: শুধু হোস্ট বিরতি তুলতে পারে;
 	}
 [{player} tried to unpause.]
 	{
-	bn={player} আবার শুরু করতে চেয়েছে.;
+	bn={player} বিরতি তুলতে চেয়েছে।;
 	}
 [{player} has cheats enabled]
 	{
@@ -4122,7 +4122,7 @@
 	}
 [Switch to {title} now? The game reloads its data for the new mod and returns to the main menu. Your other settings are kept.]
 	{
-	bn=এখন {title}-এ যাবে? গেম নতুন মোডের ডেটা আবার পড়ে এবং মূল মেনুতে ফেরে. তোমার অন্য সেটিংস থাকে.;
+	bn=এখন {title}-এ যাবে? গেম নতুন মোডের ডেটা আবার পড়ে এবং মূল মেনুতে ফেরে। তোমার অন্য সেটিংস থাকে।;
 	}
 [{n} UNITS]
 	{
@@ -4253,27 +4253,27 @@
 
 [Showing the list from {age}. OA couldn't reach the registries.]
 	{
-	bn={age} নেওয়া তালিকা দেখাচ্ছে. OA রেজিস্ট্রিতে পৌঁছাতে পারেনি.;
+	bn={age} নেওয়া তালিকা দেখাচ্ছে। OA রেজিস্ট্রিতে পৌঁছাতে পারেনি।;
 	}
 
 [Nothing here yet. Turn a registry on in Settings › Downloads.]
 	{
-	bn=এখানে এখনো কিছু নেই. সেটিংস › নামানোতে একটা রেজিস্ট্রি চালু করো.;
+	bn=এখানে এখনো কিছু নেই। সেটিংস › নামানোতে একটা রেজিস্ট্রি চালু করো।;
 	}
 
 [Nothing matches "{query}".]
 	{
-	bn=“{query}” মেলে এমন কিছু নেই.;
+	bn=“{query}” মেলে এমন কিছু নেই।;
 	}
 
 [No updates.]
 	{
-	bn=কোনো আপডেট নেই.;
+	bn=কোনো আপডেট নেই।;
 	}
 
 [Nothing to show.]
 	{
-	bn=দেখানোর কিছু নেই.;
+	bn=দেখানোর কিছু নেই।;
 	}
 
 [UPDATE]
@@ -4553,7 +4553,7 @@
 
 [{from} → {to} · changes the game's rules; saved games from {old} won't load under {new}]
 	{
-	bn={from} → {to} · গেমের নিয়ম বদলায়. {old}-এর সেভ করা গেম {new}-এ খুলবে না;
+	bn={from} → {to} · গেমের নিয়ম বদলায়। {old}-এর সেভ করা গেম {new}-এ খুলবে না;
 	}
 
 [changes · {old} saves won't load]
@@ -4608,12 +4608,12 @@
 
 [Finishes when you leave {name}.]
 	{
-	bn={name} ছাড়লে শেষ হয়.;
+	bn={name} ছাড়লে শেষ হয়।;
 	}
 
 [You are playing {playing}. Updating {name} doesn't restart the game.]
 	{
-	bn=তুমি {playing} খেলছ. {name} আপডেট করলে গেম আবার চালু হয় না.;
+	bn=তুমি {playing} খেলছ। {name} আপডেট করলে গেম আবার চালু হয় না।;
 	}
 
 [{name} {version}]
@@ -4743,7 +4743,7 @@
 
 [It finishes when you leave {name}.]
 	{
-	bn={name} ছাড়লে এটা শেষ হয়.;
+	bn={name} ছাড়লে এটা শেষ হয়।;
 	}
 
 [{names} and {count} more]
@@ -4870,17 +4870,17 @@
 
 [The file manager could not open it.]
 	{
-	bn=ফাইল ম্যানেজার এটা খুলতে পারেনি.;
+	bn=ফাইল ম্যানেজার এটা খুলতে পারেনি।;
 	}
 
 [No file manager is there to open it.]
 	{
-	bn=এটা খোলার কোনো ফাইল ম্যানেজার নেই.;
+	bn=এটা খোলার কোনো ফাইল ম্যানেজার নেই।;
 	}
 
 [The folder cannot be made.]
 	{
-	bn=ফোল্ডার বানানো যায় না.;
+	bn=ফোল্ডার বানানো যায় না।;
 	}
 
 [AVAILABLE TO DOWNLOAD]
@@ -4915,17 +4915,17 @@
 
 [Downloads, then switches to it.]
 	{
-	bn=নেমে তারপর সেটাতে যায়.;
+	bn=নেমে তারপর সেটাতে যায়।;
 	}
 
 [. Choose it again to try again.]
 	{
-	bn=. আবার চেষ্টা করতে এটা আবার বেছে নাও.;
+	bn=। আবার চেষ্টা করতে এটা আবার বেছে নাও।;
 	}
 
 [More languages are in the Library.]
 	{
-	bn=আরও ভাষা লাইব্রেরিতে আছে.;
+	bn=আরও ভাষা লাইব্রেরিতে আছে।;
 	}
 
 [fps]
@@ -4955,7 +4955,7 @@
 
 [Every part of OA's own screens, in each of its states, at this size.]
 	{
-	bn=OA-এর নিজের পর্দার প্রতিটি অংশ, তার প্রতিটি অবস্থায়, এই মাপে.;
+	bn=OA-এর নিজের পর্দার প্রতিটি অংশ, তার প্রতিটি অবস্থায়, এই মাপে।;
 	}
 
 [Check for content updates]
@@ -4980,7 +4980,7 @@
 
 [OA looks for new content and updates in the registries' lists. It never installs anything until you say so.]
 	{
-	bn=OA রেজিস্ট্রির তালিকায় নতুন কনটেন্ট আর আপডেট খোঁজে. তুমি না বললে সে কিছু ইনস্টল করে না.;
+	bn=OA রেজিস্ট্রির তালিকায় নতুন কনটেন্ট আর আপডেট খোঁজে। তুমি না বললে সে কিছু ইনস্টল করে না।;
 	}
 
 [Install ID]
@@ -4990,7 +4990,7 @@
 
 [A random number that lets {name} stop automated downloads. Turned off, you can browse the Library, but downloads are off. Installed content keeps working.]
 	{
-	bn=একটা এলোমেলো সংখ্যা, যাতে {name} স্বয়ংক্রিয় নামানো আটকাতে পারে. বন্ধ থাকলে লাইব্রেরি দেখা যায়, কিন্তু নামানো বন্ধ. ইনস্টল করা কনটেন্ট চলতে থাকে.;
+	bn=একটা এলোমেলো সংখ্যা, যাতে {name} স্বয়ংক্রিয় নামানো আটকাতে পারে। বন্ধ থাকলে লাইব্রেরি দেখা যায়, কিন্তু নামানো বন্ধ। ইনস্টল করা কনটেন্ট চলতে থাকে।;
 	}
 
 [Made at your first download]
@@ -5100,17 +5100,17 @@
 
 [Choose from the main menu.]
 	{
-	bn=মূল মেনু থেকে বেছে নাও.;
+	bn=মূল মেনু থেকে বেছে নাও।;
 	}
 
 [Content from these registries isn't reviewed by the OA team. OA still checks every package before using it.]
 	{
-	bn=এই রেজিস্ট্রির কনটেন্ট OA দল দেখে না. তারপরও OA ব্যবহারের আগে প্রতিটি প্যাকেজ যাচাই করে.;
+	bn=এই রেজিস্ট্রির কনটেন্ট OA দল দেখে না। তারপরও OA ব্যবহারের আগে প্রতিটি প্যাকেজ যাচাই করে।;
 	}
 
 [Content from registries other than {names} isn't reviewed by the OA team. OA still checks every package before using it.]
 	{
-	bn={names} ছাড়া অন্য রেজিস্ট্রির কনটেন্ট OA দল দেখে না. তারপরও OA ব্যবহারের আগে প্রতিটি প্যাকেজ যাচাই করে.;
+	bn={names} ছাড়া অন্য রেজিস্ট্রির কনটেন্ট OA দল দেখে না। তারপরও OA ব্যবহারের আগে প্রতিটি প্যাকেজ যাচাই করে।;
 	}
 
 // The map browser, GET MAP, and the questions that install a map pack or a language.
@@ -5252,12 +5252,12 @@
 
 [Its catalogue says it does not fit {game}.]
 	{
-	bn=এর তালিকা বলছে এটা {game}-এর সঙ্গে মেলে না.;
+	bn=এর তালিকা বলছে এটা {game}-এর সঙ্গে মেলে না।;
 	}
 
 [The map list does not hold this map.]
 	{
-	bn=ম্যাপের তালিকায় এই ম্যাপ নেই.;
+	bn=ম্যাপের তালিকায় এই ম্যাপ নেই।;
 	}
 
 [The download could not start: {reason}]
@@ -5307,17 +5307,17 @@
 
 [You have release {mine} of {pack}; the host plays release {theirs}.]
 	{
-	bn=তোমার কাছে {pack}-এর রিলিজ {mine}. হোস্ট রিলিজ {theirs} খেলছে.;
+	bn=তোমার কাছে {pack}-এর রিলিজ {mine}। হোস্ট রিলিজ {theirs} খেলছে।;
 	}
 
 [The host's release of {pack} is no longer offered by {registry}.]
 	{
-	bn=হোস্টের {pack} রিলিজ {registry} আর দেয় না.;
+	bn=হোস্টের {pack} রিলিজ {registry} আর দেয় না।;
 	}
 
 [Downloads from {registry} are off (Settings › Downloads).]
 	{
-	bn={registry} থেকে নামানো বন্ধ (সেটিংস › নামানো).;
+	bn={registry} থেকে নামানো বন্ধ (সেটিংস › নামানো)।;
 	}
 
 [Downloading {pack} · {done} of {size}]
@@ -5337,7 +5337,7 @@
 
 [{file} is not a package Open Annihilation installs.]
 	{
-	bn={file} এমন প্যাকেজ নয় যা Open Annihilation ইনস্টল করে.;
+	bn={file} এমন প্যাকেজ নয় যা Open Annihilation ইনস্টল করে।;
 	}
 
 [Checking {file}...]
@@ -5367,17 +5367,17 @@
 
 [The version installed is kept, and can be brought back.]
 	{
-	bn=ইনস্টল করা ভার্সন রাখা থাকে, ফিরিয়ে আনা যাবে.;
+	bn=ইনস্টল করা ভার্সন রাখা থাকে, ফিরিয়ে আনা যাবে।;
 	}
 
 [The version kept, which cannot be read, is removed.]
 	{
-	bn=যে রাখা ভার্সন পড়া যায় না, সেটা সরে যাবে.;
+	bn=যে রাখা ভার্সন পড়া যায় না, সেটা সরে যাবে।;
 	}
 
 [The version kept ({backup}) is removed.]
 	{
-	bn=রাখা ভার্সন ({backup}) সরে যাবে.;
+	bn=রাখা ভার্সন ({backup}) সরে যাবে।;
 	}
 
 [REINSTALL MAP PACK]
@@ -5387,7 +5387,7 @@
 
 [The version kept stays.]
 	{
-	bn=রাখা ভার্সন থেকে যায়.;
+	bn=রাখা ভার্সন থেকে যায়।;
 	}
 
 [REPLACE MAP PACK]
@@ -5402,7 +5402,7 @@
 
 [{title} {installed} is installed. Replace it with {incoming} from {file}?]
 	{
-	bn={title} {installed} ইনস্টল আছে. {file} থেকে {incoming} দিয়ে বদলাবে?;
+	bn={title} {installed} ইনস্টল আছে। {file} থেকে {incoming} দিয়ে বদলাবে?;
 	}
 
 [MAP PACK INSTALLED]
@@ -5422,12 +5422,12 @@
 
 [{title} is now {new}. {old} is kept, and can be brought back.]
 	{
-	bn={title} এখন {new}. {old} রাখা আছে, ফিরিয়ে আনা যাবে.;
+	bn={title} এখন {new}। {old} রাখা আছে, ফিরিয়ে আনা যাবে।;
 	}
 
 [{title} is back to {new}. {old} is kept, and can be brought back.]
 	{
-	bn={title} আবার {new}-এ ফিরেছে. {old} রাখা আছে, ফিরিয়ে আনা যাবে.;
+	bn={title} আবার {new}-এ ফিরেছে। {old} রাখা আছে, ফিরিয়ে আনা যাবে।;
 	}
 
 [MAP PACK NOT INSTALLED]
@@ -5437,12 +5437,12 @@
 
 [It holds no oamap.yaml at its top, or in a single folder at its top.]
 	{
-	bn=উপরে oamap.yaml নেই, আর উপরে একটাই ফোল্ডার থাকলে তার ভিতরেও নেই.;
+	bn=উপরে oamap.yaml নেই, আর উপরে একটাই ফোল্ডার থাকলে তার ভিতরেও নেই।;
 	}
 
 [Its oamap.yaml is larger than 256 KiB.]
 	{
-	bn=এর oamap.yaml 256 KiB-এর চেয়ে বড়.;
+	bn=এর oamap.yaml 256 KiB-এর চেয়ে বড়।;
 	}
 
 [Its oamap.yaml has errors:]
@@ -5452,82 +5452,82 @@
 
 [It unpacks to {size}, more than the {limit} a map pack may take.]
 	{
-	bn=খুললে এটা {size} হয়, ম্যাপ প্যাকের সীমা {limit}-এর বেশি.;
+	bn=খুললে এটা {size} হয়, ম্যাপ প্যাকের সীমা {limit}-এর বেশি।;
 	}
 
 [It unpacks to {size} from {packed}, far more than a map pack's files take.]
 	{
-	bn={packed} থেকে খুললে {size} হয়, ম্যাপ প্যাকের ফাইলের চেয়ে অনেক বেশি.;
+	bn={packed} থেকে খুললে {size} হয়, ম্যাপ প্যাকের ফাইলের চেয়ে অনেক বেশি।;
 	}
 
 [It holds more than {limit} folders, more than a map pack may take.]
 	{
-	bn=এতে {limit}-এর বেশি ফোল্ডার, ম্যাপ প্যাকে যতটা নেওয়া যায় তার বেশি.;
+	bn=এতে {limit}-এর বেশি ফোল্ডার, ম্যাপ প্যাকে যতটা নেওয়া যায় তার বেশি।;
 	}
 
 [It needs {size} free, and the disk holding your Maps folder has {free}.]
 	{
-	bn={size} ফাঁকা লাগে, আর তোমার Maps ফোল্ডারের ডিস্কে {free} আছে.;
+	bn={size} ফাঁকা লাগে, আর তোমার Maps ফোল্ডারের ডিস্কে {free} আছে।;
 	}
 
 [Your Maps folder has no free folder name for it.]
 	{
-	bn=তোমার Maps ফোল্ডারে এর জন্য অব্যবহৃত ফোল্ডারের নাম নেই.;
+	bn=তোমার Maps ফোল্ডারে এর জন্য অব্যবহৃত ফোল্ডারের নাম নেই।;
 	}
 
 [Your Maps folder changed while this map pack was being installed; nothing was changed. Open the file again.]
 	{
-	bn=এই ম্যাপ প্যাক ইনস্টল হওয়ার সময় তোমার Maps ফোল্ডার বদলেছে. কিছু বদলানো হয়নি. ফাইল আবার খোলো.;
+	bn=এই ম্যাপ প্যাক ইনস্টল হওয়ার সময় তোমার Maps ফোল্ডার বদলেছে। কিছু বদলানো হয়নি। ফাইল আবার খোলো।;
 	}
 
 [Another copy of Open Annihilation is changing your Maps folder. Try again once it has finished.]
 	{
-	bn=Open Annihilation-এর আরেক কপি তোমার Maps ফোল্ডার বদলাচ্ছে. সেটা শেষ হলে আবার চেষ্টা করো.;
+	bn=Open Annihilation-এর আরেক কপি তোমার Maps ফোল্ডার বদলাচ্ছে। সেটা শেষ হলে আবার চেষ্টা করো।;
 	}
 
 [It is not a kind of package this game installs.]
 	{
-	bn=এই গেম এমন প্যাকেজ ইনস্টল করে না.;
+	bn=এই গেম এমন প্যাকেজ ইনস্টল করে না।;
 	}
 
 [The pack lists {name}, which it does not hold.]
 	{
-	bn=প্যাকের তালিকায় {name} আছে, কিন্তু সেটা এর ভিতরে নেই.;
+	bn=প্যাকের তালিকায় {name} আছে, কিন্তু সেটা এর ভিতরে নেই।;
 	}
 
 [The pack holds {name}, which no map uses.]
 	{
-	bn=প্যাকে {name} আছে, কোনো ম্যাপ সেটা ব্যবহার করে না.;
+	bn=প্যাকে {name} আছে, কোনো ম্যাপ সেটা ব্যবহার করে না।;
 	}
 
 [The pack holds {name}, which no map uses: it is outside the folders a map pack may hold.]
 	{
-	bn=প্যাকে {name} আছে, কোনো ম্যাপ সেটা ব্যবহার করে না: এটা এমন ফোল্ডারে যা ম্যাপ প্যাকে থাকা উচিত নয়.;
+	bn=প্যাকে {name} আছে, কোনো ম্যাপ সেটা ব্যবহার করে না: এটা এমন ফোল্ডারে যা ম্যাপ প্যাকে থাকা উচিত নয়।;
 	}
 
 [The preview {name} is not a PNG.]
 	{
-	bn=প্রিভিউ {name} PNG নয়.;
+	bn=প্রিভিউ {name} PNG নয়।;
 	}
 
 [The preview {name} is larger than 2 MiB.]
 	{
-	bn=প্রিভিউ {name} 2 MiB-এর চেয়ে বড়.;
+	bn=প্রিভিউ {name} 2 MiB-এর চেয়ে বড়।;
 	}
 
 [It needs a different Open Annihilation.]
 	{
-	bn=অন্য একটা Open Annihilation লাগে.;
+	bn=অন্য একটা Open Annihilation লাগে।;
 	}
 
 [A map in the pack does not fit the base game.]
 	{
-	bn=প্যাকের একটা ম্যাপ মূল গেমের সঙ্গে মেলে না.;
+	bn=প্যাকের একটা ম্যাপ মূল গেমের সঙ্গে মেলে না।;
 	}
 
 [The folder {name} does not hold this map pack. It is left as it is.]
 	{
-	bn=ফোল্ডার {name}-এ এই ম্যাপ প্যাক নেই. ফোল্ডার আগের মতোই থাকে.;
+	bn=ফোল্ডার {name}-এ এই ম্যাপ প্যাক নেই। ফোল্ডার আগের মতোই থাকে।;
 	}
 
 [INSTALLING LANGUAGE]
@@ -5562,7 +5562,7 @@
 
 [The folder {tag} does not hold this language. Replace it with {endonym} ({english}) from {file}? It is kept, and can be brought back.]
 	{
-	bn=ফোল্ডার {tag}-এ এই ভাষা নেই. {file} থেকে {endonym} ({english}) দিয়ে বদলাবে? আগেরটা রাখা থাকবে, ফিরিয়ে আনা যাবে.;
+	bn=ফোল্ডার {tag}-এ এই ভাষা নেই। {file} থেকে {endonym} ({english}) দিয়ে বদলাবে? আগেরটা রাখা থাকবে, ফিরিয়ে আনা যাবে।;
 	}
 
 [LANGUAGE INSTALLED]
@@ -5587,37 +5587,37 @@
 
 [It holds no language.yaml.]
 	{
-	bn=এতে language.yaml নেই.;
+	bn=এতে language.yaml নেই।;
 	}
 
 [Its language.yaml has errors.]
 	{
-	bn=এর language.yaml-এ ভুল আছে.;
+	bn=এর language.yaml-এ ভুল আছে।;
 	}
 
 [It lists a font it does not hold: {name}.]
 	{
-	bn=এটা যে ফন্ট {name} লেখে, সেটা এর ভিতরে নেই.;
+	bn=এটা যে ফন্ট {name} লেখে, সেটা এর ভিতরে নেই।;
 	}
 
 [A font in the pack cannot be opened.]
 	{
-	bn=প্যাকের একটা ফন্ট খোলা যায় না.;
+	bn=প্যাকের একটা ফন্ট খোলা যায় না।;
 	}
 
 [Its font {name} cannot be opened.]
 	{
-	bn=এর ফন্ট {name} খোলা যায় না.;
+	bn=এর ফন্ট {name} খোলা যায় না।;
 	}
 
 [Its warm-up text cannot be read.]
 	{
-	bn=এর প্রস্তুতির লেখা পড়া যায় না.;
+	bn=এর প্রস্তুতির লেখা পড়া যায় না।;
 	}
 
 [A table in the pack does not parse.]
 	{
-	bn=প্যাকের একটা টেবিল পড়া যায় না.;
+	bn=প্যাকের একটা টেবিল পড়া যায় না।;
 	}
 
 [REPLACE MOD]
@@ -5743,7 +5743,7 @@
 
 [Choose your language.]
 	{
-	bn=ভাষা বেছে নাও.;
+	bn=ভাষা বেছে নাও।;
 	}
 
 [Skip setup]
@@ -5818,17 +5818,17 @@
 
 [Other languages download from Core Prime. The first download makes a random install ID, which a later step explains.]
 	{
-	bn=অন্য ভাষা Core Prime থেকে নামে. প্রথম নামানো একটা এলোমেলো ইনস্টল ID বানায়. পরের ধাপে তার ব্যাখ্যা আছে.;
+	bn=অন্য ভাষা Core Prime থেকে নামে। প্রথম নামানো একটা এলোমেলো ইনস্টল ID বানায়। পরের ধাপে তার ব্যাখ্যা আছে।;
 	}
 
 [Downloads are off, so language packs stay offline.]
 	{
-	bn=নামানো বন্ধ, তাই ভাষার প্যাক অফলাইনে থাকে.;
+	bn=নামানো বন্ধ, তাই ভাষার প্যাক অফলাইনে থাকে।;
 	}
 
 [The catalogue could not be read, so language packs stay offline.]
 	{
-	bn=তালিকা পড়া যায়নি, তাই ভাষার প্যাক অফলাইনে থাকে.;
+	bn=তালিকা পড়া যায়নি, তাই ভাষার প্যাক অফলাইনে থাকে।;
 	}
 
 [ONLINE]
@@ -5848,17 +5848,17 @@
 
 [Get language packs, mods and map packs from Core Prime.]
 	{
-	bn=Core Prime থেকে ভাষার প্যাক, মোড আর ম্যাপ প্যাক নাও.;
+	bn=Core Prime থেকে ভাষার প্যাক, মোড আর ম্যাপ প্যাক নাও।;
 	}
 
 [Lists of what is new are checked as the game starts and when the Library opens.]
 	{
-	bn=গেম চালু হলে আর লাইব্রেরি খুললে নতুনের তালিকা দেখা হয়.;
+	bn=গেম চালু হলে আর লাইব্রেরি খুললে নতুনের তালিকা দেখা হয়।;
 	}
 
 [A random install ID, one per registry, is sent only when downloading from that registry.]
 	{
-	bn=এলোমেলো ইনস্টল ID, প্রতি রেজিস্ট্রিতে একটা, শুধু সেই রেজিস্ট্রি থেকে নামানোর সময় পাঠানো হয়.;
+	bn=এলোমেলো ইনস্টল ID, প্রতি রেজিস্ট্রিতে একটা, শুধু সেই রেজিস্ট্রি থেকে নামানোর সময় পাঠানো হয়।;
 	}
 
 [Your install ID]
@@ -5868,7 +5868,7 @@
 
 [A random 128-bit number, made the first time you download from a registry, not when the game starts. Each registry that asks has its own. Core Prime asks for one. It is sent only when asking that registry for a download. Turning it off forgets it, and downloads from that registry stop. Built-in languages and files you open keep working.]
 	{
-	bn=এলোমেলো 128-বিট সংখ্যা. রেজিস্ট্রি থেকে প্রথমবার নামানোর সময় বানানো হয়, গেম চালুর সময় নয়. যে রেজিস্ট্রি চায় তার নিজস্ব একটা থাকে. Core Prime একটা চায়. শুধু সেই রেজিস্ট্রি থেকে নামানো চাইলে সেটা পাঠানো হয়. বন্ধ করলে সেটা মুছে যায়, আর সেই রেজিস্ট্রি থেকে নামানো বন্ধ হয়. গেমের ভিতরের ভাষা এবং তুমি যে ফাইল খোলো সেগুলো আগের মতো চলে.;
+	bn=এলোমেলো 128-বিট সংখ্যা। রেজিস্ট্রি থেকে প্রথমবার নামানোর সময় বানানো হয়, গেম চালুর সময় নয়। যে রেজিস্ট্রি চায় তার নিজস্ব একটা থাকে। Core Prime একটা চায়। শুধু সেই রেজিস্ট্রি থেকে নামানো চাইলে সেটা পাঠানো হয়। বন্ধ করলে সেটা মুছে যায়, আর সেই রেজিস্ট্রি থেকে নামানো বন্ধ হয়। গেমের ভিতরের ভাষা এবং তুমি যে ফাইল খোলো সেগুলো আগের মতো চলে।;
 	}
 
 [Turn on online features]
@@ -5883,12 +5883,12 @@
 
 [Check for content updates stays at Automatically, and Core Prime's install ID stays on.]
 	{
-	bn=“কনটেন্ট আপডেট দেখো” স্বয়ংক্রিয়ই থাকে, আর Core Prime-এর ইনস্টল ID চালু থাকে.;
+	bn=“কনটেন্ট আপডেট দেখো” স্বয়ংক্রিয়ই থাকে, আর Core Prime-এর ইনস্টল ID চালু থাকে।;
 	}
 
 [Check for content updates is set to Never, and Core Prime's install ID is turned off.]
 	{
-	bn=“কনটেন্ট আপডেট দেখো” কখনো না হয়, আর Core Prime-এর ইনস্টল ID বন্ধ.;
+	bn=“কনটেন্ট আপডেট দেখো” কখনো না হয়, আর Core Prime-এর ইনস্টল ID বন্ধ।;
 	}
 
 [THE MAIN MENU]
@@ -5913,17 +5913,17 @@
 
 [Get, update and switch mods, map packs and languages. The number counts every package you have added: mods, map packs, language packs and expansions.]
 	{
-	bn=মোড, ম্যাপ প্যাক আর ভাষা নাও, আপডেট করো আর বদলাও. সংখ্যাটা তোমার যোগ করা প্রতিটি প্যাকেজ গোনে: মোড, ম্যাপ প্যাক, ভাষার প্যাক আর এক্সপানশন.;
+	bn=মোড, ম্যাপ প্যাক আর ভাষা নাও, আপডেট করো আর বদলাও। সংখ্যাটা তোমার যোগ করা প্রতিটি প্যাকেজ গোনে: মোড, ম্যাপ প্যাক, ভাষার প্যাক আর এক্সপানশন।;
 	}
 
 [Open Annihilation's own settings: controls, graphics, the interface's size, downloads and your files.]
 	{
-	bn=Open Annihilation-এর নিজের সেটিংস: নিয়ন্ত্রণ, গ্রাফিক্স, ইন্টারফেসের মাপ, নামানো আর তোমার ফাইল.;
+	bn=Open Annihilation-এর নিজের সেটিংস: নিয়ন্ত্রণ, গ্রাফিক্স, ইন্টারফেসের মাপ, নামানো আর তোমার ফাইল।;
 	}
 
 [The Library is where you get mods, map packs and languages. Settings is where you change how Open Annihilation looks and plays. Everything else on this menu is the game's own.]
 	{
-	bn=লাইব্রেরিতে মোড, ম্যাপ প্যাক আর ভাষা নাও. সেটিংসে Open Annihilation কেমন দেখায় আর কেমন চলে সেটা বদলাও. এই মেনুর বাকি সব গেমের নিজের অংশ.;
+	bn=লাইব্রেরিতে মোড, ম্যাপ প্যাক আর ভাষা নাও। সেটিংসে Open Annihilation কেমন দেখায় আর কেমন চলে সেটা বদলাও। এই মেনুর বাকি সব গেমের নিজের অংশ।;
 	}
 
 [Engine Limits]
@@ -5973,7 +5973,7 @@
 
 [Walk through the language, online features and the OA buttons again.]
 	{
-	bn=ভাষা, অনলাইন সুবিধা আর OA-এর বোতাম আবার দেখে নাও.;
+	bn=ভাষা, অনলাইন সুবিধা আর OA-এর বোতাম আবার দেখে নাও।;
 	}
 
 [File Type Registration]
@@ -6008,7 +6008,7 @@
 
 [The system takes these file types from the app.]
 	{
-	bn=সিস্টেম এই ফাইলের ধরন অ্যাপ থেকে নেয়.;
+	bn=সিস্টেম এই ফাইলের ধরন অ্যাপ থেকে নেয়।;
 	}
 
 [and]
@@ -6018,22 +6018,22 @@
 
 [macOS kept Open Annihilation as the opener of {types}. To choose another, select a {types} file in Finder, then File › Get Info › Open with › Change All.]
 	{
-	bn=macOS Open Annihilation কে {types} খোলার প্রোগ্রাম করে রেখেছে. অন্যটা বাছতে Finder-এ একটা {types} ফাইল বাছো, তারপর ফাইল › তথ্য নাও › দিয়ে খোলো › সব বদলাও.;
+	bn=macOS Open Annihilation কে {types} খোলার প্রোগ্রাম করে রেখেছে। অন্যটা বাছতে Finder-এ একটা {types} ফাইল বাছো, তারপর ফাইল › তথ্য নাও › দিয়ে খোলো › সব বদলাও।;
 	}
 
 [macOS kept Open Annihilation as the opener of {types}. To choose another, select one of them in Finder, then File › Get Info › Open with › Change All.]
 	{
-	bn=macOS Open Annihilation কে {types} খোলার প্রোগ্রাম করে রেখেছে. অন্যটা বাছতে Finder-এ তার একটা বাছো, তারপর ফাইল › তথ্য নাও › দিয়ে খোলো › সব বদলাও.;
+	bn=macOS Open Annihilation কে {types} খোলার প্রোগ্রাম করে রেখেছে। অন্যটা বাছতে Finder-এ তার একটা বাছো, তারপর ফাইল › তথ্য নাও › দিয়ে খোলো › সব বদলাও।;
 	}
 
 [This system reads HTTPS registries over HTTP.]
 	{
-	bn=এই সিস্টেম HTTPS রেজিস্ট্রি HTTP দিয়ে পড়ে.;
+	bn=এই সিস্টেম HTTPS রেজিস্ট্রি HTTP দিয়ে পড়ে।;
 	}
 
 [Registries are in the Library.]
 	{
-	bn=রেজিস্ট্রি লাইব্রেরিতে আছে.;
+	bn=রেজিস্ট্রি লাইব্রেরিতে আছে।;
 	}
 
 [MOD]
@@ -6073,7 +6073,7 @@
 
 [No map packs are installed.]
 	{
-	bn=কোনো ম্যাপ প্যাক ইনস্টল হয়নি.;
+	bn=কোনো ম্যাপ প্যাক ইনস্টল হয়নি।;
 	}
 
 [New]
@@ -6193,7 +6193,7 @@
 
 [Map packs can't be uninstalled during a game.]
 	{
-	bn=লড়াই চলাকালীন ম্যাপ প্যাক সড়ানো যায় না.;
+	bn=লড়াই চলাকালীন ম্যাপ প্যাক সড়ানো যায় না।;
 	}
 
 [Uninstall {name}]
@@ -6203,47 +6203,47 @@
 
 [Uninstall {name}? Its folder, {folder}, is removed.]
 	{
-	bn={name} সরাবে? এর ফোল্ডার {folder} সরে যাবে.;
+	bn={name} সরাবে? এর ফোল্ডার {folder} সরে যাবে।;
 	}
 
 [No registry lists it, so the Library cannot get it again.]
 	{
-	bn=কোনো রেজিস্ট্রির তালিকায় এটা নেই, তাই লাইব্রেরি আবার আনতে পারবে না.;
+	bn=কোনো রেজিস্ট্রির তালিকায় এটা নেই, তাই লাইব্রেরি আবার আনতে পারবে না।;
 	}
 
 [The game is shown in {name}. Choose another language in Settings › Language first, then uninstall it.]
 	{
-	bn=গেমের ভাষা এখন {name}. আগে সেটিংস › ভাষায় অন্য ভাষা বেছে নাও, তারপর সরাও.;
+	bn=গেমের ভাষা এখন {name}। আগে সেটিংস › ভাষায় অন্য ভাষা বেছে নাও, তারপর সরাও।;
 	}
 
 [{name} was not uninstalled. {reason}]
 	{
-	bn={name} সরানো হয়নি. {reason};
+	bn={name} সরানো হয়নি। {reason};
 	}
 
 [Open Annihilation, or another copy of it, is still changing its folder. Try again in a moment.]
 	{
-	bn=Open Annihilation, বা তার আরেক কপি, এখনো এর ফোল্ডার বদলাচ্ছে. একটু পরে আবার চেষ্টা করো.;
+	bn=Open Annihilation, বা তার আরেক কপি, এখনো এর ফোল্ডার বদলাচ্ছে। একটু পরে আবার চেষ্টা করো।;
 	}
 
 [Its folder changed since the Library listed it. Try again.]
 	{
-	bn=লাইব্রেরি তালিকা বানানোর পর এর ফোল্ডার বদলেছে. আবার চেষ্টা করো.;
+	bn=লাইব্রেরি তালিকা বানানোর পর এর ফোল্ডার বদলেছে। আবার চেষ্টা করো।;
 	}
 
 [Its folder is not in your own Open Annihilation folder, and OA removes nothing outside it.]
 	{
-	bn=এর ফোল্ডার তোমার নিজের Open Annihilation ফোল্ডারে নেই, আর OA তার বাইরে কিছু সরায় না.;
+	bn=এর ফোল্ডার তোমার নিজের Open Annihilation ফোল্ডারে নেই, আর OA তার বাইরে কিছু সরায় না।;
 	}
 
 [Its folder could not be moved; another program may be using it. Close it, then try again.]
 	{
-	bn=এর ফোল্ডার সরানো যায়নি. অন্য প্রোগ্রাম হয়তো এটা ব্যবহার করছে. সেটা বন্ধ করো, তারপর আবার চেষ্টা করো.;
+	bn=এর ফোল্ডার সরানো যায়নি। অন্য প্রোগ্রাম হয়তো এটা ব্যবহার করছে। সেটা বন্ধ করো, তারপর আবার চেষ্টা করো।;
 	}
 
 [It is still copied, so it can be fixed in your file manager; the Library's Mods tab plays only mods that work.]
 	{
-	bn=কপি রয়ে গেছে, তাই তোমার ফাইল ম্যানেজারে সারানো যাবে. লাইব্রেরির মোড ট্যাবে শুধু যে মোড চলে সেটাই খেলা যায়.;
+	bn=কপি রয়ে গেছে, তাই তোমার ফাইল ম্যানেজারে সারানো যাবে। লাইব্রেরির মোড ট্যাবে শুধু যে মোড চলে সেটাই খেলা যায়।;
 	}
 
 [Built into the game]
@@ -6263,7 +6263,7 @@
 
 [No installed map matches.]
 	{
-	bn=ইনস্টল করা কোনো ম্যাপ মেলে না.;
+	bn=ইনস্টল করা কোনো ম্যাপ মেলে না।;
 	}
 
 [{shown} of {all}]
@@ -6276,12 +6276,12 @@
 
 ["{title}" was saved with {name}, which is off.]
 	{
-	bn=“{title}” সেভ হয়েছে {name} দিয়ে, যেটা বন্ধ.;
+	bn=“{title}” সেভ হয়েছে {name} দিয়ে, যেটা বন্ধ।;
 	}
 
 ["{title}" was saved with {name}.]
 	{
-	bn=“{title}” সেভ হয়েছে {name} দিয়ে.;
+	bn=“{title}” সেভ হয়েছে {name} দিয়ে।;
 	}
 
 [1 file differs]
@@ -6306,47 +6306,47 @@
 
 [A continues. B goes back.]
 	{
-	bn=A চালিয়ে যায়. B ফেরত যায়.;
+	bn=A চালিয়ে যায়। B ফেরত যায়।;
 	}
 
 [A drag draws a selection box; two fingers scroll the map.]
 	{
-	bn=টেনে বাছাইয়ের বাক্স আঁকা হয়. দুই আঙুল ম্যাপ সরায়.;
+	bn=টেনে বাছাইয়ের বাক্স আঁকা হয়। দুই আঙুল ম্যাপ সরায়।;
 	}
 
 [A drag scrolls the map; hold, then drag, for a selection box.]
 	{
-	bn=টানলে ম্যাপ সরে. বাছাইয়ের বাক্সের জন্য ধরে রাখো, তারপর টানো.;
+	bn=টানলে ম্যাপ সরে। বাছাইয়ের বাক্সের জন্য ধরে রাখো, তারপর টানো।;
 	}
 
 [A middle click pans the view towards the pointer until you click or press a key.]
 	{
-	bn=মাঝের বোতামে চাপলে দৃশ্য পয়েন্টারের দিকে সরে, যতক্ষণ না তুমি চাপো বা একটা কী চাপো.;
+	bn=মাঝের বোতামে চাপলে দৃশ্য পয়েন্টারের দিকে সরে, যতক্ষণ না তুমি চাপো বা একটা কী চাপো।;
 	}
 
 [A tapped QUEUE, ADD or x5 stays on until it is tapped again.]
 	{
-	bn=চাপা সারি, যোগ বা x5 আবার না চাপা পর্যন্ত চালু থাকে.;
+	bn=চাপা সারি, যোগ বা x5 আবার না চাপা পর্যন্ত চালু থাকে।;
 	}
 
 [A tapped QUEUE, ADD or x5 turns off after the next order or selection.]
 	{
-	bn=চাপা সারি, যোগ বা x5 পরের আদেশ বা বাছাইয়ের পর বন্ধ হয়.;
+	bn=চাপা সারি, যোগ বা x5 পরের আদেশ বা বাছাইয়ের পর বন্ধ হয়।;
 	}
 
 [A window hides its title bar and borders while a game is played; menus show them.]
 	{
-	bn=গেম চলার সময় উইন্ডো শিরোনাম দণ্ড আর বর্ডার লুকায়. মেনুতে সেগুলো দেখায়.;
+	bn=গেম চলার সময় উইন্ডো শিরোনাম দণ্ড আর বর্ডার লুকায়। মেনুতে সেগুলো দেখায়।;
 	}
 
 [A window shows its title bar and borders on every screen, a game's included.]
 	{
-	bn=উইন্ডো প্রতিটি পর্দায় শিরোনাম দণ্ড আর বর্ডার দেখায়, গেমের পর্দাতেও.;
+	bn=উইন্ডো প্রতিটি পর্দায় শিরোনাম দণ্ড আর বর্ডার দেখায়, গেমের পর্দাতেও।;
 	}
 
 [After restoring this {device} from a backup, add the game files again.]
 	{
-	bn=ব্যাকআপ থেকে এই {device} ফিরিয়ে আনার পর গেমের ফাইল আবার যোগ করো.;
+	bn=ব্যাকআপ থেকে এই {device} ফিরিয়ে আনার পর গেমের ফাইল আবার যোগ করো।;
 	}
 
 [All files match]
@@ -6366,12 +6366,12 @@
 
 [As far as the view always went: 1/6 of normal size with Full hardware acceleration, else 1/2.]
 	{
-	bn=দৃশ্য যতদূর আগে যেত: পুরো হার্ডওয়্যার ত্বরণে সাধারণ মাপের 1/6, নাহলে 1/2.;
+	bn=দৃশ্য যতদূর আগে যেত: পুরো হার্ডওয়্যার ত্বরণে সাধারণ মাপের 1/6, নাহলে 1/2।;
 	}
 
 [Automatic: a selection box on a tablet, scrolling on a phone.]
 	{
-	bn=স্বয়ংক্রিয়: ট্যাবলেটে বাছাইয়ের বাক্স, ফোনে স্ক্রল.;
+	bn=স্বয়ংক্রিয়: ট্যাবলেটে বাছাইয়ের বাক্স, ফোনে স্ক্রল।;
 	}
 
 [B]
@@ -6416,7 +6416,7 @@
 
 [Chat in any language with players who have it; others see ? for letters they lack.]
 	{
-	bn=যাদের এটা আছে তাদের সঙ্গে যেকোনো ভাষায় চ্যাট করো. অন্যরা যে অক্ষর তাদের নেই, তার জায়গায় ? দেখে.;
+	bn=যাদের এটা আছে তাদের সঙ্গে যেকোনো ভাষায় চ্যাট করো। অন্যরা যে অক্ষর তাদের নেই, তার জায়গায় ? দেখে।;
 	}
 
 [Check again]
@@ -6431,22 +6431,22 @@
 
 [Choosing another base game turns on all of its expansions and unloads the mod you are playing ({mod}). The change applies when the Library closes.]
 	{
-	bn=অন্য মূল গেম বেছে নিলে তার সব এক্সপানশন চালু হয় এবং তুমি যে মোড খেলছ ({mod}) সেটা সরে যায়. বদল লাগে লাইব্রেরি বন্ধ হলে.;
+	bn=অন্য মূল গেম বেছে নিলে তার সব এক্সপানশন চালু হয় এবং তুমি যে মোড খেলছ ({mod}) সেটা সরে যায়। বদল লাগে লাইব্রেরি বন্ধ হলে।;
 	}
 
 [Choosing another base game turns on all of its expansions. The change applies when the Library closes.]
 	{
-	bn=অন্য মূল গেম বেছে নিলে তার সব এক্সপানশন চালু হয়. বদল লাগে লাইব্রেরি বন্ধ হলে.;
+	bn=অন্য মূল গেম বেছে নিলে তার সব এক্সপানশন চালু হয়। বদল লাগে লাইব্রেরি বন্ধ হলে।;
 	}
 
 [Choosing it asks for the demo installer, then copies it. It takes no expansions.]
 	{
-	bn=এটা বেছে নিলে ডেমো ইনস্টলার চায়, তারপর কপি করে. এর কোনো এক্সপানশন নেই.;
+	bn=এটা বেছে নিলে ডেমো ইনস্টলার চায়, তারপর কপি করে। এর কোনো এক্সপানশন নেই।;
 	}
 
 [Choosing it asks for the game, then copies it.]
 	{
-	bn=এটা বেছে নিলে গেম চায়, তারপর কপি করে.;
+	bn=এটা বেছে নিলে গেম চায়, তারপর কপি করে।;
 	}
 
 [Continue]
@@ -6491,22 +6491,22 @@
 
 [Different from the host: a file does not match.]
 	{
-	bn=হোস্টের থেকে আলাদা: একটা ফাইল মেলে না.;
+	bn=হোস্টের থেকে আলাদা: একটা ফাইল মেলে না।;
 	}
 
 [Different from the host: another base game ({name}).]
 	{
-	bn=হোস্টের থেকে আলাদা: অন্য মূল গেম ({name}).;
+	bn=হোস্টের থেকে আলাদা: অন্য মূল গেম ({name})।;
 	}
 
 [Different from the host: no {name}.]
 	{
-	bn=হোস্টের থেকে আলাদা: {name} নেই.;
+	bn=হোস্টের থেকে আলাদা: {name} নেই।;
 	}
 
 [Different from the host: {name} is on.]
 	{
-	bn=হোস্টের থেকে আলাদা: {name} চালু.;
+	bn=হোস্টের থেকে আলাদা: {name} চালু।;
 	}
 
 [Documents]
@@ -6516,37 +6516,37 @@
 
 [Dots farther out than 1/12 of normal size. Closer in, units are drawn as models.]
 	{
-	bn=সাধারণ মাপের 1/12-এর চেয়ে দূরে বিন্দু. কাছে ইউনিট মডেল হিসেবে আঁকা হয়.;
+	bn=সাধারণ মাপের 1/12-এর চেয়ে দূরে বিন্দু। কাছে ইউনিট মডেল হিসেবে আঁকা হয়।;
 	}
 
 [Dots farther out than 1/16 of normal size. Closer in, units are drawn as models.]
 	{
-	bn=সাধারণ মাপের 1/16-এর চেয়ে দূরে বিন্দু. কাছে ইউনিট মডেল হিসেবে আঁকা হয়.;
+	bn=সাধারণ মাপের 1/16-এর চেয়ে দূরে বিন্দু। কাছে ইউনিট মডেল হিসেবে আঁকা হয়।;
 	}
 
 [Dots farther out than 1/2 of normal size. Closer in, units are drawn as models.]
 	{
-	bn=সাধারণ মাপের 1/2-এর চেয়ে দূরে বিন্দু. কাছে ইউনিট মডেল হিসেবে আঁকা হয়.;
+	bn=সাধারণ মাপের 1/2-এর চেয়ে দূরে বিন্দু। কাছে ইউনিট মডেল হিসেবে আঁকা হয়।;
 	}
 
 [Dots farther out than 1/3 of normal size. Closer in, units are drawn as models.]
 	{
-	bn=সাধারণ মাপের 1/3-এর চেয়ে দূরে বিন্দু. কাছে ইউনিট মডেল হিসেবে আঁকা হয়.;
+	bn=সাধারণ মাপের 1/3-এর চেয়ে দূরে বিন্দু। কাছে ইউনিট মডেল হিসেবে আঁকা হয়।;
 	}
 
 [Dots farther out than 1/4 of normal size. Closer in, units are drawn as models.]
 	{
-	bn=সাধারণ মাপের 1/4-এর চেয়ে দূরে বিন্দু. কাছে ইউনিট মডেল হিসেবে আঁকা হয়.;
+	bn=সাধারণ মাপের 1/4-এর চেয়ে দূরে বিন্দু। কাছে ইউনিট মডেল হিসেবে আঁকা হয়।;
 	}
 
 [Dots farther out than 1/6 of normal size. Closer in, units are drawn as models.]
 	{
-	bn=সাধারণ মাপের 1/6-এর চেয়ে দূরে বিন্দু. কাছে ইউনিট মডেল হিসেবে আঁকা হয়.;
+	bn=সাধারণ মাপের 1/6-এর চেয়ে দূরে বিন্দু। কাছে ইউনিট মডেল হিসেবে আঁকা হয়।;
 	}
 
 [Dots farther out than 1/8 of normal size. Closer in, units are drawn as models.]
 	{
-	bn=সাধারণ মাপের 1/8-এর চেয়ে দূরে বিন্দু. কাছে ইউনিট মডেল হিসেবে আঁকা হয়.;
+	bn=সাধারণ মাপের 1/8-এর চেয়ে দূরে বিন্দু। কাছে ইউনিট মডেল হিসেবে আঁকা হয়।;
 	}
 
 [Downloaded]
@@ -6581,17 +6581,17 @@
 
 [Explosions do not light up the ground, whatever a mod asks for.]
 	{
-	bn=বিস্ফোরণ মাটি আলোকিত করে না, মোড যাই চাক.;
+	bn=বিস্ফোরণ মাটি আলোকিত করে না, মোড যাই চাক।;
 	}
 
 [Explosions light up the ground as the game drew it, or less where a mod asks.]
 	{
-	bn=বিস্ফোরণ মাটি আলোকিত করে যেমন গেম আঁকত, বা মোড কম চাইলে তার চেয়ে কম.;
+	bn=বিস্ফোরণ মাটি আলোকিত করে যেমন গেম আঁকত, বা মোড কম চাইলে তার চেয়ে কম।;
 	}
 
 [Explosions light up the ground at half strength, or less where a mod asks.]
 	{
-	bn=বিস্ফোরণ মাটি অর্ধেক জোরে আলোকিত করে, বা মোড কম চাইলে তার চেয়ে কম.;
+	bn=বিস্ফোরণ মাটি অর্ধেক জোরে আলোকিত করে, বা মোড কম চাইলে তার চেয়ে কম।;
 	}
 
 [FOUND]
@@ -6611,7 +6611,7 @@
 
 [Finder's Get Info › Open with chooses another opener.]
 	{
-	bn=Finder-এ Get Info › Open with দিয়ে অন্য খোলার অ্যাপ বেছে নেওয়া যায়.;
+	bn=Finder-এ Get Info › Open with দিয়ে অন্য খোলার অ্যাপ বেছে নেওয়া যায়।;
 	}
 
 [For the Total Annihilation demo only]
@@ -6636,7 +6636,7 @@
 
 [Full screen at this size, or a window of it. Applies when you press OK.]
 	{
-	bn=এই মাপে পুরো পর্দা, বা এই মাপের উইন্ডো. ঠিক চাপলে লাগে.;
+	bn=এই মাপে পুরো পর্দা, বা এই মাপের উইন্ডো। ঠিক চাপলে লাগে।;
 	}
 
 [GAME CONTENT]
@@ -6711,7 +6711,7 @@
 
 [Holds {bundles}.]
 	{
-	bn={bundles} ধরে.;
+	bn={bundles} ধরে।;
 	}
 
 [Home]
@@ -6721,7 +6721,7 @@
 
 [How large Open Annihilation's own screens are drawn. Auto suits the window's height.]
 	{
-	bn=Open Annihilation-এর নিজের পর্দা কত বড় আঁকা হয়. স্বয়ংক্রিয় উইন্ডোর উচ্চতার সঙ্গে মানায়.;
+	bn=Open Annihilation-এর নিজের পর্দা কত বড় আঁকা হয়। স্বয়ংক্রিয় উইন্ডোর উচ্চতার সঙ্গে মানায়।;
 	}
 
 [INSTALLING EXPANSION]
@@ -6731,67 +6731,67 @@
 
 [If OA stops, the copy carries on from here next time.]
 	{
-	bn=OA বন্ধ হলে কপি পরের বার এখান থেকে চলে.;
+	bn=OA বন্ধ হলে কপি পরের বার এখান থেকে চলে।;
 	}
 
 [In Full the card draws 16x16 samples a pixel and scales them down for smoother edges.]
 	{
-	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 16x16 স্যাম্পল আঁকে এবং মসৃণ কিনারার জন্য ছোট করে.;
+	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 16x16 স্যাম্পল আঁকে এবং মসৃণ কিনারার জন্য ছোট করে।;
 	}
 
 [In Full the card draws 16x16 samples a pixel the most this window allows, scaled down.]
 	{
-	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 16x16 স্যাম্পল আঁকে, এই উইন্ডো যত দেয় তার সবচেয়ে বেশি, তারপর ছোট করে.;
+	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 16x16 স্যাম্পল আঁকে, এই উইন্ডো যত দেয় তার সবচেয়ে বেশি, তারপর ছোট করে।;
 	}
 
 [In Full the card draws 2x2 samples a pixel and scales them down for smoother edges.]
 	{
-	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 2x2 স্যাম্পল আঁকে এবং মসৃণ কিনারার জন্য ছোট করে.;
+	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 2x2 স্যাম্পল আঁকে এবং মসৃণ কিনারার জন্য ছোট করে।;
 	}
 
 [In Full the card draws 2x2 samples a pixel the most this window allows, scaled down.]
 	{
-	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 2x2 স্যাম্পল আঁকে, এই উইন্ডো যত দেয় তার সবচেয়ে বেশি, তারপর ছোট করে.;
+	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 2x2 স্যাম্পল আঁকে, এই উইন্ডো যত দেয় তার সবচেয়ে বেশি, তারপর ছোট করে।;
 	}
 
 [In Full the card draws 4x4 samples a pixel and scales them down for smoother edges.]
 	{
-	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 4x4 স্যাম্পল আঁকে এবং মসৃণ কিনারার জন্য ছোট করে.;
+	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 4x4 স্যাম্পল আঁকে এবং মসৃণ কিনারার জন্য ছোট করে।;
 	}
 
 [In Full the card draws 4x4 samples a pixel the most this window allows, scaled down.]
 	{
-	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 4x4 স্যাম্পল আঁকে, এই উইন্ডো যত দেয় তার সবচেয়ে বেশি, তারপর ছোট করে.;
+	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 4x4 স্যাম্পল আঁকে, এই উইন্ডো যত দেয় তার সবচেয়ে বেশি, তারপর ছোট করে।;
 	}
 
 [In Full the card draws 8x8 samples a pixel and scales them down for smoother edges.]
 	{
-	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 8x8 স্যাম্পল আঁকে এবং মসৃণ কিনারার জন্য ছোট করে.;
+	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 8x8 স্যাম্পল আঁকে এবং মসৃণ কিনারার জন্য ছোট করে।;
 	}
 
 [In Full the card draws 8x8 samples a pixel the most this window allows, scaled down.]
 	{
-	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 8x8 স্যাম্পল আঁকে, এই উইন্ডো যত দেয় তার সবচেয়ে বেশি, তারপর ছোট করে.;
+	bn=পুরো মোডে গ্রাফিক্স কার্ড প্রতি পিক্সেলে 8x8 স্যাম্পল আঁকে, এই উইন্ডো যত দেয় তার সবচেয়ে বেশি, তারপর ছোট করে।;
 	}
 
 [In Full the graphics card draws the view 1:1; a level draws it finer for smoother edges.]
 	{
-	bn=পুরো মোডে গ্রাফিক্স কার্ড দৃশ্য 1:1 আঁকে. একটা ধাপ মসৃণ কিনারার জন্য আরও সূক্ষ্ম আঁকে.;
+	bn=পুরো মোডে গ্রাফিক্স কার্ড দৃশ্য 1:1 আঁকে। একটা ধাপ মসৃণ কিনারার জন্য আরও সূক্ষ্ম আঁকে।;
 	}
 
 [In to 2x normal size at most. The wheel, a pinch and a controller stop there.]
 	{
-	bn=সবচেয়ে বেশি সাধারণ মাপের 2x পর্যন্ত কাছে. চাকা, চিমটি আর কন্ট্রোলার সেখানে থামে.;
+	bn=সবচেয়ে বেশি সাধারণ মাপের 2x পর্যন্ত কাছে। চাকা, চিমটি আর কন্ট্রোলার সেখানে থামে।;
 	}
 
 [In to 3x normal size at most. The wheel, a pinch and a controller stop there.]
 	{
-	bn=সবচেয়ে বেশি সাধারণ মাপের 3x পর্যন্ত কাছে. চাকা, চিমটি আর কন্ট্রোলার সেখানে থামে.;
+	bn=সবচেয়ে বেশি সাধারণ মাপের 3x পর্যন্ত কাছে। চাকা, চিমটি আর কন্ট্রোলার সেখানে থামে।;
 	}
 
 [In to 4x normal size at most. The wheel, a pinch and a controller stop there.]
 	{
-	bn=সবচেয়ে বেশি সাধারণ মাপের 4x পর্যন্ত কাছে. চাকা, চিমটি আর কন্ট্রোলার সেখানে থামে.;
+	bn=সবচেয়ে বেশি সাধারণ মাপের 4x পর্যন্ত কাছে। চাকা, চিমটি আর কন্ট্রোলার সেখানে থামে।;
 	}
 
 [Install the expansion {name}?]
@@ -6801,22 +6801,22 @@
 
 [It holds no oaexp.yaml at its top, or in a single folder at its top.]
 	{
-	bn=মূলে oaexp.yaml নেই, মূলের একটা ফোল্ডারেও নেই.;
+	bn=মূলে oaexp.yaml নেই, মূলের একটা ফোল্ডারেও নেই।;
 	}
 
 [It is not one of the game's expansions.]
 	{
-	bn=এটা এই গেমের এক্সপানশন নয়.;
+	bn=এটা এই গেমের এক্সপানশন নয়।;
 	}
 
 [Its oaexp.yaml has errors.]
 	{
-	bn=এর oaexp.yaml-এ ভুল আছে.;
+	bn=এর oaexp.yaml-এ ভুল আছে।;
 	}
 
 [Its oaexp.yaml is larger than 256 KiB.]
 	{
-	bn=এর oaexp.yaml 256 KiB-এর চেয়ে বড়.;
+	bn=এর oaexp.yaml 256 KiB-এর চেয়ে বড়।;
 	}
 
 [Locate another…]
@@ -6836,12 +6836,12 @@
 
 [Mirrors the roles: the left pad points, the right pad moves the map, triggers and grips swap.]
 	{
-	bn=ভূমিকা উল্টো: বাঁ প্যাড পয়েন্টার চালায়, ডান প্যাড ম্যাপ সরায়, ট্রিগার আর গ্রিপ বদল হয়.;
+	bn=ভূমিকা উল্টো: বাঁ প্যাড পয়েন্টার চালায়, ডান প্যাড ম্যাপ সরায়, ট্রিগার আর গ্রিপ বদল হয়।;
 	}
 
 [Modern fonts for in-game text, including internationalization.]
 	{
-	bn=গেমের লেখার জন্য আধুনিক ফন্ট, অন্য ভাষাসহ.;
+	bn=গেমের লেখার জন্য আধুনিক ফন্ট, অন্য ভাষাসহ।;
 	}
 
 [NOW]
@@ -6871,12 +6871,12 @@
 
 [Needs {name}, which is off.]
 	{
-	bn={name} লাগে, যেটা বন্ধ.;
+	bn={name} লাগে, যেটা বন্ধ।;
 	}
 
 [Never closer than normal size. The wheel, a pinch and a controller stop there.]
 	{
-	bn=সাধারণ মাপের চেয়ে কাছে নয়. চাকা, চিমটি আর কন্ট্রোলার সেখানে থামে.;
+	bn=সাধারণ মাপের চেয়ে কাছে নয়। চাকা, চিমটি আর কন্ট্রোলার সেখানে থামে।;
 	}
 
 [Not added]
@@ -6886,17 +6886,17 @@
 
 [Nothing is installed and your files are not changed.]
 	{
-	bn=কিছু ইনস্টল হয় না এবং তোমার ফাইল বদলায় না.;
+	bn=কিছু ইনস্টল হয় না এবং তোমার ফাইল বদলায় না।;
 	}
 
 [OA copies the game once. The installation is left as it is.]
 	{
-	bn=OA গেম একবার কপি করে. ইনস্টল যেমন আছে তেমন থাকে.;
+	bn=OA গেম একবার কপি করে। ইনস্টল যেমন আছে তেমন থাকে।;
 	}
 
 [OA plays from its own copy in Documents › Open Annihilation. The installation is not used or changed.]
 	{
-	bn=OA নিজের কপি থেকে খেলে, নথি › Open Annihilation-এ. ইনস্টল ব্যবহার হয় না, বদলায়ও না.;
+	bn=OA নিজের কপি থেকে খেলে, নথি › Open Annihilation-এ। ইনস্টল ব্যবহার হয় না, বদলায়ও না।;
 	}
 
 [Open]
@@ -6911,37 +6911,37 @@
 
 [Open these files with the game from your file manager.]
 	{
-	bn=ফাইল ম্যানেজার থেকে এই ফাইল গেম দিয়ে খোলো.;
+	bn=ফাইল ম্যানেজার থেকে এই ফাইল গেম দিয়ে খোলো।;
 	}
 
 [Out to 1/16 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
 	{
-	bn=সাধারণ মাপের 1/16 পর্যন্ত দূরে, বা পুরো ম্যাপ. গ্রাফিক্সের দূরের ইউনিট বলে ইউনিট কেমন দেখায়.;
+	bn=সাধারণ মাপের 1/16 পর্যন্ত দূরে, বা পুরো ম্যাপ। গ্রাফিক্সের দূরের ইউনিট বলে ইউনিট কেমন দেখায়।;
 	}
 
 [Out to 1/2 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
 	{
-	bn=সাধারণ মাপের 1/2 পর্যন্ত দূরে, বা পুরো ম্যাপ. গ্রাফিক্সের দূরের ইউনিট বলে ইউনিট কেমন দেখায়.;
+	bn=সাধারণ মাপের 1/2 পর্যন্ত দূরে, বা পুরো ম্যাপ। গ্রাফিক্সের দূরের ইউনিট বলে ইউনিট কেমন দেখায়।;
 	}
 
 [Out to 1/32 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
 	{
-	bn=সাধারণ মাপের 1/32 পর্যন্ত দূরে, বা পুরো ম্যাপ. গ্রাফিক্সের দূরের ইউনিট বলে ইউনিট কেমন দেখায়.;
+	bn=সাধারণ মাপের 1/32 পর্যন্ত দূরে, বা পুরো ম্যাপ। গ্রাফিক্সের দূরের ইউনিট বলে ইউনিট কেমন দেখায়।;
 	}
 
 [Out to 1/4 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
 	{
-	bn=সাধারণ মাপের 1/4 পর্যন্ত দূরে, বা পুরো ম্যাপ. গ্রাফিক্সের দূরের ইউনিট বলে ইউনিট কেমন দেখায়.;
+	bn=সাধারণ মাপের 1/4 পর্যন্ত দূরে, বা পুরো ম্যাপ। গ্রাফিক্সের দূরের ইউনিট বলে ইউনিট কেমন দেখায়।;
 	}
 
 [Out to 1/8 of normal size, or the whole map. Graphics' Zoomed out units says how units look.]
 	{
-	bn=সাধারণ মাপের 1/8 পর্যন্ত দূরে, বা পুরো ম্যাপ. গ্রাফিক্সের দূরের ইউনিট বলে ইউনিট কেমন দেখায়.;
+	bn=সাধারণ মাপের 1/8 পর্যন্ত দূরে, বা পুরো ম্যাপ। গ্রাফিক্সের দূরের ইউনিট বলে ইউনিট কেমন দেখায়।;
 	}
 
 [Out until the whole map fits the view. Graphics' Zoomed out units says how units look.]
 	{
-	bn=দূরে, যতক্ষণ না পুরো ম্যাপ দৃশ্যে আঁটে. গ্রাফিক্সের দূরের ইউনিট বলে ইউনিট কেমন দেখায়.;
+	bn=দূরে, যতক্ষণ না পুরো ম্যাপ দৃশ্যে আঁটে। গ্রাফিক্সের দূরের ইউনিট বলে ইউনিট কেমন দেখায়।;
 	}
 
 [PLACES]
@@ -6951,12 +6951,12 @@
 
 [Past After zoom, each unit is a dot of its owner's colour, framed while selected.]
 	{
-	bn=জুমের পর সীমা পেরোলে প্রতিটি ইউনিট মালিকের রঙের বিন্দু হয়, বাছাই থাকলে ঘের থাকে.;
+	bn=জুমের পর সীমা পেরোলে প্রতিটি ইউনিট মালিকের রঙের বিন্দু হয়, বাছাই থাকলে ঘের থাকে।;
 	}
 
 [Pause]
 	{
-	bn=থাম;
+	bn=বিরতি;
 	}
 
 [Program Files]
@@ -6976,7 +6976,7 @@
 
 [Select a folder or an installer.]
 	{
-	bn=একটা ফোল্ডার বা ইনস্টলার বাছো.;
+	bn=একটা ফোল্ডার বা ইনস্টলার বাছো।;
 	}
 
 [Setup]
@@ -7016,7 +7016,7 @@
 
 [Switching to {name} restarts the game's files, then loads this save.]
 	{
-	bn={name}-এ গেলে গেমের ফাইল আবার খোলে, তারপর এই সেভ খোলে.;
+	bn={name}-এ গেলে গেমের ফাইল আবার খোলে, তারপর এই সেভ খোলে।;
 	}
 
 [TA demo installer]
@@ -7036,27 +7036,27 @@
 
 [The display's own pixel density (Retina on a Mac). Applies from the next start.]
 	{
-	bn=পর্দার নিজের পিক্সেল ঘনত্ব (Mac-এ Retina). পরের শুরু থেকে লাগে.;
+	bn=পর্দার নিজের পিক্সেল ঘনত্ব (Mac-এ Retina)। পরের শুরু থেকে লাগে।;
 	}
 
 [The expansion holds {name}, which it does not have.]
 	{
-	bn=এক্সপানশনে {name} আছে, যা থাকা উচিত নয়.;
+	bn=এক্সপানশনে {name} আছে, যা থাকা উচিত নয়।;
 	}
 
 [The expansion is missing {name}.]
 	{
-	bn=এক্সপানশনে {name} নেই.;
+	bn=এক্সপানশনে {name} নেই।;
 	}
 
 [The file {name} is not the expansion's file.]
 	{
-	bn=ফাইল {name} এক্সপানশনের ফাইল নয়.;
+	bn=ফাইল {name} এক্সপানশনের ফাইল নয়।;
 	}
 
 [The first press clears the selection, the second opens the menu.]
 	{
-	bn=প্রথম চাপে বাছাই খালি হয়, দ্বিতীয় চাপে মেনু খোলে.;
+	bn=প্রথম চাপে বাছাই খালি হয়, দ্বিতীয় চাপে মেনু খোলে।;
 	}
 
 [The following content for your game does not match our expected sizes:]
@@ -7066,147 +7066,147 @@
 
 [The game OA plays. Mods, maps and languages say which base games they work with.]
 	{
-	bn=OA যে গেম চালায়. মোড, ম্যাপ আর ভাষা বলে কোন মূল গেমের সঙ্গে তারা চলে.;
+	bn=OA যে গেম চালায়। মোড, ম্যাপ আর ভাষা বলে কোন মূল গেমের সঙ্গে তারা চলে।;
 	}
 
 [The game cannot start until the content matches.]
 	{
-	bn=বিষয় মেলার আগে লড়াই শুরু হবে না.;
+	bn=বিষয় মেলার আগে লড়াই শুরু হবে না।;
 	}
 
 [The game cannot start until the host turns it on, or {player} turns it off.]
 	{
-	bn=লড়াই শুরু হবে না, যতক্ষণ না হোস্ট সেটা চালু করে বা {player} সেটা বন্ধ করে.;
+	bn=লড়াই শুরু হবে না, যতক্ষণ না হোস্ট সেটা চালু করে বা {player} সেটা বন্ধ করে।;
 	}
 
 [The game cannot start until {player} turns it on, or the host turns it off.]
 	{
-	bn=লড়াই শুরু হবে না, যতক্ষণ না {player} সেটা চালু করে বা হোস্ট সেটা বন্ধ করে.;
+	bn=লড়াই শুরু হবে না, যতক্ষণ না {player} সেটা চালু করে বা হোস্ট সেটা বন্ধ করে।;
 	}
 
 [The game could not be copied.]
 	{
-	bn=গেম কপি করা যায়নি.;
+	bn=গেম কপি করা যায়নি।;
 	}
 
 [The game still plays with these files, but network games with other players may not start, and recordings may not replay the same. Copy the content again from another source to fix it.]
 	{
-	bn=গেম এই ফাইল দিয়েও চলে, কিন্তু অন্য খেলোয়াড়ের সঙ্গে নেটওয়ার্ক লড়াই শুরু না-ও হতে পারে, এবং রেকর্ডিং একইভাবে রিপ্লে না-ও হতে পারে. সারাতে অন্য উৎস থেকে বিষয় আবার কপি করো.;
+	bn=গেম এই ফাইল দিয়েও চলে, কিন্তু অন্য খেলোয়াড়ের সঙ্গে নেটওয়ার্ক লড়াই শুরু না-ও হতে পারে, এবং রেকর্ডিং একইভাবে রিপ্লে না-ও হতে পারে। সারাতে অন্য উৎস থেকে বিষয় আবার কপি করো।;
 	}
 
 [The game's own text and unit names, where its data has them in the language.]
 	{
-	bn=গেমের নিজের লেখা আর ইউনিটের নাম, যেখানে তার ডেটায় সেগুলো এই ভাষায় আছে.;
+	bn=গেমের নিজের লেখা আর ইউনিটের নাম, যেখানে তার ডেটায় সেগুলো এই ভাষায় আছে।;
 	}
 
 [The installer of the Total Annihilation demo (1997).]
 	{
-	bn=Total Annihilation ডেমোর ইনস্টলার (1997).;
+	bn=Total Annihilation ডেমোর ইনস্টলার (1997)।;
 	}
 
 [The largest whole-number scale that fits: smaller menus, every pixel square.]
 	{
-	bn=যে পূর্ণ সংখ্যার মাপ আঁটে তার সবচেয়ে বড়: ছোট মেনু, প্রতিটি পিক্সেল বর্গ.;
+	bn=যে পূর্ণ সংখ্যার মাপ আঁটে তার সবচেয়ে বড়: ছোট মেনু, প্রতিটি পিক্সেল বর্গ।;
 	}
 
 [The menus fill the window, every pixel as wide as the next.]
 	{
-	bn=মেনু উইন্ডো ভরে, প্রতিটি পিক্সেল সমান চওড়া.;
+	bn=মেনু উইন্ডো ভরে, প্রতিটি পিক্সেল সমান চওড়া।;
 	}
 
 [The menus fill the window, unfiltered, as the game always drew them.]
 	{
-	bn=মেনু উইন্ডো ভরে, ফিল্টার ছাড়া, যেমন গেম সবসময় আঁকত.;
+	bn=মেনু উইন্ডো ভরে, ফিল্টার ছাড়া, যেমন গেম সবসময় আঁকত।;
 	}
 
 [The minimap and the thumb controls on the right, the orders on the left.]
 	{
-	bn=মিনিম্যাপ আর বুড়ো আঙুলের নিয়ন্ত্রণ ডানে, আদেশ বাঁয়ে.;
+	bn=মিনিম্যাপ আর বুড়ো আঙুলের নিয়ন্ত্রণ ডানে, আদেশ বাঁয়ে।;
 	}
 
 [The mod was unloaded because an expansion it needs is off. The game plays with No Mod.]
 	{
-	bn=মোড সরে গেছে কারণ তার দরকারি এক্সপানশন বন্ধ. গেম চলে মোড নেই দিয়ে.;
+	bn=মোড সরে গেছে কারণ তার দরকারি এক্সপানশন বন্ধ। গেম চলে মোড নেই দিয়ে।;
 	}
 
 [The pointer leaves a window's edge, as before.]
 	{
-	bn=পয়েন্টার উইন্ডোর কিনারা ছেড়ে যায়, আগের মতো.;
+	bn=পয়েন্টার উইন্ডোর কিনারা ছেড়ে যায়, আগের মতো।;
 	}
 
 [The pointer rests on the edge so the view scrolls.]
 	{
-	bn=পয়েন্টার কিনারায় থাকে, তাই দৃশ্য স্ক্রল করে.;
+	bn=পয়েন্টার কিনারায় থাকে, তাই দৃশ্য স্ক্রল করে।;
 	}
 
 [The right stick moves the pointer and the left stick the map.]
 	{
-	bn=ডান স্টিক পয়েন্টার সরায় এবং বাঁ স্টিক ম্যাপ.;
+	bn=ডান স্টিক পয়েন্টার সরায় এবং বাঁ স্টিক ম্যাপ।;
 	}
 
 [The right stick moves the pointer, as in the Sticks scheme.]
 	{
-	bn=ডান স্টিক পয়েন্টার সরায়, স্টিক ব্যবস্থার মতো.;
+	bn=ডান স্টিক পয়েন্টার সরায়, স্টিক ব্যবস্থার মতো।;
 	}
 
 [The right trackpad points and the left one moves the map; a pad without trackpads plays Sticks.]
 	{
-	bn=ডান ট্র্যাকপ্যাড পয়েন্টার চালায় এবং বাঁ ট্র্যাকপ্যাড ম্যাপ সরায়. ট্র্যাকপ্যাডহীন প্যাড স্টিক ব্যবস্থায় চলে.;
+	bn=ডান ট্র্যাকপ্যাড পয়েন্টার চালায় এবং বাঁ ট্র্যাকপ্যাড ম্যাপ সরায়। ট্র্যাকপ্যাডহীন প্যাড স্টিক ব্যবস্থায় চলে।;
 	}
 
 [The side panel and bars grow with the window, up to twice the original game's size.]
 	{
-	bn=পাশের প্যানেল আর বার উইন্ডোর সঙ্গে বাড়ে, মূল গেমের মাপের দ্বিগুণ পর্যন্ত.;
+	bn=পাশের প্যানেল আর বার উইন্ডোর সঙ্গে বাড়ে, মূল গেমের মাপের দ্বিগুণ পর্যন্ত।;
 	}
 
 [The side panel and bars keep the original game's size on every window.]
 	{
-	bn=পাশের প্যানেল আর বার প্রতিটি উইন্ডোতে মূল গেমের মাপ রাখে.;
+	bn=পাশের প্যানেল আর বার প্রতিটি উইন্ডোতে মূল গেমের মাপ রাখে।;
 	}
 
 [The size of game text in the modern fonts. Larger sizes are easier to read.]
 	{
-	bn=আধুনিক ফন্টে গেমের লেখার মাপ. বড় মাপ পড়তে সহজ.;
+	bn=আধুনিক ফন্টে গেমের লেখার মাপ। বড় মাপ পড়তে সহজ।;
 	}
 
 [The size of game text in the modern fonts. The game's own fonts have fixed sizes.]
 	{
-	bn=আধুনিক ফন্টে গেমের লেখার মাপ. গেমের নিজের ফন্টের মাপ স্থির.;
+	bn=আধুনিক ফন্টে গেমের লেখার মাপ। গেমের নিজের ফন্টের মাপ স্থির।;
 	}
 
 [The size of the touch controls; the game's own screens keep theirs.]
 	{
-	bn=স্পর্শ নিয়ন্ত্রণের মাপ. গেমের নিজের পর্দা নিজের মাপ রাখে.;
+	bn=স্পর্শ নিয়ন্ত্রণের মাপ। গেমের নিজের পর্দা নিজের মাপ রাখে।;
 	}
 
 [The view stays on the map, as the game kept it. With more than the map in view, it is centred.]
 	{
-	bn=দৃশ্য ম্যাপে থাকে, যেমন গেম রাখত. দৃশ্যে ম্যাপের চেয়ে বেশি থাকলে সেটা মাঝে থাকে.;
+	bn=দৃশ্য ম্যাপে থাকে, যেমন গেম রাখত। দৃশ্যে ম্যাপের চেয়ে বেশি থাকলে সেটা মাঝে থাকে।;
 	}
 
 [This base game is used when the Library closes.]
 	{
-	bn=লাইব্রেরি বন্ধ হলে এই মূল গেম লাগে.;
+	bn=লাইব্রেরি বন্ধ হলে এই মূল গেম লাগে।;
 	}
 
 [This game has no expansions.]
 	{
-	bn=এই গেমের কোনো এক্সপানশন নেই.;
+	bn=এই গেমের কোনো এক্সপানশন নেই।;
 	}
 
 [This map is for the TA demo.]
 	{
-	bn=এই ম্যাপ TA ডেমোর জন্য.;
+	bn=এই ম্যাপ TA ডেমোর জন্য।;
 	}
 
 [This map is for {name}.]
 	{
-	bn=এই ম্যাপ {name}-এর জন্য.;
+	bn=এই ম্যাপ {name}-এর জন্য।;
 	}
 
 [This run names its content, so it cannot switch.]
 	{
-	bn=এই চালানো নিজের বিষয়ের নাম দেয়, তাই বদলানো যায় না.;
+	bn=এই চালানো নিজের বিষয়ের নাম দেয়, তাই বদলানো যায় না।;
 	}
 
 [This save needs other content]
@@ -7231,12 +7231,12 @@
 
 [Total Annihilation: Commander Pack. Recognised by its size. The game is read out of it; nothing is installed.]
 	{
-	bn=Total Annihilation: Commander Pack. মাপ দেখে চেনা যায়. গেম এটার ভেতর থেকে পড়া হয়. কিছু ইনস্টল হয় না.;
+	bn=Total Annihilation: Commander Pack। মাপ দেখে চেনা যায়। গেম এটার ভেতর থেকে পড়া হয়। কিছু ইনস্টল হয় না।;
 	}
 
 [Turn it on in the Library.]
 	{
-	bn=লাইব্রেরিতে চালু করো.;
+	bn=লাইব্রেরিতে চালু করো।;
 	}
 
 [Turn off {name}?]
@@ -7251,42 +7251,42 @@
 
 [Turning it on applies when the Library closes.]
 	{
-	bn=চালু করলে লাইব্রেরি বন্ধ হওয়ার পর লাগে.;
+	bn=চালু করলে লাইব্রেরি বন্ধ হওয়ার পর লাগে।;
 	}
 
 [Turning them on applies when the Library closes.]
 	{
-	bn=এগুলো চালু হয় লাইব্রেরি বন্ধ হলে.;
+	bn=এগুলো চালু হয় লাইব্রেরি বন্ধ হলে।;
 	}
 
 [Turning {name} on restarts the game's files, then loads this save. Your other expansions stay as they are.]
 	{
-	bn={name} চালু করলে গেমের ফাইল আবার খোলে, তারপর এই সেভ খোলে. তোমার অন্য এক্সপানশন যেমন আছে তেমন থাকে.;
+	bn={name} চালু করলে গেমের ফাইল আবার খোলে, তারপর এই সেভ খোলে। তোমার অন্য এক্সপানশন যেমন আছে তেমন থাকে।;
 	}
 
 [Units are drawn as models at every zoom. Far out on a large map, needs a fast CPU.]
 	{
-	bn=প্রতিটি জুমে ইউনিট মডেল হিসেবে আঁকা হয়. বড় ম্যাপে অনেক দূরে দ্রুত CPU লাগে.;
+	bn=প্রতিটি জুমে ইউনিট মডেল হিসেবে আঁকা হয়। বড় ম্যাপে অনেক দূরে দ্রুত CPU লাগে।;
 	}
 
 [Units drawn at 16x and scaled down. Needs a fast CPU.]
 	{
-	bn=ইউনিট 16x-এ আঁকা এবং ছোট করা. দ্রুত CPU লাগে.;
+	bn=ইউনিট 16x-এ আঁকা এবং ছোট করা। দ্রুত CPU লাগে।;
 	}
 
 [Units drawn at 8x and scaled down. Needs a fast CPU.]
 	{
-	bn=ইউনিট 8x-এ আঁকা এবং ছোট করা. দ্রুত CPU লাগে.;
+	bn=ইউনিট 8x-এ আঁকা এবং ছোট করা। দ্রুত CPU লাগে।;
 	}
 
 [Units drawn at higher resolution and scaled down for smoother edges.]
 	{
-	bn=ইউনিট বেশি রেজোলিউশনে আঁকা এবং মসৃণ কিনারার জন্য ছোট করা.;
+	bn=ইউনিট বেশি রেজোলিউশনে আঁকা এবং মসৃণ কিনারার জন্য ছোট করা।;
 	}
 
 [Units each player can have. Applies from the next game.]
 	{
-	bn=প্রত্যেক খেলোয়াড়ের যত ইউনিট থাকতে পারে. পরের লড়াই থেকে লাগে.;
+	bn=প্রত্যেক খেলোয়াড়ের যত ইউনিট থাকতে পারে। পরের লড়াই থেকে লাগে।;
 	}
 
 [Up]
@@ -7296,17 +7296,17 @@
 
 [Up and down zoom about the pointer; a flick left or right turns the build page while building.]
 	{
-	bn=উপরে আর নিচে পয়েন্টারের চারপাশে জুম. বাঁ বা ডানে ঝটকা দিলে বানানোর সময় বানানোর পাতা ওল্টায়.;
+	bn=উপরে আর নিচে পয়েন্টারের চারপাশে জুম। বাঁ বা ডানে ঝটকা দিলে বানানোর সময় বানানোর পাতা ওল্টায়।;
 	}
 
 [Up to a quarter of the battlefield past the map's edges, however the view moves.]
 	{
-	bn=ম্যাপের কিনারার বাইরে যুদ্ধক্ষেত্রের চারভাগের এক পর্যন্ত, দৃশ্য যেভাবেই নড়ুক.;
+	bn=ম্যাপের কিনারার বাইরে যুদ্ধক্ষেত্রের চারভাগের এক পর্যন্ত, দৃশ্য যেভাবেই নড়ুক।;
 	}
 
 [Up to half the battlefield past the map's edges; a zoom keeps the ground under the pointer.]
 	{
-	bn=ম্যাপের কিনারার বাইরে যুদ্ধক্ষেত্রের অর্ধেক পর্যন্ত. জুমে পয়েন্টারের নিচের মাটি স্থির থাকে.;
+	bn=ম্যাপের কিনারার বাইরে যুদ্ধক্ষেত্রের অর্ধেক পর্যন্ত। জুমে পয়েন্টারের নিচের মাটি স্থির থাকে।;
 	}
 
 [Use the system picker…]
@@ -7331,12 +7331,12 @@
 
 [What guarding builders do. Applies from the next game.]
 	{
-	bn=পাহারা দেওয়া নির্মাতা কী করে. পরের লড়াই থেকে লাগে.;
+	bn=পাহারা দেওয়া নির্মাতা কী করে। পরের লড়াই থেকে লাগে।;
 	}
 
 [What patrolling builders do. Applies from the next game.]
 	{
-	bn=টহল দেওয়া নির্মাতা কী করে. পরের লড়াই থেকে লাগে.;
+	bn=টহল দেওয়া নির্মাতা কী করে। পরের লড়াই থেকে লাগে।;
 	}
 
 [Locate Total Annihilation Game Files]
@@ -7361,12 +7361,12 @@
 
 [At 0.0 the edge never holds.]
 	{
-	bn=0.0-এ কিনারা কখনো ধরে না.;
+	bn=0.0-এ কিনারা কখনো ধরে না।;
 	}
 
 [How firmly Sticky holds the pointer at the edge.]
 	{
-	bn=আটকে পয়েন্টারকে কিনারায় কত জোরে ধরে রাখে.;
+	bn=আটকে পয়েন্টারকে কিনারায় কত জোরে ধরে রাখে।;
 	}
 
 [Needs Sticky]
@@ -7376,7 +7376,7 @@
 
 [The pointer stays in the window while you play.]
 	{
-	bn=খেলার সময় পয়েন্টার উইন্ডোতে থাকে.;
+	bn=খেলার সময় পয়েন্টার উইন্ডোতে থাকে।;
 	}
 
 [X]
@@ -7426,7 +7426,7 @@
 
 [macOS asks once before an app reads Desktop, Documents or Downloads.]
 	{
-	bn=macOS একবার জিজ্ঞেস করে, অ্যাপ ডেস্কটপ, নথি বা ডাউনলোড পড়ার আগে.;
+	bn=macOS একবার জিজ্ঞেস করে, অ্যাপ ডেস্কটপ, নথি বা ডাউনলোড পড়ার আগে।;
 	}
 
 [microSD card]
@@ -7491,27 +7491,27 @@
 
 [{mod} needs {name}, so it is unloaded and the game plays with No Mod.]
 	{
-	bn={mod}-এর {name} লাগে, তাই সেটা সরে যায় এবং গেম চলে মোড নেই দিয়ে.;
+	bn={mod}-এর {name} লাগে, তাই সেটা সরে যায় এবং গেম চলে মোড নেই দিয়ে।;
 	}
 
 [{mod} was unloaded because {name} is off. The game plays with No Mod.]
 	{
-	bn={mod} সরে গেছে কারণ {name} বন্ধ. গেম চলে মোড নেই দিয়ে.;
+	bn={mod} সরে গেছে কারণ {name} বন্ধ। গেম চলে মোড নেই দিয়ে।;
 	}
 
 [{name} is installed. Turn it on in the Library.]
 	{
-	bn={name} ইনস্টল হয়েছে. লাইব্রেরিতে চালু করো.;
+	bn={name} ইনস্টল হয়েছে। লাইব্রেরিতে চালু করো।;
 	}
 
 [{name} is not copied, so this save cannot be loaded with it.]
 	{
-	bn={name} কপি হয়নি, তাই এই সেভ সেটা দিয়ে খোলা যায় না.;
+	bn={name} কপি হয়নি, তাই এই সেভ সেটা দিয়ে খোলা যায় না।;
 	}
 
 [{name} needs {need}.]
 	{
-	bn={name}-এর {need} লাগে.;
+	bn={name}-এর {need} লাগে।;
 	}
 
 [{name} off]
@@ -7521,17 +7521,17 @@
 
 [{name} turns off too: it needs {need}.]
 	{
-	bn={name} বন্ধও হয়: এর {need} লাগে.;
+	bn={name} বন্ধও হয়: এর {need} লাগে।;
 	}
 
 [{name} turns off when the Library closes.]
 	{
-	bn=লাইব্রেরি বন্ধ হলে {name} বন্ধ হয়.;
+	bn=লাইব্রেরি বন্ধ হলে {name} বন্ধ হয়।;
 	}
 
 [{name} turns on when the Library closes.]
 	{
-	bn=লাইব্রেরি বন্ধ হলে {name} চালু হয়.;
+	bn=লাইব্রেরি বন্ধ হলে {name} চালু হয়।;
 	}
 
 [{name} ✓]
@@ -7541,7 +7541,7 @@
 
 [{name}'s maps and campaigns leave the lists until you turn it on again. Nothing is deleted.]
 	{
-	bn={name}-এর ম্যাপ আর অভিযান তালিকা থেকে সরে, যতক্ষণ না আবার চালু করো. কিছু মুছে যায় না.;
+	bn={name}-এর ম্যাপ আর অভিযান তালিকা থেকে সরে, যতক্ষণ না আবার চালু করো। কিছু মুছে যায় না।;
 	}
 
 [{row}: {saved} / {now}]
@@ -7561,12 +7561,12 @@
 
 [A folder that holds totala1.hpi, or a Commander Pack or the 1997 demo installer.]
 	{
-	bn=যে ফোল্ডারে totala1.hpi আছে, বা Commander Pack, বা 1997-এর ডেমো ইনস্টলার.;
+	bn=যে ফোল্ডারে totala1.hpi আছে, বা Commander Pack, বা 1997-এর ডেমো ইনস্টলার।;
 	}
 
 [Applying your changes]
 	{
-	bn=তোমার বদল বসানো হচ্ছে;
+	bn=তোমার বদল প্রয়োগ হচ্ছে;
 	}
 
 [Checking your copy of Total Annihilation]
@@ -7581,7 +7581,7 @@
 
 [Choose the Total Annihilation demo installer (1997).]
 	{
-	bn=Total Annihilation ডেমো ইনস্টলার (1997) বেছে নাও.;
+	bn=Total Annihilation ডেমো ইনস্টলার (1997) বেছে নাও।;
 	}
 
 [Easy]
@@ -7611,7 +7611,7 @@
 
 [No names match.]
 	{
-	bn=কোনো নাম মেলে না.;
+	bn=কোনো নাম মেলে না।;
 	}
 
 [Skirmish players]
@@ -7621,7 +7621,7 @@
 
 [The skirmish setup shows that many player rows.]
 	{
-	bn=লড়াই সাজানোর পর্দায় ততগুলো খেলোয়াড়ের সারি দেখায়.;
+	bn=লড়াই সাজানোর পর্দায় ততগুলো খেলোয়াড়ের সারি দেখায়।;
 	}
 
 [{count} package]
@@ -7640,7 +7640,7 @@
 
 [A launch is already open. Quit Open Annihilation, then open the file again.]
 	{
-	bn=একটা লঞ্চ ফাইল ইতিমধ্যে খোলা. Open Annihilation থেকে বেরোও, তারপর ফাইল আবার খোলো.;
+	bn=একটা লঞ্চ ফাইল ইতিমধ্যে খোলা। Open Annihilation থেকে বেরোও, তারপর ফাইল আবার খোলো।;
 	}
 
 [LAUNCH FILE NOT OPENED]
@@ -7650,7 +7650,7 @@
 
 [Launch file not opened: finish or leave this game first.]
 	{
-	bn=লঞ্চ ফাইল খোলেনি: আগে এই লড়াই শেষ করো বা ছেড়ে বেরোও.;
+	bn=লঞ্চ ফাইল খোলেনি: আগে এই লড়াই শেষ করো বা ছেড়ে বেরোও।;
 	}
 
 [Launch files (.oalaunch)]
@@ -7660,17 +7660,17 @@
 
 [Open Annihilation opens a launch file's battle room from the main menu. Go back to the main menu, then open the file again.]
 	{
-	bn=Open Annihilation মূল মেনু থেকে লঞ্চ ফাইলের লড়াইয়ের ঘর খোলে. মূল মেনুতে ফেরত যাও, তারপর ফাইল আবার খোলো.;
+	bn=Open Annihilation মূল মেনু থেকে লঞ্চ ফাইলের লড়াইয়ের ঘর খোলে। মূল মেনুতে ফেরত যাও, তারপর ফাইল আবার খোলো।;
 	}
 
 [The command line chose this run's mod, which needs {names}.]
 	{
-	bn=কমান্ড লাইন এই চালানোর মোড বেছেছে, যার {names} লাগে.;
+	bn=কমান্ড লাইন এই চালানোর মোড বেছেছে, যার {names} লাগে।;
 	}
 
 [This launch plays other content than the game plays now. Quit Open Annihilation, then open the file again.]
 	{
-	bn=এই লঞ্চ এখন গেম যে বিষয় চালায় তার থেকে অন্য বিষয় চালায়. Open Annihilation থেকে বেরোও, তারপর ফাইল আবার খোলো.;
+	bn=এই লঞ্চ এখন গেম যে বিষয় চালায় তার থেকে অন্য বিষয় চালায়। Open Annihilation থেকে বেরোও, তারপর ফাইল আবার খোলো।;
 	}
 
 // The registries' checks the game cannot do, and the Library's
@@ -7688,7 +7688,7 @@
 
 [{registry} asked for a check the game cannot do. Try again later.]
 	{
-	bn={registry} এমন যাচাই চেয়েছে যা গেম করতে পারে না. পরে আবার চেষ্টা করো.;
+	bn={registry} এমন যাচাই চেয়েছে যা গেম করতে পারে না। পরে আবার চেষ্টা করো।;
 	}
 
 // First run's question when the copy's source has been changed, and
@@ -7701,17 +7701,17 @@
 
 [Some of its files are not the size they are in Total Annihilation 3.1c and its expansions. A mod or another program may have changed them.]
 	{
-	bn=কিছু ফাইলের মাপ Total Annihilation 3.1c আর তার এক্সপানশনের মতো নয়. কোনো মোড বা অন্য প্রোগ্রাম বদলে থাকতে পারে.;
+	bn=কিছু ফাইলের মাপ Total Annihilation 3.1c আর তার এক্সপানশনের মতো নয়। কোনো মোড বা অন্য প্রোগ্রাম বদলে থাকতে পারে।;
 	}
 
 [{file}, from {bundle}, is {size} bytes. It should be {expected}.]
 	{
-	bn={bundle} থেকে {file} {size} বাইট. হওয়া উচিত {expected}.;
+	bn={bundle} থেকে {file} {size} বাইট। হওয়া উচিত {expected}।;
 	}
 
 [Open Annihilation needs a fresh Total Annihilation install, without mods, to set up its copy. Nothing has been copied. Choose another place to copy from.]
 	{
-	bn=নিজের কপি সাজাতে Open Annihilation-এর মোড ছাড়া নতুন Total Annihilation ইনস্টল লাগে. কিছু কপি হয়নি. কপি করতে অন্য জায়গা বেছে নাও.;
+	bn=নিজের কপি সাজাতে Open Annihilation-এর মোড ছাড়া নতুন Total Annihilation ইনস্টল লাগে। কিছু কপি হয়নি। কপি করতে অন্য জায়গা বেছে নাও।;
 	}
 
 [Choose another place]
@@ -7738,12 +7738,12 @@
 
 [Units, shots and spinning parts move smoothly between the game's ticks.]
 	{
-	bn=ইউনিট, গোলা আর ঘোরানো অংশ গেমের ধাপের ফাঁকে মসৃণ চলে.;
+	bn=ইউনিট, গোলা আর ঘোরানো অংশ গেমের ধাপের ফাঁকে মসৃণ চলে।;
 	}
 
 [Units and shots move 30 times a second, as the game drew them; fast spins may flicker.]
 	{
-	bn=ইউনিট আর গোলা সেকেন্ডে 30 বার চলে, যেমন গেম আঁকত. দ্রুত ঘোরালে ঝিকিমিকি করতে পারে.;
+	bn=ইউনিট আর গোলা সেকেন্ডে 30 বার চলে, যেমন গেম আঁকত। দ্রুত ঘোরালে ঝিকিমিকি করতে পারে।;
 	}
 
 // Open Annihilation 0.8.5: the Library's Mutators tab.
@@ -7760,7 +7760,7 @@
 
 [No mutators here yet. The Library on the main menu gets them.]
 	{
-	bn=এখানে এখনো কোনো মিউটেটর নেই. মূল মেনুর লাইব্রেরি সেগুলো আনে.;
+	bn=এখানে এখনো কোনো মিউটেটর নেই। মূল মেনুর লাইব্রেরি সেগুলো আনে।;
 	}
 
 [Search mutators]
@@ -8202,12 +8202,12 @@
 
 [OFF · NOT APPLIED]
 	{
-	bn=বন্ধ · বসেনি;
+	bn=বন্ধ · প্রয়োগ নেই;
 	}
 
 [ON · APPLIED TOP TO BOTTOM]
 	{
-	bn=চালু · উপর থেকে নিচে বসানো;
+	bn=চালু · উপর থেকে নিচে প্রয়োগ;
 	}
 
 [At most {count} mutators can be on]
@@ -8257,12 +8257,12 @@
 
 [The host's mutators. Only the host can change them.]
 	{
-	bn=হোস্টের মিউটেটর. শুধু হোস্ট বদলাতে পারে.;
+	bn=হোস্টের মিউটেটর। শুধু হোস্ট বদলাতে পারে।;
 	}
 
 [The set holds for every mission of this campaign, and is saved with it.]
 	{
-	bn=এই সেট এই অভিযানের প্রতিটি মিশনে থাকে, এবং সেটার সঙ্গে সেভ হয়.;
+	bn=এই সেট এই অভিযানের প্রতিটি মিশনে থাকে, এবং সেটার সঙ্গে সেভ হয়।;
 	}
 
 [Get {name}?]
@@ -8282,42 +8282,42 @@
 
 [{names} download first, then sit above {name} in every list.]
 	{
-	bn=আগে নামে {names}, তারপর প্রতিটি তালিকায় {name}-এর উপরে বসে.;
+	bn=আগে নামে {names}, তারপর প্রতিটি তালিকায় {name}-এর উপরে বসে।;
 	}
 
 [{names} downloads first, then sits above {name} in every list.]
 	{
-	bn=আগে নামে {names}, তারপর প্রতিটি তালিকায় {name}-এর উপরে বসে.;
+	bn=আগে নামে {names}, তারপর প্রতিটি তালিকায় {name}-এর উপরে বসে।;
 	}
 
 [{name} needs {prerequisites}, which you don't have. They download first, and go above {name} in every list.]
 	{
-	bn={name}-এর {prerequisites} লাগে, যা তোমার নেই. সেগুলো আগে নামে, এবং প্রতিটি তালিকায় {name}-এর উপরে যায়.;
+	bn={name}-এর {prerequisites} লাগে, যা তোমার নেই। সেগুলো আগে নামে, এবং প্রতিটি তালিকায় {name}-এর উপরে যায়।;
 	}
 
 [{name} needs {prerequisite}, which you don't have. Both download now, and {short} goes above {name} in every list.]
 	{
-	bn={name}-এর {prerequisite} লাগে, যা তোমার নেই. দুটোই এখন নামে, এবং {short} প্রতিটি তালিকায় {name}-এর উপরে যায়.;
+	bn={name}-এর {prerequisite} লাগে, যা তোমার নেই। দুটোই এখন নামে, এবং {short} প্রতিটি তালিকায় {name}-এর উপরে যায়।;
 	}
 
 [Both stay installed. Turn {dependant} on again and {name} comes back with it.]
 	{
-	bn=দুটোই ইনস্টল থাকে. {dependant} আবার চালু করো, তাহলে {name} সেটার সঙ্গে ফিরে আসে.;
+	bn=দুটোই ইনস্টল থাকে। {dependant} আবার চালু করো, তাহলে {name} সেটার সঙ্গে ফিরে আসে।;
 	}
 
 [They all stay installed. Turn one on again and {name} comes back with it.]
 	{
-	bn=সব ইনস্টল থাকে. একটা আবার চালু করো, তাহলে {name} সেটার সঙ্গে ফিরে আসে.;
+	bn=সব ইনস্টল থাকে। একটা আবার চালু করো, তাহলে {name} সেটার সঙ্গে ফিরে আসে।;
 	}
 
 [{names} turn off too: they need {name}.]
 	{
-	bn={names}-ও বন্ধ হয়: তাদের {name} লাগে.;
+	bn={names}-ও বন্ধ হয়: তাদের {name} লাগে।;
 	}
 
 [{names} turns off too: it needs {name}.]
 	{
-	bn={names}-ও বন্ধ হয়: এর {name} লাগে.;
+	bn={names}-ও বন্ধ হয়: এর {name} লাগে।;
 	}
 
 [{name} came with {dependant}]
@@ -8327,17 +8327,17 @@
 
 [{names} need it: they stay installed, and cannot be switched on until this is back.]
 	{
-	bn={names}-এর এটা লাগে: তারা ইনস্টল থাকে, এবং এটা ফেরার আগে চালু করা যায় না.;
+	bn={names}-এর এটা লাগে: তারা ইনস্টল থাকে, এবং এটা ফেরার আগে চালু করা যায় না।;
 	}
 
 [{name} needs it: it stays installed, and cannot be switched on until this is back.]
 	{
-	bn={name}-এর এটা লাগে: সে ইনস্টল থাকে, এবং এটা ফেরার আগে চালু করা যায় না.;
+	bn={name}-এর এটা লাগে: সে ইনস্টল থাকে, এবং এটা ফেরার আগে চালু করা যায় না।;
 	}
 
 [These mutators need each other: {ids}]
 	{
-	bn=এই মিউটেটরগুলো একে অপরকে চায়: {ids};
+	bn=এই মিউটেটরগুলো একে অপরের ওপর নির্ভর করে: {ids};
 	}
 
 // Mutator prompts.
@@ -8369,27 +8369,27 @@
 
 [The game's log names them, so their authors can be told.]
 	{
-	bn=গেমের লগ তাদের নাম রাখে, যাতে লেখকদের বলা যায়.;
+	bn=গেমের লগ তাদের নাম রাখে, যাতে লেখকদের বলা যায়।;
 	}
 
 [{name} stopped before the game could start. Nothing it changed is kept, and the other mutators are unaffected.]
 	{
-	bn=লড়াই শুরুর আগে {name} থেমেছে. সে যা বদলেছে কিছু রাখা হয়নি, এবং অন্য মিউটেটর যেমন আছে তেমন থাকে.;
+	bn=লড়াই শুরুর আগে {name} থেমেছে। সে যা বদলেছে কিছু রাখা হয়নি, এবং অন্য মিউটেটর যেমন আছে তেমন থাকে।;
 	}
 
 [{names} stopped before the game could start. Nothing they changed is kept, and the other mutators are unaffected.]
 	{
-	bn=লড়াই শুরুর আগে {names} থেমেছে. তারা যা বদলেছে কিছু রাখা হয়নি, এবং অন্য মিউটেটর যেমন আছে তেমন থাকে.;
+	bn=লড়াই শুরুর আগে {names} থেমেছে। তারা যা বদলেছে কিছু রাখা হয়নি, এবং অন্য মিউটেটর যেমন আছে তেমন থাকে।;
 	}
 
 [Another copy of Open Annihilation is changing your Mutators folder. Try again once it has finished.]
 	{
-	bn=Open Annihilation-এর অন্য কপি তোমার Mutators ফোল্ডার বদলাচ্ছে. শেষ হলে আবার চেষ্টা করো.;
+	bn=Open Annihilation-এর অন্য কপি তোমার Mutators ফোল্ডার বদলাচ্ছে। শেষ হলে আবার চেষ্টা করো।;
 	}
 
 [Your Mutators folder changed while this mutator was being installed; nothing was changed. Open the file again.]
 	{
-	bn=এই মিউটেটর ইনস্টল হওয়ার সময় তোমার Mutators ফোল্ডার বদলেছে. কিছু বদলায়নি. ফাইল আবার খোলো.;
+	bn=এই মিউটেটর ইনস্টল হওয়ার সময় তোমার Mutators ফোল্ডার বদলেছে। কিছু বদলায়নি। ফাইল আবার খোলো।;
 	}
 
 // Installing a mutator.
@@ -8441,22 +8441,22 @@
 
 [The folder {name} does not hold this mutator. It is left as it is.]
 	{
-	bn=ফোল্ডার {name} এই মিউটেটর ধরে না. সেটা যেমন আছে তেমন থাকে.;
+	bn=ফোল্ডার {name} এই মিউটেটর ধরে না। সেটা যেমন আছে তেমন থাকে।;
 	}
 
 [Your Mutators folder has no free folder name for it.]
 	{
-	bn=তোমার Mutators ফোল্ডারে এর জন্য খালি ফোল্ডারের নাম নেই.;
+	bn=তোমার Mutators ফোল্ডারে এর জন্য খালি ফোল্ডারের নাম নেই।;
 	}
 
 [It holds no oamut.yaml at its top, or in a single folder at its top.]
 	{
-	bn=মূলে oamut.yaml নেই, মূলের একটা ফোল্ডারেও নেই.;
+	bn=মূলে oamut.yaml নেই, মূলের একটা ফোল্ডারেও নেই।;
 	}
 
 [Its oamut.yaml is larger than 256 KiB.]
 	{
-	bn=এর oamut.yaml 256 KiB-এর চেয়ে বড়.;
+	bn=এর oamut.yaml 256 KiB-এর চেয়ে বড়।;
 	}
 
 [Its oamut.yaml has errors:]
@@ -8466,47 +8466,47 @@
 
 [It holds more than {limit} folders, more than a mutator may take.]
 	{
-	bn=ফোল্ডার আছে {limit}-এর চেয়ে বেশি, মিউটেটর তত রাখতে পারে না.;
+	bn=ফোল্ডার আছে {limit}-এর চেয়ে বেশি, মিউটেটর তত রাখতে পারে না।;
 	}
 
 [It unpacks to {size}, more than the {limit} a mutator may take.]
 	{
-	bn=খুললে {size} হয়, মিউটেটর সবচেয়ে বেশি {limit} নিতে পারে.;
+	bn=খুললে {size} হয়, মিউটেটর সবচেয়ে বেশি {limit} নিতে পারে।;
 	}
 
 [It unpacks to {size} from {packed}, far more than a mutator's files take.]
 	{
-	bn={packed} থেকে খুললে {size} হয়, মিউটেটরের ফাইলের চেয়ে অনেক বেশি.;
+	bn={packed} থেকে খুললে {size} হয়, মিউটেটরের ফাইলের চেয়ে অনেক বেশি।;
 	}
 
 [It needs {size} free, and the disk holding your Mutators folder has {free}.]
 	{
-	bn={size} ফাঁকা লাগে, আর তোমার Mutators ফোল্ডারের ডিস্কে আছে {free}.;
+	bn={size} ফাঁকা লাগে, আর তোমার Mutators ফোল্ডারের ডিস্কে আছে {free}।;
 	}
 
 [The package holds {name}, outside the folders a mutator may hold.]
 	{
-	bn=প্যাকেজে {name} আছে, মিউটেটর যে ফোল্ডার রাখতে পারে তার বাইরে.;
+	bn=প্যাকেজে {name} আছে, মিউটেটর যে ফোল্ডার রাখতে পারে তার বাইরে।;
 	}
 
 [Its icon {name} is not a square PNG of at most 256 pixels and 256 KiB.]
 	{
-	bn=এর আইকন {name} সবচেয়ে বেশি 256 পিক্সেল আর 256 KiB-এর বর্গ PNG নয়.;
+	bn=এর আইকন {name} সবচেয়ে বেশি 256 পিক্সেল আর 256 KiB-এর বর্গ PNG নয়।;
 	}
 
 [Its script {name} is larger than 1 MiB.]
 	{
-	bn=এর স্ক্রিপ্ট {name} 1 MiB-এর চেয়ে বড়.;
+	bn=এর স্ক্রিপ্ট {name} 1 MiB-এর চেয়ে বড়।;
 	}
 
 [Its script {name} is missing.]
 	{
-	bn=এর স্ক্রিপ্ট {name} নেই.;
+	bn=এর স্ক্রিপ্ট {name} নেই।;
 	}
 
 [{name} is precompiled Lua. A mutator holds Lua source only.]
 	{
-	bn={name} আগে থেকে কম্পাইল করা Lua. মিউটেটরে শুধু Lua-এর উৎস থাকে.;
+	bn={name} আগে থেকে কম্পাইল করা Lua। মিউটেটরে শুধু Lua-এর উৎস থাকে।;
 	}
 
 // The battle room's mutators.
@@ -8523,12 +8523,12 @@
 
 [*** This game is Open Annihilation only, and unranked.]
 	{
-	bn=*** এই লড়াই শুধু Open Annihilation-এর, র্যাঙ্ক ছাড়া.;
+	bn=*** এই লড়াই শুধু Open Annihilation-এর, র্যাঙ্ক ছাড়া।;
 	}
 
 [*** {host} turned mutators off.]
 	{
-	bn=*** {host} মিউটেটর বন্ধ করেছে.;
+	bn=*** {host} মিউটেটর বন্ধ করেছে।;
 	}
 
 [*** {host} turned on mutators: {list}]
@@ -8543,52 +8543,52 @@
 
 [*** {player} chose a side this game does not have.]
 	{
-	bn=*** {player} এমন পক্ষ বেছেছে যা এই লড়াইতে নেই.;
+	bn=*** {player} এমন পক্ষ বেছেছে যা এই লড়াইতে নেই।;
 	}
 
 [*** {player} does not have {name}.]
 	{
-	bn=*** {player}-এর কাছে {name} নেই.;
+	bn=*** {player}-এর কাছে {name} নেই।;
 	}
 
 [*** {player} plays Total Annihilation 3.1c and cannot join a game with mutators.]
 	{
-	bn=*** {player} Total Annihilation 3.1c খেলে এবং মিউটেটরসহ লড়াইতে যোগ দিতে পারে না.;
+	bn=*** {player} Total Annihilation 3.1c খেলে এবং মিউটেটরসহ লড়াইতে যোগ দিতে পারে না।;
 	}
 
 [*** {player} plays Total Annihilation 3.1c, which cannot play with mutators.]
 	{
-	bn=*** {player} Total Annihilation 3.1c খেলে, যা মিউটেটর দিয়ে খেলতে পারে না.;
+	bn=*** {player} Total Annihilation 3.1c খেলে, যা মিউটেটর দিয়ে খেলতে পারে না।;
 	}
 
 [*** You do not have {name}.]
 	{
-	bn=*** তোমার কাছে {name} নেই.;
+	bn=*** তোমার কাছে {name} নেই।;
 	}
 
 [*** You do not have {name}. GET MUTATORS downloads it from {registry}.]
 	{
-	bn=*** তোমার কাছে {name} নেই. মিউটেটর নাও সেটা {registry} থেকে নামায়.;
+	bn=*** তোমার কাছে {name} নেই। মিউটেটর নাও সেটা {registry} থেকে নামায়।;
 	}
 
 [*** You do not have {names}.]
 	{
-	bn=*** তোমার কাছে {names} নেই.;
+	bn=*** তোমার কাছে {names} নেই।;
 	}
 
 [*** You do not have {names}. GET MUTATORS downloads them from {registry}.]
 	{
-	bn=*** তোমার কাছে {names} নেই. মিউটেটর নাও সেগুলো {registry} থেকে নামায়.;
+	bn=*** তোমার কাছে {names} নেই। মিউটেটর নাও সেগুলো {registry} থেকে নামায়।;
 	}
 
 [Different from the host: another release of {name}.]
 	{
-	bn=হোস্টের থেকে আলাদা: {name}-এর অন্য সংস্করণ.;
+	bn=হোস্টের থেকে আলাদা: {name}-এর অন্য সংস্করণ।;
 	}
 
 [Downloads are off.]
 	{
-	bn=নামানো বন্ধ.;
+	bn=নামানো বন্ধ।;
 	}
 
 [Ready once {name} is here]
@@ -8598,7 +8598,7 @@
 
 [The game cannot start until {player} gets it, or the host turns it off.]
 	{
-	bn=লড়াই শুরু হবে না, যতক্ষণ না {player} সেটা পায় বা হোস্ট সেটা বন্ধ করে.;
+	bn=লড়াই শুরু হবে না, যতক্ষণ না {player} সেটা পায় বা হোস্ট সেটা বন্ধ করে।;
 	}
 
 [Waiting for {player}: {name}]
@@ -8708,32 +8708,32 @@
 
 [{name}: release {here} here, release {there} on {player}'s machine.]
 	{
-	bn={name}: এখানে সংস্করণ {here}, {player}-এর মেশিনে সংস্করণ {there}.;
+	bn={name}: এখানে সংস্করণ {here}, {player}-এর মেশিনে সংস্করণ {there}।;
 	}
 
 [{name}: {player} does not have it.]
 	{
-	bn={name}: {player}-এর কাছে সেটা নেই.;
+	bn={name}: {player}-এর কাছে সেটা নেই।;
 	}
 
 [{name}: not offered.]
 	{
-	bn={name}: দেওয়া হয় না.;
+	bn={name}: দেওয়া হয় না।;
 	}
 
 [{registry}: downloads off.]
 	{
-	bn={registry}: নামানো বন্ধ.;
+	bn={registry}: নামানো বন্ধ।;
 	}
 
 [{player}'s GET MUTATORS button fetches release {release}.]
 	{
-	bn={player}-এর মিউটেটর নাও বোতাম সংস্করণ {release} আনে.;
+	bn={player}-এর মিউটেটর নাও বোতাম সংস্করণ {release} আনে।;
 	}
 
 [{player}'s mutators gave a different result from yours, so the game would play differently on each machine.]
 	{
-	bn={player}-এর মিউটেটর তোমার থেকে আলাদা ফল দিয়েছে, তাই প্রতিটি মেশিনে লড়াই আলাদা চলত.;
+	bn={player}-এর মিউটেটর তোমার থেকে আলাদা ফল দিয়েছে, তাই প্রতিটি মেশিনে লড়াই আলাদা চলত।;
 	}
 
 // Saves, replays and the lines that name the mutators a run plays.
@@ -8745,7 +8745,7 @@
 
 [The mutators this was made with cannot be read.]
 	{
-	bn=যে মিউটেটর দিয়ে এটা বানানো, সেগুলো পড়া যায় না.;
+	bn=যে মিউটেটর দিয়ে এটা বানানো, সেগুলো পড়া যায় না।;
 	}
 
 [This needs a mutator you do not have: {detail}]
@@ -8755,7 +8755,7 @@
 
 [This was made with mutators, and this run plays none.]
 	{
-	bn=এটা মিউটেটর দিয়ে বানানো, আর এই চালানোতে কোনোটি নেই.;
+	bn=এটা মিউটেটর দিয়ে বানানো, আর এই চালানোতে কোনোটি নেই।;
 	}
 
 // Open Annihilation 0.8.5: the Mutators button and its lines.
@@ -8767,12 +8767,12 @@
 
 [{name} is installed. Turn it on with the Mutators button when you set up a game.]
 	{
-	bn={name} ইনস্টল হয়েছে. লড়াই সাজানোর সময় মিউটেটর বোতাম দিয়ে চালু করো.;
+	bn={name} ইনস্টল হয়েছে। লড়াই সাজানোর সময় মিউটেটর বোতাম দিয়ে চালু করো।;
 	}
 
 [The last game ended in a crash with {names} on. Forget the set and the Mutators button opens empty next time; nothing is uninstalled.]
 	{
-	bn=শেষ লড়াই ক্র্যাশে বন্ধ হয়েছে, {names} চালু ছিল. সেট ভুলে গেলে পরের বার মিউটেটর বোতাম খালি খোলে. ইনস্টল থেকে কিছু সরে না.;
+	bn=শেষ লড়াই ক্র্যাশে বন্ধ হয়েছে, {names} চালু ছিল। সেট ভুলে গেলে পরের বার মিউটেটর বোতাম খালি খোলে। ইনস্টল থেকে কিছু সরে না।;
 	}
 
 [Mutator packages (.oamut)]
@@ -8804,12 +8804,12 @@
 
 [Hard edges that step from cell to cell, as the game drew the fog.]
 	{
-	bn=শক্ত কিনারা, ঘর থেকে ঘরে, যেমন গেম কুয়াশা আঁকত.;
+	bn=শক্ত কিনারা, ঘর থেকে ঘরে, যেমন গেম কুয়াশা আঁকত।;
 	}
 
 [Soft edges where the graphics card draws the battlefield (Full).]
 	{
-	bn=নরম কিনারা, যেখানে গ্রাফিক্স কার্ড যুদ্ধক্ষেত্র আঁকে (পুরো).;
+	bn=নরম কিনারা, যেখানে গ্রাফিক্স কার্ড যুদ্ধক্ষেত্র আঁকে (পুরো)।;
 	}
 
 // Starting while iCloud downloads the game's files.
@@ -8913,7 +8913,7 @@
 
 [Open Annihilation's own computer player. It plays as Total Annihilation's does.]
 	{
-	bn=Open Annihilation-এর নিজের কম্পিউটার. খেলে যেমন Total Annihilation-এরটা খেলে.;
+	bn=Open Annihilation-এর নিজের কম্পিউটার। খেলে যেমন Total Annihilation-এরটা খেলে।;
 	}
 
 [Made for {names}]
@@ -8923,7 +8923,7 @@
 
 [It is your default computer player: new computer seats go back to the built-in player.]
 	{
-	bn=এটা তোমার নিজস্ব কম্পিউটার: নতুন কম্পিউটারের আসন ভেতরের কম্পিউটারে ফেরে.;
+	bn=এটা তোমার নিজস্ব কম্পিউটার: নতুন কম্পিউটারের আসন ভেতরের কম্পিউটারে ফেরে।;
 	}
 
 [· {reason}]
@@ -8990,12 +8990,12 @@
 
 [{name} cannot play this seat now, so it starts on the built-in player.]
 	{
-	bn={name} এখন এই আসনে খেলতে পারে না, তাই ভেতরের কম্পিউটার দিয়ে শুরু হয়.;
+	bn={name} এখন এই আসনে খেলতে পারে না, তাই ভেতরের কম্পিউটার দিয়ে শুরু হয়।;
 	}
 
 [No brains here yet. The Library on the main menu gets them.]
 	{
-	bn=এখানে এখনো কোনো ব্রেইন নেই. মূল মেনুর লাইব্রেরি সেগুলো আনে.;
+	bn=এখানে এখনো কোনো ব্রেইন নেই। মূল মেনুর লাইব্রেরি সেগুলো আনে।;
 	}
 
 [Seat {n}]
@@ -9024,12 +9024,12 @@
 
 [Another copy of Open Annihilation is changing your Brains folder. Try again once it has finished.]
 	{
-	bn=Open Annihilation-এর অন্য কপি তোমার Brains ফোল্ডার বদলাচ্ছে. শেষ হলে আবার চেষ্টা করো.;
+	bn=Open Annihilation-এর অন্য কপি তোমার Brains ফোল্ডার বদলাচ্ছে। শেষ হলে আবার চেষ্টা করো।;
 	}
 
 [Your Brains folder changed while this brain was being installed; nothing was changed. Open the file again.]
 	{
-	bn=এই ব্রেইন ইনস্টল হওয়ার সময় তোমার Brains ফোল্ডার বদলেছে. কিছু বদলায়নি. ফাইল আবার খোলো.;
+	bn=এই ব্রেইন ইনস্টল হওয়ার সময় তোমার Brains ফোল্ডার বদলেছে। কিছু বদলায়নি। ফাইল আবার খোলো।;
 	}
 
 [INSTALL BRAIN]
@@ -9079,22 +9079,22 @@
 
 [The folder {name} does not hold this brain. It is left as it is.]
 	{
-	bn=ফোল্ডার {name} এই ব্রেইন ধরে না. সেটা যেমন আছে তেমন থাকে.;
+	bn=ফোল্ডার {name} এই ব্রেইন ধরে না। সেটা যেমন আছে তেমন থাকে।;
 	}
 
 [Your Brains folder has no free folder name for it.]
 	{
-	bn=তোমার Brains ফোল্ডারে এর জন্য খালি ফোল্ডারের নাম নেই.;
+	bn=তোমার Brains ফোল্ডারে এর জন্য খালি ফোল্ডারের নাম নেই।;
 	}
 
 [It holds no oabrain.yaml at its top, or in a single folder at its top.]
 	{
-	bn=মূলে oabrain.yaml নেই, মূলের একটা ফোল্ডারেও নেই.;
+	bn=মূলে oabrain.yaml নেই, মূলের একটা ফোল্ডারেও নেই।;
 	}
 
 [Its oabrain.yaml is larger than 256 KiB.]
 	{
-	bn=এর oabrain.yaml 256 KiB-এর চেয়ে বড়.;
+	bn=এর oabrain.yaml 256 KiB-এর চেয়ে বড়।;
 	}
 
 [Its oabrain.yaml has errors:]
@@ -9104,84 +9104,84 @@
 
 [It holds more than {limit} folders, more than a brain may take.]
 	{
-	bn=ফোল্ডার আছে {limit}-এর চেয়ে বেশি, ব্রেইন তত রাখতে পারে না.;
+	bn=ফোল্ডার আছে {limit}-এর চেয়ে বেশি, ব্রেইন তত রাখতে পারে না।;
 	}
 
 [It unpacks to {size}, more than the {limit} a brain may take.]
 	{
-	bn=খুললে {size} হয়, ব্রেইন সবচেয়ে বেশি {limit} নিতে পারে.;
+	bn=খুললে {size} হয়, ব্রেইন সবচেয়ে বেশি {limit} নিতে পারে।;
 	}
 
 [It unpacks to {size} from {packed}, far more than a brain's files take.]
 	{
-	bn={packed} থেকে খুললে {size} হয়, ব্রেইনের ফাইলের চেয়ে অনেক বেশি.;
+	bn={packed} থেকে খুললে {size} হয়, ব্রেইনের ফাইলের চেয়ে অনেক বেশি।;
 	}
 
 [It needs {size} free, and the disk holding your Brains folder has {free}.]
 	{
-	bn={size} ফাঁকা লাগে, আর তোমার Brains ফোল্ডারের ডিস্কে আছে {free}.;
+	bn={size} ফাঁকা লাগে, আর তোমার Brains ফোল্ডারের ডিস্কে আছে {free}।;
 	}
 
 [The package holds {name}, outside the files a brain may hold.]
 	{
-	bn=প্যাকেজে {name} আছে, ব্রেইন যে ফাইল রাখতে পারে তার বাইরে.;
+	bn=প্যাকেজে {name} আছে, ব্রেইন যে ফাইল রাখতে পারে তার বাইরে।;
 	}
 
 [Its network {name} does not match the SHA-256 its oabrain.yaml gives.]
 	{
-	bn=এর নেটওয়ার্ক {name} তার oabrain.yaml-এ দেওয়া SHA-256-এর সঙ্গে মেলে না.;
+	bn=এর নেটওয়ার্ক {name} তার oabrain.yaml-এ দেওয়া SHA-256-এর সঙ্গে মেলে না।;
 	}
 
 [Its network {name} is missing.]
 	{
-	bn=এর নেটওয়ার্ক {name} নেই.;
+	bn=এর নেটওয়ার্ক {name} নেই।;
 	}
 
 [Its networks take {size}, more than the {limit} a brain may hold.]
 	{
-	bn=এর নেটওয়ার্ক {size} নেয়, যা একটা ব্রেইনের সীমা {limit}-এর চেয়ে বেশি.;
+	bn=এর নেটওয়ার্ক {size} নেয়, যা একটা ব্রেইনের সীমা {limit}-এর চেয়ে বেশি।;
 	}
 
 [Its table {name} is larger than 4 MiB.]
 	{
-	bn=এর টেবিল {name} 4 MiB-এর চেয়ে বড়.;
+	bn=এর টেবিল {name} 4 MiB-এর চেয়ে বড়।;
 	}
 
 [{name} is precompiled Lua. A brain holds Lua source only.]
 	{
-	bn={name} আগে থেকে কম্পাইল করা Lua. একটা ব্রেইন শুধু Lua সোর্স রাখে.;
+	bn={name} আগে থেকে কম্পাইল করা Lua। একটা ব্রেইন শুধু Lua সোর্স রাখে।;
 	}
 
 [{name} is installed. Choose it for a computer player when you set up a game.]
 	{
-	bn={name} ইনস্টল হয়েছে. লড়াই সাজানোর সময় একটা কম্পিউটারের জন্য এটা বেছে নাও.;
+	bn={name} ইনস্টল হয়েছে। লড়াই সাজানোর সময় একটা কম্পিউটারের জন্য এটা বেছে নাও।;
 	}
 
 // When a brain stops, and saves and recordings that name a brain.
 
 [{brain} could not start ({reason}); the engine plays this seat]
 	{
-	bn={brain} চালু হয়নি ({reason}). ইঞ্জিন এই আসন খেলে;
+	bn={brain} চালু হয়নি ({reason})। ইঞ্জিন এই আসন খেলে;
 	}
 
 [{brain} does not fit this game ({reason}); the engine plays this seat]
 	{
-	bn={brain} এই লড়াইয়ের সঙ্গে মানায় না ({reason}). ইঞ্জিন এই আসন খেলে;
+	bn={brain} এই লড়াইয়ের সঙ্গে মানায় না ({reason})। ইঞ্জিন এই আসন খেলে;
 	}
 
 [{brain} stopped ({reason}); the engine plays this seat on]
 	{
-	bn={brain} থেমেছে ({reason}). ইঞ্জিন এই আসন এরপর খেলে;
+	bn={brain} থেমেছে ({reason})। ইঞ্জিন এই আসন এরপর খেলে;
 	}
 
 [The computer players this game was saved with cannot be read.]
 	{
-	bn=এই লড়াই যে কম্পিউটার দিয়ে সেভ হয়েছিল, সেগুলো পড়া যায় না.;
+	bn=এই লড়াই যে কম্পিউটার দিয়ে সেভ হয়েছিল, সেগুলো পড়া যায় না।;
 	}
 
 [This game was saved with {name} {version} playing seat {n}, which is not installed here.]
 	{
-	bn=এই লড়াই সেভ হয়েছিল যখন {name} {version} আসন {n} খেলছিল, আর সেটা এখানে ইনস্টল নেই.;
+	bn=এই লড়াই সেভ হয়েছিল যখন {name} {version} আসন {n} খেলছিল, আর সেটা এখানে ইনস্টল নেই।;
 	}
 
 [Load with the built-in player?]
@@ -9191,19 +9191,19 @@
 
 [This saved game needs {name} {version}, which is not installed.]
 	{
-	bn=এই সেভ করা গেমের দরকার {name} {version}, যা ইনস্টল নেই.;
+	bn=এই সেভ করা গেমের দরকার {name} {version}, যা ইনস্টল নেই।;
 	}
 
 // Open Annihilation 0.8.6: Graphics' Full 3D camera and effects, and their lock lines.
 
 [Requires Full hardware acceleration.]
 	{
-	bn=পুরো হার্ডওয়্যার ত্বরণ লাগে.;
+	bn=পুরো হার্ডওয়্যার ত্বরণ লাগে।;
 	}
 
 [Allow angles outside the ideal range for TA art.]
 	{
-	bn=TA আর্টের আদর্শ সীমার বাইরে কোণ চালু করে.;
+	bn=TA আর্টের আদর্শ সীমার বাইরে কোণ চালু করে।;
 	}
 
 [Coloured weapon lighting]
@@ -9261,7 +9261,7 @@
 
 [Arms Attack]
 	{
-	bn=আক্র. সশস্ত্র;
+	bn=হামলা সশস্ত্র;
 	}
 
 [Arms BLAST (D-gun)]
@@ -9331,7 +9331,7 @@
 
 [Force attack]
 	{
-	bn=জোর আক্র.;
+	bn=জোর হামলা;
 	}
 
 [Held: force-attack a unit or the ground]
@@ -9418,7 +9418,7 @@
 
 [Clicks the left button. Twice quickly, a double click]
 	{
-	bn=বাঁ বোতাম চাপে. দ্রুত দুবার হলে দুবার চাপ;
+	bn=বাঁ বোতাম চাপে। দ্রুত দুবার হলে দুবার চাপ;
 	}
 
 [Clicks the right button]
@@ -9825,7 +9825,7 @@
 
 [Selects your units tagged {word}: those on screen, then the whole map on a second press.]
 	{
-	bn=তোমার যে ইউনিটের ট্যাগ {word}, সেগুলো বাছে: আগে পর্দার, দ্বিতীয় চাপে পুরো ম্যাপ.;
+	bn=তোমার যে ইউনিটের ট্যাগ {word}, সেগুলো বাছে: আগে পর্দার, দ্বিতীয় চাপে পুরো ম্যাপ।;
 	}
 
 [Units on screen]
@@ -10077,47 +10077,47 @@
 
 [Selects group 1; again centres on it]
 	{
-	bn=দল 1 বাছে. আবার চাপলে মাঝে আনে;
+	bn=দল 1 বাছে। আবার চাপলে মাঝে আনে;
 	}
 
 [Selects group 2; again centres on it]
 	{
-	bn=দল 2 বাছে. আবার চাপলে মাঝে আনে;
+	bn=দল 2 বাছে। আবার চাপলে মাঝে আনে;
 	}
 
 [Selects group 3; again centres on it]
 	{
-	bn=দল 3 বাছে. আবার চাপলে মাঝে আনে;
+	bn=দল 3 বাছে। আবার চাপলে মাঝে আনে;
 	}
 
 [Selects group 4; again centres on it]
 	{
-	bn=দল 4 বাছে. আবার চাপলে মাঝে আনে;
+	bn=দল 4 বাছে। আবার চাপলে মাঝে আনে;
 	}
 
 [Selects group 5; again centres on it]
 	{
-	bn=দল 5 বাছে. আবার চাপলে মাঝে আনে;
+	bn=দল 5 বাছে। আবার চাপলে মাঝে আনে;
 	}
 
 [Selects group 6; again centres on it]
 	{
-	bn=দল 6 বাছে. আবার চাপলে মাঝে আনে;
+	bn=দল 6 বাছে। আবার চাপলে মাঝে আনে;
 	}
 
 [Selects group 7; again centres on it]
 	{
-	bn=দল 7 বাছে. আবার চাপলে মাঝে আনে;
+	bn=দল 7 বাছে। আবার চাপলে মাঝে আনে;
 	}
 
 [Selects group 8; again centres on it]
 	{
-	bn=দল 8 বাছে. আবার চাপলে মাঝে আনে;
+	bn=দল 8 বাছে। আবার চাপলে মাঝে আনে;
 	}
 
 [Selects group 9; again centres on it]
 	{
-	bn=দল 9 বাছে. আবার চাপলে মাঝে আনে;
+	bn=দল 9 বাছে। আবার চাপলে মাঝে আনে;
 	}
 
 [Shows page 0 of the menu (1 is orders)]
@@ -10738,7 +10738,7 @@
 
 [Pause on or off]
 	{
-	bn=থাম চালু বা বন্ধ;
+	bn=বিরতি চালু বা বন্ধ;
 	}
 
 [Pin unit]
@@ -10813,7 +10813,7 @@
 
 [The in-game menu, or resumes]
 	{
-	bn=গেম মেনু, না হলে আবার শুরু;
+	bn=গেম মেনু, না হলে চালিয়ে যায়;
 	}
 
 [The mod's options dialog]
@@ -11171,7 +11171,7 @@
 
 [Moves the focus down. Down itself steps a list]
 	{
-	bn=ফোকাস নিচে সরায়. নিচের তির নিজে তালিকা এগায়;
+	bn=ফোকাস নিচে সরায়। নিচের তির নিজে তালিকা এগায়;
 	}
 
 [Moves the focus left from a button]
@@ -11196,7 +11196,7 @@
 
 [Moves the focus up. Up itself steps a list]
 	{
-	bn=ফোকাস উপরে সরায়. উপরের তির নিজে তালিকা এগায়;
+	bn=ফোকাস উপরে সরায়। উপরের তির নিজে তালিকা এগায়;
 	}
 
 [Next button]
@@ -11216,7 +11216,7 @@
 
 [Presses the focused button, or the screen's default]
 	{
-	bn=ফোকাস করা বোতাম চাপে, না হলে পর্দার নিজস্ব.;
+	bn=ফোকাস করা বোতাম চাপে, না হলে পর্দার নিজস্ব।;
 	}
 
 [Previous button]
@@ -11449,7 +11449,7 @@
 
 [Grey keys are free while playing. Select a key to see what it does in each place.]
 	{
-	bn=ধূসর কী খেলার সময় খালি. একটা কী বাছো, দেখো প্রতি জায়গায় সেটা কী করে.;
+	bn=ধূসর কী খেলার সময় খালি। একটা কী বাছো, দেখো প্রতি জায়গায় সেটা কী করে।;
 	}
 
 [No unsaved edits]
@@ -11459,7 +11459,7 @@
 
 [{modifier}+/ or Escape closes this. More in Edit keys…]
 	{
-	bn={modifier}+/ বা Escape এটা বন্ধ করে. আরও দেখো “কী বদলাও…”.;
+	bn={modifier}+/ বা Escape এটা বন্ধ করে। আরও দেখো “কী বদলাও…”।;
 	}
 
 [{n} unsaved]
@@ -11476,7 +11476,7 @@
 
 [Always {description} in Open Annihilation. Choose another key.]
 	{
-	bn=Open Annihilation-এ সবসময় {description}. অন্য কী বেছে নাও.;
+	bn=Open Annihilation-এ সবসময় {description}। অন্য কী বেছে নাও।;
 	}
 
 [Choose another key]
@@ -11491,12 +11491,12 @@
 
 [Click the key to try another.]
 	{
-	bn=অন্য কী চেষ্টা করতে এই কী-তে চাপো.;
+	bn=অন্য কী চেষ্টা করতে এই কী-তে চাপো।;
 	}
 
 [Click the key, then press another to look it up.]
 	{
-	bn=কী-তে চাপো, তারপর অন্য কী চেপে দেখো সেটা কী করে.;
+	bn=কী-তে চাপো, তারপর অন্য কী চেপে দেখো সেটা কী করে।;
 	}
 
 [Settle 1 clash to save]
@@ -11543,12 +11543,12 @@
 
 [Importing gives the key to this action and leaves {action} without it.]
 	{
-	bn=আনলে এই কাজ কী পায়, আর {action} কী ছাড়া থাকে.;
+	bn=আনলে এই কাজ কী পায়, আর {action} কী ছাড়া থাকে।;
 	}
 
 [It holds no oakeys.yaml at its top, or in a single folder at its top.]
 	{
-	bn=এর উপরে oakeys.yaml নেই, উপরের একটা ফোল্ডারেও নেই.;
+	bn=এর উপরে oakeys.yaml নেই, উপরের একটা ফোল্ডারেও নেই।;
 	}
 
 [Its oakeys.yaml has errors:]
@@ -11558,7 +11558,7 @@
 
 [Its oakeys.yaml is larger than 256 KiB.]
 	{
-	bn=এর oakeys.yaml 256 KiB-এর চেয়ে বড়.;
+	bn=এর oakeys.yaml 256 KiB-এর চেয়ে বড়।;
 	}
 
 [Key layout packages (.oakeys)]
@@ -11568,12 +11568,12 @@
 
 [Numbers are Windows key codes, read as key places. The changes go on top of your layout as "Imported from {file}". Nothing else changes.]
 	{
-	bn=সংখ্যা Windows-এর কী কোড, কী-এর জায়গা হিসেবে পড়া. বদল তোমার বিন্যাসের উপরে বসে, নাম “{file} থেকে আনা”. আর কিছু বদলায় না.;
+	bn=সংখ্যা Windows-এর কী কোড, কী-এর জায়গা হিসেবে পড়া। বদল তোমার বিন্যাসের উপরে বসে, নাম “{file} থেকে আনা”। আর কিছু বদলায় না।;
 	}
 
 [This text is not a key layout.]
 	{
-	bn=এই লেখা কী বিন্যাস নয়.;
+	bn=এই লেখা কী বিন্যাস নয়।;
 	}
 
 // The overlay and badges.
@@ -11585,12 +11585,12 @@
 
 [Drag an overlay where it suits you. Each screen size keeps its own places.]
 	{
-	bn=ওভারলে তোমার সুবিধামতো জায়গায় টেনে নাও. প্রতি পর্দার মাপ নিজের জায়গা রাখে.;
+	bn=ওভারলে তোমার সুবিধামতো জায়গায় টেনে নাও। প্রতি পর্দার মাপ নিজের জায়গা রাখে।;
 	}
 
 [Hold Ctrl + D to try Hold to confirm.]
 	{
-	bn=“নিশ্চিত করতে ধরে রাখো” চেষ্টা করতে Ctrl + D ধরে রাখো.;
+	bn=“নিশ্চিত করতে ধরে রাখো” চেষ্টা করতে Ctrl + D ধরে রাখো।;
 	}
 
 [Hold to confirm]
@@ -11605,7 +11605,7 @@
 
 [How long a hold is: hold to confirm, and keys bound to a hold.]
 	{
-	bn=ধরে রাখা কতক্ষণ: নিশ্চিত করতে ধরে রাখা, আর ধরে রাখায় বাঁধা কী.;
+	bn=ধরে রাখা কতক্ষণ: নিশ্চিত করতে ধরে রাখা, আর ধরে রাখায় বাঁধা কী।;
 	}
 
 [Keys Overlay]
@@ -11620,7 +11620,7 @@
 
 [Queue and the status strip latch: tap on, tap off. A chip shows each one on.]
 	{
-	bn=সারি আর অবস্থার ফালি আটকে থাকে: এক চাপে চালু, এক চাপে বন্ধ. চিপ দেখায় কোনটা চালু.;
+	bn=সারি আর অবস্থার ফালি আটকে থাকে: এক চাপে চালু, এক চাপে বন্ধ। চিপ দেখায় কোনটা চালু।;
 	}
 
 [hold to confirm]
@@ -11672,7 +11672,7 @@
 
 [Holding a mouse button opens the order wheel at the pointer.]
 	{
-	bn=মাউসের বোতাম ধরে রাখলে পয়েন্টারে আদেশের চাকা খোলে.;
+	bn=মাউসের বোতাম ধরে রাখলে পয়েন্টারে আদেশের চাকা খোলে।;
 	}
 
 [INSTALL KEY LAYOUT]
@@ -11692,17 +11692,17 @@
 
 [It holds more than {limit} folders, more than a key layout may take.]
 	{
-	bn=এতে ফোল্ডার {limit}-এর বেশি, একটা কী বিন্যাস যতটা নিতে পারে তার চেয়ে বেশি.;
+	bn=এতে ফোল্ডার {limit}-এর বেশি, একটা কী বিন্যাস যতটা নিতে পারে তার চেয়ে বেশি।;
 	}
 
 [It unpacks to {size} from {packed}, far more than a key layout's files take.]
 	{
-	bn=খুলে {size} হয়, উৎস {packed}, একটা কী বিন্যাসের ফাইল যত নেয় তার চেয়ে অনেক বেশি.;
+	bn=খুলে {size} হয়, উৎস {packed}, একটা কী বিন্যাসের ফাইল যত নেয় তার চেয়ে অনেক বেশি।;
 	}
 
 [It unpacks to {size}, more than the {limit} a key layout may take.]
 	{
-	bn=খুলে {size} হয়, একটা কী বিন্যাসের সীমা {limit}-এর চেয়ে বেশি.;
+	bn=খুলে {size} হয়, একটা কী বিন্যাসের সীমা {limit}-এর চেয়ে বেশি।;
 	}
 
 [KEY LAYOUT INSTALLED]
@@ -11782,17 +11782,17 @@
 
 [The folder {name} does not hold this key layout. It is left as it is.]
 	{
-	bn=ফোল্ডার {name} এ এই কী বিন্যাস নেই. ওটা যেমন ছিল তেমনই আছে.;
+	bn=ফোল্ডার {name} এ এই কী বিন্যাস নেই। ওটা যেমন ছিল তেমনই আছে।;
 	}
 
 [The package holds {name}, outside the files a key layout may hold.]
 	{
-	bn=প্যাকেজে {name} আছে, একটা কী বিন্যাস যেসব ফাইল রাখতে পারে তার বাইরে.;
+	bn=প্যাকেজে {name} আছে, একটা কী বিন্যাস যেসব ফাইল রাখতে পারে তার বাইরে।;
 	}
 
 [Two presses this close are a double press, and two clicks a double click.]
 	{
-	bn=এত কাছের দুই চাপ একটা দুবার চাপ, আর দুই ক্লিক একটা দুবার ক্লিক.;
+	bn=এত কাছের দুই চাপ একটা দুবার চাপ, আর দুই ক্লিক একটা দুবার ক্লিক।;
 	}
 
 [UPDATE KEY LAYOUT]
@@ -11802,12 +11802,12 @@
 
 [Used while {mod} is played. Same as the game uses Key layout.]
 	{
-	bn={mod} খেলার সময় ব্যবহৃত. “গেমের মতো” কী বিন্যাস ব্যবহার করে.;
+	bn={mod} খেলার সময় ব্যবহৃত। “গেমের মতো” কী বিন্যাস ব্যবহার করে।;
 	}
 
 [Your Keys folder changed while this key layout was being installed; nothing was changed. Open the file again.]
 	{
-	bn=এই কী বিন্যাস ইনস্টল হওয়ার সময় তোমার Keys ফোল্ডার বদলেছে. কিছু বদলায়নি. ফাইল আবার খোলো.;
+	bn=এই কী বিন্যাস ইনস্টল হওয়ার সময় তোমার Keys ফোল্ডার বদলেছে। কিছু বদলায়নি। ফাইল আবার খোলো।;
 	}
 
 [key layouts]
@@ -11829,7 +11829,7 @@
 
 [How soon a held camera, speed or page key repeats, and how fast.]
 	{
-	bn=ধরা ক্যামেরা, গতি বা পাতার কী কত তাড়াতাড়ি পুনরাবৃত্তি হয়, আর কত দ্রুত.;
+	bn=ধরা ক্যামেরা, গতি বা পাতার কী কত তাড়াতাড়ি পুনরাবৃত্তি হয়, আর কত দ্রুত।;
 	}
 
 [Key repeat delay]
@@ -11861,22 +11861,22 @@
 
 [Another copy of Open Annihilation is changing your Keys folder. Try again once it has finished.]
 	{
-	bn=Open Annihilation-এর অন্য এক কপি তোমার Keys ফোল্ডার বদলাচ্ছে. সেটা শেষ হলে আবার চেষ্টা করো.;
+	bn=Open Annihilation-এর অন্য এক কপি তোমার Keys ফোল্ডার বদলাচ্ছে। সেটা শেষ হলে আবার চেষ্টা করো।;
 	}
 
 [Either way it stays saved with {name}, and comes back when you use {name} again.]
 	{
-	bn=যেভাবেই হোক এটা সেভ থাকে {name}-এর সঙ্গে, আর আবার {name} ব্যবহার করলে ফিরে আসে.;
+	bn=যেভাবেই হোক এটা সেভ থাকে {name}-এর সঙ্গে, আর আবার {name} ব্যবহার করলে ফিরে আসে।;
 	}
 
 [Either way they stay saved with {name}, and come back when you use {name} again.]
 	{
-	bn=যেভাবেই হোক সেগুলো সেভ থাকে {name}-এর সঙ্গে, আর আবার {name} ব্যবহার করলে ফিরে আসে.;
+	bn=যেভাবেই হোক সেগুলো সেভ থাকে {name}-এর সঙ্গে, আর আবার {name} ব্যবহার করলে ফিরে আসে।;
 	}
 
 [It needs {size} free, and the disk holding your Keys folder has {free}.]
 	{
-	bn=এর {size} ফাঁকা লাগে, আর তোমার Keys ফোল্ডারের ডিস্কে আছে {free}.;
+	bn=এর {size} ফাঁকা লাগে, আর তোমার Keys ফোল্ডারের ডিস্কে আছে {free}।;
 	}
 
 [OA default]
@@ -11891,12 +11891,12 @@
 
 [You play with {name} now. Uninstall it and go back to OA default? Your own changes stay saved.]
 	{
-	bn=এখন তুমি {name} দিয়ে খেলো. এটা সরিয়ে OA নিজস্বে ফিরবে? তোমার নিজের বদল সেভ থাকে.;
+	bn=এখন তুমি {name} দিয়ে খেলো। এটা সরিয়ে OA নিজস্বে ফিরবে? তোমার নিজের বদল সেভ থাকে।;
 	}
 
 [Your Keys folder has no free folder name for it.]
 	{
-	bn=তোমার Keys ফোল্ডারে এর জন্য খালি ফোল্ডারের নাম নেই.;
+	bn=তোমার Keys ফোল্ডারে এর জন্য খালি ফোল্ডারের নাম নেই।;
 	}
 
 // Named keys.
@@ -12108,7 +12108,7 @@
 
 [Media play pause]
 	{
-	bn=মিডিয়া চালু বা থাম;
+	bn=মিডিয়া চালাও বা বিরতি;
 	}
 
 [Media select]
@@ -12330,32 +12330,32 @@
 
 [*** The launch gives a computer player side {side}, which computer players cannot take in this game.]
 	{
-	bn=*** চালু করা একটা কম্পিউটারকে পক্ষ {side} দেয়, কিন্তু এই লড়াইয়ে কম্পিউটার সেই পক্ষ নিতে পারে না.;
+	bn=*** চালু করা একটা কম্পিউটারকে পক্ষ {side} দেয়, কিন্তু এই লড়াইয়ে কম্পিউটার সেই পক্ষ নিতে পারে না।;
 	}
 
 [*** The launch names side {side}, which this game does not have.]
 	{
-	bn=*** চালু করা পক্ষের নাম {side}, এই লড়াইয়ে সেই পক্ষ নেই.;
+	bn=*** চালু করা পক্ষের নাম {side}, এই লড়াইয়ে সেই পক্ষ নেই।;
 	}
 
 [*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than 256 weapon types.]
 	{
-	bn=*** {player} খেলে Total Annihilation 3.1c, যেটা 256-এর বেশি অস্ত্রের ধরনের মোড খেলতে পারে না.;
+	bn=*** {player} খেলে Total Annihilation 3.1c, যেটা 256-এর বেশি অস্ত্রের ধরনের মোড খেলতে পারে না।;
 	}
 
 [*** {player} plays Total Annihilation 3.1c, which cannot play a mod with more than five sides.]
 	{
-	bn=*** {player} খেলে Total Annihilation 3.1c, যেটা পাঁচের বেশি পক্ষের মোড খেলতে পারে না.;
+	bn=*** {player} খেলে Total Annihilation 3.1c, যেটা পাঁচের বেশি পক্ষের মোড খেলতে পারে না।;
 	}
 
 [This recording needs a mod with {n} weapon types and {m} sides.]
 	{
-	bn=এই রেকর্ডিং এমন মোড চায়, যাতে অস্ত্রের ধরন {n} আর পক্ষ {m}.;
+	bn=এই রেকর্ডিং এমন মোড চায়, যাতে অস্ত্রের ধরন {n} আর পক্ষ {m}।;
 	}
 
 [This recording was made with 256 weapon types and five sides. The mod you are playing has more.]
 	{
-	bn=এই রেকর্ডিং বানানো হয়েছে 256 অস্ত্রের ধরন আর পাঁচ পক্ষ দিয়ে. তুমি যে মোড খেলছ, তাতে আরও আছে.;
+	bn=এই রেকর্ডিং বানানো হয়েছে 256 অস্ত্রের ধরন আর পাঁচ পক্ষ দিয়ে। তুমি যে মোড খেলছ, তাতে আরও আছে।;
 	}
 
 [Weapon types]
@@ -12397,7 +12397,7 @@
 
 [Download paused]
 	{
-	bn=নামানো থাম;
+	bn=নামানো থেমে আছে;
 	}
 
 [Download update]
@@ -12422,7 +12422,7 @@
 
 [Downloads pause during a match and carry on after it.]
 	{
-	bn=লড়াইয়ের সময় নামানো থামে, লড়াই শেষ হলে আবার চলে.;
+	bn=লড়াইয়ের সময় নামানো থেমে থাকে, লড়াই শেষ হলে আবার চলে।;
 	}
 
 [Finishing the update to {version}]
@@ -12447,7 +12447,7 @@
 
 [Install {version} again from its page, over the copy you have.]
 	{
-	bn=যে পাতায় {version} আছে, সেখান থেকে আবার ইনস্টল করো, তোমার কপির উপরে.;
+	bn=যে পাতায় {version} আছে, সেখান থেকে আবার ইনস্টল করো, তোমার কপির উপরে।;
 	}
 
 [Installed {version}]
@@ -12457,7 +12457,7 @@
 
 [Installer will put {version} in Applications. Start it from there when it finishes.]
 	{
-	bn=ইনস্টলার {version} রাখবে Applications-এ. শেষ হলে সেখান থেকে চালু করো.;
+	bn=ইনস্টলার {version} রাখবে Applications-এ। শেষ হলে সেখান থেকে চালু করো।;
 	}
 
 [Installing {version}]
@@ -12467,17 +12467,17 @@
 
 [It installs as you quit. Change it any time in Settings › Updates.]
 	{
-	bn=তুমি বেরোলে এটা ইনস্টল হয়. সেটিংস › আপডেটে যখন খুশি বদলাও.;
+	bn=তুমি বেরোলে এটা ইনস্টল হয়। সেটিংস › আপডেটে যখন খুশি বদলাও।;
 	}
 
 [It updates as it next starts.]
 	{
-	bn=পরের বার চালু হলে এটা আপডেট হয়.;
+	bn=পরের বার চালু হলে এটা আপডেট হয়।;
 	}
 
 [Its signature was refused. Nothing was downloaded or changed.]
 	{
-	bn=এর সই মানা হয়নি. কিছু নামেনি, কিছু বদলায়নি.;
+	bn=এর সই মানা হয়নি। কিছু নামেনি, কিছু বদলায়নি।;
 	}
 
 [New in {version}:]
@@ -12502,17 +12502,17 @@
 
 [Not installed. {version} is unchanged.]
 	{
-	bn=ইনস্টল হয়নি. {version} একই আছে.;
+	bn=ইনস্টল হয়নি। {version} একই আছে।;
 	}
 
 [OA restarts on {version}, with the settings it had. {current} won't be offered again until you choose it.]
 	{
-	bn=OA আবার চালু হয় {version} এ, আগের সেটিংস নিয়ে. তুমি না বেছে নিলে {current} আর দেওয়া হয় না.;
+	bn=OA আবার চালু হয় {version} এ, আগের সেটিংস নিয়ে। তুমি না বেছে নিলে {current} আর দেওয়া হয় না।;
 	}
 
 [Off: OA asks before downloading.]
 	{
-	bn=বন্ধ: নামানোর আগে OA জিজ্ঞেস করে.;
+	bn=বন্ধ: নামানোর আগে OA জিজ্ঞেস করে।;
 	}
 
 [Open Annihilation {version}]
@@ -12527,7 +12527,7 @@
 
 [Open your software centre to update it.]
 	{
-	bn=আপডেট করতে তোমার সফটওয়্যার সেন্টার খোলো.;
+	bn=আপডেট করতে তোমার সফটওয়্যার সেন্টার খোলো।;
 	}
 
 [Previous version · {version}]
@@ -12542,7 +12542,7 @@
 
 [Restart Windows to finish installing {version}.]
 	{
-	bn={version} ইনস্টল শেষ করতে Windows আবার চালু করো.;
+	bn={version} ইনস্টল শেষ করতে Windows আবার চালু করো।;
 	}
 
 [Restart to update]
@@ -12557,7 +12557,7 @@
 
 [Roll back restores {version} and the settings you had before updating.]
 	{
-	bn=ফিরিয়ে নিলে {version} ফেরে, আপডেটের আগের তোমার সেটিংসও.;
+	bn=ফিরিয়ে নিলে {version} ফেরে, আপডেটের আগের তোমার সেটিংসও।;
 	}
 
 [Roll back to {version}?]
@@ -12592,42 +12592,42 @@
 
 [The download was not the file the signed list names, so it was deleted.]
 	{
-	bn=নামানো ফাইল সই করা তালিকার নাম নয়, তাই সেটা মুছে ফেলা হয়েছে.;
+	bn=নামানো ফাইল সই করা তালিকার নাম নয়, তাই সেটা মুছে ফেলা হয়েছে।;
 	}
 
 [The game closes, puts {version} back and starts again. {current} is not offered again until a newer release.]
 	{
-	bn=গেম বন্ধ হয়, {version} ফিরিয়ে আনে এবং আবার চালু হয়. নতুন প্রকাশ না আসা পর্যন্ত {current} আর দেওয়া হয় না.;
+	bn=গেম বন্ধ হয়, {version} ফিরিয়ে আনে এবং আবার চালু হয়। নতুন প্রকাশ না আসা পর্যন্ত {current} আর দেওয়া হয় না।;
 	}
 
 [The roll back failed. Nothing was changed.]
 	{
-	bn=ফিরিয়ে নেওয়া হয়নি. কিছু বদলায়নি.;
+	bn=ফিরিয়ে নেওয়া হয়নি। কিছু বদলায়নি।;
 	}
 
 [The roll back failed. The game could not be put back.]
 	{
-	bn=ফিরিয়ে নেওয়া হয়নি. গেম ফেরানো যায়নি.;
+	bn=ফিরিয়ে নেওয়া হয়নি। গেম ফেরানো যায়নি।;
 	}
 
 [The update could not be verified.]
 	{
-	bn=আপডেট যাচাই হয়নি.;
+	bn=আপডেট যাচাই হয়নি।;
 	}
 
 [The update failed. {version} was put back.]
 	{
-	bn=আপডেট হয়নি. {version} ফিরিয়ে আনা হয়েছে.;
+	bn=আপডেট হয়নি। {version} ফিরিয়ে আনা হয়েছে।;
 	}
 
 [The update was cancelled.]
 	{
-	bn=আপডেট বাতিল হয়েছে.;
+	bn=আপডেট বাতিল হয়েছে।;
 	}
 
 [This copy came from {name}, which updates it.]
 	{
-	bn=এই কপি এসেছে {name} থেকে, সে-ই এটা আপডেট করে.;
+	bn=এই কপি এসেছে {name} থেকে, সে-ই এটা আপডেট করে।;
 	}
 
 [This version cannot use:]
@@ -12662,7 +12662,7 @@
 
 [You have {current}. The update is {size}.]
 	{
-	bn=তোমার {current} আছে. আপডেট {size}.;
+	bn=তোমার {current} আছে। আপডেট {size}।;
 	}
 
 [Your settings from before you updated]
@@ -12677,17 +12677,17 @@
 
 [macOS runs this copy from a protected place, so it can't update itself. Drag Open Annihilation to Applications and start it from there.]
 	{
-	bn=macOS এই কপি একটা সুরক্ষিত জায়গা থেকে চালায়, তাই কপি নিজে আপডেট করতে পারে না. Open Annihilation-কে Applications-এ টেনে নাও, সেখান থেকে চালু করো.;
+	bn=macOS এই কপি একটা সুরক্ষিত জায়গা থেকে চালায়, তাই কপি নিজে আপডেট করতে পারে না। Open Annihilation-কে Applications-এ টেনে নাও, সেখান থেকে চালু করো।;
 	}
 
 [{new} won't be offered again until a newer release, or choose it in Settings › Updates.]
 	{
-	bn={new} আর দেওয়া হবে না, নতুন প্রকাশ না আসা পর্যন্ত. অথবা সেটিংস › আপডেট-এ বেছে নাও.;
+	bn={new} আর দেওয়া হবে না, নতুন প্রকাশ না আসা পর্যন্ত। অথবা সেটিংস › আপডেট-এ বেছে নাও।;
 	}
 
 [{version} closed twice before it reached the main menu, so OA went back to {old}, with the settings you had.]
 	{
-	bn={version} মূল মেনুতে পৌঁছানোর আগে দুবার বন্ধ হয়েছে, তাই OA ফিরে গেছে {old}-এ, তোমার সেই সেটিংস নিয়ে.;
+	bn={version} মূল মেনুতে পৌঁছানোর আগে দুবার বন্ধ হয়েছে, তাই OA ফিরে গেছে {old}-এ, তোমার সেই সেটিংস নিয়ে।;
 	}
 
 [{version} closed twice before the main menu]
@@ -12702,7 +12702,7 @@
 
 [{version} installs the next time you start Open Annihilation.]
 	{
-	bn={version} পরের বার Open Annihilation চালু করলে ইনস্টল হবে.;
+	bn={version} পরের বার Open Annihilation চালু করলে ইনস্টল হবে।;
 	}
 
 [{version} installs when you quit]
@@ -12712,22 +12712,22 @@
 
 [{version} is kept, in case you want it back. The game starts again by itself.]
 	{
-	bn={version} রাখা আছে, ফিরে চাইলে. গেম নিজে আবার চালু হয়.;
+	bn={version} রাখা আছে, ফিরে চাইলে। গেম নিজে আবার চালু হয়।;
 	}
 
 [{version} is kept. Roll back from Settings › Updates.]
 	{
-	bn={version} রাখা আছে. সেটিংস › আপডেট থেকে ফিরিয়ে নাও.;
+	bn={version} রাখা আছে। সেটিংস › আপডেট থেকে ফিরিয়ে নাও।;
 	}
 
 [{version} is kept. To go back to it, press Roll back… in Settings › Updates.]
 	{
-	bn={version} রাখা আছে. সেটায় ফিরতে সেটিংস › আপডেট-এ ফিরিয়ে নাও… চাপো.;
+	bn={version} রাখা আছে। সেটায় ফিরতে সেটিংস › আপডেট-এ ফিরিয়ে নাও… চাপো।;
 	}
 
 [{version} is not offered again until a newer release.]
 	{
-	bn={version} আর দেওয়া হবে না, নতুন প্রকাশ না আসা পর্যন্ত.;
+	bn={version} আর দেওয়া হবে না, নতুন প্রকাশ না আসা পর্যন্ত।;
 	}
 
 [{version} is out]
@@ -12767,12 +12767,12 @@
 
 [{version} waits until you choose to try again.]
 	{
-	bn={version} অপেক্ষা করে, যতক্ষণ না আবার চেষ্টা বেছে নাও.;
+	bn={version} অপেক্ষা করে, যতক্ষণ না আবার চেষ্টা বেছে নাও।;
 	}
 
 [{version} won't be offered again. The next release will be, or choose {version} in Settings › Updates to try it again.]
 	{
-	bn={version} আর দেওয়া হবে না. পরের প্রকাশ দেওয়া হবে. আবার চেষ্টা করতে সেটিংস › আপডেট-এ {version} বেছে নাও.;
+	bn={version} আর দেওয়া হবে না। পরের প্রকাশ দেওয়া হবে। আবার চেষ্টা করতে সেটিংস › আপডেট-এ {version} বেছে নাও।;
 	}
 
 [{version} · checking]
@@ -12782,7 +12782,7 @@
 
 [{version} · paused]
 	{
-	bn={version} · থাম;
+	bn={version} · থেমে আছে;
 	}
 
 [{version} · {percent}%]
@@ -12804,7 +12804,7 @@
 
 [The size Settings, the Library and the other OA windows take. Auto takes the largest that fits.]
 	{
-	bn=সেটিংস, লাইব্রেরি আর অন্য OA উইন্ডোর মাপ. স্বয়ংক্রিয় নেয় সবচেয়ে বড়টা যা ধরে.;
+	bn=সেটিংস, লাইব্রেরি আর অন্য OA উইন্ডোর মাপ। স্বয়ংক্রিয় নেয় সবচেয়ে বড়টা যা ধরে।;
 	}
 
 [{count} mutators on]
@@ -12814,14 +12814,14 @@
 
 [{name} is installed. Choose Use in the Library's Keys tab to play with it.]
 	{
-	bn={name} ইনস্টল হয়েছে. এটা নিয়ে খেলতে লাইব্রেরির কী ট্যাবে ব্যবহার বেছে নাও.;
+	bn={name} ইনস্টল হয়েছে। এটা নিয়ে খেলতে লাইব্রেরির কী ট্যাবে ব্যবহার বেছে নাও।;
 	}
 
 // The rest of the interface.
 
 [*** {player} needs a newer Open Annihilation for this mod.]
 	{
-	bn=*** এই মোডের জন্য {player}-এর নতুন Open Annihilation চাই.;
+	bn=*** এই মোডের জন্য {player}-এর নতুন Open Annihilation চাই।;
 	}
 
 [+{n}]
@@ -12846,7 +12846,7 @@
 
 [1 update changes the game's rules: {names}. Saved games from its current version won't load under the new one. It is kept, and Roll back brings it back.]
 	{
-	bn=1 আপডেট গেমের নিয়ম বদলায়: {names}. তার বর্তমান ভার্সনের সেভ করা গেম নতুনটাতে খুলবে না. সেটা রাখা আছে, আর ফিরিয়ে নাও সেটা ফিরিয়ে আনে.;
+	bn=1 আপডেট গেমের নিয়ম বদলায়: {names}। তার বর্তমান ভার্সনের সেভ করা গেম নতুনটাতে খুলবে না। সেটা রাখা আছে, আর ফিরিয়ে নাও সেটা ফিরিয়ে আনে।;
 	}
 
 [A hold]
@@ -12856,7 +12856,7 @@
 
 [A key counts only after it is held this long. For a hand that brushes keys.]
 	{
-	bn=একটা কী এতক্ষণ চেপে রাখলে তবেই গণ্য হয়. যে হাত কী ঘষে, তার জন্য.;
+	bn=একটা কী এতক্ষণ চেপে রাখলে তবেই গণ্য হয়। যে হাত কী ঘষে, তার জন্য।;
 	}
 
 [A mod's Ctrl+F2 keys]
@@ -12881,7 +12881,7 @@
 
 [A second press of the same key this soon is ignored.]
 	{
-	bn=একই কী এত তাড়াতাড়ি আবার চাপলে সেটা গোনা হয় না.;
+	bn=একই কী এত তাড়াতাড়ি আবার চাপলে সেটা গোনা হয় না।;
 	}
 
 [A selection]
@@ -12891,7 +12891,7 @@
 
 [A tapped Shift, Ctrl or Alt holds for the next key or click. Tap twice to lock it.]
 	{
-	bn=এক ট্যাপে Shift, Ctrl বা Alt পরের কী বা ক্লিক পর্যন্ত চেপে থাকে. আটকাতে দুবার ট্যাপ করো.;
+	bn=এক ট্যাপে Shift, Ctrl বা Alt পরের কী বা ক্লিক পর্যন্ত চেপে থাকে। আটকাতে দুবার ট্যাপ করো।;
 	}
 
 [ANSI]
@@ -12926,27 +12926,27 @@
 
 [Applied in this order.]
 	{
-	bn=এই ক্রমে বসানো.;
+	bn=এই ক্রমে প্রয়োগ।;
 	}
 
 [Applies to every game.]
 	{
-	bn=প্রতিটি লড়াইয়ে কাজ করে.;
+	bn=প্রতিটি লড়াইয়ে কাজ করে।;
 	}
 
 [Applies with {mod} only.]
 	{
-	bn=শুধু {mod}-এর সঙ্গে কাজ করে.;
+	bn=শুধু {mod}-এর সঙ্গে কাজ করে।;
 	}
 
 [Apply 1 Change]
 	{
-	bn=1 বদল বসাও;
+	bn=1টি বদল প্রয়োগ করো;
 	}
 
 [Apply {n} Changes]
 	{
-	bn={n} বদল বসাও;
+	bn={n}টি বদল প্রয়োগ করো;
 	}
 
 [Armed]
@@ -12961,7 +12961,7 @@
 
 [Ask each time, or install when I quit.]
 	{
-	bn=প্রতিবার জিজ্ঞেস, অথবা বেরোলে ইনস্টল.;
+	bn=প্রতিবার জিজ্ঞেস, অথবা বেরোলে ইনস্টল।;
 	}
 
 [Asks for]
@@ -13091,7 +13091,7 @@
 
 [Choose Play now to play it, or choose it later with Play now in the Library.]
 	{
-	bn=খেলতে এখন খেলো বেছে নাও, অথবা পরে লাইব্রেরিতে এখন খেলো দিয়ে বেছে নাও.;
+	bn=খেলতে এখন খেলো বেছে নাও, অথবা পরে লাইব্রেরিতে এখন খেলো দিয়ে বেছে নাও।;
 	}
 
 [Choose another file…]
@@ -13101,7 +13101,7 @@
 
 [Choose it with Play now in the Library to play it.]
 	{
-	bn=খেলতে লাইব্রেরিতে এখন খেলো দিয়ে বেছে নাও.;
+	bn=খেলতে লাইব্রেরিতে এখন খেলো দিয়ে বেছে নাও।;
 	}
 
 [Choose what happens…]
@@ -13126,17 +13126,17 @@
 
 [Click a button on the picture, or a role in the table, to change it. Buttons 6 to 8 of a gaming mouse appear here when the game sees them pressed.]
 	{
-	bn=বদলাতে ছবির একটা বোতামে, বা টেবিলের একটা ভূমিকায়, ক্লিক করো. গেমিং মাউসের 6 থেকে 8 বোতাম এখানে আসে, গেম সেগুলো চাপা দেখলে.;
+	bn=বদলাতে ছবির একটা বোতামে, বা টেবিলের একটা ভূমিকায়, ক্লিক করো। গেমিং মাউসের 6 থেকে 8 বোতাম এখানে আসে, গেম সেগুলো চাপা দেখলে।;
 	}
 
 [Click to change.]
 	{
-	bn=বদলাতে ক্লিক করো.;
+	bn=বদলাতে ক্লিক করো।;
 	}
 
 [Click to read.]
 	{
-	bn=পড়তে ক্লিক করো.;
+	bn=পড়তে ক্লিক করো।;
 	}
 
 [Clicks give orders with]
@@ -13216,7 +13216,7 @@
 
 [Could not connect. Try again later.]
 	{
-	bn=যোগ হয়নি. পরে আবার চেষ্টা করো.;
+	bn=যোগ হয়নি। পরে আবার চেষ্টা করো।;
 	}
 
 [Could not put every file back: {detail}]
@@ -13311,7 +13311,7 @@
 
 [Every window is back in the middle.]
 	{
-	bn=প্রতিটি উইন্ডো আবার মাঝে.;
+	bn=প্রতিটি উইন্ডো আবার মাঝে।;
 	}
 
 [Everywhere]
@@ -13421,7 +13421,7 @@
 
 [Get installs it again.]
 	{
-	bn=নাও আবার ইনস্টল করে.;
+	bn=নাও আবার ইনস্টল করে।;
 	}
 
 [Get more brains...]
@@ -13471,22 +13471,22 @@
 
 [Held to the end: the order goes.]
 	{
-	bn=শেষ পর্যন্ত চেপে রাখলে আদেশ যায়.;
+	bn=শেষ পর্যন্ত চেপে রাখলে আদেশ যায়।;
 	}
 
 [Helpers act in every game, not only with {mod}.]
 	{
-	bn=সহকারী প্রতিটি লড়াইয়ে কাজ করে, শুধু {mod}-এর সঙ্গে নয়.;
+	bn=সহকারী প্রতিটি লড়াইয়ে কাজ করে, শুধু {mod}-এর সঙ্গে নয়।;
 	}
 
 [Helpers act in every game.]
 	{
-	bn=সহকারী প্রতিটি লড়াইয়ে কাজ করে.;
+	bn=সহকারী প্রতিটি লড়াইয়ে কাজ করে।;
 	}
 
 [Here and {name} both use it {context}.]
 	{
-	bn=এখানে আর {name} দুজনেই এটা ব্যবহার করে {context}.;
+	bn=এখানে আর {name} দুজনেই এটা ব্যবহার করে {context}।;
 	}
 
 [Hold]
@@ -13496,7 +13496,7 @@
 
 [Hold a key until it counts.]
 	{
-	bn=গণ্য না হওয়া পর্যন্ত কী চেপে রাখো.;
+	bn=গণ্য না হওয়া পর্যন্ত কী চেপে রাখো।;
 	}
 
 [Hold keys that latch]
@@ -13516,7 +13516,7 @@
 
 [Hold the modifiers you want, then press a key or a mouse button, or turn the wheel.]
 	{
-	bn=যে মডিফায়ার চাও চেপে রাখো, তারপর একটা কী বা মাউস বোতাম চাপো, অথবা চাকা ঘোরাও.;
+	bn=যে মডিফায়ার চাও চেপে রাখো, তারপর একটা কী বা মাউস বোতাম চাপো, অথবা চাকা ঘোরাও।;
 	}
 
 [Holding]
@@ -13531,7 +13531,7 @@
 
 [How far a press may move and still be a click.]
 	{
-	bn=এক চাপ কতদূর সরলেও ক্লিক গণ্য হয়.;
+	bn=এক চাপ কতদূর সরলেও ক্লিক গণ্য হয়।;
 	}
 
 [How it acts]
@@ -13601,22 +13601,22 @@
 
 [It installs when you quit, or now if you restart. Restarting takes a few seconds and brings you back to the main menu.]
 	{
-	bn=বেরোলে ইনস্টল হয়, অথবা এখন আবার চালু করলে. আবার চালু হতে কয়েক সেকেন্ড লাগে, তারপর মূল মেনুতে ফেরে.;
+	bn=বেরোলে ইনস্টল হয়, অথবা এখন আবার চালু করলে। আবার চালু হতে কয়েক সেকেন্ড লাগে, তারপর মূল মেনুতে ফেরে।;
 	}
 
 [It is in the download queue: Cancel it before you uninstall it.]
 	{
-	bn=এটা নামানোর সারিতে আছে: আনইনস্টলের আগে বাতিল করো.;
+	bn=এটা নামানোর সারিতে আছে: আনইনস্টলের আগে বাতিল করো।;
 	}
 
 [It stopped before any file moved.]
 	{
-	bn=কোনো ফাইল সরার আগে থেমে গেছে.;
+	bn=কোনো ফাইল সরার আগে থেমে গেছে।;
 	}
 
 [Its folder is a link, and OA never removes what a link leads to. Open folder shows it.]
 	{
-	bn=এর ফোল্ডার একটা লিংক, আর লিংক যেখানে যায় OA তা সরায় না. ফোল্ডার খোলো সেটা দেখায়.;
+	bn=এর ফোল্ডার একটা লিংক, আর লিংক যেখানে যায় OA তা সরায় না। ফোল্ডার খোলো সেটা দেখায়।;
 	}
 
 [JIS]
@@ -13641,7 +13641,7 @@
 
 [Keep holding {chord}: the ring fills in {seconds} s. Let go to cancel.]
 	{
-	bn={chord} চেপে রাখো: {seconds} s-এ আংটি ভরে. বাতিল করতে ছাড়ো.;
+	bn={chord} চেপে রাখো: {seconds} s-এ আংটি ভরে। বাতিল করতে ছাড়ো।;
 	}
 
 [Keep it]
@@ -13691,7 +13691,7 @@
 
 [Keys pressed here never reach the game.]
 	{
-	bn=এখানে চাপা কী গেমে পৌঁছায় না.;
+	bn=এখানে চাপা কী গেমে পৌঁছায় না।;
 	}
 
 [Keys while placing a building]
@@ -13751,7 +13751,7 @@
 
 [Left and right {modifier} are one key in Open Annihilation]
 	{
-	bn=বাঁ আর ডান {modifier} Open Annihilation-এ একই কী.;
+	bn=বাঁ আর ডান {modifier} Open Annihilation-এ একই কী।;
 	}
 
 [Left hand]
@@ -13771,7 +13771,7 @@
 
 [Let go before the end: nothing happens.]
 	{
-	bn=শেষের আগে ছাড়লে কিছু হয় না.;
+	bn=শেষের আগে ছাড়লে কিছু হয় না।;
 	}
 
 [Load]
@@ -13801,7 +13801,7 @@
 
 [Made for the {layout} interface; yours is {yours}.]
 	{
-	bn={layout} ইন্টারফেসের জন্য বানানো. তোমারটা {yours}.;
+	bn={layout} ইন্টারফেসের জন্য বানানো। তোমারটা {yours}।;
 	}
 
 [Manage…]
@@ -13906,7 +13906,7 @@
 
 [Multiplayer]
 	{
-	bn=অনেকজন;
+	bn=মাল্টিপ্লেয়ার;
 	}
 
 [Name]
@@ -13946,7 +13946,7 @@
 
 [No command changes its key.]
 	{
-	bn=কোনো আদেশ নিজের কী বদলায় না.;
+	bn=কোনো আদেশ নিজের কী বদলায় না।;
 	}
 
 [No key]
@@ -13971,12 +13971,12 @@
 
 [Nothing changes until you apply it.]
 	{
-	bn=বসাও না করা পর্যন্ত কিছু বদলায় না.;
+	bn=প্রয়োগ না করলে কিছু বদলায় না।;
 	}
 
 [Nothing is scheduled.]
 	{
-	bn=কিছু ঠিক করা নেই.;
+	bn=কিছু ঠিক করা নেই।;
 	}
 
 [Number keys select groups]
@@ -13991,7 +13991,7 @@
 
 [OA can't tell whether {to} changes the game's rules. If it does, saved games from {from} won't load under it. {From} is kept, and Roll back brings it back.]
 	{
-	bn=OA বলতে পারে না {to} গেমের নিয়ম বদলায় কি না. বদলালে {from}-এর সেভ করা গেম সেটাতে খুলবে না. {From} রাখা আছে, আর ফিরিয়ে নাও সেটা ফিরিয়ে আনে.;
+	bn=OA বলতে পারে না {to} গেমের নিয়ম বদলায় কি না। বদলালে {from}-এর সেভ করা গেম সেটাতে খুলবে না। {From} রাখা আছে, আর ফিরিয়ে নাও সেটা ফিরিয়ে আনে।;
 	}
 
 [OA never checks]
@@ -14001,17 +14001,17 @@
 
 [OA's screens in Barlow, a clear modern face.]
 	{
-	bn=OA-এর পর্দা Barlow-তে, একটা পরিষ্কার আধুনিক ফন্ট.;
+	bn=OA-এর পর্দা Barlow-তে, একটা পরিষ্কার আধুনিক ফন্ট।;
 	}
 
 [OA's screens in the game's own bitmap fonts.]
 	{
-	bn=OA-এর পর্দা গেমের নিজের বিটম্যাপ ফন্টে.;
+	bn=OA-এর পর্দা গেমের নিজের বিটম্যাপ ফন্টে।;
 	}
 
 [Off stops the view scrolling while the pointer rests at the window's edge.]
 	{
-	bn=বন্ধ করলে পয়েন্টার উইন্ডোর কিনারায় থাকলেও দৃশ্য স্ক্রল হয় না.;
+	bn=বন্ধ করলে পয়েন্টার উইন্ডোর কিনারায় থাকলেও দৃশ্য স্ক্রল হয় না।;
 	}
 
 [On Open Annihilation's screens]
@@ -14071,7 +14071,7 @@
 
 [Open the log to see which files were left.]
 	{
-	bn=কোন ফাইল থেকে গেছে দেখতে লগ খোলো.;
+	bn=কোন ফাইল থেকে গেছে দেখতে লগ খোলো।;
 	}
 
 [Open the page]
@@ -14091,7 +14091,7 @@
 
 [Open {page} in a browser on another computer, or in Desktop Mode.]
 	{
-	bn=অন্য কম্পিউটারের ব্রাউজারে {page} খোলো, অথবা ডেস্কটপ মোডে.;
+	bn=অন্য কম্পিউটারের ব্রাউজারে {page} খোলো, অথবা ডেস্কটপ মোডে।;
 	}
 
 [Open ›]
@@ -14106,7 +14106,7 @@
 
 [Order buttons and build cells show their key in a corner.]
 	{
-	bn=আদেশের বোতাম আর বানানোর ঘরে কোনায় কী দেখায়.;
+	bn=আদেশের বোতাম আর বানানোর ঘরে কোনায় কী দেখায়।;
 	}
 
 [P]
@@ -14131,12 +14131,12 @@
 
 [Paused during a match]
 	{
-	bn=লড়াইয়ের সময় থাম;
+	bn=লড়াইয়ের সময় থেমে থাকে;
 	}
 
 [Paused during the game]
 	{
-	bn=গেমের সময় থাম;
+	bn=গেমের সময় থেমে থাকে;
 	}
 
 [Pin]
@@ -14161,17 +14161,17 @@
 
 [Press a key or a mouse button to see what it does. Nothing is changed.]
 	{
-	bn=কাজ দেখতে একটা কী বা মাউস বোতাম চাপো. কিছু বদলায় না.;
+	bn=কাজ দেখতে একটা কী বা মাউস বোতাম চাপো। কিছু বদলায় না।;
 	}
 
 [Press a key twice, quickly.]
 	{
-	bn=একটা কী দুবার তাড়াতাড়ি চাপো.;
+	bn=একটা কী দুবার তাড়াতাড়ি চাপো।;
 	}
 
 [Press a key, alone or with Shift, Ctrl or Alt.]
 	{
-	bn=একটা কী চাপো, একা অথবা Shift, Ctrl বা Alt দিয়ে.;
+	bn=একটা কী চাপো, একা অথবা Shift, Ctrl বা Alt দিয়ে।;
 	}
 
 [Press a key…]
@@ -14186,7 +14186,7 @@
 
 [Press {key}, or {wheel}, to rotate]
 	{
-	bn=ঘোরাতে {key} চাপো, বা {wheel}.;
+	bn=ঘোরাতে {key} চাপো, বা {wheel}।;
 	}
 
 [Prev pg]
@@ -14206,7 +14206,7 @@
 
 [Puts every window you moved back in the middle.]
 	{
-	bn=তুমি যে উইন্ডো সরিয়েছ সব মাঝে ফিরিয়ে দেয়.;
+	bn=তুমি যে উইন্ডো সরিয়েছ সব মাঝে ফিরিয়ে দেয়।;
 	}
 
 [Queue]
@@ -14231,7 +14231,7 @@
 
 [Recovery could not finish.]
 	{
-	bn=পুনরুদ্ধার শেষ হয়নি.;
+	bn=পুনরুদ্ধার শেষ হয়নি।;
 	}
 
 [Registries in the Library…]
@@ -14256,7 +14256,7 @@
 
 [Replacing keeps {installed}, and Roll back in the Library brings it back.]
 	{
-	bn=বদলালে {installed} থাকে, আর লাইব্রেরির ফিরিয়ে নাও সেটা ফিরিয়ে আনে.;
+	bn=বদলালে {installed} থাকে, আর লাইব্রেরির ফিরিয়ে নাও সেটা ফিরিয়ে আনে।;
 	}
 
 [Reset]
@@ -14286,7 +14286,7 @@
 
 [Restore Defaults]
 	{
-	bn=ডিফল্ট ফেরত;
+	bn=ডিফল্টে ফেরো;
 	}
 
 [Restore profile values]
@@ -14296,12 +14296,12 @@
 
 [Resume]
 	{
-	bn=আবার শুরু;
+	bn=চালিয়ে যাও;
 	}
 
 [Revision {installed} is kept, and Roll back in the Library brings it back.]
 	{
-	bn=রিভিশন {installed} রাখা আছে, আর লাইব্রেরির ফিরিয়ে নাও সেটা ফিরিয়ে আনে.;
+	bn=রিভিশন {installed} রাখা আছে, আর লাইব্রেরির ফিরিয়ে নাও সেটা ফিরিয়ে আনে।;
 	}
 
 [Right hand]
@@ -14321,7 +14321,7 @@
 
 [Roll back {title} to {to}? {from} is kept in its place, and Roll back again brings it back.]
 	{
-	bn={title}-কে {to}-এ ফিরিয়ে নাবে? {from} তার জায়গায় থাকে, আর আবার ফিরিয়ে নাও সেটা ফিরিয়ে আনে.;
+	bn={title}-কে {to}-এ ফিরিয়ে নাবে? {from} তার জায়গায় থাকে, আর আবার ফিরিয়ে নাও সেটা ফিরিয়ে আনে।;
 	}
 
 [Same]
@@ -14401,7 +14401,7 @@
 
 [Select a key to see everything on it.]
 	{
-	bn=সব দেখতে একটা কী বাছো.;
+	bn=সব দেখতে একটা কী বাছো।;
 	}
 
 [Selection]
@@ -14421,7 +14421,7 @@
 
 [Self-destruct, surrender and quitting need a long press. A ring fills as you hold.]
 	{
-	bn=আত্মধ্বংস, আত্মসমর্পণ আর বেরোনোতে লম্বা চাপ লাগে. চেপে রাখলে আংটি ভরে.;
+	bn=আত্মধ্বংস, আত্মসমর্পণ আর বেরোনোতে লম্বা চাপ লাগে। চেপে রাখলে আংটি ভরে।;
 	}
 
 [Set]
@@ -14431,7 +14431,7 @@
 
 [Set by the mod. Every player in a game has the same.]
 	{
-	bn=মোড বসিয়েছে. এক লড়াইয়ের সব খেলোয়াড়ের একই.;
+	bn=মোড বসিয়েছে। এক লড়াইয়ের সব খেলোয়াড়ের একই।;
 	}
 
 [Set them aside]
@@ -14441,7 +14441,7 @@
 
 [Settings you changed after updating are replaced by the ones you had then.]
 	{
-	bn=আপডেটের পরে তুমি যে সেটিংস বদলিয়েছ, সেগুলোর জায়গায় তখনকারগুলো বসে.;
+	bn=আপডেটের পরে তুমি যে সেটিংস বদলিয়েছ, সেগুলোর জায়গায় তখনকারগুলো বসে।;
 	}
 
 [Settings…]
@@ -14511,12 +14511,12 @@
 
 [Some files were left half-moved.]
 	{
-	bn=কিছু ফাইল আধা সরে আছে.;
+	bn=কিছু ফাইল আধা সরে আছে।;
 	}
 
 [Some files were left half-moved. Show details lists the steps that put the game right.]
 	{
-	bn=কিছু ফাইল আধা সরে আছে. বিস্তারিত দেখাও গেম ঠিক করার ধাপ দেখায়.;
+	bn=কিছু ফাইল আধা সরে আছে। বিস্তারিত দেখাও গেম ঠিক করার ধাপ দেখায়।;
 	}
 
 [Space]
@@ -14536,7 +14536,7 @@
 
 [Start Open Annihilation from Applications afterwards.]
 	{
-	bn=পরে Applications থেকে Open Annihilation চালু করো.;
+	bn=পরে Applications থেকে Open Annihilation চালু করো।;
 	}
 
 [Start clean]
@@ -14606,37 +14606,37 @@
 
 [Tap Shift, then press A.]
 	{
-	bn=Shift ট্যাপ করো, তারপর A চাপো.;
+	bn=Shift ট্যাপ করো, তারপর A চাপো।;
 	}
 
 [Tap to turn it on, tap again to turn it off.]
 	{
-	bn=চালু করতে ট্যাপ করো, বন্ধ করতে আবার ট্যাপ করো.;
+	bn=চালু করতে ট্যাপ করো, বন্ধ করতে আবার ট্যাপ করো।;
 	}
 
 [The built-in player takes those seats from the units as they stand. Get the brain in the Library to load the game as it was saved.]
 	{
-	bn=ভেতরের খেলোয়াড় আসনগুলো ইউনিট যেমন দাঁড়িয়ে আছে সেভাবে নেয়. সেভের মতো খুলতে লাইব্রেরি থেকে ব্রেইন নাও.;
+	bn=ভেতরের খেলোয়াড় আসনগুলো ইউনিট যেমন দাঁড়িয়ে আছে সেভাবে নেয়। সেভের মতো খুলতে লাইব্রেরি থেকে ব্রেইন নাও।;
 	}
 
 [The folder kept for Roll back ({backup}) is removed.]
 	{
-	bn=ফিরিয়ে নাও-এর জন্য রাখা ফোল্ডার ({backup}) সরে যায়.;
+	bn=ফিরিয়ে নাও-এর জন্য রাখা ফোল্ডার ({backup}) সরে যায়।;
 	}
 
 [The folder kept for Roll back stays.]
 	{
-	bn=ফিরিয়ে নাও-এর জন্য রাখা ফোল্ডার থাকে.;
+	bn=ফিরিয়ে নাও-এর জন্য রাখা ফোল্ডার থাকে।;
 	}
 
 [The folder kept for Roll back, which holds no mod that can be read, is removed.]
 	{
-	bn=ফিরিয়ে নাও-এর জন্য রাখা ফোল্ডার, যাতে পড়া যায় এমন কোনো মোড নেই, সরে যায়.;
+	bn=ফিরিয়ে নাও-এর জন্য রাখা ফোল্ডার, যাতে পড়া যায় এমন কোনো মোড নেই, সরে যায়।;
 	}
 
 [The game closes, installs it and starts again.]
 	{
-	bn=গেম বন্ধ হয়, সেটা ইনস্টল করে, আবার চালু হয়.;
+	bn=গেম বন্ধ হয়, সেটা ইনস্টল করে, আবার চালু হয়।;
 	}
 
 [The game did not close: {detail}]
@@ -14646,7 +14646,7 @@
 
 [The id {id} is kept for your own changes.]
 	{
-	bn=তোমার নিজের বদলের জন্য id {id} রাখা আছে.;
+	bn=তোমার নিজের বদলের জন্য id {id} রাখা আছে।;
 	}
 
 [The installer did not finish: {detail}]
@@ -14666,12 +14666,12 @@
 
 [The keys Open Annihilation ships with.]
 	{
-	bn=Open Annihilation-এর সঙ্গে আসা কী.;
+	bn=Open Annihilation-এর সঙ্গে আসা কী।;
 	}
 
 [The keys, mouse buttons and wheel turns the game answers. {primary}+/ in a match shows them.]
 	{
-	bn=গেম যে কী, মাউস বোতাম আর চাকার ঘোরার জবাব দেয়. লড়াইয়ে {primary}+/ সেগুলো দেখায়.;
+	bn=গেম যে কী, মাউস বোতাম আর চাকার ঘোরার জবাব দেয়। লড়াইয়ে {primary}+/ সেগুলো দেখায়।;
 	}
 
 [The layout was not saved: {reason}]
@@ -14696,7 +14696,7 @@
 
 [The numpad moves the pointer; 5 clicks, 0 right-clicks.]
 	{
-	bn=নামপ্যাড পয়েন্টার সরায়. 5 ক্লিক, 0 ডান ক্লিক.;
+	bn=নামপ্যাড পয়েন্টার সরায়। 5 ক্লিক, 0 ডান ক্লিক।;
 	}
 
 [The package could not be checked: {detail}]
@@ -14711,7 +14711,7 @@
 
 [The version installed is kept, and Roll back in the Library brings it back.]
 	{
-	bn=ইনস্টল করা ভার্সন রাখা আছে, আর লাইব্রেরির ফিরিয়ে নাও সেটা ফিরিয়ে আনে.;
+	bn=ইনস্টল করা ভার্সন রাখা আছে, আর লাইব্রেরির ফিরিয়ে নাও সেটা ফিরিয়ে আনে।;
 	}
 
 [The {key} key]
@@ -14721,12 +14721,12 @@
 
 [This copy cannot replace itself. Get the new release from its page.]
 	{
-	bn=এই কপি নিজেকে বদলাতে পারে না. নতুন প্রকাশ তার পাতা থেকে নাও.;
+	bn=এই কপি নিজেকে বদলাতে পারে না। নতুন প্রকাশ তার পাতা থেকে নাও।;
 	}
 
 [This copy is installed for the whole system, so it cannot replace itself. Install the new release the way this copy was installed.]
 	{
-	bn=এই কপি পুরো সিস্টেমের জন্য ইনস্টল, তাই কপি নিজেকে বদলাতে পারে না. এই কপি যেমন ইনস্টল হয়েছিল, নতুন প্রকাশ সেভাবে ইনস্টল করো.;
+	bn=এই কপি পুরো সিস্টেমের জন্য ইনস্টল, তাই কপি নিজেকে বদলাতে পারে না। এই কপি যেমন ইনস্টল হয়েছিল, নতুন প্রকাশ সেভাবে ইনস্টল করো।;
 	}
 
 [This layout has problems:]
@@ -14741,7 +14741,7 @@
 
 [This mod needs every player on Open Annihilation. The host plays Total Annihilation 3.1c.]
 	{
-	bn=এই মোডে প্রতিটি খেলোয়াড়কে Open Annihilation-এ থাকতে হয়. হোস্ট খেলে Total Annihilation 3.1c.;
+	bn=এই মোডে প্রতিটি খেলোয়াড়কে Open Annihilation-এ থাকতে হয়। হোস্ট খেলে Total Annihilation 3.1c।;
 	}
 
 [To put the game right]
@@ -14776,22 +14776,22 @@
 
 [Turning it on applies when the Library closes, and then Play now works.]
 	{
-	bn=চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় বসে, তারপর এখন খেলো কাজ করে.;
+	bn=চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় লাগে, তারপর এখন খেলো কাজ করে।;
 	}
 
 [Turning it on applies when the Library closes, and then Use now works.]
 	{
-	bn=চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় বসে, তারপর এখন ব্যবহার কাজ করে.;
+	bn=চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় লাগে, তারপর এখন ব্যবহার কাজ করে।;
 	}
 
 [Turning them on applies when the Library closes, and then Play now works.]
 	{
-	bn=এগুলো চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় বসে, তারপর এখন খেলো কাজ করে.;
+	bn=এগুলো চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় লাগে, তারপর এখন খেলো কাজ করে।;
 	}
 
 [Turning them on applies when the Library closes, and then Use now works.]
 	{
-	bn=এগুলো চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় বসে, তারপর এখন ব্যবহার কাজ করে.;
+	bn=এগুলো চালু করলে লাইব্রেরি বন্ধ হওয়ার সময় লাগে, তারপর এখন ব্যবহার কাজ করে।;
 	}
 
 [U]
@@ -14821,7 +14821,7 @@
 
 [Uninstall {name}? Its folder, {folder}, is removed, and with it the copy Roll back keeps.]
 	{
-	bn={name} আনইনস্টল করবে? এর ফোল্ডার {folder} সরে যায়, আর সঙ্গে ফিরিয়ে নাও যে কপি রাখে সেটাও.;
+	bn={name} আনইনস্টল করবে? এর ফোল্ডার {folder} সরে যায়, আর সঙ্গে ফিরিয়ে নাও যে কপি রাখে সেটাও।;
 	}
 
 [Unload]
@@ -14926,12 +14926,12 @@
 
 [Using {layout} for every game.]
 	{
-	bn=প্রতিটি লড়াইয়ে {layout} চলছে.;
+	bn=প্রতিটি লড়াইয়ে {layout} চলছে।;
 	}
 
 [Using {layout} with {mod}.]
 	{
-	bn={mod}-এর সঙ্গে {layout} চলছে.;
+	bn={mod}-এর সঙ্গে {layout} চলছে।;
 	}
 
 [V]
@@ -15036,7 +15036,7 @@
 
 [Windows asks for permission.]
 	{
-	bn=Windows অনুমতি চায়.;
+	bn=Windows অনুমতি চায়।;
 	}
 
 [With {mod}: {name}]
@@ -15046,12 +15046,12 @@
 
 [You are playing {name}. Switch it off first with Switch off, then uninstall it.]
 	{
-	bn=তুমি {name} খেলছ. আগে বন্ধ করো চাপো, তারপর আনইনস্টল করো.;
+	bn=তুমি {name} খেলছ। আগে বন্ধ করো চাপো, তারপর আনইনস্টল করো।;
 	}
 
 [You went back to {old}, with the settings you had.]
 	{
-	bn=তুমি ফিরে গেছ {old}-এ, তোমার সেই সেটিংস নিয়ে.;
+	bn=তুমি ফিরে গেছ {old}-এ, তোমার সেই সেটিংস নিয়ে।;
 	}
 
 [Your 1 change to {name}]
@@ -15076,27 +15076,27 @@
 
 [Your last campaign set, ready to use. Cancel plays without mutators.]
 	{
-	bn=তোমার শেষ অভিযানের সেট, ব্যবহারের জন্য তৈরি. বাতিল চাপলে মিউটেটর ছাড়া খেলা হয়.;
+	bn=তোমার শেষ অভিযানের সেট, ব্যবহারের জন্য তৈরি। বাতিল চাপলে মিউটেটর ছাড়া খেলা হয়।;
 	}
 
 [Your last multiplayer set, ready to use. Cancel plays without mutators.]
 	{
-	bn=তোমার শেষ অনেকজনের সেট, ব্যবহারের জন্য তৈরি. বাতিল চাপলে মিউটেটর ছাড়া খেলা হয়.;
+	bn=তোমার শেষ মাল্টিপ্লেয়ারের সেট, ব্যবহারের জন্য তৈরি। বাতিল চাপলে মিউটেটর ছাড়া খেলা হয়।;
 	}
 
 [Your last skirmish set, ready to use. Cancel plays without mutators.]
 	{
-	bn=তোমার শেষ লড়াইয়ের সেট, ব্যবহারের জন্য তৈরি. বাতিল চাপলে মিউটেটর ছাড়া খেলা হয়.;
+	bn=তোমার শেষ লড়াইয়ের সেট, ব্যবহারের জন্য তৈরি। বাতিল চাপলে মিউটেটর ছাড়া খেলা হয়।;
 	}
 
 [Your saved games, settings and mods are not touched by this.]
 	{
-	bn=এতে তোমার সেভ করা গেম, সেটিংস আর মোড ছোঁয়া হয় না.;
+	bn=এতে তোমার সেভ করা গেম, সেটিংস আর মোড ছোঁয়া হয় না।;
 	}
 
 [Your saved games, settings and mods stay as they are.]
 	{
-	bn=তোমার সেভ করা গেম, সেটিংস আর মোড যেমন আছে থাকে.;
+	bn=তোমার সেভ করা গেম, সেটিংস আর মোড যেমন আছে থাকে।;
 	}
 
 [Your {count} changes to {name}]
@@ -15151,7 +15151,7 @@
 
 [game paused]
 	{
-	bn=গেম থেমে;
+	bn=গেম বিরতি;
 	}
 
 [held]
@@ -15271,12 +15271,12 @@
 
 [{To} changes the game's rules. Saved games from {from} won't load under {to}. {From} is kept, and Roll back brings it back.]
 	{
-	bn={To} গেমের নিয়ম বদলায়. {from}-এর সেভ করা গেম {to}-এ খুলবে না. {From} রাখা আছে, আর ফিরিয়ে নাও সেটা ফিরিয়ে আনে.;
+	bn={To} গেমের নিয়ম বদলায়। {from}-এর সেভ করা গেম {to}-এ খুলবে না। {From} রাখা আছে, আর ফিরিয়ে নাও সেটা ফিরিয়ে আনে।;
 	}
 
 [{action} and {name} both use it {context}. Choose which keeps it; nothing changes until you confirm.]
 	{
-	bn={action} আর {name} দুজনেই এটা ব্যবহার করে {context}. কে রাখবে বেছে নাও. নিশ্চিত না করা পর্যন্ত কিছু বদলায় না.;
+	bn={action} আর {name} দুজনেই এটা ব্যবহার করে {context}। কে রাখবে বেছে নাও। নিশ্চিত না করা পর্যন্ত কিছু বদলায় না।;
 	}
 
 [{chords}, from the mod's order panel ({gadget})]
@@ -15291,17 +15291,17 @@
 
 [{chord} also does {name} {context}. That never meets {where}, so it stays.]
 	{
-	bn={chord} সেইসঙ্গে {name} করে {context}. সেটা {where}-এর সঙ্গে কখনো মেলে না, তাই থাকে.;
+	bn={chord} সেইসঙ্গে {name} করে {context}। সেটা {where}-এর সঙ্গে কখনো মেলে না, তাই থাকে।;
 	}
 
 [{chord} counted, then {keys} let go.]
 	{
-	bn={chord} গণ্য হয়েছে, তারপর {keys} ছাড়া হয়েছে.;
+	bn={chord} গণ্য হয়েছে, তারপর {keys} ছাড়া হয়েছে।;
 	}
 
 [{chord} counted.]
 	{
-	bn={chord} গণ্য হয়েছে.;
+	bn={chord} গণ্য হয়েছে।;
 	}
 
 [{chord} does two things]
@@ -15321,12 +15321,12 @@
 
 [{chord} is free {context}.]
 	{
-	bn={chord} ফাঁকা {context}.;
+	bn={chord} ফাঁকা {context}।;
 	}
 
 [{chord} is free: nothing uses it.]
 	{
-	bn={chord} ফাঁকা: কেউ ব্যবহার করে না.;
+	bn={chord} ফাঁকা: কেউ ব্যবহার করে না।;
 	}
 
 [{chord} is in use {context}]
@@ -15336,12 +15336,12 @@
 
 [{chord} is used in 1 place. Nothing is changed.]
 	{
-	bn={chord} 1 জায়গায় ব্যবহৃত. কিছু বদলায় না.;
+	bn={chord} 1 জায়গায় ব্যবহৃত। কিছু বদলায় না।;
 	}
 
 [{chord} is used in {n} places. Nothing is changed.]
 	{
-	bn={chord} {n} জায়গায় ব্যবহৃত. কিছু বদলায় না.;
+	bn={chord} {n} জায়গায় ব্যবহৃত। কিছু বদলায় না।;
 	}
 
 [{command} on {key}]
@@ -15376,7 +15376,7 @@
 
 [{count} updates change the game's rules: {names}. Saved games from their current versions won't load under the new ones. Each is kept, and Roll back brings it back.]
 	{
-	bn={count} আপডেট গেমের নিয়ম বদলায়: {names}. তাদের বর্তমান ভার্সনের সেভ করা গেম নতুনগুলোতে খুলবে না. প্রতিটা রাখা আছে, আর ফিরিয়ে নাও সেটা ফিরিয়ে আনে.;
+	bn={count} আপডেট গেমের নিয়ম বদলায়: {names}। তাদের বর্তমান ভার্সনের সেভ করা গেম নতুনগুলোতে খুলবে না। প্রতিটা রাখা আছে, আর ফিরিয়ে নাও সেটা ফিরিয়ে আনে।;
 	}
 
 [{description} · {chord}]
@@ -15401,37 +15401,37 @@
 
 [{folder} is a folder of your own, not {name}. Move or rename it, then Retry.]
 	{
-	bn={folder} তোমার নিজের ফোল্ডার, {name} নয়. সরাও বা নাম বদলাও, তারপর আবার চেষ্টা.;
+	bn={folder} তোমার নিজের ফোল্ডার, {name} নয়। সরাও বা নাম বদলাও, তারপর আবার চেষ্টা।;
 	}
 
 [{key} did not count: let go after {held} of {wait} s.]
 	{
-	bn={key} গণ্য হয়নি: {held} / {wait} s পরে ছাড়া হয়েছে.;
+	bn={key} গণ্য হয়নি: {held} / {wait} s পরে ছাড়া হয়েছে।;
 	}
 
 [{key} did not count: pressed again within {wait} s.]
 	{
-	bn={key} গণ্য হয়নি: {wait} s-এর মধ্যে আবার চাপা হয়েছে.;
+	bn={key} গণ্য হয়নি: {wait} s-এর মধ্যে আবার চাপা হয়েছে।;
 	}
 
 [{key} held {held} of {wait} s.]
 	{
-	bn={key} চেপে ছিল {held} / {wait} s.;
+	bn={key} চেপে ছিল {held} / {wait} s।;
 	}
 
 [{key} let go.]
 	{
-	bn={key} ছাড়া হয়েছে.;
+	bn={key} ছাড়া হয়েছে।;
 	}
 
 [{key} stays down for the next key.]
 	{
-	bn={key} পরের কী পর্যন্ত চেপে থাকে.;
+	bn={key} পরের কী পর্যন্ত চেপে থাকে।;
 	}
 
 [{key} stays down until you tap it again.]
 	{
-	bn={key} আবার ট্যাপ না করা পর্যন্ত চেপে থাকে.;
+	bn={key} আবার ট্যাপ না করা পর্যন্ত চেপে থাকে।;
 	}
 
 [{layout} · 1 change]
@@ -15461,27 +15461,27 @@
 
 [{name} already has 1 change of your own; it stays.]
 	{
-	bn={name}-এ আগে থেকে তোমার নিজের 1 বদল আছে. সেটা থাকে.;
+	bn={name}-এ আগে থেকে তোমার নিজের 1 বদল আছে। সেটা থাকে।;
 	}
 
 [{name} already has {count} changes of your own; they stay.]
 	{
-	bn={name}-এ আগে থেকে তোমার নিজের {count} বদল আছে. সেগুলো থাকে.;
+	bn={name}-এ আগে থেকে তোমার নিজের {count} বদল আছে। সেগুলো থাকে।;
 	}
 
 [{name} from {installed} is installed. Replace it with {name} from {new}? The one from {installed} is kept, and Roll back brings it back.]
 	{
-	bn={installed} থেকে {name} ইনস্টল আছে. {new} থেকে {name} দিয়ে বদলাবে? {installed} থেকে যেটা, সেটা রাখা থাকে, আর ফিরিয়ে নাও সেটা ফিরিয়ে আনে.;
+	bn={installed} থেকে {name} ইনস্টল আছে। {new} থেকে {name} দিয়ে বদলাবে? {installed} থেকে যেটা, সেটা রাখা থাকে, আর ফিরিয়ে নাও সেটা ফিরিয়ে আনে।;
 	}
 
 [{name} uses it {context}. Choose what happens; nothing changes until you confirm.]
 	{
-	bn={name} এটা ব্যবহার করে {context}. কী হবে বেছে নাও. নিশ্চিত না করা পর্যন্ত কিছু বদলায় না.;
+	bn={name} এটা ব্যবহার করে {context}। কী হবে বেছে নাও। নিশ্চিত না করা পর্যন্ত কিছু বদলায় না।;
 	}
 
 [{name} uses it. Nothing changes until you choose.]
 	{
-	bn={name} এটা ব্যবহার করে. না বেছে নেওয়া পর্যন্ত কিছু বদলায় না.;
+	bn={name} এটা ব্যবহার করে। না বেছে নেওয়া পর্যন্ত কিছু বদলায় না।;
 	}
 
 [{name} · 1 change of your own]
@@ -15511,7 +15511,7 @@
 
 [{name}: {description} {context}. OK asks what to do.]
 	{
-	bn={name}: {description} {context}. ঠিক জিজ্ঞেস করে কী করতে হবে.;
+	bn={name}: {description} {context}। ঠিক জিজ্ঞেস করে কী করতে হবে।;
 	}
 
 [{number} · {heading}]
@@ -15521,12 +15521,12 @@
 
 [{primary}+/ in a match shows the keys.]
 	{
-	bn=লড়াইয়ে {primary}+/ কী দেখায়.;
+	bn=লড়াইয়ে {primary}+/ কী দেখায়।;
 	}
 
 [{problem} Retry tries again.]
 	{
-	bn={problem} আবার চেষ্টা আরেক বার চালায়.;
+	bn={problem} আবার চেষ্টা আরেক বার চালায়।;
 	}
 
 [{problem} · Retry]
@@ -15541,17 +15541,17 @@
 
 [{title} is back to {new}. {old} is kept, and Roll back brings it back.]
 	{
-	bn={title} ফিরে গেছে {new}-এ. {old} রাখা আছে, আর ফিরিয়ে নাও সেটা ফিরিয়ে আনে.;
+	bn={title} ফিরে গেছে {new}-এ। {old} রাখা আছে, আর ফিরিয়ে নাও সেটা ফিরিয়ে আনে।;
 	}
 
 [{title} is now {new}. {old} is kept, and Roll back in the Library brings it back.]
 	{
-	bn={title} এখন {new}. {old} রাখা আছে, আর লাইব্রেরির ফিরিয়ে নাও সেটা ফিরিয়ে আনে.;
+	bn={title} এখন {new}। {old} রাখা আছে, আর লাইব্রেরির ফিরিয়ে নাও সেটা ফিরিয়ে আনে।;
 	}
 
 [{title} {to}, the version kept for Roll back, cannot be played.]
 	{
-	bn={title} {to}, ফিরিয়ে নাও-এর জন্য রাখা ভার্সন, খেলা যায় না.;
+	bn={title} {to}, ফিরিয়ে নাও-এর জন্য রাখা ভার্সন, খেলা যায় না।;
 	}
 
 [{wheel} rotates]
@@ -15593,12 +15593,12 @@
 
 [The keys overlay, the chat line and the latch chips show where you put them.]
 	{
-	bn=কী ওভারলে, চ্যাটের লাইন আর আটকের চিপ তুমি যেখানে বসাও সেখানে দেখায়.;
+	bn=কী ওভারলে, চ্যাটের লাইন আর আটকের চিপ তুমি যেখানে বসাও সেখানে দেখায়।;
 	}
 
 [Off, they show where the game puts them.]
 	{
-	bn=বন্ধ থাকলে গেম যেখানে বসায় সেখানে দেখায়.;
+	bn=বন্ধ থাকলে গেম যেখানে বসায় সেখানে দেখায়।;
 	}
 
 [Overlay places]
@@ -15623,7 +15623,7 @@
 
 [Drag them on a picture of the match. Each window size keeps its own places.]
 	{
-	bn=লড়াইয়ের ছবির উপর টেনে নাও. উইন্ডোর প্রতিটি মাপ নিজের জায়গা রাখে.;
+	bn=লড়াইয়ের ছবির উপর টেনে নাও। উইন্ডোর প্রতিটি মাপ নিজের জায়গা রাখে।;
 	}
 
 // Arrange overlays: the picture of the match, and its sample chat.
@@ -15657,7 +15657,7 @@
 
 [Whether a group's key also moves the view to the group.]
 	{
-	bn=দলের কী দৃশ্যও সেই দলে সরায় কি না.;
+	bn=দলের কী দৃশ্যও সেই দলে সরায় কি না।;
 	}
 
 [On a double press]
@@ -15716,12 +15716,12 @@
 
 [Another key layout is called {name}.]
 	{
-	bn=আরেক কী-বিন্যাসের নাম {name}.;
+	bn=আরেক কী-বিন্যাসের নাম {name}।;
 	}
 
 [This name is too long.]
 	{
-	bn=এই নাম অনেক লম্বা.;
+	bn=এই নাম অনেক লম্বা।;
 	}
 
 [Clone]
@@ -15791,7 +15791,7 @@
 
 [A key layout of your own, from {layout} and your changes. It opens here. Save changes keeps it, and Share My Custom Keys… saves it as a file.]
 	{
-	bn=তোমার নিজের কী-বিন্যাস, {layout} আর তোমার বদল থেকে. এখানে খোলে. বদল সেভ সেটা রাখে, আর আমার কী শেয়ার… ফাইল হিসেবে সেভ করে.;
+	bn=তোমার নিজের কী-বিন্যাস, {layout} আর তোমার বদল থেকে। এখানে খোলে। বদল সেভ সেটা রাখে, আর আমার কী শেয়ার… ফাইল হিসেবে সেভ করে।;
 	}
 
 // The key editor's Share My Custom Keys.
@@ -15833,7 +15833,7 @@
 
 [An .oakeys file anyone can open in Open Annihilation to install your layout.]
 	{
-	bn=একটা .oakeys ফাইল, যে কেউ Open Annihilation-এ খুলে তোমার বিন্যাস ইনস্টল করতে পারে.;
+	bn=একটা .oakeys ফাইল, যে কেউ Open Annihilation-এ খুলে তোমার বিন্যাস ইনস্টল করতে পারে।;
 	}
 
 [Open Folder]
@@ -15848,7 +15848,7 @@
 
 [Your changed keys as text, for a forum or a chat.]
 	{
-	bn=তোমার বদলানো কী লেখা হিসেবে, ফোরাম বা চ্যাটে.;
+	bn=তোমার বদলানো কী লেখা হিসেবে, ফোরাম বা চ্যাটে।;
 	}
 
 // The key editor's Paste Someone's Layout.
@@ -15860,12 +15860,12 @@
 
 [The text you copied changes {n} keys of {layout}.]
 	{
-	bn=যে লেখা কপি করেছ সেটা {layout}-এর {n} কী বদলায়.;
+	bn=যে লেখা কপি করেছ সেটা {layout}-এর {n} কী বদলায়।;
 	}
 
 [The text you copied changes 1 key of {layout}.]
 	{
-	bn=যে লেখা কপি করেছ সেটা {layout}-এর 1 কী বদলায়.;
+	bn=যে লেখা কপি করেছ সেটা {layout}-এর 1 কী বদলায়।;
 	}
 
 [By place]
@@ -15880,17 +15880,17 @@
 
 [{key} already belongs to {action}. Apply keeps yours and lists the clash.]
 	{
-	bn={key} আগে থেকে {action}-এর. বসাও তোমারটা রাখে আর সংঘর্ষের তালিকা দেয়.;
+	bn={key} আগে থেকে {action}-এর। প্রয়োগ তোমারটা রাখে আর সংঘর্ষের তালিকা দেয়।;
 	}
 
 [Kept in your layout for a version that has it.]
 	{
-	bn=যে ভার্সনে এটা আছে, তার জন্য তোমার বিন্যাসে রাখা.;
+	bn=যে ভার্সনে এটা আছে, তার জন্য তোমার বিন্যাসে রাখা।;
 	}
 
 [Copy someone's shared key text first (it starts with # oakeys), then choose Paste Someone's Layout again.]
 	{
-	bn=আগে কারো শেয়ার করা কী-এর লেখা কপি করো (শুরু হয় # oakeys দিয়ে), তারপর আবার অন্যের বিন্যাস পেস্ট বেছে নাও.;
+	bn=আগে কারো শেয়ার করা কী-এর লেখা কপি করো (শুরু হয় # oakeys দিয়ে), তারপর আবার অন্যের বিন্যাস পেস্ট বেছে নাও।;
 	}
 
 // Settings › Graphics: New unit shadows, and its hint while on and while off.
@@ -15902,19 +15902,19 @@
 
 [Softer aircraft shadows, laid under every unit and tree (Full).]
 	{
-	bn=আরও নরম বিমানের ছায়া, প্রতিটি ইউনিট আর গাছের নিচে (পূর্ণ).;
+	bn=আরও নরম বিমানের ছায়া, প্রতিটি ইউনিট আর গাছের নিচে (পূর্ণ)।;
 	}
 
 [Units cast the original game's shadows, as trees and rocks do.]
 	{
-	bn=ইউনিট আগের গেমের ছায়া ফেলে, গাছ আর পাথর যেমন ফেলে.;
+	bn=ইউনিট আগের গেমের ছায়া ফেলে, গাছ আর পাথর যেমন ফেলে।;
 	}
 
 // Settings › Updates: when OA looks for a newer release.
 
 [OA looks for a newer Open Annihilation at every start and every hour while it runs. It never installs one until you say so.]
 	{
-	bn=OA প্রতিবার চালুতে, আর চলাকালীন প্রতি ঘণ্টায়, নতুন Open Annihilation খোঁজে. তুমি না বললে ইনস্টল করে না.;
+	bn=OA প্রতিবার চালুতে, আর চলাকালীন প্রতি ঘণ্টায়, নতুন Open Annihilation খোঁজে। তুমি না বললে ইনস্টল করে না।;
 	}
 
 // Game files: the Play button.
@@ -15934,7 +15934,7 @@
 
 [Where a double-click on a unit selects its type.]
 	{
-	bn=ইউনিটে ডবল ক্লিক তার ধরন কোথায় বাছে.;
+	bn=ইউনিটে ডবল ক্লিক তার ধরন কোথায় বাছে।;
 	}
 
 [On screen]
@@ -15954,12 +15954,12 @@
 
 [Whether a single-player game pauses while away.]
 	{
-	bn=দূরে থাকলে একক লড়াই থামে কি না.;
+	bn=দূরে থাকলে একক লড়াই বিরতি নেয় কি না।;
 	}
 
 [Pause single player]
 	{
-	bn=একক থামাও;
+	bn=একক বিরতি;
 	}
 
 [Keep playing]
@@ -15974,12 +15974,12 @@
 
 [That type on screen, or on the map, as Settings says]
 	{
-	bn=সেটিংস যেমন বলে, পর্দায় সেই ধরন, অথবা ম্যাপে.;
+	bn=সেটিংস যেমন বলে, পর্দায় সেই ধরন, অথবা ম্যাপে।;
 	}
 
 [The selected types on screen, or that type on the map, as Settings says]
 	{
-	bn=সেটিংস যেমন বলে, পর্দায় বাছাই করা ধরন, অথবা ম্যাপে সেই ধরন.;
+	bn=সেটিংস যেমন বলে, পর্দায় বাছাই করা ধরন, অথবা ম্যাপে সেই ধরন।;
 	}
 
 [VERSION {version} AVAILABLE]
@@ -16002,7 +16002,7 @@
 
 [Pan drags move the 3D view the other way.]
 	{
-	bn=প্যান টেনে আনলে 3D দৃশ্য উল্টো দিকে সরে.;
+	bn=প্যান টেনে আনলে 3D দৃশ্য উল্টো দিকে সরে।;
 	}
 
 [Invert 3D camera rotation]
@@ -16012,7 +16012,7 @@
 
 [Orbit drags turn and tilt the view the other way.]
 	{
-	bn=অরবিট টেনে আনলে দৃশ্য উল্টো দিকে ঘোরে আর হেলে.;
+	bn=অরবিট টেনে আনলে দৃশ্য উল্টো দিকে ঘোরে আর হেলে।;
 	}
 
 [Invert mouse zoom]
@@ -16022,7 +16022,7 @@
 
 [Scrolling zooms the battlefield the other way.]
 	{
-	bn=স্ক্রল করলে যুদ্ধক্ষেত্র উল্টো দিকে জুম হয়.;
+	bn=স্ক্রল করলে যুদ্ধক্ষেত্র উল্টো দিকে জুম হয়।;
 	}
 
 [Update channel]
@@ -16042,7 +16042,7 @@
 
 [Testing builds come first and may be unfinished.]
 	{
-	bn=পরীক্ষার বিল্ড আগে আসে, আর অসমাপ্ত হতে পারে.;
+	bn=পরীক্ষার বিল্ড আগে আসে, আর অসমাপ্ত হতে পারে।;
 	}
 
 [Installed {version} · Testing channel]
@@ -16052,7 +16052,7 @@
 
 [You have {current}. This version is installed by hand.]
 	{
-	bn=তোমার {current} আছে. এই ভার্সন হাতে ইনস্টল.;
+	bn=তোমার {current} আছে। এই ভার্সন হাতে ইনস্টল।;
 	}
 
 [Open the download page]

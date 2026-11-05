@@ -224,10 +224,10 @@ def bengali_characters():
     The Bengali block (U+0980-U+09FF), the danda and double danda (U+0964
     and U+0965) and the zero-width non-joiner and joiner (U+200C and
     U+200D). Conjuncts are built from a letter, the virama U+09CD and the
-    next letter, so the block is kept whole. The danda is a Devanagari
-    mark; the pack's text uses a full stop, and the glyph is here so a
-    line that does use one still draws. The joiners are invisible to the
-    pack check and are in the face because a conjunct sometimes needs one.
+    next letter, so the block is kept whole. The danda is the mark a
+    Bengali sentence ends with, and the double danda is kept beside it.
+    The joiners are invisible to the pack check and are in the face
+    because a conjunct sometimes needs one.
     """
     characters = set(range(0x0980, 0x0A00))
     characters.update((0x0964, 0x0965, 0x200C, 0x200D))
@@ -826,7 +826,7 @@ def build(deps, out, shown):
     out.mkdir(parents=True, exist_ok=True)
     for name, spec in data["fonts"].items():
         destination = out / name
-        with tempfile.TemporaryDirectory(prefix="L05-font-") as scratch:
+        with tempfile.TemporaryDirectory(prefix="oa-font-") as scratch:
             source = face_source(spec, paths, pathlib.Path(scratch))
             command = [
                 str(python), str(pathlib.Path(__file__).resolve()),

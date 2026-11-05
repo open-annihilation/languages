@@ -73,10 +73,11 @@ SCRIPTS = {
            "letters": ((0xAC00, 0xD7AF),)},
     "zh": {"allow": ((0x3000, 0x303F), (0x3400, 0x4DBF), (0x4E00, 0x9FFF), (0xFF00, 0xFFEF)),
            "letters": ((0x4E00, 0x9FFF),)},
-    # Bengali letters only. The danda (U+0964) is Devanagari and is shaped
-    # as Hindi, so the pack uses a full stop. Bengali digits are forbidden
-    # so a number stays the digits the English wrote.
-    "bn": {"allow": ((0x0980, 0x09FF),), "letters": ((0x0980, 0x09FF),),
+    # Bengali letters, and the danda and double danda a sentence ends
+    # with. Bengali digits are forbidden so a number stays the digits
+    # the English wrote.
+    "bn": {"allow": ((0x0964, 0x0965), (0x0980, 0x09FF)),
+           "letters": ((0x0980, 0x09FF),),
            "forbid": "০১২৩৪৫৬৭৮৯"},
 }
 

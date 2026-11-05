@@ -9,8 +9,8 @@
 // button. Bengali conjuncts are wide, so the words stay short.
 [commongui.gaf]
 {
-    [ARMATTACK] { text=আক্র.; }
-    [CORATTACK] { text=আক্র.; }
+    [ARMATTACK] { text=হামলা; }
+    [CORATTACK] { text=হামলা; }
     [ARMMOVE] { text=চল; }
     [CORMOVE] { text=চল; }
     [ARMSTOP] { text=থাম; }
@@ -57,7 +57,7 @@
 // The titles over the battlefield.
 [igtitles.gaf]
 {
-    [igpaused] { text=থাম; }
+    [igpaused] { text=বিরতি; }
     [igvictory] { text=জয়!; }
     [igdefeat] { text=হার; }
 }

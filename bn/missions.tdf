@@ -102,7 +102,7 @@
 	}
 [AC13.ota]
 	{
-	missionname=13: Landown's Interface;
+	missionname=13: ল্যান্ডাউনের ফাটল;
 	}
 [AC14.ota]
 	{
@@ -114,7 +114,7 @@
 	}
 [AC16.ota]
 	{
-	missionname=16: Abutment-এ মজুদ.;
+	missionname=16: Abutment-এ মজুদ।;
 	}
 [AC17.ota]
 	{
@@ -150,7 +150,7 @@
 	}
 [AC25.ota]
 	{
-	missionname=25: CORE PRIME-এর মহাপ্রলয়. অবশেষে মুক্ত!;
+	missionname=25: CORE PRIME-এর মহাপ্রলয়। অবশেষে মুক্ত!;
 	}
 [Com Pattern Five.ota]
 	{
@@ -638,7 +638,7 @@
 	}
 [CC10.ota]
 	{
-	missionname=10: Gauntlet;
+	missionname=10: আগুনের পথ;
 	}
 [CC11.ota]
 	{

@@ -14,9 +14,11 @@ Noto Sans Bengali Bold, cut to the Bengali block with its shaping tables
 kept (`fonts/README.md`). The sans faces that travel with the game draw
 Latin. Write real Bengali spelling, with hasanta (্) where a conjunct
 belongs. Do not insert U+200C or U+200D unless a word would form the wrong
-conjunct without one. Do not use the danda (।) or the double danda: U+0964
-is a Devanagari mark and is shaped as Hindi. Use `.` `?` `!`. Do not use
-Bengali digits (০-৯). A number stays in the ASCII digits the English wrote.
+conjunct without one. End a sentence with the danda (।). U+0964 is the
+danda Bengali uses, and the face draws it. Keep `.` in an abbreviation
+(`রিভ.`, `উন্ন.`), a decimal, a version, a file name and `...`. Use `?`
+and `!` as the English does. Do not use Bengali digits (০-৯). A number
+stays in the ASCII digits the English wrote.
 
 The language's own name, বাংলা, is not in the engine's faces. Settings ›
 Language draws that name from those faces before the pack is installed, so
@@ -36,12 +38,12 @@ source of Bengali words: read the English, then write Bengali.
 - Possessives are তোমার, তোমাকে, তোমায়. "Your folder" → `তোমার ফোল্ডার`.
   Leave the pronoun out when Bengali does not need it.
 - Statements and hints: plain present or past, neutral. "Settings were not
-  saved." → `সেটিংস সেভ হয়নি.` "The processor draws and scales the view."
-  → `প্রসেসর দৃশ্য আঁকে এবং মাপ বদলায়.`
+  saved." → `সেটিংস সেভ হয়নি।` "The processor draws and scales the view."
+  → `প্রসেসর দৃশ্য আঁকে এবং মাপ বদলায়।`
 - Confirmation questions: the same familiar form, with `?`. "Replace the
   game files?" → `গেমের ফাইল বদলাবে?`
 - Labels, buttons, menu items, setting names and headings: a noun phrase
-  or a familiar imperative, no full stop. Bengali has no capitals. Where
+  or a familiar imperative, no danda. Bengali has no capitals. Where
   the English is in capitals, the Bengali is the same short word, not a
   sentence. "Open folder" → `ফোল্ডার খোলো`, "Try again" → `আবার চেষ্টা`.
 - Short status words: a noun of the action, or হয়নি / হয়েছে. "Installed"
@@ -50,16 +52,16 @@ source of Bengali words: read the English, then write Bengali.
   "On" → `বন্ধ` / `চালু`.
 - Mission briefings and in-fiction orders (HQ to the one Commander): the
   same familiar imperative, military and short. `ছায়াপথের ফটকের চারপাশে
-  পাহারা বসাও.` `তোমার ইউনিট ফটকে নিয়ে যাও এবং সেটা ধরে রাখো.` The
+  পাহারা বসাও।` `তোমার ইউনিট ফটকে নিয়ে যাও এবং সেটা ধরে রাখো।` The
   Commander is কমান্ডার. Own forces are `আমাদের বাহিনী`. No slang, and no
   exclamation the English does not have.
 - Briefing stock lines: `MISSION` → `মিশন` (the code after it stays,
   `মিশন 1.0001ARME`), `Mission T01:` → `মিশন T01:`, `PRIORITY` →
   `অগ্রাধিকার`, `PRIORITY CRITICAL` → `অগ্রাধিকার সংকটপূর্ণ`, `INFO FEED`
-  → `খবর`, `INTEL FEED` → `গোয়েন্দা খবর`, `INTELL-TAP:` → `আড়ি:`,
+  → `খবর`, `INTEL FEED` → `গোয়েন্দা খবর`, `INTELL-TAP:` → `আড়িপাতা:`,
   `END` → `শেষ`, `WARNING` → `সতর্কতা`, `Attention` / `Alert!` → `মনোযোগ`
   / `সতর্ক!`, `Suggestions:` → `পরামর্শ:`, `Battle Tactics:` → `যুদ্ধের
-  কৌশল:`, `DO SO NOW.` → `এখনই করো.`, `Arm vermin` → `ARM-এর কীট`, `To
+  কৌশল:`, `DO SO NOW.` → `এখনই করো।`, `Arm vermin` → `ARM-এর কীট`, `To
   complete this mission you must` → `এই মিশন শেষ করতে তোমাকে`.
 - CORE's briefings are a machine talking: colder and more clipped than
   ARM's, still the familiar imperative.
@@ -73,11 +75,12 @@ source of Bengali words: read the English, then write Bengali.
 - Acronyms kept in Latin: TCP, IP, CD, DirectPlay, GPU, CPU, HUD, fps, KB,
   MB, GB, ID, EMP, D-Gun. AI on a tiny button stays `AI`. In a sentence,
   AI is `AI`.
-- Punctuation: no space before `: ? !`. Keep `…` or `...`, and `·`, `→`,
+- Punctuation: no space before `: ? !` or `।`. Keep `…` or `...`, and `·`, `→`,
   `✓`, `✕`, `—`, exactly as the English uses them. Quotes are “ ”. Never
-  write `;` (a table value ends at `;`): use a full stop, a comma or a
-  dash. Never write `//`. Never write a tab inside a value. Never write
-  `।` or `॥`.
+  write `;` (a table value ends at `;`): use a danda, a comma or a
+  dash. Never write `//`. Never write a tab inside a value. A sentence
+  ends with `।`. Keep `.` for an abbreviation, a decimal, a version, a
+  file name and `...`.
 - Hasanta belongs to the word (`ক্ষ`, `প্র`, `স্ট`). Do not break a
   conjunct with a space or a hyphen to make it narrower.
 
@@ -153,6 +156,8 @@ briefings.
 | the implosion device | অন্তর্মুখী বিস্ফোরণের যন্ত্র |
 | the contingent Core Commander | দলের CORE কমান্ডার |
 | Astrede Shoreline | অ্যাস্ট্রিড তট |
+| Landown's Interface | ল্যান্ডাউনের ফাটল |
+| Gauntlet | আগুনের পথ |
 
 Empyrrean, Thalassean, Tergiverse IV, Barathrum, Rougpelt, Aqueous Minor,
 Aegus, Dump, Hydross, Lusch, Temblor, Gelidus, Krogoth, Slolam Pilago and
@@ -167,6 +172,8 @@ briefings use the missions table's spelling.
 | Commander | কমান্ডার |
 | unit | ইউনিট |
 | building, structure | ভবন, কাঠামো |
+| Building (construction under way, the sound page) | নির্মাণ |
+| Building Sounds | নির্মাণের শব্দ |
 | Kbot, KBot, kbot | Kbot |
 | vehicle | যান |
 | tank | ট্যাংক |
@@ -222,7 +229,7 @@ briefings use the missions table's spelling.
 | kills / losses | ধ্বংস / ক্ষয় |
 | veteran / veterancy | ভেটেরান / অভিজ্ঞতা |
 | victory / defeat | জয় / হার |
-| paused | থাম (battlefield title: থাম) |
+| paused | বিরতি (battlefield title: বিরতি). STOP stays থাম. A download or a version that has paused is থেমে আছে; during a match or a game, থেমে থাকে. |
 | Tech Level 1 / 2 | টেক স্তর 1 / টেক স্তর 2 |
 | Adv., Advanced | উন্নত (উন্নত where the English shortens to Adv.) |
 | build menu | বানানোর মেনু |
@@ -249,7 +256,7 @@ conjuncts are wide, so these stay to one short word.
 
 | English | Bengali |
 |---|---|
-| ATTACK | আক্র. (in a sentence: আক্রমণ করো) |
+| ATTACK | হামলা (in a sentence: আক্রমণ করো) |
 | MOVE | চল |
 | STOP | থাম |
 | PATROL | টহল |
@@ -275,14 +282,14 @@ Staged captions keep every `|`. Copy these strings exactly:
 - Cloak (Visible, Cloaked, the button name): দেখা|আড়াল|আড়াল
 
 The picture captions use these short forms. The battlefield titles are
-`থাম`, `জয়!`, `হার`. Save and load dialog titles: `গেম সেভ`, `গেম খোলো`.
+`বিরতি`, `জয়!`, `হার`. Save and load dialog titles: `গেম সেভ`, `গেম খোলো`.
 
 ## 6. Menus and modes
 
 | English | Bengali |
 |---|---|
 | Single Player | একক |
-| Multiplayer | অনেকজন |
+| Multiplayer | মাল্টিপ্লেয়ার |
 | Campaign | অভিযান |
 | Mission | মিশন |
 | Briefing | ব্রিফিং |
@@ -305,16 +312,19 @@ The picture captions use these short forms. The battlefield titles are
 | Main menu / Game menu | মূল মেনু / গেম মেনু |
 | Exit, Quit | বেরোও |
 | Exit to the system | সিস্টেমে বেরোও |
-| OK / Cancel / Done / Close / Apply | ঠিক / বাতিল / হয়ে গেছে / বন্ধ / বসাও |
+| OK / Cancel / Done / Close / Apply | ঠিক / বাতিল / হয়ে গেছে / বন্ধ / প্রয়োগ |
 | Retry, Try again | আবার চেষ্টা |
-| Continue / Resume | চালিয়ে যাও / আবার শুরু |
+| Continue / Resume | চালিয়ে যাও |
+| Restart | আবার শুরু |
+| Restore Defaults | ডিফল্টে ফেরো |
 | Easy / Medium / Hard | সহজ / মাঝারি / কঠিন |
 | Help | সাহায্য |
 | Chat | চ্যাট |
 | Cheats | চিট |
 | game speed | গেমের গতি |
 | Sound / Music / Volume / Movies | শব্দ / সঙ্গীত / আওয়াজ / চলচ্চিত্র |
-| Credits | কৃতিত্ব |
+| Sound Volume / Music Volume | শব্দের ভলিউম / সঙ্গীতের ভলিউম |
+| Credits | নির্মাতারা |
 | Intro | ইন্ট্রো |
 | Restrictions | বাধা |
 | SINGLE / MULTI / INTRO / EXIT | একক / অনেকজন / ইন্ট্রো / বেরোও |
@@ -323,7 +333,10 @@ The picture captions use these short forms. The battlefield titles are
 | Narration / No Narration | বর্ণনা / বর্ণনা নেই |
 
 Title-screen words that must fit a narrow button use the short forms
-`একক` and `অনেকজন`.
+`একক` and `অনেকজন` (the word Multiplayer, where it has room, is
+`মাল্টিপ্লেয়ার`). Apply is `প্রয়োগ`, also in `Applied in this order`. A
+setting that takes effect later (applies at the next match, when the Library
+closes) is `লাগে`. Set, Place, Assign group and the bookmarks stay `বসাও`.
 
 ## 7. Open Annihilation's interface
 
@@ -556,8 +569,8 @@ Range Mine → মাঝারি ক্ষতি, বড় পাল্লা 
 
 Bengali conjuncts are wider than a Latin letter. Captions on 3.1c's
 fixed-size buttons stay to one short word, abbreviated with a full stop
-when section 5 already shows one (`আক্র.`, `উন্নত` may become `উন্ন.` on
-a button that will not hold it). Prefer the shortest wording in this
+when a button will not hold the word (`উন্নত` may become `উন্ন.`). The
+attack button is `হামলা`. Prefer the shortest wording in this
 file: `ফেরত` for "Previous Menu" when `আগের মেনু` will not fit, `একক`
 for Single Player. Sentences in dialogs and hints may be as long as they
 need to be. Unit descriptions stay about as short as the English.
