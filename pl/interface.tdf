@@ -621,7 +621,7 @@
 
 [Use modern fonts for game text]
 	{
-	pl=Użyj nowoczesnych czcionek do tekstu gry;
+	pl=Nowoczesne czcionki w tekście gry;
 	}
 
 [Font outline]
@@ -13506,12 +13506,12 @@
 
 [Hold middle]
 	{
-	pl=Przytrzymaj środkowy;
+	pl=Środkowy;
 	}
 
 [Hold right]
 	{
-	pl=Przytrzymaj prawy;
+	pl=Prawy;
 	}
 
 [Hold the modifiers you want, then press a key or a mouse button, or turn the wheel.]
@@ -15131,7 +15131,7 @@
 
 [and {n} changes of your own]
 	{
-	pl=i własnych zmian: {n};
+	pl=i twoich zmian: {n};
 	}
 
 [and {n} more]
@@ -15356,7 +15356,7 @@
 
 [{count} changes of your own]
 	{
-	pl=własnych zmian: {count};
+	pl=twoich zmian: {count};
 	}
 
 [{count} commands]

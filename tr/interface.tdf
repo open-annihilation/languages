@@ -131,7 +131,7 @@
 
 [While the right pad is touched]
 	{
-	tr=Sağ izleme dörtgenine dokunulurken;
+	tr=Sağ izleme dörtgenine dokununca;
 	}
 
 [While the right stick is touched]
@@ -621,7 +621,7 @@
 
 [Use modern fonts for game text]
 	{
-	tr=Oyun metni için modern yazı tiplerini kullan;
+	tr=Oyun metninde modern yazı tipleri;
 	}
 
 [Font outline]
@@ -4118,7 +4118,7 @@
 	}
 [Show Active Only ({active}/{total})]
 	{
-	tr=Yalnızca etkinleri göster ({active}/{total});
+	tr=Yalnız etkinler ({active}/{total});
 	}
 [Switch to {title} now? The game reloads its data for the new mod and returns to the main menu. Your other settings are kept.]
 	{

@@ -7,7 +7,7 @@
 oalang: 1
 tag: zh-Hant
 name: 繁體中文
-english-name: Chinese (Traditional)
+english-name: Traditional Chinese
 word: Chinese
 version: "1"
 locales: [zh-Hant, zh-TW, zh-HK, zh-MO]
