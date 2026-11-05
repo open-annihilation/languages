@@ -1,0 +1,10 @@
+Misyon R08: Novespin IV pususu
+
+CORE, bir grup İnşaat aracını Çekiçbaş çarpma havzasına kafileyle götürmeye çalışıyor. Komuta etmen için sana alışılmadık birimlerden küçük bir kuvvet toplandı. Düşmanın havzanın kuzeybatı köşesine varmasını engelle.
+Tüm İnşaat araçlarını ne pahasına olursa olsun yok et.
+
+Öneriler:
+Düşmanın ilerleme eksenine yerleş. Uzun menzilli birimlerini ağır savaş birimlerinin gerisine koyarak bir saldırı bölgesi kur.
+
+Savaş taktikleri:
+Ekrandaki tüm birimleri seçmek için Ctrl+S tuşuna bas.

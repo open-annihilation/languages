@@ -1,0 +1,19 @@
+Misyon R28: Yeni Ay
+
+ARM'ın başlıca metal kaynağı olarak kullandığı Novaspin IV uydusuna gönderiliyorsun.  Varlığın fark edilip büyük bir saldırı başlamadan önce çabucak bir üs kur.
+
+Hayatta kalmanın ötesinde emrin şu: düşmanın bütün Kbot laboratuvarlarını yok et.
+&RNovaspin IV için on üç gün boyunca takviye gönderilemez. Saldırıyı tek başına yürüt.&
+
+Öneriler:
+Ekonomini çabuk kur.  İnatçı bir ARM karşı saldırısını püskürtmeye hazırlan.  Tek üstünlüğün şu: ARM kaynaklarını çevirip savaş birimi üretmeye başlayana kadar birkaç dakika var.
+
+Novaspin IV üzerinde yalnızca eser bir atmosfer var.  Hiçbir tür uçak kuramazsın.
+
+Enerji ekonomini gözle, özellikle Moho madeni ele geçirirsen. Çok fazla enerji isterler.
+
+
+Savaş taktikleri:
+Ekranın tepesindeki sarı çubuk, depolanan enerjiyi gösterir.  Enerji çubuğunun sağındaki yeşil sayılar, her oyun saniyesinde giren enerjiyi gösterir.  Kırmızı sayılar her oyun saniyesindeki enerji giderini gösterir.
+
+İnşa etmek, kuvvetlerini beslemek ve D-Gun ateşlemek için enerji gerekir. Ekonomini taşıyacak kadar enerji kaynağın olsun.  D-Gun kullanırken elde fazla enerji tut.  Seçili Moho madenlerini açıp kapatmak için X tuşunu kullan.

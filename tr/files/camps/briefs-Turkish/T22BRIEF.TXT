@@ -1,0 +1,13 @@
+Misyon T22: FMD'yi Yok Et
+
+Bölgeye nükleer vuruş yapabilelim diye CORE'un Fortitude füze savunmasını yok et. Brawler'lerden, Hawk'lardan ve Phoenix'lerden oluşan güçlü bir hava kanadın var.
+
+CORE nükleer savunmasını bulup yok etmek için tam yirmi dakikan var.
+
+Öneriler:
+Lav dikitlerinin, düşman atışlarının kuvvetlerine varmasına engel olabileceğini unutma.
+
+Savaş taktikleri:
+Bir inşaat birimine bir fabrikayı koruması emredilirse fabrika birimleri daha hızlı üretir.
+
+Hedefi bulduktan sonra yeri işaretlemek için Ctrl+F5'e (ya da F6, F7 veya F8) bas.  Bombardıman uçuşunu planlarken ekranı hedefin yerine yeniden ortalamak için F5'e (vb.) bas.

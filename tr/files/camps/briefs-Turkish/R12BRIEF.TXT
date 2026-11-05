@@ -1,0 +1,15 @@
+Misyon R12: Takip
+
+CORE, "Umutsuzluk Denizi" bazalt taşkın havzasındaki harekatımızı ezdi.
+
+Hayatta kalan birimleri al ve kurabildiğin her yere bir üs kur. Tüm düşman tanklarını yok et.
+Öneriler:
+Birimlerinin çoğu hasarlı. Mümkünse birimleri savaşa göndermeden önce onar.
+
+Düşmanın çevrede birlikleri olsa da ilk ağır taarruzları kuzeydoğudan bekle.
+Savaş taktikleri:
+Bu savaşın başında birimlerinin çabucak çekilmesi gerekebilir. Tüm birimleri seçmek için Ctrl+A kullan ve onlara bir GİT emri ver.
+
+Bir inşaat birimine bir bölgede devriye emri vermek, karşılaştığı yaralı birimleri kendiliğinden onarmasını sağlar.
+
+Bu havasız dünyada uçak yok.

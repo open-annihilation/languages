@@ -1,0 +1,16 @@
+Misyon T29: Uzun Gölleri geçmek
+
+Safir Denizi'ndeki kuvvetlerimiz CORE donanmasını kırıp geçirdi ve ana adada bir kıyı başı tuttu. Bir keşif ekibi, senin kesiminde hasarlı bir Galaktik Kapı gördüğünü bildirdi. Kapı, iki göl bölgesinin güneydoğu köşesinde. Bu Kapı, onarılmadan önce ele geçirilmeli.
+
+CORE, bu uzun göllerin batısından ya da doğusundan vurmamızı bekliyor. Bu yüzden kuzey sahili seyrek savunuluyor. O sahile yapacağın ilk taarruz için küçük bir vurucu kuvvet toplandı. Kuzey kıyısında önemli kaynaklar ve düşman yapılar var. Ele geçirilince yapılar görevi bitirmene yardım eder.
+
+İki gölü geç ve haritanın güneydoğu köşesindeki Galaktik Kapı'yı ele geçir.
+
+Öneriler:
+Süren az, bu yüzden çok fazla sabit savunma kurma. Üssü çabuk kurmak için olabildiğince çok CORE üs yapısını ele geçirmeye çalış. Amfibi tanklar ve hoverkraftlar bu görevde çok işe yarar.
+
+Savaş taktikleri:
+Her adaya bir Big Bertha topu ve bir Glş. radar kulesi inşa etmek için bir Glş. inşaat birimi kullan. Sonra sonraki adadaki düşman savunmalarını Bertha ile devir.
+Bu uzun bir görev ve 250 birim sınırına ulaşman mümkün. Toplam birim sayını birim sınırının yanında görmek için boşluk tuşuna basabilirsin.
+
+Sınıra yaklaşınca daha az işe yarayan birimlerden kurtulmak isteyebilirsin. Bunun için yok etmek istediklerinin hepsini seç ve kendilerini yok etmeleri için CTRL+D tuşuna bas.

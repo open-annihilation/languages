@@ -1,0 +1,18 @@
+Misyon R05: Adadan adaya
+
+&YAcil durum!&
+Ada üssümüz bir CORE deniz filotillasının saldırısı altında ve savunma filomuz başka yerde bağlı. Amaçları deniz savaşı verme gücümüzü yok etmek.
+Yaklaşan filoyu yok et ve Tersanelerimizi yok olmaktan koru.
+
+Not: Adalarımızın çevresi iyi keşfedilmiş. Sonar ve radar düşmanı saptamaya yardım eder.
+
+
+Öneriler:
+Olabildiğince çok metali geri almak için İnşaat gemileri kullan.
+
+Düşmana saldırırken tek tek birimler yerine güçlü gruplarla gir.
+
+Savaş taktikleri:
+Fabrikalarını çabucak bulmak için onları seçmek üzere Ctrl+F tuşuna bas, sonra T tuşuyla izle.
+
+Tüm savaş birimlerini (Komutanın hariç) seçmek için Ctrl+W tuşuna bas.

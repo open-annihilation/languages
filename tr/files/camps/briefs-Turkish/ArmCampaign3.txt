@@ -1,0 +1,13 @@
+MİSYON 3.0003ARME
+Spider arazi araçlarını güvenceye al. &YBir Spider sağ kalmalı.& Spider tanklarından birini üssüne geri getir.
+
+ÖNCELİK 1
+Deneysel Spider arazi araçlarından bir grup düşman hatlarının gerisinde sıkıştı. Spider tankları etkili bir felçleyici silah taşıyor, ama kendilerine yol açması için birimlerine muhtaçlar. Spider tankının felçleyici silahı ve üstün Spider teknolojisi CORE'un eline geçmemeli.
+
+BİLGİ AKIŞI
+CORE, Spider tanklarını arayan çok sayıda devriye çıkardı. Üssünü çabuk kur ve bir Spider tankını güvenceye al.
+
+&G Geri alma teknolojisi enerji ve metal edinmeyi hızlandırır.&
+
+
+SON

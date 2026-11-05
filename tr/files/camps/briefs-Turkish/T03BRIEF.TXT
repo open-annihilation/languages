@@ -1,0 +1,12 @@
+Misyon T03: Can Hücumu
+
+&RAcil durum!&
+Keşif birimlerin güçlü bir CORE Can kuvveti buldu.  Can'ların Füzyon reaktörünü yok etmesini önle.
+
+Öneriler:
+Üç İnşaat Kbotun var. Onları akıllıca kullan.  Mümkünse uzun menzilli ateş gücü olan birimler üret.
+
+Savaş taktikleri:
+İnşaat Kbotunun birden çok yapı kurması için yapıyı yerleştirirken Shift tuşunu basılı tut.  Emir vermeyi sürdürürken Shift'e basmayı sürdür.  İnşaat Kbotu emirlerini verdiğin sırayla yerine getirir.
+
+Bir inşaat birimi seçiliyken Shift'i basılı tutmak arazide kareler gösterir.  Yeşil kareler, seçili birimin kuracağı yapıları gösterir.  Mavi kareler diğer inşaat birimlerinin inşa emirlerini gösterir.

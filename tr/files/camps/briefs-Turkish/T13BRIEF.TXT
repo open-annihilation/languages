@@ -1,0 +1,13 @@
+Misyon T13: Mercan Denizi'nde Karşılaşma
+
+CORE, Rashak IV denizlerinde güçlü bir donanma kuruyor.  Başlıca Tersanelerinin yaklaşık yerini biliyoruz.
+
+Düşman filosunu ve bütün Tersaneleri yok et.
+
+Öneriler:
+Büyük gemilerini bir arada tut ve ateşi kesmediklerinden emin ol.  Uçak gemindeki radar, saldırıları düzenlemene yardım eder.
+
+Savaş taktikleri:
+Ctrl+W tuşuna basınca silahlı bütün birimler seçilir (Komutan dışında).
+
+Tek türden bütün birimleri seçmek için tek bir birim seç (örneğin muhripler) ve Ctrl+Z'ye bas.  Bütün muhripler seçilir.

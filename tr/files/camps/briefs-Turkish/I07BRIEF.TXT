@@ -1,0 +1,12 @@
+Misyon I07: Solidspire üssü
+
+ARM, Solidspire Adaları arasında büyük bir enerji üssü kurdu. Gizli füzyon reaktörlerini bulamadık. Kaç tane olduğunu bile bilmiyoruz.
+
+Adalara amfibi çıkarma başlat. Yakın bir adadaki ARM savunmasını kapatıp kuvvetlerimizin kolayca inmesini sağlamak için bütün füzyon santrallerini yok et.
+
+Öneriler:
+Kuvvetlerini bir arada ve düzenli tut. Gemilerinin birbirini koruması ve zayıf yanlara karşı uyanık olması önemli.
+
+
+Savaş taktikleri:
+Titan torpido bombardıman uçakları denizaltıları yok etmekte çok etkilidir. Bombardıman uçaklarına hedef göstermek için sonarlı birimler kullan. Komutanda, Executioner kruvazöründe, Enforcer muhribinde ve bütün denizaltılarda sonar vardır. Sonarı olan bir birime tıklayınca radar haritasında yeşil bir daire belirir ve sonarın menzilini gösterir.

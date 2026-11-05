@@ -1,0 +1,8 @@
+Misyon T12: Kbot Temizliği
+
+Nayrb uydusundaki ARM kuvvetleri terk edildi.  Sektöründeki artıkları temizle.
+
+Öneriler:
+Hasarlı birimleri onarmak için gezici inşaat birimini kullan.  ARM uydunun kaynaklarını tüketmiş. Üs kurmak zor olacak.
+Savaş taktikleri:
+Birimlerinin ne kadar hasar aldığını görmek için ~ tuşuna bas.  Grup kurduysan bu, birimlerinin grup atamalarını da gösterir.  Gruplar, bir grup birim seçip Ctrl+1'e (veya 2, 3, 4 vb.) basarak kurulur.  Grubu yeniden seçmek için Alt+1 (vb.) kullan.

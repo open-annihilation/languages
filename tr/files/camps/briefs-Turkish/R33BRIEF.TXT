@@ -1,0 +1,14 @@
+Misyon R33: Yollets Yağmur Ormanı
+
+Yollets Yağmur Ormanı'nın derinlerinde düşman, yakındaki cevher yataklarını denetlemek için saldırıyor.
+
+ARM saldırı gücünü yok et.
+
+&RNot:& Kbot laboratuvarın hasarlı ve İnşaat Kbotu üretemiyor.  Görevi bitirmek için laboratuvarı koru.
+
+Öneriler:
+Neredeyse aralıksız saldırı altında olacaksın. Olabildiğince çok birim üret.  ARM saldırılarını nerede olursa olsun karşılamak için ana kuvvetinin önünde birkaç keşif birimi tut.
+
+
+Savaş taktikleri:
+Bir fabrikanın inşa menüsüne tıklarken Shift tuşunu basılı tutmak, bir seferde beş birimi sıraya koyar.

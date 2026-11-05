@@ -1,0 +1,16 @@
+Misyon T15: Wayneston Sığlığı Muharebesi
+
+CORE, Wayneston Limanı yakınında küçük bir üssü genişletmeye çalışıyor.
+
+Nehri Wayneston Sığlığı'ndan geç ve üslerini yok et.  Enerji üretimlerini ve Enerji deposu tesislerini silip süpür.
+
+Nanotornavidan hasar gördü. Bu savaşta birim inşa edemezsin.
+
+Öneriler:
+Geçiş noktanı seç ve gecikmeden saldır.  CORE kuvvetleri daha güçlü savunmalar kuruyor.  D-Gun, yığılmış düşman birimlerini temizleyebilir.
+
+Savaş taktikleri:
+Komutanı seçmek için Ctrl+C'ye bas.  Güneş toplayıcılarını ele geçirmek, D-Gun'u sık ateşleyecek kadar enerji sağlar.  (ELE GEÇ düğmesi Komutanın emir menüsündedir.)
+
+Bir birimi ele geçirmek için Komutanın emir menüsüne geç (klavyede O'ya basabilirsin), ELE GEÇ düğmesine (ya da kısayol C tuşuna) tıkla ve ele geçirmek istediğin birime tıkla.
+Herhangi bir düşman birimini ele geçirip lehine kullanabilirsin.  Bir birimi ele geçirirken Komutanın saldırılara açık olduğunu unutma.

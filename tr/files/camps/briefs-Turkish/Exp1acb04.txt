@@ -1,0 +1,14 @@
+MİSYON 4.001ARML
+Hydross ARM'ın denetiminde. CORE birimleri bu dünyada bir aygıt arıyor - uzaylı kökenli bir fener.
+
+Bu dünyadaki sık cangıllar ve bataklıklar yolu zorlaştıracak. CORE, Lusch'ta daha rahat manevra için hoverkraft teknolojisi geliştirdi. Bu teknoloji, yedek CORE Komutanı ile uzaylı fenerini arayışımızı çok kolaylaştırır.
+
+&Y*KRİTİK ÖNCELİK*&
+Hoverkraft platformlarından birini bul ve ele geçir. Birimlerinin, CORE'u yok etme hevesiyle &Gplatformu yok etmemesine& özellikle dikkat et. Platform ele geçirilince, bölgeyi bütün gezici CORE birimlerinden temizlemek için onunla hoverkraft birimleri inşa et.
+
+BİLGİ AKIŞI
+Koruma olarak yeni Maverick Kbotu, ek hareket için de Pelican adlı amfibi Kbot hazır. Teknik ekip uçaksavar savunması için Flakker adlı yeni bir top da getirdi. &RCORE'un da yeni bir uçaksavar topu olacak.&
+
+Bu görevi bitirmek için CORE hoverkraft platformunu ele geçir ve bütün gezici CORE birimlerini yok et.
+
+SON

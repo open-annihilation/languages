@@ -1,0 +1,11 @@
+Misyon R23: Irmak üssü Alfa
+
+Tiebreemb Irmağı'nın ağzındaki geçidin hafif savunulduğu düşünülüyor. Bir üs kur, sonra kuzeye bir saldırı başlat. Kuzey kıyısına bir Araç fabrikası inşa ederek CORE varlığını sağlamlaştır. Bölgedeki ARM keşif birimlerini ortadan kaldır.
+
+
+Öneriler:
+Bir ya da iki Güneş toplayıcı veya Rüzgar üreteci, Araç fabrikasını daha çabuk bitirecek enerji gelirini sağlar.
+
+Savaş taktikleri:
+Komutanın derin sudan yürüyerek geçer ama diğer birimleri ırmağı sığ geçitten geçir. Sığ su açık mavidir.
+Araç fabrikası inşa düğmesi Komutanın inşa menülerinin ikincisindedir. İnşa menüleri arasında kaydırmak için sağ oka bas. İnşa menüleri arasında geçmek için nokta (.) ve virgül (,) tuşları da kullanılır.
