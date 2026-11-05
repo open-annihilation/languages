@@ -1,0 +1,4168 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Bengali for 3.1c's translate.tdf texts, keyed by 3.1c's English
+// exactly (case and spaces included), in 3.1c's own order.
+
+// Ingame and Panel Messages
+
+[KILLS]
+	{
+	Bengali=ধ্বংস;
+	}
+[Kills]
+	{
+	Bengali=ধ্বংস;
+	}
+[Kill]
+	{
+	Bengali=ধ্বংস;
+	}
+[kill]
+	{
+	Bengali=ধ্বংস;
+	}
+[LOSSES]
+	{
+	Bengali=ক্ষয়;
+	}
+[Losses]
+	{
+	Bengali=ক্ষয়;
+	}
+[kills]
+	{
+	Bengali=ধ্বংস;
+	}
+[Veteran]
+	{
+	Bengali=ভেটেরান;
+	}
+[Newbie]
+	{
+	Bengali=নবাগত;
+	}
+[PAUSED]
+	{
+	Bengali=থাম;
+	}
+
+// Loading screen
+
+[Map]
+	{
+	Bengali=ম্যাপ;
+	}
+[Map:]
+	{
+	Bengali=ম্যাপ:;
+	}
+[Terrain]
+	{
+	Bengali=ভূমি;
+	}
+[Textures]
+	{
+	Bengali=টেক্সচার;
+	}
+[Units]
+	{
+	Bengali=ইউনিট;
+	}
+[Features]
+	{
+	Bengali=মানচিত্রের বস্তু;
+	}
+[FEATURES]
+	{
+	Bengali=মানচিত্রের বস্তু;
+	}
+[MoveInfo]
+	{
+	Bengali=চলার তথ্য;
+	}
+[Explosions]
+	{
+	Bengali=বিস্ফোরণ;
+	}
+[Synchronization complete]
+	{
+	Bengali=সিঙ্ক শেষ;
+	}
+[player ready]
+	{
+	Bengali=জন খেলোয়াড় তৈরি;
+	}
+[players ready]
+	{
+	Bengali=জন খেলোয়াড় তৈরি;
+	}
+[Waiting for other players]
+	{
+	Bengali=অন্য খেলোয়াড়ের অপেক্ষা;
+	}
+[Synchronizing]
+	{
+	Bengali=সিঙ্ক হচ্ছে;
+	}
+[Waiting for the Creator]
+	{
+	Bengali=হোস্টের অপেক্ষা;
+	}
+[3D Data]
+	{
+	Bengali=3D তথ্য;
+	}
+[Animation]
+	{
+	Bengali=অ্যানিমেশন;
+	}
+[Animations]
+	{
+	Bengali=অ্যানিমেশন;
+	}
+
+// Sides
+
+[Arm]
+	{
+	Bengali=ARM;
+	}
+[Core]
+	{
+	Bengali=CORE;
+	}
+[Arm Campaign]
+	{
+	Bengali=ARM অভিযান;
+	}
+[arm campaign]
+	{
+	Bengali=ARM অভিযান;
+	}
+[Core Campaign]
+	{
+	Bengali=CORE অভিযান;
+	}
+
+// Campaigns' names in the New Campaign and Any Mission lists, which 3.1c's
+// table does not hold: keyed by the campaign file's name, without the space
+// that ends Core Contingency's.
+
+[Arm Campaign - Core Contingency]
+	{
+	Bengali=ARM অভিযান - Core Contingency;
+	}
+[Core Campaign - Core Contingency]
+	{
+	Bengali=CORE অভিযান - Core Contingency;
+	}
+[Krogoth Encounter]
+	{
+	Bengali=Krogoth সাক্ষাৎ;
+	}
+[Battle Tactics - Arm Very Short]
+	{
+	Bengali=Battle Tactics - ARM খুব সংক্ষিপ্ত;
+	}
+[Battle Tactics - Arm Short]
+	{
+	Bengali=Battle Tactics - ARM সংক্ষিপ্ত;
+	}
+[Battle Tactics - Arm Medium]
+	{
+	Bengali=Battle Tactics - ARM মাঝারি;
+	}
+[Battle Tactics - Arm Long]
+	{
+	Bengali=Battle Tactics - ARM দীর্ঘ;
+	}
+[Battle Tactics - Core Very Short]
+	{
+	Bengali=Battle Tactics - CORE খুব সংক্ষিপ্ত;
+	}
+[Battle Tactics - Core Short]
+	{
+	Bengali=Battle Tactics - CORE সংক্ষিপ্ত;
+	}
+[Battle Tactics - Core Medium]
+	{
+	Bengali=Battle Tactics - CORE মাঝারি;
+	}
+[Battle Tactics - Core Long]
+	{
+	Bengali=Battle Tactics - CORE দীর্ঘ;
+	}
+
+// Menus
+
+[No Narration]
+	{
+	Bengali=বর্ণনা নেই;
+	}
+[Narration]
+	{
+	Bengali=বর্ণনা;
+	}
+[Start]
+	{
+	Bengali=শুরু;
+	}
+[Select]
+	{
+	Bengali=বাছো;
+	}
+[Previous Menu]
+	{
+	Bengali=আগের মেনু;
+	}
+[Next]
+	{
+	Bengali=পরের;
+	}
+[Previous]
+	{
+	Bengali=আগের;
+	}
+[SOUND]
+	{
+	Bengali=শব্দ;
+	}
+[INTERFACE]
+	{
+	Bengali=ইন্টারফেস;
+	}
+[VISUALS]
+	{
+	Bengali=গ্রাফিক্স;
+	}
+[MUSIC]
+	{
+	Bengali=সঙ্গীত;
+	}
+[Set Difficulty]
+	{
+	Bengali=কঠিনতা;
+	}
+[Skirmish]
+	{
+	Bengali=লড়াই;
+	}
+[Skirmish (%d players)]
+	{
+	Bengali=লড়াই (%d খেলোয়াড়);
+	}
+[New Campaign]
+	{
+	Bengali=নতুন অভিযান;
+	}
+[NEW CAMPAIGN]
+	{
+	Bengali=নতুন অভিযান;
+	}
+[Start Campaign]
+	{
+	Bengali=অভিযান শুরু;
+	}
+[Select Campaign]
+	{
+	Bengali=অভিযান বাছো;
+	}
+[SELECT CAMPAIGN:]
+	{
+	Bengali=অভিযান বাছো:;
+	}
+[Select Any Mission]
+	{
+	Bengali=যেকোনো মিশন বাছো;
+	}
+[Select Mission]
+	{
+	Bengali=মিশন বাছো;
+	}
+[Start Mission]
+	{
+	Bengali=মিশন শুরু;
+	}
+[Undo Changes]
+	{
+	Bengali=বদল ফিরিয়ে নাও;
+	}
+[Restore Defaults]
+	{
+	Bengali=ডিফল্ট ফেরত;
+	}
+[Restore Default]
+	{
+	Bengali=ডিফল্ট ফেরত;
+	}
+[Exit to Menu]
+	{
+	Bengali=মেনুতে বেরোও;
+	}
+[Exit Game]
+	{
+	Bengali=গেম থেকে বেরোও;
+	}
+[Please Select Map]
+	{
+	Bengali=ম্যাপ বাছো;
+	}
+[Load Map]
+	{
+	Bengali=ম্যাপ খোলো;
+	}
+[Select Side]
+	{
+	Bengali=পক্ষ বাছো;
+	}
+
+// Generic gameplay stuff
+
+[Player]
+	{
+	Bengali=খেলোয়াড়;
+	}
+[Players]
+	{
+	Bengali=খেলোয়াড়রা;
+	}
+[Players:]
+	{
+	Bengali=খেলোয়াড়রা:;
+	}
+[Allies]
+	{
+	Bengali=মিত্ররা;
+	}
+[ALLIES]
+	{
+	Bengali=মিত্ররা;
+	}
+[Ally]
+	{
+	Bengali=মিত্র;
+	}
+[Side]
+	{
+	Bengali=পক্ষ;
+	}
+[Metal]
+	{
+	Bengali=ধাতু;
+	}
+[METAL]
+	{
+	Bengali=ধাতু;
+	}
+[Energy]
+	{
+	Bengali=শক্তি;
+	}
+[ENERGY]
+	{
+	Bengali=শক্তি;
+	}
+[Color]
+	{
+	Bengali=রং;
+	}
+[Yes]
+	{
+	Bengali=হ্যাঁ;
+	}
+[No]
+	{
+	Bengali=না;
+	}
+[OK]
+	{
+	Bengali=ঠিক;
+	}
+[Ok]
+	{
+	Bengali=ঠিক;
+	}
+[Cancel]
+	{
+	Bengali=বাতিল;
+	}
+[CANCEL]
+	{
+	Bengali=বাতিল;
+	}
+
+// Victory/Defeat Screen
+
+[Energy Produced]
+	{
+	Bengali=উৎপাদিত শক্তি;
+	}
+[Metal Produced]
+	{
+	Bengali=উৎপাদিত ধাতু;
+	}
+[Energy Wasted]
+	{
+	Bengali=নষ্ট শক্তি;
+	}
+[Metal Wasted]
+	{
+	Bengali=নষ্ট ধাতু;
+	}
+
+// Options menu
+
+[Options Menu]
+	{
+	Bengali=অপশন মেনু;
+	}
+[GAME OPTIONS]
+	{
+	Bengali=গেম অপশন;
+	}
+[Resume]
+	{
+	Bengali=আবার শুরু;
+	}
+[Save Game]
+	{
+	Bengali=গেম সেভ;
+	}
+[Load Game]
+	{
+	Bengali=গেম খোলো;
+	}
+[Preferences]
+	{
+	Bengali=পছন্দ;
+	}
+[End Mission]
+	{
+	Bengali=মিশন শেষ করো;
+	}
+[Help]
+	{
+	Bengali=সাহায্য;
+	}
+[Briefing]
+	{
+	Bengali=ব্রিফিং;
+	}
+[Mission Objective]
+	{
+	Bengali=মিশনের লক্ষ্য;
+	}
+
+// Player settings
+
+[UNUSED]
+	{
+	Bengali=অব্যবহৃত;
+	}
+[unused]
+	{
+	Bengali=অব্যবহৃত;
+	}
+[AI]
+	{
+	Bengali=AI;
+	}
+[BLOCKED]
+	{
+	Bengali=আটকে;
+	}
+[No Limit]
+	{
+	Bengali=সীমা নেই;
+	}
+
+// CD controls
+
+[CD Player]
+	{
+	Bengali=CD প্লেয়ার;
+	}
+[No Music]
+	{
+	Bengali=সঙ্গীত নেই;
+	}
+[Repeat Track]
+	{
+	Bengali=ট্র্যাক আবার;
+	}
+[Repeat Track #]
+	{
+	Bengali=ট্র্যাক # আবার;
+	}
+[Repeat]
+	{
+	Bengali=আবার;
+	}
+[Random Tracks]
+	{
+	Bengali=এলোমেলো ট্র্যাক;
+	}
+[Specify Tracks]
+	{
+	Bengali=ট্র্যাক বাছো;
+	}
+[Play All Tracks]
+	{
+	Bengali=সব ট্র্যাক;
+	}
+[Play All]
+	{
+	Bengali=সব চালাও;
+	}
+[Track]
+	{
+	Bengali=ট্র্যাক;
+	}
+[Custom]
+	{
+	Bengali=নিজের;
+	}
+[No Action]
+	{
+	Bengali=শান্ত;
+	}
+[Battle]
+	{
+	Bengali=যুদ্ধ;
+	}
+[Defeat]
+	{
+	Bengali=হার;
+	}
+[Unused]
+	{
+	Bengali=অব্যবহৃত;
+	}
+[NO DISC]
+	{
+	Bengali=ডিস্ক নেই;
+	}
+
+// Speeds
+
+[Normal]
+	{
+	Bengali=স্বাভাবিক;
+	}
+[Slow]
+	{
+	Bengali=ধীর;
+	}
+[Slower]
+	{
+	Bengali=আরও ধীর;
+	}
+[Fast]
+	{
+	Bengali=দ্রুত;
+	}
+[Faster]
+	{
+	Bengali=আরও দ্রুত;
+	}
+[Game Speed]
+	{
+	Bengali=গেমের গতি;
+	}
+[Mouse Speed]
+	{
+	Bengali=মাউসের গতি;
+	}
+[Screen Scroll]
+	{
+	Bengali=পর্দা সরানো;
+	}
+[Screen Text Delay]
+	{
+	Bengali=লেখার দেরি;
+	}
+[Interface]
+	{
+	Bengali=ইন্টারফেস;
+	}
+[Unit Chat]
+	{
+	Bengali=ইউনিট চ্যাট;
+	}
+[Text Lines]
+	{
+	Bengali=লেখার লাইন;
+	}
+[Game]
+	{
+	Bengali=গেম;
+	}
+[Mouse]
+	{
+	Bengali=মাউস;
+	}
+[Screen]
+	{
+	Bengali=পর্দা;
+	}
+[Text Delay (secs)]
+	{
+	Bengali=লেখার দেরি (সেকেন্ড);
+	}
+[Button Interface]
+	{
+	Bengali=মাউস বোতাম;
+	}
+[Control]
+	{
+	Bengali=নিয়ন্ত্রণ;
+	}
+
+// Gamespeed
+
+[Quick]
+	{
+	Bengali=চটপট;
+	}
+[Sluggish]
+	{
+	Bengali=মন্থর;
+	}
+[Rapid Fire]
+	{
+	Bengali=অতি দ্রুত;
+	}
+
+// Chat settings
+
+[No Chat]
+	{
+	Bengali=চ্যাট নেই;
+	}
+[Only important info]
+	{
+	Bengali=শুধু জরুরি;
+	}
+[Medium chat]
+	{
+	Bengali=মাঝারি চ্যাট;
+	}
+[Detailed chat]
+	{
+	Bengali=বিস্তারিত চ্যাট;
+	}
+[High chat level]
+	{
+	Bengali=বেশি চ্যাট;
+	}
+[All info chatted]
+	{
+	Bengali=সব খবর;
+	}
+[ENEMIES]
+	{
+	Bengali=শত্রুরা;
+	}
+[Enemies]
+	{
+	Bengali=শত্রুরা;
+	}
+[All]
+	{
+	Bengali=সব;
+	}
+[ALL]
+	{
+	Bengali=সব;
+	}
+[TALK TO:]
+	{
+	Bengali=কাকে:;
+	}
+[Unit Sounds]
+	{
+	Bengali=ইউনিট শব্দ;
+	}
+[UNIT SOUNDS]
+	{
+	Bengali=ইউনিট শব্দ;
+	}
+
+// Sound settings
+
+[On]
+	{
+	Bengali=হ্যাঁ;
+	}
+[Off]
+	{
+	Bengali=না;
+	}
+[Mono]
+	{
+	Bengali=মোনো;
+	}
+[Stereo]
+	{
+	Bengali=স্টেরিও;
+	}
+[3d]
+	{
+	Bengali=3D;
+	}
+[Sound Effects Volume]
+	{
+	Bengali=ইফেক্টের আওয়াজ;
+	}
+[Music Volume]
+	{
+	Bengali=সঙ্গীতের আওয়াজ;
+	}
+[Sound Volume]
+	{
+	Bengali=শব্দের আওয়াজ;
+	}
+[Sound Mode]
+	{
+	Bengali=শব্দের ধরন;
+	}
+[No Chatting]
+	{
+	Bengali=চ্যাট নেই;
+	}
+[TEST]
+	{
+	Bengali=পরীক্ষা;
+	}
+[Sound Test]
+	{
+	Bengali=শব্দ পরীক্ষা;
+	}
+[SOUND TEST]
+	{
+	Bengali=শব্দ পরীক্ষা;
+	}
+[Building Sounds]
+	{
+	Bengali=ভবনের শব্দ;
+	}
+[Building]
+	{
+	Bengali=ভবন;
+	}
+[Unit Speech]
+	{
+	Bengali=ইউনিট কথা;
+	}
+[Unit Chat Level]
+	{
+	Bengali=চ্যাটের মাত্রা;
+	}
+[Unit Text Acks]
+	{
+	Bengali=লেখার সাড়া;
+	}
+[Chat Level Info]
+	{
+	Bengali=মাত্রার খবর;
+	}
+[Unit Acknowledgement]
+	{
+	Bengali=ইউনিটের সাড়া;
+	}
+// Not in 3.1c's table: the Unit Speech and Unit Chat Level buttons'
+// stages, whole. A button's whole caption is translated before each of its
+// stages, and [Full] alone is a game the game list shows full.
+[Off|Medium|Full]
+	{
+	Bengali=বন্ধ|মাঝারি|পুরো;
+	}
+
+// Difficulty settings
+
+[Difficulty]
+	{
+	Bengali=কঠিনতা;
+	}
+[Difficulty:]
+	{
+	Bengali=কঠিনতা:;
+	}
+[Easy]
+	{
+	Bengali=সহজ;
+	}
+[Medium]
+	{
+	Bengali=মাঝারি;
+	}
+[Hard]
+	{
+	Bengali=কঠিন;
+	}
+[Mapped]
+	{
+	Bengali=খোলা;
+	}
+[Unmapped]
+	{
+	Bengali=ঢাকা;
+	}
+
+// Starting resource levels
+
+[Low]
+	{
+	Bengali=কম;
+	}
+[High]
+	{
+	Bengali=বেশি;
+	}
+
+// Interface menu
+
+[Left]
+	{
+	Bengali=বাঁ;
+	}
+[Right]
+	{
+	Bengali=ডান;
+	}
+[Left Click]
+	{
+	Bengali=বাঁ ক্লিক;
+	}
+[Right Click]
+	{
+	Bengali=ডান ক্লিক;
+	}
+
+// Visuals menu
+
+[Shading]
+	{
+	Bengali=আলোছায়া;
+	}
+[Antialias]
+	{
+	Bengali=অ্যান্টি-অ্যালায়াসিং;
+	}
+[Anti-aliasing]
+	{
+	Bengali=অ্যান্টি-অ্যালায়াসিং;
+	}
+[Map Mode]
+	{
+	Bengali=ম্যাপের ধরন;
+	}
+[Gamma]
+	{
+	Bengali=গামা;
+	}
+[Gamma Correction]
+	{
+	Bengali=গামা ঠিক;
+	}
+[Line Of Sight]
+	{
+	Bengali=দৃষ্টিসীমা;
+	}
+[Object rendering]
+	{
+	Bengali=বস্তু আঁকা;
+	}
+[Screen Size]
+	{
+	Bengali=পর্দার মাপ;
+	}
+[Size]
+	{
+	Bengali=মাপ;
+	}
+[Shadows]
+	{
+	Bengali=ছায়া;
+	}
+[Building Shadows]
+	{
+	Bengali=ভবনের ছায়া;
+	}
+[Vehicle Shadows]
+	{
+	Bengali=যানের ছায়া;
+	}
+[True]
+	{
+	Bengali=সত্যি;
+	}
+[Set]
+	{
+	Bengali=বসাও;
+	}
+
+// Video mode menu
+
+[Select Videomode]
+	{
+	Bengali=ভিডিও ধরন বাছো;
+	}
+[Select Mode]
+	{
+	Bengali=ধরন বাছো;
+	}
+
+// Save / Load game menus
+
+[Name Of Game to Load]
+	{
+	Bengali=খোলার গেমের নাম;
+	}
+[Name Of Game to Save]
+	{
+	Bengali=সেভের গেমের নাম;
+	}
+[Reset List]
+	{
+	Bengali=তালিকা আবার;
+	}
+[Delete Game]
+	{
+	Bengali=গেম মুছো;
+	}
+[Delete List]
+	{
+	Bengali=তালিকা মুছো;
+	}
+[Cancel Save]
+	{
+	Bengali=সেভ বাতিল;
+	}
+[Game type:]
+	{
+	Bengali=গেমের ধরন:;
+	}
+[Mission/Map:]
+	{
+	Bengali=মিশন/ম্যাপ:;
+	}
+[Time elapsed:]
+	{
+	Bengali=সময় কেটেছে:;
+	}
+[Side:]
+	{
+	Bengali=পক্ষ:;
+	}
+[Campaign:]
+	{
+	Bengali=অভিযান:;
+	}
+[There are no saved games to choose from]
+	{
+	Bengali=বাছার মতো সেভ করা গেম নেই;
+	}
+[Mission:]
+	{
+	Bengali=মিশন:;
+	}
+[Time saved:]
+	{
+	Bengali=সেভের সময়:;
+	}
+
+// Multiplayer connection messages
+
+[The creator has left the game]
+	{
+	Bengali=হোস্ট লড়াই ছেড়েছে;
+	}
+[Reject Now]
+	{
+	Bengali=এখনই বের করো;
+	}
+[will be rejected in %d seconds]
+	{
+	Bengali=%d সেকেন্ডে বের হবে;
+	}
+[You do not have a compatible version for this game.]
+	{
+	Bengali=তোমার এই গেমের মানানসই ভার্সন নেই.;
+	}
+[is not responding]
+	{
+	Bengali=সাড়া দিচ্ছে না;
+	}
+[Timed out while connecting to DirectPlay lobby!]
+	{
+	Bengali=DirectPlay অপেক্ষাকক্ষে যোগ দিতে সময় শেষ!;
+	}
+[Please insert the Installation CD (Disc 1) and select%s"%s" again.]
+	{
+	Bengali=ইনস্টল CD (ডিস্ক 1) ঢোকাও এবং%s“%s” আবার বাছো.;
+	}
+[Please insert the Campaign CD (Disc 2) and try again]
+	{
+	Bengali=অভিযানের CD (ডিস্ক 2) ঢোকাও এবং আবার চেষ্টা করো;
+	}
+[Please insert the Multiplayer CD (Disc 1) and try again]
+	{
+	Bengali=অনেকজনের CD (ডিস্ক 1) ঢোকাও এবং আবার চেষ্টা করো;
+	}
+[Fault while trying to excecute button action.]
+	{
+	Bengali=বোতামের কাজ করতে গিয়ে ত্রুটি.;
+	}
+[The "%s" service failed or took %stoo long. Please see the readmee%sfile for more information.]
+	{
+	Bengali=“%s” সার্ভিস হয়নি বা %sসময় বেশি নিয়েছে. আরও জানতে%sreadme ফাইল দেখো.;
+	}
+[Unable to connect to DirectPlay lobby.]
+	{
+	Bengali=DirectPlay অপেক্ষাকক্ষে যোগ হয়নি.;
+	}
+[Unable to browse to URL: %s]
+	{
+	Bengali=URL খোলা যায়নি: %s;
+	}
+[Unable to invoke DLL: %s]
+	{
+	Bengali=DLL ডাকা যায়নি: %s;
+	}
+[Unable to execute command: %s]
+	{
+	Bengali=কমান্ড চালানো যায়নি: %s;
+	}
+[Could not match weapon type "%s" for synchronization!]
+	{
+	Bengali=অস্ত্রের ধরন “%s” সিঙ্কে মেলেনি!;
+	}
+[Updating...]
+	{
+	Bengali=আপডেট হচ্ছে...;
+	}
+[You must enter a game name]
+	{
+	Bengali=গেমের নাম লেখো;
+	}
+[You must enter your name]
+	{
+	Bengali=তোমার নাম লেখো;
+	}
+[You were rejected from the game]
+	{
+	Bengali=তোমাকে লড়াই থেকে বের করা হয়েছে;
+	}
+[The %s service failed or took%stoo long. Please see the readme%sfile for more information.]
+	{
+	Bengali=%s সার্ভিস হয়নি বা%sসময় বেশি নিয়েছে. আরও জানতে%sreadme ফাইল দেখো.;
+	}
+[Direct Connections]
+	{
+	Bengali=সরাসরি সংযোগ;
+	}
+[Internet Access]
+	{
+	Bengali=ইন্টারনেট;
+	}
+[There are no multiplayer games to choose from]
+	{
+	Bengali=বাছার মতো অনেকজনের লড়াই নেই;
+	}
+[Player has left the game]
+	{
+	Bengali=খেলোয়াড় লড়াই ছেড়েছে;
+	}
+[Player is joining the game]
+	{
+	Bengali=খেলোয়াড় লড়াইয়ে যোগ দিচ্ছে;
+	}
+[Player has disconnected]
+	{
+	Bengali=খেলোয়াড়ের সংযোগ গেছে;
+	}
+[Player %s has disconnected]
+	{
+	Bengali=খেলোয়াড় %s সংযোগ হারিয়েছে;
+	}
+[You did not have the correct password]
+	{
+	Bengali=পাসওয়ার্ড মেলেনি;
+	}
+[10 seconds]
+	{
+	Bengali=10 সেকেন্ড;
+	}
+[Please Select Provider]
+	{
+	Bengali=সংযোগ বাছো;
+	}
+[Select Provider]
+	{
+	Bengali=সংযোগ বাছো;
+	}
+
+// Multiplayer interface
+
+[Allied Victory]
+	{
+	Bengali=মিত্রের জয়;
+	}
+[Chosen Units]
+	{
+	Bengali=বাছাই ইউনিট;
+	}
+[More Info]
+	{
+	Bengali=আরও খবর;
+	}
+[Enter Game Name]
+	{
+	Bengali=গেমের নাম লেখো;
+	}
+[Enter Your Name]
+	{
+	Bengali=তোমার নাম লেখো;
+	}
+[Create New Game]
+	{
+	Bengali=নতুন লড়াই;
+	}
+[Password To Join]
+	{
+	Bengali=যোগের পাসওয়ার্ড;
+	}
+[Closed]
+	{
+	Bengali=বন্ধ;
+	}
+[The game is closed]
+	{
+	Bengali=লড়াই বন্ধ;
+	}
+[The game is full]
+	{
+	Bengali=লড়াই ভর্তি;
+	}
+[In Game]
+	{
+	Bengali=লড়াইয়ে;
+	}
+[Lounge]
+	{
+	Bengali=অপেক্ষাকক্ষ;
+	}
+[Playing]
+	{
+	Bengali=খেলছে;
+	}
+[Full]
+	{
+	Bengali=ভর্তি;
+	}
+[Reject Player:]
+	{
+	Bengali=খেলোয়াড় বের:;
+	}
+[Reject Player]
+	{
+	Bengali=খেলোয়াড় বের করো;
+	}
+[Reject Player?]
+	{
+	Bengali=খেলোয়াড়কে বের করবে?;
+	}
+[Reject %s?]
+	{
+	Bengali=%s কে বের করবে?;
+	}
+[Reject]
+	{
+	Bengali=বের করো;
+	}
+[Not Selected]
+	{
+	Bengali=বাছাই হয়নি;
+	}
+[NOT SELECTED]
+	{
+	Bengali=বাছাই হয়নি;
+	}
+[Join]
+	{
+	Bengali=যোগ দাও;
+	}
+[New]
+	{
+	Bengali=নতুন;
+	}
+[Name of Game]
+	{
+	Bengali=লড়াইয়ের নাম;
+	}
+[Plyrs]
+	{
+	Bengali=জন;
+	}
+[Status]
+	{
+	Bengali=অবস্থা;
+	}
+[Watch]
+	{
+	Bengali=দেখো;
+	}
+[Update]
+	{
+	Bengali=আপডেট;
+	}
+[LOS]
+	{
+	Bengali=দৃষ্টিসীমা;
+	}
+[Cmdr]
+	{
+	Bengali=কমান্ডার;
+	}
+[Ping]
+	{
+	Bengali=পিং;
+	}
+[Name]
+	{
+	Bengali=নাম;
+	}
+[Your Name]
+	{
+	Bengali=তোমার নাম;
+	}
+[Game Password]
+	{
+	Bengali=লড়াইয়ের পাসওয়ার্ড;
+	}
+
+// Lounge options
+
+[Messages]
+	{
+	Bengali=বার্তা;
+	}
+[Mem.]
+	{
+	Bengali=মেম.;
+	}
+[Ready?]
+	{
+	Bengali=তৈরি?;
+	}
+[Start Game]
+	{
+	Bengali=লড়াই শুরু;
+	}
+[Select Map]
+	{
+	Bengali=ম্যাপ বাছো;
+	}
+[Resolution]
+	{
+	Bengali=রেজোলিউশন;
+	}
+[Cmndr Ends Game]
+	{
+	Bengali=কমান্ডার গেলে শেষ;
+	}
+[LOS Mode]
+	{
+	Bengali=দৃষ্টিসীমার ধরন;
+	}
+[Cheat Codes]
+	{
+	Bengali=চিট কোড;
+	}
+[Cheat Codes:]
+	{
+	Bengali=চিট কোড:;
+	}
+[Disallowed]
+	{
+	Bengali=নিষেধ;
+	}
+[Allowed]
+	{
+	Bengali=অনুমতি;
+	}
+[Watching]
+	{
+	Bengali=দর্শক;
+	}
+[Watching:]
+	{
+	Bengali=দর্শক:;
+	}
+[Watching OK]
+	{
+	Bengali=দর্শক চালু;
+	}
+[No Watching]
+	{
+	Bengali=দর্শক বন্ধ;
+	}
+[Game Open]
+	{
+	Bengali=লড়াই খোলা;
+	}
+[Game Closed]
+	{
+	Bengali=লড়াই বন্ধ;
+	}
+[Game Status]
+	{
+	Bengali=লড়াইয়ের অবস্থা;
+	}
+[Watching Allowed]
+	{
+	Bengali=দর্শক চালু;
+	}
+[Map Name]
+	{
+	Bengali=ম্যাপের নাম;
+	}
+[Max Units]
+	{
+	Bengali=ইউনিট সীমা;
+	}
+[Max Units:]
+	{
+	Bengali=ইউনিট সীমা:;
+	}
+[Game Is Open]
+	{
+	Bengali=লড়াই খোলা;
+	}
+[Build Restrictions]
+	{
+	Bengali=বানানোর বাধা;
+	}
+
+// Skirmish menu
+
+[Start Skirmish]
+	{
+	Bengali=লড়াই শুরু;
+	}
+[Location]
+	{
+	Bengali=জায়গা;
+	}
+[Dead Commander]
+	{
+	Bengali=মৃত কমান্ডার;
+	}
+[Commander]
+	{
+	Bengali=কমান্ডার;
+	}
+
+// Restrictions menu
+
+[Max Per Player]
+	{
+	Bengali=জনপ্রতি সীমা;
+	}
+[Unit Build Restrictions]
+	{
+	Bengali=ইউনিট বানানোর বাধা;
+	}
+[Load List]
+	{
+	Bengali=তালিকা খোলো;
+	}
+[Save List]
+	{
+	Bengali=তালিকা সেভ;
+	}
+[Name of list to save]
+	{
+	Bengali=সেভের তালিকার নাম;
+	}
+[Show Picture]
+	{
+	Bengali=ছবি দেখাও;
+	}
+
+// Gameplay options
+
+[Fixed]
+	{
+	Bengali=স্থির;
+	}
+[Random]
+	{
+	Bengali=এলোমেলো;
+	}
+[Specific]
+	{
+	Bengali=নির্দিষ্ট;
+	}
+[Fixed Locations]
+	{
+	Bengali=স্থির জায়গা;
+	}
+[Random Locations]
+	{
+	Bengali=এলোমেলো জায়গা;
+	}
+[Game Ends]
+	{
+	Bengali=লড়াই শেষ;
+	}
+[Game ends]
+	{
+	Bengali=লড়াই শেষ;
+	}
+[Deathmatch]
+	{
+	Bengali=ডেথম্যাচ;
+	}
+[Continues]
+	{
+	Bengali=চলবে;
+	}
+[Game Continues]
+	{
+	Bengali=লড়াই চলবে;
+	}
+[Mapping Mode]
+	{
+	Bengali=ম্যাপ দেখা;
+	}
+[Mapping Mode:]
+	{
+	Bengali=ম্যাপ দেখা:;
+	}
+[Blank Map]
+	{
+	Bengali=ফাঁকা ম্যাপ;
+	}
+[Full Map]
+	{
+	Bengali=পুরো ম্যাপ;
+	}
+[LOS Off]
+	{
+	Bengali=দৃষ্টিসীমা বন্ধ;
+	}
+[Permanent]
+	{
+	Bengali=স্থায়ী;
+	}
+[True LOS]
+	{
+	Bengali=সত্যি দৃষ্টিসীমা;
+	}
+[Circular]
+	{
+	Bengali=গোল;
+	}
+[Starting Locations:]
+	{
+	Bengali=শুরুর জায়গা:;
+	}
+[Start Location]
+	{
+	Bengali=শুরুর জায়গা;
+	}
+[Commander Death]
+	{
+	Bengali=কমান্ডারের মৃত্যু;
+	}
+[Commander Death:]
+	{
+	Bengali=কমান্ডারের মৃত্যু:;
+	}
+[Mapping]
+	{
+	Bengali=ম্যাপ দেখা;
+	}
+[Line of Sight]
+	{
+	Bengali=দৃষ্টিসীমা;
+	}
+[Line of Sight:]
+	{
+	Bengali=দৃষ্টিসীমা:;
+	}
+[Computer Opponent]
+	{
+	Bengali=কম্পিউটার প্রতিপক্ষ;
+	}
+[Computer]
+	{
+	Bengali=কম্পিউটার;
+	}
+[AI Opponent]
+	{
+	Bengali=AI প্রতিপক্ষ;
+	}
+[Opponent]
+	{
+	Bengali=প্রতিপক্ষ;
+	}
+[Exit the Battle]
+	{
+	Bengali=লড়াই থেকে বেরোও;
+	}
+[Page 1]
+	{
+	Bengali=পৃষ্ঠা 1;
+	}
+[Page 2]
+	{
+	Bengali=পৃষ্ঠা 2;
+	}
+[Page 3]
+	{
+	Bengali=পৃষ্ঠা 3;
+	}
+
+// Briefing messages
+
+[BACK TO START]
+	{
+	Bengali=শুরুতে ফেরত;
+	}
+[MORE...]
+	{
+	Bengali=আরও...;
+	}
+
+// Game over screen
+
+[Victory or Failure]
+	{
+	Bengali=জয় না হার;
+	}
+[Main Menu]
+	{
+	Bengali=মূল মেনু;
+	}
+[Game Statistics]
+	{
+	Bengali=লড়াইয়ের হিসাব;
+	}
+[Statistics]
+	{
+	Bengali=হিসাব;
+	}
+[Next Mission]
+	{
+	Bengali=পরের মিশন;
+	}
+[Adjust Difficulty]
+	{
+	Bengali=কঠিনতা বদলাও;
+	}
+[Adjust skirmish difficulty.]
+	{
+	Bengali=লড়াইয়ের কঠিনতা বদলাও.;
+	}
+[You]
+	{
+	Bengali=তুমি;
+	}
+[AI Player]
+	{
+	Bengali=AI খেলোয়াড়;
+	}
+[Score]
+	{
+	Bengali=স্কোর;
+	}
+[Victory]
+	{
+	Bengali=জয়;
+	}
+[Failure]
+	{
+	Bengali=হার;
+	}
+
+// Game commands
+
+[Total Units]
+	{
+	Bengali=মোট ইউনিট;
+	}
+[Stop Building]
+	{
+	Bengali=বানানো থাম;
+	}
+[Options]
+	{
+	Bengali=অপশন;
+	}
+[Share]
+	{
+	Bengali=ভাগ;
+	}
+
+// Share options
+
+[TRANSFER RESOURCES]
+	{
+	Bengali=সম্পদ পাঠাও;
+	}
+[Selected Units]
+	{
+	Bengali=বাছাই ইউনিট;
+	}
+[Select Player]
+	{
+	Bengali=খেলোয়াড় বাছো;
+	}
+[Map Info]
+	{
+	Bengali=ম্যাপের খবর;
+	}
+
+// Unit status messages
+
+[five]
+	{
+	Bengali=পাঁচ;
+	}
+[four]
+	{
+	Bengali=চার;
+	}
+[three]
+	{
+	Bengali=তিন;
+	}
+[two]
+	{
+	Bengali=দুই;
+	}
+[one]
+	{
+	Bengali=এক;
+	}
+[zero]
+	{
+	Bengali=শূন্য;
+	}
+[Building complete]
+	{
+	Bengali=বানানো শেষ;
+	}
+[Capture failed]
+	{
+	Bengali=দখল হয়নি;
+	}
+[Construction failed: target area was blocked]
+	{
+	Bengali=বানানো হয়নি: জায়গা আটকে ছিল;
+	}
+[Construction stopped]
+	{
+	Bengali=বানানো থেমেছে;
+	}
+[Construction terminated]
+	{
+	Bengali=বানানো বন্ধ হয়েছে;
+	}
+[Target area was blocked]
+	{
+	Bengali=জায়গা আটকে ছিল;
+	}
+[Construction terminated by hostile action]
+	{
+	Bengali=শত্রুর আঘাতে বানানো বন্ধ হয়েছে;
+	}
+[How can I fix units when they keep blowing up?]
+	{
+	Bengali=ইউনিট ফাটতে থাকলে সারাই কীভাবে?;
+	}
+[I can't get there]
+	{
+	Bengali=ওখানে যেতে পারছি না;
+	}
+[I can't reach the construction site]
+	{
+	Bengali=নির্মাণ জায়গায় পৌঁছাতে পারছি না;
+	}
+[Landing aborted]
+	{
+	Bengali=অবতরণ বাতিল;
+	}
+[Landing aborted: all pads are occupied]
+	{
+	Bengali=অবতরণ বাতিল: সব প্যাড ভরা;
+	}
+[Landing aborted: no pads available]
+	{
+	Bengali=অবতরণ বাতিল: কোনো প্যাড ফাঁকা নেই;
+	}
+[Landing failed]
+	{
+	Bengali=অবতরণ হয়নি;
+	}
+[Loading unit]
+	{
+	Bengali=ইউনিট তোলা হচ্ছে;
+	}
+[Preparing for transport]
+	{
+	Bengali=পরিবহনের প্রস্তুতি;
+	}
+[Reclamate failed]
+	{
+	Bengali=উদ্ধার হয়নি;
+	}
+[Reclamating]
+	{
+	Bengali=উদ্ধার চলছে;
+	}
+[Reclamation failed]
+	{
+	Bengali=উদ্ধার হয়নি;
+	}
+[Repair aborted.]
+	{
+	Bengali=মেরামত বাতিল.;
+	}
+[Repair mission failed]
+	{
+	Bengali=মেরামত মিশন হয়নি;
+	}
+[Repairs unsuccessful.]
+	{
+	Bengali=মেরামত হয়নি.;
+	}
+[Self destruct terminated]
+	{
+	Bengali=আত্মধ্বংস বাতিল;
+	}
+[Starting construction]
+	{
+	Bengali=নির্মাণ শুরু;
+	}
+[That unit cannot be captured]
+	{
+	Bengali=সেই ইউনিট দখল করা যায় না;
+	}
+[That unit cannot be reclamated]
+	{
+	Bengali=সেই ইউনিট উদ্ধার করা যায় না;
+	}
+[That unit cannot be reclaimed]
+	{
+	Bengali=সেই ইউনিট উদ্ধার করা যায় না;
+	}
+[That unit is a cloud of vapor and cannot be captured]
+	{
+	Bengali=সেই ইউনিট বাষ্পের মেঘ, দখল করা যায় না;
+	}
+[That unit is a cloud of vapor and cannot be reclamated]
+	{
+	Bengali=সেই ইউনিট বাষ্পের মেঘ, উদ্ধার করা যায় না;
+	}
+[Transport mission failed]
+	{
+	Bengali=পরিবহন মিশন হয়নি;
+	}
+[End Transport]
+	{
+	Bengali=পরিবহন শেষ;
+	}
+[Unable to create any more units]
+	{
+	Bengali=আর ইউনিট বানানো যায় না;
+	}
+[Unable to unload unit]
+	{
+	Bengali=ইউনিট নামানো যায় না;
+	}
+[Unit is too heavy to transport]
+	{
+	Bengali=ইউনিট পরিবহনের জন্য বেশি ভারী;
+	}
+[Unit is too large to transport]
+	{
+	Bengali=ইউনিট পরিবহনের জন্য বেশি বড়;
+	}
+[Unit repaired]
+	{
+	Bengali=ইউনিট মেরামত হয়েছে;
+	}
+[Unloading]
+	{
+	Bengali=নামানো হচ্ছে;
+	}
+[Unloading process is proceeding non-optimally]
+	{
+	Bengali=নামানোর কাজ ঠিকমতো চলছে না;
+	}
+[Waiting for construction area to clear]
+	{
+	Bengali=নির্মাণ এলাকা ফাঁকা হওয়ার অপেক্ষা;
+	}
+[Waiting for target area to clear]
+	{
+	Bengali=নিশানার এলাকা ফাঁকা হওয়ার অপেক্ষা;
+	}
+[Waiting for construction pad to clear]
+	{
+	Bengali=নির্মাণ প্যাড ফাঁকা হওয়ার অপেক্ষা;
+	}
+
+// Miscellaneous
+
+[Warning!\n\nUnable to register %1 for DirectPlay.]
+	{
+	Bengali=সতর্কতা!\n\nDirectPlay-এ %1 রেজিস্টার করা যায়নি.;
+	}
+[Unidentified object]
+	{
+	Bengali=অচেনা বস্তু;
+	}
+[Game Time]
+	{
+	Bengali=লড়াইয়ের সময়;
+	}
+[Human]
+	{
+	Bengali=মানুষ;
+	}
+[Human Player]
+	{
+	Bengali=মানুষ খেলোয়াড়;
+	}
+[Open]
+	{
+	Bengali=খোলা;
+	}
+[Error]
+	{
+	Bengali=ত্রুটি;
+	}
+[There are too many players enabled for this map]
+	{
+	Bengali=এই ম্যাপে চালু খেলোয়াড় অনেক বেশি;
+	}
+[There must be at least one human player and one AI opponent]
+	{
+	Bengali=অন্তত একজন মানুষ খেলোয়াড় আর একজন AI প্রতিপক্ষ লাগবে;
+	}
+[There must be at least one player and one computer opponent]
+	{
+	Bengali=অন্তত একজন খেলোয়াড় আর একজন কম্পিউটার প্রতিপক্ষ লাগবে;
+	}
+[You have lost connection with the game]
+	{
+	Bengali=গেমের সঙ্গে সংযোগ হারিয়েছ;
+	}
+[Lost connection with game]
+	{
+	Bengali=গেমের সঙ্গে সংযোগ হারানো;
+	}
+[You need a unit you don't have for this game]
+	{
+	Bengali=এই গেমের জন্য এমন ইউনিট লাগবে যা তোমার নেই;
+	}
+[You need a newer version of the game to enter]
+	{
+	Bengali=যোগ দিতে গেমের আরও নতুন ভার্সন লাগবে;
+	}
+[No watching is allowed for this game]
+	{
+	Bengali=এই লড়াই দেখা যায় না;
+	}
+[Out of memory! Your hard disk may be full.]
+	{
+	Bengali=মেমরি ফুরিয়েছে! তোমার হার্ড ডিস্ক ভরা থাকতে পারে.;
+	}
+
+// Unit speech
+
+[Under Attack]
+	{
+	Bengali=আক্রান্ত;
+	}
+[Arrived]
+	{
+	Bengali=পৌঁছেছি;
+	}
+[Cannot Comply]
+	{
+	Bengali=মানতে পারছি না;
+	}
+[Nanolathe Complete]
+	{
+	Bengali=ন্যানোলেদ শেষ;
+	}
+[Cloaked]
+	{
+	Bengali=আড়ালে;
+	}
+[Visible]
+	{
+	Bengali=দেখা;
+	}
+
+// Mission states
+
+[Acknowledged]
+	{
+	Bengali=বুঝেছি;
+	}
+[Activate]
+	{
+	Bengali=সক্রিয়;
+	}
+[Airstrike]
+	{
+	Bengali=বিমান হামলা;
+	}
+[Annihilating]
+	{
+	Bengali=ধ্বংস চলছে;
+	}
+[Attacking]
+	{
+	Bengali=আক্রমণ করছে;
+	}
+[Being transported]
+	{
+	Bengali=পরিবহন হচ্ছে;
+	}
+[Capturing]
+	{
+	Bengali=দখল করছে;
+	}
+[Cloaking]
+	{
+	Bengali=আড়াল করছে;
+	}
+[Deactivate]
+	{
+	Bengali=নিষ্ক্রিয়;
+	}
+[Decloaking]
+	{
+	Bengali=আড়াল ছাড়ছে;
+	}
+[Defending]
+	{
+	Bengali=রক্ষা করছে;
+	}
+[Diving]
+	{
+	Bengali=ডুব দিচ্ছে;
+	}
+[Engaging target]
+	{
+	Bengali=নিশানায় আক্রমণ;
+	}
+[Evading]
+	{
+	Bengali=এড়াচ্ছে;
+	}
+[Following]
+	{
+	Bengali=পিছু চলছে;
+	}
+[Guarding]
+	{
+	Bengali=পাহারা দিচ্ছে;
+	}
+[Landing]
+	{
+	Bengali=অবতরণ;
+	}
+[Loading]
+	{
+	Bengali=তুলছে;
+	}
+[Moving]
+	{
+	Bengali=চলছে;
+	}
+[Nanolathing]
+	{
+	Bengali=ন্যানোলেদ করা;
+	}
+[Paralyzed]
+	{
+	Bengali=অচল;
+	}
+[Parking]
+	{
+	Bengali=প্যাডে দাঁড়াচ্ছে;
+	}
+[Patrolling]
+	{
+	Bengali=টহল দিচ্ছে;
+	}
+[Patrolling for damaged units]
+	{
+	Bengali=ক্ষতিগ্রস্ত ইউনিট খুঁজে টহল দিচ্ছে;
+	}
+[Ready]
+	{
+	Bengali=তৈরি;
+	}
+[Ready with orders]
+	{
+	Bengali=আদেশ নিয়ে তৈরি;
+	}
+[Reclaiming]
+	{
+	Bengali=উদ্ধার চলছে;
+	}
+[Repairing]
+	{
+	Bengali=মেরামত চলছে;
+	}
+[Repair patrol]
+	{
+	Bengali=মেরামত টহল;
+	}
+[Seeking to attack]
+	{
+	Bengali=আক্রমণে যাচ্ছে;
+	}
+[Seeking to defend]
+	{
+	Bengali=রক্ষায় যাচ্ছে;
+	}
+[Seeking to land]
+	{
+	Bengali=অবতরণের জায়গা খুঁজছে;
+	}
+[Seeking to guard]
+	{
+	Bengali=পাহারায় যাচ্ছে;
+	}
+[SELF DESTRUCT ENGAGED]
+	{
+	Bengali=আত্মধ্বংস চালু;
+	}
+[Standby]
+	{
+	Bengali=প্রস্তুত;
+	}
+[Stopping]
+	{
+	Bengali=থামছে;
+	}
+[Suppressing fire]
+	{
+	Bengali=চাপা গুলি;
+	}
+[Surfacing]
+	{
+	Bengali=ভেসে উঠছে;
+	}
+[Teleporting]
+	{
+	Bengali=টেলিপোর্ট হচ্ছে;
+	}
+[Under construction]
+	{
+	Bengali=নির্মাণ চলছে;
+	}
+[Under repair]
+	{
+	Bengali=মেরামত হচ্ছে;
+	}
+[Unit is available]
+	{
+	Bengali=ইউনিট পাওয়া যাচ্ছে;
+	}
+[Waiting]
+	{
+	Bengali=অপেক্ষা…;
+	}
+[Waiting for attack]
+	{
+	Bengali=আক্রমণের অপেক্ষা;
+	}
+
+// Feature descriptions
+
+[Description]
+	{
+	Bengali=বিবরণ;
+	}
+[Plant]
+	{
+	Bengali=উদ্ভিদ;
+	}
+[Burnt Plant]
+	{
+	Bengali=পোড়া উদ্ভিদ;
+	}
+[Fortification Wall]
+	{
+	Bengali=প্রাচীর;
+	}
+[Hole]
+	{
+	Bengali=গর্ত;
+	}
+[Crater]
+	{
+	Bengali=খাদ;
+	}
+[Foliage]
+	{
+	Bengali=গাছপালা;
+	}
+[Rock]
+	{
+	Bengali=পাথর;
+	}
+[rock]
+	{
+	Bengali=পাথর;
+	}
+[Rubble]
+	{
+	Bengali=ভাঙা পাথর;
+	}
+[Thermal Vent]
+	{
+	Bengali=ভূতাপের মুখ;
+	}
+[Ventilation Engine]
+	{
+	Bengali=বায়ুচলাচল যন্ত্র;
+	}
+[Wreckage]
+	{
+	Bengali=ধ্বংসাবশেষ;
+	}
+[Burnt Foliage]
+	{
+	Bengali=পোড়া গাছপালা;
+	}
+[Burnt Tree]
+	{
+	Bengali=পোড়া গাছ;
+	}
+[Tree]
+	{
+	Bengali=গাছ;
+	}
+[Ice Chunks]
+	{
+	Bengali=বরফের খণ্ড;
+	}
+[Damaged Terrain]
+	{
+	Bengali=ক্ষতিগ্রস্ত ভূমি;
+	}
+[Damaged Surface]
+	{
+	Bengali=ক্ষতিগ্রস্ত পৃষ্ঠ;
+	}
+[DragonsTeeth]
+	{
+	Bengali=ড্রাগনের দাঁত;
+	}
+[Dragons Teeth - NS]
+	{
+	Bengali=ড্রাগনের দাঁত - NS;
+	}
+[DragonsTeeth - NS]
+	{
+	Bengali=ড্রাগনের দাঁত - NS;
+	}
+[Metal Deposit]
+	{
+	Bengali=ধাতুর আকর;
+	}
+[Node]
+	{
+	Bengali=সংযোগবিন্দু;
+	}
+[Spire]
+	{
+	Bengali=চূড়া;
+	}
+[Glyph]
+	{
+	Bengali=প্রতীক;
+	}
+[Ruin]
+	{
+	Bengali=ভগ্নাবশেষ;
+	}
+[Seismic Monitor]
+	{
+	Bengali=ভূকম্প যন্ত্র;
+	}
+[Pipe]
+	{
+	Bengali=নল;
+	}
+[Communications Uplink]
+	{
+	Bengali=যোগাযোগ কেন্দ্র;
+	}
+[Comm Uplink]
+	{
+	Bengali=যোগাযোগ কেন্দ্র;
+	}
+[Communication Tower]
+	{
+	Bengali=যোগাযোগ টাওয়ার;
+	}
+[Regulator Complex]
+	{
+	Bengali=নিয়ন্ত্রক চত্বর;
+	}
+[Thermal Regulator]
+	{
+	Bengali=তাপ নিয়ন্ত্রক;
+	}
+[Transmitter]
+	{
+	Bengali=প্রেরক;
+	}
+[Pressure Release Valve]
+	{
+	Bengali=চাপ ছাড়ার ভালভ;
+	}
+[Pressure Valve]
+	{
+	Bengali=চাপের ভালভ;
+	}
+
+// Multiplayer online interface messages
+
+[Invalid TCP/IP Address]
+	{
+	Bengali=ভুল TCP/IP ঠিকানা;
+	}
+[Enter TCP address (leave blank to search)]
+	{
+	Bengali=TCP ঠিকানা লেখো (খালি রাখলে খোঁজ হয়);
+	}
+[Phone Numbers]
+	{
+	Bengali=ফোন নম্বর;
+	}
+[Number]
+	{
+	Bengali=নম্বর;
+	}
+[Modem]
+	{
+	Bengali=মডেম;
+	}
+[Port]
+	{
+	Bengali=পোর্ট;
+	}
+[Answer]
+	{
+	Bengali=উত্তর;
+	}
+[Dial]
+	{
+	Bengali=ডায়াল;
+	}
+[Host]
+	{
+	Bengali=হোস্ট;
+	}
+[Play]
+	{
+	Bengali=খেলো;
+	}
+[Unit Download]
+	{
+	Bengali=ইউনিট নামানো;
+	}
+
+// In game pop-up messages
+
+[Game Name]
+	{
+	Bengali=লড়াইয়ের নাম;
+	}
+[Map game will play on]
+	{
+	Bengali=লড়াইয়ের ম্যাপ;
+	}
+[Does dead commander end game?]
+	{
+	Bengali=কমান্ডার মরলে লড়াই শেষ?;
+	}
+[Average latency (big is bad)]
+	{
+	Bengali=গড় বিলম্ব (বড় মানে খারাপ);
+	}
+[Type of Line of Sight]
+	{
+	Bengali=দৃষ্টিসীমার ধরন;
+	}
+[Tells if you start with map]
+	{
+	Bengali=শুরুতে ম্যাপ খোলা কিনা জানায়;
+	}
+[Starting Metal:]
+	{
+	Bengali=শুরুর ধাতু:;
+	}
+[Starting Energy:]
+	{
+	Bengali=শুরুর শক্তি:;
+	}
+[Starting metal amount]
+	{
+	Bengali=শুরুর ধাতুর পরিমাণ;
+	}
+[Starting energy amount]
+	{
+	Bengali=শুরুর শক্তির পরিমাণ;
+	}
+[Click to edit energy value.]
+	{
+	Bengali=শক্তির মান বদলাতে চাপো.;
+	}
+[Click to set energy value.]
+	{
+	Bengali=শক্তির মান বসাতে চাপো.;
+	}
+[Click to edit metal value.]
+	{
+	Bengali=ধাতুর মান বদলাতে চাপো.;
+	}
+[Click to set metal value.]
+	{
+	Bengali=ধাতুর মান বসাতে চাপো.;
+	}
+[Left click to increase metal. Right click to decrease metal.]
+	{
+	Bengali=বাঁ বোতাম চাপলে ধাতু বাড়ে. ডান বোতাম চাপলে ধাতু কমে.;
+	}
+[Left click to increase energy. Right click to decrease energy.]
+	{
+	Bengali=বাঁ বোতাম চাপলে শক্তি বাড়ে. ডান বোতাম চাপলে শক্তি কমে.;
+	}
+[Click to select an allegiance symbol.]
+	{
+	Bengali=জোটের চিহ্ন বাছতে চাপো.;
+	}
+[Players in game / Max players]
+	{
+	Bengali=লড়াইয়ের খেলোয়াড় / সর্বোচ্চ খেলোয়াড়;
+	}
+[Tells if game is in play]
+	{
+	Bengali=লড়াই চলছে কিনা জানায়;
+	}
+[Game ends when commander is destroyed.]
+	{
+	Bengali=কমান্ডার ধ্বংস হলে লড়াই শেষ.;
+	}
+[Game continues after Commander is destroyed.]
+	{
+	Bengali=কমান্ডার ধ্বংস হলেও লড়াই চলে.;
+	}
+[Commanders are placed at pre-determined locations.]
+	{
+	Bengali=কমান্ডার আগে ঠিক করা জায়গায় বসে.;
+	}
+[Commanders are randomly placed on the battle field.]
+	{
+	Bengali=কমান্ডার যুদ্ধক্ষেত্রে এলোমেলো জায়গায় বসে.;
+	}
+[Terrain is blacked out until explored.]
+	{
+	Bengali=খোঁজার আগে ভূমি কালো থাকে.;
+	}
+[Terrain is visible.]
+	{
+	Bengali=ভূমি দেখা যায়.;
+	}
+[Terrain elevations affect a unit's view.]
+	{
+	Bengali=ভূমির উচ্চতা ইউনিটের দৃষ্টিসীমা বদলায়.;
+	}
+[Terrain elevations do not affect a unit's view.]
+	{
+	Bengali=ভূমির উচ্চতা ইউনিটের দৃষ্টিসীমা বদলায় না.;
+	}
+[All mapped terrain is visible.]
+	{
+	Bengali=ম্যাপ হওয়া সব ভূমি দেখা যায়.;
+	}
+[Exit Mission]
+	{
+	Bengali=মিশন থেকে বেরোও;
+	}
+[Exit Skirmish]
+	{
+	Bengali=লড়াই থেকে বেরোও;
+	}
+[Exit Battle]
+	{
+	Bengali=যুদ্ধ থেকে বেরোও;
+	}
+[Restart Mission]
+	{
+	Bengali=মিশন আবার শুরু;
+	}
+[Restart Skirmish]
+	{
+	Bengali=লড়াই আবার শুরু;
+	}
+[Restart]
+	{
+	Bengali=আবার শুরু;
+	}
+[Close Windows CD Player?]
+	{
+	Bengali=Windows CD প্লেয়ার বন্ধ করবে?;
+	}
+[CD Music]
+	{
+	Bengali=CD সঙ্গীত;
+	}
+[Surrender this battle and return to main menu?]
+	{
+	Bengali=এই যুদ্ধে আত্মসমর্পণ করে মূল মেনুতে ফিরবে?;
+	}
+[Surrender this battle and exit to Windows?]
+	{
+	Bengali=এই যুদ্ধে আত্মসমর্পণ করে Windows-এ বেরোবে?;
+	}
+[Surrender this battle and exit to the system?]
+	{
+	Bengali=এই যুদ্ধে আত্মসমর্পণ করে সিস্টেমে বেরোবে?;
+	}
+
+// Title Screen
+
+[SINGLE]
+	{
+	Bengali=একক;
+	}
+[Single]
+	{
+	Bengali=একক;
+	}
+[MULTI]
+	{
+	Bengali=অনেকজন;
+	}
+[INTRO]
+	{
+	Bengali=ইন্ট্রো;
+	}
+[EXIT]
+	{
+	Bengali=বেরোও;
+	}
+[Exit]
+	{
+	Bengali=বেরোও;
+	}
+
+// In-Game Help Screen
+
+[Keyboard Commands]
+	{
+	Bengali=কীবোর্ডের আদেশ;
+	}
+[SPACEBAR]
+	{
+	Bengali=স্পেস;
+	}
+[Activate the game status bar]
+	{
+	Bengali=গেমের অবস্থার বার চালু করো;
+	}
+[Bring up the multiplayer scorecard]
+	{
+	Bengali=অনেকজনের হিসাব খোলো;
+	}
+[Select all factories]
+	{
+	Bengali=সব কারখানা বাছো;
+	}
+[Multiplayer options]
+	{
+	Bengali=অনেকজনের অপশন;
+	}
+[Cancels the current command]
+	{
+	Bengali=চলতি আদেশ বাতিল করে;
+	}
+[Assign the currently selected units to a squad]
+	{
+	Bengali=বাছাই করা ইউনিট এক দলে রাখো;
+	}
+[Select squad]
+	{
+	Bengali=দল বাছো;
+	}
+[Toggles fire orders]
+	{
+	Bengali=আগুনের আদেশ বদলায়;
+	}
+[Toggles selected unit's cloaking capabilities]
+	{
+	Bengali=বাছাই করা ইউনিটের আড়াল বদলায়;
+	}
+[Toggles move orders]
+	{
+	Bengali=চলার আদেশ বদলায়;
+	}
+[Select the Build menu for the current unit]
+	{
+	Bengali=এই ইউনিটের বানানোর মেনু বাছো;
+	}
+[Select the Orders menu for the current unit]
+	{
+	Bengali=এই ইউনিটের আদেশের মেনু বাছো;
+	}
+[Select the menu for the current unit]
+	{
+	Bengali=এই ইউনিটের মেনু বাছো;
+	}
+[, (comma)]
+	{
+	Bengali=, (কমা);
+	}
+[Select the previous menu for that unit]
+	{
+	Bengali=সেই ইউনিটের আগের মেনু বাছো;
+	}
+[. (period)]
+	{
+	Bengali=. (বিন্দু);
+	}
+[Select the next menu for that unit]
+	{
+	Bengali=সেই ইউনিটের পরের মেনু বাছো;
+	}
+[~ (tilde)]
+	{
+	Bengali=~ (টিল্ড);
+	}
+[Toggle damage bars on the units]
+	{
+	Bengali=ইউনিটের ক্ষতির দণ্ড বদলাও;
+	}
+[Pause the game]
+	{
+	Bengali=গেম থামাও;
+	}
+[Display information on selected unit]
+	{
+	Bengali=বাছাই করা ইউনিটের তথ্য দেখাও;
+	}
+[Display the Options menu]
+	{
+	Bengali=অপশন মেনু দেখাও;
+	}
+[Selects the unit that last reported]
+	{
+	Bengali=যে ইউনিট শেষ খবর দিয়েছে সেটা বাছে;
+	}
+[Screen capture]
+	{
+	Bengali=পর্দার ছবি;
+	}
+[Clear all chat messages]
+	{
+	Bengali=সব চ্যাট মুছো;
+	}
+[Select all units]
+	{
+	Bengali=সব ইউনিট বাছো;
+	}
+[Select all construction units except the Commander]
+	{
+	Bengali=কমান্ডার ছাড়া সব নির্মাণ ইউনিট বাছো;
+	}
+[Select the Commander]
+	{
+	Bengali=কমান্ডার বাছো;
+	}
+[Destruct selected unit(s)]
+	{
+	Bengali=বাছাই করা ইউনিট আত্মধ্বংস করো;
+	}
+[Select all units currently on the screen]
+	{
+	Bengali=এখন পর্দায় থাকা সব ইউনিট বাছো;
+	}
+[Select all aircraft]
+	{
+	Bengali=সব বিমান বাছো;
+	}
+[Select all units of same type]
+	{
+	Bengali=একই ধরনের সব ইউনিট বাছো;
+	}
+[Applies a map bookmark at cursor location]
+	{
+	Bengali=পয়েন্টারের জায়গায় ম্যাপের চিহ্ন বসায়;
+	}
+[Centers the screen on a map bookmark]
+	{
+	Bengali=পর্দা ম্যাপের চিহ্নে আনে;
+	}
+[Give an attack order]
+	{
+	Bengali=আক্রমণের আদেশ দাও;
+	}
+[Give a guard order]
+	{
+	Bengali=পাহারার আদেশ দাও;
+	}
+[Give a move order]
+	{
+	Bengali=চলার আদেশ দাও;
+	}
+[Give a patrol order]
+	{
+	Bengali=টহলের আদেশ দাও;
+	}
+[Give a stop order (cancel previous orders)]
+	{
+	Bengali=থামার আদেশ দাও (আগের আদেশ বাতিল);
+	}
+[Use the Disintegrator Gun]
+	{
+	Bengali=D-Gun চালাও;
+	}
+[Give a capture order]
+	{
+	Bengali=দখলের আদেশ দাও;
+	}
+[Give a repair order]
+	{
+	Bengali=মেরামতের আদেশ দাও;
+	}
+[Give a reclaim order]
+	{
+	Bengali=উদ্ধারের আদেশ দাও;
+	}
+[Share resources with another player]
+	{
+	Bengali=অন্য খেলোয়াড়ের সঙ্গে সম্পদ ভাগ করো;
+	}
+[Scroll to the next unit off screen]
+	{
+	Bengali=পর্দার বাইরের পরের ইউনিটে যাও;
+	}
+[Track the selected unit]
+	{
+	Bengali=বাছাই করা ইউনিট অনুসরণ করো;
+	}
+[Reduce the game speed]
+	{
+	Bengali=গেমের গতি কমাও;
+	}
+[Increase the game speed]
+	{
+	Bengali=গেমের গতি বাড়াও;
+	}
+[Hold down to queue up multiple commands]
+	{
+	Bengali=চেপে রাখলে অনেক আদেশ সারিতে যায়;
+	}
+[ENTER]
+	{
+	Bengali=ENTER;
+	}
+[Activate the message bar]
+	{
+	Bengali=বার্তার বার খোলো;
+	}
+[Turn Rate]
+	{
+	Bengali=ঘোরার হার;
+	}
+
+// Multiplayer map names and descriptions
+
+[painted desert]
+	{
+	Bengali=আঁকা মরুভূমি;
+	}
+[18 x 18  battle in the many mesas area.]
+	{
+	Bengali=18 x 18  অনেক মালভূমির এলাকায় লড়াই.;
+	}
+[caldera's rim]
+	{
+	Bengali=ক্যালডেরার কিনারা;
+	}
+[29 x 29  sunken volcanic crater in center of map]
+	{
+	Bengali=29 x 29  ম্যাপের মাঝে বসা আগ্নেয় খাদ;
+	}
+[coast to coast]
+	{
+	Bengali=উপকূল থেকে উপকূল;
+	}
+[7 x 4  water between two coasts. weak tides.]
+	{
+	Bengali=7 x 4  দুই উপকূলের মাঝে পানি. দুর্বল জোয়ার.;
+	}
+[dark side]
+	{
+	Bengali=অন্ধকার দিক;
+	}
+[6 x 5  lunar map with plenty of metal]
+	{
+	Bengali=6 x 5  প্রচুর ধাতুওয়ালা চাঁদের ম্যাপ;
+	}
+[etorrep glacier]
+	{
+	Bengali=etorrep হিমবাহ;
+	}
+[5 x 8  strong winds coming from ocean.]
+	{
+	Bengali=5 x 8  সমুদ্র থেকে জোরালো বাতাস.;
+	}
+[fox holes]
+	{
+	Bengali=শিয়ালের গর্ত;
+	}
+[7 x 7  strong winds. more metal on high ground.]
+	{
+	Bengali=7 x 7  জোরালো বাতাস. উঁচু জমিতে বেশি ধাতু.;
+	}
+[full moon]
+	{
+	Bengali=পূর্ণিমা;
+	}
+[8 x 8  fighting on the naryb highlands. no wind.]
+	{
+	Bengali=8 x 8  naryb উচ্চভূমিতে লড়াই. বাতাস নেই.;
+	}
+[gods of war]
+	{
+	Bengali=যুদ্ধের দেবতারা;
+	}
+[9 x 8  asymmetric water map.]
+	{
+	Bengali=9 x 8  অসম পানির ম্যাপ.;
+	}
+[great divide]
+	{
+	Bengali=মহাবিভাজিকা;
+	}
+[5 x 8  fight through a mountain pass.]
+	{
+	Bengali=5 x 8  পাহাড়ি গিরিপথ দিয়ে লড়াই.;
+	}
+[hundred isles]
+	{
+	Bengali=শত দ্বীপ;
+	}
+[12 x 12  fighting on over a hundred small islands]
+	{
+	Bengali=12 x 12  একশোর বেশি ছোট দ্বীপে লড়াই;
+	}
+[kill the middle]
+	{
+	Bengali=মাঝখান ধ্বংস করো;
+	}
+[13 x 13  powerful player in middle of map on island.]
+	{
+	Bengali=13 x 13  ম্যাপের মাঝের দ্বীপে শক্তিশালী খেলোয়াড়.;
+	}
+[king of the hill]
+	{
+	Bengali=পাহাড়ের রাজা;
+	}
+[16 x 16  fight for a metal rich mountain. strong wind.]
+	{
+	Bengali=16 x 16  ধাতুসমৃদ্ধ পর্বতের জন্য লড়াই. জোরালো বাতাস.;
+	}
+[lava & two hills]
+	{
+	Bengali=লাভা & দুই পাহাড়;
+	}
+[9 x 8  two giant hills & a river of lava between them]
+	{
+	Bengali=9 x 8  দুই বিশাল পাহাড় & মাঝে লাভার নদী;
+	}
+[lava highground]
+	{
+	Bengali=লাভার উঁচু জমি;
+	}
+[8 x 8  fight over narrow ramps.]
+	{
+	Bengali=8 x 8  সরু ঢাল নিয়ে লড়াই.;
+	}
+[lava mania]
+	{
+	Bengali=লাভা উন্মাদনা;
+	}
+[8 x 8  strong winds.]
+	{
+	Bengali=8 x 8  জোরালো বাতাস.;
+	}
+[lava run]
+	{
+	Bengali=লাভা প্রবাহ;
+	}
+[13 x 4  lava strip down center. high winds.]
+	{
+	Bengali=13 x 4  মাঝ বরাবর লাভার ফালি. জোরালো বাতাস.;
+	}
+[greenhaven]
+	{
+	Bengali=সবুজ আশ্রয়;
+	}
+[16 x 16  large map with many hills to hide behind.]
+	{
+	Bengali=16 x 16  পেছনে লুকানোর অনেক পাহাড়ওয়ালা বড় ম্যাপ.;
+	}
+[metal heck]
+	{
+	Bengali=ধাতুর নরক;
+	}
+[8 x 8  fight in the metal cross region.]
+	{
+	Bengali=8 x 8  ধাতুর ক্রস এলাকায় লড়াই.;
+	}
+[red hot lava]
+	{
+	Bengali=উত্তপ্ত লাল লাভা;
+	}
+[11 x 9  many hills and lava pools. plenty of metal]
+	{
+	Bengali=11 x 9  অনেক পাহাড় আর লাভার কুণ্ড. প্রচুর ধাতু;
+	}
+[red planet]
+	{
+	Bengali=লাল গ্রহ;
+	}
+[9 x 9   many small hills and pools]
+	{
+	Bengali=9 x 9   অনেক ছোট পাহাড় আর ডোবা;
+	}
+[red triangle]
+	{
+	Bengali=লাল ত্রিভুজ;
+	}
+[16 x 16  powerful tides and strong winds.]
+	{
+	Bengali=16 x 16  প্রবল জোয়ার আর জোরালো বাতাস.;
+	}
+[ring atoll]
+	{
+	Bengali=বলয় প্রবালদ্বীপ;
+	}
+[21 x 21  powerful tides. ground units can use shallow water.]
+	{
+	Bengali=21 x 21  প্রবল জোয়ার. স্থল ইউনিট অগভীর পানিতে চলতে পারে.;
+	}
+[rock alley]
+	{
+	Bengali=পাথরের গলি;
+	}
+[9 x 21  fight in mountian valley.]
+	{
+	Bengali=9 x 21  পাহাড়ি উপত্যকায় লড়াই.;
+	}
+[sherwood]
+	{
+	Bengali=sherwood;
+	}
+[6 x 6  fighting around 3 large hills]
+	{
+	Bengali=6 x 6  3টি বড় পাহাড় ঘিরে লড়াই;
+	}
+[shore to shore]
+	{
+	Bengali=তট থেকে তট;
+	}
+[29 x 4  two coasts with large ocean between them.]
+	{
+	Bengali=29 x 4  দুই উপকূল, মাঝে বড় সমুদ্র.;
+	}
+[the desert triad]
+	{
+	Bengali=মরুভূমির ত্রয়ী;
+	}
+[6 x 6  fighting on 3 mesas.]
+	{
+	Bengali=6 x 6  3টি মালভূমিতে লড়াই.;
+	}
+[two continents]
+	{
+	Bengali=দুই মহাদেশ;
+	}
+[22 x 25  metal in the middle of the map.]
+	{
+	Bengali=22 x 25  ম্যাপের মাঝে ধাতু.;
+	}
+[yerrot mountains]
+	{
+	Bengali=yerrot পর্বত;
+	}
+[27 x 23  mountain range with lots of metal.]
+	{
+	Bengali=27 x 23  প্রচুর ধাতুর পর্বতমালা.;
+	}
+[pincushion]
+	{
+	Bengali=ছুঁচের তোষক;
+	}
+[13 x 13  a fight amongst lava spires]
+	{
+	Bengali=13 x 13  লাভার চূড়ার মাঝে লড়াই;
+	}
+[over crude water]
+	{
+	Bengali=অপরিশোধিত তেলের ওপর;
+	}
+[25 x 25  a maze of metal bridges.]
+	{
+	Bengali=25 x 25  ধাতুর সেতুর গোলকধাঁধা.;
+	}
+[seven islands]
+	{
+	Bengali=সাত দ্বীপ;
+	}
+[40 x 40  huge sea battle on core prime]
+	{
+	Bengali=40 x 40  Core Prime-এ বিশাল নৌযুদ্ধ;
+	}
+[ashap plateau]
+	{
+	Bengali=ashap মালভূমি;
+	}
+[9 x 9  metal on rough lower level]
+	{
+	Bengali=9 x 9  খসখসে নিচু স্তরে ধাতু;
+	}
+[the cold place]
+	{
+	Bengali=ঠান্ডা জায়গা;
+	}
+[15 x 11  fighting on a flat tundra with very strong winds.]
+	{
+	Bengali=15 x 11  খুব জোরালো বাতাসে সমতল তুন্দ্রায় লড়াই.;
+	}
+[evad river confluence]
+	{
+	Bengali=evad নদীর সঙ্গম;
+	}
+[11 x 10 map.  intermittent winds]
+	{
+	Bengali=11 x 10 map.  মাঝে মাঝে বাতাস;
+	}
+[lava alley]
+	{
+	Bengali=লাভার গলি;
+	}
+[18 x 18  fighting in narrow valleys.]
+	{
+	Bengali=18 x 18  সরু উপত্যকায় লড়াই.;
+	}
+[the pass]
+	{
+	Bengali=গিরিপথ;
+	}
+[7 x 4  fight to control a winding mountian pass.]
+	{
+	Bengali=7 x 4  আঁকাবাঁকা পাহাড়ি গিরিপথ নিয়ন্ত্রণের লড়াই.;
+	}
+[anteer strait]
+	{
+	Bengali=anteer প্রণালি;
+	}
+[18 x 18  fight in an iceburg filled ocean. strong tides.]
+	{
+	Bengali=18 x 18  হিমশৈলে ভরা সমুদ্রে লড়াই. প্রবল জোয়ার.;
+	}
+[metal isles]
+	{
+	Bengali=ধাতুর দ্বীপ;
+	}
+[23 X 21  4 Symmetrical Metal Islands, good for sea battles]
+	{
+	Bengali=23 X 21  4টি প্রতিসম ধাতুর দ্বীপ, সমুদ্রের লড়াইয়ের জন্য ভালো;
+	}
+
+// Expansion Pack map names and descriptions
+
+[acid foursome]
+	{
+	Bengali=অ্যাসিড চারজন;
+	}
+[13 X 13  Open plains and small lakes.]
+	{
+	Bengali=13 X 13  খোলা সমভূমি আর ছোট হ্রদ.;
+	}
+[acid pools]
+	{
+	Bengali=অ্যাসিডের পুকুর;
+	}
+[32 X 23  Masses of land with narrow passages.]
+	{
+	Bengali=32 X 23  সরু পথসহ বিশাল স্থলভাগ.;
+	}
+[acid trip]
+	{
+	Bengali=অ্যাসিড ভ্রমণ;
+	}
+[15 X 39  Watch out for the acid or you'll melt away.]
+	{
+	Bengali=15 X 39  অ্যাসিড থেকে সাবধান, নইলে গলে যাবে.;
+	}
+[assault on suburbia]
+	{
+	Bengali=শহরতলিতে আক্রমণ;
+	}
+[16 X 16 Crush 'em.]
+	{
+	Bengali=16 X 16 তাদের গুঁড়িয়ে দাও.;
+	}
+[biggie biggs]
+	{
+	Bengali=biggie biggs;
+	}
+[36 X 16  Dance from island to island crushing your opponents.]
+	{
+	Bengali=36 X 16  দ্বীপ থেকে দ্বীপে নেচে প্রতিপক্ষকে গুঁড়িয়ে দাও.;
+	}
+[block wars]
+	{
+	Bengali=মহল্লার যুদ্ধ;
+	}
+[20 X 20  Battling through the Core Prime suburbs.]
+	{
+	Bengali=20 X 20  Core Prime-এর শহরতলিতে লড়াই.;
+	}
+[brain coral]
+	{
+	Bengali=মস্তিষ্ক প্রবাল;
+	}
+[20 X 20  Hydrous map with brain coral spiral.]
+	{
+	Bengali=20 X 20  মস্তিষ্ক প্রবালের সর্পিলসহ পানির ম্যাপ.;
+	}
+[25 X 24  Keep your Kbots on the trails.]
+	{
+	Bengali=25 X 24  Kbot পথে রাখো.;
+	}
+[checker ponds]
+	{
+	Bengali=ছকের পুকুর;
+	}
+[13 X 13  Be wary of the many corrosive puddles.]
+	{
+	Bengali=13 X 13  অনেক ক্ষয়কারী ডোবা থেকে সাবধান.;
+	}
+[cluster freak]
+	{
+	Bengali=গুচ্ছের উন্মাদ;
+	}
+[10 X 10  High winds with lots of metal in the middle.]
+	{
+	Bengali=10 X 10  প্রবল বাতাস, মাঝখানে অনেক ধাতু.;
+	}
+[comet catcher]
+	{
+	Bengali=ধূমকেতু শিকারি;
+	}
+[12 X 15  Low gravity livens up this desolate landscape.]
+	{
+	Bengali=12 X 15  কম মাধ্যাকর্ষণ এই জনশূন্য ভূমিকে জাগায়.;
+	}
+[core prime industrial area]
+	{
+	Bengali=Core Prime শিল্প এলাকা;
+	}
+[21 X 21  Abandoned Core industrial area.]
+	{
+	Bengali=21 X 21  পরিত্যক্ত CORE শিল্প এলাকা.;
+	}
+[crater islands]
+	{
+	Bengali=গর্তের দ্বীপ;
+	}
+[10 X 8  Fight your way across these shallow waters.]
+	{
+	Bengali=10 X 8  এই অগভীর পানি পেরিয়ে লড়ে এগোও.;
+	}
+[crystal cracked]
+	{
+	Bengali=ফাটা স্ফটিক;
+	}
+[20 X 20 Two land masses split by an inland filled sea.]
+	{
+	Bengali=20 X 20 অভ্যন্তরীণ সমুদ্র দিয়ে আলাদা দুই স্থলভাগ.;
+	}
+[crystal isles]
+	{
+	Bengali=স্ফটিক দ্বীপ;
+	}
+[20 X 20 Crystal World ocean, dotted with reefs and islands.]
+	{
+	Bengali=20 X 20 স্ফটিক জগতের সমুদ্র, প্রবালচর আর দ্বীপে ছড়ানো.;
+	}
+[crystal maze]
+	{
+	Bengali=স্ফটিকের গোলকধাঁধা;
+	}
+[10 X 10 Free-for-all in a maze of mountains.]
+	{
+	Bengali=10 X 10 পাহাড়ের গোলকধাঁধায় মুক্ত লড়াই.;
+	}
+[crystal treasure island]
+	{
+	Bengali=স্ফটিকের ধনদ্বীপ;
+	}
+[12 X 13  Crystal map with metal-rich islands in the center.]
+	{
+	Bengali=12 X 13  মাঝখানে ধাতুসমৃদ্ধ দ্বীপসহ স্ফটিক ম্যাপ.;
+	}
+[dire straits]
+	{
+	Bengali=ভয়ংকর প্রণালী;
+	}
+[15 X 17 Natural fortification to hide between.]
+	{
+	Bengali=15 X 17 ফাঁকে লুকোনোর প্রাকৃতিক দুর্গ.;
+	}
+[east indeez]
+	{
+	Bengali=east indeez;
+	}
+[28 X 19 Lots of islands, lots of water!]
+	{
+	Bengali=28 X 19 অনেক দ্বীপ, অনেক পানি!;
+	}
+[eastside westside]
+	{
+	Bengali=পূর্ব আর পশ্চিম;
+	}
+[19 X 19  Find a park or reclaim large structures for metal.]
+	{
+	Bengali=19 X 19  একটা পার্ক খুঁজে নাও, না হলে ধাতুর জন্য বড় কাঠামো উদ্ধার করো.;
+	}
+[14 X 14, Battle for the Evad River Delta]
+	{
+	Bengali=14 X 14, Evad নদীর বদ্বীপের লড়াই;
+	}
+[expanded confluence]
+	{
+	Bengali=বর্ধিত সঙ্গম;
+	}
+[22 X 22 More room to rumble on this old favorite.]
+	{
+	Bengali=22 X 22 এই পুরনো প্রিয় ম্যাপে লড়ার আরও জায়গা.;
+	}
+[flooded glaciers]
+	{
+	Bengali=প্লাবিত হিমবাহ;
+	}
+[12 X 10 Icy ocean battle.]
+	{
+	Bengali=12 X 10 বরফ সমুদ্রের লড়াই.;
+	}
+[gasbag forests]
+	{
+	Bengali=গ্যাসথলির বন;
+	}
+[19 X 19  Large fields of gasplants block your path.]
+	{
+	Bengali=19 X 19  গ্যাসগাছের বিশাল মাঠ পথ আটকায়.;
+	}
+[gasplant plain]
+	{
+	Bengali=গ্যাসগাছের সমভূমি;
+	}
+[10 X 8  Large plain for close encounters. Lots of geothermal.]
+	{
+	Bengali=10 X 8  কাছাকাছি লড়ার বিশাল সমভূমি. অনেক ভূতাপ.;
+	}
+[higher ground]
+	{
+	Bengali=উঁচু জমি;
+	}
+[8 X 16  You take the high road and I'll take the low road.]
+	{
+	Bengali=8 X 16  তুমি উঁচু পথ নাও, আমি নিচু পথ নেব.;
+	}
+[ice house]
+	{
+	Bengali=বরফের ঘর;
+	}
+[16 X 16  Large ice mountains hinder big guns.]
+	{
+	Bengali=16 X 16  বড় বরফ পাহাড় ভারী কামান আটকায়.;
+	}
+[ice scream]
+	{
+	Bengali=বরফের চিৎকার;
+	}
+[15 X 39  Screaming won't be all you do on this forbidding world.]
+	{
+	Bengali=15 X 39  এই ভয়ংকর পৃথিবীতে শুধু চিৎকারই করবে না.;
+	}
+[icy bergs]
+	{
+	Bengali=হিমশৈল;
+	}
+[28 X 28  Landless. Lots of sunken ships.]
+	{
+	Bengali=28 X 28  স্থল নেই. অনেক ডুবে যাওয়া জাহাজ.;
+	}
+[john's pass]
+	{
+	Bengali=john-এর গিরিপথ;
+	}
+[10 X 15  Follow the river up the middle, if you dare!]
+	{
+	Bengali=10 X 15  সাহস থাকলে মাঝের নদী ধরে উপরে যাও!;
+	}
+[lake shore]
+	{
+	Bengali=হ্রদের তীর;
+	}
+[13 X 7  Large lake with islands in the middle.]
+	{
+	Bengali=13 X 7  মাঝখানে দ্বীপসহ বড় হ্রদ.;
+	}
+[luschaven]
+	{
+	Bengali=luschaven;
+	}
+[17 X 16 Battle for control of dry land.]
+	{
+	Bengali=17 X 16 শুকনো স্থল দখলের লড়াই.;
+	}
+[lusch puppy]
+	{
+	Bengali=ছোট Lusch;
+	}
+[11 X 7  Small map divided by grand mountains.]
+	{
+	Bengali=11 X 7  বিশাল পাহাড়ে ভাগ হওয়া ছোট ম্যাপ.;
+	}
+[moon quartet]
+	{
+	Bengali=চাঁদের চারজন;
+	}
+[20 X 20 Great map for team play.  Light side vs. dark side.]
+	{
+	Bengali=20 X 20 দলের খেলার দারুণ ম্যাপ.  আলোর দিক বনাম অন্ধকারের দিক.;
+	}
+[mounds of mars]
+	{
+	Bengali=মঙ্গলের ঢিবি;
+	}
+[8 X 17  For more than two players, play teams, North vs. South.]
+	{
+	Bengali=8 X 17  দুইয়ের বেশি খেলোয়াড় হলে দলে খেলো, উত্তর বনাম দক্ষিণ.;
+	}
+[ooooweeee]
+	{
+	Bengali=ooooweeee;
+	}
+[19 X 19  Nine islands of love and understanding.  Let's hug.]
+	{
+	Bengali=19 X 19  ভালোবাসা আর বোঝাপড়ার নয়টি দ্বীপ.  চলো জড়িয়ে ধরি.;
+	}
+[pillopeens]
+	{
+	Bengali=pillopeens;
+	}
+[17 X 27 Island-hopping map.]
+	{
+	Bengali=17 X 27 দ্বীপ থেকে দ্বীপে যাওয়ার ম্যাপ.;
+	}
+[plains and passes]
+	{
+	Bengali=সমভূমি আর গিরিপথ;
+	}
+[20 X 20  Large map with lots of metal.]
+	{
+	Bengali=20 X 20  অনেক ধাতুসহ বড় ম্যাপ.;
+	}
+[polar range]
+	{
+	Bengali=মেরু পর্বতশ্রেণি;
+	}
+[20 X 20  Large polar ice cap map. A bleak and forbidding world.]
+	{
+	Bengali=20 X 20  মেরুর বরফটুপির বড় ম্যাপ. এক নিরানন্দ ভয়ংকর পৃথিবী.;
+	}
+[polyp fields]
+	{
+	Bengali=পলিপের মাঠ;
+	}
+[27 X 22  Large geometric polyps litter this battlefield.]
+	{
+	Bengali=27 X 22  বড় জ্যামিতিক পলিপ এই যুদ্ধক্ষেত্রে ছড়ানো.;
+	}
+[red river]
+	{
+	Bengali=লাল নদী;
+	}
+[21 X 30  Large river separates two land masses.]
+	{
+	Bengali=21 X 30  বড় নদী দুই স্থলভাগকে আলাদা করে.;
+	}
+[red river north]
+	{
+	Bengali=লাল নদীর উত্তর;
+	}
+[21 X 14  Smaller segment of Red River.]
+	{
+	Bengali=21 X 14  লাল নদীর ছোট অংশ.;
+	}
+[ror shock]
+	{
+	Bengali=ror shock;
+	}
+[26 X 26 Ocean Battles are a must for this fine map.  Big surprise in center!]
+	{
+	Bengali=26 X 26 এই দারুণ ম্যাপে সমুদ্রের লড়াই আবশ্যক.  মাঝখানে বড় চমক!;
+	}
+[sail away]
+	{
+	Bengali=পাল তুলে চলো;
+	}
+[12 X 20 High winds sweep these islands.]
+	{
+	Bengali=12 X 20 প্রবল বাতাস এই দ্বীপগুলো ঝাঁটায়.;
+	}
+[sector 410b]
+	{
+	Bengali=সেক্টর 410b;
+	}
+[25 X 22  Large mountains with narrow passes.]
+	{
+	Bengali=25 X 22  সরু গিরিপথসহ বড় পাহাড়.;
+	}
+[show down]
+	{
+	Bengali=মুখোমুখি;
+	}
+[11 X 5  Meet in the middle.]
+	{
+	Bengali=11 X 5  মাঝখানে দেখা করো.;
+	}
+[slate gordon]
+	{
+	Bengali=slate gordon;
+	}
+[23 X 15 Great map for east/west rivalries.  Earthquakes.]
+	{
+	Bengali=23 X 15 পূর্ব বনাম পশ্চিমের দারুণ ম্যাপ.  ভূমিকম্প.;
+	}
+[slated fate]
+	{
+	Bengali=স্লেটের নিয়তি;
+	}
+[7 x 12 Search for metal in crevices.]
+	{
+	Bengali=7 x 12 ফাটলে ধাতু খোঁজো.;
+	}
+[steel jungle]
+	{
+	Bengali=ইস্পাতের জঙ্গল;
+	}
+[20 x 10  Wake up and smell the coffee with the Morning War Show.]
+	{
+	Bengali=20 x 10  সকালের যুদ্ধের শো-এর সাথে জেগে কফির গন্ধ নাও.;
+	}
+[surface meltdown]
+	{
+	Bengali=পৃষ্ঠ গলন;
+	}
+[15 X 17  Bumps, bumps, and more bumps.]
+	{
+	Bengali=15 X 17  ঢিবি, ঢিবি, আরও ঢিবি.;
+	}
+[temblorian mist]
+	{
+	Bengali=Temblor-এর কুয়াশা;
+	}
+[12 X 15  Make your way around the edges or fly across the center.]
+	{
+	Bengali=12 X 15  কিনারা ঘুরে যাও, না হলে মাঝখান দিয়ে উড়ে যাও.;
+	}
+[the barrier reef]
+	{
+	Bengali=বেষ্টনী প্রবালপ্রাচীর;
+	}
+[19 X 19  Body of water separates two land masses.  Great underwater starts!]
+	{
+	Bengali=19 X 19  এক জলাশয় দুই স্থলভাগকে আলাদা করে.  পানির নিচে দারুণ শুরুর জায়গা!;
+	}
+[the bayou]
+	{
+	Bengali=জলাভূমি;
+	}
+[20 X 20  Strong currents rush through this Bayou.]
+	{
+	Bengali=20 X 20  এই জলাভূমির ভেতর দিয়ে প্রবল স্রোত বয়.;
+	}
+[town & country]
+	{
+	Bengali=শহর & গ্রাম;
+	}
+[17 X 17  Urban vs. rural.]
+	{
+	Bengali=17 X 17  শহর বনাম গ্রাম.;
+	}
+[trout farm]
+	{
+	Bengali=ট্রাউট খামার;
+	}
+[15 X 15  Watch out for the sinkhole in the middle.]
+	{
+	Bengali=15 X 15  মাঝখানের ধসগর্ত থেকে সাবধান.;
+	}
+
+// Download Maps
+
+[cloudious prime]
+	{
+	Bengali=cloudious prime;
+	}
+[20 X 20  Island in the clouds with giant canyon.  Absurd wind.]
+	{
+	Bengali=20 X 20  বিশাল গিরিখাতসহ মেঘের দ্বীপ.  অদ্ভুত বাতাস.;
+	}
+
+// Battle Tactics Maps
+
+[aqua verdigris]
+	{
+	Bengali=পানির তাম্রমল;
+	}
+[12 x 12  Fighting around rings of Dragon's Teeth.]
+	{
+	Bengali=12 x 12  ড্রাগনের দাঁতের বলয় ঘিরে লড়াই.;
+	}
+[brilliant cut lake]
+	{
+	Bengali=হিরেকাটা হ্রদ;
+	}
+[15 X 15  Fighting around a large lake.]
+	{
+	Bengali=15 X 15  এক বড় হ্রদ ঘিরে লড়াই.;
+	}
+[canal crossing]
+	{
+	Bengali=খাল পারাপার;
+	}
+[16 X 17  Four land masses separated by canals.]
+	{
+	Bengali=16 X 17  খাল দিয়ে আলাদা চার স্থলভাগ.;
+	}
+[metal gridlock]
+	{
+	Bengali=ধাতুর যানজট;
+	}
+[20 X 20  Five squares interlock to create defensive forts.]
+	{
+	Bengali=20 X 20  পাঁচ বর্গ জড়িয়ে রক্ষার দুর্গ হয়.;
+	}
+[wretched ridges]
+	{
+	Bengali=শোচনীয় শৈলশিরা;
+	}
+[12 X 12  High ridges protect defensive areas.  Light forest.]
+	{
+	Bengali=12 X 12  উঁচু শৈলশিরা রক্ষার এলাকা বাঁচায়.  পাতলা বন.;
+	}
+[coremageddon]
+	{
+	Bengali=coremageddon;
+	}
+[13 X 20  Set up ambushes in this Core Prime maze.]
+	{
+	Bengali=13 X 20  এই Core Prime গোলকধাঁধায় ওত পাতো.;
+	}
+
+// Possible Error Messages
+
+[The requested campaign file, %s, does not exist.]
+	{
+	Bengali=চাওয়া অভিযানের ফাইল, %s, নেই.;
+	}
+[Error -- Unnamed Mission]
+	{
+	Bengali=ত্রুটি -- নামহীন মিশন;
+	}
+[The requested mission file, %s, does not exist.]
+	{
+	Bengali=চাওয়া মিশন ফাইল, %s, নেই.;
+	}
+[No GlobalHeader block in mission file!]
+	{
+	Bengali=মিশন ফাইলে GlobalHeader ব্লক নেই!;
+	}
+[No description available]
+	{
+	Bengali=কোনো বর্ণনা নেই;
+	}
+[No suitable schema type in mission file!]
+	{
+	Bengali=মিশন ফাইলে উপযুক্ত স্কিমা ধরন নেই!;
+	}
+[Very bad news!  No MSG!]
+	{
+	Bengali=খুব খারাপ খবর!  MSG নেই!;
+	}
+[Hey, hoser!  The default meteor shower data was bogus!]
+	{
+	Bengali=এই, বোকা!  ডিফল্ট উল্কাবৃষ্টির তথ্য ভুয়া ছিল!;
+	}
+[Could not open movie file, please check filename in INI.]
+	{
+	Bengali=চলচ্চিত্রের ফাইল খোলা যায়নি, INI-এর ফাইলের নাম দেখো.;
+	}
+[Could not setup Direct Draw to play movie.]
+	{
+	Bengali=চলচ্চিত্র চালাতে Direct Draw সেট হয়নি.;
+	}
+[Unsupported pixel format.]
+	{
+	Bengali=অসমর্থিত পিক্সেল ফরম্যাট.;
+	}
+[Smacker Error]
+	{
+	Bengali=Smacker ত্রুটি;
+	}
+[Summary]
+	{
+	Bengali=সারাংশ;
+	}
+[getbuilt]
+	{
+	Bengali=তৈরি হচ্ছে;
+	}
+[TransportDrop]
+	{
+	Bengali=পরিবহন থেকে নামা;
+	}
+[QueryTransport]
+	{
+	Bengali=পরিবহন খোঁজ;
+	}
+[EndTransport]
+	{
+	Bengali=পরিবহন শেষ;
+	}
+[QueryLandingPad]
+	{
+	Bengali=অবতরণ প্যাড খোঁজ;
+	}
+[Invalid logo setting]
+	{
+	Bengali=লোগো সেটিংস ভুল;
+	}
+[Unable to start the thread!]
+	{
+	Bengali=থ্রেড চালু হয়নি!;
+	}
+[Please insert the Total Annihilation CD and try again]
+	{
+	Bengali=Total Annihilation CD ঢোকাও এবং আবার চেষ্টা করো;
+	}
+[Please insert the Play CD and try again]
+	{
+	Bengali=খেলার CD ঢোকাও এবং আবার চেষ্টা করো;
+	}
+[The Play CD was not found]
+	{
+	Bengali=খেলার CD মেলেনি;
+	}
+[Please insert the Play CD]
+	{
+	Bengali=খেলার CD ঢোকাও;
+	}
+[Click to continue.]
+	{
+	Bengali=চালিয়ে যেতে চাপো.;
+	}
+[Done]
+	{
+	Bengali=হয়ে গেছে;
+	}
+[Record "%s" missing from feature files]
+	{
+	Bengali=মানচিত্রের বস্তুর ফাইলে “%s” রেকর্ড নেই;
+	}
+[An error occurred trying to use this service]
+	{
+	Bengali=এই সেবা ব্যবহার করতে ত্রুটি হয়েছে;
+	}
+[expecting int]
+	{
+	Bengali=পূর্ণসংখ্যা চাই;
+	}
+[parse error reading AI profile %s\n%s\nlast string =]
+	{
+	Bengali=AI প্রোফাইল %s পড়ার বিশ্লেষণ ত্রুটি\n%s\nশেষ লেখা =;
+	}
+[None]
+	{
+	Bengali=নেই;
+	}
+[Incompatible units found.  They will be ignored.  Please download the latest version of the game.]
+	{
+	Bengali=অসামঞ্জস্য ইউনিট পাওয়া গেছে.  সেগুলো বাদ যাবে.  গেমের সর্বশেষ ভার্সন নামাও.;
+	}
+[Can't load MOVEINFO.TDF]
+	{
+	Bengali=MOVEINFO.TDF লোড হয়নি;
+	}
+[Can't load GAMEDATA.TDF]
+	{
+	Bengali=GAMEDATA.TDF লোড হয়নি;
+	}
+[Connecting  (ESC to abort)]
+	{
+	Bengali=যোগ হচ্ছে  (বাতিল করতে ESC);
+	}
+[Lock]
+	{
+	Bengali=আটকাও;
+	}
+[Blk]
+	{
+	Bengali=কালো;
+	}
+[Gray]
+	{
+	Bengali=ধূসর;
+	}
+[Connecting... press ESC to abort]
+	{
+	Bengali=যোগ হচ্ছে... বাতিল করতে ESC চাপো;
+	}
+[Unable to find any modems]
+	{
+	Bengali=কোনো মডেম মেলেনি;
+	}
+[allied with]
+	{
+	Bengali=মিত্র হলো:;
+	}
+[broke alliance with]
+	{
+	Bengali=জোট ভাঙল:;
+	}
+[There are not enough game CDs present to play]
+	{
+	Bengali=খেলতে যথেষ্ট গেম CD নেই;
+	}
+[You must select a map before starting]
+	{
+	Bengali=শুরুর আগে একটা ম্যাপ বাছো;
+	}
+[\nYou must select a map before starting\n\n]
+	{
+	Bengali=\nশুরুর আগে একটা ম্যাপ বাছো\n\n;
+	}
+[n/a]
+	{
+	Bengali=নেই;
+	}
+[N/A]
+	{
+	Bengali=নেই;
+	}
+[View Map]
+	{
+	Bengali=ম্যাপ দেখো;
+	}
+[Could not find the multiplayer map!!]
+	{
+	Bengali=অনেকজনের ম্যাপ মেলেনি!!;
+	}
+[does not have this map]
+	{
+	Bengali=এই ম্যাপ নেই;
+	}
+[There are no saved lists to choose from]
+	{
+	Bengali=বাছার মতো সেভ করা তালিকা নেই;
+	}
+[has left the scene]
+	{
+	Bengali=মঞ্চ ছেড়েছে;
+	}
+[has been shown the door]
+	{
+	Bengali=বের করে দেওয়া হয়েছে;
+	}
+[has gone to a better place]
+	{
+	Bengali=ভালো জায়গায় গেছে;
+	}
+[has bowed out]
+	{
+	Bengali=বিদায় নিয়েছে;
+	}
+[has terminated]
+	{
+	Bengali=বন্ধ হয়েছে;
+	}
+[has been eradicated]
+	{
+	Bengali=নির্মূল হয়েছে;
+	}
+[has been liquidated]
+	{
+	Bengali=খতম হয়েছে;
+	}
+[has been obliterated]
+	{
+	Bengali=নিশ্চিহ্ন হয়েছে;
+	}
+[forces have been obliterated]
+	{
+	Bengali=বাহিনী নিশ্চিহ্ন হয়েছে;
+	}
+[vermin have been exterminated]
+	{
+	Bengali=কীট নির্মূল হয়েছে;
+	}
+[forces have gone to a better place]
+	{
+	Bengali=বাহিনী ভালো জায়গায় গেছে;
+	}
+[dropping a player due to TIMEOUT_SECS]
+	{
+	Bengali=TIMEOUT_SECS কারণে এক খেলোয়াড় বাদ হচ্ছে;
+	}
+[%s is joining the game...]
+	{
+	Bengali=%s লড়াইয়ে যোগ দিচ্ছে...;
+	}
+[player dropped by DPSYS_]
+	{
+	Bengali=DPSYS_ এক খেলোয়াড়কে বাদ দিয়েছে;
+	}
+[player '%s' set to startpos %d\n]
+	{
+	Bengali=খেলোয়াড় '%s' শুরুর জায়গা %d\n;
+	}
+[You're out!  Continue Watching?]
+	{
+	Bengali=তুমি বাদ!  দেখা চালিয়ে যাবে?;
+	}
+[Weapon]
+	{
+	Bengali=অস্ত্র;
+	}
+[Please insert a Total Annihilation CD and try again]
+	{
+	Bengali=একটা Total Annihilation CD ঢোকাও এবং আবার চেষ্টা করো;
+	}
+[Wind Speed]
+	{
+	Bengali=বাতাস;
+	}
+[Gravity]
+	{
+	Bengali=মাধ্যাকর্ষণ;
+	}
+[Tidal Strength]
+	{
+	Bengali=জোয়ারের জোর;
+	}
+[There are no skirmish maps to choose from]
+	{
+	Bengali=বাছার মতো লড়াইয়ের ম্যাপ নেই;
+	}
+[There are no multiplayer maps to choose from]
+	{
+	Bengali=বাছার মতো অনেকজনের ম্যাপ নেই;
+	}
+[The terrain for the selected map does not exist.]
+	{
+	Bengali=বাছাই করা ম্যাপের ভূমি নেই.;
+	}
+[All players may not be in the same allied group.]
+	{
+	Bengali=সব খেলোয়াড় একই জোটে থাকতে পারে না.;
+	}
+[Error:  Sound system initialization failed.]
+	{
+	Bengali=ত্রুটি:  শব্দ সিস্টেম চালু হয়নি.;
+	}
+[%s has taken the lead with %d kills]
+	{
+	Bengali=%s %d ধ্বংস নিয়ে এগিয়ে;
+	}
+[has taken the lead with %d kills]
+	{
+	Bengali=%d ধ্বংস নিয়ে এগিয়ে;
+	}
+[has taken the lead with]
+	{
+	Bengali=এগিয়ে গেছে, সাথে;
+	}
+[Player number %d invalid for unit %s]
+	{
+	Bengali=খেলোয়াড় নম্বর %d ভুল, ইউনিট %s;
+	}
+[Cost]
+	{
+	Bengali=খরচ;
+	}
+[Build Time]
+	{
+	Bengali=বানানোর সময়;
+	}
+[Max Velocity]
+	{
+	Bengali=সর্বোচ্চ বেগ;
+	}
+[Acceleration]
+	{
+	Bengali=ত্বরণ;
+	}
+[Weapons]
+	{
+	Bengali=অস্ত্র;
+	}
+[Speed]
+	{
+	Bengali=গতি;
+	}
+[Game Speed Normal]
+	{
+	Bengali=গেমের গতি স্বাভাবিক;
+	}
+[Invalid savegame file]
+	{
+	Bengali=সেভ ফাইল ভুল;
+	}
+[Unable to start the loading thread!]
+	{
+	Bengali=লোডের থ্রেড চালু হয়নি!;
+	}
+[DirectPlay registration failed.]
+	{
+	Bengali=DirectPlay নিবন্ধন হয়নি.;
+	}
+[Demo Version]
+	{
+	Bengali=ডেমো ভার্সন;
+	}
+[Settings]
+	{
+	Bengali=সেটিংস;
+	}
+
+// Added for v2.0
+
+[Can't add another player when game is closed.]
+	{
+	Bengali=লড়াই বন্ধ থাকলে আর খেলোয়াড় যোগ হয় না.;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-create the game session.\n]
+	{
+	Bengali=Direct Play নতুন খেলোয়াড় যোগ করতে পারেনি.\n\nআগের পর্দায় গিয়ে লড়াইয়ের সেশন আবার বানাও.\n;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-join the game session.\n]
+	{
+	Bengali=Direct Play নতুন খেলোয়াড় যোগ করতে পারেনি.\n\nআগের পর্দায় গিয়ে লড়াইয়ের সেশনে আবার যোগ দাও.\n;
+	}
+[Square]
+	{
+	Bengali=বর্গ;
+	}
+[Circle]
+	{
+	Bengali=বৃত্ত;
+	}
+[Triangle]
+	{
+	Bengali=ত্রিভুজ;
+	}
+[Star]
+	{
+	Bengali=তারা;
+	}
+[Moon]
+	{
+	Bengali=চাঁদ;
+	}
+[has joined the]
+	{
+	Bengali=যোগ দিয়েছে:;
+	}
+[has left the]
+	{
+	Bengali=ছেড়েছে:;
+	}
+[anemone]
+	{
+	Bengali=সি-অ্যানিমোন;
+	}
+[coral]
+	{
+	Bengali=প্রবাল;
+	}
+[seaweed]
+	{
+	Bengali=সামুদ্রিক শৈবাল;
+	}
+[kelp]
+	{
+	Bengali=কেল্প;
+	}
+[You are placed in watch mode because you are hosting AI players which are still alive.  If you exit, they will be terminated.]
+	{
+	Bengali=তুমি দর্শক মোডে, কারণ তোমার হোস্ট করা AI খেলোয়াড় এখনো বেঁচে আছে.  বেরোলে তাদের বন্ধ করা হবে.;
+	}
+[Unable to initialize scores reporting.]
+	{
+	Bengali=স্কোর জানানো চালু হয়নি.;
+	}
+[No sound driver is available for use.\n]
+	{
+	Bengali=কোনো শব্দ ড্রাইভার নেই.\n;
+	}
+[Debug:  You must be in full-screen mode to play a movie.]
+	{
+	Bengali=ডিবাগ:  চলচ্চিত্র চালাতে পুরো পর্দা চাই.;
+	}
+[Old TED format no longer supported!]
+	{
+	Bengali=পুরনো TED ফরম্যাট আর চলে না!;
+	}
+[Can not start game with all players on the same team.]
+	{
+	Bengali=সব খেলোয়াড় একই দলে থাকলে লড়াই শুরু হয় না.;
+	}
+
+// Features
+
+[Transit Node]
+	{
+	Bengali=যাতায়াত কেন্দ্র;
+	}
+[Microwave Relay]
+	{
+	Bengali=মাইক্রোওয়েভ রিলে;
+	}
+[Climatic Optimizer]
+	{
+	Bengali=জলবায়ু নিয়ন্ত্রক;
+	}
+[Truck]
+	{
+	Bengali=ট্রাক;
+	}
+[Manhole]
+	{
+	Bengali=নর্দমার মুখ;
+	}
+[Public Art]
+	{
+	Bengali=সার্বজনীন শিল্প;
+	}
+[Car]
+	{
+	Bengali=গাড়ি;
+	}
+[Willy Gates Bldg]
+	{
+	Bengali=Willy Gates ভবন;
+	}
+[Barrier]
+	{
+	Bengali=বাধা;
+	}
+[barrier]
+	{
+	Bengali=বাধা;
+	}
+[Oolok Tree]
+	{
+	Bengali=Oolok গাছ;
+	}
+[Gasbag]
+	{
+	Bengali=গ্যাসথলি;
+	}
+[Bridge]
+	{
+	Bengali=সেতু;
+	}
+[Ruined Bridge]
+	{
+	Bengali=ভাঙা সেতু;
+	}
+[Factory]
+	{
+	Bengali=কারখানা;
+	}
+[Cheese Factory]
+	{
+	Bengali=পনির কারখানা;
+	}
+[Public Hygiene Pod]
+	{
+	Bengali=জনস্বাস্থ্য ক্যাপসুল;
+	}
+[Monorail Track]
+	{
+	Bengali=মনোরেল লাইন;
+	}
+[Streetlight]
+	{
+	Bengali=রাস্তার বাতি;
+	}
+
+// Chat messages
+
+[OK.  Will share metal if above %d]
+	{
+	Bengali=ঠিক.  %d এর উপরে হলে ধাতু ভাগ করব;
+	}
+[OK.  Will share energy if above %d]
+	{
+	Bengali=ঠিক.  %d এর উপরে হলে শক্তি ভাগ করব;
+	}
+
+// Not in 3.1c's table: GUI captions and messages that 3.1c's own translate.tdf does not key
+
+[Begin Mission]
+	{
+	Bengali=মিশন শুরু করো;
+	}
+[Choose where you would like your scores reported to:]
+	{
+	Bengali=স্কোর কোথায় যাবে, বেছে নাও:;
+	}
+[CREDITS]
+	{
+	Bengali=কৃতিত্ব;
+	}
+[has modified his executable.  Game integrity breached.]
+	{
+	Bengali=নিজের প্রোগ্রাম বদলেছে.  গেমের অখণ্ডতা নষ্ট হয়েছে.;
+	}
+[has not responded for %d seconds]
+	{
+	Bengali=%d সেকেন্ড সাড়া নেই;
+	}
+[Have a nice day]
+	{
+	Bengali=দিনটা ভালো কাটুক;
+	}
+[Mission Brief]
+	{
+	Bengali=মিশন ব্রিফিং;
+	}
+[Name Of List To Save]
+	{
+	Bengali=সেভ করার তালিকার নাম;
+	}
+[Pevious Menu]
+	{
+	Bengali=আগের মেনু;
+	}
+[Select Player:]
+	{
+	Bengali=খেলোয়াড় বাছো:;
+	}
+[Synching]
+	{
+	Bengali=মিলছে;
+	}
+[Watching Allowe]
+	{
+	Bengali=দর্শক চালু;
+	}
+
+// Not in 3.1c's table: Map names and descriptions
+
+[luschinfloggen]
+	{
+	Bengali=luschinfloggen;
+	}
+[8 X 10  Find your way through the shallows into the enemy base.]
+	{
+	Bengali=8 X 10  অগভীর পানি দিয়ে শত্রুর ঘাঁটিতে পথ খুঁজে নাও.;
+	}
+
+// Not in 3.1c's table: Planet names, as the maps give them
+
+[Green planet]
+	{
+	Bengali=সবুজ গ্রহ;
+	}
+[Lava]
+	{
+	Bengali=লাভা;
+	}
+[Red Planet]
+	{
+	Bengali=লাল গ্রহ;
+	}
+[Lush]
+	{
+	Bengali=ঘন সবুজ;
+	}
+[Ice]
+	{
+	Bengali=বরফ;
+	}
+[Archipelago]
+	{
+	Bengali=দ্বীপপুঞ্জ;
+	}
+[Slate]
+	{
+	Bengali=স্লেট;
+	}
+[Lunar]
+	{
+	Bengali=চান্দ্র;
+	}
+[Water World]
+	{
+	Bengali=পানির জগৎ;
+	}
+[Acid]
+	{
+	Bengali=অ্যাসিড;
+	}
+[Crystal]
+	{
+	Bengali=স্ফটিক;
+	}
+[Wet Desert]
+	{
+	Bengali=ভেজা মরু;
+	}
+[Desert]
+	{
+	Bengali=মরু;
+	}
+[Urban]
+	{
+	Bengali=শহুরে;
+	}

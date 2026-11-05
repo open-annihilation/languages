@@ -1,0 +1,706 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Bengali mission names, keyed by the mission file the campaign
+// lists. A campaign's "N: " prefix is kept as it is.
+
+[EXP1AC01.ota]
+	{
+	missionname=1: Hydross - অনুসন্ধান শুরু!;
+	}
+[EXP1AC02.ota]
+	{
+	missionname=2: প্রবালদ্বীপ সুরক্ষা;
+	}
+[EXP1AC03.ota]
+	{
+	missionname=3: CORE ডোবানো;
+	}
+[EXP1AC04.ota]
+	{
+	missionname=4: Lusch - হোভার প্রযুক্তি;
+	}
+[EXP1AC05.ota]
+	{
+	missionname=5: কাদাজমি আর জলাভূমির ভেতর দিয়ে;
+	}
+[EXP1AC06.ota]
+	{
+	missionname=6: বাতিঘর;
+	}
+[EXP1AC07.ota]
+	{
+	missionname=7: Temblor - ভূমিকম্প!;
+	}
+[EXP1AC08.ota]
+	{
+	missionname=8: পাথর আর কঠিন জায়গার মাঝে;
+	}
+[EXP1AC09.ota]
+	{
+	missionname=9: ARM কাঁপায় - CORE কাঁপে;
+	}
+[EXP1AC10.ota]
+	{
+	missionname=10: Gelidus - শীতল অভ্যর্থনা;
+	}
+[EXP1AC11.ota]
+	{
+	missionname=11: বরফখণ্ডের সাথে যাও;
+	}
+[EXP1AC12.ota]
+	{
+	missionname=12: একটি ছায়াপথের পরিত্রাণ;
+	}
+[AC01.ota]
+	{
+	missionname=1: এক বীরের প্রত্যাবর্তন;
+	}
+[AC02.ota]
+	{
+	missionname=2: CORE Kbot ঘাঁটি, ধ্বংস করো!;
+	}
+[AC03.ota]
+	{
+	missionname=3: স্পাইডার প্রযুক্তি;
+	}
+[AC04.ota]
+	{
+	missionname=4: CORE-এর দূষণ ছড়ায়...;
+	}
+[AC05.ota]
+	{
+	missionname=5: Thalassean-এর ফটক;
+	}
+[AC06.ota]
+	{
+	missionname=6: Thalassean-এ সৈকতঘাঁটি;
+	}
+[AC07.ota]
+	{
+	missionname=7: লারাব বন্দরের প্রতিরক্ষা;
+	}
+[AC08.ota]
+	{
+	missionname=8: Tergiverse IV-এর ফটক;
+	}
+[AC09.ota]
+	{
+	missionname=9: পানির কারখানা;
+	}
+[AC10.ota]
+	{
+	missionname=10: ব্রোমিডের গোলকধাঁধা;
+	}
+[AC11.ota]
+	{
+	missionname=11: Barathrum-এর ফটক;
+	}
+[AC12.ota]
+	{
+	missionname=12: Barathrum!;
+	}
+[AC13.ota]
+	{
+	missionname=13: Landown's Interface;
+	}
+[AC14.ota]
+	{
+	missionname=14: উত্তাপ বাড়ে;
+	}
+[AC15.ota]
+	{
+	missionname=15: Rougpelt;
+	}
+[AC16.ota]
+	{
+	missionname=16: Abutment-এ মজুদ.;
+	}
+[AC17.ota]
+	{
+	missionname=17: ব্রুবানের দ্বীপে দুর্গ;
+	}
+[AC18.ota]
+	{
+	missionname=18: প্রতিশোধ!;
+	}
+[AC19.ota]
+	{
+	missionname=19: মোটিয়েন ঢাল;
+	}
+[AC20.ota]
+	{
+	missionname=20: Dump;
+	}
+[AC21.ota]
+	{
+	missionname=21: CORE PRIME-এ স্বাগতম;
+	}
+[AC22.ota]
+	{
+	missionname=22: স্থানাঙ্ক 6551:447-এর লড়াই;
+	}
+[AC23.ota]
+	{
+	missionname=23: জলাশয় 397 পেরোনো;
+	}
+[AC24.ota]
+	{
+	missionname=24: কেন্দ্রীয় চেতনায় ভেদ;
+	}
+[AC25.ota]
+	{
+	missionname=25: CORE PRIME-এর মহাপ্রলয়. অবশেষে মুক্ত!;
+	}
+[Com Pattern Five.ota]
+	{
+	missionname=Com-এর নকশা পাঁচ;
+	}
+[Steel Stronghold.ota]
+	{
+	missionname=ইস্পাত দুর্গ;
+	}
+[Thermal Exchange Causeway.ota]
+	{
+	missionname=তাপ বিনিময়ের বাঁধপথ;
+	}
+[Crossing the Long Lakes.ota]
+	{
+	missionname=দীর্ঘ হ্রদ পেরোনো;
+	}
+[Capture Hanan Base.ota]
+	{
+	missionname=Hanan ঘাঁটি দখল করো;
+	}
+[Lipar Pass.ota]
+	{
+	missionname=Lipar গিরিপথ;
+	}
+[Ice Base Assault.ota]
+	{
+	missionname=বরফ ঘাঁটিতে আক্রমণ;
+	}
+[Pursuit.ota]
+	{
+	missionname=ধাওয়া;
+	}
+[Backs to the Sea.ota]
+	{
+	missionname=সমুদ্রের দিকে পিঠ;
+	}
+[Spider Ambush.ota]
+	{
+	missionname=স্পাইডার অতর্কিত আক্রমণ;
+	}
+[Islands of Grace.ota]
+	{
+	missionname=অনুগ্রহের দ্বীপপুঞ্জ;
+	}
+[Wet and Dry.ota]
+	{
+	missionname=ভেজা আর শুকনো;
+	}
+[Meraldi Amphibious Assault.ota]
+	{
+	missionname=Meraldi-এ উভচর আক্রমণ;
+	}
+[Miniement Landing.ota]
+	{
+	missionname=Miniement-এ অবতরণ;
+	}
+[Intimidator Ridge.ota]
+	{
+	missionname=ইন্টিমিডেটর শৈলশিরা;
+	}
+[Zipper Attack.ota]
+	{
+	missionname=জিপার আক্রমণ;
+	}
+[Can Rush.ota]
+	{
+	missionname=দ্য ক্যান হামলা;
+	}
+[Attack on Barrack.ota]
+	{
+	missionname=Barrack-এ আক্রমণ;
+	}
+[Cutoff in Sector 6895.ota]
+	{
+	missionname=সেক্টর 6895-এ বিচ্ছিন্ন;
+	}
+[Encounter on the Coral Sea.ota]
+	{
+	missionname=প্রবাল সাগরে সংঘর্ষ;
+	}
+[The Wayneston Ford Engagement.ota]
+	{
+	missionname=Wayneston ঘাটের লড়াই;
+	}
+[Ice Base Baryn.ota]
+	{
+	missionname=Baryn-এর বরফ ঘাঁটি;
+	}
+[Forest Base 129.ota]
+	{
+	missionname=বনের ঘাঁটি 129;
+	}
+[Rock Candy Mountains.ota]
+	{
+	missionname=মিছরির পাহাড়;
+	}
+[Kudzu Base.ota]
+	{
+	missionname=Kudzu ঘাঁটি;
+	}
+[Yerrot Foothills.ota]
+	{
+	missionname=Yerrot-এর পাদদেশ;
+	}
+[Island Hopping.ota]
+	{
+	missionname=দ্বীপ থেকে দ্বীপ;
+	}
+[Mist Bombers.ota]
+	{
+	missionname=কুয়াশার বোমারু;
+	}
+[A Shortage of Water.ota]
+	{
+	missionname=পানির অভাব;
+	}
+[Raid on Vetes.ota]
+	{
+	missionname=Vetes-এ হানা;
+	}
+[Three Passes.ota]
+	{
+	missionname=তিন গিরিপথ;
+	}
+[Spire Sports.ota]
+	{
+	missionname=শিখরের খেলা;
+	}
+[Charging the Line.ota]
+	{
+	missionname=রেখায় ঝটকা;
+	}
+[Dawn Directive.ota]
+	{
+	missionname=ভোরের নির্দেশ;
+	}
+[Waiting.ota]
+	{
+	missionname=অপেক্ষা;
+	}
+[The Vulcans Forge Hotspot.ota]
+	{
+	missionname=Vulcans Forge-এর উত্তপ্ত স্থান;
+	}
+[Crawling Destruction.ota]
+	{
+	missionname=হামাগুড়ি ধ্বংস;
+	}
+[Battle of Ansapp Sea.ota]
+	{
+	missionname=Ansapp সাগরের লড়াই;
+	}
+[Between Two Lakes.ota]
+	{
+	missionname=দুই হ্রদের মাঝে;
+	}
+[Hunting Nhanons.ota]
+	{
+	missionname=Nhanons-এ শিকার;
+	}
+[Sub Hunting.ota]
+	{
+	missionname=ডুবোজাহাজ শিকার;
+	}
+[Ambush on Novespin IV.ota]
+	{
+	missionname=Novespin IV-এ অতর্কিত আক্রমণ;
+	}
+[Force the Strait.ota]
+	{
+	missionname=প্রণালি জোর করে পার হও;
+	}
+[Destroy the FMD.ota]
+	{
+	missionname=Fortitude মিসাইল প্রতিরক্ষা ধ্বংস করো;
+	}
+[Kaki Island Assault.ota]
+	{
+	missionname=Kaki দ্বীপে আক্রমণ;
+	}
+[Fighting Under Fire.ota]
+	{
+	missionname=গোলার মুখে লড়াই;
+	}
+[The Ravenstein Run.ota]
+	{
+	missionname=Ravenstein ছুট;
+	}
+[Reducing the Yrdac Islands.ota]
+	{
+	missionname=Yrdac দ্বীপপুঞ্জ দমন;
+	}
+[Black Box.ota]
+	{
+	missionname=কালো বাক্স;
+	}
+[Firebase Prasad.ota]
+	{
+	missionname=Prasad আগুনের ঘাঁটি;
+	}
+[Invasion of Destral II.ota]
+	{
+	missionname=Destral II-এ হানা;
+	}
+[Guardian Hill.ota]
+	{
+	missionname=গার্ডিয়ান পাহাড়;
+	}
+[Metal Maze.ota]
+	{
+	missionname=ধাতুর গোলকধাঁধা;
+	}
+[Titanium Fist Bay.ota]
+	{
+	missionname=টাইটানিয়াম মুষ্টির উপসাগর;
+	}
+[Crossing Kerrap Shallows.ota]
+	{
+	missionname=Kerrap-এর অগভীর পানি পেরোনো;
+	}
+[Peaceful Pools.ota]
+	{
+	missionname=শান্ত পুকুর;
+	}
+[Solidspire Base.ota]
+	{
+	missionname=Solidspire ঘাঁটি;
+	}
+[Fortitude Race.ota]
+	{
+	missionname=Fortitude-এর দৌড়;
+	}
+[Brawler Buildup.ota]
+	{
+	missionname=ব্রলার সমাবেশ;
+	}
+[Silent Slayers.ota]
+	{
+	missionname=নীরব ঘাতক;
+	}
+[Crossing Arnen Inlet.ota]
+	{
+	missionname=Arnen খাঁড়ি পেরোনো;
+	}
+[Cloaked in the Spires.ota]
+	{
+	missionname=শিখরের মধ্যে আড়ালে;
+	}
+[Zedtopt Hotsprings.ota]
+	{
+	missionname=Zedtopt উষ্ণ প্রস্রবণ;
+	}
+[Intimidator Rising.ota]
+	{
+	missionname=ইন্টিমিডেটরের উত্থান;
+	}
+[Guditha Pass.ota]
+	{
+	missionname=Guditha গিরিপথ;
+	}
+[Sink the Battleship.ota]
+	{
+	missionname=যুদ্ধজাহাজ ডোবাও;
+	}
+[Coordinated Assault.ota]
+	{
+	missionname=সমন্বিত আক্রমণ;
+	}
+[Dogfight over Grantham Deep.ota]
+	{
+	missionname=Grantham অতলের ওপর বিমান লড়াই;
+	}
+[Mesa Run.ota]
+	{
+	missionname=মালভূমি ছুট;
+	}
+[Krocark Firebase Complex.ota]
+	{
+	missionname=Krocark আগুনের ঘাঁটির গুচ্ছ;
+	}
+[Jungle Journey.ota]
+	{
+	missionname=জঙ্গল যাত্রা;
+	}
+[Capturing Terseknos.ota]
+	{
+	missionname=Terseknos দখল;
+	}
+[Bertha Cleansing.ota]
+	{
+	missionname=বিগ বার্থা নির্মূল;
+	}
+[Surprise at Labrodorite.ota]
+	{
+	missionname=Labrodorite-এ চমক;
+	}
+[Skirmish on the Sand.ota]
+	{
+	missionname=বালিতে খণ্ডযুদ্ধ;
+	}
+[New Moon.ota]
+	{
+	missionname=নতুন চাঁদ;
+	}
+[Kbot Mop Up.ota]
+	{
+	missionname=Kbot সাফাই;
+	}
+[River Base Alpha.ota]
+	{
+	missionname=নদীর ঘাঁটি Alpha;
+	}
+[Crossing Two Rivers.ota]
+	{
+	missionname=দুই নদী পেরোনো;
+	}
+[Caranat Conquest.ota]
+	{
+	missionname=Caranat বিজয়;
+	}
+[Less Refreshing Sea.ota]
+	{
+	missionname=কম সতেজ সাগর;
+	}
+[Hot Day and Hull Down.ota]
+	{
+	missionname=গরম দিন আর খোল ঢাকা;
+	}
+[Seed Crystal.ota]
+	{
+	missionname=বীজস্ফটিক;
+	}
+[Cleanup on Kral.ota]
+	{
+	missionname=Kral-এ সাফাই;
+	}
+[Air Assault.ota]
+	{
+	missionname=আকাশ আক্রমণ;
+	}
+[Lightning Recon.ota]
+	{
+	missionname=বজ্র স্কাউট;
+	}
+[A Gentle Time.ota]
+	{
+	missionname=শান্ত সময়;
+	}
+[Disintegrator Alley.ota]
+	{
+	missionname=D-Gun গলি;
+	}
+[Two Ore Coast.ota]
+	{
+	missionname=দুই আকরিকের উপকূল;
+	}
+[Thrashing a Rear Guard.ota]
+	{
+	missionname=পশ্চাদরক্ষী পেটানো;
+	}
+[Emerald Seamount.ota]
+	{
+	missionname=পান্না সমুদ্রগিরি;
+	}
+[Taking Island 445.ota]
+	{
+	missionname=দ্বীপ 445 দখল;
+	}
+[The Retorb Floodplain.ota]
+	{
+	missionname=Retorb প্লাবনভূমি;
+	}
+[Firebase.ota]
+	{
+	missionname=আগুনের ঘাঁটি;
+	}
+[Battle of Chimo Island.ota]
+	{
+	missionname=Chimo দ্বীপের লড়াই;
+	}
+[Laser Plain.ota]
+	{
+	missionname=লেজার সমভূমি;
+	}
+[Rotrey Stream.ota]
+	{
+	missionname=Rotrey স্রোত;
+	}
+[Rainforest Construction.ota]
+	{
+	missionname=বর্ষারণ্যে নির্মাণ;
+	}
+[Yollets Rain Forest.ota]
+	{
+	missionname=Yollets বর্ষারণ্য;
+	}
+[The Phase Array Radar.ota]
+	{
+	missionname=পর্যায় সারি রাডার;
+	}
+[EXP1CC01.ota]
+	{
+	missionname=1: ARM Hydross-এ আসে;
+	}
+[EXP1CC02.ota]
+	{
+	missionname=2: ভেজা কাজ;
+	}
+[EXP1CC03.ota]
+	{
+	missionname=3: সহজ লক্ষ্য;
+	}
+[EXP1CC04.ota]
+	{
+	missionname=4: Lusch - স্বর্গে স্বাগতম;
+	}
+[EXP1CC05.ota]
+	{
+	missionname=5: প্রহার আর কষ্টপথ;
+	}
+[EXP1CC06.ota]
+	{
+	missionname=6: ভিনগ্রহের পোকা;
+	}
+[EXP1CC07.ota]
+	{
+	missionname=7: কাঁপো, খড়খড় করো, আর মরো;
+	}
+[EXP1CC08.ota]
+	{
+	missionname=8: কমান্ডের বিভ্রান্তি;
+	}
+[EXP1CC09.ota]
+	{
+	missionname=9: মেঘের দুর্গে হামলা;
+	}
+[EXP1CC10.ota]
+	{
+	missionname=10: ঠান্ডা করা;
+	}
+[EXP1CC11.ota]
+	{
+	missionname=11: হিম ধ্বংসযজ্ঞ;
+	}
+[EXP1CC12.ota]
+	{
+	missionname=12: যাওয়ার সময়;
+	}
+[CC01.ota]
+	{
+	missionname=1: কমান্ডার আবার সক্রিয়...;
+	}
+[CC02.ota]
+	{
+	missionname=2: কীট;
+	}
+[CC03.ota]
+	{
+	missionname=3: অতর্কিত আক্রমণ!;
+	}
+[CC04.ota]
+	{
+	missionname=4: যথেষ্ট হয়েছে;
+	}
+[CC05.ota]
+	{
+	missionname=5: Barathrum!;
+	}
+[CC06.ota]
+	{
+	missionname=6: শুদ্ধি শুরু;
+	}
+[CC07.ota]
+	{
+	missionname=7: ফাঁস শক্ত করা;
+	}
+[CC08.ota]
+	{
+	missionname=8: Aqueous Minor-এর ফটক;
+	}
+[CC09.ota]
+	{
+	missionname=9: Aqueous Minor-এর বিশোধন;
+	}
+[CC10.ota]
+	{
+	missionname=10: Gauntlet;
+	}
+[CC11.ota]
+	{
+	missionname=11: Isle Parche;
+	}
+[CC12.ota]
+	{
+	missionname=12: এক বিশ্বাসঘাতক পথ দেখায়;
+	}
+[CC13.ota]
+	{
+	missionname=13: Rougpelt;
+	}
+[CC14.ota]
+	{
+	missionname=14: Rougpelt তল্লাশি;
+	}
+[CC15.ota]
+	{
+	missionname=15: জ্যান্টিপির অতল;
+	}
+[CC16.ota]
+	{
+	missionname=16: Rougpelt ত্যাগ;
+	}
+[CC17.ota]
+	{
+	missionname=17: হারানো দ্বীপ;
+	}
+[CC18.ota]
+	{
+	missionname=18: Slolam Pilago;
+	}
+[CC19.ota]
+	{
+	missionname=19: ভেব্রিন নৌবহর;
+	}
+[CC20.ota]
+	{
+	missionname=20: Aegus-এর ফটক;
+	}
+[CC21.ota]
+	{
+	missionname=21: Aegus...Empyrrean-এর রক্ষক;
+	}
+[CC22.ota]
+	{
+	missionname=22: Empyrrean-এ জমকালো স্বাগতম;
+	}
+[CC23.ota]
+	{
+	missionname=23: দুর্গের পতন;
+	}
+[CC24.ota]
+	{
+	missionname=24: ঘেরাও আর প্রহার;
+	}
+[CC25.ota]
+	{
+	missionname=25: Empyrrean-এর শেষ প্রতিরোধ;
+	}
+[Krogoth Encounter.ota]
+	{
+	missionname=1: Krogoth-এর মুখোমুখি!;
+	}

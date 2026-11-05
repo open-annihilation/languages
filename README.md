@@ -1,6 +1,6 @@
 # Open Annihilation language packs
 
-The sources of Open Annihilation's downloadable language packs (`.oalang`): Simplified Chinese, Traditional Chinese, Ukrainian, Korean, Japanese, Russian, Brazilian Portuguese, European Portuguese, Turkish and Polish. Each pack is built and checked here, and published with the content library's publish script. That script also makes a GitHub release for each pack and revision, so a translation can ship without an engine release.
+The sources of Open Annihilation's downloadable language packs (`.oalang`): Simplified Chinese, Traditional Chinese, Ukrainian, Korean, Japanese, Russian, Brazilian Portuguese, European Portuguese, Turkish, Polish and Bengali. Each pack is built and checked here, and published with the content library's publish script. That script also makes a GitHub release for each pack and revision, so a translation can ship without an engine release.
 
 The five languages Total Annihilation 3.1c ships with (English, German, Spanish, French and Italian) need no pack: Open Annihilation reads them from the game's own data.
 
@@ -16,6 +16,7 @@ The five languages Total Annihilation 3.1c ships with (English, German, Spanish,
 - `pt-PT/` holds the European Portuguese sources, laid out the same way and drawn the same way as the Brazilian pack's. Portugal's system locale chooses it, as do those of the other countries that write European Portuguese; a bare `pt` chooses the Brazilian pack.
 - `tr/` holds the Turkish sources, laid out the same way. Windows-1252 has ç, ö and ü but not ğ, ı, İ or ş, and 3.1c's menu fonts lack those letters, so it is drawn in the modern fonts and brings no font of its own.
 - `pl/` holds the Polish sources, laid out the same way. Polish letters are outside 3.1c's menu fonts, so the pack is drawn in the modern fonts and brings no font of its own.
+- `bn/` holds the Bengali sources, laid out the same way. Bengali's letters join, so the pack needs shaping and is offered only on a build that shapes. Its letters come from the pack's own face.
 - `fonts/` holds the CJK fonts' recipes, the Bengali face's recipe, their licences and the pinned fontTools requirements, and `engine-faces.json`, the record of the characters the engine's own faces draw. The built fonts are not stored here.
 - `tools/check.py` checks a pack. `tools/coverage.py` lists the engine's interface words a pack does not translate. `tools/build.py` builds a `.oalang`. `tools/fonts.py` builds the fonts. `tools/translate.py` prepares, checks and merges a new pack's translation from an existing pack. `tools/screens.py` takes pictures of a built pack's screens with an engine build.
 - `docs/` holds the guides: [adding a language](docs/new-language.md), [updating the packs for an engine release](docs/updating-a-pack.md), and each pack's glossary under `docs/glossaries/`.
@@ -84,7 +85,7 @@ This asks the engine build for its interface words (`oa-tool interface-words --j
 python3 tools/build.py zh-Hans --oa-tool /path/to/oa-tool
 ```
 
-This checks the source, stages it with the font and the font licence, if it names one, checks the staged folder, and runs `oa-tool pack`. The pack is `dist/zh-Hans.oalang`. Beside it, `dist/zh-Hans.oalang.json` records the tag, revision, commit, whether the worktree was dirty, and the file's size and SHA-256. A second build of the same commit produces the same bytes. `OA_TOOL` names the tool when `--oa-tool` is omitted. Pass no tag to build every pack. A pack that names a CJK font, Simplified Chinese, Traditional Chinese, Korean or Japanese, needs it built first (`python3 tools/fonts.py`); Ukrainian needs none:
+This checks the source, stages it with the font and the font licence, if it names one, checks the staged folder, and runs `oa-tool pack`. The pack is `dist/zh-Hans.oalang`. Beside it, `dist/zh-Hans.oalang.json` records the tag, revision, commit, whether the worktree was dirty, and the file's size and SHA-256. A second build of the same commit produces the same bytes. `OA_TOOL` names the tool when `--oa-tool` is omitted. Pass no tag to build every pack. A pack that names a font, Simplified Chinese, Traditional Chinese, Korean, Japanese or Bengali, needs it built first (`python3 tools/fonts.py`); Ukrainian needs none:
 
 ```sh
 python3 tools/build.py uk --oa-tool /path/to/oa-tool
@@ -92,7 +93,7 @@ python3 tools/build.py uk --oa-tool /path/to/oa-tool
 
 ## A new revision
 
-Fix the translation, then bump `packaging.revision` and `packaging.date` in the pack's `language.yaml`. Commit and push to `main`. From that clean commit, build the pack. The maintainer publishes it with the content library's publish script, which reads the build info and makes the GitHub release for that pack and revision (for example `zh-Hans-r1`, `zh-Hant-r1`, `uk-r1`, `ko-r1`, `ja-r1`, `ru-r1`, `pt-BR-r1`, `pt-PT-r1`, `tr-r1` or `pl-r1`).
+Fix the translation, then bump `packaging.revision` and `packaging.date` in the pack's `language.yaml`. Commit and push to `main`. From that clean commit, build the pack. The maintainer publishes it with the content library's publish script, which reads the build info and makes the GitHub release for that pack and revision (for example `zh-Hans-r1`, `zh-Hant-r1`, `uk-r1`, `ko-r1`, `ja-r1`, `ru-r1`, `pt-BR-r1`, `pt-PT-r1`, `tr-r1`, `pl-r1` or `bn-r1`).
 
 ## Licences
 

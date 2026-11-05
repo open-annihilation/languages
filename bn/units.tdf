@@ -1,0 +1,1953 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Unit names and descriptions in Bengali, one section per unit.
+// name-from and description-from hold the English each field
+// translates; a field whose English no longer matches is not shown.
+
+[ARMAAP]
+	{
+	name=উন্নত বিমান কারখানা;
+	description=বিমান বানায়;
+	name-from=Adv. Aircraft Plant;
+	description-from=Produces Aircraft;
+	}
+[ARMAAS]
+	{
+	name=আর্চার;
+	description=বিমানধ্বংসী জাহাজ;
+	name-from=Archer;
+	description-from=Anti-Air Ship;
+	}
+[ARMACA]
+	{
+	name=উন্নত নির্মাণ বিমান;
+	description=টেক স্তর 2;
+	name-from=Adv. Construction Aircraft;
+	description-from=Tech Level 2;
+	}
+[ARMACK]
+	{
+	name=উন্নত নির্মাণ Kbot;
+	description=টেক স্তর 2;
+	name-from=Adv. Construction Kbot;
+	description-from=Tech Level 2;
+	}
+[ARMACSUB]
+	{
+	name=উন্নত নির্মাণ ডুবোজাহাজ;
+	description=টেক স্তর 2;
+	name-from=Advanced Construction Sub;
+	description-from=Tech Level 2;
+	}
+[ARMACV]
+	{
+	name=উন্নত নির্মাণ যান;
+	description=টেক স্তর 2;
+	name-from=Adv. Construction Vehicle;
+	description-from=Tech Level 2;
+	}
+[ARMAH]
+	{
+	name=সোয়াটার;
+	description=বিমানধ্বংসী হোভার;
+	name-from=Swatter;
+	description-from=Anti-Air Hovercraft;
+	}
+[ARMALAB]
+	{
+	name=উন্নত Kbot ল্যাব;
+	description=Kbot বানায়;
+	name-from=Adv. Kbot Lab;
+	description-from=Produces Kbots;
+	}
+[ARMAMB]
+	{
+	name=অ্যামবুশার;
+	description=ওঠা ভারী কামান;
+	name-from=Ambusher;
+	description-from=Pop-up Heavy Cannon;
+	}
+[ARMAMD]
+	{
+	name=প্রোটেক্টর;
+	description=মিসাইল প্রতিরক্ষা;
+	name-from=Protector;
+	description-from=Anti Missile Defense System;
+	}
+[ARMAMPH]
+	{
+	name=পেলিকান;
+	description=উভচর Kbot;
+	name-from=Pelican;
+	description-from=Amphibious Kbot;
+	}
+[ARMANAC]
+	{
+	name=অ্যানাকোন্ডা;
+	description=হোভার ট্যাংক;
+	name-from=Anaconda;
+	description-from=Hovertank;
+	}
+[ARMANNI]
+	{
+	name=অ্যানিহিলেটর;
+	description=শক্তি অস্ত্র;
+	name-from=Annihilator;
+	description-from=Energy weapon;
+	}
+[ARMAP]
+	{
+	name=বিমান কারখানা;
+	description=বিমান বানায়;
+	name-from=Aircraft Plant;
+	description-from=Produces Aircraft;
+	}
+[ARMARAD]
+	{
+	name=উন্নত রাডার টাওয়ার;
+	description=দূরপাল্লার রাডার টাওয়ার;
+	name-from=Advanced Radar Tower;
+	description-from=Long Range Radar Tower;
+	}
+[ARMASER]
+	{
+	name=ইরেজার;
+	description=রাডার জ্যামার;
+	name-from=Eraser;
+	description-from=Radar Jammer;
+	}
+[ARMASON]
+	{
+	name=উন্নত সোনার স্টেশন;
+	description=বর্ধিত সোনার;
+	name-from=Advanced Sonar Station;
+	description-from=Extended Sonar;
+	}
+[ARMASP]
+	{
+	name=বিমান মেরামত প্যাড;
+	description=নিজে বিমান সারায়;
+	name-from=Air Repair Pad;
+	description-from=Automatically repairs aircraft;
+	}
+[ARMASY]
+	{
+	name=উন্নত জাহাজঘাট;
+	description=জাহাজ বানায়;
+	name-from=Adv. Shipyard;
+	description-from=Produces Ships;
+	}
+[ARMATL]
+	{
+	name=উন্নত টর্পেডো নিক্ষেপক;
+	description=উন্নত টর্পেডো নিক্ষেপক;
+	name-from=Advanced Torpedo Launcher;
+	description-from=Advanced Torpedo Launcher;
+	}
+[ARMATLAS]
+	{
+	name=অ্যাটলাস;
+	description=আকাশ পরিবহন;
+	name-from=Atlas;
+	description-from=Air Transport;
+	}
+[ARMAVP]
+	{
+	name=উন্নত যান কারখানা;
+	description=যান বানায়;
+	name-from=Adv. Vehicle Plant;
+	description-from=Produces Vehicles;
+	}
+[ARMAWAC]
+	{
+	name=ঈগল;
+	description=রাডার বিমান;
+	name-from=Eagle;
+	description-from=Radar Plane;
+	}
+[ARMBATS]
+	{
+	name=মিলেনিয়াম;
+	description=যুদ্ধজাহাজ;
+	name-from=Millenium;
+	description-from=Battleship;
+	}
+[ARMBEAC]
+	{
+	name=ভিনগ্রহের বাতিঘর;
+	description=ভিনগ্রহের বাতিঘর;
+	name-from=Alien Beacon;
+	description-from=Alien Beacon;
+	}
+[ARMBRAWL]
+	{
+	name=ব্রলার;
+	description=গানশিপ;
+	name-from=Brawler;
+	description-from=Gunship;
+	}
+[ARMBRTHA]
+	{
+	name=বিগ বার্থা;
+	description=দূরপাল্লার প্লাজমা কামান;
+	name-from=Big Bertha;
+	description-from=Long Range Plasma Cannon;
+	}
+[ARMBULL]
+	{
+	name=বুলডগ;
+	description=ভারী আক্রমণ ট্যাংক;
+	name-from=Bulldog;
+	description-from=Heavy Assault Tank;
+	}
+[ARMCA]
+	{
+	name=নির্মাণ বিমান;
+	description=টেক স্তর 1;
+	name-from=Construction Aircraft;
+	description-from=Tech Level 1;
+	}
+[ARMCARRY]
+	{
+	name=কলোসাস;
+	description=হালকা ক্যারিয়ার;
+	name-from=Colossus;
+	description-from=Light Carrier;
+	}
+[ARMCH]
+	{
+	name=নির্মাণ হোভার;
+	description=টেক স্তর 1;
+	name-from=Construction Hovercraft;
+	description-from=Tech Level 1;
+	}
+[ARMCK]
+	{
+	name=নির্মাণ Kbot;
+	description=টেক স্তর 1;
+	name-from=Construction KBot;
+	description-from=Tech Level 1;
+	}
+[ARMCKFUS]
+	{
+	name=আড়াল ফিউশন চুল্লি;
+	description=শক্তি বানায়;
+	name-from=Cloakable Fusion Reactor;
+	description-from=Produces Energy;
+	}
+[ARMCOM]
+	{
+	name=কমান্ডার;
+	description=কমান্ডার;
+	name-from=Commander;
+	description-from=Commander;
+	}
+[ARMCROC]
+	{
+	name=ট্রাইটন;
+	description=উভচর ট্যাংক;
+	name-from=Triton;
+	description-from=Amphibious Tank;
+	}
+[ARMCRUS]
+	{
+	name=কনকারার;
+	description=ক্রুজার;
+	name-from=Conqueror;
+	description-from=Cruiser;
+	}
+[ARMCS]
+	{
+	name=নির্মাণ জাহাজ;
+	description=টেক স্তর 1;
+	name-from=Construction Ship;
+	description-from=Tech Level 1;
+	}
+[ARMCSA]
+	{
+	name=নির্মাণ জলবিমান;
+	description=টেক স্তর 1;
+	name-from=Construction Seaplane;
+	description-from=Tech Level 1;
+	}
+[ARMCV]
+	{
+	name=নির্মাণ যান;
+	description=টেক স্তর 1;
+	name-from=Construction Vehicle;
+	description-from=Tech Level 1;
+	}
+[ARMDECOM]
+	{
+	name=নকল কমান্ডার;
+	description=নকল কমান্ডার;
+	name-from=Decoy Commander;
+	description-from=Decoy Commander;
+	}
+[ARMDEV1]
+	{
+	name=অন্তর্মুখী বিস্ফোরণের যন্ত্র;
+	description=অন্তর্মুখী বিস্ফোরণের যন্ত্র;
+	name-from=Implosion Device;
+	description-from=Implosion Device;
+	}
+[ARMDRAG]
+	{
+	name=ড্রাগনের দাঁত;
+	description=ঘের প্রতিরক্ষা;
+	name-from=Dragon's Teeth;
+	description-from=Perimeter Defense;
+	}
+[ARMEMP]
+	{
+	name=স্টানার;
+	description=EMP মিসাইল নিক্ষেপক;
+	name-from=Stunner;
+	description-from=EMP Missile Launcher;
+	}
+[ARMESTOR]
+	{
+	name=শক্তির ভাণ্ডার;
+	description=শক্তির ভাণ্ডার বাড়ায়;
+	name-from=Energy Storage;
+	description-from=Increases Energy Storage;
+	}
+[ARMFARK]
+	{
+	name=FARK;
+	description=দ্রুত সাহায্য Kbot;
+	name-from=FARK;
+	description-from=Fast Assist-Repair Kbot;
+	}
+[ARMFAST]
+	{
+	name=জিপার;
+	description=দ্রুত আক্রমণ Kbot;
+	name-from=Zipper;
+	description-from=Fast Attack Kbot;
+	}
+[ARMFAV]
+	{
+	name=Jeffy;
+	description=দ্রুত আক্রমণ যান;
+	name-from=Jeffy;
+	description-from=Fast Attack Vehicle;
+	}
+[ARMFDRAG]
+	{
+	name=ভাসমান ড্রাগনের দাঁত;
+	description=ভাসমান ড্রাগনের দাঁত;
+	name-from=Floating Dragon's Teeth;
+	description-from=Floating Dragon's Teeth;
+	}
+[ARMFHLT]
+	{
+	name=স্টিংরে;
+	description=ভাসমান ভারী লেজার টাওয়ার;
+	name-from=Stingray;
+	description-from=Floating Heavy Laser Tower;
+	}
+[ARMFIDO]
+	{
+	name=Fido;
+	description=আক্রমণ Kbot;
+	name-from=Fido;
+	description-from=Assault Kbot;
+	}
+[ARMFIG]
+	{
+	name=ফ্রিডম ফাইটার;
+	description=ফাইটার;
+	name-from=Freedom Fighter;
+	description-from=Fighter;
+	}
+[ARMFLAK]
+	{
+	name=ফ্ল্যাকার;
+	description=বিমানধ্বংসী কামান;
+	name-from=Flakker;
+	description-from=Anti-Air Flak Gun;
+	}
+[ARMFLASH]
+	{
+	name=ফ্ল্যাশ;
+	description=দ্রুত আক্রমণ ট্যাংক;
+	name-from=Flash;
+	description-from=Fast Assault Tank;
+	}
+[ARMFLEA]
+	{
+	name=ফ্লি;
+	description=দ্রুত হালকা স্কাউট Kbot;
+	name-from=Flea;
+	description-from=Fast Light Scout Kbot;
+	}
+[ARMFMKR]
+	{
+	name=ভাসমান ধাতু কারক;
+	description=ভাসমান ধাতু কারক;
+	name-from=Floating Metal Maker;
+	description-from=Floating Metal Maker;
+	}
+[ARMFORT]
+	{
+	name=প্রাচীর;
+	description=ঘের প্রতিরক্ষা;
+	name-from=Fortification Wall;
+	description-from=Perimeter Defense;
+	}
+[ARMFRT]
+	{
+	name=ডিফেন্ডার - NS;
+	description=মিসাইল টাওয়ার - নৌ সিরিজ;
+	name-from=Defender - NS;
+	description-from=Missile Tower - Naval Series;
+	}
+[ARMFUS]
+	{
+	name=ফিউশন চুল্লি;
+	description=শক্তি বানায়;
+	name-from=Fusion Reactor;
+	description-from=Produces Energy;
+	}
+[ARMGATE]
+	{
+	name=ছায়াপথের ফটক;
+	description=মহাকাশ টেলিপোর্টার;
+	name-from=Galactic Gate;
+	description-from=Space Teleporter;
+	}
+[ARMGEO]
+	{
+	name=ভূতাপ বিদ্যুৎঘর;
+	description=শক্তি বানায়;
+	name-from=Geothermal Powerplant;
+	description-from=Produces Energy;
+	}
+[ARMGUARD]
+	{
+	name=গার্ডিয়ান;
+	description=প্লাজমা ব্যাটারি;
+	name-from=Guardian;
+	description-from=Plasma Battery;
+	}
+[ARMHAM]
+	{
+	name=হ্যামার;
+	description=কামান Kbot;
+	name-from=Hammer;
+	description-from=Artillery Kbot;
+	}
+[ARMHAWK]
+	{
+	name=হক;
+	description=গোপন ফাইটার;
+	name-from=Hawk;
+	description-from=Stealth Fighter;
+	}
+[ARMHLT]
+	{
+	name=সেন্টিনেল;
+	description=ভারী লেজার টাওয়ার;
+	name-from=Sentinel;
+	description-from=Heavy Laser Tower;
+	}
+[ARMHP]
+	{
+	name=হোভার প্ল্যাটফর্ম;
+	description=হোভার বানায়;
+	name-from=Hovercraft Platform;
+	description-from=Builds Hovercraft;
+	}
+[ARMJAM]
+	{
+	name=জ্যামার;
+	description=চলন্ত রাডার জ্যামার;
+	name-from=Jammer;
+	description-from=Mobile Radar Jammer;
+	}
+[ARMJETH]
+	{
+	name=Jethro;
+	description=বিমানধ্বংসী Kbot;
+	name-from=Jethro;
+	description-from=Anti-Air Kbot;
+	}
+[ARMLAB]
+	{
+	name=Kbot ল্যাব;
+	description=Kbot বানায়;
+	name-from=Kbot Lab;
+	description-from=Produces Kbots;
+	}
+[ARMLANCE]
+	{
+	name=ল্যানসেট;
+	description=টর্পেডো বোমারু;
+	name-from=Lancet;
+	description-from=Torpedo Bomber;
+	}
+[ARMLATNK]
+	{
+	name=প্যান্থার;
+	description=বজ্র ট্যাংক;
+	name-from=Panther;
+	description-from=Lightning Tank;
+	}
+[ARMLLT]
+	{
+	name=L.L.T.;
+	description=হালকা লেজার টাওয়ার;
+	name-from=L.L.T.;
+	description-from=Light Laser Tower;
+	}
+[ARMMAKR]
+	{
+	name=ধাতু কারক;
+	description=শক্তিকে ধাতু করে;
+	name-from=Metal Maker;
+	description-from=Converts Energy into Metal;
+	}
+[ARMMANNI]
+	{
+	name=পেনিট্রেটর;
+	description=চলন্ত শক্তি অস্ত্র;
+	name-from=Penetrator;
+	description-from=Mobile Energy Weapon;
+	}
+[ARMMARK]
+	{
+	name=Marky;
+	description=চলন্ত রাডার Kbot;
+	name-from=Marky;
+	description-from=Mobile Radar Kbot;
+	}
+[ARMMART]
+	{
+	name=Luger;
+	description=চলন্ত কামান;
+	name-from=Luger;
+	description-from=Mobile Artillery;
+	}
+[ARMMAV]
+	{
+	name=ম্যাভেরিক;
+	description=বন্দুক Kbot;
+	name-from=Maverick;
+	description-from=Gun-slinging Kbot;
+	}
+[ARMMERL]
+	{
+	name=Merl;
+	description=চলন্ত রকেট নিক্ষেপক;
+	name-from=Merl;
+	description-from=Mobile Rocket Launcher;
+	}
+[ARMMEX]
+	{
+	name=ধাতু খনন;
+	description=ধাতু তোলে;
+	name-from=Metal Extractor;
+	description-from=Extracts Metal;
+	}
+[ARMMH]
+	{
+	name=ওমব্যাট;
+	description=হোভার রকেট নিক্ষেপক;
+	name-from=Wombat;
+	description-from=Hovercraft Rocket Launcher;
+	}
+[ARMMINE1]
+	{
+	name=টাইনি;
+	description=কম ক্ষতি, মাঝারি পাল্লা;
+	name-from=Tiny;
+	description-from=Low Damage, Med. Range Mine;
+	}
+[ARMMINE2]
+	{
+	name=এলাকার মাইন;
+	description=কম ক্ষতি, বড় পাল্লা;
+	name-from=Area Mine;
+	description-from=Low Damage, Large Range Mine;
+	}
+[ARMMINE3]
+	{
+	name=নিশানার মাইন;
+	description=মাঝারি ক্ষতি, ছোট পাল্লা;
+	name-from=Focused Mine;
+	description-from=Med. Damage, Small Range Mine;
+	}
+[ARMMINE4]
+	{
+	name=বিস্ফোরক মাইন;
+	description=মাঝারি ক্ষতি, বড় পাল্লা;
+	name-from=HE Area Mine;
+	description-from=Med. Damage, Large Range Mine;
+	}
+[ARMMINE5]
+	{
+	name=নির্ভুল মাইন;
+	description=বেশি ক্ষতি, ছোট পাল্লা;
+	name-from=Precision Mine;
+	description-from=High Damage, Small Range Mine;
+	}
+[ARMMINE6]
+	{
+	name=পারমাণবিক মাইন;
+	description=পারমাণবিক মাইন;
+	name-from=Nuclear Mine;
+	description-from=Nuclear Mine;
+	}
+[ARMMLV]
+	{
+	name=Podger;
+	description=মাইন পাতার যান;
+	name-from=Podger;
+	description-from=Mine Layer Vehicle;
+	}
+[ARMMMKR]
+	{
+	name=Moho ধাতু কারক;
+	description=শক্তিকে ধাতু করে;
+	name-from=Moho Metal Maker;
+	description-from=Converts Energy into Metal;
+	}
+[ARMMOHO]
+	{
+	name=Moho খনন;
+	description=উন্নত ধাতু খনন;
+	name-from=Moho Mine;
+	description-from=Advanced Metal Extractor;
+	}
+[ARMMSHIP]
+	{
+	name=রেঞ্জার;
+	description=মিসাইল জাহাজ;
+	name-from=Ranger;
+	description-from=Missile Ship;
+	}
+[ARMMSTOR]
+	{
+	name=ধাতুর ভাণ্ডার;
+	description=ধাতুর ভাণ্ডার বাড়ায়;
+	name-from=Metal Storage;
+	description-from=Increases Metal Storage;
+	}
+[ARMPEEP]
+	{
+	name=পিপার;
+	description=আকাশ স্কাউট;
+	name-from=Peeper;
+	description-from=Air Scout;
+	}
+[ARMPLAT]
+	{
+	name=জলবিমান প্ল্যাটফর্ম;
+	description=জলবিমান বানায়;
+	name-from=Seaplane Platform;
+	description-from=Builds Seaplanes;
+	}
+[ARMPNIX]
+	{
+	name=ফিনিক্স;
+	description=বোমারু;
+	name-from=Phoenix;
+	description-from=Bomber;
+	}
+[ARMPT]
+	{
+	name=স্কিটার;
+	description=স্কাউট জাহাজ;
+	name-from=Skeeter;
+	description-from=Scout Ship;
+	}
+[ARMPW]
+	{
+	name=পিউই;
+	description=পদাতিক Kbot;
+	name-from=Peewee;
+	description-from=Infantry Kbot;
+	}
+[ARMRAD]
+	{
+	name=রাডার টাওয়ার;
+	description=রাডার টাওয়ার;
+	name-from=Radar Tower;
+	description-from=Radar Tower;
+	}
+[ARMRL]
+	{
+	name=ডিফেন্ডার;
+	description=মিসাইল টাওয়ার;
+	name-from=Defender;
+	description-from=Missile Tower;
+	}
+[ARMROCK]
+	{
+	name=Rocko;
+	description=রকেট Kbot;
+	name-from=Rocko;
+	description-from=Rocket Kbot;
+	}
+[ARMROY]
+	{
+	name=ক্রুসেডার;
+	description=ডেস্ট্রয়ার;
+	name-from=Crusader;
+	description-from=Destroyer;
+	}
+[ARMSAM]
+	{
+	name=Samson;
+	description=চলন্ত মিসাইল নিক্ষেপক;
+	name-from=Samson;
+	description-from=Mobile Missile Launcher;
+	}
+[ARMSCAB]
+	{
+	name=স্কারাব;
+	description=চলন্ত মিসাইল প্রতিরক্ষা;
+	name-from=Scarab;
+	description-from=Mobile Missile Defense;
+	}
+[ARMSCORP]
+	{
+	name=স্কর্পিয়ন;
+	description=স্থানীয় জীব;
+	name-from=Scorpion;
+	description-from=Indigenous Lifeform;
+	}
+[ARMSCRAM]
+	{
+	name=ফিবার;
+	description=সোনার জ্যামার ডুবোজাহাজ;
+	name-from=Fibber;
+	description-from=Sonar Jamming Sub;
+	}
+[ARMSEAP]
+	{
+	name=অ্যালবাট্রস;
+	description=টর্পেডো জলবিমান;
+	name-from=Albatross;
+	description-from=Torpedo Seaplane;
+	}
+[ARMSEER]
+	{
+	name=সিয়ার;
+	description=চলন্ত রাডার;
+	name-from=Seer;
+	description-from=Mobile Radar;
+	}
+[ARMSEHAK]
+	{
+	name=সিহক;
+	description=আকাশ সোনার;
+	name-from=Seahawk;
+	description-from=Airborne Sonar;
+	}
+[ARMSFIG]
+	{
+	name=টর্নেডো;
+	description=জলবিমান ফাইটার;
+	name-from=Tornado;
+	description-from=Seaplane Fighter;
+	}
+[ARMSH]
+	{
+	name=স্কিমার;
+	description=স্কাউট হোভার;
+	name-from=Skimmer;
+	description-from=Scout Hovercraft;
+	}
+[ARMSILO]
+	{
+	name=রিটালিয়েটর;
+	description=পারমাণবিক মিসাইল নিক্ষেপক;
+	name-from=Retaliator;
+	description-from=Nuclear Missile Launcher;
+	}
+[ARMSJAM]
+	{
+	name=এসকর্ট;
+	description=রাডার জ্যামার জাহাজ;
+	name-from=Escort;
+	description-from=Radar Jammer Ship;
+	}
+[ARMSNIPE]
+	{
+	name=শুটার;
+	description=স্নাইপার Kbot;
+	name-from=Shooter;
+	description-from=Sniper Kbot;
+	}
+[ARMSOLAR]
+	{
+	name=সৌর সংগ্রাহক;
+	description=শক্তি বানায়;
+	name-from=Solar Collector;
+	description-from=Produces Energy;
+	}
+[ARMSONAR]
+	{
+	name=সোনার স্টেশন;
+	description=পানির ইউনিট খুঁজে;
+	name-from=Sonar Station;
+	description-from=Locates Water Units;
+	}
+[ARMSPID]
+	{
+	name=স্পাইডার;
+	description=মাকড়সা আক্রমণ যান;
+	name-from=Spider;
+	description-from=Spider Assault Vehicle;
+	}
+[ARMSPY]
+	{
+	name=ইনফিলট্রেটর;
+	description=গুপ্তচর Kbot;
+	name-from=Infiltrator;
+	description-from=SPY Kbot;
+	}
+[ARMSS]
+	{
+	name=সি সার্পেন্ট;
+	description=স্থানীয় জীব;
+	name-from=Sea Serpent;
+	description-from=Indigenous Lifeform;
+	}
+[ARMSTUMP]
+	{
+	name=স্টাম্পি;
+	description=মাঝারি আক্রমণ ট্যাংক;
+	name-from=Stumpy;
+	description-from=Medium Assault Tank;
+	}
+[ARMSUB]
+	{
+	name=লার্কার;
+	description=ডুবোজাহাজ;
+	name-from=Lurker;
+	description-from=Submarine;
+	}
+[ARMSUBK]
+	{
+	name=পিরানহা;
+	description=ডুবোজাহাজ ঘাতক;
+	name-from=Piranha;
+	description-from=Submarine Killer;
+	}
+[ARMSY]
+	{
+	name=জাহাজঘাট;
+	description=জাহাজ বানায়;
+	name-from=Shipyard;
+	description-from=Produces Ships;
+	}
+[ARMTARG]
+	{
+	name=নিশানা কেন্দ্র;
+	description=স্বয়ংক্রিয় রাডার নিশানা;
+	name-from=Targeting Facility;
+	description-from=Automatic Radar Targeting;
+	}
+[ARMTHOVR]
+	{
+	name=বিয়ার;
+	description=পরিবহন হোভার;
+	name-from=Bear;
+	description-from=Transport Hovercraft;
+	}
+[ARMTHUND]
+	{
+	name=থান্ডার;
+	description=বোমারু;
+	name-from=Thunder;
+	description-from=Bomber;
+	}
+[ARMTIDE]
+	{
+	name=জোয়ার জেনারেটর;
+	description=শক্তি বানায়;
+	name-from=Tidal Generator;
+	description-from=Produces Energy;
+	}
+[ARMTL]
+	{
+	name=টর্পেডো নিক্ষেপক;
+	description=টর্পেডো নিক্ষেপক;
+	name-from=Torpedo Launcher;
+	description-from=Torpedo Launcher;
+	}
+[ARMTSHIP]
+	{
+	name=হাল্ক;
+	description=পরিবহন জাহাজ;
+	name-from=Hulk;
+	description-from=Transport Ship;
+	}
+[ARMUWES]
+	{
+	name=পানির নিচের শক্তির ভাণ্ডার;
+	description=শক্তির ভাণ্ডার বাড়ায়;
+	name-from=Underwater Energy Storage;
+	description-from=Increases Energy Storage;
+	}
+[ARMUWFUS]
+	{
+	name=পানির নিচের ফিউশন বিদ্যুৎঘর;
+	description=শক্তি বানায়;
+	name-from=Underwater Fusion Plant;
+	description-from=Produces Energy;
+	}
+[ARMUWMEX]
+	{
+	name=পানির নিচের ধাতু খনন;
+	description=ধাতু তোলে;
+	name-from=Underwater Metal Extractor;
+	description-from=Extracts Metal;
+	}
+[ARMUWMS]
+	{
+	name=পানির নিচের ধাতুর ভাণ্ডার;
+	description=ধাতুর ভাণ্ডার বাড়ায়;
+	name-from=Underwater Metal Storage;
+	description-from=Increases Metal Storage;
+	}
+[ARMVADER]
+	{
+	name=ইনভেডার;
+	description=হামাগুড়ি বোমা;
+	name-from=Invader;
+	description-from=Crawling Bomb;
+	}
+[ARMVP]
+	{
+	name=যান কারখানা;
+	description=যান বানায়;
+	name-from=Vehicle Plant;
+	description-from=Produces Vehicles;
+	}
+[ARMVULC]
+	{
+	name=ভালকান;
+	description=দ্রুত প্লাজমা কামান;
+	name-from=Vulcan;
+	description-from=Rapid Fire Plasma Cannon;
+	}
+[ARMWAR]
+	{
+	name=ওয়ারিয়র;
+	description=মাঝারি পদাতিক Kbot;
+	name-from=Warrior;
+	description-from=Medium Infantry Kbot;
+	}
+[ARMWIN]
+	{
+	name=বায়ু জেনারেটর;
+	description=শক্তি বানায়;
+	name-from=Wind Generator;
+	description-from=Produces Energy;
+	}
+[ARMYORK]
+	{
+	name=ফ্যালানক্স;
+	description=চলন্ত বিমানধ্বংসী যান;
+	name-from=Phalanx;
+	description-from=Mobile Flak Vehicle;
+	}
+[ARMZEUS]
+	{
+	name=জিউস;
+	description=আক্রমণ Kbot;
+	name-from=Zeus;
+	description-from=Assault Kbot;
+	}
+[CORAAP]
+	{
+	name=উন্নত বিমান কারখানা;
+	description=বিমান বানায়;
+	name-from=Adv. Aircraft Plant;
+	description-from=Produces Aircraft;
+	}
+[CORACA]
+	{
+	name=উন্নত নির্মাণ বিমান;
+	description=টেক স্তর 2;
+	name-from=Adv. Construction Aircraft;
+	description-from=Tech Level 2;
+	}
+[CORACK]
+	{
+	name=উন্নত নির্মাণ Kbot;
+	description=টেক স্তর 2;
+	name-from=Adv. Construction Kbot;
+	description-from=Tech Level 2;
+	}
+[CORACSUB]
+	{
+	name=উন্নত নির্মাণ ডুবোজাহাজ;
+	description=টেক স্তর 2;
+	name-from=Advanced Construction Sub;
+	description-from=Tech Level 2;
+	}
+[CORACV]
+	{
+	name=উন্নত নির্মাণ যান;
+	description=টেক স্তর 2;
+	name-from=Adv. Construction Vehicle;
+	description-from=Tech Level 2;
+	}
+[CORAH]
+	{
+	name=স্লিঙ্গার;
+	description=বিমানধ্বংসী হোভার;
+	name-from=Slinger;
+	description-from=Anti-Air Hovercraft;
+	}
+[CORAK]
+	{
+	name=A.K.;
+	description=পদাতিক Kbot;
+	name-from=A.K.;
+	description-from=Infantry Kbot;
+	}
+[CORALAB]
+	{
+	name=উন্নত Kbot ল্যাব;
+	description=Kbot বানায়;
+	name-from=Adv. Kbot Lab;
+	description-from=Produces Kbots;
+	}
+[CORAMPH]
+	{
+	name=গিম্প;
+	description=উভচর Kbot;
+	name-from=Gimp;
+	description-from=Amphibious Kbot;
+	}
+[CORAP]
+	{
+	name=বিমান কারখানা;
+	description=বিমান বানায়;
+	name-from=Aircraft Plant;
+	description-from=Produces Aircraft;
+	}
+[CORAPE]
+	{
+	name=রেপিয়ার;
+	description=গানশিপ;
+	name-from=Rapier;
+	description-from=Gunship;
+	}
+[CORARAD]
+	{
+	name=উন্নত রাডার টাওয়ার;
+	description=দূরপাল্লার রাডার;
+	name-from=Advanced Radar Tower;
+	description-from=Long Range Radar;
+	}
+[CORARCH]
+	{
+	name=শ্রেডার;
+	description=বিমানধ্বংসী জাহাজ;
+	name-from=Shredder;
+	description-from=Anti-Air Ship;
+	}
+[CORASON]
+	{
+	name=উন্নত সোনার স্টেশন;
+	description=পানির ইউনিট খুঁজে;
+	name-from=Advanced Sonar Station;
+	description-from=Locates Water Units;
+	}
+[CORASP]
+	{
+	name=বিমান মেরামত প্যাড;
+	description=নিজে বিমান সারায়;
+	name-from=Air Repair Pad;
+	description-from=Automatically repairs aircraft;
+	}
+[CORASY]
+	{
+	name=উন্নত জাহাজঘাট;
+	description=জাহাজ বানায়;
+	name-from=Adv. Shipyard;
+	description-from=Produces Ships;
+	}
+[CORATL]
+	{
+	name=উন্নত টর্পেডো নিক্ষেপক;
+	description=উন্নত টর্পেডো নিক্ষেপক;
+	name-from=Advanced Torpedo Launcher;
+	description-from=Advanced Torpedo Launcher;
+	}
+[CORAVP]
+	{
+	name=উন্নত যান কারখানা;
+	description=যান বানায়;
+	name-from=Adv. Vehicle Plant;
+	description-from=Produces Vehicles;
+	}
+[CORAWAC]
+	{
+	name=ভালচার;
+	description=রাডার বিমান;
+	name-from=Vulture;
+	description-from=Radar Plane;
+	}
+[CORBATS]
+	{
+	name=ওয়ারলর্ড;
+	description=যুদ্ধজাহাজ;
+	name-from=Warlord;
+	description-from=Battleship;
+	}
+[CORBEAC]
+	{
+	name=ভিনগ্রহের বাতিঘর;
+	description=ভিনগ্রহের বাতিঘর;
+	name-from=Alien Beacon;
+	description-from=Alien Beacon;
+	}
+[CORBUILD]
+	{
+	name=পানির কারখানা;
+	description=পানি বানায়;
+	name-from=Hydration Plant;
+	description-from=Creates Water;
+	}
+[CORBUZZ]
+	{
+	name=বাজস;
+	description=দ্রুত প্লাজমা কামান;
+	name-from=Buzzsaw;
+	description-from=Rapid Fire Plasma Cannon;
+	}
+[CORCA]
+	{
+	name=নির্মাণ বিমান;
+	description=টেক স্তর 1;
+	name-from=Construction Aircraft;
+	description-from=Tech Level 1;
+	}
+[CORCAN]
+	{
+	name=দ্য ক্যান;
+	description=বর্ম আক্রমণ Kbot;
+	name-from=The Can;
+	description-from=Armored Assault Kbot;
+	}
+[CORCARRY]
+	{
+	name=হাইভ;
+	description=হালকা ক্যারিয়ার;
+	name-from=Hive;
+	description-from=Light Carrier;
+	}
+[CORCH]
+	{
+	name=নির্মাণ হোভার;
+	description=টেক স্তর 1;
+	name-from=Construction Hovercraft;
+	description-from=Tech Level 1;
+	}
+[CORCK]
+	{
+	name=নির্মাণ Kbot;
+	description=টেক স্তর 1;
+	name-from=Construction Kbot;
+	description-from=Tech Level 1;
+	}
+[CORCKFUS]
+	{
+	name=আড়াল ফিউশন চুল্লি;
+	description=শক্তি বানায়;
+	name-from=Cloakable Fusion Reactor;
+	description-from=Produces Energy;
+	}
+[CORCOM]
+	{
+	name=কমান্ডার;
+	description=কমান্ডার;
+	name-from=Commander;
+	description-from=Commander;
+	}
+[CORCRASH]
+	{
+	name=ক্র্যাশার;
+	description=মিসাইল Kbot;
+	name-from=Crasher;
+	description-from=Missile Kbot;
+	}
+[CORCRUS]
+	{
+	name=এক্সিকিউশনার;
+	description=ক্রুজার;
+	name-from=Executioner;
+	description-from=Cruiser;
+	}
+[CORCS]
+	{
+	name=নির্মাণ জাহাজ;
+	description=টেক স্তর 1;
+	name-from=Construction Ship;
+	description-from=Tech Level 1;
+	}
+[CORCSA]
+	{
+	name=নির্মাণ জলবিমান;
+	description=টেক স্তর 1;
+	name-from=Construction Seaplane;
+	description-from=Tech Level 1;
+	}
+[CORCV]
+	{
+	name=নির্মাণ যান;
+	description=টেক স্তর 1;
+	name-from=Construction Vehicle;
+	description-from=Tech Level 1;
+	}
+[CORDECOM]
+	{
+	name=নকল কমান্ডার;
+	description=নকল কমান্ডার;
+	name-from=Decoy Commander;
+	description-from=Decoy Commander;
+	}
+[CORDEV1]
+	{
+	name=অন্তর্মুখী বিস্ফোরণের যন্ত্র;
+	description=অন্তর্মুখী বিস্ফোরণের যন্ত্র;
+	name-from=Implosion Device;
+	description-from=Implosion Device;
+	}
+[CORDOOM]
+	{
+	name=ডুমসডে মেশিন;
+	description=শক্তি অস্ত্র;
+	name-from=Doomsday Machine;
+	description-from=Energy Weapon;
+	}
+[CORDRAG]
+	{
+	name=ড্রাগনের দাঁত;
+	description=ঘের প্রতিরক্ষা;
+	name-from=Dragon's Teeth;
+	description-from=Perimeter Defense;
+	}
+[CORESTOR]
+	{
+	name=শক্তির ভাণ্ডার;
+	description=শক্তির ভাণ্ডার বাড়ায়;
+	name-from=Energy Storage;
+	description-from=Increases Energy Storage;
+	}
+[CORETER]
+	{
+	name=ডিলিটার;
+	description=চলন্ত রাডার জ্যামার;
+	name-from=Deleter;
+	description-from=Mobile Radar Jammer;
+	}
+[CORFAST]
+	{
+	name=ফ্রিকার;
+	description=দ্রুত আক্রমণ Kbot;
+	name-from=Freaker;
+	description-from=Fast Attack Kbot;
+	}
+[CORFAV]
+	{
+	name=উইজেল;
+	description=স্কাউট;
+	name-from=Weasel;
+	description-from=Scout;
+	}
+[CORFDRAG]
+	{
+	name=ভাসমান ড্রাগনের দাঁত;
+	description=ভাসমান ড্রাগনের দাঁত;
+	name-from=Floating Dragon's Teeth;
+	description-from=Floating Dragon's Teeth;
+	}
+[CORFHLT]
+	{
+	name=থান্ডারবোল্ট;
+	description=ভাসমান ভারী লেজার টাওয়ার;
+	name-from=Thunderbolt;
+	description-from=Floating Heavy Laser Tower;
+	}
+[CORFINK]
+	{
+	name=ফিঙ্ক;
+	description=আকাশ স্কাউট;
+	name-from=Fink;
+	description-from=Air Scout;
+	}
+[CORFLAK]
+	{
+	name=কোবরা;
+	description=বিমানধ্বংসী কামান;
+	name-from=Cobra;
+	description-from=Anti-Air Flak Gun;
+	}
+[CORFMD]
+	{
+	name=Fortitude মিসাইল প্রতিরক্ষা;
+	description=মিসাইল প্রতিরক্ষা;
+	name-from=Fortitude Missile Defense;
+	description-from=Anti Missile Defense System;
+	}
+[CORFMKR]
+	{
+	name=ভাসমান ধাতু কারক;
+	description=ভাসমান ধাতু কারক;
+	name-from=Floating Metal Maker;
+	description-from=Floating Metal Maker;
+	}
+[CORFORT]
+	{
+	name=প্রাচীর;
+	description=ঘের প্রতিরক্ষা;
+	name-from=Fortification Wall;
+	description-from=Perimeter Defense;
+	}
+[CORFRT]
+	{
+	name=স্টিঙ্গার;
+	description=মিসাইল টাওয়ার - নৌ সিরিজ;
+	name-from=Stinger;
+	description-from=Missile Tower - Naval Series;
+	}
+[CORFUS]
+	{
+	name=ফিউশন বিদ্যুৎঘর;
+	description=শক্তি বানায়;
+	name-from=Fusion Power Plant;
+	description-from=Produces Energy;
+	}
+[CORGANT]
+	{
+	name=Krogoth গ্যান্ট্রি;
+	description=Krogoth বানায়;
+	name-from=Krogoth Gantry;
+	description-from=Builds Krogoth;
+	}
+[CORGATE]
+	{
+	name=ছায়াপথের ফটক;
+	description=মহাকাশ টেলিপোর্টার;
+	name-from=Galactic Gate;
+	description-from=Space Teleporter;
+	}
+[CORGATOR]
+	{
+	name=ইনস্টিগেটর;
+	description=আক্রমণ ট্যাংক;
+	name-from=Instigator;
+	description-from=Assault Tank;
+	}
+[CORGEO]
+	{
+	name=ভূতাপ বিদ্যুৎঘর;
+	description=শক্তি বানায়;
+	name-from=Geothermal Powerplant;
+	description-from=Produces Energy;
+	}
+[CORGOL]
+	{
+	name=গোলায়েথ;
+	description=অতি ভারী আক্রমণ ট্যাংক;
+	name-from=Goliath;
+	description-from=Very Heavy Assault Tank;
+	}
+[CORHLT]
+	{
+	name=Gaat কামান;
+	description=ভারী লেজার টাওয়ার;
+	name-from=Gaat Gun;
+	description-from=Heavy Laser Tower;
+	}
+[CORHP]
+	{
+	name=হোভার প্ল্যাটফর্ম;
+	description=হোভার বানায়;
+	name-from=Hovercraft Platform;
+	description-from=Builds Hovercraft;
+	}
+[CORHRK]
+	{
+	name=ডমিনেটর;
+	description=ভারী রকেট Kbot;
+	name-from=Dominator;
+	description-from=Heavy Rocket Kbot;
+	}
+[CORHUNT]
+	{
+	name=হান্টার;
+	description=আকাশ সোনার;
+	name-from=Hunter;
+	description-from=Airborne Sonar;
+	}
+[CORHURC]
+	{
+	name=হারিকেন;
+	description=কৌশলগত বোমারু;
+	name-from=Hurricane;
+	description-from=Strategic Bomber;
+	}
+[CORINT]
+	{
+	name=ইন্টিমিডেটর;
+	description=দূরপাল্লার প্লাজমা কামান;
+	name-from=Intimidator;
+	description-from=Long Range Plasma Cannon;
+	}
+[CORKROG]
+	{
+	name=Krogoth;
+	description=পরীক্ষামূলক Kbot;
+	name-from=Krogoth;
+	description-from=Experimental Kbot;
+	}
+[CORLAB]
+	{
+	name=Kbot ল্যাব;
+	description=Kbot বানায়;
+	name-from=Kbot Lab;
+	description-from=Produces Kbots;
+	}
+[CORLEVLR]
+	{
+	name=লেভেলার;
+	description=দাঙ্গা ট্যাংক;
+	name-from=Leveler;
+	description-from=Riot Tank;
+	}
+[CORLLT]
+	{
+	name=হালকা লেজার টাওয়ার;
+	description=হালকা লেজার টাওয়ার;
+	name-from=Light Laser Tower;
+	description-from=Light Laser Tower;
+	}
+[CORMABM]
+	{
+	name=হেজহগ;
+	description=চলন্ত মিসাইল প্রতিরক্ষা;
+	name-from=Hedgehog;
+	description-from=Mobile Missile Defense;
+	}
+[CORMAKR]
+	{
+	name=ধাতু কারক;
+	description=ধাতু কারক;
+	name-from=Metal Maker;
+	description-from=Metal Maker;
+	}
+[CORMART]
+	{
+	name=চলন্ত কামান;
+	description=চলন্ত কামান;
+	name-from=Mobile Artillery;
+	description-from=Mobile Artillery;
+	}
+[CORMEX]
+	{
+	name=ধাতু খনন;
+	description=ধাতু তোলে;
+	name-from=Metal Extractor;
+	description-from=Extracts Metal;
+	}
+[CORMH]
+	{
+	name=Nixer;
+	description=হোভার রকেট নিক্ষেপক;
+	name-from=Nixer;
+	description-from=Hovercraft Rocket Launcher;
+	}
+[CORMINE1]
+	{
+	name=M-104;
+	description=কম ক্ষতি, মাঝারি পাল্লা;
+	name-from=M-104;
+	description-from=Low Damage, Med. Range Mine;
+	}
+[CORMINE2]
+	{
+	name=M-209;
+	description=কম ক্ষতি, বড় পাল্লা;
+	name-from=M-209;
+	description-from=Low Damage, Large Range Mine;
+	}
+[CORMINE3]
+	{
+	name=M-303;
+	description=মাঝারি ক্ষতি, মাঝারি পাল্লা;
+	name-from=M-303;
+	description-from=Med. Damage, Med. Range Mine;
+	}
+[CORMINE4]
+	{
+	name=M-420;
+	description=বেশি ক্ষতি, মাঝারি পাল্লা;
+	name-from=M-420;
+	description-from=High Damage, Med. Range Mine;
+	}
+[CORMINE5]
+	{
+	name=M-515;
+	description=বেশি ক্ষতি, বড় পাল্লা;
+	name-from=M-515;
+	description-from=High Damage, Large Range Mine;
+	}
+[CORMINE6]
+	{
+	name=M-610;
+	description=পারমাণবিক মাইন;
+	name-from=M-610;
+	description-from=Nuclear Mine;
+	}
+[CORMIST]
+	{
+	name=স্ল্যাশার;
+	description=মিসাইল নিক্ষেপক;
+	name-from=Slasher;
+	description-from=Missile Launcher;
+	}
+[CORMLV]
+	{
+	name=স্পয়লার;
+	description=মাইন পাতার যান;
+	name-from=Spoiler;
+	description-from=Mine Layer Vehicle;
+	}
+[CORMMKR]
+	{
+	name=Moho ধাতু কারক;
+	description=ধাতু বানায়;
+	name-from=Moho Metal Maker;
+	description-from=Produces Metal;
+	}
+[CORMOHO]
+	{
+	name=Moho খনন;
+	description=উন্নত ধাতু খনন;
+	name-from=Moho Mine;
+	description-from=Advanced Metal Extractor;
+	}
+[CORMORT]
+	{
+	name=Morty;
+	description=চলন্ত মর্টার Kbot;
+	name-from=Morty;
+	description-from=Mobile Mortar Kbot;
+	}
+[CORMSHIP]
+	{
+	name=মিসাইল ফ্রিগেট;
+	description=মিসাইল জাহাজ;
+	name-from=Missile Frigate;
+	description-from=Missile Ship;
+	}
+[CORMSTOR]
+	{
+	name=ধাতুর ভাণ্ডার;
+	description=ধাতুর ভাণ্ডার বাড়ায়;
+	name-from=Metal Storage;
+	description-from=Increases Metal Storage;
+	}
+[CORNECRO]
+	{
+	name=ফিরিয়ে আনা Kbot;
+	description=ফিরিয়ে আনা Kbot;
+	name-from=Resurrection Kbot;
+	description-from=Resurrection Kbot;
+	}
+[CORPLAS]
+	{
+	name=ইমোলেটর;
+	description=প্লাজমা টাওয়ার;
+	name-from=Immolator;
+	description-from=Plasma Tower;
+	}
+[CORPLAT]
+	{
+	name=জলবিমান প্ল্যাটফর্ম;
+	description=জলবিমান বানায়;
+	name-from=Seaplane Platform;
+	description-from=Builds Seaplanes;
+	}
+[CORPT]
+	{
+	name=সার্চার;
+	description=স্কাউট জাহাজ;
+	name-from=Searcher;
+	description-from=Scout Ship;
+	}
+[CORPUN]
+	{
+	name=পানিশার;
+	description=প্লাজমা ব্যাটারি;
+	name-from=Punisher;
+	description-from=Plasma Battery;
+	}
+[CORPYRO]
+	{
+	name=পাইরো;
+	description=আক্রমণ Kbot;
+	name-from=Pyro;
+	description-from=Assault Kbot;
+	}
+[CORRAD]
+	{
+	name=রাডার টাওয়ার;
+	description=রাডার টাওয়ার;
+	name-from=Radar Tower;
+	description-from=Radar Tower;
+	}
+[CORRAID]
+	{
+	name=রেইডার;
+	description=মাঝারি আক্রমণ ট্যাংক;
+	name-from=Raider;
+	description-from=Medium Assault Tank;
+	}
+[CORREAP]
+	{
+	name=রিপার;
+	description=ভারী আক্রমণ ট্যাংক;
+	name-from=Reaper;
+	description-from=Heavy Assault Tank;
+	}
+[CORRL]
+	{
+	name=পালভারাইজার;
+	description=মিসাইল টাওয়ার;
+	name-from=Pulverizer;
+	description-from=Missile Tower;
+	}
+[CORROACH]
+	{
+	name=রোচ;
+	description=হামাগুড়ি বোমা;
+	name-from=Roach;
+	description-from=Crawling Bomb;
+	}
+[CORROY]
+	{
+	name=এনফোর্সার;
+	description=ডেস্ট্রয়ার;
+	name-from=Enforcer;
+	description-from=Destroyer;
+	}
+[CORSCORP]
+	{
+	name=স্কর্পিয়ন;
+	description=স্থানীয় জীব;
+	name-from=Scorpion;
+	description-from=Indigenous Lifeform;
+	}
+[CORSEAL]
+	{
+	name=ক্রক;
+	description=উভচর ট্যাংক;
+	name-from=Crock;
+	description-from=Amphibious Tank;
+	}
+[CORSEAP]
+	{
+	name=টাইফুন;
+	description=টর্পেডো জলবিমান;
+	name-from=Typhoon;
+	description-from=Torpedo Seaplane;
+	}
+[CORSENT]
+	{
+	name=কপারহেড;
+	description=চলন্ত বিমানধ্বংসী যান;
+	name-from=Copperhead;
+	description-from=Mobile Flak Vehicle;
+	}
+[CORSFIG]
+	{
+	name=ভুডু;
+	description=জলবিমান ফাইটার;
+	name-from=Voodoo;
+	description-from=Seaplane Fighter;
+	}
+[CORSH]
+	{
+	name=স্ক্রাবার;
+	description=স্কাউট হোভার;
+	name-from=Scrubber;
+	description-from=Scout Hovercraft;
+	}
+[CORSHAD]
+	{
+	name=শ্যাডো;
+	description=বোমারু;
+	name-from=Shadow;
+	description-from=Bomber;
+	}
+[CORSHARK]
+	{
+	name=শার্ক;
+	description=ডুবোজাহাজ ঘাতক;
+	name-from=Shark;
+	description-from=Submarine Killer;
+	}
+[CORSILO]
+	{
+	name=সাইলেন্সার;
+	description=পারমাণবিক মিসাইল নিক্ষেপক;
+	name-from=Silencer;
+	description-from=Nuclear Missile Launcher;
+	}
+[CORSJAM]
+	{
+	name=ফ্যান্টম;
+	description=রাডার জ্যামার জাহাজ;
+	name-from=Phantom;
+	description-from=Radar Jammer Ship;
+	}
+[CORSNAP]
+	{
+	name=স্ন্যাপার;
+	description=হোভার ট্যাংক;
+	name-from=Snapper;
+	description-from=Hovertank;
+	}
+[CORSOLAR]
+	{
+	name=সৌর সংগ্রাহক;
+	description=শক্তি বানায়;
+	name-from=Solar Collector;
+	description-from=Produces Energy;
+	}
+[CORSONAR]
+	{
+	name=সোনার স্টেশন;
+	description=সোনার স্টেশন;
+	name-from=Sonar Station;
+	description-from=Sonar Station;
+	}
+[CORSPEC]
+	{
+	name=স্পেকটার;
+	description=রাডার জ্যামার;
+	name-from=Spectre;
+	description-from=Radar Jammer;
+	}
+[CORSPY]
+	{
+	name=প্যারাসাইট;
+	description=গুপ্তচর Kbot;
+	name-from=Parasite;
+	description-from=SPY Kbot;
+	}
+[CORSS]
+	{
+	name=সি সার্পেন্ট;
+	description=স্থানীয় জীব;
+	name-from=Sea Serpent;
+	description-from=Indigenous Lifeform;
+	}
+[CORSSUB]
+	{
+	name=লেভিয়াথান;
+	description=যুদ্ধ ডুবোজাহাজ;
+	name-from=Leviathan;
+	description-from=Battle Sub;
+	}
+[CORSTORM]
+	{
+	name=স্টর্ম;
+	description=রকেট Kbot;
+	name-from=Storm;
+	description-from=Rocket Kbot;
+	}
+[CORSUB]
+	{
+	name=স্নেক;
+	description=ডুবোজাহাজ;
+	name-from=Snake;
+	description-from=Submarine;
+	}
+[CORSUMO]
+	{
+	name=সুমো;
+	description=উন্নত বর্ম আক্রমণ Kbot;
+	name-from=Sumo;
+	description-from=Adv. Armored Assault Kbot;
+	}
+[CORSY]
+	{
+	name=জাহাজঘাট;
+	description=জাহাজ বানায়;
+	name-from=Shipyard;
+	description-from=Produces Ships;
+	}
+[CORTARG]
+	{
+	name=নিশানা কেন্দ্র;
+	description=স্বয়ংক্রিয় রাডার নিশানা;
+	name-from=Targeting Facility;
+	description-from=Automatic Radar Targeting;
+	}
+[CORTHOVR]
+	{
+	name=টার্টল;
+	description=পরিবহন হোভার;
+	name-from=Turtle;
+	description-from=Transport Hovercraft;
+	}
+[CORTHUD]
+	{
+	name=থাড;
+	description=কামান Kbot;
+	name-from=Thud;
+	description-from=Artillery Kbot;
+	}
+[CORTIDE]
+	{
+	name=জোয়ার জেনারেটর;
+	description=শক্তি বানায়;
+	name-from=Tidal Generator;
+	description-from=Produces Energy;
+	}
+[CORTITAN]
+	{
+	name=টাইটান;
+	description=টর্পেডো বোমারু;
+	name-from=Titan;
+	description-from=Torpedo Bomber;
+	}
+[CORTL]
+	{
+	name=টর্পেডো নিক্ষেপক;
+	description=টর্পেডো নিক্ষেপক;
+	name-from=Torpedo Launcher;
+	description-from=Torpedo Launcher;
+	}
+[CORTOAST]
+	{
+	name=টোস্টার;
+	description=ওঠা ভারী কামান;
+	name-from=Toaster;
+	description-from=Pop-up Heavy Cannon;
+	}
+[CORTRON]
+	{
+	name=নিউট্রন;
+	description=নিউট্রন মিসাইল নিক্ষেপক;
+	name-from=Neutron;
+	description-from=Neutron Missile Launcher;
+	}
+[CORTRUCK]
+	{
+	name=ট্রাক;
+	description=স্থল পরিবহন;
+	name-from=Truck;
+	description-from=Ground Transport;
+	}
+[CORTSHIP]
+	{
+	name=এনভয়;
+	description=পরিবহন জাহাজ;
+	name-from=Envoy;
+	description-from=Transport Ship;
+	}
+[CORUWES]
+	{
+	name=পানির নিচের শক্তির ভাণ্ডার;
+	description=শক্তির ভাণ্ডার বাড়ায়;
+	name-from=Underwater Energy Storage;
+	description-from=Increases Energy Storage;
+	}
+[CORUWFUS]
+	{
+	name=পানির নিচের ফিউশন বিদ্যুৎঘর;
+	description=শক্তি বানায়;
+	name-from=Underwater Fusion Plant;
+	description-from=Produces Energy;
+	}
+[CORUWMEX]
+	{
+	name=পানির নিচের ধাতু খনন;
+	description=ধাতু তোলে;
+	name-from=Underwater Metal Extractor;
+	description-from=Extracts Metal;
+	}
+[CORUWMS]
+	{
+	name=পানির নিচের ধাতুর ভাণ্ডার;
+	description=ধাতুর ভাণ্ডার বাড়ায়;
+	name-from=Underwater Metal Storage;
+	description-from=Increases Metal Storage;
+	}
+[CORVALK]
+	{
+	name=ভালকিরি;
+	description=আকাশ পরিবহন;
+	name-from=Valkyrie;
+	description-from=Air Transport;
+	}
+[CORVAMP]
+	{
+	name=ভ্যাম্প;
+	description=গোপন ফাইটার;
+	name-from=Vamp;
+	description-from=Stealth Fighter;
+	}
+[CORVENG]
+	{
+	name=অ্যাভেঞ্জার;
+	description=ফাইটার;
+	name-from=Avenger;
+	description-from=Fighter;
+	}
+[CORVIPE]
+	{
+	name=ভাইপার;
+	description=ওঠা ভারী লেজার;
+	name-from=Viper;
+	description-from=Pop-Up Heavy Laser;
+	}
+[CORVOYR]
+	{
+	name=ভয়েয়ার;
+	description=চলন্ত রাডার Kbot;
+	name-from=Voyeur;
+	description-from=Mobile Radar Kbot;
+	}
+[CORVP]
+	{
+	name=যান কারখানা;
+	description=যান বানায়;
+	name-from=Vehicle Plant;
+	description-from=Produces Vehicles;
+	}
+[CORVRAD]
+	{
+	name=ইনফর্মার;
+	description=চলন্ত রাডার;
+	name-from=Informer;
+	description-from=Mobile Radar;
+	}
+[CORVROC]
+	{
+	name=ডিপ্লোম্যাট;
+	description=চলন্ত রকেট নিক্ষেপক;
+	name-from=Diplomat;
+	description-from=Mobile Rocket Launcher;
+	}
+[CORWIN]
+	{
+	name=বায়ু জেনারেটর;
+	description=শক্তি বানায়;
+	name-from=Wind Generator;
+	description-from=Produces Energy;
+	}

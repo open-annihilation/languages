@@ -1,0 +1,24 @@
+# SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+# SPDX-License-Identifier: GPL-3.0-only
+
+# Bengali, built by tools/build.py (README.md). Bengali's letters join,
+# stack and reorder, which side-by-side drawing cannot do, so the pack
+# needs shaping (a build that shapes offers it, and one that does not
+# does not). The letters come from the pack's own face, Noto Sans Bengali
+# Bold cut to the Bengali block with its shaping tables kept
+# (fonts/README.md). The sans faces that travel with the game draw Latin.
+oalang: 1
+tag: bn
+name: বাংলা
+english-name: Bengali
+word: Bengali
+version: "1"
+locales: [bn, bn-BD, bn-IN]
+fallbacks: []
+text: {needs: shaping}
+unicode: true
+fonts: [{file: NotoSansBengali-Bold.ttf, role: letters}]
+warmup: warmup.txt
+packaging: {revision: 1, date: 2026-11-05, packager: open-annihilation/languages tools/build.py}
+homepage: https://github.com/open-annihilation/languages
+requires: {engine: ">= 0.8.0"}

@@ -50,8 +50,16 @@ class Game:
         for sub in ("data", "user"):
             (run / sub).mkdir(parents=True, exist_ok=True)
         prefs = run / "prefs.conf"
-        prefs.write_text("open-annihilation-preferences 1\n"
-                         f'"open-annihilation.language" "{language}"\n', encoding="utf-8")
+        # A named preferences file leaves modern fonts off. A language whose
+        # needs is modern-fonts turns them on itself. A shaping language
+        # does not, and its letters are boxes until the modern stack is on,
+        # so the pictures ask for it.
+        lines = ["open-annihilation-preferences 1",
+                 f'"open-annihilation.language" "{language}"']
+        manifest = ROOT / language / "language.yaml"
+        if manifest.is_file() and "needs: shaping" in manifest.read_text(encoding="utf-8"):
+            lines.append('"open-annihilation.modern-fonts" "1"')
+        prefs.write_text("\n".join(lines) + "\n", encoding="utf-8")
         self.endpoint = run / "automation.json"
         if self.endpoint.exists():
             self.endpoint.unlink()

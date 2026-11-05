@@ -1,0 +1,70 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+
+// Captions drawn over the player's own pictures while Bengali is shown
+// (src/present/include/oa/present/picture_captions.hpp). A picture left
+// out here, or a section with no keys, keeps its art.
+
+// The order buttons. A caption is drawn at the largest size that fits its
+// button. Bengali conjuncts are wide, so the words stay short.
+[commongui.gaf]
+{
+    [ARMATTACK] { text=আক্র.; }
+    [CORATTACK] { text=আক্র.; }
+    [ARMMOVE] { text=চল; }
+    [CORMOVE] { text=চল; }
+    [ARMSTOP] { text=থাম; }
+    [CORSTOP] { text=থাম; }
+    [ARMPATROL] { text=টহল; }
+    [CORPATROL] { text=টহল; }
+    [ARMDEFEND] { text=রক্ষা; }
+    [CORDEFEND] { text=রক্ষা; }
+    [ARMRECLAIM] { text=উদ্ধার; }
+    [CORRECLAIM] { text=উদ্ধার; }
+    [ARMREPAIR] { text=সারাও; }
+    [CORREPAIR] { text=সারাও; }
+    [ARMCAPTURE] { text=দখল; }
+    [CORCAPTURE] { text=দখল; }
+    [ARMLOAD] { text=তোল; }
+    [CORLOAD] { text=তোল; }
+    [ARMUNLOAD] { text=নামাও; }
+    [CORUNLOAD] { text=নামাও; }
+    [ARMORDERS] { text=আদেশ; }
+    [CORORDERS] { text=আদেশ; }
+    [ARMBUILD] { text=বানাও; }
+    [CORBUILD] { text=বানাও; }
+    [ARMBLAST] { text=D-GUN; }
+    [CORBLAST] { text=D-GUN; }
+
+    // The toggles: one caption per state, then the button's name; their
+    // lights stay at the right.
+    [ARMFIREORD] { text=বন্ধ|ফিরতি|যেকোনো|আগুন; area=3,2,95,16; align=left; }
+    [CORFIREORD] { text=বন্ধ|ফিরতি|যেকোনো|আগুন; area=3,2,95,16; align=left; }
+    [ARMMOVEORD] { text=স্থির|চাল|ঘুর|চলা; area=3,2,95,16; align=left; }
+    [CORMOVEORD] { text=স্থির|চাল|ঘুর|চলা; area=3,2,95,16; align=left; }
+    [ARMONOFF] { text=বন্ধ|চালু|বিদ্যুৎ; area=3,2,95,16; align=left; }
+    [CORONOFF] { text=বন্ধ|চালু|বিদ্যুৎ; area=3,2,95,16; align=left; }
+    [ARMCLOAK] { text=দেখা|আড়াল|আড়াল; area=3,2,95,16; align=left; }
+    [CORCLOAK] { text=দেখা|আড়াল|আড়াল; area=3,2,95,16; align=left; }
+    [ARMACTIVATE] { text=সক্রিয়|নিষ্ক্রিয়; area=3,2,95,16; align=left; }
+    [CORACTIVATE] { text=সক্রিয়|নিষ্ক্রিয়; area=3,2,95,16; align=left; }
+}
+
+// The top bar's METAL and ENERGY.
+[armint.gaf/PANELTOP] { text=ধাতু|শক্তি; area=36,4,48,17|285,4,56,17; }
+[corint.gaf/PANELTOP] { text=ধাতু|শক্তি; area=34,8,48,13|285,8,52,13; }
+
+// The titles over the battlefield.
+[igtitles.gaf]
+{
+    [igpaused] { text=থাম; }
+    [igvictory] { text=জয়!; }
+    [igdefeat] { text=হার; }
+}
+
+// The load dialog's title.
+[loadgame.gaf/LoadGame] { text=খোলো; }
+
+// The save and load dialogs' titles, painted into their backgrounds.
+[dsavegame2.pcx] { text=গেম সেভ; area=64,31,168,27; }
+[dloadgame2.pcx] { text=গেম খোলো; area=61,32,166,27; }
