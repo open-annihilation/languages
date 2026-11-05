@@ -1,0 +1,13 @@
+MISJA 3.0003ARME
+Zabezpiecz jednostki Pająk. &YJeden Pająk musi przetrwać.& Sprowadź jeden czołg Pająk do swojej bazy.
+
+PRIORYTET 1
+Grupę eksperymentalnych pojazdów szturmowych Pająk odcięto za liniami wroga. Pająki mają skuteczną broń paraliżującą, ale liczą na to, że twoje jednostki utorują im drogę. Broń paraliżująca Pająka i jego lepsza technologia nie mogą wpaść w ręce CORE.
+
+MELDUNEK
+CORE ma liczne patrole szukające Pająków. Szybko zbuduj bazę i zabezpiecz czołg Pająk.
+
+&GTechnologia odzysku przyspiesza pozyskiwanie energii i metalu.&
+
+
+KONIEC

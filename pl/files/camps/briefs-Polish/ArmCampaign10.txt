@@ -1,0 +1,10 @@
+MISJA 10.0002ARMT
+Zniszcz wszystkie jednostki i budynki CORE.
+
+&YPRIORYTET&
+Stanowiska CORE okopane w nawiewanej wiatrem formacji zwanej Labiryntem Bromid trzeba zniszczyć, aby zabezpieczyć Tergiverse IV.
+
+MELDUNEK
+Zespół zwiadowczy Suwaków odcięto na zachodzie. Uratuj zespół, jeśli zdołasz. Ich broń i szybkość przydadzą się w tej misji. Jeśli zdołasz przejąć jednostkę CORE i ją przesłuchać, jej wiedza stanie się twoją wiedzą. W Labiryncie szczególnie się to przyda.
+
+KONIEC

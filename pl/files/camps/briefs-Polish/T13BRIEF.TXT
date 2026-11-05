@@ -1,0 +1,13 @@
+Misja T13: Starcie na Morzu Koralowym
+
+CORE buduje silną flotę na morzach Rashak IV. Znamy przybliżone położenie ich głównych stoczni.
+
+Zniszcz wrogą flotę i wszystkie stocznie.
+
+Sugestie:
+Trzymaj duże okręty razem i pilnuj, by nie przestawały prowadzić ognia. Lotniskowiec ma radar, który pomoże koordynować ataki.
+
+Taktyka bitwy:
+CTRL+W zaznacza wszystkie jednostki z bronią (poza Dowódcą).
+
+Aby zaznaczyć wszystkie jednostki jednego typu, zaznacz jedną (na przykład niszczyciel) i naciśnij CTRL+Z. Zaznaczą się wszystkie niszczyciele.

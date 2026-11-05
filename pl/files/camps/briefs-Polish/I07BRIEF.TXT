@@ -1,0 +1,12 @@
+Misja I07: Baza Solidspire
+
+ARM zbudował dużą bazę energii wśród Wysp Solidspire. Nie znaleźliśmy ich reaktorów fuzyjnych z maskowaniem i nie wiemy nawet, ile ich jest.
+
+Rozpocznij amfibijny desant na wyspy. Wszystkie elektrownie fuzyjne trzeba zniszczyć, żeby wyłączyć obronę ARM na pobliskiej wyspie i pozwolić naszym siłom łatwo wylądować.
+
+Sugestie:
+Trzymaj siły razem i w szyku. Ważne, by okręty osłaniały się nawzajem i nie zostawiały luk.
+
+
+Taktyka bitwy:
+Bombowce torpedowe Tytan bardzo skutecznie niszczą okręty podwodne. Jednostkami z sonarem wskazuj cele bombowcom. Sonar mają Dowódca, krążownik Kat, niszczyciel Egzekutor i wszystkie okręty podwodne. Gdy klikniesz jednostkę z sonarem, na mapie radaru pojawi się zielone koło oznaczające zasięg sonaru.

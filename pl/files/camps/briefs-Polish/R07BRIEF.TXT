@@ -1,0 +1,13 @@
+Misja R07: Przejmij bazę Hanan
+
+&RNajwyższy priorytet&
+Nasze szturmy na Skorupę 12 idą źle. Postanowiono, że trzeba sparaliżować gospodarkę CORE.
+
+Przejmij albo zniszcz bazę Hanan, która leży gdzieś na północ od twojej pozycji. Przetrwaj kontrataki przez 40 minut i zniszcz wszystkie mobilne jednostki wroga.
+
+Sugestie:
+Atakuj natychmiast, zanim wróg wzmocni obronę. Przejmij jak najwięcej budynków.
+CORE ma tu wiele samolotów. Buduj Obrońców i inną obronę przeciwlotniczą.
+
+Taktyka bitwy:
+Przejęte jednostki i przejęte fabryki mają ustawione Bez ognia, więc po przejęciu zmień rozkazy stałe jednostki. Wszystkie jednostki budowane przez fabrykę dostaną jej rozkazy.

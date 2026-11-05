@@ -1,0 +1,14 @@
+Misja R09: Równina zalewowa Retorb
+
+&YPriorytet pierwszy&
+Zapotrzebowanie na energię w tym regionie jest krytyczne.
+
+Zbuduj Elektrownię geotermalną na równinie zalewowej Retorb. Spodziewaj się, że ARM będzie cię nękał i opóźniał drobnymi atakami. Masz dziewięć minut, by ukończyć tę misję.
+Sugestie:
+Zanim zaczniesz stawiać Elektrownię geotermalną, możesz potrzebować trochę obrony. Dalekosiężne Rębacze trzymaj w środku bazy, a czołgi wzdłuż obrzeża.
+
+
+
+
+Taktyka bitwy:
+Użyj tego kodu, by śledzić czas gry. Naciśnij Enter, by włączyć pasek wiadomości u dołu ekranu. Potem wpisz '+clock', by wywołać zegar gry w lewym dolnym rogu głównej mapy.

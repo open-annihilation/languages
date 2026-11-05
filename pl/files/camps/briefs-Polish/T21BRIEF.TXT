@@ -1,0 +1,13 @@
+Misja T21: Atak Suwaków
+
+Gorący punkt Harrison leży na Empyrrean i jest geotermalnie czynny. CORE ma tu dużą, słabo bronioną bazę, bo dotąd nikt nie rzucał mu w tej okolicy wyzwania.
+
+Wprowadź oddział Suwaków do błyskawicznego uderzenia i bij w ich zasilanie. Za wszelką cenę zniszcz wszystkie elektrownie geotermalne i elektrownie fuzyjne.
+
+Sugestie:
+Nie próbuj niszczyć linii obrony CORE. Przemknij obok i uderzaj dalej, w bardziej odsłonięte miejsca. Uważaj. Na tyłach krążą patrole i stoją fabryki. Nie daj się odciągnąć od celów misji.
+
+
+
+Taktyka bitwy:
+Gdy gra już trwa, naciśnij klawisz ENTER i wpisz w wierszu wiadomości „+shootall”, jeśli jednostki mają same brać na cel budynki. Suwaki są lekko opancerzone, więc nie trzymaj ich zbyt wiele przy elektrowni fuzyjnej w chwili wybuchu.

@@ -1,0 +1,14 @@
+Misja T37: Wzlot Zastraszacza
+
+Uparty ARM wciąż się opiera, choć warunki kapitulacji były więcej niż uczciwe. Zapłaci za swój upór. W nadchodzącej bitwie użyjemy jednej z rozstrzygających przewag. Nasze działo plazmowe Zastraszacz ma zasięg o 25% większy niż Gruba Berta ARM.
+
+&RZbuduj Zastraszacza na zachodzie.& To pozwoli wybić siły ARM na płaskowyżu Hasfap bez wejścia pod ogień odpowiedzi i w praktyce zlikwidować ostatni wrogi ośrodek produkcji samolotów w okolicy.
+
+ARM ma linię smoczych zębów z północy na południe. Na zachód od tych umocnień, przy dużym skupisku iglic, leży mała baza. Jeszcze dalej na zachód jest zakład nawadniania ARM. Zbuduj Zastraszacza przy zakładzie nawadniania.
+
+Sugestie:
+Koniecznie zbuduj jednostki przeciwlotnicze, bo ARM ma w okolicy bazę lotniczą.
+
+Teren zdobywaj dużymi, uporządkowanymi szturmami, a nie ciągłym strumieniem jednostek. Przed każdym szturmem daj czas na naprawę i zebranie jednostek.
+Taktyka bitwy:
+Naciśnij CTRL+F, aby zaznaczyć wszystkie fabryki. Potem każ wszystkim fabrykom wysyłać nowe jednostki w ten sam punkt zbiórki przy froncie.

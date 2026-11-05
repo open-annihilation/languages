@@ -1,0 +1,11 @@
+MISJA 21.1CORE
+
+PODSŁUCH:
+Aegus to księżyc Empyrrean. Posłuży za idealną bazę wypadową do ostatniego szturmu na planetę macierzystą ARM. Niska grawitacja księżyca oraz brak atmosfery i mórz czynią z tego misję jednostek lądowych. Brama Galaktyczna ARM jest kluczowa dla inwazji na Empyrrean.
+
+&RPrzejmij Bramę ARM.&
+
+&R*OSTRZEŻENIE*OSTRZEŻENIE*OSTRZEŻENIE*&
+&RARM uruchomił sekwencję implozji ostatniej Bramy. Przejmij Bramę, zanim imploduje.&
+
+ZRÓB TO TERAZ.

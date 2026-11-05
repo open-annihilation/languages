@@ -1,0 +1,8 @@
+MISJA 20.4CORE
+
+PODSŁUCH:
+Czujniki wskazują Bramę ARM na skalnym występie na północy. Konsensus: Brama prowadzi do układu Empyrrean. Przejmij Bramę.
+
+&RPrzejmij Bramę ARM.&
+
+ZRÓB TO TERAZ.

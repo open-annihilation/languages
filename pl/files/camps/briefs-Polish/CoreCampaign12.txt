@@ -1,0 +1,8 @@
+MISJA 12.4CORE
+
+PODSŁUCH:
+Dane z przejętego Zeusa wskazują, że na wyspie na północy jest Brama Galaktyczna. Zaprowadź Zeusa do Bramy, a potem ją przejmij. Bez Zeusa Brama jest dla nas bezużyteczna.
+
+&RDostarcz Zeusa do Bramy Galaktycznej. Przejmij Bramę Galaktyczną.&
+
+ZRÓB TO TERAZ.

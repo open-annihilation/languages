@@ -1,0 +1,13 @@
+MISJA 6.0001ARMTH
+Zabezpiecz przyczółek na Thalassean. Załóż bazę, zbuduj stocznię i zniszcz wszystkie jednostki CORE w okolicy.
+
+&Y*PRIORYTET KRYTYCZNY*&
+Thalassean leży między CORE a Empyrrean. Musisz zabezpieczyć Thalassean dla ARM.
+
+MELDUNEK
+&ROSTRZEŻENIE! OSTRZEŻENIE! OSTRZEŻENIE!&
+Spodziewaj się uzbrojonych wart po stronie Bramy na Thalassean! Bądź gotów do natychmiastowej obrony.
+
+Choć przy przejściu przez Bramę możesz mieć element zaskoczenia, CORE szybko się zbierze. &GPrzygotuj obronę jak najszybciej.&
+
+KONIEC

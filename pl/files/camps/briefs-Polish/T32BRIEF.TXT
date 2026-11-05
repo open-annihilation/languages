@@ -1,0 +1,11 @@
+Misja T32: Wyprawa przez dżunglę
+
+Nasze Kboty budowlane zostały zaatakowane przez oddział weteranów, Buldogów i Zeusów ARM, podczas zwiadu poza Bazą Dżunglową Osiem.
+
+Kontynuuj rozbudowę Bazy Dżunglowej Osiem i zlikwiduj obecność ARM.
+
+Sugestie:
+Zbuduj lekkie umocnienia jednostkami budowlanymi, aby opóźnić wroga, aż powstaną posiłki.
+
+Taktyka bitwy:
+Jeśli na początku tempo gry jest za szybkie, zmniejsz prędkość gry klawiszem minus (-). Klawisz plus (+) zwiększa prędkość gry.

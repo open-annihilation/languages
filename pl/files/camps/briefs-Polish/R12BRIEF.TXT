@@ -1,0 +1,15 @@
+Misja R12: Pościg
+
+CORE rozbił nasze działania w bazaltowej niecce zalewowej „Morze Rozpaczy”.
+
+Weź jednostki, które ocaleją, i załóż bazę, gdzie zdołasz. Zniszcz wszystkie wrogie czołgi.
+Sugestie:
+Wiele twoich jednostek jest uszkodzonych. Jeśli zdołasz, napraw je, zanim wyślesz je do walki.
+
+Wróg ma wojska w okolicy, ale na początku spodziewaj się ciężkich szturmów z północnego wschodu.
+Taktyka bitwy:
+Początek tej bitwy może wymagać szybkiego odwrotu. Użyj Ctrl+A, by zaznaczyć wszystkie jednostki, i wydaj im rozkaz RUCH.
+
+Jednostka budowlana patrolująca obszar sama naprawi ranne jednostki, które napotka.
+
+Na tym świecie bez atmosfery nie ma lotnictwa.

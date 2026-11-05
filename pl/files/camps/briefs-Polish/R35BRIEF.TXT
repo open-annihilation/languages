@@ -1,0 +1,10 @@
+Misja R35: Budowa w lesie deszczowym
+
+ARM nie spodziewał się twojego przybycia i wprowadził na teren tylko lekką zasłonę jednostek. Rozbuduj nasze zapasy energii i zniszcz wszystkie siły wroga, na jakie trafisz.
+
+Znajdź ujście pary gdzieś na południe od rzeki Snake's Spine i zbuduj tam elektrownię geotermalną.
+Sugestie:
+Musisz zbudować fabrykę, by powstała jednostka budowlana zdolna postawić elektrownię geotermalną. W tej samej fabryce buduj jednostki przeciwlotnicze. W okolicy widziano wrogie lotnictwo.
+
+Taktyka bitwy:
+Zaznacz wszystkie samoloty skrótem CTRL+V (zaznacza wszystkie samoloty pionowego startu).

@@ -1,0 +1,11 @@
+Misja T33: Osłabianie Wysp Yrdac
+
+Połączona baza lotnicza i morska na Wyspach Yrdac odparła już trzy ataki. Uważa się, że naukowiec ARM wprowadził innowację w elektrowni geotermalnej tej bazy, bo stoi ona z dala od zwykłych źródeł geotermalnych. Zamiast ostrzału pociskami jądrowymi zburz Bazę Yrdac osobiście.
+Zniszcz wszystkie ekstraktory metalu i kopalnie Moho oraz przejmij elektrownię geotermalną w północnej części mapy.
+
+Sugestie:
+Poprzednie szturmy zniszczyły większość ciężkich dział, więc Baza Yrdac powinna paść pod ostrzałem z morza. Użyj Kapusiów, aby wskazywać cele swoim okrętom.
+Taktyka bitwy:
+Naciśnij klawisz ENTER, potem wpisz „+shootall” w wierszu wiadomości. Jednostki będą wtedy same namierzać budynki oraz wrogie jednostki. Wpisz kod ponownie, aby wyłączyć to ustawienie.
+
+Często naprawiaj uszkodzone jednostki. Jednostka budowlana ustawiona na patrol sama naprawi każdą uszkodzoną sojuszniczą jednostkę w pobliżu.

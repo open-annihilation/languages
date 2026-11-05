@@ -1,0 +1,8 @@
+MISJA 25.4CORE
+
+PODSŁUCH:
+Ostatnia misja. ARM zepchnięto w pagórki do ostatniego oporu. Dowódca ARM będzie przy swoich jednostkach. Zniszcz i jego.
+
+&RZniszcz ARM.&
+
+ZRÓB TO TERAZ.

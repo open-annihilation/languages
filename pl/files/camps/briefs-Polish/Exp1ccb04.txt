@@ -1,0 +1,13 @@
+MISJA 4.1LCORE
+ARM trzyma Hydross, ale to nieważne. Latarni i tak tam nie było. Czujniki wskazują, że może być na Lusch. Trzeba przeszukać planetę i trzymać ARM na dystans.
+
+PODSŁUCH:
+ARM szuka Dowódcy i latarni. Zatrzymaj ich, zanim zdobędą przyczółek na tym świecie.
+
+ARM przystosował jednostki do tego świata. Spodziewaj się oporu poduszkowców ARM i amfibijnych Kbotów.
+
+CORE też opracował technologię poduszkowców. &RUżyj jej, żeby zniszczyć ARM.&
+
+Aby ukończyć tę misję, musisz &Rzbudować platformę poduszkowców i zniszczyć wszystkie jednostki ARM.&
+
+ZRÓB TO TERAZ.

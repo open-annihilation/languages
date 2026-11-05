@@ -1,0 +1,9 @@
+Misja T08: Oczyszczenie z Berty
+
+Męty ARM postawiły stanowisko Grubej Berty. Gdy je zniszczysz, siły ARM będą zmuszone do odwrotu. Oczyść sektor Core Prime 9387 ze wszystkich dalekonośnych dział Grubej Berty.
+
+Sugestie:
+Dyplomatami i mobilnymi radarami atakuj stałą obronę z daleka. Utrzymuj jednostki w ruchu.
+
+Taktyka bitwy:
+CTRL+Z zaznacza wszystkie jednostki tego samego typu. Na przykład zaznacz Żniwiarza (ciężki czołg), a potem CTRL+Z zaznaczy pozostałe Żniwiarze.

@@ -1,0 +1,8 @@
+Misja T10: Bombowce we mgle
+
+Wprowadź 1075. skrzydło w odsłonięty rejon wroga i zamień zaplecze produkcji w gruzy. Zniszcz wszystkie laboratoria Kbotów i fabryki samolotów. Jeśli nie ukończysz misji w dziesięć minut, nie ukończysz jej wcale.
+Sugestie:
+Tak planuj kierunek nalotów, by omijać znaną obronę przeciwlotniczą.
+
+Taktyka bitwy:
+Wpisz „+clock” na pasku wiadomości, aby w dolnym lewym rogu ekranu pokazać czas, który upłynął w grze. Wpisz ten kod ponownie, by ukryć zegar.

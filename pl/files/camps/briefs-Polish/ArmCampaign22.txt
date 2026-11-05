@@ -1,0 +1,10 @@
+MISJA 22.002ARMCP
+Zniszcz skład energii.
+
+&YPRIORYTET&
+CORE ma ogromny kompleks energetyczny przy współrzędnych 6551:447. Tam jest duża część mocy, od której zależy obrona planety macierzystej CORE. Musimy &Rzniszczyć ten skład energii&. Jest nadzieja, że zniszczenie tego kompleksu osłabi Centralną Świadomość CORE dość, by ARM zwyciężył.
+
+MELDUNEK
+Skład energii to liczne budynki pozyskujące i magazynujące energię za kanałami ściekowymi na północy. Przepraw się przez kanały i zniszcz je wszystkie.
+
+KONIEC

@@ -1,0 +1,11 @@
+Misja T11: Pojedynek nad Głębią Grantham
+
+Musimy zdobyć przewagę w powietrzu nad bezkresnymi mgłami Głębi Grantham.
+
+Zniszcz wszystkie wrogie jednostki.
+
+Sugestie:
+Wampiry są najskuteczniejsze w walce powietrznej, gdy mogą swobodnie manewrować.
+
+Taktyka bitwy:
+Aby śledzić ruchy samolotu, zaznacz jednostkę i naciśnij T. Przyciskiem rozkazów stałych każ samolotowi ścigać wroga (zaznacz samolot, potem kliknij przycisk Manewr, by przełączyć rozkazy na Luźny ruch).

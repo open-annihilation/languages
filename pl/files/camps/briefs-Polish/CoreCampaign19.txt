@@ -1,0 +1,8 @@
+MISJA 19.3CORE
+
+PODSŁUCH:
+ARM zebrał ogromną flotę przy Atolu Vebreen. Flota idzie na północ. Wyspa leżąca wprost na jej kursie posłuży za bazę operacyjną. Jeśli którykolwiek wrogi okręt znajdzie się na północ od równoleżnika 72, zawiodłeś, Dowódco. Nie zawiedź.
+
+&RZatrzymaj flotę ARM.&
+
+ZRÓB TO TERAZ.

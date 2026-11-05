@@ -1,0 +1,11 @@
+MISJA 6.3LCORE
+Przechwycony podsłuch potwierdza, że latarnia jest u ARM! Musimy mu ją odebrać, inaczej plan przepadł!
+
+PODSŁUCH:
+Wskazania mówią, że ARM dobrze strzeże latarni. Musisz przełamać obronę i przejąć latarnię. Nie niszcz latarni. Ma zostać cała, inaczej na nic się nam nie zda.
+
+&RPrzejmij latarnię!&
+
+Aby ukończyć tę misję, musisz przejąć latarnię oraz zniszczyć wszystkie jednostki ARM i Skorpiony.
+
+ZRÓB TO TERAZ.

@@ -1,0 +1,16 @@
+Misja T15: Bój o Bród Wayneston
+
+CORE próbuje rozbudować niewielką bazę koło Portu Wayneston.
+
+Przepraw się przez rzekę przy Brodzie Wayneston i zniszcz ich bazę. Koniecznie zniszcz ich produkcję energii i magazyny energii.
+
+Twoja nanotokarka jest uszkodzona. W tej bitwie nie zbudujesz jednostek.
+
+Sugestie:
+Wybierz miejsce przeprawy i atakuj bez zwłoki. Siły CORE właśnie stawiają mocniejszą obronę. Działo dezintegrujące oczyści skupiska wrogich jednostek.
+
+Taktyka bitwy:
+Naciśnij CTRL+C, by zaznaczyć Dowódcę. Przejęte kolektory słoneczne dadzą dość energii, by często strzelać z D-Gun. (Przycisk PRZEJ. jest w menu rozkazów Dowódcy.)
+
+Aby przejąć jednostkę, przejdź do menu rozkazów Dowódcy (możesz nacisnąć O na klawiaturze), kliknij przycisk PRZEJ. (albo klawisz skrótu C) i kliknij jednostkę, którą chcesz przejąć.
+Możesz przejąć dowolną wrogą jednostkę i użyć jej przeciwko wrogowi. Pamiętaj, że podczas przejmowania Dowódca jest wystawiony na ataki.

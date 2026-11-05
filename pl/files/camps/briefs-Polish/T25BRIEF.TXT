@@ -1,0 +1,15 @@
+Misja T25: Wzgórze Strażnika
+
+Natarcie ARM na północ przez przedgórze gór Webster zostało wreszcie zatrzymane. Po zaciętej bitwie ARM nie przekroczył rzeki Dalok. Strażnicy zbudowani na wysokościach na południe od brodu zdławili jednak nasze kontrnatarcia. „Wzgórze Strażnika” panuje nad rejonem. Wywiad wskazuje, że po jego zajęciu ARM pójdzie w ogólny odwrót.
+
+Przepraw się przez bród i zbuduj Karzącego na szczycie Wzgórza Strażnika. Na tę misję masz tylko 50 minut. Jesteś pilnie potrzebny gdzie indziej.
+
+Sugestie:
+Nie atakuj małymi grupami. Uderzaj dużymi i wycofuj siły, gdy uznasz, że więcej już nie osiągniesz.
+Rozbuduj gospodarkę, korzystając z zasobów na zdobytych terenach. Zbuduj kilka fabryk, bo do tej bitwy potrzeba wielu jednostek.
+
+Taktyka bitwy:
+Rozkaz RUCH dany fabrykom mówi produkowanym jednostkom, dokąd iść. Zaznacz fabrykę, naciśnij przycisk RUCH, a potem kliknij punkt docelowy jednostek.
+
+Przytrzymanie klawisza SHIFT pozwala dać fabryce kilka rozkazów RUCH z rzędu. Nowe jednostki przejdą przez każdy punkt trasy w drodze do końcowego
+celu.

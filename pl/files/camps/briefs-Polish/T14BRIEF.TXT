@@ -1,0 +1,12 @@
+Misja T14: Polowanie nad Nhanons
+
+Sądzimy, że CORE założył bazę lotniczą na północ od rzeki Nhanons. Odszukaj tę bazę i zniszcz ją.
+
+Przeprowadź oddział Kbotów przez bród i zniszcz Zaaw. fabrykę samolotów CORE.
+
+Sugestie:
+Rozstaw jednostki przeciwlotnicze tak, by biły pod różnymi kątami. Wzrosną szanse trafienia, a straty od wrogiego lotnictwa spadną.
+Taktyka bitwy:
+Kboty budowlane potrafią naprawiać uszkodzone jednostki. Aby zrobić to szybko, zaznacz jednostkę budowlaną, naciśnij M, a potem kliknij lewym przyciskiem uszkodzoną jednostkę do naprawy.
+
+Jeśli używasz interfejsu prawego przycisku, zaznacz jednostkę budowlaną i kliknij prawym przyciskiem uszkodzoną jednostkę.

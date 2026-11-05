@@ -1,0 +1,8 @@
+MISJA 18.CORE
+
+PODSŁUCH:
+ARM kontroluje tę część Nigh Pilago. Sieć wież laserowych w tym rejonie stała się problemem. Wieże zasila jedna elektrownia fuzyjna w uśpionym wulkanie na północy. ARM sądzi, że ma nieprzeniknioną sieć ochrony. Analiza wykazuje, że przez sieć jest droga. Znajdź bezpieczną ścieżkę na wyspę i wyślij bombowce, by zniszczyć elektrownię fuzyjną.
+
+&RZniszcz elektrownię fuzyjną.&
+
+ZRÓB TO TERAZ.

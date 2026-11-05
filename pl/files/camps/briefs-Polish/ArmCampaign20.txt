@@ -1,0 +1,10 @@
+MISJA 20.001ARMD
+Zniszcz dozorców i wciąż działające jednostki CORE oraz zabezpiecz Dump dla ARM.
+
+&YPRIORYTET&
+Dump, jedyny księżyc Core Prime. Zniszcz wszystkie jednostki, które znajdziesz na Dump. Stąd zaczniemy inwazję na planetę macierzystą CORE.
+
+MELDUNEK
+Na Dump nie ma atmosfery ani wody. Dlatego jednostki powietrzne nie mogą latać, a jednostki morskie są tu bezużyteczne. To misja lądowa, Dowódco. Dump służył też za składowisko uszkodzonych i zniszczonych odpadów z eonów wojennego wysiłku CORE. &GOdzyskaj metal&, który leży porozrzucany, i buduj z niego jednostki ARM przeciw CORE.
+
+KONIEC

@@ -1,0 +1,11 @@
+Misja T27: Inwazja na Destral II
+
+ARM zdołał zgromadzić na południu silne lotnictwo i flotę.
+
+Zniszcz wszystkie elektrownie geotermalne ARM i Zaaw. stocznie. Na misję masz jedną godzinę.
+
+Sugestie:
+Strategowie uznali, że możliwy jest desant na bazę morską transportami powietrznymi Walkiria albo desant amfibijny na bazę lotniczą transportami Poseł.
+
+Taktyka bitwy:
+Naciśnij ENTER i wpisz „+sing” w wierszu wiadomości. Przy każdym ruchu jednostki zaśpiewają. Wpisz „+sing” ponownie, aby zatrzymać chór. To kod bez wartości taktycznej, ale dotrzyma ci towarzystwa w tej dłuższej misji.

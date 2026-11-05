@@ -1,0 +1,14 @@
+Misja R33: Las deszczowy Yollets
+
+Głęboko w lesie deszczowym Yollets wróg atakuje, by opanować pobliskie złoża rudy.
+
+Zniszcz siły uderzeniowe ARM.
+
+&RUwaga:& Twoje laboratorium Kbotów jest uszkodzone i nie zbuduje Kbotów budowlanych. Aby ukończyć tę misję, musisz je ochronić.
+
+Sugestie:
+Ataki będą niemal bez przerwy, więc buduj tyle jednostek, ile zdołasz. Trzymaj kilku zwiadowców przed siłami głównymi, by przyjąć ataki ARM, gdziekolwiek padną.
+
+
+Taktyka bitwy:
+Przytrzymanie klawisza SHIFT przy klikaniu w menu budowy fabryki ustawia w kolejce pięć jednostek naraz.

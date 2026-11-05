@@ -1,0 +1,8 @@
+Misja R14: Niespodzianka na Labrodorite
+
+Wrogiego Dowódcę dostrzeżono wśród wojsk ARM na bogatej w minerały równinie Labrodorite. Znajdź i zniszcz Dowódcę ARM. Nie pozwól żadnej jednostce ARM uciec na zachód.
+
+Sugestie:
+Uważaj na obronę ARM na północnym wschodzie.
+Taktyka bitwy:
+Szukając wrogiego Dowódcy, użyj patrolu po okręgu. Zaznacz jedną albo więcej jednostek, kliknij przycisk PATROL, a potem, trzymając klawisz Shift, kliknij przy każdym rogu mapy radaru. Tak ustawisz trasę patrolu wzdłuż całego obwodu mapy.

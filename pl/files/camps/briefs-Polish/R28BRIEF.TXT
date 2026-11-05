@@ -1,0 +1,19 @@
+Misja R28: Nów
+
+Kierujemy cię na księżyc Novespin IV, z którego ARM czerpie główne zapasy metalu. Szybko załóż bazę, zanim wykryją twoją obecność i rozpoczną duży atak.
+
+Poza samym przetrwaniem masz rozkaz zniszczyć wszystkie wrogie laboratoria Kbotów.
+&RPrzez trzynaście dni nie da się wysłać posiłków na Novespin IV, więc atak poprowadzisz sam.&
+
+Sugestie:
+Szybko rozbuduj gospodarkę. Przygotuj się na odparcie upartego kontrataku ARM. Twoja jedyna przewaga: ARM potrzebuje kilku minut, by przerzucić zasoby i zacząć budowę jednostek bojowych.
+
+Novespin IV ma tylko śladową atmosferę. Nie zbudujesz żadnych samolotów.
+
+Pilnuj gospodarki energią, zwłaszcza gdy przejmiesz kopalnie Moho. Wymagają ogromnej mocy.
+
+
+Taktyka bitwy:
+Żółty pasek u góry ekranu pokazuje, ile energii jest w magazynie. Zielone liczby po prawej stronie paska energii pokazują przychód energii na każdą sekundę gry. Czerwone liczby pokazują koszt energii na każdą sekundę gry.
+
+Energia jest potrzebna do budowy, do zasilania sił i do strzału z D-Gun, więc miej dość źródeł, by utrzymać gospodarkę. Przy strzale z D-Gun trzymaj zapas energii. Użyj klawisza X, by włączać i wyłączać zaznaczone kopalnie Moho.

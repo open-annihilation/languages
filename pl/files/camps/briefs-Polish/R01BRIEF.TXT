@@ -1,0 +1,18 @@
+Misja R01: Baza ogniowa
+
+ARM zbudował bazę ogniową na niskim wzgórzu tuż na zachód od naszej obecnej pozycji. Stoją już trzy Grube Berty i groźny labirynt Smoczych zębów.
+
+Zniszcz wszystkie wrogie Grube Berty w centrum.
+
+Sugestie:
+Pierwszy cel to przebicie drogi przez Smocze zęby. Zniszczysz je ciężkim ogniem albo odzyskasz pojazdami budowlanymi.
+
+Szczątki jednostek zatarasują drogę. Rozbij je albo odzyskaj, żeby oczyścić przejście.
+
+
+Taktyka bitwy:
+Żeby rozbić Smocze zęby, zaznacz kilka Goliatów albo inne jednostki z ciężkimi działami i naciśnij klawisz 'A', by wywołać kursor ataku. Kilka ciężko uzbrojonych jednostek strzelających naraz szybko zniszczy wrogie umocnienia.
+
+Żeby odzyskać te umocnienia, zaznacz Pojazd budowlany i ustaw kursor na Smoczych zębach. Strzałka sama zmieni się w kursor odzysku. Kliknij umocnienie, by odzyskać jego metal.
+
+Przytrzymanie klawisza Shift pozwala ustawić w kolejce kilka rozkazów odzysku.

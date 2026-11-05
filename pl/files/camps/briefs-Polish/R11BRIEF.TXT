@@ -1,0 +1,13 @@
+Misja R11: Odcięcie w sektorze 6895
+
+&YAlarm&
+To pułapka! CORE odciął cię od głównych sił i zbliża się, by dobić. Wysyłamy pomoc, transport powietrzny Atlas, który wyląduje w południowo-wschodnim narożniku sektora 6895, ale jest o dziesięć minut drogi.
+
+Przetrwaj do przylotu transportu powietrznego, potem uciekaj do południowego skraju mapy.
+
+Sugestie:
+Zbuduj małą bazę, żeby przetrwać. Wypatruj transportu powietrznego na południowym wschodzie. Nie dopuść do zniszczenia Atlasa.
+
+Taktyka bitwy:
+Żeby załadować Dowódcę do transportu powietrznego, zaznacz transport i kliknij jego przycisk ZAŁAD. Potem kliknij Dowódcę.
+Jeśli jakikolwiek transport zostanie zniszczony, zginą też wszystkie jednostki, które wiezie.

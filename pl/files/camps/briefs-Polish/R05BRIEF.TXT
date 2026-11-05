@@ -1,0 +1,18 @@
+Misja R05: Z wyspy na wyspę
+
+&YAlarm!&
+Nasza baza na wyspie jest pod atakiem flotylli morskiej CORE, a flota obronna jest zaangażowana gdzie indziej. Cel jest jasny: pozbawić nas możliwości wojny morskiej.
+Zniszcz nadciągającą flotę i ocal nasze Stocznie.
+
+Notatka: Okolica naszych wysp jest dobrze zbadana. Sonar i radar pomogą namierzyć wroga.
+
+
+Sugestie:
+Okrętami budowlanymi odzyskaj jak najwięcej metalu.
+
+Gdy atakujesz wroga, ruszaj silnymi grupami, a nie pojedynczymi jednostkami.
+
+Taktyka bitwy:
+Żeby szybko znaleźć fabryki, naciśnij Ctrl+F, by je zaznaczyć, a potem śledź je klawiszem T.
+
+Żeby zaznaczyć wszystkie jednostki bojowe (oprócz Dowódcy), naciśnij Ctrl+W (jednostki bojowe).

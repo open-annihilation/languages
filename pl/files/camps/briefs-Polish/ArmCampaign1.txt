@@ -1,0 +1,10 @@
+MISJA 1.0001ARME
+Wystaw ochronę wokół Bramy Galaktycznej.
+
+&Y*PRIORYTET KRYTYCZNY*&
+Agenci CORE jakimś sposobem przełamali naszą obronę i są na Empyrrean. Co gorsza, Dowódcy nie ma na planecie, a CORE czeka w zasadzce przy Bramie, przez którą musi wrócić. Poprowadź swoje jednostki do Bramy i zabezpiecz ją. Nasz Dowódca musi wrócić cały, inaczej jesteśmy straceni.
+
+MELDUNEK
+Brama leży w kraterze na północy. &RSpodziewaj się patroli CORE.&
+
+KONIEC
