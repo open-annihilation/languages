@@ -1,0 +1,13 @@
+MISJA 1.1HCORE
+Wykryto nas! Robactwo ARM dokonało desantu na Hydross.
+
+PODSŁUCH:
+ARM szuka Dowódcy i latarni. Trzeba ich zatrzymać, zanim zdobędą przyczółek w tym układzie. Musimy zdążyć znaleźć latarnię i złożyć urządzenie implozyjne. Zatrzymaj ich tutaj.
+
+Na Hydross jest forma życia, która będzie zawadą. Zniszcz ją.
+
+&RZniszcz wszystkie jednostki ARM.&
+
+Aby ukończyć tę misję, musisz zniszczyć wszystkie jednostki ARM i wszystkie formy życia.
+
+ZRÓB TO TERAZ.

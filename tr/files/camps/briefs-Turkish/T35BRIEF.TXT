@@ -1,0 +1,12 @@
+Misyon T35: Caranat fethi
+
+İSTİHBARAT:
+Bir ARM Glş. Kbot laboratuvarını ele geçirmek ARM direnişini iyice zayıflatır. Nehagoba Çölü'nün güneybatısındaki bir tepede böyle bir laboratuvar saptandı.
+
+Bu Glş. Kbot laboratuvarını ele geçir, sonra laboratuvarı kullanarak bir Glş. inşaat Kbotu üret ve bir ARM Moho madeni inşa et.
+
+Öneriler:
+Komutanın D-Gun'una yetecek enerjiyi sağlamak için en az iki güneş toplayıcı inşa etmek ya da ele geçirmek son derece önemli. Moho madenini bitirmek için gereken ek metali kazanmak üzere kayaları ve enkazı geri alabilirsin.
+
+Savaş taktikleri:
+Etkin olarak birim üreten bir fabrikayı ele geçirirken binanın kenarına tıkla, ortasına değil. Böylece inşa halindeki birimi ele geçirmeye kalkışıp başarısız olmazsın.

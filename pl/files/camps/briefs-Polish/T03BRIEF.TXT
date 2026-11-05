@@ -1,0 +1,12 @@
+Misja T03: Szturm Puszek
+
+&RAlarm!&
+Zwiadowcy wykryli silne zgrupowanie Puszek CORE. Nie pozwól Puszkom zniszczyć reaktora fuzyjnego.
+
+Sugestie:
+Masz trzy Kboty budowlane. Użyj ich mądrze. Jeśli się da, buduj jednostki o dalekim zasięgu ognia.
+
+Taktyka bitwy:
+Aby Kbot budowlany postawił kilka budynków, przytrzymaj klawisz SHIFT przy stawianiu budynku. Nie puszczaj SHIFT, gdy wydajesz kolejne rozkazy. Kbot budowlany wykona polecenia w podanej kolejności.
+
+Gdy przytrzymasz SHIFT przy zaznaczonej jednostce budowlanej, na terenie pojawią się kwadraty. Zielone kwadraty to budynki, które ma postawić zaznaczona teraz jednostka. Niebieskie kwadraty pokazują rozkazy budowy innych jednostek budowlanych.

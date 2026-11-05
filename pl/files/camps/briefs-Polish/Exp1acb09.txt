@@ -1,0 +1,14 @@
+MISJA 9.003ARMT
+Na północy jest baza CORE, ostatnia placówka CORE na Temblor. Jeśli nie ma tam Dowódcy CORE ani latarni, muszą być na Gelidus. Trzeba tu skończyć jak najszybciej.
+
+&Y*PRIORYTET KRYTYCZNY*&
+Ścigaliśmy ostatnie jednostki CORE aż do ich fortecy. Jeśli Dowódca CORE jest wśród nich, tym lepiej... ale obawiamy się, że już opuścił planetę...
+
+MELDUNEK
+&GPOSTĘP TECHNICZNY:& Dostępny jest nowy ośrodek namierzania SI. W połączeniu z zaawansowanym radarem jest bardzo skuteczny, bo twoje jednostki same namierzają wroga przez radar.
+
+&ROSTRZEŻENIE!& Ośrodek namierzania zużywa ogromną ilość energii. Wyłącz go, dopóki nie masz dość energii.
+
+Aby ukończyć misję, musisz zniszczyć wszystkie jednostki CORE.
+
+KONIEC

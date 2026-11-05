@@ -1,0 +1,706 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Turkish mission names, keyed by the mission file the campaign
+// lists. A campaign's "N: " prefix is kept as it is.
+
+[EXP1AC01.ota]
+	{
+	missionname=1: Hydross - Arayış başlıyor!;
+	}
+[EXP1AC02.ota]
+	{
+	missionname=2: Atolu emniyete al;
+	}
+[EXP1AC03.ota]
+	{
+	missionname=3: CORE'u batır;
+	}
+[EXP1AC04.ota]
+	{
+	missionname=4: Lusch - Hoverkraft teknolojisi;
+	}
+[EXP1AC05.ota]
+	{
+	missionname=5: Batak ve bataklık içinden;
+	}
+[EXP1AC06.ota]
+	{
+	missionname=6: Fener;
+	}
+[EXP1AC07.ota]
+	{
+	missionname=7: Temblor - Deprem!;
+	}
+[EXP1AC08.ota]
+	{
+	missionname=8: İki ateş arasında;
+	}
+[EXP1AC09.ota]
+	{
+	missionname=9: ARM sarsıyor - CORE titriyor;
+	}
+[EXP1AC10.ota]
+	{
+	missionname=10: Gelidus - Soğuk karşılama;
+	}
+[EXP1AC11.ota]
+	{
+	missionname=11: Buz akıntısına uy;
+	}
+[EXP1AC12.ota]
+	{
+	missionname=12: Bir galaksinin kurtuluşu;
+	}
+[AC01.ota]
+	{
+	missionname=1: Kahraman dönüyor;
+	}
+[AC02.ota]
+	{
+	missionname=2: CORE Kbot üssünü yok et!;
+	}
+[AC03.ota]
+	{
+	missionname=3: Spider teknolojisi;
+	}
+[AC04.ota]
+	{
+	missionname=4: CORE bulaşması yayılıyor...;
+	}
+[AC05.ota]
+	{
+	missionname=5: Thalassean Kapısı;
+	}
+[AC06.ota]
+	{
+	missionname=6: Thalassean'da köprübaşı;
+	}
+[AC07.ota]
+	{
+	missionname=7: Larab limanı savunması;
+	}
+[AC08.ota]
+	{
+	missionname=8: Tergiverse IV Kapısı;
+	}
+[AC09.ota]
+	{
+	missionname=9: Hidrasyon santrali;
+	}
+[AC10.ota]
+	{
+	missionname=10: Bromid labirenti;
+	}
+[AC11.ota]
+	{
+	missionname=11: Barathrum Kapısı;
+	}
+[AC12.ota]
+	{
+	missionname=12: Barathrum!;
+	}
+[AC13.ota]
+	{
+	missionname=13: Landown arayüzü;
+	}
+[AC14.ota]
+	{
+	missionname=14: Sıcaklık yükseliyor;
+	}
+[AC15.ota]
+	{
+	missionname=15: Rougpelt;
+	}
+[AC16.ota]
+	{
+	missionname=16: Payandadaki yığın.;
+	}
+[AC17.ota]
+	{
+	missionname=17: Brooban adası kalesi;
+	}
+[AC18.ota]
+	{
+	missionname=18: İntikam!;
+	}
+[AC19.ota]
+	{
+	missionname=19: Motien rampası;
+	}
+[AC20.ota]
+	{
+	missionname=20: Çöplük;
+	}
+[AC21.ota]
+	{
+	missionname=21: CORE Prime'a hoş geldin;
+	}
+[AC22.ota]
+	{
+	missionname=22: Koordinat 6551:447 savaşı;
+	}
+[AC23.ota]
+	{
+	missionname=23: Su kütlesi 397 geçişi;
+	}
+[AC24.ota]
+	{
+	missionname=24: Merkezi Bilinç'e yarma;
+	}
+[AC25.ota]
+	{
+	missionname=25: CORE Prime kıyameti. Sonunda özgür!;
+	}
+[Com Pattern Five.ota]
+	{
+	missionname=İletişim deseni beş;
+	}
+[Steel Stronghold.ota]
+	{
+	missionname=Çelik hisar;
+	}
+[Thermal Exchange Causeway.ota]
+	{
+	missionname=Isı değişimi geçidi;
+	}
+[Crossing the Long Lakes.ota]
+	{
+	missionname=Uzun göller geçişi;
+	}
+[Capture Hanan Base.ota]
+	{
+	missionname=Hanan üssünü ele geçir;
+	}
+[Lipar Pass.ota]
+	{
+	missionname=Lipar geçidi;
+	}
+[Ice Base Assault.ota]
+	{
+	missionname=Buz üssü taarruzu;
+	}
+[Pursuit.ota]
+	{
+	missionname=Takip;
+	}
+[Backs to the Sea.ota]
+	{
+	missionname=Sırtı denize dönük;
+	}
+[Spider Ambush.ota]
+	{
+	missionname=Spider pususu;
+	}
+[Islands of Grace.ota]
+	{
+	missionname=Lütuf adaları;
+	}
+[Wet and Dry.ota]
+	{
+	missionname=Islak ve kuru;
+	}
+[Meraldi Amphibious Assault.ota]
+	{
+	missionname=Meraldi amfibi taarruzu;
+	}
+[Miniement Landing.ota]
+	{
+	missionname=Miniement çıkarması;
+	}
+[Intimidator Ridge.ota]
+	{
+	missionname=Intimidator sırtı;
+	}
+[Zipper Attack.ota]
+	{
+	missionname=Zipper saldırısı;
+	}
+[Can Rush.ota]
+	{
+	missionname=Can hücumu;
+	}
+[Attack on Barrack.ota]
+	{
+	missionname=Barrack saldırısı;
+	}
+[Cutoff in Sector 6895.ota]
+	{
+	missionname=Sektör 6895 kuşatması;
+	}
+[Encounter on the Coral Sea.ota]
+	{
+	missionname=Mercan denizi karşılaşması;
+	}
+[The Wayneston Ford Engagement.ota]
+	{
+	missionname=Wayneston sığ geçidi çatışması;
+	}
+[Ice Base Baryn.ota]
+	{
+	missionname=Baryn buz üssü;
+	}
+[Forest Base 129.ota]
+	{
+	missionname=Orman üssü 129;
+	}
+[Rock Candy Mountains.ota]
+	{
+	missionname=Kaya şekeri dağları;
+	}
+[Kudzu Base.ota]
+	{
+	missionname=Kudzu üssü;
+	}
+[Yerrot Foothills.ota]
+	{
+	missionname=Yerrot etekleri;
+	}
+[Island Hopping.ota]
+	{
+	missionname=Adadan adaya;
+	}
+[Mist Bombers.ota]
+	{
+	missionname=Sis bombardımanı;
+	}
+[A Shortage of Water.ota]
+	{
+	missionname=Su kıtlığı;
+	}
+[Raid on Vetes.ota]
+	{
+	missionname=Vetes baskını;
+	}
+[Three Passes.ota]
+	{
+	missionname=Üç geçit;
+	}
+[Spire Sports.ota]
+	{
+	missionname=Sivri kaya sporu;
+	}
+[Charging the Line.ota]
+	{
+	missionname=Hatta hücum;
+	}
+[Dawn Directive.ota]
+	{
+	missionname=Şafak yönergesi;
+	}
+[Waiting.ota]
+	{
+	missionname=Bekleyiş;
+	}
+[The Vulcans Forge Hotspot.ota]
+	{
+	missionname=Vulcans ocağı sıcak noktası;
+	}
+[Crawling Destruction.ota]
+	{
+	missionname=Sürünen yıkım;
+	}
+[Battle of Ansapp Sea.ota]
+	{
+	missionname=Ansapp denizi savaşı;
+	}
+[Between Two Lakes.ota]
+	{
+	missionname=İki göl arasında;
+	}
+[Hunting Nhanons.ota]
+	{
+	missionname=Nhanons avı;
+	}
+[Sub Hunting.ota]
+	{
+	missionname=Denizaltı avı;
+	}
+[Ambush on Novespin IV.ota]
+	{
+	missionname=Novespin IV pususu;
+	}
+[Force the Strait.ota]
+	{
+	missionname=Boğazı zorla;
+	}
+[Destroy the FMD.ota]
+	{
+	missionname=FMD'yi yok et;
+	}
+[Kaki Island Assault.ota]
+	{
+	missionname=Kaki adası taarruzu;
+	}
+[Fighting Under Fire.ota]
+	{
+	missionname=Ateş altında çatışma;
+	}
+[The Ravenstein Run.ota]
+	{
+	missionname=Ravenstein koşusu;
+	}
+[Reducing the Yrdac Islands.ota]
+	{
+	missionname=Yrdac adalarını düşür;
+	}
+[Black Box.ota]
+	{
+	missionname=Kara kutu;
+	}
+[Firebase Prasad.ota]
+	{
+	missionname=Prasad ateş üssü;
+	}
+[Invasion of Destral II.ota]
+	{
+	missionname=Destral II istilası;
+	}
+[Guardian Hill.ota]
+	{
+	missionname=Guardian tepesi;
+	}
+[Metal Maze.ota]
+	{
+	missionname=Metal labirenti;
+	}
+[Titanium Fist Bay.ota]
+	{
+	missionname=Titanyum yumruk körfezi;
+	}
+[Crossing Kerrap Shallows.ota]
+	{
+	missionname=Kerrap sığlıkları geçişi;
+	}
+[Peaceful Pools.ota]
+	{
+	missionname=Sakin havuzlar;
+	}
+[Solidspire Base.ota]
+	{
+	missionname=Solidspire üssü;
+	}
+[Fortitude Race.ota]
+	{
+	missionname=Fortitude yarışı;
+	}
+[Brawler Buildup.ota]
+	{
+	missionname=Brawler yığınak;
+	}
+[Silent Slayers.ota]
+	{
+	missionname=Sessiz katiller;
+	}
+[Crossing Arnen Inlet.ota]
+	{
+	missionname=Arnen koyu geçişi;
+	}
+[Cloaked in the Spires.ota]
+	{
+	missionname=Sivri kayalarda gizli;
+	}
+[Zedtopt Hotsprings.ota]
+	{
+	missionname=Zedtopt kaplıcaları;
+	}
+[Intimidator Rising.ota]
+	{
+	missionname=Intimidator yükseliyor;
+	}
+[Guditha Pass.ota]
+	{
+	missionname=Guditha geçidi;
+	}
+[Sink the Battleship.ota]
+	{
+	missionname=Zırhlıyı batır;
+	}
+[Coordinated Assault.ota]
+	{
+	missionname=Eşgüdümlü taarruz;
+	}
+[Dogfight over Grantham Deep.ota]
+	{
+	missionname=Grantham çukurunda it dalaşı;
+	}
+[Mesa Run.ota]
+	{
+	missionname=Plato koşusu;
+	}
+[Krocark Firebase Complex.ota]
+	{
+	missionname=Krocark ateş üssü kompleksi;
+	}
+[Jungle Journey.ota]
+	{
+	missionname=Cengel yolculuğu;
+	}
+[Capturing Terseknos.ota]
+	{
+	missionname=Terseknos'u ele geçir;
+	}
+[Bertha Cleansing.ota]
+	{
+	missionname=Bertha temizliği;
+	}
+[Surprise at Labrodorite.ota]
+	{
+	missionname=Labrodorite sürprizi;
+	}
+[Skirmish on the Sand.ota]
+	{
+	missionname=Kumda çatışma;
+	}
+[New Moon.ota]
+	{
+	missionname=Yeni ay;
+	}
+[Kbot Mop Up.ota]
+	{
+	missionname=Kbot temizliği;
+	}
+[River Base Alpha.ota]
+	{
+	missionname=Nehir üssü Alfa;
+	}
+[Crossing Two Rivers.ota]
+	{
+	missionname=İki nehir geçişi;
+	}
+[Caranat Conquest.ota]
+	{
+	missionname=Caranat fethi;
+	}
+[Less Refreshing Sea.ota]
+	{
+	missionname=Daha az ferah deniz;
+	}
+[Hot Day and Hull Down.ota]
+	{
+	missionname=Sıcak gün, gövde alçakta;
+	}
+[Seed Crystal.ota]
+	{
+	missionname=Tohum kristali;
+	}
+[Cleanup on Kral.ota]
+	{
+	missionname=Kral'da temizlik;
+	}
+[Air Assault.ota]
+	{
+	missionname=Hava taarruzu;
+	}
+[Lightning Recon.ota]
+	{
+	missionname=Yıldırım keşif;
+	}
+[A Gentle Time.ota]
+	{
+	missionname=Sakin bir zaman;
+	}
+[Disintegrator Alley.ota]
+	{
+	missionname=D-Gun sokağı;
+	}
+[Two Ore Coast.ota]
+	{
+	missionname=İki cevher kıyısı;
+	}
+[Thrashing a Rear Guard.ota]
+	{
+	missionname=Artçıyı ez;
+	}
+[Emerald Seamount.ota]
+	{
+	missionname=Zümrüt su altı dağı;
+	}
+[Taking Island 445.ota]
+	{
+	missionname=Ada 445'i al;
+	}
+[The Retorb Floodplain.ota]
+	{
+	missionname=Retorb taşkın ovası;
+	}
+[Firebase.ota]
+	{
+	missionname=Ateş üssü;
+	}
+[Battle of Chimo Island.ota]
+	{
+	missionname=Chimo adası savaşı;
+	}
+[Laser Plain.ota]
+	{
+	missionname=Lazer ovası;
+	}
+[Rotrey Stream.ota]
+	{
+	missionname=Rotrey deresi;
+	}
+[Rainforest Construction.ota]
+	{
+	missionname=Yağmur ormanı inşaatı;
+	}
+[Yollets Rain Forest.ota]
+	{
+	missionname=Yollets yağmur ormanı;
+	}
+[The Phase Array Radar.ota]
+	{
+	missionname=Faz dizili radar;
+	}
+[EXP1CC01.ota]
+	{
+	missionname=1: ARM Hydross'a varıyor;
+	}
+[EXP1CC02.ota]
+	{
+	missionname=2: Islak iş;
+	}
+[EXP1CC03.ota]
+	{
+	missionname=3: Kolay hedefler;
+	}
+[EXP1CC04.ota]
+	{
+	missionname=4: Lusch - Cennete hoş geldin;
+	}
+[EXP1CC05.ota]
+	{
+	missionname=5: Dövüş ve çamur;
+	}
+[EXP1CC06.ota]
+	{
+	missionname=6: Uzaylı böcekler;
+	}
+[EXP1CC07.ota]
+	{
+	missionname=7: Sars, takırda ve öl;
+	}
+[EXP1CC08.ota]
+	{
+	missionname=8: Komuta karmaşası;
+	}
+[EXP1CC09.ota]
+	{
+	missionname=9: Bulut Kalesi taarruzu;
+	}
+[EXP1CC10.ota]
+	{
+	missionname=10: Soğuma;
+	}
+[EXP1CC11.ota]
+	{
+	missionname=11: Dondurucu yıkım;
+	}
+[EXP1CC12.ota]
+	{
+	missionname=12: Ayrılma zamanı;
+	}
+[CC01.ota]
+	{
+	missionname=1: Komutan yeniden etkinleştirildi...;
+	}
+[CC02.ota]
+	{
+	missionname=2: Haşere;
+	}
+[CC03.ota]
+	{
+	missionname=3: Pusu!;
+	}
+[CC04.ota]
+	{
+	missionname=4: Artık yeter;
+	}
+[CC05.ota]
+	{
+	missionname=5: Barathrum!;
+	}
+[CC06.ota]
+	{
+	missionname=6: Arındırma başlıyor;
+	}
+[CC07.ota]
+	{
+	missionname=7: İlmeği sıkmak;
+	}
+[CC08.ota]
+	{
+	missionname=8: Aqueous Minor Kapısı;
+	}
+[CC09.ota]
+	{
+	missionname=9: Aqueous Minor tasfiyesi;
+	}
+[CC10.ota]
+	{
+	missionname=10: Koridor;
+	}
+[CC11.ota]
+	{
+	missionname=11: Parche adası;
+	}
+[CC12.ota]
+	{
+	missionname=12: Bir hain yol gösteriyor;
+	}
+[CC13.ota]
+	{
+	missionname=13: Rougpelt;
+	}
+[CC14.ota]
+	{
+	missionname=14: Rougpelt taraması;
+	}
+[CC15.ota]
+	{
+	missionname=15: Xantippe uçurumu;
+	}
+[CC16.ota]
+	{
+	missionname=16: Rougpelt'ten ayrılış;
+	}
+[CC17.ota]
+	{
+	missionname=17: Kayıp ada;
+	}
+[CC18.ota]
+	{
+	missionname=18: Slolam Pilago;
+	}
+[CC19.ota]
+	{
+	missionname=19: Vebreen filosu;
+	}
+[CC20.ota]
+	{
+	missionname=20: Aegus Kapısı;
+	}
+[CC21.ota]
+	{
+	missionname=21: Aegus...Empyrrean'ın koruyucusu;
+	}
+[CC22.ota]
+	{
+	missionname=22: Büyük Empyrrean karşılama;
+	}
+[CC23.ota]
+	{
+	missionname=23: Kale düşüyor;
+	}
+[CC24.ota]
+	{
+	missionname=24: Kuşatıldı ve dövüldü;
+	}
+[CC25.ota]
+	{
+	missionname=25: Empyrrean'ın son direnişi;
+	}
+[Krogoth Encounter.ota]
+	{
+	missionname=1: Krogoth karşılaşması!;
+	}

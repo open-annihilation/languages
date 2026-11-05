@@ -1,0 +1,4168 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Turkish for 3.1c's translate.tdf texts, keyed by 3.1c's English
+// exactly (case and spaces included), in 3.1c's own order.
+
+// Ingame and Panel Messages
+
+[KILLS]
+	{
+	Turkish=İMHA;
+	}
+[Kills]
+	{
+	Turkish=İmha;
+	}
+[Kill]
+	{
+	Turkish=İmha;
+	}
+[kill]
+	{
+	Turkish=imha;
+	}
+[LOSSES]
+	{
+	Turkish=KAYIP;
+	}
+[Losses]
+	{
+	Turkish=Kayıp;
+	}
+[kills]
+	{
+	Turkish=imha;
+	}
+[Veteran]
+	{
+	Turkish=Gazi;
+	}
+[Newbie]
+	{
+	Turkish=Acemi;
+	}
+[PAUSED]
+	{
+	Turkish=DURDU;
+	}
+
+// Loading screen
+
+[Map]
+	{
+	Turkish=Harita;
+	}
+[Map:]
+	{
+	Turkish=Harita:;
+	}
+[Terrain]
+	{
+	Turkish=Arazi;
+	}
+[Textures]
+	{
+	Turkish=Dokular;
+	}
+[Units]
+	{
+	Turkish=Birimler;
+	}
+[Features]
+	{
+	Turkish=Yer öğeleri;
+	}
+[FEATURES]
+	{
+	Turkish=YER ÖĞELERİ;
+	}
+[MoveInfo]
+	{
+	Turkish=Hareket verisi;
+	}
+[Explosions]
+	{
+	Turkish=Patlamalar;
+	}
+[Synchronization complete]
+	{
+	Turkish=Eşitleme tamamlandı;
+	}
+[player ready]
+	{
+	Turkish=oyuncu hazır;
+	}
+[players ready]
+	{
+	Turkish=oyuncu hazır;
+	}
+[Waiting for other players]
+	{
+	Turkish=Diğer oyuncular bekleniyor;
+	}
+[Synchronizing]
+	{
+	Turkish=Eşitleniyor;
+	}
+[Waiting for the Creator]
+	{
+	Turkish=Kurucu bekleniyor;
+	}
+[3D Data]
+	{
+	Turkish=3D verisi;
+	}
+[Animation]
+	{
+	Turkish=Animasyon;
+	}
+[Animations]
+	{
+	Turkish=Animasyonlar;
+	}
+
+// Sides
+
+[Arm]
+	{
+	Turkish=ARM;
+	}
+[Core]
+	{
+	Turkish=CORE;
+	}
+[Arm Campaign]
+	{
+	Turkish=ARM seferi;
+	}
+[arm campaign]
+	{
+	Turkish=ARM seferi;
+	}
+[Core Campaign]
+	{
+	Turkish=CORE seferi;
+	}
+
+// Campaigns' names in the New Campaign and Any Mission lists, which 3.1c's
+// table does not hold: keyed by the campaign file's name, without the space
+// that ends Core Contingency's.
+
+[Arm Campaign - Core Contingency]
+	{
+	Turkish=ARM seferi - Core Contingency;
+	}
+[Core Campaign - Core Contingency]
+	{
+	Turkish=CORE seferi - Core Contingency;
+	}
+[Krogoth Encounter]
+	{
+	Turkish=Krogoth karşılaşması;
+	}
+[Battle Tactics - Arm Very Short]
+	{
+	Turkish=Battle Tactics - ARM çok kısa;
+	}
+[Battle Tactics - Arm Short]
+	{
+	Turkish=Battle Tactics - ARM kısa;
+	}
+[Battle Tactics - Arm Medium]
+	{
+	Turkish=Battle Tactics - ARM orta;
+	}
+[Battle Tactics - Arm Long]
+	{
+	Turkish=Battle Tactics - ARM uzun;
+	}
+[Battle Tactics - Core Very Short]
+	{
+	Turkish=Battle Tactics - CORE çok kısa;
+	}
+[Battle Tactics - Core Short]
+	{
+	Turkish=Battle Tactics - CORE kısa;
+	}
+[Battle Tactics - Core Medium]
+	{
+	Turkish=Battle Tactics - CORE orta;
+	}
+[Battle Tactics - Core Long]
+	{
+	Turkish=Battle Tactics - CORE uzun;
+	}
+
+// Menus
+
+[No Narration]
+	{
+	Turkish=Anlatım yok;
+	}
+[Narration]
+	{
+	Turkish=Anlatım;
+	}
+[Start]
+	{
+	Turkish=Başlat;
+	}
+[Select]
+	{
+	Turkish=Seç;
+	}
+[Previous Menu]
+	{
+	Turkish=Önceki menü;
+	}
+[Next]
+	{
+	Turkish=Sonraki;
+	}
+[Previous]
+	{
+	Turkish=Önceki;
+	}
+[SOUND]
+	{
+	Turkish=SES;
+	}
+[INTERFACE]
+	{
+	Turkish=ARAYÜZ;
+	}
+[VISUALS]
+	{
+	Turkish=GÖRSELLER;
+	}
+[MUSIC]
+	{
+	Turkish=MÜZİK;
+	}
+[Set Difficulty]
+	{
+	Turkish=Zorluğu ayarla;
+	}
+[Skirmish]
+	{
+	Turkish=Çatışma;
+	}
+[Skirmish (%d players)]
+	{
+	Turkish=Çatışma (%d oyuncu);
+	}
+[New Campaign]
+	{
+	Turkish=Yeni sefer;
+	}
+[NEW CAMPAIGN]
+	{
+	Turkish=YENİ SEFER;
+	}
+[Start Campaign]
+	{
+	Turkish=Seferi başlat;
+	}
+[Select Campaign]
+	{
+	Turkish=Seferi seç;
+	}
+[SELECT CAMPAIGN:]
+	{
+	Turkish=SEFERİ SEÇ:;
+	}
+[Select Any Mission]
+	{
+	Turkish=İstediğin görevi seç;
+	}
+[Select Mission]
+	{
+	Turkish=Görevi seç;
+	}
+[Start Mission]
+	{
+	Turkish=Görevi başlat;
+	}
+[Undo Changes]
+	{
+	Turkish=Geri al;
+	}
+[Restore Defaults]
+	{
+	Turkish=Varsayılanlara dön;
+	}
+[Restore Default]
+	{
+	Turkish=Varsayılana dön;
+	}
+[Exit to Menu]
+	{
+	Turkish=Menüye çık;
+	}
+[Exit Game]
+	{
+	Turkish=Oyundan çık;
+	}
+[Please Select Map]
+	{
+	Turkish=Bir harita seç;
+	}
+[Load Map]
+	{
+	Turkish=Haritayı yükle;
+	}
+[Select Side]
+	{
+	Turkish=Taraf seç;
+	}
+
+// Generic gameplay stuff
+
+[Player]
+	{
+	Turkish=Oyuncu;
+	}
+[Players]
+	{
+	Turkish=Oyuncular;
+	}
+[Players:]
+	{
+	Turkish=Oyuncular:;
+	}
+[Allies]
+	{
+	Turkish=Müttefikler;
+	}
+[ALLIES]
+	{
+	Turkish=MÜTTEFİKLER;
+	}
+[Ally]
+	{
+	Turkish=Müttefik;
+	}
+[Side]
+	{
+	Turkish=Taraf;
+	}
+[Metal]
+	{
+	Turkish=Metal;
+	}
+[METAL]
+	{
+	Turkish=METAL;
+	}
+[Energy]
+	{
+	Turkish=Enerji;
+	}
+[ENERGY]
+	{
+	Turkish=ENERJİ;
+	}
+[Color]
+	{
+	Turkish=Renk;
+	}
+[Yes]
+	{
+	Turkish=Evet;
+	}
+[No]
+	{
+	Turkish=Hayır;
+	}
+[OK]
+	{
+	Turkish=OK;
+	}
+[Ok]
+	{
+	Turkish=OK;
+	}
+[Cancel]
+	{
+	Turkish=İptal;
+	}
+[CANCEL]
+	{
+	Turkish=İPTAL;
+	}
+
+// Victory/Defeat Screen
+
+[Energy Produced]
+	{
+	Turkish=Üretilen enerji;
+	}
+[Metal Produced]
+	{
+	Turkish=Üretilen metal;
+	}
+[Energy Wasted]
+	{
+	Turkish=Boşa giden enerji;
+	}
+[Metal Wasted]
+	{
+	Turkish=Boşa giden metal;
+	}
+
+// Options menu
+
+[Options Menu]
+	{
+	Turkish=Seçenekler menüsü;
+	}
+[GAME OPTIONS]
+	{
+	Turkish=OYUN SEÇENEKLERİ;
+	}
+[Resume]
+	{
+	Turkish=Sürdür;
+	}
+[Save Game]
+	{
+	Turkish=Oyunu kaydet;
+	}
+[Load Game]
+	{
+	Turkish=Oyunu yükle;
+	}
+[Preferences]
+	{
+	Turkish=Tercihler;
+	}
+[End Mission]
+	{
+	Turkish=Görevi bitir;
+	}
+[Help]
+	{
+	Turkish=Yardım;
+	}
+[Briefing]
+	{
+	Turkish=Bilgilendirme;
+	}
+[Mission Objective]
+	{
+	Turkish=Görev hedefi;
+	}
+
+// Player settings
+
+[UNUSED]
+	{
+	Turkish=KULLANILMIYOR;
+	}
+[unused]
+	{
+	Turkish=kullanılmıyor;
+	}
+[AI]
+	{
+	Turkish=YZ;
+	}
+[BLOCKED]
+	{
+	Turkish=BLOKE;
+	}
+[No Limit]
+	{
+	Turkish=Sınır yok;
+	}
+
+// CD controls
+
+[CD Player]
+	{
+	Turkish=CD çalar;
+	}
+[No Music]
+	{
+	Turkish=Müzik yok;
+	}
+[Repeat Track]
+	{
+	Turkish=Parça tekrarı;
+	}
+[Repeat Track #]
+	{
+	Turkish=Parça tekrarı #;
+	}
+[Repeat]
+	{
+	Turkish=Tekrar;
+	}
+[Random Tracks]
+	{
+	Turkish=Rastgele parçalar;
+	}
+[Specify Tracks]
+	{
+	Turkish=Parça seç;
+	}
+[Play All Tracks]
+	{
+	Turkish=Tüm parçaları çal;
+	}
+[Play All]
+	{
+	Turkish=Tümünü çal;
+	}
+[Track]
+	{
+	Turkish=Parça;
+	}
+[Custom]
+	{
+	Turkish=Özel;
+	}
+[No Action]
+	{
+	Turkish=Sakin;
+	}
+[Battle]
+	{
+	Turkish=Savaş;
+	}
+[Defeat]
+	{
+	Turkish=Yenilgi;
+	}
+[Unused]
+	{
+	Turkish=Kullanılmıyor;
+	}
+[NO DISC]
+	{
+	Turkish=DİSK YOK;
+	}
+
+// Speeds
+
+[Normal]
+	{
+	Turkish=Normal;
+	}
+[Slow]
+	{
+	Turkish=Yavaş;
+	}
+[Slower]
+	{
+	Turkish=Daha yavaş;
+	}
+[Fast]
+	{
+	Turkish=Hızlı;
+	}
+[Faster]
+	{
+	Turkish=Daha hızlı;
+	}
+[Game Speed]
+	{
+	Turkish=Oyun hızı;
+	}
+[Mouse Speed]
+	{
+	Turkish=Fare hızı;
+	}
+[Screen Scroll]
+	{
+	Turkish=Ekran kaydırma;
+	}
+[Screen Text Delay]
+	{
+	Turkish=Yazı gecikmesi;
+	}
+[Interface]
+	{
+	Turkish=Arayüz;
+	}
+[Unit Chat]
+	{
+	Turkish=Birim konuşması;
+	}
+[Text Lines]
+	{
+	Turkish=Yazı satırları;
+	}
+[Game]
+	{
+	Turkish=Oyun;
+	}
+[Mouse]
+	{
+	Turkish=Fare;
+	}
+[Screen]
+	{
+	Turkish=Ekran;
+	}
+[Text Delay (secs)]
+	{
+	Turkish=Yazı gecikmesi (sn);
+	}
+[Button Interface]
+	{
+	Turkish=Fare düğmeleri;
+	}
+[Control]
+	{
+	Turkish=Denetim;
+	}
+
+// Gamespeed
+
+[Quick]
+	{
+	Turkish=Çabuk;
+	}
+[Sluggish]
+	{
+	Turkish=Hantal;
+	}
+[Rapid Fire]
+	{
+	Turkish=Seri ateş;
+	}
+
+// Chat settings
+
+[No Chat]
+	{
+	Turkish=Konuşma yok;
+	}
+[Only important info]
+	{
+	Turkish=Yalnızca önemli bilgi;
+	}
+[Medium chat]
+	{
+	Turkish=Orta konuşma;
+	}
+[Detailed chat]
+	{
+	Turkish=Ayrıntılı konuşma;
+	}
+[High chat level]
+	{
+	Turkish=Yüksek konuşma;
+	}
+[All info chatted]
+	{
+	Turkish=Tüm bilgi konuşulur;
+	}
+[ENEMIES]
+	{
+	Turkish=DÜŞMANLAR;
+	}
+[Enemies]
+	{
+	Turkish=Düşmanlar;
+	}
+[All]
+	{
+	Turkish=Herkes;
+	}
+[ALL]
+	{
+	Turkish=HERKES;
+	}
+[TALK TO:]
+	{
+	Turkish=KİME:;
+	}
+[Unit Sounds]
+	{
+	Turkish=Birim sesleri;
+	}
+[UNIT SOUNDS]
+	{
+	Turkish=BİRİM SESLERİ;
+	}
+
+// Sound settings
+
+[On]
+	{
+	Turkish=Açık;
+	}
+[Off]
+	{
+	Turkish=Kapalı;
+	}
+[Mono]
+	{
+	Turkish=Mono;
+	}
+[Stereo]
+	{
+	Turkish=Stereo;
+	}
+[3d]
+	{
+	Turkish=3D;
+	}
+[Sound Effects Volume]
+	{
+	Turkish=Efekt ses düzeyi;
+	}
+[Music Volume]
+	{
+	Turkish=Müzik ses düzeyi;
+	}
+[Sound Volume]
+	{
+	Turkish=Ses düzeyi;
+	}
+[Sound Mode]
+	{
+	Turkish=Ses kipi;
+	}
+[No Chatting]
+	{
+	Turkish=Konuşma yok;
+	}
+[TEST]
+	{
+	Turkish=DENEME;
+	}
+[Sound Test]
+	{
+	Turkish=Ses denemesi;
+	}
+[SOUND TEST]
+	{
+	Turkish=SES DENEMESİ;
+	}
+[Building Sounds]
+	{
+	Turkish=İnşa sesleri;
+	}
+[Building]
+	{
+	Turkish=İnşa;
+	}
+[Unit Speech]
+	{
+	Turkish=Birim sesi;
+	}
+[Unit Chat Level]
+	{
+	Turkish=Konuşma düzeyi;
+	}
+[Unit Text Acks]
+	{
+	Turkish=Yazılı yanıt;
+	}
+[Chat Level Info]
+	{
+	Turkish=Konuşma düzeyi bilgisi;
+	}
+[Unit Acknowledgement]
+	{
+	Turkish=Birim yanıtı;
+	}
+// Not in 3.1c's table: the Unit Speech and Unit Chat Level buttons'
+// stages, whole. A button's whole caption is translated before each of its
+// stages, and [Full] alone is a game the game list shows full.
+[Off|Medium|Full]
+	{
+	Turkish=Kapalı|Orta|Tam;
+	}
+
+// Difficulty settings
+
+[Difficulty]
+	{
+	Turkish=Zorluk;
+	}
+[Difficulty:]
+	{
+	Turkish=Zorluk:;
+	}
+[Easy]
+	{
+	Turkish=Kolay;
+	}
+[Medium]
+	{
+	Turkish=Orta;
+	}
+[Hard]
+	{
+	Turkish=Zor;
+	}
+[Mapped]
+	{
+	Turkish=Haritalı;
+	}
+[Unmapped]
+	{
+	Turkish=Haritasız;
+	}
+
+// Starting resource levels
+
+[Low]
+	{
+	Turkish=Düşük;
+	}
+[High]
+	{
+	Turkish=Yüksek;
+	}
+
+// Interface menu
+
+[Left]
+	{
+	Turkish=Sol;
+	}
+[Right]
+	{
+	Turkish=Sağ;
+	}
+[Left Click]
+	{
+	Turkish=Sol tık;
+	}
+[Right Click]
+	{
+	Turkish=Sağ tık;
+	}
+
+// Visuals menu
+
+[Shading]
+	{
+	Turkish=Gölgeleme;
+	}
+[Antialias]
+	{
+	Turkish=Kenar yumuşatma;
+	}
+[Anti-aliasing]
+	{
+	Turkish=Kenar yumuşatma;
+	}
+[Map Mode]
+	{
+	Turkish=Harita kipi;
+	}
+[Gamma]
+	{
+	Turkish=Gama;
+	}
+[Gamma Correction]
+	{
+	Turkish=Gama düzeltmesi;
+	}
+[Line Of Sight]
+	{
+	Turkish=Görüş hattı;
+	}
+[Object rendering]
+	{
+	Turkish=Nesne işleme;
+	}
+[Screen Size]
+	{
+	Turkish=Ekran boyutu;
+	}
+[Size]
+	{
+	Turkish=Boyut;
+	}
+[Shadows]
+	{
+	Turkish=Gölgeler;
+	}
+[Building Shadows]
+	{
+	Turkish=Bina gölgeleri;
+	}
+[Vehicle Shadows]
+	{
+	Turkish=Araç gölgeleri;
+	}
+[True]
+	{
+	Turkish=Gerçek;
+	}
+[Set]
+	{
+	Turkish=Ayarla;
+	}
+
+// Video mode menu
+
+[Select Videomode]
+	{
+	Turkish=Görüntü kipi seç;
+	}
+[Select Mode]
+	{
+	Turkish=Kip seç;
+	}
+
+// Save / Load game menus
+
+[Name Of Game to Load]
+	{
+	Turkish=Yüklenecek oyunun adı;
+	}
+[Name Of Game to Save]
+	{
+	Turkish=Kaydedilecek oyunun adı;
+	}
+[Reset List]
+	{
+	Turkish=Listeyi sıfırla;
+	}
+[Delete Game]
+	{
+	Turkish=Oyunu sil;
+	}
+[Delete List]
+	{
+	Turkish=Listeyi sil;
+	}
+[Cancel Save]
+	{
+	Turkish=Kaydı iptal et;
+	}
+[Game type:]
+	{
+	Turkish=Oyun türü:;
+	}
+[Mission/Map:]
+	{
+	Turkish=Görev/harita:;
+	}
+[Time elapsed:]
+	{
+	Turkish=Geçen süre:;
+	}
+[Side:]
+	{
+	Turkish=Taraf:;
+	}
+[Campaign:]
+	{
+	Turkish=Sefer:;
+	}
+[There are no saved games to choose from]
+	{
+	Turkish=Seçilecek kayıtlı oyun yok;
+	}
+[Mission:]
+	{
+	Turkish=Görev:;
+	}
+[Time saved:]
+	{
+	Turkish=Kayıt zamanı:;
+	}
+
+// Multiplayer connection messages
+
+[The creator has left the game]
+	{
+	Turkish=Kurucu oyundan ayrıldı;
+	}
+[Reject Now]
+	{
+	Turkish=Hemen reddet;
+	}
+[will be rejected in %d seconds]
+	{
+	Turkish=%d saniye içinde reddedilecek;
+	}
+[You do not have a compatible version for this game.]
+	{
+	Turkish=Bu oyun için uyumlu bir sürümün yok.;
+	}
+[is not responding]
+	{
+	Turkish=yanıt vermiyor;
+	}
+[Timed out while connecting to DirectPlay lobby!]
+	{
+	Turkish=DirectPlay lobisine bağlanırken süre doldu!;
+	}
+[Please insert the Installation CD (Disc 1) and select%s"%s" again.]
+	{
+	Turkish=Kurulum CD'sini (Disk 1) tak ve%s"%s" öğesini yeniden seç.;
+	}
+[Please insert the Campaign CD (Disc 2) and try again]
+	{
+	Turkish=Sefer CD'sini (Disk 2) tak ve yeniden dene.;
+	}
+[Please insert the Multiplayer CD (Disc 1) and try again]
+	{
+	Turkish=Çok oyunculu CD'sini (Disk 1) tak ve yeniden dene.;
+	}
+[Fault while trying to excecute button action.]
+	{
+	Turkish=Düğme eylemi çalıştırılırken hata oluştu.;
+	}
+[The "%s" service failed or took %stoo long. Please see the readmee%sfile for more information.]
+	{
+	Turkish="%s" hizmeti başarısız oldu veya%sçok uzun sürdü. Daha fazla bilgi için readme%sdosyasına bak.;
+	}
+[Unable to connect to DirectPlay lobby.]
+	{
+	Turkish=DirectPlay lobisine bağlanılamadı.;
+	}
+[Unable to browse to URL: %s]
+	{
+	Turkish=URL açılamadı: %s;
+	}
+[Unable to invoke DLL: %s]
+	{
+	Turkish=DLL çağrılamadı: %s;
+	}
+[Unable to execute command: %s]
+	{
+	Turkish=Komut çalıştırılamadı: %s;
+	}
+[Could not match weapon type "%s" for synchronization!]
+	{
+	Turkish=Eşitleme için "%s" silah türü bulunamadı!;
+	}
+[Updating...]
+	{
+	Turkish=Güncelleniyor...;
+	}
+[You must enter a game name]
+	{
+	Turkish=Bir oyun adı yaz;
+	}
+[You must enter your name]
+	{
+	Turkish=Adını yaz;
+	}
+[You were rejected from the game]
+	{
+	Turkish=Oyundan reddedildin;
+	}
+[The %s service failed or took%stoo long. Please see the readme%sfile for more information.]
+	{
+	Turkish=%s hizmeti başarısız oldu veya%sçok uzun sürdü. Daha fazla bilgi için readme%sdosyasına bak.;
+	}
+[Direct Connections]
+	{
+	Turkish=Doğrudan bağlantılar;
+	}
+[Internet Access]
+	{
+	Turkish=İnternet erişimi;
+	}
+[There are no multiplayer games to choose from]
+	{
+	Turkish=Seçilecek çok oyunculu oyun yok;
+	}
+[Player has left the game]
+	{
+	Turkish=Oyuncu oyundan ayrıldı;
+	}
+[Player is joining the game]
+	{
+	Turkish=Oyuncu oyuna katılıyor;
+	}
+[Player has disconnected]
+	{
+	Turkish=Oyuncunun bağlantısı kesildi;
+	}
+[Player %s has disconnected]
+	{
+	Turkish=Oyuncu %s bağlantıyı kesti;
+	}
+[You did not have the correct password]
+	{
+	Turkish=Parola yanlış;
+	}
+[10 seconds]
+	{
+	Turkish=10 saniye;
+	}
+[Please Select Provider]
+	{
+	Turkish=Bir bağlantı seç;
+	}
+[Select Provider]
+	{
+	Turkish=Bağlantı seç;
+	}
+
+// Multiplayer interface
+
+[Allied Victory]
+	{
+	Turkish=Müttefik zaferi;
+	}
+[Chosen Units]
+	{
+	Turkish=Seçilen birimler;
+	}
+[More Info]
+	{
+	Turkish=Ayrıntı;
+	}
+[Enter Game Name]
+	{
+	Turkish=Oyun adını yaz;
+	}
+[Enter Your Name]
+	{
+	Turkish=Adını yaz;
+	}
+[Create New Game]
+	{
+	Turkish=Yeni oyun kur;
+	}
+[Password To Join]
+	{
+	Turkish=Katılma parolası;
+	}
+[Closed]
+	{
+	Turkish=Kapalı;
+	}
+[The game is closed]
+	{
+	Turkish=Oyun kapalı;
+	}
+[The game is full]
+	{
+	Turkish=Oyun dolu;
+	}
+[In Game]
+	{
+	Turkish=Oyunda;
+	}
+[Lounge]
+	{
+	Turkish=Lobi;
+	}
+[Playing]
+	{
+	Turkish=Oynanıyor;
+	}
+[Full]
+	{
+	Turkish=Dolu;
+	}
+[Reject Player:]
+	{
+	Turkish=Oyuncuyu reddet:;
+	}
+[Reject Player]
+	{
+	Turkish=Oyuncuyu reddet;
+	}
+[Reject Player?]
+	{
+	Turkish=Oyuncu reddedilsin mi?;
+	}
+[Reject %s?]
+	{
+	Turkish=%s reddedilsin mi?;
+	}
+[Reject]
+	{
+	Turkish=Reddet;
+	}
+[Not Selected]
+	{
+	Turkish=Seçilmedi;
+	}
+[NOT SELECTED]
+	{
+	Turkish=SEÇİLMEDİ;
+	}
+[Join]
+	{
+	Turkish=Katıl;
+	}
+[New]
+	{
+	Turkish=Yeni;
+	}
+[Name of Game]
+	{
+	Turkish=Oyun adı;
+	}
+[Plyrs]
+	{
+	Turkish=Oyuncu;
+	}
+[Status]
+	{
+	Turkish=Durum;
+	}
+[Watch]
+	{
+	Turkish=İzle;
+	}
+[Update]
+	{
+	Turkish=Güncelle;
+	}
+[LOS]
+	{
+	Turkish=GÖRÜŞ;
+	}
+[Cmdr]
+	{
+	Turkish=Komutan;
+	}
+[Ping]
+	{
+	Turkish=Ping;
+	}
+[Name]
+	{
+	Turkish=Ad;
+	}
+[Your Name]
+	{
+	Turkish=Adın;
+	}
+[Game Password]
+	{
+	Turkish=Oyun parolası;
+	}
+
+// Lounge options
+
+[Messages]
+	{
+	Turkish=Mesajlar;
+	}
+[Mem.]
+	{
+	Turkish=Bellek;
+	}
+[Ready?]
+	{
+	Turkish=Hazır mı?;
+	}
+[Start Game]
+	{
+	Turkish=Oyunu başlat;
+	}
+[Select Map]
+	{
+	Turkish=Harita seç;
+	}
+[Resolution]
+	{
+	Turkish=Çözünürlük;
+	}
+[Cmndr Ends Game]
+	{
+	Turkish=Komutan bitirir;
+	}
+[LOS Mode]
+	{
+	Turkish=Görüş kipi;
+	}
+[Cheat Codes]
+	{
+	Turkish=Hile kodları;
+	}
+[Cheat Codes:]
+	{
+	Turkish=Hile kodları:;
+	}
+[Disallowed]
+	{
+	Turkish=Yasak;
+	}
+[Allowed]
+	{
+	Turkish=İzinli;
+	}
+[Watching]
+	{
+	Turkish=İzleyiciler;
+	}
+[Watching:]
+	{
+	Turkish=İzleyiciler:;
+	}
+[Watching OK]
+	{
+	Turkish=İzleme OK;
+	}
+[No Watching]
+	{
+	Turkish=İzleme yok;
+	}
+[Game Open]
+	{
+	Turkish=Oyun açık;
+	}
+[Game Closed]
+	{
+	Turkish=Oyun kapalı;
+	}
+[Game Status]
+	{
+	Turkish=Oyun durumu;
+	}
+[Watching Allowed]
+	{
+	Turkish=İzleme izinli;
+	}
+[Map Name]
+	{
+	Turkish=Harita adı;
+	}
+[Max Units]
+	{
+	Turkish=Birim sınırı;
+	}
+[Max Units:]
+	{
+	Turkish=Birim sınırı:;
+	}
+[Game Is Open]
+	{
+	Turkish=Oyun açık;
+	}
+[Build Restrictions]
+	{
+	Turkish=İnşa kısıtlamaları;
+	}
+
+// Skirmish menu
+
+[Start Skirmish]
+	{
+	Turkish=Çatışmayı başlat;
+	}
+[Location]
+	{
+	Turkish=Konum;
+	}
+[Dead Commander]
+	{
+	Turkish=Ölü Komutan;
+	}
+[Commander]
+	{
+	Turkish=Komutan;
+	}
+
+// Restrictions menu
+
+[Max Per Player]
+	{
+	Turkish=Oyuncu başına;
+	}
+[Unit Build Restrictions]
+	{
+	Turkish=Birim inşa kısıtlamaları;
+	}
+[Load List]
+	{
+	Turkish=Listeyi yükle;
+	}
+[Save List]
+	{
+	Turkish=Listeyi kaydet;
+	}
+[Name of list to save]
+	{
+	Turkish=Kaydedilecek listenin adı;
+	}
+[Show Picture]
+	{
+	Turkish=Resmi göster;
+	}
+
+// Gameplay options
+
+[Fixed]
+	{
+	Turkish=Sabit;
+	}
+[Random]
+	{
+	Turkish=Rastgele;
+	}
+[Specific]
+	{
+	Turkish=Seçilen;
+	}
+[Fixed Locations]
+	{
+	Turkish=Sabit konumlar;
+	}
+[Random Locations]
+	{
+	Turkish=Rastgele konumlar;
+	}
+[Game Ends]
+	{
+	Turkish=Oyun biter;
+	}
+[Game ends]
+	{
+	Turkish=Oyun biter;
+	}
+[Deathmatch]
+	{
+	Turkish=Ölüm maçı;
+	}
+[Continues]
+	{
+	Turkish=Sürer;
+	}
+[Game Continues]
+	{
+	Turkish=Oyun sürer;
+	}
+[Mapping Mode]
+	{
+	Turkish=Haritalama kipi;
+	}
+[Mapping Mode:]
+	{
+	Turkish=Haritalama kipi:;
+	}
+[Blank Map]
+	{
+	Turkish=Boş harita;
+	}
+[Full Map]
+	{
+	Turkish=Tam harita;
+	}
+[LOS Off]
+	{
+	Turkish=Görüş kapalı;
+	}
+[Permanent]
+	{
+	Turkish=Kalıcı;
+	}
+[True LOS]
+	{
+	Turkish=Gerçek görüş;
+	}
+[Circular]
+	{
+	Turkish=Dairesel;
+	}
+[Starting Locations:]
+	{
+	Turkish=Başlangıç konumları:;
+	}
+[Start Location]
+	{
+	Turkish=Başlangıç konumu;
+	}
+[Commander Death]
+	{
+	Turkish=Komutanın ölümü;
+	}
+[Commander Death:]
+	{
+	Turkish=Komutanın ölümü:;
+	}
+[Mapping]
+	{
+	Turkish=Haritalama;
+	}
+[Line of Sight]
+	{
+	Turkish=Görüş hattı;
+	}
+[Line of Sight:]
+	{
+	Turkish=Görüş hattı:;
+	}
+[Computer Opponent]
+	{
+	Turkish=Bilgisayar rakibi;
+	}
+[Computer]
+	{
+	Turkish=Bilgisayar;
+	}
+[AI Opponent]
+	{
+	Turkish=YZ rakibi;
+	}
+[Opponent]
+	{
+	Turkish=Rakip;
+	}
+[Exit the Battle]
+	{
+	Turkish=Savaştan çık;
+	}
+[Page 1]
+	{
+	Turkish=Sayfa 1;
+	}
+[Page 2]
+	{
+	Turkish=Sayfa 2;
+	}
+[Page 3]
+	{
+	Turkish=Sayfa 3;
+	}
+
+// Briefing messages
+
+[BACK TO START]
+	{
+	Turkish=BAŞA DÖN;
+	}
+[MORE...]
+	{
+	Turkish=DEVAMI...;
+	}
+
+// Game over screen
+
+[Victory or Failure]
+	{
+	Turkish=Zafer veya yenilgi;
+	}
+[Main Menu]
+	{
+	Turkish=Ana menü;
+	}
+[Game Statistics]
+	{
+	Turkish=Oyun istatistikleri;
+	}
+[Statistics]
+	{
+	Turkish=İstatistikler;
+	}
+[Next Mission]
+	{
+	Turkish=Sonraki görev;
+	}
+[Adjust Difficulty]
+	{
+	Turkish=Zorluğu ayarla;
+	}
+[Adjust skirmish difficulty.]
+	{
+	Turkish=Çatışma zorluğunu ayarla.;
+	}
+[You]
+	{
+	Turkish=Sen;
+	}
+[AI Player]
+	{
+	Turkish=YZ oyuncusu;
+	}
+[Score]
+	{
+	Turkish=Puan;
+	}
+[Victory]
+	{
+	Turkish=Zafer;
+	}
+[Failure]
+	{
+	Turkish=Yenilgi;
+	}
+
+// Game commands
+
+[Total Units]
+	{
+	Turkish=Toplam birim;
+	}
+[Stop Building]
+	{
+	Turkish=İnşayı durdur;
+	}
+[Options]
+	{
+	Turkish=Seçenekler;
+	}
+[Share]
+	{
+	Turkish=Paylaş;
+	}
+
+// Share options
+
+[TRANSFER RESOURCES]
+	{
+	Turkish=KAYNAKLARI AKTAR;
+	}
+[Selected Units]
+	{
+	Turkish=Seçili birimler;
+	}
+[Select Player]
+	{
+	Turkish=Oyuncu seç;
+	}
+[Map Info]
+	{
+	Turkish=Harita bilgisi;
+	}
+
+// Unit status messages
+
+[five]
+	{
+	Turkish=beş;
+	}
+[four]
+	{
+	Turkish=dört;
+	}
+[three]
+	{
+	Turkish=üç;
+	}
+[two]
+	{
+	Turkish=iki;
+	}
+[one]
+	{
+	Turkish=bir;
+	}
+[zero]
+	{
+	Turkish=sıfır;
+	}
+[Building complete]
+	{
+	Turkish=İnşa tamamlandı;
+	}
+[Capture failed]
+	{
+	Turkish=Ele geçirilemedi;
+	}
+[Construction failed: target area was blocked]
+	{
+	Turkish=İnşa başarısız: hedef alan tıkalı;
+	}
+[Construction stopped]
+	{
+	Turkish=İnşa durdu;
+	}
+[Construction terminated]
+	{
+	Turkish=İnşa sonlandı;
+	}
+[Target area was blocked]
+	{
+	Turkish=Hedef alan tıkalıydı;
+	}
+[Construction terminated by hostile action]
+	{
+	Turkish=İnşa düşman eylemiyle sonlandı;
+	}
+[How can I fix units when they keep blowing up?]
+	{
+	Turkish=Sürekli patlıyorlar, nasıl onarayım?;
+	}
+[I can't get there]
+	{
+	Turkish=Oraya gidemem;
+	}
+[I can't reach the construction site]
+	{
+	Turkish=İnşaat alanına ulaşamam;
+	}
+[Landing aborted]
+	{
+	Turkish=İniş iptal edildi;
+	}
+[Landing aborted: all pads are occupied]
+	{
+	Turkish=İniş iptal edildi: tüm pistler dolu;
+	}
+[Landing aborted: no pads available]
+	{
+	Turkish=İniş iptal edildi: uygun pist yok;
+	}
+[Landing failed]
+	{
+	Turkish=İniş başarısız;
+	}
+[Loading unit]
+	{
+	Turkish=Birim yükleniyor;
+	}
+[Preparing for transport]
+	{
+	Turkish=Taşımaya hazırlanıyor;
+	}
+[Reclamate failed]
+	{
+	Turkish=Geri alma başarısız;
+	}
+[Reclamating]
+	{
+	Turkish=Geri alınıyor;
+	}
+[Reclamation failed]
+	{
+	Turkish=Geri alma başarısız;
+	}
+[Repair aborted.]
+	{
+	Turkish=Onarım iptal edildi.;
+	}
+[Repair mission failed]
+	{
+	Turkish=Onarım görevi başarısız;
+	}
+[Repairs unsuccessful.]
+	{
+	Turkish=Onarım başarısız.;
+	}
+[Self destruct terminated]
+	{
+	Turkish=Kendini yok etme durduruldu;
+	}
+[Starting construction]
+	{
+	Turkish=İnşa başlıyor;
+	}
+[That unit cannot be captured]
+	{
+	Turkish=Bu birim ele geçirilemez;
+	}
+[That unit cannot be reclamated]
+	{
+	Turkish=Bu birim geri alınamaz;
+	}
+[That unit cannot be reclaimed]
+	{
+	Turkish=Bu birim geri alınamaz;
+	}
+[That unit is a cloud of vapor and cannot be captured]
+	{
+	Turkish=Bu birim bir buhar bulutu ve ele geçirilemez;
+	}
+[That unit is a cloud of vapor and cannot be reclamated]
+	{
+	Turkish=Bu birim bir buhar bulutu ve geri alınamaz;
+	}
+[Transport mission failed]
+	{
+	Turkish=Taşıma görevi başarısız;
+	}
+[End Transport]
+	{
+	Turkish=Taşımayı bitir;
+	}
+[Unable to create any more units]
+	{
+	Turkish=Daha fazla birim oluşturulamaz;
+	}
+[Unable to unload unit]
+	{
+	Turkish=Birim boşaltılamaz;
+	}
+[Unit is too heavy to transport]
+	{
+	Turkish=Birim taşınamayacak kadar ağır;
+	}
+[Unit is too large to transport]
+	{
+	Turkish=Birim taşınamayacak kadar büyük;
+	}
+[Unit repaired]
+	{
+	Turkish=Birim onarıldı;
+	}
+[Unloading]
+	{
+	Turkish=Boşaltıyor;
+	}
+[Unloading process is proceeding non-optimally]
+	{
+	Turkish=Boşaltma pek verimli gitmiyor;
+	}
+[Waiting for construction area to clear]
+	{
+	Turkish=İnşaat alanının boşalmasını bekliyor;
+	}
+[Waiting for target area to clear]
+	{
+	Turkish=Hedef alanın boşalmasını bekliyor;
+	}
+[Waiting for construction pad to clear]
+	{
+	Turkish=İnşaat pistinin boşalmasını bekliyor;
+	}
+
+// Miscellaneous
+
+[Warning!\n\nUnable to register %1 for DirectPlay.]
+	{
+	Turkish=Uyarı!\n\n%1 DirectPlay için kaydedilemedi.;
+	}
+[Unidentified object]
+	{
+	Turkish=Tanımlanamayan nesne;
+	}
+[Game Time]
+	{
+	Turkish=Oyun süresi;
+	}
+[Human]
+	{
+	Turkish=İnsan;
+	}
+[Human Player]
+	{
+	Turkish=İnsan oyuncu;
+	}
+[Open]
+	{
+	Turkish=Açık;
+	}
+[Error]
+	{
+	Turkish=Hata;
+	}
+[There are too many players enabled for this map]
+	{
+	Turkish=Bu harita için çok fazla oyuncu açık;
+	}
+[There must be at least one human player and one AI opponent]
+	{
+	Turkish=En az bir insan oyuncu ve bir YZ rakibi olmalı;
+	}
+[There must be at least one player and one computer opponent]
+	{
+	Turkish=En az bir oyuncu ve bir Bilgisayar rakibi olmalı;
+	}
+[You have lost connection with the game]
+	{
+	Turkish=Oyunla bağlantın koptu;
+	}
+[Lost connection with game]
+	{
+	Turkish=Oyunla bağlantı koptu;
+	}
+[You need a unit you don't have for this game]
+	{
+	Turkish=Bu oyun için sende olmayan bir birim gerekli;
+	}
+[You need a newer version of the game to enter]
+	{
+	Turkish=Girmek için daha yeni bir oyun sürümü gerekli;
+	}
+[No watching is allowed for this game]
+	{
+	Turkish=Bu oyunda izlemeye izin yok;
+	}
+[Out of memory! Your hard disk may be full.]
+	{
+	Turkish=Bellek yetersiz! Sabit diskin dolu olabilir.;
+	}
+
+// Unit speech
+
+[Under Attack]
+	{
+	Turkish=Saldırı altında;
+	}
+[Arrived]
+	{
+	Turkish=Vardım;
+	}
+[Cannot Comply]
+	{
+	Turkish=Yerine getiremem;
+	}
+[Nanolathe Complete]
+	{
+	Turkish=Nanotorna bitti;
+	}
+[Cloaked]
+	{
+	Turkish=Gizli;
+	}
+[Visible]
+	{
+	Turkish=Görünür;
+	}
+
+// Mission states
+
+[Acknowledged]
+	{
+	Turkish=Anlaşıldı;
+	}
+[Activate]
+	{
+	Turkish=Etkinleştir;
+	}
+[Airstrike]
+	{
+	Turkish=Hava saldırısı;
+	}
+[Annihilating]
+	{
+	Turkish=Yok ediyor;
+	}
+[Attacking]
+	{
+	Turkish=Saldırıyor;
+	}
+[Being transported]
+	{
+	Turkish=Taşınıyor;
+	}
+[Capturing]
+	{
+	Turkish=Ele geçiriyor;
+	}
+[Cloaking]
+	{
+	Turkish=Gizleniyor;
+	}
+[Deactivate]
+	{
+	Turkish=Durdur;
+	}
+[Decloaking]
+	{
+	Turkish=Gizlenme kalkıyor;
+	}
+[Defending]
+	{
+	Turkish=Savunuyor;
+	}
+[Diving]
+	{
+	Turkish=Dalıyor;
+	}
+[Engaging target]
+	{
+	Turkish=Hedefle çatışıyor;
+	}
+[Evading]
+	{
+	Turkish=Kaçınıyor;
+	}
+[Following]
+	{
+	Turkish=Takip ediyor;
+	}
+[Guarding]
+	{
+	Turkish=Koruyor;
+	}
+[Landing]
+	{
+	Turkish=İniyor;
+	}
+[Loading]
+	{
+	Turkish=Yüklüyor;
+	}
+[Moving]
+	{
+	Turkish=Gidiyor;
+	}
+[Nanolathing]
+	{
+	Turkish=Nanotorna yapıyor;
+	}
+[Paralyzed]
+	{
+	Turkish=Felçli;
+	}
+[Parking]
+	{
+	Turkish=Park ediyor;
+	}
+[Patrolling]
+	{
+	Turkish=Devriyede;
+	}
+[Patrolling for damaged units]
+	{
+	Turkish=Hasarlı birim devriyesi;
+	}
+[Ready]
+	{
+	Turkish=Hazır;
+	}
+[Ready with orders]
+	{
+	Turkish=Emirlerle hazır;
+	}
+[Reclaiming]
+	{
+	Turkish=Geri alıyor;
+	}
+[Repairing]
+	{
+	Turkish=Onarıyor;
+	}
+[Repair patrol]
+	{
+	Turkish=Onarım devriyesi;
+	}
+[Seeking to attack]
+	{
+	Turkish=Saldırmaya gidiyor;
+	}
+[Seeking to defend]
+	{
+	Turkish=Savunmaya gidiyor;
+	}
+[Seeking to land]
+	{
+	Turkish=İnmeye gidiyor;
+	}
+[Seeking to guard]
+	{
+	Turkish=Korumaya gidiyor;
+	}
+[SELF DESTRUCT ENGAGED]
+	{
+	Turkish=KENDİNİ YOK ETME DEVREDE;
+	}
+[Standby]
+	{
+	Turkish=Beklemede;
+	}
+[Stopping]
+	{
+	Turkish=Duruyor;
+	}
+[Suppressing fire]
+	{
+	Turkish=Bastırma ateşi;
+	}
+[Surfacing]
+	{
+	Turkish=Yüzeye çıkıyor;
+	}
+[Teleporting]
+	{
+	Turkish=Işınlanıyor;
+	}
+[Under construction]
+	{
+	Turkish=İnşa ediliyor;
+	}
+[Under repair]
+	{
+	Turkish=Onarılıyor;
+	}
+[Unit is available]
+	{
+	Turkish=Birim mevcut;
+	}
+[Waiting]
+	{
+	Turkish=Bekliyor;
+	}
+[Waiting for attack]
+	{
+	Turkish=Saldırı bekliyor;
+	}
+
+// Feature descriptions
+
+[Description]
+	{
+	Turkish=Açıklama;
+	}
+[Plant]
+	{
+	Turkish=Bitki;
+	}
+[Burnt Plant]
+	{
+	Turkish=Yanık bitki;
+	}
+[Fortification Wall]
+	{
+	Turkish=Tahkimat duvarı;
+	}
+[Hole]
+	{
+	Turkish=Çukur;
+	}
+[Crater]
+	{
+	Turkish=Krater;
+	}
+[Foliage]
+	{
+	Turkish=Bitki örtüsü;
+	}
+[Rock]
+	{
+	Turkish=Kaya;
+	}
+[rock]
+	{
+	Turkish=kaya;
+	}
+[Rubble]
+	{
+	Turkish=Moloz;
+	}
+[Thermal Vent]
+	{
+	Turkish=Termal baca;
+	}
+[Ventilation Engine]
+	{
+	Turkish=Havalandırma motoru;
+	}
+[Wreckage]
+	{
+	Turkish=Enkaz;
+	}
+[Burnt Foliage]
+	{
+	Turkish=Yanık bitki örtüsü;
+	}
+[Burnt Tree]
+	{
+	Turkish=Yanık ağaç;
+	}
+[Tree]
+	{
+	Turkish=Ağaç;
+	}
+[Ice Chunks]
+	{
+	Turkish=Buz parçaları;
+	}
+[Damaged Terrain]
+	{
+	Turkish=Hasarlı arazi;
+	}
+[Damaged Surface]
+	{
+	Turkish=Hasarlı yüzey;
+	}
+[DragonsTeeth]
+	{
+	Turkish=Ejderha dişleri;
+	}
+[Dragons Teeth - NS]
+	{
+	Turkish=Ejderha dişleri - NS;
+	}
+[DragonsTeeth - NS]
+	{
+	Turkish=Ejderha dişleri - NS;
+	}
+[Metal Deposit]
+	{
+	Turkish=Metal yatağı;
+	}
+[Node]
+	{
+	Turkish=Düğüm;
+	}
+[Spire]
+	{
+	Turkish=Sivri kule;
+	}
+[Glyph]
+	{
+	Turkish=Glif;
+	}
+[Ruin]
+	{
+	Turkish=Harabe;
+	}
+[Seismic Monitor]
+	{
+	Turkish=Sismik izleyici;
+	}
+[Pipe]
+	{
+	Turkish=Boru;
+	}
+[Communications Uplink]
+	{
+	Turkish=İletişim bağlantısı;
+	}
+[Comm Uplink]
+	{
+	Turkish=İletişim bağı;
+	}
+[Communication Tower]
+	{
+	Turkish=İletişim kulesi;
+	}
+[Regulator Complex]
+	{
+	Turkish=Düzenleyici kompleks;
+	}
+[Thermal Regulator]
+	{
+	Turkish=Termal düzenleyici;
+	}
+[Transmitter]
+	{
+	Turkish=Verici;
+	}
+[Pressure Release Valve]
+	{
+	Turkish=Basınç tahliye vanası;
+	}
+[Pressure Valve]
+	{
+	Turkish=Basınç vanası;
+	}
+
+// Multiplayer online interface messages
+
+[Invalid TCP/IP Address]
+	{
+	Turkish=Geçersiz TCP/IP adresi;
+	}
+[Enter TCP address (leave blank to search)]
+	{
+	Turkish=TCP adresi yaz (aramak için boş bırak);
+	}
+[Phone Numbers]
+	{
+	Turkish=Telefon numaraları;
+	}
+[Number]
+	{
+	Turkish=Numara;
+	}
+[Modem]
+	{
+	Turkish=Modem;
+	}
+[Port]
+	{
+	Turkish=Port;
+	}
+[Answer]
+	{
+	Turkish=Yanıtla;
+	}
+[Dial]
+	{
+	Turkish=Çevir;
+	}
+[Host]
+	{
+	Turkish=Kur;
+	}
+[Play]
+	{
+	Turkish=Oyna;
+	}
+[Unit Download]
+	{
+	Turkish=Birim indirme;
+	}
+
+// In game pop-up messages
+
+[Game Name]
+	{
+	Turkish=Oyun adı;
+	}
+[Map game will play on]
+	{
+	Turkish=Oyunun oynanacağı harita;
+	}
+[Does dead commander end game?]
+	{
+	Turkish=Komutan ölünce oyun biter mi?;
+	}
+[Average latency (big is bad)]
+	{
+	Turkish=Ortalama gecikme (büyüğü kötü);
+	}
+[Type of Line of Sight]
+	{
+	Turkish=Görüş hattı türü;
+	}
+[Tells if you start with map]
+	{
+	Turkish=Başlangıçta haritanın görünür olup olmadığını söyler;
+	}
+[Starting Metal:]
+	{
+	Turkish=Başlangıç metali:;
+	}
+[Starting Energy:]
+	{
+	Turkish=Başlangıç enerjisi:;
+	}
+[Starting metal amount]
+	{
+	Turkish=Başlangıç metal miktarı;
+	}
+[Starting energy amount]
+	{
+	Turkish=Başlangıç enerji miktarı;
+	}
+[Click to edit energy value.]
+	{
+	Turkish=Enerji değerini düzenlemek için tıkla.;
+	}
+[Click to set energy value.]
+	{
+	Turkish=Enerji değerini ayarlamak için tıkla.;
+	}
+[Click to edit metal value.]
+	{
+	Turkish=Metal değerini düzenlemek için tıkla.;
+	}
+[Click to set metal value.]
+	{
+	Turkish=Metal değerini ayarlamak için tıkla.;
+	}
+[Left click to increase metal. Right click to decrease metal.]
+	{
+	Turkish=Sol tuş metali artırır. Sağ tuş metali azaltır.;
+	}
+[Left click to increase energy. Right click to decrease energy.]
+	{
+	Turkish=Sol tuş enerjiyi artırır. Sağ tuş enerjiyi azaltır.;
+	}
+[Click to select an allegiance symbol.]
+	{
+	Turkish=Bir bağlılık simgesi seçmek için tıkla.;
+	}
+[Players in game / Max players]
+	{
+	Turkish=Oyundaki oyuncu / En fazla oyuncu;
+	}
+[Tells if game is in play]
+	{
+	Turkish=Oyunun başlamış olup olmadığını söyler;
+	}
+[Game ends when commander is destroyed.]
+	{
+	Turkish=Komutan yok edilince oyun biter.;
+	}
+[Game continues after Commander is destroyed.]
+	{
+	Turkish=Komutan yok edildikten sonra oyun sürer.;
+	}
+[Commanders are placed at pre-determined locations.]
+	{
+	Turkish=Komutanlar önceden belirlenmiş yerlere yerleştirilir.;
+	}
+[Commanders are randomly placed on the battle field.]
+	{
+	Turkish=Komutanlar savaş alanına rastgele yerleştirilir.;
+	}
+[Terrain is blacked out until explored.]
+	{
+	Turkish=Arazi keşfedilene kadar karanlıktır.;
+	}
+[Terrain is visible.]
+	{
+	Turkish=Arazi görünür.;
+	}
+[Terrain elevations affect a unit's view.]
+	{
+	Turkish=Arazi yükseklikleri birimin görüşünü etkiler.;
+	}
+[Terrain elevations do not affect a unit's view.]
+	{
+	Turkish=Arazi yükseklikleri birimin görüşünü etkilemez.;
+	}
+[All mapped terrain is visible.]
+	{
+	Turkish=Haritalanan tüm arazi görünür.;
+	}
+[Exit Mission]
+	{
+	Turkish=Görevden çık;
+	}
+[Exit Skirmish]
+	{
+	Turkish=Çatışmadan çık;
+	}
+[Exit Battle]
+	{
+	Turkish=Savaştan çık;
+	}
+[Restart Mission]
+	{
+	Turkish=Görevi yeniden başlat;
+	}
+[Restart Skirmish]
+	{
+	Turkish=Çatışmayı yeniden başlat;
+	}
+[Restart]
+	{
+	Turkish=Yeniden başlat;
+	}
+[Close Windows CD Player?]
+	{
+	Turkish=Windows CD çalar kapatılsın mı?;
+	}
+[CD Music]
+	{
+	Turkish=CD müziği;
+	}
+[Surrender this battle and return to main menu?]
+	{
+	Turkish=Bu savaşta teslim olunup ana menüye dönülsün mü?;
+	}
+[Surrender this battle and exit to Windows?]
+	{
+	Turkish=Bu savaşta teslim olunup Windows'a çıkılsın mı?;
+	}
+[Surrender this battle and exit to the system?]
+	{
+	Turkish=Bu savaşta teslim olunup sistemden çıkılsın mı?;
+	}
+
+// Title Screen
+
+[SINGLE]
+	{
+	Turkish=TEK OYUNCU;
+	}
+[Single]
+	{
+	Turkish=Tek oyuncu;
+	}
+[MULTI]
+	{
+	Turkish=ÇOK OYUNCULU;
+	}
+[INTRO]
+	{
+	Turkish=GİRİŞ;
+	}
+[EXIT]
+	{
+	Turkish=ÇIKIŞ;
+	}
+[Exit]
+	{
+	Turkish=Çık;
+	}
+
+// In-Game Help Screen
+
+[Keyboard Commands]
+	{
+	Turkish=Klavye komutları;
+	}
+[SPACEBAR]
+	{
+	Turkish=SPACEBAR;
+	}
+[Activate the game status bar]
+	{
+	Turkish=Oyun durum çubuğunu açar;
+	}
+[Bring up the multiplayer scorecard]
+	{
+	Turkish=Çok oyunculu puan tablosunu açar;
+	}
+[Select all factories]
+	{
+	Turkish=Tüm fabrikaları seçer;
+	}
+[Multiplayer options]
+	{
+	Turkish=Çok oyunculu seçenekler;
+	}
+[Cancels the current command]
+	{
+	Turkish=Geçerli emri iptal eder;
+	}
+[Assign the currently selected units to a squad]
+	{
+	Turkish=Seçili birimleri bir gruba atar;
+	}
+[Select squad]
+	{
+	Turkish=Grubu seçer;
+	}
+[Toggles fire orders]
+	{
+	Turkish=Ateş emirlerini değiştirir;
+	}
+[Toggles selected unit's cloaking capabilities]
+	{
+	Turkish=Seçili birimin gizlenmesini açıp kapatır;
+	}
+[Toggles move orders]
+	{
+	Turkish=Hareket emirlerini değiştirir;
+	}
+[Select the Build menu for the current unit]
+	{
+	Turkish=Geçerli birimin inşa menüsünü seçer;
+	}
+[Select the Orders menu for the current unit]
+	{
+	Turkish=Geçerli birimin emir menüsünü seçer;
+	}
+[Select the menu for the current unit]
+	{
+	Turkish=Geçerli birimin menüsünü seçer;
+	}
+[, (comma)]
+	{
+	Turkish=, (virgül);
+	}
+[Select the previous menu for that unit]
+	{
+	Turkish=O birimin önceki menüsünü seçer;
+	}
+[. (period)]
+	{
+	Turkish=. (nokta);
+	}
+[Select the next menu for that unit]
+	{
+	Turkish=O birimin sonraki menüsünü seçer;
+	}
+[~ (tilde)]
+	{
+	Turkish=~ (tilde);
+	}
+[Toggle damage bars on the units]
+	{
+	Turkish=Birimlerin hasar çubuklarını açıp kapatır;
+	}
+[Pause the game]
+	{
+	Turkish=Oyunu duraklatır;
+	}
+[Display information on selected unit]
+	{
+	Turkish=Seçili birimin bilgisini gösterir;
+	}
+[Display the Options menu]
+	{
+	Turkish=Seçenekler menüsünü gösterir;
+	}
+[Selects the unit that last reported]
+	{
+	Turkish=Son bildiren birimi seçer;
+	}
+[Screen capture]
+	{
+	Turkish=Ekran görüntüsü;
+	}
+[Clear all chat messages]
+	{
+	Turkish=Tüm sohbet mesajlarını temizler;
+	}
+[Select all units]
+	{
+	Turkish=Tüm birimleri seçer;
+	}
+[Select all construction units except the Commander]
+	{
+	Turkish=Komutan dışında tüm inşaat birimlerini seçer;
+	}
+[Select the Commander]
+	{
+	Turkish=Komutanı seçer;
+	}
+[Destruct selected unit(s)]
+	{
+	Turkish=Seçili birimleri yok eder;
+	}
+[Select all units currently on the screen]
+	{
+	Turkish=Ekrandaki tüm birimleri seçer;
+	}
+[Select all aircraft]
+	{
+	Turkish=Tüm uçakları seçer;
+	}
+[Select all units of same type]
+	{
+	Turkish=Aynı türden tüm birimleri seçer;
+	}
+[Applies a map bookmark at cursor location]
+	{
+	Turkish=İşaretçi konumuna bir harita yer imi koyar;
+	}
+[Centers the screen on a map bookmark]
+	{
+	Turkish=Ekranı bir harita yer imine ortalar;
+	}
+[Give an attack order]
+	{
+	Turkish=Saldırı emri verir;
+	}
+[Give a guard order]
+	{
+	Turkish=Koruma emri verir;
+	}
+[Give a move order]
+	{
+	Turkish=Hareket emri verir;
+	}
+[Give a patrol order]
+	{
+	Turkish=Devriye emri verir;
+	}
+[Give a stop order (cancel previous orders)]
+	{
+	Turkish=Dur emri verir (önceki emirleri iptal eder);
+	}
+[Use the Disintegrator Gun]
+	{
+	Turkish=D-Gun kullanır;
+	}
+[Give a capture order]
+	{
+	Turkish=Ele geçirme emri verir;
+	}
+[Give a repair order]
+	{
+	Turkish=Onarım emri verir;
+	}
+[Give a reclaim order]
+	{
+	Turkish=Geri alma emri verir;
+	}
+[Share resources with another player]
+	{
+	Turkish=Kaynakları başka bir oyuncuyla paylaşır;
+	}
+[Scroll to the next unit off screen]
+	{
+	Turkish=Ekran dışındaki sonraki birime kaydırır;
+	}
+[Track the selected unit]
+	{
+	Turkish=Seçili birimi takip eder;
+	}
+[Reduce the game speed]
+	{
+	Turkish=Oyun hızını düşürür;
+	}
+[Increase the game speed]
+	{
+	Turkish=Oyun hızını artırır;
+	}
+[Hold down to queue up multiple commands]
+	{
+	Turkish=Birden çok emri sıraya koymak için basılı tut;
+	}
+[ENTER]
+	{
+	Turkish=ENTER;
+	}
+[Activate the message bar]
+	{
+	Turkish=Mesaj çubuğunu açar;
+	}
+[Turn Rate]
+	{
+	Turkish=Dönüş hızı;
+	}
+
+// Multiplayer map names and descriptions
+
+[painted desert]
+	{
+	Turkish=Boyalı çöl;
+	}
+[18 x 18  battle in the many mesas area.]
+	{
+	Turkish=18 x 18  Çok mesalı bölgede savaş.;
+	}
+[caldera's rim]
+	{
+	Turkish=Kalderanın kenarı;
+	}
+[29 x 29  sunken volcanic crater in center of map]
+	{
+	Turkish=29 x 29  Haritanın ortasında çökmüş bir volkan krateri;
+	}
+[coast to coast]
+	{
+	Turkish=Kıyıdan kıyıya;
+	}
+[7 x 4  water between two coasts. weak tides.]
+	{
+	Turkish=7 x 4  İki kıyı arasında su. Zayıf gelgit.;
+	}
+[dark side]
+	{
+	Turkish=Karanlık yüz;
+	}
+[6 x 5  lunar map with plenty of metal]
+	{
+	Turkish=6 x 5  Bol metalli bir ay haritası;
+	}
+[etorrep glacier]
+	{
+	Turkish=Etorrep buzulu;
+	}
+[5 x 8  strong winds coming from ocean.]
+	{
+	Turkish=5 x 8  Okyanustan gelen güçlü rüzgar.;
+	}
+[fox holes]
+	{
+	Turkish=Tilki delikleri;
+	}
+[7 x 7  strong winds. more metal on high ground.]
+	{
+	Turkish=7 x 7  Güçlü rüzgar. Yüksekte daha çok metal.;
+	}
+[full moon]
+	{
+	Turkish=Dolunay;
+	}
+[8 x 8  fighting on the naryb highlands. no wind.]
+	{
+	Turkish=8 x 8  Naryb yaylalarında savaş. Rüzgar yok.;
+	}
+[gods of war]
+	{
+	Turkish=Savaş tanrıları;
+	}
+[9 x 8  asymmetric water map.]
+	{
+	Turkish=9 x 8  Asimetrik su haritası.;
+	}
+[great divide]
+	{
+	Turkish=Büyük ayrım;
+	}
+[5 x 8  fight through a mountain pass.]
+	{
+	Turkish=5 x 8  Dağ geçidinden savaşarak geç.;
+	}
+[hundred isles]
+	{
+	Turkish=Yüz ada;
+	}
+[12 x 12  fighting on over a hundred small islands]
+	{
+	Turkish=12 x 12  Yüzden fazla küçük adada savaş;
+	}
+[kill the middle]
+	{
+	Turkish=Ortayı yok et;
+	}
+[13 x 13  powerful player in middle of map on island.]
+	{
+	Turkish=13 x 13  Haritanın ortasındaki adada güçlü bir oyuncu.;
+	}
+[king of the hill]
+	{
+	Turkish=Tepenin kralı;
+	}
+[16 x 16  fight for a metal rich mountain. strong wind.]
+	{
+	Turkish=16 x 16  Metal zengini bir dağ için savaş. Güçlü rüzgar.;
+	}
+[lava & two hills]
+	{
+	Turkish=Lav ve iki tepe;
+	}
+[9 x 8  two giant hills & a river of lava between them]
+	{
+	Turkish=9 x 8  İki dev tepe ve aralarında bir lav ırmağı;
+	}
+[lava highground]
+	{
+	Turkish=Lav yükseltisi;
+	}
+[8 x 8  fight over narrow ramps.]
+	{
+	Turkish=8 x 8  Dar rampalar üzerinde savaş.;
+	}
+[lava mania]
+	{
+	Turkish=Lav çılgınlığı;
+	}
+[8 x 8  strong winds.]
+	{
+	Turkish=8 x 8  Güçlü rüzgar.;
+	}
+[lava run]
+	{
+	Turkish=Lav akışı;
+	}
+[13 x 4  lava strip down center. high winds.]
+	{
+	Turkish=13 x 4  Ortada bir lav şeridi. Sert rüzgar.;
+	}
+[greenhaven]
+	{
+	Turkish=Yeşil liman;
+	}
+[16 x 16  large map with many hills to hide behind.]
+	{
+	Turkish=16 x 16  Arkasına saklanılan çok tepeli büyük bir harita.;
+	}
+[metal heck]
+	{
+	Turkish=Metal cehennemi;
+	}
+[8 x 8  fight in the metal cross region.]
+	{
+	Turkish=8 x 8  Metal haç bölgesinde savaş.;
+	}
+[red hot lava]
+	{
+	Turkish=Kızgın lav;
+	}
+[11 x 9  many hills and lava pools. plenty of metal]
+	{
+	Turkish=11 x 9  Çok tepe ve lav havuzu. Bol metal;
+	}
+[red planet]
+	{
+	Turkish=Kızıl gezegen;
+	}
+[9 x 9   many small hills and pools]
+	{
+	Turkish=9 x 9   Çok küçük tepe ve havuz;
+	}
+[red triangle]
+	{
+	Turkish=Kızıl üçgen;
+	}
+[16 x 16  powerful tides and strong winds.]
+	{
+	Turkish=16 x 16  Güçlü gelgit ve güçlü rüzgar.;
+	}
+[ring atoll]
+	{
+	Turkish=Halka atol;
+	}
+[21 x 21  powerful tides. ground units can use shallow water.]
+	{
+	Turkish=21 x 21  Güçlü gelgit. Kara birimleri sığ suyu kullanabilir.;
+	}
+[rock alley]
+	{
+	Turkish=Kaya geçidi;
+	}
+[9 x 21  fight in mountian valley.]
+	{
+	Turkish=9 x 21  Dağ vadisinde savaş.;
+	}
+[sherwood]
+	{
+	Turkish=Sherwood;
+	}
+[6 x 6  fighting around 3 large hills]
+	{
+	Turkish=6 x 6  3 büyük tepenin çevresinde savaş;
+	}
+[shore to shore]
+	{
+	Turkish=Sahilden sahile;
+	}
+[29 x 4  two coasts with large ocean between them.]
+	{
+	Turkish=29 x 4  Aralarında büyük bir okyanus olan iki kıyı.;
+	}
+[the desert triad]
+	{
+	Turkish=Çöl üçlüsü;
+	}
+[6 x 6  fighting on 3 mesas.]
+	{
+	Turkish=6 x 6  3 mesada savaş.;
+	}
+[two continents]
+	{
+	Turkish=İki kıta;
+	}
+[22 x 25  metal in the middle of the map.]
+	{
+	Turkish=22 x 25  Haritanın ortasında metal.;
+	}
+[yerrot mountains]
+	{
+	Turkish=Yerrot dağları;
+	}
+[27 x 23  mountain range with lots of metal.]
+	{
+	Turkish=27 x 23  Bol metalli bir sıradağ.;
+	}
+[pincushion]
+	{
+	Turkish=İğnelik;
+	}
+[13 x 13  a fight amongst lava spires]
+	{
+	Turkish=13 x 13  Lav sivrileri arasında bir savaş;
+	}
+[over crude water]
+	{
+	Turkish=Ham petrol üstünde;
+	}
+[25 x 25  a maze of metal bridges.]
+	{
+	Turkish=25 x 25  Metal köprülerden bir labirent.;
+	}
+[seven islands]
+	{
+	Turkish=Yedi ada;
+	}
+[40 x 40  huge sea battle on core prime]
+	{
+	Turkish=40 x 40  CORE Prime üzerinde dev bir deniz savaşı;
+	}
+[ashap plateau]
+	{
+	Turkish=Ashap platosu;
+	}
+[9 x 9  metal on rough lower level]
+	{
+	Turkish=9 x 9  Engebeli alt seviyede metal;
+	}
+[the cold place]
+	{
+	Turkish=Soğuk yer;
+	}
+[15 x 11  fighting on a flat tundra with very strong winds.]
+	{
+	Turkish=15 x 11  Çok güçlü rüzgarlı düz bir tundrada savaş.;
+	}
+[evad river confluence]
+	{
+	Turkish=Evad nehri kavşağı;
+	}
+[11 x 10 map.  intermittent winds]
+	{
+	Turkish=11 x 10 map.  Aralıklı rüzgar;
+	}
+[lava alley]
+	{
+	Turkish=Lav geçidi;
+	}
+[18 x 18  fighting in narrow valleys.]
+	{
+	Turkish=18 x 18  Dar vadilerde savaş.;
+	}
+[the pass]
+	{
+	Turkish=Geçit;
+	}
+[7 x 4  fight to control a winding mountian pass.]
+	{
+	Turkish=7 x 4  Kıvrımlı bir dağ geçidini tutmak için savaş.;
+	}
+[anteer strait]
+	{
+	Turkish=Anteer boğazı;
+	}
+[18 x 18  fight in an iceburg filled ocean. strong tides.]
+	{
+	Turkish=18 x 18  Buzdağlarıyla dolu okyanusta savaş. Güçlü gelgit.;
+	}
+[metal isles]
+	{
+	Turkish=Metal adaları;
+	}
+[23 X 21  4 Symmetrical Metal Islands, good for sea battles]
+	{
+	Turkish=23 X 21  4 simetrik metal adası, deniz savaşına uygun;
+	}
+
+// Expansion Pack map names and descriptions
+
+[acid foursome]
+	{
+	Turkish=Asit dörtlüsü;
+	}
+[13 X 13  Open plains and small lakes.]
+	{
+	Turkish=13 X 13  Açık ovalar ve küçük göller.;
+	}
+[acid pools]
+	{
+	Turkish=Asit havuzları;
+	}
+[32 X 23  Masses of land with narrow passages.]
+	{
+	Turkish=32 X 23  Dar geçitli kara kütleleri.;
+	}
+[acid trip]
+	{
+	Turkish=Asit gezisi;
+	}
+[15 X 39  Watch out for the acid or you'll melt away.]
+	{
+	Turkish=15 X 39  Aside dikkat et, yoksa erirsin.;
+	}
+[assault on suburbia]
+	{
+	Turkish=Banliyö taarruzu;
+	}
+[16 X 16 Crush 'em.]
+	{
+	Turkish=16 X 16 Ez onları.;
+	}
+[biggie biggs]
+	{
+	Turkish=biggie biggs;
+	}
+[36 X 16  Dance from island to island crushing your opponents.]
+	{
+	Turkish=36 X 16  Adadan adaya dans edip rakiplerini ez.;
+	}
+[block wars]
+	{
+	Turkish=Mahalle savaşları;
+	}
+[20 X 20  Battling through the Core Prime suburbs.]
+	{
+	Turkish=20 X 20  CORE Prime banliyölerinde savaş.;
+	}
+[brain coral]
+	{
+	Turkish=Beyin mercanı;
+	}
+[20 X 20  Hydrous map with brain coral spiral.]
+	{
+	Turkish=20 X 20  Beyin mercanı sarmallı sulu harita.;
+	}
+[25 X 24  Keep your Kbots on the trails.]
+	{
+	Turkish=25 X 24  Kbotlarını patikalarda tut.;
+	}
+[checker ponds]
+	{
+	Turkish=Damalı göletler;
+	}
+[13 X 13  Be wary of the many corrosive puddles.]
+	{
+	Turkish=13 X 13  Çok sayıdaki aşındırıcı birikintilere dikkat et.;
+	}
+[cluster freak]
+	{
+	Turkish=Küme curcunası;
+	}
+[10 X 10  High winds with lots of metal in the middle.]
+	{
+	Turkish=10 X 10  Sert rüzgar, ortada bol metal.;
+	}
+[comet catcher]
+	{
+	Turkish=Kuyruklu yıldız avcısı;
+	}
+[12 X 15  Low gravity livens up this desolate landscape.]
+	{
+	Turkish=12 X 15  Düşük yerçekimi bu ıssız araziyi canlandırır.;
+	}
+[core prime industrial area]
+	{
+	Turkish=CORE Prime sanayi bölgesi;
+	}
+[21 X 21  Abandoned Core industrial area.]
+	{
+	Turkish=21 X 21  Terk edilmiş CORE sanayi bölgesi.;
+	}
+[crater islands]
+	{
+	Turkish=Krater adaları;
+	}
+[10 X 8  Fight your way across these shallow waters.]
+	{
+	Turkish=10 X 8  Bu sığ sulardan savaşarak geç.;
+	}
+[crystal cracked]
+	{
+	Turkish=Çatlak kristal;
+	}
+[20 X 20 Two land masses split by an inland filled sea.]
+	{
+	Turkish=20 X 20 İç denizle ayrılmış iki kara kütlesi.;
+	}
+[crystal isles]
+	{
+	Turkish=Kristal adaları;
+	}
+[20 X 20 Crystal World ocean, dotted with reefs and islands.]
+	{
+	Turkish=20 X 20 Kristal dünya okyanusu, resifler ve adalarla benekli.;
+	}
+[crystal maze]
+	{
+	Turkish=Kristal labirent;
+	}
+[10 X 10 Free-for-all in a maze of mountains.]
+	{
+	Turkish=10 X 10 Dağ labirentinde herkes herkese karşı.;
+	}
+[crystal treasure island]
+	{
+	Turkish=Kristal hazine adası;
+	}
+[12 X 13  Crystal map with metal-rich islands in the center.]
+	{
+	Turkish=12 X 13  Merkezde metal zengini adalar olan kristal harita.;
+	}
+[dire straits]
+	{
+	Turkish=Tehlikeli boğazlar;
+	}
+[15 X 17 Natural fortification to hide between.]
+	{
+	Turkish=15 X 17 Arasına saklanılacak doğal tahkimat.;
+	}
+[east indeez]
+	{
+	Turkish=east indeez;
+	}
+[28 X 19 Lots of islands, lots of water!]
+	{
+	Turkish=28 X 19 Çok ada, çok su!;
+	}
+[eastside westside]
+	{
+	Turkish=Doğu yakası batı yakası;
+	}
+[19 X 19  Find a park or reclaim large structures for metal.]
+	{
+	Turkish=19 X 19  Bir park bul ya da metal için büyük yapıları geri al.;
+	}
+[14 X 14, Battle for the Evad River Delta]
+	{
+	Turkish=14 X 14, Evad nehri deltası savaşı;
+	}
+[expanded confluence]
+	{
+	Turkish=Genişletilmiş kavuşum;
+	}
+[22 X 22 More room to rumble on this old favorite.]
+	{
+	Turkish=22 X 22 Bu eski gözdede kapışmaya daha çok yer.;
+	}
+[flooded glaciers]
+	{
+	Turkish=Su basmış buzullar;
+	}
+[12 X 10 Icy ocean battle.]
+	{
+	Turkish=12 X 10 Buzlu okyanus savaşı.;
+	}
+[gasbag forests]
+	{
+	Turkish=Gaz kesesi ormanları;
+	}
+[19 X 19  Large fields of gasplants block your path.]
+	{
+	Turkish=19 X 19  Geniş gaz bitkisi tarlaları yolunu keser.;
+	}
+[gasplant plain]
+	{
+	Turkish=Gaz bitkisi ovası;
+	}
+[10 X 8  Large plain for close encounters. Lots of geothermal.]
+	{
+	Turkish=10 X 8  Yakın temas için geniş ova. Bol jeotermal.;
+	}
+[higher ground]
+	{
+	Turkish=Yüksek arazi;
+	}
+[8 X 16  You take the high road and I'll take the low road.]
+	{
+	Turkish=8 X 16  Sen yüksek yolu tut, ben alçak yolu.;
+	}
+[ice house]
+	{
+	Turkish=Buz evi;
+	}
+[16 X 16  Large ice mountains hinder big guns.]
+	{
+	Turkish=16 X 16  Büyük buz dağları ağır topları engeller.;
+	}
+[ice scream]
+	{
+	Turkish=Buz çığlığı;
+	}
+[15 X 39  Screaming won't be all you do on this forbidding world.]
+	{
+	Turkish=15 X 39  Bu çetin dünyada tek yaptığın çığlık atmak olmayacak.;
+	}
+[icy bergs]
+	{
+	Turkish=Buzdağları;
+	}
+[28 X 28  Landless. Lots of sunken ships.]
+	{
+	Turkish=28 X 28  Kara yok. Bol batık gemi.;
+	}
+[john's pass]
+	{
+	Turkish=John geçidi;
+	}
+[10 X 15  Follow the river up the middle, if you dare!]
+	{
+	Turkish=10 X 15  Cesaretin varsa nehri ortadan yukarı takip et!;
+	}
+[lake shore]
+	{
+	Turkish=Göl kıyısı;
+	}
+[13 X 7  Large lake with islands in the middle.]
+	{
+	Turkish=13 X 7  Ortasında adalar olan büyük göl.;
+	}
+[luschaven]
+	{
+	Turkish=luschaven;
+	}
+[17 X 16 Battle for control of dry land.]
+	{
+	Turkish=17 X 16 Kuru karanın kontrolü için savaş.;
+	}
+[lusch puppy]
+	{
+	Turkish=Küçük Lusch;
+	}
+[11 X 7  Small map divided by grand mountains.]
+	{
+	Turkish=11 X 7  Büyük dağlarla bölünmüş küçük harita.;
+	}
+[moon quartet]
+	{
+	Turkish=Ay dörtlüsü;
+	}
+[20 X 20 Great map for team play.  Light side vs. dark side.]
+	{
+	Turkish=20 X 20 Takım oyunu için harika harita. Aydınlık taraf karanlık tarafa karşı.;
+	}
+[mounds of mars]
+	{
+	Turkish=Mars tepeleri;
+	}
+[8 X 17  For more than two players, play teams, North vs. South.]
+	{
+	Turkish=8 X 17  İkiden fazla oyuncuda takımla oyna, Kuzey, Güneye karşı.;
+	}
+[ooooweeee]
+	{
+	Turkish=ooooweeee;
+	}
+[19 X 19  Nine islands of love and understanding.  Let's hug.]
+	{
+	Turkish=19 X 19  Sevgi ve anlayış dolu dokuz ada. Sarılalım.;
+	}
+[pillopeens]
+	{
+	Turkish=pillopeens;
+	}
+[17 X 27 Island-hopping map.]
+	{
+	Turkish=17 X 27 Ada atlama haritası.;
+	}
+[plains and passes]
+	{
+	Turkish=Ovalar ve geçitler;
+	}
+[20 X 20  Large map with lots of metal.]
+	{
+	Turkish=20 X 20  Bol metal bulunan büyük harita.;
+	}
+[polar range]
+	{
+	Turkish=Kutup sıradağları;
+	}
+[20 X 20  Large polar ice cap map. A bleak and forbidding world.]
+	{
+	Turkish=20 X 20  Büyük kutup buz örtüsü haritası. Kasvetli ve çetin bir dünya.;
+	}
+[polyp fields]
+	{
+	Turkish=Polip tarlaları;
+	}
+[27 X 22  Large geometric polyps litter this battlefield.]
+	{
+	Turkish=27 X 22  Büyük geometrik polipler bu savaş alanına saçılmış.;
+	}
+[red river]
+	{
+	Turkish=Kızıl nehir;
+	}
+[21 X 30  Large river separates two land masses.]
+	{
+	Turkish=21 X 30  Büyük nehir iki kara kütlesini ayırır.;
+	}
+[red river north]
+	{
+	Turkish=Kızıl nehir kuzeyi;
+	}
+[21 X 14  Smaller segment of Red River.]
+	{
+	Turkish=21 X 14  Kızıl nehrin daha küçük parçası.;
+	}
+[ror shock]
+	{
+	Turkish=ror shock;
+	}
+[26 X 26 Ocean Battles are a must for this fine map.  Big surprise in center!]
+	{
+	Turkish=26 X 26 Bu güzel haritada deniz savaşları şart. Merkezde büyük sürpriz!;
+	}
+[sail away]
+	{
+	Turkish=Yelken aç;
+	}
+[12 X 20 High winds sweep these islands.]
+	{
+	Turkish=12 X 20 Sert rüzgar bu adaları süpürür.;
+	}
+[sector 410b]
+	{
+	Turkish=Sektör 410b;
+	}
+[25 X 22  Large mountains with narrow passes.]
+	{
+	Turkish=25 X 22  Dar geçitli yüksek dağlar.;
+	}
+[show down]
+	{
+	Turkish=Hesaplaşma;
+	}
+[11 X 5  Meet in the middle.]
+	{
+	Turkish=11 X 5  Ortada buluş.;
+	}
+[slate gordon]
+	{
+	Turkish=slate gordon;
+	}
+[23 X 15 Great map for east/west rivalries.  Earthquakes.]
+	{
+	Turkish=23 X 15 Doğu/batı çekişmesi için harika harita. Depremler.;
+	}
+[slated fate]
+	{
+	Turkish=Kayrak kaderi;
+	}
+[7 x 12 Search for metal in crevices.]
+	{
+	Turkish=7 x 12 Yarıklarda metal ara.;
+	}
+[steel jungle]
+	{
+	Turkish=Çelik cangıl;
+	}
+[20 x 10  Wake up and smell the coffee with the Morning War Show.]
+	{
+	Turkish=20 x 10  Sabah Savaş Şovu ile uyan ve kahve kokusunu al.;
+	}
+[surface meltdown]
+	{
+	Turkish=Yüzey erimesi;
+	}
+[15 X 17  Bumps, bumps, and more bumps.]
+	{
+	Turkish=15 X 17  Tümsek, tümsek ve daha çok tümsek.;
+	}
+[temblorian mist]
+	{
+	Turkish=Temblor sisi;
+	}
+[12 X 15  Make your way around the edges or fly across the center.]
+	{
+	Turkish=12 X 15  Kenarlardan dolan ya da merkezin üzerinden uç.;
+	}
+[the barrier reef]
+	{
+	Turkish=Set resifi;
+	}
+[19 X 19  Body of water separates two land masses.  Great underwater starts!]
+	{
+	Turkish=19 X 19  Bir su kütlesi iki kara kütlesini ayırır. Harika sualtı başlangıçları!;
+	}
+[the bayou]
+	{
+	Turkish=Bataklık;
+	}
+[20 X 20  Strong currents rush through this Bayou.]
+	{
+	Turkish=20 X 20  Güçlü akıntılar bu bataklıktan geçer.;
+	}
+[town & country]
+	{
+	Turkish=Kent ve kır;
+	}
+[17 X 17  Urban vs. rural.]
+	{
+	Turkish=17 X 17  Kent kıra karşı.;
+	}
+[trout farm]
+	{
+	Turkish=Alabalık çiftliği;
+	}
+[15 X 15  Watch out for the sinkhole in the middle.]
+	{
+	Turkish=15 X 15  Ortadaki obruğa dikkat et.;
+	}
+
+// Download Maps
+
+[cloudious prime]
+	{
+	Turkish=cloudious prime;
+	}
+[20 X 20  Island in the clouds with giant canyon.  Absurd wind.]
+	{
+	Turkish=20 X 20  Dev kanyonlu bulut adası. Akıl almaz rüzgar.;
+	}
+
+// Battle Tactics Maps
+
+[aqua verdigris]
+	{
+	Turkish=Su patinası;
+	}
+[12 x 12  Fighting around rings of Dragon's Teeth.]
+	{
+	Turkish=12 x 12  Ejderha dişleri halkalarının çevresinde savaş.;
+	}
+[brilliant cut lake]
+	{
+	Turkish=Pırlanta gölü;
+	}
+[15 X 15  Fighting around a large lake.]
+	{
+	Turkish=15 X 15  Büyük bir gölün çevresinde savaş.;
+	}
+[canal crossing]
+	{
+	Turkish=Kanal geçişi;
+	}
+[16 X 17  Four land masses separated by canals.]
+	{
+	Turkish=16 X 17  Kanallarla ayrılmış dört kara kütlesi.;
+	}
+[metal gridlock]
+	{
+	Turkish=Metal kilitlenmesi;
+	}
+[20 X 20  Five squares interlock to create defensive forts.]
+	{
+	Turkish=20 X 20  Beş kare kenetlenip savunma kaleleri oluşturur.;
+	}
+[wretched ridges]
+	{
+	Turkish=Sefil sırtlar;
+	}
+[12 X 12  High ridges protect defensive areas.  Light forest.]
+	{
+	Turkish=12 X 12  Yüksek sırtlar savunma alanlarını korur. Seyrek orman.;
+	}
+[coremageddon]
+	{
+	Turkish=coremageddon;
+	}
+[13 X 20  Set up ambushes in this Core Prime maze.]
+	{
+	Turkish=13 X 20  Bu CORE Prime labirentinde pusu kur.;
+	}
+
+// Possible Error Messages
+
+[The requested campaign file, %s, does not exist.]
+	{
+	Turkish=İstenen sefer dosyası bulunamadı: %s.;
+	}
+[Error -- Unnamed Mission]
+	{
+	Turkish=Hata -- adsız görev;
+	}
+[The requested mission file, %s, does not exist.]
+	{
+	Turkish=İstenen görev dosyası bulunamadı: %s.;
+	}
+[No GlobalHeader block in mission file!]
+	{
+	Turkish=Görev dosyasında GlobalHeader bloğu yok!;
+	}
+[No description available]
+	{
+	Turkish=Açıklama yok;
+	}
+[No suitable schema type in mission file!]
+	{
+	Turkish=Görev dosyasında uygun şema türü yok!;
+	}
+[Very bad news!  No MSG!]
+	{
+	Turkish=Çok kötü haber!  MSG yok!;
+	}
+[Hey, hoser!  The default meteor shower data was bogus!]
+	{
+	Turkish=Hey, şapşal!  Varsayılan meteor yağmuru verisi bozuktu!;
+	}
+[Could not open movie file, please check filename in INI.]
+	{
+	Turkish=Film dosyası açılamadı, INI içindeki dosya adına bak.;
+	}
+[Could not setup Direct Draw to play movie.]
+	{
+	Turkish=Filmi oynatmak için Direct Draw ayarlanamadı.;
+	}
+[Unsupported pixel format.]
+	{
+	Turkish=Desteklenmeyen piksel biçimi.;
+	}
+[Smacker Error]
+	{
+	Turkish=Smacker hatası;
+	}
+[Summary]
+	{
+	Turkish=Özet;
+	}
+[getbuilt]
+	{
+	Turkish=inşa ediliyor;
+	}
+[TransportDrop]
+	{
+	Turkish=Nakliye boşaltma;
+	}
+[QueryTransport]
+	{
+	Turkish=Nakliye sorgusu;
+	}
+[EndTransport]
+	{
+	Turkish=Nakliye sonu;
+	}
+[QueryLandingPad]
+	{
+	Turkish=İniş pisti sorgusu;
+	}
+[Invalid logo setting]
+	{
+	Turkish=Geçersiz logo ayarı;
+	}
+[Unable to start the thread!]
+	{
+	Turkish=İş parçacığı başlatılamadı!;
+	}
+[Please insert the Total Annihilation CD and try again]
+	{
+	Turkish=Total Annihilation CD'sini tak ve yeniden dene;
+	}
+[Please insert the Play CD and try again]
+	{
+	Turkish=Oyun CD'sini tak ve yeniden dene;
+	}
+[The Play CD was not found]
+	{
+	Turkish=Oyun CD'si bulunamadı;
+	}
+[Please insert the Play CD]
+	{
+	Turkish=Oyun CD'sini tak;
+	}
+[Click to continue.]
+	{
+	Turkish=Devam etmek için tıkla.;
+	}
+[Done]
+	{
+	Turkish=Bitti;
+	}
+[Record "%s" missing from feature files]
+	{
+	Turkish=Yer öğesi dosyalarında "%s" kaydı yok;
+	}
+[An error occurred trying to use this service]
+	{
+	Turkish=Bu hizmet kullanılırken hata oluştu;
+	}
+[expecting int]
+	{
+	Turkish=int bekleniyor;
+	}
+[parse error reading AI profile %s\n%s\nlast string =]
+	{
+	Turkish=YZ profili %s okunurken ayrıştırma hatası\n%s\nson dizge =;
+	}
+[None]
+	{
+	Turkish=Yok;
+	}
+[Incompatible units found.  They will be ignored.  Please download the latest version of the game.]
+	{
+	Turkish=Uyumsuz birimler bulundu. Yok sayılacaklar. Oyunun son sürümünü indir.;
+	}
+[Can't load MOVEINFO.TDF]
+	{
+	Turkish=MOVEINFO.TDF yüklenemedi;
+	}
+[Can't load GAMEDATA.TDF]
+	{
+	Turkish=GAMEDATA.TDF yüklenemedi;
+	}
+[Connecting  (ESC to abort)]
+	{
+	Turkish=Bağlanıyor  (iptal için ESC);
+	}
+[Lock]
+	{
+	Turkish=Kilit;
+	}
+[Blk]
+	{
+	Turkish=Siyah;
+	}
+[Gray]
+	{
+	Turkish=Gri;
+	}
+[Connecting... press ESC to abort]
+	{
+	Turkish=Bağlanıyor... iptal için ESC'ye bas;
+	}
+[Unable to find any modems]
+	{
+	Turkish=Hiç modem bulunamadı;
+	}
+[allied with]
+	{
+	Turkish=ittifak kurdu:;
+	}
+[broke alliance with]
+	{
+	Turkish=ittifakı bozdu:;
+	}
+[There are not enough game CDs present to play]
+	{
+	Turkish=Yeterli sayıda oyun CD yok;
+	}
+[You must select a map before starting]
+	{
+	Turkish=Başlamadan önce bir harita seç;
+	}
+[\nYou must select a map before starting\n\n]
+	{
+	Turkish=\nBaşlamadan önce bir harita seç\n\n;
+	}
+[n/a]
+	{
+	Turkish=yok;
+	}
+[N/A]
+	{
+	Turkish=YOK;
+	}
+[View Map]
+	{
+	Turkish=Haritayı gör;
+	}
+[Could not find the multiplayer map!!]
+	{
+	Turkish=Çok oyunculu harita bulunamadı!!;
+	}
+[does not have this map]
+	{
+	Turkish=bu haritaya sahip değil;
+	}
+[There are no saved lists to choose from]
+	{
+	Turkish=Seçilecek kayıtlı liste yok;
+	}
+[has left the scene]
+	{
+	Turkish=sahneden ayrıldı;
+	}
+[has been shown the door]
+	{
+	Turkish=dışarı atıldı;
+	}
+[has gone to a better place]
+	{
+	Turkish=daha iyi bir yere gitti;
+	}
+[has bowed out]
+	{
+	Turkish=sahneden çekildi;
+	}
+[has terminated]
+	{
+	Turkish=sonlandı;
+	}
+[has been eradicated]
+	{
+	Turkish=kökten silindi;
+	}
+[has been liquidated]
+	{
+	Turkish=tasfiye edildi;
+	}
+[has been obliterated]
+	{
+	Turkish=yerle bir edildi;
+	}
+[forces have been obliterated]
+	{
+	Turkish=kuvvetleri yerle bir edildi;
+	}
+[vermin have been exterminated]
+	{
+	Turkish=haşereleri yok edildi;
+	}
+[forces have gone to a better place]
+	{
+	Turkish=kuvvetleri daha iyi bir yere gitti;
+	}
+[dropping a player due to TIMEOUT_SECS]
+	{
+	Turkish=TIMEOUT_SECS yüzünden oyuncu çıkarılıyor;
+	}
+[%s is joining the game...]
+	{
+	Turkish=%s oyuna katılıyor...;
+	}
+[player dropped by DPSYS_]
+	{
+	Turkish=DPSYS_ yüzünden oyuncu düştü;
+	}
+[player '%s' set to startpos %d\n]
+	{
+	Turkish=oyuncu '%s' başlangıç yeri %d\n;
+	}
+[You're out!  Continue Watching?]
+	{
+	Turkish=Elendin!  İzlemeye devam edilsin mi?;
+	}
+[Weapon]
+	{
+	Turkish=Silah;
+	}
+[Please insert a Total Annihilation CD and try again]
+	{
+	Turkish=Bir Total Annihilation CD'sini tak ve yeniden dene;
+	}
+[Wind Speed]
+	{
+	Turkish=Rüzgar;
+	}
+[Gravity]
+	{
+	Turkish=Yerçekimi;
+	}
+[Tidal Strength]
+	{
+	Turkish=Gelgit gücü;
+	}
+[There are no skirmish maps to choose from]
+	{
+	Turkish=Seçilecek çatışma haritası yok;
+	}
+[There are no multiplayer maps to choose from]
+	{
+	Turkish=Seçilecek çok oyunculu harita yok;
+	}
+[The terrain for the selected map does not exist.]
+	{
+	Turkish=Seçilen haritanın arazisi yok.;
+	}
+[All players may not be in the same allied group.]
+	{
+	Turkish=Bütün oyuncular aynı müttefik grubunda olamaz.;
+	}
+[Error:  Sound system initialization failed.]
+	{
+	Turkish=Hata: Ses sistemi başlatılamadı.;
+	}
+[%s has taken the lead with %d kills]
+	{
+	Turkish=%s %d imha ile öne geçti;
+	}
+[has taken the lead with %d kills]
+	{
+	Turkish=%d imha ile öne geçti;
+	}
+[has taken the lead with]
+	{
+	Turkish=imha ile öne geçti:;
+	}
+[Player number %d invalid for unit %s]
+	{
+	Turkish=Oyuncu numarası %d birim %s için geçersiz;
+	}
+[Cost]
+	{
+	Turkish=Maliyet;
+	}
+[Build Time]
+	{
+	Turkish=İnşa süresi;
+	}
+[Max Velocity]
+	{
+	Turkish=Azami hız;
+	}
+[Acceleration]
+	{
+	Turkish=İvme;
+	}
+[Weapons]
+	{
+	Turkish=Silahlar;
+	}
+[Speed]
+	{
+	Turkish=Hız;
+	}
+[Game Speed Normal]
+	{
+	Turkish=Oyun hızı normal;
+	}
+[Invalid savegame file]
+	{
+	Turkish=Geçersiz kayıt dosyası;
+	}
+[Unable to start the loading thread!]
+	{
+	Turkish=Yükleme iş parçacığı başlatılamadı!;
+	}
+[DirectPlay registration failed.]
+	{
+	Turkish=DirectPlay kaydı başarısız.;
+	}
+[Demo Version]
+	{
+	Turkish=Demo sürüm;
+	}
+[Settings]
+	{
+	Turkish=Ayarlar;
+	}
+
+// Added for v2.0
+
+[Can't add another player when game is closed.]
+	{
+	Turkish=Oyun kapalıyken başka oyuncu eklenemez.;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-create the game session.\n]
+	{
+	Turkish=Direct Play yeni oyuncuyu ekleyemedi.\n\nÖnceki ekrana dön ve oyun oturumunu yeniden kur.\n;
+	}
+[Direct Play failed to add new player.\n\nRecommended you go to previous screen and re-join the game session.\n]
+	{
+	Turkish=Direct Play yeni oyuncuyu ekleyemedi.\n\nÖnceki ekrana dön ve oyun oturumuna yeniden katıl.\n;
+	}
+[Square]
+	{
+	Turkish=Kare;
+	}
+[Circle]
+	{
+	Turkish=Daire;
+	}
+[Triangle]
+	{
+	Turkish=Üçgen;
+	}
+[Star]
+	{
+	Turkish=Yıldız;
+	}
+[Moon]
+	{
+	Turkish=Ay;
+	}
+[has joined the]
+	{
+	Turkish=gruba katıldı;
+	}
+[has left the]
+	{
+	Turkish=gruptan ayrıldı;
+	}
+[anemone]
+	{
+	Turkish=deniz şakayığı;
+	}
+[coral]
+	{
+	Turkish=mercan;
+	}
+[seaweed]
+	{
+	Turkish=deniz yosunu;
+	}
+[kelp]
+	{
+	Turkish=iri yosun;
+	}
+[You are placed in watch mode because you are hosting AI players which are still alive.  If you exit, they will be terminated.]
+	{
+	Turkish=Hala yaşayan YZ oyuncularının kurucusu olduğun için izleme kipindesin. Çıkarsan onlar sonlandırılır.;
+	}
+[Unable to initialize scores reporting.]
+	{
+	Turkish=Puan bildirimi başlatılamadı.;
+	}
+[No sound driver is available for use.\n]
+	{
+	Turkish=Kullanılabilir ses sürücüsü yok.\n;
+	}
+[Debug:  You must be in full-screen mode to play a movie.]
+	{
+	Turkish=Hata ayıklama: Film oynatmak için tam ekran gerekir.;
+	}
+[Old TED format no longer supported!]
+	{
+	Turkish=Eski TED biçimi artık desteklenmiyor!;
+	}
+[Can not start game with all players on the same team.]
+	{
+	Turkish=Bütün oyuncular aynı takımdayken oyun başlamaz.;
+	}
+
+// Features
+
+[Transit Node]
+	{
+	Turkish=Ulaşım düğümü;
+	}
+[Microwave Relay]
+	{
+	Turkish=Mikrodalga rölesi;
+	}
+[Climatic Optimizer]
+	{
+	Turkish=İklim düzenleyici;
+	}
+[Truck]
+	{
+	Turkish=Kamyon;
+	}
+[Manhole]
+	{
+	Turkish=Rögar;
+	}
+[Public Art]
+	{
+	Turkish=Kamusal sanat;
+	}
+[Car]
+	{
+	Turkish=Araba;
+	}
+[Willy Gates Bldg]
+	{
+	Turkish=Willy Gates binası;
+	}
+[Barrier]
+	{
+	Turkish=Engel;
+	}
+[barrier]
+	{
+	Turkish=engel;
+	}
+[Oolok Tree]
+	{
+	Turkish=Oolok ağacı;
+	}
+[Gasbag]
+	{
+	Turkish=Gaz kesesi;
+	}
+[Bridge]
+	{
+	Turkish=Köprü;
+	}
+[Ruined Bridge]
+	{
+	Turkish=Yıkık köprü;
+	}
+[Factory]
+	{
+	Turkish=Fabrika;
+	}
+[Cheese Factory]
+	{
+	Turkish=Peynir fabrikası;
+	}
+[Public Hygiene Pod]
+	{
+	Turkish=Umumi hijyen kapsülü;
+	}
+[Monorail Track]
+	{
+	Turkish=Monoray hattı;
+	}
+[Streetlight]
+	{
+	Turkish=Sokak lambası;
+	}
+
+// Chat messages
+
+[OK.  Will share metal if above %d]
+	{
+	Turkish=OK.  Metal %d üstündeyse paylaşırım;
+	}
+[OK.  Will share energy if above %d]
+	{
+	Turkish=OK.  Enerji %d üstündeyse paylaşırım;
+	}
+
+// Not in 3.1c's table: GUI captions and messages that 3.1c's own translate.tdf does not key
+
+[Begin Mission]
+	{
+	Turkish=Göreve başla;
+	}
+[Choose where you would like your scores reported to:]
+	{
+	Turkish=Puanların bildirileceği yeri seç:;
+	}
+[CREDITS]
+	{
+	Turkish=JENERİK;
+	}
+[has modified his executable.  Game integrity breached.]
+	{
+	Turkish=yürütülebilir dosyasını değiştirdi. Oyun bütünlüğü bozuldu.;
+	}
+[has not responded for %d seconds]
+	{
+	Turkish=%d saniyedir yanıt vermiyor;
+	}
+[Have a nice day]
+	{
+	Turkish=İyi günler;
+	}
+[Mission Brief]
+	{
+	Turkish=Görev özeti;
+	}
+[Name Of List To Save]
+	{
+	Turkish=Kaydedilecek liste adı;
+	}
+[Pevious Menu]
+	{
+	Turkish=Önceki menü;
+	}
+[Select Player:]
+	{
+	Turkish=Oyuncu seç:;
+	}
+[Synching]
+	{
+	Turkish=Eşitleniyor;
+	}
+[Watching Allowe]
+	{
+	Turkish=İzleyici açık;
+	}
+
+// Not in 3.1c's table: Map names and descriptions
+
+[luschinfloggen]
+	{
+	Turkish=luschinfloggen;
+	}
+[8 X 10  Find your way through the shallows into the enemy base.]
+	{
+	Turkish=8 X 10  Sığlıklardan düşman üssüne yolunu bul.;
+	}
+
+// Not in 3.1c's table: Planet names, as the maps give them
+
+[Green planet]
+	{
+	Turkish=Yeşil gezegen;
+	}
+[Lava]
+	{
+	Turkish=Lav;
+	}
+[Red Planet]
+	{
+	Turkish=Kızıl gezegen;
+	}
+[Lush]
+	{
+	Turkish=Yemyeşil;
+	}
+[Ice]
+	{
+	Turkish=Buz;
+	}
+[Archipelago]
+	{
+	Turkish=Takımada;
+	}
+[Slate]
+	{
+	Turkish=Kayrak;
+	}
+[Lunar]
+	{
+	Turkish=Ay;
+	}
+[Water World]
+	{
+	Turkish=Su dünyası;
+	}
+[Acid]
+	{
+	Turkish=Asit;
+	}
+[Crystal]
+	{
+	Turkish=Kristal;
+	}
+[Wet Desert]
+	{
+	Turkish=Islak çöl;
+	}
+[Desert]
+	{
+	Turkish=Çöl;
+	}
+[Urban]
+	{
+	Turkish=Kentsel;
+	}

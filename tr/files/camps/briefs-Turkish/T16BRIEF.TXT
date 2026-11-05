@@ -1,0 +1,8 @@
+Misyon T16: Yıldırım Keşfi
+
+İstihbarat raporları, ARM'ın yakınımızda bir üs kurduğunu gösteriyor.  Bölgeyi keşfet. Onlar bizim üssü bulmadan onlarınkini bul.
+
+Öneriler:
+Saldırgan keşif yap ve karşılaştığın her ARM keşif birimini yok et.
+Savaş taktikleri:
+Üssüne anında geri dönmek işe yarar.  Üssü ekranda ortala ve yeri işaretlemek için Ctrl+F5'e (ya da F6, F7 veya F8) bas.  Sonra F5 (vb.) ile işaretli yere anında dönebilirsin.

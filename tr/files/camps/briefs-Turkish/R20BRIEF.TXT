@@ -1,0 +1,20 @@
+Misyon R20: Miniement çıkarması
+
+&RAcil durum!&
+CORE, Miniement Adası'ndaki kuvvetlerimize güçlü bir saldırı başlattı. Deniz kuvvetlerinin bir bölümü ya da tümü ilk kıyı bombardımanından sonra çekilebilir.
+Bölgenin haritası iyi çıkarılmış. Glş. radar kulen savaşın net bir görüntüsünü vermeli. Tersanen yüksek öncelikli bir hedef sayılıyor ve onu kurtarman pek olası değil.
+
+Emrin, işgali durdurmak. Her türden tüm düşman birimlerini yok et.
+
+Öneriler:
+Yeni tahkimat ile gezici birimlerden bir karışım inşa etmeye çalış.
+
+
+Savaş taktikleri:
+Radarınla düşman birimlerini uzun menzilden hedef almak hayati.
+
+Sol tık arayüzünü kullanıyorsan uzun menzilli bir birim seç (örneğin bir Guardian), SALDIR düğmesine bas, sonra radar haritasında seçili birimin menzili içindeki kırmızı bir noktaya sol tıkla.
+
+Sağ tık arayüzünde uzun menzilli birimi seç ve radar haritasındaki kırmızı bir noktaya sağ tıkla.
+
+Bu teknik önemli. Birimlerin, görüş menzillerinin dışındaki düşman birimlerini kendiliğinden hedef almaz.

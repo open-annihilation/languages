@@ -1,0 +1,8 @@
+MİSYON 10.2CORE
+
+İSTİHBARAT HATTI:
+CORE, kuzeyde Koridor denen geçidi yarmalı. Koridor'un iyi savunulduğunu bekle. Ancak bir nakliye gemisini Koridor'dan geçirebildiğinde geçidin güvenli olduğunu kesinlikle biliriz.
+
+&RBir nakliye gemisi kur ve onu Koridor'dan güvenle geçir&
+
+HEMEN YERİNE GETİR.

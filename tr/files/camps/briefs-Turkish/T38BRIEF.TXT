@@ -1,0 +1,21 @@
+Misyon T38: Ateş altında savaş
+
+Plato 368 her iki taraf için de hayati önemde. Hyenbacku Sırtı boyunca çarpışma özellikle şiddetliydi. CORE birlikleri bizi yavaş yavaş geri itti.
+
+Düşmanın konuşlanmasına dair istihbarat raporları güvenilir çıksa da birkaç hava taarruzu onlarca Cobra ile kolayca püskürtüldü. Yeni hava taarruzları boşuna. Uçak fabrikamız, uçaklarını savunma devriyesine gönderecek biçimde ayarlı.
+
+CORE'u kendi usulünce yenmeli, Big Bertha'larımızla onların Intimidator topunu yok etmeliyiz. CORE Intimidator'larını çoktan inşa ettiğinden Bertha'nı ateş altında kurman gerek.
+
+İstihbarat, CORE'un yaklaşık 30 dakika içinde başlayacak büyük bir hava taarruzu hazırladığını bildiriyor. Intimidator'larını yok etmek için bu kadar süren var.
+
+Ana enerji kaynağın oldukları için CORE'un füzyon reaktörlerini yok etmesine izin verme.
+
+Öneriler:
+Çalışırken örtü sağlamak üzere tahkimat duvarlarını kullan. Bertha'ları en batıdaki uçurumlara kurmak, düşman Intimidator'larını menzilde tutar.
+
+
+Savaş taktikleri:
+Fabrikalar için devriye yolu kurmak mümkün. Bunun için fabrikayı seç ve DEVRİYE düğmesine bas. Ara nokta oluşturmak üzere SHIFT tuşunu basılı tutup haritaya tıkla. Fabrikanın ürettiği her yeni birim, bütün ara noktalardan geçip fabrikaya dönerek kesintisiz bir döngüde devriye gezer.
+
+Bir fabrikanın devriye emirlerini iptal etmek istersen fabrikayı seç ve
+DUR düğmesine bas.

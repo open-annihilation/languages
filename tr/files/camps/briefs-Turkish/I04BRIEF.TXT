@@ -1,0 +1,11 @@
+Misyon I04: Kral'da temizlik
+
+Kral Körfezi'nin güneydoğu kenarındaki ilkel ARM kuvvetini dağıttık. Çok birim kalsa da bütün gezici inşaat birimlerinin yok edildiğini düşünüyoruz.
+
+Bölgeyi tara ve sağ kalan bütün ARM birimlerini yok et.
+
+Öneriler:
+Kuvvetlerini dağıtma. Keşif birimlerinin hepsini ilk çatışmalarda harcama. Düşmanı sonra ararken çok işe yararlar.
+
+Savaş taktikleri:
+Birimlerinin dağıldığını görürsen hepsini seçmek için Ctrl+A kullan ve onları merkezi bir noktaya yolla. Aynı biçimde ekranda görünen bütün birimleri seçmek için Ctrl+S kullan.

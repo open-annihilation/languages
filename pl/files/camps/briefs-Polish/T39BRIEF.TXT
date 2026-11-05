@@ -1,0 +1,16 @@
+Misja T39: Przedgórze Yerrot
+
+&YAlarm!&
+Wszystkie próby znalezienia wychodni rudy zawiodły i nie ma już wrogich wraków, z których dałoby się odzyskać metal. CORE zbudował w pobliżu Zaaw. fabrykę samolotów. Zaskakujący szturm zniszczył naszą bazę.
+
+Weź ocalałe jednostki i przejmij Zaaw. fabrykę samolotów, zanim przemóże cię oddział uderzeniowy wroga.
+
+
+Sugestie:
+Najlepiej sprawdziły się jednostki Obrońca i Flakowiec. Całkiem zniszczyły wrogie skrzydło lotnicze. Przez kilka minut atak powinien więc być bezpieczny. CORE zbudował wiele stałych umocnień, które padają pod zmasowanym szturmem Pająków.
+
+Taktyka bitwy:
+Jeden strzał Pająka przez krótki czas nie pozwala wrogim jednostkom odpowiadać ogniem.
+
+Pamiętaj, że przejęte jednostki wroga stoją na rozkazie Bez ognia i musisz ręcznie zmienić ich stałe rozkazy. Jeśli planujesz dużo przejęć, naciśnij CTRL+W (zaznacza wszystkie twoje jednostki bojowe), a potem ustaw każdej jednostce rozkaz Ogień zwrotny. Dzięki temu nie zniszczysz fabryki, którą próbujesz
+przejąć.

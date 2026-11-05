@@ -1,0 +1,11 @@
+Misyon T11: Grantham Derinliği Üzerinde İt Dalaşı
+
+Grantham Derinliği'nin bitmeyen sisleri üzerindeki gökte hava üstünlüğünü kazanmalıyız.
+
+Bütün düşman birimlerini yok et.
+
+Öneriler:
+Vamp'lar, serbestçe hareket edebildikleri it dalaşında en etkilidir.
+
+Savaş taktikleri:
+Bir uçağın hareketini izlemek için birimi seç, sonra T'ye bas. Uçaklarına düşmanı kovalamayı buyurmak için sürekli emirler düğmesini kullan (uçağı seç, sonra emirleri Dolan'a çevirmek için Manevra yazılı düğmeye tıkla).

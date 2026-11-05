@@ -1,0 +1,11 @@
+Misyon T23: Plato Koşusu
+
+Skyreld Platosu'ndaki ARM üssü, bu sektörde ARM'ın kullandığı metalin çoğunu üretir.  ARM metal ekonomisini yok ederek bu bölgedeki denetimimizi güçlendirebiliriz.
+
+Bütün Moho metal üreticilerini yok et.
+
+Öneriler:
+Gelen Guardian ve Bertha mermilerinden sıyrılmak için ilerlemeyi kesme.  Bir hedefe D-Gun sıkmak için durmadan önce Bertha mermisinin patlamasını bekle.
+
+Savaş taktikleri:
+Bütün birimleri seçip grup halinde yürütmek için Ctrl+A kullan. Komutanın D-Gun'unu yönetmek için D tuşu yine kullanılabilir.

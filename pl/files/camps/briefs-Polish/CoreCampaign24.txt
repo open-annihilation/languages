@@ -1,0 +1,8 @@
+MISJA 24.3CORE
+
+PODSŁUCH:
+ARM zadał nam niewielkie niepowodzenie. Prawdopodobieństwo, że zużyli więcej zasobów, niż było racjonalne, jest wysokie. Przetrwaj nadchodzące natarcie, a z ARM będzie prawie koniec.
+
+&RPrzetrwaj.&
+
+ZRÓB TO TERAZ.

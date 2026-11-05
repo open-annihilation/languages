@@ -1,0 +1,13 @@
+Misja R29: Oczekiwanie
+
+Kilka lekkich pojazdów CORE weszło na ten teren. Zbuduj ekstraktor metalu na dowolnym dostępnym złożu rudy. Zniszcz wszystkich wrogów na drodze.
+
+Sugestie:
+Rozpoznawaj teren, aż znajdziesz złoże metalu. Najbliższe leży tuż na północ od miejsca startu. Masz reaktor fuzyjny, więc o energię się nie martw.
+
+Jeśli reaktor fuzyjny wejdzie pod ostrzał, wróć szybko i ocal go przed zniszczeniem.
+
+Taktyka bitwy:
+Aby postawić budynek, zaznacz Dowódcę i kliknij przycisk BUDUJ (tuż pod mapą radaru). Włączy się menu budowy Dowódcy. Menu pokazuje jednostki, które Dowódca potrafi budować. (Jednostki niedostępne w tej misji są wyszarzone.) Kliknij lewym przyciskiem obraz jednostki i najedź kursorem na mapę główną. Za kursorem podąży zielona ramka. Kolejne kliknięcie lewym przyciskiem stawia budynek na terenie.
+
+Nie postawisz jednostki, gdy jej obrys jest czerwony. Najpewniej wybrane miejsce ma nierówny teren. Przesuwaj kursor po mapie, aż obrys znów zrobi się zielony.

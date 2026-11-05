@@ -1,0 +1,13 @@
+Misyon R07: Hanan üssünü ele geçir
+
+&REn yüksek öncelik&
+Kabuk 12'ye saldırılarımız kötü gidiyor. CORE'un ekonomisini çökertmemiz gerektiğine karar verildi.
+
+Konumunun kuzeyinde bir yerdeki Hanan üssünü ele geçir ya da yok et. 40 dakika boyunca karşı saldırılara dayan ve tüm gezici düşman birimlerini yok et.
+
+Öneriler:
+Düşman savunmasını güçlendirmeden hemen saldır. Olabildiğince çok binayı ele geçir.
+CORE'un bölgede çok uçağı var. Defender birimleri ve başka uçaksavar savunmaları inşa et.
+
+Savaş taktikleri:
+Ele geçirilen birimler ve fabrikalar Ateş kes durumundadır. Ele geçirdikten sonra birimin sürekli emirlerini değiştir. Bir fabrikanın ürettiği tüm birimler onun ayarlanmış emirlerine geçer.

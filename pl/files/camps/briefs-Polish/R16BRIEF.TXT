@@ -1,0 +1,12 @@
+Misja R16: Przeprawa przez mielizny Kerrap
+
+Reakcyjny ARM użył sił morskich, by nie dopuścić nas do brodu oznaczonego jako mielizny Kerrap.
+
+Przeprowadź siły przez bród i zniszcz wroga. Masz 40 minut. Co najmniej jeden Zaaw. pojazd budowlany musi się przeprawić.
+Sugestie:
+Zniszcz flotę ARM, zanim ruszysz na bród. Wróg ma bardzo ciężkie działa. Nie ryzykuj sobą.
+
+Taktyka bitwy:
+Ctrl+W zaznaczy wszystkie uzbrojone jednostki mobilne oprócz Dowódcy.
+
+Ctrl+P zaznaczy wszystkie bojowe samoloty.

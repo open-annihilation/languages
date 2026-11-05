@@ -1,0 +1,18 @@
+Misja T34: Czarna skrzynka
+
+&RUwaga - najwyższy priorytet&
+Niedawno wystrzelono pocisk szpiegowski na terytorium ARM. Jego systemy łączności zniszczono, zanim zdążył cokolwiek nadać. Kapsuła pocisku spadła w końcu na miasto Pikas, pokonując przy zejściu dwie trzecie obwodu planety.
+
+Niedawne ulepszenie naszych kapsuł pocisków dodało czarną skrzynkę, która przeżyje upadek z orbity. W bankach pamięci tej czarnej skrzynki są zdjęcia z orbity odsłaniające obronę ARM na ponad połowie świata.
+
+Zaatakuj miasto Pikas i przejmij szczątki tego satelity, podobno zakopane w kraterze gdzieś w tym rejonie. Każdy Zaaw. pojazd budowlany, który dotrze do tego krateru, odzyska informacje.
+
+Część twoich transportów wiezie Zaaw. pojazdy budowlane. Nie strać ich!
+
+Sugestie:
+Okrętami zniszcz obronę naziemną, aby transporty mogły bezpiecznie wylądować.
+Taktyka bitwy:
+Aby przyspieszyć wyładunek transportów, kliknij przycisk WYŁAD. Potem, trzymając klawisz SHIFT, kliknij kilka razy lewym przyciskiem wzdłuż wybrzeża. Ustawisz naraz w kolejce kilka rozkazów wyładunku. Rozrzuć punkty wyładunku, żeby jednostki nie nakładały się na siebie.
+
+
+&ROstrożnie:& Dowódca jest w nieuzbrojonym transporcie Walkiria. Jeśli ten transport powietrzny zostanie zniszczony, zginie też Dowódca.

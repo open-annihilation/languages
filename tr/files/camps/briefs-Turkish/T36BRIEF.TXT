@@ -1,0 +1,16 @@
+Misyon T36: Denizaltı avı
+
+Bilim insanlarımızdan biri, okyanus tabanına demirlenmesi gereken dayanıklı bir alet paketi geliştirdi. Yakın sonar istasyonlarının verisiyle sismik P dalgalarını karşılaştırarak düşman denizaltı üslerinin yaklaşık yerini uzun menzilden saptayabiliyor.
+
+Bu tesise dikkat çekmemeye çalıştık ama CORE kuşkulandı. Torpido bombardıman uçağı saldırısıyla denizaltı avcılarımızın çoğunu saf dışı ettiler. İstihbarat, küçük kuvvetini bitirmek üzere yolda bir denizaltı filosu olduğunu bildiriyor.
+
+Piranha'nla bütün düşman denizaltılarını yok et. Sismik algılayıcının ya da sonar istasyonunun yok olmasına izin verme.
+
+
+Öneriler:
+Gelen torpidolar kıçından geçip ıskalasın diye düşmanın yolunun üzerinden geç.
+
+Savaş taktikleri:
+Düşman denizaltıları görüş menziline girmeden ateş etmen hayati önem taşır. Görüş menzilinin dışındaki düşman birimlerine ateş etmek için radar ekranını kullan.
+
+Not: Piranha kendiliğinden ateş etmiyorsa denizaltın ateş açınca durur. Torpidoyu fırlatınca onu hemen yeniden yürüt.

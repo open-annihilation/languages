@@ -1,0 +1,24 @@
+MISJA 7.001ARMT
+CORE okopał się na tym skalistym świecie... i wygląda na to, że gra na zwłokę.
+
+Dwa z czterech światów są już pod kontrolą ARM. Trzeba szybko zabezpieczyć także Temblor.
+
+&Y*PRIORYTET KRYTYCZNY*&
+Temblor jest bogaty w metal, choć do złóż trudno się dostać, a najbogatsze żyły skupiają się w głębokich rozpadlinach.
+
+Wypchnięcie CORE z Temblor da ARM ważne źródło tego cennego surowca... i odbierze je CORE.
+
+MELDUNEK
+Skorupa planety Temblor jest niestabilna i podatna na trzęsienia ziemi. Warto mieć jednostkę budowlaną stale na patrolu po bazie, żeby naprawiała szkody po trzęsieniu.
+
+Nieliczni ocalali zwiadowcy meldują o zamaskowanych polach min lądowych. Oczyszczaj miny w miarę postępów.
+
+Stanowiska CORE będą silnie umocnione, a dojścia zaminowane.
+
+Są nowe jednostki, które pomogą te przeszkody pokonać. Z niezawodnego Mikrusa zrobiono Kbot klasy Wojownik. Masz też nowe umocnienia i miny do obrony bazy.
+
+&RPamiętaj, że CORE ma latarnię!&
+
+Aby ukończyć tę misję, musisz zniszczyć wszystkie jednostki CORE i oczyścić pola minowe.
+
+KONIEC

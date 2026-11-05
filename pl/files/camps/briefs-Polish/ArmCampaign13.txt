@@ -1,0 +1,10 @@
+MISJA 13.002ARMB
+Zniszcz bazę CORE położoną nad Stykiem Landowna.
+
+&YPRIORYTET&
+CORE zgromadził ogromny skład zapasów wojennych i próbuje zbudować wielką bazę ogniową po drugiej stronie bariery zwanej „Stykiem Landowna”. Pionowa ściana Styku ciągnie się przez wiele kilometrów tam, gdzie Skorupa 8 nasunęła się na Skorupę 7.
+
+MELDUNEK
+Aby zatrzymać CORE, musisz znaleźć drogę ponad Stykiem Landowna. &GWznieś się w powietrze, Dowódco.&
+
+KONIEC

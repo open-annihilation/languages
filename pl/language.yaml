@@ -1,0 +1,21 @@
+# SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+# SPDX-License-Identifier: GPL-3.0-only
+
+# Polish, built by tools/build.py (README.md). Polish letters (ą ć ę ł ń ó
+# ś ź ż and their capitals) are outside 3.1c's menu fonts, so the pack is
+# drawn in the modern fonts, whose sans faces travel with the game and hold
+# those letters; the pack brings no font of its own.
+oalang: 1
+tag: pl
+name: Polski
+english-name: Polish
+word: Polish
+version: "1"
+locales: [pl, pl-PL]
+fallbacks: []
+text: {needs: modern-fonts}
+unicode: true
+warmup: warmup.txt
+packaging: {revision: 1, date: 2026-11-05, packager: open-annihilation/languages tools/build.py}
+homepage: https://github.com/open-annihilation/languages
+requires: {engine: ">= 0.8.0"}

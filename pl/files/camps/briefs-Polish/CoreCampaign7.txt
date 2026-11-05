@@ -1,0 +1,8 @@
+MISJA 7.3CORE
+
+PODSŁUCH:
+Odizolowano dużą plagę ARM na Skorupie 2. ARM wygodnie zbudował tam farmę metalu. Przejęcie tamtejszych kopalń Moho oszczędzi nam budowy własnych. Steruj jednostkami ostrożnie, bo któraś może zniszczyć kopalnię Moho, zanim ją przejmiesz.
+
+&RPrzejmij kopalnię Moho i zniszcz robactwo ARM.&
+
+ZRÓB TO TERAZ.

@@ -1,0 +1,70 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+
+// Captions drawn over the player's own pictures while Turkish is shown
+// (src/present/include/oa/present/picture_captions.hpp). A picture left
+// out here, or a section with no keys, keeps its art.
+
+// The order buttons. A caption is drawn at the largest size that fits its
+// button, so the longer words are cut short to stay legible.
+[commongui.gaf]
+{
+    [ARMATTACK] { text=SALDIR; }
+    [CORATTACK] { text=SALDIR; }
+    [ARMMOVE] { text=GİT; }
+    [CORMOVE] { text=GİT; }
+    [ARMSTOP] { text=DUR; }
+    [CORSTOP] { text=DUR; }
+    [ARMPATROL] { text=DEVRİYE; }
+    [CORPATROL] { text=DEVRİYE; }
+    [ARMDEFEND] { text=SAVUN; }
+    [CORDEFEND] { text=SAVUN; }
+    [ARMRECLAIM] { text=GERİ AL; }
+    [CORRECLAIM] { text=GERİ AL; }
+    [ARMREPAIR] { text=ONAR; }
+    [CORREPAIR] { text=ONAR; }
+    [ARMCAPTURE] { text=ELE GEÇ; }
+    [CORCAPTURE] { text=ELE GEÇ; }
+    [ARMLOAD] { text=YÜKLE; }
+    [CORLOAD] { text=YÜKLE; }
+    [ARMUNLOAD] { text=BOŞALT; }
+    [CORUNLOAD] { text=BOŞALT; }
+    [ARMORDERS] { text=EMİR; }
+    [CORORDERS] { text=EMİR; }
+    [ARMBUILD] { text=İNŞA; }
+    [CORBUILD] { text=İNŞA; }
+    [ARMBLAST] { text=D-GUN; }
+    [CORBLAST] { text=D-GUN; }
+
+    // The toggles: one caption per state, then the button's name; their
+    // lights stay at the right.
+    [ARMFIREORD] { text=ATEŞ KES|KARŞILIK|SERBEST|ATEŞ EMRİ; area=3,2,95,16; align=left; }
+    [CORFIREORD] { text=ATEŞ KES|KARŞILIK|SERBEST|ATEŞ EMRİ; area=3,2,95,16; align=left; }
+    [ARMMOVEORD] { text=YERİNDE KAL|MANEVRA|DOLAN|HAREKET EMRİ; area=3,2,95,16; align=left; }
+    [CORMOVEORD] { text=YERİNDE KAL|MANEVRA|DOLAN|HAREKET EMRİ; area=3,2,95,16; align=left; }
+    [ARMONOFF] { text=KAPALI|AÇIK|AÇ/KAPA; area=3,2,95,16; align=left; }
+    [CORONOFF] { text=KAPALI|AÇIK|AÇ/KAPA; area=3,2,95,16; align=left; }
+    [ARMCLOAK] { text=GÖRÜNÜR|GİZLİ|GİZLENME; area=3,2,95,16; align=left; }
+    [CORCLOAK] { text=GÖRÜNÜR|GİZLİ|GİZLENME; area=3,2,95,16; align=left; }
+    [ARMACTIVATE] { text=ETKİNLEŞTİR|DURDUR; area=3,2,95,16; align=left; }
+    [CORACTIVATE] { text=ETKİNLEŞTİR|DURDUR; area=3,2,95,16; align=left; }
+}
+
+// The top bar's METAL and ENERGY.
+[armint.gaf/PANELTOP] { text=METAL|ENERJİ; area=36,4,48,17|285,4,56,17; }
+[corint.gaf/PANELTOP] { text=METAL|ENERJİ; area=34,8,48,13|285,8,52,13; }
+
+// The titles over the battlefield.
+[igtitles.gaf]
+{
+    [igpaused] { text=DURDU; }
+    [igvictory] { text=ZAFER!; }
+    [igdefeat] { text=YENİLGİ; }
+}
+
+// The load dialog's title.
+[loadgame.gaf/LoadGame] { text=YÜKLE; }
+
+// The save and load dialogs' titles, painted into their backgrounds.
+[dsavegame2.pcx] { text=OYUNU KAYDET; area=64,31,168,27; }
+[dloadgame2.pcx] { text=OYUNU YÜKLE; area=61,32,166,27; }

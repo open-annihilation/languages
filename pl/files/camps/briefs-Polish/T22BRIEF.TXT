@@ -1,0 +1,13 @@
+Misja T22: Zniszczenie Obrony Fortitude
+
+Zniszcz Obronę Fortitude CORE. Dzięki temu wyślemy w ten region uderzenia jądrowe. Masz silne skrzydło złożone z Zabijaków, Jastrzębi i Feniksów.
+
+Masz dokładnie dwadzieścia minut, by znaleźć i zniszczyć obronę jądrową CORE.
+
+Sugestie:
+Pamiętaj, że lawowe iglice mogą przesłaniać wrogie strzały w twoje siły.
+
+Taktyka bitwy:
+Jeśli jednostka budowlana dostanie rozkaz chronić fabrykę, pomoże jej szybciej budować jednostki.
+
+Gdy znajdziesz cel, naciśnij CTRL+F5 (albo F6, F7 lub F8), by oznaczyć miejsce. Później, przy planowaniu nalotu, naciśnij F5 (itd.), aby znów wyśrodkować ekran na położeniu celu.

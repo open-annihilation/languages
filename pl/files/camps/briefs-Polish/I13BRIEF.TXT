@@ -1,0 +1,14 @@
+Misja I13: Radar z szykiem fazowym
+
+&RUwaga!&
+Budowa radaru z szykiem fazowym jest prawie ukończona. Setki wież radaru, spiętych ze sobą elektronicznie, działają jak jeden olbrzymi radar o ogromnej czułości.
+
+ARM odkrył nasze plany i rozpoczął atak, by zniszczyć pole radarowe.
+
+Odeprzyj atak ARM. Straty wież radaru ogranicz do minimum.
+
+Sugestie:
+Rozprosz wojska, żeby szybsze jednostki wroga nie mogły ich obejść.
+
+Taktyka bitwy:
+Możesz uformować grupę z sił trzymanych w centrum, która odeprze każdy atak. Zaznacz jednostki do grupy i użyj Ctrl+# (gdzie # to cyfra od 1 do 9). Później zaznaczysz je wszystkie od razu, naciskając Alt+#.

@@ -1,0 +1,15 @@
+Misja T01: Atak powietrzny
+
+MELDUNEK WYWIADU:
+Zgrupowanie lotnictwa ARM leci w twój sektor Wybrzeża Astrede.
+
+Chroń elektrownię fuzyjną przed nadchodzącym atakiem.
+
+Sugestie:
+Ustaw fabrykę samolotów tak, by każdy wyprodukowany samolot sam patrolował nad elektrownią fuzyjną.
+
+Ustaw Kbot budowlany do ochrony elektrowni fuzyjnej. Naprawi ją sam, ilekroć elektrownia zostanie uszkodzona.
+
+
+Taktyka bitwy:
+Przycisk PATROL fabryki wysyła wszystkie produkowane przez nią jednostki na trasę patrolu. Zaznacz fabrykę, kliknij przycisk PATROL, a potem kliknij na mapie albo na ekranie radaru, by wyznaczyć drugi koniec patrolu. Przytrzymanie klawisza SHIFT w tym ostatnim kroku pozwala wyznaczyć kilka punktów patrolu.

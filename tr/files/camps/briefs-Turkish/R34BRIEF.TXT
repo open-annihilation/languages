@@ -1,0 +1,12 @@
+Misyon R34: Denize Sırt Dönük
+
+&YAcil durum!&
+CORE seni Yenisten Denizi'nin kenarına sıkıştırdı.  Devriyedeki denizaltılar suya girmeni engelliyor.  İşini bitirmek için düzinelerce Goliath tankı gönderdiler.
+Hayatta kalmak için elinden geleni yap.  CORE'un üs kurmasını engellemek için bütün İnşaat araçlarını yok et.
+
+Öneriler:
+Hemen bir Araç fabrikası ve onu besleyecek bir ekonomi kur.  Acil durumda D-Gun ateşi için fazla enerji kaynağı kur.
+
+Savaş taktikleri:
+Ağır tanklara D-Gun sıkarken ateşi Komutandan uzaklaştırmak için ucuz hafif birimler kullan.  Bu saldırıların erken gelmesini bekle.
+Bir inşaat birimi Komutanı (ya da başka bir birimi) korursa onu kendiliğinden izler ve aldığı hasarı onarır.

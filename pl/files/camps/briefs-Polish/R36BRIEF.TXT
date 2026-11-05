@@ -1,0 +1,11 @@
+Misja R36: Spokojne sadzawki
+
+Dotarłeś do lasu z dwiema spokojnymi sadzawkami. ARM nie zdążył jeszcze postawić żadnej obrony, ale kilka wrogich jednostek jest już w drodze, by opóźnić natarcie.
+
+Jak najszybciej zniszcz wszystkie pojazdy budowlane.
+
+Sugestie:
+Mało tu złóż metalu, więc możesz potrzebować przetworników metalu, by podnieść przychód metalu.
+
+Taktyka bitwy:
+Na każdy zbudowany przetwornik metalu przeznacz trzy kolektory słoneczne. Gdy zbierzesz przetworniki w grupę, szybko zaznaczysz wszystkie i włączysz je albo wyłączysz naraz. Gospodarkę zasobami da się prowadzić właśnie tak.

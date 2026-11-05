@@ -1,0 +1,8 @@
+MISJA 17.1CORE
+
+PODSŁUCH
+Morza Nigh Pilago roją się od jednostek morskich ARM. Przechwycona łączność wskazuje, że ARM opracował nowy, silniejszy lotniskowiec. Lotniskowiec, poza rolą ruchomej bazy naprawczej dla lotnictwa, wytwarza ogromne ilości energii. Zniszcz każdy lotniskowiec, który znajdziesz.
+
+&RZniszcz lotniskowce ARM.&
+
+ZRÓB TO TERAZ.

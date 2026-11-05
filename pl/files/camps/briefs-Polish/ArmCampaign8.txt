@@ -1,0 +1,10 @@
+MISJA 8.0003ARMTH
+Przejmij Bramę Galaktyczną.
+
+&Y*PRIORYTET SPECJALNY& &Y1A PRIME*&
+Eskadra okrętów zwiadowczych Komar znalazła silnie strzeżoną wyspę na północy. Poziom emisji energii wskazuje, że może tam być Brama Galaktyczna CORE. Znajdź tę Bramę i przejmij ją. W ten sposób zabezpieczysz Thalassean dla ARM! ...i otworzysz drzwi do kolejnego świata CORE.
+
+MELDUNEK
+Natychmiast zbuduj bezpieczną bazę. To konieczne. CORE nie odda Bramy bez walki! &GUważaj, by nie zniszczyć Bramy ostrzałem z morza!&
+
+KONIEC

@@ -1,0 +1,16 @@
+Misja T44: Równina laserowa
+
+Wrogi Dowódca ARM lubi rzucać na nasze pozycje wielką liczbę małych jednostek. Spodziewamy się ataku czołgami Błysk. Siły wroga pewnie spróbują odwrócić twoją uwagę szeregiem małych ataków przed tym ostatnim uderzeniem.
+
+Odeprzyj ataki wroga i zbuduj co najmniej jedną L.L.T., aby radzić sobie z mniejszymi jednostkami.
+
+Sugestie:
+Rozpoznaj mapę i znajdź złoża metalu. L.L.T. wymaga 2608 jednostek energii do budowy i dwudziestu jednostek na strzał. Dlatego przed pierwszą bronią laserową zbuduj cztery albo pięć kolektorów słonecznych.
+
+
+Taktyka bitwy:
+Grę przyspieszysz, gdy nauczysz się składać rozkazy klawiszem SHIFT. Dzięki temu prawie każdej jednostce dasz wiele rozkazów. Gdy jednostka skończy pierwszy, sama przejdzie do następnego.
+
+Na przykład każ Dowódcy zbudować kolektor słoneczny. Przytrzymaj klawisz SHIFT i wydaj kolejne rozkazy. Pojawi się zielony prostokąt oznaczający miejsce kolektora słonecznego. Patrząc na te prostokąty, nie postawisz jednostek jedna na drugiej, gdy kolejkowane są kolejne rozkazy budowy.
+
+Klawiszem SHIFT szybko nadasz jednostce dość rozkazów, by miała zajęcie, i przeniesiesz uwagę gdzie indziej.

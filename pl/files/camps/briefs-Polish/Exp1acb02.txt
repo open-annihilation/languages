@@ -1,0 +1,14 @@
+MISJA 1.0002ARMH
+Udało się założyć bazę na Hydross. Trzeba dalej spychać CORE od naszej bazy wypadowej. Na północy jest placówka CORE, którą trzeba przejąć, aby ten rejon był bezpieczny.
+
+&Y*PRIORYTET KRYTYCZNY*&
+Posiłki ARM wciąż napływają do układu gwiezdnego, by pomóc w poszukiwaniu Dowódcy CORE kontyngentu. Placówka na północy będzie grozić naszej bazie wypadowej na Hydross, dopóki trzyma ją CORE. Przejmij tę placówkę.
+
+MELDUNEK
+&RLotniskowiec Kolos wytwarza nadwyżkę energii, zwiększa zasięg radaru i naprawia uszkodzone wodnosamoloty.& Takie lotniskowce będą ważne dla pomyślnego ukończenia tej misji.
+
+Niestety Węże morskie są w tej okolicy pospolite. Trzeba je jednak zniszczyć, aby baza wypadowa była bezpieczna.
+
+Aby ukończyć tę misję, musisz zniszczyć wszystkie mobilne jednostki CORE i Węże morskie.
+
+KONIEC

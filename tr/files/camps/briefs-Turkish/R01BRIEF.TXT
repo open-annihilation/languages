@@ -1,0 +1,18 @@
+Misyon R01: Ateş üssü
+
+ARM, bulunduğumuz yerin hemen batısındaki alçak bir tepeye ateş üssü kurmuş. Şimdiden üç Big Bertha topu ve zorlu bir Ejderha dişleri labirenti var.
+
+Merkezdeki tüm düşman Bertha birimlerini yok et.
+
+Öneriler:
+İlk hedefin Ejderha dişlerinin içinden bir yol açmak. Ağır ateşle yok edilirler ya da İnşaat araçlarınla geri alınırlar.
+
+Birim enkazı yolunu keser. Yolu açmak için onu da parçala ya da geri al.
+
+
+Savaş taktikleri:
+Ejderha dişlerini parçalamak için birkaç Goliath ya da ağır toplu başka birimler seç ve saldırı işaretçisini açmak için A tuşuna bas. Aynı anda ateş eden birkaç ağır silahlı birim düşman tahkimatını çabucak yok eder.
+
+Bu tahkimatı geri almak için bir İnşaat aracı seç ve işaretçiyi Ejderha dişlerinin üzerine getir. Ok kendiliğinden geri alma işaretçisine döner. Metalini geri almak için tahkimata tıkla.
+
+Shift tuşunu basılı tutmak birden çok geri alma emrini sıraya koymanı sağlar.

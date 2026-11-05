@@ -1,0 +1,11 @@
+Misyon R36: Sakin Havuzlar
+
+İki durgun havuzlu bir orman bölgesine ulaştın.  ARM henüz savunma kurmadı ama ilerlemeni geciktirmek için yolda birkaç düşman birimi var.
+
+Bütün İnşaat araçlarını olabildiğince çabuk yok et.
+
+Öneriler:
+Metal yatakları az. Metal gelirini artırmak için Metal üretici kurman gerekebilir.
+
+Savaş taktikleri:
+Kurduğun her Metal üretici için üç Güneş toplayıcı ayır.  Metal üreticilerini bir grup yapmak, hepsini çabucak seçip birden açmanı ya da kapatmanı sağlar. Kaynak ekonomini böyle yönetmen gerekebilir.

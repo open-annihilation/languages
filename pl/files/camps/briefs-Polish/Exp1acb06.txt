@@ -1,0 +1,14 @@
+MISJA 6.003ARML
+Umocnij obronę. Gdy baza będzie bezpieczna, szukaj i znajdź obcy artefakt, który musi tu być.
+
+&Y*PRIORYTET KRYTYCZNY*&
+Obcy artefakt trzeba znaleźć, jeśli istnieje. Nie wiemy, jakie tajemnice kryje - ale nie może wpaść w ręce CORE.
+
+MELDUNEK
+Mimo naszych starań CORE pozostaje silny. W działaniach CORE widać desperację. Latarnia musi być blisko!
+
+&RCoraz częstsze starcia ze Skorpionami wskazują, że latarnia jest tuż.&
+
+Aby ukończyć tę misję, musisz przejąć latarnię i zniszczyć wszystkie jednostki CORE oraz Skorpiony.
+
+KONIEC

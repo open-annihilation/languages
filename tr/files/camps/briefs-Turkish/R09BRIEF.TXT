@@ -1,0 +1,14 @@
+Misyon R09: Retorb taşkın ovası
+
+&YBirinci öncelik&
+Bölgedeki enerji gereksinimimiz kritik düzeyde.
+
+Retorb taşkın ovasına bir Jeotermal santral inşa et. ARM'ın küçük saldırılarla seni oyalamasını ve geciktirmesini bekle. Bu görevde başarılı olmak için dokuz dakikan var.
+Öneriler:
+Jeotermal santrale başlamadan önce biraz savunma kurman gerekebilir. Uzun menzilli Slasher birimlerini üssünün merkezinde, tankları çevrede tut.
+
+
+
+
+Savaş taktikleri:
+Oyun süresini izlemek için şu hile kodunu kullan. Ekranın altındaki mesaj çubuğunu açmak için Enter'a bas. Sonra ana haritanın sol alt köşesinde oyun saatini açmak için '+clock' yaz.

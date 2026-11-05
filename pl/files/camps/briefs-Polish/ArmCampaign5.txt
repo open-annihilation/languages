@@ -1,0 +1,10 @@
+MISJA 5.0005ARME
+Znajdź Bramę Galaktyczną. Zlikwiduj bazę CORE. Zniszcz wszystkie pozostałe jednostki CORE i przejmij Bramę Galaktyczną.
+
+&Y*PRIORYTET SPECJALNY KRYTYCZNY*&
+Zniszczenie bazy CORE usunie ich plugawą obecność z Empyrrean raz na zawsze. Brama Galaktyczna, przez którą CORE wszedł na naszą planetę macierzystą, jest w tej okolicy. &GZnajdź tę Bramę i przejmij ją&. Brama posłuży, by przenieść walkę poza planetę!
+
+MELDUNEK
+Natychmiast zbuduj bezpieczną bazę. To konieczne. Siły CORE są ogromne, a patrole częste. Technologia broni CORE poszła naprzód. &GZbuduj też jednostki zaawansowane.& Do dyspozycji masz ograniczoną liczbę jednostek wypożyczonych od Marynarki Empyrrean. Nowy czołg amfibijny klasy Tryton przyda się w tej misji.
+
+KONIEC

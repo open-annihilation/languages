@@ -1,0 +1,11 @@
+Misja I04: Czyszczenie na Kral
+
+Rozbiliśmy prymitywne siły ARM na południowo-wschodnim skraju Zatoki Kral. Zostało wiele jednostek, lecz sądzimy, że wszystkie mobilne jednostki budowlane już zniszczono.
+
+Przeczesz teren i zniszcz wszystkich ocalałych z ARM.
+
+Sugestie:
+Nie rozpraszaj sił. Nie zużywaj wszystkich zwiadowców w pierwszych starciach. Później bardzo się przydadzą, gdy trzeba będzie szukać wroga.
+
+Taktyka bitwy:
+Jeśli jednostki się rozproszą, użyj CTRL+A, zaznacz wszystkie i skieruj je w jeden punkt. Podobnie CTRL+S zaznacza wszystkie jednostki widoczne na ekranie.

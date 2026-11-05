@@ -1,0 +1,21 @@
+Misja R37: Grzbiet Zastraszacza
+
+Dowódca CORE postawił działa plazmowe na wzgórzu zwanym teraz „Grzbiet Zastraszacza”. To wzgórze panuje nad okolicą i przetrwało trzy nasze ataki.
+
+Samobójczy nalot zniszczył elektrownię fuzyjną, która zasilała Zastraszacze. Przez kilka krótkich minut, póki CORE odbudowuje elektrownię, wzgórze jest odsłonięte.
+
+Prowadzisz czwarty atak na wzgórze. Zniszcz wszystkie Zastraszacze.
+Sugestie:
+Stratedzy CORE lubią stawiać dalekonośne działa i kryć je za zagłuszaczami radaru. Nie daj się wciągnąć w pojedynek artyleryjski. Wdarzyj się do wrogiej bazy.
+
+Zastraszacze mają zasięg minimalny około połowy ekranu. Jeśli wprowadzisz jednostkę bliżej, Zastraszacze jej nie namierzą.
+
+Taktyka bitwy:
+CTRL+W zaznacza wszystkie twoje jednostki bojowe (jednostki z bronią), poza Dowódcą.
+
+Przy budowie drogiej jednostki (na przykład kopalni Moho) kilka jednostek budowlanych może pomagać, w tym Dowódca.
+
+Aby pomóc innej jednostce w budowie, zaznacz jedną lub więcej jednostek z nanotokarkami i chroń tę, która budowę zaczęła. Albo naciśnij NAPRAWA w menu budowy, a potem kliknij lewym przyciskiem jednostkę w budowie.
+
+Jeśli używasz interfejsu prawego przycisku, zaznacz jednostki pomagające i kliknij prawym przyciskiem jednostkę w trakcie
+budowy.

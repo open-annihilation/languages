@@ -1,0 +1,12 @@
+Misyon R16: Kerrap sığlıklarını geçmek
+
+Gerici ARM, Kerrap sığlıkları denen geçidi aşmamızı engellemek için deniz kuvvetlerini kullandı.
+
+Kuvvetlerini geçitten geçir ve düşmanı yok et. 40 dakikan var. Glş. inşaat araçlarından en az birini geçir.
+Öneriler:
+Geçide kalkışmadan önce ARM'ın donanmasını yok et. Düşmanın çok ağır topları var. Kendini tehlikeye atmaktan sakın.
+
+Savaş taktikleri:
+Ctrl+W, Komutan hariç silahlı tüm gezici birimlerini seçer.
+
+Ctrl+P tüm savaş uçaklarını seçer.

@@ -1,0 +1,14 @@
+MİSYON 9.003ARMT
+Kuzeyde bir CORE üssü var, CORE'un Temblor'daki son karakolu. CORE Komutanı ve fener orada değilse Gelidus'ta olmalılar. Burayı bir an önce bitir.
+
+&Y*KRİTİK ÖNCELİK*&
+CORE birimlerinin sonuncularını kalelerine kadar kovaladık. CORE Komutanı oradaki birimlerin arasındaysa, çok daha iyi... ama gezegeni çoktan terk etmiş olmasından korkuyoruz...
+
+BİLGİ AKIŞI
+&GTEKNOLOJİ İLERLEMESİ:& Yeni YZ hedefleme tesisi artık hazır. Gelişmiş radarla birlikte kullanılınca çok etkili olur, çünkü birimlerinin radar üzerinden düşman birimlerini kendiliğinden hedeflemesini sağlar.
+
+&RUYARI!& Hedefleme tesisi çok büyük bir enerji ister. Yeterli enerjin olana kadar onu kapat.
+
+Bu görevi bitirmek için bütün CORE birimlerini yok et.
+
+SON

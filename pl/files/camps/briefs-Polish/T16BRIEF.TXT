@@ -1,0 +1,8 @@
+Misja T16: Błyskawiczny zwiad
+
+Raporty wywiadu mówią, że ARM założył bazę w naszej okolicy. Rozpoznaj teren i znajdź ich bazę, zanim oni znajdą naszą.
+
+Sugestie:
+Prowadź agresywny zwiad i niszcz każdego napotkanego zwiadowcę ARM.
+Taktyka bitwy:
+Warto umieć w jednej chwili wrócić do własnej bazy. Wyśrodkuj bazę na ekranie i naciśnij CTRL+F5 (albo F6, F7 lub F8), by oznaczyć miejsce. Później naciśnij F5 (itd.), a ekran od razu wróci w oznaczone miejsce.

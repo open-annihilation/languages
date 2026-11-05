@@ -1,0 +1,12 @@
+Misja R17: Kryształ zarodkowy
+
+Twoja misja to przechwycenie projektu ekspansji ARM na równinie Kryształu Zarodkowego.
+
+Zbuduj bazę i zniszcz wszystkie mobilne jednostki wroga. Jeśli zdołasz, przejmij wrogie struktury.
+
+
+Sugestie:
+W trakcie rozpoznania stawiaj Wieże radaru, by znaleźć wroga rozproszonego po całym regionie.
+
+Taktyka bitwy:
+Żeby odzyskać metal ze szczątków, zaznacz jednostkę budowlaną, naciśnij 1, by otworzyć menu rozkazów, naciśnij E, by wybrać tryb ODZYSK, a potem kliknij szczątki lewym przyciskiem myszy. W interfejsie lewego przycisku kursor zmieni się w kursor odzysku, gdy najedzie na szczątki. W interfejsie prawego przycisku kursor po prostu robi się zielony.

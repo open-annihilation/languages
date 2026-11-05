@@ -1,0 +1,20 @@
+Misja T40: Skoordynowany szturm
+
+W atakach morskich ARM położył duży nacisk na pancerniki. Założył bazę wysuniętą w naszej okolicy. Wybrzeże mocno strzegą jednostki przeciwlotnicze.
+
+Zniszcz każdy pancernik ARM i każdy okręt budowlany.
+&YUwaga:&
+ARM może próbować przeciąć atak okrętami podwodnymi. Droga musi być wolna, zanim wyślesz czołgi amfibijne.
+
+Sugestie:
+Lekkie lotniskowce Ul naprawiają uszkodzone samoloty. Może być trzeba poświęcić Rapiery, aby okaleczyć obronę przeciwlotniczą i zniszczyć Strażników. Wtedy twoje Krokodyle dojdą do brzegu.
+
+Taktyka bitwy:
+Jest kilka sposobów kierowania wieloma grupami samolotów:
+
+  1) Zgrupuj różne typy samolotów w
+     oddziały (użyj CTRL+#, gdzie # to liczba od 1 do 9).
+  2) Użyj CTRL+V, aby zaznaczyć wszystkie jednostki powietrzne.
+  3) Użyj CTRL+P, aby zaznaczyć wszystkie ofensywne jednostki powietrzne.
+  4) Zaznacz jeden typ samolotu, potem użyj CTRL+Z, aby
+     zaznaczyć wszystkie jednostki tego samego typu.

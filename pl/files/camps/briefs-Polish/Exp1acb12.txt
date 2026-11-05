@@ -1,0 +1,12 @@
+MISJA 12.003ARMG
+Choć zepchnięto nas na lodowate morza u brzegu lądu, dotarły posiłki i inwazja lądu się zaczęła! CORE ma umocnioną bazę nad ścianą lodowca. Nie będzie łatwo jej wziąć.
+
+&Y*PRIORYTET KRYTYCZNY*&
+Wszystko wskazuje, że latarnię zabrano do fortecy i przerobiono tam na potworne urządzenie implozyjne... a to urządzenie włączono. Mamy bardzo mało czasu, by wystawić bazę i wykonać ostatni szturm na fortecę.
+
+MELDUNEK
+&RUrządzenie implozyjne zostało włączone!& Ukończ tę misję, inaczej galaktyka się skończy... a z nią ARM.
+
+Aby ukończyć tę misję, musisz zniszczyć Dowódcę CORE i latarnię, zanim licznik dobiegnie końca... Masz 90 minut, by zniszczyć urządzenie i całe CORE.
+
+KONIEC

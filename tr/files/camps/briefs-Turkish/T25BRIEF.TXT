@@ -1,0 +1,15 @@
+Misyon T25: Guardian Tepesi
+
+ARM'ın Webster Dağları'nın etekleri boyunca kuzeye ilerleyişi sonunda durduruldu. Sert bir çarpışmanın ardından Dalok Nehri'ni geçmelerini engelledik. Ancak sığ geçidin güneyindeki yüksekliklere kurdukları Guardian'lar karşı taarruzlarımızı bastırdı. "Guardian Tepesi" bölgeye hakim. İstihbarat, orayı alırsak ARM'ın genel çekilmeye zorlanacağını belirtiyor.
+
+Sığ geçidi aşıp Guardian Tepesi'nin zirvesine bir Punisher inşa et. Başka yerde acil gerekiyorsun, bu yüzden görevi bitirmeye yalnızca 50 dakikan var.
+
+Öneriler:
+Parça parça saldırma. Büyük gruplar halinde saldır ve daha fazlasını başaramayacağını düşündüğünde birliklerini geri çek.
+Ele geçirdiğin bölgelerdeki kaynaklarla ekonomini geliştir. Bu çarpışmada çok birim gerekeceği için birkaç fabrika inşa et.
+
+Savaş taktikleri:
+Fabrikalara GİT emri vermek, ürettikleri birimlere nereye gideceklerini söyler. Fabrikayı seç, GİT düğmesine bas, sonra birimlerin gideceği noktaya tıkla.
+
+SHIFT tuşunu basılı tutmak, fabrikaya art arda birden çok GİT emri vermeni sağlar. Yeni birimler her ara noktadan geçerek son
+hedefe varır.

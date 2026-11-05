@@ -1,0 +1,8 @@
+MISJA 2.2CORE
+
+PODSŁUCH:
+Zlokalizowano gniazdo robactwa ARM. Założyli niechlujne laboratorium Kbotów na placu B206. Zbuduj bazę i fabrykę pojazdów. Wytwórz dość jednostek, by wytrzebić robactwo ARM.
+
+&RZbuduj fabrykę pojazdów i zniszcz wszystkie jednostki ARM.&
+
+ZRÓB TO TERAZ.

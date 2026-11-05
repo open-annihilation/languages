@@ -65,6 +65,7 @@ The game draws text two ways, and the pack's manifest says which it needs.
 | `ru` | modern fonts | none |
 | `pt-BR` | modern fonts (3.1c's menu fonts lack some of its letters) | none |
 | `pt-PT` | modern fonts (as `pt-BR`) | none |
+| `tr` | modern fonts (3.1c's menu fonts lack ğ, ı, İ and ş) | none |
 
 ## 2. Write the manifest
 
