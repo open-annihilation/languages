@@ -1,0 +1,707 @@
+// SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
+// SPDX-License-Identifier: GPL-3.0-only
+//
+// Traditional Chinese mission names, keyed by the mission file the
+// campaign lists. A campaign's "N: " prefix is written "N："; a Battle
+// Tactics name is the title its briefing gives.
+
+[EXP1AC01.ota]
+	{
+	missionname=1：海德羅斯——搜尋開始！;
+	}
+[EXP1AC02.ota]
+	{
+	missionname=2：控制環礁;
+	}
+[EXP1AC03.ota]
+	{
+	missionname=3：擊沉CORE;
+	}
+[EXP1AC04.ota]
+	{
+	missionname=4：盧什——氣墊技術;
+	}
+[EXP1AC05.ota]
+	{
+	missionname=5：穿越泥沼;
+	}
+[EXP1AC06.ota]
+	{
+	missionname=6：信標;
+	}
+[EXP1AC07.ota]
+	{
+	missionname=7：坦布洛——地震！;
+	}
+[EXP1AC08.ota]
+	{
+	missionname=8：進退兩難;
+	}
+[EXP1AC09.ota]
+	{
+	missionname=9：ARM震撼，CORE顫抖;
+	}
+[EXP1AC10.ota]
+	{
+	missionname=10：格利杜斯——冷遇;
+	}
+[EXP1AC11.ota]
+	{
+	missionname=11：隨冰漂流;
+	}
+[EXP1AC12.ota]
+	{
+	missionname=12：拯救銀河;
+	}
+[AC01.ota]
+	{
+	missionname=1：英雄歸來;
+	}
+[AC02.ota]
+	{
+	missionname=2：摧毀CORE機甲基地！;
+	}
+[AC03.ota]
+	{
+	missionname=3：蜘蛛技術;
+	}
+[AC04.ota]
+	{
+	missionname=4：CORE污染蔓延……;
+	}
+[AC05.ota]
+	{
+	missionname=5：通往塔拉西安之門;
+	}
+[AC06.ota]
+	{
+	missionname=6：塔拉西安灘頭陣地;
+	}
+[AC07.ota]
+	{
+	missionname=7：保衛拉拉布港;
+	}
+[AC08.ota]
+	{
+	missionname=8：通往特吉弗斯四號之門;
+	}
+[AC09.ota]
+	{
+	missionname=9：造水廠;
+	}
+[AC10.ota]
+	{
+	missionname=10：布羅米德迷宮;
+	}
+[AC11.ota]
+	{
+	missionname=11：通往巴拉瑟姆之門;
+	}
+[AC12.ota]
+	{
+	missionname=12：巴拉瑟姆！;
+	}
+[AC13.ota]
+	{
+	missionname=13：蘭道恩斷層;
+	}
+[AC14.ota]
+	{
+	missionname=14：戰火升溫;
+	}
+[AC15.ota]
+	{
+	missionname=15：魯格佩爾特;
+	}
+[AC16.ota]
+	{
+	missionname=16：扶壁崖囤積要塞;
+	}
+[AC17.ota]
+	{
+	missionname=17：布魯班島要塞;
+	}
+[AC18.ota]
+	{
+	missionname=18：復仇！;
+	}
+[AC19.ota]
+	{
+	missionname=19：莫蒂恩坡道;
+	}
+[AC20.ota]
+	{
+	missionname=20：廢料場;
+	}
+[AC21.ota]
+	{
+	missionname=21：歡迎來到CORE主星;
+	}
+[AC22.ota]
+	{
+	missionname=22：坐標6551:447之戰;
+	}
+[AC23.ota]
+	{
+	missionname=23：橫渡397號水體;
+	}
+[AC24.ota]
+	{
+	missionname=24：突破至中央意識;
+	}
+[AC25.ota]
+	{
+	missionname=25：CORE主星末日，終獲自由！;
+	}
+[Com Pattern Five.ota]
+	{
+	missionname=通信模式五;
+	}
+[Steel Stronghold.ota]
+	{
+	missionname=鋼鐵要塞;
+	}
+[Thermal Exchange Causeway.ota]
+	{
+	missionname=熱交換堤道;
+	}
+[Crossing the Long Lakes.ota]
+	{
+	missionname=橫渡長湖;
+	}
+[Capture Hanan Base.ota]
+	{
+	missionname=奪取哈南基地;
+	}
+[Lipar Pass.ota]
+	{
+	missionname=利帕爾山口;
+	}
+[Ice Base Assault.ota]
+	{
+	missionname=突擊冰雪基地;
+	}
+[Pursuit.ota]
+	{
+	missionname=追擊;
+	}
+[Backs to the Sea.ota]
+	{
+	missionname=背水一戰;
+	}
+[Spider Ambush.ota]
+	{
+	missionname=蜘蛛伏擊;
+	}
+[Islands of Grace.ota]
+	{
+	missionname=恩典群島;
+	}
+[Wet and Dry.ota]
+	{
+	missionname=水陸之間;
+	}
+[Meraldi Amphibious Assault.ota]
+	{
+	missionname=梅拉爾迪兩棲突擊;
+	}
+[Miniement Landing.ota]
+	{
+	missionname=米尼埃蒙登陸戰;
+	}
+[Intimidator Ridge.ota]
+	{
+	missionname=脅迫者山脊;
+	}
+[Zipper Attack.ota]
+	{
+	missionname=拉鏈突襲;
+	}
+[Can Rush.ota]
+	{
+	missionname=罐形機甲衝鋒;
+	}
+[Attack on Barrack.ota]
+	{
+	missionname=進攻巴拉克;
+	}
+[Cutoff in Sector 6895.ota]
+	{
+	missionname=6895區被圍;
+	}
+[Encounter on the Coral Sea.ota]
+	{
+	missionname=珊瑚海交鋒;
+	}
+[The Wayneston Ford Engagement.ota]
+	{
+	missionname=韋恩斯頓渡口之戰;
+	}
+[Ice Base Baryn.ota]
+	{
+	missionname=巴林冰雪基地;
+	}
+[Forest Base 129.ota]
+	{
+	missionname=129號森林基地;
+	}
+[Rock Candy Mountains.ota]
+	{
+	missionname=冰糖山;
+	}
+[Kudzu Base.ota]
+	{
+	missionname=葛藤基地;
+	}
+[Yerrot Foothills.ota]
+	{
+	missionname=耶羅特山麓;
+	}
+[Island Hopping.ota]
+	{
+	missionname=跳島作戰;
+	}
+[Mist Bombers.ota]
+	{
+	missionname=迷霧轟炸機;
+	}
+[A Shortage of Water.ota]
+	{
+	missionname=水源短缺;
+	}
+[Raid on Vetes.ota]
+	{
+	missionname=突襲維特斯;
+	}
+[Three Passes.ota]
+	{
+	missionname=三道山口;
+	}
+[Spire Sports.ota]
+	{
+	missionname=尖塔競技;
+	}
+[Charging the Line.ota]
+	{
+	missionname=衝擊防線;
+	}
+[Dawn Directive.ota]
+	{
+	missionname=黎明指令;
+	}
+[Waiting.ota]
+	{
+	missionname=等待;
+	}
+[The Vulcans Forge Hotspot.ota]
+	{
+	missionname=火神熔爐熱點;
+	}
+[Crawling Destruction.ota]
+	{
+	missionname=爬行的毀滅;
+	}
+[Battle of Ansapp Sea.ota]
+	{
+	missionname=安薩普海之戰;
+	}
+[Between Two Lakes.ota]
+	{
+	missionname=兩湖之間;
+	}
+[Hunting Nhanons.ota]
+	{
+	missionname=獵殺納農斯;
+	}
+[Sub Hunting.ota]
+	{
+	missionname=獵殺潛艇;
+	}
+[Ambush on Novespin IV.ota]
+	{
+	missionname=諾維斯平四號伏擊戰;
+	}
+[Force the Strait.ota]
+	{
+	missionname=強渡海峽;
+	}
+[Destroy the FMD.ota]
+	{
+	missionname=摧毀堅毅反導系統;
+	}
+[Kaki Island Assault.ota]
+	{
+	missionname=突擊卡基島;
+	}
+[Fighting Under Fire.ota]
+	{
+	missionname=火線作戰;
+	}
+[The Ravenstein Run.ota]
+	{
+	missionname=拉文斯坦奔襲;
+	}
+[Reducing the Yrdac Islands.ota]
+	{
+	missionname=攻克伊爾達克群島;
+	}
+[Black Box.ota]
+	{
+	missionname=黑匣子;
+	}
+[Firebase Prasad.ota]
+	{
+	missionname=普拉薩德火力基地;
+	}
+[Invasion of Destral II.ota]
+	{
+	missionname=入侵德斯特拉爾二號星;
+	}
+[Guardian Hill.ota]
+	{
+	missionname=守衛者山;
+	}
+[Metal Maze.ota]
+	{
+	missionname=金屬迷宮;
+	}
+[Titanium Fist Bay.ota]
+	{
+	missionname=鈦拳灣;
+	}
+[Crossing Kerrap Shallows.ota]
+	{
+	missionname=橫渡凱拉普淺灘;
+	}
+[Peaceful Pools.ota]
+	{
+	missionname=寧靜池塘;
+	}
+[Solidspire Base.ota]
+	{
+	missionname=堅塔基地;
+	}
+[Fortitude Race.ota]
+	{
+	missionname=堅毅競速;
+	}
+[Brawler Buildup.ota]
+	{
+	missionname=喧囂者集結;
+	}
+[Silent Slayers.ota]
+	{
+	missionname=無聲殺手;
+	}
+[Crossing Arnen Inlet.ota]
+	{
+	missionname=橫渡阿嫩灣;
+	}
+[Cloaked in the Spires.ota]
+	{
+	missionname=尖塔隱蹤;
+	}
+[Zedtopt Hotsprings.ota]
+	{
+	missionname=澤德托普特溫泉;
+	}
+[Intimidator Rising.ota]
+	{
+	missionname=脅迫者崛起;
+	}
+[Guditha Pass.ota]
+	{
+	missionname=古迪薩山口;
+	}
+[Sink the Battleship.ota]
+	{
+	missionname=擊沉戰列艦;
+	}
+[Coordinated Assault.ota]
+	{
+	missionname=協同突擊;
+	}
+[Dogfight over Grantham Deep.ota]
+	{
+	missionname=格蘭瑟姆深淵空戰;
+	}
+[Mesa Run.ota]
+	{
+	missionname=臺地突襲;
+	}
+[Krocark Firebase Complex.ota]
+	{
+	missionname=克羅卡克火力基地群;
+	}
+[Jungle Journey.ota]
+	{
+	missionname=叢林之旅;
+	}
+[Capturing Terseknos.ota]
+	{
+	missionname=奪取特塞克諾斯;
+	}
+[Bertha Cleansing.ota]
+	{
+	missionname=清除大貝莎;
+	}
+[Surprise at Labrodorite.ota]
+	{
+	missionname=拉布羅多利特奇襲;
+	}
+[Skirmish on the Sand.ota]
+	{
+	missionname=沙灘交鋒;
+	}
+[New Moon.ota]
+	{
+	missionname=新月;
+	}
+[Kbot Mop Up.ota]
+	{
+	missionname=肅清機甲;
+	}
+[River Base Alpha.ota]
+	{
+	missionname=河岸阿爾法基地;
+	}
+[Crossing Two Rivers.ota]
+	{
+	missionname=橫渡雙河;
+	}
+[Caranat Conquest.ota]
+	{
+	missionname=征服卡拉納特;
+	}
+[Less Refreshing Sea.ota]
+	{
+	missionname=不清爽之海;
+	}
+[Hot Day and Hull Down.ota]
+	{
+	missionname=烈日與車體掩蔽;
+	}
+[Seed Crystal.ota]
+	{
+	missionname=晶種;
+	}
+[Cleanup on Kral.ota]
+	{
+	missionname=肅清克拉爾;
+	}
+[Air Assault.ota]
+	{
+	missionname=空中突擊;
+	}
+[Lightning Recon.ota]
+	{
+	missionname=閃電偵察;
+	}
+[A Gentle Time.ota]
+	{
+	missionname=溫和年代;
+	}
+[Disintegrator Alley.ota]
+	{
+	missionname=D槍小巷;
+	}
+[Two Ore Coast.ota]
+	{
+	missionname=雙礦海岸;
+	}
+[Thrashing a Rear Guard.ota]
+	{
+	missionname=痛擊後衛部隊;
+	}
+[Emerald Seamount.ota]
+	{
+	missionname=翡翠海山;
+	}
+[Taking Island 445.ota]
+	{
+	missionname=奪取445號島;
+	}
+[The Retorb Floodplain.ota]
+	{
+	missionname=雷托布泛濫平原;
+	}
+[Firebase.ota]
+	{
+	missionname=火力基地;
+	}
+[Battle of Chimo Island.ota]
+	{
+	missionname=奇莫島之戰;
+	}
+[Laser Plain.ota]
+	{
+	missionname=雷射平原;
+	}
+[Rotrey Stream.ota]
+	{
+	missionname=羅特雷溪;
+	}
+[Rainforest Construction.ota]
+	{
+	missionname=雨林建設;
+	}
+[Yollets Rain Forest.ota]
+	{
+	missionname=約萊茨雨林;
+	}
+[The Phase Array Radar.ota]
+	{
+	missionname=相控陣雷達;
+	}
+[EXP1CC01.ota]
+	{
+	missionname=1：ARM登陸海德羅斯;
+	}
+[EXP1CC02.ota]
+	{
+	missionname=2：水中殺機;
+	}
+[EXP1CC03.ota]
+	{
+	missionname=3：活靶子;
+	}
+[EXP1CC04.ota]
+	{
+	missionname=4：盧什——歡迎來到天堂;
+	}
+[EXP1CC05.ota]
+	{
+	missionname=5：苦戰跋涉;
+	}
+[EXP1CC06.ota]
+	{
+	missionname=6：外星蟲子;
+	}
+[EXP1CC07.ota]
+	{
+	missionname=7：天搖地動，死路一條;
+	}
+[EXP1CC08.ota]
+	{
+	missionname=8：指揮混亂;
+	}
+[EXP1CC09.ota]
+	{
+	missionname=9：猛攻雲中要塞;
+	}
+[EXP1CC10.ota]
+	{
+	missionname=10：冷卻;
+	}
+[EXP1CC11.ota]
+	{
+	missionname=11：冰封浩劫;
+	}
+[EXP1CC12.ota]
+	{
+	missionname=12：撤離時刻;
+	}
+[CC01.ota]
+	{
+	missionname=1：指揮官重新啟用……;
+	}
+[CC02.ota]
+	{
+	missionname=2：害蟲;
+	}
+[CC03.ota]
+	{
+	missionname=3：伏擊！;
+	}
+[CC04.ota]
+	{
+	missionname=4：忍無可忍;
+	}
+[CC05.ota]
+	{
+	missionname=5：巴拉瑟姆！;
+	}
+[CC06.ota]
+	{
+	missionname=6：清洗開始;
+	}
+[CC07.ota]
+	{
+	missionname=7：收緊絞索;
+	}
+[CC08.ota]
+	{
+	missionname=8：通往小水域星之門;
+	}
+[CC09.ota]
+	{
+	missionname=9：凈化小水域星;
+	}
+[CC10.ota]
+	{
+	missionname=10：夾擊水道;
+	}
+[CC11.ota]
+	{
+	missionname=11：帕爾切島;
+	}
+[CC12.ota]
+	{
+	missionname=12：叛徒引路;
+	}
+[CC13.ota]
+	{
+	missionname=13：魯格佩爾特;
+	}
+[CC14.ota]
+	{
+	missionname=14：掃蕩魯格佩爾特;
+	}
+[CC15.ota]
+	{
+	missionname=15：桑蒂佩深淵;
+	}
+[CC16.ota]
+	{
+	missionname=16：離開魯格佩爾特;
+	}
+[CC17.ota]
+	{
+	missionname=17：失落之島;
+	}
+[CC18.ota]
+	{
+	missionname=18：斯洛拉姆皮拉戈;
+	}
+[CC19.ota]
+	{
+	missionname=19：韋布林艦隊;
+	}
+[CC20.ota]
+	{
+	missionname=20：通往伊格斯之門;
+	}
+[CC21.ota]
+	{
+	missionname=21：伊格斯……恩派瑞恩的守護者;
+	}
+[CC22.ota]
+	{
+	missionname=22：恩派瑞恩的盛大歡迎;
+	}
+[CC23.ota]
+	{
+	missionname=23：要塞陷落;
+	}
+[CC24.ota]
+	{
+	missionname=24：四面楚歌;
+	}
+[CC25.ota]
+	{
+	missionname=25：恩派瑞恩的最後抵抗;
+	}
+[Krogoth Encounter.ota]
+	{
+	missionname=1：遭遇柯古斯！;
+	}
