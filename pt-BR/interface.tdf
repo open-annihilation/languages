@@ -2959,10 +2959,6 @@
 	pt-BR=Unidades com script do mapa;
 	}
 
-[Start with One Human]
-	{
-	pt-BR=Começar com um humano;
-	}
 
 [Several Local AI Players]
 	{
@@ -15993,4 +15989,69 @@
 [VERSION {version} READY]
 	{
 	pt-BR=VERSÃO {version} PRONTA;
+	}
+
+[Installed {version} · Testing channel]
+	{
+	pt-BR=Versão {version} instalada · canal de testes;
+	}
+
+[Invert 3D camera pan]
+	{
+	pt-BR=Inverter deslocamento da câmera 3D;
+	}
+
+[Invert 3D camera rotation]
+	{
+	pt-BR=Inverter rotação da câmera 3D;
+	}
+
+[Invert mouse zoom]
+	{
+	pt-BR=Inverter zoom do mouse;
+	}
+
+[Open the download page]
+	{
+	pt-BR=Abrir a página de download;
+	}
+
+[Orbit drags turn and tilt the view the other way.]
+	{
+	pt-BR=Arrastar para orbitar gira e inclina a visão ao contrário.;
+	}
+
+[Pan drags move the 3D view the other way.]
+	{
+	pt-BR=Arrastar para deslocar move a visão 3D ao contrário.;
+	}
+
+[Scrolling zooms the battlefield the other way.]
+	{
+	pt-BR=A roda do mouse aproxima e afasta o campo de batalha ao contrário.;
+	}
+
+[Stable]
+	{
+	pt-BR=Estável;
+	}
+
+[Testing]
+	{
+	pt-BR=Testes;
+	}
+
+[Testing builds come first and may be unfinished.]
+	{
+	pt-BR=As versões de teste chegam primeiro e podem estar incompletas.;
+	}
+
+[Update channel]
+	{
+	pt-BR=Canal de atualizações;
+	}
+
+[You have {current}. This version is installed by hand.]
+	{
+	pt-BR=Versão atual: {current}. Esta versão é instalada manualmente.;
 	}
