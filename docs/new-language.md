@@ -53,6 +53,7 @@ The game draws text two ways, and the pack's manifest says which it needs.
   and `unicode: true`. The sans faces that travel with the engine draw
   Latin, Greek and Cyrillic, so a Russian or Ukrainian pack brings no
   font. Simplified Chinese, Traditional Chinese, Japanese and Korean need a face of their own (step 7).
+  Bengali's letters join, so its pack says `text: {needs: shaping}` and brings Noto Sans Bengali Bold (step 7).
   `fonts/engine-faces.json` lists every character the engine's faces draw.
 
 | Pack | Drawn with | Font in the pack |
@@ -66,6 +67,8 @@ The game draws text two ways, and the pack's manifest says which it needs.
 | `pt-BR` | modern fonts (3.1c's menu fonts lack some of its letters) | none |
 | `pt-PT` | modern fonts (as `pt-BR`) | none |
 | `tr` | modern fonts (3.1c's menu fonts lack ğ, ı, İ and ş) | none |
+| `pl` | modern fonts | none |
+| `bn` | shaping (joined letters; offered only on a build that shapes) | `NotoSansBengali-Bold.ttf` |
 
 ## 2. Write the manifest
 
@@ -104,7 +107,8 @@ requires: {engine: ">= 0.8.0"}
 - `locales` are the system locales that choose the language at first start.
 - `requires.engine` is the oldest engine the pack's words are written for.
 - `fonts` names a face in the pack's `fonts/` folder, with `role:
-  ideographs` for a CJK face. Leave it out when the pack brings none.
+  ideographs` for a CJK face and `role: letters` for a face drawn at the
+  sans size (Bengali). Leave it out when the pack brings none.
 - `packaging.revision` starts at 1. A revision is published once: the
   published ones are this repository's tags, `<tag>-r<revision>`.
 
@@ -292,15 +296,19 @@ Two files are written by hand:
   characters the pack's text uses most (at most 4,096 bytes; 1,200 by
   default), drawn ahead so the first screen is quick.
 
-## 7. A font of its own (CJK only)
+## 7. A font of its own (CJK, and a script that shapes)
 
 Run `python3 tools/check.py <tag> --source`. A pack in the modern fonts
 fails on any character neither the engine's faces nor the pack's own font
-draws. Only a CJK language needs a face of its own; it is cut from the Noto
-Sans CJK collection already pinned in `fonts/fonts.json`, whose faces are,
-in order, Japanese (0), Korean (1), Simplified Chinese (2), Traditional
-Chinese (3) and Hong Kong (4). A Chinese face draws Japanese and Traditional
-Chinese characters in Chinese forms, so each needs its own cut.
+draws. A CJK language needs a face of its own, cut from the Noto Sans CJK
+collection already pinned in `fonts/fonts.json`, whose faces are, in order,
+Japanese (0), Korean (1), Simplified Chinese (2), Traditional Chinese (3)
+and Hong Kong (4). A Chinese face draws Japanese and Traditional Chinese
+characters in Chinese forms, so each needs its own cut. Bengali needs one
+too: Noto Sans Bengali Bold, cut from its own zip with the shaping tables
+kept (`fonts/README.md`). The CJK cuts drop those tables. A shaping pack's
+manifest says `text: {needs: shaping}`, and `tools/check.py` treats that as
+the modern stack.
 
 A new face takes, in one commit:
 

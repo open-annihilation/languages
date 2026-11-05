@@ -22,6 +22,8 @@ CUT = "1bff16d425a0bc5048fddb7d33d2a59e08647d4a29380a348ccaabcbd89a29f2"
 KOREAN_CUT = "0f035ef4a3ce2cb1aee6c921fc550281ba4ee5fec43cf6febc2c3c3110de168f"
 JAPANESE_CUT = "4806744e3fc97964d9a563ce39d04b08b20f2a2786bd84db6dfb9e4acde26236"
 TRADITIONAL_CUT = "9600804dceb783422e302bb6153fd78c2a0158e7e17303786129d1cbb4ec7458"
+BENGALI_ZIP = "2aca24bf71665e66c32e14862ee58857dd8b8b07b6321ec7c96f3121ad6683b1"
+BENGALI_CUT = "34554d3b5d63ea3e1b8d93af17af67d9c9d75155b489b8c99c34bb866999ba1a"
 UKRAINIAN = (
     "АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯабвгґдеєжзиіїйклмнопрстуфхцчшщьюя"
     "ʼ’«»—–…№"
@@ -87,7 +89,17 @@ class FontTests(unittest.TestCase):
         self.assertEqual(traditional["count"], 13879)
         self.assertEqual(traditional["sha256"], TRADITIONAL_CUT)
         self.assertEqual(traditional["licence"], "NotoSansCJK-OFL.txt")
+        self.assertEqual(downloads["NotoSansBengali-v3.011.zip"]["sha256"], BENGALI_ZIP)
+        bengali = data["fonts"]["NotoSansBengali-Bold.ttf"]
+        self.assertEqual(bengali["download"], "NotoSansBengali-v3.011.zip")
+        self.assertEqual(bengali["face"], 0)
+        self.assertEqual(bengali["characters"], "bengali")
+        self.assertEqual(bengali["count"], 100)
+        self.assertEqual(bengali["sha256"], BENGALI_CUT)
+        self.assertEqual(bengali["licence"], "NotoSansBengali-OFL.txt")
+        self.assertEqual(bengali["member"], "NotoSansBengali/hinted/ttf/NotoSansBengali-Bold.ttf")
         self.assertEqual(fonts.download_roles(data)[0]["file"], "NotoSansCJK-Bold-2.004.ttc")
+        self.assertEqual(fonts.download_roles(data)[1]["file"], "Unihan-16.0.0.zip")
         self.assertEqual(fonts.self_test(), 0)
 
     def test_cjk_characters_hold_14066(self) -> None:
@@ -130,6 +142,19 @@ class FontTests(unittest.TestCase):
             self.assertNotIn(ord(character), characters, character)
         self.assertEqual(fonts.recipe_characters("traditional"), characters)
         self.assertEqual(fonts.unihan_characters("traditional", Path("missing")), set())
+
+    def test_bengali_characters_are_the_block_the_danda_and_the_joiners(self) -> None:
+        characters = fonts.bengali_characters()
+        self.assertEqual(len(characters), fonts.BENGALI_COUNT)
+        self.assertEqual(len(characters), 132)
+        for character in "ক্ষি।":
+            self.assertIn(ord(character), characters, character)
+        self.assertIn(0x200C, characters)
+        self.assertIn(0x200D, characters)
+        for character in "अआ":
+            self.assertNotIn(ord(character), characters, character)
+        self.assertEqual(fonts.recipe_characters("bengali"), characters)
+        self.assertEqual(fonts.unihan_characters("bengali", Path("missing")), set())
 
     def test_japanese_kanji_fields_must_hold_their_counts(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

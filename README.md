@@ -16,7 +16,7 @@ The five languages Total Annihilation 3.1c ships with (English, German, Spanish,
 - `pt-PT/` holds the European Portuguese sources, laid out the same way and drawn the same way as the Brazilian pack's. Portugal's system locale chooses it, as do those of the other countries that write European Portuguese; a bare `pt` chooses the Brazilian pack.
 - `tr/` holds the Turkish sources, laid out the same way. Windows-1252 has ç, ö and ü but not ğ, ı, İ or ş, and 3.1c's menu fonts lack those letters, so it is drawn in the modern fonts and brings no font of its own.
 - `pl/` holds the Polish sources, laid out the same way. Polish letters are outside 3.1c's menu fonts, so the pack is drawn in the modern fonts and brings no font of its own.
-- `fonts/` holds the CJK fonts' recipes, their licence and the pinned fontTools requirements, and `engine-faces.json`, the record of the characters the engine's own faces draw. The built fonts are not stored here.
+- `fonts/` holds the CJK fonts' recipes, the Bengali face's recipe, their licences and the pinned fontTools requirements, and `engine-faces.json`, the record of the characters the engine's own faces draw. The built fonts are not stored here.
 - `tools/check.py` checks a pack. `tools/coverage.py` lists the engine's interface words a pack does not translate. `tools/build.py` builds a `.oalang`. `tools/fonts.py` builds the fonts. `tools/translate.py` prepares, checks and merges a new pack's translation from an existing pack. `tools/screens.py` takes pictures of a built pack's screens with an engine build.
 - `docs/` holds the guides: [adding a language](docs/new-language.md), [updating the packs for an engine release](docs/updating-a-pack.md), and each pack's glossary under `docs/glossaries/`.
 - `dist/` receives the built pack and its build info. `local/` holds downloads, the fontTools environment and the build stage. Neither directory is committed.
@@ -27,7 +27,7 @@ The five languages Total Annihilation 3.1c ships with (English, German, Spanish,
 
 ## Make the fonts
 
-Simplified Chinese, Traditional Chinese, Korean and Japanese each ship a font, cut from the same Noto Sans CJK collection.
+Simplified Chinese, Traditional Chinese, Korean and Japanese each ship a font, cut from the same Noto Sans CJK collection. Bengali ships its own face, Noto Sans Bengali Bold, cut from that family's zip with its shaping tables kept.
 
 ```sh
 python3 tools/fonts.py
@@ -39,7 +39,7 @@ Downloads that are not already in `local/deps` are fetched and checked against t
 python3 tools/fonts.py --deps /path/to/deps
 ```
 
-The cut faces are written to `local/fonts/NotoSansCJKsc-Bold.otf`, `local/fonts/NotoSansCJKtc-Bold.otf`, `local/fonts/NotoSansCJKkr-Bold.otf` and `local/fonts/NotoSansCJKjp-Bold.otf`. `python3 tools/fonts.py --self-test` checks the pins and the character sets and downloads nothing. See `fonts/README.md` for the cut and the licence.
+The cut faces are written to `local/fonts/NotoSansCJKsc-Bold.otf`, `local/fonts/NotoSansCJKtc-Bold.otf`, `local/fonts/NotoSansCJKkr-Bold.otf`, `local/fonts/NotoSansCJKjp-Bold.otf` and `local/fonts/NotoSansBengali-Bold.ttf`. `python3 tools/fonts.py --self-test` checks the pins and the character sets and downloads nothing. See `fonts/README.md` for the cut and the licence.
 
 ## Check a pack
 
@@ -56,9 +56,9 @@ python3 tools/check.py zh-Hans --game-dir /path/to/game --oa-tool /path/to/oa-to
 
 The check exits 0 when the pack is clean, 1 when it found failures, and 77 when there is no pack.
 
-The check reads the built face from `local/fonts` (or `--fonts`) when the pack's own `fonts/` folder does not hold it, and fails on any character of the pack's text that only a CJK face draws and the face does not hold. Before the face is built, `--source` checks the characters against the cut's recipe: the Simplified Chinese face's with the general standard table when `--deps` holds the Unihan archive, the Japanese face's with the Jōyō and Jinmeiyō kanji from the same archive (and JIS X 0208 alone without it), the Korean face's, Hangul, with no download, and the Traditional Chinese face's, Big5, with no download. It also fails on an `interface.tdf` translation that drops a place (`{name}`, `%s`) or a number of its English.
+The check reads the built face from `local/fonts` (or `--fonts`) when the pack's own `fonts/` folder does not hold it, and fails on any character of the pack's text that only a CJK face draws and the face does not hold. Before the face is built, `--source` checks the characters against the cut's recipe: the Simplified Chinese face's with the general standard table when `--deps` holds the Unihan archive, the Japanese face's with the Jōyō and Jinmeiyō kanji from the same archive (and JIS X 0208 alone without it), the Korean face's, Hangul, with no download, the Traditional Chinese face's, Big5, with no download, and the Bengali face's, the Bengali block with the danda and the joiners, with no download. It also fails on an `interface.tdf` translation that drops a place (`{name}`, `%s`) or a number of its English.
 
-Every other character must have a glyph where the game draws it. In a pack whose text needs the modern fonts (`text: {needs: modern-fonts}`), each visible character must be in the engine's own faces or the pack's fonts, in a face every weight looks in. The engine's faces are read from `fonts/engine-faces.json`, or from an engine build's fonts folder with `--engine-fonts`:
+Every other character must have a glyph where the game draws it. In a pack whose text needs the modern fonts (`text: {needs: modern-fonts}`) or shaping (`text: {needs: shaping}`), each visible character must be in the engine's own faces or the pack's fonts, in a face every weight looks in. The engine's faces are read from `fonts/engine-faces.json`, or from an engine build's fonts folder with `--engine-fonts`:
 
 ```sh
 python3 tools/check.py uk --engine-fonts /path/to/open-annihilation.app/Contents/Resources/fonts
@@ -96,7 +96,7 @@ Fix the translation, then bump `packaging.revision` and `packaging.date` in the 
 
 ## Licences
 
-The tables, briefings and tools are GPL-3.0-only, the same terms as the engine (`LICENSE`, `COPYRIGHT`). The CJK fonts are under the SIL Open Font License 1.1 (`fonts/NotoSansCJK-OFL.txt`). The Ukrainian, Russian, Portuguese, Turkish and Polish packs carry no font.
+The tables, briefings and tools are GPL-3.0-only, the same terms as the engine (`LICENSE`, `COPYRIGHT`). The CJK fonts are under the SIL Open Font License 1.1 (`fonts/NotoSansCJK-OFL.txt`). The Bengali face is under the same licence with its own copyright (`fonts/NotoSansBengali-OFL.txt`). The Ukrainian, Russian, Portuguese, Turkish and Polish packs carry no font.
 
 ## Tests
 

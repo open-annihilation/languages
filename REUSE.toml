@@ -26,9 +26,16 @@ path = "tests/fixtures/missing-header/translate.tdf"
 SPDX-FileCopyrightText = "The Open Annihilation Authors; see COPYRIGHT"
 SPDX-License-Identifier = "GPL-3.0-only"
 
-# The CJK face is cut from Noto Sans CJK, which is under the SIL Open Font
-# License 1.1. The text in fonts/ is that licence.
+# The CJK faces are cut from Noto Sans CJK, under the SIL Open Font
+# License 1.1. The text of fonts/NotoSansCJK-OFL.txt is that licence.
 [[annotations]]
-path = "fonts/*.txt"
+path = "fonts/NotoSansCJK-OFL.txt"
 SPDX-FileCopyrightText = "Copyright 2014-2021 Adobe (http://www.adobe.com/)"
+SPDX-License-Identifier = "OFL-1.1"
+
+# The Bengali face is cut from Noto Sans Bengali, under the same licence.
+# Its copyright holder is not Adobe's, so it is annotated on its own.
+[[annotations]]
+path = "fonts/NotoSansBengali-OFL.txt"
+SPDX-FileCopyrightText = "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/bengali)"
 SPDX-License-Identifier = "OFL-1.1"

@@ -2,7 +2,7 @@
 # SPDX-FileCopyrightText: The Open Annihilation Authors; see COPYRIGHT
 # SPDX-License-Identifier: GPL-3.0-only
 
-"""Build the CJK fonts the language packs ship, from the pins in fonts/fonts.json.
+"""Build the fonts the language packs ship, from the pins in fonts/fonts.json.
 
     fonts.py [--deps DIR] [--out DIR]
 
@@ -14,12 +14,12 @@ is one line: its path, its size in bytes and its SHA-256.
 Four faces are cut from the Bold collection: Noto Sans CJK SC Bold (face
 2) kept to the common CJK characters, Noto Sans CJK KR Bold (face 1) kept
 to Hangul, Noto Sans CJK JP Bold (face 0) kept to Japanese, and Noto Sans
-CJK TC Bold (face 3) kept to Traditional Chinese, in Taiwan's forms.
-fontTools
-4.66.1, pinned by hash in fonts/requirements.txt, runs in
-local/fonttools-venv, which is made again when its Python no longer runs
-it. --self-test checks the pins and the character sets and downloads
-nothing.
+CJK TC Bold (face 3) kept to Traditional Chinese, in Taiwan's forms. Noto
+Sans Bengali Bold is cut from the hinted TTF in its zip, to the Bengali
+block, and keeps the shaping tables the CJK cuts drop. fontTools 4.66.1,
+pinned by hash in fonts/requirements.txt, runs in local/fonttools-venv,
+which is made again when its Python no longer runs it. --self-test checks
+the pins and the character sets and downloads nothing.
 
     fonts.py --record-engine-faces FONTS
 
@@ -41,6 +41,7 @@ import shutil
 import struct
 import subprocess
 import sys
+import tempfile
 import urllib.request
 import venv
 import zipfile
@@ -213,13 +214,34 @@ def japanese_characters(kanji=()):
     return sorted(characters)
 
 
-RECIPES = ("common-cjk", "hangul", "japanese", "traditional")
+BENGALI_COUNT = 132
+"""The characters bengali_characters() lists."""
+
+
+def bengali_characters():
+    """The characters the cut-down Bengali face keeps, as a sorted list of code points.
+
+    The Bengali block (U+0980-U+09FF), the danda and double danda (U+0964
+    and U+0965) and the zero-width non-joiner and joiner (U+200C and
+    U+200D). Conjuncts are built from a letter, the virama U+09CD and the
+    next letter, so the block is kept whole. The danda is a Devanagari
+    mark; the pack's text uses a full stop, and the glyph is here so a
+    line that does use one still draws. The joiners are invisible to the
+    pack check and are in the face because a conjunct sometimes needs one.
+    """
+    characters = set(range(0x0980, 0x0A00))
+    characters.update((0x0964, 0x0965, 0x200C, 0x200D))
+    return sorted(characters)
+
+
+RECIPES = ("common-cjk", "hangul", "japanese", "traditional", "bengali")
 """The character sets a face in fonts.json may be cut to.
 
 common-cjk is cjk_characters() with the general standard table, hangul is
 hangul_characters(), japanese is japanese_characters() with the kanji of
-JIS X 0208 and the Jōyō and Jinmeiyō kanji, and traditional is
-traditional_characters(), Big5's characters.
+JIS X 0208 and the Jōyō and Jinmeiyō kanji, traditional is
+traditional_characters(), Big5's characters, and bengali is
+bengali_characters().
 """
 
 
@@ -227,14 +249,14 @@ def unihan_characters(recipe, unihan):
     """The code points a recipe reads from the Unihan archive at unihan.
 
     The general standard table for common-cjk, the Japanese kanji for
-    japanese, and none for hangul and traditional, which do not read the
-    archive.
+    japanese, and none for hangul, traditional and bengali, which do not
+    read the archive.
     """
     if recipe == "common-cjk":
         return general_standard_characters(unihan)
     if recipe == "japanese":
         return japanese_kanji(unihan)
-    if recipe in ("hangul", "traditional"):
+    if recipe in ("hangul", "traditional", "bengali"):
         return set()
     raise ValueError(f"{recipe!r} is not a recipe")
 
@@ -249,6 +271,8 @@ def recipe_characters(recipe, from_unihan=()):
         return cjk_characters(from_unihan)
     if recipe == "japanese":
         return japanese_characters(from_unihan)
+    if recipe == "bengali":
+        return bengali_characters()
     raise ValueError(f"{recipe!r} is not a recipe")
 
 
@@ -539,6 +563,12 @@ def pin_problems(data):
             problems.append(f"the licence of {name} is not a file name")
         elif not (ROOT / "fonts" / licence).is_file():
             problems.append(f"the licence of {name} is missing")
+        member = spec.get("member")
+        if member is not None:
+            pure = pathlib.PurePosixPath(member) if isinstance(member, str) else None
+            if (pure is None or not member or pure.as_posix() != member or ".." in pure.parts
+                    or pure.is_absolute()):
+                problems.append(f"the member of {name} is not a path inside its download")
     if not REQUIREMENTS.is_file():
         problems.append("fonts/requirements.txt is missing")
     return problems
@@ -568,19 +598,25 @@ def fetch_download(directory, item):
 
 
 def download_roles(data):
-    """The collection, the Unihan archive and the licence download, by file name."""
+    """The CJK collection, the Unihan archive and the CJK licence download.
+
+    A font whose download is a TrueType collection shares that collection.
+    A zip named as a font's download is that face's own source (the Bengali
+    zip), not the Unihan archive. The archive is the download whose file
+    name contains Unihan. The licence is the download that is neither a
+    font source nor the archive.
+    """
     by_name = {item["file"]: item for item in data["downloads"]}
     collections = []
-    archives = []
     for spec in data["fonts"].values():
-        if by_name[spec["download"]] not in collections:
-            collections.append(by_name[spec["download"]])
-    for item in data["downloads"]:
-        if item["file"].endswith(".zip"):
-            archives.append(item)
+        item = by_name[spec["download"]]
+        if item["file"].endswith(".ttc") and item not in collections:
+            collections.append(item)
+    archives = [item for item in data["downloads"] if "Unihan" in item["file"]]
+    font_sources = {spec["download"] for spec in data["fonts"].values()}
     licences = [
         item for item in data["downloads"]
-        if item not in collections and item not in archives
+        if item["file"] not in font_sources and item not in archives
     ]
     if len(collections) != 1 or len(archives) != 1 or len(licences) != 1:
         raise RuntimeError("fonts.json needs one collection, one Unihan archive and one licence")
@@ -625,24 +661,44 @@ def fonttools_python():
     return python
 
 
+def open_collection_face(path, face):
+    """One face of a TrueType collection, or the only face of a TTF.
+
+    fontTools refuses a face index on a file that is not a collection, so a
+    TTF (the Bengali source) is opened with none. Its pin still says face 0.
+    """
+    from fontTools.ttLib import TTFont
+
+    kind = pathlib.Path(path).read_bytes()[:4]
+    if kind == b"ttcf":
+        return TTFont(path, fontNumber=face, recalcTimestamp=False, lazy=False)
+    if face != 0:
+        raise RuntimeError(f"{pathlib.Path(path).name} is one face, not face {face}")
+    return TTFont(path, recalcTimestamp=False, lazy=False)
+
+
 def cut_cjk_face(collection, unihan, face, out, count, recipe="common-cjk"):
-    """Write one face of the CJK collection to out, cut to its recipe's characters.
+    """Write one face to out, cut to its recipe's characters.
 
     The recipe is common-cjk, cjk_characters() with the general standard
     table read from unihan, japanese, japanese_characters() with the kanji
-    read from unihan, hangul, hangul_characters(), or traditional,
-    traditional_characters(). Hangul and traditional do not read unihan.
-    Runs in the fontTools environment (--cut-face). Layout tables
-    are dropped, since the engine shapes nothing, and the hinting kept; the
-    font's modification time is left as it was, so the output depends only
-    on its input.
+    read from unihan, hangul, hangul_characters(), traditional,
+    traditional_characters(), or bengali, bengali_characters(). Hangul,
+    traditional and bengali do not read unihan. collection is a TrueType
+    collection, or, for bengali, the hinted TTF taken out of its zip.
+    Runs in the fontTools environment (--cut-face). The CJK cuts drop
+    layout tables, since those faces are drawn a character at a time. The
+    Bengali cut keeps them: a conjunct is several characters drawn as one
+    glyph, and without GSUB and GPOS the letters sit side by side. Hinting
+    is kept either way, and the font's modification time is left as it was,
+    so the output depends only on its input.
     """
     from fontTools import subset
-    from fontTools.ttLib import TTFont
 
-    font = TTFont(collection, fontNumber=face, recalcTimestamp=False, lazy=False)
+    font = open_collection_face(collection, face)
     options = subset.Options()
-    options.layout_features = []
+    options.layout_features = ["*"] if recipe == "bengali" else []
+    options.hinting = True
     options.name_IDs = ["*"]
     options.name_languages = ["*"]
     options.notdef_outline = True
@@ -654,6 +710,8 @@ def cut_cjk_face(collection, unihan, face, out, count, recipe="common-cjk"):
     subsetter = subset.Subsetter(options)
     subsetter.populate(unicodes=kept)
     subsetter.subset(font)
+    if recipe == "bengali" and ("GSUB" not in font or "GPOS" not in font):
+        raise RuntimeError("the Bengali face lost its shaping tables")
     font.save(out)
 
 
@@ -702,6 +760,16 @@ def self_test():
             problems.append(f"the Traditional Chinese character set lacks {sample}")
     if any(ord(character) in traditional for character in "国这软们"):
         problems.append("the Traditional Chinese character set holds simplified characters")
+    bengali = bengali_characters()
+    if len(bengali) != BENGALI_COUNT:
+        problems.append(
+            f"the Bengali character set holds {len(bengali)} characters, not {BENGALI_COUNT}"
+        )
+    for sample in ("ক", "্", "ষ", "ি", "।"):
+        if any(ord(character) not in bengali for character in sample):
+            problems.append(f"the Bengali character set lacks {sample}")
+    if any(ord(character) in bengali for character in "अआ"):
+        problems.append("the Bengali character set holds Devanagari letters")
     for problem in problems:
         print(f"fonts self-test: {problem}")
     if problems:
@@ -710,10 +778,34 @@ def self_test():
         f"fonts self-test: {len(data['downloads'])} downloads, {len(data['fonts'])} fonts, "
         f"{len(characters)} CJK characters besides the general standard table, "
         f"{len(hangul)} Hangul characters, {len(japanese)} Japanese characters "
-        f"besides the Unihan kanji, and {len(traditional)} Traditional Chinese "
-        f"characters, as expected"
+        f"besides the Unihan kanji, {len(traditional)} Traditional Chinese "
+        f"characters, and {len(bengali)} Bengali characters, as expected"
     )
     return 0
+
+
+def licence_bytes(spec, paths, licence_path):
+    """The licence bytes a font's download carries.
+
+    A face cut from a zip (it names member) carries OFL.txt in that zip.
+    The CJK faces share the separate licence download.
+    """
+    if spec.get("member"):
+        with zipfile.ZipFile(paths[spec["download"]]) as archive:
+            return archive.read("OFL.txt")
+    return licence_path.read_bytes()
+
+
+def face_source(spec, paths, scratch):
+    """The file --cut-face reads: a collection, or one member of a zip."""
+    source = paths[spec["download"]]
+    member = spec.get("member")
+    if not member:
+        return source
+    destination = scratch / pathlib.PurePosixPath(member).name
+    with zipfile.ZipFile(source) as archive:
+        destination.write_bytes(archive.read(member))
+    return destination
 
 
 def build(deps, out, shown):
@@ -722,25 +814,27 @@ def build(deps, out, shown):
     problems = pin_problems(data)
     if problems:
         raise RuntimeError("; ".join(problems))
-    collection, unihan, licence = download_roles(data)
-    collection_path = fetch_download(deps, collection)
-    unihan_path = fetch_download(deps, unihan)
-    licence_path = fetch_download(deps, licence)
+    paths = {item["file"]: fetch_download(deps, item) for item in data["downloads"]}
+    _collection, unihan, licence = download_roles(data)
+    unihan_path = paths[unihan["file"]]
+    licence_path = paths[licence["file"]]
     for spec in data["fonts"].values():
         notice = ROOT / "fonts" / spec["licence"]
-        if licence_path.read_bytes() != notice.read_bytes():
+        if licence_bytes(spec, paths, licence_path) != notice.read_bytes():
             raise RuntimeError(f"{notice.name} differs from the downloaded licence")
     python = fonttools_python()
     out.mkdir(parents=True, exist_ok=True)
     for name, spec in data["fonts"].items():
         destination = out / name
-        command = [
-            str(python), str(pathlib.Path(__file__).resolve()),
-            "--cut-face", str(collection_path), str(unihan_path), str(destination),
-            "--face", str(spec["face"]), "--count", str(spec["count"]),
-            "--characters", spec["characters"],
-        ]
-        subprocess.run(command, check=True)
+        with tempfile.TemporaryDirectory(prefix="L05-font-") as scratch:
+            source = face_source(spec, paths, pathlib.Path(scratch))
+            command = [
+                str(python), str(pathlib.Path(__file__).resolve()),
+                "--cut-face", str(source), str(unihan_path), str(destination),
+                "--face", str(spec["face"]), "--count", str(spec["count"]),
+                "--characters", spec["characters"],
+            ]
+            subprocess.run(command, check=True)
         payload = destination.read_bytes()
         digest = hashlib.sha256(payload).hexdigest()
         if digest != spec["sha256"]:

@@ -33,13 +33,15 @@ Unihan archive, and without it otherwise, which refuses the table's rarer
 characters; the Japanese face's with the Jōyō and Jinmeiyō kanji from the
 same archive, and without it otherwise, which keeps the text to JIS X
 0208; the Korean face's, Hangul, with no download; the Traditional Chinese
-face's, Big5, with no download.
+face's, Big5, with no download; the Bengali face's, the Bengali block with
+the danda and the joiners, with no download.
 
 Every other character is drawn where the manifest's text says. A language
-whose text needs the modern fonts (text: {needs: modern-fonts}) draws it
-from the engine's own faces (DejaVu Sans and the others beside the game)
-or the pack's fonts, and each visible character must be in one of them, in
-the faces every weight looks in. The engine's faces are read from the
+whose text needs the modern fonts (text: {needs: modern-fonts}) or shaping
+(text: {needs: shaping}) draws it from the engine's own faces (DejaVu Sans
+and the others beside the game) or the pack's fonts, and each visible
+character must be in one of them, in the faces every weight looks in. The
+engine's faces are read from the
 record fonts/engine-faces.json, or from an engine build's fonts folder
 with --engine-fonts. A language drawn in the game's fonts keeps to their
 code page, Windows-1252, and a pack of one whose text goes beyond ASCII
@@ -457,6 +459,11 @@ def cut_characters(
                 "the Traditional Chinese face is not built: characters are checked against its recipe"
             )
             held |= set(font_cut.traditional_characters())
+        if "bengali" in recipes:
+            report.note(
+                "the Bengali face is not built: characters are checked against its recipe"
+            )
+            held |= set(font_cut.bengali_characters())
         if "common-cjk" not in recipes:
             return held
         unihan = unihan_archive(deps)
@@ -508,9 +515,14 @@ def invisible(code: int) -> bool:
 
 
 def modern_fonts(values: dict) -> bool:
-    """Whether the manifest's text needs the modern fonts; else it is drawn in the game's."""
+    """Whether the manifest's text is drawn on the modern font stack.
+
+    modern-fonts and shaping both are. Shaping draws joined letters, and
+    that happens on the modern stack, so those characters are checked the
+    same way. Anything else is drawn in the game's fonts.
+    """
     text = values.get("text")
-    return isinstance(text, dict) and text.get("needs") == "modern-fonts"
+    return isinstance(text, dict) and text.get("needs") in ("modern-fonts", "shaping")
 
 
 def code_page_holds(character: str) -> bool:

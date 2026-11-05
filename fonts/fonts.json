@@ -14,6 +14,11 @@
       "file": "Unihan-16.0.0.zip",
       "sha256": "b8f000df69de7828d21326a2ffea462b04bc7560022989f7cc704f10521ef3e0",
       "url": "https://www.unicode.org/Public/16.0.0/ucd/Unihan.zip"
+    },
+    {
+      "file": "NotoSansBengali-v3.011.zip",
+      "sha256": "2aca24bf71665e66c32e14862ee58857dd8b8b07b6321ec7c96f3121ad6683b1",
+      "url": "https://github.com/notofonts/bengali/releases/download/NotoSansBengali-v3.011/NotoSansBengali-v3.011.zip"
     }
   ],
   "fonts": {
@@ -48,6 +53,15 @@
       "face": 3,
       "licence": "NotoSansCJK-OFL.txt",
       "sha256": "9600804dceb783422e302bb6153fd78c2a0158e7e17303786129d1cbb4ec7458"
+    },
+    "NotoSansBengali-Bold.ttf": {
+      "characters": "bengali",
+      "count": 100,
+      "download": "NotoSansBengali-v3.011.zip",
+      "face": 0,
+      "licence": "NotoSansBengali-OFL.txt",
+      "member": "NotoSansBengali/hinted/ttf/NotoSansBengali-Bold.ttf",
+      "sha256": "34554d3b5d63ea3e1b8d93af17af67d9c9d75155b489b8c99c34bb866999ba1a"
     }
   }
 }
