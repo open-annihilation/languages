@@ -11298,11 +11298,6 @@
 	pl=Zamknij megamapę;
 	}
 
-[Closes the megamap and centres on the pointer]
-	{
-	pl=Zamyka megamapę i środkuje na wskaźniku;
-	}
-
 [Jumps the view to a point of the megamap]
 	{
 	pl=Przenosi widok do punktu megamapy;
@@ -16058,5 +16053,3017 @@
 [Open the download page]
 	{
 	pl=Otwórz stronę pobierania;
+	}
+
+// Settings › Replays: recording and keeping games.
+
+[REPLAYS]
+	{
+	pl=POWTÓRKI;
+	}
+
+[Record my games]
+	{
+	pl=Nagrywaj moje partie;
+	}
+
+[Campaign missions, skirmish, multiplayer and Boneyards battles. Applies from the next game.]
+	{
+	pl=Misje kampanii, potyczki, gry wieloosobowe i bitwy w Boneyards. Działa od następnej partii.;
+	}
+
+[Keep replays for]
+	{
+	pl=Przechowuj powtórki przez;
+	}
+
+[30 days]
+	{
+	pl=30 dni;
+	}
+
+[90 days]
+	{
+	pl=90 dni;
+	}
+
+[A year]
+	{
+	pl=Rok;
+	}
+
+[Forever]
+	{
+	pl=Na zawsze;
+	}
+
+[Replays you keep in the Library stay until you delete them.]
+	{
+	pl=Powtórki, które zachowasz w Bibliotece, zostają, dopóki ich nie usuniesz.;
+	}
+
+[Open replay files with Open Annihilation]
+	{
+	pl=Otwieraj pliki powtórek w Open Annihilation;
+	}
+
+[A .oademo or a .tad file opens in this copy.]
+	{
+	pl=Plik .oademo albo .tad otwiera się w tej kopii.;
+	}
+
+// Settings › Accessibility: colour vision, shape cues, screen readers, speech and focus.
+
+[Colour vision]
+	{
+	pl=Widzenie barw;
+	}
+
+[Protanopia]
+	{
+	pl=Protanopia;
+	}
+
+[Deuteranopia]
+	{
+	pl=Deuteranopia;
+	}
+
+[Tritanopia]
+	{
+	pl=Tritanopia;
+	}
+
+[Achromatopsia]
+	{
+	pl=Achromatopsja;
+	}
+
+[Changes team colours, the minimap, bars, the war map and status colours on this machine only.]
+	{
+	pl=Zmienia kolory drużyn, minimapę, paski, mapę wojny i kolory stanów tylko na tym komputerze.;
+	}
+
+[Shape cues]
+	{
+	pl=Wskazówki kształtu;
+	}
+
+[Achromatopsia keeps shape cues on]
+	{
+	pl=Achromatopsja zawsze włącza wskazówki kształtu;
+	}
+
+[Player markers, side symbols, notched bars and a mark on every status.]
+	{
+	pl=Znaczniki graczy, symbole stron, paski z nacięciami i znak przy każdym stanie.;
+	}
+
+[Preview]
+	{
+	pl=Podgląd;
+	}
+
+[The ten player colours, then OK, caution, danger and information.]
+	{
+	pl=Dziesięć kolorów graczy, potem OK, ostrzeżenie, zagrożenie i informacja.;
+	}
+
+[Screen reader]
+	{
+	pl=Czytnik ekranu;
+	}
+
+[Automatic works with a screen reader while the system says one is running. On also works with one the system does not report. Off never does.]
+	{
+	pl=Auto działa z czytnikiem ekranu, gdy system podaje, że jakiś działa. Wł. działa też z takim, o którym system nie informuje. Wył. nigdy nie działa.;
+	}
+
+[Nothing on this system can speak.]
+	{
+	pl=W tym systemie nic nie potrafi mówić.;
+	}
+
+[Speak chat]
+	{
+	pl=Czytaj czat;
+	}
+
+[Pages only]
+	{
+	pl=Wywołania;
+	}
+
+[Chat lines and whispers, pages only, or neither.]
+	{
+	pl=Linie czatu i szepty, tylko wywołania albo żadne.;
+	}
+
+[Speak lobby changes]
+	{
+	pl=Czytaj zmiany w poczekalni;
+	}
+
+[A player joining or leaving the battle room, and a change of ready, side, colour, team, map or option.]
+	{
+	pl=Dołączenie gracza do pokoju bitwy albo wyjście z niego oraz zmiana gotowości, strony, koloru, drużyny, mapy lub opcji.;
+	}
+
+[Speak the ticker]
+	{
+	pl=Czytaj pasek wiadomości;
+	}
+
+[The ticker repeats, so it stays quiet until this is on.]
+	{
+	pl=Pasek wiadomości się powtarza, więc milczy, dopóki to nie jest włączone.;
+	}
+
+[Always show focus]
+	{
+	pl=Zawsze pokazuj fokus;
+	}
+
+[The focus ring is drawn on the first item when a screen opens.]
+	{
+	pl=Pierścień fokusu jest rysowany na pierwszym elemencie po otwarciu ekranu.;
+	}
+
+// The Library's Replays section: its filters, sorting and days.
+
+[Replays]
+	{
+	pl=Powtórki;
+	}
+
+[This month]
+	{
+	pl=Ten miesiąc;
+	}
+
+[Older]
+	{
+	pl=Starsze;
+	}
+
+[Kept]
+	{
+	pl=Zachowane;
+	}
+
+[Imported]
+	{
+	pl=Zaimportowane;
+	}
+
+[All kinds]
+	{
+	pl=Wszystkie rodzaje;
+	}
+
+[Newest first]
+	{
+	pl=Najnowsze najpierw;
+	}
+
+[Longest first]
+	{
+	pl=Najdłuższe najpierw;
+	}
+
+[By map]
+	{
+	pl=Według mapy;
+	}
+
+[Most players first]
+	{
+	pl=Najwięcej graczy najpierw;
+	}
+
+[Search replays]
+	{
+	pl=Szukaj powtórek;
+	}
+
+[Today]
+	{
+	pl=Dzisiaj;
+	}
+
+[Yesterday]
+	{
+	pl=Wczoraj;
+	}
+
+[{weekday} {day} {month}]
+	{
+	pl={weekday}, {day} {month};
+	}
+
+[{weekday} {day} {month} {year}]
+	{
+	pl={weekday}, {day} {month} {year};
+	}
+
+[Mon]
+	{
+	pl=pon.;
+	}
+
+[Tue]
+	{
+	pl=wt.;
+	}
+
+[Wed]
+	{
+	pl=śr.;
+	}
+
+[Thu]
+	{
+	pl=czw.;
+	}
+
+[Fri]
+	{
+	pl=pt.;
+	}
+
+[Sat]
+	{
+	pl=sob.;
+	}
+
+[Sun]
+	{
+	pl=niedz.;
+	}
+
+[Jan]
+	{
+	pl=sty;
+	}
+
+[Feb]
+	{
+	pl=lut;
+	}
+
+[Mar]
+	{
+	pl=mar;
+	}
+
+[Apr]
+	{
+	pl=kwi;
+	}
+
+[May]
+	{
+	pl=maj;
+	}
+
+[Jun]
+	{
+	pl=cze;
+	}
+
+[Jul]
+	{
+	pl=lip;
+	}
+
+[Aug]
+	{
+	pl=sie;
+	}
+
+[Sep]
+	{
+	pl=wrz;
+	}
+
+[Oct]
+	{
+	pl=paź;
+	}
+
+[Nov]
+	{
+	pl=lis;
+	}
+
+[Dec]
+	{
+	pl=gru;
+	}
+
+// The Library's Replays section: rows, the empty list and the footer.
+
+[{left} vs {right}]
+	{
+	pl={left} vs {right};
+	}
+
+[{kind} · {planet}]
+	{
+	pl={kind} · {planet};
+	}
+
+[{kind} · {planet}, {sector}]
+	{
+	pl={kind} · {planet}, {sector};
+	}
+
+[After a crash]
+	{
+	pl=Po awarii;
+	}
+
+[Reading…]
+	{
+	pl=Odczytywanie…;
+	}
+
+[Won]
+	{
+	pl=Wygrana;
+	}
+
+[Lost]
+	{
+	pl=Porażka;
+	}
+
+[Damaged]
+	{
+	pl=Uszkodzona;
+	}
+
+[No replays yet.]
+	{
+	pl=Jeszcze nie ma powtórek.;
+	}
+
+[Games you play are kept here for 30 days.]
+	{
+	pl=Rozegrane partie są tu przechowywane przez 30 dni.;
+	}
+
+[Games you play are kept here for 90 days.]
+	{
+	pl=Rozegrane partie są tu przechowywane przez 90 dni.;
+	}
+
+[Games you play are kept here for a year.]
+	{
+	pl=Rozegrane partie są tu przechowywane przez rok.;
+	}
+
+[Games you play are kept here until you delete them.]
+	{
+	pl=Rozegrane partie są tu przechowywane, dopóki ich nie usuniesz.;
+	}
+
+[Recording is off.]
+	{
+	pl=Nagrywanie jest wyłączone.;
+	}
+
+[Turn on recording]
+	{
+	pl=Włącz nagrywanie;
+	}
+
+[Open a replay file…]
+	{
+	pl=Otwórz plik powtórki…;
+	}
+
+[No replays from this month.]
+	{
+	pl=Brak powtórek z tego miesiąca.;
+	}
+
+[No older replays.]
+	{
+	pl=Brak starszych powtórek.;
+	}
+
+[No replays kept.]
+	{
+	pl=Brak zachowanych powtórek.;
+	}
+
+[No replays imported.]
+	{
+	pl=Brak zaimportowanych powtórek.;
+	}
+
+[No replays of this kind.]
+	{
+	pl=Brak powtórek tego rodzaju.;
+	}
+
+[Reading the replays…]
+	{
+	pl=Odczytywanie powtórek…;
+	}
+
+[Reading {read} of {total} replays]
+	{
+	pl=Odczytywanie powtórek: {read} z {total};
+	}
+
+[1 replay · {size}]
+	{
+	pl=1 powtórka · {size};
+	}
+
+[{count} replays · {size}]
+	{
+	pl=Powtórki: {count} · {size};
+	}
+
+[{count} replays selected]
+	{
+	pl=Zaznaczone powtórki: {count};
+	}
+
+[Old replays]
+	{
+	pl=Stare powtórki;
+	}
+
+[Keep them all]
+	{
+	pl=Zachowaj wszystkie;
+	}
+
+[Let them go]
+	{
+	pl=Pozwól je usunąć;
+	}
+
+[1 replay is older than you asked to keep. It goes to the system's trash.]
+	{
+	pl=1 powtórka jest starsza niż wybrany okres przechowywania. Trafia do kosza systemu.;
+	}
+
+[{count} replays are older than you asked to keep. They go to the system's trash.]
+	{
+	pl=Powtórki starsze niż wybrany okres przechowywania: {count}. Trafiają do kosza systemu.;
+	}
+
+[1 replay is older than you asked to keep. It is deleted. This system has no trash.]
+	{
+	pl=1 powtórka jest starsza niż wybrany okres przechowywania. Zostaje usunięta. Ten system nie ma kosza.;
+	}
+
+[{count} replays are older than you asked to keep. They are deleted. This system has no trash.]
+	{
+	pl=Powtórki starsze niż wybrany okres przechowywania: {count}. Zostają usunięte. Ten system nie ma kosza.;
+	}
+
+// The Library's replay cards: facts, buttons and what a replay needs.
+
+[1 kill]
+	{
+	pl=Zniszczone: 1;
+	}
+
+[{kills} kills]
+	{
+	pl=Zniszczone: {kills};
+	}
+
+[1 loss]
+	{
+	pl=Straty: 1;
+	}
+
+[{losses} losses]
+	{
+	pl=Straty: {losses};
+	}
+
+[Watched to {time}]
+	{
+	pl=Obserwowano do {time};
+	}
+
+[Length]
+	{
+	pl=Długość;
+	}
+
+[Recorded]
+	{
+	pl=Nagrano;
+	}
+
+[File]
+	{
+	pl=Plik;
+	}
+
+[Kept until]
+	{
+	pl=Zachowane do;
+	}
+
+[Until you delete it]
+	{
+	pl=Do czasu usunięcia;
+	}
+
+[Imported replays are kept]
+	{
+	pl=Zaimportowane powtórki są zachowywane;
+	}
+
+[Downloaded replays are kept]
+	{
+	pl=Pobrane powtórki są zachowywane;
+	}
+
+[Exported replays are kept]
+	{
+	pl=Wyeksportowane powtórki są zachowywane;
+	}
+
+[{mod} (rev {revision})]
+	{
+	pl={mod} (rew. {revision});
+	}
+
+[Arm]
+	{
+	pl=ARM;
+	}
+
+[Core]
+	{
+	pl=CORE;
+	}
+
+[Watcher]
+	{
+	pl=Obserwator;
+	}
+
+[Watch]
+	{
+	pl=Obserwuj;
+	}
+
+[Watch from {time}]
+	{
+	pl=Obserwuj od {time};
+	}
+
+[Delete replay]
+	{
+	pl=Usuń powtórkę;
+	}
+
+[This replay cannot be watched.]
+	{
+	pl=Tej powtórki nie można obserwować.;
+	}
+
+[This replay could not be moved to the trash.]
+	{
+	pl=Nie udało się przenieść tej powtórki do kosza.;
+	}
+
+[{count} replays could not be moved to the trash.]
+	{
+	pl=Nie udało się przenieść do kosza powtórek: {count}.;
+	}
+
+[Needs {name} {version}]
+	{
+	pl=Wymaga {name} {version};
+	}
+
+[Needs map]
+	{
+	pl=Wymaga mapy;
+	}
+
+[Needs mutator]
+	{
+	pl=Wymaga mutatora;
+	}
+
+[Needs {name}.]
+	{
+	pl=Wymaga {name}.;
+	}
+
+[Needs {version}]
+	{
+	pl=Wymaga {version};
+	}
+
+[This replay was recorded with {name}.]
+	{
+	pl=Tę powtórkę nagrano z użyciem {name}.;
+	}
+
+[This replay was recorded with {name} {version}.]
+	{
+	pl=Tę powtórkę nagrano z użyciem {name} {version}.;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}).]
+	{
+	pl=Tę powtórkę nagrano z użyciem {name} {version} (rewizja {revision}).;
+	}
+
+[This replay was recorded with {name}. You have {have}.]
+	{
+	pl=Tę powtórkę nagrano z użyciem {name}. Masz {have}.;
+	}
+
+[This replay was recorded with {name} {version}. You have {have}.]
+	{
+	pl=Tę powtórkę nagrano z użyciem {name} {version}. Masz {have}.;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}). You have {have}.]
+	{
+	pl=Tę powtórkę nagrano z użyciem {name} {version} (rewizja {revision}). Masz {have}.;
+	}
+
+[Needs the map {name}.]
+	{
+	pl=Wymaga mapy {name}.;
+	}
+
+[From the map pack {pack}.]
+	{
+	pl=Z paczki map {pack}.;
+	}
+
+[This replay was recorded with another release of the map pack {name}.]
+	{
+	pl=Tę powtórkę nagrano z innym wydaniem paczki map {name}.;
+	}
+
+[Needs the mutator {name}.]
+	{
+	pl=Wymaga mutatora {name}.;
+	}
+
+[Needs Open Annihilation {version}.]
+	{
+	pl=Wymaga Open Annihilation {version}.;
+	}
+
+[Getting {name}… {percent}%]
+	{
+	pl=Pobieranie {name}… {percent}%;
+	}
+
+[Get {name} {version} and watch]
+	{
+	pl=Pobierz {name} {version} i obserwuj;
+	}
+
+[Get it and watch]
+	{
+	pl=Pobierz i obserwuj;
+	}
+
+[Get them and watch]
+	{
+	pl=Pobierz je i obserwuj;
+	}
+
+[Turn on and watch]
+	{
+	pl=Włącz i obserwuj;
+	}
+
+[{name} {version} is not in {registry}'s catalogue.]
+	{
+	pl={name} {version} nie ma w katalogu {registry}.;
+	}
+
+[{name} is not in {registry}'s catalogue.]
+	{
+	pl={name} nie ma w katalogu {registry}.;
+	}
+
+[You're offline.]
+	{
+	pl=Jesteś poza siecią.;
+	}
+
+[Get {name} {version} when you're back online.]
+	{
+	pl=Pobierz {name} {version}, gdy wrócisz do sieci.;
+	}
+
+[Get {name} when you're back online.]
+	{
+	pl=Pobierz {name}, gdy wrócisz do sieci.;
+	}
+
+// Replays on Core Prime: the list, signing in and sharing.
+
+[On this computer]
+	{
+	pl=Na tym komputerze;
+	}
+
+[On Core Prime]
+	{
+	pl=W Core Prime;
+	}
+
+[Longest]
+	{
+	pl=Najdłuższe;
+	}
+
+[Popular]
+	{
+	pl=Popularne;
+	}
+
+[By planet]
+	{
+	pl=Według planety;
+	}
+
+[My battles]
+	{
+	pl=Moje bitwy;
+	}
+
+[Browse Core Prime's replays]
+	{
+	pl=Przeglądaj powtórki z Core Prime;
+	}
+
+[Reading Core Prime's replays…]
+	{
+	pl=Odczytywanie powtórek z Core Prime…;
+	}
+
+[Core Prime's list cannot be read.]
+	{
+	pl=Nie da się odczytać listy z Core Prime.;
+	}
+
+[Core Prime's replays are not available just now.]
+	{
+	pl=Powtórki z Core Prime są teraz niedostępne.;
+	}
+
+[Core Prime cannot be reached.]
+	{
+	pl=Nie można połączyć się z Core Prime.;
+	}
+
+[Core Prime has no replays to show.]
+	{
+	pl=Core Prime nie ma powtórek do pokazania.;
+	}
+
+[No replays for this planet.]
+	{
+	pl=Brak powtórek dla tej planety.;
+	}
+
+[1 replay]
+	{
+	pl=1 powtórka;
+	}
+
+[{count} replays]
+	{
+	pl=Powtórki: {count};
+	}
+
+[Getting the replay…]
+	{
+	pl=Pobieranie powtórki…;
+	}
+
+[The file does not match the replay.]
+	{
+	pl=Plik nie zgadza się z powtórką.;
+	}
+
+[The replay names no file.]
+	{
+	pl=Powtórka nie wskazuje pliku.;
+	}
+
+[The replay could not be saved.]
+	{
+	pl=Nie udało się zapisać powtórki.;
+	}
+
+[Try again in {seconds} s.]
+	{
+	pl=Spróbuj ponownie za {seconds} s.;
+	}
+
+[The check ran out. Try again for a new code.]
+	{
+	pl=Czas sprawdzenia minął. Spróbuj ponownie, by dostać nowy kod.;
+	}
+
+[Go to {address} and enter {code}.]
+	{
+	pl=Wejdź na {address} i wpisz {code}.;
+	}
+
+[Sign in]
+	{
+	pl=Zaloguj się;
+	}
+
+[Sign out]
+	{
+	pl=Wyloguj się;
+	}
+
+[Sign in to Core Prime]
+	{
+	pl=Zaloguj się do Core Prime;
+	}
+
+[Handle]
+	{
+	pl=Login;
+	}
+
+[Password]
+	{
+	pl=Hasło;
+	}
+
+[Forgot it? Reset it at coreprime.net/forgot]
+	{
+	pl=Nie pamiętasz hasła? Zresetuj je na coreprime.net/forgot;
+	}
+
+[Signing in needs a secure connection, which this system does not have.]
+	{
+	pl=Logowanie wymaga bezpiecznego połączenia, którego ten system nie ma.;
+	}
+
+[Signing in…]
+	{
+	pl=Logowanie…;
+	}
+
+[Share on Core Prime…]
+	{
+	pl=Udostępnij w Core Prime…;
+	}
+
+[Share my own recording]
+	{
+	pl=Udostępnij moje własne nagranie;
+	}
+
+[Open on Core Prime]
+	{
+	pl=Otwórz w Core Prime;
+	}
+
+[Share]
+	{
+	pl=Udostępnij;
+	}
+
+[Share on Core Prime]
+	{
+	pl=Udostępnij w Core Prime;
+	}
+
+[Title]
+	{
+	pl=Tytuł;
+	}
+
+[Public]
+	{
+	pl=Publiczne;
+	}
+
+[Unlisted]
+	{
+	pl=Niepubliczne;
+	}
+
+[Sharing…]
+	{
+	pl=Udostępnianie…;
+	}
+
+[Shared on Core Prime]
+	{
+	pl=Udostępniono w Core Prime;
+	}
+
+[Already on Core Prime]
+	{
+	pl=Już w Core Prime;
+	}
+
+[Sign in to share a replay.]
+	{
+	pl=Zaloguj się, by udostępnić powtórkę.;
+	}
+
+[This account cannot share replays.]
+	{
+	pl=To konto nie może udostępniać powtórek.;
+	}
+
+[Only a player in that battle can replace its replay.]
+	{
+	pl=Tylko gracz z tej bitwy może zastąpić jej powtórkę.;
+	}
+
+[The replay is larger than the limit.]
+	{
+	pl=Powtórka jest większa niż limit.;
+	}
+
+[This account has shared its replays for today.]
+	{
+	pl=To konto udostępniło już dziś swoje powtórki.;
+	}
+
+[Uploads are not available.]
+	{
+	pl=Wysyłanie nie jest dostępne.;
+	}
+
+[Core Prime did not answer.]
+	{
+	pl=Brak odpowiedzi z Core Prime.;
+	}
+
+[Core Prime did not start a session.]
+	{
+	pl=Sesja w Core Prime nie została rozpoczęta.;
+	}
+
+// Exporting a replay.
+
+[Export…]
+	{
+	pl=Eksportuj…;
+	}
+
+[Export]
+	{
+	pl=Eksportuj;
+	}
+
+[Export {name}]
+	{
+	pl=Eksportuj {name};
+	}
+
+[Export {count} replays]
+	{
+	pl=Eksportuj powtórki: {count};
+	}
+
+[Open Annihilation replay (.oademo)]
+	{
+	pl=Powtórka Open Annihilation (.oademo);
+	}
+
+[Everything needed to watch it: the recording, and the game, mod and map it needs]
+	{
+	pl=Wszystko, co potrzebne, by ją obserwować: nagranie oraz gra, mod i mapa, których wymaga;
+	}
+
+[TA Demo Recorder (.tad)]
+	{
+	pl=TA Demo Recorder (.tad);
+	}
+
+[For TA Demo Recorder and other replayers]
+	{
+	pl=Dla TA Demo Recorder i innych odtwarzaczy powtórek;
+	}
+
+[What to include]
+	{
+	pl=Co dołączyć;
+	}
+
+[What only Open Annihilation reads]
+	{
+	pl=To, co czyta tylko Open Annihilation;
+	}
+
+[Compatibility]
+	{
+	pl=Zgodność;
+	}
+
+[It was played with the mutator {name}. Other replayers cannot apply it, so commanders may not last as they did.]
+	{
+	pl=Grano z mutatorem {name}. Inne odtwarzacze nie mogą go zastosować, więc Dowódcy mogą nie przetrwać tak jak wtedy.;
+	}
+
+[It was played with mutators. Other replayers cannot apply them, so commanders may not last as they did.]
+	{
+	pl=Grano z mutatorami. Inne odtwarzacze nie mogą ich zastosować, więc Dowódcy mogą nie przetrwać tak jak wtedy.;
+	}
+
+[Other replayers stop at the first of this mod's wide weapon records.]
+	{
+	pl=Inne odtwarzacze zatrzymują się na pierwszym z szerokich rekordów broni tego modu.;
+	}
+
+[Names longer than 63 letters are cut.]
+	{
+	pl=Nazwy dłuższe niż 63 litery są ucinane.;
+	}
+
+[A player's status is cut to 512 bytes.]
+	{
+	pl=Stan gracza jest ucinany do 512 bajtów.;
+	}
+
+[Exporting {done} of {total}]
+	{
+	pl=Eksportowanie: {done} z {total};
+	}
+
+[Compressing the recording]
+	{
+	pl=Kompresowanie nagrania;
+	}
+
+[Writing {name}]
+	{
+	pl=Zapisywanie {name};
+	}
+
+[Measuring…]
+	{
+	pl=Mierzenie…;
+	}
+
+[Saved to {folder}]
+	{
+	pl=Zapisano do folderu {folder};
+	}
+
+[Show in folder]
+	{
+	pl=Pokaż w folderze;
+	}
+
+[Nothing is selected. Choose a replay, then export it.]
+	{
+	pl=Nic nie zaznaczono. Wybierz powtórkę, a potem ją wyeksportuj.;
+	}
+
+[The export could not be written.]
+	{
+	pl=Nie udało się zapisać eksportu.;
+	}
+
+[There is no room in {folder}.]
+	{
+	pl=W folderze {folder} brak miejsca.;
+	}
+
+[Open Annihilation cannot write to {folder}.]
+	{
+	pl=Open Annihilation nie może zapisywać w folderze {folder}.;
+	}
+
+[Saved {done} of {total}.]
+	{
+	pl=Zapisano {done} z {total}.;
+	}
+
+[This replay cannot be read, so it cannot be exported.]
+	{
+	pl=Tej powtórki nie da się odczytać, więc nie można jej wyeksportować.;
+	}
+
+[More folders]
+	{
+	pl=Więcej folderów;
+	}
+
+[Previous folders]
+	{
+	pl=Poprzednie foldery;
+	}
+
+[More warnings]
+	{
+	pl=Więcej ostrzeżeń;
+	}
+
+[Previous warnings]
+	{
+	pl=Poprzednie ostrzeżenia;
+	}
+
+// Replay and recording files that cannot be read or played.
+
+[Added {title} to Replays]
+	{
+	pl=Dodano {title} do powtórek;
+	}
+
+[This file cannot be read.]
+	{
+	pl=Tego pliku nie da się odczytać.;
+	}
+
+[This file is too large to be a replay.]
+	{
+	pl=Ten plik jest zbyt duży, by być powtórką.;
+	}
+
+[This recording cannot be read.]
+	{
+	pl=Tego nagrania nie da się odczytać.;
+	}
+
+[This file is not a TA Demo recording]
+	{
+	pl=Ten plik nie jest nagraniem TA Demo;
+	}
+
+[This recording is in version {version} of the format, which Open Annihilation does not play]
+	{
+	pl=To nagranie jest w wersji {version} formatu, której Open Annihilation nie odtwarza;
+	}
+
+[This replay could not be copied into Recordings.]
+	{
+	pl=Nie udało się skopiować tej powtórki do folderu Recordings.;
+	}
+
+[This file is not a replay.]
+	{
+	pl=Ten plik nie jest powtórką.;
+	}
+
+[This replay is not a version this game reads.]
+	{
+	pl=Ta powtórka jest w wersji, której ta gra nie odczytuje.;
+	}
+
+[This replay does not hold one recording.]
+	{
+	pl=Ta powtórka nie zawiera jednego nagrania.;
+	}
+
+[This replay's recording does not match.]
+	{
+	pl=Nagranie tej powtórki się nie zgadza.;
+	}
+
+[This replay's recording is too long to play.]
+	{
+	pl=Nagranie tej powtórki jest zbyt długie, by je odtworzyć.;
+	}
+
+[This replay's details cannot be read.]
+	{
+	pl=Nie da się odczytać szczegółów tej powtórki.;
+	}
+
+[This replay's recording cannot be read.]
+	{
+	pl=Nie da się odczytać nagrania tej powtórki.;
+	}
+
+[Jumping back isn't available in this replay.]
+	{
+	pl=Przeskok wstecz nie jest dostępny w tej powtórce.;
+	}
+
+[Jumping back needs more memory than this device has.]
+	{
+	pl=Przeskok wstecz wymaga więcej pamięci, niż ma to urządzenie.;
+	}
+
+[This replay could not jump to {time} and has stopped.]
+	{
+	pl=Ta powtórka nie mogła przeskoczyć do {time} i się zatrzymała.;
+	}
+
+// The replay viewer: the playback bar, the timeline, the end card and the player views.
+
+[Catching up… {percent} %]
+	{
+	pl=Nadrabianie… {percent} %;
+	}
+
+[The recording is damaged after {time}]
+	{
+	pl=Nagranie jest uszkodzone po {time};
+	}
+
+[Watch again]
+	{
+	pl=Obserwuj ponownie;
+	}
+
+[Back to the Library]
+	{
+	pl=Wróć do Biblioteki;
+	}
+
+[Undecided]
+	{
+	pl=Nierozstrzygnięta;
+	}
+
+[{name} won]
+	{
+	pl={name} wygrał;
+	}
+
+[No result]
+	{
+	pl=Brak wyniku;
+	}
+
+[{time} · {name}'s commander destroyed]
+	{
+	pl={time} · Dowódca gracza {name} zniszczony;
+	}
+
+[{time} · {name} dropped]
+	{
+	pl={time} · {name} rozłączył się;
+	}
+
+[{time} · {name} left]
+	{
+	pl={time} · {name} wyszedł;
+	}
+
+[{time} · {name} was defeated]
+	{
+	pl={time} · {name} został pokonany;
+	}
+
+[{time} · {name} allied]
+	{
+	pl={time} · {name} zawiązał sojusz;
+	}
+
+[{time} · {name} broke the alliance]
+	{
+	pl={time} · {name} zerwał sojusz;
+	}
+
+[{time} · {name}: {line}]
+	{
+	pl={time} · {name}: {line};
+	}
+
+[{time} · Paused]
+	{
+	pl={time} · Pauza;
+	}
+
+[{time} · End]
+	{
+	pl={time} · Koniec;
+	}
+
+[{asked} · {reached} now]
+	{
+	pl={asked} · teraz {reached};
+	}
+
+[½×]
+	{
+	pl=½×;
+	}
+
+[Losses]
+	{
+	pl=Straty;
+	}
+
+[No markers yet · finding them, {percent} %]
+	{
+	pl=Brak znaczników · wyszukiwanie, {percent} %;
+	}
+
+[Only a replay in the Library can be exported]
+	{
+	pl=Wyeksportować można tylko powtórkę z Biblioteki;
+	}
+
+[All players]
+	{
+	pl=Wszyscy gracze;
+	}
+
+[Follow their camera]
+	{
+	pl=Śledź ich kamerę;
+	}
+
+[Follow a unit]
+	{
+	pl=Śledź jednostkę;
+	}
+
+[Director]
+	{
+	pl=Reżyser;
+	}
+
+[Defeated {time}]
+	{
+	pl=Pokonany {time};
+	}
+
+[Left {time}]
+	{
+	pl=Wyszedł {time};
+	}
+
+[Play or pause]
+	{
+	pl=Odtwarzaj lub wstrzymaj;
+	}
+
+[Back 10 seconds]
+	{
+	pl=10 sekund wstecz;
+	}
+
+[Forward 10 seconds]
+	{
+	pl=10 sekund do przodu;
+	}
+
+[Back a minute]
+	{
+	pl=Minuta wstecz;
+	}
+
+[Forward a minute]
+	{
+	pl=Minuta do przodu;
+	}
+
+[Previous marker]
+	{
+	pl=Poprzedni znacznik;
+	}
+
+[Next marker]
+	{
+	pl=Następny znacznik;
+	}
+
+[Go to the start]
+	{
+	pl=Przejdź na początek;
+	}
+
+[Go to the end]
+	{
+	pl=Przejdź na koniec;
+	}
+
+[Pin the bar]
+	{
+	pl=Przypnij pasek;
+	}
+
+[Shortcut card]
+	{
+	pl=Karta skrótów;
+	}
+
+// Photo mode: its names, its chips and its keys line.
+
+[Photo mode]
+	{
+	pl=Tryb foto;
+	}
+
+[PHOTO MODE]
+	{
+	pl=TRYB FOTO;
+	}
+
+[In photo mode]
+	{
+	pl=W trybie foto;
+	}
+
+[in photo mode]
+	{
+	pl=w trybie foto;
+	}
+
+[Keys in photo mode]
+	{
+	pl=Klawisze w trybie foto;
+	}
+
+[Photo]
+	{
+	pl=Zdjęcie;
+	}
+
+[Esc leaves]
+	{
+	pl=Esc: wyjście;
+	}
+
+[{key} or Esc leaves]
+	{
+	pl={key} lub Esc: wyjście;
+	}
+
+[{key} shows the panel]
+	{
+	pl={key} pokazuje panel;
+	}
+
+[Show panel]
+	{
+	pl=Pokaż panel;
+	}
+
+[Hide panel]
+	{
+	pl=Ukryj panel;
+	}
+
+[Leave]
+	{
+	pl=Wyjdź;
+	}
+
+[Live]
+	{
+	pl=Na żywo;
+	}
+
+[Frozen]
+	{
+	pl=Zamrożone;
+	}
+
+[Held]
+	{
+	pl=Zatrzymane;
+	}
+
+[Replay paused]
+	{
+	pl=Powtórka wstrzymana;
+	}
+
+[Shared game]
+	{
+	pl=Gra wspólna;
+	}
+
+[chat lines]
+	{
+	pl=linii czatu;
+	}
+
+// Photo mode's panel: Camera, Time, Look and Photo.
+
+[Collapsed]
+	{
+	pl=Zwinięte;
+	}
+
+[Expanded]
+	{
+	pl=Rozwinięte;
+	}
+
+[Follow unit]
+	{
+	pl=Śledź jednostkę;
+	}
+
+[Turn]
+	{
+	pl=Obrót;
+	}
+
+[Tilt]
+	{
+	pl=Pochylenie;
+	}
+
+[Far]
+	{
+	pl=Daleki;
+	}
+
+[Near]
+	{
+	pl=Bliski;
+	}
+
+[Closest]
+	{
+	pl=Najbliższy;
+	}
+
+[The graphics card draws no farther out than this.]
+	{
+	pl=Karta graficzna nie rysuje dalej niż tu.;
+	}
+
+[Time]
+	{
+	pl=Czas;
+	}
+
+[Run]
+	{
+	pl=Graj;
+	}
+
+[Slow]
+	{
+	pl=Wolno;
+	}
+
+[Freeze]
+	{
+	pl=Zamroź;
+	}
+
+[Speed]
+	{
+	pl=Prędkość;
+	}
+
+[Step]
+	{
+	pl=Krok;
+	}
+
+[Between ticks]
+	{
+	pl=Między taktami;
+	}
+
+[Clock]
+	{
+	pl=Zegar;
+	}
+
+[Hold picture]
+	{
+	pl=Zatrzymaj obraz;
+	}
+
+[Held picture]
+	{
+	pl=Zatrzymany obraz;
+	}
+
+[Dusk]
+	{
+	pl=Zmierzch;
+	}
+
+[Arctic]
+	{
+	pl=Arktyka;
+	}
+
+[Noir]
+	{
+	pl=Noir;
+	}
+
+[Bleach]
+	{
+	pl=Wybielenie;
+	}
+
+[Vignette]
+	{
+	pl=Winieta;
+	}
+
+[Roundness]
+	{
+	pl=Zaokrąglenie;
+	}
+
+[Grain]
+	{
+	pl=Ziarno;
+	}
+
+[Grain size]
+	{
+	pl=Rozmiar ziarna;
+	}
+
+[Frame]
+	{
+	pl=Ramka;
+	}
+
+[Thin border]
+	{
+	pl=Cienkie obramowanie;
+	}
+
+[Wide mat]
+	{
+	pl=Szerokie passe-partout;
+	}
+
+[Caption bar]
+	{
+	pl=Pasek podpisu;
+	}
+
+[Show selection]
+	{
+	pl=Pokaż zaznaczenie;
+	}
+
+[Show health bars]
+	{
+	pl=Pokaż paski zdrowia;
+	}
+
+[Guides]
+	{
+	pl=Prowadnice;
+	}
+
+[Thirds]
+	{
+	pl=Reguła trzecich;
+	}
+
+[Centre lines]
+	{
+	pl=Linie środkowe;
+	}
+
+[Safe area]
+	{
+	pl=Bezpieczny obszar;
+	}
+
+[The preview lowers the frame rate.]
+	{
+	pl=Podgląd obniża liczbę klatek.;
+	}
+
+[Depth]
+	{
+	pl=Głębia;
+	}
+
+[Band centre]
+	{
+	pl=Środek pasa;
+	}
+
+[Band width]
+	{
+	pl=Szerokość pasa;
+	}
+
+[Blur]
+	{
+	pl=Rozmycie;
+	}
+
+[Blurs by screen row, not by depth.]
+	{
+	pl=Rozmywa według wiersza ekranu, a nie głębi.;
+	}
+
+[Haze]
+	{
+	pl=Zamglenie;
+	}
+
+[Follows the ground, not the units.]
+	{
+	pl=Podąża za terenem, a nie za jednostkami.;
+	}
+
+[Depth of field]
+	{
+	pl=Głębia ostrości;
+	}
+
+[Needs Full 3D Mode]
+	{
+	pl=Wymaga pełnego trybu 3D;
+	}
+
+[This graphics card keeps no depth.]
+	{
+	pl=Ta karta graficzna nie zapamiętuje głębi.;
+	}
+
+[Screen]
+	{
+	pl=Ekran;
+	}
+
+[2×]
+	{
+	pl=2×;
+	}
+
+[3×]
+	{
+	pl=3×;
+	}
+
+[4×]
+	{
+	pl=4×;
+	}
+
+[Smooth edges]
+	{
+	pl=Wygładzanie krawędzi;
+	}
+
+[Copy to clipboard]
+	{
+	pl=Kopiuj do schowka;
+	}
+
+[Player names]
+	{
+	pl=Nazwy graczy;
+	}
+
+[Take photo]
+	{
+	pl=Zrób zdjęcie;
+	}
+
+[Not enough memory]
+	{
+	pl=Za mało pamięci;
+	}
+
+[Off and Basic draw whole pixels]
+	{
+	pl=Wył. i Podstawowy rysują całe piksele;
+	}
+
+[This graphics card draws at most {limit} pixels a side]
+	{
+	pl=Ta karta graficzna rysuje najwyżej {limit} px na bok;
+	}
+
+[A photo is at most {limit} pixels a side]
+	{
+	pl=Zdjęcie ma najwyżej {limit} px na bok;
+	}
+
+[The 3D view draws at most {limit} pixels a side at this anti-aliasing]
+	{
+	pl=Widok 3D rysuje najwyżej {limit} px na bok przy tym wygładzaniu;
+	}
+
+[Poster]
+	{
+	pl=Plakat;
+	}
+
+[The view]
+	{
+	pl=Widok;
+	}
+
+[Area]
+	{
+	pl=Obszar;
+	}
+
+[Freeze the picture]
+	{
+	pl=Zamroź obraz;
+	}
+
+[A poster is the map from above: Classic view, {key}]
+	{
+	pl=Plakat to mapa z góry: Widok klasyczny, {key};
+	}
+
+// Photo mode: what is said after a photo is taken or copied.
+
+[Photo not taken]
+	{
+	pl=Nie zrobiono zdjęcia;
+	}
+
+[Saved {name}]
+	{
+	pl=Zapisano {name};
+	}
+
+[Photo not saved: {reason}]
+	{
+	pl=Nie zapisano zdjęcia: {reason};
+	}
+
+[Photo not copied: {reason}]
+	{
+	pl=Nie skopiowano zdjęcia: {reason};
+	}
+
+[photo mode is not on]
+	{
+	pl=tryb foto nie jest włączony;
+	}
+
+[four photos are still being saved]
+	{
+	pl=cztery zdjęcia są jeszcze zapisywane;
+	}
+
+[the picture could not be read]
+	{
+	pl=nie udało się odczytać obrazu;
+	}
+
+[the graphics device was lost]
+	{
+	pl=utracono urządzenie graficzne;
+	}
+
+[the file could not be written]
+	{
+	pl=nie udało się zapisać pliku;
+	}
+
+[the picture could not be drawn]
+	{
+	pl=nie udało się narysować obrazu;
+	}
+
+[a side is above 8192 pixels]
+	{
+	pl=bok ma ponad 8192 px;
+	}
+
+[the photo is above 128 MB]
+	{
+	pl=zdjęcie ma ponad 128 MB;
+	}
+
+[the clipboard did not take the photo]
+	{
+	pl=schowek nie przyjął zdjęcia;
+	}
+
+[not available in Game Mode]
+	{
+	pl=niedostępne w trybie gry;
+	}
+
+[the clipboard holds text only]
+	{
+	pl=schowek zawiera tylko tekst;
+	}
+
+// Key actions and their descriptions: the replay viewer.
+
+[Camera mode]
+	{
+	pl=Tryb kamery;
+	}
+
+[Changes how the camera follows the game]
+	{
+	pl=Zmienia sposób, w jaki kamera śledzi grę;
+	}
+
+[Plays or pauses the replay]
+	{
+	pl=Odtwarza lub wstrzymuje powtórkę;
+	}
+
+[Jumps back ten seconds]
+	{
+	pl=Cofa o dziesięć sekund;
+	}
+
+[Jumps forward ten seconds]
+	{
+	pl=Przewija do przodu o dziesięć sekund;
+	}
+
+[Jumps back a minute]
+	{
+	pl=Cofa o minutę;
+	}
+
+[Jumps forward a minute]
+	{
+	pl=Przewija do przodu o minutę;
+	}
+
+[Jumps to the previous marker]
+	{
+	pl=Przechodzi do poprzedniego znacznika;
+	}
+
+[Jumps to the next marker]
+	{
+	pl=Przechodzi do następnego znacznika;
+	}
+
+[Jumps to the start of the replay]
+	{
+	pl=Przechodzi na początek powtórki;
+	}
+
+[Jumps to the end of the replay]
+	{
+	pl=Przechodzi na koniec powtórki;
+	}
+
+[Keeps the playback bar on screen]
+	{
+	pl=Utrzymuje pasek odtwarzania na ekranie;
+	}
+
+[Shows the playback keys]
+	{
+	pl=Pokazuje klawisze odtwarzania;
+	}
+
+[Previous player's view]
+	{
+	pl=Widok poprzedniego gracza;
+	}
+
+[Next player's view]
+	{
+	pl=Widok następnego gracza;
+	}
+
+[All players' view]
+	{
+	pl=Widok wszystkich graczy;
+	}
+
+[Shows the previous player's view]
+	{
+	pl=Pokazuje widok poprzedniego gracza;
+	}
+
+[Shows the next player's view]
+	{
+	pl=Pokazuje widok następnego gracza;
+	}
+
+[Shows the whole map and every unit]
+	{
+	pl=Pokazuje całą mapę i wszystkie jednostki;
+	}
+
+[Focus the panel's buttons]
+	{
+	pl=Fokus na przyciskach panelu;
+	}
+
+[Moves a ring over the order buttons and the build page. Press again to return to the battlefield.]
+	{
+	pl=Przesuwa pierścień po przyciskach rozkazów i stronie budowy. Naciśnij ponownie, by wrócić na pole bitwy.;
+	}
+
+[Closes the megamap and zooms in at the pointer]
+	{
+	pl=Zamyka megamapę i przybliża w miejscu wskaźnika;
+	}
+
+// Key actions and their descriptions: photo mode.
+
+[Opens photo mode]
+	{
+	pl=Otwiera tryb foto;
+	}
+
+[Leaves photo mode]
+	{
+	pl=Wychodzi z trybu foto;
+	}
+
+[Writes a photo of the battlefield]
+	{
+	pl=Zapisuje zdjęcie pola bitwy;
+	}
+
+[Copy last photo]
+	{
+	pl=Kopiuj ostatnie zdjęcie;
+	}
+
+[Offers the last photo to the clipboard]
+	{
+	pl=Przekazuje ostatnie zdjęcie do schowka;
+	}
+
+[Freeze / Hold picture]
+	{
+	pl=Zamroź / Zatrzymaj obraz;
+	}
+
+[Holds the clock, or keeps this screen's last frame in a shared match]
+	{
+	pl=Zatrzymuje zegar albo zachowuje ostatnią klatkę tego ekranu w grze wspólnej;
+	}
+
+[Step a tick]
+	{
+	pl=Krok o takt;
+	}
+
+[Step back]
+	{
+	pl=Krok wstecz;
+	}
+
+[Advances one tick, then freezes]
+	{
+	pl=Przesuwa o jeden takt i zamraża;
+	}
+
+[Goes back one tick, then freezes]
+	{
+	pl=Cofa o jeden takt i zamraża;
+	}
+
+[Shutter on]
+	{
+	pl=Migawka dalej;
+	}
+
+[Shutter back]
+	{
+	pl=Migawka wstecz;
+	}
+
+[Moves the shutter one eighth toward the frozen tick]
+	{
+	pl=Przesuwa migawkę o jedną ósmą w stronę zamrożonego taktu;
+	}
+
+[Moves the shutter one eighth toward the previous tick]
+	{
+	pl=Przesuwa migawkę o jedną ósmą w stronę poprzedniego taktu;
+	}
+
+[Hides and shows the photo panel]
+	{
+	pl=Ukrywa i pokazuje panel zdjęć;
+	}
+
+[Cycles the guides over the battlefield]
+	{
+	pl=Przełącza prowadnice nad polem bitwy;
+	}
+
+[Turn left]
+	{
+	pl=Obróć w lewo;
+	}
+
+[Turn right]
+	{
+	pl=Obróć w prawo;
+	}
+
+[Tilt up]
+	{
+	pl=Pochyl w górę;
+	}
+
+[Tilt down]
+	{
+	pl=Pochyl w dół;
+	}
+
+[Turns the camera left]
+	{
+	pl=Obraca kamerę w lewo;
+	}
+
+[Turns the camera right]
+	{
+	pl=Obraca kamerę w prawo;
+	}
+
+[Tilts the camera up]
+	{
+	pl=Pochyla kamerę w górę;
+	}
+
+[Tilts the camera down]
+	{
+	pl=Pochyla kamerę w dół;
+	}
+
+[Zooms in on the photo]
+	{
+	pl=Przybliża zdjęcie;
+	}
+
+[Zooms out on the photo]
+	{
+	pl=Oddala zdjęcie;
+	}
+
+[Mark area]
+	{
+	pl=Zaznacz obszar;
+	}
+
+[Starts a poster mark at the view's centre]
+	{
+	pl=Zaczyna zaznaczanie plakatu pośrodku widoku;
+	}
+
+[Grow the mark up]
+	{
+	pl=Powiększ obszar w górę;
+	}
+
+[Grow the mark down]
+	{
+	pl=Powiększ obszar w dół;
+	}
+
+[Grow the mark left]
+	{
+	pl=Powiększ obszar w lewo;
+	}
+
+[Grow the mark right]
+	{
+	pl=Powiększ obszar w prawo;
+	}
+
+[Grows the marked area up]
+	{
+	pl=Powiększa zaznaczony obszar w górę;
+	}
+
+[Grows the marked area down]
+	{
+	pl=Powiększa zaznaczony obszar w dół;
+	}
+
+[Grows the marked area to the left]
+	{
+	pl=Powiększa zaznaczony obszar w lewo;
+	}
+
+[Grows the marked area to the right]
+	{
+	pl=Powiększa zaznaczony obszar w prawo;
+	}
+
+// Screen readers: the names of the original screens' controls.
+
+[Alliance]
+	{
+	pl=Sojusz;
+	}
+
+[Team]
+	{
+	pl=Drużyna;
+	}
+
+[Side]
+	{
+	pl=Strona;
+	}
+
+[Colour]
+	{
+	pl=Kolor;
+	}
+
+[Location]
+	{
+	pl=Pozycja;
+	}
+
+[Map]
+	{
+	pl=Mapa;
+	}
+
+[Mapping]
+	{
+	pl=Mapa;
+	}
+
+[Mapping Mode]
+	{
+	pl=Tryb mapy;
+	}
+
+[Line of Sight]
+	{
+	pl=Pole widzenia;
+	}
+
+[Line of sight]
+	{
+	pl=Pole widzenia;
+	}
+
+[Max units]
+	{
+	pl=Maks. jednostek;
+	}
+
+[Starting metal]
+	{
+	pl=Metal początkowy;
+	}
+
+[Starting energy]
+	{
+	pl=Energia początkowa;
+	}
+
+[Metal]
+	{
+	pl=Metal;
+	}
+
+[Energy]
+	{
+	pl=Energia;
+	}
+
+[Commander]
+	{
+	pl=Dowódca;
+	}
+
+[Dead Commander]
+	{
+	pl=Martwy Dowódca;
+	}
+
+[Game Status]
+	{
+	pl=Stan gry;
+	}
+
+[Cheat Codes]
+	{
+	pl=Kody;
+	}
+
+[Start doors]
+	{
+	pl=Drzwi startu;
+	}
+
+[Closed]
+	{
+	pl=Zamknięte;
+	}
+
+[Opened]
+	{
+	pl=Otwarte;
+	}
+
+[Ready]
+	{
+	pl=Gotowe;
+	}
+
+[Difficulty]
+	{
+	pl=Trudność;
+	}
+
+[Missions]
+	{
+	pl=Misje;
+	}
+
+[Campaigns]
+	{
+	pl=Kampanie;
+	}
+
+[Credits]
+	{
+	pl=Autorzy;
+	}
+
+[Saved games]
+	{
+	pl=Zapisy gry;
+	}
+
+[Anti-aliasing]
+	{
+	pl=Wygładzanie;
+	}
+
+[Shadows]
+	{
+	pl=Cienie;
+	}
+
+[Shading]
+	{
+	pl=Cieniowanie;
+	}
+
+[Gamma]
+	{
+	pl=Gama;
+	}
+
+[Game speed]
+	{
+	pl=Prędkość gry;
+	}
+
+[Screen scroll]
+	{
+	pl=Przewijanie ekranu;
+	}
+
+[Text delay]
+	{
+	pl=Czas tekstu;
+	}
+
+[Text lines]
+	{
+	pl=Linie tekstu;
+	}
+
+[Unit text acks]
+	{
+	pl=Odpowiedzi tekstowe jednostek;
+	}
+
+[Unit sounds]
+	{
+	pl=Dźwięki jednostek;
+	}
+
+[Sound mode]
+	{
+	pl=Tryb dźwięku;
+	}
+
+[Sound volume]
+	{
+	pl=Głośność dźwięku;
+	}
+
+[Music volume]
+	{
+	pl=Głośność muzyki;
+	}
+
+[CD music]
+	{
+	pl=Muzyka z CD;
+	}
+
+[Play mode]
+	{
+	pl=Tryb odtwarzania;
+	}
+
+[Track type]
+	{
+	pl=Rodzaj utworu;
+	}
+
+[Play track]
+	{
+	pl=Odtwórz utwór;
+	}
+
+[Next track]
+	{
+	pl=Następny utwór;
+	}
+
+[Previous track]
+	{
+	pl=Poprzedni utwór;
+	}
+
+[White]
+	{
+	pl=Biały;
+	}
+
+[Blue]
+	{
+	pl=Niebieski;
+	}
+
+[Red]
+	{
+	pl=Czerwony;
+	}
+
+[Green]
+	{
+	pl=Zielony;
+	}
+
+[Navy]
+	{
+	pl=Granatowy;
+	}
+
+[Purple]
+	{
+	pl=Fioletowy;
+	}
+
+[Yellow]
+	{
+	pl=Żółty;
+	}
+
+[Black]
+	{
+	pl=Czarny;
+	}
+
+[Light blue]
+	{
+	pl=Jasnoniebieski;
+	}
+
+[Tan]
+	{
+	pl=Beżowy;
+	}
+
+[{colour}, player {number}]
+	{
+	pl={colour}, gracz {number};
+	}
+
+// Screen readers: the words for what a control is.
+
+[alert]
+	{
+	pl=alert;
+	}
+
+[button]
+	{
+	pl=przycisk;
+	}
+
+[check box]
+	{
+	pl=pole wyboru;
+	}
+
+[dialog]
+	{
+	pl=okno dialogowe;
+	}
+
+[group]
+	{
+	pl=grupa;
+	}
+
+[image]
+	{
+	pl=obraz;
+	}
+
+[link]
+	{
+	pl=łącze;
+	}
+
+[list]
+	{
+	pl=lista;
+	}
+
+[list item]
+	{
+	pl=element listy;
+	}
+
+[log]
+	{
+	pl=dziennik;
+	}
+
+[password]
+	{
+	pl=pole hasła;
+	}
+
+[radio button]
+	{
+	pl=przycisk opcji;
+	}
+
+[radio group]
+	{
+	pl=grupa przycisków opcji;
+	}
+
+[search field]
+	{
+	pl=pole wyszukiwania;
+	}
+
+[slider]
+	{
+	pl=suwak;
+	}
+
+[switch]
+	{
+	pl=przełącznik;
+	}
+
+[tab]
+	{
+	pl=karta;
+	}
+
+[tab list]
+	{
+	pl=lista kart;
+	}
+
+[text]
+	{
+	pl=tekst;
+	}
+
+[text field]
+	{
+	pl=pole tekstowe;
+	}
+
+[tree]
+	{
+	pl=drzewo;
+	}
+
+[tree item]
+	{
+	pl=element drzewa;
+	}
+
+[window]
+	{
+	pl=okno;
+	}
+
+// Screen readers: the lines spoken for the battle room, chat and the match.
+
+[battle room]
+	{
+	pl=pokój bitwy;
+	}
+
+[match]
+	{
+	pl=partia;
+	}
+
+[{name} joined]
+	{
+	pl={name} dołączył;
+	}
+
+[{name} left]
+	{
+	pl={name} wyszedł;
+	}
+
+[{name} is ready]
+	{
+	pl={name} jest gotowy;
+	}
+
+[{name} is not ready]
+	{
+	pl={name} nie jest gotowy;
+	}
+
+[{name} changed side to {side}]
+	{
+	pl={name} zmienił stronę: {side};
+	}
+
+[{name} changed colour to {colour}]
+	{
+	pl={name} zmienił kolor: {colour};
+	}
+
+[{name} changed team to {team}]
+	{
+	pl={name} zmienił drużynę: {team};
+	}
+
+[An option changed]
+	{
+	pl=Zmieniono opcję;
+	}
+
+[The map is {name}]
+	{
+	pl=Mapa: {name};
+	}
+
+[The countdown has started]
+	{
+	pl=Rozpoczęło się odliczanie;
+	}
+
+[The host has left]
+	{
+	pl=Gospodarz wyszedł;
+	}
+
+[Whisper from {name}: {text}]
+	{
+	pl=Szept od {name}: {text};
+	}
+
+[{count} new lines in {room}]
+	{
+	pl={room}: nowe linie czatu: {count};
+	}
+
+[Commander under attack]
+	{
+	pl=Dowódca pod atakiem;
+	}
+
+[There are no saved games to choose from]
+	{
+	pl=Nie ma zapisanych gier do wyboru;
+	}
+
+[Victory]
+	{
+	pl=Wygrana;
+	}
+
+[Defeat]
+	{
+	pl=Porażka;
+	}
+
+// Entering the Boneyards from the game: the questions and notices.
+
+[The Boneyards]
+	{
+	pl=Boneyards;
+	}
+
+[Open Annihilation {version} is out. The Boneyards needs the latest version.]
+	{
+	pl=Ukazał się Open Annihilation {version}. Boneyards wymaga najnowszej wersji.;
+	}
+
+[Open Annihilation could not check for updates.]
+	{
+	pl=Open Annihilation nie mógł sprawdzić aktualizacji.;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks and the content catalogue. Turn them on and continue?]
+	{
+	pl=Boneyards wymaga funkcji sieciowych Open Annihilation: sprawdzania aktualizacji i katalogu zawartości. Włączyć je i kontynuować?;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks, the content catalogue and {registry}'s install ID. Turn them on and continue?]
+	{
+	pl=Boneyards wymaga funkcji sieciowych Open Annihilation: sprawdzania aktualizacji, katalogu zawartości i identyfikatora instalacji rejestru {registry}. Włączyć je i kontynuować?;
+	}
+
+[The Boneyards needs {registry}'s install ID turned on. Turn it on and continue?]
+	{
+	pl=Boneyards wymaga włączonego identyfikatora instalacji rejestru {registry}. Włączyć go i kontynuować?;
+	}
+
+[Downloads are off for {registry}.]
+	{
+	pl={registry}: pobieranie wyłączone.;
+	}
+
+[Turn on]
+	{
+	pl=Włącz;
+	}
+
+[The Boneyards is installed. Start Open Annihilation again to enter the Boneyards.]
+	{
+	pl=Boneyards jest zainstalowany. Uruchom Open Annihilation ponownie, by wejść do Boneyards.;
+	}
+
+[The Boneyards needs by.ccx and the Boneyards folder.]
+	{
+	pl=Boneyards wymaga pliku by.ccx i folderu Boneyards.;
+	}
+
+[Start Open Annihilation without the mod on its command line to enter the Boneyards.]
+	{
+	pl=Uruchom Open Annihilation bez modu w wierszu poleceń, by wejść do Boneyards.;
+	}
+
+[The Boneyards plays Total Annihilation without mods. Switch {mod} off and enter the Boneyards?]
+	{
+	pl=W Boneyards gra się w Total Annihilation bez modów. Wyłączyć {mod} i wejść do Boneyards?;
+	}
+
+[Switch off and enter]
+	{
+	pl=Wyłącz i wejdź;
+	}
+
+[The Boneyards launches and reports games only on 3.1c, Core Contingency and Battle Tactics. Switch your mod off to play in the Boneyards.]
+	{
+	pl=Boneyards uruchamia i zgłasza partie tylko w wersji 3.1c, w Core Contingency i w Battle Tactics. Wyłącz swój mod, by grać w Boneyards.;
+	}
+
+[Switch {mod} back on?]
+	{
+	pl=Włączyć {mod} z powrotem?;
+	}
+
+[Switch on]
+	{
+	pl=Włącz;
+	}
+
+[Drag to reorder]
+	{
+	pl=Przeciągnij, by zmienić kolejność;
+	}
+
+// The Library's delete question for one replay or several.
+
+[Delete this replay?]
+	{
+	pl=Usunąć tę powtórkę?;
+	}
+
+[Delete these {count} replays?]
+	{
+	pl=Usunąć zaznaczone powtórki ({count})?;
+	}
+
+[Delete replays]
+	{
+	pl=Usuń powtórki;
+	}
+
+[It goes to the system's trash.]
+	{
+	pl=Trafi do kosza systemu.;
+	}
+
+[They go to the system's trash.]
+	{
+	pl=Trafią do kosza systemu.;
+	}
+
+[It is deleted and cannot be undone. This system has no trash.]
+	{
+	pl=Zostanie usunięta bez możliwości cofnięcia. Ten system nie ma kosza.;
+	}
+
+[They are deleted and cannot be undone. This system has no trash.]
+	{
+	pl=Zostaną usunięte bez możliwości cofnięcia. Ten system nie ma kosza.;
+	}
+
+// The battle room's game-files and unit messages.
+
+[*** {player}'s game files differ from Total Annihilation's; they must repair them before this battle can start.]
+	{
+	pl=*** Pliki gry gracza {player} różnią się od plików Total Annihilation. Musi je naprawić, zanim ta bitwa będzie mogła się zacząć.;
+	}
+
+[*** Your game files differ from Total Annihilation's, so this battle cannot start. Leave it and repair them in Settings › Game Content.]
+	{
+	pl=*** Twoje pliki gry różnią się od plików Total Annihilation, więc ta bitwa nie może się zacząć. Wyjdź z niej i napraw je w Ustawienia › Zawartość gry.;
+	}
+
+[*** {units} differs on {player}'s machine and can't be built in this battle.]
+	{
+	pl=*** Jednostka różni się na komputerze ({player}), więc nie można jej zbudować w tej bitwie: {units};
+	}
+
+[*** {units} differ on {player}'s machine and can't be built in this battle.]
+	{
+	pl=*** Jednostki różnią się na komputerze ({player}), więc nie można ich zbudować w tej bitwie: {units};
+	}
+
+[*** {units} differs between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	pl=*** Jednostka różni się na komputerach ({first} i {second}), więc nie można jej zbudować w tej bitwie: {units};
+	}
+
+[*** {units} differ between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	pl=*** Jednostki różnią się na komputerach ({first} i {second}), więc nie można ich zbudować w tej bitwie: {units};
+	}
+
+[*** {units} differs between {count} players' machines and can't be built in this battle.]
+	{
+	pl=*** Jednostka różni się na {count} komputerach, więc nie można jej zbudować w tej bitwie: {units};
+	}
+
+[*** {units} differ between {count} players' machines and can't be built in this battle.]
+	{
+	pl=*** Jednostki różnią się na {count} komputerach, więc nie można ich zbudować w tej bitwie: {units};
+	}
+
+[*** Press START again to start anyway. Those units stay unavailable in this battle.]
+	{
+	pl=*** Naciśnij GRAJ jeszcze raz, by mimo to zacząć. Te jednostki pozostaną niedostępne w tej bitwie.;
+	}
+
+[1 other unit]
+	{
+	pl=1 inna jednostka;
+	}
+
+[{count} other units]
+	{
+	pl=inne jednostki: {count};
+	}
+
+[{list} and {last}]
+	{
+	pl={list} i {last};
+	}
+
+[a player who left]
+	{
+	pl=gracz, który wyszedł;
+	}
+
+// Settings › Game Content: archives the game does not list, and the checks the Boneyards makes.
+
+[Remove…]
+	{
+	pl=Usuń…;
+	}
+
+[Repair…]
+	{
+	pl=Napraw…;
+	}
+
+[Move to Trash]
+	{
+	pl=Przenieś do kosza;
+	}
+
+[Move {file} to the trash?]
+	{
+	pl=Przenieść {file} do kosza?;
+	}
+
+[Delete {file}? This system has no trash.]
+	{
+	pl=Usunąć {file}? Ten system nie ma kosza.;
+	}
+
+[{file} is not one of its files]
+	{
+	pl={file} nie należy do plików tego składnika;
+	}
+
+[{count} archives are not its files]
+	{
+	pl=Archiwa spoza plików tego składnika: {count};
+	}
+
+[{file} in {folder}, {size} bytes, is not a file of {bundle}. The game does not read it.]
+	{
+	pl={file} w {folder}, {size} bajtów, nie należy do plików składnika {bundle}. Gra go nie odczytuje.;
+	}
+
+[{file} in {folder} does not match Total Annihilation's, so the Boneyards cannot be entered. Copy the game again from your own install or CD to enter.]
+	{
+	pl={file} w {folder} nie zgadza się z Total Annihilation, więc nie można wejść do Boneyards. Skopiuj grę ponownie z własnej instalacji albo z CD, by wejść.;
+	}
+
+[{file} in {folder} does not match Total Annihilation's. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	pl={file} w {folder} nie zgadza się z Total Annihilation. W Boneyards gra się tylko na własnej kopii gry Open Annihilation: skopiuj ją ze swojej instalacji albo z CD, by wejść.;
+	}
+
+[{file} in {folder} is not Total Annihilation's own. The Boneyards launches and reports games only on Total Annihilation's own files. Leave the Boneyards and repair it in Settings › Game Content.]
+	{
+	pl={file} w {folder} nie jest oryginalnym plikiem Total Annihilation. Boneyards uruchamia i zgłasza partie tylko na oryginalnych plikach Total Annihilation. Wyjdź z Boneyards i napraw to w Ustawienia › Zawartość gry.;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files, so the Boneyards cannot be entered. Remove it to enter.]
+	{
+	pl={file} w {folder} nie jest jednym z plików Total Annihilation, więc nie można wejść do Boneyards. Usuń go, by wejść.;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	pl={file} w {folder} nie jest jednym z plików Total Annihilation. W Boneyards gra się tylko na własnej kopii gry Open Annihilation: skopiuj ją ze swojej instalacji albo z CD, by wejść.;
 	}
 
