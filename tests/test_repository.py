@@ -18,8 +18,9 @@ LICENCE = "SPDX-License-Identifier: GPL-3.0-only"
 
 def reserved_pattern() -> re.Pattern[str]:
     """The names this repository does not use, built so the source does not spell them."""
+    # The engine allows the online lobby's name everywhere from 0.9, and its
+    # interface words name it, so the packs translate those words.
     terms = (
-        "bone" + "yards?",
         "ma" + "ia",
         "ro" + "ver",
         "net" + "play",
