@@ -511,3 +511,36 @@ is `Цифровой блок` (`Numpad add` → `Цифровой блок +`).
 `Колесо вниз`. The order-wheel chips abbreviate the held button, `Сред.`
 and `Прав.`. Settings › Accessibility is `Доступность` (heading
 `ДОСТУПНОСТЬ`).
+
+## 11. Replays, photo mode and accessibility
+
+One word for each idea in the Library's Replays section, the playback bar,
+photo mode and Settings › Accessibility.
+
+| English | Russian |
+|---|---|
+| replay (a recorded game), the Replays section | повтор, `Повторы` (`ПОВТОРЫ` in Settings) |
+| recording (what a replay holds) | запись |
+| Watch (a replay), Watch again, Watch from {time} | Смотреть, Смотреть снова, Смотреть с {time} (3.1c's watcher stays `наблюдать`, `зритель`) |
+| Keep, Kept, Imported, Exported | Оставить, Оставлено, Импорт, экспорт |
+| trash | корзина |
+| tick (one simulation step) | такт |
+| photo, photo mode, take photo | фото, режим фото, сделать фото |
+| poster, guides, safe area, thirds | постер, направляющие, безопасная зона, трети |
+| shutter (the moment between two ticks) | затвор |
+| Run / Slow / Freeze / Hold picture | Пуск / Медленно / Заморозка / Удержать кадр |
+| Frozen / Held / Live | Заморожено / Удержано / В эфире |
+| Vignette, Grain, Haze, Blur, Depth of field | Виньетка, Зерно, Дымка, Размытие, Глубина резкости |
+| Share (a replay), Public, Unlisted | Поделиться, Публичный, По ссылке |
+| Sign in / Sign out, handle, password | Войти / Выйти, ник, пароль |
+| screen reader | чтение с экрана (в предложении `средство чтения с экрана`) |
+| Colour vision, Shape cues | Цветовое зрение, Метки формы |
+| focus ring | рамка фокуса |
+
+A screen reader's role words are lower case: `кнопка`, `флажок`,
+`радиокнопка`, `переключатель` (a switch), `ползунок`, `вкладка`, `список`,
+`текстовое поле`, `поле поиска`, `окно`. Spoken lines about a player keep the
+word `Игрок` in front of the slot, so the verb has a gender
+(`Игрок {name} готов`, `Игрок {name} присоединился`). A line's date is
+`Вт, 3 ноя` (`Пн Вт Ср Чт Пт Сб Вс`, `янв фев мар апр мая июн июл авг сен окт
+ноя дек`).

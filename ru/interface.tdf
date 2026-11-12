@@ -11298,11 +11298,6 @@
 	ru=Закрыть мегакарту;
 	}
 
-[Closes the megamap and centres on the pointer]
-	{
-	ru=Закрывает мегакарту и центрирует на указателе;
-	}
-
 [Jumps the view to a point of the megamap]
 	{
 	ru=Переносит вид к точке на мегакарте;
@@ -16058,5 +16053,3011 @@
 [Open the download page]
 	{
 	ru=Открыть страницу скачивания;
+	}
+
+// The replay viewer: the playback bar, the timeline, the view and camera menus and the end card.
+
+[Catching up… {percent} %]
+	{
+	ru=Перемотка… {percent} %;
+	}
+
+[The recording is damaged after {time}]
+	{
+	ru=Запись повреждена после {time};
+	}
+
+[Watch again]
+	{
+	ru=Смотреть снова;
+	}
+
+[Back to the Library]
+	{
+	ru=Назад в Библиотеку;
+	}
+
+[Undecided]
+	{
+	ru=Победитель не определён;
+	}
+
+[No result]
+	{
+	ru=Без результата;
+	}
+
+[{name} won]
+	{
+	ru=Победитель: {name};
+	}
+
+[{time} · {name}'s commander destroyed]
+	{
+	ru={time} · Командир уничтожен: {name};
+	}
+
+[{time} · {name} dropped]
+	{
+	ru={time} · {name} теряет связь;
+	}
+
+[{time} · {name} left]
+	{
+	ru={time} · {name} выходит;
+	}
+
+[{time} · {name} was defeated]
+	{
+	ru={time} · {name} терпит поражение;
+	}
+
+[{time} · {name} allied]
+	{
+	ru={time} · {name} заключает союз;
+	}
+
+[{time} · {name} broke the alliance]
+	{
+	ru={time} · {name} разрывает союз;
+	}
+
+[{time} · {name}: {line}]
+	{
+	ru={time} · {name}: {line};
+	}
+
+[{time} · Paused]
+	{
+	ru={time} · Пауза;
+	}
+
+[{time} · End]
+	{
+	ru={time} · Конец;
+	}
+
+[{asked} · {reached} now]
+	{
+	ru={asked} · сейчас {reached};
+	}
+
+[½×]
+	{
+	ru=½×;
+	}
+
+[Losses]
+	{
+	ru=Потери;
+	}
+
+[Photo]
+	{
+	ru=Фото;
+	}
+
+[Leave]
+	{
+	ru=Выйти;
+	}
+
+[No markers yet · finding them, {percent} %]
+	{
+	ru=Меток пока нет · поиск: {percent} %;
+	}
+
+[Only a replay in the Library can be exported]
+	{
+	ru=Экспортировать можно только повтор из Библиотеки;
+	}
+
+[All players]
+	{
+	ru=Все игроки;
+	}
+
+[Follow their camera]
+	{
+	ru=Камера игрока;
+	}
+
+[Follow a unit]
+	{
+	ru=Следить за юнитом;
+	}
+
+[Director]
+	{
+	ru=Режиссёр;
+	}
+
+[Defeated {time}]
+	{
+	ru=Поражение: {time};
+	}
+
+[Left {time}]
+	{
+	ru=Выход: {time};
+	}
+
+[Back 10 seconds]
+	{
+	ru=Назад на 10 секунд;
+	}
+
+[Forward 10 seconds]
+	{
+	ru=Вперёд на 10 секунд;
+	}
+
+[Back a minute]
+	{
+	ru=Назад на минуту;
+	}
+
+[Forward a minute]
+	{
+	ru=Вперёд на минуту;
+	}
+
+[Go to the start]
+	{
+	ru=В начало;
+	}
+
+[Go to the end]
+	{
+	ru=В конец;
+	}
+
+[Previous marker]
+	{
+	ru=Предыдущая метка;
+	}
+
+[Next marker]
+	{
+	ru=Следующая метка;
+	}
+
+[Play or pause]
+	{
+	ru=Воспроизведение или пауза;
+	}
+
+[Pin the bar]
+	{
+	ru=Закрепить панель;
+	}
+
+[Shortcut card]
+	{
+	ru=Карточка клавиш;
+	}
+
+[Export…]
+	{
+	ru=Экспорт…;
+	}
+
+[Jumping back isn't available in this replay.]
+	{
+	ru=В этом повторе нельзя перейти назад.;
+	}
+
+[Jumping back needs more memory than this device has.]
+	{
+	ru=Для перехода назад нужно больше памяти, чем есть на этом устройстве.;
+	}
+
+[This replay could not jump to {time} and has stopped.]
+	{
+	ru=Повтор не смог перейти к {time} и остановился.;
+	}
+
+// The Library's Replays section: its filters, sorting, days, rows and chips.
+
+[Replays]
+	{
+	ru=Повторы;
+	}
+
+[This month]
+	{
+	ru=Этот месяц;
+	}
+
+[Older]
+	{
+	ru=Старые;
+	}
+
+[Kept]
+	{
+	ru=Оставлено;
+	}
+
+[Imported]
+	{
+	ru=Импорт;
+	}
+
+[All kinds]
+	{
+	ru=Все типы;
+	}
+
+[Newest first]
+	{
+	ru=Сначала новые;
+	}
+
+[Longest first]
+	{
+	ru=Сначала длинные;
+	}
+
+[By map]
+	{
+	ru=По карте;
+	}
+
+[Most players first]
+	{
+	ru=Больше игроков;
+	}
+
+[Search replays]
+	{
+	ru=Поиск повторов;
+	}
+
+[Today]
+	{
+	ru=Сегодня;
+	}
+
+[Yesterday]
+	{
+	ru=Вчера;
+	}
+
+[{weekday} {day} {month}]
+	{
+	ru={weekday}, {day} {month};
+	}
+
+[{weekday} {day} {month} {year}]
+	{
+	ru={weekday}, {day} {month} {year};
+	}
+
+[Mon]
+	{
+	ru=Пн;
+	}
+
+[Tue]
+	{
+	ru=Вт;
+	}
+
+[Wed]
+	{
+	ru=Ср;
+	}
+
+[Thu]
+	{
+	ru=Чт;
+	}
+
+[Fri]
+	{
+	ru=Пт;
+	}
+
+[Sat]
+	{
+	ru=Сб;
+	}
+
+[Sun]
+	{
+	ru=Вс;
+	}
+
+[Jan]
+	{
+	ru=янв;
+	}
+
+[Feb]
+	{
+	ru=фев;
+	}
+
+[Mar]
+	{
+	ru=мар;
+	}
+
+[Apr]
+	{
+	ru=апр;
+	}
+
+[May]
+	{
+	ru=мая;
+	}
+
+[Jun]
+	{
+	ru=июн;
+	}
+
+[Jul]
+	{
+	ru=июл;
+	}
+
+[Aug]
+	{
+	ru=авг;
+	}
+
+[Sep]
+	{
+	ru=сен;
+	}
+
+[Oct]
+	{
+	ru=окт;
+	}
+
+[Nov]
+	{
+	ru=ноя;
+	}
+
+[Dec]
+	{
+	ru=дек;
+	}
+
+[{left} vs {right}]
+	{
+	ru={left} против {right};
+	}
+
+[{kind} · {planet}]
+	{
+	ru={kind} · {planet};
+	}
+
+[{kind} · {planet}, {sector}]
+	{
+	ru={kind} · {planet}, {sector};
+	}
+
+[After a crash]
+	{
+	ru=После сбоя;
+	}
+
+[Reading…]
+	{
+	ru=Чтение…;
+	}
+
+[Won]
+	{
+	ru=Победа;
+	}
+
+[Lost]
+	{
+	ru=Поражение;
+	}
+
+[Damaged]
+	{
+	ru=Повреждено;
+	}
+
+[1 kill]
+	{
+	ru=Уничтожено: 1;
+	}
+
+[{kills} kills]
+	{
+	ru=Уничтожено: {kills};
+	}
+
+[1 loss]
+	{
+	ru=Потери: 1;
+	}
+
+[{losses} losses]
+	{
+	ru=Потери: {losses};
+	}
+
+[Watched to {time}]
+	{
+	ru=Просмотрено до {time};
+	}
+
+[Watch]
+	{
+	ru=Смотреть;
+	}
+
+[Watch from {time}]
+	{
+	ru=Смотреть с {time};
+	}
+
+[Length]
+	{
+	ru=Длительность;
+	}
+
+[Recorded]
+	{
+	ru=Записано;
+	}
+
+[File]
+	{
+	ru=Файл;
+	}
+
+[Kept until]
+	{
+	ru=Хранится до;
+	}
+
+[Until you delete it]
+	{
+	ru=Пока вы его не удалите;
+	}
+
+[Imported replays are kept]
+	{
+	ru=Импортированные повторы хранятся;
+	}
+
+[Downloaded replays are kept]
+	{
+	ru=Скачанные повторы хранятся;
+	}
+
+[Exported replays are kept]
+	{
+	ru=Экспортированные повторы хранятся;
+	}
+
+[{mod} (rev {revision})]
+	{
+	ru={mod} (ревизия {revision});
+	}
+
+[Arm]
+	{
+	ru=ARM;
+	}
+
+[Core]
+	{
+	ru=CORE;
+	}
+
+[Watcher]
+	{
+	ru=Зритель;
+	}
+
+[{count} replays selected]
+	{
+	ru=Выбрано повторов: {count};
+	}
+
+[Delete replay]
+	{
+	ru=Удалить повтор;
+	}
+
+[Open a replay file…]
+	{
+	ru=Открыть файл повтора…;
+	}
+
+[This replay cannot be watched.]
+	{
+	ru=Этот повтор нельзя посмотреть.;
+	}
+
+[Reading the replays…]
+	{
+	ru=Чтение повторов…;
+	}
+
+[Reading {read} of {total} replays]
+	{
+	ru=Прочитано повторов: {read} из {total};
+	}
+
+[1 replay]
+	{
+	ru=1 повтор;
+	}
+
+[{count} replays]
+	{
+	ru=Повторов: {count};
+	}
+
+[1 replay · {size}]
+	{
+	ru=1 повтор · {size};
+	}
+
+[{count} replays · {size}]
+	{
+	ru=Повторов: {count} · {size};
+	}
+
+// The Library's Replays section: what a replay needs before it can be watched.
+
+[Needs {name} {version}]
+	{
+	ru=Нужно: {name} {version};
+	}
+
+[Needs map]
+	{
+	ru=Нужна карта;
+	}
+
+[Needs mutator]
+	{
+	ru=Нужен мутатор;
+	}
+
+[Needs {name}.]
+	{
+	ru=Нужно: {name}.;
+	}
+
+[Needs {version}]
+	{
+	ru=Нужна версия {version};
+	}
+
+[Needs the map {name}.]
+	{
+	ru=Нужна карта {name}.;
+	}
+
+[Needs the mutator {name}.]
+	{
+	ru=Нужен мутатор {name}.;
+	}
+
+[Needs Open Annihilation {version}.]
+	{
+	ru=Нужно: Open Annihilation {version}.;
+	}
+
+[From the map pack {pack}.]
+	{
+	ru=Из набора карт {pack}.;
+	}
+
+[This replay was recorded with {name}.]
+	{
+	ru=Для записи повтора использовано: {name}.;
+	}
+
+[This replay was recorded with {name}. You have {have}.]
+	{
+	ru=Для записи повтора использовано: {name}. У вас: {have}.;
+	}
+
+[This replay was recorded with {name} {version}.]
+	{
+	ru=Для записи повтора использовано: {name} {version}.;
+	}
+
+[This replay was recorded with {name} {version}. You have {have}.]
+	{
+	ru=Для записи повтора использовано: {name} {version}. У вас: {have}.;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}).]
+	{
+	ru=Для записи повтора использовано: {name} {version} (ревизия {revision}).;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}). You have {have}.]
+	{
+	ru=Для записи повтора использовано: {name} {version} (ревизия {revision}). У вас: {have}.;
+	}
+
+[This replay was recorded with another release of the map pack {name}.]
+	{
+	ru=Повтор записан на другом выпуске набора карт {name}.;
+	}
+
+[{name} is not in {registry}'s catalogue.]
+	{
+	ru={name}: нет в каталоге {registry}.;
+	}
+
+[{name} {version} is not in {registry}'s catalogue.]
+	{
+	ru={name} {version}: нет в каталоге {registry}.;
+	}
+
+[Get it and watch]
+	{
+	ru=Получить и смотреть;
+	}
+
+[Get them and watch]
+	{
+	ru=Получить всё и смотреть;
+	}
+
+[Get {name} {version} and watch]
+	{
+	ru=Получить {name} {version} и смотреть;
+	}
+
+[Turn on and watch]
+	{
+	ru=Включить и смотреть;
+	}
+
+[Getting {name}… {percent}%]
+	{
+	ru=Получение {name}… {percent}%;
+	}
+
+[You're offline.]
+	{
+	ru=Вы не в сети.;
+	}
+
+[Get {name} when you're back online.]
+	{
+	ru=Получите {name}, когда снова будете в сети.;
+	}
+
+[Get {name} {version} when you're back online.]
+	{
+	ru=Получите {name} {version}, когда снова будете в сети.;
+	}
+
+// The Library's Replays section: deleting, old replays and the empty list.
+
+[1 replay is older than you asked to keep. It goes to the system's trash.]
+	{
+	ru=1 повтор старше заданного срока хранения. Он будет перемещён в корзину.;
+	}
+
+[1 replay is older than you asked to keep. It is deleted. This system has no trash.]
+	{
+	ru=1 повтор старше заданного срока хранения. Он будет удалён. В этой системе нет корзины.;
+	}
+
+[{count} replays are older than you asked to keep. They go to the system's trash.]
+	{
+	ru=Повторов старше заданного срока хранения: {count}. Они будут перемещены в корзину.;
+	}
+
+[{count} replays are older than you asked to keep. They are deleted. This system has no trash.]
+	{
+	ru=Повторов старше заданного срока хранения: {count}. Они будут удалены. В этой системе нет корзины.;
+	}
+
+[Old replays]
+	{
+	ru=Старые повторы;
+	}
+
+[Keep them all]
+	{
+	ru=Оставить все;
+	}
+
+[Let them go]
+	{
+	ru=Разрешить удаление;
+	}
+
+[This replay could not be moved to the trash.]
+	{
+	ru=Не удалось переместить повтор в корзину.;
+	}
+
+[{count} replays could not be moved to the trash.]
+	{
+	ru=Не удалось переместить повторы в корзину: {count}.;
+	}
+
+[No replays yet.]
+	{
+	ru=Повторов пока нет.;
+	}
+
+[Games you play are kept here for 30 days.]
+	{
+	ru=Сыгранные игры хранятся здесь 30 дней.;
+	}
+
+[Games you play are kept here for 90 days.]
+	{
+	ru=Сыгранные игры хранятся здесь 90 дней.;
+	}
+
+[Games you play are kept here for a year.]
+	{
+	ru=Сыгранные игры хранятся здесь год.;
+	}
+
+[Games you play are kept here until you delete them.]
+	{
+	ru=Сыгранные игры хранятся здесь, пока вы их не удалите.;
+	}
+
+[Recording is off.]
+	{
+	ru=Запись выключена.;
+	}
+
+[Turn on recording]
+	{
+	ru=Включить запись;
+	}
+
+[No replays from this month.]
+	{
+	ru=Повторов за этот месяц нет.;
+	}
+
+[No older replays.]
+	{
+	ru=Старых повторов нет.;
+	}
+
+[No replays kept.]
+	{
+	ru=Оставленных повторов нет.;
+	}
+
+[No replays imported.]
+	{
+	ru=Импортированных повторов нет.;
+	}
+
+[No replays of this kind.]
+	{
+	ru=Повторов этого типа нет.;
+	}
+
+[No replays for this planet.]
+	{
+	ru=Повторов для этой планеты нет.;
+	}
+
+// The Library's Replays section: Core Prime's replays, signing in and sharing.
+
+[On this computer]
+	{
+	ru=На этом компьютере;
+	}
+
+[On Core Prime]
+	{
+	ru=На Core Prime;
+	}
+
+[Browse Core Prime's replays]
+	{
+	ru=Смотреть повторы Core Prime;
+	}
+
+[Longest]
+	{
+	ru=Самые длинные;
+	}
+
+[Popular]
+	{
+	ru=Популярные;
+	}
+
+[By planet]
+	{
+	ru=По планете;
+	}
+
+[My battles]
+	{
+	ru=Мои бои;
+	}
+
+[Reading Core Prime's replays…]
+	{
+	ru=Чтение повторов Core Prime…;
+	}
+
+[Core Prime cannot be reached.]
+	{
+	ru=Не удаётся связаться с Core Prime.;
+	}
+
+[Core Prime did not answer.]
+	{
+	ru=От Core Prime нет ответа.;
+	}
+
+[Core Prime did not start a session.]
+	{
+	ru=Сеанс на Core Prime не начат.;
+	}
+
+[Core Prime has no replays to show.]
+	{
+	ru=На Core Prime нет повторов для показа.;
+	}
+
+[Core Prime's list cannot be read.]
+	{
+	ru=Не удаётся прочитать список Core Prime.;
+	}
+
+[Core Prime's replays are not available just now.]
+	{
+	ru=Повторы Core Prime сейчас недоступны.;
+	}
+
+[Getting the replay…]
+	{
+	ru=Получение повтора…;
+	}
+
+[The file does not match the replay.]
+	{
+	ru=Файл не совпадает с повтором.;
+	}
+
+[The replay could not be saved.]
+	{
+	ru=Не удалось сохранить повтор.;
+	}
+
+[The replay names no file.]
+	{
+	ru=У повтора нет файла.;
+	}
+
+[Try again in {seconds} s.]
+	{
+	ru=Повторите через {seconds} с.;
+	}
+
+[Go to {address} and enter {code}.]
+	{
+	ru=Откройте {address} и введите {code}.;
+	}
+
+[The check ran out. Try again for a new code.]
+	{
+	ru=Срок проверки истёк. Повторите, чтобы получить новый код.;
+	}
+
+[Sign in]
+	{
+	ru=Войти;
+	}
+
+[Sign out]
+	{
+	ru=Выйти;
+	}
+
+[Sign in to Core Prime]
+	{
+	ru=Вход в Core Prime;
+	}
+
+[Handle]
+	{
+	ru=Ник;
+	}
+
+[Password]
+	{
+	ru=Пароль;
+	}
+
+[Signing in…]
+	{
+	ru=Вход…;
+	}
+
+[Forgot it? Reset it at coreprime.net/forgot]
+	{
+	ru=Забыли? Сбросьте пароль на coreprime.net/forgot;
+	}
+
+[Signing in needs a secure connection, which this system does not have.]
+	{
+	ru=Для входа нужно защищённое соединение, а в этой системе его нет.;
+	}
+
+[Sign in to share a replay.]
+	{
+	ru=Войдите, чтобы поделиться повтором.;
+	}
+
+[Share on Core Prime…]
+	{
+	ru=Поделиться на Core Prime…;
+	}
+
+[Share on Core Prime]
+	{
+	ru=Поделиться на Core Prime;
+	}
+
+[Share my own recording]
+	{
+	ru=Поделиться своей записью;
+	}
+
+[Share]
+	{
+	ru=Поделиться;
+	}
+
+[Sharing…]
+	{
+	ru=Отправка…;
+	}
+
+[Title]
+	{
+	ru=Название;
+	}
+
+[Public]
+	{
+	ru=Публичный;
+	}
+
+[Unlisted]
+	{
+	ru=По ссылке;
+	}
+
+[Shared on Core Prime]
+	{
+	ru=Опубликовано на Core Prime;
+	}
+
+[Already on Core Prime]
+	{
+	ru=Уже на Core Prime;
+	}
+
+[Open on Core Prime]
+	{
+	ru=Открыть на Core Prime;
+	}
+
+[This account cannot share replays.]
+	{
+	ru=Этот аккаунт не может делиться повторами.;
+	}
+
+[This account has shared its replays for today.]
+	{
+	ru=Этот аккаунт уже поделился повторами на сегодня.;
+	}
+
+[Uploads are not available.]
+	{
+	ru=Отправка файлов недоступна.;
+	}
+
+[The replay is larger than the limit.]
+	{
+	ru=Повтор превышает допустимый размер.;
+	}
+
+[Only a player in that battle can replace its replay.]
+	{
+	ru=Заменить повтор может только игрок этого боя.;
+	}
+
+// The Library's Replays section: the Export dialog.
+
+[Export]
+	{
+	ru=Экспорт;
+	}
+
+[Export {name}]
+	{
+	ru=Экспорт: {name};
+	}
+
+[Export {count} replays]
+	{
+	ru=Экспорт повторов: {count};
+	}
+
+[Open Annihilation replay (.oademo)]
+	{
+	ru=Повтор Open Annihilation (.oademo);
+	}
+
+[TA Demo Recorder (.tad)]
+	{
+	ru=TA Demo Recorder (.tad);
+	}
+
+[Everything needed to watch it: the recording, and the game, mod and map it needs]
+	{
+	ru=Всё нужное для просмотра: запись, а также игра, мод и карта, которые для неё нужны;
+	}
+
+[For TA Demo Recorder and other replayers]
+	{
+	ru=Для TA Demo Recorder и других проигрывателей повторов;
+	}
+
+[What to include]
+	{
+	ru=Что включить;
+	}
+
+[What only Open Annihilation reads]
+	{
+	ru=То, что читает только Open Annihilation;
+	}
+
+[Compatibility]
+	{
+	ru=Совместимость;
+	}
+
+[It was played with mutators. Other replayers cannot apply them, so commanders may not last as they did.]
+	{
+	ru=Игра шла с мутаторами. Другие проигрыватели не могут их применить, поэтому Командиры могут продержаться иначе, чем в игре.;
+	}
+
+[It was played with the mutator {name}. Other replayers cannot apply it, so commanders may not last as they did.]
+	{
+	ru=Игра шла с мутатором {name}. Другие проигрыватели не могут его применить, поэтому Командиры могут продержаться иначе, чем в игре.;
+	}
+
+[Other replayers stop at the first of this mod's wide weapon records.]
+	{
+	ru=Другие проигрыватели остановятся на первой из широких записей оружия этого мода.;
+	}
+
+[Names longer than 63 letters are cut.]
+	{
+	ru=Имена длиннее 63 букв обрезаются.;
+	}
+
+[A player's status is cut to 512 bytes.]
+	{
+	ru=Статус игрока обрезается до 512 байт.;
+	}
+
+[More warnings]
+	{
+	ru=Ещё предупреждения;
+	}
+
+[Previous warnings]
+	{
+	ru=Предыдущие предупреждения;
+	}
+
+[More folders]
+	{
+	ru=Ещё папки;
+	}
+
+[Previous folders]
+	{
+	ru=Предыдущие папки;
+	}
+
+[Compressing the recording]
+	{
+	ru=Сжатие записи;
+	}
+
+[Measuring…]
+	{
+	ru=Измерение…;
+	}
+
+[Writing {name}]
+	{
+	ru=Сохранение файла {name};
+	}
+
+[Exporting {done} of {total}]
+	{
+	ru=Экспорт: {done} из {total};
+	}
+
+[Saved to {folder}]
+	{
+	ru=Сохранено: {folder};
+	}
+
+[Saved {done} of {total}.]
+	{
+	ru=Сохранено: {done} из {total}.;
+	}
+
+[Show in folder]
+	{
+	ru=Показать в папке;
+	}
+
+[Nothing is selected. Choose a replay, then export it.]
+	{
+	ru=Ничего не выбрано. Выберите повтор и затем экспортируйте его.;
+	}
+
+[The export could not be written.]
+	{
+	ru=Не удалось сохранить экспортируемый файл.;
+	}
+
+[There is no room in {folder}.]
+	{
+	ru=В папке {folder} нет места.;
+	}
+
+[Open Annihilation cannot write to {folder}.]
+	{
+	ru=Open Annihilation не может записывать в папку {folder}.;
+	}
+
+[This replay cannot be read, so it cannot be exported.]
+	{
+	ru=Этот повтор не читается, поэтому его нельзя экспортировать.;
+	}
+
+// Opening a replay file: why a file is refused or cannot be played.
+
+[Added {title} to Replays]
+	{
+	ru=Добавлено в «Повторы»: {title};
+	}
+
+[This file cannot be read.]
+	{
+	ru=Не удаётся прочитать этот файл.;
+	}
+
+[This file is too large to be a replay.]
+	{
+	ru=Этот файл слишком велик для повтора.;
+	}
+
+[This file is not a TA Demo recording]
+	{
+	ru=Этот файл не является записью TA Demo;
+	}
+
+[This recording cannot be read.]
+	{
+	ru=Не удаётся прочитать эту запись.;
+	}
+
+[This recording is in version {version} of the format, which Open Annihilation does not play]
+	{
+	ru=Эта запись сохранена в версии формата {version}, которую Open Annihilation не воспроизводит;
+	}
+
+[This replay could not be copied into Recordings.]
+	{
+	ru=Не удалось скопировать повтор в папку Recordings.;
+	}
+
+[This file is not a replay.]
+	{
+	ru=Этот файл не является повтором.;
+	}
+
+[This replay is not a version this game reads.]
+	{
+	ru=Эта версия повтора не поддерживается игрой.;
+	}
+
+[This replay does not hold one recording.]
+	{
+	ru=В этом повторе нет ровно одной записи.;
+	}
+
+[This replay's recording does not match.]
+	{
+	ru=Запись этого повтора не совпадает с описанием.;
+	}
+
+[This replay's recording is too long to play.]
+	{
+	ru=Запись этого повтора слишком длинная для воспроизведения.;
+	}
+
+[This replay's recording cannot be read.]
+	{
+	ru=Не удаётся прочитать запись этого повтора.;
+	}
+
+[This replay's details cannot be read.]
+	{
+	ru=Не удаётся прочитать сведения об этом повторе.;
+	}
+
+// Settings › Replays.
+
+[REPLAYS]
+	{
+	ru=ПОВТОРЫ;
+	}
+
+[Record my games]
+	{
+	ru=Записывать мои игры;
+	}
+
+[Campaign missions, skirmish, multiplayer and Boneyards battles. Applies from the next game.]
+	{
+	ru=Миссии кампании, схватки, сетевые игры и бои в Boneyards. Вступит в силу со следующей игры.;
+	}
+
+[Keep replays for]
+	{
+	ru=Хранить повторы;
+	}
+
+[30 days]
+	{
+	ru=30 дней;
+	}
+
+[90 days]
+	{
+	ru=90 дней;
+	}
+
+[A year]
+	{
+	ru=Год;
+	}
+
+[Forever]
+	{
+	ru=Всегда;
+	}
+
+[Replays you keep in the Library stay until you delete them.]
+	{
+	ru=Повторы, которые вы оставили в Библиотеке, хранятся, пока вы их не удалите.;
+	}
+
+[Open replay files with Open Annihilation]
+	{
+	ru=Открывать файлы повторов в Open Annihilation;
+	}
+
+[A .oademo or a .tad file opens in this copy.]
+	{
+	ru=Файл .oademo или .tad открывается в этой копии игры.;
+	}
+
+// Settings › Accessibility: colour vision, shape cues, screen reader, speech and focus.
+
+[Colour vision]
+	{
+	ru=Цветовое зрение;
+	}
+
+[Protanopia]
+	{
+	ru=Протанопия;
+	}
+
+[Deuteranopia]
+	{
+	ru=Дейтеранопия;
+	}
+
+[Tritanopia]
+	{
+	ru=Тританопия;
+	}
+
+[Achromatopsia]
+	{
+	ru=Ахроматопсия;
+	}
+
+[Achromatopsia keeps shape cues on]
+	{
+	ru=Ахроматопсия оставляет метки формы включёнными;
+	}
+
+[Changes team colours, the minimap, bars, the war map and status colours on this machine only.]
+	{
+	ru=Меняет цвета команд, миникарты, полос, карты войны и статусов только на этом компьютере.;
+	}
+
+[Shape cues]
+	{
+	ru=Метки формы;
+	}
+
+[Player markers, side symbols, notched bars and a mark on every status.]
+	{
+	ru=Метки игроков, символы сторон, полосы с засечками и значок у каждого статуса.;
+	}
+
+[Preview]
+	{
+	ru=Предпросмотр;
+	}
+
+[The ten player colours, then OK, caution, danger and information.]
+	{
+	ru=Десять цветов игроков, затем цвета статусов: норма, внимание, опасность и информация.;
+	}
+
+[Screen reader]
+	{
+	ru=Чтение с экрана;
+	}
+
+[Automatic works with a screen reader while the system says one is running. On also works with one the system does not report. Off never does.]
+	{
+	ru=Режим «Авто» работает со средством чтения с экрана, пока система сообщает, что оно запущено. Режим «Вкл.» работает и с тем, о котором система не сообщает. Режим «Выкл.» не работает никогда.;
+	}
+
+[Nothing on this system can speak.]
+	{
+	ru=Эта система не может озвучивать текст.;
+	}
+
+[Speak chat]
+	{
+	ru=Озвучивать чат;
+	}
+
+[Pages only]
+	{
+	ru=Только вызовы;
+	}
+
+[Chat lines and whispers, pages only, or neither.]
+	{
+	ru=Реплики чата и личные сообщения, только вызовы или ничего.;
+	}
+
+[Speak lobby changes]
+	{
+	ru=Озвучивать изменения в лобби;
+	}
+
+[A player joining or leaving the battle room, and a change of ready, side, colour, team, map or option.]
+	{
+	ru=Вход и выход игроков в лобби, смена готовности, стороны, цвета, команды, карты или параметра.;
+	}
+
+[Speak the ticker]
+	{
+	ru=Озвучивать бегущую строку;
+	}
+
+[The ticker repeats, so it stays quiet until this is on.]
+	{
+	ru=Бегущая строка повторяется, поэтому без этого параметра она не озвучивается.;
+	}
+
+[Always show focus]
+	{
+	ru=Всегда показывать фокус;
+	}
+
+[The focus ring is drawn on the first item when a screen opens.]
+	{
+	ru=При открытии экрана рамка фокуса рисуется на первом элементе.;
+	}
+
+// What a screen reader says: the kinds of control, and the lines spoken for the lobby and the match.
+
+[alert]
+	{
+	ru=предупреждение;
+	}
+
+[button]
+	{
+	ru=кнопка;
+	}
+
+[check box]
+	{
+	ru=флажок;
+	}
+
+[dialog]
+	{
+	ru=диалог;
+	}
+
+[group]
+	{
+	ru=группа;
+	}
+
+[image]
+	{
+	ru=изображение;
+	}
+
+[link]
+	{
+	ru=ссылка;
+	}
+
+[list]
+	{
+	ru=список;
+	}
+
+[list item]
+	{
+	ru=элемент списка;
+	}
+
+[log]
+	{
+	ru=журнал;
+	}
+
+[password]
+	{
+	ru=пароль;
+	}
+
+[radio button]
+	{
+	ru=радиокнопка;
+	}
+
+[radio group]
+	{
+	ru=группа радиокнопок;
+	}
+
+[search field]
+	{
+	ru=поле поиска;
+	}
+
+[slider]
+	{
+	ru=ползунок;
+	}
+
+[switch]
+	{
+	ru=переключатель;
+	}
+
+[tab]
+	{
+	ru=вкладка;
+	}
+
+[tab list]
+	{
+	ru=список вкладок;
+	}
+
+[text]
+	{
+	ru=текст;
+	}
+
+[text field]
+	{
+	ru=текстовое поле;
+	}
+
+[tree]
+	{
+	ru=дерево;
+	}
+
+[tree item]
+	{
+	ru=элемент дерева;
+	}
+
+[window]
+	{
+	ru=окно;
+	}
+
+[battle room]
+	{
+	ru=лобби;
+	}
+
+[match]
+	{
+	ru=матч;
+	}
+
+[{colour}, player {number}]
+	{
+	ru={colour}, игрок {number};
+	}
+
+[{count} new lines in {room}]
+	{
+	ru={room}: новых строк — {count};
+	}
+
+[An option changed]
+	{
+	ru=Параметр изменён;
+	}
+
+[Commander under attack]
+	{
+	ru=Командир под обстрелом;
+	}
+
+[The countdown has started]
+	{
+	ru=Отсчёт начался;
+	}
+
+[The host has left]
+	{
+	ru=Хост вышел;
+	}
+
+[The map is {name}]
+	{
+	ru=Карта: {name};
+	}
+
+[Whisper from {name}: {text}]
+	{
+	ru=Личное сообщение от {name}: {text};
+	}
+
+[{name} changed colour to {colour}]
+	{
+	ru={name}: новый цвет — {colour};
+	}
+
+[{name} changed side to {side}]
+	{
+	ru={name}: новая сторона — {side};
+	}
+
+[{name} changed team to {team}]
+	{
+	ru={name}: новая команда — {team};
+	}
+
+[{name} is not ready]
+	{
+	ru=Игрок {name} не готов;
+	}
+
+[{name} is ready]
+	{
+	ru=Игрок {name} готов;
+	}
+
+[{name} joined]
+	{
+	ru=Игрок {name} присоединился;
+	}
+
+[{name} left]
+	{
+	ru=Игрок {name} вышел;
+	}
+
+[Victory]
+	{
+	ru=Победа;
+	}
+
+[Defeat]
+	{
+	ru=Поражение;
+	}
+
+[There are no saved games to choose from]
+	{
+	ru=Нет сохранённых игр;
+	}
+
+[Black]
+	{
+	ru=Чёрный;
+	}
+
+[Blue]
+	{
+	ru=Синий;
+	}
+
+[Green]
+	{
+	ru=Зелёный;
+	}
+
+[Light blue]
+	{
+	ru=Голубой;
+	}
+
+[Navy]
+	{
+	ru=Тёмно-синий;
+	}
+
+[Purple]
+	{
+	ru=Фиолетовый;
+	}
+
+[Red]
+	{
+	ru=Красный;
+	}
+
+[Tan]
+	{
+	ru=Бежевый;
+	}
+
+[White]
+	{
+	ru=Белый;
+	}
+
+[Yellow]
+	{
+	ru=Жёлтый;
+	}
+
+// The names a screen reader gives the original screens' controls.
+
+[Alliance]
+	{
+	ru=Союз;
+	}
+
+[Anti-aliasing]
+	{
+	ru=Сглаживание;
+	}
+
+[CD music]
+	{
+	ru=CD-музыка;
+	}
+
+[Campaigns]
+	{
+	ru=Кампании;
+	}
+
+[Cheat Codes]
+	{
+	ru=Чит-коды;
+	}
+
+[Closed]
+	{
+	ru=Закрыты;
+	}
+
+[Opened]
+	{
+	ru=Открыты;
+	}
+
+[Colour]
+	{
+	ru=Цвет;
+	}
+
+[Commander]
+	{
+	ru=Командир;
+	}
+
+[Credits]
+	{
+	ru=Авторы;
+	}
+
+[Dead Commander]
+	{
+	ru=Гибель Командира;
+	}
+
+[Difficulty]
+	{
+	ru=Сложность;
+	}
+
+[Energy]
+	{
+	ru=Энергия;
+	}
+
+[Game Status]
+	{
+	ru=Статус игры;
+	}
+
+[Game speed]
+	{
+	ru=Скорость игры;
+	}
+
+[Gamma]
+	{
+	ru=Гамма;
+	}
+
+[Line of Sight]
+	{
+	ru=Обзор;
+	}
+
+[Line of sight]
+	{
+	ru=Обзор;
+	}
+
+[Location]
+	{
+	ru=Стартовая позиция;
+	}
+
+[Map]
+	{
+	ru=Карта;
+	}
+
+[Mapping]
+	{
+	ru=Видимость карты;
+	}
+
+[Mapping Mode]
+	{
+	ru=Видимость карты;
+	}
+
+[Max units]
+	{
+	ru=Лимит юнитов;
+	}
+
+[Metal]
+	{
+	ru=Металл;
+	}
+
+[Missions]
+	{
+	ru=Миссии;
+	}
+
+[Music volume]
+	{
+	ru=Громкость музыки;
+	}
+
+[Next track]
+	{
+	ru=Следующий трек;
+	}
+
+[Play mode]
+	{
+	ru=Режим воспроизведения;
+	}
+
+[Play track]
+	{
+	ru=Воспроизвести трек;
+	}
+
+[Previous track]
+	{
+	ru=Предыдущий трек;
+	}
+
+[Ready]
+	{
+	ru=Готов;
+	}
+
+[Saved games]
+	{
+	ru=Сохранённые игры;
+	}
+
+[Screen scroll]
+	{
+	ru=Прокрутка экрана;
+	}
+
+[Shading]
+	{
+	ru=Затенение;
+	}
+
+[Shadows]
+	{
+	ru=Тени;
+	}
+
+[Side]
+	{
+	ru=Сторона;
+	}
+
+[Sound mode]
+	{
+	ru=Режим звука;
+	}
+
+[Sound volume]
+	{
+	ru=Громкость звука;
+	}
+
+[Start doors]
+	{
+	ru=Двери старта;
+	}
+
+[Starting energy]
+	{
+	ru=Начальный запас энергии;
+	}
+
+[Starting metal]
+	{
+	ru=Начальный запас металла;
+	}
+
+[Team]
+	{
+	ru=Команда;
+	}
+
+[Text delay]
+	{
+	ru=Задержка текста;
+	}
+
+[Text lines]
+	{
+	ru=Строки текста;
+	}
+
+[Track type]
+	{
+	ru=Тип трека;
+	}
+
+[Unit sounds]
+	{
+	ru=Звуки юнитов;
+	}
+
+[Unit text acks]
+	{
+	ru=Ответы юнитов;
+	}
+
+// Photo mode: the panel, its chips, its rows and what they say.
+
+[PHOTO MODE]
+	{
+	ru=РЕЖИМ ФОТО;
+	}
+
+[Photo mode]
+	{
+	ru=Режим фото;
+	}
+
+[Esc leaves]
+	{
+	ru=Esc — выход;
+	}
+
+[{key} or Esc leaves]
+	{
+	ru={key} или Esc — выход;
+	}
+
+[{key} shows the panel]
+	{
+	ru={key} показывает панель;
+	}
+
+[Show panel]
+	{
+	ru=Показать панель;
+	}
+
+[Hide panel]
+	{
+	ru=Скрыть панель;
+	}
+
+[Photo not taken]
+	{
+	ru=Фото не сделано;
+	}
+
+[Take photo]
+	{
+	ru=Сделать фото;
+	}
+
+[Copy to clipboard]
+	{
+	ru=Копировать в буфер обмена;
+	}
+
+[Player names]
+	{
+	ru=Имена игроков;
+	}
+
+[Show selection]
+	{
+	ru=Показывать выделение;
+	}
+
+[Show health bars]
+	{
+	ru=Показывать полосы здоровья;
+	}
+
+[Guides]
+	{
+	ru=Направляющие;
+	}
+
+[Thirds]
+	{
+	ru=Трети;
+	}
+
+[Safe area]
+	{
+	ru=Безопасная зона;
+	}
+
+[Centre lines]
+	{
+	ru=Осевые линии;
+	}
+
+[Follow unit]
+	{
+	ru=Следить за юнитом;
+	}
+
+[Turn]
+	{
+	ru=Поворот;
+	}
+
+[Tilt]
+	{
+	ru=Наклон;
+	}
+
+[Far]
+	{
+	ru=Далеко;
+	}
+
+[Near]
+	{
+	ru=Близко;
+	}
+
+[Closest]
+	{
+	ru=Вплотную;
+	}
+
+[Run]
+	{
+	ru=Пуск;
+	}
+
+[Slow]
+	{
+	ru=Медленно;
+	}
+
+[Freeze]
+	{
+	ru=Заморозка;
+	}
+
+[Hold picture]
+	{
+	ru=Удержать кадр;
+	}
+
+[Frozen]
+	{
+	ru=Заморожено;
+	}
+
+[Held]
+	{
+	ru=Удержано;
+	}
+
+[Held picture]
+	{
+	ru=Кадр удержан;
+	}
+
+[Step]
+	{
+	ru=Шаг;
+	}
+
+[Speed]
+	{
+	ru=Скорость;
+	}
+
+[Between ticks]
+	{
+	ru=Между тактами;
+	}
+
+[Time]
+	{
+	ru=Время;
+	}
+
+[Clock]
+	{
+	ru=Часы;
+	}
+
+[Live]
+	{
+	ru=В эфире;
+	}
+
+[Replay paused]
+	{
+	ru=Повтор на паузе;
+	}
+
+[Shared game]
+	{
+	ru=Сетевая игра;
+	}
+
+[chat lines]
+	{
+	ru=сообщ. в чате;
+	}
+
+[Expanded]
+	{
+	ru=Развёрнуто;
+	}
+
+[Collapsed]
+	{
+	ru=Свёрнуто;
+	}
+
+[Screen]
+	{
+	ru=Экран;
+	}
+
+[2×]
+	{
+	ru=2×;
+	}
+
+[3×]
+	{
+	ru=3×;
+	}
+
+[4×]
+	{
+	ru=4×;
+	}
+
+[Smooth edges]
+	{
+	ru=Сглаживание краёв;
+	}
+
+[A photo is at most {limit} pixels a side]
+	{
+	ru=Сторона фото — не более {limit} пикселей;
+	}
+
+[This graphics card draws at most {limit} pixels a side]
+	{
+	ru=Эта видеокарта рисует не более {limit} пикселей по стороне;
+	}
+
+[The 3D view draws at most {limit} pixels a side at this anti-aliasing]
+	{
+	ru=3D-вид рисует не более {limit} пикселей по стороне при таком сглаживании;
+	}
+
+[The graphics card draws no farther out than this.]
+	{
+	ru=Видеокарта не рисует дальше этого предела.;
+	}
+
+[Not enough memory]
+	{
+	ru=Не хватает памяти;
+	}
+
+[Off and Basic draw whole pixels]
+	{
+	ru=Режимы «Выкл.» и «Базовый» рисуют целыми пикселями;
+	}
+
+[Arctic]
+	{
+	ru=Арктика;
+	}
+
+[Bleach]
+	{
+	ru=Выбеливание;
+	}
+
+[Dusk]
+	{
+	ru=Сумерки;
+	}
+
+[Noir]
+	{
+	ru=Нуар;
+	}
+
+[Caption bar]
+	{
+	ru=Полоса подписи;
+	}
+
+[Frame]
+	{
+	ru=Рамка;
+	}
+
+[Thin border]
+	{
+	ru=Тонкая рамка;
+	}
+
+[Wide mat]
+	{
+	ru=Широкое паспарту;
+	}
+
+[Vignette]
+	{
+	ru=Виньетка;
+	}
+
+[Roundness]
+	{
+	ru=Округлость;
+	}
+
+[Grain]
+	{
+	ru=Зерно;
+	}
+
+[Grain size]
+	{
+	ru=Размер зерна;
+	}
+
+[The preview lowers the frame rate.]
+	{
+	ru=Предпросмотр снижает частоту кадров.;
+	}
+
+[Depth]
+	{
+	ru=Глубина;
+	}
+
+[Band centre]
+	{
+	ru=Центр полосы;
+	}
+
+[Band width]
+	{
+	ru=Ширина полосы;
+	}
+
+[Blur]
+	{
+	ru=Размытие;
+	}
+
+[Blurs by screen row, not by depth.]
+	{
+	ru=Размывает по строкам экрана, а не по глубине.;
+	}
+
+[Haze]
+	{
+	ru=Дымка;
+	}
+
+[Follows the ground, not the units.]
+	{
+	ru=Следует за местностью, а не за юнитами.;
+	}
+
+[Depth of field]
+	{
+	ru=Глубина резкости;
+	}
+
+[Needs Full 3D Mode]
+	{
+	ru=Нужен полный 3D-режим;
+	}
+
+[This graphics card keeps no depth.]
+	{
+	ru=Эта видеокарта не сохраняет глубину.;
+	}
+
+[Poster]
+	{
+	ru=Постер;
+	}
+
+[The view]
+	{
+	ru=Вид;
+	}
+
+[Area]
+	{
+	ru=Область;
+	}
+
+[Freeze the picture]
+	{
+	ru=Заморозьте кадр;
+	}
+
+[A poster is the map from above: Classic view, {key}]
+	{
+	ru=Постер — это карта сверху: «Классический вид», {key};
+	}
+
+[Saved {name}]
+	{
+	ru=Сохранено: {name};
+	}
+
+[Photo not saved: {reason}]
+	{
+	ru=Фото не сохранено: {reason};
+	}
+
+[photo mode is not on]
+	{
+	ru=режим фото не включён;
+	}
+
+[four photos are still being saved]
+	{
+	ru=четыре фото ещё сохраняются;
+	}
+
+[the picture could not be read]
+	{
+	ru=не удалось прочитать изображение;
+	}
+
+[the graphics device was lost]
+	{
+	ru=графическое устройство потеряно;
+	}
+
+[the file could not be written]
+	{
+	ru=не удалось записать файл;
+	}
+
+[the picture could not be drawn]
+	{
+	ru=не удалось нарисовать изображение;
+	}
+
+[Photo not copied: {reason}]
+	{
+	ru=Фото не скопировано: {reason};
+	}
+
+[a side is above 8192 pixels]
+	{
+	ru=сторона больше 8192 пикселей;
+	}
+
+[the photo is above 128 MB]
+	{
+	ru=фото больше 128 МБ;
+	}
+
+[the clipboard did not take the photo]
+	{
+	ru=буфер обмена не принял фото;
+	}
+
+[not available in Game Mode]
+	{
+	ru=недоступно в игровом режиме;
+	}
+
+[the clipboard holds text only]
+	{
+	ru=в буфере обмена может быть только текст;
+	}
+
+[Keys in photo mode]
+	{
+	ru=Клавиши в режиме фото;
+	}
+
+[In photo mode]
+	{
+	ru=В режиме фото;
+	}
+
+[in photo mode]
+	{
+	ru=в режиме фото;
+	}
+
+// Key actions: photo mode, replay playback and the focus ring.
+
+[Opens photo mode]
+	{
+	ru=Открывает режим фото;
+	}
+
+[Leaves photo mode]
+	{
+	ru=Выходит из режима фото;
+	}
+
+[Writes a photo of the battlefield]
+	{
+	ru=Сохраняет фото поля боя;
+	}
+
+[Copy last photo]
+	{
+	ru=Копировать последнее фото;
+	}
+
+[Offers the last photo to the clipboard]
+	{
+	ru=Отправляет последнее фото в буфер обмена;
+	}
+
+[Freeze / Hold picture]
+	{
+	ru=Заморозить / удержать кадр;
+	}
+
+[Holds the clock, or keeps this screen's last frame in a shared match]
+	{
+	ru=Останавливает время или в сетевой игре удерживает последний кадр этого экрана;
+	}
+
+[Step a tick]
+	{
+	ru=Шаг на такт;
+	}
+
+[Advances one tick, then freezes]
+	{
+	ru=Продвигает на один такт и замораживает;
+	}
+
+[Step back]
+	{
+	ru=Шаг назад;
+	}
+
+[Goes back one tick, then freezes]
+	{
+	ru=Возвращает на один такт и замораживает;
+	}
+
+[Shutter back]
+	{
+	ru=Затвор назад;
+	}
+
+[Moves the shutter one eighth toward the previous tick]
+	{
+	ru=Сдвигает затвор на одну восьмую к предыдущему такту;
+	}
+
+[Shutter on]
+	{
+	ru=Затвор вперёд;
+	}
+
+[Moves the shutter one eighth toward the frozen tick]
+	{
+	ru=Сдвигает затвор на одну восьмую к остановленному такту;
+	}
+
+[Zooms in on the photo]
+	{
+	ru=Приближает кадр;
+	}
+
+[Zooms out on the photo]
+	{
+	ru=Отдаляет кадр;
+	}
+
+[Turn left]
+	{
+	ru=Поворот влево;
+	}
+
+[Turns the camera left]
+	{
+	ru=Поворачивает камеру влево;
+	}
+
+[Turn right]
+	{
+	ru=Поворот вправо;
+	}
+
+[Turns the camera right]
+	{
+	ru=Поворачивает камеру вправо;
+	}
+
+[Tilt up]
+	{
+	ru=Наклон вверх;
+	}
+
+[Tilts the camera up]
+	{
+	ru=Наклоняет камеру вверх;
+	}
+
+[Tilt down]
+	{
+	ru=Наклон вниз;
+	}
+
+[Tilts the camera down]
+	{
+	ru=Наклоняет камеру вниз;
+	}
+
+[Hides and shows the photo panel]
+	{
+	ru=Скрывает и показывает панель фото;
+	}
+
+[Cycles the guides over the battlefield]
+	{
+	ru=Переключает направляющие над полем боя;
+	}
+
+[Mark area]
+	{
+	ru=Отметить область;
+	}
+
+[Starts a poster mark at the view's centre]
+	{
+	ru=Ставит метку постера в центре вида;
+	}
+
+[Grow the mark left]
+	{
+	ru=Расширить метку влево;
+	}
+
+[Grows the marked area to the left]
+	{
+	ru=Расширяет отмеченную область влево;
+	}
+
+[Grow the mark right]
+	{
+	ru=Расширить метку вправо;
+	}
+
+[Grows the marked area to the right]
+	{
+	ru=Расширяет отмеченную область вправо;
+	}
+
+[Grow the mark up]
+	{
+	ru=Расширить метку вверх;
+	}
+
+[Grows the marked area up]
+	{
+	ru=Расширяет отмеченную область вверх;
+	}
+
+[Grow the mark down]
+	{
+	ru=Расширить метку вниз;
+	}
+
+[Grows the marked area down]
+	{
+	ru=Расширяет отмеченную область вниз;
+	}
+
+[Jumps back ten seconds]
+	{
+	ru=Переходит на десять секунд назад;
+	}
+
+[Jumps forward ten seconds]
+	{
+	ru=Переходит на десять секунд вперёд;
+	}
+
+[Jumps back a minute]
+	{
+	ru=Переходит на минуту назад;
+	}
+
+[Jumps forward a minute]
+	{
+	ru=Переходит на минуту вперёд;
+	}
+
+[Jumps to the previous marker]
+	{
+	ru=Переходит к предыдущей метке;
+	}
+
+[Jumps to the next marker]
+	{
+	ru=Переходит к следующей метке;
+	}
+
+[Jumps to the start of the replay]
+	{
+	ru=Переходит в начало повтора;
+	}
+
+[Jumps to the end of the replay]
+	{
+	ru=Переходит в конец повтора;
+	}
+
+[Plays or pauses the replay]
+	{
+	ru=Запускает или приостанавливает повтор;
+	}
+
+[Keeps the playback bar on screen]
+	{
+	ru=Оставляет панель воспроизведения на экране;
+	}
+
+[Shows the playback keys]
+	{
+	ru=Показывает клавиши воспроизведения;
+	}
+
+[Next player's view]
+	{
+	ru=Вид следующего игрока;
+	}
+
+[Shows the next player's view]
+	{
+	ru=Показывает вид следующего игрока;
+	}
+
+[Previous player's view]
+	{
+	ru=Вид предыдущего игрока;
+	}
+
+[Shows the previous player's view]
+	{
+	ru=Показывает вид предыдущего игрока;
+	}
+
+[All players' view]
+	{
+	ru=Вид всех игроков;
+	}
+
+[Shows the whole map and every unit]
+	{
+	ru=Показывает всю карту и все юниты;
+	}
+
+[Camera mode]
+	{
+	ru=Режим камеры;
+	}
+
+[Changes how the camera follows the game]
+	{
+	ru=Меняет способ, которым камера следит за игрой;
+	}
+
+[Focus the panel's buttons]
+	{
+	ru=Фокус на кнопках панели;
+	}
+
+[Moves a ring over the order buttons and the build page. Press again to return to the battlefield.]
+	{
+	ru=Перемещает кольцо по кнопкам приказов и странице строительства. Повторное нажатие возвращает к полю боя.;
+	}
+
+[Closes the megamap and zooms in at the pointer]
+	{
+	ru=Закрывает мегакарту и приближает к указателю;
+	}
+
+// The Boneyards' entry questions.
+
+[The Boneyards]
+	{
+	ru=Boneyards;
+	}
+
+[The Boneyards is installed. Start Open Annihilation again to enter the Boneyards.]
+	{
+	ru=Установка Boneyards завершена. Чтобы войти в Boneyards, снова запустите Open Annihilation.;
+	}
+
+[The Boneyards launches and reports games only on 3.1c, Core Contingency and Battle Tactics. Switch your mod off to play in the Boneyards.]
+	{
+	ru=Boneyards запускает игры и учитывает их только в 3.1c, Core Contingency и Battle Tactics. Отключите мод, чтобы играть в Boneyards.;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks and the content catalogue. Turn them on and continue?]
+	{
+	ru=Для Boneyards нужны онлайн-функции Open Annihilation: проверка обновлений и каталог контента. Включить их и продолжить?;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks, the content catalogue and {registry}'s install ID. Turn them on and continue?]
+	{
+	ru=Для Boneyards нужны онлайн-функции Open Annihilation: проверка обновлений, каталог контента и ID установки {registry}. Включить их и продолжить?;
+	}
+
+[The Boneyards needs by.ccx and the Boneyards folder.]
+	{
+	ru=Для Boneyards нужны файл by.ccx и папка Boneyards.;
+	}
+
+[The Boneyards needs {registry}'s install ID turned on. Turn it on and continue?]
+	{
+	ru=Для Boneyards нужно включить ID установки {registry}. Включить его и продолжить?;
+	}
+
+[The Boneyards plays Total Annihilation without mods. Switch {mod} off and enter the Boneyards?]
+	{
+	ru=В Boneyards играют в Total Annihilation без модов. Отключить {mod} и войти в Boneyards?;
+	}
+
+[Start Open Annihilation without the mod on its command line to enter the Boneyards.]
+	{
+	ru=Чтобы войти в Boneyards, запустите Open Annihilation без мода в командной строке.;
+	}
+
+[Open Annihilation {version} is out. The Boneyards needs the latest version.]
+	{
+	ru=Вышла версия Open Annihilation {version}. Для Boneyards нужна последняя версия.;
+	}
+
+[Open Annihilation could not check for updates.]
+	{
+	ru=Open Annihilation не удалось проверить обновления.;
+	}
+
+[Switch off and enter]
+	{
+	ru=Отключить и войти;
+	}
+
+[Switch on]
+	{
+	ru=Включить;
+	}
+
+[Switch {mod} back on?]
+	{
+	ru=Включить {mod} снова?;
+	}
+
+[Turn on]
+	{
+	ru=Включить;
+	}
+
+[Downloads are off for {registry}.]
+	{
+	ru=Скачивание для {registry} отключено.;
+	}
+
+// Drag to reorder, in the mutator picker.
+
+[Drag to reorder]
+	{
+	ru=Перетащите, чтобы изменить порядок;
+	}
+
+// The Library's delete question for a replay.
+
+[Delete this replay?]
+	{
+	ru=Удалить этот повтор?;
+	}
+
+[Delete these {count} replays?]
+	{
+	ru=Удалить повторы: {count}?;
+	}
+
+[It goes to the system's trash.]
+	{
+	ru=Он будет перемещён в корзину.;
+	}
+
+[They go to the system's trash.]
+	{
+	ru=Они будут перемещены в корзину.;
+	}
+
+[It is deleted and cannot be undone. This system has no trash.]
+	{
+	ru=Он будет удалён без возможности восстановления. В этой системе нет корзины.;
+	}
+
+[They are deleted and cannot be undone. This system has no trash.]
+	{
+	ru=Они будут удалены без возможности восстановления. В этой системе нет корзины.;
+	}
+
+[Delete replays]
+	{
+	ru=Удалить повторы;
+	}
+
+// Settings › Game Content: stray archives, and the Boneyards' refusals of game files that are not Total Annihilation's.
+
+[Remove…]
+	{
+	ru=Удалить…;
+	}
+
+[Repair…]
+	{
+	ru=Восстановить…;
+	}
+
+[Move to Trash]
+	{
+	ru=В корзину;
+	}
+
+[Move {file} to the trash?]
+	{
+	ru=Переместить {file} в корзину?;
+	}
+
+[Delete {file}? This system has no trash.]
+	{
+	ru=Удалить {file}? В этой системе нет корзины.;
+	}
+
+[{file} is not one of its files]
+	{
+	ru=Посторонний файл: {file};
+	}
+
+[{count} archives are not its files]
+	{
+	ru=Посторонних архивов: {count};
+	}
+
+[{file} in {folder}, {size} bytes, is not a file of {bundle}. The game does not read it.]
+	{
+	ru=Файл {file} в папке {folder} ({size} Б) не входит в состав {bundle}. Игра его не читает.;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files, so the Boneyards cannot be entered. Remove it to enter.]
+	{
+	ru=Файл {file} в папке {folder} не входит в состав Total Annihilation, поэтому войти в Boneyards нельзя. Чтобы войти, удалите его.;
+	}
+
+[{file} in {folder} does not match Total Annihilation's, so the Boneyards cannot be entered. Copy the game again from your own install or CD to enter.]
+	{
+	ru=Файл {file} в папке {folder} не совпадает с файлом Total Annihilation, поэтому войти в Boneyards нельзя. Чтобы войти, снова скопируйте игру со своей установки или с CD.;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	ru=Файл {file} в папке {folder} не входит в состав Total Annihilation. В Boneyards играют только в собственной копии игры Open Annihilation. Чтобы войти, скопируйте игру со своей установки или с CD.;
+	}
+
+[{file} in {folder} does not match Total Annihilation's. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	ru=Файл {file} в папке {folder} не совпадает с файлом Total Annihilation. В Boneyards играют только в собственной копии игры Open Annihilation. Чтобы войти, скопируйте игру со своей установки или с CD.;
+	}
+
+[{file} in {folder} is not Total Annihilation's own. The Boneyards launches and reports games only on Total Annihilation's own files. Leave the Boneyards and repair it in Settings › Game Content.]
+	{
+	ru=Файл {file} в папке {folder} не относится к Total Annihilation. Boneyards запускает игры и учитывает их только с файлами Total Annihilation. Выйдите из Boneyards и восстановите файлы в разделе Настройки › Контент игры.;
+	}
+
+// The battle room's lines when game files or units differ between machines.
+
+[*** Your game files differ from Total Annihilation's, so this battle cannot start. Leave it and repair them in Settings › Game Content.]
+	{
+	ru=*** Ваши файлы игры отличаются от файлов Total Annihilation, поэтому этот бой не может начаться. Выйдите из него и восстановите файлы в разделе Настройки › Контент игры.;
+	}
+
+[*** {player}'s game files differ from Total Annihilation's; they must repair them before this battle can start.]
+	{
+	ru=*** У игрока {player} файлы игры отличаются от файлов Total Annihilation. Пока их не восстановят, этот бой не начнётся.;
+	}
+
+[*** {units} differs on {player}'s machine and can't be built in this battle.]
+	{
+	ru=*** Отличается юнит: {units}. Компьютер: {player}. В этом бою его нельзя построить.;
+	}
+
+[*** {units} differ on {player}'s machine and can't be built in this battle.]
+	{
+	ru=*** Отличаются юниты: {units}. Компьютер: {player}. В этом бою их нельзя построить.;
+	}
+
+[*** {units} differs between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	ru=*** Отличается юнит: {units}. Компьютеры: {first} и {second}. В этом бою его нельзя построить.;
+	}
+
+[*** {units} differ between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	ru=*** Отличаются юниты: {units}. Компьютеры: {first} и {second}. В этом бою их нельзя построить.;
+	}
+
+[*** {units} differs between {count} players' machines and can't be built in this battle.]
+	{
+	ru=*** Отличается юнит: {units}. Компьютеров: {count}. В этом бою его нельзя построить.;
+	}
+
+[*** {units} differ between {count} players' machines and can't be built in this battle.]
+	{
+	ru=*** Отличаются юниты: {units}. Компьютеров: {count}. В этом бою их нельзя построить.;
+	}
+
+[a player who left]
+	{
+	ru=игрок, который вышел;
+	}
+
+[1 other unit]
+	{
+	ru=ещё 1 юнит;
+	}
+
+[{count} other units]
+	{
+	ru=ещё юнитов: {count};
+	}
+
+[{list} and {last}]
+	{
+	ru={list} и {last};
+	}
+
+[*** Press START again to start anyway. Those units stay unavailable in this battle.]
+	{
+	ru=*** Чтобы всё равно начать бой, нажмите «Начать» ещё раз. Эти юниты в этом бою останутся недоступными.;
 	}
 
