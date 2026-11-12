@@ -11298,11 +11298,6 @@
 	ja=メガマップを閉じる;
 	}
 
-[Closes the megamap and centres on the pointer]
-	{
-	ja=メガマップを閉じ、ポインターの位置を中央に表示します。;
-	}
-
 [Jumps the view to a point of the megamap]
 	{
 	ja=視点をメガマップの地点へ移動します。;
@@ -16058,5 +16053,3016 @@
 [Open the download page]
 	{
 	ja=ダウンロードページを開く;
+	}
+
+// The Library's Replays tab: filters, kinds, sorting and days.
+
+[Replays]
+	{
+	ja=リプレイ;
+	}
+
+[This month]
+	{
+	ja=今月;
+	}
+
+[Older]
+	{
+	ja=それ以前;
+	}
+
+[Kept]
+	{
+	ja=保持済み;
+	}
+
+[Imported]
+	{
+	ja=インポート済み;
+	}
+
+[All kinds]
+	{
+	ja=すべての種類;
+	}
+
+[Newest first]
+	{
+	ja=新しい順;
+	}
+
+[Longest first]
+	{
+	ja=長い順;
+	}
+
+[By map]
+	{
+	ja=マップ別;
+	}
+
+[Most players first]
+	{
+	ja=プレイヤー数の多い順;
+	}
+
+[Search replays]
+	{
+	ja=リプレイを検索;
+	}
+
+[Today]
+	{
+	ja=今日;
+	}
+
+[Yesterday]
+	{
+	ja=昨日;
+	}
+
+[{weekday} {day} {month}]
+	{
+	ja={month}{day}日（{weekday}）;
+	}
+
+[{weekday} {day} {month} {year}]
+	{
+	ja={year}年{month}{day}日（{weekday}）;
+	}
+
+[Mon]
+	{
+	ja=月;
+	}
+
+[Tue]
+	{
+	ja=火;
+	}
+
+[Wed]
+	{
+	ja=水;
+	}
+
+[Thu]
+	{
+	ja=木;
+	}
+
+[Fri]
+	{
+	ja=金;
+	}
+
+[Sat]
+	{
+	ja=土;
+	}
+
+[Sun]
+	{
+	ja=日;
+	}
+
+[Jan]
+	{
+	ja=1月;
+	}
+
+[Feb]
+	{
+	ja=2月;
+	}
+
+[Mar]
+	{
+	ja=3月;
+	}
+
+[Apr]
+	{
+	ja=4月;
+	}
+
+[May]
+	{
+	ja=5月;
+	}
+
+[Jun]
+	{
+	ja=6月;
+	}
+
+[Jul]
+	{
+	ja=7月;
+	}
+
+[Aug]
+	{
+	ja=8月;
+	}
+
+[Sep]
+	{
+	ja=9月;
+	}
+
+[Oct]
+	{
+	ja=10月;
+	}
+
+[Nov]
+	{
+	ja=11月;
+	}
+
+[Dec]
+	{
+	ja=12月;
+	}
+
+// The Replays tab's rows and the replay card.
+
+[{left} vs {right}]
+	{
+	ja={left} vs {right};
+	}
+
+[{kind} · {planet}]
+	{
+	ja={kind} · {planet};
+	}
+
+[{kind} · {planet}, {sector}]
+	{
+	ja={kind} · {planet}、{sector};
+	}
+
+[After a crash]
+	{
+	ja=クラッシュ後;
+	}
+
+[Reading…]
+	{
+	ja=読み込み中…;
+	}
+
+[Won]
+	{
+	ja=勝利;
+	}
+
+[Lost]
+	{
+	ja=敗北;
+	}
+
+[1 kill]
+	{
+	ja=1撃破;
+	}
+
+[{kills} kills]
+	{
+	ja={kills}撃破;
+	}
+
+[1 loss]
+	{
+	ja=1損失;
+	}
+
+[{losses} losses]
+	{
+	ja={losses}損失;
+	}
+
+[Watched to {time}]
+	{
+	ja={time}まで観戦済み;
+	}
+
+[Damaged]
+	{
+	ja=破損;
+	}
+
+[Length]
+	{
+	ja=長さ;
+	}
+
+[Recorded]
+	{
+	ja=録画日時;
+	}
+
+[File]
+	{
+	ja=ファイル;
+	}
+
+[Kept until]
+	{
+	ja=保持期限;
+	}
+
+[Until you delete it]
+	{
+	ja=削除するまで;
+	}
+
+[Imported replays are kept]
+	{
+	ja=インポートしたリプレイは保持されます;
+	}
+
+[Downloaded replays are kept]
+	{
+	ja=ダウンロードしたリプレイは保持されます;
+	}
+
+[Exported replays are kept]
+	{
+	ja=エクスポートしたリプレイは保持されます;
+	}
+
+[{mod} (rev {revision})]
+	{
+	ja={mod}（Rev.{revision}）;
+	}
+
+[Arm]
+	{
+	ja=ARM;
+	}
+
+[Core]
+	{
+	ja=CORE;
+	}
+
+[Watcher]
+	{
+	ja=観戦者;
+	}
+
+[Watch]
+	{
+	ja=観戦;
+	}
+
+[Watch from {time}]
+	{
+	ja={time}から観戦;
+	}
+
+[Turn on recording]
+	{
+	ja=録画をオンにする;
+	}
+
+[Open a replay file…]
+	{
+	ja=リプレイファイルを開く…;
+	}
+
+[Delete replay]
+	{
+	ja=リプレイを削除;
+	}
+
+[{count} replays selected]
+	{
+	ja={count}件のリプレイを選択中;
+	}
+
+[This replay cannot be watched.]
+	{
+	ja=このリプレイは観戦できません。;
+	}
+
+[This replay could not be moved to the trash.]
+	{
+	ja=このリプレイをごみ箱に移動できませんでした。;
+	}
+
+[{count} replays could not be moved to the trash.]
+	{
+	ja={count}件のリプレイをごみ箱に移動できませんでした。;
+	}
+
+// The Replays tab when it is empty or reading, and its footer.
+
+[No replays yet.]
+	{
+	ja=まだリプレイがありません。;
+	}
+
+[No replays from this month.]
+	{
+	ja=今月のリプレイはありません。;
+	}
+
+[No older replays.]
+	{
+	ja=以前のリプレイはありません。;
+	}
+
+[No replays kept.]
+	{
+	ja=保持したリプレイはありません。;
+	}
+
+[No replays imported.]
+	{
+	ja=インポートしたリプレイはありません。;
+	}
+
+[No replays of this kind.]
+	{
+	ja=この種類のリプレイはありません。;
+	}
+
+[Recording is off.]
+	{
+	ja=録画はオフです。;
+	}
+
+[Reading the replays…]
+	{
+	ja=リプレイを読み込み中…;
+	}
+
+[Reading {read} of {total} replays]
+	{
+	ja={total}件中{read}件のリプレイを読み込み中;
+	}
+
+[1 replay · {size}]
+	{
+	ja=リプレイ1件 · {size};
+	}
+
+[{count} replays · {size}]
+	{
+	ja=リプレイ{count}件 · {size};
+	}
+
+[Games you play are kept here for 30 days.]
+	{
+	ja=プレイしたゲームは、30日間ここに保持されます。;
+	}
+
+[Games you play are kept here for 90 days.]
+	{
+	ja=プレイしたゲームは、90日間ここに保持されます。;
+	}
+
+[Games you play are kept here for a year.]
+	{
+	ja=プレイしたゲームは、1年間ここに保持されます。;
+	}
+
+[Games you play are kept here until you delete them.]
+	{
+	ja=プレイしたゲームは、削除するまでここに保持されます。;
+	}
+
+[Replays you keep in the Library stay until you delete them.]
+	{
+	ja=ライブラリで残したリプレイは、削除するまで保持されます。;
+	}
+
+// The question the first time old replays would go.
+
+[Old replays]
+	{
+	ja=古いリプレイ;
+	}
+
+[Keep them all]
+	{
+	ja=すべて残す;
+	}
+
+[Let them go]
+	{
+	ja=削除する;
+	}
+
+[1 replay is older than you asked to keep. It goes to the system's trash.]
+	{
+	ja=1件のリプレイが、指定した保持期間より古くなっています。システムのごみ箱に移動します。;
+	}
+
+[{count} replays are older than you asked to keep. They go to the system's trash.]
+	{
+	ja={count}件のリプレイが、指定した保持期間より古くなっています。システムのごみ箱に移動します。;
+	}
+
+[1 replay is older than you asked to keep. It is deleted. This system has no trash.]
+	{
+	ja=1件のリプレイが、指定した保持期間より古くなっています。削除されます。このシステムにはごみ箱がありません。;
+	}
+
+[{count} replays are older than you asked to keep. They are deleted. This system has no trash.]
+	{
+	ja={count}件のリプレイが、指定した保持期間より古くなっています。削除されます。このシステムにはごみ箱がありません。;
+	}
+
+// What a replay needs, and how the card gets it.
+
+[Needs {name} {version}]
+	{
+	ja={name} {version}が必要;
+	}
+
+[Needs map]
+	{
+	ja=マップが必要;
+	}
+
+[Needs mutator]
+	{
+	ja=ミューテータが必要;
+	}
+
+[Needs {name}.]
+	{
+	ja={name}が必要です。;
+	}
+
+[Needs {version}]
+	{
+	ja={version}が必要;
+	}
+
+[This replay was recorded with {name}.]
+	{
+	ja=このリプレイは{name}で録画されました。;
+	}
+
+[This replay was recorded with {name} {version}.]
+	{
+	ja=このリプレイは{name} {version}で録画されました。;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}).]
+	{
+	ja=このリプレイは{name} {version}（Rev.{revision}）で録画されました。;
+	}
+
+[This replay was recorded with {name}. You have {have}.]
+	{
+	ja=このリプレイは{name}で録画されました。現在は{have}です。;
+	}
+
+[This replay was recorded with {name} {version}. You have {have}.]
+	{
+	ja=このリプレイは{name} {version}で録画されました。現在は{have}です。;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}). You have {have}.]
+	{
+	ja=このリプレイは{name} {version}（Rev.{revision}）で録画されました。現在は{have}です。;
+	}
+
+[Needs the map {name}.]
+	{
+	ja=マップ{name}が必要です。;
+	}
+
+[From the map pack {pack}.]
+	{
+	ja=マップパック{pack}に含まれています。;
+	}
+
+[This replay was recorded with another release of the map pack {name}.]
+	{
+	ja=このリプレイは、マップパック{name}の別のリリースで録画されました。;
+	}
+
+[Needs the mutator {name}.]
+	{
+	ja=ミューテータ{name}が必要です。;
+	}
+
+[Needs Open Annihilation {version}.]
+	{
+	ja=Open Annihilation {version}が必要です。;
+	}
+
+[Getting {name}… {percent}%]
+	{
+	ja={name}を取得中… {percent}%;
+	}
+
+[Get {name} {version} and watch]
+	{
+	ja={name} {version}を入手して観戦;
+	}
+
+[Get it and watch]
+	{
+	ja=入手して観戦;
+	}
+
+[Get them and watch]
+	{
+	ja=すべて入手して観戦;
+	}
+
+[Turn on and watch]
+	{
+	ja=オンにして観戦;
+	}
+
+[{name} {version} is not in {registry}'s catalogue.]
+	{
+	ja={name} {version}は{registry}のカタログにありません。;
+	}
+
+[{name} is not in {registry}'s catalogue.]
+	{
+	ja={name}は{registry}のカタログにありません。;
+	}
+
+[You're offline.]
+	{
+	ja=オフラインです。;
+	}
+
+[Get {name} {version} when you're back online.]
+	{
+	ja=オンラインに戻ったら、{name} {version}を入手してください。;
+	}
+
+[Get {name} when you're back online.]
+	{
+	ja=オンラインに戻ったら、{name}を入手してください。;
+	}
+
+// The Replays tab's Core Prime source.
+
+[On this computer]
+	{
+	ja=このコンピューター;
+	}
+
+[On Core Prime]
+	{
+	ja=Core Prime上;
+	}
+
+[Longest]
+	{
+	ja=最長;
+	}
+
+[Popular]
+	{
+	ja=人気;
+	}
+
+[By planet]
+	{
+	ja=惑星別;
+	}
+
+[My battles]
+	{
+	ja=自分の対戦;
+	}
+
+[Browse Core Prime's replays]
+	{
+	ja=Core Primeのリプレイを見る;
+	}
+
+[Reading Core Prime's replays…]
+	{
+	ja=Core Primeのリプレイを読み込み中…;
+	}
+
+[Core Prime's list cannot be read.]
+	{
+	ja=Core Primeの一覧を読み取れません。;
+	}
+
+[Core Prime's replays are not available just now.]
+	{
+	ja=Core Primeのリプレイは現在利用できません。;
+	}
+
+[Core Prime cannot be reached.]
+	{
+	ja=Core Primeに接続できません。;
+	}
+
+[Core Prime has no replays to show.]
+	{
+	ja=Core Primeに表示できるリプレイがありません。;
+	}
+
+[No replays for this planet.]
+	{
+	ja=この惑星のリプレイはありません。;
+	}
+
+[1 replay]
+	{
+	ja=リプレイ1件;
+	}
+
+[{count} replays]
+	{
+	ja=リプレイ{count}件;
+	}
+
+[Getting the replay…]
+	{
+	ja=リプレイを取得中…;
+	}
+
+[The file does not match the replay.]
+	{
+	ja=ファイルがリプレイと一致しません。;
+	}
+
+[The replay names no file.]
+	{
+	ja=このリプレイにはファイルが指定されていません。;
+	}
+
+[The replay could not be saved.]
+	{
+	ja=リプレイを保存できませんでした。;
+	}
+
+[Try again in {seconds} s.]
+	{
+	ja={seconds}秒後にもう一度試してください。;
+	}
+
+[The check ran out. Try again for a new code.]
+	{
+	ja=確認の有効期限が切れました。もう一度試すと新しいコードが出ます。;
+	}
+
+[Go to {address} and enter {code}.]
+	{
+	ja={address}にアクセスして、{code}を入力してください。;
+	}
+
+// The Replays tab's Export dialog.
+
+[Export…]
+	{
+	ja=エクスポート…;
+	}
+
+[Export]
+	{
+	ja=エクスポート;
+	}
+
+[Export {name}]
+	{
+	ja={name}をエクスポート;
+	}
+
+[Export {count} replays]
+	{
+	ja={count}件のリプレイをエクスポート;
+	}
+
+[Open Annihilation replay (.oademo)]
+	{
+	ja=Open Annihilationリプレイ（.oademo）;
+	}
+
+[Everything needed to watch it: the recording, and the game, mod and map it needs]
+	{
+	ja=観戦に必要なものすべて：録画と、必要なゲーム、MOD、マップ;
+	}
+
+[TA Demo Recorder (.tad)]
+	{
+	ja=TA Demo Recorder（.tad）;
+	}
+
+[For TA Demo Recorder and other replayers]
+	{
+	ja=TA Demo Recorderなどのリプレイ再生ソフト用;
+	}
+
+[What to include]
+	{
+	ja=含める内容;
+	}
+
+[What only Open Annihilation reads]
+	{
+	ja=Open Annihilationだけが読み取る情報;
+	}
+
+[Compatibility]
+	{
+	ja=互換性;
+	}
+
+[It was played with the mutator {name}. Other replayers cannot apply it, so commanders may not last as they did.]
+	{
+	ja=ミューテータ{name}を使ってプレイされました。ほかのリプレイ再生ソフトでは適用できないため、コマンダーの生存時間が元と異なる場合があります。;
+	}
+
+[It was played with mutators. Other replayers cannot apply them, so commanders may not last as they did.]
+	{
+	ja=ミューテータを使ってプレイされました。ほかのリプレイ再生ソフトでは適用できないため、コマンダーの生存時間が元と異なる場合があります。;
+	}
+
+[Other replayers stop at the first of this mod's wide weapon records.]
+	{
+	ja=ほかのリプレイ再生ソフトは、このMODの最初のワイド武器レコードで停止します。;
+	}
+
+[Names longer than 63 letters are cut.]
+	{
+	ja=63文字を超える名前は切り詰められます。;
+	}
+
+[A player's status is cut to 512 bytes.]
+	{
+	ja=プレイヤーの状態は512バイトに切り詰められます。;
+	}
+
+[Exporting {done} of {total}]
+	{
+	ja={total}件中{done}件をエクスポート中;
+	}
+
+[Compressing the recording]
+	{
+	ja=録画を圧縮中;
+	}
+
+[Writing {name}]
+	{
+	ja={name}を書き込み中;
+	}
+
+[Measuring…]
+	{
+	ja=計測中…;
+	}
+
+[Saved to {folder}]
+	{
+	ja={folder}に保存しました;
+	}
+
+[Show in folder]
+	{
+	ja=フォルダーで表示;
+	}
+
+[Nothing is selected. Choose a replay, then export it.]
+	{
+	ja=何も選択されていません。リプレイを選んでからエクスポートしてください。;
+	}
+
+[The export could not be written.]
+	{
+	ja=エクスポートを書き込めませんでした。;
+	}
+
+[There is no room in {folder}.]
+	{
+	ja={folder}に空き容量がありません。;
+	}
+
+[Open Annihilation cannot write to {folder}.]
+	{
+	ja=Open Annihilationは{folder}に書き込めません。;
+	}
+
+[Saved {done} of {total}.]
+	{
+	ja={total}件中{done}件を保存しました。;
+	}
+
+[This replay cannot be read, so it cannot be exported.]
+	{
+	ja=このリプレイは読み取れないため、エクスポートできません。;
+	}
+
+[More folders]
+	{
+	ja=次のフォルダー;
+	}
+
+[Previous folders]
+	{
+	ja=前のフォルダー;
+	}
+
+[More warnings]
+	{
+	ja=次の警告;
+	}
+
+[Previous warnings]
+	{
+	ja=前の警告;
+	}
+
+// Signing in to Core Prime and sharing a replay.
+
+[Sign in]
+	{
+	ja=サインイン;
+	}
+
+[Sign out]
+	{
+	ja=サインアウト;
+	}
+
+[Sign in to Core Prime]
+	{
+	ja=Core Primeにサインイン;
+	}
+
+[Handle]
+	{
+	ja=ハンドル名;
+	}
+
+[Password]
+	{
+	ja=パスワード;
+	}
+
+[Forgot it? Reset it at coreprime.net/forgot]
+	{
+	ja=忘れた場合のリセット先：coreprime.net/forgot;
+	}
+
+[Signing in needs a secure connection, which this system does not have.]
+	{
+	ja=サインインには安全な接続が必要ですが、このシステムでは利用できません。;
+	}
+
+[Signing in…]
+	{
+	ja=サインイン中…;
+	}
+
+[Share on Core Prime…]
+	{
+	ja=Core Primeで共有…;
+	}
+
+[Share on Core Prime]
+	{
+	ja=Core Primeで共有;
+	}
+
+[Share my own recording]
+	{
+	ja=自分の録画を共有;
+	}
+
+[Open on Core Prime]
+	{
+	ja=Core Primeで開く;
+	}
+
+[Share]
+	{
+	ja=共有;
+	}
+
+[Title]
+	{
+	ja=タイトル;
+	}
+
+[Public]
+	{
+	ja=公開;
+	}
+
+[Unlisted]
+	{
+	ja=限定公開;
+	}
+
+[Sharing…]
+	{
+	ja=共有中…;
+	}
+
+[Shared on Core Prime]
+	{
+	ja=Core Primeで共有しました;
+	}
+
+[Already on Core Prime]
+	{
+	ja=すでにCore Primeにあります;
+	}
+
+[Sign in to share a replay.]
+	{
+	ja=リプレイを共有するにはサインインしてください。;
+	}
+
+[This account cannot share replays.]
+	{
+	ja=このアカウントではリプレイを共有できません。;
+	}
+
+[This account has shared its replays for today.]
+	{
+	ja=このアカウントは、今日の共有の上限に達しました。;
+	}
+
+[Uploads are not available.]
+	{
+	ja=アップロードは利用できません。;
+	}
+
+[Only a player in that battle can replace its replay.]
+	{
+	ja=その対戦のプレイヤーだけが、そのリプレイを置き換えられます。;
+	}
+
+[The replay is larger than the limit.]
+	{
+	ja=リプレイが上限のサイズを超えています。;
+	}
+
+[Core Prime did not answer.]
+	{
+	ja=Core Primeから応答がありませんでした。;
+	}
+
+[Core Prime did not start a session.]
+	{
+	ja=Core Primeがセッションを開始しませんでした。;
+	}
+
+// Opening a replay or a TA Demo recording from a file.
+
+[Added {title} to Replays]
+	{
+	ja={title}をリプレイに追加しました;
+	}
+
+[A .oademo or a .tad file opens in this copy.]
+	{
+	ja=.oademoファイルや.tadファイルを、このOpen Annihilationで開きます。;
+	}
+
+[Open replay files with Open Annihilation]
+	{
+	ja=リプレイファイルをOpen Annihilationで開く;
+	}
+
+[This file cannot be read.]
+	{
+	ja=このファイルを読み取れません。;
+	}
+
+[This file is not a TA Demo recording]
+	{
+	ja=このファイルはTA Demoの録画ではありません;
+	}
+
+[This file is not a replay.]
+	{
+	ja=このファイルはリプレイではありません。;
+	}
+
+[This file is too large to be a replay.]
+	{
+	ja=このファイルはリプレイにしては大きすぎます。;
+	}
+
+[This recording cannot be read.]
+	{
+	ja=この録画を読み取れません。;
+	}
+
+[This recording is in version {version} of the format, which Open Annihilation does not play]
+	{
+	ja=この録画は形式のバージョン{version}で、Open Annihilationでは再生できません;
+	}
+
+[This replay could not be copied into Recordings.]
+	{
+	ja=このリプレイをRecordingsフォルダーにコピーできませんでした。;
+	}
+
+[This replay does not hold one recording.]
+	{
+	ja=このリプレイの録画は1つではありません。;
+	}
+
+[This replay is not a version this game reads.]
+	{
+	ja=このリプレイは、このゲームが読めるバージョンではありません。;
+	}
+
+[This replay's details cannot be read.]
+	{
+	ja=このリプレイの詳細を読み取れません。;
+	}
+
+[This replay's recording cannot be read.]
+	{
+	ja=このリプレイの録画を読み取れません。;
+	}
+
+[This replay's recording does not match.]
+	{
+	ja=このリプレイの録画が一致しません。;
+	}
+
+[This replay's recording is too long to play.]
+	{
+	ja=このリプレイの録画は長すぎて再生できません。;
+	}
+
+// The replay viewer: playback bar, views, markers and the end card.
+
+[2×]
+	{
+	ja=2×;
+	}
+
+[½×]
+	{
+	ja=½×;
+	}
+
+[{asked} · {reached} now]
+	{
+	ja={asked} · 現在{reached};
+	}
+
+[All players]
+	{
+	ja=全プレイヤー;
+	}
+
+[Back to the Library]
+	{
+	ja=ライブラリに戻る;
+	}
+
+[Catching up… {percent} %]
+	{
+	ja=追いつき中… {percent} %;
+	}
+
+[Defeated {time}]
+	{
+	ja={time}に敗北;
+	}
+
+[Left {time}]
+	{
+	ja={time}に退出;
+	}
+
+[Director]
+	{
+	ja=ディレクター;
+	}
+
+[Follow a unit]
+	{
+	ja=ユニットに追従;
+	}
+
+[Follow their camera]
+	{
+	ja=そのプレイヤーのカメラに追従;
+	}
+
+[Leave]
+	{
+	ja=退出;
+	}
+
+[Losses]
+	{
+	ja=損失;
+	}
+
+[No markers yet · finding them, {percent} %]
+	{
+	ja=まだマーカーがありません · 検出中（{percent} %）;
+	}
+
+[No result]
+	{
+	ja=結果なし;
+	}
+
+[Only a replay in the Library can be exported]
+	{
+	ja=ライブラリのリプレイだけエクスポートできます;
+	}
+
+[Photo]
+	{
+	ja=写真;
+	}
+
+[Replay paused]
+	{
+	ja=リプレイ一時停止中;
+	}
+
+[The recording is damaged after {time}]
+	{
+	ja=録画は{time}以降が破損しています;
+	}
+
+[Undecided]
+	{
+	ja=未決着;
+	}
+
+[Watch again]
+	{
+	ja=もう一度観戦;
+	}
+
+[{name} won]
+	{
+	ja={name}の勝利;
+	}
+
+[{time} · End]
+	{
+	ja={time} · 終了;
+	}
+
+[{time} · Paused]
+	{
+	ja={time} · 一時停止;
+	}
+
+[{time} · {name} allied]
+	{
+	ja={time} · {name}が同盟を結んだ;
+	}
+
+[{time} · {name} broke the alliance]
+	{
+	ja={time} · {name}が同盟を破棄した;
+	}
+
+[{time} · {name} dropped]
+	{
+	ja={time} · {name}の接続が切れた;
+	}
+
+[{time} · {name} left]
+	{
+	ja={time} · {name}が退出した;
+	}
+
+[{time} · {name} was defeated]
+	{
+	ja={time} · {name}が敗北した;
+	}
+
+[{time} · {name}'s commander destroyed]
+	{
+	ja={time} · {name}のコマンダーが撃破された;
+	}
+
+[{time} · {name}: {line}]
+	{
+	ja={time} · {name}：{line};
+	}
+
+[Jumping back isn't available in this replay.]
+	{
+	ja=このリプレイでは、前の時点へのジャンプはできません。;
+	}
+
+[Jumping back needs more memory than this device has.]
+	{
+	ja=前の時点へのジャンプには、このデバイスにあるより多くのメモリが必要です。;
+	}
+
+[This replay could not jump to {time} and has stopped.]
+	{
+	ja=このリプレイは{time}へジャンプできず、停止しました。;
+	}
+
+// Photo mode: its panel, camera, time and look, and the sizes.
+
+[Photo mode]
+	{
+	ja=フォトモード;
+	}
+
+[PHOTO MODE]
+	{
+	ja=フォトモード;
+	}
+
+[In photo mode]
+	{
+	ja=フォトモード中;
+	}
+
+[in photo mode]
+	{
+	ja=フォトモード中;
+	}
+
+[{key} or Esc leaves]
+	{
+	ja={key}かEscで退出;
+	}
+
+[Esc leaves]
+	{
+	ja=Escで退出;
+	}
+
+[{key} shows the panel]
+	{
+	ja={key}でパネルを表示;
+	}
+
+[Show panel]
+	{
+	ja=パネルを表示;
+	}
+
+[Hide panel]
+	{
+	ja=パネルを隠す;
+	}
+
+[Collapsed]
+	{
+	ja=折りたたみ済み;
+	}
+
+[Expanded]
+	{
+	ja=展開済み;
+	}
+
+[Time]
+	{
+	ja=時間;
+	}
+
+[Run]
+	{
+	ja=進行;
+	}
+
+[Slow]
+	{
+	ja=スロー;
+	}
+
+[Freeze]
+	{
+	ja=静止;
+	}
+
+[Frozen]
+	{
+	ja=静止中;
+	}
+
+[Live]
+	{
+	ja=ライブ;
+	}
+
+[Held]
+	{
+	ja=保持中;
+	}
+
+[Held picture]
+	{
+	ja=保持した画面;
+	}
+
+[Hold picture]
+	{
+	ja=画面を保持;
+	}
+
+[Freeze the picture]
+	{
+	ja=画面を静止してください;
+	}
+
+[Speed]
+	{
+	ja=速度;
+	}
+
+[Step]
+	{
+	ja=ステップ;
+	}
+
+[Between ticks]
+	{
+	ja=ティック間;
+	}
+
+[Clock]
+	{
+	ja=時計;
+	}
+
+[Shared game]
+	{
+	ja=共有ゲーム;
+	}
+
+[Turn]
+	{
+	ja=回転;
+	}
+
+[Tilt]
+	{
+	ja=傾き;
+	}
+
+[Follow unit]
+	{
+	ja=ユニットに追従;
+	}
+
+[Closest]
+	{
+	ja=最も近い;
+	}
+
+[Far]
+	{
+	ja=遠い;
+	}
+
+[Near]
+	{
+	ja=近い;
+	}
+
+[Dusk]
+	{
+	ja=夕暮れ;
+	}
+
+[Arctic]
+	{
+	ja=極地;
+	}
+
+[Noir]
+	{
+	ja=ノワール;
+	}
+
+[Bleach]
+	{
+	ja=ブリーチ;
+	}
+
+[Vignette]
+	{
+	ja=ビネット;
+	}
+
+[Roundness]
+	{
+	ja=丸み;
+	}
+
+[Grain]
+	{
+	ja=グレイン;
+	}
+
+[Grain size]
+	{
+	ja=グレインサイズ;
+	}
+
+[Frame]
+	{
+	ja=フレーム;
+	}
+
+[Thin border]
+	{
+	ja=細い枠;
+	}
+
+[Wide mat]
+	{
+	ja=広いマット;
+	}
+
+[Caption bar]
+	{
+	ja=キャプションバー;
+	}
+
+[Show selection]
+	{
+	ja=選択を表示;
+	}
+
+[Show health bars]
+	{
+	ja=体力バーを表示;
+	}
+
+[Guides]
+	{
+	ja=ガイド;
+	}
+
+[Thirds]
+	{
+	ja=三分割;
+	}
+
+[Centre lines]
+	{
+	ja=中心線;
+	}
+
+[Safe area]
+	{
+	ja=セーフエリア;
+	}
+
+[Depth]
+	{
+	ja=奥行き;
+	}
+
+[Band centre]
+	{
+	ja=帯の中心;
+	}
+
+[Band width]
+	{
+	ja=帯の幅;
+	}
+
+[Blur]
+	{
+	ja=ぼかし;
+	}
+
+[Blurs by screen row, not by depth.]
+	{
+	ja=奥行きではなく、画面の行ごとにぼかします。;
+	}
+
+[Haze]
+	{
+	ja=かすみ;
+	}
+
+[Follows the ground, not the units.]
+	{
+	ja=ユニットではなく、地面に従います。;
+	}
+
+[Depth of field]
+	{
+	ja=被写界深度;
+	}
+
+[Needs Full 3D Mode]
+	{
+	ja=フル3Dモードが必要;
+	}
+
+[This graphics card keeps no depth.]
+	{
+	ja=このグラフィックカードは深度を保持しません。;
+	}
+
+[Screen]
+	{
+	ja=画面;
+	}
+
+[3×]
+	{
+	ja=3×;
+	}
+
+[4×]
+	{
+	ja=4×;
+	}
+
+[Smooth edges]
+	{
+	ja=エッジのスムージング;
+	}
+
+[Off and Basic draw whole pixels]
+	{
+	ja=オフと基本は整数ピクセルで描画します;
+	}
+
+[A photo is at most {limit} pixels a side]
+	{
+	ja=写真は1辺が最大{limit}ピクセルです;
+	}
+
+[The 3D view draws at most {limit} pixels a side at this anti-aliasing]
+	{
+	ja=3Dビューは、このアンチエイリアスでは1辺が最大{limit}ピクセルまで描画します;
+	}
+
+[This graphics card draws at most {limit} pixels a side]
+	{
+	ja=このグラフィックカードが描画できるのは、1辺が最大{limit}ピクセルです;
+	}
+
+[The graphics card draws no farther out than this.]
+	{
+	ja=グラフィックカードが描画できる遠さは、ここまでです。;
+	}
+
+[Not enough memory]
+	{
+	ja=メモリ不足;
+	}
+
+[The preview lowers the frame rate.]
+	{
+	ja=プレビュー中はフレームレートが下がります。;
+	}
+
+[Preview]
+	{
+	ja=プレビュー;
+	}
+
+[Poster]
+	{
+	ja=ポスター;
+	}
+
+[Area]
+	{
+	ja=範囲;
+	}
+
+[The view]
+	{
+	ja=現在の表示;
+	}
+
+[A poster is the map from above: Classic view, {key}]
+	{
+	ja=ポスターは真上から見たマップです：クラシック表示（{key}）;
+	}
+
+[Copy to clipboard]
+	{
+	ja=クリップボードにコピー;
+	}
+
+[Player names]
+	{
+	ja=プレイヤー名;
+	}
+
+[Take photo]
+	{
+	ja=写真を撮る;
+	}
+
+[Photo not taken]
+	{
+	ja=写真は撮影されませんでした;
+	}
+
+[Photo not copied: {reason}]
+	{
+	ja=写真をコピーできませんでした：{reason};
+	}
+
+[Photo not saved: {reason}]
+	{
+	ja=写真を保存できませんでした：{reason};
+	}
+
+[Saved {name}]
+	{
+	ja={name}を保存しました;
+	}
+
+[a side is above 8192 pixels]
+	{
+	ja=1辺が8192ピクセルを超えています;
+	}
+
+[four photos are still being saved]
+	{
+	ja=4枚の写真がまだ保存中です;
+	}
+
+[not available in Game Mode]
+	{
+	ja=ゲームモードでは利用できません;
+	}
+
+[photo mode is not on]
+	{
+	ja=フォトモードがオンではありません;
+	}
+
+[the clipboard did not take the photo]
+	{
+	ja=クリップボードが写真を受け付けませんでした;
+	}
+
+[the clipboard holds text only]
+	{
+	ja=クリップボードにはテキストしか入れられません;
+	}
+
+[the file could not be written]
+	{
+	ja=ファイルを書き込めませんでした;
+	}
+
+[the graphics device was lost]
+	{
+	ja=グラフィックデバイスが失われました;
+	}
+
+[the photo is above 128 MB]
+	{
+	ja=写真が128 MBを超えています;
+	}
+
+[the picture could not be drawn]
+	{
+	ja=画像を描画できませんでした;
+	}
+
+[the picture could not be read]
+	{
+	ja=画像を読み取れませんでした;
+	}
+
+// The key editor and keys overlay: photo-mode and replay keys.
+
+[Keys in photo mode]
+	{
+	ja=フォトモード中のキー;
+	}
+
+[Opens photo mode]
+	{
+	ja=フォトモードを開きます。;
+	}
+
+[Writes a photo of the battlefield]
+	{
+	ja=戦場の写真を書き出します。;
+	}
+
+[Copy last photo]
+	{
+	ja=直前の写真をコピー;
+	}
+
+[Offers the last photo to the clipboard]
+	{
+	ja=直前の写真をクリップボードに渡します。;
+	}
+
+[Freeze / Hold picture]
+	{
+	ja=静止 / 画面を保持;
+	}
+
+[Holds the clock, or keeps this screen's last frame in a shared match]
+	{
+	ja=時計を止めます。共有ゲームでは、この画面の最後のフレームを保持します。;
+	}
+
+[Cycles the guides over the battlefield]
+	{
+	ja=戦場に重ねるガイドを切り替えます。;
+	}
+
+[Leaves photo mode]
+	{
+	ja=フォトモードから退出します。;
+	}
+
+[Mark area]
+	{
+	ja=範囲を指定;
+	}
+
+[Starts a poster mark at the view's centre]
+	{
+	ja=画面の中央から、ポスターの範囲指定を始めます。;
+	}
+
+[Grow the mark down]
+	{
+	ja=範囲指定を下へ広げる;
+	}
+
+[Grow the mark left]
+	{
+	ja=範囲指定を左へ広げる;
+	}
+
+[Grow the mark right]
+	{
+	ja=範囲指定を右へ広げる;
+	}
+
+[Grow the mark up]
+	{
+	ja=範囲指定を上へ広げる;
+	}
+
+[Grows the marked area down]
+	{
+	ja=指定した範囲を下へ広げます。;
+	}
+
+[Grows the marked area to the left]
+	{
+	ja=指定した範囲を左へ広げます。;
+	}
+
+[Grows the marked area to the right]
+	{
+	ja=指定した範囲を右へ広げます。;
+	}
+
+[Grows the marked area up]
+	{
+	ja=指定した範囲を上へ広げます。;
+	}
+
+[Hides and shows the photo panel]
+	{
+	ja=フォトパネルの表示と非表示を切り替えます。;
+	}
+
+[Back 10 seconds]
+	{
+	ja=10秒戻る;
+	}
+
+[Back a minute]
+	{
+	ja=1分戻る;
+	}
+
+[Forward 10 seconds]
+	{
+	ja=10秒進む;
+	}
+
+[Forward a minute]
+	{
+	ja=1分進む;
+	}
+
+[Jumps back ten seconds]
+	{
+	ja=10秒前へジャンプします。;
+	}
+
+[Jumps back a minute]
+	{
+	ja=1分前へジャンプします。;
+	}
+
+[Jumps forward ten seconds]
+	{
+	ja=10秒先へジャンプします。;
+	}
+
+[Jumps forward a minute]
+	{
+	ja=1分先へジャンプします。;
+	}
+
+[Shutter back]
+	{
+	ja=シャッターを戻す;
+	}
+
+[Moves the shutter one eighth toward the previous tick]
+	{
+	ja=シャッターを前のティックへ向けて、8分の1だけ動かします。;
+	}
+
+[Shutter on]
+	{
+	ja=シャッターを進める;
+	}
+
+[Moves the shutter one eighth toward the frozen tick]
+	{
+	ja=シャッターを静止したティックへ向けて、8分の1だけ動かします。;
+	}
+
+[Step a tick]
+	{
+	ja=1ティック進める;
+	}
+
+[Advances one tick, then freezes]
+	{
+	ja=1ティック進めてから静止します。;
+	}
+
+[Step back]
+	{
+	ja=1ティック戻す;
+	}
+
+[Goes back one tick, then freezes]
+	{
+	ja=1ティック戻してから静止します。;
+	}
+
+[Tilt down]
+	{
+	ja=下へ傾ける;
+	}
+
+[Tilt up]
+	{
+	ja=上へ傾ける;
+	}
+
+[Tilts the camera down]
+	{
+	ja=カメラを下へ傾けます。;
+	}
+
+[Tilts the camera up]
+	{
+	ja=カメラを上へ傾けます。;
+	}
+
+[Turn left]
+	{
+	ja=左へ回転;
+	}
+
+[Turn right]
+	{
+	ja=右へ回転;
+	}
+
+[Turns the camera left]
+	{
+	ja=カメラを左へ回転します。;
+	}
+
+[Turns the camera right]
+	{
+	ja=カメラを右へ回転します。;
+	}
+
+[Zooms in on the photo]
+	{
+	ja=写真のビューをズームインします。;
+	}
+
+[Zooms out on the photo]
+	{
+	ja=写真のビューをズームアウトします。;
+	}
+
+[Closes the megamap and zooms in at the pointer]
+	{
+	ja=メガマップを閉じ、ポインターの位置にズームインします。;
+	}
+
+[Focus the panel's buttons]
+	{
+	ja=パネルのボタンにフォーカス;
+	}
+
+[Moves a ring over the order buttons and the build page. Press again to return to the battlefield.]
+	{
+	ja=命令ボタンと建設ページの上でフォーカスリングを動かします。もう一度押すと戦場に戻ります。;
+	}
+
+[Camera mode]
+	{
+	ja=カメラモード;
+	}
+
+[Changes how the camera follows the game]
+	{
+	ja=カメラがゲームを追う方法を切り替えます。;
+	}
+
+[Next player's view]
+	{
+	ja=次のプレイヤーの視点;
+	}
+
+[Shows the next player's view]
+	{
+	ja=次のプレイヤーの視点を表示します。;
+	}
+
+[Previous player's view]
+	{
+	ja=前のプレイヤーの視点;
+	}
+
+[Shows the previous player's view]
+	{
+	ja=前のプレイヤーの視点を表示します。;
+	}
+
+[Pin the bar]
+	{
+	ja=バーを固定;
+	}
+
+[Keeps the playback bar on screen]
+	{
+	ja=再生バーを画面に表示し続けます。;
+	}
+
+[Go to the end]
+	{
+	ja=最後へ移動;
+	}
+
+[Jumps to the end of the replay]
+	{
+	ja=リプレイの最後へジャンプします。;
+	}
+
+[Go to the start]
+	{
+	ja=最初へ移動;
+	}
+
+[Jumps to the start of the replay]
+	{
+	ja=リプレイの最初へジャンプします。;
+	}
+
+[Shortcut card]
+	{
+	ja=ショートカットカード;
+	}
+
+[Shows the playback keys]
+	{
+	ja=再生用のキーを表示します。;
+	}
+
+[Next marker]
+	{
+	ja=次のマーカー;
+	}
+
+[Jumps to the next marker]
+	{
+	ja=次のマーカーへジャンプします。;
+	}
+
+[Previous marker]
+	{
+	ja=前のマーカー;
+	}
+
+[Jumps to the previous marker]
+	{
+	ja=前のマーカーへジャンプします。;
+	}
+
+[Play or pause]
+	{
+	ja=再生または一時停止;
+	}
+
+[Plays or pauses the replay]
+	{
+	ja=リプレイを再生または一時停止します。;
+	}
+
+[All players' view]
+	{
+	ja=全プレイヤーの視点;
+	}
+
+[Shows the whole map and every unit]
+	{
+	ja=マップ全体とすべてのユニットを表示します。;
+	}
+
+// Settings › Replays and Settings › Accessibility.
+
+[REPLAYS]
+	{
+	ja=リプレイ;
+	}
+
+[Record my games]
+	{
+	ja=自分のゲームを録画;
+	}
+
+[Campaign missions, skirmish, multiplayer and Boneyards battles. Applies from the next game.]
+	{
+	ja=キャンペーンのミッション、スカーミッシュ、マルチプレイ、Boneyardsの対戦が対象です。次のゲームから有効になります。;
+	}
+
+[Keep replays for]
+	{
+	ja=リプレイの保持期間;
+	}
+
+[30 days]
+	{
+	ja=30日間;
+	}
+
+[90 days]
+	{
+	ja=90日間;
+	}
+
+[A year]
+	{
+	ja=1年間;
+	}
+
+[Forever]
+	{
+	ja=無期限;
+	}
+
+[Colour vision]
+	{
+	ja=色覚;
+	}
+
+[Protanopia]
+	{
+	ja=P型（1型2色覚）;
+	}
+
+[Deuteranopia]
+	{
+	ja=D型（2型2色覚）;
+	}
+
+[Tritanopia]
+	{
+	ja=T型（3型2色覚）;
+	}
+
+[Achromatopsia]
+	{
+	ja=全色盲;
+	}
+
+[Achromatopsia keeps shape cues on]
+	{
+	ja=全色盲では形状の手がかりを常にオンにします;
+	}
+
+[Changes team colours, the minimap, bars, the war map and status colours on this machine only.]
+	{
+	ja=このマシンだけで、チームカラー、ミニマップ、バー、戦況マップ、状態の色を変更します。;
+	}
+
+[Shape cues]
+	{
+	ja=形状の手がかり;
+	}
+
+[Player markers, side symbols, notched bars and a mark on every status.]
+	{
+	ja=プレイヤーのマーカー、陣営の記号、切り込み付きのバー、すべての状態に付くマークを表示します。;
+	}
+
+[The ten player colours, then OK, caution, danger and information.]
+	{
+	ja=10色のプレイヤーカラー、続いてOK、注意、危険、情報の色です。;
+	}
+
+[Screen reader]
+	{
+	ja=スクリーンリーダー;
+	}
+
+[Automatic works with a screen reader while the system says one is running. On also works with one the system does not report. Off never does.]
+	{
+	ja=「自動」は、システムがスクリーンリーダーの実行を報告している間だけ対応します。「オン」は、システムが報告しないスクリーンリーダーにも対応します。「オフ」は対応しません。;
+	}
+
+[Nothing on this system can speak.]
+	{
+	ja=このシステムには、読み上げできるものがありません。;
+	}
+
+[Speak chat]
+	{
+	ja=チャットを読み上げ;
+	}
+
+[Chat lines and whispers, pages only, or neither.]
+	{
+	ja=チャット行とささやきを読み上げるか、呼び出しだけにするか、どちらも読み上げません。;
+	}
+
+[Pages only]
+	{
+	ja=呼び出しのみ;
+	}
+
+[Speak lobby changes]
+	{
+	ja=ロビーの変更を読み上げ;
+	}
+
+[A player joining or leaving the battle room, and a change of ready, side, colour, team, map or option.]
+	{
+	ja=対戦ルームへのプレイヤーの参加と退出、準備、陣営、色、チーム、マップ、オプションの変更を読み上げます。;
+	}
+
+[Speak the ticker]
+	{
+	ja=ティッカーを読み上げ;
+	}
+
+[The ticker repeats, so it stays quiet until this is on.]
+	{
+	ja=ティッカーは繰り返されるため、これをオンにするまで読み上げません。;
+	}
+
+[Always show focus]
+	{
+	ja=常にフォーカスを表示;
+	}
+
+[The focus ring is drawn on the first item when a screen opens.]
+	{
+	ja=画面を開いたとき、最初の項目にフォーカスリングを表示します。;
+	}
+
+// What the screen reader says: roles, updates and control names.
+
+[alert]
+	{
+	ja=警告;
+	}
+
+[button]
+	{
+	ja=ボタン;
+	}
+
+[check box]
+	{
+	ja=チェックボックス;
+	}
+
+[dialog]
+	{
+	ja=ダイアログ;
+	}
+
+[group]
+	{
+	ja=グループ;
+	}
+
+[image]
+	{
+	ja=画像;
+	}
+
+[link]
+	{
+	ja=リンク;
+	}
+
+[list]
+	{
+	ja=リスト;
+	}
+
+[list item]
+	{
+	ja=リスト項目;
+	}
+
+[log]
+	{
+	ja=ログ;
+	}
+
+[password]
+	{
+	ja=パスワード;
+	}
+
+[radio button]
+	{
+	ja=ラジオボタン;
+	}
+
+[radio group]
+	{
+	ja=ラジオボタングループ;
+	}
+
+[search field]
+	{
+	ja=検索欄;
+	}
+
+[slider]
+	{
+	ja=スライダー;
+	}
+
+[switch]
+	{
+	ja=スイッチ;
+	}
+
+[tab]
+	{
+	ja=タブ;
+	}
+
+[tab list]
+	{
+	ja=タブリスト;
+	}
+
+[text]
+	{
+	ja=テキスト;
+	}
+
+[text field]
+	{
+	ja=テキスト欄;
+	}
+
+[tree]
+	{
+	ja=ツリー;
+	}
+
+[tree item]
+	{
+	ja=ツリー項目;
+	}
+
+[window]
+	{
+	ja=ウィンドウ;
+	}
+
+[chat lines]
+	{
+	ja=チャット行;
+	}
+
+[battle room]
+	{
+	ja=対戦ルーム;
+	}
+
+[match]
+	{
+	ja=対戦;
+	}
+
+[An option changed]
+	{
+	ja=オプションが変更されました;
+	}
+
+[Commander under attack]
+	{
+	ja=コマンダーが攻撃を受けている;
+	}
+
+[The countdown has started]
+	{
+	ja=カウントダウンが始まりました;
+	}
+
+[The host has left]
+	{
+	ja=ホストが退出しました;
+	}
+
+[The map is {name}]
+	{
+	ja=マップは{name}です;
+	}
+
+[Whisper from {name}: {text}]
+	{
+	ja={name}からのささやき：{text};
+	}
+
+[{colour}, player {number}]
+	{
+	ja={colour}、プレイヤー{number};
+	}
+
+[{count} new lines in {room}]
+	{
+	ja={room}に新しい行が{count}件;
+	}
+
+[{name} changed colour to {colour}]
+	{
+	ja={name}が色を{colour}に変更しました;
+	}
+
+[{name} changed side to {side}]
+	{
+	ja={name}が陣営を{side}に変更しました;
+	}
+
+[{name} changed team to {team}]
+	{
+	ja={name}がチームを{team}に変更しました;
+	}
+
+[{name} is not ready]
+	{
+	ja={name}は準備未完了です;
+	}
+
+[{name} is ready]
+	{
+	ja={name}は準備完了です;
+	}
+
+[{name} joined]
+	{
+	ja={name}が参加しました;
+	}
+
+[{name} left]
+	{
+	ja={name}が退出しました;
+	}
+
+[Alliance]
+	{
+	ja=同盟;
+	}
+
+[Anti-aliasing]
+	{
+	ja=アンチエイリアス;
+	}
+
+[CD music]
+	{
+	ja=CD音楽;
+	}
+
+[Campaigns]
+	{
+	ja=キャンペーン;
+	}
+
+[Cheat Codes]
+	{
+	ja=チートコード;
+	}
+
+[Closed]
+	{
+	ja=締切;
+	}
+
+[Opened]
+	{
+	ja=開放;
+	}
+
+[Colour]
+	{
+	ja=色;
+	}
+
+[Commander]
+	{
+	ja=コマンダー;
+	}
+
+[Credits]
+	{
+	ja=クレジット;
+	}
+
+[Dead Commander]
+	{
+	ja=コマンダー撃破;
+	}
+
+[Defeat]
+	{
+	ja=敗北;
+	}
+
+[Victory]
+	{
+	ja=勝利;
+	}
+
+[Difficulty]
+	{
+	ja=難易度;
+	}
+
+[Energy]
+	{
+	ja=エネルギー;
+	}
+
+[Metal]
+	{
+	ja=金属;
+	}
+
+[Game Status]
+	{
+	ja=ゲームの状態;
+	}
+
+[Game speed]
+	{
+	ja=ゲーム速度;
+	}
+
+[Gamma]
+	{
+	ja=ガンマ;
+	}
+
+[Line of Sight]
+	{
+	ja=視界;
+	}
+
+[Line of sight]
+	{
+	ja=視界;
+	}
+
+[Location]
+	{
+	ja=位置;
+	}
+
+[Map]
+	{
+	ja=マップ;
+	}
+
+[Mapping]
+	{
+	ja=マップ表示;
+	}
+
+[Mapping Mode]
+	{
+	ja=マップ表示;
+	}
+
+[Max units]
+	{
+	ja=最大ユニット数;
+	}
+
+[Missions]
+	{
+	ja=ミッション;
+	}
+
+[Music volume]
+	{
+	ja=音楽の音量;
+	}
+
+[Next track]
+	{
+	ja=次の曲;
+	}
+
+[Previous track]
+	{
+	ja=前の曲;
+	}
+
+[Play track]
+	{
+	ja=曲を再生;
+	}
+
+[Track type]
+	{
+	ja=曲の種類;
+	}
+
+[Play mode]
+	{
+	ja=再生モード;
+	}
+
+[Ready]
+	{
+	ja=準備完了;
+	}
+
+[Saved games]
+	{
+	ja=セーブデータ;
+	}
+
+[Screen scroll]
+	{
+	ja=画面スクロール;
+	}
+
+[Shading]
+	{
+	ja=陰影;
+	}
+
+[Shadows]
+	{
+	ja=影;
+	}
+
+[Side]
+	{
+	ja=陣営;
+	}
+
+[Sound mode]
+	{
+	ja=サウンドモード;
+	}
+
+[Sound volume]
+	{
+	ja=音量;
+	}
+
+[Start doors]
+	{
+	ja=開始時のドア;
+	}
+
+[Starting energy]
+	{
+	ja=初期エネルギー;
+	}
+
+[Starting metal]
+	{
+	ja=初期金属;
+	}
+
+[Team]
+	{
+	ja=チーム;
+	}
+
+[Text delay]
+	{
+	ja=テキスト表示時間;
+	}
+
+[Text lines]
+	{
+	ja=テキスト行数;
+	}
+
+[Unit sounds]
+	{
+	ja=ユニット効果音;
+	}
+
+[Unit text acks]
+	{
+	ja=ユニットの文字応答;
+	}
+
+[There are no saved games to choose from]
+	{
+	ja=セーブデータがありません;
+	}
+
+[Black]
+	{
+	ja=黒色;
+	}
+
+[Blue]
+	{
+	ja=青色;
+	}
+
+[Green]
+	{
+	ja=緑色;
+	}
+
+[Light blue]
+	{
+	ja=水色;
+	}
+
+[Navy]
+	{
+	ja=紺色;
+	}
+
+[Purple]
+	{
+	ja=紫色;
+	}
+
+[Red]
+	{
+	ja=赤色;
+	}
+
+[Tan]
+	{
+	ja=薄茶色;
+	}
+
+[White]
+	{
+	ja=白色;
+	}
+
+[Yellow]
+	{
+	ja=黄色;
+	}
+
+// Entering the Boneyards: its questions and why it cannot start.
+
+[The Boneyards]
+	{
+	ja=Boneyards;
+	}
+
+[Switch on]
+	{
+	ja=オンにする;
+	}
+
+[Turn on]
+	{
+	ja=オンにする;
+	}
+
+[Switch off and enter]
+	{
+	ja=オフにして入る;
+	}
+
+[Switch {mod} back on?]
+	{
+	ja={mod}をオンに戻しますか？;
+	}
+
+[Open Annihilation could not check for updates.]
+	{
+	ja=Open Annihilationは更新を確認できませんでした。;
+	}
+
+[Open Annihilation {version} is out. The Boneyards needs the latest version.]
+	{
+	ja=Open Annihilation {version}が公開されました。Boneyardsには最新バージョンが必要です。;
+	}
+
+[The Boneyards is installed. Start Open Annihilation again to enter the Boneyards.]
+	{
+	ja=Boneyardsをインストールしました。入るには、Open Annihilationをもう一度起動してください。;
+	}
+
+[The Boneyards needs by.ccx and the Boneyards folder.]
+	{
+	ja=Boneyardsにはby.ccxとBoneyardsフォルダーが必要です。;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks and the content catalogue. Turn them on and continue?]
+	{
+	ja=BoneyardsにはOpen Annihilationのオンライン機能（更新の確認とコンテンツカタログ）が必要です。オンにして続行しますか？;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks, the content catalogue and {registry}'s install ID. Turn them on and continue?]
+	{
+	ja=BoneyardsにはOpen Annihilationのオンライン機能（更新の確認、コンテンツカタログ、{registry}のインストールID）が必要です。オンにして続行しますか？;
+	}
+
+[The Boneyards needs {registry}'s install ID turned on. Turn it on and continue?]
+	{
+	ja=Boneyardsには{registry}のインストールIDをオンにする必要があります。オンにして続行しますか？;
+	}
+
+[The Boneyards plays Total Annihilation without mods. Switch {mod} off and enter the Boneyards?]
+	{
+	ja=BoneyardsはMODなしのTotal Annihilationでプレイします。{mod}をオフにしてBoneyardsに入りますか？;
+	}
+
+[The Boneyards launches and reports games only on 3.1c, Core Contingency and Battle Tactics. Switch your mod off to play in the Boneyards.]
+	{
+	ja=Boneyardsでゲームを起動して報告できるのは、3.1c、Core Contingency、Battle Tacticsだけです。Boneyardsでプレイするには、MODをオフにしてください。;
+	}
+
+[Start Open Annihilation without the mod on its command line to enter the Boneyards.]
+	{
+	ja=Boneyardsに入るには、コマンドラインでMODを指定せずにOpen Annihilationを起動してください。;
+	}
+
+[Downloads are off for {registry}.]
+	{
+	ja={registry}からのダウンロードはオフです。;
+	}
+
+// The mutator picker's drag grip.
+
+[Drag to reorder]
+	{
+	ja=ドラッグして並べ替え;
+	}
+
+// The battle room's lines about units and game files that differ.
+
+[*** Press START again to start anyway. Those units stay unavailable in this battle.]
+	{
+	ja=*** もう一度「開始」を押すと、このまま始められます。それらのユニットは、この対戦では使用できません。;
+	}
+
+[*** Your game files differ from Total Annihilation's, so this battle cannot start. Leave it and repair them in Settings › Game Content.]
+	{
+	ja=*** ゲームファイルがTotal Annihilationのものと異なるため、この対戦を開始できません。退出して、設定 › ゲームコンテンツで修復してください。;
+	}
+
+[*** {player}'s game files differ from Total Annihilation's; they must repair them before this battle can start.]
+	{
+	ja=*** {player}のゲームファイルがTotal Annihilationのものと異なるため、修復するまでこの対戦を開始できません。;
+	}
+
+[*** {units} differ on {player}'s machine and can't be built in this battle.]
+	{
+	ja=*** {units}は{player}のマシンで異なるため、この対戦では建設できません。;
+	}
+
+[*** {units} differs on {player}'s machine and can't be built in this battle.]
+	{
+	ja=*** {units}は{player}のマシンで異なるため、この対戦では建設できません。;
+	}
+
+[*** {units} differ between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	ja=*** {units}は{first}と{second}のマシンの間で異なるため、この対戦では建設できません。;
+	}
+
+[*** {units} differs between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	ja=*** {units}は{first}と{second}のマシンの間で異なるため、この対戦では建設できません。;
+	}
+
+[*** {units} differ between {count} players' machines and can't be built in this battle.]
+	{
+	ja=*** {units}は{count}人のプレイヤーのマシンの間で異なるため、この対戦では建設できません。;
+	}
+
+[*** {units} differs between {count} players' machines and can't be built in this battle.]
+	{
+	ja=*** {units}は{count}人のプレイヤーのマシンの間で異なるため、この対戦では建設できません。;
+	}
+
+[1 other unit]
+	{
+	ja=ほか1ユニット;
+	}
+
+[{count} other units]
+	{
+	ja=ほか{count}ユニット;
+	}
+
+[{list} and {last}]
+	{
+	ja={list}と{last};
+	}
+
+[a player who left]
+	{
+	ja=退出したプレイヤー;
+	}
+
+// The Replays tab's delete question.
+
+[Delete this replay?]
+	{
+	ja=このリプレイを削除しますか？;
+	}
+
+[Delete these {count} replays?]
+	{
+	ja=これら{count}件のリプレイを削除しますか？;
+	}
+
+[Delete replays]
+	{
+	ja=リプレイを削除;
+	}
+
+[It goes to the system's trash.]
+	{
+	ja=システムのごみ箱に移動します。;
+	}
+
+[They go to the system's trash.]
+	{
+	ja=システムのごみ箱に移動します。;
+	}
+
+[It is deleted and cannot be undone. This system has no trash.]
+	{
+	ja=削除すると元に戻せません。このシステムにはごみ箱がありません。;
+	}
+
+[They are deleted and cannot be undone. This system has no trash.]
+	{
+	ja=削除すると元に戻せません。このシステムにはごみ箱がありません。;
+	}
+
+// Settings › Game Content: archives a game's folder holds that it does not
+// list, and Repair….
+
+[Remove…]
+	{
+	ja=削除…;
+	}
+
+[Repair…]
+	{
+	ja=修復…;
+	}
+
+[Move to Trash]
+	{
+	ja=ごみ箱に移動;
+	}
+
+[Move {file} to the trash?]
+	{
+	ja={file}をごみ箱に移動しますか？;
+	}
+
+[Delete {file}? This system has no trash.]
+	{
+	ja={file}を削除しますか？このシステムにはごみ箱がありません。;
+	}
+
+[{file} is not one of its files]
+	{
+	ja={file}は、このコンテンツのファイルではありません;
+	}
+
+[{count} archives are not its files]
+	{
+	ja={count}個のアーカイブは、このコンテンツのファイルではありません;
+	}
+
+[{file} in {folder}, {size} bytes, is not a file of {bundle}. The game does not read it.]
+	{
+	ja={folder}の{file}（{size}バイト）は、{bundle}のファイルではありません。ゲームはこれを読み込みません。;
+	}
+
+// Entering the Boneyards with game files that are not Total Annihilation's own.
+
+[{file} in {folder} does not match Total Annihilation's, so the Boneyards cannot be entered. Copy the game again from your own install or CD to enter.]
+	{
+	ja={folder}の{file}がTotal Annihilationのものと一致しないため、Boneyardsに入れません。入るには、自分のインストールまたはCDからゲームをもう一度コピーしてください。;
+	}
+
+[{file} in {folder} does not match Total Annihilation's. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	ja={folder}の{file}がTotal Annihilationのものと一致しません。BoneyardsではOpen Annihilation自身のゲームのコピーだけを使います。入るには、自分のインストールまたはCDからコピーしてください。;
+	}
+
+[{file} in {folder} is not Total Annihilation's own. The Boneyards launches and reports games only on Total Annihilation's own files. Leave the Boneyards and repair it in Settings › Game Content.]
+	{
+	ja={folder}の{file}はTotal Annihilation純正のものではありません。Boneyardsでゲームを起動して報告できるのは、Total Annihilation純正のファイルだけです。Boneyardsから退出して、設定 › ゲームコンテンツで修復してください。;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files, so the Boneyards cannot be entered. Remove it to enter.]
+	{
+	ja={folder}の{file}はTotal Annihilationのファイルではないため、Boneyardsに入れません。入るには、削除してください。;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	ja={folder}の{file}はTotal Annihilationのファイルではありません。BoneyardsではOpen Annihilation自身のゲームのコピーだけを使います。入るには、自分のインストールまたはCDからコピーしてください。;
 	}
 
