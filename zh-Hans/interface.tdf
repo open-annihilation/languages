@@ -11300,11 +11300,6 @@
 	zh-Hans=关闭全景地图;
 	}
 
-[Closes the megamap and centres on the pointer]
-	{
-	zh-Hans=关闭全景地图，并居中到指针。;
-	}
-
 [Jumps the view to a point of the megamap]
 	{
 	zh-Hans=把视角跳到全景地图上的一点。;
@@ -16060,5 +16055,3046 @@
 [Open the download page]
 	{
 	zh-Hans=打开下载页面;
+	}
+
+// Open Annihilation 0.9.1: Settings > Replays.
+
+[REPLAYS]
+	{
+	zh-Hans=回放;
+	}
+
+[Replays]
+	{
+	zh-Hans=回放;
+	}
+
+[Record my games]
+	{
+	zh-Hans=录制我的游戏;
+	}
+
+[Campaign missions, skirmish, multiplayer and Boneyards battles. Applies from the next game.]
+	{
+	zh-Hans=战役任务、遭遇战、多人游戏和Boneyards战斗。从下一局游戏起生效。;
+	}
+
+[Keep replays for]
+	{
+	zh-Hans=回放保留时间;
+	}
+
+[30 days]
+	{
+	zh-Hans=30天;
+	}
+
+[90 days]
+	{
+	zh-Hans=90天;
+	}
+
+[A year]
+	{
+	zh-Hans=一年;
+	}
+
+[Forever]
+	{
+	zh-Hans=永久;
+	}
+
+[Replays you keep in the Library stay until you delete them.]
+	{
+	zh-Hans=你在资源库中保留的回放会一直留着，直到你将其删除。;
+	}
+
+[Open replay files with Open Annihilation]
+	{
+	zh-Hans=用Open Annihilation打开回放文件;
+	}
+
+[A .oademo or a .tad file opens in this copy.]
+	{
+	zh-Hans=在这份副本中打开.oademo或.tad文件。;
+	}
+
+
+// Settings > Accessibility: colour vision, shape cues, the focus ring and screen readers.
+
+[Colour vision]
+	{
+	zh-Hans=色觉;
+	}
+
+[Protanopia]
+	{
+	zh-Hans=红色盲;
+	}
+
+[Deuteranopia]
+	{
+	zh-Hans=绿色盲;
+	}
+
+[Tritanopia]
+	{
+	zh-Hans=蓝色盲;
+	}
+
+[Achromatopsia]
+	{
+	zh-Hans=全色盲;
+	}
+
+[Achromatopsia keeps shape cues on]
+	{
+	zh-Hans=全色盲始终开启形状提示;
+	}
+
+[Changes team colours, the minimap, bars, the war map and status colours on this machine only.]
+	{
+	zh-Hans=只在这台电脑上改变队伍颜色、小地图、血条和建造条、战争地图以及状态颜色。;
+	}
+
+[Shape cues]
+	{
+	zh-Hans=形状提示;
+	}
+
+[Player markers, side symbols, notched bars and a mark on every status.]
+	{
+	zh-Hans=玩家标记、阵营符号、带刻痕的条，以及每个状态上的标记。;
+	}
+
+[The ten player colours, then OK, caution, danger and information.]
+	{
+	zh-Hans=十种玩家颜色，然后是正常、警告、危险和信息。;
+	}
+
+[Preview]
+	{
+	zh-Hans=预览;
+	}
+
+[Always show focus]
+	{
+	zh-Hans=始终显示焦点;
+	}
+
+[The focus ring is drawn on the first item when a screen opens.]
+	{
+	zh-Hans=界面打开时，焦点框会绘制在第一项上。;
+	}
+
+[Screen reader]
+	{
+	zh-Hans=屏幕阅读器;
+	}
+
+[Automatic works with a screen reader while the system says one is running. On also works with one the system does not report. Off never does.]
+	{
+	zh-Hans=自动：系统报告有屏幕阅读器在运行时，与它配合工作。打开：也与系统没有报告的屏幕阅读器配合工作。关闭：从不配合。;
+	}
+
+[Nothing on this system can speak.]
+	{
+	zh-Hans=此系统上没有可用于朗读的语音。;
+	}
+
+[Speak chat]
+	{
+	zh-Hans=朗读聊天;
+	}
+
+[Pages only]
+	{
+	zh-Hans=仅传呼;
+	}
+
+[Chat lines and whispers, pages only, or neither.]
+	{
+	zh-Hans=朗读聊天消息和低语、仅朗读传呼，或都不朗读。;
+	}
+
+[Speak lobby changes]
+	{
+	zh-Hans=朗读大厅变化;
+	}
+
+[A player joining or leaving the battle room, and a change of ready, side, colour, team, map or option.]
+	{
+	zh-Hans=玩家加入或离开战斗房间，以及就绪、阵营、颜色、队伍、地图或选项的变化。;
+	}
+
+[Speak the ticker]
+	{
+	zh-Hans=朗读滚动字幕;
+	}
+
+[The ticker repeats, so it stays quiet until this is on.]
+	{
+	zh-Hans=滚动字幕会反复出现，因此在开启此项之前保持安静。;
+	}
+
+
+// What a screen reader says: a control's kind, a colour, and the lines spoken in a battle room and a match.
+
+[alert]
+	{
+	zh-Hans=警报;
+	}
+
+[battle room]
+	{
+	zh-Hans=战斗房间;
+	}
+
+[button]
+	{
+	zh-Hans=按钮;
+	}
+
+[check box]
+	{
+	zh-Hans=复选框;
+	}
+
+[dialog]
+	{
+	zh-Hans=对话框;
+	}
+
+[group]
+	{
+	zh-Hans=分组;
+	}
+
+[image]
+	{
+	zh-Hans=图像;
+	}
+
+[link]
+	{
+	zh-Hans=链接;
+	}
+
+[list]
+	{
+	zh-Hans=列表;
+	}
+
+[list item]
+	{
+	zh-Hans=列表项;
+	}
+
+[log]
+	{
+	zh-Hans=日志;
+	}
+
+[match]
+	{
+	zh-Hans=对局;
+	}
+
+[password]
+	{
+	zh-Hans=密码;
+	}
+
+[radio button]
+	{
+	zh-Hans=单选按钮;
+	}
+
+[radio group]
+	{
+	zh-Hans=单选按钮组;
+	}
+
+[search field]
+	{
+	zh-Hans=搜索框;
+	}
+
+[slider]
+	{
+	zh-Hans=滑块;
+	}
+
+[switch]
+	{
+	zh-Hans=开关;
+	}
+
+[tab]
+	{
+	zh-Hans=标签页;
+	}
+
+[tab list]
+	{
+	zh-Hans=标签页列表;
+	}
+
+[text]
+	{
+	zh-Hans=文本;
+	}
+
+[text field]
+	{
+	zh-Hans=文本框;
+	}
+
+[tree]
+	{
+	zh-Hans=树;
+	}
+
+[tree item]
+	{
+	zh-Hans=树项;
+	}
+
+[window]
+	{
+	zh-Hans=窗口;
+	}
+
+[Black]
+	{
+	zh-Hans=黑色;
+	}
+
+[Blue]
+	{
+	zh-Hans=蓝色;
+	}
+
+[Green]
+	{
+	zh-Hans=绿色;
+	}
+
+[Light blue]
+	{
+	zh-Hans=浅蓝色;
+	}
+
+[Navy]
+	{
+	zh-Hans=藏青色;
+	}
+
+[Purple]
+	{
+	zh-Hans=紫色;
+	}
+
+[Red]
+	{
+	zh-Hans=红色;
+	}
+
+[Tan]
+	{
+	zh-Hans=棕褐色;
+	}
+
+[White]
+	{
+	zh-Hans=白色;
+	}
+
+[Yellow]
+	{
+	zh-Hans=黄色;
+	}
+
+[{colour}, player {number}]
+	{
+	zh-Hans={colour}，玩家{number};
+	}
+
+[An option changed]
+	{
+	zh-Hans=有选项被更改了;
+	}
+
+[Commander under attack]
+	{
+	zh-Hans=指挥官遭到攻击;
+	}
+
+[Defeat]
+	{
+	zh-Hans=全军覆没;
+	}
+
+[Victory]
+	{
+	zh-Hans=胜利;
+	}
+
+[The countdown has started]
+	{
+	zh-Hans=倒计时已开始;
+	}
+
+[The host has left]
+	{
+	zh-Hans=主持者已离开;
+	}
+
+[The map is {name}]
+	{
+	zh-Hans=地图是{name};
+	}
+
+[Whisper from {name}: {text}]
+	{
+	zh-Hans=来自{name}的低语：{text};
+	}
+
+[{count} new lines in {room}]
+	{
+	zh-Hans={room}中有{count}条新消息;
+	}
+
+[{name} changed colour to {colour}]
+	{
+	zh-Hans={name}把颜色改为{colour};
+	}
+
+[{name} changed side to {side}]
+	{
+	zh-Hans={name}把阵营改为{side};
+	}
+
+[{name} changed team to {team}]
+	{
+	zh-Hans={name}把队伍改为{team};
+	}
+
+[{name} is not ready]
+	{
+	zh-Hans={name}未就绪;
+	}
+
+[{name} is ready]
+	{
+	zh-Hans={name}已就绪;
+	}
+
+[{name} joined]
+	{
+	zh-Hans={name}已加入;
+	}
+
+[{name} left]
+	{
+	zh-Hans={name}已离开;
+	}
+
+
+// The names the original menus' controls are read by: the words 3.1c's own screens show, as its Chinese has them.
+
+[Alliance]
+	{
+	zh-Hans=结盟;
+	}
+
+[Anti-aliasing]
+	{
+	zh-Hans=抗锯齿;
+	}
+
+[Arm]
+	{
+	zh-Hans=ARM;
+	}
+
+[CD music]
+	{
+	zh-Hans=CD音乐;
+	}
+
+[Campaigns]
+	{
+	zh-Hans=战役;
+	}
+
+[Cheat Codes]
+	{
+	zh-Hans=作弊码;
+	}
+
+[Closed]
+	{
+	zh-Hans=关闭;
+	}
+
+[Colour]
+	{
+	zh-Hans=颜色;
+	}
+
+[Commander]
+	{
+	zh-Hans=指挥官;
+	}
+
+[Core]
+	{
+	zh-Hans=CORE;
+	}
+
+[Credits]
+	{
+	zh-Hans=制作人员;
+	}
+
+[Dead Commander]
+	{
+	zh-Hans=指挥官阵亡;
+	}
+
+[Difficulty]
+	{
+	zh-Hans=难度;
+	}
+
+[Energy]
+	{
+	zh-Hans=能量;
+	}
+
+[Game Status]
+	{
+	zh-Hans=游戏状态;
+	}
+
+[Game speed]
+	{
+	zh-Hans=游戏速度;
+	}
+
+[Gamma]
+	{
+	zh-Hans=伽马;
+	}
+
+[Line of Sight]
+	{
+	zh-Hans=视野;
+	}
+
+[Line of sight]
+	{
+	zh-Hans=视野;
+	}
+
+[Location]
+	{
+	zh-Hans=位置;
+	}
+
+[Map]
+	{
+	zh-Hans=地图;
+	}
+
+[Mapping]
+	{
+	zh-Hans=地图;
+	}
+
+[Mapping Mode]
+	{
+	zh-Hans=地图模式;
+	}
+
+[Max units]
+	{
+	zh-Hans=单位上限;
+	}
+
+[Metal]
+	{
+	zh-Hans=金属;
+	}
+
+[Missions]
+	{
+	zh-Hans=任务;
+	}
+
+[Music volume]
+	{
+	zh-Hans=音乐音量;
+	}
+
+[Next track]
+	{
+	zh-Hans=下一首曲目;
+	}
+
+[Opened]
+	{
+	zh-Hans=开放;
+	}
+
+[Play mode]
+	{
+	zh-Hans=播放模式;
+	}
+
+[Play track]
+	{
+	zh-Hans=播放曲目;
+	}
+
+[Previous track]
+	{
+	zh-Hans=上一首曲目;
+	}
+
+[Ready]
+	{
+	zh-Hans=就绪;
+	}
+
+[Saved games]
+	{
+	zh-Hans=存档;
+	}
+
+[Screen scroll]
+	{
+	zh-Hans=屏幕滚动;
+	}
+
+[Shading]
+	{
+	zh-Hans=光影;
+	}
+
+[Shadows]
+	{
+	zh-Hans=阴影;
+	}
+
+[Side]
+	{
+	zh-Hans=阵营;
+	}
+
+[Sound mode]
+	{
+	zh-Hans=声音模式;
+	}
+
+[Sound volume]
+	{
+	zh-Hans=音量;
+	}
+
+[Start doors]
+	{
+	zh-Hans=开始门;
+	}
+
+[Starting energy]
+	{
+	zh-Hans=初始能量;
+	}
+
+[Starting metal]
+	{
+	zh-Hans=初始金属;
+	}
+
+[Team]
+	{
+	zh-Hans=队伍;
+	}
+
+[Text delay]
+	{
+	zh-Hans=文字延时;
+	}
+
+[Text lines]
+	{
+	zh-Hans=文字行数;
+	}
+
+[There are no saved games to choose from]
+	{
+	zh-Hans=没有可选择的存档;
+	}
+
+[Track type]
+	{
+	zh-Hans=曲目类型;
+	}
+
+[Unit sounds]
+	{
+	zh-Hans=单位音效;
+	}
+
+[Unit text acks]
+	{
+	zh-Hans=单位文字应答;
+	}
+
+
+// The Library's Replays section: its filters, kinds, sorts, search and the days the list is grouped by.
+
+[My battles]
+	{
+	zh-Hans=我的战斗;
+	}
+
+[This month]
+	{
+	zh-Hans=本月;
+	}
+
+[Older]
+	{
+	zh-Hans=更早;
+	}
+
+[Kept]
+	{
+	zh-Hans=已保留;
+	}
+
+[Imported]
+	{
+	zh-Hans=已导入;
+	}
+
+[All kinds]
+	{
+	zh-Hans=所有类型;
+	}
+
+[Newest first]
+	{
+	zh-Hans=最新优先;
+	}
+
+[Longest first]
+	{
+	zh-Hans=最长优先;
+	}
+
+[By map]
+	{
+	zh-Hans=按地图;
+	}
+
+[Most players first]
+	{
+	zh-Hans=玩家最多优先;
+	}
+
+[Search replays]
+	{
+	zh-Hans=搜索回放;
+	}
+
+[Today]
+	{
+	zh-Hans=今天;
+	}
+
+[Yesterday]
+	{
+	zh-Hans=昨天;
+	}
+
+[{weekday} {day} {month}]
+	{
+	zh-Hans={month}{day}日 {weekday};
+	}
+
+[{weekday} {day} {month} {year}]
+	{
+	zh-Hans={year}年{month}{day}日 {weekday};
+	}
+
+[Mon]
+	{
+	zh-Hans=周一;
+	}
+
+[Tue]
+	{
+	zh-Hans=周二;
+	}
+
+[Wed]
+	{
+	zh-Hans=周三;
+	}
+
+[Thu]
+	{
+	zh-Hans=周四;
+	}
+
+[Fri]
+	{
+	zh-Hans=周五;
+	}
+
+[Sat]
+	{
+	zh-Hans=周六;
+	}
+
+[Sun]
+	{
+	zh-Hans=周日;
+	}
+
+[Jan]
+	{
+	zh-Hans=1月;
+	}
+
+[Feb]
+	{
+	zh-Hans=2月;
+	}
+
+[Mar]
+	{
+	zh-Hans=3月;
+	}
+
+[Apr]
+	{
+	zh-Hans=4月;
+	}
+
+[May]
+	{
+	zh-Hans=5月;
+	}
+
+[Jun]
+	{
+	zh-Hans=6月;
+	}
+
+[Jul]
+	{
+	zh-Hans=7月;
+	}
+
+[Aug]
+	{
+	zh-Hans=8月;
+	}
+
+[Sep]
+	{
+	zh-Hans=9月;
+	}
+
+[Oct]
+	{
+	zh-Hans=10月;
+	}
+
+[Nov]
+	{
+	zh-Hans=11月;
+	}
+
+[Dec]
+	{
+	zh-Hans=12月;
+	}
+
+[{left} vs {right}]
+	{
+	zh-Hans={left} vs {right};
+	}
+
+[{kind} · {planet}]
+	{
+	zh-Hans={kind} · {planet};
+	}
+
+[{kind} · {planet}, {sector}]
+	{
+	zh-Hans={kind} · {planet}，{sector};
+	}
+
+[Reading…]
+	{
+	zh-Hans=读取中…;
+	}
+
+[Damaged]
+	{
+	zh-Hans=已损坏;
+	}
+
+[After a crash]
+	{
+	zh-Hans=崩溃后;
+	}
+
+
+// The Library's Replays section: the footer, the empty list and the first question about old replays.
+
+[Reading the replays…]
+	{
+	zh-Hans=正在读取回放…;
+	}
+
+[Reading {read} of {total} replays]
+	{
+	zh-Hans=正在读取回放：{read}/{total};
+	}
+
+[1 replay · {size}]
+	{
+	zh-Hans=1个回放 · {size};
+	}
+
+[{count} replays · {size}]
+	{
+	zh-Hans={count}个回放 · {size};
+	}
+
+[{count} replays selected]
+	{
+	zh-Hans=已选择{count}个回放;
+	}
+
+[No replays yet.]
+	{
+	zh-Hans=还没有回放。;
+	}
+
+[Games you play are kept here for 30 days.]
+	{
+	zh-Hans=你玩过的游戏会在这里保留30天。;
+	}
+
+[Games you play are kept here for 90 days.]
+	{
+	zh-Hans=你玩过的游戏会在这里保留90天。;
+	}
+
+[Games you play are kept here for a year.]
+	{
+	zh-Hans=你玩过的游戏会在这里保留一年。;
+	}
+
+[Games you play are kept here until you delete them.]
+	{
+	zh-Hans=你玩过的游戏会在这里一直保留，直到你将它们删除。;
+	}
+
+[Recording is off.]
+	{
+	zh-Hans=录制已关闭。;
+	}
+
+[Turn on recording]
+	{
+	zh-Hans=开启录制;
+	}
+
+[Open a replay file…]
+	{
+	zh-Hans=打开回放文件…;
+	}
+
+[No replays from this month.]
+	{
+	zh-Hans=本月没有回放。;
+	}
+
+[No older replays.]
+	{
+	zh-Hans=没有更早的回放。;
+	}
+
+[No replays kept.]
+	{
+	zh-Hans=没有保留的回放。;
+	}
+
+[No replays imported.]
+	{
+	zh-Hans=没有导入的回放。;
+	}
+
+[No replays of this kind.]
+	{
+	zh-Hans=没有此类型的回放。;
+	}
+
+[Old replays]
+	{
+	zh-Hans=旧回放;
+	}
+
+[Keep them all]
+	{
+	zh-Hans=全部保留;
+	}
+
+[Let them go]
+	{
+	zh-Hans=允许清理;
+	}
+
+[1 replay is older than you asked to keep. It goes to the system's trash.]
+	{
+	zh-Hans=有1个回放已超过你设定的保留期限。它会被移到系统回收站。;
+	}
+
+[1 replay is older than you asked to keep. It is deleted. This system has no trash.]
+	{
+	zh-Hans=有1个回放已超过你设定的保留期限。它会被删除。此系统没有回收站。;
+	}
+
+[{count} replays are older than you asked to keep. They go to the system's trash.]
+	{
+	zh-Hans=有{count}个回放已超过你设定的保留期限。它们会被移到系统回收站。;
+	}
+
+[{count} replays are older than you asked to keep. They are deleted. This system has no trash.]
+	{
+	zh-Hans=有{count}个回放已超过你设定的保留期限。它们会被删除。此系统没有回收站。;
+	}
+
+
+// The Library's Replays section: a replay's card, its facts and its buttons.
+
+[Won]
+	{
+	zh-Hans=获胜;
+	}
+
+[Lost]
+	{
+	zh-Hans=失败;
+	}
+
+[1 kill]
+	{
+	zh-Hans=击杀1个;
+	}
+
+[{kills} kills]
+	{
+	zh-Hans=击杀{kills}个;
+	}
+
+[1 loss]
+	{
+	zh-Hans=损失1个;
+	}
+
+[{losses} losses]
+	{
+	zh-Hans=损失{losses}个;
+	}
+
+[Watched to {time}]
+	{
+	zh-Hans=已观看到{time};
+	}
+
+[Watcher]
+	{
+	zh-Hans=观战者;
+	}
+
+[{mod} (rev {revision})]
+	{
+	zh-Hans={mod}（修订{revision}）;
+	}
+
+[Length]
+	{
+	zh-Hans=时长;
+	}
+
+[Recorded]
+	{
+	zh-Hans=录制;
+	}
+
+[File]
+	{
+	zh-Hans=文件;
+	}
+
+[Kept until]
+	{
+	zh-Hans=保留至;
+	}
+
+[Until you delete it]
+	{
+	zh-Hans=直到你将其删除;
+	}
+
+[Imported replays are kept]
+	{
+	zh-Hans=导入的回放会一直保留;
+	}
+
+[Downloaded replays are kept]
+	{
+	zh-Hans=下载的回放会一直保留;
+	}
+
+[Exported replays are kept]
+	{
+	zh-Hans=导出的回放会一直保留;
+	}
+
+[Watch]
+	{
+	zh-Hans=观看;
+	}
+
+[Watch again]
+	{
+	zh-Hans=再看一遍;
+	}
+
+[Watch from {time}]
+	{
+	zh-Hans=从{time}开始观看;
+	}
+
+[Delete replay]
+	{
+	zh-Hans=删除回放;
+	}
+
+[This replay cannot be watched.]
+	{
+	zh-Hans=无法观看此回放。;
+	}
+
+[This replay could not be moved to the trash.]
+	{
+	zh-Hans=无法把此回放移到回收站。;
+	}
+
+[{count} replays could not be moved to the trash.]
+	{
+	zh-Hans=有{count}个回放无法移到回收站。;
+	}
+
+
+// The Library's Replays section: what a replay needs, and getting it before it plays.
+
+[Needs map]
+	{
+	zh-Hans=需要地图;
+	}
+
+[Needs mutator]
+	{
+	zh-Hans=需要变异器;
+	}
+
+[Needs {name} {version}]
+	{
+	zh-Hans=需要{name} {version};
+	}
+
+[Needs {version}]
+	{
+	zh-Hans=需要{version};
+	}
+
+[Needs {name}.]
+	{
+	zh-Hans=需要{name}。;
+	}
+
+[Needs the map {name}.]
+	{
+	zh-Hans=需要地图{name}。;
+	}
+
+[Needs the mutator {name}.]
+	{
+	zh-Hans=需要变异器{name}。;
+	}
+
+[Needs Open Annihilation {version}.]
+	{
+	zh-Hans=需要Open Annihilation {version}。;
+	}
+
+[From the map pack {pack}.]
+	{
+	zh-Hans=来自地图包{pack}。;
+	}
+
+[This replay was recorded with {name}.]
+	{
+	zh-Hans=此回放使用{name}录制。;
+	}
+
+[This replay was recorded with {name}. You have {have}.]
+	{
+	zh-Hans=此回放使用{name}录制。你现有的是{have}。;
+	}
+
+[This replay was recorded with {name} {version}.]
+	{
+	zh-Hans=此回放使用{name} {version}录制。;
+	}
+
+[This replay was recorded with {name} {version}. You have {have}.]
+	{
+	zh-Hans=此回放使用{name} {version}录制。你现有的是{have}。;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}).]
+	{
+	zh-Hans=此回放使用{name} {version}（修订{revision}）录制。;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}). You have {have}.]
+	{
+	zh-Hans=此回放使用{name} {version}（修订{revision}）录制。你现有的是{have}。;
+	}
+
+[This replay was recorded with another release of the map pack {name}.]
+	{
+	zh-Hans=此回放录制时使用的是地图包{name}的另一个版本。;
+	}
+
+[{name} is not in {registry}'s catalogue.]
+	{
+	zh-Hans={registry}的目录中没有{name}。;
+	}
+
+[{name} {version} is not in {registry}'s catalogue.]
+	{
+	zh-Hans={registry}的目录中没有{name} {version}。;
+	}
+
+[Get it and watch]
+	{
+	zh-Hans=获取并观看;
+	}
+
+[Get them and watch]
+	{
+	zh-Hans=获取它们并观看;
+	}
+
+[Get {name} {version} and watch]
+	{
+	zh-Hans=获取{name} {version}并观看;
+	}
+
+[Turn on and watch]
+	{
+	zh-Hans=开启并观看;
+	}
+
+[Getting {name}… {percent}%]
+	{
+	zh-Hans=正在获取{name}… {percent}%;
+	}
+
+[You're offline.]
+	{
+	zh-Hans=你已离线。;
+	}
+
+[Get {name} when you're back online.]
+	{
+	zh-Hans=重新联网后请获取{name}。;
+	}
+
+[Get {name} {version} when you're back online.]
+	{
+	zh-Hans=重新联网后请获取{name} {version}。;
+	}
+
+
+// The Library's Replays section: exporting a replay as a .oademo or a .tad.
+
+[Export]
+	{
+	zh-Hans=导出;
+	}
+
+[Export…]
+	{
+	zh-Hans=导出…;
+	}
+
+[Export {name}]
+	{
+	zh-Hans=导出{name};
+	}
+
+[Export {count} replays]
+	{
+	zh-Hans=导出{count}个回放;
+	}
+
+[Open Annihilation replay (.oademo)]
+	{
+	zh-Hans=Open Annihilation回放（.oademo）;
+	}
+
+[Everything needed to watch it: the recording, and the game, mod and map it needs]
+	{
+	zh-Hans=观看所需的一切：录像，以及它需要的游戏、模组和地图;
+	}
+
+[TA Demo Recorder (.tad)]
+	{
+	zh-Hans=TA Demo Recorder（.tad）;
+	}
+
+[For TA Demo Recorder and other replayers]
+	{
+	zh-Hans=供TA Demo Recorder和其他回放播放器使用;
+	}
+
+[What to include]
+	{
+	zh-Hans=包含内容;
+	}
+
+[What only Open Annihilation reads]
+	{
+	zh-Hans=只有Open Annihilation会读取的内容;
+	}
+
+[Compatibility]
+	{
+	zh-Hans=兼容性;
+	}
+
+[It was played with mutators. Other replayers cannot apply them, so commanders may not last as they did.]
+	{
+	zh-Hans=这局使用了变异器。其他回放播放器无法应用它们，因此指挥官的存活时间可能与当时不同。;
+	}
+
+[It was played with the mutator {name}. Other replayers cannot apply it, so commanders may not last as they did.]
+	{
+	zh-Hans=这局使用了变异器{name}。其他回放播放器无法应用它，因此指挥官的存活时间可能与当时不同。;
+	}
+
+[Other replayers stop at the first of this mod's wide weapon records.]
+	{
+	zh-Hans=其他回放播放器会在此模组的第一条宽武器记录处停止。;
+	}
+
+[Names longer than 63 letters are cut.]
+	{
+	zh-Hans=超过63个字节的名称会被截断。;
+	}
+
+[A player's status is cut to 512 bytes.]
+	{
+	zh-Hans=玩家的状态会被截断为512字节。;
+	}
+
+[More warnings]
+	{
+	zh-Hans=更多警告;
+	}
+
+[Previous warnings]
+	{
+	zh-Hans=上一页警告;
+	}
+
+[More folders]
+	{
+	zh-Hans=更多文件夹;
+	}
+
+[Previous folders]
+	{
+	zh-Hans=上一页文件夹;
+	}
+
+[Nothing is selected. Choose a replay, then export it.]
+	{
+	zh-Hans=尚未选择任何回放。请先选择一个回放，再导出。;
+	}
+
+[This replay cannot be read, so it cannot be exported.]
+	{
+	zh-Hans=无法读取此回放，因此无法导出。;
+	}
+
+[Measuring…]
+	{
+	zh-Hans=正在测算…;
+	}
+
+[Compressing the recording]
+	{
+	zh-Hans=正在压缩录像;
+	}
+
+[Writing {name}]
+	{
+	zh-Hans=正在写入{name};
+	}
+
+[Exporting {done} of {total}]
+	{
+	zh-Hans=正在导出：{done}/{total};
+	}
+
+[Saved to {folder}]
+	{
+	zh-Hans=已保存到{folder};
+	}
+
+[Saved {done} of {total}.]
+	{
+	zh-Hans=已保存{done}/{total}。;
+	}
+
+[Show in folder]
+	{
+	zh-Hans=在文件夹中显示;
+	}
+
+[The export could not be written.]
+	{
+	zh-Hans=无法写入导出文件。;
+	}
+
+[There is no room in {folder}.]
+	{
+	zh-Hans={folder}中没有足够的空间。;
+	}
+
+[Open Annihilation cannot write to {folder}.]
+	{
+	zh-Hans=Open Annihilation无法写入{folder}。;
+	}
+
+
+// Core Prime's replays in the Library: the list, signing in, getting a replay and sharing one.
+
+[On this computer]
+	{
+	zh-Hans=在此电脑上;
+	}
+
+[On Core Prime]
+	{
+	zh-Hans=在Core Prime上;
+	}
+
+[Longest]
+	{
+	zh-Hans=最长;
+	}
+
+[Popular]
+	{
+	zh-Hans=热门;
+	}
+
+[By planet]
+	{
+	zh-Hans=按星球;
+	}
+
+[Browse Core Prime's replays]
+	{
+	zh-Hans=浏览Core Prime的回放;
+	}
+
+[Reading Core Prime's replays…]
+	{
+	zh-Hans=正在读取Core Prime的回放…;
+	}
+
+[Core Prime cannot be reached.]
+	{
+	zh-Hans=无法连接到Core Prime。;
+	}
+
+[Core Prime did not answer.]
+	{
+	zh-Hans=Core Prime没有响应。;
+	}
+
+[Core Prime did not start a session.]
+	{
+	zh-Hans=Core Prime没有开始会话。;
+	}
+
+[Core Prime has no replays to show.]
+	{
+	zh-Hans=Core Prime没有可显示的回放。;
+	}
+
+[Core Prime's list cannot be read.]
+	{
+	zh-Hans=无法读取Core Prime的列表。;
+	}
+
+[Core Prime's replays are not available just now.]
+	{
+	zh-Hans=Core Prime的回放暂时不可用。;
+	}
+
+[No replays for this planet.]
+	{
+	zh-Hans=此星球没有回放。;
+	}
+
+[1 replay]
+	{
+	zh-Hans=1个回放;
+	}
+
+[{count} replays]
+	{
+	zh-Hans={count}个回放;
+	}
+
+[Getting the replay…]
+	{
+	zh-Hans=正在获取回放…;
+	}
+
+[The file does not match the replay.]
+	{
+	zh-Hans=文件与回放不符。;
+	}
+
+[The replay could not be saved.]
+	{
+	zh-Hans=无法保存回放。;
+	}
+
+[The replay names no file.]
+	{
+	zh-Hans=回放没有指定文件。;
+	}
+
+[Try again in {seconds} s.]
+	{
+	zh-Hans=请在{seconds}秒后重试。;
+	}
+
+[Go to {address} and enter {code}.]
+	{
+	zh-Hans=请前往{address}并输入{code}。;
+	}
+
+[The check ran out. Try again for a new code.]
+	{
+	zh-Hans=人机验证已过期。请重试以获取新的验证码。;
+	}
+
+[Sign in]
+	{
+	zh-Hans=登录;
+	}
+
+[Sign out]
+	{
+	zh-Hans=退出登录;
+	}
+
+[Sign in to Core Prime]
+	{
+	zh-Hans=登录Core Prime;
+	}
+
+[Handle]
+	{
+	zh-Hans=用户名;
+	}
+
+[Password]
+	{
+	zh-Hans=密码;
+	}
+
+[Signing in…]
+	{
+	zh-Hans=正在登录…;
+	}
+
+[Signing in needs a secure connection, which this system does not have.]
+	{
+	zh-Hans=登录需要安全连接，而此系统没有。;
+	}
+
+[Forgot it? Reset it at coreprime.net/forgot]
+	{
+	zh-Hans=忘记密码了吗？请在coreprime.net/forgot重置;
+	}
+
+[Sign in to share a replay.]
+	{
+	zh-Hans=请先登录再分享回放。;
+	}
+
+[Share on Core Prime…]
+	{
+	zh-Hans=分享到Core Prime…;
+	}
+
+[Share on Core Prime]
+	{
+	zh-Hans=分享到Core Prime;
+	}
+
+[Title]
+	{
+	zh-Hans=标题;
+	}
+
+[Public]
+	{
+	zh-Hans=公开;
+	}
+
+[Unlisted]
+	{
+	zh-Hans=不公开列出;
+	}
+
+[Share]
+	{
+	zh-Hans=分享;
+	}
+
+[Sharing…]
+	{
+	zh-Hans=正在分享…;
+	}
+
+[Share my own recording]
+	{
+	zh-Hans=分享我自己的录像;
+	}
+
+[Shared on Core Prime]
+	{
+	zh-Hans=已分享到Core Prime;
+	}
+
+[Already on Core Prime]
+	{
+	zh-Hans=已在Core Prime上;
+	}
+
+[Open on Core Prime]
+	{
+	zh-Hans=在Core Prime上打开;
+	}
+
+[This account cannot share replays.]
+	{
+	zh-Hans=此账号无法分享回放。;
+	}
+
+[This account has shared its replays for today.]
+	{
+	zh-Hans=此账号今天分享回放的次数已用完。;
+	}
+
+[Only a player in that battle can replace its replay.]
+	{
+	zh-Hans=只有该战斗的玩家才能替换其回放。;
+	}
+
+[The replay is larger than the limit.]
+	{
+	zh-Hans=回放超过了大小上限。;
+	}
+
+[Uploads are not available.]
+	{
+	zh-Hans=暂时无法上传。;
+	}
+
+[Downloads are off for {registry}.]
+	{
+	zh-Hans={registry}的下载已关闭。;
+	}
+
+
+// Opening replay files, and why one cannot be read or played.
+
+[Added {title} to Replays]
+	{
+	zh-Hans=已把{title}添加到回放;
+	}
+
+[This file cannot be read.]
+	{
+	zh-Hans=无法读取此文件。;
+	}
+
+[This file is not a replay.]
+	{
+	zh-Hans=此文件不是回放。;
+	}
+
+[This file is not a TA Demo recording]
+	{
+	zh-Hans=此文件不是TA Demo录像;
+	}
+
+[This file is too large to be a replay.]
+	{
+	zh-Hans=此文件过大，不可能是回放。;
+	}
+
+[This recording cannot be read.]
+	{
+	zh-Hans=无法读取此录像。;
+	}
+
+[This recording is in version {version} of the format, which Open Annihilation does not play]
+	{
+	zh-Hans=此录像的格式为第{version}版，Open Annihilation无法播放;
+	}
+
+[This replay does not hold one recording.]
+	{
+	zh-Hans=此回放包含的录像不是恰好一段。;
+	}
+
+[This replay is not a version this game reads.]
+	{
+	zh-Hans=此回放的版本不是本游戏能读取的。;
+	}
+
+[This replay could not be copied into Recordings.]
+	{
+	zh-Hans=无法把此回放复制到Recordings文件夹。;
+	}
+
+[This replay's details cannot be read.]
+	{
+	zh-Hans=无法读取此回放的详细信息。;
+	}
+
+[This replay's recording cannot be read.]
+	{
+	zh-Hans=无法读取此回放的录像。;
+	}
+
+[This replay's recording does not match.]
+	{
+	zh-Hans=此回放的录像与其说明不符。;
+	}
+
+[This replay's recording is too long to play.]
+	{
+	zh-Hans=此回放的录像太长，无法播放。;
+	}
+
+[Jumping back isn't available in this replay.]
+	{
+	zh-Hans=此回放不支持向后跳转。;
+	}
+
+[Jumping back needs more memory than this device has.]
+	{
+	zh-Hans=此设备的内存不足以向后跳转。;
+	}
+
+[This replay could not jump to {time} and has stopped.]
+	{
+	zh-Hans=此回放无法跳转到{time}，已经停止。;
+	}
+
+
+// The replay viewer: the playback bar, the timeline, the views, the cameras and the end card.
+
+[Back 10 seconds]
+	{
+	zh-Hans=后退10秒;
+	}
+
+[Forward 10 seconds]
+	{
+	zh-Hans=前进10秒;
+	}
+
+[Back a minute]
+	{
+	zh-Hans=后退一分钟;
+	}
+
+[Forward a minute]
+	{
+	zh-Hans=前进一分钟;
+	}
+
+[Previous marker]
+	{
+	zh-Hans=上一个标记;
+	}
+
+[Next marker]
+	{
+	zh-Hans=下一个标记;
+	}
+
+[Go to the start]
+	{
+	zh-Hans=转到开头;
+	}
+
+[Go to the end]
+	{
+	zh-Hans=转到结尾;
+	}
+
+[Play or pause]
+	{
+	zh-Hans=播放或暂停;
+	}
+
+[Pin the bar]
+	{
+	zh-Hans=固定播放栏;
+	}
+
+[Shortcut card]
+	{
+	zh-Hans=快捷键卡片;
+	}
+
+[Leave]
+	{
+	zh-Hans=离开;
+	}
+
+[Photo]
+	{
+	zh-Hans=拍照;
+	}
+
+[Catching up… {percent} %]
+	{
+	zh-Hans=正在赶上进度… {percent} %;
+	}
+
+[No markers yet · finding them, {percent} %]
+	{
+	zh-Hans=暂无标记 · 正在查找，{percent} %;
+	}
+
+[{time} · End]
+	{
+	zh-Hans={time} · 结束;
+	}
+
+[{time} · Paused]
+	{
+	zh-Hans={time} · 已暂停;
+	}
+
+[{time} · {name}: {line}]
+	{
+	zh-Hans={time} · {name}：{line};
+	}
+
+[{time} · {name} allied]
+	{
+	zh-Hans={time} · {name}结盟;
+	}
+
+[{time} · {name} broke the alliance]
+	{
+	zh-Hans={time} · {name}解除结盟;
+	}
+
+[{time} · {name} dropped]
+	{
+	zh-Hans={time} · {name}掉线;
+	}
+
+[{time} · {name} left]
+	{
+	zh-Hans={time} · {name}离开;
+	}
+
+[{time} · {name} was defeated]
+	{
+	zh-Hans={time} · {name}被击败;
+	}
+
+[{time} · {name}'s commander destroyed]
+	{
+	zh-Hans={time} · {name}的指挥官阵亡;
+	}
+
+[All players]
+	{
+	zh-Hans=所有玩家;
+	}
+
+[Defeated {time}]
+	{
+	zh-Hans={time}被击败;
+	}
+
+[Left {time}]
+	{
+	zh-Hans={time}离开;
+	}
+
+[Director]
+	{
+	zh-Hans=导播;
+	}
+
+[Follow a unit]
+	{
+	zh-Hans=跟随一个单位;
+	}
+
+[Follow their camera]
+	{
+	zh-Hans=跟随其视角;
+	}
+
+[Losses]
+	{
+	zh-Hans=损失;
+	}
+
+[{asked} · {reached} now]
+	{
+	zh-Hans={asked} · 当前{reached};
+	}
+
+[½×]
+	{
+	zh-Hans=½×;
+	}
+
+[2×]
+	{
+	zh-Hans=2×;
+	}
+
+[3×]
+	{
+	zh-Hans=3×;
+	}
+
+[4×]
+	{
+	zh-Hans=4×;
+	}
+
+[Back to the Library]
+	{
+	zh-Hans=返回资源库;
+	}
+
+[The recording is damaged after {time}]
+	{
+	zh-Hans=录像在{time}之后已损坏;
+	}
+
+[Undecided]
+	{
+	zh-Hans=胜负未定;
+	}
+
+[No result]
+	{
+	zh-Hans=无结果;
+	}
+
+[{name} won]
+	{
+	zh-Hans={name}获胜;
+	}
+
+[Only a replay in the Library can be exported]
+	{
+	zh-Hans=只有资源库中的回放才能导出;
+	}
+
+[Replay paused]
+	{
+	zh-Hans=回放已暂停;
+	}
+
+
+// Photo mode: the panel, its chips, its sizes and what keeps a size or a turn from being offered.
+
+[Photo mode]
+	{
+	zh-Hans=拍照模式;
+	}
+
+[PHOTO MODE]
+	{
+	zh-Hans=拍照模式;
+	}
+
+[Esc leaves]
+	{
+	zh-Hans=Esc离开;
+	}
+
+[{key} or Esc leaves]
+	{
+	zh-Hans={key}或Esc离开;
+	}
+
+[{key} shows the panel]
+	{
+	zh-Hans={key}显示面板;
+	}
+
+[Show panel]
+	{
+	zh-Hans=显示面板;
+	}
+
+[Hide panel]
+	{
+	zh-Hans=隐藏面板;
+	}
+
+[Expanded]
+	{
+	zh-Hans=已展开;
+	}
+
+[Collapsed]
+	{
+	zh-Hans=已折叠;
+	}
+
+[Live]
+	{
+	zh-Hans=实时;
+	}
+
+[Frozen]
+	{
+	zh-Hans=已冻结;
+	}
+
+[Held]
+	{
+	zh-Hans=已定格;
+	}
+
+[Held picture]
+	{
+	zh-Hans=画面已定格;
+	}
+
+[Time]
+	{
+	zh-Hans=时间;
+	}
+
+[Run]
+	{
+	zh-Hans=运行;
+	}
+
+[Slow]
+	{
+	zh-Hans=慢速;
+	}
+
+[Freeze]
+	{
+	zh-Hans=冻结;
+	}
+
+[Hold picture]
+	{
+	zh-Hans=定格画面;
+	}
+
+[Step]
+	{
+	zh-Hans=步进;
+	}
+
+[Between ticks]
+	{
+	zh-Hans=逻辑帧之间;
+	}
+
+[Clock]
+	{
+	zh-Hans=时钟;
+	}
+
+[Shared game]
+	{
+	zh-Hans=多人游戏;
+	}
+
+[Follow unit]
+	{
+	zh-Hans=跟随单位;
+	}
+
+[Turn]
+	{
+	zh-Hans=旋转;
+	}
+
+[Tilt]
+	{
+	zh-Hans=倾斜;
+	}
+
+[Speed]
+	{
+	zh-Hans=速度;
+	}
+
+[Far]
+	{
+	zh-Hans=远;
+	}
+
+[Near]
+	{
+	zh-Hans=近;
+	}
+
+[Closest]
+	{
+	zh-Hans=最近;
+	}
+
+[Needs Full 3D Mode]
+	{
+	zh-Hans=需要完整3D模式;
+	}
+
+[Show selection]
+	{
+	zh-Hans=显示选择框;
+	}
+
+[Show health bars]
+	{
+	zh-Hans=显示血条;
+	}
+
+[Player names]
+	{
+	zh-Hans=玩家名称;
+	}
+
+[Guides]
+	{
+	zh-Hans=辅助线;
+	}
+
+[Thirds]
+	{
+	zh-Hans=三分线;
+	}
+
+[Centre lines]
+	{
+	zh-Hans=中心线;
+	}
+
+[Safe area]
+	{
+	zh-Hans=安全区;
+	}
+
+[Screen]
+	{
+	zh-Hans=屏幕;
+	}
+
+[Smooth edges]
+	{
+	zh-Hans=平滑边缘;
+	}
+
+[Off and Basic draw whole pixels]
+	{
+	zh-Hans=关闭和基础模式按整像素绘制;
+	}
+
+[Not enough memory]
+	{
+	zh-Hans=内存不足;
+	}
+
+[This graphics card draws at most {limit} pixels a side]
+	{
+	zh-Hans=此显卡每边最多绘制{limit}像素;
+	}
+
+[A photo is at most {limit} pixels a side]
+	{
+	zh-Hans=照片每边最多{limit}像素;
+	}
+
+[The 3D view draws at most {limit} pixels a side at this anti-aliasing]
+	{
+	zh-Hans=在此抗锯齿设置下，3D视图每边最多绘制{limit}像素;
+	}
+
+[The graphics card draws no farther out than this.]
+	{
+	zh-Hans=显卡无法绘制比这更远的画面。;
+	}
+
+[Copy to clipboard]
+	{
+	zh-Hans=复制到剪贴板;
+	}
+
+[Take photo]
+	{
+	zh-Hans=拍摄照片;
+	}
+
+[Photo not taken]
+	{
+	zh-Hans=照片未拍摄;
+	}
+
+[chat lines]
+	{
+	zh-Hans=条聊天消息;
+	}
+
+
+// Photo mode: looks, depth cues and posters.
+
+[Dusk]
+	{
+	zh-Hans=黄昏;
+	}
+
+[Arctic]
+	{
+	zh-Hans=极地;
+	}
+
+[Noir]
+	{
+	zh-Hans=黑色电影;
+	}
+
+[Bleach]
+	{
+	zh-Hans=漂白;
+	}
+
+[Vignette]
+	{
+	zh-Hans=暗角;
+	}
+
+[Roundness]
+	{
+	zh-Hans=圆度;
+	}
+
+[Grain]
+	{
+	zh-Hans=颗粒;
+	}
+
+[Grain size]
+	{
+	zh-Hans=颗粒大小;
+	}
+
+[Frame]
+	{
+	zh-Hans=边框;
+	}
+
+[Thin border]
+	{
+	zh-Hans=细边框;
+	}
+
+[Wide mat]
+	{
+	zh-Hans=宽衬边;
+	}
+
+[Caption bar]
+	{
+	zh-Hans=说明栏;
+	}
+
+[The preview lowers the frame rate.]
+	{
+	zh-Hans=预览会降低帧率。;
+	}
+
+[Depth]
+	{
+	zh-Hans=深度;
+	}
+
+[Band centre]
+	{
+	zh-Hans=清晰带中心;
+	}
+
+[Band width]
+	{
+	zh-Hans=清晰带宽度;
+	}
+
+[Blur]
+	{
+	zh-Hans=模糊;
+	}
+
+[Blurs by screen row, not by depth.]
+	{
+	zh-Hans=按屏幕行模糊，而不是按深度。;
+	}
+
+[Haze]
+	{
+	zh-Hans=薄雾;
+	}
+
+[Follows the ground, not the units.]
+	{
+	zh-Hans=跟随地面，而不是单位。;
+	}
+
+[Depth of field]
+	{
+	zh-Hans=景深;
+	}
+
+[This graphics card keeps no depth.]
+	{
+	zh-Hans=此显卡不保留深度信息。;
+	}
+
+[Poster]
+	{
+	zh-Hans=海报;
+	}
+
+[The view]
+	{
+	zh-Hans=当前视图;
+	}
+
+[Area]
+	{
+	zh-Hans=区域;
+	}
+
+[Freeze the picture]
+	{
+	zh-Hans=需先冻结画面;
+	}
+
+[A poster is the map from above: Classic view, {key}]
+	{
+	zh-Hans=海报是从上方看到的地图：经典视角，{key};
+	}
+
+
+// Photo mode: what is said when a photo is saved or copied, and why it was not.
+
+[Saved {name}]
+	{
+	zh-Hans=已保存{name};
+	}
+
+[Photo not saved: {reason}]
+	{
+	zh-Hans=照片未保存：{reason};
+	}
+
+[photo mode is not on]
+	{
+	zh-Hans=拍照模式未开启;
+	}
+
+[four photos are still being saved]
+	{
+	zh-Hans=还有四张照片正在保存;
+	}
+
+[the picture could not be read]
+	{
+	zh-Hans=无法读取画面;
+	}
+
+[the file could not be written]
+	{
+	zh-Hans=无法写入文件;
+	}
+
+[the graphics device was lost]
+	{
+	zh-Hans=图形设备已丢失;
+	}
+
+[the picture could not be drawn]
+	{
+	zh-Hans=无法绘制画面;
+	}
+
+[Photo not copied: {reason}]
+	{
+	zh-Hans=照片未复制：{reason};
+	}
+
+[a side is above 8192 pixels]
+	{
+	zh-Hans=有一边超过8192像素;
+	}
+
+[the photo is above 128 MB]
+	{
+	zh-Hans=照片超过128 MB;
+	}
+
+[the clipboard did not take the photo]
+	{
+	zh-Hans=剪贴板没有接受这张照片;
+	}
+
+[not available in Game Mode]
+	{
+	zh-Hans=游戏模式下不可用;
+	}
+
+[the clipboard holds text only]
+	{
+	zh-Hans=剪贴板只能存放文本;
+	}
+
+
+// Key bindings: playing a replay.
+
+[Plays or pauses the replay]
+	{
+	zh-Hans=播放或暂停回放;
+	}
+
+[Jumps back ten seconds]
+	{
+	zh-Hans=向后跳转10秒;
+	}
+
+[Jumps forward ten seconds]
+	{
+	zh-Hans=向前跳转10秒;
+	}
+
+[Jumps back a minute]
+	{
+	zh-Hans=向后跳转一分钟;
+	}
+
+[Jumps forward a minute]
+	{
+	zh-Hans=向前跳转一分钟;
+	}
+
+[Jumps to the previous marker]
+	{
+	zh-Hans=跳转到上一个标记;
+	}
+
+[Jumps to the next marker]
+	{
+	zh-Hans=跳转到下一个标记;
+	}
+
+[Jumps to the start of the replay]
+	{
+	zh-Hans=跳转到回放开头;
+	}
+
+[Jumps to the end of the replay]
+	{
+	zh-Hans=跳转到回放结尾;
+	}
+
+[Keeps the playback bar on screen]
+	{
+	zh-Hans=让播放栏一直显示在屏幕上;
+	}
+
+[Shows the playback keys]
+	{
+	zh-Hans=显示播放按键;
+	}
+
+[Step a tick]
+	{
+	zh-Hans=步进一个逻辑帧;
+	}
+
+[Advances one tick, then freezes]
+	{
+	zh-Hans=前进一个逻辑帧，然后冻结;
+	}
+
+[Step back]
+	{
+	zh-Hans=后退一步;
+	}
+
+[Goes back one tick, then freezes]
+	{
+	zh-Hans=后退一个逻辑帧，然后冻结;
+	}
+
+[All players' view]
+	{
+	zh-Hans=所有玩家的视图;
+	}
+
+[Shows the whole map and every unit]
+	{
+	zh-Hans=显示整张地图和所有单位;
+	}
+
+[Next player's view]
+	{
+	zh-Hans=下一位玩家的视图;
+	}
+
+[Shows the next player's view]
+	{
+	zh-Hans=显示下一位玩家的视图;
+	}
+
+[Previous player's view]
+	{
+	zh-Hans=上一位玩家的视图;
+	}
+
+[Shows the previous player's view]
+	{
+	zh-Hans=显示上一位玩家的视图;
+	}
+
+[Camera mode]
+	{
+	zh-Hans=视角模式;
+	}
+
+[Changes how the camera follows the game]
+	{
+	zh-Hans=改变视角跟随游戏的方式;
+	}
+
+
+// Key bindings: photo mode.
+
+[In photo mode]
+	{
+	zh-Hans=拍照时;
+	}
+
+[in photo mode]
+	{
+	zh-Hans=拍照时;
+	}
+
+[Keys in photo mode]
+	{
+	zh-Hans=拍照时的按键;
+	}
+
+[Opens photo mode]
+	{
+	zh-Hans=进入拍照模式;
+	}
+
+[Leaves photo mode]
+	{
+	zh-Hans=离开拍照模式;
+	}
+
+[Hides and shows the photo panel]
+	{
+	zh-Hans=隐藏或显示拍照面板;
+	}
+
+[Freeze / Hold picture]
+	{
+	zh-Hans=冻结 / 定格画面;
+	}
+
+[Holds the clock, or keeps this screen's last frame in a shared match]
+	{
+	zh-Hans=暂停时钟，或在多人游戏中保留这块屏幕的最后一帧;
+	}
+
+[Writes a photo of the battlefield]
+	{
+	zh-Hans=保存一张战场的照片;
+	}
+
+[Copy last photo]
+	{
+	zh-Hans=复制上一张照片;
+	}
+
+[Offers the last photo to the clipboard]
+	{
+	zh-Hans=把上一张照片放到剪贴板里;
+	}
+
+[Cycles the guides over the battlefield]
+	{
+	zh-Hans=在战场上循环切换辅助线;
+	}
+
+[Shutter back]
+	{
+	zh-Hans=快门后移;
+	}
+
+[Moves the shutter one eighth toward the previous tick]
+	{
+	zh-Hans=把快门朝上一个逻辑帧移动八分之一;
+	}
+
+[Shutter on]
+	{
+	zh-Hans=快门前移;
+	}
+
+[Moves the shutter one eighth toward the frozen tick]
+	{
+	zh-Hans=把快门朝冻结的逻辑帧移动八分之一;
+	}
+
+[Tilt up]
+	{
+	zh-Hans=向上倾斜;
+	}
+
+[Tilts the camera up]
+	{
+	zh-Hans=向上倾斜视角;
+	}
+
+[Tilt down]
+	{
+	zh-Hans=向下倾斜;
+	}
+
+[Tilts the camera down]
+	{
+	zh-Hans=向下倾斜视角;
+	}
+
+[Turn left]
+	{
+	zh-Hans=向左旋转;
+	}
+
+[Turns the camera left]
+	{
+	zh-Hans=向左旋转视角;
+	}
+
+[Turn right]
+	{
+	zh-Hans=向右旋转;
+	}
+
+[Turns the camera right]
+	{
+	zh-Hans=向右旋转视角;
+	}
+
+[Zooms in on the photo]
+	{
+	zh-Hans=放大取景;
+	}
+
+[Zooms out on the photo]
+	{
+	zh-Hans=缩小取景;
+	}
+
+[Mark area]
+	{
+	zh-Hans=标记区域;
+	}
+
+[Starts a poster mark at the view's centre]
+	{
+	zh-Hans=在视图中心开始标记海报区域;
+	}
+
+[Grow the mark up]
+	{
+	zh-Hans=向上扩大标记;
+	}
+
+[Grows the marked area up]
+	{
+	zh-Hans=向上扩大已标记的区域;
+	}
+
+[Grow the mark down]
+	{
+	zh-Hans=向下扩大标记;
+	}
+
+[Grows the marked area down]
+	{
+	zh-Hans=向下扩大已标记的区域;
+	}
+
+[Grow the mark left]
+	{
+	zh-Hans=向左扩大标记;
+	}
+
+[Grows the marked area to the left]
+	{
+	zh-Hans=向左扩大已标记的区域;
+	}
+
+[Grow the mark right]
+	{
+	zh-Hans=向右扩大标记;
+	}
+
+[Grows the marked area to the right]
+	{
+	zh-Hans=向右扩大已标记的区域;
+	}
+
+[Focus the panel's buttons]
+	{
+	zh-Hans=聚焦面板按钮;
+	}
+
+[Moves a ring over the order buttons and the build page. Press again to return to the battlefield.]
+	{
+	zh-Hans=在命令按钮和建造页上移动焦点框。再按一次可返回战场。;
+	}
+
+
+// The mutator picker: the grip a row is dragged by.
+
+[Drag to reorder]
+	{
+	zh-Hans=拖动以调整顺序;
+	}
+
+
+// Key bindings: Megamap.
+
+[Closes the megamap and zooms in at the pointer]
+	{
+	zh-Hans=关闭全景地图，并在指针处放大;
+	}
+
+
+// Entering the Boneyards: the questions the game asks before it starts, and why it cannot.
+
+[The Boneyards]
+	{
+	zh-Hans=Boneyards;
+	}
+
+[The Boneyards is installed. Start Open Annihilation again to enter the Boneyards.]
+	{
+	zh-Hans=Boneyards已安装。请重新启动Open Annihilation以进入Boneyards。;
+	}
+
+[The Boneyards needs by.ccx and the Boneyards folder.]
+	{
+	zh-Hans=Boneyards需要by.ccx和Boneyards文件夹。;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks and the content catalogue. Turn them on and continue?]
+	{
+	zh-Hans=Boneyards需要Open Annihilation的在线功能：更新检查和内容目录。要开启它们并继续吗？;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks, the content catalogue and {registry}'s install ID. Turn them on and continue?]
+	{
+	zh-Hans=Boneyards需要Open Annihilation的在线功能：更新检查、内容目录和{registry}的安装ID。要开启它们并继续吗？;
+	}
+
+[The Boneyards needs {registry}'s install ID turned on. Turn it on and continue?]
+	{
+	zh-Hans=Boneyards需要开启{registry}的安装ID。要开启它并继续吗？;
+	}
+
+[Turn on]
+	{
+	zh-Hans=开启;
+	}
+
+[Open Annihilation could not check for updates.]
+	{
+	zh-Hans=Open Annihilation无法检查更新。;
+	}
+
+[Open Annihilation {version} is out. The Boneyards needs the latest version.]
+	{
+	zh-Hans=Open Annihilation {version}已发布。Boneyards需要最新版本。;
+	}
+
+[Start Open Annihilation without the mod on its command line to enter the Boneyards.]
+	{
+	zh-Hans=要进入Boneyards，请在命令行中不带模组启动Open Annihilation。;
+	}
+
+[The Boneyards launches and reports games only on 3.1c, Core Contingency and Battle Tactics. Switch your mod off to play in the Boneyards.]
+	{
+	zh-Hans=Boneyards只在3.1c、Core Contingency和Battle Tactics上启动并上报游戏。请停用你的模组，再在Boneyards中游玩。;
+	}
+
+[The Boneyards plays Total Annihilation without mods. Switch {mod} off and enter the Boneyards?]
+	{
+	zh-Hans=Boneyards运行的是不带模组的Total Annihilation。要停用{mod}并进入Boneyards吗？;
+	}
+
+[Switch off and enter]
+	{
+	zh-Hans=停用并进入;
+	}
+
+[Switch {mod} back on?]
+	{
+	zh-Hans=要重新启用{mod}吗？;
+	}
+
+[Switch on]
+	{
+	zh-Hans=启用;
+	}
+
+
+// Deleting a replay: the question over the Library, and where the file goes.
+
+[Delete this replay?]
+	{
+	zh-Hans=要删除此回放吗？;
+	}
+
+[Delete these {count} replays?]
+	{
+	zh-Hans=要删除这{count}个回放吗？;
+	}
+
+[Delete replays]
+	{
+	zh-Hans=删除这些回放;
+	}
+
+[It goes to the system's trash.]
+	{
+	zh-Hans=它会被移到系统回收站。;
+	}
+
+[They go to the system's trash.]
+	{
+	zh-Hans=它们会被移到系统回收站。;
+	}
+
+[It is deleted and cannot be undone. This system has no trash.]
+	{
+	zh-Hans=它会被删除且无法撤销。此系统没有回收站。;
+	}
+
+[They are deleted and cannot be undone. This system has no trash.]
+	{
+	zh-Hans=它们会被删除且无法撤销。此系统没有回收站。;
+	}
+
+
+// Settings > Game Content: a stray archive, and the question that removes it.
+
+[{file} is not one of its files]
+	{
+	zh-Hans={file}不是它的文件;
+	}
+
+[{count} archives are not its files]
+	{
+	zh-Hans=有{count}个数据包不是它的文件;
+	}
+
+[{file} in {folder}, {size} bytes, is not a file of {bundle}. The game does not read it.]
+	{
+	zh-Hans={folder}中的{file}（{size}字节）不是{bundle}的文件。游戏不会读取它。;
+	}
+
+[Remove…]
+	{
+	zh-Hans=删除…;
+	}
+
+[Move {file} to the trash?]
+	{
+	zh-Hans=要把{file}移到回收站吗？;
+	}
+
+[Delete {file}? This system has no trash.]
+	{
+	zh-Hans=要删除{file}吗？此系统没有回收站。;
+	}
+
+[Move to Trash]
+	{
+	zh-Hans=移到回收站;
+	}
+
+
+// The Boneyards entry: game files that are not Total Annihilation's, and the repair.
+
+[Repair…]
+	{
+	zh-Hans=修复…;
+	}
+
+[{file} in {folder} does not match Total Annihilation's, so the Boneyards cannot be entered. Copy the game again from your own install or CD to enter.]
+	{
+	zh-Hans={folder}中的{file}与Total Annihilation的不一致，因此无法进入Boneyards。请从你自己的安装版或光盘重新复制游戏，再进入。;
+	}
+
+[{file} in {folder} does not match Total Annihilation's. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	zh-Hans={folder}中的{file}与Total Annihilation的不一致。Boneyards只使用Open Annihilation自己的游戏副本：请从你自己的安装版或光盘复制，再进入。;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files, so the Boneyards cannot be entered. Remove it to enter.]
+	{
+	zh-Hans={folder}中的{file}不是Total Annihilation的文件，因此无法进入Boneyards。请删除它再进入。;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	zh-Hans={folder}中的{file}不是Total Annihilation的文件。Boneyards只使用Open Annihilation自己的游戏副本：请从你自己的安装版或光盘复制，再进入。;
+	}
+
+[{file} in {folder} is not Total Annihilation's own. The Boneyards launches and reports games only on Total Annihilation's own files. Leave the Boneyards and repair it in Settings › Game Content.]
+	{
+	zh-Hans={folder}中的{file}不是Total Annihilation自带的文件。Boneyards只在Total Annihilation自带的文件上启动并上报游戏。请离开Boneyards，并在设置 › 游戏内容中修复。;
+	}
+
+
+// The battle room: game files that differ from Total Annihilation's, and the units its unit sync found not alike.
+
+[*** Your game files differ from Total Annihilation's, so this battle cannot start. Leave it and repair them in Settings › Game Content.]
+	{
+	zh-Hans=*** 你的游戏文件与Total Annihilation的不一致，因此无法开始本战斗。请离开战斗，并在设置 › 游戏内容中修复它们。;
+	}
+
+[*** {player}'s game files differ from Total Annihilation's; they must repair them before this battle can start.]
+	{
+	zh-Hans=*** {player}的游戏文件与Total Annihilation的不一致；必须先修复，本战斗才能开始。;
+	}
+
+[*** Press START again to start anyway. Those units stay unavailable in this battle.]
+	{
+	zh-Hans=*** 再按一次开始，仍可开始战斗。这些单位在本战斗中仍不可用。;
+	}
+
+[*** {units} differs on {player}'s machine and can't be built in this battle.]
+	{
+	zh-Hans=*** {units}在{player}的电脑上不一致，本战斗中无法建造。;
+	}
+
+[*** {units} differ on {player}'s machine and can't be built in this battle.]
+	{
+	zh-Hans=*** {units}在{player}的电脑上不一致，本战斗中无法建造。;
+	}
+
+[*** {units} differs between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	zh-Hans=*** {units}在{first}和{second}的电脑之间不一致，本战斗中无法建造。;
+	}
+
+[*** {units} differ between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	zh-Hans=*** {units}在{first}和{second}的电脑之间不一致，本战斗中无法建造。;
+	}
+
+[*** {units} differs between {count} players' machines and can't be built in this battle.]
+	{
+	zh-Hans=*** {units}在{count}位玩家的电脑之间不一致，本战斗中无法建造。;
+	}
+
+[*** {units} differ between {count} players' machines and can't be built in this battle.]
+	{
+	zh-Hans=*** {units}在{count}位玩家的电脑之间不一致，本战斗中无法建造。;
+	}
+
+[a player who left]
+	{
+	zh-Hans=一位已离开的玩家;
+	}
+
+[1 other unit]
+	{
+	zh-Hans=另外1个单位;
+	}
+
+[{count} other units]
+	{
+	zh-Hans=另外{count}个单位;
+	}
+
+[{list} and {last}]
+	{
+	zh-Hans={list}和{last};
 	}
 
