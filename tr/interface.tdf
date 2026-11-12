@@ -11298,11 +11298,6 @@
 	tr=Mega haritayı kapat;
 	}
 
-[Closes the megamap and centres on the pointer]
-	{
-	tr=Mega haritayı kapatır ve işaretçinin yerini ortaya alır;
-	}
-
 [Jumps the view to a point of the megamap]
 	{
 	tr=Görünümü mega haritada bir noktaya atlatır;
@@ -16058,5 +16053,3019 @@
 [Open the download page]
 	{
 	tr=İndirme sayfasını aç;
+	}
+
+// Settings › Replays: recording games, keeping them and opening replay files.
+
+[30 days]
+	{
+	tr=30 gün;
+	}
+
+[90 days]
+	{
+	tr=90 gün;
+	}
+
+[A .oademo or a .tad file opens in this copy.]
+	{
+	tr=Bir .oademo veya .tad dosyası bu kopyada açılır.;
+	}
+
+[A year]
+	{
+	tr=Bir yıl;
+	}
+
+[Campaign missions, skirmish, multiplayer and Boneyards battles. Applies from the next game.]
+	{
+	tr=Sefer görevleri, çatışma, çok oyunculu ve Boneyards savaşları. Sonraki oyundan itibaren geçerli olur.;
+	}
+
+[Forever]
+	{
+	tr=Sonsuza kadar;
+	}
+
+[Keep replays for]
+	{
+	tr=Tekrarları tutma süresi;
+	}
+
+[Open replay files with Open Annihilation]
+	{
+	tr=Tekrar dosyalarını Open Annihilation ile aç;
+	}
+
+[Record my games]
+	{
+	tr=Oyunlarımı kaydet;
+	}
+
+[Replays]
+	{
+	tr=Tekrarlar;
+	}
+
+[REPLAYS]
+	{
+	tr=TEKRARLAR;
+	}
+
+[Replays you keep in the Library stay until you delete them.]
+	{
+	tr=Kitaplıkta tuttuğun tekrarlar, sen silene kadar kalır.;
+	}
+
+// Settings › Accessibility: colour vision, shape cues, the screen reader and what it speaks.
+
+[A player joining or leaving the battle room, and a change of ready, side, colour, team, map or option.]
+	{
+	tr=Savaş odasına katılan veya odadan ayrılan oyuncu ve hazır, taraf, renk, takım, harita ya da seçenek değişiklikleri.;
+	}
+
+[Achromatopsia]
+	{
+	tr=Akromatopsi;
+	}
+
+[Achromatopsia keeps shape cues on]
+	{
+	tr=Akromatopsi şekil ipuçlarını açık tutar;
+	}
+
+[Always show focus]
+	{
+	tr=Odağı her zaman göster;
+	}
+
+[Automatic works with a screen reader while the system says one is running. On also works with one the system does not report. Off never does.]
+	{
+	tr=Otomatik, sistem bir ekran okuyucunun çalıştığını bildirdiği sürece ekran okuyucuyla çalışır. Açık, sistemin bildirmediği okuyucuyla da çalışır. Kapalı hiçbiriyle çalışmaz.;
+	}
+
+[Changes team colours, the minimap, bars, the war map and status colours on this machine only.]
+	{
+	tr=Takım renklerini, küçük haritayı, çubukları, savaş haritasını ve durum renklerini yalnızca bu makinede değiştirir.;
+	}
+
+[Chat lines and whispers, pages only, or neither.]
+	{
+	tr=Sohbet satırları ve fısıltılar, yalnızca çağrılar ya da hiçbiri.;
+	}
+
+[Colour vision]
+	{
+	tr=Renk algısı;
+	}
+
+[Deuteranopia]
+	{
+	tr=Deuteranopi;
+	}
+
+[Nothing on this system can speak.]
+	{
+	tr=Bu sistemde konuşabilen bir şey yok.;
+	}
+
+[Pages only]
+	{
+	tr=Yalnızca çağrılar;
+	}
+
+[Player markers, side symbols, notched bars and a mark on every status.]
+	{
+	tr=Oyuncu işaretleri, taraf simgeleri, çentikli çubuklar ve her durumda bir işaret.;
+	}
+
+[Protanopia]
+	{
+	tr=Protanopi;
+	}
+
+[Screen reader]
+	{
+	tr=Ekran okuyucu;
+	}
+
+[Shape cues]
+	{
+	tr=Şekil ipuçları;
+	}
+
+[Speak chat]
+	{
+	tr=Sohbeti seslendir;
+	}
+
+[Speak lobby changes]
+	{
+	tr=Lobi değişikliklerini seslendir;
+	}
+
+[Speak the ticker]
+	{
+	tr=Kayan yazıyı seslendir;
+	}
+
+[The focus ring is drawn on the first item when a screen opens.]
+	{
+	tr=Bir ekran açıldığında odak halkası ilk öğenin üstüne çizilir.;
+	}
+
+[The ten player colours, then OK, caution, danger and information.]
+	{
+	tr=On oyuncu rengi, ardından OK, dikkat, tehlike ve bilgi renkleri.;
+	}
+
+[The ticker repeats, so it stays quiet until this is on.]
+	{
+	tr=Kayan yazı kendini tekrarlar, bu yüzden bu açılana kadar sessiz kalır.;
+	}
+
+[Tritanopia]
+	{
+	tr=Tritanopi;
+	}
+
+// Library › Replays: the list, its filters, its order, its day headings and its empty and status lines.
+
+[This month]
+	{
+	tr=Bu ay;
+	}
+
+[Older]
+	{
+	tr=Daha eski;
+	}
+
+[Kept]
+	{
+	tr=Tutuldu;
+	}
+
+[Imported]
+	{
+	tr=İçe aktarıldı;
+	}
+
+[All kinds]
+	{
+	tr=Tüm türler;
+	}
+
+[Newest first]
+	{
+	tr=Önce en yeni;
+	}
+
+[Longest first]
+	{
+	tr=Önce en uzun;
+	}
+
+[By map]
+	{
+	tr=Haritaya göre;
+	}
+
+[Most players first]
+	{
+	tr=Önce en çok oyunculu;
+	}
+
+[Search replays]
+	{
+	tr=Tekrar ara;
+	}
+
+[Today]
+	{
+	tr=Bugün;
+	}
+
+[Yesterday]
+	{
+	tr=Dün;
+	}
+
+[{weekday} {day} {month}]
+	{
+	tr={day} {month} {weekday};
+	}
+
+[{weekday} {day} {month} {year}]
+	{
+	tr={day} {month} {year} {weekday};
+	}
+
+[Mon]
+	{
+	tr=Pzt;
+	}
+
+[Tue]
+	{
+	tr=Sal;
+	}
+
+[Wed]
+	{
+	tr=Çar;
+	}
+
+[Thu]
+	{
+	tr=Per;
+	}
+
+[Fri]
+	{
+	tr=Cum;
+	}
+
+[Sat]
+	{
+	tr=Cmt;
+	}
+
+[Sun]
+	{
+	tr=Paz;
+	}
+
+[Jan]
+	{
+	tr=Oca;
+	}
+
+[Feb]
+	{
+	tr=Şub;
+	}
+
+[Mar]
+	{
+	tr=Mar;
+	}
+
+[Apr]
+	{
+	tr=Nis;
+	}
+
+[May]
+	{
+	tr=May;
+	}
+
+[Jun]
+	{
+	tr=Haz;
+	}
+
+[Jul]
+	{
+	tr=Tem;
+	}
+
+[Aug]
+	{
+	tr=Ağu;
+	}
+
+[Sep]
+	{
+	tr=Eyl;
+	}
+
+[Oct]
+	{
+	tr=Eki;
+	}
+
+[Nov]
+	{
+	tr=Kas;
+	}
+
+[Dec]
+	{
+	tr=Ara;
+	}
+
+[{left} vs {right}]
+	{
+	tr={left} vs {right};
+	}
+
+[{kind} · {planet}]
+	{
+	tr={kind} · {planet};
+	}
+
+[{kind} · {planet}, {sector}]
+	{
+	tr={kind} · {planet}, {sector};
+	}
+
+[No replays yet.]
+	{
+	tr=Henüz tekrar yok.;
+	}
+
+[Recording is off.]
+	{
+	tr=Kayıt kapalı.;
+	}
+
+[No replays from this month.]
+	{
+	tr=Bu aydan tekrar yok.;
+	}
+
+[No older replays.]
+	{
+	tr=Daha eski tekrar yok.;
+	}
+
+[No replays kept.]
+	{
+	tr=Tutulan tekrar yok.;
+	}
+
+[No replays imported.]
+	{
+	tr=İçe aktarılan tekrar yok.;
+	}
+
+[No replays of this kind.]
+	{
+	tr=Bu türden tekrar yok.;
+	}
+
+[Open a replay file…]
+	{
+	tr=Tekrar dosyası aç…;
+	}
+
+[Games you play are kept here for 30 days.]
+	{
+	tr=Oynadığın oyunlar burada 30 gün tutulur.;
+	}
+
+[Games you play are kept here for 90 days.]
+	{
+	tr=Oynadığın oyunlar burada 90 gün tutulur.;
+	}
+
+[Games you play are kept here for a year.]
+	{
+	tr=Oynadığın oyunlar burada bir yıl tutulur.;
+	}
+
+[Games you play are kept here until you delete them.]
+	{
+	tr=Oynadığın oyunlar burada silinene kadar tutulur.;
+	}
+
+[Reading the replays…]
+	{
+	tr=Tekrarlar okunuyor…;
+	}
+
+[Reading {read} of {total} replays]
+	{
+	tr=Tekrarlar okunuyor: {read} / {total};
+	}
+
+[1 replay · {size}]
+	{
+	tr=1 tekrar · {size};
+	}
+
+[{count} replays · {size}]
+	{
+	tr={count} tekrar · {size};
+	}
+
+// Library › Replays: a row and the details card.
+
+[After a crash]
+	{
+	tr=Çökme sonrası;
+	}
+
+[Reading…]
+	{
+	tr=Okunuyor…;
+	}
+
+[Won]
+	{
+	tr=Kazandı;
+	}
+
+[Lost]
+	{
+	tr=Kaybetti;
+	}
+
+[1 kill]
+	{
+	tr=1 imha;
+	}
+
+[{kills} kills]
+	{
+	tr={kills} imha;
+	}
+
+[1 loss]
+	{
+	tr=1 kayıp;
+	}
+
+[{losses} losses]
+	{
+	tr={losses} kayıp;
+	}
+
+[Watched to {time}]
+	{
+	tr={time} anına kadar izlendi;
+	}
+
+[Damaged]
+	{
+	tr=Bozuk;
+	}
+
+[Length]
+	{
+	tr=Süre;
+	}
+
+[Recorded]
+	{
+	tr=Kaydedildi;
+	}
+
+[File]
+	{
+	tr=Dosya;
+	}
+
+[Kept until]
+	{
+	tr=Tutulma sonu;
+	}
+
+[Until you delete it]
+	{
+	tr=Silinene kadar;
+	}
+
+[Imported replays are kept]
+	{
+	tr=İçe aktarılan tekrarlar tutulur;
+	}
+
+[Downloaded replays are kept]
+	{
+	tr=İndirilen tekrarlar tutulur;
+	}
+
+[Exported replays are kept]
+	{
+	tr=Dışa aktarılan tekrarlar tutulur;
+	}
+
+[{mod} (rev {revision})]
+	{
+	tr={mod} (düz. {revision});
+	}
+
+[Arm]
+	{
+	tr=ARM;
+	}
+
+[Core]
+	{
+	tr=CORE;
+	}
+
+[Watcher]
+	{
+	tr=İzleyici;
+	}
+
+[Watch]
+	{
+	tr=İzle;
+	}
+
+[Watch from {time}]
+	{
+	tr=İzle: {time};
+	}
+
+[Turn on recording]
+	{
+	tr=Kaydı aç;
+	}
+
+// Library › Replays: what a replay needs before it can be watched, and getting it.
+
+[Downloads are off for {registry}.]
+	{
+	tr={registry} için indirmeler kapalı.;
+	}
+
+[Needs {version}]
+	{
+	tr={version} gerekli;
+	}
+
+[This replay was recorded with {name}.]
+	{
+	tr=Bu tekrar {name} ile kaydedildi.;
+	}
+
+[This replay was recorded with {name} {version}.]
+	{
+	tr=Bu tekrar {name} {version} ile kaydedildi.;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}).]
+	{
+	tr=Bu tekrar {name} {version} (düz. {revision}) ile kaydedildi.;
+	}
+
+[This replay was recorded with {name}. You have {have}.]
+	{
+	tr=Bu tekrar {name} ile kaydedildi. Sende {have} var.;
+	}
+
+[This replay was recorded with {name} {version}. You have {have}.]
+	{
+	tr=Bu tekrar {name} {version} ile kaydedildi. Sende {have} var.;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}). You have {have}.]
+	{
+	tr=Bu tekrar {name} {version} (düz. {revision}) ile kaydedildi. Sende {have} var.;
+	}
+
+[Needs the map {name}.]
+	{
+	tr={name} haritası gerekli.;
+	}
+
+[From the map pack {pack}.]
+	{
+	tr={pack} harita paketinden.;
+	}
+
+[This replay was recorded with another release of the map pack {name}.]
+	{
+	tr=Bu tekrar {name} harita paketinin başka bir sürümüyle kaydedildi.;
+	}
+
+[Needs the mutator {name}.]
+	{
+	tr={name} mutatörü gerekli.;
+	}
+
+[Needs Open Annihilation {version}.]
+	{
+	tr=Open Annihilation {version} gerekir.;
+	}
+
+[Getting {name}… {percent}%]
+	{
+	tr={name} alınıyor… {percent}%;
+	}
+
+[Get {name} {version} and watch]
+	{
+	tr={name} {version} al ve izle;
+	}
+
+[Get it and watch]
+	{
+	tr=Al ve izle;
+	}
+
+[Get them and watch]
+	{
+	tr=Hepsini al ve izle;
+	}
+
+[Turn on and watch]
+	{
+	tr=Aç ve izle;
+	}
+
+[{name} {version} is not in {registry}'s catalogue.]
+	{
+	tr={name} {version}, {registry} kataloğunda yok.;
+	}
+
+[{name} is not in {registry}'s catalogue.]
+	{
+	tr={name}, {registry} kataloğunda yok.;
+	}
+
+[Needs {name} {version}]
+	{
+	tr={name} {version} gerekli;
+	}
+
+[Needs map]
+	{
+	tr=Harita gerekli;
+	}
+
+[Needs mutator]
+	{
+	tr=Mutatör gerekli;
+	}
+
+[Needs {name}.]
+	{
+	tr={name} gerekli.;
+	}
+
+[You're offline.]
+	{
+	tr=Çevrimdışısın.;
+	}
+
+[Get {name} {version} when you're back online.]
+	{
+	tr=Çevrimiçi olunca {name} {version} al.;
+	}
+
+[Get {name} when you're back online.]
+	{
+	tr=Çevrimiçi olunca {name} al.;
+	}
+
+// Library › Replays: deleting, and the question about old replays.
+
+[Delete replay]
+	{
+	tr=Tekrarı sil;
+	}
+
+[{count} replays selected]
+	{
+	tr={count} tekrar seçildi;
+	}
+
+[This replay cannot be watched.]
+	{
+	tr=Bu tekrar izlenemez.;
+	}
+
+[This replay could not be moved to the trash.]
+	{
+	tr=Bu tekrar çöp kutusuna taşınamadı.;
+	}
+
+[{count} replays could not be moved to the trash.]
+	{
+	tr={count} tekrar çöp kutusuna taşınamadı.;
+	}
+
+[Old replays]
+	{
+	tr=Eski tekrarlar;
+	}
+
+[Keep them all]
+	{
+	tr=Hepsini tut;
+	}
+
+[Let them go]
+	{
+	tr=Bırak gitsinler;
+	}
+
+[1 replay is older than you asked to keep. It goes to the system's trash.]
+	{
+	tr=1 tekrar, tutulmasını istediğin süreden daha eski. Sistemin çöp kutusuna gider.;
+	}
+
+[{count} replays are older than you asked to keep. They go to the system's trash.]
+	{
+	tr={count} tekrar, tutulmasını istediğin süreden daha eski. Sistemin çöp kutusuna giderler.;
+	}
+
+[1 replay is older than you asked to keep. It is deleted. This system has no trash.]
+	{
+	tr=1 tekrar, tutulmasını istediğin süreden daha eski. Silinir. Bu sistemde çöp kutusu yok.;
+	}
+
+[{count} replays are older than you asked to keep. They are deleted. This system has no trash.]
+	{
+	tr={count} tekrar, tutulmasını istediğin süreden daha eski. Silinirler. Bu sistemde çöp kutusu yok.;
+	}
+
+// Library › Replays: on Core Prime, signing in and sharing.
+
+[On this computer]
+	{
+	tr=Bu bilgisayarda;
+	}
+
+[On Core Prime]
+	{
+	tr=Core Prime üzerinde;
+	}
+
+[Longest]
+	{
+	tr=En uzun;
+	}
+
+[Popular]
+	{
+	tr=Popüler;
+	}
+
+[By planet]
+	{
+	tr=Gezegene göre;
+	}
+
+[Browse Core Prime's replays]
+	{
+	tr=Core Prime tekrarlarına göz at;
+	}
+
+[Reading Core Prime's replays…]
+	{
+	tr=Core Prime tekrarları okunuyor…;
+	}
+
+[Shared on Core Prime]
+	{
+	tr=Core Prime üzerinde paylaşıldı;
+	}
+
+[Already on Core Prime]
+	{
+	tr=Zaten Core Prime üzerinde;
+	}
+
+[Sign in to share a replay.]
+	{
+	tr=Bir tekrarı paylaşmak için oturum aç.;
+	}
+
+[This account cannot share replays.]
+	{
+	tr=Bu hesap tekrar paylaşamaz.;
+	}
+
+[Only a player in that battle can replace its replay.]
+	{
+	tr=Bir tekrarı yalnızca o savaştaki bir oyuncu değiştirebilir.;
+	}
+
+[The replay is larger than the limit.]
+	{
+	tr=Tekrar sınırdan büyük.;
+	}
+
+[This account has shared its replays for today.]
+	{
+	tr=Bu hesap bugün için yeterince tekrar paylaştı.;
+	}
+
+[Uploads are not available.]
+	{
+	tr=Yüklemeler kullanılamıyor.;
+	}
+
+[Core Prime did not start a session.]
+	{
+	tr=Core Prime oturum başlatmadı.;
+	}
+
+[Core Prime did not answer.]
+	{
+	tr=Core Prime yanıt vermedi.;
+	}
+
+[Core Prime's list cannot be read.]
+	{
+	tr=Core Prime listesi okunamıyor.;
+	}
+
+[Core Prime's replays are not available just now.]
+	{
+	tr=Core Prime tekrarları şu an kullanılamıyor.;
+	}
+
+[Core Prime cannot be reached.]
+	{
+	tr=Core Prime erişilemez durumda.;
+	}
+
+[Core Prime has no replays to show.]
+	{
+	tr=Core Prime üzerinde gösterilecek tekrar yok.;
+	}
+
+[No replays for this planet.]
+	{
+	tr=Bu gezegen için tekrar yok.;
+	}
+
+[1 replay]
+	{
+	tr=1 tekrar;
+	}
+
+[{count} replays]
+	{
+	tr={count} tekrar;
+	}
+
+[Getting the replay…]
+	{
+	tr=Tekrar alınıyor…;
+	}
+
+[The file does not match the replay.]
+	{
+	tr=Dosya tekrarla eşleşmiyor.;
+	}
+
+[The replay names no file.]
+	{
+	tr=Tekrar bir dosya belirtmiyor.;
+	}
+
+[The replay could not be saved.]
+	{
+	tr=Tekrar kaydedilemedi.;
+	}
+
+[Try again in {seconds} s.]
+	{
+	tr={seconds} sn sonra yeniden dene.;
+	}
+
+[The check ran out. Try again for a new code.]
+	{
+	tr=Denetimin süresi doldu. Yeni kod için yeniden dene.;
+	}
+
+[Go to {address} and enter {code}.]
+	{
+	tr={address} adresine git ve {code} kodunu gir.;
+	}
+
+[Handle]
+	{
+	tr=Kullanıcı adı;
+	}
+
+[Password]
+	{
+	tr=Parola;
+	}
+
+[Forgot it? Reset it at coreprime.net/forgot]
+	{
+	tr=Unuttun mu? coreprime.net/forgot adresinde sıfırla;
+	}
+
+[Signing in needs a secure connection, which this system does not have.]
+	{
+	tr=Oturum açmak için güvenli bir bağlantı gerekir, bu sistemde yok.;
+	}
+
+[Share on Core Prime…]
+	{
+	tr=Core Prime üzerinde paylaş…;
+	}
+
+[Share my own recording]
+	{
+	tr=Kendi kaydımı paylaş;
+	}
+
+[Open on Core Prime]
+	{
+	tr=Core Prime üzerinde aç;
+	}
+
+[Share]
+	{
+	tr=Paylaş;
+	}
+
+[Share on Core Prime]
+	{
+	tr=Core Prime üzerinde paylaş;
+	}
+
+[Title]
+	{
+	tr=Başlık;
+	}
+
+[Public]
+	{
+	tr=Herkese açık;
+	}
+
+[Unlisted]
+	{
+	tr=Listelenmemiş;
+	}
+
+[My battles]
+	{
+	tr=Savaşlarım;
+	}
+
+[Signing in…]
+	{
+	tr=Oturum açılıyor…;
+	}
+
+[Sharing…]
+	{
+	tr=Paylaşılıyor…;
+	}
+
+[Sign in]
+	{
+	tr=Oturum aç;
+	}
+
+[Sign out]
+	{
+	tr=Oturumu kapat;
+	}
+
+[Sign in to Core Prime]
+	{
+	tr=Core Prime hesabıyla oturum aç;
+	}
+
+// Library › Replays: exporting.
+
+[Export…]
+	{
+	tr=Dışa aktar…;
+	}
+
+[Export]
+	{
+	tr=Dışa aktar;
+	}
+
+[Export {name}]
+	{
+	tr=Dışa aktar: {name};
+	}
+
+[Export {count} replays]
+	{
+	tr={count} tekrarı dışa aktar;
+	}
+
+[Open Annihilation replay (.oademo)]
+	{
+	tr=Open Annihilation tekrarı (.oademo);
+	}
+
+[Everything needed to watch it: the recording, and the game, mod and map it needs]
+	{
+	tr=İzlemek için gereken her şey: kayıt ve gereken oyun, mod ve harita;
+	}
+
+[TA Demo Recorder (.tad)]
+	{
+	tr=TA Demo Recorder (.tad);
+	}
+
+[For TA Demo Recorder and other replayers]
+	{
+	tr=TA Demo Recorder ve diğer tekrar oynatıcılar için;
+	}
+
+[What to include]
+	{
+	tr=Dahil edilecekler;
+	}
+
+[What only Open Annihilation reads]
+	{
+	tr=Yalnızca Open Annihilation'ın okuduğu veriler;
+	}
+
+[Compatibility]
+	{
+	tr=Uyumluluk;
+	}
+
+[It was played with the mutator {name}. Other replayers cannot apply it, so commanders may not last as they did.]
+	{
+	tr={name} mutatörüyle oynandı. Diğer tekrar oynatıcılar onu uygulayamaz, bu yüzden komutanlar eskisi kadar dayanmayabilir.;
+	}
+
+[It was played with mutators. Other replayers cannot apply them, so commanders may not last as they did.]
+	{
+	tr=Mutatörlerle oynandı. Diğer tekrar oynatıcılar onları uygulayamaz, bu yüzden komutanlar eskisi kadar dayanmayabilir.;
+	}
+
+[Other replayers stop at the first of this mod's wide weapon records.]
+	{
+	tr=Diğer tekrar oynatıcılar bu modun ilk geniş silah kaydında durur.;
+	}
+
+[Names longer than 63 letters are cut.]
+	{
+	tr=63 harften uzun adlar kesilir.;
+	}
+
+[A player's status is cut to 512 bytes.]
+	{
+	tr=Bir oyuncunun durumu 512 bayta kesilir.;
+	}
+
+[Exporting {done} of {total}]
+	{
+	tr=Dışa aktarılıyor: {done} / {total};
+	}
+
+[Compressing the recording]
+	{
+	tr=Kayıt sıkıştırılıyor;
+	}
+
+[Writing {name}]
+	{
+	tr={name} yazılıyor;
+	}
+
+[Measuring…]
+	{
+	tr=Ölçülüyor…;
+	}
+
+[Saved to {folder}]
+	{
+	tr=Kaydedildi: {folder};
+	}
+
+[Show in folder]
+	{
+	tr=Klasörde göster;
+	}
+
+[Nothing is selected. Choose a replay, then export it.]
+	{
+	tr=Hiçbir şey seçilmedi. Bir tekrar seç, sonra dışa aktar.;
+	}
+
+[The export could not be written.]
+	{
+	tr=Dışa aktarım yazılamadı.;
+	}
+
+[There is no room in {folder}.]
+	{
+	tr={folder} içinde yer yok.;
+	}
+
+[Open Annihilation cannot write to {folder}.]
+	{
+	tr=Open Annihilation {folder} içine yazamıyor.;
+	}
+
+[Saved {done} of {total}.]
+	{
+	tr=Kaydedilen: {done} / {total}.;
+	}
+
+[This replay cannot be read, so it cannot be exported.]
+	{
+	tr=Bu tekrar okunamıyor, bu yüzden dışa aktarılamaz.;
+	}
+
+[More folders]
+	{
+	tr=Daha fazla klasör;
+	}
+
+[Previous folders]
+	{
+	tr=Önceki klasörler;
+	}
+
+[More warnings]
+	{
+	tr=Daha fazla uyarı;
+	}
+
+[Previous warnings]
+	{
+	tr=Önceki uyarılar;
+	}
+
+// The replay viewer: its playback bar, player list and end card.
+
+[Catching up… {percent} %]
+	{
+	tr=Yetişiliyor… {percent} %;
+	}
+
+[The recording is damaged after {time}]
+	{
+	tr=Kayıt {time} sonrasında bozuk;
+	}
+
+[Watch again]
+	{
+	tr=Yeniden izle;
+	}
+
+[Back to the Library]
+	{
+	tr=Kitaplığa dön;
+	}
+
+[Undecided]
+	{
+	tr=Belirsiz;
+	}
+
+[{name} won]
+	{
+	tr={name} kazandı;
+	}
+
+[{time} · {name}'s commander destroyed]
+	{
+	tr={time} · {name} Komutanı yok edildi;
+	}
+
+[{time} · {name} dropped]
+	{
+	tr={time} · {name} bağlantısı koptu;
+	}
+
+[{time} · {name} left]
+	{
+	tr={time} · {name} ayrıldı;
+	}
+
+[{time} · {name} was defeated]
+	{
+	tr={time} · {name} yenildi;
+	}
+
+[{time} · {name} allied]
+	{
+	tr={time} · {name} müttefik oldu;
+	}
+
+[{time} · {name} broke the alliance]
+	{
+	tr={time} · {name} ittifakı bozdu;
+	}
+
+[{time} · {name}: {line}]
+	{
+	tr={time} · {name}: {line};
+	}
+
+[{time} · Paused]
+	{
+	tr={time} · Duraklatıldı;
+	}
+
+[{time} · End]
+	{
+	tr={time} · Son;
+	}
+
+[2×]
+	{
+	tr=2×;
+	}
+
+[{asked} · {reached} now]
+	{
+	tr={asked} · şimdi {reached};
+	}
+
+[½×]
+	{
+	tr=½×;
+	}
+
+[Losses]
+	{
+	tr=Kayıp;
+	}
+
+[Leave]
+	{
+	tr=Çık;
+	}
+
+[Photo]
+	{
+	tr=Fotoğraf;
+	}
+
+[No markers yet · finding them, {percent} %]
+	{
+	tr=Henüz işaret yok · aranıyor, {percent} %;
+	}
+
+[Only a replay in the Library can be exported]
+	{
+	tr=Yalnızca Kitaplıktaki bir tekrar dışa aktarılabilir;
+	}
+
+[No result]
+	{
+	tr=Sonuç yok;
+	}
+
+[All players]
+	{
+	tr=Tüm oyuncular;
+	}
+
+[Follow their camera]
+	{
+	tr=Oyuncunun kamerasını izle;
+	}
+
+[Follow a unit]
+	{
+	tr=Bir birimi izle;
+	}
+
+[Director]
+	{
+	tr=Yönetmen;
+	}
+
+[Defeated {time}]
+	{
+	tr=Yenildi: {time};
+	}
+
+[Left {time}]
+	{
+	tr=Ayrıldı: {time};
+	}
+
+// Replay files: why one cannot be read, played or opened.
+
+[This file is not a replay.]
+	{
+	tr=Bu dosya bir tekrar değil.;
+	}
+
+[This recording cannot be read.]
+	{
+	tr=Bu kayıt okunamıyor.;
+	}
+
+[This file cannot be read.]
+	{
+	tr=Bu dosya okunamıyor.;
+	}
+
+[This replay is not a version this game reads.]
+	{
+	tr=Bu tekrar, oyunun okuduğu bir sürüm değil.;
+	}
+
+[This file is too large to be a replay.]
+	{
+	tr=Bu dosya bir tekrar olamayacak kadar büyük.;
+	}
+
+[This replay does not hold one recording.]
+	{
+	tr=Bu tekrar tek bir kayıt içermiyor.;
+	}
+
+[This file is not a TA Demo recording]
+	{
+	tr=Bu dosya bir TA Demo kaydı değil;
+	}
+
+[This replay's recording does not match.]
+	{
+	tr=Bu tekrarın kaydı eşleşmiyor.;
+	}
+
+[This replay could not be copied into Recordings.]
+	{
+	tr=Bu tekrar Recordings içine kopyalanamadı.;
+	}
+
+[This replay's recording is too long to play.]
+	{
+	tr=Bu tekrarın kaydı oynatılamayacak kadar uzun.;
+	}
+
+[This recording is in version {version} of the format, which Open Annihilation does not play]
+	{
+	tr=Bu kayıt biçimin {version} sürümünde, Open Annihilation bunu oynatmaz;
+	}
+
+[This replay's details cannot be read.]
+	{
+	tr=Bu tekrarın ayrıntıları okunamıyor.;
+	}
+
+[Added {title} to Replays]
+	{
+	tr={title} Tekrarlara eklendi;
+	}
+
+[This replay's recording cannot be read.]
+	{
+	tr=Bu tekrarın kaydı okunamıyor.;
+	}
+
+[Jumping back isn't available in this replay.]
+	{
+	tr=Bu tekrarda geri atlama kullanılamıyor.;
+	}
+
+[Jumping back needs more memory than this device has.]
+	{
+	tr=Geri atlama, bu cihazda olandan fazla bellek ister.;
+	}
+
+[This replay could not jump to {time} and has stopped.]
+	{
+	tr=Bu tekrar {time} anına atlayamadı ve durdu.;
+	}
+
+// Photo mode: the panel, the line over the battlefield and its names in the key editor and touch controls.
+
+[{key} or Esc leaves]
+	{
+	tr={key} veya Esc ile çıkılır;
+	}
+
+[{key} shows the panel]
+	{
+	tr={key} paneli gösterir;
+	}
+
+[Show panel]
+	{
+	tr=Paneli göster;
+	}
+
+[Photo not taken]
+	{
+	tr=Fotoğraf çekilemedi;
+	}
+
+[Show selection]
+	{
+	tr=Seçimi göster;
+	}
+
+[Show health bars]
+	{
+	tr=Sağlık çubuklarını göster;
+	}
+
+[Player names]
+	{
+	tr=Oyuncu adları;
+	}
+
+[Shared game]
+	{
+	tr=Ortak oyun;
+	}
+
+[Hold picture]
+	{
+	tr=Görüntüyü tut;
+	}
+
+[Thirds]
+	{
+	tr=Üçler kuralı;
+	}
+
+[Safe area]
+	{
+	tr=Güvenli alan;
+	}
+
+[Run]
+	{
+	tr=Oynat;
+	}
+
+[Freeze]
+	{
+	tr=Dondur;
+	}
+
+[Step]
+	{
+	tr=Adım;
+	}
+
+[Between ticks]
+	{
+	tr=Adımlar arası;
+	}
+
+[Follow unit]
+	{
+	tr=Birimi izle;
+	}
+
+[Turn]
+	{
+	tr=Dönüş;
+	}
+
+[Tilt]
+	{
+	tr=Eğim;
+	}
+
+[Speed]
+	{
+	tr=Hız;
+	}
+
+[Screen]
+	{
+	tr=Ekran;
+	}
+
+[Copy to clipboard]
+	{
+	tr=Panoya kopyala;
+	}
+
+[Far]
+	{
+	tr=Uzak;
+	}
+
+[Closest]
+	{
+	tr=En yakın;
+	}
+
+[Replay paused]
+	{
+	tr=Tekrar duraklatıldı;
+	}
+
+[Live]
+	{
+	tr=Canlı;
+	}
+
+[Time]
+	{
+	tr=Zaman;
+	}
+
+[Hide panel]
+	{
+	tr=Paneli gizle;
+	}
+
+[Guides]
+	{
+	tr=Kılavuzlar;
+	}
+
+[Take photo]
+	{
+	tr=Fotoğraf çek;
+	}
+
+[Slow]
+	{
+	tr=Yavaş;
+	}
+
+[Clock]
+	{
+	tr=Saat;
+	}
+
+[Expanded]
+	{
+	tr=Genişletildi;
+	}
+
+[Collapsed]
+	{
+	tr=Daraltıldı;
+	}
+
+[Photo mode]
+	{
+	tr=Fotoğraf kipi;
+	}
+
+[Frozen]
+	{
+	tr=Donduruldu;
+	}
+
+[Near]
+	{
+	tr=Yakın;
+	}
+
+[Centre lines]
+	{
+	tr=Orta çizgiler;
+	}
+
+[Smooth edges]
+	{
+	tr=Yumuşak kenarlar;
+	}
+
+[3×]
+	{
+	tr=3×;
+	}
+
+[4×]
+	{
+	tr=4×;
+	}
+
+[This graphics card draws at most {limit} pixels a side]
+	{
+	tr=Bu ekran kartı bir kenarda en çok {limit} piksel çizer;
+	}
+
+[A photo is at most {limit} pixels a side]
+	{
+	tr=Bir fotoğraf bir kenarda en çok {limit} piksel olabilir;
+	}
+
+[The 3D view draws at most {limit} pixels a side at this anti-aliasing]
+	{
+	tr=3D görünüm bu kenar yumuşatmada bir kenarda en çok {limit} piksel çizer;
+	}
+
+[Not enough memory]
+	{
+	tr=Yetersiz bellek;
+	}
+
+[chat lines]
+	{
+	tr=sohbet satırı;
+	}
+
+[Off and Basic draw whole pixels]
+	{
+	tr=Kapalı ve Temel tam pikselleri çizer;
+	}
+
+[Held picture]
+	{
+	tr=Tutulan görüntü;
+	}
+
+[Arctic]
+	{
+	tr=Arktik;
+	}
+
+[Bleach]
+	{
+	tr=Soluk;
+	}
+
+[Caption bar]
+	{
+	tr=Yazı şeridi;
+	}
+
+[Dusk]
+	{
+	tr=Akşam;
+	}
+
+[Frame]
+	{
+	tr=Çerçeve;
+	}
+
+[Grain]
+	{
+	tr=Tanecik;
+	}
+
+[Grain size]
+	{
+	tr=Tanecik boyutu;
+	}
+
+[Noir]
+	{
+	tr=Noir;
+	}
+
+[Roundness]
+	{
+	tr=Yuvarlaklık;
+	}
+
+[The preview lowers the frame rate.]
+	{
+	tr=Önizleme kare hızını düşürür.;
+	}
+
+[Thin border]
+	{
+	tr=İnce kenar;
+	}
+
+[Vignette]
+	{
+	tr=Vinyet;
+	}
+
+[Wide mat]
+	{
+	tr=Geniş paspartu;
+	}
+
+[Depth]
+	{
+	tr=Derinlik;
+	}
+
+[Band centre]
+	{
+	tr=Bant merkezi;
+	}
+
+[Band width]
+	{
+	tr=Bant genişliği;
+	}
+
+[Blur]
+	{
+	tr=Bulanıklık;
+	}
+
+[Blurs by screen row, not by depth.]
+	{
+	tr=Derinliğe göre değil, ekran satırına göre bulanıklaştırır.;
+	}
+
+[Haze]
+	{
+	tr=Pus;
+	}
+
+[Follows the ground, not the units.]
+	{
+	tr=Birimleri değil, zemini izler.;
+	}
+
+[Depth of field]
+	{
+	tr=Alan derinliği;
+	}
+
+[Needs Full 3D Mode]
+	{
+	tr=Tam 3D kipi gerekli;
+	}
+
+[This graphics card keeps no depth.]
+	{
+	tr=Bu ekran kartı derinlik tutmaz.;
+	}
+
+[Poster]
+	{
+	tr=Poster;
+	}
+
+[The view]
+	{
+	tr=Görünüm;
+	}
+
+[Area]
+	{
+	tr=Alan;
+	}
+
+[Freeze the picture]
+	{
+	tr=Görüntüyü dondur;
+	}
+
+[A poster is the map from above: Classic view, {key}]
+	{
+	tr=Poster, haritanın yukarıdan görünümüdür: Klasik görünüm, {key};
+	}
+
+[PHOTO MODE]
+	{
+	tr=FOTOĞRAF KİPİ;
+	}
+
+[in photo mode]
+	{
+	tr=fotoğraf kipinde;
+	}
+
+[Esc leaves]
+	{
+	tr=Esc ile çıkılır;
+	}
+
+[Held]
+	{
+	tr=Tutuluyor;
+	}
+
+[In photo mode]
+	{
+	tr=Fotoğraf kipinde;
+	}
+
+[The graphics card draws no farther out than this.]
+	{
+	tr=Ekran kartı bundan daha uzağı çizmez.;
+	}
+
+[Keys in photo mode]
+	{
+	tr=Fotoğraf kipinde tuşlar;
+	}
+
+// Photo mode: saving and copying a photo, and why one fails.
+
+[Photo not copied: {reason}]
+	{
+	tr=Fotoğraf kopyalanamadı: {reason};
+	}
+
+[a side is above 8192 pixels]
+	{
+	tr=bir kenar 8192 pikselin üzerinde;
+	}
+
+[the photo is above 128 MB]
+	{
+	tr=fotoğraf 128 MB üzerinde;
+	}
+
+[the clipboard did not take the photo]
+	{
+	tr=pano fotoğrafı kabul etmedi;
+	}
+
+[not available in Game Mode]
+	{
+	tr=Oyun Kipi'nde kullanılamaz;
+	}
+
+[the clipboard holds text only]
+	{
+	tr=pano yalnızca metin tutuyor;
+	}
+
+[Saved {name}]
+	{
+	tr={name} kaydedildi;
+	}
+
+[Photo not saved: {reason}]
+	{
+	tr=Fotoğraf kaydedilemedi: {reason};
+	}
+
+[photo mode is not on]
+	{
+	tr=fotoğraf kipi açık değil;
+	}
+
+[four photos are still being saved]
+	{
+	tr=dört fotoğraf hala kaydediliyor;
+	}
+
+[the picture could not be read]
+	{
+	tr=görüntü okunamadı;
+	}
+
+[the graphics device was lost]
+	{
+	tr=grafik aygıtı kayboldu;
+	}
+
+[the file could not be written]
+	{
+	tr=dosya yazılamadı;
+	}
+
+[the picture could not be drawn]
+	{
+	tr=görüntü çizilemedi;
+	}
+
+// Keys: photo mode, replay playback and the panel focus.
+
+[Advances one tick, then freezes]
+	{
+	tr=Bir adım ilerler, sonra donar;
+	}
+
+[All players' view]
+	{
+	tr=Tüm oyuncuların görünümü;
+	}
+
+[Back 10 seconds]
+	{
+	tr=10 saniye geri;
+	}
+
+[Back a minute]
+	{
+	tr=Bir dakika geri;
+	}
+
+[Camera mode]
+	{
+	tr=Kamera kipi;
+	}
+
+[Changes how the camera follows the game]
+	{
+	tr=Kameranın oyunu nasıl izlediğini değiştirir;
+	}
+
+[Closes the megamap and zooms in at the pointer]
+	{
+	tr=Mega haritayı kapatır ve işaretçide yakınlaştırır;
+	}
+
+[Copy last photo]
+	{
+	tr=Son fotoğrafı kopyala;
+	}
+
+[Cycles the guides over the battlefield]
+	{
+	tr=Savaş alanı üzerindeki kılavuzlar arasında sırayla geçer;
+	}
+
+[Focus the panel's buttons]
+	{
+	tr=Panelin düğmelerine odaklan;
+	}
+
+[Forward 10 seconds]
+	{
+	tr=10 saniye ileri;
+	}
+
+[Forward a minute]
+	{
+	tr=Bir dakika ileri;
+	}
+
+[Freeze / Hold picture]
+	{
+	tr=Dondur / Görüntüyü tut;
+	}
+
+[Go to the end]
+	{
+	tr=Sona git;
+	}
+
+[Go to the start]
+	{
+	tr=Başa git;
+	}
+
+[Goes back one tick, then freezes]
+	{
+	tr=Bir adım geri gider, sonra donar;
+	}
+
+[Grow the mark down]
+	{
+	tr=İşareti aşağı büyüt;
+	}
+
+[Grow the mark left]
+	{
+	tr=İşareti sola büyüt;
+	}
+
+[Grow the mark right]
+	{
+	tr=İşareti sağa büyüt;
+	}
+
+[Grow the mark up]
+	{
+	tr=İşareti yukarı büyüt;
+	}
+
+[Grows the marked area down]
+	{
+	tr=İşaretli alanı aşağı büyütür;
+	}
+
+[Grows the marked area to the left]
+	{
+	tr=İşaretli alanı sola büyütür;
+	}
+
+[Grows the marked area to the right]
+	{
+	tr=İşaretli alanı sağa büyütür;
+	}
+
+[Grows the marked area up]
+	{
+	tr=İşaretli alanı yukarı büyütür;
+	}
+
+[Hides and shows the photo panel]
+	{
+	tr=Fotoğraf panelini gizler ve gösterir;
+	}
+
+[Holds the clock, or keeps this screen's last frame in a shared match]
+	{
+	tr=Saati durdurur ya da ortak bir maçta bu ekranın son karesini tutar;
+	}
+
+[Jumps back a minute]
+	{
+	tr=Bir dakika geri atlar;
+	}
+
+[Jumps back ten seconds]
+	{
+	tr=On saniye geri atlar;
+	}
+
+[Jumps forward a minute]
+	{
+	tr=Bir dakika ileri atlar;
+	}
+
+[Jumps forward ten seconds]
+	{
+	tr=On saniye ileri atlar;
+	}
+
+[Jumps to the end of the replay]
+	{
+	tr=Tekrarın sonuna atlar;
+	}
+
+[Jumps to the next marker]
+	{
+	tr=Sonraki işarete atlar;
+	}
+
+[Jumps to the previous marker]
+	{
+	tr=Önceki işarete atlar;
+	}
+
+[Jumps to the start of the replay]
+	{
+	tr=Tekrarın başına atlar;
+	}
+
+[Keeps the playback bar on screen]
+	{
+	tr=Oynatma çubuğunu ekranda tutar;
+	}
+
+[Leaves photo mode]
+	{
+	tr=Fotoğraf kipinden çıkar;
+	}
+
+[Mark area]
+	{
+	tr=Alanı işaretle;
+	}
+
+[Moves a ring over the order buttons and the build page. Press again to return to the battlefield.]
+	{
+	tr=Emir düğmeleri ve inşa sayfası üzerinde bir halka gezdirir. Savaş alanına dönmek için yeniden bas.;
+	}
+
+[Moves the shutter one eighth toward the frozen tick]
+	{
+	tr=Deklanşörü sekizde bir dondurulan adıma doğru kaydırır;
+	}
+
+[Moves the shutter one eighth toward the previous tick]
+	{
+	tr=Deklanşörü sekizde bir önceki adıma doğru kaydırır;
+	}
+
+[Next marker]
+	{
+	tr=Sonraki işaret;
+	}
+
+[Next player's view]
+	{
+	tr=Sonraki oyuncunun görünümü;
+	}
+
+[Offers the last photo to the clipboard]
+	{
+	tr=Son fotoğrafı panoya sunar;
+	}
+
+[Opens photo mode]
+	{
+	tr=Fotoğraf kipini açar;
+	}
+
+[Pin the bar]
+	{
+	tr=Çubuğu sabitle;
+	}
+
+[Play or pause]
+	{
+	tr=Oynat veya duraklat;
+	}
+
+[Plays or pauses the replay]
+	{
+	tr=Tekrarı oynatır veya duraklatır;
+	}
+
+[Previous marker]
+	{
+	tr=Önceki işaret;
+	}
+
+[Previous player's view]
+	{
+	tr=Önceki oyuncunun görünümü;
+	}
+
+[Shortcut card]
+	{
+	tr=Kısayol kartı;
+	}
+
+[Shows the next player's view]
+	{
+	tr=Sonraki oyuncunun görünümünü gösterir;
+	}
+
+[Shows the playback keys]
+	{
+	tr=Oynatma tuşlarını gösterir;
+	}
+
+[Shows the previous player's view]
+	{
+	tr=Önceki oyuncunun görünümünü gösterir;
+	}
+
+[Shows the whole map and every unit]
+	{
+	tr=Tüm haritayı ve her birimi gösterir;
+	}
+
+[Shutter back]
+	{
+	tr=Deklanşör geri;
+	}
+
+[Shutter on]
+	{
+	tr=Deklanşör ileri;
+	}
+
+[Starts a poster mark at the view's centre]
+	{
+	tr=Görünümün ortasında bir poster işareti başlatır;
+	}
+
+[Step a tick]
+	{
+	tr=Bir adım ilerle;
+	}
+
+[Step back]
+	{
+	tr=Geri adım;
+	}
+
+[Tilt down]
+	{
+	tr=Aşağı eğ;
+	}
+
+[Tilt up]
+	{
+	tr=Yukarı eğ;
+	}
+
+[Tilts the camera down]
+	{
+	tr=Kamerayı aşağı eğer;
+	}
+
+[Tilts the camera up]
+	{
+	tr=Kamerayı yukarı eğer;
+	}
+
+[Turn left]
+	{
+	tr=Sola dön;
+	}
+
+[Turn right]
+	{
+	tr=Sağa dön;
+	}
+
+[Turns the camera left]
+	{
+	tr=Kamerayı sola döndürür;
+	}
+
+[Turns the camera right]
+	{
+	tr=Kamerayı sağa döndürür;
+	}
+
+[Writes a photo of the battlefield]
+	{
+	tr=Savaş alanının fotoğrafını kaydeder;
+	}
+
+[Zooms in on the photo]
+	{
+	tr=Fotoğrafı yakınlaştırır;
+	}
+
+[Zooms out on the photo]
+	{
+	tr=Fotoğrafı uzaklaştırır;
+	}
+
+// Screen readers: the names of 3.1c's controls and the player colours.
+
+[Alliance]
+	{
+	tr=İttifak;
+	}
+
+[Black]
+	{
+	tr=Siyah;
+	}
+
+[Blue]
+	{
+	tr=Mavi;
+	}
+
+[Campaigns]
+	{
+	tr=Seferler;
+	}
+
+[Colour]
+	{
+	tr=Renk;
+	}
+
+[Commander]
+	{
+	tr=Komutan;
+	}
+
+[Credits]
+	{
+	tr=Jenerik;
+	}
+
+[Difficulty]
+	{
+	tr=Zorluk;
+	}
+
+[Energy]
+	{
+	tr=Enerji;
+	}
+
+[Game speed]
+	{
+	tr=Oyun hızı;
+	}
+
+[Gamma]
+	{
+	tr=Gama;
+	}
+
+[Green]
+	{
+	tr=Yeşil;
+	}
+
+[Light blue]
+	{
+	tr=Açık mavi;
+	}
+
+[Line of sight]
+	{
+	tr=Görüş hattı;
+	}
+
+[Location]
+	{
+	tr=Konum;
+	}
+
+[Map]
+	{
+	tr=Harita;
+	}
+
+[Mapping]
+	{
+	tr=Haritalama;
+	}
+
+[Max units]
+	{
+	tr=Birim sınırı;
+	}
+
+[Metal]
+	{
+	tr=Metal;
+	}
+
+[Missions]
+	{
+	tr=Görevler;
+	}
+
+[Music volume]
+	{
+	tr=Müzik ses düzeyi;
+	}
+
+[Navy]
+	{
+	tr=Lacivert;
+	}
+
+[Next track]
+	{
+	tr=Sonraki parça;
+	}
+
+[Preview]
+	{
+	tr=Önizleme;
+	}
+
+[Previous track]
+	{
+	tr=Önceki parça;
+	}
+
+[Purple]
+	{
+	tr=Mor;
+	}
+
+[Ready]
+	{
+	tr=Hazır;
+	}
+
+[Red]
+	{
+	tr=Kırmızı;
+	}
+
+[Saved games]
+	{
+	tr=Kayıtlı oyunlar;
+	}
+
+[Screen scroll]
+	{
+	tr=Ekran kaydırma;
+	}
+
+[Side]
+	{
+	tr=Taraf;
+	}
+
+[Sound volume]
+	{
+	tr=Ses düzeyi;
+	}
+
+[Anti-aliasing]
+	{
+	tr=Kenar yumuşatma;
+	}
+
+[CD music]
+	{
+	tr=CD müziği;
+	}
+
+[Cheat Codes]
+	{
+	tr=Hile kodları;
+	}
+
+[Closed]
+	{
+	tr=Kapalı;
+	}
+
+[Opened]
+	{
+	tr=Açık;
+	}
+
+[Dead Commander]
+	{
+	tr=Ölü Komutan;
+	}
+
+[Game Status]
+	{
+	tr=Oyun durumu;
+	}
+
+[Line of Sight]
+	{
+	tr=Görüş hattı;
+	}
+
+[Mapping Mode]
+	{
+	tr=Haritalama kipi;
+	}
+
+[Play mode]
+	{
+	tr=Çalma kipi;
+	}
+
+[Play track]
+	{
+	tr=Parçayı çal;
+	}
+
+[Shadows]
+	{
+	tr=Gölgeler;
+	}
+
+[Shading]
+	{
+	tr=Gölgeleme;
+	}
+
+[Sound mode]
+	{
+	tr=Ses kipi;
+	}
+
+[Start doors]
+	{
+	tr=Başlatma kapıları;
+	}
+
+[Starting energy]
+	{
+	tr=Başlangıç enerjisi;
+	}
+
+[Starting metal]
+	{
+	tr=Başlangıç metali;
+	}
+
+[Tan]
+	{
+	tr=Bej;
+	}
+
+[Team]
+	{
+	tr=Takım;
+	}
+
+[Text delay]
+	{
+	tr=Yazı gecikmesi;
+	}
+
+[Text lines]
+	{
+	tr=Yazı satırları;
+	}
+
+[Track type]
+	{
+	tr=Parça türü;
+	}
+
+[Unit sounds]
+	{
+	tr=Birim sesleri;
+	}
+
+[Unit text acks]
+	{
+	tr=Yazılı yanıt;
+	}
+
+[White]
+	{
+	tr=Beyaz;
+	}
+
+[Yellow]
+	{
+	tr=Sarı;
+	}
+
+// Screen readers: what a control is.
+
+[alert]
+	{
+	tr=uyarı;
+	}
+
+[button]
+	{
+	tr=düğme;
+	}
+
+[check box]
+	{
+	tr=onay kutusu;
+	}
+
+[dialog]
+	{
+	tr=iletişim kutusu;
+	}
+
+[group]
+	{
+	tr=grup;
+	}
+
+[image]
+	{
+	tr=resim;
+	}
+
+[link]
+	{
+	tr=bağlantı;
+	}
+
+[list]
+	{
+	tr=liste;
+	}
+
+[list item]
+	{
+	tr=liste öğesi;
+	}
+
+[log]
+	{
+	tr=günlük;
+	}
+
+[password]
+	{
+	tr=parola;
+	}
+
+[radio button]
+	{
+	tr=radyo düğmesi;
+	}
+
+[radio group]
+	{
+	tr=radyo grubu;
+	}
+
+[search field]
+	{
+	tr=arama alanı;
+	}
+
+[slider]
+	{
+	tr=kaydırıcı;
+	}
+
+[switch]
+	{
+	tr=anahtar;
+	}
+
+[tab]
+	{
+	tr=sekme;
+	}
+
+[tab list]
+	{
+	tr=sekme listesi;
+	}
+
+[text]
+	{
+	tr=metin;
+	}
+
+[text field]
+	{
+	tr=metin alanı;
+	}
+
+[tree]
+	{
+	tr=ağaç;
+	}
+
+[tree item]
+	{
+	tr=ağaç öğesi;
+	}
+
+[window]
+	{
+	tr=pencere;
+	}
+
+[{colour}, player {number}]
+	{
+	tr={colour}, oyuncu {number};
+	}
+
+// Screen readers: lines spoken in the battle room and in a match.
+
+[An option changed]
+	{
+	tr=Bir seçenek değişti;
+	}
+
+[Commander under attack]
+	{
+	tr=Komutan saldırı altında;
+	}
+
+[Defeat]
+	{
+	tr=Yenilgi;
+	}
+
+[The countdown has started]
+	{
+	tr=Geri sayım başladı;
+	}
+
+[The host has left]
+	{
+	tr=Kurucu ayrıldı;
+	}
+
+[The map is {name}]
+	{
+	tr=Harita: {name};
+	}
+
+[There are no saved games to choose from]
+	{
+	tr=Seçilecek kayıtlı oyun yok;
+	}
+
+[Victory]
+	{
+	tr=Zafer;
+	}
+
+[Whisper from {name}: {text}]
+	{
+	tr={name} fısıldadı: {text};
+	}
+
+[{count} new lines in {room}]
+	{
+	tr={room}: {count} yeni satır;
+	}
+
+[{name} changed colour to {colour}]
+	{
+	tr={name} rengini değiştirdi: {colour};
+	}
+
+[{name} changed side to {side}]
+	{
+	tr={name} tarafını değiştirdi: {side};
+	}
+
+[{name} changed team to {team}]
+	{
+	tr={name} takımını değiştirdi: {team};
+	}
+
+[{name} is not ready]
+	{
+	tr={name} hazır değil;
+	}
+
+[{name} is ready]
+	{
+	tr={name} hazır;
+	}
+
+[{name} joined]
+	{
+	tr={name} katıldı;
+	}
+
+[{name} left]
+	{
+	tr={name} ayrıldı;
+	}
+
+[battle room]
+	{
+	tr=savaş odası;
+	}
+
+[match]
+	{
+	tr=maç;
+	}
+
+// The Boneyards: entering it from Open Annihilation.
+
+[Open Annihilation could not check for updates.]
+	{
+	tr=Open Annihilation güncellemeleri denetleyemedi.;
+	}
+
+[Open Annihilation {version} is out. The Boneyards needs the latest version.]
+	{
+	tr=Open Annihilation {version} çıktı. Boneyards en son sürümü ister.;
+	}
+
+[Start Open Annihilation without the mod on its command line to enter the Boneyards.]
+	{
+	tr=Boneyards'a girmek için oyunu komut satırında mod belirtmeden başlat.;
+	}
+
+[Switch off and enter]
+	{
+	tr=Kapat ve gir;
+	}
+
+[Switch on]
+	{
+	tr=Aç;
+	}
+
+[Switch {mod} back on?]
+	{
+	tr={mod} yeniden açılsın mı?;
+	}
+
+[The Boneyards]
+	{
+	tr=Boneyards;
+	}
+
+[The Boneyards is installed. Start Open Annihilation again to enter the Boneyards.]
+	{
+	tr=Boneyards kuruldu. Boneyards'a girmek için oyunu yeniden başlat.;
+	}
+
+[The Boneyards launches and reports games only on 3.1c, Core Contingency and Battle Tactics. Switch your mod off to play in the Boneyards.]
+	{
+	tr=Boneyards yalnızca 3.1c, Core Contingency ve Battle Tactics üzerinde başlar ve oyunları bildirir. Boneyards içinde oynamak için modunu kapat.;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks and the content catalogue. Turn them on and continue?]
+	{
+	tr=Boneyards için çevrimiçi özellikler gerekli: güncelleme denetimleri ve içerik kataloğu. Açılıp devam edilsin mi?;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks, the content catalogue and {registry}'s install ID. Turn them on and continue?]
+	{
+	tr=Boneyards için çevrimiçi özellikler gerekli: güncelleme denetimleri, içerik kataloğu ve {registry} kurulum kimliği. Açılıp devam edilsin mi?;
+	}
+
+[The Boneyards needs by.ccx and the Boneyards folder.]
+	{
+	tr=Boneyards için by.ccx ve Boneyards klasörü gerekli.;
+	}
+
+[The Boneyards needs {registry}'s install ID turned on. Turn it on and continue?]
+	{
+	tr=Boneyards için {registry} kurulum kimliğinin açık olması gerekli. Açılıp devam edilsin mi?;
+	}
+
+[The Boneyards plays Total Annihilation without mods. Switch {mod} off and enter the Boneyards?]
+	{
+	tr=Boneyards içinde Total Annihilation modsuz oynanır. {mod} kapatılıp Boneyards'a girilsin mi?;
+	}
+
+[Turn on]
+	{
+	tr=Aç;
+	}
+
+// The mutator picker's drag grip.
+
+[Drag to reorder]
+	{
+	tr=Sıralamak için sürükle;
+	}
+
+// The battle room: game files that differ, and units that cannot be built.
+
+[*** Press START again to start anyway. Those units stay unavailable in this battle.]
+	{
+	tr=*** Yine de başlatmak için BAŞLAT düğmesine yeniden bas. Bu birimler bu savaşta kullanılamaz kalır.;
+	}
+
+[*** Your game files differ from Total Annihilation's, so this battle cannot start. Leave it and repair them in Settings › Game Content.]
+	{
+	tr=*** Oyun dosyaların Total Annihilation dosyalarından farklı, bu yüzden bu savaş başlayamaz. Savaştan çık ve Ayarlar › Oyun içeriği bölümünde onar.;
+	}
+
+[*** {player}'s game files differ from Total Annihilation's; they must repair them before this battle can start.]
+	{
+	tr=*** {player} oyun dosyaları Total Annihilation dosyalarından farklı, bu savaş başlamadan önce onarılmaları gerekir.;
+	}
+
+[*** {units} differ between {count} players' machines and can't be built in this battle.]
+	{
+	tr=*** {units}, {count} oyuncunun makineleri arasında farklı ve bu savaşta inşa edilemez.;
+	}
+
+[*** {units} differ between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	tr=*** {units}, {first} ve {second} makineleri arasında farklı ve bu savaşta inşa edilemez.;
+	}
+
+[*** {units} differ on {player}'s machine and can't be built in this battle.]
+	{
+	tr=*** {units}, {player} makinesinde farklı ve bu savaşta inşa edilemez.;
+	}
+
+[*** {units} differs between {count} players' machines and can't be built in this battle.]
+	{
+	tr=*** {units}, {count} oyuncunun makineleri arasında farklı ve bu savaşta inşa edilemez.;
+	}
+
+[*** {units} differs between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	tr=*** {units}, {first} ve {second} makineleri arasında farklı ve bu savaşta inşa edilemez.;
+	}
+
+[*** {units} differs on {player}'s machine and can't be built in this battle.]
+	{
+	tr=*** {units}, {player} makinesinde farklı ve bu savaşta inşa edilemez.;
+	}
+
+[1 other unit]
+	{
+	tr=1 başka birim;
+	}
+
+[{count} other units]
+	{
+	tr={count} başka birim;
+	}
+
+[{list} and {last}]
+	{
+	tr={list} ve {last};
+	}
+
+[a player who left]
+	{
+	tr=ayrılan bir oyuncu;
+	}
+
+// Library › Replays: the question asked before replays are deleted.
+
+[Delete this replay?]
+	{
+	tr=Bu tekrar silinsin mi?;
+	}
+
+[Delete these {count} replays?]
+	{
+	tr=Bu {count} tekrar silinsin mi?;
+	}
+
+[It goes to the system's trash.]
+	{
+	tr=Sistemin çöp kutusuna gider.;
+	}
+
+[They go to the system's trash.]
+	{
+	tr=Sistemin çöp kutusuna giderler.;
+	}
+
+[It is deleted and cannot be undone. This system has no trash.]
+	{
+	tr=Silinir ve geri alınamaz. Bu sistemde çöp kutusu yok.;
+	}
+
+[They are deleted and cannot be undone. This system has no trash.]
+	{
+	tr=Silinirler ve geri alınamaz. Bu sistemde çöp kutusu yok.;
+	}
+
+[Delete replays]
+	{
+	tr=Tekrarları sil;
+	}
+
+// Settings › Game Content: a stray archive, and moving it to the trash.
+
+[{file} in {folder}, {size} bytes, is not a file of {bundle}. The game does not read it.]
+	{
+	tr={folder} içindeki {file}, {size} bayt, {bundle} dosyası değil. Oyun onu okumaz.;
+	}
+
+[{file} is not one of its files]
+	{
+	tr={file}, ona ait dosyalardan biri değil;
+	}
+
+[{count} archives are not its files]
+	{
+	tr={count} arşiv ona ait dosya değil;
+	}
+
+[Remove…]
+	{
+	tr=Kaldır…;
+	}
+
+[Move {file} to the trash?]
+	{
+	tr={file} çöp kutusuna taşınsın mı?;
+	}
+
+[Delete {file}? This system has no trash.]
+	{
+	tr={file} silinsin mi? Bu sistemde çöp kutusu yok.;
+	}
+
+[Move to Trash]
+	{
+	tr=Çöp kutusuna taşı;
+	}
+
+// The Boneyards: game files that stop it from starting, and repairing them.
+
+[Repair…]
+	{
+	tr=Onar…;
+	}
+
+[{file} in {folder} does not match Total Annihilation's, so the Boneyards cannot be entered. Copy the game again from your own install or CD to enter.]
+	{
+	tr={folder} içindeki {file} Total Annihilation dosyasıyla eşleşmiyor, bu yüzden Boneyards'a girilemez. Girmek için oyunu kendi kurulumundan veya CD'nden yeniden kopyala.;
+	}
+
+[{file} in {folder} does not match Total Annihilation's. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	tr={folder} içindeki {file} Total Annihilation dosyasıyla eşleşmiyor. Boneyards yalnızca Open Annihilation'ın kendi oyun kopyasıyla oynanır: girmek için onu kendi kurulumundan veya CD'nden kopyala.;
+	}
+
+[{file} in {folder} is not Total Annihilation's own. The Boneyards launches and reports games only on Total Annihilation's own files. Leave the Boneyards and repair it in Settings › Game Content.]
+	{
+	tr={folder} içindeki {file} Total Annihilation dosyası değil. Boneyards yalnızca Total Annihilation dosyalarıyla başlar ve oyunları bildirir. Boneyards'ı bırak ve Ayarlar › Oyun içeriği bölümünde onar.;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files, so the Boneyards cannot be entered. Remove it to enter.]
+	{
+	tr={folder} içindeki {file} Total Annihilation dosyalarından biri değil, bu yüzden Boneyards'a girilemez. Girmek için onu kaldır.;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	tr={folder} içindeki {file} Total Annihilation dosyalarından biri değil. Boneyards yalnızca Open Annihilation'ın kendi oyun kopyasıyla oynanır: girmek için onu kendi kurulumundan veya CD'nden kopyala.;
 	}
 
