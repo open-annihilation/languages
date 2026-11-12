@@ -11296,11 +11296,6 @@
 	pt-PT=Fechar megamapa;
 	}
 
-[Closes the megamap and centres on the pointer]
-	{
-	pt-PT=Fecha o megamapa e centra no ponteiro;
-	}
-
 [Jumps the view to a point of the megamap]
 	{
 	pt-PT=Salta a vista para um ponto do megamapa;
@@ -16056,4 +16051,3036 @@
 [Open the download page]
 	{
 	pt-PT=Abrir a página de transferência;
+	}
+
+// Settings › Accessibility: Colour vision, Shape cues, the focus ring and Screen reader.
+
+[Colour vision]
+	{
+	pt-PT=Visão das cores;
+	}
+
+[Protanopia]
+	{
+	pt-PT=Protanopia;
+	}
+
+[Deuteranopia]
+	{
+	pt-PT=Deuteranopia;
+	}
+
+[Tritanopia]
+	{
+	pt-PT=Tritanopia;
+	}
+
+[Achromatopsia]
+	{
+	pt-PT=Acromatopsia;
+	}
+
+[Achromatopsia keeps shape cues on]
+	{
+	pt-PT=A acromatopsia mantém os indicadores de forma ligados;
+	}
+
+[Shape cues]
+	{
+	pt-PT=Indicadores de forma;
+	}
+
+[Player markers, side symbols, notched bars and a mark on every status.]
+	{
+	pt-PT=Marcas de jogador, símbolos de lado, barras com entalhes e uma marca em cada estado.;
+	}
+
+[Changes team colours, the minimap, bars, the war map and status colours on this machine only.]
+	{
+	pt-PT=Altera as cores das equipas, o minimapa, as barras, o mapa de guerra e as cores de estado apenas neste dispositivo.;
+	}
+
+[The ten player colours, then OK, caution, danger and information.]
+	{
+	pt-PT=As dez cores dos jogadores e depois OK, atenção, perigo e informação.;
+	}
+
+[Preview]
+	{
+	pt-PT=Pré-visualização;
+	}
+
+[Always show focus]
+	{
+	pt-PT=Mostrar sempre o foco;
+	}
+
+[The focus ring is drawn on the first item when a screen opens.]
+	{
+	pt-PT=O anel de foco é desenhado no primeiro item quando se abre um ecrã.;
+	}
+
+[Screen reader]
+	{
+	pt-PT=Leitor de ecrã;
+	}
+
+[Automatic works with a screen reader while the system says one is running. On also works with one the system does not report. Off never does.]
+	{
+	pt-PT=Automático funciona com um leitor de ecrã enquanto o sistema indicar que há um em execução. Ligado funciona também com um que o sistema não indique. Desligado nunca funciona.;
+	}
+
+[Nothing on this system can speak.]
+	{
+	pt-PT=Nada neste sistema consegue falar.;
+	}
+
+[Speak chat]
+	{
+	pt-PT=Ler o chat;
+	}
+
+[Chat lines and whispers, pages only, or neither.]
+	{
+	pt-PT=Linhas de chat e sussurros, só páginas ou nenhum.;
+	}
+
+[Pages only]
+	{
+	pt-PT=Só páginas;
+	}
+
+[Speak lobby changes]
+	{
+	pt-PT=Ler as alterações do lobby;
+	}
+
+[A player joining or leaving the battle room, and a change of ready, side, colour, team, map or option.]
+	{
+	pt-PT=Um jogador que entra na sala de batalha ou sai dela, e uma alteração de pronto, lado, cor, equipa, mapa ou opção.;
+	}
+
+[Speak the ticker]
+	{
+	pt-PT=Ler o ticker;
+	}
+
+[The ticker repeats, so it stays quiet until this is on.]
+	{
+	pt-PT=O ticker repete-se, por isso fica em silêncio até isto estar ligado.;
+	}
+
+// What a screen reader calls a control, and the words it says around them.
+
+[alert]
+	{
+	pt-PT=alerta;
+	}
+
+[button]
+	{
+	pt-PT=botão;
+	}
+
+[check box]
+	{
+	pt-PT=caixa de verificação;
+	}
+
+[dialog]
+	{
+	pt-PT=caixa de diálogo;
+	}
+
+[group]
+	{
+	pt-PT=grupo;
+	}
+
+[image]
+	{
+	pt-PT=imagem;
+	}
+
+[link]
+	{
+	pt-PT=ligação;
+	}
+
+[list]
+	{
+	pt-PT=lista;
+	}
+
+[list item]
+	{
+	pt-PT=item de lista;
+	}
+
+[log]
+	{
+	pt-PT=registo;
+	}
+
+[password]
+	{
+	pt-PT=palavra-passe;
+	}
+
+[radio button]
+	{
+	pt-PT=botão de opção;
+	}
+
+[radio group]
+	{
+	pt-PT=grupo de opções;
+	}
+
+[search field]
+	{
+	pt-PT=campo de pesquisa;
+	}
+
+[slider]
+	{
+	pt-PT=controlo deslizante;
+	}
+
+[switch]
+	{
+	pt-PT=interruptor;
+	}
+
+[tab]
+	{
+	pt-PT=separador;
+	}
+
+[tab list]
+	{
+	pt-PT=lista de separadores;
+	}
+
+[text]
+	{
+	pt-PT=texto;
+	}
+
+[text field]
+	{
+	pt-PT=campo de texto;
+	}
+
+[tree]
+	{
+	pt-PT=árvore;
+	}
+
+[tree item]
+	{
+	pt-PT=item de árvore;
+	}
+
+[window]
+	{
+	pt-PT=janela;
+	}
+
+[match]
+	{
+	pt-PT=partida;
+	}
+
+[battle room]
+	{
+	pt-PT=sala de batalha;
+	}
+
+[chat lines]
+	{
+	pt-PT=linhas de chat;
+	}
+
+[{colour}, player {number}]
+	{
+	pt-PT={colour}, jogador {number};
+	}
+
+// The ten player colours, as a screen reader and the photo panel name them.
+
+[Blue]
+	{
+	pt-PT=Azul;
+	}
+
+[Red]
+	{
+	pt-PT=Vermelho;
+	}
+
+[White]
+	{
+	pt-PT=Branco;
+	}
+
+[Green]
+	{
+	pt-PT=Verde;
+	}
+
+[Navy]
+	{
+	pt-PT=Azul-marinho;
+	}
+
+[Purple]
+	{
+	pt-PT=Roxo;
+	}
+
+[Yellow]
+	{
+	pt-PT=Amarelo;
+	}
+
+[Black]
+	{
+	pt-PT=Preto;
+	}
+
+[Light blue]
+	{
+	pt-PT=Azul-claro;
+	}
+
+[Tan]
+	{
+	pt-PT=Bege;
+	}
+
+// The names a screen reader gives 3.1c's own controls. They follow the words those screens show.
+
+[Credits]
+	{
+	pt-PT=Créditos;
+	}
+
+[Campaigns]
+	{
+	pt-PT=Campanhas;
+	}
+
+[Missions]
+	{
+	pt-PT=Missões;
+	}
+
+[Difficulty]
+	{
+	pt-PT=Dificuldade;
+	}
+
+[Saved games]
+	{
+	pt-PT=Jogos guardados;
+	}
+
+[There are no saved games to choose from]
+	{
+	pt-PT=Não há jogos guardados para escolher;
+	}
+
+[Side]
+	{
+	pt-PT=Lado;
+	}
+
+[Colour]
+	{
+	pt-PT=Cor;
+	}
+
+[Team]
+	{
+	pt-PT=Equipa;
+	}
+
+[Starting metal]
+	{
+	pt-PT=Metal inicial;
+	}
+
+[Starting energy]
+	{
+	pt-PT=Energia inicial;
+	}
+
+[Location]
+	{
+	pt-PT=Posição;
+	}
+
+[Commander]
+	{
+	pt-PT=Comandante;
+	}
+
+[Mapping]
+	{
+	pt-PT=Mapa;
+	}
+
+[Line of sight]
+	{
+	pt-PT=Linha de visão;
+	}
+
+[Map]
+	{
+	pt-PT=Mapa;
+	}
+
+[Sound volume]
+	{
+	pt-PT=Volume do som;
+	}
+
+[Sound mode]
+	{
+	pt-PT=Modo de som;
+	}
+
+[Unit sounds]
+	{
+	pt-PT=Sons das unidades;
+	}
+
+[Gamma]
+	{
+	pt-PT=Gama;
+	}
+
+[Shading]
+	{
+	pt-PT=Sombreamento;
+	}
+
+[Anti-aliasing]
+	{
+	pt-PT=Anti-aliasing;
+	}
+
+[Shadows]
+	{
+	pt-PT=Sombras;
+	}
+
+[Game speed]
+	{
+	pt-PT=Velocidade do jogo;
+	}
+
+[Screen scroll]
+	{
+	pt-PT=Deslocação do ecrã;
+	}
+
+[Text delay]
+	{
+	pt-PT=Tempo do texto;
+	}
+
+[Text lines]
+	{
+	pt-PT=Linhas de texto;
+	}
+
+[Unit text acks]
+	{
+	pt-PT=Respostas em texto;
+	}
+
+[Music volume]
+	{
+	pt-PT=Volume da música;
+	}
+
+[CD music]
+	{
+	pt-PT=Música do CD;
+	}
+
+[Track type]
+	{
+	pt-PT=Tipo de faixa;
+	}
+
+[Play mode]
+	{
+	pt-PT=Modo de reprodução;
+	}
+
+[Previous track]
+	{
+	pt-PT=Faixa anterior;
+	}
+
+[Play track]
+	{
+	pt-PT=Tocar faixa;
+	}
+
+[Next track]
+	{
+	pt-PT=Faixa seguinte;
+	}
+
+[Ready]
+	{
+	pt-PT=Pronto;
+	}
+
+[Alliance]
+	{
+	pt-PT=Aliança;
+	}
+
+[Metal]
+	{
+	pt-PT=Metal;
+	}
+
+[Energy]
+	{
+	pt-PT=Energia;
+	}
+
+[Max units]
+	{
+	pt-PT=Máximo de unidades;
+	}
+
+[Dead Commander]
+	{
+	pt-PT=Comandante morto;
+	}
+
+[Mapping Mode]
+	{
+	pt-PT=Modo do mapa;
+	}
+
+[Line of Sight]
+	{
+	pt-PT=Linha de visão;
+	}
+
+[Cheat Codes]
+	{
+	pt-PT=Batotas;
+	}
+
+[Game Status]
+	{
+	pt-PT=Estado da partida;
+	}
+
+[Start doors]
+	{
+	pt-PT=Portas de início;
+	}
+
+[Closed]
+	{
+	pt-PT=Fechadas;
+	}
+
+[Opened]
+	{
+	pt-PT=Abertas;
+	}
+
+[Password]
+	{
+	pt-PT=Palavra-passe;
+	}
+
+// What a screen reader says in the battle room and the match.
+
+[Commander under attack]
+	{
+	pt-PT=Comandante sob ataque;
+	}
+
+[Victory]
+	{
+	pt-PT=Vitória;
+	}
+
+[Defeat]
+	{
+	pt-PT=Derrota;
+	}
+
+[The countdown has started]
+	{
+	pt-PT=A contagem decrescente começou;
+	}
+
+[The host has left]
+	{
+	pt-PT=O anfitrião saiu;
+	}
+
+[The map is {name}]
+	{
+	pt-PT=O mapa é {name};
+	}
+
+[An option changed]
+	{
+	pt-PT=Uma opção foi alterada;
+	}
+
+[{name} changed colour to {colour}]
+	{
+	pt-PT={name} mudou de cor para {colour};
+	}
+
+[{name} changed side to {side}]
+	{
+	pt-PT={name} mudou de lado para {side};
+	}
+
+[{name} changed team to {team}]
+	{
+	pt-PT={name} mudou de equipa para {team};
+	}
+
+[{name} is ready]
+	{
+	pt-PT={name} está pronto;
+	}
+
+[{name} is not ready]
+	{
+	pt-PT={name} não está pronto;
+	}
+
+[{name} joined]
+	{
+	pt-PT={name} entrou;
+	}
+
+[{name} left]
+	{
+	pt-PT={name} saiu;
+	}
+
+[{count} new lines in {room}]
+	{
+	pt-PT={count} novas linhas em {room};
+	}
+
+[Whisper from {name}: {text}]
+	{
+	pt-PT=Sussurro de {name}: {text};
+	}
+
+// Settings › Replays.
+
+[REPLAYS]
+	{
+	pt-PT=REPETIÇÕES;
+	}
+
+[Record my games]
+	{
+	pt-PT=Gravar as minhas partidas;
+	}
+
+[Campaign missions, skirmish, multiplayer and Boneyards battles. Applies from the next game.]
+	{
+	pt-PT=Missões de campanha, escaramuças, multijogador e batalhas do Boneyards. Aplica-se a partir da próxima partida.;
+	}
+
+[Keep replays for]
+	{
+	pt-PT=Manter repetições durante;
+	}
+
+[30 days]
+	{
+	pt-PT=30 dias;
+	}
+
+[90 days]
+	{
+	pt-PT=90 dias;
+	}
+
+[A year]
+	{
+	pt-PT=Um ano;
+	}
+
+[Forever]
+	{
+	pt-PT=Para sempre;
+	}
+
+[Replays you keep in the Library stay until you delete them.]
+	{
+	pt-PT=As repetições que mantiver na Biblioteca ficam até as eliminar.;
+	}
+
+[Open replay files with Open Annihilation]
+	{
+	pt-PT=Abrir ficheiros de repetição com o Open Annihilation;
+	}
+
+[A .oademo or a .tad file opens in this copy.]
+	{
+	pt-PT=Um ficheiro .oademo ou .tad abre nesta cópia.;
+	}
+
+// The Library's Replays tab: filters, sorting and the days the list is grouped by.
+
+[Replays]
+	{
+	pt-PT=Repetições;
+	}
+
+[Search replays]
+	{
+	pt-PT=Pesquisar repetições;
+	}
+
+[This month]
+	{
+	pt-PT=Este mês;
+	}
+
+[Older]
+	{
+	pt-PT=Mais antigas;
+	}
+
+[Kept]
+	{
+	pt-PT=Mantida;
+	}
+
+[Imported]
+	{
+	pt-PT=Importada;
+	}
+
+[All kinds]
+	{
+	pt-PT=Todos os tipos;
+	}
+
+[Newest first]
+	{
+	pt-PT=Mais recentes primeiro;
+	}
+
+[Longest first]
+	{
+	pt-PT=Mais longas primeiro;
+	}
+
+[By map]
+	{
+	pt-PT=Por mapa;
+	}
+
+[Most players first]
+	{
+	pt-PT=Mais jogadores primeiro;
+	}
+
+[Today]
+	{
+	pt-PT=Hoje;
+	}
+
+[Yesterday]
+	{
+	pt-PT=Ontem;
+	}
+
+[{weekday} {day} {month}]
+	{
+	pt-PT={weekday}, {day} {month};
+	}
+
+[{weekday} {day} {month} {year}]
+	{
+	pt-PT={weekday}, {day} {month} {year};
+	}
+
+[Mon]
+	{
+	pt-PT=Seg;
+	}
+
+[Tue]
+	{
+	pt-PT=Ter;
+	}
+
+[Wed]
+	{
+	pt-PT=Qua;
+	}
+
+[Thu]
+	{
+	pt-PT=Qui;
+	}
+
+[Fri]
+	{
+	pt-PT=Sex;
+	}
+
+[Sat]
+	{
+	pt-PT=Sáb;
+	}
+
+[Sun]
+	{
+	pt-PT=Dom;
+	}
+
+[Jan]
+	{
+	pt-PT=jan;
+	}
+
+[Feb]
+	{
+	pt-PT=fev;
+	}
+
+[Mar]
+	{
+	pt-PT=mar;
+	}
+
+[Apr]
+	{
+	pt-PT=abr;
+	}
+
+[May]
+	{
+	pt-PT=mai;
+	}
+
+[Jun]
+	{
+	pt-PT=jun;
+	}
+
+[Jul]
+	{
+	pt-PT=jul;
+	}
+
+[Aug]
+	{
+	pt-PT=ago;
+	}
+
+[Sep]
+	{
+	pt-PT=set;
+	}
+
+[Oct]
+	{
+	pt-PT=out;
+	}
+
+[Nov]
+	{
+	pt-PT=nov;
+	}
+
+[Dec]
+	{
+	pt-PT=dez;
+	}
+
+// The Library's Replays: the rows and the card.
+
+[{left} vs {right}]
+	{
+	pt-PT={left} contra {right};
+	}
+
+[{kind} · {planet}]
+	{
+	pt-PT={kind} · {planet};
+	}
+
+[{kind} · {planet}, {sector}]
+	{
+	pt-PT={kind} · {planet}, {sector};
+	}
+
+[After a crash]
+	{
+	pt-PT=Após uma falha;
+	}
+
+[Reading…]
+	{
+	pt-PT=A ler…;
+	}
+
+[Won]
+	{
+	pt-PT=Ganhou;
+	}
+
+[Lost]
+	{
+	pt-PT=Perdeu;
+	}
+
+[1 kill]
+	{
+	pt-PT=1 abate;
+	}
+
+[{kills} kills]
+	{
+	pt-PT={kills} abates;
+	}
+
+[1 loss]
+	{
+	pt-PT=1 perda;
+	}
+
+[{losses} losses]
+	{
+	pt-PT={losses} perdas;
+	}
+
+[Watched to {time}]
+	{
+	pt-PT=Vista até {time};
+	}
+
+[Damaged]
+	{
+	pt-PT=Danificada;
+	}
+
+[Length]
+	{
+	pt-PT=Duração;
+	}
+
+[Recorded]
+	{
+	pt-PT=Gravada;
+	}
+
+[File]
+	{
+	pt-PT=Ficheiro;
+	}
+
+[Kept until]
+	{
+	pt-PT=Mantida até;
+	}
+
+[Until you delete it]
+	{
+	pt-PT=Até a eliminar;
+	}
+
+[Imported replays are kept]
+	{
+	pt-PT=As repetições importadas são mantidas;
+	}
+
+[Downloaded replays are kept]
+	{
+	pt-PT=As repetições transferidas são mantidas;
+	}
+
+[Exported replays are kept]
+	{
+	pt-PT=As repetições exportadas são mantidas;
+	}
+
+[{mod} (rev {revision})]
+	{
+	pt-PT={mod} (rev. {revision});
+	}
+
+[Arm]
+	{
+	pt-PT=ARM;
+	}
+
+[Core]
+	{
+	pt-PT=CORE;
+	}
+
+[Watcher]
+	{
+	pt-PT=Espetador;
+	}
+
+[Watch]
+	{
+	pt-PT=Assistir;
+	}
+
+[Watch from {time}]
+	{
+	pt-PT=Assistir desde {time};
+	}
+
+[Turn on recording]
+	{
+	pt-PT=Ativar a gravação;
+	}
+
+[Open a replay file…]
+	{
+	pt-PT=Abrir um ficheiro de repetição…;
+	}
+
+[{count} replays selected]
+	{
+	pt-PT={count} repetições selecionadas;
+	}
+
+[This replay cannot be watched.]
+	{
+	pt-PT=Não é possível assistir a esta repetição.;
+	}
+
+[Export…]
+	{
+	pt-PT=Exportar…;
+	}
+
+[Delete replay]
+	{
+	pt-PT=Eliminar repetição;
+	}
+
+[This replay could not be moved to the trash.]
+	{
+	pt-PT=Não foi possível mover esta repetição para a reciclagem.;
+	}
+
+[{count} replays could not be moved to the trash.]
+	{
+	pt-PT=Não foi possível mover {count} repetições para a reciclagem.;
+	}
+
+// The Library's Replays: the empty section, the footer and the question about old replays.
+
+[No replays yet.]
+	{
+	pt-PT=Ainda não há repetições.;
+	}
+
+[Games you play are kept here for 30 days.]
+	{
+	pt-PT=As partidas que joga ficam aqui durante 30 dias.;
+	}
+
+[Games you play are kept here for 90 days.]
+	{
+	pt-PT=As partidas que joga ficam aqui durante 90 dias.;
+	}
+
+[Games you play are kept here for a year.]
+	{
+	pt-PT=As partidas que joga ficam aqui durante um ano.;
+	}
+
+[Games you play are kept here until you delete them.]
+	{
+	pt-PT=As partidas que joga ficam aqui até as eliminar.;
+	}
+
+[Recording is off.]
+	{
+	pt-PT=A gravação está desativada.;
+	}
+
+[No replays from this month.]
+	{
+	pt-PT=Não há repetições deste mês.;
+	}
+
+[No older replays.]
+	{
+	pt-PT=Não há repetições mais antigas.;
+	}
+
+[No replays kept.]
+	{
+	pt-PT=Não há repetições mantidas.;
+	}
+
+[No replays imported.]
+	{
+	pt-PT=Não há repetições importadas.;
+	}
+
+[No replays of this kind.]
+	{
+	pt-PT=Não há repetições deste tipo.;
+	}
+
+[Reading the replays…]
+	{
+	pt-PT=A ler as repetições…;
+	}
+
+[Reading {read} of {total} replays]
+	{
+	pt-PT=A ler {read} de {total} repetições;
+	}
+
+[1 replay · {size}]
+	{
+	pt-PT=1 repetição · {size};
+	}
+
+[{count} replays · {size}]
+	{
+	pt-PT={count} repetições · {size};
+	}
+
+[Old replays]
+	{
+	pt-PT=Repetições antigas;
+	}
+
+[Keep them all]
+	{
+	pt-PT=Manter todas;
+	}
+
+[Let them go]
+	{
+	pt-PT=Deixá-las ir;
+	}
+
+[1 replay is older than you asked to keep. It goes to the system's trash.]
+	{
+	pt-PT=1 repetição é mais antiga do que pediu para manter. Vai para a reciclagem do sistema.;
+	}
+
+[1 replay is older than you asked to keep. It is deleted. This system has no trash.]
+	{
+	pt-PT=1 repetição é mais antiga do que pediu para manter. É eliminada. Este sistema não tem reciclagem.;
+	}
+
+[{count} replays are older than you asked to keep. They go to the system's trash.]
+	{
+	pt-PT={count} repetições são mais antigas do que pediu para manter. Vão para a reciclagem do sistema.;
+	}
+
+[{count} replays are older than you asked to keep. They are deleted. This system has no trash.]
+	{
+	pt-PT={count} repetições são mais antigas do que pediu para manter. São eliminadas. Este sistema não tem reciclagem.;
+	}
+
+// The Library's Replays: what a replay needs, and getting it.
+
+[Needs {name} {version}]
+	{
+	pt-PT=Requer {name} {version};
+	}
+
+[Needs map]
+	{
+	pt-PT=Requer mapa;
+	}
+
+[Needs mutator]
+	{
+	pt-PT=Requer mutador;
+	}
+
+[Needs {name}.]
+	{
+	pt-PT=Requer {name}.;
+	}
+
+[Needs {version}]
+	{
+	pt-PT=Requer {version};
+	}
+
+[This replay was recorded with {name}.]
+	{
+	pt-PT=Esta repetição foi gravada com {name}.;
+	}
+
+[This replay was recorded with {name} {version}.]
+	{
+	pt-PT=Esta repetição foi gravada com {name} {version}.;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}).]
+	{
+	pt-PT=Esta repetição foi gravada com {name} {version} (rev. {revision}).;
+	}
+
+[This replay was recorded with {name}. You have {have}.]
+	{
+	pt-PT=Esta repetição foi gravada com {name}. Tem {have}.;
+	}
+
+[This replay was recorded with {name} {version}. You have {have}.]
+	{
+	pt-PT=Esta repetição foi gravada com {name} {version}. Tem {have}.;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}). You have {have}.]
+	{
+	pt-PT=Esta repetição foi gravada com {name} {version} (rev. {revision}). Tem {have}.;
+	}
+
+[Needs the map {name}.]
+	{
+	pt-PT=Requer o mapa {name}.;
+	}
+
+[From the map pack {pack}.]
+	{
+	pt-PT=Do pacote de mapas {pack}.;
+	}
+
+[This replay was recorded with another release of the map pack {name}.]
+	{
+	pt-PT=Esta repetição foi gravada com outra versão do pacote de mapas {name}.;
+	}
+
+[Needs the mutator {name}.]
+	{
+	pt-PT=Requer o mutador {name}.;
+	}
+
+[Needs Open Annihilation {version}.]
+	{
+	pt-PT=Requer Open Annihilation {version}.;
+	}
+
+[Getting {name}… {percent}%]
+	{
+	pt-PT=A obter {name}… {percent}%;
+	}
+
+[Get {name} {version} and watch]
+	{
+	pt-PT=Obter {name} {version} e assistir;
+	}
+
+[Get it and watch]
+	{
+	pt-PT=Obtê-lo e assistir;
+	}
+
+[Get them and watch]
+	{
+	pt-PT=Obtê-los e assistir;
+	}
+
+[Turn on and watch]
+	{
+	pt-PT=Ativar e assistir;
+	}
+
+[{name} {version} is not in {registry}'s catalogue.]
+	{
+	pt-PT={name} {version} não está no catálogo de {registry}.;
+	}
+
+[{name} is not in {registry}'s catalogue.]
+	{
+	pt-PT={name} não está no catálogo de {registry}.;
+	}
+
+[You're offline.]
+	{
+	pt-PT=Está offline.;
+	}
+
+[Get {name} {version} when you're back online.]
+	{
+	pt-PT=Obtenha {name} {version} quando voltar a estar online.;
+	}
+
+[Get {name} when you're back online.]
+	{
+	pt-PT=Obtenha {name} quando voltar a estar online.;
+	}
+
+// The Library's Replays: exporting.
+
+[Export]
+	{
+	pt-PT=Exportar;
+	}
+
+[Export {name}]
+	{
+	pt-PT=Exportar {name};
+	}
+
+[Export {count} replays]
+	{
+	pt-PT=Exportar {count} repetições;
+	}
+
+[Open Annihilation replay (.oademo)]
+	{
+	pt-PT=Repetição do Open Annihilation (.oademo);
+	}
+
+[Everything needed to watch it: the recording, and the game, mod and map it needs]
+	{
+	pt-PT=Tudo o que é preciso para a ver: a gravação e o jogo, o mod e o mapa de que precisa;
+	}
+
+[TA Demo Recorder (.tad)]
+	{
+	pt-PT=TA Demo Recorder (.tad);
+	}
+
+[For TA Demo Recorder and other replayers]
+	{
+	pt-PT=Para o TA Demo Recorder e outros reprodutores;
+	}
+
+[What to include]
+	{
+	pt-PT=O que incluir;
+	}
+
+[What only Open Annihilation reads]
+	{
+	pt-PT=O que só o Open Annihilation lê;
+	}
+
+[Compatibility]
+	{
+	pt-PT=Compatibilidade;
+	}
+
+[It was played with the mutator {name}. Other replayers cannot apply it, so commanders may not last as they did.]
+	{
+	pt-PT=Foi jogada com o mutador {name}. Outros reprodutores não o conseguem aplicar, por isso os Comandantes podem não durar como duraram.;
+	}
+
+[It was played with mutators. Other replayers cannot apply them, so commanders may not last as they did.]
+	{
+	pt-PT=Foi jogada com mutadores. Outros reprodutores não os conseguem aplicar, por isso os Comandantes podem não durar como duraram.;
+	}
+
+[Other replayers stop at the first of this mod's wide weapon records.]
+	{
+	pt-PT=Outros reprodutores param no primeiro dos registos de armas alargados deste mod.;
+	}
+
+[Names longer than 63 letters are cut.]
+	{
+	pt-PT=Os nomes com mais de 63 letras são cortados.;
+	}
+
+[A player's status is cut to 512 bytes.]
+	{
+	pt-PT=O estado de um jogador é cortado para 512 bytes.;
+	}
+
+[Exporting {done} of {total}]
+	{
+	pt-PT=A exportar {done} de {total};
+	}
+
+[Compressing the recording]
+	{
+	pt-PT=A comprimir a gravação;
+	}
+
+[Writing {name}]
+	{
+	pt-PT=A escrever {name};
+	}
+
+[Measuring…]
+	{
+	pt-PT=A medir…;
+	}
+
+[Saved to {folder}]
+	{
+	pt-PT=Guardado em {folder};
+	}
+
+[Show in folder]
+	{
+	pt-PT=Mostrar na pasta;
+	}
+
+[Nothing is selected. Choose a replay, then export it.]
+	{
+	pt-PT=Nada está selecionado. Escolha uma repetição e depois exporte-a.;
+	}
+
+[The export could not be written.]
+	{
+	pt-PT=Não foi possível escrever a exportação.;
+	}
+
+[There is no room in {folder}.]
+	{
+	pt-PT=Não há espaço em {folder}.;
+	}
+
+[Open Annihilation cannot write to {folder}.]
+	{
+	pt-PT=O Open Annihilation não consegue escrever em {folder}.;
+	}
+
+[Saved {done} of {total}.]
+	{
+	pt-PT=Guardados {done} de {total}.;
+	}
+
+[This replay cannot be read, so it cannot be exported.]
+	{
+	pt-PT=Não é possível ler esta repetição, por isso não pode ser exportada.;
+	}
+
+[More folders]
+	{
+	pt-PT=Mais pastas;
+	}
+
+[Previous folders]
+	{
+	pt-PT=Pastas anteriores;
+	}
+
+[More warnings]
+	{
+	pt-PT=Mais avisos;
+	}
+
+[Previous warnings]
+	{
+	pt-PT=Avisos anteriores;
+	}
+
+// The Library's Replays on Core Prime: browsing a list and getting a replay.
+
+[On this computer]
+	{
+	pt-PT=Neste computador;
+	}
+
+[On Core Prime]
+	{
+	pt-PT=No Core Prime;
+	}
+
+[Longest]
+	{
+	pt-PT=Mais longas;
+	}
+
+[Popular]
+	{
+	pt-PT=Populares;
+	}
+
+[By planet]
+	{
+	pt-PT=Por planeta;
+	}
+
+[Browse Core Prime's replays]
+	{
+	pt-PT=Explorar as repetições do Core Prime;
+	}
+
+[Reading Core Prime's replays…]
+	{
+	pt-PT=A ler as repetições do Core Prime…;
+	}
+
+[Core Prime's list cannot be read.]
+	{
+	pt-PT=Não é possível ler a lista do Core Prime.;
+	}
+
+[Core Prime's replays are not available just now.]
+	{
+	pt-PT=As repetições do Core Prime não estão disponíveis neste momento.;
+	}
+
+[Core Prime cannot be reached.]
+	{
+	pt-PT=Não é possível contactar o Core Prime.;
+	}
+
+[Core Prime has no replays to show.]
+	{
+	pt-PT=O Core Prime não tem repetições para mostrar.;
+	}
+
+[No replays for this planet.]
+	{
+	pt-PT=Não há repetições para este planeta.;
+	}
+
+[1 replay]
+	{
+	pt-PT=1 repetição;
+	}
+
+[{count} replays]
+	{
+	pt-PT={count} repetições;
+	}
+
+[Getting the replay…]
+	{
+	pt-PT=A obter a repetição…;
+	}
+
+[The file does not match the replay.]
+	{
+	pt-PT=O ficheiro não corresponde à repetição.;
+	}
+
+[The replay names no file.]
+	{
+	pt-PT=A repetição não indica nenhum ficheiro.;
+	}
+
+[The replay could not be saved.]
+	{
+	pt-PT=Não foi possível guardar a repetição.;
+	}
+
+[Try again in {seconds} s.]
+	{
+	pt-PT=Tente novamente dentro de {seconds} s.;
+	}
+
+[The check ran out. Try again for a new code.]
+	{
+	pt-PT=A verificação expirou. Tente novamente para obter um novo código.;
+	}
+
+[Go to {address} and enter {code}.]
+	{
+	pt-PT=Aceda a {address} e introduza {code}.;
+	}
+
+// Signing in to Core Prime and sharing a replay there.
+
+[Sign in]
+	{
+	pt-PT=Iniciar sessão;
+	}
+
+[Sign out]
+	{
+	pt-PT=Terminar sessão;
+	}
+
+[Sign in to Core Prime]
+	{
+	pt-PT=Iniciar sessão no Core Prime;
+	}
+
+[Handle]
+	{
+	pt-PT=Nome de utilizador;
+	}
+
+[Forgot it? Reset it at coreprime.net/forgot]
+	{
+	pt-PT=Esqueceu-se? Reponha em coreprime.net/forgot;
+	}
+
+[Signing in needs a secure connection, which this system does not have.]
+	{
+	pt-PT=Iniciar sessão requer uma ligação segura, que este sistema não tem.;
+	}
+
+[Signing in…]
+	{
+	pt-PT=A iniciar sessão…;
+	}
+
+[Share on Core Prime…]
+	{
+	pt-PT=Partilhar no Core Prime…;
+	}
+
+[Share my own recording]
+	{
+	pt-PT=Partilhar a minha gravação;
+	}
+
+[Open on Core Prime]
+	{
+	pt-PT=Abrir no Core Prime;
+	}
+
+[Share]
+	{
+	pt-PT=Partilhar;
+	}
+
+[Share on Core Prime]
+	{
+	pt-PT=Partilhar no Core Prime;
+	}
+
+[Title]
+	{
+	pt-PT=Título;
+	}
+
+[Public]
+	{
+	pt-PT=Público;
+	}
+
+[Unlisted]
+	{
+	pt-PT=Não listado;
+	}
+
+[My battles]
+	{
+	pt-PT=As minhas batalhas;
+	}
+
+[Sharing…]
+	{
+	pt-PT=A partilhar…;
+	}
+
+[Shared on Core Prime]
+	{
+	pt-PT=Partilhada no Core Prime;
+	}
+
+[Already on Core Prime]
+	{
+	pt-PT=Já no Core Prime;
+	}
+
+[Sign in to share a replay.]
+	{
+	pt-PT=Inicie sessão para partilhar uma repetição.;
+	}
+
+[This account cannot share replays.]
+	{
+	pt-PT=Esta conta não pode partilhar repetições.;
+	}
+
+[Only a player in that battle can replace its replay.]
+	{
+	pt-PT=Só um jogador dessa batalha pode substituir a sua repetição.;
+	}
+
+[The replay is larger than the limit.]
+	{
+	pt-PT=A repetição excede o limite.;
+	}
+
+[This account has shared its replays for today.]
+	{
+	pt-PT=Esta conta já partilhou as suas repetições de hoje.;
+	}
+
+[Uploads are not available.]
+	{
+	pt-PT=Os envios não estão disponíveis.;
+	}
+
+[Core Prime did not start a session.]
+	{
+	pt-PT=O Core Prime não iniciou uma sessão.;
+	}
+
+[Core Prime did not answer.]
+	{
+	pt-PT=O Core Prime não respondeu.;
+	}
+
+// Opening a replay or a recording: what is wrong with a file.
+
+[This file cannot be read.]
+	{
+	pt-PT=Não é possível ler este ficheiro.;
+	}
+
+[This file is not a TA Demo recording]
+	{
+	pt-PT=Este ficheiro não é uma gravação TA Demo;
+	}
+
+[This file is not a replay.]
+	{
+	pt-PT=Este ficheiro não é uma repetição.;
+	}
+
+[This file is too large to be a replay.]
+	{
+	pt-PT=Este ficheiro é demasiado grande para ser uma repetição.;
+	}
+
+[This recording cannot be read.]
+	{
+	pt-PT=Não é possível ler esta gravação.;
+	}
+
+[This recording is in version {version} of the format, which Open Annihilation does not play]
+	{
+	pt-PT=Esta gravação está na versão {version} do formato, que o Open Annihilation não reproduz;
+	}
+
+[This replay could not be copied into Recordings.]
+	{
+	pt-PT=Não foi possível copiar esta repetição para Recordings.;
+	}
+
+[This replay does not hold one recording.]
+	{
+	pt-PT=Esta repetição não contém uma única gravação.;
+	}
+
+[This replay is not a version this game reads.]
+	{
+	pt-PT=Esta repetição não é de uma versão que este jogo lê.;
+	}
+
+[This replay's details cannot be read.]
+	{
+	pt-PT=Não é possível ler os detalhes desta repetição.;
+	}
+
+[This replay's recording cannot be read.]
+	{
+	pt-PT=Não é possível ler a gravação desta repetição.;
+	}
+
+[This replay's recording does not match.]
+	{
+	pt-PT=A gravação desta repetição não corresponde.;
+	}
+
+[This replay's recording is too long to play.]
+	{
+	pt-PT=A gravação desta repetição é demasiado longa para ser reproduzida.;
+	}
+
+[Added {title} to Replays]
+	{
+	pt-PT=Adicionado às Repetições: {title};
+	}
+
+[Jumping back isn't available in this replay.]
+	{
+	pt-PT=Não é possível recuar nesta repetição.;
+	}
+
+[Jumping back needs more memory than this device has.]
+	{
+	pt-PT=Recuar precisa de mais memória do que a deste dispositivo.;
+	}
+
+[This replay could not jump to {time} and has stopped.]
+	{
+	pt-PT=Esta repetição não conseguiu saltar para {time} e parou.;
+	}
+
+// The replay viewer: the playback bar, the timeline, the player list and the end card.
+
+[Catching up… {percent} %]
+	{
+	pt-PT=A alcançar… {percent} %;
+	}
+
+[The recording is damaged after {time}]
+	{
+	pt-PT=A gravação está danificada depois de {time};
+	}
+
+[Watch again]
+	{
+	pt-PT=Assistir novamente;
+	}
+
+[Back to the Library]
+	{
+	pt-PT=Voltar à Biblioteca;
+	}
+
+[Undecided]
+	{
+	pt-PT=Por decidir;
+	}
+
+[No result]
+	{
+	pt-PT=Sem resultado;
+	}
+
+[{name} won]
+	{
+	pt-PT={name} venceu;
+	}
+
+[{time} · {name}'s commander destroyed]
+	{
+	pt-PT={time} · Comandante de {name} destruído;
+	}
+
+[{time} · {name} dropped]
+	{
+	pt-PT={time} · {name} perdeu a ligação;
+	}
+
+[{time} · {name} left]
+	{
+	pt-PT={time} · {name} saiu;
+	}
+
+[{time} · {name} was defeated]
+	{
+	pt-PT={time} · {name} foi derrotado;
+	}
+
+[{time} · {name} allied]
+	{
+	pt-PT={time} · {name} aliou-se;
+	}
+
+[{time} · {name} broke the alliance]
+	{
+	pt-PT={time} · {name} rompeu a aliança;
+	}
+
+[{time} · {name}: {line}]
+	{
+	pt-PT={time} · {name}: {line};
+	}
+
+[{time} · Paused]
+	{
+	pt-PT={time} · Em pausa;
+	}
+
+[{time} · End]
+	{
+	pt-PT={time} · Fim;
+	}
+
+[{asked} · {reached} now]
+	{
+	pt-PT={asked} · {reached} agora;
+	}
+
+[½×]
+	{
+	pt-PT=½×;
+	}
+
+[Losses]
+	{
+	pt-PT=Perdas;
+	}
+
+[Photo]
+	{
+	pt-PT=Foto;
+	}
+
+[No markers yet · finding them, {percent} %]
+	{
+	pt-PT=Ainda sem marcadores · a procurá-los, {percent} %;
+	}
+
+[Only a replay in the Library can be exported]
+	{
+	pt-PT=Só é possível exportar uma repetição da Biblioteca;
+	}
+
+[All players]
+	{
+	pt-PT=Todos os jogadores;
+	}
+
+[Follow their camera]
+	{
+	pt-PT=Seguir a câmara do jogador;
+	}
+
+[Follow a unit]
+	{
+	pt-PT=Seguir uma unidade;
+	}
+
+[Director]
+	{
+	pt-PT=Realizador;
+	}
+
+[Defeated {time}]
+	{
+	pt-PT=Derrotado {time};
+	}
+
+[Left {time}]
+	{
+	pt-PT=Saiu {time};
+	}
+
+// Key bindings: Watching, the replay's keys.
+
+[Camera mode]
+	{
+	pt-PT=Modo de câmara;
+	}
+
+[Changes how the camera follows the game]
+	{
+	pt-PT=Altera a forma como a câmara segue a partida;
+	}
+
+[Next player's view]
+	{
+	pt-PT=Visão do jogador seguinte;
+	}
+
+[Shows the next player's view]
+	{
+	pt-PT=Mostra a visão do jogador seguinte;
+	}
+
+[Previous player's view]
+	{
+	pt-PT=Visão do jogador anterior;
+	}
+
+[Shows the previous player's view]
+	{
+	pt-PT=Mostra a visão do jogador anterior;
+	}
+
+[All players' view]
+	{
+	pt-PT=Visão de todos os jogadores;
+	}
+
+[Shows the whole map and every unit]
+	{
+	pt-PT=Mostra o mapa inteiro e todas as unidades;
+	}
+
+[Play or pause]
+	{
+	pt-PT=Reproduzir ou pausar;
+	}
+
+[Plays or pauses the replay]
+	{
+	pt-PT=Reproduz ou pausa a repetição;
+	}
+
+[Back 10 seconds]
+	{
+	pt-PT=Recuar 10 segundos;
+	}
+
+[Jumps back ten seconds]
+	{
+	pt-PT=Salta para trás dez segundos;
+	}
+
+[Forward 10 seconds]
+	{
+	pt-PT=Avançar 10 segundos;
+	}
+
+[Jumps forward ten seconds]
+	{
+	pt-PT=Salta para a frente dez segundos;
+	}
+
+[Back a minute]
+	{
+	pt-PT=Recuar um minuto;
+	}
+
+[Jumps back a minute]
+	{
+	pt-PT=Salta para trás um minuto;
+	}
+
+[Forward a minute]
+	{
+	pt-PT=Avançar um minuto;
+	}
+
+[Jumps forward a minute]
+	{
+	pt-PT=Salta para a frente um minuto;
+	}
+
+[Go to the start]
+	{
+	pt-PT=Ir para o início;
+	}
+
+[Jumps to the start of the replay]
+	{
+	pt-PT=Salta para o início da repetição;
+	}
+
+[Go to the end]
+	{
+	pt-PT=Ir para o fim;
+	}
+
+[Jumps to the end of the replay]
+	{
+	pt-PT=Salta para o fim da repetição;
+	}
+
+[Previous marker]
+	{
+	pt-PT=Marcador anterior;
+	}
+
+[Jumps to the previous marker]
+	{
+	pt-PT=Salta para o marcador anterior;
+	}
+
+[Next marker]
+	{
+	pt-PT=Marcador seguinte;
+	}
+
+[Jumps to the next marker]
+	{
+	pt-PT=Salta para o marcador seguinte;
+	}
+
+[Pin the bar]
+	{
+	pt-PT=Fixar a barra;
+	}
+
+[Keeps the playback bar on screen]
+	{
+	pt-PT=Mantém a barra de reprodução no ecrã;
+	}
+
+[Shortcut card]
+	{
+	pt-PT=Cartão de atalhos;
+	}
+
+[Shows the playback keys]
+	{
+	pt-PT=Mostra as teclas de reprodução;
+	}
+
+// Key bindings: Photo mode.
+
+[Opens photo mode]
+	{
+	pt-PT=Abre o modo de fotografia;
+	}
+
+[Take photo]
+	{
+	pt-PT=Tirar fotografia;
+	}
+
+[Writes a photo of the battlefield]
+	{
+	pt-PT=Guarda uma fotografia do campo de batalha;
+	}
+
+[Copy last photo]
+	{
+	pt-PT=Copiar a última fotografia;
+	}
+
+[Offers the last photo to the clipboard]
+	{
+	pt-PT=Oferece a última fotografia à área de transferência;
+	}
+
+[Freeze / Hold picture]
+	{
+	pt-PT=Congelar / Reter imagem;
+	}
+
+[Holds the clock, or keeps this screen's last frame in a shared match]
+	{
+	pt-PT=Detém o relógio ou, numa partida em rede, mantém o último fotograma deste ecrã;
+	}
+
+[Guides]
+	{
+	pt-PT=Guias;
+	}
+
+[Cycles the guides over the battlefield]
+	{
+	pt-PT=Alterna as guias sobre o campo de batalha;
+	}
+
+[Hide panel]
+	{
+	pt-PT=Ocultar painel;
+	}
+
+[Hides and shows the photo panel]
+	{
+	pt-PT=Oculta e mostra o painel da fotografia;
+	}
+
+[Leaves photo mode]
+	{
+	pt-PT=Sai do modo de fotografia;
+	}
+
+[Step a tick]
+	{
+	pt-PT=Avançar um tick;
+	}
+
+[Advances one tick, then freezes]
+	{
+	pt-PT=Avança um tick e depois congela;
+	}
+
+[Step back]
+	{
+	pt-PT=Recuar um tick;
+	}
+
+[Goes back one tick, then freezes]
+	{
+	pt-PT=Recua um tick e depois congela;
+	}
+
+[Shutter back]
+	{
+	pt-PT=Obturador para trás;
+	}
+
+[Moves the shutter one eighth toward the previous tick]
+	{
+	pt-PT=Move o obturador um oitavo em direção ao tick anterior;
+	}
+
+[Shutter on]
+	{
+	pt-PT=Obturador para a frente;
+	}
+
+[Moves the shutter one eighth toward the frozen tick]
+	{
+	pt-PT=Move o obturador um oitavo em direção ao tick congelado;
+	}
+
+[Turn left]
+	{
+	pt-PT=Rodar para a esquerda;
+	}
+
+[Turns the camera left]
+	{
+	pt-PT=Roda a câmara para a esquerda;
+	}
+
+[Turn right]
+	{
+	pt-PT=Rodar para a direita;
+	}
+
+[Turns the camera right]
+	{
+	pt-PT=Roda a câmara para a direita;
+	}
+
+[Tilt up]
+	{
+	pt-PT=Inclinar para cima;
+	}
+
+[Tilts the camera up]
+	{
+	pt-PT=Inclina a câmara para cima;
+	}
+
+[Tilt down]
+	{
+	pt-PT=Inclinar para baixo;
+	}
+
+[Tilts the camera down]
+	{
+	pt-PT=Inclina a câmara para baixo;
+	}
+
+[Zooms in on the photo]
+	{
+	pt-PT=Aproxima a fotografia;
+	}
+
+[Zooms out on the photo]
+	{
+	pt-PT=Afasta a fotografia;
+	}
+
+[Mark area]
+	{
+	pt-PT=Marcar área;
+	}
+
+[Starts a poster mark at the view's centre]
+	{
+	pt-PT=Inicia uma marca de póster no centro da vista;
+	}
+
+[Grow the mark up]
+	{
+	pt-PT=Aumentar a marca para cima;
+	}
+
+[Grows the marked area up]
+	{
+	pt-PT=Aumenta a área marcada para cima;
+	}
+
+[Grow the mark down]
+	{
+	pt-PT=Aumentar a marca para baixo;
+	}
+
+[Grows the marked area down]
+	{
+	pt-PT=Aumenta a área marcada para baixo;
+	}
+
+[Grow the mark left]
+	{
+	pt-PT=Aumentar a marca para a esquerda;
+	}
+
+[Grows the marked area to the left]
+	{
+	pt-PT=Aumenta a área marcada para a esquerda;
+	}
+
+[Grow the mark right]
+	{
+	pt-PT=Aumentar a marca para a direita;
+	}
+
+[Grows the marked area to the right]
+	{
+	pt-PT=Aumenta a área marcada para a direita;
+	}
+
+[In photo mode]
+	{
+	pt-PT=No modo de fotografia;
+	}
+
+[in photo mode]
+	{
+	pt-PT=no modo de fotografia;
+	}
+
+[Keys in photo mode]
+	{
+	pt-PT=Teclas no modo de fotografia;
+	}
+
+// Key bindings: the megamap's wheel, and the panel's buttons.
+
+[Closes the megamap and zooms in at the pointer]
+	{
+	pt-PT=Fecha o megamapa e aproxima no ponteiro;
+	}
+
+[Focus the panel's buttons]
+	{
+	pt-PT=Focar os botões do painel;
+	}
+
+[Moves a ring over the order buttons and the build page. Press again to return to the battlefield.]
+	{
+	pt-PT=Move um anel sobre os botões de ordens e a página de construção. Prima novamente para voltar ao campo de batalha.;
+	}
+
+// Photo mode: the line at the top left, the panel and its sections.
+
+[Photo mode]
+	{
+	pt-PT=Modo de fotografia;
+	}
+
+[PHOTO MODE]
+	{
+	pt-PT=MODO DE FOTOGRAFIA;
+	}
+
+[Esc leaves]
+	{
+	pt-PT=Esc para sair;
+	}
+
+[{key} or Esc leaves]
+	{
+	pt-PT={key} ou Esc para sair;
+	}
+
+[{key} shows the panel]
+	{
+	pt-PT={key} mostra o painel;
+	}
+
+[Show panel]
+	{
+	pt-PT=Mostrar painel;
+	}
+
+[Leave]
+	{
+	pt-PT=Sair;
+	}
+
+[Expanded]
+	{
+	pt-PT=Expandido;
+	}
+
+[Collapsed]
+	{
+	pt-PT=Recolhido;
+	}
+
+[Time]
+	{
+	pt-PT=Tempo;
+	}
+
+[Live]
+	{
+	pt-PT=Em direto;
+	}
+
+[Replay paused]
+	{
+	pt-PT=Repetição em pausa;
+	}
+
+[Frozen]
+	{
+	pt-PT=Congelado;
+	}
+
+[Held]
+	{
+	pt-PT=Retida;
+	}
+
+[Held picture]
+	{
+	pt-PT=Imagem retida;
+	}
+
+[Shared game]
+	{
+	pt-PT=Partida em rede;
+	}
+
+// Photo mode: Camera.
+
+[Far]
+	{
+	pt-PT=Longe;
+	}
+
+[Near]
+	{
+	pt-PT=Perto;
+	}
+
+[Closest]
+	{
+	pt-PT=Mais perto;
+	}
+
+[Turn]
+	{
+	pt-PT=Rodar;
+	}
+
+[Tilt]
+	{
+	pt-PT=Inclinar;
+	}
+
+[Follow unit]
+	{
+	pt-PT=Seguir unidade;
+	}
+
+[Needs Full 3D Mode]
+	{
+	pt-PT=Requer o Modo 3D completo;
+	}
+
+// Photo mode: Time.
+
+[Run]
+	{
+	pt-PT=Continuar;
+	}
+
+[Slow]
+	{
+	pt-PT=Lento;
+	}
+
+[Freeze]
+	{
+	pt-PT=Congelar;
+	}
+
+[Hold picture]
+	{
+	pt-PT=Reter imagem;
+	}
+
+[Speed]
+	{
+	pt-PT=Velocidade;
+	}
+
+[Step]
+	{
+	pt-PT=Passo;
+	}
+
+[Between ticks]
+	{
+	pt-PT=Entre ticks;
+	}
+
+[Clock]
+	{
+	pt-PT=Relógio;
+	}
+
+// Photo mode: Look.
+
+[Dusk]
+	{
+	pt-PT=Crepúsculo;
+	}
+
+[Arctic]
+	{
+	pt-PT=Ártico;
+	}
+
+[Noir]
+	{
+	pt-PT=Noir;
+	}
+
+[Bleach]
+	{
+	pt-PT=Branqueado;
+	}
+
+[Vignette]
+	{
+	pt-PT=Vinheta;
+	}
+
+[Roundness]
+	{
+	pt-PT=Arredondamento;
+	}
+
+[Grain]
+	{
+	pt-PT=Grão;
+	}
+
+[Grain size]
+	{
+	pt-PT=Tamanho do grão;
+	}
+
+[Frame]
+	{
+	pt-PT=Moldura;
+	}
+
+[Thin border]
+	{
+	pt-PT=Orla fina;
+	}
+
+[Wide mat]
+	{
+	pt-PT=Passe-partout largo;
+	}
+
+[Caption bar]
+	{
+	pt-PT=Barra de legenda;
+	}
+
+[Show selection]
+	{
+	pt-PT=Mostrar seleção;
+	}
+
+[Show health bars]
+	{
+	pt-PT=Mostrar barras de vida;
+	}
+
+[Depth]
+	{
+	pt-PT=Profundidade;
+	}
+
+[Band centre]
+	{
+	pt-PT=Centro da faixa;
+	}
+
+[Band width]
+	{
+	pt-PT=Largura da faixa;
+	}
+
+[Blur]
+	{
+	pt-PT=Desfocagem;
+	}
+
+[Blurs by screen row, not by depth.]
+	{
+	pt-PT=Desfoca por linha do ecrã, não por profundidade.;
+	}
+
+[Haze]
+	{
+	pt-PT=Neblina;
+	}
+
+[Follows the ground, not the units.]
+	{
+	pt-PT=Segue o terreno, não as unidades.;
+	}
+
+[Depth of field]
+	{
+	pt-PT=Profundidade de campo;
+	}
+
+[This graphics card keeps no depth.]
+	{
+	pt-PT=Esta placa gráfica não guarda a profundidade.;
+	}
+
+[The preview lowers the frame rate.]
+	{
+	pt-PT=A pré-visualização reduz a taxa de fotogramas.;
+	}
+
+[Thirds]
+	{
+	pt-PT=Terços;
+	}
+
+[Centre lines]
+	{
+	pt-PT=Linhas centrais;
+	}
+
+[Safe area]
+	{
+	pt-PT=Área de segurança;
+	}
+
+// Photo mode: Photo, and the sizes it offers.
+
+[Screen]
+	{
+	pt-PT=Ecrã;
+	}
+
+[2×]
+	{
+	pt-PT=2×;
+	}
+
+[3×]
+	{
+	pt-PT=3×;
+	}
+
+[4×]
+	{
+	pt-PT=4×;
+	}
+
+[Smooth edges]
+	{
+	pt-PT=Contornos suaves;
+	}
+
+[Copy to clipboard]
+	{
+	pt-PT=Copiar para a área de transferência;
+	}
+
+[Player names]
+	{
+	pt-PT=Nomes dos jogadores;
+	}
+
+[A photo is at most {limit} pixels a side]
+	{
+	pt-PT=Uma fotografia tem, no máximo, {limit} píxeis de lado;
+	}
+
+[This graphics card draws at most {limit} pixels a side]
+	{
+	pt-PT=Esta placa gráfica desenha, no máximo, {limit} píxeis de lado;
+	}
+
+[The 3D view draws at most {limit} pixels a side at this anti-aliasing]
+	{
+	pt-PT=A vista 3D desenha, no máximo, {limit} píxeis de lado com este anti-aliasing;
+	}
+
+[The graphics card draws no farther out than this.]
+	{
+	pt-PT=A placa gráfica não desenha mais longe do que isto.;
+	}
+
+[Not enough memory]
+	{
+	pt-PT=Memória insuficiente;
+	}
+
+[Off and Basic draw whole pixels]
+	{
+	pt-PT=Desligado e Básico desenham píxeis inteiros;
+	}
+
+// Photo mode: posters.
+
+[Poster]
+	{
+	pt-PT=Póster;
+	}
+
+[The view]
+	{
+	pt-PT=A vista;
+	}
+
+[Area]
+	{
+	pt-PT=Área;
+	}
+
+[Freeze the picture]
+	{
+	pt-PT=Congele a imagem;
+	}
+
+[A poster is the map from above: Classic view, {key}]
+	{
+	pt-PT=Um póster é o mapa visto de cima: Visão clássica, {key};
+	}
+
+// Photo mode: what the game says about a photo.
+
+[Photo not taken]
+	{
+	pt-PT=Fotografia não tirada;
+	}
+
+[Saved {name}]
+	{
+	pt-PT=Guardado: {name};
+	}
+
+[Photo not saved: {reason}]
+	{
+	pt-PT=Fotografia não guardada: {reason};
+	}
+
+[Photo not copied: {reason}]
+	{
+	pt-PT=Fotografia não copiada: {reason};
+	}
+
+[photo mode is not on]
+	{
+	pt-PT=o modo de fotografia não está ativo;
+	}
+
+[four photos are still being saved]
+	{
+	pt-PT=ainda estão a ser guardadas quatro fotografias;
+	}
+
+[the picture could not be read]
+	{
+	pt-PT=não foi possível ler a imagem;
+	}
+
+[the picture could not be drawn]
+	{
+	pt-PT=não foi possível desenhar a imagem;
+	}
+
+[the file could not be written]
+	{
+	pt-PT=não foi possível escrever o ficheiro;
+	}
+
+[the graphics device was lost]
+	{
+	pt-PT=o dispositivo gráfico foi perdido;
+	}
+
+[a side is above 8192 pixels]
+	{
+	pt-PT=um dos lados excede 8192 píxeis;
+	}
+
+[the photo is above 128 MB]
+	{
+	pt-PT=a fotografia excede 128 MB;
+	}
+
+[the clipboard did not take the photo]
+	{
+	pt-PT=a área de transferência não aceitou a fotografia;
+	}
+
+[the clipboard holds text only]
+	{
+	pt-PT=a área de transferência só aceita texto;
+	}
+
+[not available in Game Mode]
+	{
+	pt-PT=não disponível no Modo de jogo;
+	}
+
+// The Boneyards: entering it from the game.
+
+[The Boneyards]
+	{
+	pt-PT=Boneyards;
+	}
+
+[The Boneyards is installed. Start Open Annihilation again to enter the Boneyards.]
+	{
+	pt-PT=O Boneyards está instalado. Inicie o Open Annihilation novamente para entrar no Boneyards.;
+	}
+
+[The Boneyards needs by.ccx and the Boneyards folder.]
+	{
+	pt-PT=O Boneyards precisa de by.ccx e da pasta Boneyards.;
+	}
+
+[Start Open Annihilation without the mod on its command line to enter the Boneyards.]
+	{
+	pt-PT=Inicie o Open Annihilation sem o mod na linha de comandos para entrar no Boneyards.;
+	}
+
+[The Boneyards launches and reports games only on 3.1c, Core Contingency and Battle Tactics. Switch your mod off to play in the Boneyards.]
+	{
+	pt-PT=O Boneyards só inicia e regista partidas em 3.1c, Core Contingency e Battle Tactics. Desligue o seu mod para jogar no Boneyards.;
+	}
+
+[The Boneyards plays Total Annihilation without mods. Switch {mod} off and enter the Boneyards?]
+	{
+	pt-PT=O Boneyards joga-se em Total Annihilation sem mods. Pretende desativar {mod} e entrar no Boneyards?;
+	}
+
+[Switch off and enter]
+	{
+	pt-PT=Desativar e entrar;
+	}
+
+[Switch {mod} back on?]
+	{
+	pt-PT=Voltar a ativar {mod}?;
+	}
+
+[Switch on]
+	{
+	pt-PT=Ativar;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks and the content catalogue. Turn them on and continue?]
+	{
+	pt-PT=O Boneyards precisa das funcionalidades online do Open Annihilation: a procura de atualizações e o catálogo de conteúdo. Pretende ativá-las e continuar?;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks, the content catalogue and {registry}'s install ID. Turn them on and continue?]
+	{
+	pt-PT=O Boneyards precisa das funcionalidades online do Open Annihilation: a procura de atualizações, o catálogo de conteúdo e o ID de instalação de {registry}. Pretende ativá-las e continuar?;
+	}
+
+[The Boneyards needs {registry}'s install ID turned on. Turn it on and continue?]
+	{
+	pt-PT=O Boneyards precisa do ID de instalação de {registry} ativado. Pretende ativá-lo e continuar?;
+	}
+
+[Turn on]
+	{
+	pt-PT=Ativar;
+	}
+
+[Open Annihilation {version} is out. The Boneyards needs the latest version.]
+	{
+	pt-PT=O Open Annihilation {version} já saiu. O Boneyards precisa da versão mais recente.;
+	}
+
+[Open Annihilation could not check for updates.]
+	{
+	pt-PT=O Open Annihilation não conseguiu procurar atualizações.;
+	}
+
+[Downloads are off for {registry}.]
+	{
+	pt-PT=As transferências estão desligadas para {registry}.;
+	}
+
+// The mutator picker's handle for moving a row.
+
+[Drag to reorder]
+	{
+	pt-PT=Arraste para reordenar;
+	}
+
+// The Library's Replays: the question Delete replay asks, and where the replay goes.
+
+[Delete this replay?]
+	{
+	pt-PT=Eliminar esta repetição?;
+	}
+
+[Delete these {count} replays?]
+	{
+	pt-PT=Eliminar estas {count} repetições?;
+	}
+
+[It goes to the system's trash.]
+	{
+	pt-PT=Vai para a reciclagem do sistema.;
+	}
+
+[They go to the system's trash.]
+	{
+	pt-PT=Vão para a reciclagem do sistema.;
+	}
+
+[It is deleted and cannot be undone. This system has no trash.]
+	{
+	pt-PT=É eliminada e não pode ser recuperada. Este sistema não tem reciclagem.;
+	}
+
+[They are deleted and cannot be undone. This system has no trash.]
+	{
+	pt-PT=São eliminadas e não podem ser recuperadas. Este sistema não tem reciclagem.;
+	}
+
+[Delete replays]
+	{
+	pt-PT=Eliminar repetições;
+	}
+
+// Settings › Game Content: Remove… and Repair…, and the question about an archive that is not the game's.
+
+[Remove…]
+	{
+	pt-PT=Remover…;
+	}
+
+[Repair…]
+	{
+	pt-PT=Reparar…;
+	}
+
+[Move to Trash]
+	{
+	pt-PT=Mover para a reciclagem;
+	}
+
+[Move {file} to the trash?]
+	{
+	pt-PT=Pretende mover {file} para a reciclagem?;
+	}
+
+[Delete {file}? This system has no trash.]
+	{
+	pt-PT=Pretende eliminar {file}? Este sistema não tem reciclagem.;
+	}
+
+[{file} is not one of its files]
+	{
+	pt-PT={file} não é um dos seus ficheiros;
+	}
+
+[{count} archives are not its files]
+	{
+	pt-PT={count} arquivos não são dos seus ficheiros;
+	}
+
+[{file} in {folder}, {size} bytes, is not a file of {bundle}. The game does not read it.]
+	{
+	pt-PT={file} em {folder}, {size} bytes, não é um ficheiro de {bundle}. O jogo não o lê.;
+	}
+
+// The battle room: game files that differ, and the units that differ between machines.
+
+[*** Your game files differ from Total Annihilation's, so this battle cannot start. Leave it and repair them in Settings › Game Content.]
+	{
+	pt-PT=*** Os seus ficheiros do jogo diferem dos ficheiros de Total Annihilation, por isso esta batalha não pode começar. Saia dela e repare-os em Definições › Conteúdo do jogo.;
+	}
+
+[*** {player}'s game files differ from Total Annihilation's; they must repair them before this battle can start.]
+	{
+	pt-PT=*** Os ficheiros do jogo de {player} diferem dos ficheiros de Total Annihilation e têm de ser reparados antes de esta batalha poder começar.;
+	}
+
+[*** {units} differs on {player}'s machine and can't be built in this battle.]
+	{
+	pt-PT=*** {units} difere no computador de {player} e não pode ser construída nesta batalha.;
+	}
+
+[*** {units} differ on {player}'s machine and can't be built in this battle.]
+	{
+	pt-PT=*** {units} diferem no computador de {player} e não podem ser construídas nesta batalha.;
+	}
+
+[*** {units} differs between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	pt-PT=*** {units} difere entre os computadores de {first} e {second} e não pode ser construída nesta batalha.;
+	}
+
+[*** {units} differ between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	pt-PT=*** {units} diferem entre os computadores de {first} e {second} e não podem ser construídas nesta batalha.;
+	}
+
+[*** {units} differs between {count} players' machines and can't be built in this battle.]
+	{
+	pt-PT=*** {units} difere entre os computadores de {count} jogadores e não pode ser construída nesta batalha.;
+	}
+
+[*** {units} differ between {count} players' machines and can't be built in this battle.]
+	{
+	pt-PT=*** {units} diferem entre os computadores de {count} jogadores e não podem ser construídas nesta batalha.;
+	}
+
+[*** Press START again to start anyway. Those units stay unavailable in this battle.]
+	{
+	pt-PT=*** Prima INICIAR novamente para iniciar mesmo assim. Essas unidades ficam indisponíveis nesta batalha.;
+	}
+
+[a player who left]
+	{
+	pt-PT=um jogador que saiu;
+	}
+
+[1 other unit]
+	{
+	pt-PT=1 outra unidade;
+	}
+
+[{count} other units]
+	{
+	pt-PT={count} outras unidades;
+	}
+
+[{list} and {last}]
+	{
+	pt-PT={list} e {last};
+	}
+
+// The Boneyards entry: game files that stop it.
+
+[{file} in {folder} does not match Total Annihilation's, so the Boneyards cannot be entered. Copy the game again from your own install or CD to enter.]
+	{
+	pt-PT=O ficheiro {file} em {folder} não corresponde ao ficheiro de Total Annihilation, por isso não é possível entrar no Boneyards. Copie o jogo novamente a partir da sua própria instalação ou CD para entrar.;
+	}
+
+[{file} in {folder} does not match Total Annihilation's. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	pt-PT=O ficheiro {file} em {folder} não corresponde ao ficheiro de Total Annihilation. O Boneyards só joga com a cópia do jogo do próprio Open Annihilation: copie-a a partir da sua própria instalação ou CD para entrar.;
+	}
+
+[{file} in {folder} is not Total Annihilation's own. The Boneyards launches and reports games only on Total Annihilation's own files. Leave the Boneyards and repair it in Settings › Game Content.]
+	{
+	pt-PT=O ficheiro {file} em {folder} não é do próprio Total Annihilation. O Boneyards só inicia e regista partidas com os ficheiros do próprio Total Annihilation. Saia do Boneyards e repare-o em Definições › Conteúdo do jogo.;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files, so the Boneyards cannot be entered. Remove it to enter.]
+	{
+	pt-PT=O ficheiro {file} em {folder} não é um dos ficheiros de Total Annihilation, por isso não é possível entrar no Boneyards. Remova-o para entrar.;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	pt-PT=O ficheiro {file} em {folder} não é um dos ficheiros de Total Annihilation. O Boneyards só joga com a cópia do jogo do próprio Open Annihilation: copie-a a partir da sua própria instalação ou CD para entrar.;
 	}
