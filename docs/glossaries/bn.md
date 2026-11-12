@@ -20,10 +20,10 @@ danda Bengali uses, and the face draws it. Keep `.` in an abbreviation
 and `!` as the English does. Do not use Bengali digits (০-৯). A number
 stays in the ASCII digits the English wrote.
 
-The language's own name, বাংলা, is not in the engine's faces. Settings ›
-Language draws that name from those faces before the pack is installed, so
-it can show as a box until the pack is on disk. The pack's face draws it
-after that. Do not change the endonym to Latin.
+The language's own name, বাংলা, is in the engine's Bengali endonym face
+from Open Annihilation 0.9.1, so Settings › Language draws it before the
+pack is installed. The pack's face draws it after that. Do not change the
+endonym to Latin.
 
 Ukrainian is the structural template. Korean shows how a pack in another
 script transliterates a nickname and translates a description. Neither is a

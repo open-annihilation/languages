@@ -219,3 +219,5 @@ the English, the translation the pack uses, and why.
   a helper is a setting, not a key.
 - "Layouts", the heading in the key editor's More menu: 按键布局, the
   glossary's word, not 布局 alone.
+
+- `fonts/engine-faces.json`, `tools/fonts.py` (`ENGINE_FACE_FILES`) and `fonts/README.md` record the engine's four base faces. From 0.9.1 the stack has a fifth, `NotoSansBengali-Bold-Endonyms.ttf`, after the CJK endonym face. Add it to the record and the checks, and make the record again from 0.9.1's `fonts` folder.
