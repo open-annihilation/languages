@@ -11298,11 +11298,6 @@
 	uk=Закрити мегамапу;
 	}
 
-[Closes the megamap and centres on the pointer]
-	{
-	uk=Закриває мегамапу і центрує на вказівнику;
-	}
-
 [Jumps the view to a point of the megamap]
 	{
 	uk=Перестрибує видом до точки на мегамапі;
@@ -16058,5 +16053,3012 @@
 [Open the download page]
 	{
 	uk=Відкрити сторінку завантаження;
+	}
+
+// Settings › Replays and Accessibility: recording, how long replays are kept, colour vision,
+// shape cues, the screen reader and the focus ring.
+
+[REPLAYS]
+	{
+	uk=ПОВТОРИ;
+	}
+
+[Record my games]
+	{
+	uk=Записувати мої ігри;
+	}
+
+[Campaign missions, skirmish, multiplayer and Boneyards battles. Applies from the next game.]
+	{
+	uk=Місії кампанії, сутички, мережеві ігри та битви в Boneyards. Діє з наступної гри.;
+	}
+
+[Keep replays for]
+	{
+	uk=Зберігати повтори;
+	}
+
+[30 days]
+	{
+	uk=30 днів;
+	}
+
+[90 days]
+	{
+	uk=90 днів;
+	}
+
+[A year]
+	{
+	uk=Рік;
+	}
+
+[Forever]
+	{
+	uk=Назавжди;
+	}
+
+[Replays you keep in the Library stay until you delete them.]
+	{
+	uk=Повтори, які ти залишаєш у Бібліотеці, не зникають, доки ти їх не видалиш.;
+	}
+
+[Open replay files with Open Annihilation]
+	{
+	uk=Відкривати файли повторів у Open Annihilation;
+	}
+
+[A .oademo or a .tad file opens in this copy.]
+	{
+	uk=Файл .oademo або .tad відкривається в цій копії.;
+	}
+
+[Colour vision]
+	{
+	uk=Колірний зір;
+	}
+
+[Protanopia]
+	{
+	uk=Протанопія;
+	}
+
+[Deuteranopia]
+	{
+	uk=Дейтеранопія;
+	}
+
+[Tritanopia]
+	{
+	uk=Тританопія;
+	}
+
+[Achromatopsia]
+	{
+	uk=Ахроматопсія;
+	}
+
+[Changes team colours, the minimap, bars, the war map and status colours on this machine only.]
+	{
+	uk=Змінює кольори команд, мінімапи, смуг, мапи війни й статусів лише на цьому компʼютері.;
+	}
+
+[Shape cues]
+	{
+	uk=Підказки формою;
+	}
+
+[Player markers, side symbols, notched bars and a mark on every status.]
+	{
+	uk=Маркери гравців, символи сторін, смуги із зарубками та позначка на кожному статусі.;
+	}
+
+[Achromatopsia keeps shape cues on]
+	{
+	uk=Ахроматопсія залишає підказки формою ввімкненими;
+	}
+
+[The ten player colours, then OK, caution, danger and information.]
+	{
+	uk=Десять кольорів гравців, потім норма, застереження, небезпека та інформація.;
+	}
+
+[Screen reader]
+	{
+	uk=Зчитувач екрана;
+	}
+
+[Automatic works with a screen reader while the system says one is running. On also works with one the system does not report. Off never does.]
+	{
+	uk=«Авто» працює зі зчитувачем екрана, поки система повідомляє, що він запущений. «Увімк.» працює й зі зчитувачем, про який система не повідомляє. «Вимк.» не працює ніколи.;
+	}
+
+[Nothing on this system can speak.]
+	{
+	uk=У цій системі немає голосу для озвучування.;
+	}
+
+[Speak chat]
+	{
+	uk=Озвучувати чат;
+	}
+
+[Pages only]
+	{
+	uk=Лише виклики;
+	}
+
+[Chat lines and whispers, pages only, or neither.]
+	{
+	uk=Рядки чату й шепіт, лише виклики або нічого.;
+	}
+
+[Speak lobby changes]
+	{
+	uk=Озвучувати зміни в лобі;
+	}
+
+[A player joining or leaving the battle room, and a change of ready, side, colour, team, map or option.]
+	{
+	uk=Вхід або вихід гравця в кімнаті бою, а також зміна готовності, сторони, кольору, команди, мапи чи параметра.;
+	}
+
+[Speak the ticker]
+	{
+	uk=Озвучувати бігучий рядок;
+	}
+
+[The ticker repeats, so it stays quiet until this is on.]
+	{
+	uk=Бігучий рядок повторюється, тому мовчить, доки це не ввімкнено.;
+	}
+
+[Always show focus]
+	{
+	uk=Завжди показувати фокус;
+	}
+
+[The focus ring is drawn on the first item when a screen opens.]
+	{
+	uk=Рамка фокуса малюється на першому елементі, щойно відкривається екран.;
+	}
+
+// Photo mode: the panel's sections and rows, the Look, Depth and Poster choices, and the notices after a photo.
+
+[Photo mode]
+	{
+	uk=Фоторежим;
+	}
+
+[PHOTO MODE]
+	{
+	uk=ФОТОРЕЖИМ;
+	}
+
+[Photo]
+	{
+	uk=Фото;
+	}
+
+[Take photo]
+	{
+	uk=Зробити фото;
+	}
+
+[Photo not taken]
+	{
+	uk=Фото не зроблено;
+	}
+
+[{key} or Esc leaves]
+	{
+	uk={key} або Esc — вихід;
+	}
+
+[Esc leaves]
+	{
+	uk=Esc — вихід;
+	}
+
+[{key} shows the panel]
+	{
+	uk={key} показує панель;
+	}
+
+[Show panel]
+	{
+	uk=Показати панель;
+	}
+
+[Hide panel]
+	{
+	uk=Сховати панель;
+	}
+
+[Leave]
+	{
+	uk=Вийти;
+	}
+
+[Time]
+	{
+	uk=Час;
+	}
+
+[Turn]
+	{
+	uk=Поворот;
+	}
+
+[Tilt]
+	{
+	uk=Нахил;
+	}
+
+[Follow unit]
+	{
+	uk=Стежити за підрозділом;
+	}
+
+[Run]
+	{
+	uk=Грати;
+	}
+
+[Slow]
+	{
+	uk=Повільно;
+	}
+
+[Freeze]
+	{
+	uk=Заморозити;
+	}
+
+[Frozen]
+	{
+	uk=Заморожено;
+	}
+
+[Hold picture]
+	{
+	uk=Утримати кадр;
+	}
+
+[Held]
+	{
+	uk=Утримано;
+	}
+
+[Held picture]
+	{
+	uk=Кадр утримано;
+	}
+
+[Freeze the picture]
+	{
+	uk=Заморозь кадр;
+	}
+
+[Speed]
+	{
+	uk=Швидкість;
+	}
+
+[Step]
+	{
+	uk=Крок;
+	}
+
+[Between ticks]
+	{
+	uk=Між тактами;
+	}
+
+[Clock]
+	{
+	uk=Годинник;
+	}
+
+[Shared game]
+	{
+	uk=Мережева гра;
+	}
+
+[Live]
+	{
+	uk=Наживо;
+	}
+
+[Replay paused]
+	{
+	uk=Повтор на паузі;
+	}
+
+[Far]
+	{
+	uk=Далекий;
+	}
+
+[Near]
+	{
+	uk=Близький;
+	}
+
+[Closest]
+	{
+	uk=Найближчий;
+	}
+
+[Show selection]
+	{
+	uk=Показ виділення;
+	}
+
+[Show health bars]
+	{
+	uk=Показ смуг здоровʼя;
+	}
+
+[Guides]
+	{
+	uk=Напрямні;
+	}
+
+[Thirds]
+	{
+	uk=Третини;
+	}
+
+[Centre lines]
+	{
+	uk=Центральні лінії;
+	}
+
+[Safe area]
+	{
+	uk=Безпечна зона;
+	}
+
+[Frame]
+	{
+	uk=Рамка;
+	}
+
+[Thin border]
+	{
+	uk=Тонка облямівка;
+	}
+
+[Wide mat]
+	{
+	uk=Широке паспарту;
+	}
+
+[Caption bar]
+	{
+	uk=Смуга підпису;
+	}
+
+[Dusk]
+	{
+	uk=Сутінки;
+	}
+
+[Arctic]
+	{
+	uk=Арктика;
+	}
+
+[Noir]
+	{
+	uk=Нуар;
+	}
+
+[Bleach]
+	{
+	uk=Вибілення;
+	}
+
+[Vignette]
+	{
+	uk=Віньєтка;
+	}
+
+[Roundness]
+	{
+	uk=Округлість;
+	}
+
+[Grain]
+	{
+	uk=Зерно;
+	}
+
+[Grain size]
+	{
+	uk=Розмір зерна;
+	}
+
+[Depth]
+	{
+	uk=Глибина;
+	}
+
+[Band centre]
+	{
+	uk=Центр смуги;
+	}
+
+[Band width]
+	{
+	uk=Ширина смуги;
+	}
+
+[Blur]
+	{
+	uk=Розмиття;
+	}
+
+[Blurs by screen row, not by depth.]
+	{
+	uk=Розмиває за рядками екрана, а не за глибиною.;
+	}
+
+[Haze]
+	{
+	uk=Серпанок;
+	}
+
+[Follows the ground, not the units.]
+	{
+	uk=Залежить від ландшафту, а не від підрозділів.;
+	}
+
+[Depth of field]
+	{
+	uk=Глибина різкості;
+	}
+
+[Needs Full 3D Mode]
+	{
+	uk=Потрібен повний 3D-режим;
+	}
+
+[This graphics card keeps no depth.]
+	{
+	uk=Ця відеокарта не зберігає глибину.;
+	}
+
+[The graphics card draws no farther out than this.]
+	{
+	uk=Відеокарта не малює далі, ніж це.;
+	}
+
+[The preview lowers the frame rate.]
+	{
+	uk=Попередній перегляд знижує частоту кадрів.;
+	}
+
+[Screen]
+	{
+	uk=Екран;
+	}
+
+[2×]
+	{
+	uk=2×;
+	}
+
+[3×]
+	{
+	uk=3×;
+	}
+
+[4×]
+	{
+	uk=4×;
+	}
+
+[Smooth edges]
+	{
+	uk=Згладжування країв;
+	}
+
+[Copy to clipboard]
+	{
+	uk=Копіювати в буфер обміну;
+	}
+
+[Player names]
+	{
+	uk=Імена гравців;
+	}
+
+[File]
+	{
+	uk=Файл;
+	}
+
+[Expanded]
+	{
+	uk=Розгорнуто;
+	}
+
+[Collapsed]
+	{
+	uk=Згорнуто;
+	}
+
+[This graphics card draws at most {limit} pixels a side]
+	{
+	uk=Ця відеокарта малює не більше {limit} пікселів на сторону;
+	}
+
+[A photo is at most {limit} pixels a side]
+	{
+	uk=Фото — не більше {limit} пікселів на сторону;
+	}
+
+[The 3D view draws at most {limit} pixels a side at this anti-aliasing]
+	{
+	uk=За такого згладжування 3D-вигляд малює не більше {limit} пікселів на сторону;
+	}
+
+[Not enough memory]
+	{
+	uk=Не вистачає памʼяті;
+	}
+
+[Off and Basic draw whole pixels]
+	{
+	uk=«Вимк.» і «Базовий» малюють цілі пікселі;
+	}
+
+[Poster]
+	{
+	uk=Постер;
+	}
+
+[The view]
+	{
+	uk=Поточний вид;
+	}
+
+[Area]
+	{
+	uk=Область;
+	}
+
+[A poster is the map from above: Classic view, {key}]
+	{
+	uk=Постер — це мапа згори: класичний вид, {key};
+	}
+
+[Saved {name}]
+	{
+	uk=Збережено {name};
+	}
+
+[Photo not saved: {reason}]
+	{
+	uk=Фото не збережено: {reason};
+	}
+
+[photo mode is not on]
+	{
+	uk=фоторежим не ввімкнено;
+	}
+
+[four photos are still being saved]
+	{
+	uk=ще зберігаються чотири фото;
+	}
+
+[the picture could not be read]
+	{
+	uk=не вдалося зчитати зображення;
+	}
+
+[the graphics device was lost]
+	{
+	uk=графічний пристрій втрачено;
+	}
+
+[the file could not be written]
+	{
+	uk=не вдалося записати файл;
+	}
+
+[the picture could not be drawn]
+	{
+	uk=не вдалося намалювати зображення;
+	}
+
+[Photo not copied: {reason}]
+	{
+	uk=Фото не скопійовано: {reason};
+	}
+
+[a side is above 8192 pixels]
+	{
+	uk=одна зі сторін перевищує 8192 пікселі;
+	}
+
+[the photo is above 128 MB]
+	{
+	uk=фото більше за 128 МБ;
+	}
+
+[the clipboard did not take the photo]
+	{
+	uk=буфер обміну не прийняв фото;
+	}
+
+[not available in Game Mode]
+	{
+	uk=недоступно в Game Mode;
+	}
+
+[the clipboard holds text only]
+	{
+	uk=буфер обміну приймає лише текст;
+	}
+
+[chat lines]
+	{
+	uk=рядк. чату;
+	}
+
+// Key bindings: photo mode, and the keys that were added to the megamap.
+
+[Closes the megamap and zooms in at the pointer]
+	{
+	uk=Закриває мегамапу й наближає до вказівника;
+	}
+
+[Keys in photo mode]
+	{
+	uk=Клавіші у фоторежимі;
+	}
+
+[In photo mode]
+	{
+	uk=У фоторежимі;
+	}
+
+[in photo mode]
+	{
+	uk=у фоторежимі;
+	}
+
+[Opens photo mode]
+	{
+	uk=Відкриває фоторежим;
+	}
+
+[Leaves photo mode]
+	{
+	uk=Виходить із фоторежиму;
+	}
+
+[Writes a photo of the battlefield]
+	{
+	uk=Зберігає фото поля бою;
+	}
+
+[Copy last photo]
+	{
+	uk=Копіювати останнє фото;
+	}
+
+[Offers the last photo to the clipboard]
+	{
+	uk=Передає останнє фото в буфер обміну;
+	}
+
+[Hides and shows the photo panel]
+	{
+	uk=Ховає й показує панель фоторежиму;
+	}
+
+[Zooms in on the photo]
+	{
+	uk=Наближає фото;
+	}
+
+[Zooms out on the photo]
+	{
+	uk=Віддаляє фото;
+	}
+
+[Tilt up]
+	{
+	uk=Нахил угору;
+	}
+
+[Tilt down]
+	{
+	uk=Нахил униз;
+	}
+
+[Turn left]
+	{
+	uk=Поворот ліворуч;
+	}
+
+[Turn right]
+	{
+	uk=Поворот праворуч;
+	}
+
+[Tilts the camera up]
+	{
+	uk=Нахиляє камеру вгору;
+	}
+
+[Tilts the camera down]
+	{
+	uk=Нахиляє камеру вниз;
+	}
+
+[Turns the camera left]
+	{
+	uk=Повертає камеру ліворуч;
+	}
+
+[Turns the camera right]
+	{
+	uk=Повертає камеру праворуч;
+	}
+
+[Cycles the guides over the battlefield]
+	{
+	uk=Перемикає напрямні на полі бою;
+	}
+
+[Freeze / Hold picture]
+	{
+	uk=Заморозити / Утримати кадр;
+	}
+
+[Holds the clock, or keeps this screen's last frame in a shared match]
+	{
+	uk=Зупиняє годинник або в мережевій грі лишає на цьому екрані останній кадр;
+	}
+
+[Step a tick]
+	{
+	uk=Крок на такт;
+	}
+
+[Step back]
+	{
+	uk=Крок назад;
+	}
+
+[Advances one tick, then freezes]
+	{
+	uk=Просуває на один такт і завмирає;
+	}
+
+[Goes back one tick, then freezes]
+	{
+	uk=Повертає на один такт назад і завмирає;
+	}
+
+[Shutter on]
+	{
+	uk=Затвор далі;
+	}
+
+[Shutter back]
+	{
+	uk=Затвор назад;
+	}
+
+[Moves the shutter one eighth toward the frozen tick]
+	{
+	uk=Зсуває затвор на одну восьму до завмерлого такту;
+	}
+
+[Moves the shutter one eighth toward the previous tick]
+	{
+	uk=Зсуває затвор на одну восьму до попереднього такту;
+	}
+
+[Mark area]
+	{
+	uk=Позначити область;
+	}
+
+[Starts a poster mark at the view's centre]
+	{
+	uk=Починає позначку постера в центрі вигляду;
+	}
+
+[Grow the mark up]
+	{
+	uk=Розширити позначку вгору;
+	}
+
+[Grow the mark down]
+	{
+	uk=Розширити позначку вниз;
+	}
+
+[Grow the mark left]
+	{
+	uk=Розширити позначку ліворуч;
+	}
+
+[Grow the mark right]
+	{
+	uk=Розширити позначку праворуч;
+	}
+
+[Grows the marked area up]
+	{
+	uk=Розширює позначену область угору;
+	}
+
+[Grows the marked area down]
+	{
+	uk=Розширює позначену область униз;
+	}
+
+[Grows the marked area to the left]
+	{
+	uk=Розширює позначену область ліворуч;
+	}
+
+[Grows the marked area to the right]
+	{
+	uk=Розширює позначену область праворуч;
+	}
+
+[Focus the panel's buttons]
+	{
+	uk=Фокус на кнопках панелі;
+	}
+
+[Moves a ring over the order buttons and the build page. Press again to return to the battlefield.]
+	{
+	uk=Переміщує рамку по кнопках наказів і сторінці будування. Натисни ще раз, щоб повернутися на поле бою.;
+	}
+
+// Key bindings: watching a replay.
+
+[Play or pause]
+	{
+	uk=Грати або пауза;
+	}
+
+[Plays or pauses the replay]
+	{
+	uk=Запускає або призупиняє повтор;
+	}
+
+[Back 10 seconds]
+	{
+	uk=Назад на 10 секунд;
+	}
+
+[Forward 10 seconds]
+	{
+	uk=Уперед на 10 секунд;
+	}
+
+[Back a minute]
+	{
+	uk=Назад на хвилину;
+	}
+
+[Forward a minute]
+	{
+	uk=Уперед на хвилину;
+	}
+
+[Jumps back ten seconds]
+	{
+	uk=Перестрибує на десять секунд назад;
+	}
+
+[Jumps forward ten seconds]
+	{
+	uk=Перестрибує на десять секунд уперед;
+	}
+
+[Jumps back a minute]
+	{
+	uk=Перестрибує на хвилину назад;
+	}
+
+[Jumps forward a minute]
+	{
+	uk=Перестрибує на хвилину вперед;
+	}
+
+[Previous marker]
+	{
+	uk=Попередня позначка;
+	}
+
+[Next marker]
+	{
+	uk=Наступна позначка;
+	}
+
+[Jumps to the previous marker]
+	{
+	uk=Перестрибує до попередньої позначки;
+	}
+
+[Jumps to the next marker]
+	{
+	uk=Перестрибує до наступної позначки;
+	}
+
+[Go to the start]
+	{
+	uk=Перейти на початок;
+	}
+
+[Go to the end]
+	{
+	uk=Перейти в кінець;
+	}
+
+[Jumps to the start of the replay]
+	{
+	uk=Перестрибує на початок повтору;
+	}
+
+[Jumps to the end of the replay]
+	{
+	uk=Перестрибує в кінець повтору;
+	}
+
+[Pin the bar]
+	{
+	uk=Прикріпити панель;
+	}
+
+[Keeps the playback bar on screen]
+	{
+	uk=Тримає панель відтворення на екрані;
+	}
+
+[Shortcut card]
+	{
+	uk=Картка клавіш;
+	}
+
+[Shows the playback keys]
+	{
+	uk=Показує клавіші відтворення;
+	}
+
+[Camera mode]
+	{
+	uk=Режим камери;
+	}
+
+[Changes how the camera follows the game]
+	{
+	uk=Змінює, як камера стежить за грою;
+	}
+
+[All players' view]
+	{
+	uk=Вигляд усіх гравців;
+	}
+
+[Shows the whole map and every unit]
+	{
+	uk=Показує всю мапу й усі юніти;
+	}
+
+[Next player's view]
+	{
+	uk=Вигляд наступного гравця;
+	}
+
+[Previous player's view]
+	{
+	uk=Вигляд попереднього гравця;
+	}
+
+[Shows the next player's view]
+	{
+	uk=Показує вигляд наступного гравця;
+	}
+
+[Shows the previous player's view]
+	{
+	uk=Показує вигляд попереднього гравця;
+	}
+
+// The replay viewer: the bar, the timeline, the views and cameras, and the end card.
+
+[Catching up… {percent} %]
+	{
+	uk=Перемотування… {percent} %;
+	}
+
+[The recording is damaged after {time}]
+	{
+	uk=Запис пошкоджено після {time};
+	}
+
+[Watch again]
+	{
+	uk=Дивитися знову;
+	}
+
+[Back to the Library]
+	{
+	uk=Назад до Бібліотеки;
+	}
+
+[Undecided]
+	{
+	uk=Не визначено;
+	}
+
+[No result]
+	{
+	uk=Без результату;
+	}
+
+[{name} won]
+	{
+	uk=Перемога: {name};
+	}
+
+[{time} · {name}'s commander destroyed]
+	{
+	uk={time} · Командира {name} знищено;
+	}
+
+[{time} · {name} dropped]
+	{
+	uk={time} · {name} відʼєднується;
+	}
+
+[{time} · {name} left]
+	{
+	uk={time} · {name} виходить;
+	}
+
+[{time} · {name} was defeated]
+	{
+	uk={time} · {name} зазнає поразки;
+	}
+
+[{time} · {name} allied]
+	{
+	uk={time} · {name} укладає союз;
+	}
+
+[{time} · {name} broke the alliance]
+	{
+	uk={time} · {name} розриває союз;
+	}
+
+[{time} · {name}: {line}]
+	{
+	uk={time} · {name}: {line};
+	}
+
+[{time} · Paused]
+	{
+	uk={time} · Пауза;
+	}
+
+[{time} · End]
+	{
+	uk={time} · Кінець;
+	}
+
+[{asked} · {reached} now]
+	{
+	uk={asked} · зараз {reached};
+	}
+
+[½×]
+	{
+	uk=½×;
+	}
+
+[Losses]
+	{
+	uk=Втрати;
+	}
+
+[No markers yet · finding them, {percent} %]
+	{
+	uk=Позначок поки немає · пошук, {percent} %;
+	}
+
+[Only a replay in the Library can be exported]
+	{
+	uk=Експортувати можна лише повтор із Бібліотеки;
+	}
+
+[All players]
+	{
+	uk=Усі гравці;
+	}
+
+[Follow their camera]
+	{
+	uk=Стежити за їхньою камерою;
+	}
+
+[Follow a unit]
+	{
+	uk=Стежити за підрозділом;
+	}
+
+[Director]
+	{
+	uk=Режисер;
+	}
+
+[Defeated {time}]
+	{
+	uk=Поразка {time};
+	}
+
+[Left {time}]
+	{
+	uk=Вихід {time};
+	}
+
+[{left} vs {right}]
+	{
+	uk={left} проти {right};
+	}
+
+[Jumping back isn't available in this replay.]
+	{
+	uk=У цьому повторі перехід назад недоступний.;
+	}
+
+[Jumping back needs more memory than this device has.]
+	{
+	uk=Для переходу назад потрібно більше памʼяті, ніж є на цьому пристрої.;
+	}
+
+[This replay could not jump to {time} and has stopped.]
+	{
+	uk=Цей повтор не зміг перейти до {time} і зупинився.;
+	}
+
+// The Library's Replays section: filters, sorting, the list's days and footer, and its empty states.
+
+[Replays]
+	{
+	uk=Повтори;
+	}
+
+[This month]
+	{
+	uk=Цього місяця;
+	}
+
+[Older]
+	{
+	uk=Раніше;
+	}
+
+[Kept]
+	{
+	uk=Залишено;
+	}
+
+[Imported]
+	{
+	uk=Імпортовано;
+	}
+
+[All kinds]
+	{
+	uk=Усі типи;
+	}
+
+[Newest first]
+	{
+	uk=Спочатку нові;
+	}
+
+[Longest first]
+	{
+	uk=Спочатку найдовші;
+	}
+
+[By map]
+	{
+	uk=За мапою;
+	}
+
+[Most players first]
+	{
+	uk=Спочатку з найбільшою кількістю гравців;
+	}
+
+[Search replays]
+	{
+	uk=Пошук повторів;
+	}
+
+[Today]
+	{
+	uk=Сьогодні;
+	}
+
+[Yesterday]
+	{
+	uk=Учора;
+	}
+
+[{weekday} {day} {month}]
+	{
+	uk={weekday} {day} {month};
+	}
+
+[{weekday} {day} {month} {year}]
+	{
+	uk={weekday} {day} {month} {year};
+	}
+
+[Mon]
+	{
+	uk=Пн;
+	}
+
+[Tue]
+	{
+	uk=Вт;
+	}
+
+[Wed]
+	{
+	uk=Ср;
+	}
+
+[Thu]
+	{
+	uk=Чт;
+	}
+
+[Fri]
+	{
+	uk=Пт;
+	}
+
+[Sat]
+	{
+	uk=Сб;
+	}
+
+[Sun]
+	{
+	uk=Нд;
+	}
+
+[Jan]
+	{
+	uk=січня;
+	}
+
+[Feb]
+	{
+	uk=лютого;
+	}
+
+[Mar]
+	{
+	uk=березня;
+	}
+
+[Apr]
+	{
+	uk=квітня;
+	}
+
+[May]
+	{
+	uk=травня;
+	}
+
+[Jun]
+	{
+	uk=червня;
+	}
+
+[Jul]
+	{
+	uk=липня;
+	}
+
+[Aug]
+	{
+	uk=серпня;
+	}
+
+[Sep]
+	{
+	uk=вересня;
+	}
+
+[Oct]
+	{
+	uk=жовтня;
+	}
+
+[Nov]
+	{
+	uk=листопада;
+	}
+
+[Dec]
+	{
+	uk=грудня;
+	}
+
+[{kind} · {planet}]
+	{
+	uk={kind} · {planet};
+	}
+
+[{kind} · {planet}, {sector}]
+	{
+	uk={kind} · {planet}, {sector};
+	}
+
+[After a crash]
+	{
+	uk=Після збою;
+	}
+
+[Reading…]
+	{
+	uk=Зчитування…;
+	}
+
+[Won]
+	{
+	uk=Перемога;
+	}
+
+[Lost]
+	{
+	uk=Поразка;
+	}
+
+[1 kill]
+	{
+	uk=Знищено: 1;
+	}
+
+[{kills} kills]
+	{
+	uk=Знищено: {kills};
+	}
+
+[1 loss]
+	{
+	uk=Втрати: 1;
+	}
+
+[{losses} losses]
+	{
+	uk=Втрати: {losses};
+	}
+
+[Damaged]
+	{
+	uk=Пошкоджено;
+	}
+
+[No replays yet.]
+	{
+	uk=Повторів поки немає.;
+	}
+
+[No replays from this month.]
+	{
+	uk=Повторів за цей місяць немає.;
+	}
+
+[No older replays.]
+	{
+	uk=Давніших повторів немає.;
+	}
+
+[No replays kept.]
+	{
+	uk=Залишених повторів немає.;
+	}
+
+[No replays imported.]
+	{
+	uk=Імпортованих повторів немає.;
+	}
+
+[No replays of this kind.]
+	{
+	uk=Повторів цього типу немає.;
+	}
+
+[Recording is off.]
+	{
+	uk=Запис вимкнено.;
+	}
+
+[Games you play are kept here for 30 days.]
+	{
+	uk=Ігри, у які ти граєш, зберігаються тут 30 днів.;
+	}
+
+[Games you play are kept here for 90 days.]
+	{
+	uk=Ігри, у які ти граєш, зберігаються тут 90 днів.;
+	}
+
+[Games you play are kept here for a year.]
+	{
+	uk=Ігри, у які ти граєш, зберігаються тут рік.;
+	}
+
+[Games you play are kept here until you delete them.]
+	{
+	uk=Ігри, у які ти граєш, зберігаються тут, доки ти їх не видалиш.;
+	}
+
+[Turn on recording]
+	{
+	uk=Увімкнути запис;
+	}
+
+[Open a replay file…]
+	{
+	uk=Відкрити файл повтору…;
+	}
+
+[Reading the replays…]
+	{
+	uk=Зчитування повторів…;
+	}
+
+[Reading {read} of {total} replays]
+	{
+	uk=Зчитування повторів: {read} з {total};
+	}
+
+[1 replay · {size}]
+	{
+	uk=1 повтор · {size};
+	}
+
+[{count} replays · {size}]
+	{
+	uk=Повторів: {count} · {size};
+	}
+
+[Added {title} to Replays]
+	{
+	uk=Додано {title} до повторів;
+	}
+
+// The Library's replay card: its facts, buttons and what a replay still needs.
+
+[Length]
+	{
+	uk=Тривалість;
+	}
+
+[Recorded]
+	{
+	uk=Записано;
+	}
+
+[Kept until]
+	{
+	uk=Зберігається до;
+	}
+
+[Until you delete it]
+	{
+	uk=Доки ти його не видалиш;
+	}
+
+[Imported replays are kept]
+	{
+	uk=Імпортовані повтори зберігаються;
+	}
+
+[Downloaded replays are kept]
+	{
+	uk=Завантажені повтори зберігаються;
+	}
+
+[Exported replays are kept]
+	{
+	uk=Експортовані повтори зберігаються;
+	}
+
+[{mod} (rev {revision})]
+	{
+	uk={mod} (рев. {revision});
+	}
+
+[Arm]
+	{
+	uk=ARM;
+	}
+
+[Core]
+	{
+	uk=CORE;
+	}
+
+[Watcher]
+	{
+	uk=Глядач;
+	}
+
+[Watch]
+	{
+	uk=Дивитися;
+	}
+
+[Watch from {time}]
+	{
+	uk=Дивитися з {time};
+	}
+
+[Watched to {time}]
+	{
+	uk=Переглянуто до {time};
+	}
+
+[Delete replay]
+	{
+	uk=Видалити повтор;
+	}
+
+[{count} replays selected]
+	{
+	uk=Обрано повторів: {count};
+	}
+
+[This replay cannot be watched.]
+	{
+	uk=Цей повтор не можна переглянути.;
+	}
+
+[This replay could not be moved to the trash.]
+	{
+	uk=Не вдалося перемістити цей повтор до кошика.;
+	}
+
+[{count} replays could not be moved to the trash.]
+	{
+	uk=Не вдалося перемістити до кошика повторів: {count}.;
+	}
+
+[Needs {name} {version}]
+	{
+	uk=Потребує {name} {version};
+	}
+
+[Needs map]
+	{
+	uk=Потребує мапи;
+	}
+
+[Needs mutator]
+	{
+	uk=Потребує мутатора;
+	}
+
+[Needs {name}.]
+	{
+	uk=Потребує {name}.;
+	}
+
+[Needs {version}]
+	{
+	uk=Потребує {version};
+	}
+
+[Needs the map {name}.]
+	{
+	uk=Потребує мапи {name}.;
+	}
+
+[Needs the mutator {name}.]
+	{
+	uk=Потребує мутатора {name}.;
+	}
+
+[Needs Open Annihilation {version}.]
+	{
+	uk=Потребує Open Annihilation {version}.;
+	}
+
+[From the map pack {pack}.]
+	{
+	uk=З набору мап {pack}.;
+	}
+
+[This replay was recorded with {name}.]
+	{
+	uk=Цей повтор записано з {name}.;
+	}
+
+[This replay was recorded with {name} {version}.]
+	{
+	uk=Цей повтор записано з {name} {version}.;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}).]
+	{
+	uk=Цей повтор записано з {name} {version} (рев. {revision}).;
+	}
+
+[This replay was recorded with {name}. You have {have}.]
+	{
+	uk=Цей повтор записано з {name}. У тебе {have}.;
+	}
+
+[This replay was recorded with {name} {version}. You have {have}.]
+	{
+	uk=Цей повтор записано з {name} {version}. У тебе {have}.;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}). You have {have}.]
+	{
+	uk=Цей повтор записано з {name} {version} (рев. {revision}). У тебе {have}.;
+	}
+
+[This replay was recorded with another release of the map pack {name}.]
+	{
+	uk=Цей повтор записано з іншим випуском набору мап {name}.;
+	}
+
+[Getting {name}… {percent}%]
+	{
+	uk=Отримання {name}… {percent}%;
+	}
+
+[Get {name} {version} and watch]
+	{
+	uk=Отримати {name} {version} і дивитися;
+	}
+
+[Get it and watch]
+	{
+	uk=Отримати й дивитися;
+	}
+
+[Get them and watch]
+	{
+	uk=Отримати їх і дивитися;
+	}
+
+[Turn on and watch]
+	{
+	uk=Увімкнути й дивитися;
+	}
+
+[{name} {version} is not in {registry}'s catalogue.]
+	{
+	uk={name} {version} немає в каталозі {registry}.;
+	}
+
+[{name} is not in {registry}'s catalogue.]
+	{
+	uk={name} немає в каталозі {registry}.;
+	}
+
+[You're offline.]
+	{
+	uk=Ти офлайн.;
+	}
+
+[Get {name} {version} when you're back online.]
+	{
+	uk=Отримай {name} {version}, коли знову будеш онлайн.;
+	}
+
+[Get {name} when you're back online.]
+	{
+	uk=Отримай {name}, коли знову будеш онлайн.;
+	}
+
+// The question the first time old replays would go.
+
+[Old replays]
+	{
+	uk=Старі повтори;
+	}
+
+[Keep them all]
+	{
+	uk=Залишити всі;
+	}
+
+[Let them go]
+	{
+	uk=Прибрати їх;
+	}
+
+[1 replay is older than you asked to keep. It goes to the system's trash.]
+	{
+	uk=1 повтор давніший за вибраний термін зберігання. Його буде переміщено до кошика системи.;
+	}
+
+[{count} replays are older than you asked to keep. They go to the system's trash.]
+	{
+	uk=Повторів, давніших за вибраний термін зберігання: {count}. Їх буде переміщено до кошика системи.;
+	}
+
+[1 replay is older than you asked to keep. It is deleted. This system has no trash.]
+	{
+	uk=1 повтор давніший за вибраний термін зберігання. Його буде видалено. У цій системі немає кошика.;
+	}
+
+[{count} replays are older than you asked to keep. They are deleted. This system has no trash.]
+	{
+	uk=Повторів, давніших за вибраний термін зберігання: {count}. Їх буде видалено. У цій системі немає кошика.;
+	}
+
+// The Library's Replays on Core Prime: the switch, filters, list and download messages.
+
+[On this computer]
+	{
+	uk=На цьому компʼютері;
+	}
+
+[On Core Prime]
+	{
+	uk=На Core Prime;
+	}
+
+[Longest]
+	{
+	uk=Найдовші;
+	}
+
+[Popular]
+	{
+	uk=Популярні;
+	}
+
+[By planet]
+	{
+	uk=За планетою;
+	}
+
+[My battles]
+	{
+	uk=Мої битви;
+	}
+
+[Browse Core Prime's replays]
+	{
+	uk=Переглянути повтори Core Prime;
+	}
+
+[Reading Core Prime's replays…]
+	{
+	uk=Зчитування повторів Core Prime…;
+	}
+
+[Core Prime's list cannot be read.]
+	{
+	uk=Список Core Prime не вдалося прочитати.;
+	}
+
+[Core Prime's replays are not available just now.]
+	{
+	uk=Повтори Core Prime зараз недоступні.;
+	}
+
+[Core Prime cannot be reached.]
+	{
+	uk=Не вдалося звʼязатися з Core Prime.;
+	}
+
+[Core Prime has no replays to show.]
+	{
+	uk=У Core Prime немає повторів для показу.;
+	}
+
+[No replays for this planet.]
+	{
+	uk=Для цієї планети повторів немає.;
+	}
+
+[1 replay]
+	{
+	uk=1 повтор;
+	}
+
+[{count} replays]
+	{
+	uk=Повторів: {count};
+	}
+
+[Getting the replay…]
+	{
+	uk=Отримання повтору…;
+	}
+
+[The file does not match the replay.]
+	{
+	uk=Файл не відповідає повтору.;
+	}
+
+[The replay names no file.]
+	{
+	uk=Повтор не вказує файл.;
+	}
+
+[The replay could not be saved.]
+	{
+	uk=Не вдалося зберегти повтор.;
+	}
+
+[Try again in {seconds} s.]
+	{
+	uk=Спробуй ще раз за {seconds} с.;
+	}
+
+[The check ran out. Try again for a new code.]
+	{
+	uk=Час перевірки вичерпано. Спробуй ще раз, щоб отримати новий код.;
+	}
+
+[Go to {address} and enter {code}.]
+	{
+	uk=Перейди на {address} і введи {code}.;
+	}
+
+// The Library's export dialog for replays.
+
+[Export…]
+	{
+	uk=Експортувати…;
+	}
+
+[Export]
+	{
+	uk=Експортувати;
+	}
+
+[Export {name}]
+	{
+	uk=Експорт: {name};
+	}
+
+[Export {count} replays]
+	{
+	uk=Експорт повторів: {count};
+	}
+
+[Open Annihilation replay (.oademo)]
+	{
+	uk=Повтор Open Annihilation (.oademo);
+	}
+
+[Everything needed to watch it: the recording, and the game, mod and map it needs]
+	{
+	uk=Усе потрібне для перегляду: запис, а також гра, мод і мапа, які йому потрібні;
+	}
+
+[TA Demo Recorder (.tad)]
+	{
+	uk=TA Demo Recorder (.tad);
+	}
+
+[For TA Demo Recorder and other replayers]
+	{
+	uk=Для TA Demo Recorder та інших програвачів повторів;
+	}
+
+[What to include]
+	{
+	uk=Що включити;
+	}
+
+[What only Open Annihilation reads]
+	{
+	uk=Те, що читає лише Open Annihilation;
+	}
+
+[Compatibility]
+	{
+	uk=Сумісність;
+	}
+
+[It was played with the mutator {name}. Other replayers cannot apply it, so commanders may not last as they did.]
+	{
+	uk=Гру зіграно з мутатором {name}. Інші програвачі не можуть його застосувати, тож Командири можуть вижити не так, як у грі.;
+	}
+
+[It was played with mutators. Other replayers cannot apply them, so commanders may not last as they did.]
+	{
+	uk=Гру зіграно з мутаторами. Інші програвачі не можуть їх застосувати, тож Командири можуть вижити не так, як у грі.;
+	}
+
+[Other replayers stop at the first of this mod's wide weapon records.]
+	{
+	uk=Інші програвачі зупиняються на першому з широких записів зброї цього моду.;
+	}
+
+[Names longer than 63 letters are cut.]
+	{
+	uk=Імена довші за 63 літери обрізаються.;
+	}
+
+[A player's status is cut to 512 bytes.]
+	{
+	uk=Статус гравця обрізається до 512 байтів.;
+	}
+
+[Exporting {done} of {total}]
+	{
+	uk=Експорт: {done} з {total};
+	}
+
+[Compressing the recording]
+	{
+	uk=Стискання запису;
+	}
+
+[Writing {name}]
+	{
+	uk=Записування {name};
+	}
+
+[Measuring…]
+	{
+	uk=Вимірювання…;
+	}
+
+[Saved to {folder}]
+	{
+	uk=Збережено в {folder};
+	}
+
+[Show in folder]
+	{
+	uk=Показати в папці;
+	}
+
+[Nothing is selected. Choose a replay, then export it.]
+	{
+	uk=Нічого не обрано. Обери повтор, а потім експортуй його.;
+	}
+
+[The export could not be written.]
+	{
+	uk=Не вдалося записати експорт.;
+	}
+
+[There is no room in {folder}.]
+	{
+	uk=У папці {folder} немає місця.;
+	}
+
+[Open Annihilation cannot write to {folder}.]
+	{
+	uk=Open Annihilation не може записувати в папку {folder}.;
+	}
+
+[Saved {done} of {total}.]
+	{
+	uk=Збережено {done} з {total}.;
+	}
+
+[This replay cannot be read, so it cannot be exported.]
+	{
+	uk=Цей повтор не вдалося прочитати, тож його не можна експортувати.;
+	}
+
+[More folders]
+	{
+	uk=Більше папок;
+	}
+
+[Previous folders]
+	{
+	uk=Попередні папки;
+	}
+
+[More warnings]
+	{
+	uk=Більше застережень;
+	}
+
+[Previous warnings]
+	{
+	uk=Попередні застереження;
+	}
+
+// Signing in to Core Prime and sharing a replay.
+
+[Sign in]
+	{
+	uk=Увійти;
+	}
+
+[Sign out]
+	{
+	uk=Вийти;
+	}
+
+[Sign in to Core Prime]
+	{
+	uk=Вхід у Core Prime;
+	}
+
+[Handle]
+	{
+	uk=Нікнейм;
+	}
+
+[Password]
+	{
+	uk=Пароль;
+	}
+
+[Forgot it? Reset it at coreprime.net/forgot]
+	{
+	uk=Не памʼятаєш? Скинь його на coreprime.net/forgot;
+	}
+
+[Signing in needs a secure connection, which this system does not have.]
+	{
+	uk=Для входу потрібне захищене зʼєднання, якого в цій системі немає.;
+	}
+
+[Signing in…]
+	{
+	uk=Вхід…;
+	}
+
+[Share on Core Prime…]
+	{
+	uk=Поділитися на Core Prime…;
+	}
+
+[Share my own recording]
+	{
+	uk=Поділитися власним записом;
+	}
+
+[Open on Core Prime]
+	{
+	uk=Відкрити на Core Prime;
+	}
+
+[Share]
+	{
+	uk=Поділитися;
+	}
+
+[Share on Core Prime]
+	{
+	uk=Поділитися на Core Prime;
+	}
+
+[Title]
+	{
+	uk=Заголовок;
+	}
+
+[Public]
+	{
+	uk=Публічно;
+	}
+
+[Unlisted]
+	{
+	uk=За посиланням;
+	}
+
+[Sharing…]
+	{
+	uk=Надсилання…;
+	}
+
+[Shared on Core Prime]
+	{
+	uk=Поширено на Core Prime;
+	}
+
+[Already on Core Prime]
+	{
+	uk=Уже є на Core Prime;
+	}
+
+[Sign in to share a replay.]
+	{
+	uk=Увійди, щоб поділитися повтором.;
+	}
+
+[This account cannot share replays.]
+	{
+	uk=Цей обліковий запис не може ділитися повторами.;
+	}
+
+[Only a player in that battle can replace its replay.]
+	{
+	uk=Замінити повтор битви може лише гравець, який брав у ній участь.;
+	}
+
+[The replay is larger than the limit.]
+	{
+	uk=Повтор більший за ліміт.;
+	}
+
+[This account has shared its replays for today.]
+	{
+	uk=Цей обліковий запис уже поділився повторами на сьогодні.;
+	}
+
+[Uploads are not available.]
+	{
+	uk=Надсилання недоступне.;
+	}
+
+[Core Prime did not start a session.]
+	{
+	uk=Core Prime не розпочав сеанс.;
+	}
+
+[Core Prime did not answer.]
+	{
+	uk=Core Prime не відповів.;
+	}
+
+// Why a replay file could not be opened or read.
+
+[This file is not a replay.]
+	{
+	uk=Цей файл не є повтором.;
+	}
+
+[This replay is not a version this game reads.]
+	{
+	uk=Версію цього повтору ця гра не читає.;
+	}
+
+[This replay does not hold one recording.]
+	{
+	uk=У цьому повторі немає рівно одного запису.;
+	}
+
+[This replay's recording does not match.]
+	{
+	uk=Запис цього повтору не збігається з його описом.;
+	}
+
+[This replay's recording is too long to play.]
+	{
+	uk=Запис цього повтору задовгий для відтворення.;
+	}
+
+[This replay's details cannot be read.]
+	{
+	uk=Відомості про цей повтор не вдалося прочитати.;
+	}
+
+[This replay's recording cannot be read.]
+	{
+	uk=Запис цього повтору не вдалося прочитати.;
+	}
+
+[This recording cannot be read.]
+	{
+	uk=Цей запис не вдалося прочитати.;
+	}
+
+[This file cannot be read.]
+	{
+	uk=Цей файл не вдалося прочитати.;
+	}
+
+[This file is too large to be a replay.]
+	{
+	uk=Цей файл завеликий для повтору.;
+	}
+
+[This file is not a TA Demo recording]
+	{
+	uk=Цей файл не є записом TA Demo;
+	}
+
+[This replay could not be copied into Recordings.]
+	{
+	uk=Не вдалося скопіювати цей повтор у папку Recordings.;
+	}
+
+[This recording is in version {version} of the format, which Open Annihilation does not play]
+	{
+	uk=Цей запис має версію {version} формату, яку Open Annihilation не відтворює;
+	}
+
+// The Boneyards entry: the questions and notices the main menu asks before entering, and the update notices.
+
+[The Boneyards]
+	{
+	uk=Boneyards;
+	}
+
+[The Boneyards is installed. Start Open Annihilation again to enter the Boneyards.]
+	{
+	uk=Boneyards встановлено. Запусти Open Annihilation ще раз, щоб увійти в Boneyards.;
+	}
+
+[Start Open Annihilation without the mod on its command line to enter the Boneyards.]
+	{
+	uk=Запусти Open Annihilation без моду в командному рядку, щоб увійти в Boneyards.;
+	}
+
+[The Boneyards launches and reports games only on 3.1c, Core Contingency and Battle Tactics. Switch your mod off to play in the Boneyards.]
+	{
+	uk=Boneyards запускає й реєструє ігри лише на 3.1c, Core Contingency та Battle Tactics. Вимкни свій мод, щоб грати в Boneyards.;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks and the content catalogue. Turn them on and continue?]
+	{
+	uk=Для Boneyards потрібні онлайн-функції Open Annihilation: перевірка оновлень і каталог вмісту. Увімкнути їх і продовжити?;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks, the content catalogue and {registry}'s install ID. Turn them on and continue?]
+	{
+	uk=Для Boneyards потрібні онлайн-функції Open Annihilation: перевірка оновлень, каталог вмісту та ідентифікатор встановлення {registry}. Увімкнути їх і продовжити?;
+	}
+
+[The Boneyards needs by.ccx and the Boneyards folder.]
+	{
+	uk=Для Boneyards потрібні by.ccx і папка Boneyards.;
+	}
+
+[The Boneyards needs {registry}'s install ID turned on. Turn it on and continue?]
+	{
+	uk=Для Boneyards потрібно ввімкнути ідентифікатор встановлення {registry}. Увімкнути його й продовжити?;
+	}
+
+[The Boneyards plays Total Annihilation without mods. Switch {mod} off and enter the Boneyards?]
+	{
+	uk=У Boneyards грають у Total Annihilation без модів. Вимкнути {mod} і увійти в Boneyards?;
+	}
+
+[Switch off and enter]
+	{
+	uk=Вимкнути й увійти;
+	}
+
+[Switch on]
+	{
+	uk=Увімкнути;
+	}
+
+[Switch {mod} back on?]
+	{
+	uk=Знову ввімкнути {mod}?;
+	}
+
+[Turn on]
+	{
+	uk=Увімкнути;
+	}
+
+[Open Annihilation could not check for updates.]
+	{
+	uk=Не вдалося перевірити оновлення Open Annihilation.;
+	}
+
+[Open Annihilation {version} is out. The Boneyards needs the latest version.]
+	{
+	uk=Вийшла версія Open Annihilation {version}. Для Boneyards потрібна найновіша версія.;
+	}
+
+[Downloads are off for {registry}.]
+	{
+	uk=Завантаження вимкнено для {registry}.;
+	}
+
+[Drag to reorder]
+	{
+	uk=Перетягуй, щоб змінити порядок;
+	}
+
+// Names of the original menus' controls, as a screen reader reads them, and the lobby's colour names.
+
+[Credits]
+	{
+	uk=Титри;
+	}
+
+[Campaigns]
+	{
+	uk=Кампанії;
+	}
+
+[Missions]
+	{
+	uk=Місії;
+	}
+
+[Difficulty]
+	{
+	uk=Складність;
+	}
+
+[Preview]
+	{
+	uk=Попередній перегляд;
+	}
+
+[Saved games]
+	{
+	uk=Збережені ігри;
+	}
+
+[Side]
+	{
+	uk=Сторона;
+	}
+
+[Colour]
+	{
+	uk=Колір;
+	}
+
+[Team]
+	{
+	uk=Команда;
+	}
+
+[Alliance]
+	{
+	uk=Союз;
+	}
+
+[Ready]
+	{
+	uk=Готовий;
+	}
+
+[Map]
+	{
+	uk=Мапа;
+	}
+
+[Location]
+	{
+	uk=Позиція;
+	}
+
+[Commander]
+	{
+	uk=Командир;
+	}
+
+[Dead Commander]
+	{
+	uk=Командир;
+	}
+
+[Mapping]
+	{
+	uk=Видимість мапи;
+	}
+
+[Mapping Mode]
+	{
+	uk=Видимість мапи;
+	}
+
+[Line of sight]
+	{
+	uk=Поле зору;
+	}
+
+[Line of Sight]
+	{
+	uk=Поле зору;
+	}
+
+[Cheat Codes]
+	{
+	uk=Чит-коди;
+	}
+
+[Metal]
+	{
+	uk=Метал;
+	}
+
+[Energy]
+	{
+	uk=Енергія;
+	}
+
+[Max units]
+	{
+	uk=Макс. підрозділів;
+	}
+
+[Starting metal]
+	{
+	uk=Запас металу;
+	}
+
+[Starting energy]
+	{
+	uk=Запас енергії;
+	}
+
+[Start doors]
+	{
+	uk=Двері старту;
+	}
+
+[Closed]
+	{
+	uk=Закриті;
+	}
+
+[Opened]
+	{
+	uk=Відчинені;
+	}
+
+[Game Status]
+	{
+	uk=Стан гри;
+	}
+
+[Sound volume]
+	{
+	uk=Гучність звуку;
+	}
+
+[Sound mode]
+	{
+	uk=Режим звуку;
+	}
+
+[Unit sounds]
+	{
+	uk=Звуки підрозділів;
+	}
+
+[Music volume]
+	{
+	uk=Гучність музики;
+	}
+
+[CD music]
+	{
+	uk=CD-музика;
+	}
+
+[Track type]
+	{
+	uk=Тип треків;
+	}
+
+[Play mode]
+	{
+	uk=Режим відтворення;
+	}
+
+[Previous track]
+	{
+	uk=Попередній трек;
+	}
+
+[Play track]
+	{
+	uk=Грати трек;
+	}
+
+[Next track]
+	{
+	uk=Наступний трек;
+	}
+
+[Game speed]
+	{
+	uk=Швидкість гри;
+	}
+
+[Screen scroll]
+	{
+	uk=Прокрутка екрана;
+	}
+
+[Text delay]
+	{
+	uk=Час тексту;
+	}
+
+[Text lines]
+	{
+	uk=Рядки тексту;
+	}
+
+[Unit text acks]
+	{
+	uk=Відповіді підрозділів;
+	}
+
+[Gamma]
+	{
+	uk=Гамма;
+	}
+
+[Shading]
+	{
+	uk=Затінення;
+	}
+
+[Anti-aliasing]
+	{
+	uk=Згладжування;
+	}
+
+[Shadows]
+	{
+	uk=Тіні;
+	}
+
+[Blue]
+	{
+	uk=Синій;
+	}
+
+[Red]
+	{
+	uk=Червоний;
+	}
+
+[White]
+	{
+	uk=Білий;
+	}
+
+[Green]
+	{
+	uk=Зелений;
+	}
+
+[Navy]
+	{
+	uk=Темно-синій;
+	}
+
+[Purple]
+	{
+	uk=Фіолетовий;
+	}
+
+[Yellow]
+	{
+	uk=Жовтий;
+	}
+
+[Black]
+	{
+	uk=Чорний;
+	}
+
+[Light blue]
+	{
+	uk=Блакитний;
+	}
+
+[Tan]
+	{
+	uk=Бежевий;
+	}
+
+[{colour}, player {number}]
+	{
+	uk={colour}, гравець {number};
+	}
+
+// What a screen reader says: the kinds of control, and the battle room's and match's spoken updates.
+
+[alert]
+	{
+	uk=сповіщення;
+	}
+
+[button]
+	{
+	uk=кнопка;
+	}
+
+[check box]
+	{
+	uk=прапорець;
+	}
+
+[dialog]
+	{
+	uk=діалог;
+	}
+
+[group]
+	{
+	uk=група;
+	}
+
+[image]
+	{
+	uk=зображення;
+	}
+
+[link]
+	{
+	uk=посилання;
+	}
+
+[list]
+	{
+	uk=список;
+	}
+
+[list item]
+	{
+	uk=елемент списку;
+	}
+
+[log]
+	{
+	uk=журнал;
+	}
+
+[password]
+	{
+	uk=пароль;
+	}
+
+[radio button]
+	{
+	uk=радіокнопка;
+	}
+
+[radio group]
+	{
+	uk=група радіокнопок;
+	}
+
+[search field]
+	{
+	uk=поле пошуку;
+	}
+
+[slider]
+	{
+	uk=повзунок;
+	}
+
+[switch]
+	{
+	uk=перемикач;
+	}
+
+[tab]
+	{
+	uk=вкладка;
+	}
+
+[tab list]
+	{
+	uk=список вкладок;
+	}
+
+[text]
+	{
+	uk=текст;
+	}
+
+[text field]
+	{
+	uk=текстове поле;
+	}
+
+[tree]
+	{
+	uk=дерево;
+	}
+
+[tree item]
+	{
+	uk=елемент дерева;
+	}
+
+[window]
+	{
+	uk=вікно;
+	}
+
+[battle room]
+	{
+	uk=кімната бою;
+	}
+
+[match]
+	{
+	uk=партія;
+	}
+
+[An option changed]
+	{
+	uk=Параметр змінено;
+	}
+
+[Commander under attack]
+	{
+	uk=Командир під атакою;
+	}
+
+[Victory]
+	{
+	uk=Перемога;
+	}
+
+[Defeat]
+	{
+	uk=Поразка;
+	}
+
+[The countdown has started]
+	{
+	uk=Відлік розпочато;
+	}
+
+[The host has left]
+	{
+	uk=Хост покинув кімнату;
+	}
+
+[The map is {name}]
+	{
+	uk=Мапа: {name};
+	}
+
+[There are no saved games to choose from]
+	{
+	uk=Немає збережених ігор для вибору;
+	}
+
+[Whisper from {name}: {text}]
+	{
+	uk=Шепіт від {name}: {text};
+	}
+
+[{count} new lines in {room}]
+	{
+	uk={room}: нових рядків — {count};
+	}
+
+[{name} joined]
+	{
+	uk={name} приєднується;
+	}
+
+[{name} left]
+	{
+	uk={name} виходить;
+	}
+
+[{name} is ready]
+	{
+	uk={name} готовий;
+	}
+
+[{name} is not ready]
+	{
+	uk={name} не готовий;
+	}
+
+[{name} changed side to {side}]
+	{
+	uk={name} змінює сторону на {side};
+	}
+
+[{name} changed colour to {colour}]
+	{
+	uk={name} змінює колір на {colour};
+	}
+
+[{name} changed team to {team}]
+	{
+	uk={name} змінює команду на {team};
+	}
+
+// The battle room's lines about game files and units that differ between machines.
+
+[*** Press START again to start anyway. Those units stay unavailable in this battle.]
+	{
+	uk=*** Натисни ПОЧАТИ ще раз, щоб усе одно почати. Ці підрозділи в цій битві лишаються недоступними.;
+	}
+
+[*** Your game files differ from Total Annihilation's, so this battle cannot start. Leave it and repair them in Settings › Game Content.]
+	{
+	uk=*** Твої ігрові файли відрізняються від файлів Total Annihilation, тож цю битву не можна почати. Вийди з неї й виправ файли в розділі Налаштування › Вміст гри.;
+	}
+
+[*** {player}'s game files differ from Total Annihilation's; they must repair them before this battle can start.]
+	{
+	uk=*** Ігрові файли гравця {player} відрізняються від файлів Total Annihilation. Гравець має виправити їх, перш ніж цю битву можна буде почати.;
+	}
+
+[*** {units} differs on {player}'s machine and can't be built in this battle.]
+	{
+	uk=*** На компʼютері {player} відрізняється: {units}. У цій битві це неможливо збудувати.;
+	}
+
+[*** {units} differ on {player}'s machine and can't be built in this battle.]
+	{
+	uk=*** На компʼютері {player} відрізняються: {units}. У цій битві їх неможливо збудувати.;
+	}
+
+[*** {units} differs between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	uk=*** Між компʼютерами {first} і {second} відрізняється: {units}. У цій битві це неможливо збудувати.;
+	}
+
+[*** {units} differ between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	uk=*** Між компʼютерами {first} і {second} відрізняються: {units}. У цій битві їх неможливо збудувати.;
+	}
+
+[*** {units} differs between {count} players' machines and can't be built in this battle.]
+	{
+	uk=*** Між компʼютерами кількох гравців ({count}) відрізняється: {units}. У цій битві це неможливо збудувати.;
+	}
+
+[*** {units} differ between {count} players' machines and can't be built in this battle.]
+	{
+	uk=*** Між компʼютерами кількох гравців ({count}) відрізняються: {units}. У цій битві їх неможливо збудувати.;
+	}
+
+[1 other unit]
+	{
+	uk=1 інший;
+	}
+
+[{count} other units]
+	{
+	uk={count} інших;
+	}
+
+[{list} and {last}]
+	{
+	uk={list} та {last};
+	}
+
+[a player who left]
+	{
+	uk=гравця, що вийшов;
+	}
+
+// Settings › Game Content: a stray archive's Remove, the Boneyards' game-files question, and the files' lines.
+
+[Remove…]
+	{
+	uk=Видалити…;
+	}
+
+[Repair…]
+	{
+	uk=Виправити…;
+	}
+
+[Move to Trash]
+	{
+	uk=Перемістити до кошика;
+	}
+
+[Move {file} to the trash?]
+	{
+	uk=Перемістити {file} до кошика?;
+	}
+
+[Delete {file}? This system has no trash.]
+	{
+	uk=Видалити {file}? У цій системі немає кошика.;
+	}
+
+[{file} is not one of its files]
+	{
+	uk={file} не належить до його файлів;
+	}
+
+[{count} archives are not its files]
+	{
+	uk=Архівів, що не належать до його файлів: {count};
+	}
+
+[{file} in {folder}, {size} bytes, is not a file of {bundle}. The game does not read it.]
+	{
+	uk={file} у папці {folder} ({size} Б) не є файлом набору «{bundle}». Гра його не читає.;
+	}
+
+[{file} in {folder} does not match Total Annihilation's, so the Boneyards cannot be entered. Copy the game again from your own install or CD to enter.]
+	{
+	uk={file} у папці {folder} не збігається з файлом Total Annihilation, тож до Boneyards не можна увійти. Щоб увійти, скопіюй гру ще раз зі свого встановлення чи компакт-диска.;
+	}
+
+[{file} in {folder} does not match Total Annihilation's. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	uk={file} у папці {folder} не збігається з файлом Total Annihilation. Boneyards працює лише з власною копією гри Open Annihilation: щоб увійти, скопіюй її зі свого встановлення чи компакт-диска.;
+	}
+
+[{file} in {folder} is not Total Annihilation's own. The Boneyards launches and reports games only on Total Annihilation's own files. Leave the Boneyards and repair it in Settings › Game Content.]
+	{
+	uk={file} у папці {folder} не є оригінальним файлом Total Annihilation. Boneyards запускає й реєструє ігри лише на оригінальних файлах Total Annihilation. Вийди з Boneyards і виправ цей файл у розділі Налаштування › Вміст гри.;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files, so the Boneyards cannot be entered. Remove it to enter.]
+	{
+	uk={file} у папці {folder} не є файлом Total Annihilation, тож до Boneyards не можна увійти. Щоб увійти, видали його.;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	uk={file} у папці {folder} не є файлом Total Annihilation. Boneyards працює лише з власною копією гри Open Annihilation: щоб увійти, скопіюй її зі свого встановлення чи компакт-диска.;
+	}
+
+// The Library's question before a replay is deleted.
+
+[Delete replays]
+	{
+	uk=Видалити повтори;
+	}
+
+[Delete this replay?]
+	{
+	uk=Видалити цей повтор?;
+	}
+
+[Delete these {count} replays?]
+	{
+	uk=Видалити ці повтори ({count})?;
+	}
+
+[It goes to the system's trash.]
+	{
+	uk=Його буде переміщено до кошика системи.;
+	}
+
+[They go to the system's trash.]
+	{
+	uk=Їх буде переміщено до кошика системи.;
+	}
+
+[It is deleted and cannot be undone. This system has no trash.]
+	{
+	uk=Його буде видалено без можливості відновлення. У цій системі немає кошика.;
+	}
+
+[They are deleted and cannot be undone. This system has no trash.]
+	{
+	uk=Їх буде видалено без можливості відновлення. У цій системі немає кошика.;
 	}
 
