@@ -11300,11 +11300,6 @@
 	zh-Hant=關閉全景地圖;
 	}
 
-[Closes the megamap and centres on the pointer]
-	{
-	zh-Hant=關閉全景地圖，並居中到指針。;
-	}
-
 [Jumps the view to a point of the megamap]
 	{
 	zh-Hant=把視角跳到全景地圖上的一點。;
@@ -16060,5 +16055,3021 @@
 [Open the download page]
 	{
 	zh-Hant=打開下載頁面;
+	}
+
+// Settings › Replays: recording, how long the games are kept, and opening the files.
+
+[Record my games]
+	{
+	zh-Hant=錄製我的遊戲;
+	}
+
+[Keep replays for]
+	{
+	zh-Hant=回放保留時間;
+	}
+
+[30 days]
+	{
+	zh-Hant=30天;
+	}
+
+[90 days]
+	{
+	zh-Hant=90天;
+	}
+
+[A year]
+	{
+	zh-Hant=一年;
+	}
+
+[Forever]
+	{
+	zh-Hant=永久;
+	}
+
+[Campaign missions, skirmish, multiplayer and Boneyards battles. Applies from the next game.]
+	{
+	zh-Hant=戰役任務、遭遇戰、多人遊戲和Boneyards對戰。從下一局開始生效。;
+	}
+
+[Replays you keep in the Library stay until you delete them.]
+	{
+	zh-Hant=你在資源庫中保留的回放會一直存在，直到你刪除它們。;
+	}
+
+[Open replay files with Open Annihilation]
+	{
+	zh-Hant=用Open Annihilation打開回放檔案;
+	}
+
+[A .oademo or a .tad file opens in this copy.]
+	{
+	zh-Hant=.oademo或.tad檔案會用這個Open Annihilation打開。;
+	}
+
+[Replays]
+	{
+	zh-Hant=回放;
+	}
+
+[REPLAYS]
+	{
+	zh-Hant=回放;
+	}
+
+// Settings › Accessibility: colour vision, shape cues, the screen reader, speech and the focus ring.
+
+[Colour vision]
+	{
+	zh-Hant=色覺;
+	}
+
+[Protanopia]
+	{
+	zh-Hant=紅色盲;
+	}
+
+[Deuteranopia]
+	{
+	zh-Hant=綠色盲;
+	}
+
+[Tritanopia]
+	{
+	zh-Hant=藍色盲;
+	}
+
+[Achromatopsia]
+	{
+	zh-Hant=全色盲;
+	}
+
+[Changes team colours, the minimap, bars, the war map and status colours on this machine only.]
+	{
+	zh-Hant=只在這臺電腦上更改隊伍顏色、小地圖、各種條、戰爭地圖和狀態顏色。;
+	}
+
+[Shape cues]
+	{
+	zh-Hant=形狀提示;
+	}
+
+[Player markers, side symbols, notched bars and a mark on every status.]
+	{
+	zh-Hant=玩家標記、陣營符號、帶刻痕的條，以及每種狀態上的標記。;
+	}
+
+[Achromatopsia keeps shape cues on]
+	{
+	zh-Hant=全色盲會保持開啟形狀提示;
+	}
+
+[The ten player colours, then OK, caution, danger and information.]
+	{
+	zh-Hant=十種玩家顏色，然後是正常、注意、危險和資訊。;
+	}
+
+[Screen reader]
+	{
+	zh-Hant=螢幕閱讀器;
+	}
+
+[Automatic works with a screen reader while the system says one is running. On also works with one the system does not report. Off never does.]
+	{
+	zh-Hant=自動：系統回報有螢幕閱讀器正在執行時，會配合它運作。打開：系統沒有回報的螢幕閱讀器也會配合。關閉：一律不配合。;
+	}
+
+[Nothing on this system can speak.]
+	{
+	zh-Hant=此系統沒有可用的語音。;
+	}
+
+[Speak chat]
+	{
+	zh-Hant=朗讀聊天;
+	}
+
+[Chat lines and whispers, pages only, or neither.]
+	{
+	zh-Hant=聊天行和密語、僅呼叫，或都不朗讀。;
+	}
+
+[Pages only]
+	{
+	zh-Hant=僅呼叫;
+	}
+
+[Speak lobby changes]
+	{
+	zh-Hant=朗讀大廳變動;
+	}
+
+[A player joining or leaving the battle room, and a change of ready, side, colour, team, map or option.]
+	{
+	zh-Hant=玩家進入或離開戰鬥房間，以及就緒、陣營、顏色、隊伍、地圖或選項的變更。;
+	}
+
+[Speak the ticker]
+	{
+	zh-Hant=朗讀跑馬燈;
+	}
+
+[The ticker repeats, so it stays quiet until this is on.]
+	{
+	zh-Hant=跑馬燈會重複播放，所以在開啟此項之前保持安靜。;
+	}
+
+[Always show focus]
+	{
+	zh-Hant=始終顯示焦點;
+	}
+
+[The focus ring is drawn on the first item when a screen opens.]
+	{
+	zh-Hant=打開畫面時，焦點環會畫在第一個項目上。;
+	}
+
+// What a screen reader says: the kinds of control, and the battle room's changes.
+
+[alert]
+	{
+	zh-Hant=警示;
+	}
+
+[button]
+	{
+	zh-Hant=按鈕;
+	}
+
+[check box]
+	{
+	zh-Hant=核取方塊;
+	}
+
+[dialog]
+	{
+	zh-Hant=對話方塊;
+	}
+
+[group]
+	{
+	zh-Hant=群組;
+	}
+
+[image]
+	{
+	zh-Hant=圖片;
+	}
+
+[link]
+	{
+	zh-Hant=連結;
+	}
+
+[list]
+	{
+	zh-Hant=清單;
+	}
+
+[list item]
+	{
+	zh-Hant=清單項目;
+	}
+
+[log]
+	{
+	zh-Hant=日誌;
+	}
+
+[password]
+	{
+	zh-Hant=密碼;
+	}
+
+[radio button]
+	{
+	zh-Hant=選項按鈕;
+	}
+
+[radio group]
+	{
+	zh-Hant=選項按鈕群組;
+	}
+
+[search field]
+	{
+	zh-Hant=搜尋欄位;
+	}
+
+[slider]
+	{
+	zh-Hant=滑桿;
+	}
+
+[switch]
+	{
+	zh-Hant=開關;
+	}
+
+[tab]
+	{
+	zh-Hant=索引標籤;
+	}
+
+[tab list]
+	{
+	zh-Hant=索引標籤清單;
+	}
+
+[text]
+	{
+	zh-Hant=文字;
+	}
+
+[text field]
+	{
+	zh-Hant=文字欄位;
+	}
+
+[tree]
+	{
+	zh-Hant=樹狀檢視;
+	}
+
+[tree item]
+	{
+	zh-Hant=樹狀檢視項目;
+	}
+
+[window]
+	{
+	zh-Hant=視窗;
+	}
+
+[battle room]
+	{
+	zh-Hant=戰鬥房間;
+	}
+
+[match]
+	{
+	zh-Hant=對局;
+	}
+
+[chat lines]
+	{
+	zh-Hant=行聊天;
+	}
+
+[{colour}, player {number}]
+	{
+	zh-Hant={colour}，玩家{number};
+	}
+
+[Blue]
+	{
+	zh-Hant=藍色;
+	}
+
+[Red]
+	{
+	zh-Hant=紅色;
+	}
+
+[White]
+	{
+	zh-Hant=白色;
+	}
+
+[Green]
+	{
+	zh-Hant=綠色;
+	}
+
+[Navy]
+	{
+	zh-Hant=深藍色;
+	}
+
+[Purple]
+	{
+	zh-Hant=紫色;
+	}
+
+[Yellow]
+	{
+	zh-Hant=黃色;
+	}
+
+[Black]
+	{
+	zh-Hant=黑色;
+	}
+
+[Light blue]
+	{
+	zh-Hant=淺藍色;
+	}
+
+[Tan]
+	{
+	zh-Hant=棕褐色;
+	}
+
+[The map is {name}]
+	{
+	zh-Hant=地圖是{name};
+	}
+
+[An option changed]
+	{
+	zh-Hant=有選項變更了;
+	}
+
+[The host has left]
+	{
+	zh-Hant=主持者已離開;
+	}
+
+[{name} left]
+	{
+	zh-Hant={name}離開了;
+	}
+
+[{name} joined]
+	{
+	zh-Hant={name}加入了;
+	}
+
+[{name} is ready]
+	{
+	zh-Hant={name}已就緒;
+	}
+
+[{name} is not ready]
+	{
+	zh-Hant={name}尚未就緒;
+	}
+
+[{name} changed side to {side}]
+	{
+	zh-Hant={name}把陣營改為{side};
+	}
+
+[{name} changed colour to {colour}]
+	{
+	zh-Hant={name}把顏色改為{colour};
+	}
+
+[{name} changed team to {team}]
+	{
+	zh-Hant={name}把隊伍改為{team};
+	}
+
+[The countdown has started]
+	{
+	zh-Hant=倒數計時已開始;
+	}
+
+[Commander under attack]
+	{
+	zh-Hant=指揮官受到攻擊;
+	}
+
+[Whisper from {name}: {text}]
+	{
+	zh-Hant={name}的密語：{text};
+	}
+
+[{count} new lines in {room}]
+	{
+	zh-Hant={room}中有{count}行新聊天;
+	}
+
+[Victory]
+	{
+	zh-Hant=勝利;
+	}
+
+[Defeat]
+	{
+	zh-Hant=全軍覆沒;
+	}
+
+// The original game's controls, as a screen reader names them.
+
+[Campaigns]
+	{
+	zh-Hant=戰役;
+	}
+
+[Missions]
+	{
+	zh-Hant=任務;
+	}
+
+[Saved games]
+	{
+	zh-Hant=存檔;
+	}
+
+[There are no saved games to choose from]
+	{
+	zh-Hant=沒有可選擇的存檔;
+	}
+
+[Preview]
+	{
+	zh-Hant=預覽;
+	}
+
+[Map]
+	{
+	zh-Hant=地圖;
+	}
+
+[Side]
+	{
+	zh-Hant=陣營;
+	}
+
+[Colour]
+	{
+	zh-Hant=顏色;
+	}
+
+[Team]
+	{
+	zh-Hant=隊伍;
+	}
+
+[Arm]
+	{
+	zh-Hant=ARM;
+	}
+
+[Core]
+	{
+	zh-Hant=CORE;
+	}
+
+[Starting metal]
+	{
+	zh-Hant=初始金屬;
+	}
+
+[Starting energy]
+	{
+	zh-Hant=初始能量;
+	}
+
+[Location]
+	{
+	zh-Hant=位置;
+	}
+
+[Commander]
+	{
+	zh-Hant=指揮官;
+	}
+
+[Mapping]
+	{
+	zh-Hant=地圖模式;
+	}
+
+[Line of sight]
+	{
+	zh-Hant=視野;
+	}
+
+[Line of Sight]
+	{
+	zh-Hant=視野;
+	}
+
+[Difficulty]
+	{
+	zh-Hant=難度;
+	}
+
+[Credits]
+	{
+	zh-Hant=製作人員;
+	}
+
+[Sound volume]
+	{
+	zh-Hant=音效音量;
+	}
+
+[Sound mode]
+	{
+	zh-Hant=聲音模式;
+	}
+
+[Unit sounds]
+	{
+	zh-Hant=單位音效;
+	}
+
+[Gamma]
+	{
+	zh-Hant=伽馬;
+	}
+
+[Shading]
+	{
+	zh-Hant=光影;
+	}
+
+[Anti-aliasing]
+	{
+	zh-Hant=抗鋸齒;
+	}
+
+[Shadows]
+	{
+	zh-Hant=陰影;
+	}
+
+[Game speed]
+	{
+	zh-Hant=遊戲速度;
+	}
+
+[Screen scroll]
+	{
+	zh-Hant=螢幕滾動;
+	}
+
+[Text delay]
+	{
+	zh-Hant=文字延時;
+	}
+
+[Text lines]
+	{
+	zh-Hant=文字行數;
+	}
+
+[Unit text acks]
+	{
+	zh-Hant=單位文字應答;
+	}
+
+[Music volume]
+	{
+	zh-Hant=音樂音量;
+	}
+
+[CD music]
+	{
+	zh-Hant=CD音樂;
+	}
+
+[Track type]
+	{
+	zh-Hant=曲目類型;
+	}
+
+[Play mode]
+	{
+	zh-Hant=播放模式;
+	}
+
+[Previous track]
+	{
+	zh-Hant=上一曲目;
+	}
+
+[Play track]
+	{
+	zh-Hant=播放曲目;
+	}
+
+[Next track]
+	{
+	zh-Hant=下一曲目;
+	}
+
+[Ready]
+	{
+	zh-Hant=就緒;
+	}
+
+[Alliance]
+	{
+	zh-Hant=結盟;
+	}
+
+[Max units]
+	{
+	zh-Hant=單位上限;
+	}
+
+[Dead Commander]
+	{
+	zh-Hant=指揮官陣亡;
+	}
+
+[Mapping Mode]
+	{
+	zh-Hant=地圖模式;
+	}
+
+[Cheat Codes]
+	{
+	zh-Hant=作弊碼;
+	}
+
+[Game Status]
+	{
+	zh-Hant=遊戲狀態;
+	}
+
+[Start doors]
+	{
+	zh-Hant=開戰大門;
+	}
+
+[Closed]
+	{
+	zh-Hant=已關閉;
+	}
+
+[Opened]
+	{
+	zh-Hant=已打開;
+	}
+
+[Energy]
+	{
+	zh-Hant=能量;
+	}
+
+[Metal]
+	{
+	zh-Hant=金屬;
+	}
+
+[Password]
+	{
+	zh-Hant=密碼;
+	}
+
+[Drag to reorder]
+	{
+	zh-Hant=拖動以重新排序;
+	}
+
+// Screen reader speech about replays: jumping back, and the older Windows' voice.
+
+[Jumping back isn't available in this replay.]
+	{
+	zh-Hant=此回放無法往回跳轉。;
+	}
+
+[Jumping back needs more memory than this device has.]
+	{
+	zh-Hant=往回跳轉所需的記憶體超出了此裝置的容量。;
+	}
+
+[This replay could not jump to {time} and has stopped.]
+	{
+	zh-Hant=此回放無法跳到{time}，已停止。;
+	}
+
+// The Library's Replays section: filters, sorting and the days the list is grouped by.
+
+[This month]
+	{
+	zh-Hant=本月;
+	}
+
+[Older]
+	{
+	zh-Hant=更早;
+	}
+
+[Kept]
+	{
+	zh-Hant=已保留;
+	}
+
+[Imported]
+	{
+	zh-Hant=已導入;
+	}
+
+[All kinds]
+	{
+	zh-Hant=所有種類;
+	}
+
+[Newest first]
+	{
+	zh-Hant=最新優先;
+	}
+
+[Longest first]
+	{
+	zh-Hant=最長優先;
+	}
+
+[By map]
+	{
+	zh-Hant=按地圖;
+	}
+
+[Most players first]
+	{
+	zh-Hant=玩家最多優先;
+	}
+
+[Search replays]
+	{
+	zh-Hant=搜尋回放;
+	}
+
+[Today]
+	{
+	zh-Hant=今天;
+	}
+
+[Yesterday]
+	{
+	zh-Hant=昨天;
+	}
+
+[{weekday} {day} {month}]
+	{
+	zh-Hant={month}{day}日 {weekday};
+	}
+
+[{weekday} {day} {month} {year}]
+	{
+	zh-Hant={year}年{month}{day}日 {weekday};
+	}
+
+[Mon]
+	{
+	zh-Hant=週一;
+	}
+
+[Tue]
+	{
+	zh-Hant=週二;
+	}
+
+[Wed]
+	{
+	zh-Hant=週三;
+	}
+
+[Thu]
+	{
+	zh-Hant=週四;
+	}
+
+[Fri]
+	{
+	zh-Hant=週五;
+	}
+
+[Sat]
+	{
+	zh-Hant=週六;
+	}
+
+[Sun]
+	{
+	zh-Hant=週日;
+	}
+
+[Jan]
+	{
+	zh-Hant=1月;
+	}
+
+[Feb]
+	{
+	zh-Hant=2月;
+	}
+
+[Mar]
+	{
+	zh-Hant=3月;
+	}
+
+[Apr]
+	{
+	zh-Hant=4月;
+	}
+
+[May]
+	{
+	zh-Hant=5月;
+	}
+
+[Jun]
+	{
+	zh-Hant=6月;
+	}
+
+[Jul]
+	{
+	zh-Hant=7月;
+	}
+
+[Aug]
+	{
+	zh-Hant=8月;
+	}
+
+[Sep]
+	{
+	zh-Hant=9月;
+	}
+
+[Oct]
+	{
+	zh-Hant=10月;
+	}
+
+[Nov]
+	{
+	zh-Hant=11月;
+	}
+
+[Dec]
+	{
+	zh-Hant=12月;
+	}
+
+// A replay's row and card: the title line, the chips, the players and what they did.
+
+[{left} vs {right}]
+	{
+	zh-Hant={left} vs {right};
+	}
+
+[{kind} · {planet}]
+	{
+	zh-Hant={kind} · {planet};
+	}
+
+[{kind} · {planet}, {sector}]
+	{
+	zh-Hant={kind} · {planet}，{sector};
+	}
+
+[After a crash]
+	{
+	zh-Hant=當機後;
+	}
+
+[Reading…]
+	{
+	zh-Hant=正在讀取…;
+	}
+
+[Won]
+	{
+	zh-Hant=獲勝;
+	}
+
+[Lost]
+	{
+	zh-Hant=落敗;
+	}
+
+[1 kill]
+	{
+	zh-Hant=擊殺1;
+	}
+
+[{kills} kills]
+	{
+	zh-Hant=擊殺{kills};
+	}
+
+[1 loss]
+	{
+	zh-Hant=損失1;
+	}
+
+[{losses} losses]
+	{
+	zh-Hant=損失{losses};
+	}
+
+[Watched to {time}]
+	{
+	zh-Hant=已看到{time};
+	}
+
+[Damaged]
+	{
+	zh-Hant=已損壞;
+	}
+
+[Length]
+	{
+	zh-Hant=時長;
+	}
+
+[Recorded]
+	{
+	zh-Hant=錄製時間;
+	}
+
+[File]
+	{
+	zh-Hant=檔案;
+	}
+
+[Kept until]
+	{
+	zh-Hant=保留至;
+	}
+
+[Until you delete it]
+	{
+	zh-Hant=直到你刪除它為止;
+	}
+
+[Imported replays are kept]
+	{
+	zh-Hant=導入的回放會保留;
+	}
+
+[Downloaded replays are kept]
+	{
+	zh-Hant=下載的回放會保留;
+	}
+
+[Exported replays are kept]
+	{
+	zh-Hant=導出的回放會保留;
+	}
+
+[{mod} (rev {revision})]
+	{
+	zh-Hant={mod}（修訂號{revision}）;
+	}
+
+[Watcher]
+	{
+	zh-Hant=觀戰者;
+	}
+
+[Watch]
+	{
+	zh-Hant=觀看;
+	}
+
+[Watch from {time}]
+	{
+	zh-Hant=從{time}開始觀看;
+	}
+
+[Turn on recording]
+	{
+	zh-Hant=開啟錄影;
+	}
+
+[Open a replay file…]
+	{
+	zh-Hant=打開回放檔案…;
+	}
+
+[Delete replay]
+	{
+	zh-Hant=刪除回放;
+	}
+
+[{count} replays selected]
+	{
+	zh-Hant=已選擇{count}個回放;
+	}
+
+[This replay cannot be watched.]
+	{
+	zh-Hant=無法觀看此回放。;
+	}
+
+[This replay could not be moved to the trash.]
+	{
+	zh-Hant=此回放無法移到垃圾桶。;
+	}
+
+[{count} replays could not be moved to the trash.]
+	{
+	zh-Hant=有{count}個回放無法移到垃圾桶。;
+	}
+
+[Added {title} to Replays]
+	{
+	zh-Hant=已將{title}添加到回放;
+	}
+
+// The Library's Replays section: how long games are kept, the question about old replays, and the empty lists.
+
+[Games you play are kept here for 30 days.]
+	{
+	zh-Hant=你玩過的遊戲會在這裡保留30天。;
+	}
+
+[Games you play are kept here for 90 days.]
+	{
+	zh-Hant=你玩過的遊戲會在這裡保留90天。;
+	}
+
+[Games you play are kept here for a year.]
+	{
+	zh-Hant=你玩過的遊戲會在這裡保留一年。;
+	}
+
+[Games you play are kept here until you delete them.]
+	{
+	zh-Hant=你玩過的遊戲會在這裡保留，直到你刪除它們為止。;
+	}
+
+[Old replays]
+	{
+	zh-Hant=舊回放;
+	}
+
+[Keep them all]
+	{
+	zh-Hant=全部保留;
+	}
+
+[Let them go]
+	{
+	zh-Hant=清理掉;
+	}
+
+[1 replay is older than you asked to keep. It goes to the system's trash.]
+	{
+	zh-Hant=有1個回放已超過你設定的保留期限。它會移到系統的垃圾桶。;
+	}
+
+[{count} replays are older than you asked to keep. They go to the system's trash.]
+	{
+	zh-Hant=有{count}個回放已超過你設定的保留期限。它們會移到系統的垃圾桶。;
+	}
+
+[1 replay is older than you asked to keep. It is deleted. This system has no trash.]
+	{
+	zh-Hant=有1個回放已超過你設定的保留期限。它會被刪除。此系統沒有垃圾桶。;
+	}
+
+[{count} replays are older than you asked to keep. They are deleted. This system has no trash.]
+	{
+	zh-Hant=有{count}個回放已超過你設定的保留期限。它們會被刪除。此系統沒有垃圾桶。;
+	}
+
+[Recording is off.]
+	{
+	zh-Hant=錄影已關閉。;
+	}
+
+[No replays from this month.]
+	{
+	zh-Hant=本月沒有回放。;
+	}
+
+[No older replays.]
+	{
+	zh-Hant=沒有更早的回放。;
+	}
+
+[No replays kept.]
+	{
+	zh-Hant=沒有保留的回放。;
+	}
+
+[No replays imported.]
+	{
+	zh-Hant=沒有導入的回放。;
+	}
+
+[No replays of this kind.]
+	{
+	zh-Hant=沒有這種類型的回放。;
+	}
+
+[No replays yet.]
+	{
+	zh-Hant=還沒有回放。;
+	}
+
+[Reading the replays…]
+	{
+	zh-Hant=正在讀取回放…;
+	}
+
+[Reading {read} of {total} replays]
+	{
+	zh-Hant=正在讀取{read}/{total}個回放;
+	}
+
+[1 replay · {size}]
+	{
+	zh-Hant=1個回放 · {size};
+	}
+
+[{count} replays · {size}]
+	{
+	zh-Hant={count}個回放 · {size};
+	}
+
+// A replay that needs something the player does not have.
+
+[Needs {name} {version}]
+	{
+	zh-Hant=需要{name} {version};
+	}
+
+[Needs map]
+	{
+	zh-Hant=需要地圖;
+	}
+
+[Needs mutator]
+	{
+	zh-Hant=需要變異器;
+	}
+
+[Needs {name}.]
+	{
+	zh-Hant=需要{name}。;
+	}
+
+[Needs {version}]
+	{
+	zh-Hant=需要{version};
+	}
+
+[This replay was recorded with {name}.]
+	{
+	zh-Hant=此回放是用{name}錄製的。;
+	}
+
+[This replay was recorded with {name} {version}.]
+	{
+	zh-Hant=此回放是用{name} {version}錄製的。;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}).]
+	{
+	zh-Hant=此回放是用{name} {version}（修訂號{revision}）錄製的。;
+	}
+
+[This replay was recorded with {name}. You have {have}.]
+	{
+	zh-Hant=此回放是用{name}錄製的。你現有的是{have}。;
+	}
+
+[This replay was recorded with {name} {version}. You have {have}.]
+	{
+	zh-Hant=此回放是用{name} {version}錄製的。你現有的是{have}。;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}). You have {have}.]
+	{
+	zh-Hant=此回放是用{name} {version}（修訂號{revision}）錄製的。你現有的是{have}。;
+	}
+
+[Needs the map {name}.]
+	{
+	zh-Hant=需要地圖{name}。;
+	}
+
+[From the map pack {pack}.]
+	{
+	zh-Hant=來自地圖包{pack}。;
+	}
+
+[This replay was recorded with another release of the map pack {name}.]
+	{
+	zh-Hant=此回放是用地圖包{name}的另一個版本錄製的。;
+	}
+
+[Needs the mutator {name}.]
+	{
+	zh-Hant=需要變異器{name}。;
+	}
+
+[Needs Open Annihilation {version}.]
+	{
+	zh-Hant=需要Open Annihilation {version}。;
+	}
+
+[Getting {name}… {percent}%]
+	{
+	zh-Hant=正在獲取{name}…{percent}%;
+	}
+
+[Get {name} {version} and watch]
+	{
+	zh-Hant=獲取{name} {version}並觀看;
+	}
+
+[Get it and watch]
+	{
+	zh-Hant=獲取並觀看;
+	}
+
+[Get them and watch]
+	{
+	zh-Hant=全部獲取並觀看;
+	}
+
+[Turn on and watch]
+	{
+	zh-Hant=開啟並觀看;
+	}
+
+[{name} {version} is not in {registry}'s catalogue.]
+	{
+	zh-Hant={registry}的目錄中沒有{name} {version}。;
+	}
+
+[{name} is not in {registry}'s catalogue.]
+	{
+	zh-Hant={registry}的目錄中沒有{name}。;
+	}
+
+[You're offline.]
+	{
+	zh-Hant=你目前處於離線狀態。;
+	}
+
+[Get {name} {version} when you're back online.]
+	{
+	zh-Hant=重新上線後再獲取{name} {version}。;
+	}
+
+[Get {name} when you're back online.]
+	{
+	zh-Hant=重新上線後再獲取{name}。;
+	}
+
+// The Library's Replays on Core Prime.
+
+[On this computer]
+	{
+	zh-Hant=在這臺電腦上;
+	}
+
+[On Core Prime]
+	{
+	zh-Hant=在Core Prime上;
+	}
+
+[Longest]
+	{
+	zh-Hant=最長;
+	}
+
+[Popular]
+	{
+	zh-Hant=熱門;
+	}
+
+[By planet]
+	{
+	zh-Hant=按星球;
+	}
+
+[Browse Core Prime's replays]
+	{
+	zh-Hant=瀏覽Core Prime的回放;
+	}
+
+[Reading Core Prime's replays…]
+	{
+	zh-Hant=正在讀取Core Prime的回放…;
+	}
+
+[Core Prime's list cannot be read.]
+	{
+	zh-Hant=無法讀取Core Prime的清單。;
+	}
+
+[Core Prime's replays are not available just now.]
+	{
+	zh-Hant=Core Prime的回放暫時無法使用。;
+	}
+
+[Core Prime cannot be reached.]
+	{
+	zh-Hant=無法連線到Core Prime。;
+	}
+
+[Core Prime has no replays to show.]
+	{
+	zh-Hant=Core Prime沒有可顯示的回放。;
+	}
+
+[No replays for this planet.]
+	{
+	zh-Hant=此星球沒有回放。;
+	}
+
+[1 replay]
+	{
+	zh-Hant=1個回放;
+	}
+
+[{count} replays]
+	{
+	zh-Hant={count}個回放;
+	}
+
+[Getting the replay…]
+	{
+	zh-Hant=正在獲取回放…;
+	}
+
+[The file does not match the replay.]
+	{
+	zh-Hant=檔案與回放不符。;
+	}
+
+[The replay names no file.]
+	{
+	zh-Hant=回放沒有指明檔案。;
+	}
+
+[The replay could not be saved.]
+	{
+	zh-Hant=無法儲存回放。;
+	}
+
+[Try again in {seconds} s.]
+	{
+	zh-Hant=請在{seconds}秒後再試一次。;
+	}
+
+[The check ran out. Try again for a new code.]
+	{
+	zh-Hant=驗證已逾時。請重試以取得新的代碼。;
+	}
+
+[Go to {address} and enter {code}.]
+	{
+	zh-Hant=請前往{address}並輸入{code}。;
+	}
+
+[My battles]
+	{
+	zh-Hant=我的戰鬥;
+	}
+
+[Sign in]
+	{
+	zh-Hant=登入;
+	}
+
+[Sign out]
+	{
+	zh-Hant=登出;
+	}
+
+[Sign in to Core Prime]
+	{
+	zh-Hant=登入Core Prime;
+	}
+
+[Handle]
+	{
+	zh-Hant=帳號;
+	}
+
+[Forgot it? Reset it at coreprime.net/forgot]
+	{
+	zh-Hant=忘記密碼了？請到coreprime.net/forgot重設;
+	}
+
+[Signing in needs a secure connection, which this system does not have.]
+	{
+	zh-Hant=登入需要安全連線，但此系統沒有。;
+	}
+
+[Signing in…]
+	{
+	zh-Hant=正在登入…;
+	}
+
+[Sign in to share a replay.]
+	{
+	zh-Hant=請先登入才能分享回放。;
+	}
+
+// Sharing a replay on Core Prime.
+
+[Share on Core Prime…]
+	{
+	zh-Hant=分享到Core Prime…;
+	}
+
+[Share on Core Prime]
+	{
+	zh-Hant=分享到Core Prime;
+	}
+
+[Share my own recording]
+	{
+	zh-Hant=分享我自己的錄影;
+	}
+
+[Open on Core Prime]
+	{
+	zh-Hant=在Core Prime上打開;
+	}
+
+[Share]
+	{
+	zh-Hant=分享;
+	}
+
+[Public]
+	{
+	zh-Hant=公開;
+	}
+
+[Unlisted]
+	{
+	zh-Hant=不公開;
+	}
+
+[Sharing…]
+	{
+	zh-Hant=正在分享…;
+	}
+
+[Shared on Core Prime]
+	{
+	zh-Hant=已分享到Core Prime;
+	}
+
+[Already on Core Prime]
+	{
+	zh-Hant=已在Core Prime上;
+	}
+
+[This account cannot share replays.]
+	{
+	zh-Hant=此帳號無法分享回放。;
+	}
+
+[Only a player in that battle can replace its replay.]
+	{
+	zh-Hant=只有參加該場戰鬥的玩家才能替換它的回放。;
+	}
+
+[The replay is larger than the limit.]
+	{
+	zh-Hant=回放超過了大小上限。;
+	}
+
+[This account has shared its replays for today.]
+	{
+	zh-Hant=此帳號今天分享的回放已達上限。;
+	}
+
+[Uploads are not available.]
+	{
+	zh-Hant=目前無法上傳。;
+	}
+
+[Core Prime did not start a session.]
+	{
+	zh-Hant=Core Prime沒有開啟工作階段。;
+	}
+
+[Core Prime did not answer.]
+	{
+	zh-Hant=Core Prime沒有回應。;
+	}
+
+// Exporting a replay.
+
+[Export…]
+	{
+	zh-Hant=導出…;
+	}
+
+[Export]
+	{
+	zh-Hant=導出;
+	}
+
+[Export {name}]
+	{
+	zh-Hant=導出{name};
+	}
+
+[Export {count} replays]
+	{
+	zh-Hant=導出{count}個回放;
+	}
+
+[Open Annihilation replay (.oademo)]
+	{
+	zh-Hant=Open Annihilation回放（.oademo）;
+	}
+
+[Everything needed to watch it: the recording, and the game, mod and map it needs]
+	{
+	zh-Hant=觀看所需的一切：錄影，以及它需要的遊戲、模組和地圖;
+	}
+
+[TA Demo Recorder (.tad)]
+	{
+	zh-Hant=TA Demo Recorder（.tad）;
+	}
+
+[For TA Demo Recorder and other replayers]
+	{
+	zh-Hant=適用於TA Demo Recorder和其他回放程式;
+	}
+
+[What to include]
+	{
+	zh-Hant=要包含的內容;
+	}
+
+[What only Open Annihilation reads]
+	{
+	zh-Hant=只有Open Annihilation能讀取的內容;
+	}
+
+[Compatibility]
+	{
+	zh-Hant=相容性;
+	}
+
+[It was played with the mutator {name}. Other replayers cannot apply it, so commanders may not last as they did.]
+	{
+	zh-Hant=這場遊戲使用了變異器{name}。其他回放程式無法套用它，所以指揮官的存活情況可能與當時不同。;
+	}
+
+[It was played with mutators. Other replayers cannot apply them, so commanders may not last as they did.]
+	{
+	zh-Hant=這場遊戲使用了變異器。其他回放程式無法套用它們，所以指揮官的存活情況可能與當時不同。;
+	}
+
+[Other replayers stop at the first of this mod's wide weapon records.]
+	{
+	zh-Hant=其他回放程式會在遇到此模組的第一筆寬型武器記錄時停止。;
+	}
+
+[Names longer than 63 letters are cut.]
+	{
+	zh-Hant=超過63個字母的名稱會被截斷。;
+	}
+
+[A player's status is cut to 512 bytes.]
+	{
+	zh-Hant=玩家的狀態會被截斷為512位元組。;
+	}
+
+[Exporting {done} of {total}]
+	{
+	zh-Hant=正在導出{done}/{total};
+	}
+
+[Compressing the recording]
+	{
+	zh-Hant=正在壓縮錄影;
+	}
+
+[Writing {name}]
+	{
+	zh-Hant=正在寫入{name};
+	}
+
+[Measuring…]
+	{
+	zh-Hant=正在計算…;
+	}
+
+[Saved to {folder}]
+	{
+	zh-Hant=已儲存到{folder};
+	}
+
+[Show in folder]
+	{
+	zh-Hant=在資料夾中顯示;
+	}
+
+[Nothing is selected. Choose a replay, then export it.]
+	{
+	zh-Hant=尚未選擇任何項目。請先選擇一個回放，再導出。;
+	}
+
+[The export could not be written.]
+	{
+	zh-Hant=無法寫入導出的檔案。;
+	}
+
+[There is no room in {folder}.]
+	{
+	zh-Hant={folder}已沒有空間。;
+	}
+
+[Open Annihilation cannot write to {folder}.]
+	{
+	zh-Hant=Open Annihilation無法寫入{folder}。;
+	}
+
+[Saved {done} of {total}.]
+	{
+	zh-Hant=已儲存{done}/{total}。;
+	}
+
+[This replay cannot be read, so it cannot be exported.]
+	{
+	zh-Hant=無法讀取此回放，因此無法導出。;
+	}
+
+[More folders]
+	{
+	zh-Hant=更多資料夾;
+	}
+
+[Previous folders]
+	{
+	zh-Hant=上一批資料夾;
+	}
+
+[More warnings]
+	{
+	zh-Hant=更多警告;
+	}
+
+[Previous warnings]
+	{
+	zh-Hant=上一批警告;
+	}
+
+[Only a replay in the Library can be exported]
+	{
+	zh-Hant=只有資源庫中的回放才能導出;
+	}
+
+// Opening a replay file, and why one cannot be read.
+
+[Title]
+	{
+	zh-Hant=標題;
+	}
+
+[This file cannot be read.]
+	{
+	zh-Hant=無法讀取此檔案。;
+	}
+
+[This file is too large to be a replay.]
+	{
+	zh-Hant=此檔案太大，不可能是回放。;
+	}
+
+[This replay could not be copied into Recordings.]
+	{
+	zh-Hant=無法把此回放複製到Recordings資料夾。;
+	}
+
+[This recording is in version {version} of the format, which Open Annihilation does not play]
+	{
+	zh-Hant=此錄影屬於格式的第{version}版，Open Annihilation無法播放;
+	}
+
+[This file is not a TA Demo recording]
+	{
+	zh-Hant=此檔案不是TA Demo錄影;
+	}
+
+[This file is not a replay.]
+	{
+	zh-Hant=此檔案不是回放。;
+	}
+
+[This replay is not a version this game reads.]
+	{
+	zh-Hant=此回放的版本不是本遊戲能讀取的。;
+	}
+
+[This replay does not hold one recording.]
+	{
+	zh-Hant=此回放並非只含一份錄影。;
+	}
+
+[This replay's recording does not match.]
+	{
+	zh-Hant=此回放的錄影與記載不符。;
+	}
+
+[This replay's recording is too long to play.]
+	{
+	zh-Hant=此回放的錄影太長，無法播放。;
+	}
+
+[This replay's details cannot be read.]
+	{
+	zh-Hant=無法讀取此回放的詳細資料。;
+	}
+
+[This replay's recording cannot be read.]
+	{
+	zh-Hant=無法讀取此回放的錄影。;
+	}
+
+[This recording cannot be read.]
+	{
+	zh-Hant=無法讀取此錄影。;
+	}
+
+// The replay viewer: the playback bar, the timeline and the end card.
+
+[Catching up… {percent} %]
+	{
+	zh-Hant=正在追趕…{percent}%;
+	}
+
+[The recording is damaged after {time}]
+	{
+	zh-Hant=錄影在{time}之後損壞;
+	}
+
+[Watch again]
+	{
+	zh-Hant=再看一次;
+	}
+
+[Back to the Library]
+	{
+	zh-Hant=返回資源庫;
+	}
+
+[Undecided]
+	{
+	zh-Hant=未分勝負;
+	}
+
+[No result]
+	{
+	zh-Hant=無結果;
+	}
+
+[{name} won]
+	{
+	zh-Hant={name}獲勝;
+	}
+
+[{time} · {name}'s commander destroyed]
+	{
+	zh-Hant={time} · {name}的指揮官被摧毀;
+	}
+
+[{time} · {name} dropped]
+	{
+	zh-Hant={time} · {name}斷線了;
+	}
+
+[{time} · {name} left]
+	{
+	zh-Hant={time} · {name}離開了;
+	}
+
+[{time} · {name} was defeated]
+	{
+	zh-Hant={time} · {name}被擊敗;
+	}
+
+[{time} · {name} allied]
+	{
+	zh-Hant={time} · {name}結盟;
+	}
+
+[{time} · {name} broke the alliance]
+	{
+	zh-Hant={time} · {name}解除結盟;
+	}
+
+[{time} · {name}: {line}]
+	{
+	zh-Hant={time} · {name}：{line};
+	}
+
+[{time} · Paused]
+	{
+	zh-Hant={time} · 已暫停;
+	}
+
+[{time} · End]
+	{
+	zh-Hant={time} · 結束;
+	}
+
+[{asked} · {reached} now]
+	{
+	zh-Hant={asked} · 目前{reached};
+	}
+
+[½×]
+	{
+	zh-Hant=½×;
+	}
+
+[2×]
+	{
+	zh-Hant=2×;
+	}
+
+[3×]
+	{
+	zh-Hant=3×;
+	}
+
+[4×]
+	{
+	zh-Hant=4×;
+	}
+
+[No markers yet · finding them, {percent} %]
+	{
+	zh-Hant=尚無標記 · 正在尋找，{percent}%;
+	}
+
+[All players]
+	{
+	zh-Hant=所有玩家;
+	}
+
+[Follow their camera]
+	{
+	zh-Hant=跟隨其視角;
+	}
+
+[Follow a unit]
+	{
+	zh-Hant=跟隨一個單位;
+	}
+
+[Director]
+	{
+	zh-Hant=導播;
+	}
+
+[Defeated {time}]
+	{
+	zh-Hant={time}被擊敗;
+	}
+
+[Left {time}]
+	{
+	zh-Hant={time}離開;
+	}
+
+[Losses]
+	{
+	zh-Hant=損失;
+	}
+
+[Leave]
+	{
+	zh-Hant=離開;
+	}
+
+[Photo]
+	{
+	zh-Hant=照片;
+	}
+
+[Play or pause]
+	{
+	zh-Hant=播放或暫停;
+	}
+
+[Back 10 seconds]
+	{
+	zh-Hant=後退10秒;
+	}
+
+[Forward 10 seconds]
+	{
+	zh-Hant=前進10秒;
+	}
+
+[Back a minute]
+	{
+	zh-Hant=後退1分鐘;
+	}
+
+[Forward a minute]
+	{
+	zh-Hant=前進1分鐘;
+	}
+
+[Previous marker]
+	{
+	zh-Hant=上一個標記;
+	}
+
+[Next marker]
+	{
+	zh-Hant=下一個標記;
+	}
+
+[Go to the start]
+	{
+	zh-Hant=跳到開頭;
+	}
+
+[Go to the end]
+	{
+	zh-Hant=跳到結尾;
+	}
+
+[Pin the bar]
+	{
+	zh-Hant=固定播放列;
+	}
+
+[Shortcut card]
+	{
+	zh-Hant=快速鍵卡;
+	}
+
+// Key actions: watching a replay.
+
+[Plays or pauses the replay]
+	{
+	zh-Hant=播放或暫停回放;
+	}
+
+[Jumps back ten seconds]
+	{
+	zh-Hant=往回跳10秒;
+	}
+
+[Jumps forward ten seconds]
+	{
+	zh-Hant=往前跳10秒;
+	}
+
+[Jumps back a minute]
+	{
+	zh-Hant=往回跳1分鐘;
+	}
+
+[Jumps forward a minute]
+	{
+	zh-Hant=往前跳1分鐘;
+	}
+
+[Jumps to the previous marker]
+	{
+	zh-Hant=跳到上一個標記;
+	}
+
+[Jumps to the next marker]
+	{
+	zh-Hant=跳到下一個標記;
+	}
+
+[Jumps to the start of the replay]
+	{
+	zh-Hant=跳到回放開頭;
+	}
+
+[Jumps to the end of the replay]
+	{
+	zh-Hant=跳到回放結尾;
+	}
+
+[Keeps the playback bar on screen]
+	{
+	zh-Hant=讓播放列一直顯示在螢幕上;
+	}
+
+[Shows the playback keys]
+	{
+	zh-Hant=顯示播放按鍵;
+	}
+
+[Next player's view]
+	{
+	zh-Hant=下一位玩家的視圖;
+	}
+
+[Previous player's view]
+	{
+	zh-Hant=上一位玩家的視圖;
+	}
+
+[All players' view]
+	{
+	zh-Hant=所有玩家的視圖;
+	}
+
+[Camera mode]
+	{
+	zh-Hant=視角模式;
+	}
+
+[Shows the next player's view]
+	{
+	zh-Hant=顯示下一位玩家的視圖;
+	}
+
+[Shows the previous player's view]
+	{
+	zh-Hant=顯示上一位玩家的視圖;
+	}
+
+[Shows the whole map and every unit]
+	{
+	zh-Hant=顯示整張地圖和所有單位;
+	}
+
+[Changes how the camera follows the game]
+	{
+	zh-Hant=改變視角跟隨遊戲的方式;
+	}
+
+// Key actions: photo mode, and the menus' focus ring.
+
+[Opens photo mode]
+	{
+	zh-Hant=打開攝影模式;
+	}
+
+[Leaves photo mode]
+	{
+	zh-Hant=離開攝影模式;
+	}
+
+[Writes a photo of the battlefield]
+	{
+	zh-Hant=儲存戰場的照片;
+	}
+
+[Copy last photo]
+	{
+	zh-Hant=複製最後一張照片;
+	}
+
+[Offers the last photo to the clipboard]
+	{
+	zh-Hant=把最後一張照片放到剪貼簿;
+	}
+
+[Freeze / Hold picture]
+	{
+	zh-Hant=凍結／定格畫面;
+	}
+
+[Holds the clock, or keeps this screen's last frame in a shared match]
+	{
+	zh-Hant=凍結時鐘，或在多人對局中保留此螢幕的最後一幀畫面;
+	}
+
+[Step a tick]
+	{
+	zh-Hant=單步前進;
+	}
+
+[Advances one tick, then freezes]
+	{
+	zh-Hant=前進一個邏輯幀，然後凍結;
+	}
+
+[Step back]
+	{
+	zh-Hant=單步後退;
+	}
+
+[Goes back one tick, then freezes]
+	{
+	zh-Hant=後退一個邏輯幀，然後凍結;
+	}
+
+[Shutter back]
+	{
+	zh-Hant=快門後退;
+	}
+
+[Moves the shutter one eighth toward the previous tick]
+	{
+	zh-Hant=把快門朝上一個邏輯幀移動八分之一;
+	}
+
+[Shutter on]
+	{
+	zh-Hant=快門前進;
+	}
+
+[Moves the shutter one eighth toward the frozen tick]
+	{
+	zh-Hant=把快門朝已凍結的邏輯幀移動八分之一;
+	}
+
+[Turn left]
+	{
+	zh-Hant=向左旋轉;
+	}
+
+[Turn right]
+	{
+	zh-Hant=向右旋轉;
+	}
+
+[Tilt up]
+	{
+	zh-Hant=向上傾斜;
+	}
+
+[Tilt down]
+	{
+	zh-Hant=向下傾斜;
+	}
+
+[Turns the camera left]
+	{
+	zh-Hant=向左旋轉視角;
+	}
+
+[Turns the camera right]
+	{
+	zh-Hant=向右旋轉視角;
+	}
+
+[Tilts the camera up]
+	{
+	zh-Hant=向上傾斜視角;
+	}
+
+[Tilts the camera down]
+	{
+	zh-Hant=向下傾斜視角;
+	}
+
+[Zooms in on the photo]
+	{
+	zh-Hant=放大照片;
+	}
+
+[Zooms out on the photo]
+	{
+	zh-Hant=縮小照片;
+	}
+
+[Hides and shows the photo panel]
+	{
+	zh-Hant=隱藏或顯示攝影面板;
+	}
+
+[Cycles the guides over the battlefield]
+	{
+	zh-Hant=依次切換戰場上的參考線;
+	}
+
+[Mark area]
+	{
+	zh-Hant=標記區域;
+	}
+
+[Starts a poster mark at the view's centre]
+	{
+	zh-Hant=在視圖中心開始標記海報區域;
+	}
+
+[Grow the mark left]
+	{
+	zh-Hant=向左擴大標記;
+	}
+
+[Grow the mark right]
+	{
+	zh-Hant=向右擴大標記;
+	}
+
+[Grow the mark up]
+	{
+	zh-Hant=向上擴大標記;
+	}
+
+[Grow the mark down]
+	{
+	zh-Hant=向下擴大標記;
+	}
+
+[Grows the marked area to the left]
+	{
+	zh-Hant=向左擴大標記的區域;
+	}
+
+[Grows the marked area to the right]
+	{
+	zh-Hant=向右擴大標記的區域;
+	}
+
+[Grows the marked area up]
+	{
+	zh-Hant=向上擴大標記的區域;
+	}
+
+[Grows the marked area down]
+	{
+	zh-Hant=向下擴大標記的區域;
+	}
+
+[Focus the panel's buttons]
+	{
+	zh-Hant=聚焦面板按鈕;
+	}
+
+[Moves a ring over the order buttons and the build page. Press again to return to the battlefield.]
+	{
+	zh-Hant=在命令按鈕和建造頁上移動焦點環。再按一次可回到戰場。;
+	}
+
+[Closes the megamap and zooms in at the pointer]
+	{
+	zh-Hant=關閉全景地圖，並以指針為中心放大。;
+	}
+
+[Keys in photo mode]
+	{
+	zh-Hant=攝影模式中的按鍵;
+	}
+
+[in photo mode]
+	{
+	zh-Hant=攝影模式中;
+	}
+
+[In photo mode]
+	{
+	zh-Hant=攝影模式中;
+	}
+
+[Photo mode]
+	{
+	zh-Hant=攝影模式;
+	}
+
+[PHOTO MODE]
+	{
+	zh-Hant=攝影模式;
+	}
+
+// Photo mode: the panel's sections, its rows and its chips.
+
+[Hide panel]
+	{
+	zh-Hant=隱藏面板;
+	}
+
+[Show panel]
+	{
+	zh-Hant=顯示面板;
+	}
+
+[{key} shows the panel]
+	{
+	zh-Hant={key}顯示面板;
+	}
+
+[{key} or Esc leaves]
+	{
+	zh-Hant={key}或Esc離開;
+	}
+
+[Esc leaves]
+	{
+	zh-Hant=Esc離開;
+	}
+
+[Photo not taken]
+	{
+	zh-Hant=未拍照;
+	}
+
+[Time]
+	{
+	zh-Hant=時間;
+	}
+
+[Run]
+	{
+	zh-Hant=運行;
+	}
+
+[Slow]
+	{
+	zh-Hant=慢動作;
+	}
+
+[Freeze]
+	{
+	zh-Hant=凍結;
+	}
+
+[Frozen]
+	{
+	zh-Hant=已凍結;
+	}
+
+[Held]
+	{
+	zh-Hant=已定格;
+	}
+
+[Hold picture]
+	{
+	zh-Hant=定格畫面;
+	}
+
+[Held picture]
+	{
+	zh-Hant=畫面已定格;
+	}
+
+[Freeze the picture]
+	{
+	zh-Hant=凍結畫面;
+	}
+
+[Shared game]
+	{
+	zh-Hant=多人遊戲;
+	}
+
+[Live]
+	{
+	zh-Hant=即時;
+	}
+
+[Replay paused]
+	{
+	zh-Hant=回放已暫停;
+	}
+
+[Speed]
+	{
+	zh-Hant=速度;
+	}
+
+[Step]
+	{
+	zh-Hant=單步;
+	}
+
+[Between ticks]
+	{
+	zh-Hant=邏輯幀之間;
+	}
+
+[Clock]
+	{
+	zh-Hant=時鐘;
+	}
+
+[Turn]
+	{
+	zh-Hant=旋轉;
+	}
+
+[Tilt]
+	{
+	zh-Hant=傾斜;
+	}
+
+[Follow unit]
+	{
+	zh-Hant=跟隨單位;
+	}
+
+[Far]
+	{
+	zh-Hant=遠距;
+	}
+
+[Near]
+	{
+	zh-Hant=近距;
+	}
+
+[Closest]
+	{
+	zh-Hant=最近;
+	}
+
+[Show selection]
+	{
+	zh-Hant=顯示選擇框;
+	}
+
+[Show health bars]
+	{
+	zh-Hant=顯示傷害條;
+	}
+
+[Guides]
+	{
+	zh-Hant=參考線;
+	}
+
+[Thirds]
+	{
+	zh-Hant=三分法;
+	}
+
+[Centre lines]
+	{
+	zh-Hant=中心線;
+	}
+
+[Safe area]
+	{
+	zh-Hant=安全區域;
+	}
+
+[Dusk]
+	{
+	zh-Hant=黃昏;
+	}
+
+[Arctic]
+	{
+	zh-Hant=極地;
+	}
+
+[Noir]
+	{
+	zh-Hant=黑色電影;
+	}
+
+[Bleach]
+	{
+	zh-Hant=漂白;
+	}
+
+[Vignette]
+	{
+	zh-Hant=暈影;
+	}
+
+[Roundness]
+	{
+	zh-Hant=圓度;
+	}
+
+[Grain]
+	{
+	zh-Hant=顆粒;
+	}
+
+[Grain size]
+	{
+	zh-Hant=顆粒大小;
+	}
+
+[Frame]
+	{
+	zh-Hant=邊框;
+	}
+
+[Thin border]
+	{
+	zh-Hant=細邊框;
+	}
+
+[Wide mat]
+	{
+	zh-Hant=寬襯框;
+	}
+
+[Caption bar]
+	{
+	zh-Hant=圖說欄;
+	}
+
+[Depth]
+	{
+	zh-Hant=縱深;
+	}
+
+[Band centre]
+	{
+	zh-Hant=清晰帶中心;
+	}
+
+[Band width]
+	{
+	zh-Hant=清晰帶寬度;
+	}
+
+[Blur]
+	{
+	zh-Hant=模糊;
+	}
+
+[Blurs by screen row, not by depth.]
+	{
+	zh-Hant=依螢幕行模糊，而非依深度。;
+	}
+
+[Haze]
+	{
+	zh-Hant=霧氣;
+	}
+
+[Follows the ground, not the units.]
+	{
+	zh-Hant=依地面而定，不依單位。;
+	}
+
+[Depth of field]
+	{
+	zh-Hant=景深;
+	}
+
+[Needs Full 3D Mode]
+	{
+	zh-Hant=需要完整3D模式;
+	}
+
+[This graphics card keeps no depth.]
+	{
+	zh-Hant=此顯卡不保留深度資訊。;
+	}
+
+[Smooth edges]
+	{
+	zh-Hant=平滑邊緣;
+	}
+
+[Screen]
+	{
+	zh-Hant=螢幕;
+	}
+
+[Copy to clipboard]
+	{
+	zh-Hant=複製到剪貼簿;
+	}
+
+[Player names]
+	{
+	zh-Hant=玩家名稱;
+	}
+
+[Take photo]
+	{
+	zh-Hant=拍照;
+	}
+
+[The preview lowers the frame rate.]
+	{
+	zh-Hant=預覽會降低幀率。;
+	}
+
+[Expanded]
+	{
+	zh-Hant=已展開;
+	}
+
+[Collapsed]
+	{
+	zh-Hant=已收合;
+	}
+
+[Poster]
+	{
+	zh-Hant=海報;
+	}
+
+[The view]
+	{
+	zh-Hant=目前視圖;
+	}
+
+[Area]
+	{
+	zh-Hant=區域;
+	}
+
+[A poster is the map from above: Classic view, {key}]
+	{
+	zh-Hant=海報是從上方俯視的地圖：經典視角，{key};
+	}
+
+[A photo is at most {limit} pixels a side]
+	{
+	zh-Hant=照片每邊最多{limit}像素;
+	}
+
+[This graphics card draws at most {limit} pixels a side]
+	{
+	zh-Hant=此顯卡每邊最多繪製{limit}像素;
+	}
+
+[The 3D view draws at most {limit} pixels a side at this anti-aliasing]
+	{
+	zh-Hant=在此抗鋸齒設定下，3D視圖每邊最多繪製{limit}像素;
+	}
+
+[Not enough memory]
+	{
+	zh-Hant=記憶體不足;
+	}
+
+[Off and Basic draw whole pixels]
+	{
+	zh-Hant=關閉和基礎模式繪製整像素;
+	}
+
+[The graphics card draws no farther out than this.]
+	{
+	zh-Hant=顯卡最遠只能繪製到這裡。;
+	}
+
+// Photo mode: after a photo is taken, and why one could not be.
+
+[Saved {name}]
+	{
+	zh-Hant=已儲存{name};
+	}
+
+[Photo not saved: {reason}]
+	{
+	zh-Hant=照片未儲存：{reason};
+	}
+
+[Photo not copied: {reason}]
+	{
+	zh-Hant=照片未複製：{reason};
+	}
+
+[a side is above 8192 pixels]
+	{
+	zh-Hant=有一邊超過8192像素;
+	}
+
+[the photo is above 128 MB]
+	{
+	zh-Hant=照片超過128 MB;
+	}
+
+[the clipboard did not take the photo]
+	{
+	zh-Hant=剪貼簿沒有接收照片;
+	}
+
+[not available in Game Mode]
+	{
+	zh-Hant=在遊戲模式下無法使用;
+	}
+
+[the clipboard holds text only]
+	{
+	zh-Hant=剪貼簿只能存放文字;
+	}
+
+[photo mode is not on]
+	{
+	zh-Hant=攝影模式尚未開啟;
+	}
+
+[four photos are still being saved]
+	{
+	zh-Hant=還有四張照片正在儲存;
+	}
+
+[the picture could not be read]
+	{
+	zh-Hant=無法讀取畫面;
+	}
+
+[the file could not be written]
+	{
+	zh-Hant=無法寫入檔案;
+	}
+
+[the picture could not be drawn]
+	{
+	zh-Hant=無法繪製畫面;
+	}
+
+[the graphics device was lost]
+	{
+	zh-Hant=顯示裝置已遺失;
+	}
+
+// The Boneyards' entry from the main menu, and the update screen that asks first.
+
+[The Boneyards]
+	{
+	zh-Hant=Boneyards;
+	}
+
+[The Boneyards is installed. Start Open Annihilation again to enter the Boneyards.]
+	{
+	zh-Hant=Boneyards已安裝。請重新啟動Open Annihilation以進入Boneyards。;
+	}
+
+[The Boneyards needs by.ccx and the Boneyards folder.]
+	{
+	zh-Hant=Boneyards需要by.ccx和Boneyards資料夾。;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks and the content catalogue. Turn them on and continue?]
+	{
+	zh-Hant=Boneyards需要Open Annihilation的線上功能：更新檢查和內容目錄。要開啟它們並繼續嗎？;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks, the content catalogue and {registry}'s install ID. Turn them on and continue?]
+	{
+	zh-Hant=Boneyards需要Open Annihilation的線上功能：更新檢查、內容目錄和{registry}的安裝ID。要開啟它們並繼續嗎？;
+	}
+
+[The Boneyards needs {registry}'s install ID turned on. Turn it on and continue?]
+	{
+	zh-Hant=Boneyards需要開啟{registry}的安裝ID。要開啟它並繼續嗎？;
+	}
+
+[The Boneyards launches and reports games only on 3.1c, Core Contingency and Battle Tactics. Switch your mod off to play in the Boneyards.]
+	{
+	zh-Hant=Boneyards只會在3.1c、Core Contingency和Battle Tactics上啟動並回報遊戲。請停用你的模組，才能在Boneyards中遊玩。;
+	}
+
+[The Boneyards plays Total Annihilation without mods. Switch {mod} off and enter the Boneyards?]
+	{
+	zh-Hant=Boneyards遊玩的是不帶模組的橫掃千軍。要停用{mod}並進入Boneyards嗎？;
+	}
+
+[Start Open Annihilation without the mod on its command line to enter the Boneyards.]
+	{
+	zh-Hant=要進入Boneyards，請在命令行不指定模組的情況下啟動Open Annihilation。;
+	}
+
+[Switch off and enter]
+	{
+	zh-Hant=停用並進入;
+	}
+
+[Switch on]
+	{
+	zh-Hant=啟用;
+	}
+
+[Switch {mod} back on?]
+	{
+	zh-Hant=要重新啟用{mod}嗎？;
+	}
+
+[Turn on]
+	{
+	zh-Hant=開啟;
+	}
+
+[Open Annihilation could not check for updates.]
+	{
+	zh-Hant=Open Annihilation無法檢查更新。;
+	}
+
+[Open Annihilation {version} is out. The Boneyards needs the latest version.]
+	{
+	zh-Hant=Open Annihilation {version}已經發布。Boneyards需要最新版本。;
+	}
+
+[Downloads are off for {registry}.]
+	{
+	zh-Hant={registry}的下載已關閉。;
+	}
+
+// The Library's question about deleting replays.
+
+[Delete this replay?]
+	{
+	zh-Hant=刪除此回放？;
+	}
+
+[Delete these {count} replays?]
+	{
+	zh-Hant=刪除這{count}個回放？;
+	}
+
+[Delete replays]
+	{
+	zh-Hant=刪除回放;
+	}
+
+[It goes to the system's trash.]
+	{
+	zh-Hant=它會移到系統的垃圾桶。;
+	}
+
+[They go to the system's trash.]
+	{
+	zh-Hant=它們會移到系統的垃圾桶。;
+	}
+
+[It is deleted and cannot be undone. This system has no trash.]
+	{
+	zh-Hant=它會被刪除，且無法復原。此系統沒有垃圾桶。;
+	}
+
+[They are deleted and cannot be undone. This system has no trash.]
+	{
+	zh-Hant=它們會被刪除，且無法復原。此系統沒有垃圾桶。;
+	}
+
+// The battle room: units that differ between machines, and game files that differ from the original game's.
+
+[*** Press START again to start anyway. Those units stay unavailable in this battle.]
+	{
+	zh-Hant=*** 再按一次“開始”即可強制開始。那些單位在這場戰鬥中仍然無法使用。;
+	}
+
+[*** Your game files differ from Total Annihilation's, so this battle cannot start. Leave it and repair them in Settings › Game Content.]
+	{
+	zh-Hant=*** 你的遊戲檔案與橫掃千軍的不同，因此這場戰鬥無法開始。請離開戰鬥房間，並在設定 › 遊戲內容中修復。;
+	}
+
+[*** {player}'s game files differ from Total Annihilation's; they must repair them before this battle can start.]
+	{
+	zh-Hant=*** {player}的遊戲檔案與橫掃千軍的不同，必須先修復，這場戰鬥才能開始。;
+	}
+
+[*** {units} differ between {count} players' machines and can't be built in this battle.]
+	{
+	zh-Hant=*** {units}在{count}位玩家的電腦上不一致，無法在這場戰鬥中建造。;
+	}
+
+[*** {units} differs between {count} players' machines and can't be built in this battle.]
+	{
+	zh-Hant=*** {units}在{count}位玩家的電腦上不一致，無法在這場戰鬥中建造。;
+	}
+
+[*** {units} differ between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	zh-Hant=*** {units}在{first}和{second}的電腦上不一致，無法在這場戰鬥中建造。;
+	}
+
+[*** {units} differs between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	zh-Hant=*** {units}在{first}和{second}的電腦上不一致，無法在這場戰鬥中建造。;
+	}
+
+[*** {units} differ on {player}'s machine and can't be built in this battle.]
+	{
+	zh-Hant=*** {units}在{player}的電腦上不一致，無法在這場戰鬥中建造。;
+	}
+
+[*** {units} differs on {player}'s machine and can't be built in this battle.]
+	{
+	zh-Hant=*** {units}在{player}的電腦上不一致，無法在這場戰鬥中建造。;
+	}
+
+[1 other unit]
+	{
+	zh-Hant=另外1個單位;
+	}
+
+[{count} other units]
+	{
+	zh-Hant=另外{count}個單位;
+	}
+
+[{list} and {last}]
+	{
+	zh-Hant={list}和{last};
+	}
+
+[a player who left]
+	{
+	zh-Hant=已離開的玩家;
+	}
+
+// Settings › Game Content: archives a bundle does not list, and removing them.
+
+[{file} in {folder}, {size} bytes, is not a file of {bundle}. The game does not read it.]
+	{
+	zh-Hant={folder}中的{file}（{size}位元組）不屬於{bundle}。遊戲不會讀取它。;
+	}
+
+[{file} is not one of its files]
+	{
+	zh-Hant={file}不是它的檔案之一;
+	}
+
+[{count} archives are not its files]
+	{
+	zh-Hant=有{count}個資料包不是它的檔案;
+	}
+
+[Remove…]
+	{
+	zh-Hant=刪除…;
+	}
+
+[Move to Trash]
+	{
+	zh-Hant=移到垃圾桶;
+	}
+
+[Move {file} to the trash?]
+	{
+	zh-Hant=把{file}移到垃圾桶？;
+	}
+
+[Delete {file}? This system has no trash.]
+	{
+	zh-Hant=刪除{file}？此系統沒有垃圾桶。;
+	}
+
+// The Boneyards' entry: game files that are not Total Annihilation's own.
+
+[Repair…]
+	{
+	zh-Hant=修復…;
+	}
+
+[{file} in {folder} does not match Total Annihilation's, so the Boneyards cannot be entered. Copy the game again from your own install or CD to enter.]
+	{
+	zh-Hant={folder}中的{file}與橫掃千軍的不符，因此無法進入Boneyards。請從你自己安裝的遊戲或光碟重新複製遊戲，再進入。;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files, so the Boneyards cannot be entered. Remove it to enter.]
+	{
+	zh-Hant={folder}中的{file}不是橫掃千軍的檔案，因此無法進入Boneyards。請刪除它再進入。;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	zh-Hant={folder}中的{file}不是橫掃千軍的檔案。Boneyards只使用Open Annihilation自己的遊戲副本：請從你自己安裝的遊戲或光碟複製，再進入。;
+	}
+
+[{file} in {folder} does not match Total Annihilation's. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	zh-Hant={folder}中的{file}與橫掃千軍的不符。Boneyards只使用Open Annihilation自己的遊戲副本：請從你自己安裝的遊戲或光碟複製，再進入。;
+	}
+
+[{file} in {folder} is not Total Annihilation's own. The Boneyards launches and reports games only on Total Annihilation's own files. Leave the Boneyards and repair it in Settings › Game Content.]
+	{
+	zh-Hant={folder}中的{file}不是橫掃千軍原版的檔案。Boneyards只會在橫掃千軍原版的檔案上啟動並回報遊戲。請離開Boneyards，並在設定 › 遊戲內容中修復。;
 	}
 
