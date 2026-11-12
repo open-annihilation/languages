@@ -11298,11 +11298,6 @@
 	bn=মেগাম্যাপ বন্ধ;
 	}
 
-[Closes the megamap and centres on the pointer]
-	{
-	bn=মেগাম্যাপ বন্ধ করে এবং পয়েন্টারে মাঝে আনে;
-	}
-
 [Jumps the view to a point of the megamap]
 	{
 	bn=দৃশ্য মেগাম্যাপের এক বিন্দুতে লাফায়;
@@ -16058,5 +16053,3035 @@
 [Open the download page]
 	{
 	bn=নামানোর পাতা খোলো;
+	}
+
+// Settings › Replays: recording, keeping and opening replays.
+
+[Replays]
+	{
+	bn=রিপ্লে;
+	}
+
+[REPLAYS]
+	{
+	bn=রিপ্লে;
+	}
+
+[Record my games]
+	{
+	bn=আমার লড়াই রেকর্ড করো;
+	}
+
+[Campaign missions, skirmish, multiplayer and Boneyards battles. Applies from the next game.]
+	{
+	bn=অভিযানের মিশন, লড়াই, মাল্টিপ্লেয়ার আর Boneyards-এর লড়াই। পরের লড়াই থেকে কার্যকর হয়।;
+	}
+
+[Keep replays for]
+	{
+	bn=রিপ্লে রাখার মেয়াদ;
+	}
+
+[30 days]
+	{
+	bn=30 দিন;
+	}
+
+[90 days]
+	{
+	bn=90 দিন;
+	}
+
+[A year]
+	{
+	bn=এক বছর;
+	}
+
+[Forever]
+	{
+	bn=চিরকাল;
+	}
+
+[Replays you keep in the Library stay until you delete them.]
+	{
+	bn=লাইব্রেরিতে তুমি যে রিপ্লে রাখো, সেগুলো তুমি না মোছা পর্যন্ত থেকে যায়।;
+	}
+
+[Open replay files with Open Annihilation]
+	{
+	bn=রিপ্লে ফাইল Open Annihilation দিয়ে খোলো;
+	}
+
+[A .oademo or a .tad file opens in this copy.]
+	{
+	bn=একটা .oademo বা .tad ফাইল এই কপিতে খোলে।;
+	}
+
+// Settings › Accessibility: colour vision, shape cues, the screen reader and focus.
+
+[Colour vision]
+	{
+	bn=রঙ দেখার ধরন;
+	}
+
+[Protanopia]
+	{
+	bn=প্রোটানোপিয়া;
+	}
+
+[Deuteranopia]
+	{
+	bn=ডিউটারানোপিয়া;
+	}
+
+[Tritanopia]
+	{
+	bn=ট্রাইটানোপিয়া;
+	}
+
+[Achromatopsia]
+	{
+	bn=অ্যাক্রোমাটোপসিয়া;
+	}
+
+[Changes team colours, the minimap, bars, the war map and status colours on this machine only.]
+	{
+	bn=দলের রং, মিনিম্যাপ, বার, যুদ্ধের ম্যাপ আর অবস্থার রং বদলায়, শুধু এই মেশিনে।;
+	}
+
+[Shape cues]
+	{
+	bn=আকৃতির সংকেত;
+	}
+
+[Player markers, side symbols, notched bars and a mark on every status.]
+	{
+	bn=খেলোয়াড়ের চিহ্ন, পক্ষের প্রতীক, খাঁজকাটা বার আর প্রতিটি অবস্থায় একটা চিহ্ন।;
+	}
+
+[Achromatopsia keeps shape cues on]
+	{
+	bn=অ্যাক্রোমাটোপসিয়ায় আকৃতির সংকেত চালু থাকে;
+	}
+
+[Preview]
+	{
+	bn=প্রিভিউ;
+	}
+
+[The ten player colours, then OK, caution, danger and information.]
+	{
+	bn=খেলোয়াড়ের দশটি রং, তারপর ঠিক, সাবধান, বিপদ আর খবর।;
+	}
+
+[Screen reader]
+	{
+	bn=স্ক্রিন রিডার;
+	}
+
+[Automatic works with a screen reader while the system says one is running. On also works with one the system does not report. Off never does.]
+	{
+	bn=স্বয়ংক্রিয় থাকলে সিস্টেম যতক্ষণ বলে একটা স্ক্রিন রিডার চলছে, ততক্ষণ গেম সেটার সঙ্গে কাজ করে। চালু থাকলে সিস্টেম জানায় না এমন স্ক্রিন রিডারের সঙ্গেও কাজ করে। বন্ধ থাকলে কখনোই করে না।;
+	}
+
+[Nothing on this system can speak.]
+	{
+	bn=এই সিস্টেমে কথা বলার মতো কিছু নেই।;
+	}
+
+[Speak chat]
+	{
+	bn=চ্যাট শোনাও;
+	}
+
+[Pages only]
+	{
+	bn=শুধু সরাসরি বার্তা;
+	}
+
+[Chat lines and whispers, pages only, or neither.]
+	{
+	bn=চ্যাটের লাইন আর ফিসফিস বার্তা, শুধু সরাসরি বার্তা, বা কোনোটাই নয়।;
+	}
+
+[Speak lobby changes]
+	{
+	bn=অপেক্ষাকক্ষের বদল শোনাও;
+	}
+
+[A player joining or leaving the battle room, and a change of ready, side, colour, team, map or option.]
+	{
+	bn=লড়াইয়ের ঘরে একজন খেলোয়াড়ের যোগ দেওয়া বা ছেড়ে যাওয়া, আর তৈরি, পক্ষ, রং, দল, ম্যাপ বা অপশনের বদল।;
+	}
+
+[Speak the ticker]
+	{
+	bn=খবরের ফিতা শোনাও;
+	}
+
+[The ticker repeats, so it stays quiet until this is on.]
+	{
+	bn=খবরের ফিতা বারবার চলে, তাই এটা চালু না করা পর্যন্ত চুপ থাকে।;
+	}
+
+[Always show focus]
+	{
+	bn=ফোকাস সবসময় দেখাও;
+	}
+
+[The focus ring is drawn on the first item when a screen opens.]
+	{
+	bn=পর্দা খুললে প্রথম আইটেমে ফোকাসের বলয় আঁকা হয়।;
+	}
+
+// What a screen reader says about a control: its role.
+
+[alert]
+	{
+	bn=সতর্কতা;
+	}
+
+[button]
+	{
+	bn=বোতাম;
+	}
+
+[check box]
+	{
+	bn=চেক বক্স;
+	}
+
+[dialog]
+	{
+	bn=ডায়ালগ;
+	}
+
+[group]
+	{
+	bn=গ্রুপ;
+	}
+
+[image]
+	{
+	bn=ছবি;
+	}
+
+[link]
+	{
+	bn=লিংক;
+	}
+
+[list]
+	{
+	bn=তালিকা;
+	}
+
+[list item]
+	{
+	bn=তালিকার আইটেম;
+	}
+
+[log]
+	{
+	bn=লগ;
+	}
+
+[password]
+	{
+	bn=পাসওয়ার্ড;
+	}
+
+[radio button]
+	{
+	bn=রেডিও বোতাম;
+	}
+
+[radio group]
+	{
+	bn=রেডিও গ্রুপ;
+	}
+
+[search field]
+	{
+	bn=খোঁজার ঘর;
+	}
+
+[slider]
+	{
+	bn=স্লাইডার;
+	}
+
+[switch]
+	{
+	bn=সুইচ;
+	}
+
+[tab]
+	{
+	bn=ট্যাব;
+	}
+
+[tab list]
+	{
+	bn=ট্যাব তালিকা;
+	}
+
+[text]
+	{
+	bn=লেখা;
+	}
+
+[text field]
+	{
+	bn=লেখার ঘর;
+	}
+
+[tree]
+	{
+	bn=ট্রি;
+	}
+
+[tree item]
+	{
+	bn=ট্রির আইটেম;
+	}
+
+[window]
+	{
+	bn=উইন্ডো;
+	}
+
+// What a screen reader says as the game changes: the battle room, chat and alerts.
+
+[An option changed]
+	{
+	bn=একটা অপশন বদলেছে;
+	}
+
+[Commander under attack]
+	{
+	bn=কমান্ডার আক্রান্ত;
+	}
+
+[The countdown has started]
+	{
+	bn=গণনা শুরু হয়েছে;
+	}
+
+[The host has left]
+	{
+	bn=হোস্ট চলে গেছে;
+	}
+
+[The map is {name}]
+	{
+	bn=ম্যাপ {name};
+	}
+
+[{name} is ready]
+	{
+	bn={name} তৈরি;
+	}
+
+[{name} is not ready]
+	{
+	bn={name} তৈরি নয়;
+	}
+
+[{name} joined]
+	{
+	bn={name} যোগ দিয়েছে;
+	}
+
+[{name} left]
+	{
+	bn={name} ছেড়ে গেছে;
+	}
+
+[{name} changed colour to {colour}]
+	{
+	bn={name} রং বদলে {colour} করেছে;
+	}
+
+[{name} changed side to {side}]
+	{
+	bn={name} পক্ষ বদলে {side} করেছে;
+	}
+
+[{name} changed team to {team}]
+	{
+	bn={name} দল বদলে {team} করেছে;
+	}
+
+[Whisper from {name}: {text}]
+	{
+	bn={name} ফিসফিস করে বলেছে: {text};
+	}
+
+[{count} new lines in {room}]
+	{
+	bn={room}: {count}টি নতুন লাইন;
+	}
+
+[match]
+	{
+	bn=লড়াই;
+	}
+
+[battle room]
+	{
+	bn=লড়াইয়ের ঘর;
+	}
+
+[{colour}, player {number}]
+	{
+	bn={colour}, খেলোয়াড় {number};
+	}
+
+[Opened]
+	{
+	bn=খোলা;
+	}
+
+[Closed]
+	{
+	bn=বন্ধ;
+	}
+
+// The ten player colours, as a screen reader and the lobby say them.
+
+[Blue]
+	{
+	bn=নীল;
+	}
+
+[Red]
+	{
+	bn=লাল;
+	}
+
+[White]
+	{
+	bn=সাদা;
+	}
+
+[Green]
+	{
+	bn=সবুজ;
+	}
+
+[Navy]
+	{
+	bn=গাঢ় নীল;
+	}
+
+[Purple]
+	{
+	bn=বেগুনি;
+	}
+
+[Yellow]
+	{
+	bn=হলুদ;
+	}
+
+[Black]
+	{
+	bn=কালো;
+	}
+
+[Light blue]
+	{
+	bn=হালকা নীল;
+	}
+
+[Tan]
+	{
+	bn=ফিকে বাদামি;
+	}
+
+// The names a screen reader gives 3.1c's own controls.
+
+[Alliance]
+	{
+	bn=জোট;
+	}
+
+[Anti-aliasing]
+	{
+	bn=অ্যান্টি-অ্যালায়াসিং;
+	}
+
+[Arm]
+	{
+	bn=ARM;
+	}
+
+[CD music]
+	{
+	bn=CD সঙ্গীত;
+	}
+
+[Campaigns]
+	{
+	bn=অভিযান;
+	}
+
+[Cheat Codes]
+	{
+	bn=চিট কোড;
+	}
+
+[Colour]
+	{
+	bn=রং;
+	}
+
+[Commander]
+	{
+	bn=কমান্ডার;
+	}
+
+[Core]
+	{
+	bn=CORE;
+	}
+
+[Credits]
+	{
+	bn=নির্মাতারা;
+	}
+
+[Dead Commander]
+	{
+	bn=মৃত কমান্ডার;
+	}
+
+[Defeat]
+	{
+	bn=হার;
+	}
+
+[Difficulty]
+	{
+	bn=কঠিনতা;
+	}
+
+[Energy]
+	{
+	bn=শক্তি;
+	}
+
+[Game Status]
+	{
+	bn=লড়াইয়ের অবস্থা;
+	}
+
+[Game speed]
+	{
+	bn=গেমের গতি;
+	}
+
+[Gamma]
+	{
+	bn=গামা;
+	}
+
+[Line of Sight]
+	{
+	bn=দৃষ্টিসীমা;
+	}
+
+[Line of sight]
+	{
+	bn=দৃষ্টিসীমা;
+	}
+
+[Location]
+	{
+	bn=জায়গা;
+	}
+
+[Losses]
+	{
+	bn=ক্ষয়;
+	}
+
+[Map]
+	{
+	bn=ম্যাপ;
+	}
+
+[Mapping]
+	{
+	bn=ম্যাপ দেখা;
+	}
+
+[Mapping Mode]
+	{
+	bn=ম্যাপ দেখা;
+	}
+
+[Max units]
+	{
+	bn=ইউনিট সীমা;
+	}
+
+[Metal]
+	{
+	bn=ধাতু;
+	}
+
+[Missions]
+	{
+	bn=মিশন;
+	}
+
+[Music volume]
+	{
+	bn=সঙ্গীতের ভলিউম;
+	}
+
+[Next track]
+	{
+	bn=পরের ট্র্যাক;
+	}
+
+[Play mode]
+	{
+	bn=চালানোর ধরন;
+	}
+
+[Play track]
+	{
+	bn=ট্র্যাক চালাও;
+	}
+
+[Previous track]
+	{
+	bn=আগের ট্র্যাক;
+	}
+
+[Ready]
+	{
+	bn=তৈরি;
+	}
+
+[Saved games]
+	{
+	bn=সেভ করা গেম;
+	}
+
+[Screen]
+	{
+	bn=পর্দা;
+	}
+
+[Screen scroll]
+	{
+	bn=পর্দা সরানো;
+	}
+
+[Shading]
+	{
+	bn=আলোছায়া;
+	}
+
+[Shadows]
+	{
+	bn=ছায়া;
+	}
+
+[Side]
+	{
+	bn=পক্ষ;
+	}
+
+[Slow]
+	{
+	bn=ধীর;
+	}
+
+[Sound mode]
+	{
+	bn=শব্দের ধরন;
+	}
+
+[Sound volume]
+	{
+	bn=শব্দের ভলিউম;
+	}
+
+[Speed]
+	{
+	bn=গতি;
+	}
+
+[Start doors]
+	{
+	bn=শুরুর দরজা;
+	}
+
+[Starting energy]
+	{
+	bn=শুরুর শক্তি;
+	}
+
+[Starting metal]
+	{
+	bn=শুরুর ধাতু;
+	}
+
+[Team]
+	{
+	bn=দল;
+	}
+
+[Text delay]
+	{
+	bn=লেখার দেরি;
+	}
+
+[Text lines]
+	{
+	bn=লেখার লাইন;
+	}
+
+[There are no saved games to choose from]
+	{
+	bn=বাছার মতো সেভ করা গেম নেই;
+	}
+
+[Track type]
+	{
+	bn=ট্র্যাকের ধরন;
+	}
+
+[Unit sounds]
+	{
+	bn=ইউনিট শব্দ;
+	}
+
+[Unit text acks]
+	{
+	bn=লেখার সাড়া;
+	}
+
+[Victory]
+	{
+	bn=জয়;
+	}
+
+[Watch]
+	{
+	bn=দেখো;
+	}
+
+[Watcher]
+	{
+	bn=দর্শক;
+	}
+
+[Password]
+	{
+	bn=পাসওয়ার্ড;
+	}
+
+// Key bindings: Photo mode.
+
+[Photo mode]
+	{
+	bn=ফটো মোড;
+	}
+
+[Opens photo mode]
+	{
+	bn=ফটো মোড খোলে;
+	}
+
+[Leave]
+	{
+	bn=বেরোও;
+	}
+
+[Leaves photo mode]
+	{
+	bn=ফটো মোড থেকে বেরোয়;
+	}
+
+[Take photo]
+	{
+	bn=ফটো তোলো;
+	}
+
+[Writes a photo of the battlefield]
+	{
+	bn=যুদ্ধক্ষেত্রের ফটো ফাইলে সেভ করে;
+	}
+
+[Copy last photo]
+	{
+	bn=শেষ ফটো কপি করো;
+	}
+
+[Offers the last photo to the clipboard]
+	{
+	bn=শেষ ফটো ক্লিপবোর্ডে দেয়;
+	}
+
+[Freeze / Hold picture]
+	{
+	bn=স্থির / ছবি ধরে রাখো;
+	}
+
+[Holds the clock, or keeps this screen's last frame in a shared match]
+	{
+	bn=ঘড়ি থামিয়ে রাখে, আর শেয়ার করা লড়াইয়ে এই পর্দার শেষ ফ্রেম ধরে রাখে;
+	}
+
+[Step a tick]
+	{
+	bn=এক টিক এগোও;
+	}
+
+[Advances one tick, then freezes]
+	{
+	bn=এক টিক এগিয়ে স্থির হয়;
+	}
+
+[Step back]
+	{
+	bn=এক টিক পেছাও;
+	}
+
+[Goes back one tick, then freezes]
+	{
+	bn=এক টিক পেছিয়ে স্থির হয়;
+	}
+
+[Shutter back]
+	{
+	bn=শাটার পেছনে;
+	}
+
+[Moves the shutter one eighth toward the previous tick]
+	{
+	bn=শাটারকে আটভাগের একভাগ আগের টিকের দিকে সরায়;
+	}
+
+[Shutter on]
+	{
+	bn=শাটার সামনে;
+	}
+
+[Moves the shutter one eighth toward the frozen tick]
+	{
+	bn=শাটারকে আটভাগের একভাগ স্থির টিকের দিকে সরায়;
+	}
+
+[Zooms in on the photo]
+	{
+	bn=ফটো বড় করে;
+	}
+
+[Zooms out on the photo]
+	{
+	bn=ফটো ছোট করে;
+	}
+
+[Tilt up]
+	{
+	bn=উপরে হেলাও;
+	}
+
+[Tilts the camera up]
+	{
+	bn=ক্যামেরা উপরে হেলায়;
+	}
+
+[Tilt down]
+	{
+	bn=নিচে হেলাও;
+	}
+
+[Tilts the camera down]
+	{
+	bn=ক্যামেরা নিচে হেলায়;
+	}
+
+[Turn left]
+	{
+	bn=বাঁয়ে ঘোরাও;
+	}
+
+[Turns the camera left]
+	{
+	bn=ক্যামেরা বাঁয়ে ঘোরায়;
+	}
+
+[Turn right]
+	{
+	bn=ডানে ঘোরাও;
+	}
+
+[Turns the camera right]
+	{
+	bn=ক্যামেরা ডানে ঘোরায়;
+	}
+
+[Guides]
+	{
+	bn=গাইড;
+	}
+
+[Cycles the guides over the battlefield]
+	{
+	bn=যুদ্ধক্ষেত্রের উপর গাইডগুলো একে একে বদলায়;
+	}
+
+[Hide panel]
+	{
+	bn=প্যানেল লুকাও;
+	}
+
+[Hides and shows the photo panel]
+	{
+	bn=ফটো প্যানেল লুকায় আর দেখায়;
+	}
+
+[Mark area]
+	{
+	bn=এলাকা চিহ্নিত করো;
+	}
+
+[Starts a poster mark at the view's centre]
+	{
+	bn=দৃশ্যের মাঝখানে পোস্টারের চিহ্ন শুরু করে;
+	}
+
+[Grow the mark left]
+	{
+	bn=চিহ্ন বাঁয়ে বাড়াও;
+	}
+
+[Grows the marked area to the left]
+	{
+	bn=চিহ্নিত এলাকা বাঁয়ে বাড়ায়;
+	}
+
+[Grow the mark right]
+	{
+	bn=চিহ্ন ডানে বাড়াও;
+	}
+
+[Grows the marked area to the right]
+	{
+	bn=চিহ্নিত এলাকা ডানে বাড়ায়;
+	}
+
+[Grow the mark up]
+	{
+	bn=চিহ্ন উপরে বাড়াও;
+	}
+
+[Grows the marked area up]
+	{
+	bn=চিহ্নিত এলাকা উপরে বাড়ায়;
+	}
+
+[Grow the mark down]
+	{
+	bn=চিহ্ন নিচে বাড়াও;
+	}
+
+[Grows the marked area down]
+	{
+	bn=চিহ্নিত এলাকা নিচে বাড়ায়;
+	}
+
+[In photo mode]
+	{
+	bn=ফটো মোডের সময়;
+	}
+
+[in photo mode]
+	{
+	bn=ফটো মোডের সময়;
+	}
+
+[Keys in photo mode]
+	{
+	bn=ফটো মোডের সময় কী;
+	}
+
+// Key bindings: Watching a replay.
+
+[Play or pause]
+	{
+	bn=চালাও বা বিরতি;
+	}
+
+[Plays or pauses the replay]
+	{
+	bn=রিপ্লে চালায় বা বিরতি দেয়;
+	}
+
+[Back 10 seconds]
+	{
+	bn=10 সেকেন্ড পেছনে;
+	}
+
+[Jumps back ten seconds]
+	{
+	bn=দশ সেকেন্ড পেছনে লাফায়;
+	}
+
+[Forward 10 seconds]
+	{
+	bn=10 সেকেন্ড সামনে;
+	}
+
+[Jumps forward ten seconds]
+	{
+	bn=দশ সেকেন্ড সামনে লাফায়;
+	}
+
+[Back a minute]
+	{
+	bn=এক মিনিট পেছনে;
+	}
+
+[Jumps back a minute]
+	{
+	bn=এক মিনিট পেছনে লাফায়;
+	}
+
+[Forward a minute]
+	{
+	bn=এক মিনিট সামনে;
+	}
+
+[Jumps forward a minute]
+	{
+	bn=এক মিনিট সামনে লাফায়;
+	}
+
+[Previous marker]
+	{
+	bn=আগের চিহ্ন;
+	}
+
+[Jumps to the previous marker]
+	{
+	bn=আগের চিহ্নে লাফায়;
+	}
+
+[Next marker]
+	{
+	bn=পরের চিহ্ন;
+	}
+
+[Jumps to the next marker]
+	{
+	bn=পরের চিহ্নে লাফায়;
+	}
+
+[Go to the start]
+	{
+	bn=শুরুতে যাও;
+	}
+
+[Jumps to the start of the replay]
+	{
+	bn=রিপ্লের শুরুতে লাফায়;
+	}
+
+[Go to the end]
+	{
+	bn=শেষে যাও;
+	}
+
+[Jumps to the end of the replay]
+	{
+	bn=রিপ্লের শেষে লাফায়;
+	}
+
+[Pin the bar]
+	{
+	bn=বার আটকাও;
+	}
+
+[Keeps the playback bar on screen]
+	{
+	bn=চালানোর বার পর্দায় রেখে দেয়;
+	}
+
+[Shortcut card]
+	{
+	bn=শর্টকাট কার্ড;
+	}
+
+[Shows the playback keys]
+	{
+	bn=চালানোর কী দেখায়;
+	}
+
+[Next player's view]
+	{
+	bn=পরের খেলোয়াড়ের দৃশ্য;
+	}
+
+[Shows the next player's view]
+	{
+	bn=পরের খেলোয়াড়ের দৃশ্য দেখায়;
+	}
+
+[Previous player's view]
+	{
+	bn=আগের খেলোয়াড়ের দৃশ্য;
+	}
+
+[Shows the previous player's view]
+	{
+	bn=আগের খেলোয়াড়ের দৃশ্য দেখায়;
+	}
+
+[All players' view]
+	{
+	bn=সব খেলোয়াড়ের দৃশ্য;
+	}
+
+[Shows the whole map and every unit]
+	{
+	bn=পুরো ম্যাপ আর প্রতিটি ইউনিট দেখায়;
+	}
+
+[Camera mode]
+	{
+	bn=ক্যামেরার ধরন;
+	}
+
+[Changes how the camera follows the game]
+	{
+	bn=ক্যামেরা লড়াইকে কীভাবে অনুসরণ করে সেটা বদলায়;
+	}
+
+// Key bindings: Menus and Megamap.
+
+[Focus the panel's buttons]
+	{
+	bn=প্যানেলের বোতামে ফোকাস দাও;
+	}
+
+[Moves a ring over the order buttons and the build page. Press again to return to the battlefield.]
+	{
+	bn=আদেশের বোতাম আর বানানোর পাতার উপর একটা বলয় সরায়। আবার চাপলে যুদ্ধক্ষেত্রে ফেরে।;
+	}
+
+[Closes the megamap and zooms in at the pointer]
+	{
+	bn=মেগাম্যাপ বন্ধ করে এবং পয়েন্টারের জায়গায় জুম করে;
+	}
+
+// The photo panel: its sections, the head and the hint.
+
+[{key} or Esc leaves]
+	{
+	bn={key} বা Esc দিয়ে বেরোও;
+	}
+
+[Esc leaves]
+	{
+	bn=Esc দিয়ে বেরোও;
+	}
+
+[{key} shows the panel]
+	{
+	bn={key} প্যানেল দেখায়;
+	}
+
+[Show panel]
+	{
+	bn=প্যানেল দেখাও;
+	}
+
+[PHOTO MODE]
+	{
+	bn=ফটো মোড;
+	}
+
+[Photo]
+	{
+	bn=ফটো;
+	}
+
+[Time]
+	{
+	bn=সময়;
+	}
+
+[Expanded]
+	{
+	bn=খোলা;
+	}
+
+[Collapsed]
+	{
+	bn=গোটানো;
+	}
+
+[Live]
+	{
+	bn=সরাসরি;
+	}
+
+[Replay paused]
+	{
+	bn=রিপ্লেতে বিরতি;
+	}
+
+[Frozen]
+	{
+	bn=স্থির;
+	}
+
+[Held]
+	{
+	bn=ধরা;
+	}
+
+[Held picture]
+	{
+	bn=ধরা ছবি;
+	}
+
+[chat lines]
+	{
+	bn=চ্যাটের লাইন;
+	}
+
+// The photo panel's Camera: zoom stops, turning and tilting.
+
+[Far]
+	{
+	bn=দূরে;
+	}
+
+[Near]
+	{
+	bn=কাছে;
+	}
+
+[Closest]
+	{
+	bn=সবচেয়ে কাছে;
+	}
+
+[Turn]
+	{
+	bn=ঘোরানো;
+	}
+
+[Tilt]
+	{
+	bn=হেলানো;
+	}
+
+[Follow unit]
+	{
+	bn=ইউনিট অনুসরণ;
+	}
+
+[Needs Full 3D Mode]
+	{
+	bn=পূর্ণ 3D মোড লাগে;
+	}
+
+// The photo panel's Time: run, slow, freeze, step and the shutter.
+
+[Run]
+	{
+	bn=চালাও;
+	}
+
+[Freeze]
+	{
+	bn=স্থির;
+	}
+
+[Hold picture]
+	{
+	bn=ছবি ধরে রাখো;
+	}
+
+[Clock]
+	{
+	bn=ঘড়ি;
+	}
+
+[Step]
+	{
+	bn=ধাপ;
+	}
+
+[Between ticks]
+	{
+	bn=টিকের মাঝে;
+	}
+
+[Shared game]
+	{
+	bn=শেয়ার করা গেম;
+	}
+
+[½×]
+	{
+	bn=½×;
+	}
+
+// The photo panel's Look: grades, vignette, grain, frames, depth of field and haze.
+
+[Dusk]
+	{
+	bn=গোধূলি;
+	}
+
+[Arctic]
+	{
+	bn=আর্কটিক;
+	}
+
+[Noir]
+	{
+	bn=নোয়ার;
+	}
+
+[Bleach]
+	{
+	bn=ব্লিচ;
+	}
+
+[Vignette]
+	{
+	bn=ভিনিয়েট;
+	}
+
+[Roundness]
+	{
+	bn=গোলাকারতা;
+	}
+
+[Grain]
+	{
+	bn=দানা;
+	}
+
+[Grain size]
+	{
+	bn=দানার মাপ;
+	}
+
+[Frame]
+	{
+	bn=ফ্রেম;
+	}
+
+[Thin border]
+	{
+	bn=সরু বর্ডার;
+	}
+
+[Wide mat]
+	{
+	bn=চওড়া ম্যাট;
+	}
+
+[Caption bar]
+	{
+	bn=ক্যাপশনের ফালি;
+	}
+
+[Show selection]
+	{
+	bn=বাছাই দেখাও;
+	}
+
+[Show health bars]
+	{
+	bn=ক্ষতির দণ্ড দেখাও;
+	}
+
+[Thirds]
+	{
+	bn=তিন ভাগ;
+	}
+
+[Centre lines]
+	{
+	bn=মাঝের রেখা;
+	}
+
+[Safe area]
+	{
+	bn=নিরাপদ এলাকা;
+	}
+
+[The preview lowers the frame rate.]
+	{
+	bn=প্রিভিউ ফ্রেম রেট কমায়।;
+	}
+
+[Depth of field]
+	{
+	bn=ডেপথ অব ফিল্ড;
+	}
+
+[Depth]
+	{
+	bn=গভীরতা;
+	}
+
+[Band centre]
+	{
+	bn=ব্যান্ডের কেন্দ্র;
+	}
+
+[Band width]
+	{
+	bn=ব্যান্ডের প্রস্থ;
+	}
+
+[Blur]
+	{
+	bn=ঝাপসা;
+	}
+
+[Blurs by screen row, not by depth.]
+	{
+	bn=গভীরতা ধরে নয়, পর্দার সারি ধরে ঝাপসা করে।;
+	}
+
+[Haze]
+	{
+	bn=ধোঁয়াশা;
+	}
+
+[Follows the ground, not the units.]
+	{
+	bn=ইউনিট নয়, মাটি অনুসরণ করে।;
+	}
+
+[This graphics card keeps no depth.]
+	{
+	bn=এই গ্রাফিক্স কার্ড গভীরতা রাখে না।;
+	}
+
+// The photo panel's Photo: size, smooth edges, posters and the file.
+
+[2×]
+	{
+	bn=2×;
+	}
+
+[3×]
+	{
+	bn=3×;
+	}
+
+[4×]
+	{
+	bn=4×;
+	}
+
+[Smooth edges]
+	{
+	bn=মসৃণ কিনারা;
+	}
+
+[Copy to clipboard]
+	{
+	bn=ক্লিপবোর্ডে কপি করো;
+	}
+
+[Player names]
+	{
+	bn=খেলোয়াড়ের নাম;
+	}
+
+[File]
+	{
+	bn=ফাইল;
+	}
+
+[Poster]
+	{
+	bn=পোস্টার;
+	}
+
+[The view]
+	{
+	bn=বর্তমান দৃশ্য;
+	}
+
+[Area]
+	{
+	bn=এলাকা;
+	}
+
+[Freeze the picture]
+	{
+	bn=ছবি স্থির করো;
+	}
+
+[A poster is the map from above: Classic view, {key}]
+	{
+	bn=পোস্টার হলো উপর থেকে দেখা ম্যাপ: ক্লাসিক দৃশ্য, {key};
+	}
+
+[This graphics card draws at most {limit} pixels a side]
+	{
+	bn=এই গ্রাফিক্স কার্ড প্রতি পাশে সর্বোচ্চ {limit} পিক্সেল আঁকে;
+	}
+
+[A photo is at most {limit} pixels a side]
+	{
+	bn=ফটোর প্রতি পাশ সর্বোচ্চ {limit} পিক্সেল;
+	}
+
+[The 3D view draws at most {limit} pixels a side at this anti-aliasing]
+	{
+	bn=এই অ্যান্টি-অ্যালায়াসিংয়ে 3D দৃশ্য প্রতি পাশে সর্বোচ্চ {limit} পিক্সেল আঁকে;
+	}
+
+[Not enough memory]
+	{
+	bn=মেমরি যথেষ্ট নয়;
+	}
+
+[Off and Basic draw whole pixels]
+	{
+	bn=বন্ধ আর মৌলিক পুরো পিক্সেল আঁকে;
+	}
+
+[The graphics card draws no farther out than this.]
+	{
+	bn=গ্রাফিক্স কার্ড এর চেয়ে দূরে আঁকে না।;
+	}
+
+// A photo's notices and the reasons one is not taken.
+
+[Photo not taken]
+	{
+	bn=ফটো তোলা হয়নি;
+	}
+
+[Photo not saved: {reason}]
+	{
+	bn=ফটো সেভ হয়নি: {reason};
+	}
+
+[Photo not copied: {reason}]
+	{
+	bn=ফটো কপি হয়নি: {reason};
+	}
+
+[Saved {name}]
+	{
+	bn={name} সেভ হয়েছে;
+	}
+
+[photo mode is not on]
+	{
+	bn=ফটো মোড চালু নেই;
+	}
+
+[four photos are still being saved]
+	{
+	bn=চারটি ফটো এখনো সেভ হচ্ছে;
+	}
+
+[the picture could not be read]
+	{
+	bn=ছবি পড়া যায়নি;
+	}
+
+[the picture could not be drawn]
+	{
+	bn=ছবি আঁকা যায়নি;
+	}
+
+[the file could not be written]
+	{
+	bn=ফাইল লেখা যায়নি;
+	}
+
+[the graphics device was lost]
+	{
+	bn=গ্রাফিক্স ডিভাইস হারিয়ে গেছে;
+	}
+
+[the clipboard did not take the photo]
+	{
+	bn=ক্লিপবোর্ড ফটো নেয়নি;
+	}
+
+[the clipboard holds text only]
+	{
+	bn=ক্লিপবোর্ডে শুধু লেখা রাখা যায়;
+	}
+
+[the photo is above 128 MB]
+	{
+	bn=ফটো 128 MB-এর বেশি;
+	}
+
+[a side is above 8192 pixels]
+	{
+	bn=এক পাশ 8192 পিক্সেলের বেশি;
+	}
+
+[not available in Game Mode]
+	{
+	bn=গেম মোডে পাওয়া যায় না;
+	}
+
+// The Library's Replays section: filters, sorting and the days the list is grouped by.
+
+[This month]
+	{
+	bn=এই মাস;
+	}
+
+[Older]
+	{
+	bn=পুরনো;
+	}
+
+[Kept]
+	{
+	bn=রাখা;
+	}
+
+[Imported]
+	{
+	bn=আনা;
+	}
+
+[All kinds]
+	{
+	bn=সব ধরন;
+	}
+
+[Newest first]
+	{
+	bn=সবচেয়ে নতুন আগে;
+	}
+
+[Longest first]
+	{
+	bn=সবচেয়ে লম্বা আগে;
+	}
+
+[By map]
+	{
+	bn=ম্যাপ ধরে;
+	}
+
+[Most players first]
+	{
+	bn=বেশি খেলোয়াড় আগে;
+	}
+
+[Search replays]
+	{
+	bn=রিপ্লে খোঁজো;
+	}
+
+[Today]
+	{
+	bn=আজ;
+	}
+
+[Yesterday]
+	{
+	bn=গতকাল;
+	}
+
+[{weekday} {day} {month}]
+	{
+	bn={weekday} {day} {month};
+	}
+
+[{weekday} {day} {month} {year}]
+	{
+	bn={weekday} {day} {month} {year};
+	}
+
+[Mon]
+	{
+	bn=সোম;
+	}
+
+[Tue]
+	{
+	bn=মঙ্গল;
+	}
+
+[Wed]
+	{
+	bn=বুধ;
+	}
+
+[Thu]
+	{
+	bn=বৃহ;
+	}
+
+[Fri]
+	{
+	bn=শুক্র;
+	}
+
+[Sat]
+	{
+	bn=শনি;
+	}
+
+[Sun]
+	{
+	bn=রবি;
+	}
+
+[Jan]
+	{
+	bn=জানু;
+	}
+
+[Feb]
+	{
+	bn=ফেব;
+	}
+
+[Mar]
+	{
+	bn=মার্চ;
+	}
+
+[Apr]
+	{
+	bn=এপ্রি;
+	}
+
+[May]
+	{
+	bn=মে;
+	}
+
+[Jun]
+	{
+	bn=জুন;
+	}
+
+[Jul]
+	{
+	bn=জুলাই;
+	}
+
+[Aug]
+	{
+	bn=আগস্ট;
+	}
+
+[Sep]
+	{
+	bn=সেপ্টে;
+	}
+
+[Oct]
+	{
+	bn=অক্টো;
+	}
+
+[Nov]
+	{
+	bn=নভে;
+	}
+
+[Dec]
+	{
+	bn=ডিসে;
+	}
+
+// The Replays section's rows, chips and footer.
+
+[{left} vs {right}]
+	{
+	bn={left} বনাম {right};
+	}
+
+[{kind} · {planet}]
+	{
+	bn={kind} · {planet};
+	}
+
+[{kind} · {planet}, {sector}]
+	{
+	bn={kind} · {planet}, {sector};
+	}
+
+[After a crash]
+	{
+	bn=ক্র্যাশের পর;
+	}
+
+[Reading…]
+	{
+	bn=পড়া হচ্ছে…;
+	}
+
+[Won]
+	{
+	bn=জয়;
+	}
+
+[Lost]
+	{
+	bn=হার;
+	}
+
+[1 kill]
+	{
+	bn=1টি ধ্বংস;
+	}
+
+[{kills} kills]
+	{
+	bn={kills}টি ধ্বংস;
+	}
+
+[1 loss]
+	{
+	bn=1টি ক্ষয়;
+	}
+
+[{losses} losses]
+	{
+	bn={losses}টি ক্ষয়;
+	}
+
+[Watched to {time}]
+	{
+	bn={time} পর্যন্ত দেখা;
+	}
+
+[Damaged]
+	{
+	bn=নষ্ট;
+	}
+
+[Length]
+	{
+	bn=দৈর্ঘ্য;
+	}
+
+[Recorded]
+	{
+	bn=রেকর্ড করা;
+	}
+
+[Kept until]
+	{
+	bn=রাখার শেষ তারিখ;
+	}
+
+[Until you delete it]
+	{
+	bn=তুমি না মোছা পর্যন্ত;
+	}
+
+[Imported replays are kept]
+	{
+	bn=আনা রিপ্লে রাখা থাকে;
+	}
+
+[Downloaded replays are kept]
+	{
+	bn=নামানো রিপ্লে রাখা থাকে;
+	}
+
+[Exported replays are kept]
+	{
+	bn=এক্সপোর্ট করা রিপ্লে রাখা থাকে;
+	}
+
+[{mod} (rev {revision})]
+	{
+	bn={mod} (রিভ. {revision});
+	}
+
+[1 replay · {size}]
+	{
+	bn=1টি রিপ্লে · {size};
+	}
+
+[{count} replays · {size}]
+	{
+	bn={count}টি রিপ্লে · {size};
+	}
+
+[Reading the replays…]
+	{
+	bn=রিপ্লে পড়া হচ্ছে…;
+	}
+
+[Reading {read} of {total} replays]
+	{
+	bn={total}টি রিপ্লের মধ্যে {read}টি পড়া হচ্ছে;
+	}
+
+[{count} replays selected]
+	{
+	bn={count}টি রিপ্লে বাছা হয়েছে;
+	}
+
+[1 replay]
+	{
+	bn=1টি রিপ্লে;
+	}
+
+[{count} replays]
+	{
+	bn={count}টি রিপ্লে;
+	}
+
+// The Replays section when it has nothing to show, and how long games are kept.
+
+[No replays yet.]
+	{
+	bn=এখনো কোনো রিপ্লে নেই।;
+	}
+
+[No replays from this month.]
+	{
+	bn=এই মাসের কোনো রিপ্লে নেই।;
+	}
+
+[No older replays.]
+	{
+	bn=কোনো পুরনো রিপ্লে নেই।;
+	}
+
+[No replays kept.]
+	{
+	bn=রাখা কোনো রিপ্লে নেই।;
+	}
+
+[No replays imported.]
+	{
+	bn=আনা কোনো রিপ্লে নেই।;
+	}
+
+[No replays of this kind.]
+	{
+	bn=এই ধরনের কোনো রিপ্লে নেই।;
+	}
+
+[No replays for this planet.]
+	{
+	bn=এই গ্রহের কোনো রিপ্লে নেই।;
+	}
+
+[Recording is off.]
+	{
+	bn=রেকর্ডিং বন্ধ।;
+	}
+
+[Turn on recording]
+	{
+	bn=রেকর্ডিং চালু করো;
+	}
+
+[Open a replay file…]
+	{
+	bn=একটা রিপ্লে ফাইল খোলো…;
+	}
+
+[Games you play are kept here for 30 days.]
+	{
+	bn=তুমি যে লড়াই খেলো সেগুলো এখানে 30 দিন রাখা থাকে।;
+	}
+
+[Games you play are kept here for 90 days.]
+	{
+	bn=তুমি যে লড়াই খেলো সেগুলো এখানে 90 দিন রাখা থাকে।;
+	}
+
+[Games you play are kept here for a year.]
+	{
+	bn=তুমি যে লড়াই খেলো সেগুলো এখানে এক বছর রাখা থাকে।;
+	}
+
+[Games you play are kept here until you delete them.]
+	{
+	bn=তুমি যে লড়াই খেলো সেগুলো এখানে তুমি না মোছা পর্যন্ত রাখা থাকে।;
+	}
+
+[Old replays]
+	{
+	bn=পুরনো রিপ্লে;
+	}
+
+[Keep them all]
+	{
+	bn=সব রেখে দাও;
+	}
+
+[Let them go]
+	{
+	bn=ছেড়ে দাও;
+	}
+
+[1 replay is older than you asked to keep. It goes to the system's trash.]
+	{
+	bn=1টি রিপ্লে তোমার ঠিক করা রাখার সময়ের চেয়ে পুরনো। সেটা সিস্টেমের ট্র্যাশে যায়।;
+	}
+
+[1 replay is older than you asked to keep. It is deleted. This system has no trash.]
+	{
+	bn=1টি রিপ্লে তোমার ঠিক করা রাখার সময়ের চেয়ে পুরনো। সেটা মুছে যায়। এই সিস্টেমে ট্র্যাশ নেই।;
+	}
+
+[{count} replays are older than you asked to keep. They go to the system's trash.]
+	{
+	bn={count}টি রিপ্লে তোমার ঠিক করা রাখার সময়ের চেয়ে পুরনো। সেগুলো সিস্টেমের ট্র্যাশে যায়।;
+	}
+
+[{count} replays are older than you asked to keep. They are deleted. This system has no trash.]
+	{
+	bn={count}টি রিপ্লে তোমার ঠিক করা রাখার সময়ের চেয়ে পুরনো। সেগুলো মুছে যায়। এই সিস্টেমে ট্র্যাশ নেই।;
+	}
+
+// A replay's card: its buttons, delete and what could not be done.
+
+[Watch from {time}]
+	{
+	bn={time} থেকে দেখো;
+	}
+
+[Delete replay]
+	{
+	bn=রিপ্লে মুছো;
+	}
+
+[This replay cannot be watched.]
+	{
+	bn=এই রিপ্লে দেখা যায় না।;
+	}
+
+[This replay could not be moved to the trash.]
+	{
+	bn=এই রিপ্লে ট্র্যাশে সরানো যায়নি।;
+	}
+
+[{count} replays could not be moved to the trash.]
+	{
+	bn={count}টি রিপ্লে ট্র্যাশে সরানো যায়নি।;
+	}
+
+// What a replay needs, and what is fetched to watch it.
+
+[Needs {name} {version}]
+	{
+	bn={name} {version} লাগে;
+	}
+
+[Needs map]
+	{
+	bn=ম্যাপ লাগে;
+	}
+
+[Needs mutator]
+	{
+	bn=মিউটেটর লাগে;
+	}
+
+[Needs {name}.]
+	{
+	bn={name} লাগে।;
+	}
+
+[Needs {version}]
+	{
+	bn={version} লাগে;
+	}
+
+[Needs the map {name}.]
+	{
+	bn=ম্যাপ {name} লাগে।;
+	}
+
+[From the map pack {pack}.]
+	{
+	bn=ম্যাপ প্যাক {pack} থেকে।;
+	}
+
+[Needs the mutator {name}.]
+	{
+	bn=মিউটেটর {name} লাগে।;
+	}
+
+[Needs Open Annihilation {version}.]
+	{
+	bn=Open Annihilation {version} লাগে।;
+	}
+
+[This replay was recorded with {name}.]
+	{
+	bn=এই রিপ্লে {name} দিয়ে রেকর্ড করা।;
+	}
+
+[This replay was recorded with {name}. You have {have}.]
+	{
+	bn=এই রিপ্লে {name} দিয়ে রেকর্ড করা। তোমার {have} আছে।;
+	}
+
+[This replay was recorded with {name} {version}.]
+	{
+	bn=এই রিপ্লে {name} {version} দিয়ে রেকর্ড করা।;
+	}
+
+[This replay was recorded with {name} {version}. You have {have}.]
+	{
+	bn=এই রিপ্লে {name} {version} দিয়ে রেকর্ড করা। তোমার {have} আছে।;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}).]
+	{
+	bn=এই রিপ্লে {name} {version} (রিভ. {revision}) দিয়ে রেকর্ড করা।;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}). You have {have}.]
+	{
+	bn=এই রিপ্লে {name} {version} (রিভ. {revision}) দিয়ে রেকর্ড করা। তোমার {have} আছে।;
+	}
+
+[This replay was recorded with another release of the map pack {name}.]
+	{
+	bn=এই রিপ্লে ম্যাপ প্যাক {name}-এর অন্য এক রিলিজ দিয়ে রেকর্ড করা।;
+	}
+
+[Getting {name}… {percent}%]
+	{
+	bn={name} নেওয়া হচ্ছে… {percent}%;
+	}
+
+[Get {name} {version} and watch]
+	{
+	bn={name} {version} নিয়ে দেখো;
+	}
+
+[Get it and watch]
+	{
+	bn=নিয়ে দেখো;
+	}
+
+[Get them and watch]
+	{
+	bn=সবগুলো নিয়ে দেখো;
+	}
+
+[Turn on and watch]
+	{
+	bn=চালু করে দেখো;
+	}
+
+[{name} {version} is not in {registry}'s catalogue.]
+	{
+	bn={name} {version} {registry}-এর তালিকায় নেই।;
+	}
+
+[{name} is not in {registry}'s catalogue.]
+	{
+	bn={name} {registry}-এর তালিকায় নেই।;
+	}
+
+[You're offline.]
+	{
+	bn=তুমি অফলাইনে আছ।;
+	}
+
+[Get {name} {version} when you're back online.]
+	{
+	bn=অনলাইনে ফিরলে {name} {version} নাও।;
+	}
+
+[Get {name} when you're back online.]
+	{
+	bn=অনলাইনে ফিরলে {name} নাও।;
+	}
+
+// The Replays section on Core Prime: the list, its filters and what can go wrong.
+
+[On this computer]
+	{
+	bn=এই কম্পিউটারে;
+	}
+
+[On Core Prime]
+	{
+	bn=Core Prime-এ;
+	}
+
+[Longest]
+	{
+	bn=সবচেয়ে লম্বা;
+	}
+
+[Popular]
+	{
+	bn=জনপ্রিয়;
+	}
+
+[By planet]
+	{
+	bn=গ্রহ ধরে;
+	}
+
+[My battles]
+	{
+	bn=আমার লড়াই;
+	}
+
+[Browse Core Prime's replays]
+	{
+	bn=Core Prime-এর রিপ্লে দেখো;
+	}
+
+[Reading Core Prime's replays…]
+	{
+	bn=Core Prime-এর রিপ্লে পড়া হচ্ছে…;
+	}
+
+[Core Prime's list cannot be read.]
+	{
+	bn=Core Prime-এর তালিকা পড়া যায় না।;
+	}
+
+[Core Prime's replays are not available just now.]
+	{
+	bn=Core Prime-এর রিপ্লে এখন পাওয়া যাচ্ছে না।;
+	}
+
+[Core Prime cannot be reached.]
+	{
+	bn=Core Prime-এ পৌঁছানো যাচ্ছে না।;
+	}
+
+[Core Prime has no replays to show.]
+	{
+	bn=Core Prime-এর দেখানোর মতো কোনো রিপ্লে নেই।;
+	}
+
+[Getting the replay…]
+	{
+	bn=রিপ্লে নেওয়া হচ্ছে…;
+	}
+
+[The file does not match the replay.]
+	{
+	bn=ফাইলটা রিপ্লের সঙ্গে মেলে না।;
+	}
+
+[The replay names no file.]
+	{
+	bn=রিপ্লে কোনো ফাইলের নাম দেয়নি।;
+	}
+
+[The replay could not be saved.]
+	{
+	bn=রিপ্লে সেভ করা যায়নি।;
+	}
+
+[Try again in {seconds} s.]
+	{
+	bn={seconds} সেকেন্ড পরে আবার চেষ্টা করো।;
+	}
+
+[The check ran out. Try again for a new code.]
+	{
+	bn=সময় শেষ। নতুন কোডের জন্য আবার চেষ্টা করো।;
+	}
+
+[Go to {address} and enter {code}.]
+	{
+	bn={address} খোলো, তারপর {code} লেখো।;
+	}
+
+// Signing in to Core Prime and sharing a replay there.
+
+[Sign in]
+	{
+	bn=সাইন ইন;
+	}
+
+[Sign out]
+	{
+	bn=সাইন আউট;
+	}
+
+[Sign in to Core Prime]
+	{
+	bn=Core Prime-এ সাইন ইন করো;
+	}
+
+[Handle]
+	{
+	bn=হ্যান্ডেল;
+	}
+
+[Forgot it? Reset it at coreprime.net/forgot]
+	{
+	bn=ভুলে গেছ? রিসেট করো: coreprime.net/forgot;
+	}
+
+[Signing in needs a secure connection, which this system does not have.]
+	{
+	bn=সাইন ইন করতে নিরাপদ সংযোগ লাগে, যা এই সিস্টেমে নেই।;
+	}
+
+[Signing in…]
+	{
+	bn=সাইন ইন হচ্ছে…;
+	}
+
+[Core Prime did not start a session.]
+	{
+	bn=Core Prime সেশন শুরু করেনি।;
+	}
+
+[Core Prime did not answer.]
+	{
+	bn=Core Prime সাড়া দেয়নি।;
+	}
+
+[Share on Core Prime…]
+	{
+	bn=Core Prime-এ শেয়ার করো…;
+	}
+
+[Share my own recording]
+	{
+	bn=আমার নিজের রেকর্ডিং শেয়ার করো;
+	}
+
+[Open on Core Prime]
+	{
+	bn=Core Prime-এ খোলো;
+	}
+
+[Share]
+	{
+	bn=শেয়ার;
+	}
+
+[Share on Core Prime]
+	{
+	bn=Core Prime-এ শেয়ার;
+	}
+
+[Title]
+	{
+	bn=শিরোনাম;
+	}
+
+[Public]
+	{
+	bn=সবার জন্য;
+	}
+
+[Unlisted]
+	{
+	bn=তালিকার বাইরে;
+	}
+
+[Sharing…]
+	{
+	bn=শেয়ার হচ্ছে…;
+	}
+
+[Shared on Core Prime]
+	{
+	bn=Core Prime-এ শেয়ার হয়েছে;
+	}
+
+[Already on Core Prime]
+	{
+	bn=Core Prime-এ আগেই আছে;
+	}
+
+[Sign in to share a replay.]
+	{
+	bn=রিপ্লে শেয়ার করতে সাইন ইন করো।;
+	}
+
+[This account cannot share replays.]
+	{
+	bn=এই অ্যাকাউন্ট রিপ্লে শেয়ার করতে পারে না।;
+	}
+
+[Only a player in that battle can replace its replay.]
+	{
+	bn=শুধু সেই লড়াইয়ের একজন খেলোয়াড় এর রিপ্লে বদলাতে পারে।;
+	}
+
+[The replay is larger than the limit.]
+	{
+	bn=রিপ্লে সীমার চেয়ে বড়।;
+	}
+
+[This account has shared its replays for today.]
+	{
+	bn=এই অ্যাকাউন্ট আজকের জন্য রিপ্লে শেয়ার করে ফেলেছে।;
+	}
+
+[Uploads are not available.]
+	{
+	bn=আপলোড পাওয়া যাচ্ছে না।;
+	}
+
+// Exporting replays from the Library.
+
+[Export…]
+	{
+	bn=এক্সপোর্ট…;
+	}
+
+[Export]
+	{
+	bn=এক্সপোর্ট;
+	}
+
+[Export {name}]
+	{
+	bn={name} এক্সপোর্ট;
+	}
+
+[Export {count} replays]
+	{
+	bn={count}টি রিপ্লে এক্সপোর্ট;
+	}
+
+[Open Annihilation replay (.oademo)]
+	{
+	bn=Open Annihilation রিপ্লে (.oademo);
+	}
+
+[Everything needed to watch it: the recording, and the game, mod and map it needs]
+	{
+	bn=দেখার জন্য যা যা দরকার: রেকর্ডিং, আর যে গেম, মোড ও ম্যাপ লাগে;
+	}
+
+[TA Demo Recorder (.tad)]
+	{
+	bn=TA Demo Recorder (.tad);
+	}
+
+[For TA Demo Recorder and other replayers]
+	{
+	bn=TA Demo Recorder আর অন্য রিপ্লে প্লেয়ারের জন্য;
+	}
+
+[What to include]
+	{
+	bn=যা যা রাখবে;
+	}
+
+[What only Open Annihilation reads]
+	{
+	bn=যা শুধু Open Annihilation পড়ে;
+	}
+
+[Compatibility]
+	{
+	bn=সামঞ্জস্য;
+	}
+
+[It was played with mutators. Other replayers cannot apply them, so commanders may not last as they did.]
+	{
+	bn=এটা মিউটেটর দিয়ে খেলা হয়েছিল। অন্য রিপ্লে প্লেয়ার সেগুলো প্রয়োগ করতে পারে না, তাই কমান্ডার আগের মতো টিকে না-ও থাকতে পারে।;
+	}
+
+[It was played with the mutator {name}. Other replayers cannot apply it, so commanders may not last as they did.]
+	{
+	bn=এটা মিউটেটর {name} দিয়ে খেলা হয়েছিল। অন্য রিপ্লে প্লেয়ার এটা প্রয়োগ করতে পারে না, তাই কমান্ডার আগের মতো টিকে না-ও থাকতে পারে।;
+	}
+
+[Other replayers stop at the first of this mod's wide weapon records.]
+	{
+	bn=অন্য রিপ্লে প্লেয়ার এই মোডের প্রথম চওড়া অস্ত্রের রেকর্ডে থেমে যায়।;
+	}
+
+[Names longer than 63 letters are cut.]
+	{
+	bn=63 অক্ষরের চেয়ে লম্বা নাম কেটে ফেলা হয়।;
+	}
+
+[A player's status is cut to 512 bytes.]
+	{
+	bn=খেলোয়াড়ের অবস্থা 512 বাইটে কেটে ফেলা হয়।;
+	}
+
+[Exporting {done} of {total}]
+	{
+	bn=এক্সপোর্ট হচ্ছে: {total}টির মধ্যে {done}টি;
+	}
+
+[Compressing the recording]
+	{
+	bn=রেকর্ডিং সংকুচিত হচ্ছে;
+	}
+
+[Writing {name}]
+	{
+	bn={name} লেখা হচ্ছে;
+	}
+
+[Measuring…]
+	{
+	bn=মাপা হচ্ছে…;
+	}
+
+[Saved to {folder}]
+	{
+	bn=সেভ হয়েছে: {folder};
+	}
+
+[Show in folder]
+	{
+	bn=ফোল্ডারে দেখাও;
+	}
+
+[Nothing is selected. Choose a replay, then export it.]
+	{
+	bn=কিছু বাছা হয়নি। একটা রিপ্লে বেছে নাও, তারপর এক্সপোর্ট করো।;
+	}
+
+[The export could not be written.]
+	{
+	bn=এক্সপোর্ট লেখা যায়নি।;
+	}
+
+[There is no room in {folder}.]
+	{
+	bn={folder}-এ জায়গা নেই।;
+	}
+
+[Open Annihilation cannot write to {folder}.]
+	{
+	bn=Open Annihilation {folder}-এ লিখতে পারে না।;
+	}
+
+[Saved {done} of {total}.]
+	{
+	bn={total}টির মধ্যে {done}টি সেভ হয়েছে।;
+	}
+
+[This replay cannot be read, so it cannot be exported.]
+	{
+	bn=এই রিপ্লে পড়া যায় না, তাই এক্সপোর্ট করা যায় না।;
+	}
+
+[More folders]
+	{
+	bn=আরও ফোল্ডার;
+	}
+
+[Previous folders]
+	{
+	bn=আগের ফোল্ডার;
+	}
+
+[More warnings]
+	{
+	bn=আরও সতর্কতা;
+	}
+
+[Previous warnings]
+	{
+	bn=আগের সতর্কতা;
+	}
+
+// Opening a replay file, and why one cannot be read or watched.
+
+[Added {title} to Replays]
+	{
+	bn={title} রিপ্লেতে যোগ হয়েছে;
+	}
+
+[This file cannot be read.]
+	{
+	bn=এই ফাইল পড়া যায় না।;
+	}
+
+[This file is not a TA Demo recording]
+	{
+	bn=এই ফাইল TA Demo রেকর্ডিং নয়;
+	}
+
+[This file is not a replay.]
+	{
+	bn=এই ফাইল রিপ্লে নয়।;
+	}
+
+[This file is too large to be a replay.]
+	{
+	bn=এই ফাইল রিপ্লে হওয়ার জন্য খুব বড়।;
+	}
+
+[This recording cannot be read.]
+	{
+	bn=এই রেকর্ডিং পড়া যায় না।;
+	}
+
+[This recording is in version {version} of the format, which Open Annihilation does not play]
+	{
+	bn=এই রেকর্ডিং ফরম্যাটের ভার্সন {version}-এ, যা Open Annihilation চালায় না;
+	}
+
+[This replay could not be copied into Recordings.]
+	{
+	bn=এই রিপ্লে Recordings ফোল্ডারে কপি করা যায়নি।;
+	}
+
+[This replay does not hold one recording.]
+	{
+	bn=এই রিপ্লেতে ঠিক একটা রেকর্ডিং নেই।;
+	}
+
+[This replay is not a version this game reads.]
+	{
+	bn=এই রিপ্লে এমন ভার্সনের, যা এই গেম পড়ে না।;
+	}
+
+[This replay's details cannot be read.]
+	{
+	bn=এই রিপ্লের বিবরণ পড়া যায় না।;
+	}
+
+[This replay's recording cannot be read.]
+	{
+	bn=এই রিপ্লের রেকর্ডিং পড়া যায় না।;
+	}
+
+[This replay's recording does not match.]
+	{
+	bn=এই রিপ্লের রেকর্ডিং মেলে না।;
+	}
+
+[This replay's recording is too long to play.]
+	{
+	bn=এই রিপ্লের রেকর্ডিং চালানোর জন্য খুব লম্বা।;
+	}
+
+[Jumping back isn't available in this replay.]
+	{
+	bn=এই রিপ্লেতে পেছনে লাফানো যায় না।;
+	}
+
+[Jumping back needs more memory than this device has.]
+	{
+	bn=পেছনে লাফাতে এই ডিভাইসের চেয়ে বেশি মেমরি লাগে।;
+	}
+
+[This replay could not jump to {time} and has stopped.]
+	{
+	bn=এই রিপ্লে {time} পর্যন্ত লাফাতে পারেনি, তাই থেমে গেছে।;
+	}
+
+// The replay viewer: the end card, the timeline and the cameras.
+
+[Catching up… {percent} %]
+	{
+	bn=এগিয়ে যাচ্ছে… {percent} %;
+	}
+
+[The recording is damaged after {time}]
+	{
+	bn={time}-এর পর রেকর্ডিং নষ্ট;
+	}
+
+[Watch again]
+	{
+	bn=আবার দেখো;
+	}
+
+[Back to the Library]
+	{
+	bn=লাইব্রেরিতে ফেরো;
+	}
+
+[Undecided]
+	{
+	bn=অমীমাংসিত;
+	}
+
+[{name} won]
+	{
+	bn={name} জিতেছে;
+	}
+
+[No result]
+	{
+	bn=ফল নেই;
+	}
+
+[{time} · {name}'s commander destroyed]
+	{
+	bn={time} · {name}-এর কমান্ডার ধ্বংস হয়েছে;
+	}
+
+[{time} · {name} dropped]
+	{
+	bn={time} · {name} সংযোগ হারিয়েছে;
+	}
+
+[{time} · {name} left]
+	{
+	bn={time} · {name} ছেড়ে গেছে;
+	}
+
+[{time} · {name} was defeated]
+	{
+	bn={time} · {name} হেরে গেছে;
+	}
+
+[{time} · {name} allied]
+	{
+	bn={time} · {name} মিত্র হয়েছে;
+	}
+
+[{time} · {name} broke the alliance]
+	{
+	bn={time} · {name} জোট ভেঙেছে;
+	}
+
+[{time} · {name}: {line}]
+	{
+	bn={time} · {name}: {line};
+	}
+
+[{time} · Paused]
+	{
+	bn={time} · বিরতি;
+	}
+
+[{time} · End]
+	{
+	bn={time} · শেষ;
+	}
+
+[{asked} · {reached} now]
+	{
+	bn={asked} · এখন {reached};
+	}
+
+[No markers yet · finding them, {percent} %]
+	{
+	bn=এখনো কোনো চিহ্ন নেই · খোঁজা হচ্ছে, {percent} %;
+	}
+
+[Only a replay in the Library can be exported]
+	{
+	bn=শুধু লাইব্রেরির রিপ্লে এক্সপোর্ট করা যায়;
+	}
+
+[All players]
+	{
+	bn=সব খেলোয়াড়;
+	}
+
+[Follow their camera]
+	{
+	bn=তাদের ক্যামেরা অনুসরণ;
+	}
+
+[Follow a unit]
+	{
+	bn=একটা ইউনিট অনুসরণ;
+	}
+
+[Director]
+	{
+	bn=ডিরেক্টর;
+	}
+
+[Defeated {time}]
+	{
+	bn=হেরেছে {time};
+	}
+
+[Left {time}]
+	{
+	bn=ছেড়ে গেছে {time};
+	}
+
+// The Boneyards' entry: its questions and notices.
+
+[The Boneyards]
+	{
+	bn=Boneyards;
+	}
+
+[Open Annihilation {version} is out. The Boneyards needs the latest version.]
+	{
+	bn=Open Annihilation {version} বেরিয়েছে। Boneyards-এর জন্য সর্বশেষ ভার্সন লাগে।;
+	}
+
+[Open Annihilation could not check for updates.]
+	{
+	bn=Open Annihilation আপডেট দেখতে পারেনি।;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks and the content catalogue. Turn them on and continue?]
+	{
+	bn=Boneyards-এর জন্য Open Annihilation-এর অনলাইন সুবিধা লাগে: আপডেট দেখা আর কনটেন্টের তালিকা। চালু করে চালিয়ে যাবে?;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks, the content catalogue and {registry}'s install ID. Turn them on and continue?]
+	{
+	bn=Boneyards-এর জন্য Open Annihilation-এর অনলাইন সুবিধা লাগে: আপডেট দেখা, কনটেন্টের তালিকা আর {registry}-এর ইনস্টল ID। চালু করে চালিয়ে যাবে?;
+	}
+
+[The Boneyards needs {registry}'s install ID turned on. Turn it on and continue?]
+	{
+	bn=Boneyards-এর জন্য {registry}-এর ইনস্টল ID চালু থাকা দরকার। চালু করে চালিয়ে যাবে?;
+	}
+
+[Turn on]
+	{
+	bn=চালু করো;
+	}
+
+[The Boneyards is installed. Start Open Annihilation again to enter the Boneyards.]
+	{
+	bn=Boneyards ইনস্টল হয়েছে। Boneyards-এ ঢুকতে Open Annihilation আবার শুরু করো।;
+	}
+
+[Start Open Annihilation without the mod on its command line to enter the Boneyards.]
+	{
+	bn=Boneyards-এ ঢুকতে কমান্ড লাইনে মোড ছাড়া Open Annihilation শুরু করো।;
+	}
+
+[The Boneyards launches and reports games only on 3.1c, Core Contingency and Battle Tactics. Switch your mod off to play in the Boneyards.]
+	{
+	bn=Boneyards শুধু 3.1c, Core Contingency আর Battle Tactics-এ লড়াই শুরু করে এবং তার খবর জানায়। Boneyards-এ খেলতে তোমার মোড বন্ধ করো।;
+	}
+
+[The Boneyards plays Total Annihilation without mods. Switch {mod} off and enter the Boneyards?]
+	{
+	bn=Boneyards মোড ছাড়া Total Annihilation খেলে। {mod} বন্ধ করে Boneyards-এ ঢুকবে?;
+	}
+
+[Switch off and enter]
+	{
+	bn=বন্ধ করে ঢোকো;
+	}
+
+[Switch {mod} back on?]
+	{
+	bn={mod} আবার চালু করবে?;
+	}
+
+[Switch on]
+	{
+	bn=চালু করো;
+	}
+
+[The Boneyards needs by.ccx and the Boneyards folder.]
+	{
+	bn=Boneyards-এর জন্য by.ccx আর Boneyards ফোল্ডার লাগে।;
+	}
+
+[Downloads are off for {registry}.]
+	{
+	bn={registry}-এর জন্য নামানো বন্ধ।;
+	}
+
+[Drag to reorder]
+	{
+	bn=টেনে ক্রম বদলাও;
+	}
+
+// Deleting replays: the question and its buttons, with and without a trash.
+
+[Delete this replay?]
+	{
+	bn=এই রিপ্লে মুছবে?;
+	}
+
+[Delete these {count} replays?]
+	{
+	bn=এই {count}টি রিপ্লে মুছবে?;
+	}
+
+[Delete replays]
+	{
+	bn=রিপ্লে মুছো;
+	}
+
+[It goes to the system's trash.]
+	{
+	bn=সেটা সিস্টেমের ট্র্যাশে যায়।;
+	}
+
+[They go to the system's trash.]
+	{
+	bn=সেগুলো সিস্টেমের ট্র্যাশে যায়।;
+	}
+
+[It is deleted and cannot be undone. This system has no trash.]
+	{
+	bn=সেটা মুছে যায় আর ফেরানো যায় না। এই সিস্টেমে ট্র্যাশ নেই।;
+	}
+
+[They are deleted and cannot be undone. This system has no trash.]
+	{
+	bn=সেগুলো মুছে যায় আর ফেরানো যায় না। এই সিস্টেমে ট্র্যাশ নেই।;
+	}
+
+// Game content: removing a stray archive, repairing, and what a bundle's row says.
+
+[Remove…]
+	{
+	bn=সরাও…;
+	}
+
+[Repair…]
+	{
+	bn=মেরামত…;
+	}
+
+[Move to Trash]
+	{
+	bn=ট্র্যাশে সরাও;
+	}
+
+[Move {file} to the trash?]
+	{
+	bn={file} ট্র্যাশে সরাবে?;
+	}
+
+[Delete {file}? This system has no trash.]
+	{
+	bn={file} মুছবে? এই সিস্টেমে ট্র্যাশ নেই।;
+	}
+
+[{file} is not one of its files]
+	{
+	bn={file} এর ফাইল নয়;
+	}
+
+[{count} archives are not its files]
+	{
+	bn={count}টি আর্কাইভ এর ফাইল নয়;
+	}
+
+[{file} in {folder}, {size} bytes, is not a file of {bundle}. The game does not read it.]
+	{
+	bn={folder}-এ {file}, {size} বাইট, {bundle}-এর ফাইল নয়। গেম এটা পড়ে না।;
+	}
+
+// The Boneyards' refusals when the game files are not Total Annihilation's own.
+
+[{file} in {folder} does not match Total Annihilation's, so the Boneyards cannot be entered. Copy the game again from your own install or CD to enter.]
+	{
+	bn={folder}-এ {file} Total Annihilation-এর সঙ্গে মেলে না, তাই Boneyards-এ ঢোকা যায় না। ঢুকতে তোমার নিজের ইনস্টল বা CD থেকে গেম আবার কপি করো।;
+	}
+
+[{file} in {folder} does not match Total Annihilation's. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	bn={folder}-এ {file} Total Annihilation-এর সঙ্গে মেলে না। Boneyards শুধু Open Annihilation-এর নিজের কপির গেম খেলে: ঢুকতে তোমার নিজের ইনস্টল বা CD থেকে সেটা কপি করো।;
+	}
+
+[{file} in {folder} is not Total Annihilation's own. The Boneyards launches and reports games only on Total Annihilation's own files. Leave the Boneyards and repair it in Settings › Game Content.]
+	{
+	bn={folder}-এ {file} Total Annihilation-এর নিজের নয়। Boneyards শুধু Total Annihilation-এর নিজের ফাইলে লড়াই শুরু করে এবং তার খবর জানায়। Boneyards ছেড়ে সেটিংস › গেমের বিষয় থেকে এটা মেরামত করো।;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files, so the Boneyards cannot be entered. Remove it to enter.]
+	{
+	bn={folder}-এ {file} Total Annihilation-এর ফাইল নয়, তাই Boneyards-এ ঢোকা যায় না। ঢুকতে এটা সরাও।;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	bn={folder}-এ {file} Total Annihilation-এর ফাইল নয়। Boneyards শুধু Open Annihilation-এর নিজের কপির গেম খেলে: ঢুকতে তোমার নিজের ইনস্টল বা CD থেকে সেটা কপি করো।;
+	}
+
+// The battle room's game-files and unit messages.
+
+[*** Your game files differ from Total Annihilation's, so this battle cannot start. Leave it and repair them in Settings › Game Content.]
+	{
+	bn=*** তোমার গেমের ফাইল Total Annihilation-এর থেকে আলাদা, তাই এই লড়াই শুরু হতে পারে না। এটা ছেড়ে সেটিংস › গেমের বিষয় থেকে ফাইল মেরামত করো।;
+	}
+
+[*** {player}'s game files differ from Total Annihilation's; they must repair them before this battle can start.]
+	{
+	bn=*** {player}-এর গেমের ফাইল Total Annihilation-এর থেকে আলাদা। এই লড়াই শুরুর আগে তাকে সেগুলো মেরামত করতে হবে।;
+	}
+
+[*** {units} differs on {player}'s machine and can't be built in this battle.]
+	{
+	bn=*** {player}-এর মেশিনে {units} আলাদা, তাই এই লড়াইয়ে বানানো যায় না।;
+	}
+
+[*** {units} differ on {player}'s machine and can't be built in this battle.]
+	{
+	bn=*** {player}-এর মেশিনে {units} আলাদা, তাই এই লড়াইয়ে বানানো যায় না।;
+	}
+
+[*** {units} differs between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	bn=*** {first} আর {second}-এর মেশিনে {units} আলাদা, তাই এই লড়াইয়ে বানানো যায় না।;
+	}
+
+[*** {units} differ between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	bn=*** {first} আর {second}-এর মেশিনে {units} আলাদা, তাই এই লড়াইয়ে বানানো যায় না।;
+	}
+
+[*** {units} differs between {count} players' machines and can't be built in this battle.]
+	{
+	bn=*** {count} জন খেলোয়াড়ের মেশিনের মধ্যে {units} আলাদা, তাই এই লড়াইয়ে বানানো যায় না।;
+	}
+
+[*** {units} differ between {count} players' machines and can't be built in this battle.]
+	{
+	bn=*** {count} জন খেলোয়াড়ের মেশিনের মধ্যে {units} আলাদা, তাই এই লড়াইয়ে বানানো যায় না।;
+	}
+
+[1 other unit]
+	{
+	bn=আরও 1টি ইউনিট;
+	}
+
+[{count} other units]
+	{
+	bn=আরও {count}টি ইউনিট;
+	}
+
+[{list} and {last}]
+	{
+	bn={list} আর {last};
+	}
+
+[a player who left]
+	{
+	bn=যে খেলোয়াড় ছেড়ে গেছে;
+	}
+
+[*** Press START again to start anyway. Those units stay unavailable in this battle.]
+	{
+	bn=*** তবুও শুরু করতে আবার “শুরু” চাপো। সেই ইউনিটগুলো এই লড়াইয়ে পাওয়া যাবে না।;
 	}
 

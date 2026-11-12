@@ -19,6 +19,6 @@ text: {needs: shaping}
 unicode: true
 fonts: [{file: NotoSansBengali-Bold.ttf, role: letters}]
 warmup: warmup.txt
-packaging: {revision: 1, date: 2026-11-12, packager: open-annihilation/languages tools/build.py}
+packaging: {revision: 2, date: 2026-11-12, packager: open-annihilation/languages tools/build.py}
 homepage: https://github.com/open-annihilation/languages
 requires: {engine: ">= 0.9.1"}
