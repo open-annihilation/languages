@@ -7945,7 +7945,7 @@
 
 [Needs {name}]
 	{
-	bn={name} লাগে;
+	bn=দরকার: {name};
 	}
 
 [Needed by {name}]
@@ -18092,7 +18092,7 @@
 
 [Needs {name} {version}]
 	{
-	bn={name} {version} লাগে;
+	bn=দরকার: {name} {version};
 	}
 
 [Needs map]

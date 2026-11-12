@@ -7945,7 +7945,7 @@
 
 [Needs {name}]
 	{
-	ko={name} 필요;
+	ko=필요: {name};
 	}
 
 [Needed by {name}]
@@ -16688,7 +16688,7 @@
 
 [Needs {name} {version}]
 	{
-	ko={name} {version} 필요;
+	ko=필요: {name} {version};
 	}
 
 [Needs map]

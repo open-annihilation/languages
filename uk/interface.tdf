@@ -16185,7 +16185,7 @@
 
 [Pages only]
 	{
-	uk=Лише виклики;
+	uk=Виклики;
 	}
 
 [Chat lines and whispers, pages only, or neither.]
@@ -17218,7 +17218,7 @@
 
 [{left} vs {right}]
 	{
-	uk={left} проти {right};
+	uk={left} vs {right};
 	}
 
 [Jumping back isn't available in this replay.]
@@ -17245,7 +17245,7 @@
 
 [This month]
 	{
-	uk=Цього місяця;
+	uk=Цей місяць;
 	}
 
 [Older]
@@ -17260,7 +17260,7 @@
 
 [Imported]
 	{
-	uk=Імпортовано;
+	uk=Імпорт;
 	}
 
 [All kinds]
@@ -17285,7 +17285,7 @@
 
 [Most players first]
 	{
-	uk=Спочатку з найбільшою кількістю гравців;
+	uk=Найбільше гравців;
 	}
 
 [Search replays]
@@ -17350,62 +17350,62 @@
 
 [Jan]
 	{
-	uk=січня;
+	uk=січ.;
 	}
 
 [Feb]
 	{
-	uk=лютого;
+	uk=лют.;
 	}
 
 [Mar]
 	{
-	uk=березня;
+	uk=бер.;
 	}
 
 [Apr]
 	{
-	uk=квітня;
+	uk=квіт.;
 	}
 
 [May]
 	{
-	uk=травня;
+	uk=трав.;
 	}
 
 [Jun]
 	{
-	uk=червня;
+	uk=черв.;
 	}
 
 [Jul]
 	{
-	uk=липня;
+	uk=лип.;
 	}
 
 [Aug]
 	{
-	uk=серпня;
+	uk=серп.;
 	}
 
 [Sep]
 	{
-	uk=вересня;
+	uk=вер.;
 	}
 
 [Oct]
 	{
-	uk=жовтня;
+	uk=жовт.;
 	}
 
 [Nov]
 	{
-	uk=листопада;
+	uk=лист.;
 	}
 
 [Dec]
 	{
-	uk=грудня;
+	uk=груд.;
 	}
 
 [{kind} · {planet}]
@@ -17821,7 +17821,7 @@
 
 [On this computer]
 	{
-	uk=На цьому компʼютері;
+	uk=На компʼютері;
 	}
 
 [On Core Prime]
@@ -17841,7 +17841,7 @@
 
 [By planet]
 	{
-	uk=За планетою;
+	uk=Планета;
 	}
 
 [My battles]

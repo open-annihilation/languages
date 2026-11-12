@@ -16238,7 +16238,7 @@
 
 [This month]
 	{
-	pl=Ten miesiąc;
+	pl=Ten mies.;
 	}
 
 [Older]
@@ -16253,7 +16253,7 @@
 
 [Imported]
 	{
-	pl=Zaimportowane;
+	pl=Z importu;
 	}
 
 [All kinds]
@@ -16278,7 +16278,7 @@
 
 [Most players first]
 	{
-	pl=Najwięcej graczy najpierw;
+	pl=Najwięcej graczy;
 	}
 
 [Search replays]
@@ -16839,7 +16839,7 @@
 
 [By planet]
 	{
-	pl=Według planety;
+	pl=Planeta;
 	}
 
 [My battles]

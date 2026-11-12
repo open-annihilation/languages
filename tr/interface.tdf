@@ -7945,7 +7945,7 @@
 
 [Needs {name}]
 	{
-	tr={name} gerekli;
+	tr=Gerekli: {name};
 	}
 
 [Needed by {name}]
@@ -16171,7 +16171,7 @@
 
 [Pages only]
 	{
-	tr=Yalnızca çağrılar;
+	tr=Çağrılar;
 	}
 
 [Player markers, side symbols, notched bars and a mark on every status.]
@@ -16722,7 +16722,7 @@
 
 [Needs {name} {version}]
 	{
-	tr={name} {version} gerekli;
+	tr=Gerekli: {name} {version};
 	}
 
 [Needs map]

@@ -16451,7 +16451,7 @@
 
 [{left} vs {right}]
 	{
-	ru={left} против {right};
+	ru={left} vs {right};
 	}
 
 [{kind} · {planet}]
@@ -16638,7 +16638,7 @@
 
 [Needs {name} {version}]
 	{
-	ru=Нужно: {name} {version};
+	ru=Требуется {name} {version};
 	}
 
 [Needs map]
@@ -16882,7 +16882,7 @@
 
 [On this computer]
 	{
-	ru=На этом компьютере;
+	ru=На компьютере;
 	}
 
 [On Core Prime]
@@ -16897,12 +16897,12 @@
 
 [Longest]
 	{
-	ru=Самые длинные;
+	ru=Длинные;
 	}
 
 [Popular]
 	{
-	ru=Популярные;
+	ru=Топ;
 	}
 
 [By planet]
@@ -17475,7 +17475,7 @@
 
 [Pages only]
 	{
-	ru=Только вызовы;
+	ru=Вызовы;
 	}
 
 [Chat lines and whispers, pages only, or neither.]

@@ -7945,7 +7945,7 @@
 
 [Needs {name}]
 	{
-	ja={name}が必要;
+	ja=必要：{name};
 	}
 
 [Needed by {name}]
@@ -16522,7 +16522,7 @@
 
 [Needs {name} {version}]
 	{
-	ja={name} {version}が必要;
+	ja=必要：{name} {version};
 	}
 
 [Needs map]
