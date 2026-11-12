@@ -11298,11 +11298,6 @@
 	ko=메가맵 닫기;
 	}
 
-[Closes the megamap and centres on the pointer]
-	{
-	ko=메가맵을 닫고 포인터에 중심을 맞춥니다.;
-	}
-
 [Jumps the view to a point of the megamap]
 	{
 	ko=메가맵의 한 점으로 시점을 옮깁니다.;
@@ -16058,5 +16053,3021 @@
 [Open the download page]
 	{
 	ko=다운로드 페이지 열기;
+	}
+
+// Settings' Replays section and the Accessibility rows added in 0.9.1.
+
+[Replays]
+	{
+	ko=리플레이;
+	}
+
+[REPLAYS]
+	{
+	ko=리플레이;
+	}
+
+[Record my games]
+	{
+	ko=내 게임 녹화;
+	}
+
+[Campaign missions, skirmish, multiplayer and Boneyards battles. Applies from the next game.]
+	{
+	ko=캠페인 미션, 스커미시, 멀티플레이어, Boneyards 전투가 대상입니다. 다음 게임부터 적용됩니다.;
+	}
+
+[Keep replays for]
+	{
+	ko=리플레이 보관 기간;
+	}
+
+[30 days]
+	{
+	ko=30일;
+	}
+
+[90 days]
+	{
+	ko=90일;
+	}
+
+[A year]
+	{
+	ko=1년;
+	}
+
+[Forever]
+	{
+	ko=무기한;
+	}
+
+[Replays you keep in the Library stay until you delete them.]
+	{
+	ko=라이브러리에서 유지한 리플레이는 삭제할 때까지 남습니다.;
+	}
+
+[Open replay files with Open Annihilation]
+	{
+	ko=Open Annihilation으로 리플레이 파일 열기;
+	}
+
+[A .oademo or a .tad file opens in this copy.]
+	{
+	ko=이 Open Annihilation에서 .oademo 또는 .tad 파일을 엽니다.;
+	}
+
+[Colour vision]
+	{
+	ko=색각 유형;
+	}
+
+[Changes team colours, the minimap, bars, the war map and status colours on this machine only.]
+	{
+	ko=이 기기에서만 팀 색상, 미니맵, 막대, 전쟁 맵, 상태 색상을 바꿉니다.;
+	}
+
+[Protanopia]
+	{
+	ko=적색맹;
+	}
+
+[Deuteranopia]
+	{
+	ko=녹색맹;
+	}
+
+[Tritanopia]
+	{
+	ko=청색맹;
+	}
+
+[Achromatopsia]
+	{
+	ko=전색맹;
+	}
+
+[Achromatopsia keeps shape cues on]
+	{
+	ko=전색맹에서는 모양 표식이 계속 켜져 있습니다;
+	}
+
+[Shape cues]
+	{
+	ko=모양 표식;
+	}
+
+[Player markers, side symbols, notched bars and a mark on every status.]
+	{
+	ko=플레이어 표식, 진영 기호, 눈금이 있는 막대, 모든 상태에 붙는 표시.;
+	}
+
+[Preview]
+	{
+	ko=미리 보기;
+	}
+
+[The ten player colours, then OK, caution, danger and information.]
+	{
+	ko=플레이어 색상 10가지, 이어서 정상, 주의, 위험, 정보 색상.;
+	}
+
+[Screen reader]
+	{
+	ko=스크린 리더;
+	}
+
+[Automatic works with a screen reader while the system says one is running. On also works with one the system does not report. Off never does.]
+	{
+	ko=‘자동’은 시스템이 스크린 리더 실행 중이라고 알리는 동안 스크린 리더와 함께 작동합니다. ‘켜짐’은 시스템이 알리지 않는 스크린 리더와도 작동합니다. ‘꺼짐’은 작동하지 않습니다.;
+	}
+
+[Nothing on this system can speak.]
+	{
+	ko=이 시스템에는 음성을 낼 수 있는 것이 없습니다.;
+	}
+
+[Speak chat]
+	{
+	ko=채팅 읽기;
+	}
+
+[Pages only]
+	{
+	ko=쪽지만;
+	}
+
+[Chat lines and whispers, pages only, or neither.]
+	{
+	ko=채팅 줄과 귓속말, 쪽지만, 또는 아무것도 읽지 않습니다.;
+	}
+
+[Speak lobby changes]
+	{
+	ko=대기실 변경 읽기;
+	}
+
+[A player joining or leaving the battle room, and a change of ready, side, colour, team, map or option.]
+	{
+	ko=플레이어의 대기실 입장과 퇴장, 준비, 진영, 색상, 팀, 맵, 옵션의 변경.;
+	}
+
+[Speak the ticker]
+	{
+	ko=티커 읽기;
+	}
+
+[The ticker repeats, so it stays quiet until this is on.]
+	{
+	ko=티커는 같은 내용이 반복되므로 이 항목을 켜기 전에는 읽지 않습니다.;
+	}
+
+[Always show focus]
+	{
+	ko=포커스 항상 표시;
+	}
+
+[The focus ring is drawn on the first item when a screen opens.]
+	{
+	ko=화면이 열릴 때 첫 항목에 포커스 링을 표시합니다.;
+	}
+
+// The Library's Replays section: filters, kinds, sorts, search and the day
+// headings.
+
+[This month]
+	{
+	ko=이번 달;
+	}
+
+[Older]
+	{
+	ko=이전;
+	}
+
+[Kept]
+	{
+	ko=유지됨;
+	}
+
+[Imported]
+	{
+	ko=가져옴;
+	}
+
+[All kinds]
+	{
+	ko=모든 종류;
+	}
+
+[Newest first]
+	{
+	ko=최신순;
+	}
+
+[Longest first]
+	{
+	ko=길이 긴 순;
+	}
+
+[By map]
+	{
+	ko=맵별;
+	}
+
+[Most players first]
+	{
+	ko=플레이어 많은 순;
+	}
+
+[Search replays]
+	{
+	ko=리플레이 검색;
+	}
+
+[Today]
+	{
+	ko=오늘;
+	}
+
+[Yesterday]
+	{
+	ko=어제;
+	}
+
+[{weekday} {day} {month}]
+	{
+	ko={month} {day}일 ({weekday});
+	}
+
+[{weekday} {day} {month} {year}]
+	{
+	ko={year}년 {month} {day}일 ({weekday});
+	}
+
+[Mon]
+	{
+	ko=월;
+	}
+
+[Tue]
+	{
+	ko=화;
+	}
+
+[Wed]
+	{
+	ko=수;
+	}
+
+[Thu]
+	{
+	ko=목;
+	}
+
+[Fri]
+	{
+	ko=금;
+	}
+
+[Sat]
+	{
+	ko=토;
+	}
+
+[Sun]
+	{
+	ko=일;
+	}
+
+[Jan]
+	{
+	ko=1월;
+	}
+
+[Feb]
+	{
+	ko=2월;
+	}
+
+[Mar]
+	{
+	ko=3월;
+	}
+
+[Apr]
+	{
+	ko=4월;
+	}
+
+[May]
+	{
+	ko=5월;
+	}
+
+[Jun]
+	{
+	ko=6월;
+	}
+
+[Jul]
+	{
+	ko=7월;
+	}
+
+[Aug]
+	{
+	ko=8월;
+	}
+
+[Sep]
+	{
+	ko=9월;
+	}
+
+[Oct]
+	{
+	ko=10월;
+	}
+
+[Nov]
+	{
+	ko=11월;
+	}
+
+[Dec]
+	{
+	ko=12월;
+	}
+
+// The Library's replay rows and cards: chips, results, facts, buttons and the
+// empty lists.
+
+[{left} vs {right}]
+	{
+	ko={left} 대 {right};
+	}
+
+[{kind} · {planet}]
+	{
+	ko={kind} · {planet};
+	}
+
+[{kind} · {planet}, {sector}]
+	{
+	ko={kind} · {planet}, {sector};
+	}
+
+[After a crash]
+	{
+	ko=비정상 종료 후;
+	}
+
+[Reading…]
+	{
+	ko=읽는 중…;
+	}
+
+[Won]
+	{
+	ko=승리;
+	}
+
+[Lost]
+	{
+	ko=패배;
+	}
+
+[1 kill]
+	{
+	ko=처치 1;
+	}
+
+[{kills} kills]
+	{
+	ko=처치 {kills};
+	}
+
+[1 loss]
+	{
+	ko=손실 1;
+	}
+
+[{losses} losses]
+	{
+	ko=손실 {losses};
+	}
+
+[Watched to {time}]
+	{
+	ko={time}까지 관전함;
+	}
+
+[Damaged]
+	{
+	ko=손상됨;
+	}
+
+[Length]
+	{
+	ko=길이;
+	}
+
+[Recorded]
+	{
+	ko=녹화;
+	}
+
+[File]
+	{
+	ko=파일;
+	}
+
+[Kept until]
+	{
+	ko=유지 기한;
+	}
+
+[Until you delete it]
+	{
+	ko=삭제할 때까지;
+	}
+
+[Imported replays are kept]
+	{
+	ko=가져온 리플레이는 보관됩니다;
+	}
+
+[Downloaded replays are kept]
+	{
+	ko=다운로드한 리플레이는 보관됩니다;
+	}
+
+[Exported replays are kept]
+	{
+	ko=내보낸 리플레이는 보관됩니다;
+	}
+
+[{mod} (rev {revision})]
+	{
+	ko={mod} (리비전 {revision});
+	}
+
+[Arm]
+	{
+	ko=ARM;
+	}
+
+[Core]
+	{
+	ko=CORE;
+	}
+
+[Watcher]
+	{
+	ko=관전자;
+	}
+
+[Watch]
+	{
+	ko=관전;
+	}
+
+[Watch from {time}]
+	{
+	ko={time}부터 관전;
+	}
+
+[Turn on recording]
+	{
+	ko=녹화 켜기;
+	}
+
+[Open a replay file…]
+	{
+	ko=리플레이 파일 열기…;
+	}
+
+[Delete replay]
+	{
+	ko=리플레이 삭제;
+	}
+
+[{count} replays selected]
+	{
+	ko=리플레이 {count}개 선택됨;
+	}
+
+[This replay cannot be watched.]
+	{
+	ko=이 리플레이는 관전할 수 없습니다.;
+	}
+
+[This replay could not be moved to the trash.]
+	{
+	ko=이 리플레이를 휴지통으로 옮기지 못했습니다.;
+	}
+
+[{count} replays could not be moved to the trash.]
+	{
+	ko=리플레이 {count}개를 휴지통으로 옮기지 못했습니다.;
+	}
+
+[No replays yet.]
+	{
+	ko=아직 리플레이가 없습니다.;
+	}
+
+[Games you play are kept here for 30 days.]
+	{
+	ko=플레이한 게임은 이곳에 30일 동안 보관됩니다.;
+	}
+
+[Games you play are kept here for 90 days.]
+	{
+	ko=플레이한 게임은 이곳에 90일 동안 보관됩니다.;
+	}
+
+[Games you play are kept here for a year.]
+	{
+	ko=플레이한 게임은 이곳에 1년 동안 보관됩니다.;
+	}
+
+[Games you play are kept here until you delete them.]
+	{
+	ko=플레이한 게임은 직접 삭제할 때까지 이곳에 보관됩니다.;
+	}
+
+[Old replays]
+	{
+	ko=오래된 리플레이;
+	}
+
+[Keep them all]
+	{
+	ko=모두 유지;
+	}
+
+[Let them go]
+	{
+	ko=정리하기;
+	}
+
+[1 replay is older than you asked to keep. It goes to the system's trash.]
+	{
+	ko=리플레이 1개가 설정한 보관 기간보다 오래되었습니다. 시스템 휴지통으로 이동합니다.;
+	}
+
+[{count} replays are older than you asked to keep. They go to the system's trash.]
+	{
+	ko=리플레이 {count}개가 설정한 보관 기간보다 오래되었습니다. 시스템 휴지통으로 이동합니다.;
+	}
+
+[1 replay is older than you asked to keep. It is deleted. This system has no trash.]
+	{
+	ko=리플레이 1개가 설정한 보관 기간보다 오래되었습니다. 삭제됩니다. 이 시스템에는 휴지통이 없습니다.;
+	}
+
+[{count} replays are older than you asked to keep. They are deleted. This system has no trash.]
+	{
+	ko=리플레이 {count}개가 설정한 보관 기간보다 오래되었습니다. 삭제됩니다. 이 시스템에는 휴지통이 없습니다.;
+	}
+
+[Recording is off.]
+	{
+	ko=녹화가 꺼져 있습니다.;
+	}
+
+[No replays from this month.]
+	{
+	ko=이번 달 리플레이가 없습니다.;
+	}
+
+[No older replays.]
+	{
+	ko=이전 리플레이가 없습니다.;
+	}
+
+[No replays kept.]
+	{
+	ko=유지한 리플레이가 없습니다.;
+	}
+
+[No replays imported.]
+	{
+	ko=가져온 리플레이가 없습니다.;
+	}
+
+[No replays of this kind.]
+	{
+	ko=이 종류의 리플레이가 없습니다.;
+	}
+
+[Reading the replays…]
+	{
+	ko=리플레이를 읽는 중…;
+	}
+
+[Reading {read} of {total} replays]
+	{
+	ko=리플레이 {total}개 중 {read}개 읽는 중;
+	}
+
+[1 replay · {size}]
+	{
+	ko=리플레이 1개 · {size};
+	}
+
+[{count} replays · {size}]
+	{
+	ko=리플레이 {count}개 · {size};
+	}
+
+// What a replay needs before it plays: chips, the card's sentences and the
+// Watch buttons.
+
+[Needs {name} {version}]
+	{
+	ko={name} {version} 필요;
+	}
+
+[Needs map]
+	{
+	ko=맵 필요;
+	}
+
+[Needs mutator]
+	{
+	ko=뮤테이터 필요;
+	}
+
+[Needs {name}.]
+	{
+	ko=필요한 확장팩: {name}.;
+	}
+
+[Needs {version}]
+	{
+	ko={version} 필요;
+	}
+
+[This replay was recorded with {name}.]
+	{
+	ko=이 리플레이는 {name} 모드로 녹화되었습니다.;
+	}
+
+[This replay was recorded with {name} {version}.]
+	{
+	ko=이 리플레이는 {name} {version} 모드로 녹화되었습니다.;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}).]
+	{
+	ko=이 리플레이는 {name} {version} (리비전 {revision}) 모드로 녹화되었습니다.;
+	}
+
+[This replay was recorded with {name}. You have {have}.]
+	{
+	ko=이 리플레이는 {name} 모드로 녹화되었습니다. 설치된 버전: {have}.;
+	}
+
+[This replay was recorded with {name} {version}. You have {have}.]
+	{
+	ko=이 리플레이는 {name} {version} 모드로 녹화되었습니다. 설치된 버전: {have}.;
+	}
+
+[This replay was recorded with {name} {version} (rev {revision}). You have {have}.]
+	{
+	ko=이 리플레이는 {name} {version} (리비전 {revision}) 모드로 녹화되었습니다. 설치된 버전: {have}.;
+	}
+
+[Needs the map {name}.]
+	{
+	ko=필요한 맵: {name}.;
+	}
+
+[From the map pack {pack}.]
+	{
+	ko=맵 팩 {pack}에 들어 있습니다.;
+	}
+
+[This replay was recorded with another release of the map pack {name}.]
+	{
+	ko=이 리플레이는 맵 팩 {name}의 다른 버전으로 녹화되었습니다.;
+	}
+
+[Needs the mutator {name}.]
+	{
+	ko=필요한 뮤테이터: {name}.;
+	}
+
+[Needs Open Annihilation {version}.]
+	{
+	ko=필요한 버전: Open Annihilation {version}.;
+	}
+
+[Getting {name}… {percent}%]
+	{
+	ko={name} 받는 중… {percent}%;
+	}
+
+[Get {name} {version} and watch]
+	{
+	ko={name} {version} 받고 관전;
+	}
+
+[Get it and watch]
+	{
+	ko=받고 관전;
+	}
+
+[Get them and watch]
+	{
+	ko=모두 받고 관전;
+	}
+
+[Turn on and watch]
+	{
+	ko=켜고 관전;
+	}
+
+[{name} {version} is not in {registry}'s catalogue.]
+	{
+	ko={registry}의 목록에 {name} {version} 패키지가 없습니다.;
+	}
+
+[{name} is not in {registry}'s catalogue.]
+	{
+	ko={registry}의 목록에 {name} 패키지가 없습니다.;
+	}
+
+[You're offline.]
+	{
+	ko=오프라인 상태입니다.;
+	}
+
+[Get {name} {version} when you're back online.]
+	{
+	ko=다시 온라인이 되면 {name} {version} 패키지를 받으세요.;
+	}
+
+[Get {name} when you're back online.]
+	{
+	ko=다시 온라인이 되면 {name} 패키지를 받으세요.;
+	}
+
+[Downloads are off for {registry}.]
+	{
+	ko={registry}의 다운로드가 꺼져 있습니다.;
+	}
+
+// Core Prime's replays in the Library: the list, downloads, sign-in and
+// sharing.
+
+[On this computer]
+	{
+	ko=이 컴퓨터에 있음;
+	}
+
+[On Core Prime]
+	{
+	ko=Core Prime에 있음;
+	}
+
+[Longest]
+	{
+	ko=긴 순;
+	}
+
+[Popular]
+	{
+	ko=인기;
+	}
+
+[By planet]
+	{
+	ko=행성별;
+	}
+
+[My battles]
+	{
+	ko=내 전투;
+	}
+
+[Browse Core Prime's replays]
+	{
+	ko=Core Prime 리플레이 둘러보기;
+	}
+
+[Reading Core Prime's replays…]
+	{
+	ko=Core Prime 리플레이를 읽는 중…;
+	}
+
+[Core Prime's list cannot be read.]
+	{
+	ko=Core Prime의 목록을 읽을 수 없습니다.;
+	}
+
+[Core Prime's replays are not available just now.]
+	{
+	ko=Core Prime의 리플레이를 지금은 이용할 수 없습니다.;
+	}
+
+[Core Prime cannot be reached.]
+	{
+	ko=Core Prime에 연결할 수 없습니다.;
+	}
+
+[Core Prime has no replays to show.]
+	{
+	ko=Core Prime에 표시할 리플레이가 없습니다.;
+	}
+
+[No replays for this planet.]
+	{
+	ko=이 행성의 리플레이가 없습니다.;
+	}
+
+[1 replay]
+	{
+	ko=리플레이 1개;
+	}
+
+[{count} replays]
+	{
+	ko=리플레이 {count}개;
+	}
+
+[Getting the replay…]
+	{
+	ko=리플레이를 받는 중…;
+	}
+
+[The file does not match the replay.]
+	{
+	ko=파일이 리플레이와 일치하지 않습니다.;
+	}
+
+[The replay names no file.]
+	{
+	ko=리플레이에 지정된 파일이 없습니다.;
+	}
+
+[The replay could not be saved.]
+	{
+	ko=리플레이를 저장하지 못했습니다.;
+	}
+
+[Try again in {seconds} s.]
+	{
+	ko={seconds}초 후에 다시 시도하세요.;
+	}
+
+[The check ran out. Try again for a new code.]
+	{
+	ko=확인 시간이 지났습니다. 다시 시도해 새 코드를 받으세요.;
+	}
+
+[Go to {address} and enter {code}.]
+	{
+	ko={address}에 접속한 뒤 다음 코드를 입력하세요: {code};
+	}
+
+[Sign in]
+	{
+	ko=로그인;
+	}
+
+[Sign out]
+	{
+	ko=로그아웃;
+	}
+
+[Sign in to Core Prime]
+	{
+	ko=Core Prime 로그인;
+	}
+
+[Handle]
+	{
+	ko=핸들;
+	}
+
+[Password]
+	{
+	ko=비밀번호;
+	}
+
+[Forgot it? Reset it at coreprime.net/forgot]
+	{
+	ko=비밀번호를 잊으셨나요? coreprime.net/forgot에서 재설정하세요;
+	}
+
+[Signing in…]
+	{
+	ko=로그인 중…;
+	}
+
+[Signing in needs a secure connection, which this system does not have.]
+	{
+	ko=로그인하려면 보안 연결이 필요하지만 이 시스템에서는 사용할 수 없습니다.;
+	}
+
+[Share on Core Prime…]
+	{
+	ko=Core Prime에 공유…;
+	}
+
+[Share my own recording]
+	{
+	ko=내 녹화 공유;
+	}
+
+[Open on Core Prime]
+	{
+	ko=Core Prime에서 열기;
+	}
+
+[Share]
+	{
+	ko=공유;
+	}
+
+[Share on Core Prime]
+	{
+	ko=Core Prime에 공유;
+	}
+
+[Title]
+	{
+	ko=제목;
+	}
+
+[Public]
+	{
+	ko=공개;
+	}
+
+[Unlisted]
+	{
+	ko=일부 공개;
+	}
+
+[Sharing…]
+	{
+	ko=공유 중…;
+	}
+
+[Shared on Core Prime]
+	{
+	ko=Core Prime에 공유됨;
+	}
+
+[Already on Core Prime]
+	{
+	ko=이미 Core Prime에 있음;
+	}
+
+[Sign in to share a replay.]
+	{
+	ko=리플레이를 공유하려면 로그인하세요.;
+	}
+
+[This account cannot share replays.]
+	{
+	ko=이 계정은 리플레이를 공유할 수 없습니다.;
+	}
+
+[Only a player in that battle can replace its replay.]
+	{
+	ko=해당 전투에 참가한 플레이어만 그 리플레이를 교체할 수 있습니다.;
+	}
+
+[The replay is larger than the limit.]
+	{
+	ko=리플레이가 크기 제한을 초과합니다.;
+	}
+
+[This account has shared its replays for today.]
+	{
+	ko=이 계정은 오늘 공유할 수 있는 리플레이를 모두 공유했습니다.;
+	}
+
+[Uploads are not available.]
+	{
+	ko=업로드를 사용할 수 없습니다.;
+	}
+
+[Core Prime did not start a session.]
+	{
+	ko=Core Prime이 세션을 시작하지 않았습니다.;
+	}
+
+[Core Prime did not answer.]
+	{
+	ko=Core Prime이 응답하지 않았습니다.;
+	}
+
+// The Library's Export dialog for replays.
+
+[Export…]
+	{
+	ko=내보내기…;
+	}
+
+[Export]
+	{
+	ko=내보내기;
+	}
+
+[Export {name}]
+	{
+	ko={name} 내보내기;
+	}
+
+[Export {count} replays]
+	{
+	ko=리플레이 {count}개 내보내기;
+	}
+
+[Open Annihilation replay (.oademo)]
+	{
+	ko=Open Annihilation 리플레이 (.oademo);
+	}
+
+[Everything needed to watch it: the recording, and the game, mod and map it needs]
+	{
+	ko=관전에 필요한 모든 것: 녹화, 그리고 녹화에 필요한 게임, 모드, 맵;
+	}
+
+[TA Demo Recorder (.tad)]
+	{
+	ko=TA Demo Recorder (.tad);
+	}
+
+[For TA Demo Recorder and other replayers]
+	{
+	ko=TA Demo Recorder 및 다른 리플레이 프로그램용;
+	}
+
+[What to include]
+	{
+	ko=포함할 항목;
+	}
+
+[What only Open Annihilation reads]
+	{
+	ko=Open Annihilation만 읽는 항목;
+	}
+
+[Compatibility]
+	{
+	ko=호환성;
+	}
+
+[It was played with the mutator {name}. Other replayers cannot apply it, so commanders may not last as they did.]
+	{
+	ko={name} 뮤테이터를 사용해 플레이한 게임입니다. 다른 리플레이 프로그램은 이를 적용할 수 없어 커맨더가 원래처럼 살아남지 못할 수 있습니다.;
+	}
+
+[It was played with mutators. Other replayers cannot apply them, so commanders may not last as they did.]
+	{
+	ko=뮤테이터를 사용해 플레이한 게임입니다. 다른 리플레이 프로그램은 뮤테이터를 적용할 수 없어 커맨더가 원래처럼 살아남지 못할 수 있습니다.;
+	}
+
+[Other replayers stop at the first of this mod's wide weapon records.]
+	{
+	ko=다른 리플레이 프로그램은 이 모드의 확장형 무기 기록 중 첫 번째에서 멈춥니다.;
+	}
+
+[Names longer than 63 letters are cut.]
+	{
+	ko=63자를 넘는 이름은 잘립니다.;
+	}
+
+[A player's status is cut to 512 bytes.]
+	{
+	ko=플레이어의 상태 정보는 512바이트로 잘립니다.;
+	}
+
+[Exporting {done} of {total}]
+	{
+	ko=내보내는 중: {total}개 중 {done}개;
+	}
+
+[Compressing the recording]
+	{
+	ko=녹화 압축 중;
+	}
+
+[Writing {name}]
+	{
+	ko={name} 쓰는 중;
+	}
+
+[Measuring…]
+	{
+	ko=크기 확인 중…;
+	}
+
+[Saved to {folder}]
+	{
+	ko={folder}에 저장됨;
+	}
+
+[Show in folder]
+	{
+	ko=폴더에서 보기;
+	}
+
+[Nothing is selected. Choose a replay, then export it.]
+	{
+	ko=선택한 항목이 없습니다. 리플레이를 선택한 다음 내보내세요.;
+	}
+
+[The export could not be written.]
+	{
+	ko=내보내기 파일을 쓸 수 없습니다.;
+	}
+
+[There is no room in {folder}.]
+	{
+	ko={folder}에 남은 공간이 없습니다.;
+	}
+
+[Open Annihilation cannot write to {folder}.]
+	{
+	ko=Open Annihilation은 {folder}에 쓸 수 없습니다.;
+	}
+
+[Saved {done} of {total}.]
+	{
+	ko={total}개 중 {done}개를 저장했습니다.;
+	}
+
+[This replay cannot be read, so it cannot be exported.]
+	{
+	ko=이 리플레이를 읽을 수 없어 내보낼 수 없습니다.;
+	}
+
+[More folders]
+	{
+	ko=폴더 더 보기;
+	}
+
+[Previous folders]
+	{
+	ko=이전 폴더;
+	}
+
+[More warnings]
+	{
+	ko=경고 더 보기;
+	}
+
+[Previous warnings]
+	{
+	ko=이전 경고;
+	}
+
+// Messages about replay and recording files, and about jumping in a replay.
+
+[This recording cannot be read.]
+	{
+	ko=이 녹화를 읽을 수 없습니다.;
+	}
+
+[This file cannot be read.]
+	{
+	ko=이 파일을 읽을 수 없습니다.;
+	}
+
+[This file is too large to be a replay.]
+	{
+	ko=이 파일은 리플레이로 쓰기에는 너무 큽니다.;
+	}
+
+[This file is not a TA Demo recording]
+	{
+	ko=이 파일은 TA Demo 녹화가 아닙니다;
+	}
+
+[This replay could not be copied into Recordings.]
+	{
+	ko=이 리플레이를 Recordings 폴더에 복사하지 못했습니다.;
+	}
+
+[This recording is in version {version} of the format, which Open Annihilation does not play]
+	{
+	ko=이 녹화는 형식 버전 {version}이며, Open Annihilation에서 재생할 수 없습니다;
+	}
+
+[Added {title} to Replays]
+	{
+	ko=리플레이에 추가됨: {title};
+	}
+
+[This file is not a replay.]
+	{
+	ko=이 파일은 리플레이가 아닙니다.;
+	}
+
+[This replay is not a version this game reads.]
+	{
+	ko=이 리플레이는 이 게임이 읽을 수 있는 버전이 아닙니다.;
+	}
+
+[This replay does not hold one recording.]
+	{
+	ko=이 리플레이에 들어 있는 녹화가 하나가 아닙니다.;
+	}
+
+[This replay's recording does not match.]
+	{
+	ko=이 리플레이의 녹화가 일치하지 않습니다.;
+	}
+
+[This replay's recording is too long to play.]
+	{
+	ko=이 리플레이의 녹화는 너무 길어 재생할 수 없습니다.;
+	}
+
+[This replay's details cannot be read.]
+	{
+	ko=이 리플레이의 상세 정보를 읽을 수 없습니다.;
+	}
+
+[This replay's recording cannot be read.]
+	{
+	ko=이 리플레이의 녹화를 읽을 수 없습니다.;
+	}
+
+[Jumping back isn't available in this replay.]
+	{
+	ko=이 리플레이에서는 뒤로 건너뛸 수 없습니다.;
+	}
+
+[Jumping back needs more memory than this device has.]
+	{
+	ko=뒤로 건너뛰려면 이 기기에 있는 것보다 많은 메모리가 필요합니다.;
+	}
+
+[This replay could not jump to {time} and has stopped.]
+	{
+	ko={time} 지점으로 이동하지 못해 이 리플레이가 멈췄습니다.;
+	}
+
+// The replay viewer's playback bar, player list, timeline and end card.
+
+[Catching up… {percent} %]
+	{
+	ko=따라잡는 중… {percent} %;
+	}
+
+[The recording is damaged after {time}]
+	{
+	ko=녹화가 {time} 이후 손상되었습니다;
+	}
+
+[Watch again]
+	{
+	ko=다시 관전;
+	}
+
+[Back to the Library]
+	{
+	ko=라이브러리로 돌아가기;
+	}
+
+[Undecided]
+	{
+	ko=승패 미정;
+	}
+
+[{name} won]
+	{
+	ko={name} 승리;
+	}
+
+[{time} · {name}'s commander destroyed]
+	{
+	ko={time} · {name}의 커맨더 파괴됨;
+	}
+
+[{time} · {name} dropped]
+	{
+	ko={time} · {name} 연결 끊김;
+	}
+
+[{time} · {name} left]
+	{
+	ko={time} · {name} 퇴장;
+	}
+
+[{time} · {name} was defeated]
+	{
+	ko={time} · {name} 패배;
+	}
+
+[{time} · {name} allied]
+	{
+	ko={time} · {name} 동맹 체결;
+	}
+
+[{time} · {name} broke the alliance]
+	{
+	ko={time} · {name} 동맹 파기;
+	}
+
+[{time} · {name}: {line}]
+	{
+	ko={time} · {name}: {line};
+	}
+
+[{time} · Paused]
+	{
+	ko={time} · 일시 정지;
+	}
+
+[{time} · End]
+	{
+	ko={time} · 종료;
+	}
+
+[{asked} · {reached} now]
+	{
+	ko={asked} · 현재 {reached};
+	}
+
+[½×]
+	{
+	ko=½×;
+	}
+
+[Losses]
+	{
+	ko=손실;
+	}
+
+[Leave]
+	{
+	ko=나가기;
+	}
+
+[Photo]
+	{
+	ko=사진;
+	}
+
+[No markers yet · finding them, {percent} %]
+	{
+	ko=마커 없음 · 찾는 중, {percent} %;
+	}
+
+[Only a replay in the Library can be exported]
+	{
+	ko=라이브러리에 있는 리플레이만 내보낼 수 있습니다;
+	}
+
+[No result]
+	{
+	ko=결과 없음;
+	}
+
+[All players]
+	{
+	ko=모든 플레이어;
+	}
+
+[Follow their camera]
+	{
+	ko=해당 플레이어 카메라 따라가기;
+	}
+
+[Follow a unit]
+	{
+	ko=유닛 따라가기;
+	}
+
+[Director]
+	{
+	ko=자동 연출;
+	}
+
+[Defeated {time}]
+	{
+	ko={time} 패배;
+	}
+
+[Left {time}]
+	{
+	ko={time} 퇴장;
+	}
+
+// Photo mode's panel: its head, sections, time and camera rows.
+
+[Photo mode]
+	{
+	ko=사진 모드;
+	}
+
+[PHOTO MODE]
+	{
+	ko=사진 모드;
+	}
+
+[Esc leaves]
+	{
+	ko=나가기: Esc;
+	}
+
+[{key} or Esc leaves]
+	{
+	ko=나가기: {key} 또는 Esc;
+	}
+
+[{key} shows the panel]
+	{
+	ko=패널 표시: {key};
+	}
+
+[Show panel]
+	{
+	ko=패널 표시;
+	}
+
+[Hide panel]
+	{
+	ko=패널 숨기기;
+	}
+
+[Expanded]
+	{
+	ko=펼쳐짐;
+	}
+
+[Collapsed]
+	{
+	ko=접힘;
+	}
+
+[Replay paused]
+	{
+	ko=리플레이 일시 정지;
+	}
+
+[Live]
+	{
+	ko=실시간;
+	}
+
+[Frozen]
+	{
+	ko=정지됨;
+	}
+
+[Held]
+	{
+	ko=유지됨;
+	}
+
+[Held picture]
+	{
+	ko=화면 유지 중;
+	}
+
+[Slow]
+	{
+	ko=느리게;
+	}
+
+[Run]
+	{
+	ko=진행;
+	}
+
+[Freeze]
+	{
+	ko=정지;
+	}
+
+[Hold picture]
+	{
+	ko=화면 유지;
+	}
+
+[Step]
+	{
+	ko=한 틱 진행;
+	}
+
+[Between ticks]
+	{
+	ko=틱 사이;
+	}
+
+[Speed]
+	{
+	ko=속도;
+	}
+
+[Clock]
+	{
+	ko=시계;
+	}
+
+[Time]
+	{
+	ko=시간;
+	}
+
+[Shared game]
+	{
+	ko=멀티플레이 게임;
+	}
+
+[Follow unit]
+	{
+	ko=유닛 따라가기;
+	}
+
+[Turn]
+	{
+	ko=회전;
+	}
+
+[Tilt]
+	{
+	ko=기울기;
+	}
+
+[Far]
+	{
+	ko=멀리;
+	}
+
+[Near]
+	{
+	ko=가까이;
+	}
+
+[Closest]
+	{
+	ko=가장 가까이;
+	}
+
+[Needs Full 3D Mode]
+	{
+	ko=완전 3D 모드 필요;
+	}
+
+[The graphics card draws no farther out than this.]
+	{
+	ko=그래픽 카드는 이보다 멀리 그릴 수 없습니다.;
+	}
+
+// Photo mode's Look section: guides, grades, vignette, grain, frames and depth.
+
+[Show selection]
+	{
+	ko=선택 표시;
+	}
+
+[Show health bars]
+	{
+	ko=체력 막대 표시;
+	}
+
+[Player names]
+	{
+	ko=플레이어 이름;
+	}
+
+[Guides]
+	{
+	ko=가이드;
+	}
+
+[Thirds]
+	{
+	ko=3분할;
+	}
+
+[Safe area]
+	{
+	ko=안전 영역;
+	}
+
+[Centre lines]
+	{
+	ko=중앙선;
+	}
+
+[Dusk]
+	{
+	ko=황혼;
+	}
+
+[Arctic]
+	{
+	ko=북극;
+	}
+
+[Noir]
+	{
+	ko=누아르;
+	}
+
+[Bleach]
+	{
+	ko=탈색;
+	}
+
+[Vignette]
+	{
+	ko=비네팅;
+	}
+
+[Roundness]
+	{
+	ko=둥근 정도;
+	}
+
+[Grain]
+	{
+	ko=필름 입자;
+	}
+
+[Grain size]
+	{
+	ko=입자 크기;
+	}
+
+[Frame]
+	{
+	ko=액자;
+	}
+
+[Thin border]
+	{
+	ko=얇은 테두리;
+	}
+
+[Wide mat]
+	{
+	ko=넓은 매트;
+	}
+
+[Caption bar]
+	{
+	ko=캡션 바;
+	}
+
+[The preview lowers the frame rate.]
+	{
+	ko=미리 보기 중에는 프레임 레이트가 낮아집니다.;
+	}
+
+[Depth]
+	{
+	ko=깊이;
+	}
+
+[Band centre]
+	{
+	ko=띠 중심;
+	}
+
+[Band width]
+	{
+	ko=띠 너비;
+	}
+
+[Blur]
+	{
+	ko=흐림;
+	}
+
+[Blurs by screen row, not by depth.]
+	{
+	ko=깊이가 아니라 화면의 행을 기준으로 흐리게 합니다.;
+	}
+
+[Haze]
+	{
+	ko=안개;
+	}
+
+[Follows the ground, not the units.]
+	{
+	ko=유닛이 아니라 지면을 따릅니다.;
+	}
+
+[Depth of field]
+	{
+	ko=피사계 심도;
+	}
+
+[This graphics card keeps no depth.]
+	{
+	ko=이 그래픽 카드는 깊이 정보를 보관하지 않습니다.;
+	}
+
+// Photo mode's Photo section: sizes, posters, limits and the notices after a
+// photo.
+
+[Screen]
+	{
+	ko=화면;
+	}
+
+[2×]
+	{
+	ko=2×;
+	}
+
+[3×]
+	{
+	ko=3×;
+	}
+
+[4×]
+	{
+	ko=4×;
+	}
+
+[Smooth edges]
+	{
+	ko=가장자리 매끄럽게;
+	}
+
+[Copy to clipboard]
+	{
+	ko=클립보드에 복사;
+	}
+
+[Poster]
+	{
+	ko=포스터;
+	}
+
+[The view]
+	{
+	ko=현재 화면;
+	}
+
+[Area]
+	{
+	ko=영역;
+	}
+
+[Freeze the picture]
+	{
+	ko=화면을 정지하세요;
+	}
+
+[A poster is the map from above: Classic view, {key}]
+	{
+	ko=포스터는 위에서 본 맵입니다: 클래식 보기, {key};
+	}
+
+[This graphics card draws at most {limit} pixels a side]
+	{
+	ko=이 그래픽 카드는 한 변이 최대 {limit}픽셀까지 그립니다;
+	}
+
+[A photo is at most {limit} pixels a side]
+	{
+	ko=사진은 한 변이 최대 {limit}픽셀입니다;
+	}
+
+[The 3D view draws at most {limit} pixels a side at this anti-aliasing]
+	{
+	ko=3D 화면은 이 안티에일리어싱에서 한 변이 최대 {limit}픽셀까지 그립니다;
+	}
+
+[Not enough memory]
+	{
+	ko=메모리 부족;
+	}
+
+[Off and Basic draw whole pixels]
+	{
+	ko=‘꺼짐’과 ‘기본’은 픽셀 단위로 그립니다;
+	}
+
+[Take photo]
+	{
+	ko=사진 촬영;
+	}
+
+[Photo not taken]
+	{
+	ko=사진을 찍지 못함;
+	}
+
+[Saved {name}]
+	{
+	ko={name} 저장됨;
+	}
+
+[Photo not saved: {reason}]
+	{
+	ko=사진 저장 실패: {reason};
+	}
+
+[Photo not copied: {reason}]
+	{
+	ko=사진 복사 실패: {reason};
+	}
+
+[photo mode is not on]
+	{
+	ko=사진 모드가 꺼져 있음;
+	}
+
+[four photos are still being saved]
+	{
+	ko=사진 4장을 아직 저장하는 중;
+	}
+
+[the picture could not be read]
+	{
+	ko=화면을 읽을 수 없음;
+	}
+
+[the graphics device was lost]
+	{
+	ko=그래픽 장치가 끊어짐;
+	}
+
+[the file could not be written]
+	{
+	ko=파일을 쓸 수 없음;
+	}
+
+[the picture could not be drawn]
+	{
+	ko=화면을 그릴 수 없음;
+	}
+
+[a side is above 8192 pixels]
+	{
+	ko=한 변이 8192픽셀을 넘음;
+	}
+
+[the photo is above 128 MB]
+	{
+	ko=사진이 128 MB를 넘음;
+	}
+
+[the clipboard did not take the photo]
+	{
+	ko=클립보드가 사진을 받지 않음;
+	}
+
+[not available in Game Mode]
+	{
+	ko=게임 모드에서는 사용할 수 없음;
+	}
+
+[the clipboard holds text only]
+	{
+	ko=클립보드가 텍스트만 지원함;
+	}
+
+[chat lines]
+	{
+	ko=채팅 줄;
+	}
+
+// Key actions for photo mode, replays and the camera, and the keys overlay's
+// photo mode wording.
+
+[Opens photo mode]
+	{
+	ko=사진 모드를 엽니다.;
+	}
+
+[Leaves photo mode]
+	{
+	ko=사진 모드에서 나갑니다.;
+	}
+
+[Writes a photo of the battlefield]
+	{
+	ko=전장 사진을 파일로 저장합니다.;
+	}
+
+[Copy last photo]
+	{
+	ko=마지막 사진 복사;
+	}
+
+[Offers the last photo to the clipboard]
+	{
+	ko=마지막 사진을 클립보드에 넘깁니다.;
+	}
+
+[Freeze / Hold picture]
+	{
+	ko=정지 / 화면 유지;
+	}
+
+[Holds the clock, or keeps this screen's last frame in a shared match]
+	{
+	ko=시계를 멈추거나, 멀티플레이 게임에서는 이 화면의 마지막 프레임을 유지합니다.;
+	}
+
+[Step a tick]
+	{
+	ko=한 틱 진행;
+	}
+
+[Advances one tick, then freezes]
+	{
+	ko=한 틱 진행한 뒤 정지합니다.;
+	}
+
+[Step back]
+	{
+	ko=한 틱 뒤로;
+	}
+
+[Goes back one tick, then freezes]
+	{
+	ko=한 틱 되돌린 뒤 정지합니다.;
+	}
+
+[Shutter back]
+	{
+	ko=셔터 뒤로;
+	}
+
+[Moves the shutter one eighth toward the previous tick]
+	{
+	ko=셔터를 이전 틱 쪽으로 8분의 1만큼 옮깁니다.;
+	}
+
+[Shutter on]
+	{
+	ko=셔터 앞으로;
+	}
+
+[Moves the shutter one eighth toward the frozen tick]
+	{
+	ko=셔터를 정지한 틱 쪽으로 8분의 1만큼 옮깁니다.;
+	}
+
+[Zooms in on the photo]
+	{
+	ko=사진 화면을 확대합니다.;
+	}
+
+[Zooms out on the photo]
+	{
+	ko=사진 화면을 축소합니다.;
+	}
+
+[Turn left]
+	{
+	ko=왼쪽으로 회전;
+	}
+
+[Turns the camera left]
+	{
+	ko=카메라를 왼쪽으로 회전합니다.;
+	}
+
+[Turn right]
+	{
+	ko=오른쪽으로 회전;
+	}
+
+[Turns the camera right]
+	{
+	ko=카메라를 오른쪽으로 회전합니다.;
+	}
+
+[Tilt up]
+	{
+	ko=위로 기울이기;
+	}
+
+[Tilts the camera up]
+	{
+	ko=카메라를 위로 기울입니다.;
+	}
+
+[Tilt down]
+	{
+	ko=아래로 기울이기;
+	}
+
+[Tilts the camera down]
+	{
+	ko=카메라를 아래로 기울입니다.;
+	}
+
+[Hides and shows the photo panel]
+	{
+	ko=사진 패널을 숨기거나 다시 표시합니다.;
+	}
+
+[Cycles the guides over the battlefield]
+	{
+	ko=전장 위의 가이드를 순환합니다.;
+	}
+
+[Mark area]
+	{
+	ko=영역 표시;
+	}
+
+[Starts a poster mark at the view's centre]
+	{
+	ko=화면 중앙에서 포스터 영역 표시를 시작합니다.;
+	}
+
+[Grow the mark left]
+	{
+	ko=표시 영역 왼쪽 확장;
+	}
+
+[Grows the marked area to the left]
+	{
+	ko=표시한 영역을 왼쪽으로 넓힙니다.;
+	}
+
+[Grow the mark right]
+	{
+	ko=표시 영역 오른쪽 확장;
+	}
+
+[Grows the marked area to the right]
+	{
+	ko=표시한 영역을 오른쪽으로 넓힙니다.;
+	}
+
+[Grow the mark up]
+	{
+	ko=표시 영역 위쪽 확장;
+	}
+
+[Grows the marked area up]
+	{
+	ko=표시한 영역을 위쪽으로 넓힙니다.;
+	}
+
+[Grow the mark down]
+	{
+	ko=표시 영역 아래쪽 확장;
+	}
+
+[Grows the marked area down]
+	{
+	ko=표시한 영역을 아래쪽으로 넓힙니다.;
+	}
+
+[Back 10 seconds]
+	{
+	ko=10초 뒤로;
+	}
+
+[Jumps back ten seconds]
+	{
+	ko=10초 뒤로 건너뜁니다.;
+	}
+
+[Forward 10 seconds]
+	{
+	ko=10초 앞으로;
+	}
+
+[Jumps forward ten seconds]
+	{
+	ko=10초 앞으로 건너뜁니다.;
+	}
+
+[Back a minute]
+	{
+	ko=1분 뒤로;
+	}
+
+[Jumps back a minute]
+	{
+	ko=1분 뒤로 건너뜁니다.;
+	}
+
+[Forward a minute]
+	{
+	ko=1분 앞으로;
+	}
+
+[Jumps forward a minute]
+	{
+	ko=1분 앞으로 건너뜁니다.;
+	}
+
+[Play or pause]
+	{
+	ko=재생 또는 일시 정지;
+	}
+
+[Plays or pauses the replay]
+	{
+	ko=리플레이를 재생하거나 일시 정지합니다.;
+	}
+
+[Previous marker]
+	{
+	ko=이전 마커;
+	}
+
+[Jumps to the previous marker]
+	{
+	ko=이전 마커로 건너뜁니다.;
+	}
+
+[Next marker]
+	{
+	ko=다음 마커;
+	}
+
+[Jumps to the next marker]
+	{
+	ko=다음 마커로 건너뜁니다.;
+	}
+
+[Go to the start]
+	{
+	ko=처음으로 이동;
+	}
+
+[Jumps to the start of the replay]
+	{
+	ko=리플레이의 처음으로 건너뜁니다.;
+	}
+
+[Go to the end]
+	{
+	ko=끝으로 이동;
+	}
+
+[Jumps to the end of the replay]
+	{
+	ko=리플레이의 끝으로 건너뜁니다.;
+	}
+
+[Pin the bar]
+	{
+	ko=재생 바 고정;
+	}
+
+[Keeps the playback bar on screen]
+	{
+	ko=재생 바를 화면에 계속 표시합니다.;
+	}
+
+[Shortcut card]
+	{
+	ko=단축키 카드;
+	}
+
+[Shows the playback keys]
+	{
+	ko=재생 키를 보여 줍니다.;
+	}
+
+[Next player's view]
+	{
+	ko=다음 플레이어 시점;
+	}
+
+[Shows the next player's view]
+	{
+	ko=다음 플레이어의 시점을 보여 줍니다.;
+	}
+
+[Previous player's view]
+	{
+	ko=이전 플레이어 시점;
+	}
+
+[Shows the previous player's view]
+	{
+	ko=이전 플레이어의 시점을 보여 줍니다.;
+	}
+
+[All players' view]
+	{
+	ko=모든 플레이어 시점;
+	}
+
+[Shows the whole map and every unit]
+	{
+	ko=맵 전체와 모든 유닛을 보여 줍니다.;
+	}
+
+[Camera mode]
+	{
+	ko=카메라 모드;
+	}
+
+[Changes how the camera follows the game]
+	{
+	ko=카메라가 게임을 따라가는 방식을 바꿉니다.;
+	}
+
+[Focus the panel's buttons]
+	{
+	ko=패널 버튼에 포커스;
+	}
+
+[Moves a ring over the order buttons and the build page. Press again to return to the battlefield.]
+	{
+	ko=명령 버튼과 건설 페이지 위로 링을 옮깁니다. 다시 누르면 전장으로 돌아갑니다.;
+	}
+
+[Closes the megamap and zooms in at the pointer]
+	{
+	ko=메가맵을 닫고 포인터 위치로 확대합니다.;
+	}
+
+[Keys in photo mode]
+	{
+	ko=사진 모드 중의 키;
+	}
+
+[In photo mode]
+	{
+	ko=사진 모드 중;
+	}
+
+[in photo mode]
+	{
+	ko=사진 모드 중;
+	}
+
+// Spoken names: what a screen reader says for a control's kind, and the
+// original screens' controls.
+
+[alert]
+	{
+	ko=알림;
+	}
+
+[button]
+	{
+	ko=버튼;
+	}
+
+[check box]
+	{
+	ko=체크박스;
+	}
+
+[dialog]
+	{
+	ko=대화상자;
+	}
+
+[group]
+	{
+	ko=그룹;
+	}
+
+[image]
+	{
+	ko=이미지;
+	}
+
+[link]
+	{
+	ko=링크;
+	}
+
+[list]
+	{
+	ko=목록;
+	}
+
+[list item]
+	{
+	ko=목록 항목;
+	}
+
+[log]
+	{
+	ko=로그;
+	}
+
+[password]
+	{
+	ko=비밀번호;
+	}
+
+[radio button]
+	{
+	ko=라디오 버튼;
+	}
+
+[radio group]
+	{
+	ko=라디오 그룹;
+	}
+
+[search field]
+	{
+	ko=검색 칸;
+	}
+
+[slider]
+	{
+	ko=슬라이더;
+	}
+
+[switch]
+	{
+	ko=스위치;
+	}
+
+[tab]
+	{
+	ko=탭;
+	}
+
+[tab list]
+	{
+	ko=탭 목록;
+	}
+
+[text]
+	{
+	ko=텍스트;
+	}
+
+[text field]
+	{
+	ko=텍스트 칸;
+	}
+
+[tree]
+	{
+	ko=트리;
+	}
+
+[tree item]
+	{
+	ko=트리 항목;
+	}
+
+[window]
+	{
+	ko=창;
+	}
+
+[{colour}, player {number}]
+	{
+	ko={colour}, 플레이어 {number};
+	}
+
+[Blue]
+	{
+	ko=파란색;
+	}
+
+[Red]
+	{
+	ko=빨간색;
+	}
+
+[White]
+	{
+	ko=흰색;
+	}
+
+[Green]
+	{
+	ko=초록색;
+	}
+
+[Navy]
+	{
+	ko=남색;
+	}
+
+[Purple]
+	{
+	ko=보라색;
+	}
+
+[Yellow]
+	{
+	ko=노란색;
+	}
+
+[Black]
+	{
+	ko=검은색;
+	}
+
+[Light blue]
+	{
+	ko=하늘색;
+	}
+
+[Tan]
+	{
+	ko=황갈색;
+	}
+
+[Alliance]
+	{
+	ko=동맹;
+	}
+
+[Anti-aliasing]
+	{
+	ko=안티에일리어싱;
+	}
+
+[CD music]
+	{
+	ko=CD 음악;
+	}
+
+[Campaigns]
+	{
+	ko=캠페인;
+	}
+
+[Cheat Codes]
+	{
+	ko=치트 코드;
+	}
+
+[Closed]
+	{
+	ko=닫힘;
+	}
+
+[Opened]
+	{
+	ko=열림;
+	}
+
+[Colour]
+	{
+	ko=색상;
+	}
+
+[Commander]
+	{
+	ko=커맨더;
+	}
+
+[Credits]
+	{
+	ko=제작진;
+	}
+
+[Dead Commander]
+	{
+	ko=커맨더 사망;
+	}
+
+[Difficulty]
+	{
+	ko=난이도;
+	}
+
+[Energy]
+	{
+	ko=에너지;
+	}
+
+[Game Status]
+	{
+	ko=게임 상태;
+	}
+
+[Game speed]
+	{
+	ko=게임 속도;
+	}
+
+[Gamma]
+	{
+	ko=감마;
+	}
+
+[Line of Sight]
+	{
+	ko=시야;
+	}
+
+[Line of sight]
+	{
+	ko=시야;
+	}
+
+[Location]
+	{
+	ko=위치;
+	}
+
+[Map]
+	{
+	ko=맵;
+	}
+
+[Mapping]
+	{
+	ko=맵 공개;
+	}
+
+[Mapping Mode]
+	{
+	ko=맵 공개 모드;
+	}
+
+[Max units]
+	{
+	ko=최대 유닛;
+	}
+
+[Metal]
+	{
+	ko=금속;
+	}
+
+[Missions]
+	{
+	ko=미션;
+	}
+
+[Music volume]
+	{
+	ko=음악 볼륨;
+	}
+
+[Next track]
+	{
+	ko=다음 트랙;
+	}
+
+[Play mode]
+	{
+	ko=재생 모드;
+	}
+
+[Play track]
+	{
+	ko=트랙 재생;
+	}
+
+[Previous track]
+	{
+	ko=이전 트랙;
+	}
+
+[Ready]
+	{
+	ko=준비 완료;
+	}
+
+[Saved games]
+	{
+	ko=저장된 게임;
+	}
+
+[Screen scroll]
+	{
+	ko=화면 스크롤;
+	}
+
+[Shading]
+	{
+	ko=음영;
+	}
+
+[Shadows]
+	{
+	ko=그림자;
+	}
+
+[Side]
+	{
+	ko=진영;
+	}
+
+[Sound mode]
+	{
+	ko=사운드 모드;
+	}
+
+[Sound volume]
+	{
+	ko=사운드 볼륨;
+	}
+
+[Start doors]
+	{
+	ko=시작 문;
+	}
+
+[Starting energy]
+	{
+	ko=시작 에너지;
+	}
+
+[Starting metal]
+	{
+	ko=시작 금속;
+	}
+
+[Team]
+	{
+	ko=팀;
+	}
+
+[Text delay]
+	{
+	ko=텍스트 표시 시간;
+	}
+
+[Text lines]
+	{
+	ko=텍스트 줄 수;
+	}
+
+[Track type]
+	{
+	ko=트랙 유형;
+	}
+
+[Unit sounds]
+	{
+	ko=유닛 효과음;
+	}
+
+[Unit text acks]
+	{
+	ko=유닛 텍스트 응답;
+	}
+
+// Spoken updates: the battle room, the match, chat and the saved-games list.
+
+[An option changed]
+	{
+	ko=옵션이 변경되었습니다;
+	}
+
+[Commander under attack]
+	{
+	ko=커맨더가 공격받고 있습니다;
+	}
+
+[Defeat]
+	{
+	ko=패배;
+	}
+
+[Victory]
+	{
+	ko=승리;
+	}
+
+[The countdown has started]
+	{
+	ko=카운트다운이 시작되었습니다;
+	}
+
+[The host has left]
+	{
+	ko=호스트가 떠났습니다;
+	}
+
+[The map is {name}]
+	{
+	ko=맵: {name};
+	}
+
+[There are no saved games to choose from]
+	{
+	ko=선택할 수 있는 저장된 게임이 없습니다;
+	}
+
+[Whisper from {name}: {text}]
+	{
+	ko={name} 님의 귓속말: {text};
+	}
+
+[{count} new lines in {room}]
+	{
+	ko={room}에 새 채팅 {count}줄;
+	}
+
+[{name} changed colour to {colour}]
+	{
+	ko={name} 님이 색상을 변경했습니다: {colour};
+	}
+
+[{name} changed side to {side}]
+	{
+	ko={name} 님이 진영을 변경했습니다: {side};
+	}
+
+[{name} changed team to {team}]
+	{
+	ko={name} 님이 팀을 변경했습니다: {team};
+	}
+
+[{name} is not ready]
+	{
+	ko={name} 님 준비 안 됨;
+	}
+
+[{name} is ready]
+	{
+	ko={name} 님 준비 완료;
+	}
+
+[{name} joined]
+	{
+	ko={name} 님이 참가했습니다;
+	}
+
+[{name} left]
+	{
+	ko={name} 님이 떠났습니다;
+	}
+
+[battle room]
+	{
+	ko=대기실;
+	}
+
+[match]
+	{
+	ko=경기;
+	}
+
+// Entering the Boneyards: the questions and notices of the entry.
+
+[The Boneyards]
+	{
+	ko=Boneyards;
+	}
+
+[Open Annihilation {version} is out. The Boneyards needs the latest version.]
+	{
+	ko=Open Annihilation {version} 출시됨. Boneyards에는 최신 버전이 필요합니다.;
+	}
+
+[Open Annihilation could not check for updates.]
+	{
+	ko=Open Annihilation이 업데이트를 확인하지 못했습니다.;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks and the content catalogue. Turn them on and continue?]
+	{
+	ko=Boneyards에는 Open Annihilation의 온라인 기능이 필요합니다: 업데이트 확인과 콘텐츠 목록. 켜고 계속하시겠습니까?;
+	}
+
+[The Boneyards needs Open Annihilation's online features: update checks, the content catalogue and {registry}'s install ID. Turn them on and continue?]
+	{
+	ko=Boneyards에는 Open Annihilation의 온라인 기능이 필요합니다: 업데이트 확인, 콘텐츠 목록, {registry}의 설치 ID. 켜고 계속하시겠습니까?;
+	}
+
+[The Boneyards needs {registry}'s install ID turned on. Turn it on and continue?]
+	{
+	ko=Boneyards에는 {registry}의 설치 ID가 켜져 있어야 합니다. 켜고 계속하시겠습니까?;
+	}
+
+[The Boneyards needs by.ccx and the Boneyards folder.]
+	{
+	ko=Boneyards에는 by.ccx 파일과 Boneyards 폴더가 필요합니다.;
+	}
+
+[The Boneyards is installed. Start Open Annihilation again to enter the Boneyards.]
+	{
+	ko=Boneyards 설치 완료. 입장하려면 Open Annihilation을 다시 시작하세요.;
+	}
+
+[The Boneyards launches and reports games only on 3.1c, Core Contingency and Battle Tactics. Switch your mod off to play in the Boneyards.]
+	{
+	ko=Boneyards 게임은 3.1c, Core Contingency, Battle Tactics에서만 시작되고 결과가 보고됩니다. Boneyards에서 플레이하려면 모드를 끄세요.;
+	}
+
+[The Boneyards plays Total Annihilation without mods. Switch {mod} off and enter the Boneyards?]
+	{
+	ko=Boneyards에서는 모드 없이 Total Annihilation을 플레이합니다. {mod} 모드를 끄고 Boneyards에 입장하시겠습니까?;
+	}
+
+[Start Open Annihilation without the mod on its command line to enter the Boneyards.]
+	{
+	ko=Boneyards에 입장하려면 명령줄에 모드를 지정하지 않고 Open Annihilation을 시작하세요.;
+	}
+
+[Switch off and enter]
+	{
+	ko=끄고 입장;
+	}
+
+[Switch on]
+	{
+	ko=켜기;
+	}
+
+[Turn on]
+	{
+	ko=켜기;
+	}
+
+[Switch {mod} back on?]
+	{
+	ko={mod} 모드를 다시 켜시겠습니까?;
+	}
+
+[Drag to reorder]
+	{
+	ko=드래그하여 순서 변경;
+	}
+
+// The replay delete question, and the question for a stray game archive.
+
+[Delete this replay?]
+	{
+	ko=이 리플레이를 삭제하시겠습니까?;
+	}
+
+[Delete these {count} replays?]
+	{
+	ko=리플레이 {count}개를 삭제하시겠습니까?;
+	}
+
+[Delete replays]
+	{
+	ko=리플레이 삭제;
+	}
+
+[It goes to the system's trash.]
+	{
+	ko=시스템 휴지통으로 이동합니다.;
+	}
+
+[They go to the system's trash.]
+	{
+	ko=시스템 휴지통으로 이동합니다.;
+	}
+
+[It is deleted and cannot be undone. This system has no trash.]
+	{
+	ko=삭제하면 되돌릴 수 없습니다. 이 시스템에는 휴지통이 없습니다.;
+	}
+
+[They are deleted and cannot be undone. This system has no trash.]
+	{
+	ko=삭제하면 되돌릴 수 없습니다. 이 시스템에는 휴지통이 없습니다.;
+	}
+
+[Move {file} to the trash?]
+	{
+	ko={file} 파일을 휴지통으로 옮기시겠습니까?;
+	}
+
+[Delete {file}? This system has no trash.]
+	{
+	ko={file} 파일을 삭제하시겠습니까? 이 시스템에는 휴지통이 없습니다.;
+	}
+
+[Move to Trash]
+	{
+	ko=휴지통으로 이동;
+	}
+
+[Remove…]
+	{
+	ko=제거…;
+	}
+
+[Repair…]
+	{
+	ko=복구…;
+	}
+
+// Game Content's rows for archives that are not a game's own files.
+
+[{file} in {folder}, {size} bytes, is not a file of {bundle}. The game does not read it.]
+	{
+	ko={folder}의 {file}, {size}바이트는 {bundle}에 속한 파일이 아닙니다. 게임은 이 파일을 읽지 않습니다.;
+	}
+
+[{file} is not one of its files]
+	{
+	ko=목록에 없는 파일: {file};
+	}
+
+[{count} archives are not its files]
+	{
+	ko=목록에 없는 아카이브 {count}개;
+	}
+
+// The Boneyards' refusals when the game files are not Total Annihilation's own.
+
+[{file} in {folder} does not match Total Annihilation's, so the Boneyards cannot be entered. Copy the game again from your own install or CD to enter.]
+	{
+	ko={folder}의 {file} 파일이 Total Annihilation의 파일과 달라 Boneyards에 입장할 수 없습니다. 입장하려면 직접 설치한 게임이나 CD에서 게임을 다시 복사하세요.;
+	}
+
+[{file} in {folder} does not match Total Annihilation's. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	ko={folder}의 {file} 파일이 Total Annihilation의 파일과 다릅니다. Boneyards에서는 Open Annihilation 자체 게임 복사본으로만 플레이할 수 있습니다. 입장하려면 직접 설치한 게임이나 CD에서 복사하세요.;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files, so the Boneyards cannot be entered. Remove it to enter.]
+	{
+	ko={folder}의 {file} 파일은 Total Annihilation의 파일이 아니므로 Boneyards에 입장할 수 없습니다. 입장하려면 이 파일을 제거하세요.;
+	}
+
+[{file} in {folder} is not one of Total Annihilation's files. The Boneyards plays only Open Annihilation's own copy of the game: copy it from your own install or CD to enter.]
+	{
+	ko={folder}의 {file} 파일은 Total Annihilation의 파일이 아닙니다. Boneyards에서는 Open Annihilation 자체 게임 복사본으로만 플레이할 수 있습니다. 입장하려면 직접 설치한 게임이나 CD에서 복사하세요.;
+	}
+
+[{file} in {folder} is not Total Annihilation's own. The Boneyards launches and reports games only on Total Annihilation's own files. Leave the Boneyards and repair it in Settings › Game Content.]
+	{
+	ko={folder}의 {file} 파일은 Total Annihilation 고유의 파일이 아닙니다. Boneyards 게임은 Total Annihilation 고유의 파일에서만 시작되고 결과가 보고됩니다. Boneyards에서 나간 뒤 설정 › 게임 콘텐츠에서 복구하세요.;
+	}
+
+// The battle room's lines about game files and units that differ between
+// machines.
+
+[*** Your game files differ from Total Annihilation's, so this battle cannot start. Leave it and repair them in Settings › Game Content.]
+	{
+	ko=*** 내 게임 파일이 Total Annihilation의 파일과 달라 이 전투를 시작할 수 없습니다. 전투에서 나간 뒤 설정 › 게임 콘텐츠에서 복구하세요.;
+	}
+
+[*** {player}'s game files differ from Total Annihilation's; they must repair them before this battle can start.]
+	{
+	ko=*** {player} 님의 게임 파일이 Total Annihilation의 파일과 달라 이 전투를 시작할 수 없습니다. 먼저 복구해야 합니다.;
+	}
+
+[*** {units} differs on {player}'s machine and can't be built in this battle.]
+	{
+	ko=*** {player} 님의 컴퓨터와 달라 이 전투에서 건설할 수 없는 유닛: {units};
+	}
+
+[*** {units} differ on {player}'s machine and can't be built in this battle.]
+	{
+	ko=*** {player} 님의 컴퓨터와 달라 이 전투에서 건설할 수 없는 유닛: {units};
+	}
+
+[*** {units} differs between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	ko=*** {first} 님과 {second} 님의 컴퓨터가 서로 달라 이 전투에서 건설할 수 없는 유닛: {units};
+	}
+
+[*** {units} differ between {first}'s and {second}'s machines and can't be built in this battle.]
+	{
+	ko=*** {first} 님과 {second} 님의 컴퓨터가 서로 달라 이 전투에서 건설할 수 없는 유닛: {units};
+	}
+
+[*** {units} differs between {count} players' machines and can't be built in this battle.]
+	{
+	ko=*** 플레이어 {count}명의 컴퓨터가 서로 달라 이 전투에서 건설할 수 없는 유닛: {units};
+	}
+
+[*** {units} differ between {count} players' machines and can't be built in this battle.]
+	{
+	ko=*** 플레이어 {count}명의 컴퓨터가 서로 달라 이 전투에서 건설할 수 없는 유닛: {units};
+	}
+
+[1 other unit]
+	{
+	ko=그 외 유닛 1개;
+	}
+
+[{count} other units]
+	{
+	ko=그 외 유닛 {count}개;
+	}
+
+[{list} and {last}]
+	{
+	ko={list} 및 {last};
+	}
+
+[a player who left]
+	{
+	ko=떠난 플레이어;
+	}
+
+[*** Press START again to start anyway. Those units stay unavailable in this battle.]
+	{
+	ko=*** 그래도 시작하려면 ‘시작’을 다시 누르세요. 해당 유닛은 이 전투에서 사용할 수 없는 상태로 남습니다.;
 	}
 
